@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/china-revela-clon-cohete-starship-spacex-astronautas-luna-1416736'>China revela su clon del cohete Starship de SpaceX, para llevar astronautas a la Luna </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/china-revela-clon-cohete-starship-spacex-astronautas-luna-1416736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/china-revela-clon-starship-spacex-llevar-astronautas-luna-4257972.jpg?tf=1200x' alt='China revela su clon del cohete Starship de SpaceX, para llevar astronautas a la Luna ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/vivo-horno-ni-microondas-pero-no-me-hacen-falta-gracias-gran-cantidad-modos-freidora-aire-cosori-1412622'>Vivo sin horno ni microondas, pero no me hacen falta, gracias a la gran cantidad de modos de esta freidora de aire Cosori</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/vivo-horno-ni-microondas-pero-no-me-hacen-falta-gracias-gran-cantidad-modos-freidora-aire-cosori-1412622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/freidora-aire-cosori-dual-blaz-twinfry-chef-edition-10-litros-4250755.jpg?tf=1200x' alt='Vivo sin horno ni microondas, pero no me hacen falta, gracias a la gran cantidad de modos de esta freidora de aire Cosori' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/asus-sigue-demostrando-zenbook-s-16-portatil-puede-ser-ligero-delgado-resistente-1415377'>Asus sigue demostrando con el Zenbook S 16 que un portátil puede ser ligero, delgado y resistente</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/asus-sigue-demostrando-zenbook-s-16-portatil-puede-ser-ligero-delgado-resistente-1415377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/asus-zenbook-s-16-4256286.jpg?tf=1200x' alt='Asus sigue demostrando con el Zenbook S 16 que un portátil puede ser ligero, delgado y resistente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/mitos-ubicacion-router-wifi-casa-debes-dejar-creer-1416365'>Mitos sobre la ubicación del router WiFi en casa que debes dejar de creer</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/mitos-ubicacion-router-wifi-casa-debes-dejar-creer-1416365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mitos-ubicacion-router-wifi-casa-debes-dejar-creer-4257406.jpg?tf=1200x' alt='Mitos sobre la ubicación del router WiFi en casa que debes dejar de creer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/trucos-rapidos-acelerar-navegacion-google-chrome-no-son-todo-mundo-sabe-1416394'>Trucos rápidos para acelerar la navegación en Google Chrome (que no son los que todo el mundo sabe)</a></h4>
     <a href='https://computerhoy.20minutos.es/google/trucos-rapidos-acelerar-navegacion-google-chrome-no-son-todo-mundo-sabe-1416394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/trucos-rapidos-acelerar-navegacion-google-chrome-no-son-todo-mundo-sabe-4257430.jpg?tf=1200x' alt='Trucos rápidos para acelerar la navegación en Google Chrome (que no son los que todo el mundo sabe)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-llaman-loco-enviar-chatgpt-foto-mi-nevera-cada-noche-tambien-deberias-hacerlo-1416404'>Me llaman loco por enviar a ChatGPT una foto de mi nevera cada noche (tú también deberías hacerlo)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/me-llaman-loco-enviar-chatgpt-foto-mi-nevera-cada-noche-tambien-deberias-hacerlo-1416404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/me-llaman-loco-enviar-chatgpt-foto-mi-nevera-cada-noche-tambien-deberias-hacerlo-4257442.jpg?tf=1200x' alt='Me llaman loco por enviar a ChatGPT una foto de mi nevera cada noche (tú también deberías hacerlo)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/portatil-barato-ryzen-7-1tb-ssd-windows-11-1407499'>No hay mejor portátil barato: tiene Windows 11, 1TB de SSD y Ryzen 7 por menos de 500 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/portatil-barato-ryzen-7-1tb-ssd-windows-11-1407499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/alurin-flex-advance-4242565.jpg?tf=1200x' alt='No hay mejor portátil barato: tiene Windows 11, 1TB de SSD y Ryzen 7 por menos de 500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recibir-whatsapp-incidencias-retrasos-trenes-cercanias-madrid-1416408'>Cómo recibir por WhatsApp las incidencias y retrasos de los trenes de Cercanías de Madrid</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-recibir-whatsapp-incidencias-retrasos-trenes-cercanias-madrid-1416408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-recibir-whatsapp-incidencias-retrasos-trenes-cercanias-madrid-4257448.jpg?tf=1200x' alt='Cómo recibir por WhatsApp las incidencias y retrasos de los trenes de Cercanías de Madrid' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/lignosat-primer-satelite-madera-historia-ya-espacio-1416710'>LignoSat, el primer satélite de madera de la historia, ya está en el espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/lignosat-primer-satelite-madera-historia-ya-espacio-1416710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/adios-basura-espacial-japon-anuncia-lanzamiento-satelite-madera-3050274.jpg?tf=1200x' alt='LignoSat, el primer satélite de madera de la historia, ya está en el espacio' />
     </a>
 </div>
 
