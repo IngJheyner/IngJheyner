@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-final-estas-son-razones-nunca-actualizare-windows-11-1416294'>Windows 10 hasta el final: estas son mis razones por las que nunca actualizaré a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-final-estas-son-razones-nunca-actualizare-windows-11-1416294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-10-final-estas-son-razones-nunca-actualizare-windows-11-4257283.jpg?tf=1200x' alt='Windows 10 hasta el final: estas son mis razones por las que nunca actualizaré a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-android-1416123'>Cómo hacer una copia de seguridad de WhatsApp en Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-android-1416123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copia-seguridad-whatsapp-4257042.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de WhatsApp en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-1415595'>Megalópolis, de Francis Ford Coppola, ha sido el fracaso del año, pero un mítico director ha salido en su defensa: “Es una escena sorprendente tras otra”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-1415595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-4256039.jpg?tf=1200x' alt='Megalópolis, de Francis Ford Coppola, ha sido el fracaso del año, pero un mítico director ha salido en su defensa: “Es una escena sorprendente tras otra”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/cosas-utilizo-google-maps-alla-ir-lugar-otro-1416720'>Cosas para las que utilizo Google Maps más allá de ir de un lugar a otro</a></h4>
     <a href='https://computerhoy.20minutos.es/google/cosas-utilizo-google-maps-alla-ir-lugar-otro-1416720' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cosas-utilizo-google-maps-alla-ir-lugar-otro-4257965.jpg?tf=1200x' alt='Cosas para las que utilizo Google Maps más allá de ir de un lugar a otro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima consola de Nintendo será compatible con los juegos actuales de Switch</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima consola de Nintendo será compatible con los juegos actuales de Switch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-1416856'>Crea sus propias gafas de realidad aumentada caseras utilizando una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-1416856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-4258332.jpg?tf=1200x' alt='Crea sus propias gafas de realidad aumentada caseras utilizando una Raspberry Pi' />
     </a>
 </div>
 
