@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-1415595'>Megalópolis, de Francis Ford Coppola, ha sido el fracaso del año, pero un mítico director ha salido en su defensa: “Es una escena sorprendente tras otra”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-1415595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-4256039.jpg?tf=1200x' alt='Megalópolis, de Francis Ford Coppola, ha sido el fracaso del año, pero un mítico director ha salido en su defensa: “Es una escena sorprendente tras otra”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-1416449'>M. Night Shyamalan, el director de El sexto sentido y La trampa, también tuvo su olvidada película de pandemias, y ahora puedes verla en Disney+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-1416449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-4257486.jpg?tf=1200x' alt='M. Night Shyamalan, el director de El sexto sentido y La trampa, también tuvo su olvidada película de pandemias, y ahora puedes verla en Disney+' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-1416856'>Crea sus propias gafas de realidad aumentada caseras utilizando una Raspberry Pi</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-1416856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-4258332.jpg?tf=1200x' alt='Crea sus propias gafas de realidad aumentada caseras utilizando una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-1416880'>Esta serie de Netflix de ciencia ficción tiene una puntuación perfecta, pero casi nadie la conoce: es una joya oculta de su catálogo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-1416880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-4258285.jpg?tf=1200x' alt='Esta serie de Netflix de ciencia ficción tiene una puntuación perfecta, pero casi nadie la conoce: es una joya oculta de su catálogo' />
     </a>
 </div>
 
