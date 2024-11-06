@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima Nintendo Switch 2 será compatible con los juegos de la consola original</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima Nintendo Switch 2 será compatible con los juegos de la consola original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/descubre-poder-62-sencillo-codigo-podras-mejorar-seguridad-telefono-movil-1416822'>Descubre el poder de #62#: con este sencillo código podrás mejorar la seguridad de tu teléfono móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/descubre-poder-62-sencillo-codigo-podras-mejorar-seguridad-telefono-movil-1416822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/descubre-poder-62-como-sencillo-codigo-podras-mejorar-seguridad-movil-4258153.jpg?tf=1200x' alt='Descubre el poder de #62#: con este sencillo código podrás mejorar la seguridad de tu teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780'>España está construyendo su primer parque solar super automatizado con robots</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/espana-construyendo-primer-parque-solar-super-automatizado-robots-4258084.jpg?tf=1200x' alt='España está construyendo su primer parque solar super automatizado con robots' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-seguridad-nvidia-lanza-actualizacion-esencial-tarjetas-graficas-fallos-criticos-1416770'>Alerta de seguridad: Nvidia lanza actualización esencial para tarjetas gráficas ante fallos críticos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-seguridad-nvidia-lanza-actualizacion-esencial-tarjetas-graficas-fallos-criticos-1416770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Alerta de seguridad: Nvidia lanza actualización esencial para tarjetas gráficas ante fallos críticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nuevo-descubrimiento-abre-camino-generacion-energia-partir-calor-corporal-1416785'>Un nuevo descubrimiento abre el camino a la generación de energía a partir del calor corporal </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nuevo-descubrimiento-abre-camino-generacion-energia-partir-calor-corporal-1416785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-calor-corporal-4258121.jpg?tf=1200x' alt='Un nuevo descubrimiento abre el camino a la generación de energía a partir del calor corporal ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-te-regala-2-meses-gratis-youtube-premium-haces-1416766'>Google te regala 2 meses gratis de Youtube Premium si haces esto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-te-regala-2-meses-gratis-youtube-premium-haces-1416766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-premium-4258051.jpg?tf=1200x' alt='Google te regala 2 meses gratis de Youtube Premium si haces esto' />
     </a>
 </div>
 
