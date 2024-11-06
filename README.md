@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-razon-ano-2040-podria-haber-robots-humanos-1416765'>Esta es la sorprendente razón por la que en el año 2040 podría haber más robots que humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-razon-ano-2040-podria-haber-robots-humanos-1416765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sorprendente-razon-ano-2040-podria-haber-robots-humanos-4258027.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que en el año 2040 podría haber más robots que humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima Nintendo Switch 2 será compatible con los juegos de la consola original</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima Nintendo Switch 2 será compatible con los juegos de la consola original' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/google-pixel-9-no-espera-black-friday-tiene-ya-100-euros-descuento-1416778'>El Google Pixel 9 no espera al Black Friday: tiene ya más de 100 euros de descuento</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-pixel-9-no-espera-black-friday-tiene-ya-100-euros-descuento-1416778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-pixel-9-4258068.jpg?tf=1200x' alt='El Google Pixel 9 no espera al Black Friday: tiene ya más de 100 euros de descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-seguridad-nvidia-lanza-actualizacion-esencial-tarjetas-graficas-fallos-criticos-1416770'>Alerta de seguridad: Nvidia lanza actualización esencial para tarjetas gráficas ante fallos críticos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-seguridad-nvidia-lanza-actualizacion-esencial-tarjetas-graficas-fallos-criticos-1416770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Alerta de seguridad: Nvidia lanza actualización esencial para tarjetas gráficas ante fallos críticos' />
     </a>
 </div>
 
