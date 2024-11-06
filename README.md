@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima consola de Nintendo será compatible con los juegos actuales de Switch</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima consola de Nintendo será compatible con los juegos actuales de Switch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-1416856'>Crea sus propias gafas de realidad aumentada caseras utilizando una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-1416856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/crea-propias-gafas-realidad-aumentada-caseras-utilizando-raspberry-pi-4258332.jpg?tf=1200x' alt='Crea sus propias gafas de realidad aumentada caseras utilizando una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-1416880'>Esta serie de Netflix de ciencia ficción tiene una puntuación perfecta, pero casi nadie la conoce: es una joya oculta de su catálogo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-1416880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-4258285.jpg?tf=1200x' alt='Esta serie de Netflix de ciencia ficción tiene una puntuación perfecta, pero casi nadie la conoce: es una joya oculta de su catálogo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-1416801'>Conoce la nueva función de iOS 18.2 que podría extender la vida útil de la batería de tu iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-1416801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-4258120.jpg?tf=1200x' alt='Conoce la nueva función de iOS 18.2 que podría extender la vida útil de la batería de tu iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-te-permite-saber-vives-zona-inundable-espana-1416723'>El Google Maps que te permite saber si vives en una zona inundable en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-te-permite-saber-vives-zona-inundable-espana-1416723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-te-permite-saber-vives-zona-inundable-espana-4257967.jpg?tf=1200x' alt='El Google Maps que te permite saber si vives en una zona inundable en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/revela-estufas-gas-podrian-robarte-anos-vida-segura-1416837'>Se revela que las estufas de gas podrían robarte años de vida: ¿es segura la tuya?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/revela-estufas-gas-podrian-robarte-anos-vida-segura-1416837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estufa-gas-4258229.jpg?tf=1200x' alt='Se revela que las estufas de gas podrían robarte años de vida: ¿es segura la tuya?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-razon-ano-2040-podria-haber-robots-humanos-1416765'>Esta es la sorprendente razón por la que en el año 2040 podría haber más robots que humanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-razon-ano-2040-podria-haber-robots-humanos-1416765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sorprendente-razon-ano-2040-podria-haber-robots-humanos-4258027.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que en el año 2040 podría haber más robots que humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima Nintendo Switch 2 será compatible con los juegos de la consola original</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima Nintendo Switch 2 será compatible con los juegos de la consola original' />
     </a>
 </div>
 
