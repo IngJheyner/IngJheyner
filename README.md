@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/trucos-rapidos-acelerar-navegacion-google-chrome-no-son-todo-mundo-sabe-1416394'>Trucos rápidos para acelerar la navegación en Google Chrome (que no son los que todo el mundo sabe)</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/trucos-rapidos-acelerar-navegacion-google-chrome-no-son-todo-mundo-sabe-1416394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/trucos-rapidos-acelerar-navegacion-google-chrome-no-son-todo-mundo-sabe-4257430.jpg?tf=1200x' alt='Trucos rápidos para acelerar la navegación en Google Chrome (que no son los que todo el mundo sabe)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-llaman-loco-enviar-chatgpt-foto-mi-nevera-cada-noche-tambien-deberias-hacerlo-1416404'>Me llaman loco por enviar a ChatGPT una foto de mi nevera cada noche (tú también deberías hacerlo)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/me-llaman-loco-enviar-chatgpt-foto-mi-nevera-cada-noche-tambien-deberias-hacerlo-1416404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/me-llaman-loco-enviar-chatgpt-foto-mi-nevera-cada-noche-tambien-deberias-hacerlo-4257442.jpg?tf=1200x' alt='Me llaman loco por enviar a ChatGPT una foto de mi nevera cada noche (tú también deberías hacerlo)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/lignosat-primer-satelite-madera-historia-ya-espacio-1416710'>LignoSat, el primer satélite de madera de la historia, ya está en el espacio</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/lignosat-primer-satelite-madera-historia-ya-espacio-1416710' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/adios-basura-espacial-japon-anuncia-lanzamiento-satelite-madera-3050274.jpg?tf=1200x' alt='LignoSat, el primer satélite de madera de la historia, ya está en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/primera-vez-historia-monte-fuji-no-tiene-nieve-noviembre-1416695'>Por primera vez en la historia, el Monte Fuji no tiene nieve en noviembre</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/primera-vez-historia-monte-fuji-no-tiene-nieve-noviembre-1416695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/primera-vez-historia-monte-fuji-no-tiene-nieve-noviembre-4257916.jpg?tf=1200x' alt='Por primera vez en la historia, el Monte Fuji no tiene nieve en noviembre' />
     </a>
 </div>
 
