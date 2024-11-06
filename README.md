@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-1416801'>Conoce la nueva función de iOS 18.2 que podría extender la vida útil de la batería de tu iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-1416801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-4258120.jpg?tf=1200x' alt='Conoce la nueva función de iOS 18.2 que podría extender la vida útil de la batería de tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-te-permite-saber-vives-zona-inundable-espana-1416723'>El Google Maps que te permite saber si vives en una zona inundable en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-te-permite-saber-vives-zona-inundable-espana-1416723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-te-permite-saber-vives-zona-inundable-espana-4257967.jpg?tf=1200x' alt='El Google Maps que te permite saber si vives en una zona inundable en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/revela-estufas-gas-podrian-robarte-anos-vida-segura-1416837'>Se revela que las estufas de gas podrían robarte años de vida: ¿es segura la tuya?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/revela-estufas-gas-podrian-robarte-anos-vida-segura-1416837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estufa-gas-4258229.jpg?tf=1200x' alt='Se revela que las estufas de gas podrían robarte años de vida: ¿es segura la tuya?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima Nintendo Switch 2 será compatible con los juegos de la consola original</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima Nintendo Switch 2 será compatible con los juegos de la consola original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/descubre-poder-62-sencillo-codigo-podras-mejorar-seguridad-telefono-movil-1416822'>Descubre el poder de #62#: con este sencillo código podrás mejorar la seguridad de tu teléfono móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/descubre-poder-62-sencillo-codigo-podras-mejorar-seguridad-telefono-movil-1416822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/descubre-poder-62-como-sencillo-codigo-podras-mejorar-seguridad-movil-4258153.jpg?tf=1200x' alt='Descubre el poder de #62#: con este sencillo código podrás mejorar la seguridad de tu teléfono móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780'>España está construyendo su primer parque solar super automatizado con robots</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/espana-construyendo-primer-parque-solar-super-automatizado-robots-4258084.jpg?tf=1200x' alt='España está construyendo su primer parque solar super automatizado con robots' />
     </a>
 </div>
 
