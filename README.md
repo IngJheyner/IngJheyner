@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-sorprende-todos-dar-opinion-joker-2-no-fue-ejercicio-intelectual-1415373'>Quentin Tarantino sorprende a todos al dar su opinión de Joker 2: "No fue un ejercicio intelectual"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-sorprende-todos-dar-opinion-joker-2-no-fue-ejercicio-intelectual-1415373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4250110.jpg?tf=1200x' alt='Quentin Tarantino sorprende a todos al dar su opinión de Joker 2: "No fue un ejercicio intelectual"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/como-hacer-test-velocidad-alexa-1417004'>Como hacer un test de velocidad con Alexa y sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/como-hacer-test-velocidad-alexa-1417004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/echo-dot-5a-generacion-2875349.jpg?tf=1200x' alt='Como hacer un test de velocidad con Alexa y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-despues-gladiator-ii-ya-piensa-volver-otra-series-emblematicas-1416919'>Ridley Scott no para: después de Gladiator II ya piensa en volver a otra de sus series más emblemáticas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-despues-gladiator-ii-ya-piensa-volver-otra-series-emblematicas-1416919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-hizo-alien-romulus-3913618.jpg?tf=1200x' alt='Ridley Scott no para: después de Gladiator II ya piensa en volver a otra de sus series más emblemáticas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ya-puedes-grabar-partidas-mientras-juegas-steam-1416985'>Ya puedes grabar tus partidas mientras juegas en Steam: así funciona</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ya-puedes-grabar-partidas-mientras-juegas-steam-1416985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-grabar-partidas-mientras-juegas-steam-funciona-4258452.jpg?tf=1200x' alt='Ya puedes grabar tus partidas mientras juegas en Steam: así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nueva-caracteristica-whatsapp-ya-nadie-te-enganara-imagenes-enviadas-1416983'>Con esta nueva característica para WhatsApp ya nadie te engañará con las imágenes enviadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nueva-caracteristica-whatsapp-ya-nadie-te-enganara-imagenes-enviadas-1416983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-whatsapp-4258465.jpg?tf=1200x' alt='Con esta nueva característica para WhatsApp ya nadie te engañará con las imágenes enviadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/molesto-fallo-android-auto-afecta-llamadas-telefonicas-tienes-marca-telefono-1416982'>El molesto fallo de Android Auto que afecta a las llamadas telefónicas si tienes esta marca de teléfono</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/molesto-fallo-android-auto-afecta-llamadas-telefonicas-tienes-marca-telefono-1416982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='El molesto fallo de Android Auto que afecta a las llamadas telefónicas si tienes esta marca de teléfono' />
     </a>
 </div>
 
