@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/china-revela-clon-cohete-starship-spacex-astronautas-luna-1416736'>China revela su clon del cohete Starship de SpaceX, para llevar astronautas a la Luna </a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/espacio/china-revela-clon-cohete-starship-spacex-astronautas-luna-1416736'>China revela su clon del cohete Starship de SpaceX, para llevar astronautas a la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/china-revela-clon-cohete-starship-spacex-astronautas-luna-1416736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/china-revela-clon-starship-spacex-llevar-astronautas-luna-4257972.jpg?tf=1200x' alt='China revela su clon del cohete Starship de SpaceX, para llevar astronautas a la Luna ' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/china-revela-clon-starship-spacex-llevar-astronautas-luna-4257972.jpg?tf=1200x' alt='China revela su clon del cohete Starship de SpaceX, para llevar astronautas a la Luna' />
     </a>
 </div>
 
