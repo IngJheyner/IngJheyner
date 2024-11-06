@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-1416449'>M. Night Shyamalan, el director de El sexto sentido y La trampa, también tuvo su olvidada película de pandemias, y ahora puedes verla en Disney+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-1416449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-4257486.jpg?tf=1200x' alt='M. Night Shyamalan, el director de El sexto sentido y La trampa, también tuvo su olvidada película de pandemias, y ahora puedes verla en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/cosas-utilizo-google-maps-alla-ir-lugar-otro-1416720'>Cosas para las que utilizo Google Maps más allá de ir de un lugar a otro</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/cosas-utilizo-google-maps-alla-ir-lugar-otro-1416720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cosas-utilizo-google-maps-alla-ir-lugar-otro-4257965.jpg?tf=1200x' alt='Cosas para las que utilizo Google Maps más allá de ir de un lugar a otro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849'>La próxima consola de Nintendo será compatible con los juegos actuales de Switch</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-1416849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/proxima-consola-nintendo-sera-compatible-juegos-actuales-switch-4258197.jpg?tf=1200x' alt='La próxima consola de Nintendo será compatible con los juegos actuales de Switch' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-1416880'>Esta serie de Netflix de ciencia ficción tiene una puntuación perfecta, pero casi nadie la conoce: es una joya oculta de su catálogo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-1416880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-netflix-ciencia-ficcion-tiene-puntuacion-perfecta-pero-casi-nadie-conoce-joya-oculta-catalogo-4258285.jpg?tf=1200x' alt='Esta serie de Netflix de ciencia ficción tiene una puntuación perfecta, pero casi nadie la conoce: es una joya oculta de su catálogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-1416801'>Conoce la nueva función de iOS 18.2 que podría extender la vida útil de la batería de tu iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-1416801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conoce-nueva-funcion-ios-182-podria-extender-vida-util-bateria-iphone-4258120.jpg?tf=1200x' alt='Conoce la nueva función de iOS 18.2 que podría extender la vida útil de la batería de tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-te-permite-saber-vives-zona-inundable-espana-1416723'>El Google Maps que te permite saber si vives en una zona inundable en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-te-permite-saber-vives-zona-inundable-espana-1416723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-te-permite-saber-vives-zona-inundable-espana-4257967.jpg?tf=1200x' alt='El Google Maps que te permite saber si vives en una zona inundable en España' />
     </a>
 </div>
 
