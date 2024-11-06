@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-despues-gladiator-ii-ya-piensa-volver-otra-series-emblematicas-1416919'>Ridley Scott no para: después de Gladiator II ya piensa en volver a otra de sus series más emblemáticas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-despues-gladiator-ii-ya-piensa-volver-otra-series-emblematicas-1416919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-hizo-alien-romulus-3913618.jpg?tf=1200x' alt='Ridley Scott no para: después de Gladiator II ya piensa en volver a otra de sus series más emblemáticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986'>Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ataque-ransomware-baguette-4258466.jpg?tf=1200x' alt='Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/molesto-fallo-android-auto-afecta-llamadas-telefonicas-tienes-marca-telefono-1416982'>El molesto fallo de Android Auto que afecta a las llamadas telefónicas si tienes esta marca de teléfono</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/molesto-fallo-android-auto-afecta-llamadas-telefonicas-tienes-marca-telefono-1416982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='El molesto fallo de Android Auto que afecta a las llamadas telefónicas si tienes esta marca de teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-podria-desaparecer-dar-paso-windows-intelligence-nueva-ia-microsoft-1416934'>Copilot podría desaparecer para dar paso a Windows Intelligence, la nueva IA de Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-podria-desaparecer-dar-paso-windows-intelligence-nueva-ia-microsoft-1416934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-podria-desaparecer-dar-paso-windows-intelligence-nueva-ia-microsoft-4258439.jpg?tf=1200x' alt='Copilot podría desaparecer para dar paso a Windows Intelligence, la nueva IA de Microsoft' />
     </a>
 </div>
 
