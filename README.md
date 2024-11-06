@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/revela-estufas-gas-podrian-robarte-anos-vida-segura-1416837'>Se revela que las estufas de gas podrían robarte años de vida: ¿es segura la tuya?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/revela-estufas-gas-podrian-robarte-anos-vida-segura-1416837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estufa-gas-4258229.jpg?tf=1200x' alt='Se revela que las estufas de gas podrían robarte años de vida: ¿es segura la tuya?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-razon-ano-2040-podria-haber-robots-humanos-1416765'>Esta es la sorprendente razón por la que en el año 2040 podría haber más robots que humanos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-razon-ano-2040-podria-haber-robots-humanos-1416765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sorprendente-razon-ano-2040-podria-haber-robots-humanos-4258027.jpg?tf=1200x' alt='Esta es la sorprendente razón por la que en el año 2040 podría haber más robots que humanos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780'>España está construyendo su primer parque solar super automatizado con robots</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/espana-construyendo-primer-parque-solar-super-automatizado-robots-4258084.jpg?tf=1200x' alt='España está construyendo su primer parque solar super automatizado con robots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-pixel-9-no-espera-black-friday-tiene-ya-100-euros-descuento-1416778'>El Google Pixel 9 no espera al Black Friday: tiene ya más de 100 euros de descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-pixel-9-no-espera-black-friday-tiene-ya-100-euros-descuento-1416778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-pixel-9-4258068.jpg?tf=1200x' alt='El Google Pixel 9 no espera al Black Friday: tiene ya más de 100 euros de descuento' />
     </a>
 </div>
 
