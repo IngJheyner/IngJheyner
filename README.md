@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-final-estas-son-razones-nunca-actualizare-windows-11-1416294'>Windows 10 hasta el final: estas son mis razones por las que nunca actualizaré a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-final-estas-son-razones-nunca-actualizare-windows-11-1416294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-10-final-estas-son-razones-nunca-actualizare-windows-11-4257283.jpg?tf=1200x' alt='Windows 10 hasta el final: estas son mis razones por las que nunca actualizaré a Windows 11' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986'>Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ataque-ransomware-baguette-4258466.jpg?tf=1200x' alt='Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-android-1416123'>Cómo hacer una copia de seguridad de WhatsApp en Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-android-1416123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copia-seguridad-whatsapp-4257042.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de WhatsApp en Android' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ya-puedes-grabar-partidas-mientras-juegas-steam-1416985'>Ya puedes grabar tus partidas mientras juegas en Steam: así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ya-puedes-grabar-partidas-mientras-juegas-steam-1416985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-grabar-partidas-mientras-juegas-steam-funciona-4258452.jpg?tf=1200x' alt='Ya puedes grabar tus partidas mientras juegas en Steam: así funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-1415595'>Megalópolis, de Francis Ford Coppola, ha sido el fracaso del año, pero un mítico director ha salido en su defensa: “Es una escena sorprendente tras otra”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-1415595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/megalopolis-francis-ford-coppola-ha-sido-fracaso-ano-pero-mitico-director-ha-salido-defensa-escena-sorprendente-otra-4256039.jpg?tf=1200x' alt='Megalópolis, de Francis Ford Coppola, ha sido el fracaso del año, pero un mítico director ha salido en su defensa: “Es una escena sorprendente tras otra”' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/nueva-caracteristica-whatsapp-ya-nadie-te-enganara-imagenes-enviadas-1416983'>Con esta nueva característica para WhatsApp ya nadie te engañará con las imágenes enviadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nueva-caracteristica-whatsapp-ya-nadie-te-enganara-imagenes-enviadas-1416983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-whatsapp-4258465.jpg?tf=1200x' alt='Con esta nueva característica para WhatsApp ya nadie te engañará con las imágenes enviadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-1416449'>M. Night Shyamalan, el director de El sexto sentido y La trampa, también tuvo su olvidada película de pandemias, y ahora puedes verla en Disney+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-1416449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/m-night-shyamalan-director-sexto-sentido-trampa-tambien-tuvo-olvidada-pelicula-pandemias-ahora-puedes-verla-disney-4257486.jpg?tf=1200x' alt='M. Night Shyamalan, el director de El sexto sentido y La trampa, también tuvo su olvidada película de pandemias, y ahora puedes verla en Disney+' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/molesto-fallo-android-auto-afecta-llamadas-telefonicas-tienes-marca-telefono-1416982'>El molesto fallo de Android Auto que afecta a las llamadas telefónicas si tienes esta marca de teléfono</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/molesto-fallo-android-auto-afecta-llamadas-telefonicas-tienes-marca-telefono-1416982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='El molesto fallo de Android Auto que afecta a las llamadas telefónicas si tienes esta marca de teléfono' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/cosas-utilizo-google-maps-alla-ir-lugar-otro-1416720'>Cosas para las que utilizo Google Maps más allá de ir de un lugar a otro</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/cosas-utilizo-google-maps-alla-ir-lugar-otro-1416720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cosas-utilizo-google-maps-alla-ir-lugar-otro-4257965.jpg?tf=1200x' alt='Cosas para las que utilizo Google Maps más allá de ir de un lugar a otro' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-podria-desaparecer-dar-paso-windows-intelligence-nueva-ia-microsoft-1416934'>Copilot podría desaparecer para dar paso a Windows Intelligence, la nueva IA de Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-podria-desaparecer-dar-paso-windows-intelligence-nueva-ia-microsoft-1416934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-podria-desaparecer-dar-paso-windows-intelligence-nueva-ia-microsoft-4258439.jpg?tf=1200x' alt='Copilot podría desaparecer para dar paso a Windows Intelligence, la nueva IA de Microsoft' />
     </a>
 </div>
 
