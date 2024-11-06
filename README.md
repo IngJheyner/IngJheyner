@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780'>España está construyendo su primer parque solar super automatizado con robots</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/espana-construyendo-primer-parque-solar-super-automatizado-robots-1416780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/espana-construyendo-primer-parque-solar-super-automatizado-robots-4258084.jpg?tf=1200x' alt='España está construyendo su primer parque solar super automatizado con robots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-pixel-9-no-espera-black-friday-tiene-ya-100-euros-descuento-1416778'>El Google Pixel 9 no espera al Black Friday: tiene ya más de 100 euros de descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-pixel-9-no-espera-black-friday-tiene-ya-100-euros-descuento-1416778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-pixel-9-4258068.jpg?tf=1200x' alt='El Google Pixel 9 no espera al Black Friday: tiene ya más de 100 euros de descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-seguridad-nvidia-lanza-actualizacion-esencial-tarjetas-graficas-fallos-criticos-1416770'>Alerta de seguridad: Nvidia lanza actualización esencial para tarjetas gráficas ante fallos críticos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-seguridad-nvidia-lanza-actualizacion-esencial-tarjetas-graficas-fallos-criticos-1416770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nvidia-rtx-tarjetas-graficas-3290695.jpg?tf=1200x' alt='Alerta de seguridad: Nvidia lanza actualización esencial para tarjetas gráficas ante fallos críticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nuevo-descubrimiento-abre-camino-generacion-energia-partir-calor-corporal-1416785'>Un nuevo descubrimiento abre el camino a la generación de energía a partir del calor corporal </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nuevo-descubrimiento-abre-camino-generacion-energia-partir-calor-corporal-1416785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-calor-corporal-4258121.jpg?tf=1200x' alt='Un nuevo descubrimiento abre el camino a la generación de energía a partir del calor corporal ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-te-regala-2-meses-gratis-youtube-premium-haces-1416766'>Google te regala 2 meses gratis de Youtube Premium si haces esto</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-te-regala-2-meses-gratis-youtube-premium-haces-1416766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-premium-4258051.jpg?tf=1200x' alt='Google te regala 2 meses gratis de Youtube Premium si haces esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-sueldos-programadores-espanoles-especialidad-rol-1416758'>Estos son los sueldos de los programadores españoles según la especialidad y rol</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-sueldos-programadores-espanoles-especialidad-rol-1416758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sueldos-programadores-4258038.jpg?tf=1200x' alt='Estos son los sueldos de los programadores españoles según la especialidad y rol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/sorprendentemente-drones-repartidores-amazon-siguen-funcionando-ahora-expanden-1416763'>Sorprendentemente los drones repartidores de Amazon siguen funcionando y ahora se expanden</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/sorprendentemente-drones-repartidores-amazon-siguen-funcionando-ahora-expanden-1416763' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sorprendentemente-drones-repartidores-amazon-siguen-funcionando-ahora-expanden-4258019.jpg?tf=1200x' alt='Sorprendentemente los drones repartidores de Amazon siguen funcionando y ahora se expanden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/amazon-prime-video-te-recordara-paso-pasada-temporada-serie-gracias-ia-1416752'>Amazon Prime Video te recordará qué pasó la pasada temporada de una serie gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/amazon-prime-video-te-recordara-paso-pasada-temporada-serie-gracias-ia-1416752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-prime-video-mostrara-aun-anuncios-series-peliculas-4244887.jpg?tf=1200x' alt='Amazon Prime Video te recordará qué pasó la pasada temporada de una serie gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/poner-cuenco-arroz-dentro-armario-invierno-sirve-algo-1416750'>Poner un cuenco de arroz dentro del armario en invierno, ¿sirve de algo?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/poner-cuenco-arroz-dentro-armario-invierno-sirve-algo-1416750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/poner-cuenco-arroz-dentro-armario-invierno-sirve-algo-4257993.jpg?tf=1200x' alt='Poner un cuenco de arroz dentro del armario en invierno, ¿sirve de algo?' />
     </a>
 </div>
 
