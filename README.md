@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-acaban-descubrir-misterioso-objeto-espacio-profundo-1417094'>Los científicos acaban de descubrir un misterioso objeto en el espacio profundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cientificos-acaban-descubrir-misterioso-objeto-espacio-profundo-1417094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/universo-profundo-4258785.jpg?tf=1200x' alt='Los científicos acaban de descubrir un misterioso objeto en el espacio profundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-1415774'>Si estás en uno de estos grupos de WhatsApp, sal de inmediato: la Policía podría multarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-1415774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-4256481.jpg?tf=1200x' alt='Si estás en uno de estos grupos de WhatsApp, sal de inmediato: la Policía podría multarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010'>COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-4258527.jpg?tf=1200x' alt='COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560'>Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-4257673.jpg?tf=1200x' alt='Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-escenario-descubrimiento-mineral-nunca-antes-visto-1417082'>España, escenario del descubrimiento de un mineral nunca antes visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/espana-escenario-descubrimiento-mineral-nunca-antes-visto-1417082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/minerales-4258659.jpg?tf=1200x' alt='España, escenario del descubrimiento de un mineral nunca antes visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/proximos-apple-watch-podrian-tener-sensores-integrados-propia-correa-1417076'>Los próximos Apple Watch podrían tener sensores integrados en la propia correa</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/proximos-apple-watch-podrian-tener-sensores-integrados-propia-correa-1417076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244581.jpg?tf=1200x' alt='Los próximos Apple Watch podrían tener sensores integrados en la propia correa' />
     </a>
 </div>
 
