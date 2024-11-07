@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-filtro-accidentalmente-inteligencia-artificial-jarvis-todo-sabemos-1417057'>Google filtró accidentalmente su inteligencia artificial Jarvis: esto es todo lo que sabemos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-filtro-accidentalmente-inteligencia-artificial-jarvis-todo-sabemos-1417057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-google-4254351.jpg?tf=1200x' alt='Google filtró accidentalmente su inteligencia artificial Jarvis: esto es todo lo que sabemos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-nuevo-galaxy-ring-mejores-funciones-llegara-antes-pensabamos-1417045'>Samsung prepara un nuevo Galaxy Ring con mejores funciones que llegará antes de lo que pensábamos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-prepara-nuevo-galaxy-ring-mejores-funciones-llegara-antes-pensabamos-1417045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247286.jpg?tf=1200x' alt='Samsung prepara un nuevo Galaxy Ring con mejores funciones que llegará antes de lo que pensábamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicacion-oculta-caras-elimina-datos-fotos-maxima-privacidad-1417040'>Esta aplicación oculta las caras y elimina datos de las fotos para la máxima privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicacion-oculta-caras-elimina-datos-fotos-maxima-privacidad-1417040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-discretion-4258606.jpg?tf=1200x' alt='Esta aplicación oculta las caras y elimina datos de las fotos para la máxima privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968'>ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-4258464.jpg?tf=1200x' alt='ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-1415620'>Esta es la razón por la que los seres humanos se besan, según la ciencia, y no tiene nada que ver con amor o amistad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-1415620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-4256076.jpg?tf=1200x' alt='Esta es la razón por la que los seres humanos se besan, según la ciencia, y no tiene nada que ver con amor o amistad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/me-ha-gustado-sony-linkbuds-fit-son-como-dos-nubes-oidos-1414681'>Lo que más me ha gustado de los Sony LinkBuds Fit es que son como dos nubes en tus oídos</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/me-ha-gustado-sony-linkbuds-fit-son-como-dos-nubes-oidos-1414681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-fit-4254519.jpg?tf=1200x' alt='Lo que más me ha gustado de los Sony LinkBuds Fit es que son como dos nubes en tus oídos' />
     </a>
 </div>
 
