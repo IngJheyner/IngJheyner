@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/australia-va-prohibir-redes-sociales-menores-16-anos-verificacion-edad-1417315'>Australia va a prohibir las redes sociales a los menores de 16 años, con verificación de edad</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/australia-va-prohibir-redes-sociales-menores-16-anos-verificacion-edad-1417315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/australia-prohibe-todas-redes-sociales-menores-16-anos-4259052.jpg?tf=1200x' alt='Australia va a prohibir las redes sociales a los menores de 16 años, con verificación de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302'>Max también anuncia el fin de las cuentas compartidas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahora-hbo-max-max-50-descuento-toda-vida-pierde-todo-valor-3302424.jpg?tf=1200x' alt='Max también anuncia el fin de las cuentas compartidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288'>La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclado-windows-4259015.jpg?tf=1200x' alt='La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inteligencia-artificial-gpt-1417285'>Windows 11 va a tener inteligencia artificial hasta en el Bloc de notas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inteligencia-artificial-gpt-1417285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-va-tener-inteligencia-artificial-bloc-notas-4258978.jpg?tf=1200x' alt='Windows 11 va a tener inteligencia artificial hasta en el Bloc de notas' />
     </a>
 </div>
 
