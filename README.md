@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560'>Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-4257673.jpg?tf=1200x' alt='Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-escenario-descubrimiento-mineral-nunca-antes-visto-1417082'>España, escenario del descubrimiento de un mineral nunca antes visto</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/espana-escenario-descubrimiento-mineral-nunca-antes-visto-1417082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/minerales-4258659.jpg?tf=1200x' alt='España, escenario del descubrimiento de un mineral nunca antes visto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/escribir-resenas-falsas-google-maps-ilegal-dice-ley-1417075'>¿Escribir reseñas falsas en Google Maps es ilegal? Esto dice la ley </a></h4>
     <a href='https://computerhoy.20minutos.es/google/escribir-resenas-falsas-google-maps-ilegal-dice-ley-1417075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-falsas-google-maps-4108705.jpg?tf=1200x' alt='¿Escribir reseñas falsas en Google Maps es ilegal? Esto dice la ley ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/estados-whatsapp-copian-funcion-muy-usada-instagram-1417052'>Los estados de WhatsApp copian una función muy usada a Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/estados-whatsapp-copian-funcion-muy-usada-instagram-1417052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='Los estados de WhatsApp copian una función muy usada a Instagram' />
     </a>
 </div>
 
