@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968'>ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-4258464.jpg?tf=1200x' alt='ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-1415620'>Esta es la razón por la que los seres humanos se besan, según la ciencia, y no tiene nada que ver con amor o amistad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-1415620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-4256076.jpg?tf=1200x' alt='Esta es la razón por la que los seres humanos se besan, según la ciencia, y no tiene nada que ver con amor o amistad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402'>Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-4257437.jpg?tf=1200x' alt='Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/truco-dormir-46-minutos-extra-sentirte-mejor-1417019'>El truco de los 46 minutos extra para sentirte mejor</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/truco-dormir-46-minutos-extra-sentirte-mejor-1417019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-46-minutos-extra-sentirte-mejor-4258536.jpg?tf=1200x' alt='El truco de los 46 minutos extra para sentirte mejor' />
     </a>
 </div>
 
