@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402'>Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-4257437.jpg?tf=1200x' alt='Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/truco-dormir-46-minutos-extra-sentirte-mejor-1417019'>El truco de los 46 minutos extra para sentirte mejor</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/truco-dormir-46-minutos-extra-sentirte-mejor-1417019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-46-minutos-extra-sentirte-mejor-4258536.jpg?tf=1200x' alt='El truco de los 46 minutos extra para sentirte mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/botones-volumen-iphone-estan-repletos-funciones-ocultas-estas-son-10-mejores-1415170'>Los botones de volumen de tu iPhone están repletos de funciones ocultas: estas son las 10 mejores</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/botones-volumen-iphone-estan-repletos-funciones-ocultas-estas-son-10-mejores-1415170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/botones-volumen-iphone-estan-repletos-funciones-ocultas-estas-son-10-mejores-4255340.jpg?tf=1200x' alt='Los botones de volumen de tu iPhone están repletos de funciones ocultas: estas son las 10 mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-desafia-fisica-polemico-motor-espacial-combustible-1416548'>La NASA desafía la física con un polémico motor espacial sin combustible</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-desafia-fisica-polemico-motor-espacial-combustible-1416548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/recreacion-impulso-logra-emdrive-basa-ondas-electromagneticas-4257682.jpg?tf=1200x' alt='La NASA desafía la física con un polémico motor espacial sin combustible' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/firestick-vpn-mas-rapida-rebajada-1406597'>Mi Firestick puede con esta VPN que va a máxima velocidad, y ahora por 2 euros al mes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/firestick-vpn-mas-rapida-rebajada-1406597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-televisor-4240947.jpg?tf=1200x' alt='Mi Firestick puede con esta VPN que va a máxima velocidad, y ahora por 2 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/grafico-muestra-verdadero-poder-cada-idioma-mundo-1416802'>El gráfico que muestra el verdadero poder de cada idioma en el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/grafico-muestra-verdadero-poder-cada-idioma-mundo-1416802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mapa-idiomas-4258172.jpg?tf=1200x' alt='El gráfico que muestra el verdadero poder de cada idioma en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-patenta-boton-rebobinar-1417016'>Sony patenta un botón para rebobinar, cuando te matan en un juego</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/sony-patenta-boton-rebobinar-1417016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sony-patenta-boton-volver-atras-tiempo-cuando-te-matan-juego-4258531.jpg?tf=1200x' alt='Sony patenta un botón para rebobinar, cuando te matan en un juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011'>Nvidia supera a Apple y ya vale más que Google y Meta juntas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-supera-apple-como-compania-valiosa-vale-google-meta-juntas-4258520.jpg?tf=1200x' alt='Nvidia supera a Apple y ya vale más que Google y Meta juntas' />
     </a>
 </div>
 
