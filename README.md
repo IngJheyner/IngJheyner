@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-escenario-descubrimiento-mineral-nunca-antes-visto-1417082'>España, escenario del descubrimiento de un mineral nunca antes visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/espana-escenario-descubrimiento-mineral-nunca-antes-visto-1417082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/minerales-4258659.jpg?tf=1200x' alt='España, escenario del descubrimiento de un mineral nunca antes visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/proximos-apple-watch-podrian-tener-sensores-integrados-propia-correa-1417076'>Los próximos Apple Watch podrían tener sensores integrados en la propia correa</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/proximos-apple-watch-podrian-tener-sensores-integrados-propia-correa-1417076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244581.jpg?tf=1200x' alt='Los próximos Apple Watch podrían tener sensores integrados en la propia correa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/estados-whatsapp-copian-funcion-muy-usada-instagram-1417052'>Los estados de WhatsApp copian una función muy usada a Instagram</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/estados-whatsapp-copian-funcion-muy-usada-instagram-1417052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='Los estados de WhatsApp copian una función muy usada a Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-filtro-accidentalmente-inteligencia-artificial-jarvis-todo-sabemos-1417057'>Google filtró accidentalmente su inteligencia artificial Jarvis: esto es todo lo que sabemos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-filtro-accidentalmente-inteligencia-artificial-jarvis-todo-sabemos-1417057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-google-4254351.jpg?tf=1200x' alt='Google filtró accidentalmente su inteligencia artificial Jarvis: esto es todo lo que sabemos' />
     </a>
 </div>
 
