@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/aplicacion-oculta-caras-elimina-datos-fotos-maxima-privacidad-1417040'>Esta aplicación oculta las caras y elimina datos de las fotos para la máxima privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/aplicacion-oculta-caras-elimina-datos-fotos-maxima-privacidad-1417040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-discretion-4258606.jpg?tf=1200x' alt='Esta aplicación oculta las caras y elimina datos de las fotos para la máxima privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/pais-dice-adios-tiktok-razones-seguridad-nacional-hara-espana-1417038'>Este país le dice adiós a TikTok por razones de seguridad nacional, ¿lo hará España?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/pais-dice-adios-tiktok-razones-seguridad-nacional-hara-espana-1417038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/veto-tiktok-convierte-ley-bytedance-tendra-venderla-antes-ano-3303904.jpg?tf=1200x' alt='Este país le dice adiós a TikTok por razones de seguridad nacional, ¿lo hará España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968'>ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-4258464.jpg?tf=1200x' alt='ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/me-ha-gustado-sony-linkbuds-fit-son-como-dos-nubes-oidos-1414681'>Lo que más me ha gustado de los Sony LinkBuds Fit es que son como dos nubes en tus oídos</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/me-ha-gustado-sony-linkbuds-fit-son-como-dos-nubes-oidos-1414681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-fit-4254519.jpg?tf=1200x' alt='Lo que más me ha gustado de los Sony LinkBuds Fit es que son como dos nubes en tus oídos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/todo-movil-deberia-tener-segunda-oportunidad-primera-vez-veo-sucede-1415585'>Todo móvil debería tener una segunda oportunidad y es la primera vez que veo que sucede</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/todo-movil-deberia-tener-segunda-oportunidad-primera-vez-veo-sucede-1415585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4256349.jpg?tf=1200x' alt='Todo móvil debería tener una segunda oportunidad y es la primera vez que veo que sucede' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402'>Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-4257437.jpg?tf=1200x' alt='Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi' />
     </a>
 </div>
 
