@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302'>Max también anuncia el fin de las cuentas compartidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahora-hbo-max-max-50-descuento-toda-vida-pierde-todo-valor-3302424.jpg?tf=1200x' alt='Max también anuncia el fin de las cuentas compartidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/estudio-oxford-sugiere-existe-nuevo-limite-velocidad-universo-1416512'>Un estudio de Oxford sugiere que existe un nuevo límite de velocidad en el universo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/estudio-oxford-sugiere-existe-nuevo-limite-velocidad-universo-1416512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/universo-4257642.jpg?tf=1200x' alt='Un estudio de Oxford sugiere que existe un nuevo límite de velocidad en el universo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293'>La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-electronicos-tirados-basura-4259021.jpg?tf=1200x' alt='La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inteligencia-artificial-gpt-1417285'>Windows 11 va a tener inteligencia artificial hasta en el Bloc de notas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inteligencia-artificial-gpt-1417285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-va-tener-inteligencia-artificial-bloc-notas-4258978.jpg?tf=1200x' alt='Windows 11 va a tener inteligencia artificial hasta en el Bloc de notas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/principales-actualizaciones-android-tv-podrian-lanzarse-solo-cada-dos-anos-1417141'>Las principales actualizaciones de Android TV podrían lanzarse solo cada dos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/principales-actualizaciones-android-tv-podrian-lanzarse-solo-cada-dos-anos-1417141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tv-anddroid-tv-4258823.jpg?tf=1200x' alt='Las principales actualizaciones de Android TV podrían lanzarse solo cada dos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/debes-hacer-billetes-deteriorados-dana-avisa-banco-espana-1417283'>Esto es lo que debes hacer con los billetes deteriorados por la DANA, avisa el Banco de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/debes-hacer-billetes-deteriorados-dana-avisa-banco-espana-1417283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/billete-10-euros-manchado-barro-4259009.jpg?tf=1200x' alt='Esto es lo que debes hacer con los billetes deteriorados por la DANA, avisa el Banco de España' />
     </a>
 </div>
 
