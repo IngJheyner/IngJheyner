@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-1417127'>Nuevo ChatGPT para resolver todas tus dudas sobre la Agencia Tributaria: gratuito y disponible 24/7</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-1417127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-4258736.jpg?tf=1200x' alt='Nuevo ChatGPT para resolver todas tus dudas sobre la Agencia Tributaria: gratuito y disponible 24/7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>Google Maps se actualiza y ahora ofrecerá información a los conductores sobre incidencias meteorológicas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-4258792.jpg?tf=1200x' alt='Google Maps se actualiza y ahora ofrecerá información a los conductores sobre incidencias meteorológicas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-1415774'>Si estás en uno de estos grupos de WhatsApp, sal de inmediato: la Policía podría multarte</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-1415774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-4256481.jpg?tf=1200x' alt='Si estás en uno de estos grupos de WhatsApp, sal de inmediato: la Policía podría multarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010'>COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-4258527.jpg?tf=1200x' alt='COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono' />
     </a>
 </div>
 
