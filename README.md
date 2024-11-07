@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011'>Nvidia supera a Apple como la compañía más valiosa, vale como Google y Meta juntas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-supera-apple-como-compania-valiosa-vale-google-meta-juntas-4258520.jpg?tf=1200x' alt='Nvidia supera a Apple como la compañía más valiosa, vale como Google y Meta juntas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-sorprende-todos-dar-opinion-joker-2-no-fue-ejercicio-intelectual-1415373'>Quentin Tarantino sorprende a todos al dar su opinión de Joker 2: "No fue un ejercicio intelectual"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-sorprende-todos-dar-opinion-joker-2-no-fue-ejercicio-intelectual-1415373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4250110.jpg?tf=1200x' alt='Quentin Tarantino sorprende a todos al dar su opinión de Joker 2: "No fue un ejercicio intelectual"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986'>Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ataque-ransomware-baguette-4258466.jpg?tf=1200x' alt='Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ya-puedes-grabar-partidas-mientras-juegas-steam-1416985'>Ya puedes grabar tus partidas mientras juegas en Steam: así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ya-puedes-grabar-partidas-mientras-juegas-steam-1416985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-grabar-partidas-mientras-juegas-steam-funciona-4258452.jpg?tf=1200x' alt='Ya puedes grabar tus partidas mientras juegas en Steam: así funciona' />
     </a>
 </div>
 
