@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293'>La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-electronicos-tirados-basura-4259021.jpg?tf=1200x' alt='La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288'>La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclado-windows-4259015.jpg?tf=1200x' alt='La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/debes-hacer-billetes-deteriorados-dana-avisa-banco-espana-1417283'>Esto es lo que debes hacer con los billetes deteriorados por la DANA, avisa el Banco de España</a></h4>
     <a href='https://computerhoy.20minutos.es/life/debes-hacer-billetes-deteriorados-dana-avisa-banco-espana-1417283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/billete-10-euros-manchado-barro-4259009.jpg?tf=1200x' alt='Esto es lo que debes hacer con los billetes deteriorados por la DANA, avisa el Banco de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-ha-puesto-jaque-guardia-civil-buscan-basura-digital-1417175'>La nueva estafa que ha puesto en jaque a la Guardia Civil: "Buscan en tu basura digital"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-ha-puesto-jaque-guardia-civil-buscan-basura-digital-1417175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nueva-estafa-ha-puesto-jaque-guardia-civil-buscan-basura-digital-4258838.jpg?tf=1200x' alt='La nueva estafa que ha puesto en jaque a la Guardia Civil: "Buscan en tu basura digital"' />
     </a>
 </div>
 
