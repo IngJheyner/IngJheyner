@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-1415620'>Esta es la razón por la que los seres humanos se besan, según la ciencia, y no tiene nada que ver con amor o amistad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-1415620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/razon-seres-humanos-besan-ciencia-no-tiene-nada-ver-amor-amistad-4256076.jpg?tf=1200x' alt='Esta es la razón por la que los seres humanos se besan, según la ciencia, y no tiene nada que ver con amor o amistad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/me-ha-gustado-sony-linkbuds-fit-son-como-dos-nubes-oidos-1414681'>Lo que más me ha gustado de los Sony LinkBuds Fit es que son como dos nubes en tus oídos</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/me-ha-gustado-sony-linkbuds-fit-son-como-dos-nubes-oidos-1414681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sony-linkbuds-fit-4254519.jpg?tf=1200x' alt='Lo que más me ha gustado de los Sony LinkBuds Fit es que son como dos nubes en tus oídos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/todo-movil-deberia-tener-segunda-oportunidad-primera-vez-veo-sucede-1415585'>Todo móvil debería tener una segunda oportunidad y es la primera vez que veo que sucede</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/todo-movil-deberia-tener-segunda-oportunidad-primera-vez-veo-sucede-1415585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/vivo-v40-80w-4256349.jpg?tf=1200x' alt='Todo móvil debería tener una segunda oportunidad y es la primera vez que veo que sucede' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402'>Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-1416402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-actualizar-movil-peligro-como-forzar-actualizaciones-moviles-xiaomi-4257437.jpg?tf=1200x' alt='Un móvil sin actualizar es un móvil en peligro: cómo forzar las actualizaciones en los móviles Xiaomi' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/truco-dormir-46-minutos-extra-sentirte-mejor-1417019'>El truco de los 46 minutos extra para sentirte mejor</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-dormir-46-minutos-extra-sentirte-mejor-1417019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-46-minutos-extra-sentirte-mejor-4258536.jpg?tf=1200x' alt='El truco de los 46 minutos extra para sentirte mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/botones-volumen-iphone-estan-repletos-funciones-ocultas-estas-son-10-mejores-1415170'>Los botones de volumen de tu iPhone están repletos de funciones ocultas: estas son las 10 mejores</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/botones-volumen-iphone-estan-repletos-funciones-ocultas-estas-son-10-mejores-1415170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/botones-volumen-iphone-estan-repletos-funciones-ocultas-estas-son-10-mejores-4255340.jpg?tf=1200x' alt='Los botones de volumen de tu iPhone están repletos de funciones ocultas: estas son las 10 mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-desafia-fisica-polemico-motor-espacial-combustible-1416548'>La NASA desafía la física con un polémico motor espacial sin combustible</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-desafia-fisica-polemico-motor-espacial-combustible-1416548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/recreacion-impulso-logra-emdrive-basa-ondas-electromagneticas-4257682.jpg?tf=1200x' alt='La NASA desafía la física con un polémico motor espacial sin combustible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/firestick-vpn-mas-rapida-rebajada-1406597'>Mi Firestick puede con esta VPN que va a máxima velocidad, y ahora por 2 euros al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/firestick-vpn-mas-rapida-rebajada-1406597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-televisor-4240947.jpg?tf=1200x' alt='Mi Firestick puede con esta VPN que va a máxima velocidad, y ahora por 2 euros al mes' />
     </a>
 </div>
 
