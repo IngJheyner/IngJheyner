@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>Google Maps se actualiza y ahora ofrecerá información a los conductores sobre incidencias meteorológicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-4258792.jpg?tf=1200x' alt='Google Maps se actualiza y ahora ofrecerá información a los conductores sobre incidencias meteorológicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joker-2-no-levanta-cabeza-fracasar-taquilla-estrella-tambien-streaming-1417160'>Joker 2 no levanta cabeza: tras fracasar en taquilla se estrella también en el streaming</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/joker-2-no-levanta-cabeza-fracasar-taquilla-estrella-tambien-streaming-1417160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/joker-folie-deux-4242624.jpg?tf=1200x' alt='Joker 2 no levanta cabeza: tras fracasar en taquilla se estrella también en el streaming' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010'>COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-4258527.jpg?tf=1200x' alt='COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/apple-macbook-pro-chip-m4-2024-1416805'>He analizado el MacBook Pro con chip M4 y lo tengo claro, no hay quien les pare en rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/apple-macbook-pro-chip-m4-2024-1416805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258485.jpg?tf=1200x' alt='He analizado el MacBook Pro con chip M4 y lo tengo claro, no hay quien les pare en rendimiento' />
     </a>
 </div>
 
