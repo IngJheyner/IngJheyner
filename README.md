@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/escribir-resenas-falsas-google-maps-ilegal-dice-ley-1417075'>¿Escribir reseñas falsas en Google Maps es ilegal? Esto dice la ley </a></h4>
+    <a href='https://computerhoy.20minutos.es/google/escribir-resenas-falsas-google-maps-ilegal-dice-ley-1417075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-falsas-google-maps-4108705.jpg?tf=1200x' alt='¿Escribir reseñas falsas en Google Maps es ilegal? Esto dice la ley ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/estados-whatsapp-copian-funcion-muy-usada-instagram-1417052'>Los estados de WhatsApp copian una función muy usada a Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/estados-whatsapp-copian-funcion-muy-usada-instagram-1417052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='Los estados de WhatsApp copian una función muy usada a Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-filtro-accidentalmente-inteligencia-artificial-jarvis-todo-sabemos-1417057'>Google filtró accidentalmente su inteligencia artificial Jarvis: esto es todo lo que sabemos</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-filtro-accidentalmente-inteligencia-artificial-jarvis-todo-sabemos-1417057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ia-google-4254351.jpg?tf=1200x' alt='Google filtró accidentalmente su inteligencia artificial Jarvis: esto es todo lo que sabemos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicacion-oculta-caras-elimina-datos-fotos-maxima-privacidad-1417040'>Esta aplicación oculta las caras y elimina datos de las fotos para la máxima privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicacion-oculta-caras-elimina-datos-fotos-maxima-privacidad-1417040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-discretion-4258606.jpg?tf=1200x' alt='Esta aplicación oculta las caras y elimina datos de las fotos para la máxima privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/pais-dice-adios-tiktok-razones-seguridad-nacional-hara-espana-1417038'>Este país le dice adiós a TikTok por razones de seguridad nacional, ¿lo hará España?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/pais-dice-adios-tiktok-razones-seguridad-nacional-hara-espana-1417038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/veto-tiktok-convierte-ley-bytedance-tendra-venderla-antes-ano-3303904.jpg?tf=1200x' alt='Este país le dice adiós a TikTok por razones de seguridad nacional, ¿lo hará España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968'>ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-1416968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-nuevo-peligroso-malware-infiltra-movil-vaciarte-cuenta-4258464.jpg?tf=1200x' alt='ToxicPanda: el nuevo y peligroso malware que se infiltra en tu móvil para vaciarte la cuenta' />
     </a>
 </div>
 
