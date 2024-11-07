@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011'>Nvidia supera a Apple como la compañía más valiosa, vale como Google y Meta juntas</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-desafia-fisica-polemico-motor-espacial-combustible-1416548'>La NASA desafía la física con un polémico motor espacial sin combustible</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-desafia-fisica-polemico-motor-espacial-combustible-1416548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/recreacion-impulso-logra-emdrive-basa-ondas-electromagneticas-4257682.jpg?tf=1200x' alt='La NASA desafía la física con un polémico motor espacial sin combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/firestick-vpn-mas-rapida-rebajada-1406597'>Mi Firestick puede con esta VPN que va a máxima velocidad, y ahora por 2 euros al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/firestick-vpn-mas-rapida-rebajada-1406597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-televisor-4240947.jpg?tf=1200x' alt='Mi Firestick puede con esta VPN que va a máxima velocidad, y ahora por 2 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/grafico-muestra-verdadero-poder-cada-idioma-mundo-1416802'>El gráfico que muestra el verdadero poder de cada idioma en el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/grafico-muestra-verdadero-poder-cada-idioma-mundo-1416802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mapa-idiomas-4258172.jpg?tf=1200x' alt='El gráfico que muestra el verdadero poder de cada idioma en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-patenta-boton-rebobinar-1417016'>Sony patenta un botón para rebobinar, cuando te matan en un juego</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sony-patenta-boton-rebobinar-1417016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sony-patenta-boton-volver-atras-tiempo-cuando-te-matan-juego-4258531.jpg?tf=1200x' alt='Sony patenta un botón para rebobinar, cuando te matan en un juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011'>Nvidia supera a Apple y ya vale más que Google y Meta juntas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-supera-apple-compania-valiosa-vale-como-google-meta-juntas-1417011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-supera-apple-como-compania-valiosa-vale-google-meta-juntas-4258520.jpg?tf=1200x' alt='Nvidia supera a Apple como la compañía más valiosa, vale como Google y Meta juntas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-sorprende-todos-dar-opinion-joker-2-no-fue-ejercicio-intelectual-1415373'>Quentin Tarantino sorprende a todos al dar su opinión de Joker 2: "No fue un ejercicio intelectual"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-sorprende-todos-dar-opinion-joker-2-no-fue-ejercicio-intelectual-1415373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/joker-folie-deux-2024-4250110.jpg?tf=1200x' alt='Quentin Tarantino sorprende a todos al dar su opinión de Joker 2: "No fue un ejercicio intelectual"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/como-hacer-test-velocidad-alexa-1417004'>Como hacer un test de velocidad con Alexa y sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/como-hacer-test-velocidad-alexa-1417004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/echo-dot-5a-generacion-2875349.jpg?tf=1200x' alt='Como hacer un test de velocidad con Alexa y sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-despues-gladiator-ii-ya-piensa-volver-otra-series-emblematicas-1416919'>Ridley Scott no para: después de Gladiator II ya piensa en volver a otra de sus series más emblemáticas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-despues-gladiator-ii-ya-piensa-volver-otra-series-emblematicas-1416919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-hizo-alien-romulus-3913618.jpg?tf=1200x' alt='Ridley Scott no para: después de Gladiator II ya piensa en volver a otra de sus series más emblemáticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986'>Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-piratas-informaticos-pide-rescate-115000-euros-pan-1416986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ataque-ransomware-baguette-4258466.jpg?tf=1200x' alt='Un grupo de piratas informáticos pide un rescate de 115.000 euros… en pan' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-supera-apple-como-compania-valiosa-vale-google-meta-juntas-4258520.jpg?tf=1200x' alt='Nvidia supera a Apple y ya vale más que Google y Meta juntas' />
     </a>
 </div>
 
