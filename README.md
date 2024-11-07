@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joker-2-no-levanta-cabeza-fracasar-taquilla-estrella-tambien-streaming-1417160'>Joker 2 no levanta cabeza: tras fracasar en taquilla se estrella también en el streaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/joker-2-no-levanta-cabeza-fracasar-taquilla-estrella-tambien-streaming-1417160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/joker-folie-deux-4242624.jpg?tf=1200x' alt='Joker 2 no levanta cabeza: tras fracasar en taquilla se estrella también en el streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-acaban-descubrir-misterioso-objeto-espacio-profundo-1417094'>Los científicos acaban de descubrir un misterioso objeto en el espacio profundo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/cientificos-acaban-descubrir-misterioso-objeto-espacio-profundo-1417094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/universo-profundo-4258785.jpg?tf=1200x' alt='Los científicos acaban de descubrir un misterioso objeto en el espacio profundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/apple-macbook-pro-chip-m4-2024-1416805'>He analizado el MacBook Pro con chip M4 y lo tengo claro, no hay quien les pare en rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/apple-macbook-pro-chip-m4-2024-1416805' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258485.jpg?tf=1200x' alt='He analizado el MacBook Pro con chip M4 y lo tengo claro, no hay quien les pare en rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560'>Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-4257673.jpg?tf=1200x' alt='Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80' />
     </a>
 </div>
 
