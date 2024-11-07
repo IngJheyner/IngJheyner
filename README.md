@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010'>COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-1417010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cof-999-nuevo-material-podria-reemplazar-arboles-captura-carbono-4258527.jpg?tf=1200x' alt='COF-999: el nuevo material que podría reemplazar a los árboles en la captura de carbono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/apple-macbook-pro-chip-m4-2024-1416805'>He analizado el MacBook Pro con chip M4 y lo tengo claro, no hay quien les pare en rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/apple-macbook-pro-chip-m4-2024-1416805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258485.jpg?tf=1200x' alt='He analizado el MacBook Pro con chip M4 y lo tengo claro, no hay quien les pare en rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560'>Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-1416560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hollywood-da-razon-tarantino-anuncia-nuevo-remake-grandes-clasicos-ciencia-ficcion-80-4257673.jpg?tf=1200x' alt='Hollywood da la razón a Tarantino: se anuncia un nuevo remake de uno de los grandes clásicos de ciencia ficción de los 80' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/proximos-apple-watch-podrian-tener-sensores-integrados-propia-correa-1417076'>Los próximos Apple Watch podrían tener sensores integrados en la propia correa</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/proximos-apple-watch-podrian-tener-sensores-integrados-propia-correa-1417076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244581.jpg?tf=1200x' alt='Los próximos Apple Watch podrían tener sensores integrados en la propia correa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-devuelvas-llamada-estos-numeros-funciona-estafa-llamada-perdida-1417093'>No devuelvas la llamada a estos números: así funciona la estafa de la llamada perdida</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-devuelvas-llamada-estos-numeros-funciona-estafa-llamada-perdida-1417093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/llamadas-numeros-desconocidos-4258702.jpg?tf=1200x' alt='No devuelvas la llamada a estos números: así funciona la estafa de la llamada perdida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/escribir-resenas-falsas-google-maps-ilegal-dice-ley-1417075'>¿Escribir reseñas falsas en Google Maps es ilegal? Esto dice la ley </a></h4>
-    <a href='https://computerhoy.20minutos.es/google/escribir-resenas-falsas-google-maps-ilegal-dice-ley-1417075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/resenas-falsas-google-maps-4108705.jpg?tf=1200x' alt='¿Escribir reseñas falsas en Google Maps es ilegal? Esto dice la ley ' />
     </a>
 </div>
 
