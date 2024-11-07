@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-1417127'>Nuevo ChatGPT para resolver todas tus dudas sobre la Agencia Tributaria: gratuito y disponible 24/7</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-1417127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-4258736.jpg?tf=1200x' alt='Nuevo ChatGPT para resolver todas tus dudas sobre la Agencia Tributaria: gratuito y disponible 24/7' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288'>La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclado-windows-4259015.jpg?tf=1200x' alt='La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>Google Maps se actualiza y ahora ofrecerá información a los conductores sobre incidencias meteorológicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-actualiza-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-4258792.jpg?tf=1200x' alt='Google Maps se actualiza y ahora ofrecerá información a los conductores sobre incidencias meteorológicas' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inteligencia-artificial-gpt-1417285'>Windows 11 va a tener inteligencia artificial hasta en el Bloc de notas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inteligencia-artificial-gpt-1417285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-va-tener-inteligencia-artificial-bloc-notas-4258978.jpg?tf=1200x' alt='Windows 11 va a tener inteligencia artificial hasta en el Bloc de notas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joker-2-no-levanta-cabeza-fracasar-taquilla-estrella-tambien-streaming-1417160'>Joker 2 no levanta cabeza: tras fracasar en taquilla se estrella también en el streaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/joker-2-no-levanta-cabeza-fracasar-taquilla-estrella-tambien-streaming-1417160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/joker-folie-deux-4242624.jpg?tf=1200x' alt='Joker 2 no levanta cabeza: tras fracasar en taquilla se estrella también en el streaming' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/principales-actualizaciones-android-tv-podrian-lanzarse-solo-cada-dos-anos-1417141'>Las principales actualizaciones de Android TV podrían lanzarse solo cada dos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/principales-actualizaciones-android-tv-podrian-lanzarse-solo-cada-dos-anos-1417141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tv-anddroid-tv-4258823.jpg?tf=1200x' alt='Las principales actualizaciones de Android TV podrían lanzarse solo cada dos años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-acaban-descubrir-misterioso-objeto-espacio-profundo-1417094'>Los científicos acaban de descubrir un misterioso objeto en el espacio profundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cientificos-acaban-descubrir-misterioso-objeto-espacio-profundo-1417094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/universo-profundo-4258785.jpg?tf=1200x' alt='Los científicos acaban de descubrir un misterioso objeto en el espacio profundo' />
+    <h4><a href='https://computerhoy.20minutos.es/life/debes-hacer-billetes-deteriorados-dana-avisa-banco-espana-1417283'>Esto es lo que debes hacer con los billetes deteriorados por la DANA, avisa el Banco de España</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/debes-hacer-billetes-deteriorados-dana-avisa-banco-espana-1417283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/billete-10-euros-manchado-barro-4259009.jpg?tf=1200x' alt='Esto es lo que debes hacer con los billetes deteriorados por la DANA, avisa el Banco de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-1415774'>Si estás en uno de estos grupos de WhatsApp, sal de inmediato: la Policía podría multarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-1415774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estas-estos-grupos-whatsapp-sal-inmediato-policia-podria-multarte-4256481.jpg?tf=1200x' alt='Si estás en uno de estos grupos de WhatsApp, sal de inmediato: la Policía podría multarte' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-ha-puesto-jaque-guardia-civil-buscan-basura-digital-1417175'>La nueva estafa que ha puesto en jaque a la Guardia Civil: "Buscan en tu basura digital"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-ha-puesto-jaque-guardia-civil-buscan-basura-digital-1417175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nueva-estafa-ha-puesto-jaque-guardia-civil-buscan-basura-digital-4258838.jpg?tf=1200x' alt='La nueva estafa que ha puesto en jaque a la Guardia Civil: "Buscan en tu basura digital"' />
     </a>
 </div>
 
