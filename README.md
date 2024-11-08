@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/router-no-pasa-nada-cuidado-nueva-estafa-avisan-expertos-1417465'>A tu router no le pasa nada: cuidado con esta nueva estafa de la que avisan los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/router-no-pasa-nada-cuidado-nueva-estafa-avisan-expertos-1417465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-no-pasa-nada-cuidado-nueva-estafa-avisan-expertos-4259304.jpg?tf=1200x' alt='A tu router no le pasa nada: cuidado con esta nueva estafa de la que avisan los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-familiar-necesitado-como-saber-hijo-quien-te-pide-dinero-whatsapp-1417196'>La estafa del familiar necesitado y cómo saber si es tu hijo quien te pide dinero por WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-familiar-necesitado-como-saber-hijo-quien-te-pide-dinero-whatsapp-1417196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg?tf=1200x' alt='La estafa del familiar necesitado y cómo saber si es tu hijo quien te pide dinero por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-1416711'>¿Son los Amazon Fire TV y los dispositivos Android TV inmunes a los virus y el malware?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-1416711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-4257954.jpg?tf=1200x' alt='¿Son los Amazon Fire TV y los dispositivos Android TV inmunes a los virus y el malware?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-1417480'>No es un bulo de Internet: estas son las freidoras de aire que provocan riesgos de incendio</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-1417480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-4259331.jpg?tf=1200x' alt='No es un bulo de Internet: estas son las freidoras de aire que provocan riesgos de incendio' />
     </a>
 </div>
 
