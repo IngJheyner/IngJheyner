@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-familiar-necesitado-como-saber-hijo-quien-te-pide-dinero-whatsapp-1417196'>La estafa del familiar necesitado y cómo saber si es tu hijo quien te pide dinero por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-familiar-necesitado-como-saber-hijo-quien-te-pide-dinero-whatsapp-1417196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg?tf=1200x' alt='La estafa del familiar necesitado y cómo saber si es tu hijo quien te pide dinero por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-1417316'>Winos4.0: el virus que está poniendo en riesgo a las PC Gaming de todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-1417316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-4259079.jpg?tf=1200x' alt='Winos4.0: el virus que está poniendo en riesgo a las PC Gaming de todo el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-1417480'>No es un bulo de Internet: estas son las freidoras de aire que provocan riesgos de incendio</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-1417480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-4259331.jpg?tf=1200x' alt='No es un bulo de Internet: estas son las freidoras de aire que provocan riesgos de incendio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-obra-arte-pintada-robot-humanoide-subastara-1-millon-dolares-1417404'>La primera obra de arte pintada por un robot humanoide se subastará por 1 millón de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primera-obra-arte-pintada-robot-humanoide-subastara-1-millon-dolares-1417404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ai-da-robot-delante-retratos-turing-4259203.jpg?tf=1200x' alt='La primera obra de arte pintada por un robot humanoide se subastará por 1 millón de dólares' />
     </a>
 </div>
 
