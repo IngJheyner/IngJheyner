@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/como-activar-proteccion-antirrobo-google-movil-android-proteger-datos-personales-1416984'>Cómo activar la protección antirrobo de Google en tu móvil Android para proteger tus datos personales</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/como-activar-proteccion-antirrobo-google-movil-android-proteger-datos-personales-1416984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-activar-proteccion-antirrobo-google-movil-android-proteger-datos-personales-4258521.jpg?tf=1200x' alt='Cómo activar la protección antirrobo de Google en tu móvil Android para proteger tus datos personales' />
+    <h4><a href='https://computerhoy.20minutos.es/life/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-1413153'>15 formas en las que Jeff Bezos, fundador de Amazon, revolucionó el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-1413153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-4252016.jpg?tf=1200x' alt='15 formas en las que Jeff Bezos, fundador de Amazon, revolucionó el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/sol-tiene-fecha-caducidad-tiempo-queda-vida-tierra-1417067'>El Sol tiene fecha de caducidad: este es el tiempo que le queda a la vida en la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/sol-tiene-fecha-caducidad-tiempo-queda-vida-tierra-1417067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sol-4258631.jpg?tf=1200x' alt='El Sol tiene fecha de caducidad: este es el tiempo que le queda a la vida en la Tierra' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/radiografia-programador-espanol-roles-demandados-habilidades-necesarias-sueldos-brecha-genero-1416760'>Radiografía del programador español: roles más demandados, habilidades necesarias, sueldos y brecha de género</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/radiografia-programador-espanol-roles-demandados-habilidades-necesarias-sueldos-brecha-genero-1416760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-4251350.jpg?tf=1200x' alt='Radiografía del programador español: roles más demandados, habilidades necesarias, sueldos y brecha de género' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326'>Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-Men</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-planea-otra-trilogia-cinematografica-star-wars-tiene-lazos-x-men-4259067.jpg?tf=1200x' alt='Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-Men' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/activar-opcion-no-rastrear-navegador-inutil-deberias-hacer-lugar-1417012'>Activar la opción "No rastrear" en tu navegador es inútil: esto es lo que deberías hacer en su lugar</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/activar-opcion-no-rastrear-navegador-inutil-deberias-hacer-lugar-1417012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/activar-opcion-no-rastrear-practicamente-inutil-deberias-hacer-lugar-4258528.jpg?tf=1200x' alt='Activar la opción "No rastrear" en tu navegador es inútil: esto es lo que deberías hacer en su lugar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/australia-va-prohibir-redes-sociales-menores-16-anos-verificacion-edad-1417315'>Australia va a prohibir las redes sociales a los menores de 16 años, con verificación de edad</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/australia-va-prohibir-redes-sociales-menores-16-anos-verificacion-edad-1417315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/australia-prohibe-todas-redes-sociales-menores-16-anos-4259052.jpg?tf=1200x' alt='Australia va a prohibir las redes sociales a los menores de 16 años, con verificación de edad' />
+    <h4><a href='https://computerhoy.20minutos.es/criptos/bitcoin-bate-record-cotizacion-promesas-trump-impulsar-criptomonedas-1417331'>El Bitcoin bate su récord de cotización por las promesas de Trump para impulsar las criptomonedas</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/bitcoin-bate-record-cotizacion-promesas-trump-impulsar-criptomonedas-1417331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bitcoin-bate-record-cotizacion-promesas-trump-impulsar-criptomonedas-4259084.jpg?tf=1200x' alt='El Bitcoin bate su récord de cotización por las promesas de Trump para impulsar las criptomonedas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302'>Max también anuncia el fin de las cuentas compartidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahora-hbo-max-max-50-descuento-toda-vida-pierde-todo-valor-3302424.jpg?tf=1200x' alt='Max también anuncia el fin de las cuentas compartidas' />
+    <h4><a href='https://computerhoy.20minutos.es/life/reloj-samsung-lte-rebajado-amazon-1415198'>Este reloj Samsung con LTE es increíblemente barato, y es nuevo: el Galaxy Watch7, a precio de saldo en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/reloj-samsung-lte-rebajado-amazon-1415198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883434.jpg?tf=1200x' alt='Este reloj Samsung con LTE es increíblemente barato, y es nuevo: el Galaxy Watch7, a precio de saldo en Amazon' />
     </a>
 </div>
 
