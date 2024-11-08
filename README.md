@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-imac-chip-m4-tan-potente-podria-ser-pro-1417069'>He probado el iMac con chip M4 y es tan potente que podría ser un 'Pro'</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-imac-chip-m4-tan-potente-podria-ser-pro-1417069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imac-m4-2024-4259020.jpg?tf=1200x' alt='He probado el iMac con chip M4 y es tan potente que podría ser un 'Pro'' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363'>Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/he-montado-sistema-seguridad-inteligente-casa-no-te-puede-faltar-1414777'>He montado un sistema de seguridad inteligente en casa, y esto es lo que no te puede faltar</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/he-montado-sistema-seguridad-inteligente-casa-no-te-puede-faltar-1414777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-videotimbre-seguridad-vigilancia-casa-hogar-4254761.jpg?tf=1200x' alt='He montado un sistema de seguridad inteligente en casa, y esto es lo que no te puede faltar' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatcom-tiene-nuevo-dueno-exactamente-empresa-crees-1417351'>Chat.com tiene un nuevo dueño y es exactamente la empresa que crees</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatcom-tiene-nuevo-dueno-exactamente-empresa-crees-1417351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Chat.com tiene un nuevo dueño y es exactamente la empresa que crees' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-1413153'>15 formas en las que Jeff Bezos, fundador de Amazon, revolucionó el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-1413153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-4252016.jpg?tf=1200x' alt='15 formas en las que Jeff Bezos, fundador de Amazon, revolucionó el mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-681-computer-hoy-1415432'>¡Ya está en tu quiosco el número 681 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-681-computer-hoy-1415432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-681-4256162.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 681 de Computer Hoy!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/radiografia-programador-espanol-roles-demandados-habilidades-necesarias-sueldos-brecha-genero-1416760'>Radiografía del programador español: roles más demandados, habilidades necesarias, sueldos y brecha de género</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/radiografia-programador-espanol-roles-demandados-habilidades-necesarias-sueldos-brecha-genero-1416760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lenguaje-programacion-mejor-pagado-admirado-mejor-herramienta-90000-programadores-confiesan-4251350.jpg?tf=1200x' alt='Radiografía del programador español: roles más demandados, habilidades necesarias, sueldos y brecha de género' />
+    <h4><a href='https://computerhoy.20minutos.es/pasara-x-tesla-spacex-elon-musk-victoria-donald-trump-1417346'>Qué pasará con X, Tesla, SpaceX y Elon Musk tras la victoria de Donald Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/pasara-x-tesla-spacex-elon-musk-victoria-donald-trump-1417346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4258548.jpg?tf=1200x' alt='Qué pasará con X, Tesla, SpaceX y Elon Musk tras la victoria de Donald Trump' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/activar-opcion-no-rastrear-navegador-inutil-deberias-hacer-lugar-1417012'>Activar la opción "No rastrear" en tu navegador es inútil: esto es lo que deberías hacer en su lugar</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/activar-opcion-no-rastrear-navegador-inutil-deberias-hacer-lugar-1417012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/activar-opcion-no-rastrear-practicamente-inutil-deberias-hacer-lugar-4258528.jpg?tf=1200x' alt='Activar la opción "No rastrear" en tu navegador es inútil: esto es lo que deberías hacer en su lugar' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-tamano-fotos-movil-android-ganar-espacio-almacenamiento-1415687'>Cómo reducir el tamaño de las fotos de tu móvil Android y ganar espacio de almacenamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-tamano-fotos-movil-android-ganar-espacio-almacenamiento-1415687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-reducir-tamano-fotos-movil-android-ganar-espacio-almacenamiento-4258828.jpg?tf=1200x' alt='Cómo reducir el tamaño de las fotos de tu móvil Android y ganar espacio de almacenamiento' />
     </a>
 </div>
 
