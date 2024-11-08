@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326'>Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-men</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-planea-otra-trilogia-cinematografica-star-wars-tiene-lazos-x-men-4259067.jpg?tf=1200x' alt='Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-men' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/australia-va-prohibir-redes-sociales-menores-16-anos-verificacion-edad-1417315'>Australia va a prohibir las redes sociales a los menores de 16 años, con verificación de edad</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/australia-va-prohibir-redes-sociales-menores-16-anos-verificacion-edad-1417315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/australia-prohibe-todas-redes-sociales-menores-16-anos-4259052.jpg?tf=1200x' alt='Australia va a prohibir las redes sociales a los menores de 16 años, con verificación de edad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293'>La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-electronicos-tirados-basura-4259021.jpg?tf=1200x' alt='La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288'>La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/combinacion-teclado-provoca-pantalla-negra-interminable-windows-11-24h2-1417288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclado-windows-4259015.jpg?tf=1200x' alt='La combinación de teclado que provoca una pantalla negra interminable en Windows 11 24H2' />
     </a>
 </div>
 
