@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-obra-arte-pintada-robot-humanoide-subastara-1-millon-dolares-1417404'>La primera obra de arte pintada por un robot humanoide se subastará por 1 millón de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/primera-obra-arte-pintada-robot-humanoide-subastara-1-millon-dolares-1417404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ai-da-robot-delante-retratos-turing-4259203.jpg?tf=1200x' alt='La primera obra de arte pintada por un robot humanoide se subastará por 1 millón de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/afectara-nueva-ofensiva-iptv-control-contenido-internet-1417367'>Así afectará la nueva ofensiva contra las IPTV al control de contenido en Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/afectara-nueva-ofensiva-iptv-control-contenido-internet-1417367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='Así afectará la nueva ofensiva contra las IPTV al control de contenido en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiktok-integra-spotify-apple-music-puedas-compartir-canciones-favoritas-1417418'>TikTok se integra con Spotify y Apple Music para que puedas compartir tus canciones favoritas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tiktok-integra-spotify-apple-music-puedas-compartir-canciones-favoritas-1417418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tiktok-4259222.jpg?tf=1200x' alt='TikTok se integra con Spotify y Apple Music para que puedas compartir tus canciones favoritas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/qled-75-pulgadas-tv-4k-samsung-desploma-precio-1000-euros-barata-1417390'>QLED y 75 pulgadas: esta TV 4K de Samsung desploma su precio y es 1.000 euros más barata</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/qled-75-pulgadas-tv-4k-samsung-desploma-precio-1000-euros-barata-1417390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-tv-qled-4k-2024-75q60d-4259176.jpg?tf=1200x' alt='QLED y 75 pulgadas: esta TV 4K de Samsung desploma su precio y es 1.000 euros más barata' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-1417366'>El creador de una de las apps virales durante la pandemia presenta una alternativa a Discord</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-1417366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-4259158.jpg?tf=1200x' alt='El creador de una de las apps virales durante la pandemia presenta una alternativa a Discord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/aplicaciones-te-espian-consulta-informe-privacidad-telefono-1417358'> ¿Tus aplicaciones te espían? Consulta el informe de privacidad de tu teléfono</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/aplicaciones-te-espian-consulta-informe-privacidad-telefono-1417358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-cada-nuevas-funciones-privacidad-whatsapp-algunas-permiten-bloquear-chats-contrasena-silenciar-llamadas-desconocidos-3236626.jpg?tf=1200x' alt=' ¿Tus aplicaciones te espían? Consulta el informe de privacidad de tu teléfono' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-1417325'>Movistar alerta sobre la nueva estafa del cambio de router, te roban tus claves y datos personales</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-1417325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-4259083.jpg?tf=1200x' alt='Movistar alerta sobre la nueva estafa del cambio de router, te roban tus claves y datos personales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363'>Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15' />
     </a>
 </div>
 
