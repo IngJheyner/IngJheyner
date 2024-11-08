@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/ya-puedes-controlar-casa-google-home-traves-gemini-android-1417168'>Ya puedes controlar tu casa con Google Home a través de Gemini para Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ya-puedes-controlar-casa-google-home-traves-gemini-android-1417168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-controlar-casa-google-home-traves-gemini-android-4258878.jpg?tf=1200x' alt='Ya puedes controlar tu casa con Google Home a través de Gemini para Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-1416711'>¿Son los Amazon Fire TV y los dispositivos Android TV inmunes a los virus y el malware?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-1416711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-4257954.jpg?tf=1200x' alt='¿Son los Amazon Fire TV y los dispositivos Android TV inmunes a los virus y el malware?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-1417480'>No es un bulo de Internet: estas son las freidoras de aire que provocan riesgos de incendio</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-1417480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-bulo-internet-estas-son-freidoras-aire-provocan-riesgos-incendio-4259331.jpg?tf=1200x' alt='No es un bulo de Internet: estas son las freidoras de aire que provocan riesgos de incendio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/afectara-nueva-ofensiva-iptv-control-contenido-internet-1417367'>Así afectará la nueva ofensiva contra las IPTV al control de contenido en Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/afectara-nueva-ofensiva-iptv-control-contenido-internet-1417367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='Así afectará la nueva ofensiva contra las IPTV al control de contenido en Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiktok-integra-spotify-apple-music-puedas-compartir-canciones-favoritas-1417418'>TikTok se integra con Spotify y Apple Music para que puedas compartir tus canciones favoritas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tiktok-integra-spotify-apple-music-puedas-compartir-canciones-favoritas-1417418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tiktok-4259222.jpg?tf=1200x' alt='TikTok se integra con Spotify y Apple Music para que puedas compartir tus canciones favoritas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/qled-75-pulgadas-tv-4k-samsung-desploma-precio-1000-euros-barata-1417390'>QLED y 75 pulgadas: esta TV 4K de Samsung desploma su precio y es 1.000 euros más barata</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/qled-75-pulgadas-tv-4k-samsung-desploma-precio-1000-euros-barata-1417390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-tv-qled-4k-2024-75q60d-4259176.jpg?tf=1200x' alt='QLED y 75 pulgadas: esta TV 4K de Samsung desploma su precio y es 1.000 euros más barata' />
     </a>
 </div>
 
