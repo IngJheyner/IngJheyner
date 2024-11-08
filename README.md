@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-1417316'>Winos4.0: el virus que está poniendo en riesgo a las PC Gaming de todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-1417316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-4259079.jpg?tf=1200x' alt='Winos4.0: el virus que está poniendo en riesgo a las PC Gaming de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/ya-puedes-controlar-casa-google-home-traves-gemini-android-1417168'>Ya puedes controlar tu casa con Google Home a través de Gemini para Android</a></h4>
     <a href='https://computerhoy.20minutos.es/google/ya-puedes-controlar-casa-google-home-traves-gemini-android-1417168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-controlar-casa-google-home-traves-gemini-android-4258878.jpg?tf=1200x' alt='Ya puedes controlar tu casa con Google Home a través de Gemini para Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-obra-arte-pintada-robot-humanoide-subastara-1-millon-dolares-1417404'>La primera obra de arte pintada por un robot humanoide se subastará por 1 millón de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primera-obra-arte-pintada-robot-humanoide-subastara-1-millon-dolares-1417404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ai-da-robot-delante-retratos-turing-4259203.jpg?tf=1200x' alt='La primera obra de arte pintada por un robot humanoide se subastará por 1 millón de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/afectara-nueva-ofensiva-iptv-control-contenido-internet-1417367'>Así afectará la nueva ofensiva contra las IPTV al control de contenido en Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/afectara-nueva-ofensiva-iptv-control-contenido-internet-1417367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iptv-pirata-4252018.jpg?tf=1200x' alt='Así afectará la nueva ofensiva contra las IPTV al control de contenido en Internet' />
     </a>
 </div>
 
