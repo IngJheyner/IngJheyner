@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/qled-75-pulgadas-tv-4k-samsung-desploma-precio-1000-euros-barata-1417390'>QLED y 75 pulgadas: esta TV 4K de Samsung desploma su precio y es 1.000 euros más barata</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/qled-75-pulgadas-tv-4k-samsung-desploma-precio-1000-euros-barata-1417390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-tv-qled-4k-2024-75q60d-4259176.jpg?tf=1200x' alt='QLED y 75 pulgadas: esta TV 4K de Samsung desploma su precio y es 1.000 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-1417366'>El creador de una de las apps virales durante la pandemia presenta una alternativa a Discord</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-1417366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-4259158.jpg?tf=1200x' alt='El creador de una de las apps virales durante la pandemia presenta una alternativa a Discord' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363'>Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatcom-tiene-nuevo-dueno-exactamente-empresa-crees-1417351'>Chat.com tiene un nuevo dueño y es exactamente la empresa que crees</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatcom-tiene-nuevo-dueno-exactamente-empresa-crees-1417351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Chat.com tiene un nuevo dueño y es exactamente la empresa que crees' />
     </a>
 </div>
 
