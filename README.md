@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-1417366'>El creador de una de las apps virales durante la pandemia presenta una alternativa a Discord</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-1417366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/creador-apps-virales-durante-pandemia-presenta-alternativa-discord-4259158.jpg?tf=1200x' alt='El creador de una de las apps virales durante la pandemia presenta una alternativa a Discord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/aplicaciones-te-espian-consulta-informe-privacidad-telefono-1417358'> ¿Tus aplicaciones te espían? Consulta el informe de privacidad de tu teléfono</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/aplicaciones-te-espian-consulta-informe-privacidad-telefono-1417358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/como-configurar-cada-nuevas-funciones-privacidad-whatsapp-algunas-permiten-bloquear-chats-contrasena-silenciar-llamadas-desconocidos-3236626.jpg?tf=1200x' alt=' ¿Tus aplicaciones te espían? Consulta el informe de privacidad de tu teléfono' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-1417325'>Movistar alerta sobre la nueva estafa del cambio de router, te roban tus claves y datos personales</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-1417325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-4259083.jpg?tf=1200x' alt='Movistar alerta sobre la nueva estafa del cambio de router, te roban tus claves y datos personales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatcom-tiene-nuevo-dueno-exactamente-empresa-crees-1417351'>Chat.com tiene un nuevo dueño y es exactamente la empresa que crees</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatcom-tiene-nuevo-dueno-exactamente-empresa-crees-1417351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/elon-musk-inicia-otra-guerra-denuncia-open-ai-sam-altman-actuar-como-filial-microsoft-3282211.jpg?tf=1200x' alt='Chat.com tiene un nuevo dueño y es exactamente la empresa que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-681-computer-hoy-1415432'>¡Ya está en tu quiosco el número 681 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-681-computer-hoy-1415432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/computer-hoy-681-4256162.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 681 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pasara-x-tesla-spacex-elon-musk-victoria-donald-trump-1417346'>Qué pasará con X, Tesla, SpaceX y Elon Musk tras la victoria de Donald Trump</a></h4>
-    <a href='https://computerhoy.20minutos.es/pasara-x-tesla-spacex-elon-musk-victoria-donald-trump-1417346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4258548.jpg?tf=1200x' alt='Qué pasará con X, Tesla, SpaceX y Elon Musk tras la victoria de Donald Trump' />
     </a>
 </div>
 
