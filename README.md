@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/router-no-pasa-nada-cuidado-nueva-estafa-avisan-expertos-1417465'>A tu router no le pasa nada: cuidado con esta nueva estafa de la que avisan los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/router-no-pasa-nada-cuidado-nueva-estafa-avisan-expertos-1417465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-no-pasa-nada-cuidado-nueva-estafa-avisan-expertos-4259304.jpg?tf=1200x' alt='A tu router no le pasa nada: cuidado con esta nueva estafa de la que avisan los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-premium-sube-44-quitar-anuncios-ya-no-alcance-todos-bolsillos-1417566'>YouTube Premium sube hasta un 44 %: quitar los anuncios ya no está al alcance de todos los bolsillos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-premium-sube-44-quitar-anuncios-ya-no-alcance-todos-bolsillos-1417566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/subida-precio-youtube-premium-4259454.jpg?tf=1200x' alt='YouTube Premium sube hasta un 44 %: quitar los anuncios ya no está al alcance de todos los bolsillos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-familiar-necesitado-como-saber-hijo-quien-te-pide-dinero-whatsapp-1417196'>La estafa del familiar necesitado y cómo saber si es tu hijo quien te pide dinero por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-familiar-necesitado-como-saber-hijo-quien-te-pide-dinero-whatsapp-1417196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/estafa-whatsapp-2574729.jpg?tf=1200x' alt='La estafa del familiar necesitado y cómo saber si es tu hijo quien te pide dinero por WhatsApp' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-no-te-descargues-ya-ni-windows-10-sitios-oficiales-1417564'>Microsoft quiere que no te descargues ya ni Windows 10 de sus sitios oficiales</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-no-te-descargues-ya-ni-windows-10-sitios-oficiales-1417564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Microsoft quiere que no te descargues ya ni Windows 10 de sus sitios oficiales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-1417316'>Winos4.0: el virus que está poniendo en riesgo a las PC Gaming de todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-1417316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winos40-virus-poniendo-riesgo-pc-gaming-todo-mundo-4259079.jpg?tf=1200x' alt='Winos4.0: el virus que está poniendo en riesgo a las PC Gaming de todo el mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/life/escapan-43-monos-laboratorio-macaco-rhesus-1417558'>Se escapan 43 monos de un laboratorio, la policía pide 'no acercarse bajo ninguna circunstancia'</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/escapan-43-monos-laboratorio-macaco-rhesus-1417558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/escapan-43-monos-laboratorio-policia-pide-no-acercarse-estan-infectados-4259438.jpg?tf=1200x' alt='Se escapan 43 monos de un laboratorio, la policía pide 'no acercarse bajo ninguna circunstancia'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ya-puedes-controlar-casa-google-home-traves-gemini-android-1417168'>Ya puedes controlar tu casa con Google Home a través de Gemini para Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ya-puedes-controlar-casa-google-home-traves-gemini-android-1417168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-controlar-casa-google-home-traves-gemini-android-4258878.jpg?tf=1200x' alt='Ya puedes controlar tu casa con Google Home a través de Gemini para Android' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/misterio-salems-lot-no-mejor-adaptacion-vampiros-stephen-king-trata-serie-disponible-max-1417201'>El misterio de Salem’s Lot no es la mejor adaptación de vampiros de Stephen King: se trata de una serie y está disponible en Max</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/misterio-salems-lot-no-mejor-adaptacion-vampiros-stephen-king-trata-serie-disponible-max-1417201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/misterio-salems-lot-no-mejor-adaptacion-vampiros-stephen-king-trata-serie-disponible-max-4258874.jpg?tf=1200x' alt='El misterio de Salem’s Lot no es la mejor adaptación de vampiros de Stephen King: se trata de una serie y está disponible en Max' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-1416711'>¿Son los Amazon Fire TV y los dispositivos Android TV inmunes a los virus y el malware?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-1416711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/son-amazon-fire-tv-dispositivos-android-tv-inmunes-virus-malware-4257954.jpg?tf=1200x' alt='¿Son los Amazon Fire TV y los dispositivos Android TV inmunes a los virus y el malware?' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-estrena-nueva-pestana-actividad-chrome-sirve-1417560'>Google estrena una nueva pestaña de actividad para Chrome y para esto sirve</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-estrena-nueva-pestana-actividad-chrome-sirve-1417560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4259445.jpg?tf=1200x' alt='Google estrena una nueva pestaña de actividad para Chrome y para esto sirve' />
     </a>
 </div>
 
