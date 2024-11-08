@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-imac-chip-m4-tan-potente-podria-ser-pro-1417069'>He probado el iMac con chip M4 y es tan potente que podría ser un 'Pro'</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-imac-chip-m4-tan-potente-podria-ser-pro-1417069' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imac-m4-2024-4259020.jpg?tf=1200x' alt='He probado el iMac con chip M4 y es tan potente que podría ser un 'Pro'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/he-montado-sistema-seguridad-inteligente-casa-no-te-puede-faltar-1414777'>He montado un sistema de seguridad inteligente en casa, y esto es lo que no te puede faltar</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/he-montado-sistema-seguridad-inteligente-casa-no-te-puede-faltar-1414777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-videotimbre-seguridad-vigilancia-casa-hogar-4254761.jpg?tf=1200x' alt='He montado un sistema de seguridad inteligente en casa, y esto es lo que no te puede faltar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-1413153'>15 formas en las que Jeff Bezos, fundador de Amazon, revolucionó el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-1413153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/15-formas-jeff-bezos-fundador-amazon-revoluciono-mundo-4252016.jpg?tf=1200x' alt='15 formas en las que Jeff Bezos, fundador de Amazon, revolucionó el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/activar-opcion-no-rastrear-navegador-inutil-deberias-hacer-lugar-1417012'>Activar la opción "No rastrear" en tu navegador es inútil: esto es lo que deberías hacer en su lugar</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/activar-opcion-no-rastrear-navegador-inutil-deberias-hacer-lugar-1417012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/activar-opcion-no-rastrear-practicamente-inutil-deberias-hacer-lugar-4258528.jpg?tf=1200x' alt='Activar la opción "No rastrear" en tu navegador es inútil: esto es lo que deberías hacer en su lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/bitcoin-bate-record-cotizacion-promesas-trump-impulsar-criptomonedas-1417331'>El Bitcoin bate su récord de cotización por las promesas de Trump para impulsar las criptomonedas</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/bitcoin-bate-record-cotizacion-promesas-trump-impulsar-criptomonedas-1417331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bitcoin-bate-record-cotizacion-promesas-trump-impulsar-criptomonedas-4259084.jpg?tf=1200x' alt='El Bitcoin bate su récord de cotización por las promesas de Trump para impulsar las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/reloj-samsung-lte-rebajado-amazon-1415198'>Este reloj Samsung con LTE es increíblemente barato, y es nuevo: el Galaxy Watch7, a precio de saldo en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/reloj-samsung-lte-rebajado-amazon-1415198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883434.jpg?tf=1200x' alt='Este reloj Samsung con LTE es increíblemente barato, y es nuevo: el Galaxy Watch7, a precio de saldo en Amazon' />
     </a>
 </div>
 
