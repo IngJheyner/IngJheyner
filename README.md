@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sega-emojam-curioso-dispositivo-ninos-olviden-redes-sociales-1417581'>Sega lanza un curioso dispositivo para que los niños se olviden de las redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sega-emojam-curioso-dispositivo-ninos-olviden-redes-sociales-1417581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sega-lanza-curioso-dispositivo-ninos-olviden-redes-sociales-4259457.jpg?tf=1200x' alt='Sega lanza un curioso dispositivo para que los niños se olviden de las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-1417519'>Es una de las películas menos conocidas de Nicolas Cage, pero entusiasma a Tarantino: "Merece estar orgulloso"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-1417519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-4259396.jpg?tf=1200x' alt='Es una de las películas menos conocidas de Nicolas Cage, pero entusiasma a Tarantino: "Merece estar orgulloso"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/escapan-43-monos-laboratorio-macaco-rhesus-1417558'>Se escapan 43 monos de un laboratorio, la policía pide 'no acercarse bajo ninguna circunstancia'</a></h4>
     <a href='https://computerhoy.20minutos.es/life/escapan-43-monos-laboratorio-macaco-rhesus-1417558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/escapan-43-monos-laboratorio-policia-pide-no-acercarse-estan-infectados-4259438.jpg?tf=1200x' alt='Se escapan 43 monos de un laboratorio, la policía pide 'no acercarse bajo ninguna circunstancia'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/misterio-salems-lot-no-mejor-adaptacion-vampiros-stephen-king-trata-serie-disponible-max-1417201'>El misterio de Salem’s Lot no es la mejor adaptación de vampiros de Stephen King: se trata de una serie y está disponible en Max</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/misterio-salems-lot-no-mejor-adaptacion-vampiros-stephen-king-trata-serie-disponible-max-1417201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/misterio-salems-lot-no-mejor-adaptacion-vampiros-stephen-king-trata-serie-disponible-max-4258874.jpg?tf=1200x' alt='El misterio de Salem’s Lot no es la mejor adaptación de vampiros de Stephen King: se trata de una serie y está disponible en Max' />
     </a>
 </div>
 
