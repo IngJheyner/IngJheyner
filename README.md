@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-1417325'>Movistar alerta sobre la nueva estafa del cambio de router, te roban tus claves y datos personales</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-1417325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-alerta-nueva-estafa-cambio-router-te-roban-claves-datos-personales-4259083.jpg?tf=1200x' alt='Movistar alerta sobre la nueva estafa del cambio de router, te roban tus claves y datos personales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363'>Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-1417363' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Apple logra colar tres iPhone entre los móviles más vendidos del mundo, incluido el iPhone 15' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pasara-x-tesla-spacex-elon-musk-victoria-donald-trump-1417346'>Qué pasará con X, Tesla, SpaceX y Elon Musk tras la victoria de Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/pasara-x-tesla-spacex-elon-musk-victoria-donald-trump-1417346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4258548.jpg?tf=1200x' alt='Qué pasará con X, Tesla, SpaceX y Elon Musk tras la victoria de Donald Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-tamano-fotos-movil-android-ganar-espacio-almacenamiento-1415687'>Cómo reducir el tamaño de las fotos de tu móvil Android y ganar espacio de almacenamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-tamano-fotos-movil-android-ganar-espacio-almacenamiento-1415687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-reducir-tamano-fotos-movil-android-ganar-espacio-almacenamiento-4258828.jpg?tf=1200x' alt='Cómo reducir el tamaño de las fotos de tu móvil Android y ganar espacio de almacenamiento' />
     </a>
 </div>
 
