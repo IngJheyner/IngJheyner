@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/como-activar-proteccion-antirrobo-google-movil-android-proteger-datos-personales-1416984'>Cómo activar la protección antirrobo de Google en tu móvil Android para proteger tus datos personales</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/como-activar-proteccion-antirrobo-google-movil-android-proteger-datos-personales-1416984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-activar-proteccion-antirrobo-google-movil-android-proteger-datos-personales-4258521.jpg?tf=1200x' alt='Cómo activar la protección antirrobo de Google en tu móvil Android para proteger tus datos personales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/sol-tiene-fecha-caducidad-tiempo-queda-vida-tierra-1417067'>El Sol tiene fecha de caducidad: este es el tiempo que le queda a la vida en la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/sol-tiene-fecha-caducidad-tiempo-queda-vida-tierra-1417067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sol-4258631.jpg?tf=1200x' alt='El Sol tiene fecha de caducidad: este es el tiempo que le queda a la vida en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326'>Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-Men</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-planea-otra-trilogia-cinematografica-star-wars-tiene-lazos-x-men-4259067.jpg?tf=1200x' alt='Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-Men' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302'>Max también anuncia el fin de las cuentas compartidas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-tambien-anuncia-fin-cuentas-compartidas-1417302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/ahora-hbo-max-max-50-descuento-toda-vida-pierde-todo-valor-3302424.jpg?tf=1200x' alt='Max también anuncia el fin de las cuentas compartidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/estudio-oxford-sugiere-existe-nuevo-limite-velocidad-universo-1416512'>Un estudio de Oxford sugiere que existe un nuevo límite de velocidad en el universo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/estudio-oxford-sugiere-existe-nuevo-limite-velocidad-universo-1416512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/universo-4257642.jpg?tf=1200x' alt='Un estudio de Oxford sugiere que existe un nuevo límite de velocidad en el universo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293'>La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-trashing-documentos-fotos-borradas-pueden-convertirse-peor-enemigo-1417293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-electronicos-tirados-basura-4259021.jpg?tf=1200x' alt='La Guardia Civil alerta del “trashing”: tus documentos y fotos borradas pueden convertirse en tu peor enemigo' />
     </a>
 </div>
 
