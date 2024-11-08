@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502'>Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-4259362.jpg?tf=1200x' alt='Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sega-emojam-curioso-dispositivo-ninos-olviden-redes-sociales-1417581'>Sega lanza un curioso dispositivo para que los niños se olviden de las redes sociales</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sega-emojam-curioso-dispositivo-ninos-olviden-redes-sociales-1417581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sega-lanza-curioso-dispositivo-ninos-olviden-redes-sociales-4259457.jpg?tf=1200x' alt='Sega lanza un curioso dispositivo para que los niños se olviden de las redes sociales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-no-te-descargues-ya-ni-windows-10-sitios-oficiales-1417564'>Microsoft quiere que no te descargues ya ni Windows 10 de sus sitios oficiales</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-no-te-descargues-ya-ni-windows-10-sitios-oficiales-1417564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Microsoft quiere que no te descargues ya ni Windows 10 de sus sitios oficiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/escapan-43-monos-laboratorio-macaco-rhesus-1417558'>Se escapan 43 monos de un laboratorio, la policía pide 'no acercarse bajo ninguna circunstancia'</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/escapan-43-monos-laboratorio-macaco-rhesus-1417558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/escapan-43-monos-laboratorio-policia-pide-no-acercarse-estan-infectados-4259438.jpg?tf=1200x' alt='Se escapan 43 monos de un laboratorio, la policía pide 'no acercarse bajo ninguna circunstancia'' />
     </a>
 </div>
 
