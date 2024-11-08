@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326'>Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-men</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326'>Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-Men</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/starwars-nueva-trilogia-cinematografica-x-men-1417326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-planea-otra-trilogia-cinematografica-star-wars-tiene-lazos-x-men-4259067.jpg?tf=1200x' alt='Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-men' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-planea-otra-trilogia-cinematografica-star-wars-tiene-lazos-x-men-4259067.jpg?tf=1200x' alt='Disney planea otra trilogía cinematográfica de Star Wars, y tiene lazos con X-Men' />
     </a>
 </div>
 
