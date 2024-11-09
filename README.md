@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599'>El gallo más alto del mundo mide 35 metros y está en Filipinas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gallo-alto-mundo-mide-40-metros-filipinas-4259501.jpg?tf=1200x' alt='El gallo más alto del mundo mide 35 metros y está en Filipinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/arte-engano-personalizado-spear-phishing-peligro-compartir-demasiado-internet-1413419'>El arte del engaño personalizado: spear phishing y el peligro de compartir demasiado en Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/arte-engano-personalizado-spear-phishing-peligro-compartir-demasiado-internet-1413419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-ciberseguridad-4253780.jpg?tf=1200x' alt='El arte del engaño personalizado: spear phishing y el peligro de compartir demasiado en Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/encontrar-procesadores-ia-potentes-asus-zenbook-s-16-ha-sido-mejor-sorpresa-1415653'>Encontrar uno de los procesadores con IA más potentes en el Asus Zenbook S 16 ha sido la mejor sorpresa</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/encontrar-procesadores-ia-potentes-asus-zenbook-s-16-ha-sido-mejor-sorpresa-1415653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/asus-zenbook-s-16-4256297.jpg?tf=1200x' alt='Encontrar uno de los procesadores con IA más potentes en el Asus Zenbook S 16 ha sido la mejor sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/puedes-hacer-tener-todas-series-peliculas-solo-clic-distancia-smarttv-1408372'>Lo que puedes hacer para tener todas tus series y películas a un solo clic de distancia en tu SmartTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/puedes-hacer-tener-todas-series-peliculas-solo-clic-distancia-smarttv-1408372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-3595564.jpg?tf=1200x' alt='Lo que puedes hacer para tener todas tus series y películas a un solo clic de distancia en tu SmartTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-1413698'>Inyectar diamantes en el cielo: la última propuesta para enfriar la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-1413698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-4252919.jpg?tf=1200x' alt='Inyectar diamantes en el cielo: la última propuesta para enfriar la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/secreto-exito-temu-como-ha-llegado-competir-gigantes-como-shein-alibaba-1417047'>El secreto del éxito de Temu: cómo ha llegado a competir contra gigantes como Shein y Alibaba</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/secreto-exito-temu-como-ha-llegado-competir-gigantes-como-shein-alibaba-1417047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='El secreto del éxito de Temu: cómo ha llegado a competir contra gigantes como Shein y Alibaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-mas-barata-cosori-rebaja-amazon-1414883'>Esta es la freidora más barata de Cosori: Amazon la está liquidando por solo 79 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/freidora-mas-barata-cosori-rebaja-amazon-1414883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-4254932.jpg?tf=1200x' alt='Esta es la freidora más barata de Cosori: Amazon la está liquidando por solo 79 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/amd-gana-mercado-intel-tres-meses-record-absoluto-1417593'>AMD le quita casi un 6% del mercado a Intel en tres meses, récord absoluto</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/amd-gana-mercado-intel-tres-meses-record-absoluto-1417593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amd-ryzen-9000-3429323.jpg?tf=1200x' alt='AMD le quita casi un 6% del mercado a Intel en tres meses, récord absoluto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502'>Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-4259362.jpg?tf=1200x' alt='Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción' />
     </a>
 </div>
 
