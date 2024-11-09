@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-mas-barata-cosori-rebaja-amazon-1414883'>Esta es la freidora más barata de Cosori: Amazon la está liquidando por solo 79 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/freidora-mas-barata-cosori-rebaja-amazon-1414883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-4254932.jpg?tf=1200x' alt='Esta es la freidora más barata de Cosori: Amazon la está liquidando por solo 79 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/amd-gana-mercado-intel-tres-meses-record-absoluto-1417593'>AMD le quita casi un 6% del mercado a Intel en tres meses, récord absoluto</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/amd-gana-mercado-intel-tres-meses-record-absoluto-1417593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amd-ryzen-9000-3429323.jpg?tf=1200x' alt='AMD le quita casi un 6% del mercado a Intel en tres meses, récord absoluto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-1417519'>Es una de las películas menos conocidas de Nicolas Cage, pero entusiasma a Tarantino: "Merece estar orgulloso"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-1417519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-4259396.jpg?tf=1200x' alt='Es una de las películas menos conocidas de Nicolas Cage, pero entusiasma a Tarantino: "Merece estar orgulloso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-premium-sube-44-quitar-anuncios-ya-no-alcance-todos-bolsillos-1417566'>YouTube Premium sube hasta un 44 %: quitar los anuncios ya no está al alcance de todos los bolsillos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-premium-sube-44-quitar-anuncios-ya-no-alcance-todos-bolsillos-1417566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/subida-precio-youtube-premium-4259454.jpg?tf=1200x' alt='YouTube Premium sube hasta un 44 %: quitar los anuncios ya no está al alcance de todos los bolsillos' />
     </a>
 </div>
 
