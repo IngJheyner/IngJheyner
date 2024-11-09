@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/extrana-decision-google-relativa-requisitos-minimos-android-tv-1417698'>La extraña decisión de Google relativa a los requisitos mínimos para Android TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/extrana-decision-google-relativa-requisitos-minimos-android-tv-1417698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='La extraña decisión de Google relativa a los requisitos mínimos para Android TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/pasa-abres-mismo-tiempo-60-correos-electronicos-outlook-1417696'>Esto es lo que pasa si abres al mismo tiempo más de 60 correos electrónicos en Outlook</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/pasa-abres-mismo-tiempo-60-correos-electronicos-outlook-1417696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/correo-electronico-outlook-4259655.jpg?tf=1200x' alt='Esto es lo que pasa si abres al mismo tiempo más de 60 correos electrónicos en Outlook' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-1400834'>5 películas de terror ambientadas en el espacio que ningún fan de Alien debería perderse</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-1400834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-3986007.jpg?tf=1200x' alt='5 películas de terror ambientadas en el espacio que ningún fan de Alien debería perderse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-te-permitira-conectarte-rapido-facil-redes-wifi-publicas-1417674'>Android te permitirá conectarte rápido y fácil a las redes WiFi públicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-te-permitira-conectarte-rapido-facil-redes-wifi-publicas-1417674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/red-wifi-publica-aeropuerto-4259595.jpg?tf=1200x' alt='Android te permitirá conectarte rápido y fácil a las redes WiFi públicas' />
     </a>
 </div>
 
