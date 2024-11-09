@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mac-apague-encienda-automaticamente-1416899'>Cómo programar tu Mac para que se apague y encienda automáticamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mac-apague-encienda-automaticamente-1416899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-programar-mac-apague-encienda-automaticamente-4258398.jpg?tf=1200x' alt='Cómo programar tu Mac para que se apague y encienda automáticamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-te-han-bloqueado-telegram-1408017'>Cómo saber si te han bloqueado en Telegram</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-te-han-bloqueado-telegram-1408017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-telegram-3291829.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en Telegram' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/consola-cara-historia-no-reciente-tiene-30-anos-1417274'>Esta es la consola más cara de la historia y no es reciente, tiene más de 30 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/consola-cara-historia-no-reciente-tiene-30-anos-1417274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consola-cara-historia-no-reciente-tiene-30-anos-4259045.jpg?tf=1200x' alt='Esta es la consola más cara de la historia y no es reciente, tiene más de 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599'>El gallo más grande del mundo mide 35 metros y está en Filipinas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gallo-alto-mundo-mide-40-metros-filipinas-4259501.jpg?tf=1200x' alt='El gallo más grande del mundo mide 35 metros y está en Filipinas' />
     </a>
 </div>
 
