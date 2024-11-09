@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667'>Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fin-soporte-aplicaciones-windows-11-4259588.jpg?tf=1200x' alt='Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/chatgpt-actualiza-windows-11-estas-novedades-1417661'>ChatGPT se actualiza en Windows 11 con estas novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chatgpt-actualiza-windows-11-estas-novedades-1417661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-windows-4259576.jpg?tf=1200x' alt='ChatGPT se actualiza en Windows 11 con estas novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631'>Google Maps ahora te permite elegir y pintar tu propio coche virtual</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4259535.jpg?tf=1200x' alt='Google Maps ahora te permite elegir y pintar tu propio coche virtual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-what3words-consigo-localizar-familiares-amigos-grandes-espacios-aglomeraciones-1416601'>Google Maps y what3words, así consigo localizar a mis familiares y amigos en grandes espacios o aglomeraciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-what3words-consigo-localizar-familiares-amigos-grandes-espacios-aglomeraciones-1416601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-what3words-consigo-localizar-familiares-amigos-grandes-espacios-aglomeraciones-4257793.jpg?tf=1200x' alt='Google Maps y what3words, así consigo localizar a mis familiares y amigos en grandes espacios o aglomeraciones' />
     </a>
 </div>
 
