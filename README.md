@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-1400834'>5 películas de terror ambientadas en el espacio que ningún fan de Alien debería perderse</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-1400834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-3986007.jpg?tf=1200x' alt='5 películas de terror ambientadas en el espacio que ningún fan de Alien debería perderse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-te-permitira-conectarte-rapido-facil-redes-wifi-publicas-1417674'>Android te permitirá conectarte rápido y fácil a las redes WiFi públicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-te-permitira-conectarte-rapido-facil-redes-wifi-publicas-1417674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/red-wifi-publica-aeropuerto-4259595.jpg?tf=1200x' alt='Android te permitirá conectarte rápido y fácil a las redes WiFi públicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667'>Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fin-soporte-aplicaciones-windows-11-4259588.jpg?tf=1200x' alt='Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-tarjeta-credito-podras-pagar-usando-solo-palma-mano-1417652'>Olvídate de tu tarjeta de crédito: podrás pagar usando solo la palma de tu mano</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-tarjeta-credito-podras-pagar-usando-solo-palma-mano-1417652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tencent-palm-4259561.jpg?tf=1200x' alt='Olvídate de tu tarjeta de crédito: podrás pagar usando solo la palma de tu mano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultrarresistente-amazfit-planta-cara-garmin-amazon-ha-rebajado-cupon-descuento-1417416'>Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultrarresistente-amazfit-planta-cara-garmin-amazon-ha-rebajado-cupon-descuento-1417416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazfit-t-rex-3-4259191.jpg?tf=1200x' alt='Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631'>Google Maps ahora te permite elegir y pintar tu propio coche virtual</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4259535.jpg?tf=1200x' alt='Google Maps ahora te permite elegir y pintar tu propio coche virtual' />
     </a>
 </div>
 
