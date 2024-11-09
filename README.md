@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631'>Google Maps ahora te permite elegir y pintar tu propio coche virtual</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4259535.jpg?tf=1200x' alt='Google Maps ahora te permite elegir y pintar tu propio coche virtual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-what3words-consigo-localizar-familiares-amigos-grandes-espacios-aglomeraciones-1416601'>Google Maps y what3words, así consigo localizar a mis familiares y amigos en grandes espacios o aglomeraciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-what3words-consigo-localizar-familiares-amigos-grandes-espacios-aglomeraciones-1416601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-what3words-consigo-localizar-familiares-amigos-grandes-espacios-aglomeraciones-4257793.jpg?tf=1200x' alt='Google Maps y what3words, así consigo localizar a mis familiares y amigos en grandes espacios o aglomeraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mac-apague-encienda-automaticamente-1416899'>Cómo programar tu Mac para que se apague y encienda automáticamente</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mac-apague-encienda-automaticamente-1416899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-programar-mac-apague-encienda-automaticamente-4258398.jpg?tf=1200x' alt='Cómo programar tu Mac para que se apague y encienda automáticamente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601'>Raspberry Pi estrena un hub oficial para añadir más puertos USB</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-estrena-hub-oficial-anadir-puertos-usb-4259503.jpg?tf=1200x' alt='Raspberry Pi estrena un hub oficial para añadir más puertos USB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-colegio-chromebook-hacer-cambio-usuario-1410447'>Cómo eliminar la cuenta del colegio en Chromebook o hacer un cambio de usuario</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-colegio-chromebook-hacer-cambio-usuario-1410447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuenta-estudiantil-chromebook-4247343.jpg?tf=1200x' alt='Cómo eliminar la cuenta del colegio en Chromebook o hacer un cambio de usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/consola-cara-historia-no-reciente-tiene-30-anos-1417274'>Esta es la consola más cara de la historia y no es reciente, tiene más de 30 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/consola-cara-historia-no-reciente-tiene-30-anos-1417274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consola-cara-historia-no-reciente-tiene-30-anos-4259045.jpg?tf=1200x' alt='Esta es la consola más cara de la historia y no es reciente, tiene más de 30 años' />
     </a>
 </div>
 
