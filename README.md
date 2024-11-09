@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-tarjeta-credito-podras-pagar-usando-solo-palma-mano-1417652'>Olvídate de tu tarjeta de crédito: podrás pagar usando solo la palma de tu mano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-tarjeta-credito-podras-pagar-usando-solo-palma-mano-1417652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tencent-palm-4259561.jpg?tf=1200x' alt='Olvídate de tu tarjeta de crédito: podrás pagar usando solo la palma de tu mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultrarresistente-amazfit-planta-cara-garmin-amazon-ha-rebajado-cupon-descuento-1417416'>Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-ultrarresistente-amazfit-planta-cara-garmin-amazon-ha-rebajado-cupon-descuento-1417416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazfit-t-rex-3-4259191.jpg?tf=1200x' alt='Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631'>Google Maps ahora te permite elegir y pintar tu propio coche virtual</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-ahora-te-permite-elegir-pintar-propio-coche-virtual-1417631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4259535.jpg?tf=1200x' alt='Google Maps ahora te permite elegir y pintar tu propio coche virtual' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mac-apague-encienda-automaticamente-1416899'>Cómo programar tu Mac para que se apague y encienda automáticamente</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-programar-mac-apague-encienda-automaticamente-1416899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-programar-mac-apague-encienda-automaticamente-4258398.jpg?tf=1200x' alt='Cómo programar tu Mac para que se apague y encienda automáticamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-te-han-bloqueado-telegram-1408017'>Cómo saber si te han bloqueado en Telegram</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-te-han-bloqueado-telegram-1408017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-telegram-3291829.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601'>Raspberry Pi estrena un hub oficial para añadir más puertos USB</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-estrena-hub-oficial-anadir-puertos-usb-4259503.jpg?tf=1200x' alt='Raspberry Pi estrena un hub oficial para añadir más puertos USB' />
     </a>
 </div>
 
