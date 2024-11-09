@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-te-han-bloqueado-telegram-1408017'>Cómo saber si te han bloqueado en Telegram</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-te-han-bloqueado-telegram-1408017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/aplicacion-telegram-3291829.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601'>Raspberry Pi estrena un hub oficial para añadir más puertos USB</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-estrena-hub-oficial-anadir-puertos-usb-4259503.jpg?tf=1200x' alt='Raspberry Pi estrena un hub oficial para añadir más puertos USB' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599'>El gallo más grande del mundo mide 35 metros y está en Filipinas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gallo-alto-mundo-mide-40-metros-filipinas-4259501.jpg?tf=1200x' alt='El gallo más grande del mundo mide 35 metros y está en Filipinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/arte-engano-personalizado-spear-phishing-peligro-compartir-demasiado-internet-1413419'>El arte del engaño personalizado: spear phishing y el peligro de compartir demasiado en Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/arte-engano-personalizado-spear-phishing-peligro-compartir-demasiado-internet-1413419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-ciberseguridad-4253780.jpg?tf=1200x' alt='El arte del engaño personalizado: spear phishing y el peligro de compartir demasiado en Internet' />
     </a>
 </div>
 
