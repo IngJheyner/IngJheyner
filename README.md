@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/dispositivos-apple-podrian-ignorar-muy-pronto-comando-oye-siri-1417690'>Los dispositivos de Apple podrían ignorar muy pronto el comando “Oye Siri”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/dispositivos-apple-podrian-ignorar-muy-pronto-comando-oye-siri-1417690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/siri-iphone-4259610.jpg?tf=1200x' alt='Los dispositivos de Apple podrían ignorar muy pronto el comando “Oye Siri”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-borrar-filtros-chats-predeterminados-android-1417675'>WhatsApp te permitirá borrar los filtros de chats predeterminados en Android</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-borrar-filtros-chats-predeterminados-android-1417675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conversacion-whatsapp-4259596.jpg?tf=1200x' alt='WhatsApp te permitirá borrar los filtros de chats predeterminados en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667'>Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fin-soporte-aplicaciones-windows-11-4259588.jpg?tf=1200x' alt='Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/chatgpt-actualiza-windows-11-estas-novedades-1417661'>ChatGPT se actualiza en Windows 11 con estas novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/chatgpt-actualiza-windows-11-estas-novedades-1417661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-windows-4259576.jpg?tf=1200x' alt='ChatGPT se actualiza en Windows 11 con estas novedades' />
     </a>
 </div>
 
