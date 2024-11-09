@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/amd-gana-mercado-intel-tres-meses-record-absoluto-1417593'>AMD le gana casi un 6% del mercado a Intel en tres meses, récord absoluto</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/amd-gana-mercado-intel-tres-meses-record-absoluto-1417593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/amd-ryzen-9000-3429323.jpg?tf=1200x' alt='AMD le gana casi un 6% del mercado a Intel en tres meses, récord absoluto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502'>Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-4259362.jpg?tf=1200x' alt='Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-premium-sube-44-quitar-anuncios-ya-no-alcance-todos-bolsillos-1417566'>YouTube Premium sube hasta un 44 %: quitar los anuncios ya no está al alcance de todos los bolsillos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-premium-sube-44-quitar-anuncios-ya-no-alcance-todos-bolsillos-1417566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/subida-precio-youtube-premium-4259454.jpg?tf=1200x' alt='YouTube Premium sube hasta un 44 %: quitar los anuncios ya no está al alcance de todos los bolsillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-no-te-descargues-ya-ni-windows-10-sitios-oficiales-1417564'>Microsoft quiere que no te descargues ya ni Windows 10 de sus sitios oficiales</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-no-te-descargues-ya-ni-windows-10-sitios-oficiales-1417564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Microsoft quiere que no te descargues ya ni Windows 10 de sus sitios oficiales' />
     </a>
 </div>
 
