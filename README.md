@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/pasa-abres-mismo-tiempo-60-correos-electronicos-outlook-1417696'>Esto es lo que pasa si abres al mismo tiempo más de 60 correos electrónicos en Outlook</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/pasa-abres-mismo-tiempo-60-correos-electronicos-outlook-1417696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/correo-electronico-outlook-4259655.jpg?tf=1200x' alt='Esto es lo que pasa si abres al mismo tiempo más de 60 correos electrónicos en Outlook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/dispositivos-apple-podrian-ignorar-muy-pronto-comando-oye-siri-1417690'>Los dispositivos de Apple podrían ignorar muy pronto el comando “Oye Siri”</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/dispositivos-apple-podrian-ignorar-muy-pronto-comando-oye-siri-1417690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/siri-iphone-4259610.jpg?tf=1200x' alt='Los dispositivos de Apple podrían ignorar muy pronto el comando “Oye Siri”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/android-te-permitira-conectarte-rapido-facil-redes-wifi-publicas-1417674'>Android te permitirá conectarte rápido y fácil a las redes WiFi públicas</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-te-permitira-conectarte-rapido-facil-redes-wifi-publicas-1417674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/red-wifi-publica-aeropuerto-4259595.jpg?tf=1200x' alt='Android te permitirá conectarte rápido y fácil a las redes WiFi públicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667'>Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/dos-aplicaciones-clasicas-windows-11-dejaran-funcionar-2025-1417667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fin-soporte-aplicaciones-windows-11-4259588.jpg?tf=1200x' alt='Las dos aplicaciones clásicas de Windows 11 que dejarán de funcionar en 2025' />
     </a>
 </div>
 
