@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-1413698'>Inyectar diamantes en el cielo: la última propuesta para enfriar la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-1413698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-4252919.jpg?tf=1200x' alt='Inyectar diamantes en el cielo: la última propuesta para enfriar la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/secreto-exito-temu-como-ha-llegado-competir-gigantes-como-shein-alibaba-1417047'>El secreto del éxito de Temu: cómo ha llegado a competir contra gigantes como Shein y Alibaba</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/secreto-exito-temu-como-ha-llegado-competir-gigantes-como-shein-alibaba-1417047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='El secreto del éxito de Temu: cómo ha llegado a competir contra gigantes como Shein y Alibaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/freidora-mas-barata-cosori-rebaja-amazon-1414883'>Esta es la freidora más barata de Cosori: Amazon la está liquidando por solo 79 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/freidora-mas-barata-cosori-rebaja-amazon-1414883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cosori-4254932.jpg?tf=1200x' alt='Esta es la freidora más barata de Cosori: Amazon la está liquidando por solo 79 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502'>Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-1417502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-humedad-ventanas-sorprendente-truco-japones-evitar-condensacion-necesidad-gastar-calefaccion-4259362.jpg?tf=1200x' alt='Adiós a la humedad de las ventanas: el sorprendente truco japonés para evitar la condensación sin necesidad de gastar en calefacción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sega-emojam-curioso-dispositivo-ninos-olviden-redes-sociales-1417581'>Sega lanza un curioso dispositivo para que los niños se olviden de las redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sega-emojam-curioso-dispositivo-ninos-olviden-redes-sociales-1417581' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sega-lanza-curioso-dispositivo-ninos-olviden-redes-sociales-4259457.jpg?tf=1200x' alt='Sega lanza un curioso dispositivo para que los niños se olviden de las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-1417519'>Es una de las películas menos conocidas de Nicolas Cage, pero entusiasma a Tarantino: "Merece estar orgulloso"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-1417519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/peliculas-menos-conocidas-nicolas-cage-pero-entusiasma-tarantino-merece-estar-orgulloso-4259396.jpg?tf=1200x' alt='Es una de las películas menos conocidas de Nicolas Cage, pero entusiasma a Tarantino: "Merece estar orgulloso"' />
     </a>
 </div>
 
