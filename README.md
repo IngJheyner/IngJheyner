@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599'>El gallo más alto del mundo mide 35 metros y está en Filipinas</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601'>Raspberry Pi estrena un hub oficial para añadir más puertos USB</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-estrena-hub-oficial-puertos-usb-1417601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-estrena-hub-oficial-anadir-puertos-usb-4259503.jpg?tf=1200x' alt='Raspberry Pi estrena un hub oficial para añadir más puertos USB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-colegio-chromebook-hacer-cambio-usuario-1410447'>Cómo eliminar la cuenta del colegio en Chromebook o hacer un cambio de usuario</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-cuenta-colegio-chromebook-hacer-cambio-usuario-1410447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cuenta-estudiantil-chromebook-4247343.jpg?tf=1200x' alt='Cómo eliminar la cuenta del colegio en Chromebook o hacer un cambio de usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/consola-cara-historia-no-reciente-tiene-30-anos-1417274'>Esta es la consola más cara de la historia y no es reciente, tiene más de 30 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/consola-cara-historia-no-reciente-tiene-30-anos-1417274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consola-cara-historia-no-reciente-tiene-30-anos-4259045.jpg?tf=1200x' alt='Esta es la consola más cara de la historia y no es reciente, tiene más de 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599'>El gallo más grande del mundo mide 35 metros y está en Filipinas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/edificio-gallo-alto-mundo-filipinas-1417599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gallo-alto-mundo-mide-40-metros-filipinas-4259501.jpg?tf=1200x' alt='El gallo más alto del mundo mide 35 metros y está en Filipinas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gallo-alto-mundo-mide-40-metros-filipinas-4259501.jpg?tf=1200x' alt='El gallo más grande del mundo mide 35 metros y está en Filipinas' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/arte-engano-personalizado-spear-phishing-peligro-compartir-demasiado-internet-1413419'>El arte del engaño personalizado: spear phishing y el peligro de compartir demasiado en Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/arte-engano-personalizado-spear-phishing-peligro-compartir-demasiado-internet-1413419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-ciberseguridad-4253780.jpg?tf=1200x' alt='El arte del engaño personalizado: spear phishing y el peligro de compartir demasiado en Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/encontrar-procesadores-ia-potentes-asus-zenbook-s-16-ha-sido-mejor-sorpresa-1415653'>Encontrar uno de los procesadores con IA más potentes en el Asus Zenbook S 16 ha sido la mejor sorpresa</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/encontrar-procesadores-ia-potentes-asus-zenbook-s-16-ha-sido-mejor-sorpresa-1415653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/asus-zenbook-s-16-4256297.jpg?tf=1200x' alt='Encontrar uno de los procesadores con IA más potentes en el Asus Zenbook S 16 ha sido la mejor sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/puedes-hacer-tener-todas-series-peliculas-solo-clic-distancia-smarttv-1408372'>Lo que puedes hacer para tener todas tus series y películas a un solo clic de distancia en tu SmartTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/puedes-hacer-tener-todas-series-peliculas-solo-clic-distancia-smarttv-1408372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/modo-cine-smart-tv-sirve-deberias-usarlo-ahora-mismo-3595564.jpg?tf=1200x' alt='Lo que puedes hacer para tener todas tus series y películas a un solo clic de distancia en tu SmartTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-1413698'>Inyectar diamantes en el cielo: la última propuesta para enfriar la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-1413698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inyectar-diamantes-cielo-ultima-propuesta-enfriar-tierra-4252919.jpg?tf=1200x' alt='Inyectar diamantes en el cielo: la última propuesta para enfriar la Tierra' />
     </a>
 </div>
 
