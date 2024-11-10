@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alexa-cumple-10-anos-ha-evolucionado-altavoz-inteligente-1417114'>Alexa cumple 10 años: así ha evolucionado este altavoz inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alexa-cumple-10-anos-ha-evolucionado-altavoz-inteligente-1417114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-amazon-3542521.jpg?tf=1200x' alt='Alexa cumple 10 años: así ha evolucionado este altavoz inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-trabaja-nuevo-tema-claro-minimalista-va-encantarte-1417700'>WhatsApp trabaja en un nuevo tema claro minimalista que va a encantarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-trabaja-nuevo-tema-claro-minimalista-va-encantarte-1417700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-tema-minimalista-whatsapp-4259672.jpg?tf=1200x' alt='WhatsApp trabaja en un nuevo tema claro minimalista que va a encantarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-maquina-virtual-windows-11-acceder-cualquier-distribucion-linux-1413426'>Cómo usar una máquina virtual en Windows 11 para acceder a cualquier distribución de Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-maquina-virtual-windows-11-acceder-cualquier-distribucion-linux-1413426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maquina-virtual-windows-11-linux-virtualbox-4252440.jpg?tf=1200x' alt='Cómo usar una máquina virtual en Windows 11 para acceder a cualquier distribución de Linux' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164'>Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redes-sociales-estandares-belleza-4258805.jpg?tf=1200x' alt='Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-estaria-muy-cerca-lanzar-smartphone-plegable-triptico-1417691'>Samsung estaría muy cerca de lanzar un smartphone plegable tríptico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-estaria-muy-cerca-lanzar-smartphone-plegable-triptico-1417691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435735.jpg?tf=1200x' alt='Samsung estaría muy cerca de lanzar un smartphone plegable tríptico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-cybercab-cuando-veras-calles-robotaxi-elon-musk-1414540'>¿Qué es Tesla Cybercab y cuándo verás por las calles el robotaxi de Elon Musk?</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-cybercab-cuando-veras-calles-robotaxi-elon-musk-1414540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tesla-cybercab-4248126.jpg?tf=1200x' alt='¿Qué es Tesla Cybercab y cuándo verás por las calles el robotaxi de Elon Musk?' />
     </a>
 </div>
 
