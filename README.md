@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773'>Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aun-no-ha-podido-capturar-42-monos-escapados-laboratorio-estan-pasando-grande-4259834.jpg?tf=1200x' alt='Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412'>Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-4259192.jpg?tf=1200x' alt='Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/cambio-ultima-actualizacion-aplicacion-youtube-convertira-imprescindible-ti-1417746'>El cambio en la última actualización de la aplicación de YouTube que se convertirá en imprescindible para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cambio-ultima-actualizacion-aplicacion-youtube-convertira-imprescindible-ti-1417746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-4259786.jpg?tf=1200x' alt='El cambio en la última actualización de la aplicación de YouTube que se convertirá en imprescindible para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737'>Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11' />
     </a>
 </div>
 
