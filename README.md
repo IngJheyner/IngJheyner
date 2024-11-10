@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-reparar-iphone-16-kits-reparacion-apple-pero-no-son-baratos-1417782'>Ya puedes reparar tu iPhone 16 con los kits de reparación de Apple, pero no son baratos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ya-puedes-reparar-iphone-16-kits-reparacion-apple-pero-no-son-baratos-1417782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-16-pro-transparente-4247423.jpg?tf=1200x' alt='Ya puedes reparar tu iPhone 16 con los kits de reparación de Apple, pero no son baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781'>La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-serie-star-wars-ya-tiene-fecha-estreno-segunda-temporada-4259843.jpg?tf=1200x' alt='La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412'>Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-4259192.jpg?tf=1200x' alt='Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-estrena-medida-seguridad-ios-181-todo-quebradero-cabeza-delincuentes-fuerzas-orden-1417753'>Apple estrena una medida de seguridad en iOS 18.1 que es todo un quebradero de cabeza para delincuentes y hasta para las fuerzas del orden</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-estrena-medida-seguridad-ios-181-todo-quebradero-cabeza-delincuentes-fuerzas-orden-1417753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/seguridad-iphone-4259794.jpg?tf=1200x' alt='Apple estrena una medida de seguridad en iOS 18.1 que es todo un quebradero de cabeza para delincuentes y hasta para las fuerzas del orden' />
     </a>
 </div>
 
