@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164'>Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redes-sociales-estandares-belleza-4258805.jpg?tf=1200x' alt='Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-estaria-muy-cerca-lanzar-smartphone-plegable-triptico-1417691'>Samsung estaría muy cerca de lanzar un smartphone plegable tríptico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-estaria-muy-cerca-lanzar-smartphone-plegable-triptico-1417691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435735.jpg?tf=1200x' alt='Samsung estaría muy cerca de lanzar un smartphone plegable tríptico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/comida-extrana-venden-puestos-callejeros-china-pelo-humano-1417714'>Esta es la comida más extraña que venden en los puestos callejeros de China</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/comida-extrana-venden-puestos-callejeros-china-pelo-humano-1417714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/comida-extrana-venden-puestos-callejeros-china-4259736.jpg?tf=1200x' alt='Esta es la comida más extraña que venden en los puestos callejeros de China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/viajar-irse-vacaciones-podrian-retrasar-envejecimiento-revela-nuevo-estudio-1406707'>Viajar e irse de vacaciones podrían retrasar el envejecimiento, revela un nuevo estudio </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/viajar-irse-vacaciones-podrian-retrasar-envejecimiento-revela-nuevo-estudio-1406707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/viajar-irse-vacaciones-podrian-retrasar-envejecimiento-revela-nuevo-estudio-4241171.jpg?tf=1200x' alt='Viajar e irse de vacaciones podrían retrasar el envejecimiento, revela un nuevo estudio ' />
     </a>
 </div>
 
