@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737'>Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alexa-cumple-10-anos-ha-evolucionado-altavoz-inteligente-1417114'>Alexa cumple 10 años: así ha evolucionado este altavoz inteligente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alexa-cumple-10-anos-ha-evolucionado-altavoz-inteligente-1417114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-amazon-3542521.jpg?tf=1200x' alt='Alexa cumple 10 años: así ha evolucionado este altavoz inteligente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028'>Cómo configurar correctamente la función de evitar peajes de Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eliminar-peajes-waze-4250063.jpg?tf=1200x' alt='Cómo configurar correctamente la función de evitar peajes de Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164'>Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redes-sociales-estandares-belleza-4258805.jpg?tf=1200x' alt='Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos' />
     </a>
 </div>
 
