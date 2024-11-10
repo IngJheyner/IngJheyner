@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/detective-conan-gratis-espanol-mejores-series-anime-historia-1417785'>Ya puedes ver gratis y en español una de las mejores series de anime de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/detective-conan-gratis-espanol-mejores-series-anime-historia-1417785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-ver-gratis-espanol-mejores-series-anime-historia-4259846.jpg?tf=1200x' alt='Ya puedes ver gratis y en español una de las mejores series de anime de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-reparar-iphone-16-kits-reparacion-apple-pero-no-son-baratos-1417782'>Ya puedes reparar tu iPhone 16 con los kits de reparación de Apple, pero no son baratos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ya-puedes-reparar-iphone-16-kits-reparacion-apple-pero-no-son-baratos-1417782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-16-pro-transparente-4247423.jpg?tf=1200x' alt='Ya puedes reparar tu iPhone 16 con los kits de reparación de Apple, pero no son baratos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773'>Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande</a></h4>
     <a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aun-no-ha-podido-capturar-42-monos-escapados-laboratorio-estan-pasando-grande-4259834.jpg?tf=1200x' alt='Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412'>Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-4259192.jpg?tf=1200x' alt='Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix' />
     </a>
 </div>
 
