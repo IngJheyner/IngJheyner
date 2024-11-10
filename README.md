@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781'>La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-serie-star-wars-ya-tiene-fecha-estreno-segunda-temporada-4259843.jpg?tf=1200x' alt='La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776'>La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-cancion-beatles-john-lennon-rescatada-ia-peter-jackson-nominada-grammy-4259840.jpg?tf=1200x' alt='La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-estrena-medida-seguridad-ios-181-todo-quebradero-cabeza-delincuentes-fuerzas-orden-1417753'>Apple estrena una medida de seguridad en iOS 18.1 que es todo un quebradero de cabeza para delincuentes y hasta para las fuerzas del orden</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-estrena-medida-seguridad-ios-181-todo-quebradero-cabeza-delincuentes-fuerzas-orden-1417753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/seguridad-iphone-4259794.jpg?tf=1200x' alt='Apple estrena una medida de seguridad en iOS 18.1 que es todo un quebradero de cabeza para delincuentes y hasta para las fuerzas del orden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/gracias-funcion-ia-paint-windows-11-podras-crear-cualquier-imagen-1417699'>Gracias a esta función de IA para Paint en Windows 11 podrás crear cualquier imagen</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/gracias-funcion-ia-paint-windows-11-podras-crear-cualquier-imagen-1417699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Gracias a esta función de IA para Paint en Windows 11 podrás crear cualquier imagen' />
     </a>
 </div>
 
