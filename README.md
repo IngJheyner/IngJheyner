@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/8-funciones-seguridad-esenciales-android-15-debes-configurar-inmediato-1417231'>8 funciones de seguridad esenciales de Android 15 que debes configurar de inmediato</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/8-funciones-seguridad-esenciales-android-15-debes-configurar-inmediato-1417231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/8-funciones-seguridad-esenciales-android-15-debes-configurar-inmediato-4259007.jpg?tf=1200x' alt='8 funciones de seguridad esenciales de Android 15 que debes configurar de inmediato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/extrana-decision-google-relativa-requisitos-minimos-android-tv-1417698'>La extraña decisión de Google relativa a los requisitos mínimos para Android TV</a></h4>
     <a href='https://computerhoy.20minutos.es/android/extrana-decision-google-relativa-requisitos-minimos-android-tv-1417698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-tv-2548843.jpg?tf=1200x' alt='La extraña decisión de Google relativa a los requisitos mínimos para Android TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-borrar-filtros-chats-predeterminados-android-1417675'>WhatsApp te permitirá borrar los filtros de chats predeterminados en Android</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-te-permitira-borrar-filtros-chats-predeterminados-android-1417675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conversacion-whatsapp-4259596.jpg?tf=1200x' alt='WhatsApp te permitirá borrar los filtros de chats predeterminados en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-1400834'>5 películas de terror ambientadas en el espacio que ningún fan de Alien debería perderse</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-1400834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/5-peliculas-terror-ambientadas-espacio-ningun-fan-alien-deberia-perderse-3986007.jpg?tf=1200x' alt='5 películas de terror ambientadas en el espacio que ningún fan de Alien debería perderse' />
     </a>
 </div>
 
