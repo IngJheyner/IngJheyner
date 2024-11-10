@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776'>La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-cancion-beatles-john-lennon-rescatada-ia-peter-jackson-nominada-grammy-4259840.jpg?tf=1200x' alt='La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773'>Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande</a></h4>
     <a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aun-no-ha-podido-capturar-42-monos-escapados-laboratorio-estan-pasando-grande-4259834.jpg?tf=1200x' alt='Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/gracias-funcion-ia-paint-windows-11-podras-crear-cualquier-imagen-1417699'>Gracias a esta función de IA para Paint en Windows 11 podrás crear cualquier imagen</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/gracias-funcion-ia-paint-windows-11-podras-crear-cualquier-imagen-1417699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/microsoft-paint-3279422.jpg?tf=1200x' alt='Gracias a esta función de IA para Paint en Windows 11 podrás crear cualquier imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cambio-ultima-actualizacion-aplicacion-youtube-convertira-imprescindible-ti-1417746'>El cambio en la última actualización de la aplicación de YouTube que se convertirá en imprescindible para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cambio-ultima-actualizacion-aplicacion-youtube-convertira-imprescindible-ti-1417746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-4259786.jpg?tf=1200x' alt='El cambio en la última actualización de la aplicación de YouTube que se convertirá en imprescindible para ti' />
     </a>
 </div>
 
