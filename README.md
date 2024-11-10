@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028'>Cómo configurar correctamente la función de evitar peajes de Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eliminar-peajes-waze-4250063.jpg?tf=1200x' alt='Cómo configurar correctamente la función de evitar peajes de Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164'>Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/razon-no-deberias-comprar-smartphone-hijo-sera-menos-inteligente-dicen-expertos-1417164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redes-sociales-estandares-belleza-4258805.jpg?tf=1200x' alt='Esta es la razón por la que no deberías comprar un smartphone a tu hijo: será menos inteligente, dicen los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/batalla-definitiva-kodi-plex-stremio-he-probado-todas-creo-imprescindible-tener-menos-ellas-1408398'>La batalla definitiva entre Kodi, Plex y Stremio: he probado todas y creo que es imprescindible tener al menos una de ellas</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/batalla-definitiva-kodi-plex-stremio-he-probado-todas-creo-imprescindible-tener-menos-ellas-1408398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kodi-plex-stremio-4244644.jpg?tf=1200x' alt='La batalla definitiva entre Kodi, Plex y Stremio: he probado todas y creo que es imprescindible tener al menos una de ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/comida-extrana-venden-puestos-callejeros-china-pelo-humano-1417714'>Esta es la comida más extraña que venden en los puestos callejeros de China</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/comida-extrana-venden-puestos-callejeros-china-pelo-humano-1417714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/comida-extrana-venden-puestos-callejeros-china-4259736.jpg?tf=1200x' alt='Esta es la comida más extraña que venden en los puestos callejeros de China' />
     </a>
 </div>
 
