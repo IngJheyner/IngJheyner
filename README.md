@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cambio-ultima-actualizacion-aplicacion-youtube-convertira-imprescindible-ti-1417746'>El cambio en la última actualización de la aplicación de YouTube que se convertirá en imprescindible para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cambio-ultima-actualizacion-aplicacion-youtube-convertira-imprescindible-ti-1417746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-4259786.jpg?tf=1200x' alt='El cambio en la última actualización de la aplicación de YouTube que se convertirá en imprescindible para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737'>Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-maquina-virtual-windows-11-acceder-cualquier-distribucion-linux-1413426'>Cómo usar una máquina virtual en Windows 11 para acceder a cualquier distribución de Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-maquina-virtual-windows-11-acceder-cualquier-distribucion-linux-1413426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maquina-virtual-windows-11-linux-virtualbox-4252440.jpg?tf=1200x' alt='Cómo usar una máquina virtual en Windows 11 para acceder a cualquier distribución de Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028'>Cómo configurar correctamente la función de evitar peajes de Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eliminar-peajes-waze-4250063.jpg?tf=1200x' alt='Cómo configurar correctamente la función de evitar peajes de Waze' />
     </a>
 </div>
 
