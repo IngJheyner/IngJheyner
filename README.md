@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412'>Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-1417412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-compartir-capturas-mejores-momentos-series-peliculas-netflix-4259192.jpg?tf=1200x' alt='Cómo compartir capturas de los mejores momentos de tus series y películas de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-estrena-medida-seguridad-ios-181-todo-quebradero-cabeza-delincuentes-fuerzas-orden-1417753'>Apple estrena una medida de seguridad en iOS 18.1 que es todo un quebradero de cabeza para delincuentes y hasta para las fuerzas del orden</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-estrena-medida-seguridad-ios-181-todo-quebradero-cabeza-delincuentes-fuerzas-orden-1417753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/seguridad-iphone-4259794.jpg?tf=1200x' alt='Apple estrena una medida de seguridad en iOS 18.1 que es todo un quebradero de cabeza para delincuentes y hasta para las fuerzas del orden' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737'>Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-cambiara-siempre-pantalla-bloqueo-windows-11-1417737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-4094325.jpg?tf=1200x' alt='Microsoft cambiará para siempre la pantalla de bloqueo de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alexa-cumple-10-anos-ha-evolucionado-altavoz-inteligente-1417114'>Alexa cumple 10 años: así ha evolucionado este altavoz inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alexa-cumple-10-anos-ha-evolucionado-altavoz-inteligente-1417114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/alexa-amazon-3542521.jpg?tf=1200x' alt='Alexa cumple 10 años: así ha evolucionado este altavoz inteligente' />
     </a>
 </div>
 
