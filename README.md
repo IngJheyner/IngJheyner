@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-estaria-muy-cerca-lanzar-smartphone-plegable-triptico-1417691'>Samsung estaría muy cerca de lanzar un smartphone plegable tríptico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-estaria-muy-cerca-lanzar-smartphone-plegable-triptico-1417691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/impresiones-samsung-galaxy-fold-3-2435735.jpg?tf=1200x' alt='Samsung estaría muy cerca de lanzar un smartphone plegable tríptico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-cybercab-cuando-veras-calles-robotaxi-elon-musk-1414540'>¿Qué es Tesla Cybercab y cuándo verás por las calles el robotaxi de Elon Musk?</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-cybercab-cuando-veras-calles-robotaxi-elon-musk-1414540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tesla-cybercab-4248126.jpg?tf=1200x' alt='¿Qué es Tesla Cybercab y cuándo verás por las calles el robotaxi de Elon Musk?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/batalla-definitiva-kodi-plex-stremio-he-probado-todas-creo-imprescindible-tener-menos-ellas-1408398'>La batalla definitiva entre Kodi, Plex y Stremio: he probado todas y creo que es imprescindible tener al menos una de ellas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/batalla-definitiva-kodi-plex-stremio-he-probado-todas-creo-imprescindible-tener-menos-ellas-1408398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kodi-plex-stremio-4244644.jpg?tf=1200x' alt='La batalla definitiva entre Kodi, Plex y Stremio: he probado todas y creo que es imprescindible tener al menos una de ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/comida-extrana-venden-puestos-callejeros-china-pelo-humano-1417714'>Esta es la comida más extraña que venden en los puestos callejeros de China</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/comida-extrana-venden-puestos-callejeros-china-pelo-humano-1417714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/comida-extrana-venden-puestos-callejeros-china-4259736.jpg?tf=1200x' alt='Esta es la comida más extraña que venden en los puestos callejeros de China' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/viajar-irse-vacaciones-podrian-retrasar-envejecimiento-revela-nuevo-estudio-1406707'>Viajar e irse de vacaciones podrían retrasar el envejecimiento, revela un nuevo estudio </a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/viajar-irse-vacaciones-podrian-retrasar-envejecimiento-revela-nuevo-estudio-1406707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/viajar-irse-vacaciones-podrian-retrasar-envejecimiento-revela-nuevo-estudio-4241171.jpg?tf=1200x' alt='Viajar e irse de vacaciones podrían retrasar el envejecimiento, revela un nuevo estudio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/movil-esconde-monton-funciones-estos-son-codigos-secretos-disponibles-teclado-1416830'>Tu móvil esconde un montón de funciones: estos son los códigos secretos disponibles desde tu teclado</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/movil-esconde-monton-funciones-estos-son-codigos-secretos-disponibles-teclado-1416830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/teclado-movil-3635140.jpg?tf=1200x' alt='Tu móvil esconde un montón de funciones: estos son los códigos secretos disponibles desde tu teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/conciencia-nueva-luz-equipo-neurocientificos-plantea-teoria-unificada-busca-desvelar-secretos-mente-1415292'>La conciencia, bajo una nueva luz: un equipo de neurocientíficos plantea una teoría unificada que busca desvelar los secretos de la mente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/conciencia-nueva-luz-equipo-neurocientificos-plantea-teoria-unificada-busca-desvelar-secretos-mente-1415292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mente-4255618.jpg?tf=1200x' alt='La conciencia, bajo una nueva luz: un equipo de neurocientíficos plantea una teoría unificada que busca desvelar los secretos de la mente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/8-funciones-seguridad-esenciales-android-15-debes-configurar-inmediato-1417231'>8 funciones de seguridad esenciales de Android 15 que debes configurar de inmediato</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/8-funciones-seguridad-esenciales-android-15-debes-configurar-inmediato-1417231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/8-funciones-seguridad-esenciales-android-15-debes-configurar-inmediato-4259007.jpg?tf=1200x' alt='8 funciones de seguridad esenciales de Android 15 que debes configurar de inmediato' />
     </a>
 </div>
 
