@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-maquina-virtual-windows-11-acceder-cualquier-distribucion-linux-1413426'>Cómo usar una máquina virtual en Windows 11 para acceder a cualquier distribución de Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-maquina-virtual-windows-11-acceder-cualquier-distribucion-linux-1413426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/maquina-virtual-windows-11-linux-virtualbox-4252440.jpg?tf=1200x' alt='Cómo usar una máquina virtual en Windows 11 para acceder a cualquier distribución de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028'>Cómo configurar correctamente la función de evitar peajes de Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-correctamente-funcion-evitar-peajes-waze-1412028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/eliminar-peajes-waze-4250063.jpg?tf=1200x' alt='Cómo configurar correctamente la función de evitar peajes de Waze' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-cybercab-cuando-veras-calles-robotaxi-elon-musk-1414540'>¿Qué es Tesla Cybercab y cuándo verás por las calles el robotaxi de Elon Musk?</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-cybercab-cuando-veras-calles-robotaxi-elon-musk-1414540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/tesla-cybercab-4248126.jpg?tf=1200x' alt='¿Qué es Tesla Cybercab y cuándo verás por las calles el robotaxi de Elon Musk?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/batalla-definitiva-kodi-plex-stremio-he-probado-todas-creo-imprescindible-tener-menos-ellas-1408398'>La batalla definitiva entre Kodi, Plex y Stremio: he probado todas y creo que es imprescindible tener al menos una de ellas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/batalla-definitiva-kodi-plex-stremio-he-probado-todas-creo-imprescindible-tener-menos-ellas-1408398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kodi-plex-stremio-4244644.jpg?tf=1200x' alt='La batalla definitiva entre Kodi, Plex y Stremio: he probado todas y creo que es imprescindible tener al menos una de ellas' />
     </a>
 </div>
 
