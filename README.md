@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-dni-nuevo-monedero-digital-ya-pruebas-espana-1417433'>Adiós al DNI: este es el nuevo monedero digital que está ya en pruebas en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-dni-nuevo-monedero-digital-ya-pruebas-espana-1417433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='Adiós al DNI: este es el nuevo monedero digital que está ya en pruebas en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/jeff-bezos-revela-unico-pidio-empleados-convertir-amazon-empresa-exito-1417439'>Jeff Bezos revela lo único que les pidió a sus empleados para convertir a Amazon en una empresa de éxito</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/jeff-bezos-revela-unico-pidio-empleados-convertir-amazon-empresa-exito-1417439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jeff-bezos-4042221.jpg?tf=1200x' alt='Jeff Bezos revela lo único que les pidió a sus empleados para convertir a Amazon en una empresa de éxito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/motivo-expertos-recomiendan-desenchufar-microondas-1417451'>Este es el motivo por el que los expertos recomiendan desenchufar el microondas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/motivo-expertos-recomiendan-desenchufar-microondas-1417451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microondas-4259310.jpg?tf=1200x' alt='Este es el motivo por el que los expertos recomiendan desenchufar el microondas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/espana-portugal-llevan-guerra-500-anos-unas-diminutas-islas-frente-costas-tenerife-1417487'>España y Portugal llevan en "guerra" más de 500 años por unas diminutas islas frente a las costas de Tenerife</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/espana-portugal-llevan-guerra-500-anos-unas-diminutas-islas-frente-costas-tenerife-1417487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/espana-portugal-llevan-guerra-500-anos-unas-diminutas-islas-frente-costas-tenerife-4259345.jpg?tf=1200x' alt='España y Portugal llevan en "guerra" más de 500 años por unas diminutas islas frente a las costas de Tenerife' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/bombazo-aliexpress-samsung-galaxy-s24-pone-11-11-patas-arriba-descuento-1417738'>Bombazo de AliExpress: el Samsung Galaxy S24 pone el 11 del 11 patas arriba con su descuento</a></h4>
     <a href='https://computerhoy.20minutos.es/android/bombazo-aliexpress-samsung-galaxy-s24-pone-11-11-patas-arriba-descuento-1417738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267393.jpg?tf=1200x' alt='Bombazo de AliExpress: el Samsung Galaxy S24 pone el 11 del 11 patas arriba con su descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/11-11-viene-fuerte-playstation-5-apple-watch-series-10-otras-ofertas-destacadas-cupones-1417381'>El 11 del 11 viene fuerte: PlayStation 5, Apple Watch Series 10 y otras ofertas destacadas con cupones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/11-11-viene-fuerte-playstation-5-apple-watch-series-10-otras-ofertas-destacadas-cupones-1417381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='El 11 del 11 viene fuerte: PlayStation 5, Apple Watch Series 10 y otras ofertas destacadas con cupones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/detective-conan-gratis-espanol-mejores-series-anime-historia-1417785'>Ya puedes ver gratis y en español una de las mejores series de anime de la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/detective-conan-gratis-espanol-mejores-series-anime-historia-1417785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-ver-gratis-espanol-mejores-series-anime-historia-4259846.jpg?tf=1200x' alt='Ya puedes ver gratis y en español una de las mejores series de anime de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-reparar-iphone-16-kits-reparacion-apple-pero-no-son-baratos-1417782'>Ya puedes reparar tu iPhone 16 con los kits de reparación de Apple, pero no son baratos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ya-puedes-reparar-iphone-16-kits-reparacion-apple-pero-no-son-baratos-1417782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-16-pro-transparente-4247423.jpg?tf=1200x' alt='Ya puedes reparar tu iPhone 16 con los kits de reparación de Apple, pero no son baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781'>La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-serie-star-wars-ya-tiene-fecha-estreno-segunda-temporada-4259843.jpg?tf=1200x' alt='La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada' />
     </a>
 </div>
 
