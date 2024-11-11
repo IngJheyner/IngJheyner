@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/11-11-viene-fuerte-playstation-5-apple-watch-series-10-otras-ofertas-destacadas-cupones-1417381'>El 11 del 11 viene fuerte: PlayStation 5, Apple Watch Series 10 y otras ofertas destacadas con cupones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/11-11-viene-fuerte-playstation-5-apple-watch-series-10-otras-ofertas-destacadas-cupones-1417381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='El 11 del 11 viene fuerte: PlayStation 5, Apple Watch Series 10 y otras ofertas destacadas con cupones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/detective-conan-gratis-espanol-mejores-series-anime-historia-1417785'>Ya puedes ver gratis y en español una de las mejores series de anime de la historia</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/detective-conan-gratis-espanol-mejores-series-anime-historia-1417785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-ver-gratis-espanol-mejores-series-anime-historia-4259846.jpg?tf=1200x' alt='Ya puedes ver gratis y en español una de las mejores series de anime de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776'>La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-cancion-beatles-john-lennon-rescatada-ia-peter-jackson-nominada-grammy-4259840.jpg?tf=1200x' alt='La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773'>Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/monos-escapados-laboratorio-estan-pasando-grande-1417773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aun-no-ha-podido-capturar-42-monos-escapados-laboratorio-estan-pasando-grande-4259834.jpg?tf=1200x' alt='Aún no han podido capturar a 42 monos escapados de un laboratorio, se lo están pasando en grande' />
     </a>
 </div>
 
