@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-1417818'>Tras las pantallas flexibles LG presenta las primeras pantallas moldeables</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-1417818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-4259912.jpg?tf=1200x' alt='Tras las pantallas flexibles LG presenta las primeras pantallas moldeables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/oneplus-nord-4-va-ser-mi-compra-11-11-estas-buscando-movil-quizas-deberia-ser-1417687'>El OnePlus Nord 4 va a ser mi compra del 11 del 11, y si estás buscando móvil quizás debería ser la tuya</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/oneplus-nord-4-va-ser-mi-compra-11-11-estas-buscando-movil-quizas-deberia-ser-1417687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nord-4-4259515.jpg?tf=1200x' alt='El OnePlus Nord 4 va a ser mi compra del 11 del 11, y si estás buscando móvil quizás debería ser la tuya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-sim-virtual-detectan-sencilla-tecnica-hackers-secuestrarlas-1417823'>Cuidado con tu SIM virtual: detectan una sencilla técnica de los hackers para secuestrarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-sim-virtual-detectan-sencilla-tecnica-hackers-secuestrarlas-1417823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-4063897.jpg?tf=1200x' alt='Cuidado con tu SIM virtual: detectan una sencilla técnica de los hackers para secuestrarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/7-moviles-precio-ganga-11-11-oneplus-xiaomi-poco-1417084'>7 móviles a precio de ganga por el 11 del 11: OnePlus, Xiaomi, POCO y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/7-moviles-precio-ganga-11-11-oneplus-xiaomi-poco-1417084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-oneplus-nord-4-3911449.jpg?tf=1200x' alt='7 móviles a precio de ganga por el 11 del 11: OnePlus, Xiaomi, POCO y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-insertar-video-youtube-powerpoint-1403704'>Cómo insertar un vídeo de YouTube en PowerPoint</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-insertar-video-youtube-powerpoint-1403704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-insertar-video-youtube-powerpoint-4111012.jpg?tf=1200x' alt='Cómo insertar un vídeo de YouTube en PowerPoint' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-sorpresa-precio-hunde-11-11-codigo-descuento-1417387'>La PlayStation 5 da la sorpresa: su precio se hunde por el 11 del 11 con un código descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-sorpresa-precio-hunde-11-11-codigo-descuento-1417387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='La PlayStation 5 da la sorpresa: su precio se hunde por el 11 del 11 con un código descuento' />
     </a>
 </div>
 
