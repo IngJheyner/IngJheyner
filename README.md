@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-reserva-co2-espacio-pero-no-puede-explicar-como-ha-terminado-alli-1418050'>La NASA descubre una reserva de CO2 en el espacio, pero no puede explicar cómo ha terminado allí</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-reserva-co2-espacio-pero-no-puede-explicar-como-ha-terminado-alli-1418050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cumulo-estrellas-4260274.jpg?tf=1200x' alt='La NASA descubre una reserva de CO2 en el espacio, pero no puede explicar cómo ha terminado allí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/como-funciona-borrador-nueva-funcion-whatsapp-acaba-aparecer-sorpresa-movil-1418049'>Qué es y cómo funciona "Borrador", la nueva función de WhatsApp que acaba de aparecer por sorpresa en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/como-funciona-borrador-nueva-funcion-whatsapp-acaba-aparecer-sorpresa-movil-1418049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260271.jpg?tf=1200x' alt='Qué es y cómo funciona "Borrador", la nueva función de WhatsApp que acaba de aparecer por sorpresa en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aemet-no-enviando-sms-alertas-dana-tormentas-estafa-1418044'>La AEMET no está enviando por SMS alertas por DANA y tormentas, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/aemet-no-enviando-sms-alertas-dana-tormentas-estafa-1418044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sms-advertencia-smartphone-4260264.jpg?tf=1200x' alt='La AEMET no está enviando por SMS alertas por DANA y tormentas, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-1417960'>El “zasca” de Denis Villeneuve a Quentin Tarantino sobre Dune: “No hice un remake”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-1417960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-4260105.jpg?tf=1200x' alt='El “zasca” de Denis Villeneuve a Quentin Tarantino sobre Dune: “No hice un remake”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-1417976'>No todo es Gladiator 2: estas son las mejores películas ambientadas en el Imperio romano según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-1417976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-4260145.jpg?tf=1200x' alt='No todo es Gladiator 2: estas son las mejores películas ambientadas en el Imperio romano según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/share-item-location-airtag-apple-aerolineas-mediante-link-1418032'>Apple te permite compartir un AirTag con otras personas y aerolíneas mediante un link</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/share-item-location-airtag-apple-aerolineas-mediante-link-1418032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-te-permite-compartir-airtag-otras-personas-aerolineas-mediante-link-4260202.jpg?tf=1200x' alt='Apple te permite compartir un AirTag con otras personas y aerolíneas mediante un link' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-aparece-icono-android-auto-movil-causas-solucion-1417178'>No aparece el icono de Android Auto en el móvil: causas y solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/no-aparece-icono-android-auto-movil-causas-solucion-1417178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-movil-4258871.jpg?tf=1200x' alt='No aparece el icono de Android Auto en el móvil: causas y solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-saber-te-han-bloqueado-whatsapp-mandar-mensajes-1417493'>Cómo saber si te han bloqueado en WhatsApp sin mandar mensajes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-saber-te-han-bloqueado-whatsapp-mandar-mensajes-1417493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4259368.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en WhatsApp sin mandar mensajes' />
     </a>
 </div>
 
