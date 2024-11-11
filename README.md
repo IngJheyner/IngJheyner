@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-music-spotify-diferencias-precio-cual-mejor-ti-1417173'>¿YouTube Music o Spotify?: diferencias, precio y cuál es mejor para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-music-spotify-diferencias-precio-cual-mejor-ti-1417173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spotify-youtube-music-4258859.jpg?tf=1200x' alt='¿YouTube Music o Spotify?: diferencias, precio y cuál es mejor para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/pentagono-crea-red-vigilancia-lanzando-satelites-monitorear-planeta-1417895'>“No podrás esconderte, porque estaremos constantemente mirando”: el Pentágono crea una red de vigilancia lanzando satélites para monitorear el planeta</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/pentagono-crea-red-vigilancia-lanzando-satelites-monitorear-planeta-1417895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='“No podrás esconderte, porque estaremos constantemente mirando”: el Pentágono crea una red de vigilancia lanzando satélites para monitorear el planeta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934'>Google Maps tiene un lugar para los pueblos repetidos, y está en España</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-tiene-lugar-pueblos-repetidos-espana-4260070.jpg?tf=1200x' alt='Google Maps tiene un lugar para los pueblos repetidos, y está en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-1417889'>Un error de WhatsApp vuelve verde toda la aplicación, pero tiene fácil solución</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-1417889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-4260031.jpg?tf=1200x' alt='Un error de WhatsApp vuelve verde toda la aplicación, pero tiene fácil solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-recomiendan-deshacerte-ahora-mismo-todas-esas-memorias-usb-tienes-cajon-1417883'>Expertos en seguridad recomiendan deshacerte ahora mismo de todas esas memorias USB que tienes en el cajón</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-recomiendan-deshacerte-ahora-mismo-todas-esas-memorias-usb-tienes-cajon-1417883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/memoria-usb-3271593.jpg?tf=1200x' alt='Expertos en seguridad recomiendan deshacerte ahora mismo de todas esas memorias USB que tienes en el cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-1417862'>Los especuladores de PlayStation 5 Pro se la pegan: hay tantas unidades que tienen que venderla por debajo de su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-1417862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-4260004.jpg?tf=1200x' alt='Los especuladores de PlayStation 5 Pro se la pegan: hay tantas unidades que tienen que venderla por debajo de su precio' />
     </a>
 </div>
 
