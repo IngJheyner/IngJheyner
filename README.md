@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934'>Google Maps tiene un lugar para los pueblos repetidos, y está en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-tiene-lugar-pueblos-repetidos-espana-4260070.jpg?tf=1200x' alt='Google Maps tiene un lugar para los pueblos repetidos, y está en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-1417897'>WinRAR, el programa de pago que todo el mundo usa gratis se actualiza con una novedad muy esperada</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-1417897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-4260046.jpg?tf=1200x' alt='WinRAR, el programa de pago que todo el mundo usa gratis se actualiza con una novedad muy esperada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-1417862'>Los especuladores de PlayStation 5 Pro se la pegan: hay tantas unidades que tienen que venderla por debajo de su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-1417862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-4260004.jpg?tf=1200x' alt='Los especuladores de PlayStation 5 Pro se la pegan: hay tantas unidades que tienen que venderla por debajo de su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-pantallon-precio-locura-portatil-barato-va-arrasar-hoy-aliexpress-1416467'>Windows 11 y pantallón a precio de locura: este portátil barato va a arrasar hoy en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-pantallon-precio-locura-portatil-barato-va-arrasar-hoy-aliexpress-1416467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='Windows 11 y pantallón a precio de locura: este portátil barato va a arrasar hoy en AliExpress' />
     </a>
 </div>
 
