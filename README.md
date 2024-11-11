@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/bombazo-aliexpress-samsung-galaxy-s24-pone-11-11-patas-arriba-descuento-1417738'>Bombazo de AliExpress: el Samsung Galaxy S24 pone el 11 del 11 patas arriba con su descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/bombazo-aliexpress-samsung-galaxy-s24-pone-11-11-patas-arriba-descuento-1417738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267393.jpg?tf=1200x' alt='Bombazo de AliExpress: el Samsung Galaxy S24 pone el 11 del 11 patas arriba con su descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/11-11-viene-fuerte-playstation-5-apple-watch-series-10-otras-ofertas-destacadas-cupones-1417381'>El 11 del 11 viene fuerte: PlayStation 5, Apple Watch Series 10 y otras ofertas destacadas con cupones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/11-11-viene-fuerte-playstation-5-apple-watch-series-10-otras-ofertas-destacadas-cupones-1417381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/1111-aliexpress-11-11-2853593.jpg?tf=1200x' alt='El 11 del 11 viene fuerte: PlayStation 5, Apple Watch Series 10 y otras ofertas destacadas con cupones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781'>La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/andor-star-wars-fecha-estreno-segunda-temporada-1417781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-serie-star-wars-ya-tiene-fecha-estreno-segunda-temporada-4259843.jpg?tf=1200x' alt='La mejor serie de Star Wars ya tiene fecha de estreno para su segunda temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776'>La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/now-and-then-beatles-john-lennon-nominada-grammy-1417776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-cancion-beatles-john-lennon-rescatada-ia-peter-jackson-nominada-grammy-4259840.jpg?tf=1200x' alt='La última canción de los Beatles y John Lennon, rescatada con IA por Peter Jackson, nominada al Grammy' />
     </a>
 </div>
 
