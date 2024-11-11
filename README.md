@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-1418058'>Las cajas de las muñecas Wicked de Mattel invitan a visitar una web porno</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-1418058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-4260288.jpg?tf=1200x' alt='Las cajas de las muñecas Wicked de Mattel invitan a visitar una web porno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/calentador-pizzas-ps5-1418052'>Este es el periférico más loco de PS5: un calentador de pizzas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/calentador-pizzas-ps5-1418052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/calentador-pizza-hut-mantiene-pizza-caliente-usando-calor-ps5-puedes-imprimir-casa-4260259.jpg?tf=1200x' alt='Este es el periférico más loco de PS5: un calentador de pizzas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-reserva-co2-espacio-pero-no-puede-explicar-como-ha-terminado-alli-1418050'>La NASA descubre una reserva de CO2 en el espacio, pero no puede explicar cómo ha terminado allí</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-reserva-co2-espacio-pero-no-puede-explicar-como-ha-terminado-alli-1418050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cumulo-estrellas-4260274.jpg?tf=1200x' alt='La NASA descubre una reserva de CO2 en el espacio, pero no puede explicar cómo ha terminado allí' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aemet-no-enviando-sms-alertas-dana-tormentas-estafa-1418044'>La AEMET no está enviando por SMS alertas por DANA y tormentas, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/aemet-no-enviando-sms-alertas-dana-tormentas-estafa-1418044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sms-advertencia-smartphone-4260264.jpg?tf=1200x' alt='La AEMET no está enviando por SMS alertas por DANA y tormentas, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-1417960'>El “zasca” de Denis Villeneuve a Quentin Tarantino sobre Dune: “No hice un remake”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-1417960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-4260105.jpg?tf=1200x' alt='El “zasca” de Denis Villeneuve a Quentin Tarantino sobre Dune: “No hice un remake”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-1417976'>No todo es Gladiator 2: estas son las mejores películas ambientadas en el Imperio romano según la crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-1417976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-4260145.jpg?tf=1200x' alt='No todo es Gladiator 2: estas son las mejores películas ambientadas en el Imperio romano según la crítica' />
     </a>
 </div>
 
