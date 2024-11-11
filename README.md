@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-1417847'>Instagram arregla los vídeos que desaparecen en cuanto abres su app, solo que no era un bug</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-1417847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-4259968.jpg?tf=1200x' alt='Instagram arregla los vídeos que desaparecen en cuanto abres su app, solo que no era un bug' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/todavia-tienes-telefono-fijo-casa-tal-vez-sea-momento-quitarlo-filon-estafas-1417830'>¿Todavía tienes teléfono fijo en casa? Tal vez sea el momento de quitarlo, es un filón para las estafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/todavia-tienes-telefono-fijo-casa-tal-vez-sea-momento-quitarlo-filon-estafas-1417830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-fijo-mayores-4259945.jpg?tf=1200x' alt='¿Todavía tienes teléfono fijo en casa? Tal vez sea el momento de quitarlo, es un filón para las estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-1417818'>Tras las pantallas flexibles LG presenta las primeras pantallas moldeables</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-1417818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-4259912.jpg?tf=1200x' alt='Tras las pantallas flexibles LG presenta las primeras pantallas moldeables' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-sim-virtual-detectan-sencilla-tecnica-hackers-secuestrarlas-1417823'>Cuidado con tu SIM virtual: detectan una sencilla técnica de los hackers para secuestrarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-sim-virtual-detectan-sencilla-tecnica-hackers-secuestrarlas-1417823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-4063897.jpg?tf=1200x' alt='Cuidado con tu SIM virtual: detectan una sencilla técnica de los hackers para secuestrarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/cuanto-ha-costado-spacex-poner-orbita-todos-satelites-1417817'>Cuánto le ha costado a SpaceX poner en órbita todos sus satélites</a></h4>
-    <a href='https://computerhoy.20minutos.es/cuanto-ha-costado-spacex-poner-orbita-todos-satelites-1417817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/starlink-spacex-satelite-3127686.jpg?tf=1200x' alt='Cuánto le ha costado a SpaceX poner en órbita todos sus satélites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/7-moviles-precio-ganga-11-11-oneplus-xiaomi-poco-1417084'>7 móviles a precio de ganga por el 11 del 11: OnePlus, Xiaomi, POCO y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/7-moviles-precio-ganga-11-11-oneplus-xiaomi-poco-1417084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/diseno-oneplus-nord-4-3911449.jpg?tf=1200x' alt='7 móviles a precio de ganga por el 11 del 11: OnePlus, Xiaomi, POCO y más' />
     </a>
 </div>
 
