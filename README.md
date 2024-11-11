@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-recomiendan-deshacerte-ahora-mismo-todas-esas-memorias-usb-tienes-cajon-1417883'>Expertos en seguridad recomiendan deshacerte ahora mismo de todas esas memorias USB que tienes en el cajón</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-recomiendan-deshacerte-ahora-mismo-todas-esas-memorias-usb-tienes-cajon-1417883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/memoria-usb-3271593.jpg?tf=1200x' alt='Expertos en seguridad recomiendan deshacerte ahora mismo de todas esas memorias USB que tienes en el cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-1417862'>Los especuladores de PlayStation 5 Pro se la pegan: hay tantas unidades que tienen que venderla por debajo de su precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-1417862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/especuladores-playstation-5-pro-pegan-hay-tantas-unidades-tienen-venderla-debajo-precio-4260004.jpg?tf=1200x' alt='Los especuladores de PlayStation 5 Pro se la pegan: hay tantas unidades que tienen que venderla por debajo de su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-pantallon-precio-locura-portatil-barato-va-arrasar-hoy-aliexpress-1416467'>Windows 11 y pantallón a precio de locura: este portátil barato va a arrasar hoy en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-pantallon-precio-locura-portatil-barato-va-arrasar-hoy-aliexpress-1416467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='Windows 11 y pantallón a precio de locura: este portátil barato va a arrasar hoy en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/telefonica-vodafone-crean-nueva-empresa-llevar-fibra-35-millones-hogares-1417837'>Telefónica y Vodafone crean una nueva empresa para llevar la fibra a más de 3,5 millones de hogares</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/telefonica-vodafone-crean-nueva-empresa-llevar-fibra-35-millones-hogares-1417837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/edificio-telefonica-3542703.jpg?tf=1200x' alt='Telefónica y Vodafone crean una nueva empresa para llevar la fibra a más de 3,5 millones de hogares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-1417847'>Instagram arregla los vídeos que desaparecen en cuanto abres su app, solo que no era un bug</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-1417847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-4259968.jpg?tf=1200x' alt='Instagram arregla los vídeos que desaparecen en cuanto abres su app, solo que no era un bug' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/todavia-tienes-telefono-fijo-casa-tal-vez-sea-momento-quitarlo-filon-estafas-1417830'>¿Todavía tienes teléfono fijo en casa? Tal vez sea el momento de quitarlo, es un filón para las estafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/todavia-tienes-telefono-fijo-casa-tal-vez-sea-momento-quitarlo-filon-estafas-1417830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-fijo-mayores-4259945.jpg?tf=1200x' alt='¿Todavía tienes teléfono fijo en casa? Tal vez sea el momento de quitarlo, es un filón para las estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-1417818'>Tras las pantallas flexibles LG presenta las primeras pantallas moldeables</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-1417818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pantallas-flexibles-lg-presenta-primeras-pantallas-moldeables-4259912.jpg?tf=1200x' alt='Tras las pantallas flexibles LG presenta las primeras pantallas moldeables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/oneplus-nord-4-va-ser-mi-compra-11-11-estas-buscando-movil-quizas-deberia-ser-1417687'>El OnePlus Nord 4 va a ser mi compra del 11 del 11, y si estás buscando móvil quizás debería ser la tuya</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/oneplus-nord-4-va-ser-mi-compra-11-11-estas-buscando-movil-quizas-deberia-ser-1417687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nord-4-4259515.jpg?tf=1200x' alt='El OnePlus Nord 4 va a ser mi compra del 11 del 11, y si estás buscando móvil quizás debería ser la tuya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-sim-virtual-detectan-sencilla-tecnica-hackers-secuestrarlas-1417823'>Cuidado con tu SIM virtual: detectan una sencilla técnica de los hackers para secuestrarlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-sim-virtual-detectan-sencilla-tecnica-hackers-secuestrarlas-1417823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nueva-estafa-usa-marketing-parece-conocer-gustos-robarte-dinero-4063897.jpg?tf=1200x' alt='Cuidado con tu SIM virtual: detectan una sencilla técnica de los hackers para secuestrarlas' />
     </a>
 </div>
 
