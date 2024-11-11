@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-1417960'>El “zasca” de Denis Villeneuve a Quentin Tarantino sobre Dune: “No hice un remake”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-1417960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/zasca-denis-villeneuve-quentin-tarantino-dune-no-hice-remake-4260105.jpg?tf=1200x' alt='El “zasca” de Denis Villeneuve a Quentin Tarantino sobre Dune: “No hice un remake”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-1417976'>No todo es Gladiator 2: estas son las mejores películas ambientadas en el Imperio romano según la crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-1417976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-todo-gladiator-2-estas-son-mejores-peliculas-ambientadas-imperio-romano-critica-4260145.jpg?tf=1200x' alt='No todo es Gladiator 2: estas son las mejores películas ambientadas en el Imperio romano según la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/share-item-location-airtag-apple-aerolineas-mediante-link-1418032'>Apple te permite compartir un AirTag con otras personas y aerolíneas mediante un link</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/share-item-location-airtag-apple-aerolineas-mediante-link-1418032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-te-permite-compartir-airtag-otras-personas-aerolineas-mediante-link-4260202.jpg?tf=1200x' alt='Apple te permite compartir un AirTag con otras personas y aerolíneas mediante un link' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-aparece-icono-android-auto-movil-causas-solucion-1417178'>No aparece el icono de Android Auto en el móvil: causas y solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/no-aparece-icono-android-auto-movil-causas-solucion-1417178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-movil-4258871.jpg?tf=1200x' alt='No aparece el icono de Android Auto en el móvil: causas y solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-saber-te-han-bloqueado-whatsapp-mandar-mensajes-1417493'>Cómo saber si te han bloqueado en WhatsApp sin mandar mensajes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-saber-te-han-bloqueado-whatsapp-mandar-mensajes-1417493' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4259368.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en WhatsApp sin mandar mensajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-resultado-elecciones-ee-uu-pueden-influir-futuro-tecnologia-ia-elon-musk-bill-gates-1416616'>Cómo el resultado de las elecciones de EE. UU. pueden influir en el futuro de la tecnología y la IA: Elon Musk contra Bill Gates</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-resultado-elecciones-ee-uu-pueden-influir-futuro-tecnologia-ia-elon-musk-bill-gates-1416616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-vs-4255781.jpg?tf=1200x' alt='Cómo el resultado de las elecciones de EE. UU. pueden influir en el futuro de la tecnología y la IA: Elon Musk contra Bill Gates' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-music-spotify-diferencias-precio-cual-mejor-ti-1417173'>¿YouTube Music o Spotify?: diferencias, precio y cuál es mejor para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-music-spotify-diferencias-precio-cual-mejor-ti-1417173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spotify-youtube-music-4258859.jpg?tf=1200x' alt='¿YouTube Music o Spotify?: diferencias, precio y cuál es mejor para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/pentagono-crea-red-vigilancia-lanzando-satelites-monitorear-planeta-1417895'>“No podrás esconderte, porque estaremos constantemente mirando”: el Pentágono crea una red de vigilancia lanzando satélites para monitorear el planeta</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/pentagono-crea-red-vigilancia-lanzando-satelites-monitorear-planeta-1417895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='“No podrás esconderte, porque estaremos constantemente mirando”: el Pentágono crea una red de vigilancia lanzando satélites para monitorear el planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934'>Google Maps tiene un lugar para los pueblos repetidos, y está en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-tiene-lugar-pueblos-repetidos-espana-4260070.jpg?tf=1200x' alt='Google Maps tiene un lugar para los pueblos repetidos, y está en España' />
     </a>
 </div>
 
