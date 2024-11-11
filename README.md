@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-1417897'>WinRAR, el programa de pago que todo el mundo usa gratis se actualiza con una novedad muy esperada</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-1417897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-4260046.jpg?tf=1200x' alt='WinRAR, el programa de pago que todo el mundo usa gratis se actualiza con una novedad muy esperada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-1417889'>Un error de WhatsApp vuelve verde toda la aplicación, pero tiene fácil solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-1417889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-4260031.jpg?tf=1200x' alt='Un error de WhatsApp vuelve verde toda la aplicación, pero tiene fácil solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-recomiendan-deshacerte-ahora-mismo-todas-esas-memorias-usb-tienes-cajon-1417883'>Expertos en seguridad recomiendan deshacerte ahora mismo de todas esas memorias USB que tienes en el cajón</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-recomiendan-deshacerte-ahora-mismo-todas-esas-memorias-usb-tienes-cajon-1417883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/memoria-usb-3271593.jpg?tf=1200x' alt='Expertos en seguridad recomiendan deshacerte ahora mismo de todas esas memorias USB que tienes en el cajón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-pantallon-precio-locura-portatil-barato-va-arrasar-hoy-aliexpress-1416467'>Windows 11 y pantallón a precio de locura: este portátil barato va a arrasar hoy en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-pantallon-precio-locura-portatil-barato-va-arrasar-hoy-aliexpress-1416467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='Windows 11 y pantallón a precio de locura: este portátil barato va a arrasar hoy en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/telefonica-vodafone-crean-nueva-empresa-llevar-fibra-35-millones-hogares-1417837'>Telefónica y Vodafone crean una nueva empresa para llevar la fibra a más de 3,5 millones de hogares</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/telefonica-vodafone-crean-nueva-empresa-llevar-fibra-35-millones-hogares-1417837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/edificio-telefonica-3542703.jpg?tf=1200x' alt='Telefónica y Vodafone crean una nueva empresa para llevar la fibra a más de 3,5 millones de hogares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-1417847'>Instagram arregla los vídeos que desaparecen en cuanto abres su app, solo que no era un bug</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-1417847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instagram-arregla-videos-desaparecen-cuanto-abres-app-solo-no-era-bug-4259968.jpg?tf=1200x' alt='Instagram arregla los vídeos que desaparecen en cuanto abres su app, solo que no era un bug' />
     </a>
 </div>
 
