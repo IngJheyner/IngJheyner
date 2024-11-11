@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-mucho-rendimiento-macbook-pro-chip-m4-pero-me-ha-gustado-pantalla-nanotexturizada-1417146'>Me ha gustado mucho el rendimiento del MacBook Pro con chip M4, pero me ha gustado más su pantalla nanotexturizada</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-mucho-rendimiento-macbook-pro-chip-m4-pero-me-ha-gustado-pantalla-nanotexturizada-1417146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258491.jpg?tf=1200x' alt='Me ha gustado mucho el rendimiento del MacBook Pro con chip M4, pero me ha gustado más su pantalla nanotexturizada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-kindle-2024-amazon-juega-seguro-pequenos-cambios-marcan-diferencia-1415288'>He probado el Kindle (2024) y Amazon juega sobre seguro con pequeños cambios que marcan la diferencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-kindle-2024-amazon-juega-seguro-pequenos-cambios-marcan-diferencia-1415288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/kindle-2024-amazon-4257329.jpg?tf=1200x' alt='He probado el Kindle (2024) y Amazon juega sobre seguro con pequeños cambios que marcan la diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-dni-nuevo-monedero-digital-ya-pruebas-espana-1417433'>Adiós al DNI: este es el nuevo monedero digital que está ya en pruebas en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-dni-nuevo-monedero-digital-ya-pruebas-espana-1417433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='Adiós al DNI: este es el nuevo monedero digital que está ya en pruebas en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/motivo-expertos-recomiendan-desenchufar-microondas-1417451'>Este es el motivo por el que los expertos recomiendan desenchufar el microondas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/motivo-expertos-recomiendan-desenchufar-microondas-1417451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microondas-4259310.jpg?tf=1200x' alt='Este es el motivo por el que los expertos recomiendan desenchufar el microondas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/espana-portugal-llevan-guerra-500-anos-unas-diminutas-islas-frente-costas-tenerife-1417487'>España y Portugal llevan en "guerra" más de 500 años por unas diminutas islas frente a las costas de Tenerife</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/espana-portugal-llevan-guerra-500-anos-unas-diminutas-islas-frente-costas-tenerife-1417487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/espana-portugal-llevan-guerra-500-anos-unas-diminutas-islas-frente-costas-tenerife-4259345.jpg?tf=1200x' alt='España y Portugal llevan en "guerra" más de 500 años por unas diminutas islas frente a las costas de Tenerife' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/bombazo-aliexpress-samsung-galaxy-s24-pone-11-11-patas-arriba-descuento-1417738'>Bombazo de AliExpress: el Samsung Galaxy S24 pone el 11 del 11 patas arriba con su descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/bombazo-aliexpress-samsung-galaxy-s24-pone-11-11-patas-arriba-descuento-1417738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267393.jpg?tf=1200x' alt='Bombazo de AliExpress: el Samsung Galaxy S24 pone el 11 del 11 patas arriba con su descuento' />
     </a>
 </div>
 
