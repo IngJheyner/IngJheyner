@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-saber-te-han-bloqueado-whatsapp-mandar-mensajes-1417493'>Cómo saber si te han bloqueado en WhatsApp sin mandar mensajes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-saber-te-han-bloqueado-whatsapp-mandar-mensajes-1417493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4259368.jpg?tf=1200x' alt='Cómo saber si te han bloqueado en WhatsApp sin mandar mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-resultado-elecciones-ee-uu-pueden-influir-futuro-tecnologia-ia-elon-musk-bill-gates-1416616'>Cómo el resultado de las elecciones de EE. UU. pueden influir en el futuro de la tecnología y la IA: Elon Musk contra Bill Gates</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-resultado-elecciones-ee-uu-pueden-influir-futuro-tecnologia-ia-elon-musk-bill-gates-1416616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/inteligencia-artificial-vs-4255781.jpg?tf=1200x' alt='Cómo el resultado de las elecciones de EE. UU. pueden influir en el futuro de la tecnología y la IA: Elon Musk contra Bill Gates' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-music-spotify-diferencias-precio-cual-mejor-ti-1417173'>¿YouTube Music o Spotify?: diferencias, precio y cuál es mejor para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/youtube-music-spotify-diferencias-precio-cual-mejor-ti-1417173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spotify-youtube-music-4258859.jpg?tf=1200x' alt='¿YouTube Music o Spotify?: diferencias, precio y cuál es mejor para ti' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934'>Google Maps tiene un lugar para los pueblos repetidos, y está en España</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-tiene-lugar-pueblos-repetidos-espana-1417934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-tiene-lugar-pueblos-repetidos-espana-4260070.jpg?tf=1200x' alt='Google Maps tiene un lugar para los pueblos repetidos, y está en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-1417897'>WinRAR, el programa de pago que todo el mundo usa gratis se actualiza con una novedad muy esperada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-1417897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-4260046.jpg?tf=1200x' alt='WinRAR, el programa de pago que todo el mundo usa gratis se actualiza con una novedad muy esperada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-1417889'>Un error de WhatsApp vuelve verde toda la aplicación, pero tiene fácil solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-1417889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-4260031.jpg?tf=1200x' alt='Un error de WhatsApp vuelve verde toda la aplicación, pero tiene fácil solución' />
     </a>
 </div>
 
