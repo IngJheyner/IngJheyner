@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-insertar-video-youtube-powerpoint-1403704'>Cómo insertar un vídeo de YouTube en PowerPoint</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-insertar-video-youtube-powerpoint-1403704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/como-insertar-video-youtube-powerpoint-4111012.jpg?tf=1200x' alt='Cómo insertar un vídeo de YouTube en PowerPoint' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-sorpresa-precio-hunde-11-11-codigo-descuento-1417387'>La PlayStation 5 da la sorpresa: su precio se hunde por el 11 del 11 con un código descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-sorpresa-precio-hunde-11-11-codigo-descuento-1417387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/playstation-5-ps5-3200156.jpg?tf=1200x' alt='La PlayStation 5 da la sorpresa: su precio se hunde por el 11 del 11 con un código descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/hackeos-whatsapp-debes-tener-estas-opciones-seguridad-activadas-reducir-riesgo-1417462'>Hackeos de WhatsApp: Debes de tener estas opciones de seguridad activadas para reducir el riesgo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/hackeos-whatsapp-debes-tener-estas-opciones-seguridad-activadas-reducir-riesgo-1417462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hackeos-whatsapp-debes-tener-estas-opciones-seguridad-activadas-reducir-riesgo-4259293.jpg?tf=1200x' alt='Hackeos de WhatsApp: Debes de tener estas opciones de seguridad activadas para reducir el riesgo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-mucho-rendimiento-macbook-pro-chip-m4-pero-me-ha-gustado-pantalla-nanotexturizada-1417146'>Me ha gustado mucho el rendimiento del MacBook Pro con chip M4, pero me ha gustado más su pantalla nanotexturizada</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-mucho-rendimiento-macbook-pro-chip-m4-pero-me-ha-gustado-pantalla-nanotexturizada-1417146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258491.jpg?tf=1200x' alt='Me ha gustado mucho el rendimiento del MacBook Pro con chip M4, pero me ha gustado más su pantalla nanotexturizada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-kindle-2024-amazon-juega-seguro-pequenos-cambios-marcan-diferencia-1415288'>He probado el Kindle (2024) y Amazon juega sobre seguro con pequeños cambios que marcan la diferencia</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-kindle-2024-amazon-juega-seguro-pequenos-cambios-marcan-diferencia-1415288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/kindle-2024-amazon-4257329.jpg?tf=1200x' alt='He probado el Kindle (2024) y Amazon juega sobre seguro con pequeños cambios que marcan la diferencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-dni-nuevo-monedero-digital-ya-pruebas-espana-1417433'>Adiós al DNI: este es el nuevo monedero digital que está ya en pruebas en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-dni-nuevo-monedero-digital-ya-pruebas-espana-1417433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/monedero-digital-europeo-documentos-micro-pagos-movil-2941126.jpg?tf=1200x' alt='Adiós al DNI: este es el nuevo monedero digital que está ya en pruebas en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/jeff-bezos-revela-unico-pidio-empleados-convertir-amazon-empresa-exito-1417439'>Jeff Bezos revela lo único que les pidió a sus empleados para convertir a Amazon en una empresa de éxito</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/jeff-bezos-revela-unico-pidio-empleados-convertir-amazon-empresa-exito-1417439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jeff-bezos-4042221.jpg?tf=1200x' alt='Jeff Bezos revela lo único que les pidió a sus empleados para convertir a Amazon en una empresa de éxito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/motivo-expertos-recomiendan-desenchufar-microondas-1417451'>Este es el motivo por el que los expertos recomiendan desenchufar el microondas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/motivo-expertos-recomiendan-desenchufar-microondas-1417451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microondas-4259310.jpg?tf=1200x' alt='Este es el motivo por el que los expertos recomiendan desenchufar el microondas' />
     </a>
 </div>
 
