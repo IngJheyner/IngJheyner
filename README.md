@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-etiquetas-clientes-whatsapp-business-1416898'>Cómo usar las etiquetas de clientes en WhatsApp Business</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-etiquetas-clientes-whatsapp-business-1416898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/etiquetas-whatsapp-business-4258335.jpg?tf=1200x' alt='Cómo usar las etiquetas de clientes en WhatsApp Business' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273'>Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-4260592.jpg?tf=1200x' alt='Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-trucos-sacarle-rendimiento-iphone-16-1416237'>Estos son los mejores trucos para sacarle más rendimiento a tu iPhone 16 </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-trucos-sacarle-rendimiento-iphone-16-1416237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243572.jpg?tf=1200x' alt='Estos son los mejores trucos para sacarle más rendimiento a tu iPhone 16 ' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-proponen-nueva-teoria-origen-luna-sorprendente-1418321'>Científicos proponen una nueva teoría sobre el origen de la Luna y es sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cientificos-proponen-nueva-teoria-origen-luna-sorprendente-1418321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tierra-luna-4260669.jpg?tf=1200x' alt='Científicos proponen una nueva teoría sobre el origen de la Luna y es sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/me-voy-mudar-casa-mejor-sistema-aerotermia-sistema-bomba-calor-aire-acondicionado-conductos-1418200'>Me voy a mudar de casa: ¿es mejor un sistema de aerotermia o un sistema de bomba de calor y aire acondicionado por conductos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/me-voy-mudar-casa-mejor-sistema-aerotermia-sistema-bomba-calor-aire-acondicionado-conductos-1418200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aerotermia-4260525.jpg?tf=1200x' alt='Me voy a mudar de casa: ¿es mejor un sistema de aerotermia o un sistema de bomba de calor y aire acondicionado por conductos?' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-freidora-aire-olla-expertos-ocu-deciden-mejor-cocinar-1418320'>Thermomix, freidora de aire o la olla: expertos de la OCU deciden qué es mejor para cocinar</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/thermomix-freidora-aire-olla-expertos-ocu-deciden-mejor-cocinar-1418320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/electrodomesticos-cocina-4260666.jpg?tf=1200x' alt='Thermomix, freidora de aire o la olla: expertos de la OCU deciden qué es mejor para cocinar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/funciones-microsoft-word-me-hubiera-gustado-conocer-antes-1418054'>8 funciones de Microsoft Word que me hubiera gustado conocer antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/funciones-microsoft-word-me-hubiera-gustado-conocer-antes-1418054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/trucos-word-4260566.jpg?tf=1200x' alt='8 funciones de Microsoft Word que me hubiera gustado conocer antes' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/aplicacion-fotos-ios-182-vuelve-cambiar-vez-bien-1418315'>La aplicación de Fotos de iOS 18.2 vuelve a cambiar, esta vez para bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/aplicacion-fotos-ios-182-vuelve-cambiar-vez-bien-1418315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aplicacion-fotos-ios-182-vuelve-cambiar-vez-bien-4260641.jpg?tf=1200x' alt='La aplicación de Fotos de iOS 18.2 vuelve a cambiar, esta vez para bien' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-tener-chatgpt-copilot-gemini-ademas-meta-ai-whatsapp-1417905'>Cómo puedes tener ChatGPT, Copilot y Gemini, además de Meta AI, en WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-tener-chatgpt-copilot-gemini-ademas-meta-ai-whatsapp-1417905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-ia-4260551.jpg?tf=1200x' alt='Cómo puedes tener ChatGPT, Copilot y Gemini, además de Meta AI, en WhatsApp' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/novelas-menos-conocidas-stephen-king-pero-finalmente-tendra-pelicula-sera-realmente-oscura-1418146'>Es una de las novelas menos conocidas de Stephen King, pero finalmente tendrá película: “Será realmente oscura”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/novelas-menos-conocidas-stephen-king-pero-finalmente-tendra-pelicula-sera-realmente-oscura-1418146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stephen-king-confuso-3664345.jpg?tf=1200x' alt='Es una de las novelas menos conocidas de Stephen King, pero finalmente tendrá película: “Será realmente oscura”' />
     </a>
 </div>
 
