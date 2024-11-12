@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vodafone-victima-okupas-madrid-operador-local-roba-fibra-pagar-nada-1418098'>Vodafone víctima de los okupas en Madrid: un operador local le roba la fibra sin pagar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vodafone-victima-okupas-madrid-operador-local-roba-fibra-pagar-nada-1418098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone víctima de los okupas en Madrid: un operador local le roba la fibra sin pagar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-confirma-gran-filtracion-datos-empleados-1418100'>Amazon confirma una gran filtración de datos de sus empleados</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-confirma-gran-filtracion-datos-empleados-1418100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-confirma-gran-filtracion-datos-empleados-4260341.jpg?tf=1200x' alt='Amazon confirma una gran filtración de datos de sus empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/nuki-smart-lock-ultra-cerradura-inteligente-triple-rapida-pequena-1417096'>Nuki Smart Lock Ultra, una cerradura inteligente el triple de rápida y pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/nuki-smart-lock-ultra-cerradura-inteligente-triple-rapida-pequena-1417096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuki-smart-lock-ultra-4259272.jpg?tf=1200x' alt='Nuki Smart Lock Ultra, una cerradura inteligente el triple de rápida y pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-imac-m4-buena-relacion-calidad-precio-estoy-sorprendido-1417323'>Lo que más me ha gustado del iMac M4 es su buena relación calidad-precio (y estoy sorprendido)</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-imac-m4-buena-relacion-calidad-precio-estoy-sorprendido-1417323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imac-m4-2024-4259035.jpg?tf=1200x' alt='Lo que más me ha gustado del iMac M4 es su buena relación calidad-precio (y estoy sorprendido)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/he-probado-filmin-netflix-espanol-me-ha-encantado-catalogo-pero-aun-no-encontrar-rastro-algoritmo-1409027'>He probado Filmin, el Netflix español, y me ha encantado su catálogo, pero más aún no encontrar rastro de algoritmo</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/he-probado-filmin-netflix-espanol-me-ha-encantado-catalogo-pero-aun-no-encontrar-rastro-algoritmo-1409027' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/filmin-4245137.jpg?tf=1200x' alt='He probado Filmin, el Netflix español, y me ha encantado su catálogo, pero más aún no encontrar rastro de algoritmo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/compartir-estas-cosas-whatsapp-podria-meterte-problemas-legales-1417505'>Compartir estas cosas por WhatsApp podría meterte en problemas legales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/compartir-estas-cosas-whatsapp-podria-meterte-problemas-legales-1417505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/compartir-estas-cosas-whatsapp-podria-meterte-problemas-legales-4259418.jpg?tf=1200x' alt='Compartir estas cosas por WhatsApp podría meterte en problemas legales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/repartidores-amazon-tendran-nuevo-gadget-entregar-rapido-1418072'>Los repartidores de Amazon tendrán un nuevo gadget para entregar más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/repartidores-amazon-tendran-nuevo-gadget-entregar-rapido-1418072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/repartidores-amazon-tiene-nuevo-gadget-entregar-rapido-4260311.jpg?tf=1200x' alt='Los repartidores de Amazon tendrán un nuevo gadget para entregar más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-avisa-extrano-comportamiento-sol-como-puede-afectar-tierra-1417849'>La NASA avisa sobre el extraño comportamiento del Sol y cómo puede afectar a la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-avisa-extrano-comportamiento-sol-como-puede-afectar-tierra-1417849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sol-4259975.jpg?tf=1200x' alt='La NASA avisa sobre el extraño comportamiento del Sol y cómo puede afectar a la Tierra' />
     </a>
 </div>
 
