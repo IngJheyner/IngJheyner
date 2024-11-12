@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sms-falso-aemet-alertas-dana-tormentas-estafa-1418044'>El falso SMS de la AEMET sobre la DANA: ni se te ocurra pinchar, es una aplicación falsa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/sms-falso-aemet-alertas-dana-tormentas-estafa-1418044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sms-advertencia-smartphone-4260264.jpg?tf=1200x' alt='El falso SMS de la AEMET sobre la DANA: ni se te ocurra pinchar, es una aplicación falsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/vodafone-victima-okupas-madrid-operador-local-roba-fibra-pagar-nada-1418098'>Vodafone víctima de los okupas en Madrid: un operador local le roba la fibra sin pagar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/vodafone-victima-okupas-madrid-operador-local-roba-fibra-pagar-nada-1418098' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone víctima de los okupas en Madrid: un operador local le roba la fibra sin pagar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-imac-m4-buena-relacion-calidad-precio-estoy-sorprendido-1417323'>Lo que más me ha gustado del iMac M4 es su buena relación calidad-precio (y estoy sorprendido)</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-imac-m4-buena-relacion-calidad-precio-estoy-sorprendido-1417323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imac-m4-2024-4259035.jpg?tf=1200x' alt='Lo que más me ha gustado del iMac M4 es su buena relación calidad-precio (y estoy sorprendido)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/he-probado-filmin-netflix-espanol-me-ha-encantado-catalogo-pero-aun-no-encontrar-rastro-algoritmo-1409027'>He probado Filmin, el Netflix español, y me ha encantado su catálogo, pero más aún no encontrar rastro de algoritmo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/he-probado-filmin-netflix-espanol-me-ha-encantado-catalogo-pero-aun-no-encontrar-rastro-algoritmo-1409027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/filmin-4245137.jpg?tf=1200x' alt='He probado Filmin, el Netflix español, y me ha encantado su catálogo, pero más aún no encontrar rastro de algoritmo' />
     </a>
 </div>
 
