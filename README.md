@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/apps-fiables-ver-tiempo-controlar-dana-1418120'>5 apps fiables para ver el tiempo y controlar la DANA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/apps-fiables-ver-tiempo-controlar-dana-1418120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/5-apps-fiables-ver-tiempo-controlar-dana-4260388.jpg?tf=1200x' alt='5 apps fiables para ver el tiempo y controlar la DANA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-error-anillo-inteligente-cuesta-menos-20-euros-ahora-mismo-1418132'>No es un error: este anillo inteligente cuesta menos de 20 euros ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-error-anillo-inteligente-cuesta-menos-20-euros-ahora-mismo-1418132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/colmi-4260394.jpg?tf=1200x' alt='No es un error: este anillo inteligente cuesta menos de 20 euros ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sms-falso-aemet-alertas-dana-tormentas-estafa-1418044'>El falso SMS de la AEMET sobre la DANA: ni se te ocurra pinchar, es una aplicación falsa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/sms-falso-aemet-alertas-dana-tormentas-estafa-1418044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sms-advertencia-smartphone-4260264.jpg?tf=1200x' alt='El falso SMS de la AEMET sobre la DANA: ni se te ocurra pinchar, es una aplicación falsa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-confirma-gran-filtracion-datos-empleados-1418100'>Amazon confirma una gran filtración de datos de sus empleados</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-confirma-gran-filtracion-datos-empleados-1418100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-confirma-gran-filtracion-datos-empleados-4260341.jpg?tf=1200x' alt='Amazon confirma una gran filtración de datos de sus empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/nuki-smart-lock-ultra-cerradura-inteligente-triple-rapida-pequena-1417096'>Nuki Smart Lock Ultra, una cerradura inteligente el triple de rápida y pequeña</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/nuki-smart-lock-ultra-cerradura-inteligente-triple-rapida-pequena-1417096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuki-smart-lock-ultra-4259272.jpg?tf=1200x' alt='Nuki Smart Lock Ultra, una cerradura inteligente el triple de rápida y pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-imac-m4-buena-relacion-calidad-precio-estoy-sorprendido-1417323'>Lo que más me ha gustado del iMac M4 es su buena relación calidad-precio (y estoy sorprendido)</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/me-ha-gustado-imac-m4-buena-relacion-calidad-precio-estoy-sorprendido-1417323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imac-m4-2024-4259035.jpg?tf=1200x' alt='Lo que más me ha gustado del iMac M4 es su buena relación calidad-precio (y estoy sorprendido)' />
     </a>
 </div>
 
