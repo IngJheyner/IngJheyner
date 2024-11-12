@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-funciona-trucos-rapidos-solucionarlo-1417597'>¿ChatGPT no funciona? 8 trucos rápidos para solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-funciona-trucos-rapidos-solucionarlo-1417597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-no-funciona-8-trucos-rapidos-solucionarlo-4259497.jpg?tf=1200x' alt='¿ChatGPT no funciona? 8 trucos rápidos para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-1418058'>Las cajas de las muñecas Wicked de Mattel invitan a visitar una web porno</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-1418058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-4260288.jpg?tf=1200x' alt='Las cajas de las muñecas Wicked de Mattel invitan a visitar una web porno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/como-funciona-borrador-nueva-funcion-whatsapp-acaba-aparecer-sorpresa-movil-1418049'>Qué es y cómo funciona "Borrador", la nueva función de WhatsApp que acaba de aparecer por sorpresa en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/como-funciona-borrador-nueva-funcion-whatsapp-acaba-aparecer-sorpresa-movil-1418049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260271.jpg?tf=1200x' alt='Qué es y cómo funciona "Borrador", la nueva función de WhatsApp que acaba de aparecer por sorpresa en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aemet-no-enviando-sms-alertas-dana-tormentas-estafa-1418044'>La AEMET no está enviando por SMS alertas por DANA y tormentas, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/aemet-no-enviando-sms-alertas-dana-tormentas-estafa-1418044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sms-advertencia-smartphone-4260264.jpg?tf=1200x' alt='La AEMET no está enviando por SMS alertas por DANA y tormentas, es una estafa' />
     </a>
 </div>
 
