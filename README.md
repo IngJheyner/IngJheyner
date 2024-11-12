@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/apps-fiables-ver-tiempo-controlar-dana-1418120'>5 apps fiables para ver el tiempo y controlar la DANA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/apps-fiables-ver-tiempo-controlar-dana-1418120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/5-apps-fiables-ver-tiempo-controlar-dana-4260388.jpg?tf=1200x' alt='5 apps fiables para ver el tiempo y controlar la DANA' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-ocu-ofertas-black-friday-1418131'>El truco de los expertos de la OCU para que no te tomen el pelo en el próximo Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-ocu-ofertas-black-friday-1418131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='El truco de los expertos de la OCU para que no te tomen el pelo en el próximo Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-error-anillo-inteligente-cuesta-menos-20-euros-ahora-mismo-1418132'>No es un error: este anillo inteligente cuesta menos de 20 euros ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-error-anillo-inteligente-cuesta-menos-20-euros-ahora-mismo-1418132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/colmi-4260394.jpg?tf=1200x' alt='No es un error: este anillo inteligente cuesta menos de 20 euros ahora mismo' />
+    <h4><a href='https://computerhoy.20minutos.es/android/android-15-anade-funcion-mejorar-ubicacion-interiores-como-funciona-1418169'>Android 15 añade una función para mejorar la ubicación en interiores: así es como funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-15-anade-funcion-mejorar-ubicacion-interiores-como-funciona-1418169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-15-anade-funcion-mejorar-ubicacion-interiores-como-funciona-4260483.jpg?tf=1200x' alt='Android 15 añade una función para mejorar la ubicación en interiores: así es como funciona' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sms-falso-aemet-alertas-dana-tormentas-estafa-1418044'>El falso SMS de la AEMET sobre la DANA: ni se te ocurra pinchar, es una aplicación falsa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/sms-falso-aemet-alertas-dana-tormentas-estafa-1418044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sms-advertencia-smartphone-4260264.jpg?tf=1200x' alt='El falso SMS de la AEMET sobre la DANA: ni se te ocurra pinchar, es una aplicación falsa' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-conseguido-anadir-150-canales-tv-gratis-google-tv-bloqueados-espana-mi-televisor-1418108'>Así he conseguido añadir los más de 150 canales de TV gratis de Google TV bloqueados en España a mi televisor</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-conseguido-anadir-150-canales-tv-gratis-google-tv-bloqueados-espana-mi-televisor-1418108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234289.jpg?tf=1200x' alt='Así he conseguido añadir los más de 150 canales de TV gratis de Google TV bloqueados en España a mi televisor' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vodafone-victima-okupas-madrid-operador-local-roba-fibra-pagar-nada-1418098'>Vodafone víctima de los okupas en Madrid: un operador local le roba la fibra sin pagar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vodafone-victima-okupas-madrid-operador-local-roba-fibra-pagar-nada-1418098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/vodafone-2967264.jpg?tf=1200x' alt='Vodafone víctima de los okupas en Madrid: un operador local le roba la fibra sin pagar nada' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/o2-saca-artilleria-digi-velocidad-gigas-gratis-todos-1418148'>O2 saca la artillería contra DIGI: más velocidad y gigas gratis para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/o2-saca-artilleria-digi-velocidad-gigas-gratis-todos-1418148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/o2-saca-artilleria-digi-velocidad-gigas-gratis-todos-4260456.jpg?tf=1200x' alt='O2 saca la artillería contra DIGI: más velocidad y gigas gratis para todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-confirma-gran-filtracion-datos-empleados-1418100'>Amazon confirma una gran filtración de datos de sus empleados</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-confirma-gran-filtracion-datos-empleados-1418100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-confirma-gran-filtracion-datos-empleados-4260341.jpg?tf=1200x' alt='Amazon confirma una gran filtración de datos de sus empleados' />
+    <h4><a href='https://computerhoy.20minutos.es/google/frase-maldita-buscar-google-te-pone-punto-mira-hackers-1418090'>La frase maldita al buscar en Google que te pone en el punto de mira de los hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/frase-maldita-buscar-google-te-pone-punto-mira-hackers-1418090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hacker-4260339.jpg?tf=1200x' alt='La frase maldita al buscar en Google que te pone en el punto de mira de los hackers' />
     </a>
 </div>
 
