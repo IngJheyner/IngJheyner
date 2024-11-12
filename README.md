@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-trucos-sacarle-rendimiento-iphone-16-1416237'>Estos son los mejores trucos para sacarle más rendimiento a tu iPhone 16 </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-trucos-sacarle-rendimiento-iphone-16-1416237' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243572.jpg?tf=1200x' alt='Estos son los mejores trucos para sacarle más rendimiento a tu iPhone 16 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/me-voy-mudar-casa-mejor-sistema-aerotermia-sistema-bomba-calor-aire-acondicionado-conductos-1418200'>Me voy a mudar de casa: ¿es mejor un sistema de aerotermia o un sistema de bomba de calor y aire acondicionado por conductos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/me-voy-mudar-casa-mejor-sistema-aerotermia-sistema-bomba-calor-aire-acondicionado-conductos-1418200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aerotermia-4260525.jpg?tf=1200x' alt='Me voy a mudar de casa: ¿es mejor un sistema de aerotermia o un sistema de bomba de calor y aire acondicionado por conductos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/funciones-microsoft-word-me-hubiera-gustado-conocer-antes-1418054'>8 funciones de Microsoft Word que me hubiera gustado conocer antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/funciones-microsoft-word-me-hubiera-gustado-conocer-antes-1418054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/trucos-word-4260566.jpg?tf=1200x' alt='8 funciones de Microsoft Word que me hubiera gustado conocer antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-tener-chatgpt-copilot-gemini-ademas-meta-ai-whatsapp-1417905'>Cómo puedes tener ChatGPT, Copilot y Gemini, además de Meta AI, en WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-tener-chatgpt-copilot-gemini-ademas-meta-ai-whatsapp-1417905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-ia-4260551.jpg?tf=1200x' alt='Cómo puedes tener ChatGPT, Copilot y Gemini, además de Meta AI, en WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-1417906'>La estafa por Bizum de la que alerta la Guardia Civil: “Mucho cuidado para no caer en la trampa”</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-1417906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-4260044.jpg?tf=1200x' alt='La estafa por Bizum de la que alerta la Guardia Civil: “Mucho cuidado para no caer en la trampa”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-troyano-malware-1416968'>ToxicPanda, el nuevo troyano bancario para móviles Android se expande peligrosamente por España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-troyano-malware-1416968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-troyano-bancario-4260537.jpg?tf=1200x' alt='ToxicPanda, el nuevo troyano bancario para móviles Android se expande peligrosamente por España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-primer-pais-mundo-imponer-pago-utilizar-aplicacion-1418162'>Giro de 180 grados en WhatsApp: primer país del mundo en imponer un pago por utilizar la aplicación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-primer-pais-mundo-imponer-pago-utilizar-aplicacion-1418162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp: primer país del mundo en imponer un pago por utilizar la aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-1418188'>Google Learn About: cómo funciona la herramienta para aprender mientras charlas con una IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-1418188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-4260505.jpg?tf=1200x' alt='Google Learn About: cómo funciona la herramienta para aprender mientras charlas con una IA' />
     </a>
 </div>
 
