@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-1418342'>Investigadores encuentran una forma de transferir todos los cálculos del procesador a la RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-1418342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-4260700.jpg?tf=1200x' alt='Investigadores encuentran una forma de transferir todos los cálculos del procesador a la RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/app-nvidia-sale-beta-adios-geforce-experience-panel-control-1418331'>La app de Nvidia sale de la beta para decir adiós a GeForce Experience y el Panel de Control</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/app-nvidia-sale-beta-adios-geforce-experience-panel-control-1418331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731441845903-4260677.jpg?tf=1200x' alt='La app de Nvidia sale de la beta para decir adiós a GeForce Experience y el Panel de Control' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-proponen-nueva-teoria-origen-luna-sorprendente-1418321'>Científicos proponen una nueva teoría sobre el origen de la Luna y es sorprendente</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/cientificos-proponen-nueva-teoria-origen-luna-sorprendente-1418321' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tierra-luna-4260669.jpg?tf=1200x' alt='Científicos proponen una nueva teoría sobre el origen de la Luna y es sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-freidora-aire-olla-expertos-ocu-deciden-mejor-cocinar-1418320'>Thermomix, freidora de aire o la olla: expertos de la OCU deciden qué es mejor para cocinar</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/thermomix-freidora-aire-olla-expertos-ocu-deciden-mejor-cocinar-1418320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/electrodomesticos-cocina-4260666.jpg?tf=1200x' alt='Thermomix, freidora de aire o la olla: expertos de la OCU deciden qué es mejor para cocinar' />
     </a>
 </div>
 
