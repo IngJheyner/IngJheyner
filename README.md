@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-avisa-extrano-comportamiento-sol-como-puede-afectar-tierra-1417849'>La NASA avisa sobre el extraño comportamiento del Sol y cómo puede afectar a la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-avisa-extrano-comportamiento-sol-como-puede-afectar-tierra-1417849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sol-4259975.jpg?tf=1200x' alt='La NASA avisa sobre el extraño comportamiento del Sol y cómo puede afectar a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-tal-vez-deberias-desinstalar-telefono-movil-estas-razones-1417538'>10 aplicaciones que tal vez deberías desinstalar de tu teléfono móvil por estas razones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/aplicaciones-tal-vez-deberias-desinstalar-telefono-movil-estas-razones-1417538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/10-aplicaciones-tal-vez-deberias-desinstalar-telefono-movil-estas-razones-4259456.jpg?tf=1200x' alt='10 aplicaciones que tal vez deberías desinstalar de tu teléfono móvil por estas razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-cabe-mano-1414098'>Este Mini PC cabe en la palma de tu mano y puede con todos los programas imprescindibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mini-pc-cabe-mano-1414098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/acemagician-t8-plus-4253557.jpg?tf=1200x' alt='Este Mini PC cabe en la palma de tu mano y puede con todos los programas imprescindibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-funciona-trucos-rapidos-solucionarlo-1417597'>¿ChatGPT no funciona? 8 trucos rápidos para solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-funciona-trucos-rapidos-solucionarlo-1417597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-no-funciona-8-trucos-rapidos-solucionarlo-4259497.jpg?tf=1200x' alt='¿ChatGPT no funciona? 8 trucos rápidos para solucionarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-1418058'>Las cajas de las muñecas Wicked de Mattel invitan a visitar una web porno</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-1418058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cajas-munecas-wicked-mattel-invitan-visitar-web-porno-4260288.jpg?tf=1200x' alt='Las cajas de las muñecas Wicked de Mattel invitan a visitar una web porno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/calentador-pizzas-ps5-1418052'>Este es el periférico más loco de PS5: un calentador de pizzas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/calentador-pizzas-ps5-1418052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/calentador-pizza-hut-mantiene-pizza-caliente-usando-calor-ps5-puedes-imprimir-casa-4260259.jpg?tf=1200x' alt='Este es el periférico más loco de PS5: un calentador de pizzas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-reserva-co2-espacio-pero-no-puede-explicar-como-ha-terminado-alli-1418050'>La NASA descubre una reserva de CO2 en el espacio, pero no puede explicar cómo ha terminado allí</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-reserva-co2-espacio-pero-no-puede-explicar-como-ha-terminado-alli-1418050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cumulo-estrellas-4260274.jpg?tf=1200x' alt='La NASA descubre una reserva de CO2 en el espacio, pero no puede explicar cómo ha terminado allí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-funciona-borrador-nueva-funcion-whatsapp-acaba-aparecer-sorpresa-movil-1418049'>Qué es y cómo funciona "Borrador", la nueva función de WhatsApp que acaba de aparecer por sorpresa en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-funciona-borrador-nueva-funcion-whatsapp-acaba-aparecer-sorpresa-movil-1418049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260271.jpg?tf=1200x' alt='Qué es y cómo funciona "Borrador", la nueva función de WhatsApp que acaba de aparecer por sorpresa en tu móvil' />
     </a>
 </div>
 
