@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-etiquetas-clientes-whatsapp-business-1416898'>Cómo usar las etiquetas de clientes en WhatsApp Business</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-etiquetas-clientes-whatsapp-business-1416898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/etiquetas-whatsapp-business-4258335.jpg?tf=1200x' alt='Cómo usar las etiquetas de clientes en WhatsApp Business' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-trucos-sacarle-rendimiento-iphone-16-1416237'>Estos son los mejores trucos para sacarle más rendimiento a tu iPhone 16 </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-trucos-sacarle-rendimiento-iphone-16-1416237' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243572.jpg?tf=1200x' alt='Estos son los mejores trucos para sacarle más rendimiento a tu iPhone 16 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-tener-chatgpt-copilot-gemini-ademas-meta-ai-whatsapp-1417905'>Cómo puedes tener ChatGPT, Copilot y Gemini, además de Meta AI, en WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-tener-chatgpt-copilot-gemini-ademas-meta-ai-whatsapp-1417905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-ia-4260551.jpg?tf=1200x' alt='Cómo puedes tener ChatGPT, Copilot y Gemini, además de Meta AI, en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-1417906'>La estafa por Bizum de la que alerta la Guardia Civil: “Mucho cuidado para no caer en la trampa”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-1417906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-4260044.jpg?tf=1200x' alt='La estafa por Bizum de la que alerta la Guardia Civil: “Mucho cuidado para no caer en la trampa”' />
     </a>
 </div>
 
