@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/app-nvidia-sale-beta-adios-geforce-experience-panel-control-1418331'>La app de Nvidia sale de la beta para decir adiós a GeForce Experience y el Panel de Control</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/app-nvidia-sale-beta-adios-geforce-experience-panel-control-1418331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731441845903-4260677.jpg?tf=1200x' alt='La app de Nvidia sale de la beta para decir adiós a GeForce Experience y el Panel de Control' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/caos-android-auto-multiplican-casos-personas-no-pueden-utilizarlo-1418327'>¡Caos en Android Auto! Se multiplican los casos de personas que no pueden utilizarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/caos-android-auto-multiplican-casos-personas-no-pueden-utilizarlo-1418327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4260682.jpg?tf=1200x' alt='¡Caos en Android Auto! Se multiplican los casos de personas que no pueden utilizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273'>Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-4260592.jpg?tf=1200x' alt='Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-freidora-aire-olla-expertos-ocu-deciden-mejor-cocinar-1418320'>Thermomix, freidora de aire o la olla: expertos de la OCU deciden qué es mejor para cocinar</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/thermomix-freidora-aire-olla-expertos-ocu-deciden-mejor-cocinar-1418320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/electrodomesticos-cocina-4260666.jpg?tf=1200x' alt='Thermomix, freidora de aire o la olla: expertos de la OCU deciden qué es mejor para cocinar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/aplicacion-fotos-ios-182-vuelve-cambiar-vez-bien-1418315'>La aplicación de Fotos de iOS 18.2 vuelve a cambiar, esta vez para bien</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/aplicacion-fotos-ios-182-vuelve-cambiar-vez-bien-1418315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aplicacion-fotos-ios-182-vuelve-cambiar-vez-bien-4260641.jpg?tf=1200x' alt='La aplicación de Fotos de iOS 18.2 vuelve a cambiar, esta vez para bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/novelas-menos-conocidas-stephen-king-pero-finalmente-tendra-pelicula-sera-realmente-oscura-1418146'>Es una de las novelas menos conocidas de Stephen King, pero finalmente tendrá película: “Será realmente oscura”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/novelas-menos-conocidas-stephen-king-pero-finalmente-tendra-pelicula-sera-realmente-oscura-1418146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/stephen-king-confuso-3664345.jpg?tf=1200x' alt='Es una de las novelas menos conocidas de Stephen King, pero finalmente tendrá película: “Será realmente oscura”' />
     </a>
 </div>
 
