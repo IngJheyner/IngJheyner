@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-troyano-malware-1416968'>ToxicPanda, el nuevo troyano bancario para móviles Android se expande peligrosamente por España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/toxicpanda-nuevo-troyano-malware-1416968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-troyano-bancario-4260537.jpg?tf=1200x' alt='ToxicPanda, el nuevo troyano bancario para móviles Android se expande peligrosamente por España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-primer-pais-mundo-imponer-pago-utilizar-aplicacion-1418162'>Giro de 180 grados en WhatsApp: primer país del mundo en imponer un pago por utilizar la aplicación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-primer-pais-mundo-imponer-pago-utilizar-aplicacion-1418162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp: primer país del mundo en imponer un pago por utilizar la aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-1418188'>Google Learn About: cómo funciona la herramienta para aprender mientras charlas con una IA</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-1418188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-4260505.jpg?tf=1200x' alt='Google Learn About: cómo funciona la herramienta para aprender mientras charlas con una IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-ocu-ofertas-black-friday-1418131'>El truco de los expertos de la OCU para que no te tomen el pelo en el próximo Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/truco-ocu-ofertas-black-friday-1418131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='El truco de los expertos de la OCU para que no te tomen el pelo en el próximo Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-15-anade-funcion-mejorar-ubicacion-interiores-como-funciona-1418169'>Android 15 añade una función para mejorar la ubicación en interiores: así es como funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-15-anade-funcion-mejorar-ubicacion-interiores-como-funciona-1418169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-15-anade-funcion-mejorar-ubicacion-interiores-como-funciona-4260483.jpg?tf=1200x' alt='Android 15 añade una función para mejorar la ubicación en interiores: así es como funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-conseguido-anadir-150-canales-tv-gratis-google-tv-bloqueados-espana-mi-televisor-1418108'>Así he conseguido añadir los más de 150 canales de TV gratis de Google TV bloqueados en España a mi televisor</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-conseguido-anadir-150-canales-tv-gratis-google-tv-bloqueados-espana-mi-televisor-1418108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234289.jpg?tf=1200x' alt='Así he conseguido añadir los más de 150 canales de TV gratis de Google TV bloqueados en España a mi televisor' />
     </a>
 </div>
 
