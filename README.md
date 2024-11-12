@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-1418188'>Google Learn About: cómo funciona la herramienta para aprender mientras charlas con una IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-1418188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-learn-about-como-funciona-herramienta-aprender-mientras-charlas-ia-4260505.jpg?tf=1200x' alt='Google Learn About: cómo funciona la herramienta para aprender mientras charlas con una IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-steam-tienes-alguna-estas-versiones-windows-ya-no-podras-acceder-juegos-1418150'>Giro de 180 grados en Steam: si tienes alguna de estas versiones de Windows ya no podrás acceder a tus juegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-steam-tienes-alguna-estas-versiones-windows-ya-no-podras-acceder-juegos-1418150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/juegos-steam-te-llevaras-tumba-3389851.jpg?tf=1200x' alt='Giro de 180 grados en Steam: si tienes alguna de estas versiones de Windows ya no podrás acceder a tus juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-ocu-ofertas-black-friday-1418131'>El truco de los expertos de la OCU para que no te tomen el pelo en el próximo Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/truco-ocu-ofertas-black-friday-1418131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/black-friday-3223172.jpg?tf=1200x' alt='El truco de los expertos de la OCU para que no te tomen el pelo en el próximo Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-conseguido-anadir-150-canales-tv-gratis-google-tv-bloqueados-espana-mi-televisor-1418108'>Así he conseguido añadir los más de 150 canales de TV gratis de Google TV bloqueados en España a mi televisor</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-conseguido-anadir-150-canales-tv-gratis-google-tv-bloqueados-espana-mi-televisor-1418108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234289.jpg?tf=1200x' alt='Así he conseguido añadir los más de 150 canales de TV gratis de Google TV bloqueados en España a mi televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/o2-saca-artilleria-digi-velocidad-gigas-gratis-todos-1418148'>O2 saca la artillería contra DIGI: más velocidad y gigas gratis para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/o2-saca-artilleria-digi-velocidad-gigas-gratis-todos-1418148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/o2-saca-artilleria-digi-velocidad-gigas-gratis-todos-4260456.jpg?tf=1200x' alt='O2 saca la artillería contra DIGI: más velocidad y gigas gratis para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/frase-maldita-buscar-google-te-pone-punto-mira-hackers-1418090'>La frase maldita al buscar en Google que te pone en el punto de mira de los hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/frase-maldita-buscar-google-te-pone-punto-mira-hackers-1418090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hacker-4260339.jpg?tf=1200x' alt='La frase maldita al buscar en Google que te pone en el punto de mira de los hackers' />
     </a>
 </div>
 
