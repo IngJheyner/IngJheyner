@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/no-tires-basura-viejo-router-formas-practicas-reciclarlo-1417792'>No tires a la basura tu viejo router: 5 formas prácticas de reciclarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/no-tires-basura-viejo-router-formas-practicas-reciclarlo-1417792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/usar-router-wifi-4259856.jpg?tf=1200x' alt='No tires a la basura tu viejo router: 5 formas prácticas de reciclarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/contrasenas-importantes-portatil-seguramente-tienes-desactivada-1418041'>Es una de las contraseñas más importantes de tu portátil, y seguramente la tienes desactivada</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/contrasenas-importantes-portatil-seguramente-tienes-desactivada-1418041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/contrasenas-importantes-portatil-seguramente-tienes-desactivada-4260296.jpg?tf=1200x' alt='Es una de las contraseñas más importantes de tu portátil, y seguramente la tienes desactivada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pc-windows-11-menos-200-euros-amazon-1406648'>No se han equivocado: Amazon vende un PC por menos de 200 euros con Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pc-windows-11-menos-200-euros-amazon-1406648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='No se han equivocado: Amazon vende un PC por menos de 200 euros con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-1418062'>¿Qué significado tiene cambiar constantemente la foto de perfil de WhatsApp, según la IA?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-1418062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-4260302.jpg?tf=1200x' alt='¿Qué significado tiene cambiar constantemente la foto de perfil de WhatsApp, según la IA?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353'>Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-siempre-gana-piedra-papel-tijera-dueno-te-da-10000-dolares-vences-4260720.jpg?tf=1200x' alt='Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-1418342'>Investigadores encuentran una forma de transferir todos los cálculos del procesador a la RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-1418342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-4260700.jpg?tf=1200x' alt='Investigadores encuentran una forma de transferir todos los cálculos del procesador a la RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/app-nvidia-sale-beta-adios-geforce-experience-panel-control-1418331'>La app de Nvidia sale de la beta para decir adiós a GeForce Experience y el Panel de Control</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/app-nvidia-sale-beta-adios-geforce-experience-panel-control-1418331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731441845903-4260677.jpg?tf=1200x' alt='La app de Nvidia sale de la beta para decir adiós a GeForce Experience y el Panel de Control' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/caos-android-auto-multiplican-casos-personas-no-pueden-utilizarlo-1418327'>¡Caos en Android Auto! Se multiplican los casos de personas que no pueden utilizarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/caos-android-auto-multiplican-casos-personas-no-pueden-utilizarlo-1418327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4260682.jpg?tf=1200x' alt='¡Caos en Android Auto! Se multiplican los casos de personas que no pueden utilizarlo' />
     </a>
 </div>
 
