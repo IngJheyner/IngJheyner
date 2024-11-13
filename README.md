@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868'>Un equipo de científicos señala que los humanos del futuro serán muy diferentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ser-humano-4260020.jpg?tf=1200x' alt='Un equipo de científicos señala que los humanos del futuro serán muy diferentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/como-saber-estas-usando-cargador-iphone-lento-1418477'>Cómo saber si estás usando un cargador de iPhone más lento</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/como-saber-estas-usando-cargador-iphone-lento-1418477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-saber-estas-usando-cargador-iphone-lento-paso-paso-4260941.jpg?tf=1200x' alt='Cómo saber si estás usando un cargador de iPhone más lento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/talent-arena-nuevo-espacio-mwc-2025-tendra-ponentes-steve-wozniak-cofundador-apple-1418509'>Talent Arena, el nuevo espacio del MWC 2025 que tendrá entre sus ponentes a Steve Wozniak, cofundador de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/talent-arena-nuevo-espacio-mwc-2025-tendra-ponentes-steve-wozniak-cofundador-apple-1418509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mwc-2207431.jpg?tf=1200x' alt='Talent Arena, el nuevo espacio del MWC 2025 que tendrá entre sus ponentes a Steve Wozniak, cofundador de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/respondes-mensajes-whatsapp-instante-dice-psicologia-ti-1418400'>¿Respondes los mensajes de WhatsApp al instante? Esto dice la psicología sobre ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/respondes-mensajes-whatsapp-instante-dice-psicologia-ti-1418400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mensajes-whatsapp-4260832.jpg?tf=1200x' alt='¿Respondes los mensajes de WhatsApp al instante? Esto dice la psicología sobre ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/palabras-busqueda-google-hackers-1418090'>6 palabras que no deberías buscar en Google si no quieres ser hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/palabras-busqueda-google-hackers-1418090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/son-legales-gatos-bengala-australia-4260904.jpg?tf=1200x' alt='6 palabras que no deberías buscar en Google si no quieres ser hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/regresa-serie-mejor-valorada-netflix-todos-tiempos-imdb-rotten-tomatoes-1418450'>Regresa la serie mejor valorada de Netflix de todos los tiempos: 9.0 en IMDb y 100% en Rotten Tomatoes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/regresa-serie-mejor-valorada-netflix-todos-tiempos-imdb-rotten-tomatoes-1418450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/arcane-2531897.jpg?tf=1200x' alt='Regresa la serie mejor valorada de Netflix de todos los tiempos: 9.0 en IMDb y 100% en Rotten Tomatoes' />
     </a>
 </div>
 
