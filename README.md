@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353'>Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-siempre-gana-piedra-papel-tijera-dueno-te-da-10000-dolares-vences-4260720.jpg?tf=1200x' alt='Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-1418342'>Investigadores encuentran una forma de transferir todos los cálculos del procesador a la RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-1418342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/investigadores-encuentran-forma-transferir-todos-calculos-procesador-ram-4260700.jpg?tf=1200x' alt='Investigadores encuentran una forma de transferir todos los cálculos del procesador a la RAM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273'>Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-4260592.jpg?tf=1200x' alt='Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-proponen-nueva-teoria-origen-luna-sorprendente-1418321'>Científicos proponen una nueva teoría sobre el origen de la Luna y es sorprendente</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cientificos-proponen-nueva-teoria-origen-luna-sorprendente-1418321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tierra-luna-4260669.jpg?tf=1200x' alt='Científicos proponen una nueva teoría sobre el origen de la Luna y es sorprendente' />
     </a>
 </div>
 
