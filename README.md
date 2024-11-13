@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/raspberry-pi-5-nitrogeno-liquido-record-velocidad-1418367'>Refrigeran una Raspberry Pi 5 con nitrógeno líquido, y esto es lo que pasa</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/raspberry-pi-5-nitrogeno-liquido-record-velocidad-1418367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/refrigeran-raspberry-pi-5-nitrogeno-liquido-pasa-4260740.jpg?tf=1200x' alt='Refrigeran una Raspberry Pi 5 con nitrógeno líquido, y esto es lo que pasa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-2024-amazon-te-da-razones-actualizar-version-anticuada-1416791'>Lo que más me ha gustado del Kindle (2024) es que Amazon te da razones para actualizar si tu versión está anticuada</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-2024-amazon-te-da-razones-actualizar-version-anticuada-1416791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/kindle-2024-amazon-4258124.jpg?tf=1200x' alt='Lo que más me ha gustado del Kindle (2024) es que Amazon te da razones para actualizar si tu versión está anticuada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/apple-mac-mini-m4-pro-ordenador-versatil-puedes-comprar-1417697'>He analizado el Mac mini con M4 Pro y no hay duda, este es el ordenador de Apple más versátil que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/apple-mac-mini-m4-pro-ordenador-versatil-puedes-comprar-1417697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-mac-mini-2024-4259648.jpg?tf=1200x' alt='He analizado el Mac mini con M4 Pro y no hay duda, este es el ordenador de Apple más versátil que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-1418068'>Ni Lista Robinson ni aplicaciones, así he conseguido reducir casi el 100% de las llamadas spam en el móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-1418068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-4260308.jpg?tf=1200x' alt='Ni Lista Robinson ni aplicaciones, así he conseguido reducir casi el 100% de las llamadas spam en el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/no-tires-basura-viejo-router-formas-practicas-reciclarlo-1417792'>No tires a la basura tu viejo router: 5 formas prácticas de reciclarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/no-tires-basura-viejo-router-formas-practicas-reciclarlo-1417792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/usar-router-wifi-4259856.jpg?tf=1200x' alt='No tires a la basura tu viejo router: 5 formas prácticas de reciclarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/contrasenas-importantes-portatil-seguramente-tienes-desactivada-1418041'>Es una de las contraseñas más importantes de tu portátil, y seguramente la tienes desactivada</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/contrasenas-importantes-portatil-seguramente-tienes-desactivada-1418041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/contrasenas-importantes-portatil-seguramente-tienes-desactivada-4260296.jpg?tf=1200x' alt='Es una de las contraseñas más importantes de tu portátil, y seguramente la tienes desactivada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pc-windows-11-menos-200-euros-amazon-1406648'>No se han equivocado: Amazon vende un PC por menos de 200 euros con Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pc-windows-11-menos-200-euros-amazon-1406648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/hp-compaq-8300-sff-4240965.jpg?tf=1200x' alt='No se han equivocado: Amazon vende un PC por menos de 200 euros con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-1418062'>¿Qué significado tiene cambiar constantemente la foto de perfil de WhatsApp, según la IA?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-1418062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-4260302.jpg?tf=1200x' alt='¿Qué significado tiene cambiar constantemente la foto de perfil de WhatsApp, según la IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353'>Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-siempre-gana-piedra-papel-tijera-dueno-te-da-10000-dolares-vences-4260720.jpg?tf=1200x' alt='Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences' />
     </a>
 </div>
 
