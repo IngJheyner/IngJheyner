@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224'>Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-xiaomi-su7-exposicion-espana-human-car-home-1418541'>Hemos estado dentro del coche eléctrico de Xiaomi, y parece una nave espacial</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-xiaomi-su7-exposicion-espana-human-car-home-1418541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hemos-estado-dentro-coche-electrico-xiaomi-parece-nave-espacial-4261005.jpg?tf=1200x' alt='Hemos estado dentro del coche eléctrico de Xiaomi, y parece una nave espacial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868'>Un equipo de científicos señala que los humanos del futuro serán muy diferentes</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ser-humano-4260020.jpg?tf=1200x' alt='Un equipo de científicos señala que los humanos del futuro serán muy diferentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/talent-arena-nuevo-espacio-mwc-2025-tendra-ponentes-steve-wozniak-cofundador-apple-1418509'>Talent Arena, el nuevo espacio del MWC 2025 que tendrá entre sus ponentes a Steve Wozniak, cofundador de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/talent-arena-nuevo-espacio-mwc-2025-tendra-ponentes-steve-wozniak-cofundador-apple-1418509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mwc-2207431.jpg?tf=1200x' alt='Talent Arena, el nuevo espacio del MWC 2025 que tendrá entre sus ponentes a Steve Wozniak, cofundador de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-justifica-extrana-ubicacion-boton-encendido-nuevo-mac-mini-1418462'>Apple justifica la extraña ubicación del botón de encendido del nuevo Mac mini</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-justifica-extrana-ubicacion-boton-encendido-nuevo-mac-mini-1418462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/boton-encendido-mac-mini-m4-4260950.jpg?tf=1200x' alt='Apple justifica la extraña ubicación del botón de encendido del nuevo Mac mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/respondes-mensajes-whatsapp-instante-dice-psicologia-ti-1418400'>¿Respondes los mensajes de WhatsApp al instante? Esto dice la psicología sobre ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/respondes-mensajes-whatsapp-instante-dice-psicologia-ti-1418400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mensajes-whatsapp-4260832.jpg?tf=1200x' alt='¿Respondes los mensajes de WhatsApp al instante? Esto dice la psicología sobre ti' />
     </a>
 </div>
 
