@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-calculadora-casio-nuevos-modelos-1418610'>Casio viaja en el tiempo a 1972 y relanza su mítico reloj con calculadora</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-calculadora-casio-nuevos-modelos-1418610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/casio-viaja-tiempo-1972-relanza-mitico-reloj-calculadora-4261146.jpg?tf=1200x' alt='Casio viaja en el tiempo a 1972 y relanza su mítico reloj con calculadora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/guarda-ahora-calla-siempre-google-va-eliminar-historial-ubicaciones-google-maps-1418603'>Guarda ahora o calla para siempre: Google va a eliminar tu historial de ubicaciones de Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/guarda-ahora-calla-siempre-google-va-eliminar-historial-ubicaciones-google-maps-1418603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ubicaciones-google-maps-4261168.jpg?tf=1200x' alt='Guarda ahora o calla para siempre: Google va a eliminar tu historial de ubicaciones de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-tan-desagradables-gente-no-aguanto-momento-marchaban-cines-1418502'>5 películas tan “desagradables” que la gente no aguantó en su momento: se marchaban de los cines</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-tan-desagradables-gente-no-aguanto-momento-marchaban-cines-1418502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/5-clasicos-terror-tan-espeluznantes-gente-no-aguanto-momento-marchaban-cines-4260962.jpg?tf=1200x' alt='5 películas tan “desagradables” que la gente no aguantó en su momento: se marchaban de los cines' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/todo-pronostico-plan-anuncios-netflix-exito-aplastante-cifras-son-mareantes-1418601'>Contra todo pronóstico el plan con anuncios de Netflix es un éxito aplastante, las cifras son mareantes</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/todo-pronostico-plan-anuncios-netflix-exito-aplastante-cifras-son-mareantes-1418601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-exito-mundo-4261166.jpg?tf=1200x' alt='Contra todo pronóstico el plan con anuncios de Netflix es un éxito aplastante, las cifras son mareantes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-pueden-ahora-rastrear-donde-has-estado-gracias-ia-analiza-bacterias-cuerpo-1418594'>Los científicos pueden ahora rastrear dónde has estado gracias a una IA que analiza las bacterias de tu cuerpo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-pueden-ahora-rastrear-donde-has-estado-gracias-ia-analiza-bacterias-cuerpo-1418594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-radar-4261160.jpg?tf=1200x' alt='Los científicos pueden ahora rastrear dónde has estado gracias a una IA que analiza las bacterias de tu cuerpo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-accion-no-conforma-haber-sido-exitos-verano-ya-visto-max-1418528'>La película de acción que no se conforma con haber sido uno de los éxitos del verano: ya es lo más visto de MAX</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-accion-no-conforma-haber-sido-exitos-verano-ya-visto-max-1418528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pelicula-accion-no-conforma-haber-sido-exitos-verano-ya-visto-max-4260997.jpg?tf=1200x' alt='La película de acción que no se conforma con haber sido uno de los éxitos del verano: ya es lo más visto de MAX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-spotify-como-alarma-movil-android-1418252'>Cómo usar Spotify como alarma en tu móvil Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-spotify-como-alarma-movil-android-1418252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/alarma-spotify-4260578.jpg?tf=1200x' alt='Cómo usar Spotify como alarma en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-1418127'>Polémica en Japón: prohibir casarse a las mujeres mayores de 25 años y otras propuestas de “ciencia ficción” para mejorar la natalidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-1418127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-4260383.jpg?tf=1200x' alt='Polémica en Japón: prohibir casarse a las mujeres mayores de 25 años y otras propuestas de “ciencia ficción” para mejorar la natalidad' />
     </a>
 </div>
 
