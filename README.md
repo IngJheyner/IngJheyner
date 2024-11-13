@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-haul-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-1418624'>Amazon lanza una tienda de productos muy baratos para competir con Shein, Temu y AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-haul-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-1418624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-lanza-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-4261184.jpg?tf=1200x' alt='Amazon lanza una tienda de productos muy baratos para competir con Shein, Temu y AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-calculadora-casio-nuevos-modelos-1418610'>Casio viaja en el tiempo a 1972 y relanza su mítico reloj con calculadora</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reloj-calculadora-casio-nuevos-modelos-1418610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/casio-viaja-tiempo-1972-relanza-mitico-reloj-calculadora-4261146.jpg?tf=1200x' alt='Casio viaja en el tiempo a 1972 y relanza su mítico reloj con calculadora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/todo-pronostico-plan-anuncios-netflix-exito-aplastante-cifras-son-mareantes-1418601'>Contra todo pronóstico el plan con anuncios de Netflix es un éxito aplastante, las cifras son mareantes</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/todo-pronostico-plan-anuncios-netflix-exito-aplastante-cifras-son-mareantes-1418601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-exito-mundo-4261166.jpg?tf=1200x' alt='Contra todo pronóstico el plan con anuncios de Netflix es un éxito aplastante, las cifras son mareantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-pueden-ahora-rastrear-donde-has-estado-gracias-ia-analiza-bacterias-cuerpo-1418594'>Los científicos pueden ahora rastrear dónde has estado gracias a una IA que analiza las bacterias de tu cuerpo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-pueden-ahora-rastrear-donde-has-estado-gracias-ia-analiza-bacterias-cuerpo-1418594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-radar-4261160.jpg?tf=1200x' alt='Los científicos pueden ahora rastrear dónde has estado gracias a una IA que analiza las bacterias de tu cuerpo' />
     </a>
 </div>
 
