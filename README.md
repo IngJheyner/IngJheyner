@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-actualiza-tanta-frecuencia-1418308'>¿Por qué tu Windows se actualiza con tanta frecuencia?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-actualiza-tanta-frecuencia-1418308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-actualiza-tanta-frecuencia-4260723.jpg?tf=1200x' alt='¿Por qué tu Windows se actualiza con tanta frecuencia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-1418300'>¿Está la IA estancada? El nuevo modelo de OpenAI apunta a una profunda “desaceleración”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-1418300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-4260624.jpg?tf=1200x' alt='¿Está la IA estancada? El nuevo modelo de OpenAI apunta a una profunda “desaceleración”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224'>Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868'>Un equipo de científicos señala que los humanos del futuro serán muy diferentes</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ser-humano-4260020.jpg?tf=1200x' alt='Un equipo de científicos señala que los humanos del futuro serán muy diferentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/como-saber-estas-usando-cargador-iphone-lento-1418477'>Cómo saber si estás usando un cargador de iPhone más lento</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/como-saber-estas-usando-cargador-iphone-lento-1418477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-saber-estas-usando-cargador-iphone-lento-paso-paso-4260941.jpg?tf=1200x' alt='Cómo saber si estás usando un cargador de iPhone más lento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/talent-arena-nuevo-espacio-mwc-2025-tendra-ponentes-steve-wozniak-cofundador-apple-1418509'>Talent Arena, el nuevo espacio del MWC 2025 que tendrá entre sus ponentes a Steve Wozniak, cofundador de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/talent-arena-nuevo-espacio-mwc-2025-tendra-ponentes-steve-wozniak-cofundador-apple-1418509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/mwc-2207431.jpg?tf=1200x' alt='Talent Arena, el nuevo espacio del MWC 2025 que tendrá entre sus ponentes a Steve Wozniak, cofundador de Apple' />
     </a>
 </div>
 
