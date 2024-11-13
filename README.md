@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/todo-pronostico-plan-anuncios-netflix-exito-aplastante-cifras-son-mareantes-1418601'>Contra todo pronóstico el plan con anuncios de Netflix es un éxito aplastante, las cifras son mareantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/todo-pronostico-plan-anuncios-netflix-exito-aplastante-cifras-son-mareantes-1418601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-exito-mundo-4261166.jpg?tf=1200x' alt='Contra todo pronóstico el plan con anuncios de Netflix es un éxito aplastante, las cifras son mareantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-pueden-ahora-rastrear-donde-has-estado-gracias-ia-analiza-bacterias-cuerpo-1418594'>Los científicos pueden ahora rastrear dónde has estado gracias a una IA que analiza las bacterias de tu cuerpo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-pueden-ahora-rastrear-donde-has-estado-gracias-ia-analiza-bacterias-cuerpo-1418594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-radar-4261160.jpg?tf=1200x' alt='Los científicos pueden ahora rastrear dónde has estado gracias a una IA que analiza las bacterias de tu cuerpo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-accion-no-conforma-haber-sido-exitos-verano-ya-visto-max-1418528'>La película de acción que no se conforma con haber sido uno de los éxitos del verano: ya es lo más visto de MAX</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-accion-no-conforma-haber-sido-exitos-verano-ya-visto-max-1418528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pelicula-accion-no-conforma-haber-sido-exitos-verano-ya-visto-max-4260997.jpg?tf=1200x' alt='La película de acción que no se conforma con haber sido uno de los éxitos del verano: ya es lo más visto de MAX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-spotify-como-alarma-movil-android-1418252'>Cómo usar Spotify como alarma en tu móvil Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-spotify-como-alarma-movil-android-1418252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/alarma-spotify-4260578.jpg?tf=1200x' alt='Cómo usar Spotify como alarma en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-1418127'>Polémica en Japón: prohibir casarse a las mujeres mayores de 25 años y otras propuestas de “ciencia ficción” para mejorar la natalidad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-1418127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-4260383.jpg?tf=1200x' alt='Polémica en Japón: prohibir casarse a las mujeres mayores de 25 años y otras propuestas de “ciencia ficción” para mejorar la natalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-experto-no-caer-nunca-estafa-suplantacion-identidad-1418287'>El truco de un experto para no caer nunca en una estafa por suplantación de identidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-experto-no-caer-nunca-estafa-suplantacion-identidad-1418287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-experto-no-caer-nunca-estafa-suplantacion-identidad-4260712.jpg?tf=1200x' alt='El truco de un experto para no caer nunca en una estafa por suplantación de identidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-actualiza-tanta-frecuencia-1418308'>¿Por qué tu Windows se actualiza con tanta frecuencia?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-actualiza-tanta-frecuencia-1418308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-actualiza-tanta-frecuencia-4260723.jpg?tf=1200x' alt='¿Por qué tu Windows se actualiza con tanta frecuencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-1418300'>¿Está la IA estancada? El nuevo modelo de OpenAI apunta a una profunda “desaceleración”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-1418300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-4260624.jpg?tf=1200x' alt='¿Está la IA estancada? El nuevo modelo de OpenAI apunta a una profunda “desaceleración”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224'>Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día' />
     </a>
 </div>
 
