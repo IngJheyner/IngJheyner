@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-android-auto-podria-salvarte-vida-1416397'>Este truco de Android Auto podría salvarte la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/truco-android-auto-podria-salvarte-vida-1416397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/accidente-android-auto-4257414.jpg?tf=1200x' alt='Este truco de Android Auto podría salvarte la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/raspberry-pi-5-nitrogeno-liquido-record-velocidad-1418367'>Refrigeran una Raspberry Pi 5 con nitrógeno líquido, y esto es lo que pasa</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/raspberry-pi-5-nitrogeno-liquido-record-velocidad-1418367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/refrigeran-raspberry-pi-5-nitrogeno-liquido-pasa-4260740.jpg?tf=1200x' alt='Refrigeran una Raspberry Pi 5 con nitrógeno líquido, y esto es lo que pasa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-1418068'>Ni Lista Robinson ni aplicaciones, así he conseguido reducir casi el 100% de las llamadas spam en el móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-1418068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-4260308.jpg?tf=1200x' alt='Ni Lista Robinson ni aplicaciones, así he conseguido reducir casi el 100% de las llamadas spam en el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/no-tires-basura-viejo-router-formas-practicas-reciclarlo-1417792'>No tires a la basura tu viejo router: 5 formas prácticas de reciclarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/no-tires-basura-viejo-router-formas-practicas-reciclarlo-1417792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/usar-router-wifi-4259856.jpg?tf=1200x' alt='No tires a la basura tu viejo router: 5 formas prácticas de reciclarlo' />
     </a>
 </div>
 
