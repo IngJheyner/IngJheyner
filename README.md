@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanzara-dispositivo-pantalla-hacer-casa-inteligente-estara-llena-ia-1418448'>Apple lanzará un dispositivo con pantalla para hacer tu casa más inteligente: y sí, estará llena de IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lanzara-dispositivo-pantalla-hacer-casa-inteligente-estara-llena-ia-1418448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-lanzara-dispositivo-pantalla-hacer-casa-inteligente-estara-llena-ia-4260881.jpg?tf=1200x' alt='Apple lanzará un dispositivo con pantalla para hacer tu casa más inteligente: y sí, estará llena de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-maps-actualizara-funcion-unica-no-encontraras-google-maps-waze-1418428'>Apple Maps se actualizará con una función única que no encontrarás en Google Maps o Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-maps-actualizara-funcion-unica-no-encontraras-google-maps-waze-1418428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-maps-3907361.jpg?tf=1200x' alt='Apple Maps se actualizará con una función única que no encontrarás en Google Maps o Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ojo-letra-pequena-retrocompatibilidad-nintendo-switch-2-podria-haber-sorpresas-1418412'>Ojo con la “letra pequeña” de la retrocompatibilidad de Nintendo Switch 2, podría haber sorpresas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ojo-letra-pequena-retrocompatibilidad-nintendo-switch-2-podria-haber-sorpresas-1418412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/concepto-nintendo-switch-2-4260870.jpg?tf=1200x' alt='Ojo con la “letra pequeña” de la retrocompatibilidad de Nintendo Switch 2, podría haber sorpresas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-lanzara-propios-chips-dejar-depender-nvidia-1418392'>Amazon lanzará sus propios chips para dejar de depender de Nvidia</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-lanzara-propios-chips-dejar-depender-nvidia-1418392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-lanzara-propios-chips-dejar-depender-nvidia-4260814.jpg?tf=1200x' alt='Amazon lanzará sus propios chips para dejar de depender de Nvidia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-desvela-truco-mejorar-cobertura-red-movil-funciona-1418385'>DIGI desvela el truco para mejorar la cobertura de su red en tu móvil (y funciona)</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/digi-desvela-truco-mejorar-cobertura-red-movil-funciona-1418385' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-desvela-truco-mejorar-cobertura-red-movil-funciona-4260776.jpg?tf=1200x' alt='DIGI desvela el truco para mejorar la cobertura de su red en tu móvil (y funciona)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acerca-dia-d-salvar-cuenta-gmail-fotos-google-hazlo-ahora-te-quedaras-ellas-1418388'>Se acerca el día D para salvar tu cuenta de Gmail y las fotos de Google: hazlo ahora o te quedarás sin ellas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acerca-dia-d-salvar-cuenta-gmail-fotos-google-hazlo-ahora-te-quedaras-ellas-1418388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4260815.jpg?tf=1200x' alt='Se acerca el día D para salvar tu cuenta de Gmail y las fotos de Google: hazlo ahora o te quedarás sin ellas' />
     </a>
 </div>
 
