@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-1418062'>¿Qué significado tiene cambiar constantemente la foto de perfil de WhatsApp, según la IA?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-1418062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/significado-tiene-cambiar-constantemente-foto-perfil-whatsapp-ia-4260302.jpg?tf=1200x' alt='¿Qué significado tiene cambiar constantemente la foto de perfil de WhatsApp, según la IA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353'>Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-siempre-gana-piedra-papel-tijera-1418353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-siempre-gana-piedra-papel-tijera-dueno-te-da-10000-dolares-vences-4260720.jpg?tf=1200x' alt='Este robot con IA siempre gana al Piedra, Papel o Tijera, y su dueño te da 10.000 dólares si le vences' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/caos-android-auto-multiplican-casos-personas-no-pueden-utilizarlo-1418327'>¡Caos en Android Auto! Se multiplican los casos de personas que no pueden utilizarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/caos-android-auto-multiplican-casos-personas-no-pueden-utilizarlo-1418327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4260682.jpg?tf=1200x' alt='¡Caos en Android Auto! Se multiplican los casos de personas que no pueden utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273'>Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-1418273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/serie-intriga-netflix-arrasando-espana-basada-novela-solo-tiene-ocho-capitulos-4260592.jpg?tf=1200x' alt='Así es la serie de intriga de Netflix que está arrasando en España: está basada en una novela y solo tiene ocho capítulos' />
     </a>
 </div>
 
