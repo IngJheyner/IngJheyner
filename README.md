@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-1418127'>Polémica en Japón: prohibir casarse a las mujeres mayores de 25 años y otras propuestas de “ciencia ficción” para mejorar la natalidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-1418127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/polemica-japon-prohibir-casarse-mujeres-mayores-25-anos-otras-propuestas-ciencia-ficcion-mejorar-natalidad-4260383.jpg?tf=1200x' alt='Polémica en Japón: prohibir casarse a las mujeres mayores de 25 años y otras propuestas de “ciencia ficción” para mejorar la natalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-experto-no-caer-nunca-estafa-suplantacion-identidad-1418287'>El truco de un experto para no caer nunca en una estafa por suplantación de identidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-experto-no-caer-nunca-estafa-suplantacion-identidad-1418287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-experto-no-caer-nunca-estafa-suplantacion-identidad-4260712.jpg?tf=1200x' alt='El truco de un experto para no caer nunca en una estafa por suplantación de identidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-actualiza-tanta-frecuencia-1418308'>¿Por qué tu Windows se actualiza con tanta frecuencia?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-actualiza-tanta-frecuencia-1418308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-actualiza-tanta-frecuencia-4260723.jpg?tf=1200x' alt='¿Por qué tu Windows se actualiza con tanta frecuencia?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224'>Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-mejores-prompts-sacar-rendimiento-chatgpt-dia-dia-1418224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='Estos son los mejores prompts para sacar rendimiento a ChatGPT en tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-xiaomi-su7-exposicion-espana-human-car-home-1418541'>Hemos estado dentro del coche eléctrico de Xiaomi, y parece una nave espacial</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-xiaomi-su7-exposicion-espana-human-car-home-1418541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hemos-estado-dentro-coche-electrico-xiaomi-parece-nave-espacial-4261005.jpg?tf=1200x' alt='Hemos estado dentro del coche eléctrico de Xiaomi, y parece una nave espacial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868'>Un equipo de científicos señala que los humanos del futuro serán muy diferentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/equipo-cientificos-senala-humanos-futuro-seran-muy-diferentes-1417868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ser-humano-4260020.jpg?tf=1200x' alt='Un equipo de científicos señala que los humanos del futuro serán muy diferentes' />
     </a>
 </div>
 
