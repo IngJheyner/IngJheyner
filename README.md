@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/estos-5-consejos-podrian-ayudar-solucionar-problema-lentitud-wifi-pc-windows-1417791'>Estos 5 consejos podrían ayudar a solucionar el problema de la lentitud del WiFi en tu PC con Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/estos-5-consejos-podrian-ayudar-solucionar-problema-lentitud-wifi-pc-windows-1417791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conexion-wifi-4259855.jpg?tf=1200x' alt='Estos 5 consejos podrían ayudar a solucionar el problema de la lentitud del WiFi en tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-1418483'>Un estudio demuestra que la IA no es tan inteligente después de todo: esto es en lo que falla siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-1418483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-4260947.jpg?tf=1200x' alt='Un estudio demuestra que la IA no es tan inteligente después de todo: esto es en lo que falla siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-1418019'>¿Android Auto no funciona en tu Samsung Galaxy? Así puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-1418019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-4260263.jpg?tf=1200x' alt='¿Android Auto no funciona en tu Samsung Galaxy? Así puedes solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-1418241'>Aumentan las estafas por suplantación de identidad por WhatsApp: así puedes protegerte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-1418241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-4260643.jpg?tf=1200x' alt='Aumentan las estafas por suplantación de identidad por WhatsApp: así puedes protegerte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/kobo-lector-ebooks-color-barato-kindle-1411422'>Kobo tiene un lector de ebooks a color que supera a los Kindle en precio, y lee EPUB</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/kobo-lector-ebooks-color-barato-kindle-1411422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='Kobo tiene un lector de ebooks a color que supera a los Kindle en precio, y lee EPUB' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-amazon-leer-letra-pequena-1418637'>YouTuber presume de comprar una casa en Amazon a precio de risa, pero se olvida de leer la letra pequeña</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-amazon-leer-letra-pequena-1418637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtuber-presume-comprar-casa-amazon-precio-risa-pero-olvida-leer-letra-pequena-4261206.jpg?tf=1200x' alt='YouTuber presume de comprar una casa en Amazon a precio de risa, pero se olvida de leer la letra pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jpeg-formato-imagen-popular-historia-podria-desaparecer-muy-pronto-1418355'>JPEG, el formato de imagen más popular de la historia, podría desaparecer muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/jpeg-formato-imagen-popular-historia-podria-desaparecer-muy-pronto-1418355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jpeg-formato-imagen-popular-historia-podria-desaparecer-muy-pronto-4260730.jpg?tf=1200x' alt='JPEG, el formato de imagen más popular de la historia, podría desaparecer muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/deberias-ubicar-aqui-no-otro-lugar-router-wifi-1418354'>¿Por qué deberías ubicar aquí, y no en otro lugar, tu router WiFi?</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/deberias-ubicar-aqui-no-otro-lugar-router-wifi-1418354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/deberias-ubicar-aqui-no-otro-lugar-router-wifi-4260727.jpg?tf=1200x' alt='¿Por qué deberías ubicar aquí, y no en otro lugar, tu router WiFi?' />
     </a>
 </div>
 
