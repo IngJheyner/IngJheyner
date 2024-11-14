@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-era-hora-radio-fm-llegara-finalmente-android-auto-proxima-actualizacion-1418778'>¡Ya era hora! La radio FM llegará finalmente a Android Auto con la próxima actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-era-hora-radio-fm-llegara-finalmente-android-auto-proxima-actualizacion-1418778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='¡Ya era hora! La radio FM llegará finalmente a Android Auto con la próxima actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-1417594'>Un astronauta desvela la verdadera razón por la que ningún humano ha vuelto a la Luna en los últimos 50 años</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-1417594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-4259495.jpg?tf=1200x' alt='Un astronauta desvela la verdadera razón por la que ningún humano ha vuelto a la Luna en los últimos 50 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745'>Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-xbox-smart-tv-3992681.jpg?tf=1200x' alt='Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/toxicpanda-virus-bancario-movil-1418691'>ToxicPanda: todo lo que debes saber y cómo evitar el virus bancario que te vacía la cuenta y que ya salta de móvil en móvil en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/toxicpanda-virus-bancario-movil-1418691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-infectado-4261304.jpg?tf=1200x' alt='ToxicPanda: todo lo que debes saber y cómo evitar el virus bancario que te vacía la cuenta y que ya salta de móvil en móvil en España' />
     </a>
 </div>
 
