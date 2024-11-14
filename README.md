@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/app-google-gemini-disponible-iphone-ios-app-store-1418887'>La aplicación de Google Gemini ya está disponible para iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/app-google-gemini-disponible-iphone-ios-app-store-1418887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aplicacion-google-gemini-ya-disponible-iphone-4261594.jpg?tf=1200x' alt='La aplicación de Google Gemini ya está disponible para iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-no-contenta-gpt-5-podria-retrasarse-esperado-1418880'>OpenAI no está contenta con GPT-5 que podría retrasarse más de lo esperado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-no-contenta-gpt-5-podria-retrasarse-esperado-1418880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelos-ia-4261600.jpg?tf=1200x' alt='OpenAI no está contenta con GPT-5 que podría retrasarse más de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-1418572'>El mejor documental del año ya está en Netflix: es imposible no llorar y se quedará para siempre en tu memoria</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-1418572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-4261085.jpg?tf=1200x' alt='El mejor documental del año ya está en Netflix: es imposible no llorar y se quedará para siempre en tu memoria' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-abuela-ia-hacer-perder-tiempo-estafadores-conversaciones-absurdas-1418876'>Crean una abuela con IA para hacer perder el tiempo a los estafadores con conversaciones absurdas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-abuela-ia-hacer-perder-tiempo-estafadores-conversaciones-absurdas-1418876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/abuelita-basada-ia-4261593.jpg?tf=1200x' alt='Crean una abuela con IA para hacer perder el tiempo a los estafadores con conversaciones absurdas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-gran-novedad-borradores-1418871'>WhatsApp estrena una gran novedad para quienes dejan los mensajes a medias</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-gran-novedad-borradores-1418871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estrena-gran-novedad-quienes-dejan-mensajes-medias-4261579.jpg?tf=1200x' alt='WhatsApp estrena una gran novedad para quienes dejan los mensajes a medias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-marvel-ni-dc-superheroe-mark-walhberg-podria-devolver-vida-pocos-recuerdan-1418667'>Ni Marvel ni DC: este es el superhéroe que Mark Walhberg podría devolver a la vida, y que pocos recuerdan</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-marvel-ni-dc-superheroe-mark-walhberg-podria-devolver-vida-pocos-recuerdan-1418667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/marea-negra-entrevista-exclusiva-mark-wahlberg-243868.jpg?tf=1200x' alt='Ni Marvel ni DC: este es el superhéroe que Mark Walhberg podría devolver a la vida, y que pocos recuerdan' />
     </a>
 </div>
 
