@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768'>Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745'>Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-xbox-smart-tv-3992681.jpg?tf=1200x' alt='Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480'>Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio </a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/freidora-aire-llamas-4261369.jpg?tf=1200x' alt='Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/hackean-airpods-pro-2-jaula-faraday-casera-abuela-pueda-escuchar-1418725'>Hackean unos AirPods Pro 2 con una jaula de Faraday casera para que su abuela pueda escuchar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/hackean-airpods-pro-2-jaula-faraday-casera-abuela-pueda-escuchar-1418725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jaula-faraday-casera-hacker-4261340.jpg?tf=1200x' alt='Hackean unos AirPods Pro 2 con una jaula de Faraday casera para que su abuela pueda escuchar' />
     </a>
 </div>
 
