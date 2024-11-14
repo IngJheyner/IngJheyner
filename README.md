@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-ha-lanzado-cancion-dedicada-esposa-como-escucharla-letra-completa-1418670'>Zuckerberg ha lanzado una canción dedicada a su esposa: cómo escucharla y letra completa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-ha-lanzado-cancion-dedicada-esposa-como-escucharla-letra-completa-1418670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mark-zuckerberg-get-low-cancion-4261261.jpg?tf=1200x' alt='Zuckerberg ha lanzado una canción dedicada a su esposa: cómo escucharla y letra completa' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-arrasa-iphone-15-vendiendo-160-euros-barato-otras-tiendas-1418695'>AliExpress arrasa con el iPhone 15: lo está vendiendo 160 euros más barato que otras tiendas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-arrasa-iphone-15-vendiendo-160-euros-barato-otras-tiendas-1418695' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-15-4261260.jpg?tf=1200x' alt='AliExpress arrasa con el iPhone 15: lo está vendiendo 160 euros más barato que otras tiendas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/otro-nombre-madrid-curioso-significado-casi-nadie-conoce-1418635'>Este es el otro nombre de Madrid y su curioso significado que casi nadie conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/otro-nombre-madrid-curioso-significado-casi-nadie-conoce-1418635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/otro-nombre-madrid-curioso-significado-casi-nadie-conoce-4261216.jpg?tf=1200x' alt='Este es el otro nombre de Madrid y su curioso significado que casi nadie conoce' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deberias-pedirle-nuevo-router-wifi-operador-seguramente-todavia-no-has-hecho-1418673'>Deberías pedirle un nuevo router WiFi a tu operador, y seguramente todavía no lo has hecho</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deberias-pedirle-nuevo-router-wifi-operador-seguramente-todavia-no-has-hecho-1418673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-wifi-respaldo-4260104.jpg?tf=1200x' alt='Deberías pedirle un nuevo router WiFi a tu operador, y seguramente todavía no lo has hecho' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-threads-tal-como-conocias-pronto-empezaras-ver-anuncios-1418657'>Adiós a Threads tal y como lo conocías: pronto empezarás a ver anuncios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-threads-tal-como-conocias-pronto-empezaras-ver-anuncios-1418657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/threads-3307321.jpg?tf=1200x' alt='Adiós a Threads tal y como lo conocías: pronto empezarás a ver anuncios' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanzara-nueva-ia-enero-todo-sabe-ahora-1418694'>OpenAI lanzará una nueva IA en enero: todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanzara-nueva-ia-enero-todo-sabe-ahora-1418694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/openai-chatbots-ia-3257761.jpg?tf=1200x' alt='OpenAI lanzará una nueva IA en enero: todo lo que se sabe hasta ahora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-moviles-baratos-menos-200-euros-oferta-singles-day-aliexpress-xiaomi-samsung-poco-1418650'>5 móviles baratos de menos de 200 euros en oferta en el Singles Day de AliExpress: Xiaomi, Samsung, POCO y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-moviles-baratos-menos-200-euros-oferta-singles-day-aliexpress-xiaomi-samsung-poco-1418650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='5 móviles baratos de menos de 200 euros en oferta en el Singles Day de AliExpress: Xiaomi, Samsung, POCO y más' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-store-centro-comercial-la-vaguada-madrid-1418687'>Apple abre su duodécima tienda en España en el centro comercial La Vaguada, 12 años después de la última en Zaragoza</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-store-centro-comercial-la-vaguada-madrid-1418687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-store-vaguada-4261278.jpg?tf=1200x' alt='Apple abre su duodécima tienda en España en el centro comercial La Vaguada, 12 años después de la última en Zaragoza' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410'>Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virtualizacion-vm-virtualbox-apple-mac-os-catalina-4252414.jpg?tf=1200x' alt='Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-retrocompatibilidad-ni-precio-desvelan-secreto-nintendo-switch-2-arrasar-ventas-1418659'>Ni retrocompatibilidad ni precio, desvelan el secreto de Nintendo Switch 2 para arrasar en ventas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-retrocompatibilidad-ni-precio-desvelan-secreto-nintendo-switch-2-arrasar-ventas-1418659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-4261246.jpg?tf=1200x' alt='Ni retrocompatibilidad ni precio, desvelan el secreto de Nintendo Switch 2 para arrasar en ventas' />
     </a>
 </div>
 
