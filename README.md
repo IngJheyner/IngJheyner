@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/premios-auto-bild-2024-estos-son-mejores-coches-ano-1418682'>Premios Auto Bild 2024: estos son los mejores coches del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/premios-auto-bild-2024-estos-son-mejores-coches-ano-1418682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/premios-autobild-2024-4261530.jpg?tf=1200x' alt='Premios Auto Bild 2024: estos son los mejores coches del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-captura-pantalla-android-auto-1418772'>Cómo hacer una captura de pantalla en Android Auto </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-captura-pantalla-android-auto-1418772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/capturas-android-auto-4261409.jpg?tf=1200x' alt='Cómo hacer una captura de pantalla en Android Auto ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-era-hora-radio-fm-llegara-finalmente-android-auto-proxima-actualizacion-1418778'>¡Ya era hora! La radio FM llegará finalmente a Android Auto con la próxima actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-era-hora-radio-fm-llegara-finalmente-android-auto-proxima-actualizacion-1418778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='¡Ya era hora! La radio FM llegará finalmente a Android Auto con la próxima actualización' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-han-robado-movil-espana-busca-mercadillo-muy-probable-encuentres-alli-1418719'>¿Te han robado el móvil en España? Busca en este mercadillo, es muy probable que lo encuentres allí</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/te-han-robado-movil-espana-busca-mercadillo-muy-probable-encuentres-alli-1418719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercadillo-moviles-4261404.jpg?tf=1200x' alt='¿Te han robado el móvil en España? Busca en este mercadillo, es muy probable que lo encuentres allí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768'>Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745'>Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-xbox-smart-tv-3992681.jpg?tf=1200x' alt='Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally' />
     </a>
 </div>
 
