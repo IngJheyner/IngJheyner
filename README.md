@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745'>Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-confirma-desarrollo-consola-portatil-como-steam-deck-asus-rog-ally-1418745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/mando-xbox-smart-tv-3992681.jpg?tf=1200x' alt='Microsoft confirma el desarrollo de una consola portátil como Steam Deck o Asus ROG Ally' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/toxicpanda-virus-bancario-movil-1418691'>ToxicPanda: todo lo que debes saber y cómo evitar el virus bancario que te vacía la cuenta y que ya salta de móvil en móvil en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/toxicpanda-virus-bancario-movil-1418691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-infectado-4261304.jpg?tf=1200x' alt='ToxicPanda: todo lo que debes saber y cómo evitar el virus bancario que te vacía la cuenta y que ya salta de móvil en móvil en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcionan-orion-ar-gafas-inteligentes-meta-1418736'>Así funcionan las Orion AR, las gafas inteligentes de Meta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funcionan-orion-ar-gafas-inteligentes-meta-1418736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/orion-realidad-aumentada-gafas-meta-4261376.jpg?tf=1200x' alt='Así funcionan las Orion AR, las gafas inteligentes de Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480'>Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio </a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/freidora-aire-llamas-4261369.jpg?tf=1200x' alt='Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/hackean-airpods-pro-2-jaula-faraday-casera-abuela-pueda-escuchar-1418725'>Hackean unos AirPods Pro 2 con una jaula de Faraday casera para que su abuela pueda escuchar</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/hackean-airpods-pro-2-jaula-faraday-casera-abuela-pueda-escuchar-1418725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jaula-faraday-casera-hacker-4261340.jpg?tf=1200x' alt='Hackean unos AirPods Pro 2 con una jaula de Faraday casera para que su abuela pueda escuchar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-arrasa-iphone-15-vendiendo-160-euros-barato-otras-tiendas-1418695'>AliExpress arrasa con el iPhone 15: lo está vendiendo 160 euros más barato que otras tiendas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-arrasa-iphone-15-vendiendo-160-euros-barato-otras-tiendas-1418695' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-15-4261260.jpg?tf=1200x' alt='AliExpress arrasa con el iPhone 15: lo está vendiendo 160 euros más barato que otras tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deberias-pedirle-nuevo-router-wifi-operador-seguramente-todavia-no-has-hecho-1418673'>Deberías pedirle un nuevo router WiFi a tu operador, y seguramente todavía no lo has hecho</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deberias-pedirle-nuevo-router-wifi-operador-seguramente-todavia-no-has-hecho-1418673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-wifi-respaldo-4260104.jpg?tf=1200x' alt='Deberías pedirle un nuevo router WiFi a tu operador, y seguramente todavía no lo has hecho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanzara-nueva-ia-enero-todo-sabe-ahora-1418694'>OpenAI lanzará una nueva IA en enero: todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanzara-nueva-ia-enero-todo-sabe-ahora-1418694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/openai-chatbots-ia-3257761.jpg?tf=1200x' alt='OpenAI lanzará una nueva IA en enero: todo lo que se sabe hasta ahora' />
     </a>
 </div>
 
