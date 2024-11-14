@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/clanes-droga-roban-3000-kilos-oro-minas-colombianas-1418914'>Así roban los clanes de la droga 3.000 kilos de oro al año de las minas colombianas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/clanes-droga-roban-3000-kilos-oro-minas-colombianas-1418914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roban-clanes-droga-3000-kilos-oro-ano-minas-colombianas-4261642.jpg?tf=1200x' alt='Así roban los clanes de la droga 3.000 kilos de oro al año de las minas colombianas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/tunel-interestelar-conecta-sistema-solar-constelacion-centauro-1418903'>Hallan un túnel interestelar que conecta el sistema solar con la constelación de Centauro</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/tunel-interestelar-conecta-sistema-solar-constelacion-centauro-1418903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/descubren-tunel-interestelar-conecta-sistema-solar-constelacion-centauro-4261609.jpg?tf=1200x' alt='Hallan un túnel interestelar que conecta el sistema solar con la constelación de Centauro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/app-google-gemini-disponible-iphone-ios-app-store-1418887'>La aplicación de Google Gemini ya está disponible para iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/google/app-google-gemini-disponible-iphone-ios-app-store-1418887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aplicacion-google-gemini-ya-disponible-iphone-4261594.jpg?tf=1200x' alt='La aplicación de Google Gemini ya está disponible para iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-1418572'>El mejor documental del año ya está en Netflix: es imposible no llorar y se quedará para siempre en tu memoria</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-1418572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-4261085.jpg?tf=1200x' alt='El mejor documental del año ya está en Netflix: es imposible no llorar y se quedará para siempre en tu memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/quien-invento-rueda-cientificos-creen-tener-fin-respuesta-1418878'>¿Quién inventó la rueda? Científicos creen tener al fin la respuesta</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/quien-invento-rueda-cientificos-creen-tener-fin-respuesta-1418878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/invencion-rueda-4261596.jpg?tf=1200x' alt='¿Quién inventó la rueda? Científicos creen tener al fin la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-abuela-ia-hacer-perder-tiempo-estafadores-conversaciones-absurdas-1418876'>Crean una abuela con IA para hacer perder el tiempo a los estafadores con conversaciones absurdas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crean-abuela-ia-hacer-perder-tiempo-estafadores-conversaciones-absurdas-1418876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/abuelita-basada-ia-4261593.jpg?tf=1200x' alt='Crean una abuela con IA para hacer perder el tiempo a los estafadores con conversaciones absurdas' />
     </a>
 </div>
 
