@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480'>Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio </a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/freidora-aire-llamas-4261369.jpg?tf=1200x' alt='Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/hackean-airpods-pro-2-jaula-faraday-casera-abuela-pueda-escuchar-1418725'>Hackean unos AirPods Pro 2 con una jaula de Faraday casera para que su abuela pueda escuchar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/hackean-airpods-pro-2-jaula-faraday-casera-abuela-pueda-escuchar-1418725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jaula-faraday-casera-hacker-4261340.jpg?tf=1200x' alt='Hackean unos AirPods Pro 2 con una jaula de Faraday casera para que su abuela pueda escuchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-arrasa-iphone-15-vendiendo-160-euros-barato-otras-tiendas-1418695'>AliExpress arrasa con el iPhone 15: lo está vendiendo 160 euros más barato que otras tiendas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-arrasa-iphone-15-vendiendo-160-euros-barato-otras-tiendas-1418695' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-15-4261260.jpg?tf=1200x' alt='AliExpress arrasa con el iPhone 15: lo está vendiendo 160 euros más barato que otras tiendas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanzara-nueva-ia-enero-todo-sabe-ahora-1418694'>OpenAI lanzará una nueva IA en enero: todo lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanzara-nueva-ia-enero-todo-sabe-ahora-1418694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/openai-chatbots-ia-3257761.jpg?tf=1200x' alt='OpenAI lanzará una nueva IA en enero: todo lo que se sabe hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-store-centro-comercial-la-vaguada-madrid-1418687'>Apple abre su duodécima tienda en España en el centro comercial La Vaguada, 12 años después de la última en Zaragoza</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-store-centro-comercial-la-vaguada-madrid-1418687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-store-vaguada-4261278.jpg?tf=1200x' alt='Apple abre su duodécima tienda en España en el centro comercial La Vaguada, 12 años después de la última en Zaragoza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-retrocompatibilidad-ni-precio-desvelan-secreto-nintendo-switch-2-arrasar-ventas-1418659'>Ni retrocompatibilidad ni precio, desvelan el secreto de Nintendo Switch 2 para arrasar en ventas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-retrocompatibilidad-ni-precio-desvelan-secreto-nintendo-switch-2-arrasar-ventas-1418659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-4261246.jpg?tf=1200x' alt='Ni retrocompatibilidad ni precio, desvelan el secreto de Nintendo Switch 2 para arrasar en ventas' />
     </a>
 </div>
 
