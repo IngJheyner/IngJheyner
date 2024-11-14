@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410'>Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virtualizacion-vm-virtualbox-apple-mac-os-catalina-4252414.jpg?tf=1200x' alt='Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/amazon-kindle-paperwhite-2024-lector-ebooks-pantalla-rapida-1416146'>He probado el nuevo Kindle Paperwhite (2024), un lector de ebooks con la pantalla más rápida que he visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/amazon-kindle-paperwhite-2024-lector-ebooks-pantalla-rapida-1416146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257628.jpg?tf=1200x' alt='He probado el nuevo Kindle Paperwhite (2024), un lector de ebooks con la pantalla más rápida que he visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/estos-5-consejos-podrian-ayudar-solucionar-problema-lentitud-wifi-pc-windows-1417791'>Estos 5 consejos podrían ayudar a solucionar el problema de la lentitud del WiFi en tu PC con Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/estos-5-consejos-podrian-ayudar-solucionar-problema-lentitud-wifi-pc-windows-1417791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conexion-wifi-4259855.jpg?tf=1200x' alt='Estos 5 consejos podrían ayudar a solucionar el problema de la lentitud del WiFi en tu PC con Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-1418019'>¿Android Auto no funciona en tu Samsung Galaxy? Así puedes solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-1418019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-4260263.jpg?tf=1200x' alt='¿Android Auto no funciona en tu Samsung Galaxy? Así puedes solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-1418241'>Aumentan las estafas por suplantación de identidad por WhatsApp: así puedes protegerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-1418241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-4260643.jpg?tf=1200x' alt='Aumentan las estafas por suplantación de identidad por WhatsApp: así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/kobo-lector-ebooks-color-barato-kindle-1411422'>Kobo tiene un lector de ebooks a color que supera a los Kindle en precio, y lee EPUB</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/kobo-lector-ebooks-color-barato-kindle-1411422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='Kobo tiene un lector de ebooks a color que supera a los Kindle en precio, y lee EPUB' />
     </a>
 </div>
 
