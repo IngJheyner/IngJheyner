@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ue-multa-meta-800-millones-euros-abusar-marketplace-facebook-1418858'>La UE multa a Meta con 800 millones de euros por abusar de su Marketplace en Facebook</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ue-multa-meta-800-millones-euros-abusar-marketplace-facebook-1418858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ue-multa-meta-800-millones-euros-abusar-marketplace-facebook-4261529.jpg?tf=1200x' alt='La UE multa a Meta con 800 millones de euros por abusar de su Marketplace en Facebook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-margot-robbie-ni-tom-cruise-actor-mejor-pagado-mundo-solo-hace-peliculas-netflix-1418755'>Ni Margot Robbie ni Tom Cruise, el actor mejor pagado del mundo, solo hace películas para Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-margot-robbie-ni-tom-cruise-actor-mejor-pagado-mundo-solo-hace-peliculas-netflix-1418755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/margot-robbie-tom-cruise-4261439.jpg?tf=1200x' alt='Ni Margot Robbie ni Tom Cruise, el actor mejor pagado del mundo, solo hace películas para Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-gordo-loteria-navidad-2024-jugaria-ia-1417919'>ChatGPT: este es el número del Gordo de la Lotería de Navidad 2024 que jugaría la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-gordo-loteria-navidad-2024-jugaria-ia-1417919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-navidad-2023-3251262.jpg?tf=1200x' alt='ChatGPT: este es el número del Gordo de la Lotería de Navidad 2024 que jugaría la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-1418697'>Un estudio demuestra que la IA está “desaprovechada” realmente: solo el 33% de los trabajadores la utiliza realmente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-1418697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-4261292.jpg?tf=1200x' alt='Un estudio demuestra que la IA está “desaprovechada” realmente: solo el 33% de los trabajadores la utiliza realmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/premios-auto-bild-2024-estos-son-mejores-coches-ano-1418682'>Premios Auto Bild 2024: estos son los mejores coches del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/premios-auto-bild-2024-estos-son-mejores-coches-ano-1418682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/premios-autobild-2024-4261530.jpg?tf=1200x' alt='Premios Auto Bild 2024: estos son los mejores coches del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-captura-pantalla-android-auto-1418772'>Cómo hacer una captura de pantalla en Android Auto </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-captura-pantalla-android-auto-1418772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/capturas-android-auto-4261409.jpg?tf=1200x' alt='Cómo hacer una captura de pantalla en Android Auto ' />
     </a>
 </div>
 
