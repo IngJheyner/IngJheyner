@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-ha-lanzado-cancion-dedicada-esposa-como-escucharla-letra-completa-1418670'>Zuckerberg ha lanzado una canción dedicada a su esposa: cómo escucharla y letra completa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/zuckerberg-ha-lanzado-cancion-dedicada-esposa-como-escucharla-letra-completa-1418670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mark-zuckerberg-get-low-cancion-4261261.jpg?tf=1200x' alt='Zuckerberg ha lanzado una canción dedicada a su esposa: cómo escucharla y letra completa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/otro-nombre-madrid-curioso-significado-casi-nadie-conoce-1418635'>Este es el otro nombre de Madrid y su curioso significado que casi nadie conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/otro-nombre-madrid-curioso-significado-casi-nadie-conoce-1418635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/otro-nombre-madrid-curioso-significado-casi-nadie-conoce-4261216.jpg?tf=1200x' alt='Este es el otro nombre de Madrid y su curioso significado que casi nadie conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-threads-tal-como-conocias-pronto-empezaras-ver-anuncios-1418657'>Adiós a Threads tal y como lo conocías: pronto empezarás a ver anuncios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-threads-tal-como-conocias-pronto-empezaras-ver-anuncios-1418657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/threads-3307321.jpg?tf=1200x' alt='Adiós a Threads tal y como lo conocías: pronto empezarás a ver anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-moviles-baratos-menos-200-euros-oferta-singles-day-aliexpress-xiaomi-samsung-poco-1418650'>5 móviles baratos de menos de 200 euros en oferta en el Singles Day de AliExpress: Xiaomi, Samsung, POCO y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/5-moviles-baratos-menos-200-euros-oferta-singles-day-aliexpress-xiaomi-samsung-poco-1418650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='5 móviles baratos de menos de 200 euros en oferta en el Singles Day de AliExpress: Xiaomi, Samsung, POCO y más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410'>Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virtualizacion-vm-virtualbox-apple-mac-os-catalina-4252414.jpg?tf=1200x' alt='Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/amazon-kindle-paperwhite-2024-lector-ebooks-pantalla-rapida-1416146'>He probado el nuevo Kindle Paperwhite (2024), un lector de ebooks con la pantalla más rápida que he visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/amazon-kindle-paperwhite-2024-lector-ebooks-pantalla-rapida-1416146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257628.jpg?tf=1200x' alt='He probado el nuevo Kindle Paperwhite (2024), un lector de ebooks con la pantalla más rápida que he visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/estos-5-consejos-podrian-ayudar-solucionar-problema-lentitud-wifi-pc-windows-1417791'>Estos 5 consejos podrían ayudar a solucionar el problema de la lentitud del WiFi en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/estos-5-consejos-podrian-ayudar-solucionar-problema-lentitud-wifi-pc-windows-1417791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conexion-wifi-4259855.jpg?tf=1200x' alt='Estos 5 consejos podrían ayudar a solucionar el problema de la lentitud del WiFi en tu PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-1418483'>Un estudio demuestra que la IA no es tan inteligente después de todo: esto es en lo que falla siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-1418483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-4260947.jpg?tf=1200x' alt='Un estudio demuestra que la IA no es tan inteligente después de todo: esto es en lo que falla siempre' />
     </a>
 </div>
 
