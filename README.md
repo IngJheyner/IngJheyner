@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-gordo-loteria-navidad-2024-jugaria-ia-1417919'>ChatGPT: este es el número del Gordo de la Lotería de Navidad 2024 que jugaría la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-gordo-loteria-navidad-2024-jugaria-ia-1417919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-navidad-2023-3251262.jpg?tf=1200x' alt='ChatGPT: este es el número del Gordo de la Lotería de Navidad 2024 que jugaría la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-iphone-ios-1416577'>Cómo hacer una copia de seguridad de WhatsApp en un iPhone con iOS</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-iphone-ios-1416577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-iphone-4257722.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de WhatsApp en un iPhone con iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-1418697'>Un estudio demuestra que la IA está “desaprovechada” realmente: solo el 33% de los trabajadores la utiliza realmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-1418697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-4261292.jpg?tf=1200x' alt='Un estudio demuestra que la IA está “desaprovechada” realmente: solo el 33% de los trabajadores la utiliza realmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/premios-auto-bild-2024-estos-son-mejores-coches-ano-1418682'>Premios Auto Bild 2024: estos son los mejores coches del año</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/premios-auto-bild-2024-estos-son-mejores-coches-ano-1418682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/premios-autobild-2024-4261530.jpg?tf=1200x' alt='Premios Auto Bild 2024: estos son los mejores coches del año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-captura-pantalla-android-auto-1418772'>Cómo hacer una captura de pantalla en Android Auto </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-captura-pantalla-android-auto-1418772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/capturas-android-auto-4261409.jpg?tf=1200x' alt='Cómo hacer una captura de pantalla en Android Auto ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-era-hora-radio-fm-llegara-finalmente-android-auto-proxima-actualizacion-1418778'>¡Ya era hora! La radio FM llegará finalmente a Android Auto con la próxima actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-era-hora-radio-fm-llegara-finalmente-android-auto-proxima-actualizacion-1418778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='¡Ya era hora! La radio FM llegará finalmente a Android Auto con la próxima actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-1417594'>Un astronauta desvela la verdadera razón por la que ningún humano ha vuelto a la Luna en los últimos 50 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-1417594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-4259495.jpg?tf=1200x' alt='Un astronauta desvela la verdadera razón por la que ningún humano ha vuelto a la Luna en los últimos 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-han-robado-movil-espana-busca-mercadillo-muy-probable-encuentres-alli-1418719'>¿Te han robado el móvil en España? Busca en este mercadillo, es muy probable que lo encuentres allí</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/te-han-robado-movil-espana-busca-mercadillo-muy-probable-encuentres-alli-1418719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercadillo-moviles-4261404.jpg?tf=1200x' alt='¿Te han robado el móvil en España? Busca en este mercadillo, es muy probable que lo encuentres allí' />
     </a>
 </div>
 
