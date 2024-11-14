@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-1418241'>Aumentan las estafas por suplantación de identidad por WhatsApp: así puedes protegerte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-1418241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aumentan-estafas-suplantacion-identidad-whatsapp-puedes-protegerte-4260643.jpg?tf=1200x' alt='Aumentan las estafas por suplantación de identidad por WhatsApp: así puedes protegerte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/kobo-lector-ebooks-color-barato-kindle-1411422'>Kobo tiene un lector de ebooks a color que supera a los Kindle en precio, y lee EPUB</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/kobo-lector-ebooks-color-barato-kindle-1411422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/kobo-libra-colour-4033130.jpg?tf=1200x' alt='Kobo tiene un lector de ebooks a color que supera a los Kindle en precio, y lee EPUB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-amazon-leer-letra-pequena-1418637'>YouTuber presume de comprar una casa en Amazon a precio de risa, pero se olvida de leer la letra pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-amazon-leer-letra-pequena-1418637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtuber-presume-comprar-casa-amazon-precio-risa-pero-olvida-leer-letra-pequena-4261206.jpg?tf=1200x' alt='YouTuber presume de comprar una casa en Amazon a precio de risa, pero se olvida de leer la letra pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jpeg-formato-imagen-popular-historia-podria-desaparecer-muy-pronto-1418355'>JPEG, el formato de imagen más popular de la historia, podría desaparecer muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jpeg-formato-imagen-popular-historia-podria-desaparecer-muy-pronto-1418355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jpeg-formato-imagen-popular-historia-podria-desaparecer-muy-pronto-4260730.jpg?tf=1200x' alt='JPEG, el formato de imagen más popular de la historia, podría desaparecer muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/deberias-ubicar-aqui-no-otro-lugar-router-wifi-1418354'>¿Por qué deberías ubicar aquí, y no en otro lugar, tu router WiFi?</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/deberias-ubicar-aqui-no-otro-lugar-router-wifi-1418354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/deberias-ubicar-aqui-no-otro-lugar-router-wifi-4260727.jpg?tf=1200x' alt='¿Por qué deberías ubicar aquí, y no en otro lugar, tu router WiFi?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-haul-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-1418624'>Amazon lanza una tienda de productos muy baratos para competir con Shein, Temu y AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-haul-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-1418624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-lanza-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-4261184.jpg?tf=1200x' alt='Amazon lanza una tienda de productos muy baratos para competir con Shein, Temu y AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-calculadora-casio-nuevos-modelos-1418610'>Casio viaja en el tiempo a 1972 y relanza su mítico reloj con calculadora</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-calculadora-casio-nuevos-modelos-1418610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/casio-viaja-tiempo-1972-relanza-mitico-reloj-calculadora-4261146.jpg?tf=1200x' alt='Casio viaja en el tiempo a 1972 y relanza su mítico reloj con calculadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/guarda-ahora-calla-siempre-google-va-eliminar-historial-ubicaciones-google-maps-1418603'>Guarda ahora o calla para siempre: Google va a eliminar tu historial de ubicaciones de Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/guarda-ahora-calla-siempre-google-va-eliminar-historial-ubicaciones-google-maps-1418603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ubicaciones-google-maps-4261168.jpg?tf=1200x' alt='Guarda ahora o calla para siempre: Google va a eliminar tu historial de ubicaciones de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-tan-desagradables-gente-no-aguanto-momento-marchaban-cines-1418502'>5 películas tan “desagradables” que la gente no aguantó en su momento: se marchaban de los cines</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-tan-desagradables-gente-no-aguanto-momento-marchaban-cines-1418502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/5-clasicos-terror-tan-espeluznantes-gente-no-aguanto-momento-marchaban-cines-4260962.jpg?tf=1200x' alt='5 películas tan “desagradables” que la gente no aguantó en su momento: se marchaban de los cines' />
     </a>
 </div>
 
