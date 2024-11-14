@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-1417594'>Un astronauta desvela la verdadera razón por la que ningún humano ha vuelto a la Luna en los últimos 50 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-1417594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/astronauta-desvela-verdadera-razon-ningun-humano-ha-vuelto-luna-ultimos-50-anos-4259495.jpg?tf=1200x' alt='Un astronauta desvela la verdadera razón por la que ningún humano ha vuelto a la Luna en los últimos 50 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-han-robado-movil-espana-busca-mercadillo-muy-probable-encuentres-alli-1418719'>¿Te han robado el móvil en España? Busca en este mercadillo, es muy probable que lo encuentres allí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/te-han-robado-movil-espana-busca-mercadillo-muy-probable-encuentres-alli-1418719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercadillo-moviles-4261404.jpg?tf=1200x' alt='¿Te han robado el móvil en España? Busca en este mercadillo, es muy probable que lo encuentres allí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768'>Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/toxicpanda-virus-bancario-movil-1418691'>ToxicPanda: todo lo que debes saber y cómo evitar el virus bancario que te vacía la cuenta y que ya salta de móvil en móvil en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/toxicpanda-virus-bancario-movil-1418691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-infectado-4261304.jpg?tf=1200x' alt='ToxicPanda: todo lo que debes saber y cómo evitar el virus bancario que te vacía la cuenta y que ya salta de móvil en móvil en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcionan-orion-ar-gafas-inteligentes-meta-1418736'>Así funcionan las Orion AR, las gafas inteligentes de Meta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funcionan-orion-ar-gafas-inteligentes-meta-1418736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/orion-realidad-aumentada-gafas-meta-4261376.jpg?tf=1200x' alt='Así funcionan las Orion AR, las gafas inteligentes de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480'>Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio </a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/modelos-marca-freidora-aire-peligrosas-riesgo-incendio-1417480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/freidora-aire-llamas-4261369.jpg?tf=1200x' alt='Ni Cosori ni Xiaomi, estos modelos de freidora de aire han sido retirados del mercado por riesgo de incendio ' />
     </a>
 </div>
 
