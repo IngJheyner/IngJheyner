@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ue-multa-meta-800-millones-euros-abusar-marketplace-facebook-1418858'>La UE multa a Meta con 800 millones de euros por abusar de su Marketplace en Facebook</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ue-multa-meta-800-millones-euros-abusar-marketplace-facebook-1418858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ue-multa-meta-800-millones-euros-abusar-marketplace-facebook-4261529.jpg?tf=1200x' alt='La UE multa a Meta con 800 millones de euros por abusar de su Marketplace en Facebook' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-1418572'>El mejor documental del año ya está en Netflix: es imposible no llorar y se quedará para siempre en tu memoria</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-1418572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-documental-ano-ya-netflix-imposible-no-llorar-quedara-siempre-memoria-4261085.jpg?tf=1200x' alt='El mejor documental del año ya está en Netflix: es imposible no llorar y se quedará para siempre en tu memoria' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-margot-robbie-ni-tom-cruise-actor-mejor-pagado-mundo-solo-hace-peliculas-netflix-1418755'>Ni Margot Robbie ni Tom Cruise, el actor mejor pagado del mundo, solo hace películas para Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-margot-robbie-ni-tom-cruise-actor-mejor-pagado-mundo-solo-hace-peliculas-netflix-1418755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/margot-robbie-tom-cruise-4261439.jpg?tf=1200x' alt='Ni Margot Robbie ni Tom Cruise, el actor mejor pagado del mundo, solo hace películas para Netflix' />
+    <h4><a href='https://computerhoy.20minutos.es/life/quien-invento-rueda-cientificos-creen-tener-fin-respuesta-1418878'>¿Quién inventó la rueda? Científicos creen tener al fin la respuesta</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/quien-invento-rueda-cientificos-creen-tener-fin-respuesta-1418878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/invencion-rueda-4261596.jpg?tf=1200x' alt='¿Quién inventó la rueda? Científicos creen tener al fin la respuesta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-gordo-loteria-navidad-2024-jugaria-ia-1417919'>ChatGPT: este es el número del Gordo de la Lotería de Navidad 2024 que jugaría la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-gordo-loteria-navidad-2024-jugaria-ia-1417919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/loteria-navidad-2023-3251262.jpg?tf=1200x' alt='ChatGPT: este es el número del Gordo de la Lotería de Navidad 2024 que jugaría la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-abuela-ia-hacer-perder-tiempo-estafadores-conversaciones-absurdas-1418876'>Crean una abuela con IA para hacer perder el tiempo a los estafadores con conversaciones absurdas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crean-abuela-ia-hacer-perder-tiempo-estafadores-conversaciones-absurdas-1418876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/abuelita-basada-ia-4261593.jpg?tf=1200x' alt='Crean una abuela con IA para hacer perder el tiempo a los estafadores con conversaciones absurdas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-iphone-ios-1416577'>Cómo hacer una copia de seguridad de WhatsApp en un iPhone con iOS</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-hacer-copia-seguridad-whatsapp-iphone-ios-1416577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-iphone-4257722.jpg?tf=1200x' alt='Cómo hacer una copia de seguridad de WhatsApp en un iPhone con iOS' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-gran-novedad-borradores-1418871'>WhatsApp estrena una gran novedad para quienes dejan los mensajes a medias</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-estrena-gran-novedad-borradores-1418871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estrena-gran-novedad-quienes-dejan-mensajes-medias-4261579.jpg?tf=1200x' alt='WhatsApp estrena una gran novedad para quienes dejan los mensajes a medias' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-1418697'>Un estudio demuestra que la IA está “desaprovechada” realmente: solo el 33% de los trabajadores la utiliza realmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-1418697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-demuestra-ia-desaprovechada-realmente-solo-33-trabajadores-utiliza-realmente-4261292.jpg?tf=1200x' alt='Un estudio demuestra que la IA está “desaprovechada” realmente: solo el 33% de los trabajadores la utiliza realmente' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-marvel-ni-dc-superheroe-mark-walhberg-podria-devolver-vida-pocos-recuerdan-1418667'>Ni Marvel ni DC: este es el superhéroe que Mark Walhberg podría devolver a la vida, y que pocos recuerdan</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-marvel-ni-dc-superheroe-mark-walhberg-podria-devolver-vida-pocos-recuerdan-1418667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/marea-negra-entrevista-exclusiva-mark-wahlberg-243868.jpg?tf=1200x' alt='Ni Marvel ni DC: este es el superhéroe que Mark Walhberg podría devolver a la vida, y que pocos recuerdan' />
     </a>
 </div>
 
