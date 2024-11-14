@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-moviles-baratos-menos-200-euros-oferta-singles-day-aliexpress-xiaomi-samsung-poco-1418650'>5 móviles baratos de menos de 200 euros en oferta en el Singles Day de AliExpress: Xiaomi, Samsung, POCO y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-moviles-baratos-menos-200-euros-oferta-singles-day-aliexpress-xiaomi-samsung-poco-1418650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='5 móviles baratos de menos de 200 euros en oferta en el Singles Day de AliExpress: Xiaomi, Samsung, POCO y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410'>Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/uso-siempre-virtualbox-no-cambiaria-maquina-virtual-ninguna-otra-gratis-apta-principiantes-1413410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/virtualizacion-vm-virtualbox-apple-mac-os-catalina-4252414.jpg?tf=1200x' alt='Uso siempre VirtualBox y no cambiaría esta máquina virtual por ninguna otra: es gratis y apta para principiantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-1418483'>Un estudio demuestra que la IA no es tan inteligente después de todo: esto es en lo que falla siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-1418483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-demuestra-ia-no-tan-inteligente-despues-todo-falla-siempre-4260947.jpg?tf=1200x' alt='Un estudio demuestra que la IA no es tan inteligente después de todo: esto es en lo que falla siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-1418019'>¿Android Auto no funciona en tu Samsung Galaxy? Así puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-1418019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-4260263.jpg?tf=1200x' alt='¿Android Auto no funciona en tu Samsung Galaxy? Así puedes solucionarlo' />
     </a>
 </div>
 
