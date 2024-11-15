@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-infalibles-evitar-llenar-almacenamiento-mi-iphone-1405641'>Estos son mis trucos infalibles para evitar llenar el almacenamiento de mi iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-infalibles-evitar-llenar-almacenamiento-mi-iphone-1405641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4199936.jpg?tf=1200x' alt='Estos son mis trucos infalibles para evitar llenar el almacenamiento de mi iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/truco-abuelas-no-importa-aemet-podras-secar-ropa-pleno-invierno-utilizar-secadora-1415340'>Este truco de nuestras abuelas no le importa la AEMET, así podrás secar la ropa en pleno invierno sin utilizar la secadora</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/truco-abuelas-no-importa-aemet-podras-secar-ropa-pleno-invierno-utilizar-secadora-1415340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ropa-tendida-4255659.jpg?tf=1200x' alt='Este truco de nuestras abuelas no le importa la AEMET, así podrás secar la ropa en pleno invierno sin utilizar la secadora' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-responsables-avisan-usuarios-iptv-cosa-pone-fea-1410428'>Cristal Azul cierra en Kodi y sus responsables avisan a los usuarios de IPTV: “la cosa se pone fea”</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-responsables-avisan-usuarios-iptv-cosa-pone-fea-1410428'>Cristal Azul cierra en KODI y sus responsables avisan a los usuarios de IPTV: “la cosa se pone fea”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-responsables-avisan-usuarios-iptv-cosa-pone-fea-1410428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kodi-cristal-azul-4247324.jpg?tf=1200x' alt='Cristal Azul cierra en Kodi y sus responsables avisan a los usuarios de IPTV: “la cosa se pone fea”' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-cristal-azul-kodi-comienzan-caer-cierra-luar-palantir-alfa-tienen-horas-contadas-4247753.jpg?tf=1200x' alt='Cristal Azul cierra en KODI y sus responsables avisan a los usuarios de IPTV: “la cosa se pone fea”' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/guardia-civil-cierra-canal-futbol-gratis-pirateria-utilizado-espana-1419074'>La Guardia Civil cierra el canal de fútbol gratis y piratería más utilizado de España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/guardia-civil-cierra-canal-futbol-gratis-pirateria-utilizado-espana-1419074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kodi-cristal-azul-4247324.jpg?tf=1200x' alt='La Guardia Civil cierra el canal de fútbol gratis y piratería más utilizado de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-quitar-marca-agua-camara-xiaomi-1418814'>Cómo quitar la marca de agua de la cámara de tu Xiaomi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-quitar-marca-agua-camara-xiaomi-1418814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fotos-xiaomi-4261603.jpg?tf=1200x' alt='Cómo quitar la marca de agua de la cámara de tu Xiaomi' />
     </a>
 </div>
 
