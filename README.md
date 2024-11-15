@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-restablecera-iphone-despues-3-dias-no-desbloquea-funcion-seguridad-1419073'>Apple restablecerá tu iPhone después de 3 días si no se desbloquea por esta función de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-restablecera-iphone-despues-3-dias-no-desbloquea-funcion-seguridad-1419073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/iphone-donde-como-activar-boton-oculto-duplica-autonomia-bateria-4248965.jpg?tf=1200x' alt='Apple restablecerá tu iPhone después de 3 días si no se desbloquea por esta función de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cinco-busquedas-peligrosas-buscador-google-1419071'>Cosas que jamás deberías buscar en Google para evitar virus y estafas, según un experto</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cinco-busquedas-peligrosas-buscador-google-1419071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cosas-jamas-deberias-buscar-google-evitar-virus-estafas-experto-4262311.jpg?tf=1200x' alt='Cosas que jamás deberías buscar en Google para evitar virus y estafas, según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-lista-robinson-ni-apps-he-conseguido-reducir-casi-100-llamadas-spam-movil-1418068'>Ni Lista Robinson ni apps, así he conseguido reducir casi el 100% de las llamadas spam</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-lista-robinson-ni-apps-he-conseguido-reducir-casi-100-llamadas-spam-movil-1418068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-lista-robinson-ni-aplicaciones-he-conseguido-reducir-casi-100-llamadas-spam-movil-4260308.jpg?tf=1200x' alt='Ni Lista Robinson ni apps, así he conseguido reducir casi el 100% de las llamadas spam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/mejores-relojes-android-momento-hunde-precio-oneplus-watch-2-toca-fondo-1419019'>Uno de los mejores relojes Android del momento hunde su precio: el OnePlus Watch 2 toca fondo</a></h4>
     <a href='https://computerhoy.20minutos.es/android/mejores-relojes-android-momento-hunde-precio-oneplus-watch-2-toca-fondo-1419019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/oneplus-watch-2-4262274.jpg?tf=1200x' alt='Uno de los mejores relojes Android del momento hunde su precio: el OnePlus Watch 2 toca fondo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-pico-vs-raspberry-pi-zero-cuales-son-diferencias-1419040'>Raspberry Pi Pico vs Raspberry Pi Zero: cuáles son sus diferencias</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-pico-vs-raspberry-pi-zero-cuales-son-diferencias-1419040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/todos-modelos-raspberry-pi-principales-diferencias-3306196.jpg?tf=1200x' alt='Raspberry Pi Pico vs Raspberry Pi Zero: cuáles son sus diferencias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-haul-tienda-productos-baratos-chollos-alternativa-shein-temu-aliexpress-1418624'>Amazon lanza una tienda de chollos para competir con Shein, Temu y AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-haul-tienda-productos-baratos-chollos-alternativa-shein-temu-aliexpress-1418624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-lanza-tienda-productos-muy-baratos-competir-shein-temu-aliexpress-4261184.jpg?tf=1200x' alt='Amazon lanza una tienda de chollos para competir con Shein, Temu y AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/5-funciones-google-maps-llegaran-pronto-espana-1419016'>5 funciones de Google Maps que llegarán pronto a España</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/5-funciones-google-maps-llegaran-pronto-espana-1419016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-earth-integran-ia-generativa-gemini-cambia-todo-4256354.jpg?tf=1200x' alt='5 funciones de Google Maps que llegarán pronto a España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-china-ni-hong-kong-fabricantes-chips-mudan-vietnam-1419031'>Ni China ni Hong Kong, los fabricantes de chips se mudan de país: 'será la próxima superpotencia'</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-china-ni-hong-kong-fabricantes-chips-mudan-vietnam-1419031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-china-ni-hong-kong-fabricantes-chips-mudan-pais-sera-proxima-superpotencia-4262265.jpg?tf=1200x' alt='Ni China ni Hong Kong, los fabricantes de chips se mudan de país: 'será la próxima superpotencia'' />
     </a>
 </div>
 
