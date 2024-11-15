@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-proximo-xiaomi-espana-son-grandes-electrodomesticos-1418754'>Tras móviles, tablets y TV, lo próximo de Xiaomi en España son los grandes electrodomésticos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-proximo-xiaomi-espana-son-grandes-electrodomesticos-1418754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/electrodomesticos-xiaomi-4261506.jpg?tf=1200x' alt='Tras móviles, tablets y TV, lo próximo de Xiaomi en España son los grandes electrodomésticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/geekom-gt1-mega-analisis-opinion-1414805'>He probado el mini PC Geekom GT1 Mega que desata todo el poder de Intel Meteor Lake en un espacio realmente pequeño</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/geekom-gt1-mega-analisis-opinion-1414805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-gt1-mega-4255050.jpg?tf=1200x' alt='He probado el mini PC Geekom GT1 Mega que desata todo el poder de Intel Meteor Lake en un espacio realmente pequeño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-1418633'>Sabemos donde vives: la aterradora y creíble estafa de Google Maps que se está extendiendo como la pólvora</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-1418633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-4261212.jpg?tf=1200x' alt='Sabemos donde vives: la aterradora y creíble estafa de Google Maps que se está extendiendo como la pólvora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-son-numeros-utilizan-piratas-informaticos-nunca-deberias-contestar-1418622'>Estos son los números que utilizan los piratas informáticos y que nunca deberías contestar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-son-numeros-utilizan-piratas-informaticos-nunca-deberias-contestar-1418622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estos-son-numeros-utilizan-piratas-informaticos-nunca-deberias-contestar-4261207.jpg?tf=1200x' alt='Estos son los números que utilizan los piratas informáticos y que nunca deberías contestar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/funcion-oculta-cambia-todo-como-liberar-espacio-google-fotos-borrar-nada-1418588'>La función oculta que lo cambia todo: ¿cómo liberar espacio en Google Fotos sin borrar nada?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/funcion-oculta-cambia-todo-como-liberar-espacio-google-fotos-borrar-nada-1418588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-oculta-cambia-todo-como-liberar-espacio-google-fotos-borrar-nada-4261194.jpg?tf=1200x' alt='La función oculta que lo cambia todo: ¿cómo liberar espacio en Google Fotos sin borrar nada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ni-reiniciar-ni-actualizar-simplemente-desactiva-estas-opciones-quieres-pc-windows-funcione-rapido-1418543'>Ni reiniciar ni actualizar, simplemente desactiva estas opciones si quieres que tu PC con Windows funcione más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ni-reiniciar-ni-actualizar-simplemente-desactiva-estas-opciones-quieres-pc-windows-funcione-rapido-1418543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-reiniciar-ni-actualizar-simplemente-desactiva-estas-opciones-quieres-pc-windows-funcione-rapido-4261148.jpg?tf=1200x' alt='Ni reiniciar ni actualizar, simplemente desactiva estas opciones si quieres que tu PC con Windows funcione más rápido' />
     </a>
 </div>
 
