@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/5-funciones-google-maps-llegaran-pronto-espana-1419016'>5 funciones de Google Maps que llegarán pronto a España</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/5-funciones-google-maps-llegaran-pronto-espana-1419016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-google-earth-integran-ia-generativa-gemini-cambia-todo-4256354.jpg?tf=1200x' alt='5 funciones de Google Maps que llegarán pronto a España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-china-ni-hong-kong-fabricantes-chips-mudan-vietnam-1419031'>Ni China ni Hong Kong, los fabricantes de chips se mudan de país: 'será la próxima superpotencia'</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-china-ni-hong-kong-fabricantes-chips-mudan-vietnam-1419031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-china-ni-hong-kong-fabricantes-chips-mudan-pais-sera-proxima-superpotencia-4262265.jpg?tf=1200x' alt='Ni China ni Hong Kong, los fabricantes de chips se mudan de país: 'será la próxima superpotencia'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-sabe-como-fabricar-bateria-mayor-fabricante-baterias-mundo-dice-elon-musk-fracasara-modelo-4680-1419011'>"No sabe cómo fabricar una batería": el mayor fabricante de baterías del mundo dice que Elon Musk fracasará con su modelo 4680</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-sabe-como-fabricar-bateria-mayor-fabricante-baterias-mundo-dice-elon-musk-fracasara-modelo-4680-1419011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/mazazo-elon-musk-no-recibira-56000-millones-dolares-iba-dar-tesla-3268769.jpg?tf=1200x' alt='"No sabe cómo fabricar una batería": el mayor fabricante de baterías del mundo dice que Elon Musk fracasará con su modelo 4680' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-barata-amazon-leer-letra-pequena-1418637'>Youtuber presume de comprar una casa en Amazon tirada de precio, pero se olvida de leer la letra pequeña</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-barata-amazon-leer-letra-pequena-1418637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtuber-presume-comprar-casa-amazon-precio-risa-pero-olvida-leer-letra-pequena-4261206.jpg?tf=1200x' alt='Youtuber presume de comprar una casa en Amazon tirada de precio, pero se olvida de leer la letra pequeña' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/teide-detectan-500-terremotos-enjambre-sismico-1418998'>Algo pasa en el Teide: detectan 500 terremotos en un preocupante enjambre sísmico</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/teide-detectan-500-terremotos-enjambre-sismico-1418998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/algo-pasa-teide-detectan-500-terremotos-preocupante-enjambre-sismico-4262098.jpg?tf=1200x' alt='Algo pasa en el Teide: detectan 500 terremotos en un preocupante enjambre sísmico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mapa-muestra-marcas-moviles-populares-cada-continente-1418986'>El mapa que muestra las marcas de móviles más populares en cada continente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mapa-muestra-marcas-moviles-populares-cada-continente-1418986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/marcas-vendidas-moviles-continentes-4262243.jpg?tf=1200x' alt='El mapa que muestra las marcas de móviles más populares en cada continente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-camara-xiaomi-tomar-fotos-profesionales-1418902'>Cómo configurar la cámara de tu Xiaomi para tomar fotos profesionales </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-camara-xiaomi-tomar-fotos-profesionales-1418902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fotos-profesionales-xiaomi-4261626.jpg?tf=1200x' alt='Cómo configurar la cámara de tu Xiaomi para tomar fotos profesionales ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963'>Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-4261972.jpg?tf=1200x' alt='Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día' />
     </a>
 </div>
 
