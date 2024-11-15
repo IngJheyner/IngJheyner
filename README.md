@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-1419140'>Ymir, el peligroso ransomware descubierto por Kaspersky: opera en la memoria y no deja ningún rastro</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-1419140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-4262535.jpg?tf=1200x' alt='Ymir, el peligroso ransomware descubierto por Kaspersky: opera en la memoria y no deja ningún rastro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054'>Cómo crear rutas de paradas múltiples en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/caminos-google-maps-4256908.jpg?tf=1200x' alt='Cómo crear rutas de paradas múltiples en Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/instalar-mirilla-digital-permisos-instalacion-1411119'>Mirilla digital: ¿tienes que pedir permiso a los vecinos si quieres instalar una?</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/instalar-mirilla-digital-permisos-instalacion-1411119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mirilla-digital-necesario-permiso-vecinos-quieres-instalar-4248544.jpg?tf=1200x' alt='Mirilla digital: ¿tienes que pedir permiso a los vecinos si quieres instalar una?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-interesa-gmail-prepara-cuentas-correo-solo-uso-uso-limitado-1419153'>Esto te interesa: Gmail se prepara para las cuentas de correo de un solo uso o uso limitado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/te-interesa-gmail-prepara-cuentas-correo-solo-uso-uso-limitado-1419153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/seguridad-gmail-4262513.jpg?tf=1200x' alt='Esto te interesa: Gmail se prepara para las cuentas de correo de un solo uso o uso limitado' />
     </a>
 </div>
 
