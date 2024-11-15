@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/hacer-cuando-whatsapp-otras-apps-movil-cierran-solas-no-abren-1418067'>Qué hacer cuando WhatsApp y otras apps del móvil se cierran solas o no se abren</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/hacer-cuando-whatsapp-otras-apps-movil-cierran-solas-no-abren-1418067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hacer-cuando-whatsapp-otras-apps-movil-cierran-solas-no-abren-4260305.jpg?tf=1200x' alt='Qué hacer cuando WhatsApp y otras apps del móvil se cierran solas o no se abren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/truco-chatgpt-conversacion-whatsapp-toxica-1414155'>El truco de ChatGPT para saber si una conversación de WhatsApp es tóxica</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/truco-chatgpt-conversacion-whatsapp-toxica-1414155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-whatsapp-chatgpt-saber-conversacion-toxica-4253712.jpg?tf=1200x' alt='El truco de ChatGPT para saber si una conversación de WhatsApp es tóxica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-levanta-cabeza-no-son-solo-tiburones-muchos-criticos-consideran-gladiator-2-parodia-1418555'>Ridley Scott no levanta cabeza: no son solo los tiburones, muchos críticos consideran Gladiator 2 “una parodia”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-levanta-cabeza-no-son-solo-tiburones-muchos-criticos-consideran-gladiator-2-parodia-1418555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gladiator-ii-4252487.jpg?tf=1200x' alt='Ridley Scott no levanta cabeza: no son solo los tiburones, muchos críticos consideran Gladiator 2 “una parodia”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-1419091'>Experto en ciberseguridad afirma que solo necesita un segundo para descifrar la contraseña más utilizada en España</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-1419091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-4262452.jpg?tf=1200x' alt='Experto en ciberseguridad afirma que solo necesita un segundo para descifrar la contraseña más utilizada en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-funcion-prohibida-google-android-auto-1410217'>La función prohibida de Android Auto que puedes desbloquear fácilmente (aunque a Google no le guste)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-funcion-prohibida-google-android-auto-1410217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funcion-prohibida-android-auto-puedes-desbloquear-aunque-google-no-guste-4246978.jpg?tf=1200x' alt='La función prohibida de Android Auto que puedes desbloquear fácilmente (aunque a Google no le guste)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-infalibles-evitar-llenar-almacenamiento-mi-iphone-1405641'>Estos son mis trucos infalibles para evitar llenar el almacenamiento de mi iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-infalibles-evitar-llenar-almacenamiento-mi-iphone-1405641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4199936.jpg?tf=1200x' alt='Estos son mis trucos infalibles para evitar llenar el almacenamiento de mi iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/truco-abuelas-no-importa-aemet-podras-secar-ropa-pleno-invierno-utilizar-secadora-1415340'>Este truco de nuestras abuelas no le importa la AEMET, así podrás secar la ropa en pleno invierno sin utilizar la secadora</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/truco-abuelas-no-importa-aemet-podras-secar-ropa-pleno-invierno-utilizar-secadora-1415340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ropa-tendida-4255659.jpg?tf=1200x' alt='Este truco de nuestras abuelas no le importa la AEMET, así podrás secar la ropa en pleno invierno sin utilizar la secadora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-bosque-verde-ni-ariel-mejor-detergente-lavadora-reputado-quimico-1419087'>Ni Bosque Verde ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-bosque-verde-ni-ariel-mejor-detergente-lavadora-reputado-quimico-1419087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-bosque-verde-ni-ariel-mejor-detergente-lavadora-reputado-quimico-4262369.jpg?tf=1200x' alt='Ni Bosque Verde ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico' />
     </a>
 </div>
 
