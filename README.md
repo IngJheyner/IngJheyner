@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-barata-amazon-leer-letra-pequena-1418637'>Youtuber presume de comprar una casa en Amazon tirada de precio, pero se olvida de leer la letra pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/youtuber-compra-casa-barata-amazon-leer-letra-pequena-1418637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtuber-presume-comprar-casa-amazon-precio-risa-pero-olvida-leer-letra-pequena-4261206.jpg?tf=1200x' alt='Youtuber presume de comprar una casa en Amazon tirada de precio, pero se olvida de leer la letra pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/teide-detectan-500-terremotos-enjambre-sismico-1418998'>Algo pasa en el Teide: detectan 500 terremotos en un preocupante enjambre sísmico</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/teide-detectan-500-terremotos-enjambre-sismico-1418998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/algo-pasa-teide-detectan-500-terremotos-preocupante-enjambre-sismico-4262098.jpg?tf=1200x' alt='Algo pasa en el Teide: detectan 500 terremotos en un preocupante enjambre sísmico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mapa-muestra-marcas-moviles-populares-cada-continente-1418986'>El mapa que muestra las marcas de móviles más populares en cada continente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mapa-muestra-marcas-moviles-populares-cada-continente-1418986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/marcas-vendidas-moviles-continentes-4262243.jpg?tf=1200x' alt='El mapa que muestra las marcas de móviles más populares en cada continente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-camara-xiaomi-tomar-fotos-profesionales-1418902'>Cómo configurar la cámara de tu Xiaomi para tomar fotos profesionales </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-camara-xiaomi-tomar-fotos-profesionales-1418902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fotos-profesionales-xiaomi-4261626.jpg?tf=1200x' alt='Cómo configurar la cámara de tu Xiaomi para tomar fotos profesionales ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963'>Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-4261972.jpg?tf=1200x' alt='Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-proximo-xiaomi-espana-son-grandes-electrodomesticos-1418754'>Tras móviles, tablets y TV, lo próximo de Xiaomi en España son los grandes electrodomésticos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-proximo-xiaomi-espana-son-grandes-electrodomesticos-1418754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/electrodomesticos-xiaomi-4261506.jpg?tf=1200x' alt='Tras móviles, tablets y TV, lo próximo de Xiaomi en España son los grandes electrodomésticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/geekom-gt1-mega-analisis-opinion-1414805'>He probado el mini PC Geekom GT1 Mega que desata todo el poder de Intel Meteor Lake en un espacio realmente pequeño</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/geekom-gt1-mega-analisis-opinion-1414805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-gt1-mega-4255050.jpg?tf=1200x' alt='He probado el mini PC Geekom GT1 Mega que desata todo el poder de Intel Meteor Lake en un espacio realmente pequeño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-1418633'>Sabemos donde vives: la aterradora y creíble estafa de Google Maps que se está extendiendo como la pólvora</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-1418633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-4261212.jpg?tf=1200x' alt='Sabemos donde vives: la aterradora y creíble estafa de Google Maps que se está extendiendo como la pólvora' />
     </a>
 </div>
 
