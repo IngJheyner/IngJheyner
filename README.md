@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-ajuste-rapido-revivir-navegador-1413508'>Este ajuste te lleva solo 10 segundos y es capaz de revivir cualquier navegador al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/truco-ajuste-rapido-revivir-navegador-1413508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ajuste-te-lleva-solo-10-segundos-capaz-revivir-cualquier-navegador-4252572.jpg?tf=1200x' alt='Este ajuste te lleva solo 10 segundos y es capaz de revivir cualquier navegador al instante' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054'>Cómo crear rutas de paradas múltiples en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/caminos-google-maps-4256908.jpg?tf=1200x' alt='Cómo crear rutas de paradas múltiples en Google Maps' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/hacer-cuando-whatsapp-otras-apps-movil-cierran-solas-no-abren-1418067'>Qué hacer cuando WhatsApp y otras apps del móvil se cierran solas o no se abren</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/hacer-cuando-whatsapp-otras-apps-movil-cierran-solas-no-abren-1418067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hacer-cuando-whatsapp-otras-apps-movil-cierran-solas-no-abren-4260305.jpg?tf=1200x' alt='Qué hacer cuando WhatsApp y otras apps del móvil se cierran solas o no se abren' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-diferencias-x-ventajas-como-hacer-clon-cuenta-twitter-1419159'>Bluesky: diferencias con X, ventajas y cómo hacer un clon de tu cuenta de Twitter allí</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/bluesky-diferencias-x-ventajas-como-hacer-clon-cuenta-twitter-1419159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-diferencias-x-ventajas-como-hacer-clon-cuenta-twitter-alli-4262471.jpg?tf=1200x' alt='Bluesky: diferencias con X, ventajas y cómo hacer un clon de tu cuenta de Twitter allí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/truco-chatgpt-conversacion-whatsapp-toxica-1414155'>El truco de ChatGPT para saber si una conversación de WhatsApp es tóxica</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/truco-chatgpt-conversacion-whatsapp-toxica-1414155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/truco-whatsapp-chatgpt-saber-conversacion-toxica-4253712.jpg?tf=1200x' alt='El truco de ChatGPT para saber si una conversación de WhatsApp es tóxica' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuros-ultimo-modelo-google-gemini-supera-gpt-4o-openai-1419158'>ChatGPT en apuros: el último modelo de Google Gemini supera a GPT-4o de OpenAI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuros-ultimo-modelo-google-gemini-supera-gpt-4o-openai-1419158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelos-ia-4262518.jpg?tf=1200x' alt='ChatGPT en apuros: el último modelo de Google Gemini supera a GPT-4o de OpenAI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-levanta-cabeza-no-son-solo-tiburones-muchos-criticos-consideran-gladiator-2-parodia-1418555'>Ridley Scott no levanta cabeza: no son solo los tiburones, muchos críticos consideran Gladiator 2 “una parodia”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-no-levanta-cabeza-no-son-solo-tiburones-muchos-criticos-consideran-gladiator-2-parodia-1418555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/gladiator-ii-4252487.jpg?tf=1200x' alt='Ridley Scott no levanta cabeza: no son solo los tiburones, muchos críticos consideran Gladiator 2 “una parodia”' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/instalar-mirilla-digital-permisos-instalacion-1411119'>Mirilla digital: ¿tienes que pedir permiso a los vecinos si quieres instalar una?</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/instalar-mirilla-digital-permisos-instalacion-1411119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mirilla-digital-necesario-permiso-vecinos-quieres-instalar-4248544.jpg?tf=1200x' alt='Mirilla digital: ¿tienes que pedir permiso a los vecinos si quieres instalar una?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-1419091'>Experto en ciberseguridad afirma que solo necesita un segundo para descifrar la contraseña más utilizada en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-1419091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-4262452.jpg?tf=1200x' alt='Experto en ciberseguridad afirma que solo necesita un segundo para descifrar la contraseña más utilizada en España' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-interesa-gmail-prepara-cuentas-correo-solo-uso-uso-limitado-1419153'>Esto te interesa: Gmail se prepara para las cuentas de correo de un solo uso o uso limitado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/te-interesa-gmail-prepara-cuentas-correo-solo-uso-uso-limitado-1419153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/seguridad-gmail-4262513.jpg?tf=1200x' alt='Esto te interesa: Gmail se prepara para las cuentas de correo de un solo uso o uso limitado' />
     </a>
 </div>
 
