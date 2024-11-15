@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-camara-xiaomi-tomar-fotos-profesionales-1418902'>Cómo configurar la cámara de tu Xiaomi para tomar fotos profesionales </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-camara-xiaomi-tomar-fotos-profesionales-1418902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fotos-profesionales-xiaomi-4261626.jpg?tf=1200x' alt='Cómo configurar la cámara de tu Xiaomi para tomar fotos profesionales ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963'>Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-4261972.jpg?tf=1200x' alt='Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-1418633'>Sabemos donde vives: la aterradora y creíble estafa de Google Maps que se está extendiendo como la pólvora</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-1418633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sabemos-donde-vives-aterradora-creible-estafa-google-maps-extendiendo-como-polvora-4261212.jpg?tf=1200x' alt='Sabemos donde vives: la aterradora y creíble estafa de Google Maps que se está extendiendo como la pólvora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/revisa-trastero-viejo-walkman-podria-valer-crees-1418631'>Revisa el trastero: tu viejo Walkman podría valer más de lo que crees</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/revisa-trastero-viejo-walkman-podria-valer-crees-1418631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/revisa-trastero-viejo-walkman-podria-valer-crees-4261211.jpg?tf=1200x' alt='Revisa el trastero: tu viejo Walkman podría valer más de lo que crees' />
     </a>
 </div>
 
