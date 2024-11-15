@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963'>Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-1418963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-x-twitter-anti-trump-gana-1-millon-usuarios-dia-4261972.jpg?tf=1200x' alt='Bluesky, el X (Twitter) de los anti Trump, gana más de 1 millón de usuarios en un día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-proximo-xiaomi-espana-son-grandes-electrodomesticos-1418754'>Tras móviles, tablets y TV, lo próximo de Xiaomi en España son los grandes electrodomésticos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/moviles-tablets-tv-proximo-xiaomi-espana-son-grandes-electrodomesticos-1418754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/electrodomesticos-xiaomi-4261506.jpg?tf=1200x' alt='Tras móviles, tablets y TV, lo próximo de Xiaomi en España son los grandes electrodomésticos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/revisa-trastero-viejo-walkman-podria-valer-crees-1418631'>Revisa el trastero: tu viejo Walkman podría valer más de lo que crees</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/revisa-trastero-viejo-walkman-podria-valer-crees-1418631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/revisa-trastero-viejo-walkman-podria-valer-crees-4261211.jpg?tf=1200x' alt='Revisa el trastero: tu viejo Walkman podría valer más de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-son-numeros-utilizan-piratas-informaticos-nunca-deberias-contestar-1418622'>Estos son los números que utilizan los piratas informáticos y que nunca deberías contestar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-son-numeros-utilizan-piratas-informaticos-nunca-deberias-contestar-1418622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estos-son-numeros-utilizan-piratas-informaticos-nunca-deberias-contestar-4261207.jpg?tf=1200x' alt='Estos son los números que utilizan los piratas informáticos y que nunca deberías contestar' />
     </a>
 </div>
 
