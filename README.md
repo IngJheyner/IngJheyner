@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-1419091'>Experto en ciberseguridad afirma que solo necesita un segundo para descifrar la contraseña más utilizada en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-1419091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-4262452.jpg?tf=1200x' alt='Experto en ciberseguridad afirma que solo necesita un segundo para descifrar la contraseña más utilizada en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-funcion-prohibida-google-android-auto-1410217'>La función prohibida de Android Auto que puedes desbloquear fácilmente (aunque a Google no le guste)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-funcion-prohibida-google-android-auto-1410217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/funcion-prohibida-android-auto-puedes-desbloquear-aunque-google-no-guste-4246978.jpg?tf=1200x' alt='La función prohibida de Android Auto que puedes desbloquear fácilmente (aunque a Google no le guste)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-infalibles-evitar-llenar-almacenamiento-mi-iphone-1405641'>Estos son mis trucos infalibles para evitar llenar el almacenamiento de mi iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-trucos-infalibles-evitar-llenar-almacenamiento-mi-iphone-1405641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4199936.jpg?tf=1200x' alt='Estos son mis trucos infalibles para evitar llenar el almacenamiento de mi iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ni-bosque-verde-ni-ariel-mejor-detergente-lavadora-reputado-quimico-1419087'>Ni Bosque Verde ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-bosque-verde-ni-ariel-mejor-detergente-lavadora-reputado-quimico-1419087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-bosque-verde-ni-ariel-mejor-detergente-lavadora-reputado-quimico-4262369.jpg?tf=1200x' alt='Ni Bosque Verde ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-responsables-avisan-usuarios-iptv-cosa-pone-fea-1410428'>Cristal Azul cierra en KODI y sus responsables avisan a los usuarios de IPTV: “la cosa se pone fea”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-responsables-avisan-usuarios-iptv-cosa-pone-fea-1410428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/alternativas-cristal-azul-kodi-comienzan-caer-cierra-luar-palantir-alfa-tienen-horas-contadas-4247753.jpg?tf=1200x' alt='Cristal Azul cierra en KODI y sus responsables avisan a los usuarios de IPTV: “la cosa se pone fea”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guardia-civil-cierra-canal-futbol-gratis-pirateria-utilizado-espana-1419074'>La Guardia Civil cierra el canal de fútbol gratis y piratería más utilizado de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/guardia-civil-cierra-canal-futbol-gratis-pirateria-utilizado-espana-1419074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kodi-cristal-azul-4247324.jpg?tf=1200x' alt='La Guardia Civil cierra el canal de fútbol gratis y piratería más utilizado de España' />
     </a>
 </div>
 
