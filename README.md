@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-xs-max-iphone-6s-plus-ya-son-historia-apple-1419213'>El iPhone XS Max y el iPhone 6s Plus ya son historia para Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-xs-max-iphone-6s-plus-ya-son-historia-apple-1419213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max_0.jpg?tf=1200x' alt='El iPhone XS Max y el iPhone 6s Plus ya son historia para Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/10-trucos-consejos-kodi-funcione-mucho-rapido-1417234'>Mis 10 trucos y consejos para que Kodi funcione mucho más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/10-trucos-consejos-kodi-funcione-mucho-rapido-1417234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejorar-rendimiento-kodi-4259029.jpg?tf=1200x' alt='Mis 10 trucos y consejos para que Kodi funcione mucho más rápido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/truco-ganar-piedra-papel-tijera-1419176'>Con este truco ganarás el 75% de las veces a Piedra, Papel o Tijera</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-ganar-piedra-papel-tijera-1419176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-podras-ganar-75-veces-piedra-papel-tijera-4262522.jpg?tf=1200x' alt='Con este truco ganarás el 75% de las veces a Piedra, Papel o Tijera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/buscar-refugio-fuera-x-facil-pero-estan-conocidos-1418179'>Buscar refugio fuera de X es fácil, pero ¿están tus conocidos? </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/buscar-refugio-fuera-x-facil-pero-estan-conocidos-1418179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/twitter-x-3279308.jpg?tf=1200x' alt='Buscar refugio fuera de X es fácil, pero ¿están tus conocidos? ' />
     </a>
 </div>
 
