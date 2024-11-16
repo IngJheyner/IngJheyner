@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-app-conductores-uber-1389401'>Ni Google Maps ni Waze, los conductores de Uber prefiera esta otra aplicación</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-app-conductores-uber-1389401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Ni Google Maps ni Waze, los conductores de Uber prefiera esta otra aplicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-muestra-anuncios-pero-puedes-desactivarlos-1419227'>Windows 11 ahora muestra más anuncios pero así puedes desactivarlos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-muestra-anuncios-pero-puedes-desactivarlos-1419227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/anuncios-windows-4262668.jpg?tf=1200x' alt='Windows 11 ahora muestra más anuncios pero así puedes desactivarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-no-funciona-android-auto-todas-soluciones-1416401'>WhatsApp no funciona en Android Auto: todas las soluciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-no-funciona-android-auto-todas-soluciones-1416401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-android-auto-4257433.jpg?tf=1200x' alt='WhatsApp no funciona en Android Auto: todas las soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-xs-max-iphone-6s-plus-ya-son-historia-apple-1419213'>El iPhone XS Max y el iPhone 6s Plus ya son historia para Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-xs-max-iphone-6s-plus-ya-son-historia-apple-1419213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max_0.jpg?tf=1200x' alt='El iPhone XS Max y el iPhone 6s Plus ya son historia para Apple' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/10-trucos-consejos-kodi-funcione-mucho-rapido-1417234'>Mis 10 trucos y consejos para que Kodi funcione mucho más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/10-trucos-consejos-kodi-funcione-mucho-rapido-1417234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejorar-rendimiento-kodi-4259029.jpg?tf=1200x' alt='Mis 10 trucos y consejos para que Kodi funcione mucho más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/como-responder-preguntas-dificiles-comprometidas-no-quieres-contestar-quedar-como-tonto-1416718'>Cómo responder a preguntas difíciles y comprometidas que no quieres contestar sin quedar como un tonto</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/como-responder-preguntas-dificiles-comprometidas-no-quieres-contestar-quedar-como-tonto-1416718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-responder-preguntas-dificiles-comprometidas-no-quieres-contestar-quedar-como-tonto-4257960.jpg?tf=1200x' alt='Cómo responder a preguntas difíciles y comprometidas que no quieres contestar sin quedar como un tonto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/redes-sociales-estandares-belleza-imposibles-dana-autoestima-jovenes-espanoles-1416939'>Redes sociales y estándares de belleza imposibles: así daña la autoestima de los jóvenes españoles </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/redes-sociales-estandares-belleza-imposibles-dana-autoestima-jovenes-espanoles-1416939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redes-sociales-estandares-belleza-4258805.jpg?tf=1200x' alt='Redes sociales y estándares de belleza imposibles: así daña la autoestima de los jóvenes españoles ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/truco-ganar-piedra-papel-tijera-1419176'>Con este truco ganarás el 75% de las veces a Piedra, Papel o Tijera</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/truco-ganar-piedra-papel-tijera-1419176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-podras-ganar-75-veces-piedra-papel-tijera-4262522.jpg?tf=1200x' alt='Con este truco ganarás el 75% de las veces a Piedra, Papel o Tijera' />
     </a>
 </div>
 
