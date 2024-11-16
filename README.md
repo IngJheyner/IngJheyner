@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/redes-sociales-estandares-belleza-imposibles-dana-autoestima-jovenes-espanoles-1416939'>Redes sociales y estándares de belleza imposibles: así daña la autoestima de los jóvenes españoles </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/redes-sociales-estandares-belleza-imposibles-dana-autoestima-jovenes-espanoles-1416939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redes-sociales-estandares-belleza-4258805.jpg?tf=1200x' alt='Redes sociales y estándares de belleza imposibles: así daña la autoestima de los jóvenes españoles ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/truco-ganar-piedra-papel-tijera-1419176'>Con este truco ganarás el 75% de las veces a Piedra, Papel o Tijera</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-ganar-piedra-papel-tijera-1419176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-podras-ganar-75-veces-piedra-papel-tijera-4262522.jpg?tf=1200x' alt='Con este truco ganarás el 75% de las veces a Piedra, Papel o Tijera' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.20minutos.es/life/increible-video-timelapse-viral-muestra-como-agricultores-japoneses-cultivan-sandias-cuadradas-300-euros-1417972'>Este increíble vídeo timelapse viral muestra cómo los agricultores japoneses cultivan sandías cuadradas de 300 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/increible-video-timelapse-viral-muestra-como-agricultores-japoneses-cultivan-sandias-cuadradas-300-euros-1417972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/increible-video-timelapse-viral-muestra-como-agricultores-japoneses-cultivan-sandias-cuadradas-300-euros-4260222.jpg?tf=1200x' alt='Este increíble vídeo timelapse viral muestra cómo los agricultores japoneses cultivan sandías cuadradas de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/truco-expertos-recuperar-contrasena-wifi-olvidada-movil-1418803'>El truco de los expertos para recuperar una contraseña WiFi olvidada desde el móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/truco-expertos-recuperar-contrasena-wifi-olvidada-movil-1418803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-expertos-recuperar-contrasena-wifi-olvidada-movil-4261533.jpg?tf=1200x' alt='El truco de los expertos para recuperar una contraseña WiFi olvidada desde el móvil' />
     </a>
 </div>
 
