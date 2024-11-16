@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nueva-pagina-configuracion-dedicada-windows-intelligence-llegara-windows-11-incluira-1419264'>Nueva página de configuración dedicada a "Windows Intelligence" llegará a Windows 11 y esto es lo que incluirá</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nueva-pagina-configuracion-dedicada-windows-intelligence-llegara-windows-11-incluira-1419264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-ia-4262716.jpg?tf=1200x' alt='Nueva página de configuración dedicada a "Windows Intelligence" llegará a Windows 11 y esto es lo que incluirá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-gafas-inteligentes-samsung-inspirarian-ray-ban-meta-no-contarian-pantalla-1419256'>Las nuevas gafas inteligentes de Samsung se inspirarían en las Ray-Ban Meta y no contarían con pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-gafas-inteligentes-samsung-inspirarian-ray-ban-meta-no-contarian-pantalla-1419256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ray-ban-meta-4262702.jpg?tf=1200x' alt='Las nuevas gafas inteligentes de Samsung se inspirarían en las Ray-Ban Meta y no contarían con pantalla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-mis-trucos-encontrar-series-peliculas-1411122'>Hackear Netflix: es son mis trucos para encontrar siempre algo interesante que ver</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-mis-trucos-encontrar-series-peliculas-1411122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-4248551.jpg?tf=1200x' alt='Hackear Netflix: es son mis trucos para encontrar siempre algo interesante que ver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-emojis-llegaran-movil-iphone-android-2025-1419243'>Estos son los nuevos emojis que llegarán a tu móvil iPhone y Android en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-emojis-llegaran-movil-iphone-android-2025-1419243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estos-son-nuevos-emojis-llegaran-movil-iphone-android-2025-4262684.jpg?tf=1200x' alt='Estos son los nuevos emojis que llegarán a tu móvil iPhone y Android en 2025' />
     </a>
 </div>
 
