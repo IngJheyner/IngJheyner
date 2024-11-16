@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-juegos-instantaneos-tienda-windows-11-tiempo-record-1419266'>Microsoft elimina los juegos instantáneos de la tienda de Windows 11 en tiempo récord</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-juegos-instantaneos-tienda-windows-11-tiempo-record-1419266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-store-4262718.jpg?tf=1200x' alt='Microsoft elimina los juegos instantáneos de la tienda de Windows 11 en tiempo récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nueva-funcion-basada-ia-youtube-te-permite-mezclar-musica-crear-canciones-unicas-1419265'>La nueva función basada en IA de YouTube que te permite mezclar música para crear canciones únicas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nueva-funcion-basada-ia-youtube-te-permite-mezclar-musica-crear-canciones-unicas-1419265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-music-4262717.jpg?tf=1200x' alt='La nueva función basada en IA de YouTube que te permite mezclar música para crear canciones únicas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bluesky-garantiza-no-usara-publicaciones-entrenar-ia-diferencia-x-1419248'>Bluesky garantiza que no usará tus publicaciones para entrenar IA, a diferencia de X</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bluesky-garantiza-no-usara-publicaciones-entrenar-ia-diferencia-x-1419248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-4262692.jpg?tf=1200x' alt='Bluesky garantiza que no usará tus publicaciones para entrenar IA, a diferencia de X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/348-solo-249-euros-reloj-huawei-va-garmin-desploma-precio-1419188'>De 348 a solo 249 euros: el reloj Huawei que va a por los Garmin desploma su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/348-solo-249-euros-reloj-huawei-va-garmin-desploma-precio-1419188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-gt-5-4262585.jpg?tf=1200x' alt='De 348 a solo 249 euros: el reloj Huawei que va a por los Garmin desploma su precio' />
     </a>
 </div>
 
