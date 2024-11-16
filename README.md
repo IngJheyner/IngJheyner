@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-calefaccion-ni-aire-acondicionado-calentar-piso-1409123'>Ni calefacción ni aire acondicionado, el invento que calienta tu piso por menos 20 euros al mes sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-calefaccion-ni-aire-acondicionado-calentar-piso-1409123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-4245219.jpg?tf=1200x' alt='Ni calefacción ni aire acondicionado, el invento que calienta tu piso por menos 20 euros al mes sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rabbit-r1-reinventa-ahora-regenera-toda-interfaz-inteligencia-artificial-1419238'>El Rabbit R1 se reinventa: ahora regenera toda su interfaz con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/rabbit-r1-reinventa-ahora-regenera-toda-interfaz-inteligencia-artificial-1419238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/rabbit-r1-4262679.jpg?tf=1200x' alt='El Rabbit R1 se reinventa: ahora regenera toda su interfaz con inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-app-conductores-uber-1389401'>Ni Google Maps ni Waze, los conductores de Uber prefiera esta otra aplicación</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-app-conductores-uber-1389401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Ni Google Maps ni Waze, los conductores de Uber prefiera esta otra aplicación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-no-funciona-android-auto-todas-soluciones-1416401'>WhatsApp no funciona en Android Auto: todas las soluciones</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-no-funciona-android-auto-todas-soluciones-1416401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-android-auto-4257433.jpg?tf=1200x' alt='WhatsApp no funciona en Android Auto: todas las soluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-xs-max-iphone-6s-plus-ya-son-historia-apple-1419213'>El iPhone XS Max y el iPhone 6s Plus ya son historia para Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-xs-max-iphone-6s-plus-ya-son-historia-apple-1419213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/face-id-iphone-xs-max_0.jpg?tf=1200x' alt='El iPhone XS Max y el iPhone 6s Plus ya son historia para Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/10-trucos-consejos-kodi-funcione-mucho-rapido-1417234'>Mis 10 trucos y consejos para que Kodi funcione mucho más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/10-trucos-consejos-kodi-funcione-mucho-rapido-1417234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejorar-rendimiento-kodi-4259029.jpg?tf=1200x' alt='Mis 10 trucos y consejos para que Kodi funcione mucho más rápido' />
     </a>
 </div>
 
