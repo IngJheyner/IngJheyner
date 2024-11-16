@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/buscar-refugio-fuera-x-facil-pero-estan-conocidos-1418179'>Buscar refugio fuera de X es fácil, pero ¿están tus conocidos? </a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/buscar-refugio-fuera-x-facil-pero-estan-conocidos-1418179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/twitter-x-3279308.jpg?tf=1200x' alt='Buscar refugio fuera de X es fácil, pero ¿están tus conocidos? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/como-configurar-correctamente-sonido-tv-escuchar-dialogos-no-llevarte-sustos-noche-1408744'>Cómo configurar correctamente el sonido de tu TV para escuchar los diálogos y no llevarte sustos de noche</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/como-configurar-correctamente-sonido-tv-escuchar-dialogos-no-llevarte-sustos-noche-1408744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/configurar-sonido-smarttv-4244711.jpg?tf=1200x' alt='Cómo configurar correctamente el sonido de tu TV para escuchar los diálogos y no llevarte sustos de noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/increible-video-timelapse-viral-muestra-como-agricultores-japoneses-cultivan-sandias-cuadradas-300-euros-1417972'>Este increíble vídeo timelapse viral muestra cómo los agricultores japoneses cultivan sandías cuadradas de 300 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/increible-video-timelapse-viral-muestra-como-agricultores-japoneses-cultivan-sandias-cuadradas-300-euros-1417972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/increible-video-timelapse-viral-muestra-como-agricultores-japoneses-cultivan-sandias-cuadradas-300-euros-4260222.jpg?tf=1200x' alt='Este increíble vídeo timelapse viral muestra cómo los agricultores japoneses cultivan sandías cuadradas de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/truco-expertos-recuperar-contrasena-wifi-olvidada-movil-1418803'>El truco de los expertos para recuperar una contraseña WiFi olvidada desde el móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/truco-expertos-recuperar-contrasena-wifi-olvidada-movil-1418803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-expertos-recuperar-contrasena-wifi-olvidada-movil-4261533.jpg?tf=1200x' alt='El truco de los expertos para recuperar una contraseña WiFi olvidada desde el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-he-desactivado-estas-funciones-no-solo-funciona-mejor-tambien-vivo-feliz-1418923'>WhatsApp: he desactivado estas funciones, no solo funciona mejor, también vivo más feliz</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-he-desactivado-estas-funciones-no-solo-funciona-mejor-tambien-vivo-feliz-1418923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-he-desactivado-estas-funciones-no-solo-funciona-mejor-tambien-vivo-feliz-4261661.jpg?tf=1200x' alt='WhatsApp: he desactivado estas funciones, no solo funciona mejor, también vivo más feliz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-1418926'>Ni IPTV ni TDTChannels, esta es la mejor forma de ver la TV gratis en el móvil sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-1418926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-4261668.jpg?tf=1200x' alt='Ni IPTV ni TDTChannels, esta es la mejor forma de ver la TV gratis en el móvil sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-rival-nube-privada-2tb-1389514'>Google tiene rival: esta VPN incluye nube privada con 2TB de almacenamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-rival-nube-privada-2tb-1389514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordlocker-nordvpn-3285069.jpg?tf=1200x' alt='Google tiene rival: esta VPN incluye nube privada con 2TB de almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-1419140'>Ymir, el peligroso ransomware descubierto por Kaspersky: opera en la memoria y no deja ningún rastro</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-1419140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-4262535.jpg?tf=1200x' alt='Ymir, el peligroso ransomware descubierto por Kaspersky: opera en la memoria y no deja ningún rastro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054'>Cómo crear rutas de paradas múltiples en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/caminos-google-maps-4256908.jpg?tf=1200x' alt='Cómo crear rutas de paradas múltiples en Google Maps' />
     </a>
 </div>
 
