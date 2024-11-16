@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-he-desactivado-estas-funciones-no-solo-funciona-mejor-tambien-vivo-feliz-1418923'>WhatsApp: he desactivado estas funciones, no solo funciona mejor, también vivo más feliz</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-he-desactivado-estas-funciones-no-solo-funciona-mejor-tambien-vivo-feliz-1418923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-he-desactivado-estas-funciones-no-solo-funciona-mejor-tambien-vivo-feliz-4261661.jpg?tf=1200x' alt='WhatsApp: he desactivado estas funciones, no solo funciona mejor, también vivo más feliz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-1418926'>Ni IPTV ni TDTChannels, esta es la mejor forma de ver la TV gratis en el móvil sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-1418926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-4261668.jpg?tf=1200x' alt='Ni IPTV ni TDTChannels, esta es la mejor forma de ver la TV gratis en el móvil sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-rival-nube-privada-2tb-1389514'>Google tiene rival: esta VPN incluye nube privada con 2TB de almacenamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-rival-nube-privada-2tb-1389514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordlocker-nordvpn-3285069.jpg?tf=1200x' alt='Google tiene rival: esta VPN incluye nube privada con 2TB de almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-1419140'>Ymir, el peligroso ransomware descubierto por Kaspersky: opera en la memoria y no deja ningún rastro</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-1419140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ymir-peligroso-ransomware-descubierto-kaspersky-opera-memoria-no-deja-ningun-rastro-4262535.jpg?tf=1200x' alt='Ymir, el peligroso ransomware descubierto por Kaspersky: opera en la memoria y no deja ningún rastro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054'>Cómo crear rutas de paradas múltiples en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-rutas-varias-paradas-google-maps-1416054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/caminos-google-maps-4256908.jpg?tf=1200x' alt='Cómo crear rutas de paradas múltiples en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-diferencias-x-ventajas-como-hacer-clon-cuenta-twitter-1419159'>Bluesky: diferencias con X, ventajas y cómo hacer un clon de tu cuenta de Twitter allí</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/bluesky-diferencias-x-ventajas-como-hacer-clon-cuenta-twitter-1419159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-diferencias-x-ventajas-como-hacer-clon-cuenta-twitter-alli-4262471.jpg?tf=1200x' alt='Bluesky: diferencias con X, ventajas y cómo hacer un clon de tu cuenta de Twitter allí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuros-ultimo-modelo-google-gemini-supera-gpt-4o-openai-1419158'>ChatGPT en apuros: el último modelo de Google Gemini supera a GPT-4o de OpenAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuros-ultimo-modelo-google-gemini-supera-gpt-4o-openai-1419158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelos-ia-4262518.jpg?tf=1200x' alt='ChatGPT en apuros: el último modelo de Google Gemini supera a GPT-4o de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/instalar-mirilla-digital-permisos-instalacion-1411119'>Mirilla digital: ¿tienes que pedir permiso a los vecinos si quieres instalar una?</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/instalar-mirilla-digital-permisos-instalacion-1411119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mirilla-digital-necesario-permiso-vecinos-quieres-instalar-4248544.jpg?tf=1200x' alt='Mirilla digital: ¿tienes que pedir permiso a los vecinos si quieres instalar una?' />
     </a>
 </div>
 
