@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-imagina-copilot-capaz-predecir-futuro-1419269'>Microsoft se imagina un Copilot capaz de predecir el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-imagina-copilot-capaz-predecir-futuro-1419269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-prediciendo-futuro-4262721.jpg?tf=1200x' alt='Microsoft se imagina un Copilot capaz de predecir el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-juegos-instantaneos-tienda-windows-11-tiempo-record-1419266'>Microsoft elimina los juegos instantáneos de la tienda de Windows 11 en tiempo récord</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-juegos-instantaneos-tienda-windows-11-tiempo-record-1419266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-store-4262718.jpg?tf=1200x' alt='Microsoft elimina los juegos instantáneos de la tienda de Windows 11 en tiempo récord' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-gafas-inteligentes-samsung-inspirarian-ray-ban-meta-no-contarian-pantalla-1419256'>Las nuevas gafas inteligentes de Samsung se inspirarían en las Ray-Ban Meta y no contarían con pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-gafas-inteligentes-samsung-inspirarian-ray-ban-meta-no-contarian-pantalla-1419256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ray-ban-meta-4262702.jpg?tf=1200x' alt='Las nuevas gafas inteligentes de Samsung se inspirarían en las Ray-Ban Meta y no contarían con pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bluesky-garantiza-no-usara-publicaciones-entrenar-ia-diferencia-x-1419248'>Bluesky garantiza que no usará tus publicaciones para entrenar IA, a diferencia de X</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bluesky-garantiza-no-usara-publicaciones-entrenar-ia-diferencia-x-1419248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-4262692.jpg?tf=1200x' alt='Bluesky garantiza que no usará tus publicaciones para entrenar IA, a diferencia de X' />
     </a>
 </div>
 
