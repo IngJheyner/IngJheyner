@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nueva-funcion-basada-ia-youtube-te-permite-mezclar-musica-crear-canciones-unicas-1419265'>La nueva función basada en IA de YouTube que te permite mezclar música para crear canciones únicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nueva-funcion-basada-ia-youtube-te-permite-mezclar-musica-crear-canciones-unicas-1419265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-music-4262717.jpg?tf=1200x' alt='La nueva función basada en IA de YouTube que te permite mezclar música para crear canciones únicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/nueva-pagina-configuracion-dedicada-windows-intelligence-llegara-windows-11-incluira-1419264'>Nueva página de configuración dedicada a "Windows Intelligence" llegará a Windows 11 y esto es lo que incluirá</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/nueva-pagina-configuracion-dedicada-windows-intelligence-llegara-windows-11-incluira-1419264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-ia-4262716.jpg?tf=1200x' alt='Nueva página de configuración dedicada a "Windows Intelligence" llegará a Windows 11 y esto es lo que incluirá' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/348-solo-249-euros-reloj-huawei-va-garmin-desploma-precio-1419188'>De 348 a solo 249 euros: el reloj Huawei que va a por los Garmin desploma su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/348-solo-249-euros-reloj-huawei-va-garmin-desploma-precio-1419188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-gt-5-4262585.jpg?tf=1200x' alt='De 348 a solo 249 euros: el reloj Huawei que va a por los Garmin desploma su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-mis-trucos-encontrar-series-peliculas-1411122'>Hackear Netflix: es son mis trucos para encontrar siempre algo interesante que ver</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/hackear-netflix-mis-trucos-encontrar-series-peliculas-1411122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/hackear-netflix-trucos-encontrar-siempre-algo-interesante-ver-4248551.jpg?tf=1200x' alt='Hackear Netflix: es son mis trucos para encontrar siempre algo interesante que ver' />
     </a>
 </div>
 
