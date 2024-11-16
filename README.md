@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-emojis-llegaran-movil-iphone-android-2025-1419243'>Estos son los nuevos emojis que llegarán a tu móvil iPhone y Android en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-nuevos-emojis-llegaran-movil-iphone-android-2025-1419243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estos-son-nuevos-emojis-llegaran-movil-iphone-android-2025-4262684.jpg?tf=1200x' alt='Estos son los nuevos emojis que llegarán a tu móvil iPhone y Android en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-calefaccion-ni-aire-acondicionado-calentar-piso-1409123'>Ni calefacción ni aire acondicionado, el invento que calienta tu piso por menos 20 euros al mes sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-calefaccion-ni-aire-acondicionado-calentar-piso-1409123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-calefaccion-ni-aire-acondicionado-invento-calienta-piso-menos-20-euros-mes-instalacion-4245219.jpg?tf=1200x' alt='Ni calefacción ni aire acondicionado, el invento que calienta tu piso por menos 20 euros al mes sin instalar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-muestra-anuncios-pero-puedes-desactivarlos-1419227'>Windows 11 ahora muestra más anuncios pero así puedes desactivarlos</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-muestra-anuncios-pero-puedes-desactivarlos-1419227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/anuncios-windows-4262668.jpg?tf=1200x' alt='Windows 11 ahora muestra más anuncios pero así puedes desactivarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-no-funciona-android-auto-todas-soluciones-1416401'>WhatsApp no funciona en Android Auto: todas las soluciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-no-funciona-android-auto-todas-soluciones-1416401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-android-auto-4257433.jpg?tf=1200x' alt='WhatsApp no funciona en Android Auto: todas las soluciones' />
     </a>
 </div>
 
