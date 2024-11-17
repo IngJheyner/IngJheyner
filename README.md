@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361'>WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/wifi-8-develado-cambio-radical-objetivos-respecto-wifi-7-4262889.jpg?tf=1200x' alt='WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356'>Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/machacan-redes-anuncio-navideno-coca-cola-creado-ia-4262870.jpg?tf=1200x' alt='Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-da-susto-ultima-actualizacion-final-servicio-windows-11-23h2-1419271'>Microsoft te da un susto con la última actualización sobre "el final de servicio" de Windows 11 23H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-te-da-susto-ultima-actualizacion-final-servicio-windows-11-23h2-1419271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-11-4262723.jpg?tf=1200x' alt='Microsoft te da un susto con la última actualización sobre "el final de servicio" de Windows 11 23H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/significado-senal-trafico-dgt-p33-1409128'>Ni viento ni nieve, el 75% de los conductores desconocen el significado de esta señal de tráfico</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/significado-senal-trafico-dgt-p33-1409128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-4245220.jpg?tf=1200x' alt='Ni viento ni nieve, el 75% de los conductores desconocen el significado de esta señal de tráfico' />
     </a>
 </div>
 
