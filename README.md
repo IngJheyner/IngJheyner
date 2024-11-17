@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/truco-evitar-estafas-comprar-movil-segunda-mano-1413502'>Este es mi truco infalible para evitar estafas con la batería al comprar un móvil de segunda mano</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/truco-evitar-estafas-comprar-movil-segunda-mano-1413502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-no-me-timen-bateria-comprar-movil-segunda-mano-4252569.jpg?tf=1200x' alt='Este es mi truco infalible para evitar estafas con la batería al comprar un móvil de segunda mano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-revienta-aliexpress-vende-cascos-cancelacion-ruido-precio-ridiculo-25-euros-1419312'>Xiaomi revienta AliExpress: vende unos cascos con cancelación de ruido a precio ridículo, por 25 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-revienta-aliexpress-vende-cascos-cancelacion-ruido-precio-ridiculo-25-euros-1419312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/xiaomi-redmi-buds-4-pro-2990078.jpg?tf=1200x' alt='Xiaomi revienta AliExpress: vende unos cascos con cancelación de ruido a precio ridículo, por 25 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/popular-extension-chrome-haciendo-navegacion-inservible-1419315'>La popular extensión para Chrome que está haciendo la navegación inservible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/popular-extension-chrome-haciendo-navegacion-inservible-1419315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-google-chrome-4262783.jpg?tf=1200x' alt='La popular extensión para Chrome que está haciendo la navegación inservible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/10-mejores-sistemas-operativos-puedes-instalar-raspberry-pi-1417682'>Los 10 mejores sistemas operativos que puedes instalar en una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/10-mejores-sistemas-operativos-puedes-instalar-raspberry-pi-1417682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sistemas-raspberry-pi-4259787.jpg?tf=1200x' alt='Los 10 mejores sistemas operativos que puedes instalar en una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/vas-recibir-menos-actualizaciones-windows-11-windows-10-mes-diciembre-razon-1419270'>Vas a recibir menos actualizaciones de Windows 11 y Windows 10 en el mes de diciembre por esta razón</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/vas-recibir-menos-actualizaciones-windows-11-windows-10-mes-diciembre-razon-1419270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizaciones-windows-4262722.jpg?tf=1200x' alt='Vas a recibir menos actualizaciones de Windows 11 y Windows 10 en el mes de diciembre por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-casi-cualquier-ordenador-no-compatible-1417589'>Cómo instalar Windows 11 en (casi) cualquier ordenador no compatible</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-casi-cualquier-ordenador-no-compatible-1417589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instalar-windows-11-pc-4259489.jpg?tf=1200x' alt='Cómo instalar Windows 11 en (casi) cualquier ordenador no compatible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/brecha-digital-ensancha-hiperdigitalizacion-te-va-dejar-atras-tienes-50-anos-1416941'>La brecha digital se ensancha: la hiperdigitalización te va a dejar atrás si tienes más de 50 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/brecha-digital-ensancha-hiperdigitalizacion-te-va-dejar-atras-tienes-50-anos-1416941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/brecha-digital-ensancha-4258817.jpg?tf=1200x' alt='La brecha digital se ensancha: la hiperdigitalización te va a dejar atrás si tienes más de 50 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-ia-realmente-salvar-planeta-empeorando-problema-intenta-resolver-datos-hablan-solos-1416940'>¿Puede la IA realmente salvar el planeta o está empeorando el problema que intenta resolver? Los datos hablan por sí solos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/puede-ia-realmente-salvar-planeta-empeorando-problema-intenta-resolver-datos-hablan-solos-1416940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/medio-ambiente-ia-4258815.jpg?tf=1200x' alt='¿Puede la IA realmente salvar el planeta o está empeorando el problema que intenta resolver? Los datos hablan por sí solos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-1419276'>Los relojes de Casio cumplen 50 años y lo celebra con su primer anillo inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-1419276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-4262728.jpg?tf=1200x' alt='Los relojes de Casio cumplen 50 años y lo celebra con su primer anillo inteligente' />
     </a>
 </div>
 
