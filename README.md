@@ -50,22 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-1419276'>Los relojes de Casio cumplen 50 años y lo celebra con su primer anillo inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-1419276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-4262728.jpg?tf=1200x' alt='Los relojes de Casio cumplen 50 años y lo celebra con su primer anillo inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-compartir-demasiado-internet-redes-sociales-puede-ser-gran-error-1414539'>¿Qué es spear phishing y por qué compartir demasiado en Internet o redes sociales puede ser un gran error?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-compartir-demasiado-internet-redes-sociales-puede-ser-gran-error-1414539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731656227874-4261961.jpg?tf=1200x' alt='¿Qué es spear phishing y por qué compartir demasiado en Internet o redes sociales puede ser un gran error?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/soy-experto-tecnologia-me-preocupa-privacidad-te-doy-9-consejos-te-ocurre-mismo-1416586'>Soy experto en tecnología y me preocupa la privacidad, te doy 9 consejos si te ocurre lo mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/soy-experto-tecnologia-me-preocupa-privacidad-te-doy-9-consejos-te-ocurre-mismo-1416586' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/contrasenas-redes-sociales-privacidad-instagram-4258176.jpg?tf=1200x' alt='Soy experto en tecnología y me preocupa la privacidad, te doy 9 consejos si te ocurre lo mismo' />
@@ -85,6 +69,22 @@
     <h4><a href='https://computerhoy.20minutos.es/android/quieres-seguridad-android-simplemente-activa-proteccion-oculta-1418523'> ¿Quieres más seguridad en Android? Simplemente activa esta protección oculta</a></h4>
     <a href='https://computerhoy.20minutos.es/android/quieres-seguridad-android-simplemente-activa-proteccion-oculta-1418523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/quieres-seguridad-android-simplemente-activa-proteccion-oculta-4261037.jpg?tf=1200x' alt=' ¿Quieres más seguridad en Android? Simplemente activa esta protección oculta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-app-gratis-android-auto-conquistando-conductores-1418859'>Ni Google Maps ni Waze, esta app gratis para Android Auto está conquistando a los conductores</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-waze-app-gratis-android-auto-conquistando-conductores-1418859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-google-maps-ni-waze-app-gratis-android-auto-conquistando-conductores-4261619.jpg?tf=1200x' alt='Ni Google Maps ni Waze, esta app gratis para Android Auto está conquistando a los conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/edito-fotos-ia-como-mejorar-imagenes-usando-herramientas-gratis-inteligencia-artificial-1418493'>Así edito mis fotos con IA: cómo mejorar tus imágenes usando herramientas gratis de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/edito-fotos-ia-como-mejorar-imagenes-usando-herramientas-gratis-inteligencia-artificial-1418493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/editar-fotos-ia-4262289.jpg?tf=1200x' alt='Así edito mis fotos con IA: cómo mejorar tus imágenes usando herramientas gratis de inteligencia artificial' />
     </a>
 </div>
 
