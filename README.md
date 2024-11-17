@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356'>Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/machacan-redes-anuncio-navideno-coca-cola-creado-ia-4262870.jpg?tf=1200x' alt='Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/fontanero-error-purgar-radiadores-calefaccion-1410118'>Un fontanero advierte del grave error al purgar los radiadores de la calefacción: calentarán mal todo el invierno</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/fontanero-error-purgar-radiadores-calefaccion-1410118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gotera-techo-4262393.jpg?tf=1200x' alt='Un fontanero advierte del grave error al purgar los radiadores de la calefacción: calentarán mal todo el invierno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/significado-senal-trafico-dgt-p33-1409128'>Ni viento ni nieve, el 75% de los conductores desconocen el significado de esta señal de tráfico</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/significado-senal-trafico-dgt-p33-1409128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-4245220.jpg?tf=1200x' alt='Ni viento ni nieve, el 75% de los conductores desconocen el significado de esta señal de tráfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/controvertido-cambio-youtube-google-acaba-arrepentirse-1419320'>El controvertido cambio en YouTube del que Google acaba de arrepentirse</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/controvertido-cambio-youtube-google-acaba-arrepentirse-1419320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-4262789.jpg?tf=1200x' alt='El controvertido cambio en YouTube del que Google acaba de arrepentirse' />
     </a>
 </div>
 
