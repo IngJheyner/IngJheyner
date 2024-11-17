@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/vas-recibir-menos-actualizaciones-windows-11-windows-10-mes-diciembre-razon-1419270'>Vas a recibir menos actualizaciones de Windows 11 y Windows 10 en el mes de diciembre por esta razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/vas-recibir-menos-actualizaciones-windows-11-windows-10-mes-diciembre-razon-1419270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizaciones-windows-4262722.jpg?tf=1200x' alt='Vas a recibir menos actualizaciones de Windows 11 y Windows 10 en el mes de diciembre por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-casi-cualquier-ordenador-no-compatible-1417589'>Cómo instalar Windows 11 en (casi) cualquier ordenador no compatible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-casi-cualquier-ordenador-no-compatible-1417589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instalar-windows-11-pc-4259489.jpg?tf=1200x' alt='Cómo instalar Windows 11 en (casi) cualquier ordenador no compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/brecha-digital-ensancha-hiperdigitalizacion-te-va-dejar-atras-tienes-50-anos-1416941'>La brecha digital se ensancha: la hiperdigitalización te va a dejar atrás si tienes más de 50 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/brecha-digital-ensancha-hiperdigitalizacion-te-va-dejar-atras-tienes-50-anos-1416941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/brecha-digital-ensancha-4258817.jpg?tf=1200x' alt='La brecha digital se ensancha: la hiperdigitalización te va a dejar atrás si tienes más de 50 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-1419276'>Los relojes de Casio cumplen 50 años y lo celebra con su primer anillo inteligente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-1419276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/relojes-casio-cumplen-50-anos-celebra-primer-anillo-inteligente-4262728.jpg?tf=1200x' alt='Los relojes de Casio cumplen 50 años y lo celebra con su primer anillo inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-compartir-demasiado-internet-redes-sociales-puede-ser-gran-error-1414539'>¿Qué es spear phishing y por qué compartir demasiado en Internet o redes sociales puede ser un gran error?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-compartir-demasiado-internet-redes-sociales-puede-ser-gran-error-1414539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731656227874-4261961.jpg?tf=1200x' alt='¿Qué es spear phishing y por qué compartir demasiado en Internet o redes sociales puede ser un gran error?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/soy-experto-tecnologia-me-preocupa-privacidad-te-doy-9-consejos-te-ocurre-mismo-1416586'>Soy experto en tecnología y me preocupa la privacidad, te doy 9 consejos si te ocurre lo mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/soy-experto-tecnologia-me-preocupa-privacidad-te-doy-9-consejos-te-ocurre-mismo-1416586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/contrasenas-redes-sociales-privacidad-instagram-4258176.jpg?tf=1200x' alt='Soy experto en tecnología y me preocupa la privacidad, te doy 9 consejos si te ocurre lo mismo' />
     </a>
 </div>
 
