@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-vaticano-gemelo-digital-basilica-san-pedro-inteligencia-artificial-1419364'>Microsoft y el Vaticano crean un gemelo digital de la Basílica de San Pedro, usando IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-vaticano-gemelo-digital-basilica-san-pedro-inteligencia-artificial-1419364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731874319019-4262905.jpg?tf=1200x' alt='Microsoft y el Vaticano crean un gemelo digital de la Basílica de San Pedro, usando IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361'>WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/wifi-8-develado-cambio-radical-objetivos-respecto-wifi-7-4262889.jpg?tf=1200x' alt='WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-disponible-primera-actualizacion-google-tv-streamer-no-esperabas-1419325'>Ya está disponible la primera actualización para Google TV Streamer: no es lo que esperabas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-disponible-primera-actualizacion-google-tv-streamer-no-esperabas-1419325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='Ya está disponible la primera actualización para Google TV Streamer: no es lo que esperabas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-da-susto-ultima-actualizacion-final-servicio-windows-11-23h2-1419271'>Microsoft te da un susto con la última actualización sobre "el final de servicio" de Windows 11 23H2</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-te-da-susto-ultima-actualizacion-final-servicio-windows-11-23h2-1419271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-11-4262723.jpg?tf=1200x' alt='Microsoft te da un susto con la última actualización sobre "el final de servicio" de Windows 11 23H2' />
     </a>
 </div>
 
