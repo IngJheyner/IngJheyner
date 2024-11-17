@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/significado-senal-trafico-dgt-p33-1409128'>Ni viento ni nieve, el 75% de los conductores desconocen el significado de esta señal de tráfico</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/significado-senal-trafico-dgt-p33-1409128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ni-viento-ni-tuneles-75-conductores-desconocen-significado-senal-trafico-4245220.jpg?tf=1200x' alt='Ni viento ni nieve, el 75% de los conductores desconocen el significado de esta señal de tráfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/controvertido-cambio-youtube-google-acaba-arrepentirse-1419320'>El controvertido cambio en YouTube del que Google acaba de arrepentirse</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/controvertido-cambio-youtube-google-acaba-arrepentirse-1419320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/youtube-4262789.jpg?tf=1200x' alt='El controvertido cambio en YouTube del que Google acaba de arrepentirse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/truco-evitar-estafas-comprar-movil-segunda-mano-1413502'>Este es mi truco infalible para evitar estafas con la batería al comprar un móvil de segunda mano</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/truco-evitar-estafas-comprar-movil-segunda-mano-1413502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mi-truco-no-me-timen-bateria-comprar-movil-segunda-mano-4252569.jpg?tf=1200x' alt='Este es mi truco infalible para evitar estafas con la batería al comprar un móvil de segunda mano' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/popular-extension-chrome-haciendo-navegacion-inservible-1419315'>La popular extensión para Chrome que está haciendo la navegación inservible</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/popular-extension-chrome-haciendo-navegacion-inservible-1419315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-google-chrome-4262783.jpg?tf=1200x' alt='La popular extensión para Chrome que está haciendo la navegación inservible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/10-mejores-sistemas-operativos-puedes-instalar-raspberry-pi-1417682'>Los 10 mejores sistemas operativos que puedes instalar en una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/10-mejores-sistemas-operativos-puedes-instalar-raspberry-pi-1417682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sistemas-raspberry-pi-4259787.jpg?tf=1200x' alt='Los 10 mejores sistemas operativos que puedes instalar en una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/vas-recibir-menos-actualizaciones-windows-11-windows-10-mes-diciembre-razon-1419270'>Vas a recibir menos actualizaciones de Windows 11 y Windows 10 en el mes de diciembre por esta razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/vas-recibir-menos-actualizaciones-windows-11-windows-10-mes-diciembre-razon-1419270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizaciones-windows-4262722.jpg?tf=1200x' alt='Vas a recibir menos actualizaciones de Windows 11 y Windows 10 en el mes de diciembre por esta razón' />
     </a>
 </div>
 
