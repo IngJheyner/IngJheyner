@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/tesoro-villena-alicante-tiene-origen-extraterrestre-1419369'>El Tesoro de Villena, en Alicante, tiene origen extraterrestre</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/tesoro-villena-alicante-tiene-origen-extraterrestre-1419369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesoro-villena-alicante-tiene-origen-extraterrestre-4262909.jpg?tf=1200x' alt='El Tesoro de Villena, en Alicante, tiene origen extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/ia-google-gemini-pide-usuario-muera-despues-humillarle-1419366'>La IA Google Gemini le pide a un usuario que se muera, después de humillarle</a></h4>
     <a href='https://computerhoy.20minutos.es/google/ia-google-gemini-pide-usuario-muera-despues-humillarle-1419366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-google-gemini-pide-usuario-muera-4262908.jpg?tf=1200x' alt='La IA Google Gemini le pide a un usuario que se muera, después de humillarle' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356'>Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/machacan-redes-anuncio-navideno-coca-cola-creado-ia-4262870.jpg?tf=1200x' alt='Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/fontanero-error-purgar-radiadores-calefaccion-1410118'>Un fontanero advierte del grave error al purgar los radiadores de la calefacción: calentarán mal todo el invierno</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/fontanero-error-purgar-radiadores-calefaccion-1410118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gotera-techo-4262393.jpg?tf=1200x' alt='Un fontanero advierte del grave error al purgar los radiadores de la calefacción: calentarán mal todo el invierno' />
     </a>
 </div>
 
