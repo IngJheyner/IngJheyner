@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/misiles-atacms-cual-distancia-maxima-puede-alcanzar-nuevo-arma-ejercito-ucraniano-1419648'>Misiles ATACMS: cuál es la distancia máxima que puede alcanzar el nuevo arma del ejército ucraniano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/misiles-atacms-cual-distancia-maxima-puede-alcanzar-nuevo-arma-ejercito-ucraniano-1419648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atacms-4263315.jpg?tf=1200x' alt='Misiles ATACMS: cuál es la distancia máxima que puede alcanzar el nuevo arma del ejército ucraniano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-paso-anadir-funcion-pedida-usuarios-toda-historia-1419643'>Google Maps a un paso de añadir la función más pedida por los usuarios de toda su historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-paso-anadir-funcion-pedida-usuarios-toda-historia-1419643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-rutas-camiones-4263305.jpg?tf=1200x' alt='Google Maps a un paso de añadir la función más pedida por los usuarios de toda su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/error-iphone-provocando-gente-escuche-voces-misteriosas-1419640'>Un error en el iPhone está provocando que la gente escuche voces misteriosas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/error-iphone-provocando-gente-escuche-voces-misteriosas-1419640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-iphone-provocando-gente-escuche-voces-misteriosas-4263301.jpg?tf=1200x' alt='Un error en el iPhone está provocando que la gente escuche voces misteriosas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-cual-programa-gasta-bateria-portatil-windows-1419346'>Cómo saber cuál es el programa que más gasta batería de tu portátil con Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-cual-programa-gasta-bateria-portatil-windows-1419346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-windows-4262899.jpg?tf=1200x' alt='Cómo saber cuál es el programa que más gasta batería de tu portátil con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-limite-velocidad-fps-juegos-android-1419521'>Cómo desactivar el límite de velocidad de FPS para los juegos de Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-limite-velocidad-fps-juegos-android-1419521' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/videojuegos-android-4263114.jpg?tf=1200x' alt='Cómo desactivar el límite de velocidad de FPS para los juegos de Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/despues-exito-dune-warner-quiere-ahora-remake-pelicula-inspiro-star-wars-star-trek-1419550'>Después del éxito de Dune, Warner quiere ahora un remake de la película que inspiró Star Wars y Star Trek</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/despues-exito-dune-warner-quiere-ahora-remake-pelicula-inspiro-star-wars-star-trek-1419550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/despues-exito-dune-warner-quiere-ahora-remake-pelicula-inspiro-star-wars-star-trek-4263149.jpg?tf=1200x' alt='Después del éxito de Dune, Warner quiere ahora un remake de la película que inspiró Star Wars y Star Trek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/codigo-secreto-android-app-movil-permiso-1414146'>*#*#4636#*#*: con este código podrás comprobar si han accedido a una app de tu móvil sin tu permiso</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/codigo-secreto-android-app-movil-permiso-1414146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/codigo-secreto-4636-android-4263238.jpg?tf=1200x' alt='*#*#4636#*#*: con este código podrás comprobar si han accedido a una app de tu móvil sin tu permiso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nuevo-hallazgo-fision-nuclear-predicen-momento-exacto-ruptura-nucleo-1419469'>Nuevo hallazgo sobre la fisión nuclear: predicen el momento exacto de la ruptura del núcleo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nuevo-hallazgo-fision-nuclear-predicen-momento-exacto-ruptura-nucleo-1419469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fision-nuclear-4263041.jpg?tf=1200x' alt='Nuevo hallazgo sobre la fisión nuclear: predicen el momento exacto de la ruptura del núcleo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-1419335'>Ni Fallout ni Like a Dragon: esta es la serie de Amazon Prime Video que ningún amante de los videojuegos debería perderse</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-1419335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-4262809.jpg?tf=1200x' alt='Ni Fallout ni Like a Dragon: esta es la serie de Amazon Prime Video que ningún amante de los videojuegos debería perderse' />
     </a>
 </div>
 
