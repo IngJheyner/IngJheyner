@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acuerdo-oculto-permite-amd-bloquear-compra-intel-cualquier-otra-empresa-1419662'>Un acuerdo oculto permite a AMD bloquear la compra de Intel por cualquier otra empresa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acuerdo-oculto-permite-amd-bloquear-compra-intel-cualquier-otra-empresa-1419662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lisa-ceo-amd-2157877.jpg?tf=1200x' alt='Un acuerdo oculto permite a AMD bloquear la compra de Intel por cualquier otra empresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/misiles-atacms-cual-distancia-maxima-puede-alcanzar-nuevo-arma-ejercito-ucraniano-1419648'>Misiles ATACMS: cuál es la distancia máxima que puede alcanzar el nuevo arma del ejército ucraniano</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/misiles-atacms-cual-distancia-maxima-puede-alcanzar-nuevo-arma-ejercito-ucraniano-1419648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atacms-4263315.jpg?tf=1200x' alt='Misiles ATACMS: cuál es la distancia máxima que puede alcanzar el nuevo arma del ejército ucraniano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-cual-programa-gasta-bateria-portatil-windows-1419346'>Cómo saber cuál es el programa que más gasta batería de tu portátil con Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-cual-programa-gasta-bateria-portatil-windows-1419346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-windows-4262899.jpg?tf=1200x' alt='Cómo saber cuál es el programa que más gasta batería de tu portátil con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-limite-velocidad-fps-juegos-android-1419521'>Cómo desactivar el límite de velocidad de FPS para los juegos de Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-limite-velocidad-fps-juegos-android-1419521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/videojuegos-android-4263114.jpg?tf=1200x' alt='Cómo desactivar el límite de velocidad de FPS para los juegos de Android' />
     </a>
 </div>
 
