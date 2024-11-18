@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/5-sintomas-ordenador-indican-tiene-malware-1419422'>5 síntomas de tu ordenador que indican que tiene malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/5-sintomas-ordenador-indican-tiene-malware-1419422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-malware-ordenador-3693845.jpg?tf=1200x' alt='5 síntomas de tu ordenador que indican que tiene malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/funcion-oculta-liberar-espacio-google-fotos-borrar-nada-1418588'>La función oculta que lo cambia todo: ¿cómo liberar espacio en Google Fotos sin borrar nada?</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/funcion-oculta-liberar-espacio-google-fotos-borrar-nada-1418588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-4262987.jpg?tf=1200x' alt='La función oculta que lo cambia todo: ¿cómo liberar espacio en Google Fotos sin borrar nada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/mercadona-ariel-mejor-detergente-lavadora-reputado-quimico-1419087'>Ni Mercadona ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico</a></h4>
     <a href='https://computerhoy.20minutos.es/life/mercadona-ariel-mejor-detergente-lavadora-reputado-quimico-1419087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/detergente-bosque-verde-mercadona-4262983.jpg?tf=1200x' alt='Ni Mercadona ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-aviso-usuarios-iptv-1410428'>Adiós a Cristal Azul en KODI y sus responsables avisan: “si usas IPTV, la cosa se está poniendo fea”</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-aviso-usuarios-iptv-1410428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cristal-azul-kodi-4262963.jpg?tf=1200x' alt='Adiós a Cristal Azul en KODI y sus responsables avisan: “si usas IPTV, la cosa se está poniendo fea”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/triangulo-trump-musk-cook-como-apple-buscara-tener-beneficios-fiscales-1419406'>El triángulo de Trump, Musk y Cook: cómo Apple buscará tener más beneficios fiscales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/triangulo-trump-musk-cook-como-apple-buscara-tener-beneficios-fiscales-1419406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/empresario-elon-musk-presidente-electo-eeuu-donald-trump-foto-archivo-pensilvania-4260810.jpg?tf=1200x' alt='El triángulo de Trump, Musk y Cook: cómo Apple buscará tener más beneficios fiscales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-google-pixel-moviles-potentes-xiaomi-pone-amazon-patas-arriba-alcanza-precio-1419324'>Ni iPhone ni Google Pixel: uno de los móviles más potentes de Xiaomi pone Amazon patas arriba y alcanza su precio más bajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-google-pixel-moviles-potentes-xiaomi-pone-amazon-patas-arriba-alcanza-precio-1419324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-14t-4262788.jpg?tf=1200x' alt='Ni iPhone ni Google Pixel: uno de los móviles más potentes de Xiaomi pone Amazon patas arriba y alcanza su precio más bajo' />
     </a>
 </div>
 
