@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669'>La IA de las gafas Ray-Ban de Meta llega a España, pero falta su mejor función</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='La IA de las gafas Ray-Ban de Meta llega a España, pero falta su mejor función' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/acuerdo-oculto-permite-amd-bloquear-compra-intel-cualquier-otra-empresa-1419662'>Un acuerdo oculto permite a AMD bloquear la compra de Intel por cualquier otra empresa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/acuerdo-oculto-permite-amd-bloquear-compra-intel-cualquier-otra-empresa-1419662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lisa-ceo-amd-2157877.jpg?tf=1200x' alt='Un acuerdo oculto permite a AMD bloquear la compra de Intel por cualquier otra empresa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/error-iphone-provocando-gente-escuche-voces-misteriosas-1419640'>Un error en el iPhone está provocando que la gente escuche voces misteriosas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/error-iphone-provocando-gente-escuche-voces-misteriosas-1419640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-iphone-provocando-gente-escuche-voces-misteriosas-4263301.jpg?tf=1200x' alt='Un error en el iPhone está provocando que la gente escuche voces misteriosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-cual-programa-gasta-bateria-portatil-windows-1419346'>Cómo saber cuál es el programa que más gasta batería de tu portátil con Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-cual-programa-gasta-bateria-portatil-windows-1419346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-windows-4262899.jpg?tf=1200x' alt='Cómo saber cuál es el programa que más gasta batería de tu portátil con Windows' />
     </a>
 </div>
 
