@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-1418884'>Fue despedida hasta 5 veces por Steve Jobs y sorprendentemente no le guarda ningún rencor: "estaré siempre agradecida"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-1418884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-4261649.jpg?tf=1200x' alt='Fue despedida hasta 5 veces por Steve Jobs y sorprendentemente no le guarda ningún rencor: "estaré siempre agradecida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/experto-me-enseno-truco-infalible-mi-pc-vuelva-funcionar-como-primer-dia-reinstalar-nada-1418835'>Un experto me enseñó este truco, es infalible para que mi PC vuelva a funcionar como el primer día sin reinstalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/experto-me-enseno-truco-infalible-mi-pc-vuelva-funcionar-como-primer-dia-reinstalar-nada-1418835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-me-enseno-truco-infalible-mi-pc-vuelva-funcionar-como-primer-dia-reinstalar-nada-4261586.jpg?tf=1200x' alt='Un experto me enseñó este truco, es infalible para que mi PC vuelva a funcionar como el primer día sin reinstalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/puede-raspberry-pi-hacer-mismas-funciones-mini-pc-1418345'>¿Puede una Raspberry Pi hacer las mismas funciones que un Mini PC?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/puede-raspberry-pi-hacer-mismas-funciones-mini-pc-1418345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/puede-raspberry-pi-hacer-mismas-funciones-mini-pc-4260726.jpg?tf=1200x' alt='¿Puede una Raspberry Pi hacer las mismas funciones que un Mini PC?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-tienes-verificar-siempre-compres-productos-tecnologicos-reacondicionados-1417211'>7 cosas que tienes que verificar siempre que compres productos tecnológicos reacondicionados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-tienes-verificar-siempre-compres-productos-tecnologicos-reacondicionados-1417211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/7-cosas-tienes-verificar-siempre-compres-productos-tecnologicos-reacondicionados-4258956.jpg?tf=1200x' alt='7 cosas que tienes que verificar siempre que compres productos tecnológicos reacondicionados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nordvpn-rebajas-mes-black-friday-1408223'>NordVPN está de rebajas: cuesta un 74% menos y calienta el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nordvpn-rebajas-mes-black-friday-1408223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-4189252.jpg?tf=1200x' alt='NordVPN está de rebajas: cuesta un 74% menos y calienta el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/tesoro-villena-alicante-tiene-origen-extraterrestre-1419369'>El Tesoro de Villena, en Alicante, tiene origen extraterrestre</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/tesoro-villena-alicante-tiene-origen-extraterrestre-1419369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesoro-villena-alicante-tiene-origen-extraterrestre-4262909.jpg?tf=1200x' alt='El Tesoro de Villena, en Alicante, tiene origen extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ia-google-gemini-pide-usuario-muera-despues-humillarle-1419366'>La IA Google Gemini le pide a un usuario que se muera, después de humillarle</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ia-google-gemini-pide-usuario-muera-despues-humillarle-1419366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-google-gemini-pide-usuario-muera-4262908.jpg?tf=1200x' alt='La IA Google Gemini le pide a un usuario que se muera, después de humillarle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-vaticano-gemelo-digital-basilica-san-pedro-inteligencia-artificial-1419364'>Microsoft y el Vaticano crean un gemelo digital de la Basílica de San Pedro, usando IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-vaticano-gemelo-digital-basilica-san-pedro-inteligencia-artificial-1419364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1731874319019-4262905.jpg?tf=1200x' alt='Microsoft y el Vaticano crean un gemelo digital de la Basílica de San Pedro, usando IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361'>WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/wifi-8-develado-cambio-radical-objetivos-respecto-wifi-7-4262889.jpg?tf=1200x' alt='WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7' />
     </a>
 </div>
 
