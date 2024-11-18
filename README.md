@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/banco-santander-te-regala-iphone-16-gratis-solo-cumplir-estos-requisitos-1419438'>Banco Santander te regala un iPhone 16 gratis solo por cumplir estos requisitos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/banco-santander-te-regala-iphone-16-gratis-solo-cumplir-estos-requisitos-1419438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/banco-santander-te-regala-iphone-16-gratis-solo-cumplir-estos-requisitos-4262985.jpg?tf=1200x' alt='Banco Santander te regala un iPhone 16 gratis solo por cumplir estos requisitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-misiles-atacms-largo-alcance-ucrania-atacara-rusia-brutal-impacto-guerra-1419490'>Qué son los misiles ATACMS de largo alcance con los que Ucrania atacará Rusia y su brutal impacto en la guerra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/son-misiles-atacms-largo-alcance-ucrania-atacara-rusia-brutal-impacto-guerra-1419490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/misil-atacms-4263065.jpg?tf=1200x' alt='Qué son los misiles ATACMS de largo alcance con los que Ucrania atacará Rusia y su brutal impacto en la guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/revisa-movil-android-ahora-mismo-estas-populares-apps-estan-grabando-todo-dices-1419413'>Revisa tu móvil Android ahora mismo: estas populares apps están grabando todo lo que dices</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/revisa-movil-android-ahora-mismo-estas-populares-apps-estan-grabando-todo-dices-1419413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/revisa-movil-android-ahora-mismo-estas-populares-apps-estan-grabando-todo-dices-4262962.jpg?tf=1200x' alt='Revisa tu móvil Android ahora mismo: estas populares apps están grabando todo lo que dices' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-prepara-openai-tan-gordo-parece-ciencia-ficcion-1419443'>Ni ChatGPT ni Gemini, lo que prepara OpenAI es tan gordo que parece ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-prepara-openai-tan-gordo-parece-ciencia-ficcion-1419443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-programacion-3948647.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini, lo que prepara OpenAI es tan gordo que parece ciencia ficción' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/amazon-no-espera-black-friday-deja-macbook-air-precio-historico-jamas-visto-1419398'>Amazon no espera al Black Friday y deja el MacBook Air a precio histórico jamás visto</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/amazon-no-espera-black-friday-deja-macbook-air-precio-historico-jamas-visto-1419398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779329.jpg?tf=1200x' alt='Amazon no espera al Black Friday y deja el MacBook Air a precio histórico jamás visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-tendra-gran-cambio-pantalla-principal-1419477'>Tu Fire TV Stick tendrá un gran cambio en su pantalla principal</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-tendra-gran-cambio-pantalla-principal-1419477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Tu Fire TV Stick tendrá un gran cambio en su pantalla principal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-gadgets-apple-adaptador-lightning-auriculares-despide-1419464'>Adiós a uno de los gadgets de Apple: el adaptador Lightning para auriculares se despide</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-gadgets-apple-adaptador-lightning-auriculares-despide-1419464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-adaptador-lightning-4262976.jpg?tf=1200x' alt='Adiós a uno de los gadgets de Apple: el adaptador Lightning para auriculares se despide' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/5-sintomas-ordenador-indican-tiene-malware-1419422'>5 síntomas de tu ordenador que indican que tiene malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/5-sintomas-ordenador-indican-tiene-malware-1419422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-malware-ordenador-3693845.jpg?tf=1200x' alt='5 síntomas de tu ordenador que indican que tiene malware' />
     </a>
 </div>
 
