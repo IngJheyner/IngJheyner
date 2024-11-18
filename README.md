@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/codigo-secreto-android-app-movil-permiso-1414146'>*#*#4636#*#*: con este código podrás comprobar si han accedido a una app de tu móvil sin tu permiso</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/codigo-secreto-android-app-movil-permiso-1414146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/codigo-secreto-4636-android-4263238.jpg?tf=1200x' alt='*#*#4636#*#*: con este código podrás comprobar si han accedido a una app de tu móvil sin tu permiso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nuevo-hallazgo-fision-nuclear-predicen-momento-exacto-ruptura-nucleo-1419469'>Nuevo hallazgo sobre la fisión nuclear: predicen el momento exacto de la ruptura del núcleo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nuevo-hallazgo-fision-nuclear-predicen-momento-exacto-ruptura-nucleo-1419469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fision-nuclear-4263041.jpg?tf=1200x' alt='Nuevo hallazgo sobre la fisión nuclear: predicen el momento exacto de la ruptura del núcleo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-1419335'>Ni Fallout ni Like a Dragon: esta es la serie de Amazon Prime Video que ningún amante de los videojuegos debería perderse</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-1419335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-4262809.jpg?tf=1200x' alt='Ni Fallout ni Like a Dragon: esta es la serie de Amazon Prime Video que ningún amante de los videojuegos debería perderse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-mejor-app-windows-historia-1412427'>Steve Jobs no tenía ninguna duda: “es la mejor aplicación para Windows jamás escrita”</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-mejor-app-windows-historia-1412427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-4250815.jpg?tf=1200x' alt='Steve Jobs no tenía ninguna duda: “es la mejor aplicación para Windows jamás escrita”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-ofertas-cecotec-no-esperan-black-friday-puedes-aprovechar-ya-1419352'>5 ofertas de Cecotec que no esperan al Black Friday y puedes aprovechar ya</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/5-ofertas-cecotec-no-esperan-black-friday-puedes-aprovechar-ya-1419352' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conga-rockstar-11500-odyssey-ergowet-connected-ia-4262869.jpg?tf=1200x' alt='5 ofertas de Cecotec que no esperan al Black Friday y puedes aprovechar ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ia-numero-gordo-loteria-navidad-2024-1417919'>Ni bonito ni deseado, este es el número de la Lotería de Navidad 2024 que jugaría ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ia-numero-gordo-loteria-navidad-2024-1417919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/loteria-navidad-4263163.jpg?tf=1200x' alt='Ni bonito ni deseado, este es el número de la Lotería de Navidad 2024 que jugaría ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/adios-x-hola-bluesky-como-dar-salto-nuevo-twitter-fuera-garras-elon-musk-1419534'>Adiós X, hola Bluesky: cómo dar el salto al nuevo Twitter fuera de las garras de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/adios-x-hola-bluesky-como-dar-salto-nuevo-twitter-fuera-garras-elon-musk-1419534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-x-hola-bluesky-como-dar-salto-nuevo-twitter-fuera-garras-elon-musk-4263210.jpg?tf=1200x' alt='Adiós X, hola Bluesky: cómo dar el salto al nuevo Twitter fuera de las garras de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-nomofobia-movil-te-avisara-pasas-mucho-tiempo-usando-app-1419509'>Adiós a la nomofobia: tu móvil te avisará si pasas mucho tiempo usando una app</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-nomofobia-movil-te-avisara-pasas-mucho-tiempo-usando-app-1419509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-nomofobia-movil-te-avisara-pasas-mucho-tiempo-usando-app-4263102.jpg?tf=1200x' alt='Adiós a la nomofobia: tu móvil te avisará si pasas mucho tiempo usando una app' />
     </a>
 </div>
 
