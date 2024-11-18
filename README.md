@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/mercadona-ariel-mejor-detergente-lavadora-reputado-quimico-1419087'>Ni Mercadona ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/mercadona-ariel-mejor-detergente-lavadora-reputado-quimico-1419087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/detergente-bosque-verde-mercadona-4262983.jpg?tf=1200x' alt='Ni Mercadona ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peor-contrasena-puedes-usar-no-quieres-ser-hackeado-1419418'>Esta es la peor contraseña que puedes usar si no quieres ser hackeado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/peor-contrasena-puedes-usar-no-quieres-ser-hackeado-1419418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-4262452.jpg?tf=1200x' alt='Esta es la peor contraseña que puedes usar si no quieres ser hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-aviso-usuarios-iptv-1410428'>Adiós a Cristal Azul en KODI y sus responsables avisan: “si usas IPTV, la cosa se está poniendo fea”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-aviso-usuarios-iptv-1410428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cristal-azul-kodi-4262963.jpg?tf=1200x' alt='Adiós a Cristal Azul en KODI y sus responsables avisan: “si usas IPTV, la cosa se está poniendo fea”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/triangulo-trump-musk-cook-como-apple-buscara-tener-beneficios-fiscales-1419406'>El triángulo de Trump, Musk y Cook: cómo Apple buscará tener más beneficios fiscales</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/triangulo-trump-musk-cook-como-apple-buscara-tener-beneficios-fiscales-1419406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/empresario-elon-musk-presidente-electo-eeuu-donald-trump-foto-archivo-pensilvania-4260810.jpg?tf=1200x' alt='El triángulo de Trump, Musk y Cook: cómo Apple buscará tener más beneficios fiscales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-google-pixel-moviles-potentes-xiaomi-pone-amazon-patas-arriba-alcanza-precio-1419324'>Ni iPhone ni Google Pixel: uno de los móviles más potentes de Xiaomi pone Amazon patas arriba y alcanza su precio más bajo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-google-pixel-moviles-potentes-xiaomi-pone-amazon-patas-arriba-alcanza-precio-1419324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-14t-4262788.jpg?tf=1200x' alt='Ni iPhone ni Google Pixel: uno de los móviles más potentes de Xiaomi pone Amazon patas arriba y alcanza su precio más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-podria-lanzar-airtag-2-2025-todo-sabemos-ahora-1419402'>Apple podría lanzar el AirTag 2 en 2025: todo lo que sabemos hasta ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-podria-lanzar-airtag-2-2025-todo-sabemos-ahora-1419402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/airtag-apple-3252291.jpg?tf=1200x' alt='Apple podría lanzar el AirTag 2 en 2025: todo lo que sabemos hasta ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768'>Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-encantado-rediseno-mac-mini-chip-m4-tan-pequeno-tan-potente-cuesta-creerlo-1418121'>Me ha encantado el rediseño del Mac mini con chip M4, tan pequeño y tan potente, que cuesta creerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/me-ha-encantado-rediseno-mac-mini-chip-m4-tan-pequeno-tan-potente-cuesta-creerlo-1418121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-mac-mini-2024-4259660.jpg?tf=1200x' alt='Me ha encantado el rediseño del Mac mini con chip M4, tan pequeño y tan potente, que cuesta creerlo' />
     </a>
 </div>
 
