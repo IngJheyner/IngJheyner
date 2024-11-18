@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-gadgets-apple-adaptador-lightning-auriculares-despide-1419464'>Adiós a uno de los gadgets de Apple: el adaptador Lightning para auriculares se despide</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-gadgets-apple-adaptador-lightning-auriculares-despide-1419464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-adaptador-lightning-4262976.jpg?tf=1200x' alt='Adiós a uno de los gadgets de Apple: el adaptador Lightning para auriculares se despide' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/5-sintomas-ordenador-indican-tiene-malware-1419422'>5 síntomas de tu ordenador que indican que tiene malware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/5-sintomas-ordenador-indican-tiene-malware-1419422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/virus-malware-ordenador-3693845.jpg?tf=1200x' alt='5 síntomas de tu ordenador que indican que tiene malware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peor-contrasena-puedes-usar-no-quieres-ser-hackeado-1419418'>Esta es la peor contraseña que puedes usar si no quieres ser hackeado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/peor-contrasena-puedes-usar-no-quieres-ser-hackeado-1419418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-4262452.jpg?tf=1200x' alt='Esta es la peor contraseña que puedes usar si no quieres ser hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-aviso-usuarios-iptv-1410428'>Adiós a Cristal Azul en KODI y sus responsables avisan: “si usas IPTV, la cosa se está poniendo fea”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/cierra-cristal-azul-kodi-aviso-usuarios-iptv-1410428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cristal-azul-kodi-4262963.jpg?tf=1200x' alt='Adiós a Cristal Azul en KODI y sus responsables avisan: “si usas IPTV, la cosa se está poniendo fea”' />
     </a>
 </div>
 
