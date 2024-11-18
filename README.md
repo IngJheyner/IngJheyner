@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nordvpn-rebajas-mes-black-friday-1408223'>NordVPN está de rebajas: cuesta un 74% menos y calienta el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nordvpn-rebajas-mes-black-friday-1408223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nordvpn-4189252.jpg?tf=1200x' alt='NordVPN está de rebajas: cuesta un 74% menos y calienta el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/tesoro-villena-alicante-tiene-origen-extraterrestre-1419369'>El Tesoro de Villena, en Alicante, tiene origen extraterrestre</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/tesoro-villena-alicante-tiene-origen-extraterrestre-1419369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesoro-villena-alicante-tiene-origen-extraterrestre-4262909.jpg?tf=1200x' alt='El Tesoro de Villena, en Alicante, tiene origen extraterrestre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361'>WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/wifi-8-cambio-radical-objetivos-respecto-wifi-7-1419361' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/wifi-8-develado-cambio-radical-objetivos-respecto-wifi-7-4262889.jpg?tf=1200x' alt='WiFi 8 desvelado: un cambio radical de objetivos, con respecto a WiFi 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356'>Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/anuncio-navideno-coca-cola-creado-ia-1419356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/machacan-redes-anuncio-navideno-coca-cola-creado-ia-4262870.jpg?tf=1200x' alt='Machacan en redes el anuncio navideño de Coca Cola creado con IA, pero es el futuro' />
     </a>
 </div>
 
