@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/amazon-no-espera-black-friday-deja-macbook-air-precio-historico-jamas-visto-1419398'>Amazon no espera al Black Friday y deja el MacBook Air a precio histórico jamás visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/amazon-no-espera-black-friday-deja-macbook-air-precio-historico-jamas-visto-1419398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779329.jpg?tf=1200x' alt='Amazon no espera al Black Friday y deja el MacBook Air a precio histórico jamás visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-tendra-gran-cambio-pantalla-principal-1419477'>Tu Fire TV Stick tendrá un gran cambio en su pantalla principal</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-tendra-gran-cambio-pantalla-principal-1419477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Tu Fire TV Stick tendrá un gran cambio en su pantalla principal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/adios-gadgets-apple-adaptador-lightning-auriculares-despide-1419464'>Adiós a uno de los gadgets de Apple: el adaptador Lightning para auriculares se despide</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/adios-gadgets-apple-adaptador-lightning-auriculares-despide-1419464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-adaptador-lightning-4262976.jpg?tf=1200x' alt='Adiós a uno de los gadgets de Apple: el adaptador Lightning para auriculares se despide' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/funcion-oculta-liberar-espacio-google-fotos-borrar-nada-1418588'>La función oculta que lo cambia todo: ¿cómo liberar espacio en Google Fotos sin borrar nada?</a></h4>
     <a href='https://computerhoy.20minutos.es/google/funcion-oculta-liberar-espacio-google-fotos-borrar-nada-1418588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-4262987.jpg?tf=1200x' alt='La función oculta que lo cambia todo: ¿cómo liberar espacio en Google Fotos sin borrar nada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mercadona-ariel-mejor-detergente-lavadora-reputado-quimico-1419087'>Ni Mercadona ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mercadona-ariel-mejor-detergente-lavadora-reputado-quimico-1419087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/detergente-bosque-verde-mercadona-4262983.jpg?tf=1200x' alt='Ni Mercadona ni Ariel, este es el mejor detergente para tu lavadora según un reputado químico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peor-contrasena-puedes-usar-no-quieres-ser-hackeado-1419418'>Esta es la peor contraseña que puedes usar si no quieres ser hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/peor-contrasena-puedes-usar-no-quieres-ser-hackeado-1419418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-ciberseguridad-afirma-solo-necesita-segundo-descifrar-contrasena-utilizada-espana-4262452.jpg?tf=1200x' alt='Esta es la peor contraseña que puedes usar si no quieres ser hackeado' />
     </a>
 </div>
 
