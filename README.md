@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/elon-musk-apuros-google-ya-confia-bluesky-twitter-x-1419467'>Elon Musk en apuros, Google ya confía más en Bluesky que en Twitter (X)</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/elon-musk-apuros-google-ya-confia-bluesky-twitter-x-1419467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-apuros-google-ya-confia-bluesky-twitter-x-4263024.jpg?tf=1200x' alt='Elon Musk en apuros, Google ya confía más en Bluesky que en Twitter (X)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/banco-santander-te-regala-iphone-16-gratis-solo-cumplir-estos-requisitos-1419438'>Banco Santander te regala un iPhone 16 gratis solo por cumplir estos requisitos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/banco-santander-te-regala-iphone-16-gratis-solo-cumplir-estos-requisitos-1419438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/banco-santander-te-regala-iphone-16-gratis-solo-cumplir-estos-requisitos-4262985.jpg?tf=1200x' alt='Banco Santander te regala un iPhone 16 gratis solo por cumplir estos requisitos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-prepara-openai-tan-gordo-parece-ciencia-ficcion-1419443'>Ni ChatGPT ni Gemini, lo que prepara OpenAI es tan gordo que parece ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-prepara-openai-tan-gordo-parece-ciencia-ficcion-1419443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-programacion-3948647.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini, lo que prepara OpenAI es tan gordo que parece ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/amazon-no-espera-black-friday-deja-macbook-air-precio-historico-jamas-visto-1419398'>Amazon no espera al Black Friday y deja el MacBook Air a precio histórico jamás visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/amazon-no-espera-black-friday-deja-macbook-air-precio-historico-jamas-visto-1419398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779329.jpg?tf=1200x' alt='Amazon no espera al Black Friday y deja el MacBook Air a precio histórico jamás visto' />
     </a>
 </div>
 
