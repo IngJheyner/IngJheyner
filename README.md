@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-limite-velocidad-fps-juegos-android-1419521'>Cómo desactivar el límite de velocidad de FPS para los juegos de Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-limite-velocidad-fps-juegos-android-1419521' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/videojuegos-android-4263114.jpg?tf=1200x' alt='Cómo desactivar el límite de velocidad de FPS para los juegos de Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/despues-exito-dune-warner-quiere-ahora-remake-pelicula-inspiro-star-wars-star-trek-1419550'>Después del éxito de Dune, Warner quiere ahora un remake de la película que inspiró Star Wars y Star Trek</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/despues-exito-dune-warner-quiere-ahora-remake-pelicula-inspiro-star-wars-star-trek-1419550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/despues-exito-dune-warner-quiere-ahora-remake-pelicula-inspiro-star-wars-star-trek-4263149.jpg?tf=1200x' alt='Después del éxito de Dune, Warner quiere ahora un remake de la película que inspiró Star Wars y Star Trek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/codigo-secreto-android-app-movil-permiso-1414146'>*#*#4636#*#*: con este código podrás comprobar si han accedido a una app de tu móvil sin tu permiso</a></h4>
     <a href='https://computerhoy.20minutos.es/android/codigo-secreto-android-app-movil-permiso-1414146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/codigo-secreto-4636-android-4263238.jpg?tf=1200x' alt='*#*#4636#*#*: con este código podrás comprobar si han accedido a una app de tu móvil sin tu permiso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-1419335'>Ni Fallout ni Like a Dragon: esta es la serie de Amazon Prime Video que ningún amante de los videojuegos debería perderse</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-1419335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-fallout-ni-dragon-serie-amazon-prime-video-ningun-amante-videojuegos-deberia-perderse-4262809.jpg?tf=1200x' alt='Ni Fallout ni Like a Dragon: esta es la serie de Amazon Prime Video que ningún amante de los videojuegos debería perderse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-mejor-app-windows-historia-1412427'>Steve Jobs no tenía ninguna duda: “es la mejor aplicación para Windows jamás escrita”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-mejor-app-windows-historia-1412427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tenia-muy-claro-mejor-aplicacion-windows-jamas-escrita-4250815.jpg?tf=1200x' alt='Steve Jobs no tenía ninguna duda: “es la mejor aplicación para Windows jamás escrita”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-ofertas-cecotec-no-esperan-black-friday-puedes-aprovechar-ya-1419352'>5 ofertas de Cecotec que no esperan al Black Friday y puedes aprovechar ya</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-ofertas-cecotec-no-esperan-black-friday-puedes-aprovechar-ya-1419352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conga-rockstar-11500-odyssey-ergowet-connected-ia-4262869.jpg?tf=1200x' alt='5 ofertas de Cecotec que no esperan al Black Friday y puedes aprovechar ya' />
     </a>
 </div>
 
