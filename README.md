@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768'>Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-radiadores-ni-bomba-calor-invento-espanol-calienta-casa-rapido-consume-90-menos-1418768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/calefaccion-ahorro-3223466.jpg?tf=1200x' alt='Ni radiadores ni bomba de calor, este invento español calienta tu casa más rápido y consume un 90% menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/me-ha-encantado-rediseno-mac-mini-chip-m4-tan-pequeno-tan-potente-cuesta-creerlo-1418121'>Me ha encantado el rediseño del Mac mini con chip M4, tan pequeño y tan potente, que cuesta creerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/me-ha-encantado-rediseno-mac-mini-chip-m4-tan-pequeno-tan-potente-cuesta-creerlo-1418121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-mac-mini-2024-4259660.jpg?tf=1200x' alt='Me ha encantado el rediseño del Mac mini con chip M4, tan pequeño y tan potente, que cuesta creerlo' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-1418884'>Fue despedida hasta 5 veces por Steve Jobs y sorprendentemente no le guarda ningún rencor: "estaré siempre agradecida"</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/apple/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-1418884'>Fue despedida hasta 5 veces por Steve Jobs y sorprendentemente no le guarda ningún rencor: "Estaré siempre agradecida"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-1418884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-4261649.jpg?tf=1200x' alt='Fue despedida hasta 5 veces por Steve Jobs y sorprendentemente no le guarda ningún rencor: "estaré siempre agradecida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/experto-me-enseno-truco-infalible-mi-pc-vuelva-funcionar-como-primer-dia-reinstalar-nada-1418835'>Un experto me enseñó este truco, es infalible para que mi PC vuelva a funcionar como el primer día sin reinstalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/experto-me-enseno-truco-infalible-mi-pc-vuelva-funcionar-como-primer-dia-reinstalar-nada-1418835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-me-enseno-truco-infalible-mi-pc-vuelva-funcionar-como-primer-dia-reinstalar-nada-4261586.jpg?tf=1200x' alt='Un experto me enseñó este truco, es infalible para que mi PC vuelva a funcionar como el primer día sin reinstalar nada' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fue-despedida-5-veces-steve-jobs-sorprendentemente-no-guarda-ningun-rencor-estare-siempre-agradecida-4261649.jpg?tf=1200x' alt='Fue despedida hasta 5 veces por Steve Jobs y sorprendentemente no le guarda ningún rencor: "Estaré siempre agradecida"' />
     </a>
 </div>
 
