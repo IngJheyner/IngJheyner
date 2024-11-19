@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727'>El superordenador más potente del mundo se usará para fabricar armas nucleares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg?tf=1200x' alt='El superordenador más potente del mundo se usará para fabricar armas nucleares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692'>Google fusionará Android y ChromeOS para crear un nuevo sistema operativo</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/convertir-pc-chromebook-4215557.jpg?tf=1200x' alt='Google fusionará Android y ChromeOS para crear un nuevo sistema operativo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/realme-confirma-llegada-funciones-ia-moviles-estamos-invirtiendo-muchos-recursos-1418526'>Realme confirma la llegada de más funciones de IA a sus móviles: "Estamos invirtiendo muchos recursos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/realme-confirma-llegada-funciones-ia-moviles-estamos-invirtiendo-muchos-recursos-1418526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jason-guo-responsable-ventas-realme-europa-4262383.jpg?tf=1200x' alt='Realme confirma la llegada de más funciones de IA a sus móviles: "Estamos invirtiendo muchos recursos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580'>La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-4263202.jpg?tf=1200x' alt='La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI' />
     </a>
 </div>
 
