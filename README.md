@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/549-solo-399-euros-pixel-8a-google-hunde-precio-ya-amazon-1419704'>De 549 a solo 399 euros: el Pixel 8a de Google hunde su precio ya en Amazon </a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/549-solo-399-euros-pixel-8a-google-hunde-precio-ya-amazon-1419704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315748.jpg?tf=1200x' alt='De 549 a solo 399 euros: el Pixel 8a de Google hunde su precio ya en Amazon ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/hoy-madrid-ya-puedes-llevar-abono-transporte-movil-cumples-estos-requisitos-1419746'>Desde hoy en Madrid ya puedes llevar el abono transporte en el móvil si cumples estos requisitos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hoy-madrid-ya-puedes-llevar-abono-transporte-movil-cumples-estos-requisitos-1419746' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-4168223.jpg?tf=1200x' alt='Desde hoy en Madrid ya puedes llevar el abono transporte en el móvil si cumples estos requisitos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/producto-era-steve-jobs-apple-estaria-volviendo-considerar-1419743'>El producto de la era Steve Jobs que Apple estaría volviendo a considerar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/producto-era-steve-jobs-apple-estaria-volviendo-considerar-1419743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='El producto de la era Steve Jobs que Apple estaría volviendo a considerar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727'>El superordenador más potente del mundo se usará para fabricar armas nucleares</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg?tf=1200x' alt='El superordenador más potente del mundo se usará para fabricar armas nucleares' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692'>Google fusionará Android y ChromeOS para crear un nuevo sistema operativo</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/convertir-pc-chromebook-4215557.jpg?tf=1200x' alt='Google fusionará Android y ChromeOS para crear un nuevo sistema operativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/itv-primer-televisor-apple-podria-estar-cerca-1419697'>iTV, el primer televisor de Apple, podría estar más cerca de lo que esperas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/itv-primer-televisor-apple-podria-estar-cerca-1419697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/primer-televisor-apple-podria-estar-cerca-esperas-4263361.jpg?tf=1200x' alt='iTV, el primer televisor de Apple, podría estar más cerca de lo que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-paperwhite-2024-no-pantalla-casi-siempre-1416574'>Lo que más me ha gustado del Kindle Paperwhite (2024) no es la pantalla, es que es casi para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-paperwhite-2024-no-pantalla-casi-siempre-1416574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257636.jpg?tf=1200x' alt='Lo que más me ha gustado del Kindle Paperwhite (2024) no es la pantalla, es que es casi para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/realme-confirma-llegada-funciones-ia-moviles-estamos-invirtiendo-muchos-recursos-1418526'>Realme confirma la llegada de más funciones de IA a sus móviles: "Estamos invirtiendo muchos recursos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/realme-confirma-llegada-funciones-ia-moviles-estamos-invirtiendo-muchos-recursos-1418526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jason-guo-responsable-ventas-realme-europa-4262383.jpg?tf=1200x' alt='Realme confirma la llegada de más funciones de IA a sus móviles: "Estamos invirtiendo muchos recursos"' />
     </a>
 </div>
 
