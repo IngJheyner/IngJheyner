@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-acusa-nasa-terminar-vida-marte-1419952'>Reputado científico acusa a la NASA de terminar con la vida en Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-acusa-nasa-terminar-vida-marte-1419952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/superficie-marte-4263739.jpg?tf=1200x' alt='Reputado científico acusa a la NASA de terminar con la vida en Marte' />
+    <h4><a href='https://computerhoy.20minutos.es/life/ultima-bolsa-tenis-rafa-nadal-babolat-todos-records-1419977'>La última bolsa de tenis de Rafa Nadal con todos sus récords: '300 kilómetros de cuerdas gastadas'</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ultima-bolsa-tenis-rafa-nadal-babolat-todos-records-1419977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-bolsa-tenis-rafa-nadal-todos-records-300-kilometros-cuerdas-gastadas-4263779.jpg?tf=1200x' alt='La última bolsa de tenis de Rafa Nadal con todos sus récords: '300 kilómetros de cuerdas gastadas'' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/windows-365-link-mini-pc-microsoft-windows-nube-1419953'>Windows 365 Link es un mini PC de Microsoft para usar Windows en la nube</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/windows-365-link-mini-pc-microsoft-windows-nube-1419953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732040265229-4263712.jpg?tf=1200x' alt='Windows 365 Link es un mini PC de Microsoft para usar Windows en la nube' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898'>Adiós España, hola Andorra: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-4263709.jpg?tf=1200x' alt='Adiós España, hola Andorra: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-ridley-scott-tiene-mejores-criticas-gladiator-2-puedes-verla-disney-1419909'>Fracasó en taquilla, pero está película de Ridley Scott tiene mejores críticas que Gladiator 2 y puedes verla en Disney+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-ridley-scott-tiene-mejores-criticas-gladiator-2-puedes-verla-disney-1419909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultimo-duelo-4263675.jpg?tf=1200x' alt='Fracasó en taquilla, pero está película de Ridley Scott tiene mejores críticas que Gladiator 2 y puedes verla en Disney+' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-1419917'>BlueSky: la configuración perfecta para evitar los bulos y que no se convierta en otro X</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-1419917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-4263778.jpg?tf=1200x' alt='BlueSky: la configuración perfecta para evitar los bulos y que no se convierta en otro X' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estuvo-punto-hacer-pelicula-ciencia-ficcion-pero-warner-impidio-era-remake-1419532'>Quentin Tarantino estuvo a punto de hacer una película de ciencia ficción, pero Warner se lo impidió (y era un remake)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estuvo-punto-hacer-pelicula-ciencia-ficcion-pero-warner-impidio-era-remake-1419532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/quentin-tarantino-sorprendido-2859765.jpg?tf=1200x' alt='Quentin Tarantino estuvo a punto de hacer una película de ciencia ficción, pero Warner se lo impidió (y era un remake)' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891'>Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-4263608.jpg?tf=1200x' alt='Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-bizum-2025-adios-transferencias-tradicionales-1419951'>Giro de 180 grados en Bizum en 2025: adiós a las transferencias tradicionales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-bizum-2025-adios-transferencias-tradicionales-1419951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/bizum-3036548.jpg?tf=1200x' alt='Giro de 180 grados en Bizum en 2025: adiós a las transferencias tradicionales' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-linux-portatil-viejo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-linux-portatil-viejo-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo' />
     </a>
 </div>
 
