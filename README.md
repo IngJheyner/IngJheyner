@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-paperwhite-2024-no-pantalla-casi-siempre-1416574'>Lo que más me ha gustado del Kindle Paperwhite (2024) no es la pantalla, es que es casi para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-paperwhite-2024-no-pantalla-casi-siempre-1416574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257636.jpg?tf=1200x' alt='Lo que más me ha gustado del Kindle Paperwhite (2024) no es la pantalla, es que es casi para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/realme-confirma-llegada-funciones-ia-moviles-estamos-invirtiendo-muchos-recursos-1418526'>Realme confirma la llegada de más funciones de IA a sus móviles: "Estamos invirtiendo muchos recursos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/realme-confirma-llegada-funciones-ia-moviles-estamos-invirtiendo-muchos-recursos-1418526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jason-guo-responsable-ventas-realme-europa-4262383.jpg?tf=1200x' alt='Realme confirma la llegada de más funciones de IA a sus móviles: "Estamos invirtiendo muchos recursos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580'>La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-4263202.jpg?tf=1200x' alt='La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-1419183'>Uno de cada dos españoles tiene un hábito de carga peligroso que debería evitar inmediatamente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-1419183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-4262569.jpg?tf=1200x' alt='Uno de cada dos españoles tiene un hábito de carga peligroso que debería evitar inmediatamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/experto-inteligencia-artificial-deja-claro-trabajo-ia-sustituira-humanos-solo-anos-1419439'>Experto en inteligencia artificial lo deja claro: este es el trabajo en el que la IA “sustituirá a los humanos” en solo unos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/experto-inteligencia-artificial-deja-claro-trabajo-ia-sustituira-humanos-solo-anos-1419439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ceo-deja-claro-trabajo-ia-sustituira-humanos-solo-anos-4262986.jpg?tf=1200x' alt='Experto en inteligencia artificial lo deja claro: este es el trabajo en el que la IA “sustituirá a los humanos” en solo unos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-freidora-aire-ni-robot-cocina-electrodomestico-sano-cocinar-nada-aceite-1419182'>Ni freidora de aire ni robot de cocina, este es el electrodoméstico más sano para cocinar sin nada de aceite</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-freidora-aire-ni-robot-cocina-electrodomestico-sano-cocinar-nada-aceite-1419182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-freidora-aire-ni-robot-cocina-electrodomestico-sano-cocinar-nada-aceite-4262568.jpg?tf=1200x' alt='Ni freidora de aire ni robot de cocina, este es el electrodoméstico más sano para cocinar sin nada de aceite' />
     </a>
 </div>
 
