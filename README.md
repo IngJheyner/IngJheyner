@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-model-3-ni-cybertruck-proximo-coche-tesla-tendria-objetivo-claro-mercedes-1419803'>Ni Model 3 ni Cybertruck, el próximo coche de Tesla tendría un objetivo claro: Mercedes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-model-3-ni-cybertruck-proximo-coche-tesla-tendria-objetivo-claro-mercedes-1419803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cybervan-4263629.jpg?tf=1200x' alt='Ni Model 3 ni Cybertruck, el próximo coche de Tesla tendría un objetivo claro: Mercedes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/copa-davis-2024-donde-ver-horarios-rafa-nadal-retirada-1419907'>Rafa Nadal se retira: horario y cómo ver online y en directo la Copa Davis 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/copa-davis-2024-donde-ver-horarios-rafa-nadal-retirada-1419907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/rafa-nadal-retira-horario-como-ver-online-directo-copa-davis-2024-4263610.jpg?tf=1200x' alt='Rafa Nadal se retira: horario y cómo ver online y en directo la Copa Davis 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-ha-liado-no-finalizara-todavia-soporte-windows-1419876'>Microsoft reconoce que la ha liado y no finalizará todavía el soporte de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-ha-liado-no-finalizara-todavia-soporte-windows-1419876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-reconoce-ha-liado-no-finalizara-todavia-soporte-windows-4263616.jpg?tf=1200x' alt='Microsoft reconoce que la ha liado y no finalizará todavía el soporte de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/dile-adios-humedad-casa-invento-lidl-ademas-te-ayuda-refrescar-ambiente-1419684'>Dile adiós a la humedad en casa con este invento de Lidl, que además te ayuda a refrescar el ambiente</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/dile-adios-humedad-casa-invento-lidl-ademas-te-ayuda-refrescar-ambiente-1419684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lidl-4243931.jpg?tf=1200x' alt='Dile adiós a la humedad en casa con este invento de Lidl, que además te ayuda a refrescar el ambiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/pepe-rodriguez-masterchef-guerra-influencers-quieren-poner-camara-me-paguen-1419831'>Pepe Rodriguez (Masterchef) en guerra con los influencers: "si quieren poner una cámara, que me paguen"</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/pepe-rodriguez-masterchef-guerra-influencers-quieren-poner-camara-me-paguen-1419831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pepe-rodriguez-4263582.jpg?tf=1200x' alt='Pepe Rodriguez (Masterchef) en guerra con los influencers: "si quieren poner una cámara, que me paguen"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-parte-podria-vender-chrome-convertir-android-nueva-compania-1419804'>Google se parte: podría vender Chrome y convertir Android en una nueva compañía</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-parte-podria-vender-chrome-convertir-android-nueva-compania-1419804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-parte-podria-vender-chrome-convertir-android-nueva-compania-4263511.jpg?tf=1200x' alt='Google se parte: podría vender Chrome y convertir Android en una nueva compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-me-llama-estos-son-prefijos-internacionales-peligrosos-1419501'>¿Quién me llama? Estos son los prefijos internacionales más peligrosos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/quien-me-llama-estos-son-prefijos-internacionales-peligrosos-1419501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fraude-telefonico-4263103.jpg?tf=1200x' alt='¿Quién me llama? Estos son los prefijos internacionales más peligrosos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-elon-musk-lista-hacer-historia-horario-como-ver-online-lanzamiento-starship-1419765'>SpaceX de Elon Musk lista para hacer historia: horario y cómo ver online el lanzamiento de Starship</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/spacex-elon-musk-lista-hacer-historia-horario-como-ver-online-lanzamiento-starship-1419765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/explosion-falcon-9-spacex-recibe-permiso-volver-lanzar-cohetes-4080198.jpg?tf=1200x' alt='SpaceX de Elon Musk lista para hacer historia: horario y cómo ver online el lanzamiento de Starship' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/misterio-llamadas-fantasma-1389048'>¿Por qué te llaman, contestas y cuelgan sin decir nada?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/misterio-llamadas-fantasma-1389048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/llamadas-fantasma-4263556.jpg?tf=1200x' alt='¿Por qué te llaman, contestas y cuelgan sin decir nada?' />
     </a>
 </div>
 
