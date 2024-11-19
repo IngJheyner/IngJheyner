@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-elon-musk-lista-hacer-historia-horario-como-ver-online-lanzamiento-starship-1419765'>SpaceX de Elon Musk lista para hacer historia: horario y cómo ver online el lanzamiento de Starship</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/spacex-elon-musk-lista-hacer-historia-horario-como-ver-online-lanzamiento-starship-1419765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/explosion-falcon-9-spacex-recibe-permiso-volver-lanzar-cohetes-4080198.jpg?tf=1200x' alt='SpaceX de Elon Musk lista para hacer historia: horario y cómo ver online el lanzamiento de Starship' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/misterio-llamadas-fantasma-1389048'>¿Por qué te llaman, contestas y cuelgan sin decir nada?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/misterio-llamadas-fantasma-1389048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/llamadas-fantasma-4263556.jpg?tf=1200x' alt='¿Por qué te llaman, contestas y cuelgan sin decir nada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-ia-quedando-grande-nvidia-eso-grave-problema-1419757'>Parece que la IA se le está quedando grande a NVIDIA, y eso es un grave problema</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/parece-ia-quedando-grande-nvidia-eso-grave-problema-1419757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvidia-ia-3296947.jpg?tf=1200x' alt='Parece que la IA se le está quedando grande a NVIDIA, y eso es un grave problema' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707'>Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-conga-7490-4263396.jpg?tf=1200x' alt='Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/549-solo-399-euros-pixel-8a-google-hunde-precio-ya-amazon-1419704'>De 549 a solo 399 euros: el Pixel 8a de Google hunde su precio ya en Amazon </a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/549-solo-399-euros-pixel-8a-google-hunde-precio-ya-amazon-1419704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315748.jpg?tf=1200x' alt='De 549 a solo 399 euros: el Pixel 8a de Google hunde su precio ya en Amazon ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hoy-madrid-ya-puedes-llevar-abono-transporte-movil-cumples-estos-requisitos-1419746'>Desde hoy en Madrid ya puedes llevar el abono transporte en el móvil si cumples estos requisitos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hoy-madrid-ya-puedes-llevar-abono-transporte-movil-cumples-estos-requisitos-1419746' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-4168223.jpg?tf=1200x' alt='Desde hoy en Madrid ya puedes llevar el abono transporte en el móvil si cumples estos requisitos' />
     </a>
 </div>
 
