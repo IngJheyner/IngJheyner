@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707'>Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-conga-7490-4263396.jpg?tf=1200x' alt='Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/549-solo-399-euros-pixel-8a-google-hunde-precio-ya-amazon-1419704'>De 549 a solo 399 euros: el Pixel 8a de Google hunde su precio ya en Amazon </a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/549-solo-399-euros-pixel-8a-google-hunde-precio-ya-amazon-1419704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315748.jpg?tf=1200x' alt='De 549 a solo 399 euros: el Pixel 8a de Google hunde su precio ya en Amazon ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727'>El superordenador más potente del mundo se usará para fabricar armas nucleares</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg?tf=1200x' alt='El superordenador más potente del mundo se usará para fabricar armas nucleares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692'>Google fusionará Android y ChromeOS para crear un nuevo sistema operativo</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/convertir-pc-chromebook-4215557.jpg?tf=1200x' alt='Google fusionará Android y ChromeOS para crear un nuevo sistema operativo' />
     </a>
 </div>
 
