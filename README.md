@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-pone-venta-robot-optimus-40-dolares-1419677'>Tesla pone a la venta un robot Optimus por 40 dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-pone-venta-robot-optimus-40-dolares-1419677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesla-pone-venta-robot-optimus-40-dolares-4263343.jpg?tf=1200x' alt='Tesla pone a la venta un robot Optimus por 40 dólares' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580'>La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-4263202.jpg?tf=1200x' alt='La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669'>La IA de las gafas inteligentes Ray-Ban de Meta llega a España, pero falta su mejor función</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='La IA de las gafas inteligentes Ray-Ban de Meta llega a España, pero falta su mejor función' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-astronomos-encuentran-enigma-cosmico-zigzag-gravitacional-einstein-1419448'>Un equipo de astrónomos encuentran el enigma cósmico del zigzag gravitacional de Einstein</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/equipo-astronomos-encuentran-enigma-cosmico-zigzag-gravitacional-einstein-1419448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dos-galaxias-4263015.jpg?tf=1200x' alt='Un equipo de astrónomos encuentran el enigma cósmico del zigzag gravitacional de Einstein' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acuerdo-oculto-permite-amd-bloquear-compra-intel-cualquier-otra-empresa-1419662'>Un acuerdo oculto permite a AMD bloquear la compra de Intel por cualquier otra empresa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acuerdo-oculto-permite-amd-bloquear-compra-intel-cualquier-otra-empresa-1419662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/lisa-ceo-amd-2157877.jpg?tf=1200x' alt='Un acuerdo oculto permite a AMD bloquear la compra de Intel por cualquier otra empresa' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-1419183'>Uno de cada dos españoles tiene un hábito de carga peligroso que debería evitar inmediatamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-1419183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-4262569.jpg?tf=1200x' alt='Uno de cada dos españoles tiene un hábito de carga peligroso que debería evitar inmediatamente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/misiles-atacms-cual-distancia-maxima-puede-alcanzar-nuevo-arma-ejercito-ucraniano-1419648'>Misiles ATACMS: cuál es la distancia máxima que puede alcanzar el nuevo arma del ejército ucraniano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/misiles-atacms-cual-distancia-maxima-puede-alcanzar-nuevo-arma-ejercito-ucraniano-1419648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atacms-4263315.jpg?tf=1200x' alt='Misiles ATACMS: cuál es la distancia máxima que puede alcanzar el nuevo arma del ejército ucraniano' />
+    <h4><a href='https://computerhoy.20minutos.es/industria/experto-inteligencia-artificial-deja-claro-trabajo-ia-sustituira-humanos-solo-anos-1419439'>Experto en inteligencia artificial lo deja claro: este es el trabajo en el que la IA “sustituirá a los humanos” en solo unos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/experto-inteligencia-artificial-deja-claro-trabajo-ia-sustituira-humanos-solo-anos-1419439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ceo-deja-claro-trabajo-ia-sustituira-humanos-solo-anos-4262986.jpg?tf=1200x' alt='Experto en inteligencia artificial lo deja claro: este es el trabajo en el que la IA “sustituirá a los humanos” en solo unos años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-paso-anadir-funcion-pedida-usuarios-toda-historia-1419643'>Google Maps a un paso de añadir la función más pedida por los usuarios de toda su historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-paso-anadir-funcion-pedida-usuarios-toda-historia-1419643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-rutas-camiones-4263305.jpg?tf=1200x' alt='Google Maps a un paso de añadir la función más pedida por los usuarios de toda su historia' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-freidora-aire-ni-robot-cocina-electrodomestico-sano-cocinar-nada-aceite-1419182'>Ni freidora de aire ni robot de cocina, este es el electrodoméstico más sano para cocinar sin nada de aceite</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-freidora-aire-ni-robot-cocina-electrodomestico-sano-cocinar-nada-aceite-1419182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-freidora-aire-ni-robot-cocina-electrodomestico-sano-cocinar-nada-aceite-4262568.jpg?tf=1200x' alt='Ni freidora de aire ni robot de cocina, este es el electrodoméstico más sano para cocinar sin nada de aceite' />
     </a>
 </div>
 
