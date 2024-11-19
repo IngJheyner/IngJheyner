@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692'>Google fusionará Android y ChromeOS para crear un nuevo sistema operativo</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-fusionara-android-chromeos-crear-nuevo-sistema-operativo-1419692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/convertir-pc-chromebook-4215557.jpg?tf=1200x' alt='Google fusionará Android y ChromeOS para crear un nuevo sistema operativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/itv-primer-televisor-apple-podria-estar-cerca-1419697'>iTV, el primer televisor de Apple, podría estar más cerca de lo que esperas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/itv-primer-televisor-apple-podria-estar-cerca-1419697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/primer-televisor-apple-podria-estar-cerca-esperas-4263361.jpg?tf=1200x' alt='iTV, el primer televisor de Apple, podría estar más cerca de lo que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-paperwhite-2024-no-pantalla-casi-siempre-1416574'>Lo que más me ha gustado del Kindle Paperwhite (2024) no es la pantalla, es que es casi para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/me-ha-gustado-kindle-paperwhite-2024-no-pantalla-casi-siempre-1416574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257636.jpg?tf=1200x' alt='Lo que más me ha gustado del Kindle Paperwhite (2024) no es la pantalla, es que es casi para siempre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580'>La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-1419580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-advierte-estafa-te-arriesgas-compartes-foto-dni-4263202.jpg?tf=1200x' alt='La Guardia Civil advierte: esta es la estafa a la que te arriesgas si compartes una foto de tu DNI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/equipo-astronomos-encuentran-enigma-cosmico-zigzag-gravitacional-einstein-1419448'>Un equipo de astrónomos encuentran el enigma cósmico del zigzag gravitacional de Einstein</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/equipo-astronomos-encuentran-enigma-cosmico-zigzag-gravitacional-einstein-1419448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dos-galaxias-4263015.jpg?tf=1200x' alt='Un equipo de astrónomos encuentran el enigma cósmico del zigzag gravitacional de Einstein' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-1419183'>Uno de cada dos españoles tiene un hábito de carga peligroso que debería evitar inmediatamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-1419183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cada-dos-espanoles-tiene-habito-carga-peligroso-deberia-evitar-inmediatamente-4262569.jpg?tf=1200x' alt='Uno de cada dos españoles tiene un hábito de carga peligroso que debería evitar inmediatamente' />
     </a>
 </div>
 
