@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669'>La IA de las gafas Ray-Ban de Meta llega a España, pero falta su mejor función</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669'>La IA de las gafas inteligentes Ray-Ban de Meta llega a España, pero falta su mejor función</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='La IA de las gafas Ray-Ban de Meta llega a España, pero falta su mejor función' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='La IA de las gafas inteligentes Ray-Ban de Meta llega a España, pero falta su mejor función' />
     </a>
 </div>
 
