@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898'>Adiós España, hola, Andorra: Ibai, AuronPlay o Jordi Wild, podrían abandonar el país por la polémica ley de influencers</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-4263709.jpg?tf=1200x' alt='Adiós España, hola, Andorra: Ibai, AuronPlay o Jordi Wild, podrían abandonar el país por la polémica ley de influencers' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891'>Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-4263608.jpg?tf=1200x' alt='Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/pasa-abro-bateria-mi-movil-1419274'>¿Qué pasa si abro la batería de mi móvil?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/pasa-abro-bateria-mi-movil-1419274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-deteriorada-movil-4262726.jpg?tf=1200x' alt='¿Qué pasa si abro la batería de mi móvil?' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-linux-portatil-viejo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-linux-portatil-viejo-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-cifrar-documento-word-nadie-pueda-acceder-1419627'>Cómo cifrar un documento Word para que nadie pueda acceder</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-cifrar-documento-word-nadie-pueda-acceder-1419627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bloquear-documento-word-4263350.jpg?tf=1200x' alt='Cómo cifrar un documento Word para que nadie pueda acceder' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-acusa-nasa-terminar-vida-marte-1419952'>Reputado científico acusa a la NASA de terminar con la vida en Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-acusa-nasa-terminar-vida-marte-1419952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/superficie-marte-4263739.jpg?tf=1200x' alt='Reputado científico acusa a la NASA de terminar con la vida en Marte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aviso-policia-5-letras-debes-fijarte-evitar-caer-muchas-estafas-online-1419846'>Aviso Policía: las 5 letras en las que debes fijarte para evitar caer en muchas estafas online</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/aviso-policia-5-letras-debes-fijarte-evitar-caer-muchas-estafas-online-1419846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aviso-policia-4263658.jpg?tf=1200x' alt='Aviso Policía: las 5 letras en las que debes fijarte para evitar caer en muchas estafas online' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/windows-365-link-mini-pc-microsoft-windows-nube-1419953'>Windows 365 Link es un mini PC de Microsoft para usar Windows en la nube</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/windows-365-link-mini-pc-microsoft-windows-nube-1419953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732040265229-4263712.jpg?tf=1200x' alt='Windows 365 Link es un mini PC de Microsoft para usar Windows en la nube' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/impactante-fallo-cable-submarino-lleva-internet-finlandia-conecta-alemania-sospecha-fue-intencionado-1419756'>Impactante fallo en un cable submarino que lleva internet a Finlandia y conecta con Alemania: se sospecha que fue intencionado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/impactante-fallo-cable-submarino-lleva-internet-finlandia-conecta-alemania-sospecha-fue-intencionado-1419756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/finlandia-4263475.jpg?tf=1200x' alt='Impactante fallo en un cable submarino que lleva internet a Finlandia y conecta con Alemania: se sospecha que fue intencionado' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-ridley-scott-tiene-mejores-criticas-gladiator-2-puedes-verla-disney-1419909'>Fracasó en taquilla, pero está película de Ridley Scott tiene mejores críticas que Gladiator 2 y puedes verla en Disney+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-ridley-scott-tiene-mejores-criticas-gladiator-2-puedes-verla-disney-1419909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultimo-duelo-4263675.jpg?tf=1200x' alt='Fracasó en taquilla, pero está película de Ridley Scott tiene mejores críticas que Gladiator 2 y puedes verla en Disney+' />
     </a>
 </div>
 
