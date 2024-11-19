@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-cifrar-documento-word-nadie-pueda-acceder-1419627'>Cómo cifrar un documento Word para que nadie pueda acceder</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-cifrar-documento-word-nadie-pueda-acceder-1419627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bloquear-documento-word-4263350.jpg?tf=1200x' alt='Cómo cifrar un documento Word para que nadie pueda acceder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aviso-policia-5-letras-debes-fijarte-evitar-caer-muchas-estafas-online-1419846'>Aviso Policía: las 5 letras en las que debes fijarte para evitar caer en muchas estafas online</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/aviso-policia-5-letras-debes-fijarte-evitar-caer-muchas-estafas-online-1419846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aviso-policia-4263658.jpg?tf=1200x' alt='Aviso Policía: las 5 letras en las que debes fijarte para evitar caer en muchas estafas online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/impactante-fallo-cable-submarino-lleva-internet-finlandia-conecta-alemania-sospecha-fue-intencionado-1419756'>Impactante fallo en un cable submarino que lleva internet a Finlandia y conecta con Alemania: se sospecha que fue intencionado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/impactante-fallo-cable-submarino-lleva-internet-finlandia-conecta-alemania-sospecha-fue-intencionado-1419756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/finlandia-4263475.jpg?tf=1200x' alt='Impactante fallo en un cable submarino que lleva internet a Finlandia y conecta con Alemania: se sospecha que fue intencionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/apple-google-maps-waze-app-conductores-uber-1389401'>Ni Google Maps ni Waze, ¿por qué los conductores de Uber prefieren esta otra aplicación?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/apple-google-maps-waze-app-conductores-uber-1389401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Ni Google Maps ni Waze, ¿por qué los conductores de Uber prefieren esta otra aplicación?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-model-3-ni-cybertruck-proximo-coche-tesla-tendria-objetivo-claro-mercedes-1419803'>Ni Model 3 ni Cybertruck, el próximo coche de Tesla tendría un objetivo claro: Mercedes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-model-3-ni-cybertruck-proximo-coche-tesla-tendria-objetivo-claro-mercedes-1419803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cybervan-4263629.jpg?tf=1200x' alt='Ni Model 3 ni Cybertruck, el próximo coche de Tesla tendría un objetivo claro: Mercedes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/copa-davis-2024-donde-ver-horarios-rafa-nadal-retirada-1419907'>Rafa Nadal se retira: horario y cómo ver online y en directo la Copa Davis 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/copa-davis-2024-donde-ver-horarios-rafa-nadal-retirada-1419907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/rafa-nadal-retira-horario-como-ver-online-directo-copa-davis-2024-4263610.jpg?tf=1200x' alt='Rafa Nadal se retira: horario y cómo ver online y en directo la Copa Davis 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-ha-liado-no-finalizara-todavia-soporte-windows-1419876'>Microsoft reconoce que la ha liado y no finalizará todavía el soporte de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-ha-liado-no-finalizara-todavia-soporte-windows-1419876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-reconoce-ha-liado-no-finalizara-todavia-soporte-windows-4263616.jpg?tf=1200x' alt='Microsoft reconoce que la ha liado y no finalizará todavía el soporte de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/dile-adios-humedad-casa-invento-lidl-ademas-te-ayuda-refrescar-ambiente-1419684'>Dile adiós a la humedad en casa con este invento de Lidl, que además te ayuda a refrescar el ambiente</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/dile-adios-humedad-casa-invento-lidl-ademas-te-ayuda-refrescar-ambiente-1419684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/lidl-4243931.jpg?tf=1200x' alt='Dile adiós a la humedad en casa con este invento de Lidl, que además te ayuda a refrescar el ambiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/pepe-rodriguez-masterchef-guerra-influencers-quieren-poner-camara-me-paguen-1419831'>Pepe Rodriguez (Masterchef) en guerra con los influencers: "si quieren poner una cámara, que me paguen"</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/pepe-rodriguez-masterchef-guerra-influencers-quieren-poner-camara-me-paguen-1419831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pepe-rodriguez-4263582.jpg?tf=1200x' alt='Pepe Rodriguez (Masterchef) en guerra con los influencers: "si quieren poner una cámara, que me paguen"' />
     </a>
 </div>
 
