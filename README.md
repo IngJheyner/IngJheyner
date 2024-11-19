@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/pepe-rodriguez-masterchef-guerra-influencers-quieren-poner-camara-me-paguen-1419831'>Pepe Rodriguez (Masterchef) en guerra con los influencers: "si quieren poner una cámara, que me paguen"</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/pepe-rodriguez-masterchef-guerra-influencers-quieren-poner-camara-me-paguen-1419831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pepe-rodriguez-4263582.jpg?tf=1200x' alt='Pepe Rodriguez (Masterchef) en guerra con los influencers: "si quieren poner una cámara, que me paguen"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-parte-podria-vender-chrome-convertir-android-nueva-compania-1419804'>Google se parte: podría vender Chrome y convertir Android en una nueva compañía</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-parte-podria-vender-chrome-convertir-android-nueva-compania-1419804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-parte-podria-vender-chrome-convertir-android-nueva-compania-4263511.jpg?tf=1200x' alt='Google se parte: podría vender Chrome y convertir Android en una nueva compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-me-llama-estos-son-prefijos-internacionales-peligrosos-1419501'>¿Quién me llama? Estos son los prefijos internacionales más peligrosos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/quien-me-llama-estos-son-prefijos-internacionales-peligrosos-1419501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/fraude-telefonico-4263103.jpg?tf=1200x' alt='¿Quién me llama? Estos son los prefijos internacionales más peligrosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-elon-musk-lista-hacer-historia-horario-como-ver-online-lanzamiento-starship-1419765'>SpaceX de Elon Musk lista para hacer historia: horario y cómo ver online el lanzamiento de Starship</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/spacex-elon-musk-lista-hacer-historia-horario-como-ver-online-lanzamiento-starship-1419765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/explosion-falcon-9-spacex-recibe-permiso-volver-lanzar-cohetes-4080198.jpg?tf=1200x' alt='SpaceX de Elon Musk lista para hacer historia: horario y cómo ver online el lanzamiento de Starship' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/misterio-llamadas-fantasma-1389048'>¿Por qué te llaman, contestas y cuelgan sin decir nada?</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/misterio-llamadas-fantasma-1389048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/llamadas-fantasma-4263556.jpg?tf=1200x' alt='¿Por qué te llaman, contestas y cuelgan sin decir nada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-ia-quedando-grande-nvidia-eso-grave-problema-1419757'>Parece que la IA se le está quedando grande a NVIDIA, y eso es un grave problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/parece-ia-quedando-grande-nvidia-eso-grave-problema-1419757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvidia-ia-3296947.jpg?tf=1200x' alt='Parece que la IA se le está quedando grande a NVIDIA, y eso es un grave problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/trabajador-revela-secreto-apple-hora-fabricar-propios-chips-1419748'>Un trabajador revela el secreto de Apple a la hora de fabricar sus propios chips</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/trabajador-revela-secreto-apple-hora-fabricar-propios-chips-1419748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-iphone-4248772.jpg?tf=1200x' alt='Un trabajador revela el secreto de Apple a la hora de fabricar sus propios chips' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707'>Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-conga-7490-4263396.jpg?tf=1200x' alt='Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio' />
     </a>
 </div>
 
