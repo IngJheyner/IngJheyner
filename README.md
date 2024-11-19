@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898'>Adiós España, hola, Andorra: Ibai, AuronPlay o Jordi Wild, podrían abandonar el país por la polémica ley de influencers</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-4263709.jpg?tf=1200x' alt='Adiós España, hola, Andorra: Ibai, AuronPlay o Jordi Wild, podrían abandonar el país por la polémica ley de influencers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/pasa-abro-bateria-mi-movil-1419274'>¿Qué pasa si abro la batería de mi móvil?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/pasa-abro-bateria-mi-movil-1419274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-deteriorada-movil-4262726.jpg?tf=1200x' alt='¿Qué pasa si abro la batería de mi móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-cifrar-documento-word-nadie-pueda-acceder-1419627'>Cómo cifrar un documento Word para que nadie pueda acceder</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-cifrar-documento-word-nadie-pueda-acceder-1419627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bloquear-documento-word-4263350.jpg?tf=1200x' alt='Cómo cifrar un documento Word para que nadie pueda acceder' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/impactante-fallo-cable-submarino-lleva-internet-finlandia-conecta-alemania-sospecha-fue-intencionado-1419756'>Impactante fallo en un cable submarino que lleva internet a Finlandia y conecta con Alemania: se sospecha que fue intencionado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/impactante-fallo-cable-submarino-lleva-internet-finlandia-conecta-alemania-sospecha-fue-intencionado-1419756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/finlandia-4263475.jpg?tf=1200x' alt='Impactante fallo en un cable submarino que lleva internet a Finlandia y conecta con Alemania: se sospecha que fue intencionado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/apple-google-maps-waze-app-conductores-uber-1389401'>Ni Google Maps ni Waze, ¿por qué los conductores de Uber prefieren esta otra aplicación?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/apple-google-maps-waze-app-conductores-uber-1389401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/datos-millones-uber-sentencian-mejor-app-navegacion-no-google-maps-waze-3438113.jpg?tf=1200x' alt='Ni Google Maps ni Waze, ¿por qué los conductores de Uber prefieren esta otra aplicación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-model-3-ni-cybertruck-proximo-coche-tesla-tendria-objetivo-claro-mercedes-1419803'>Ni Model 3 ni Cybertruck, el próximo coche de Tesla tendría un objetivo claro: Mercedes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-model-3-ni-cybertruck-proximo-coche-tesla-tendria-objetivo-claro-mercedes-1419803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cybervan-4263629.jpg?tf=1200x' alt='Ni Model 3 ni Cybertruck, el próximo coche de Tesla tendría un objetivo claro: Mercedes' />
     </a>
 </div>
 
