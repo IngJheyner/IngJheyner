@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-pone-venta-robot-optimus-40-dolares-1419677'>Tesla pone a la venta un robot Optimus por 40 dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-pone-venta-robot-optimus-40-dolares-1419677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesla-pone-venta-robot-optimus-40-dolares-4263343.jpg?tf=1200x' alt='Tesla pone a la venta un robot Optimus por 40 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669'>La IA de las gafas Ray-Ban de Meta llega a España, pero falta su mejor función</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-gafas-ray-ban-meta-llega-espana-1419669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='La IA de las gafas Ray-Ban de Meta llega a España, pero falta su mejor función' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-paso-anadir-funcion-pedida-usuarios-toda-historia-1419643'>Google Maps a un paso de añadir la función más pedida por los usuarios de toda su historia</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-paso-anadir-funcion-pedida-usuarios-toda-historia-1419643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-rutas-camiones-4263305.jpg?tf=1200x' alt='Google Maps a un paso de añadir la función más pedida por los usuarios de toda su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/error-iphone-provocando-gente-escuche-voces-misteriosas-1419640'>Un error en el iPhone está provocando que la gente escuche voces misteriosas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/error-iphone-provocando-gente-escuche-voces-misteriosas-1419640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-iphone-provocando-gente-escuche-voces-misteriosas-4263301.jpg?tf=1200x' alt='Un error en el iPhone está provocando que la gente escuche voces misteriosas' />
     </a>
 </div>
 
