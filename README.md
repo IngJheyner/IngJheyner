@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-ia-quedando-grande-nvidia-eso-grave-problema-1419757'>Parece que la IA se le está quedando grande a NVIDIA, y eso es un grave problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parece-ia-quedando-grande-nvidia-eso-grave-problema-1419757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nvidia-ia-3296947.jpg?tf=1200x' alt='Parece que la IA se le está quedando grande a NVIDIA, y eso es un grave problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/trabajador-revela-secreto-apple-hora-fabricar-propios-chips-1419748'>Un trabajador revela el secreto de Apple a la hora de fabricar sus propios chips</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/trabajador-revela-secreto-apple-hora-fabricar-propios-chips-1419748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-iphone-4248772.jpg?tf=1200x' alt='Un trabajador revela el secreto de Apple a la hora de fabricar sus propios chips' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707'>Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-revoluciona-tienda-robot-aspirador-limpia-solo-cae-56-precio-1419707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-conga-7490-4263396.jpg?tf=1200x' alt='Amazon revoluciona su tienda con un robot aspirador que se limpia solo y cae un 56% de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/hoy-madrid-ya-puedes-llevar-abono-transporte-movil-cumples-estos-requisitos-1419746'>Desde hoy en Madrid ya puedes llevar el abono transporte en el móvil si cumples estos requisitos</a></h4>
     <a href='https://computerhoy.20minutos.es/life/hoy-madrid-ya-puedes-llevar-abono-transporte-movil-cumples-estos-requisitos-1419746' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ultimas-semanas-descuento-abono-transporte-madrid-como-seguir-aprovechandolo-movil-4168223.jpg?tf=1200x' alt='Desde hoy en Madrid ya puedes llevar el abono transporte en el móvil si cumples estos requisitos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/producto-era-steve-jobs-apple-estaria-volviendo-considerar-1419743'>El producto de la era Steve Jobs que Apple estaría volviendo a considerar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/producto-era-steve-jobs-apple-estaria-volviendo-considerar-1419743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='El producto de la era Steve Jobs que Apple estaría volviendo a considerar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727'>El superordenador más potente del mundo se usará para fabricar armas nucleares</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/superordenador-potente-mundo-usara-fabricar-armas-nucleares-1419727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/superordenador-2379757.jpg?tf=1200x' alt='El superordenador más potente del mundo se usará para fabricar armas nucleares' />
     </a>
 </div>
 
