@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-1420211'>Tenemos nuevo ordenador más potente del mundo: tiene chips de AMD y humilla a las máquinas de Intel</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-1420211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-4264148.jpg?tf=1200x' alt='Tenemos nuevo ordenador más potente del mundo: tiene chips de AMD y humilla a las máquinas de Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-maps-iphone-tal-como-conocias-1420167'>Adiós a Google Maps en tu iPhone tal y como lo conocías</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-maps-iphone-tal-como-conocias-1420167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4264057.jpg?tf=1200x' alt='Adiós a Google Maps en tu iPhone tal y como lo conocías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-pc-te-funciona-mal-chrome-culpa-google-1420151'>Ni es tu móvil ni tu PC, si te funciona mal Chrome es culpa de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-pc-te-funciona-mal-chrome-culpa-google-1420151' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4264099.jpg?tf=1200x' alt='Ni es tu móvil ni tu PC, si te funciona mal Chrome es culpa de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/sony-incluira-cambio-playstation-6-promete-revolucionar-videojuegos-1420173'>Sony incluirá un cambio en la PlayStation 6 que promete revolucionar los videojuegos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sony-incluira-cambio-playstation-6-promete-revolucionar-videojuegos-1420173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/playstation-7-romperia-tendencia-historica-sony-consolas-marcaria-nuevo-inicio-3616418.jpg?tf=1200x' alt='Sony incluirá un cambio en la PlayStation 6 que promete revolucionar los videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/guardia-civil-multa-producto-prohibido-online-1408914'>Guardia Civil avisa: si lo compras online, lo que te llegará es una multa de 800 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/guardia-civil-multa-producto-prohibido-online-1408914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-ia-ciberseguridad-3881784.jpg?tf=1200x' alt='Guardia Civil avisa: si lo compras online, lo que te llegará es una multa de 800 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quieres-ser-como-elon-musk-bill-gates-exesposa-musk-sabe-secreto-estar-obsesionado-1420175'>¿Quieres ser como Elon Musk o Bill Gates? La exesposa de Musk sabe el secreto: "Estar obsesionado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/quieres-ser-como-elon-musk-bill-gates-exesposa-musk-sabe-secreto-estar-obsesionado-1420175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-3241118.jpg?tf=1200x' alt='¿Quieres ser como Elon Musk o Bill Gates? La exesposa de Musk sabe el secreto: "Estar obsesionado"' />
     </a>
 </div>
 
