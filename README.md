@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-pc-te-funciona-mal-chrome-culpa-google-1420151'>Ni es tu móvil ni tu PC, si te funciona mal Chrome es culpa de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-pc-te-funciona-mal-chrome-culpa-google-1420151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4264099.jpg?tf=1200x' alt='Ni es tu móvil ni tu PC, si te funciona mal Chrome es culpa de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anticipa-todos-anuncia-primer-ordenador-cuantico-comercial-mundo-1420121'>Microsoft se anticipa a todos y anuncia el primer ordenador cuántico comercial del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anticipa-todos-anuncia-primer-ordenador-cuantico-comercial-mundo-1420121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ordenador-cuantico-4264098.jpg?tf=1200x' alt='Microsoft se anticipa a todos y anuncia el primer ordenador cuántico comercial del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/quieres-ser-como-elon-musk-bill-gates-exesposa-musk-sabe-secreto-estar-obsesionado-1420175'>¿Quieres ser como Elon Musk o Bill Gates? La exesposa de Musk sabe el secreto: "Estar obsesionado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/quieres-ser-como-elon-musk-bill-gates-exesposa-musk-sabe-secreto-estar-obsesionado-1420175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-3241118.jpg?tf=1200x' alt='¿Quieres ser como Elon Musk o Bill Gates? La exesposa de Musk sabe el secreto: "Estar obsesionado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ia-resume-cualquier-clase-reunion-segundos-resuelve-todas-dudas-como-tener-profesor-particular-1420101'>Esta IA resume cualquier clase o reunión en segundos y resuelve todas las dudas: "es como tener un profesor particular"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ia-resume-cualquier-clase-reunion-segundos-resuelve-todas-dudas-como-tener-profesor-particular-1420101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-supera-apple-google-resume-cualquier-reunion-tan-solo-audio-4263969.jpg?tf=1200x' alt='Esta IA resume cualquier clase o reunión en segundos y resuelve todas las dudas: "es como tener un profesor particular"' />
     </a>
 </div>
 
