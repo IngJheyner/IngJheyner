@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-planta-cara-chatgpt-gemini-ahora-personaliza-respuestas-gracias-nueva-funcion-memoria-1420185'>Google planta cara a ChatGPT: Gemini ahora personaliza respuestas gracias a su nueva función de memoria</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-planta-cara-chatgpt-gemini-ahora-personaliza-respuestas-gracias-nueva-funcion-memoria-1420185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Google planta cara a ChatGPT: Gemini ahora personaliza respuestas gracias a su nueva función de memoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-slim-cumplira-sueno-steve-jobs-batira-nuevo-record-1420177'>El iPhone 17 Slim cumplirá el sueño de Steve Jobs y batirá un nuevo récord</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-slim-cumplira-sueno-steve-jobs-batira-nuevo-record-1420177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-slim-4264178.jpg?tf=1200x' alt='El iPhone 17 Slim cumplirá el sueño de Steve Jobs y batirá un nuevo récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-1420140'>Nuevo golpe a las IPTV piratas en España: Telegram ha empezado a enviar los datos de los usuarios a la Guardia Civil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-1420140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-4264028.jpg?tf=1200x' alt='Nuevo golpe a las IPTV piratas en España: Telegram ha empezado a enviar los datos de los usuarios a la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-1420211'>Tenemos nuevo ordenador más potente del mundo: tiene chips de AMD y humilla a las máquinas de Intel</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-1420211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-4264148.jpg?tf=1200x' alt='Tenemos nuevo ordenador más potente del mundo: tiene chips de AMD y humilla a las máquinas de Intel' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-maps-iphone-tal-como-conocias-1420167'>Adiós a Google Maps en tu iPhone tal y como lo conocías</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-maps-iphone-tal-como-conocias-1420167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4264057.jpg?tf=1200x' alt='Adiós a Google Maps en tu iPhone tal y como lo conocías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-pc-te-funciona-mal-chrome-culpa-google-1420151'>Ni es tu móvil ni tu PC, si te funciona mal Chrome es culpa de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movil-ni-pc-te-funciona-mal-chrome-culpa-google-1420151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4264099.jpg?tf=1200x' alt='Ni es tu móvil ni tu PC, si te funciona mal Chrome es culpa de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anticipa-todos-anuncia-primer-ordenador-cuantico-comercial-mundo-1420121'>Microsoft se anticipa a todos y anuncia el primer ordenador cuántico comercial del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anticipa-todos-anuncia-primer-ordenador-cuantico-comercial-mundo-1420121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ordenador-cuantico-4264098.jpg?tf=1200x' alt='Microsoft se anticipa a todos y anuncia el primer ordenador cuántico comercial del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-incluira-cambio-playstation-6-promete-revolucionar-videojuegos-1420173'>Sony incluirá un cambio en la PlayStation 6 que promete revolucionar los videojuegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/sony-incluira-cambio-playstation-6-promete-revolucionar-videojuegos-1420173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/playstation-7-romperia-tendencia-historica-sony-consolas-marcaria-nuevo-inicio-3616418.jpg?tf=1200x' alt='Sony incluirá un cambio en la PlayStation 6 que promete revolucionar los videojuegos' />
     </a>
 </div>
 
