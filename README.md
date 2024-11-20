@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/japon-concurso-harakiri-seppuku-ritual-suicidio-samurai-1419994'>En Japón van a celebrar un concurso de Harakiri o Seppuku, el ritual de suicidio samurái</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/japon-concurso-harakiri-seppuku-ritual-suicidio-samurai-1419994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/concurso-harakiri-seppuku-ritual-suicidio-iba-celebrarse-japon-tiene-final-esperado-4263802.jpg?tf=1200x' alt='En Japón van a celebrar un concurso de Harakiri o Seppuku, el ritual de suicidio samurái' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ultima-bolsa-tenis-rafa-nadal-babolat-todos-records-1419977'>La última bolsa de tenis de Rafa Nadal con todos sus récords: '300 kilómetros de cuerdas gastadas'</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ultima-bolsa-tenis-rafa-nadal-babolat-todos-records-1419977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-bolsa-tenis-rafa-nadal-todos-records-300-kilometros-cuerdas-gastadas-4263779.jpg?tf=1200x' alt='La última bolsa de tenis de Rafa Nadal con todos sus récords: '300 kilómetros de cuerdas gastadas'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891'>Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-4263608.jpg?tf=1200x' alt='Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/cambiar-windows-linux-portatil-viejo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/cambiar-windows-linux-portatil-viejo-chromeos-flex-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo' />
     </a>
 </div>
 
