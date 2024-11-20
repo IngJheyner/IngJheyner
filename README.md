@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tomar-notas-inteligencia-artificial-te-resume-cualquier-reunion-conferencia-tan-solo-audio-1420117'>Adiós a tomar notas: esta Inteligencia Artificial te resume cualquier reunión o conferencia tan solo con el audio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-tomar-notas-inteligencia-artificial-te-resume-cualquier-reunion-conferencia-tan-solo-audio-1420117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-estudios-4263983.jpg?tf=1200x' alt='Adiós a tomar notas: esta Inteligencia Artificial te resume cualquier reunión o conferencia tan solo con el audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-hace-temblar-amazon-rebaja-dos-relojes-gps-alexa-99-euros-1419393'>Amazfit hace temblar Amazon: rebaja dos de sus relojes GPS con Alexa ¡desde 99 euros!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-hace-temblar-amazon-rebaja-dos-relojes-gps-alexa-99-euros-1419393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Amazfit hace temblar Amazon: rebaja dos de sus relojes GPS con Alexa ¡desde 99 euros!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-ya-aqui-todo-debes-saber-1420103'>Android 16 ya está aquí: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-ya-aqui-todo-debes-saber-1420103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-16-4243806.jpg?tf=1200x' alt='Android 16 ya está aquí: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/smartwatches-gps-favoritos-ano-amazon-tiene-precio-ridiculo-1420015'>Es de nuestros smartwatches con GPS favoritos este año, y Amazon lo tiene a precio ridículo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/smartwatches-gps-favoritos-ano-amazon-tiene-precio-ridiculo-1420015' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cmf-nothing-watch-pro-2-4263836.jpg?tf=1200x' alt='Es de nuestros smartwatches con GPS favoritos este año, y Amazon lo tiene a precio ridículo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/niantic-creara-ia-gps-basada-datos-pokemon-go-1420025'>Niantic creará una IA GPS basada en datos de Pokemon GO</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/niantic-creara-ia-gps-basada-datos-pokemon-go-1420025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg?tf=1200x' alt='Niantic creará una IA GPS basada en datos de Pokemon GO' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-watch-d2-primer-smartwatch-monitorizacion-presion-arterial-1406006'>Por fin llega a España Huawei Watch D2, el primer smartwatch con monitorización de presión arterial ambulatoria</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-watch-d2-primer-smartwatch-monitorizacion-presion-arterial-1406006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-d2-4262251.jpg?tf=1200x' alt='Por fin llega a España Huawei Watch D2, el primer smartwatch con monitorización de presión arterial ambulatoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-mini-pc-geekom-gt1-mega-rendimiento-windows-consigues-pc-tan-pequeno-1417828'>Lo mejor del mini PC Geekom GT1 Mega es el rendimiento para Windows que consigues en un PC tan pequeño</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-mini-pc-geekom-gt1-mega-rendimiento-windows-consigues-pc-tan-pequeno-1417828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-gt1-mega-4255057.jpg?tf=1200x' alt='Lo mejor del mini PC Geekom GT1 Mega es el rendimiento para Windows que consigues en un PC tan pequeño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/creo-espana-deberiamos-tener-algo-como-alipay-pagar-despues-probarlo-semana-china-1414205'>Por qué creo que en España deberíamos tener algo como AliPay para pagar después de probarlo una semana en China</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/creo-espana-deberiamos-tener-algo-como-alipay-pagar-despues-probarlo-semana-china-1414205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-alipay-4253906.jpg?tf=1200x' alt='Por qué creo que en España deberíamos tener algo como AliPay para pagar después de probarlo una semana en China' />
     </a>
 </div>
 
