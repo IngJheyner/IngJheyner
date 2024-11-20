@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263'>Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-4264297.jpg?tf=1200x' alt='Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-alaba-ley-italia-iptv-futbol-gratis-1420301'>Javier Tebas elige el método italiano para acabar con las IPTV, la piratería y el fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/javier-tebas-alaba-ley-italia-iptv-futbol-gratis-1420301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-elige-metodo-italiano-acabar-iptv-pirateria-futbol-gratis-4264259.jpg?tf=1200x' alt='Javier Tebas elige el método italiano para acabar con las IPTV, la piratería y el fútbol gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/modo-voz-avanzado-chatgpt-cerca-llegar-usuarios-gratuitos-habla-chatgpt-como-nunca-antes-1420283'>El modo de voz avanzado de ChatGPT cerca de llegar a los usuarios gratuitos: ¡Habla con ChatGPT como nunca antes!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/modo-voz-avanzado-chatgpt-cerca-llegar-usuarios-gratuitos-habla-chatgpt-como-nunca-antes-1420283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modo-voz-avanzado-chatgpt-4264262.jpg?tf=1200x' alt='El modo de voz avanzado de ChatGPT cerca de llegar a los usuarios gratuitos: ¡Habla con ChatGPT como nunca antes!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/pasando-widgets-windows-11-microsoft-retira-temporalmente-razon-1420281'>¿Qué está pasando con los widgets de Windows 11? Microsoft los retira temporalmente por esta razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/pasando-widgets-windows-11-microsoft-retira-temporalmente-razon-1420281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-4264258.jpg?tf=1200x' alt='¿Qué está pasando con los widgets de Windows 11? Microsoft los retira temporalmente por esta razón' />
     </a>
 </div>
 
