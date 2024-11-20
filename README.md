@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-alaba-ley-italia-iptv-futbol-gratis-1420301'>Javier Tebas elige el método italiano para acabar con las IPTV, la piratería y el fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-alaba-ley-italia-iptv-futbol-gratis-1420301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-elige-metodo-italiano-acabar-iptv-pirateria-futbol-gratis-4264259.jpg?tf=1200x' alt='Javier Tebas elige el método italiano para acabar con las IPTV, la piratería y el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-whatsapp-estudio-revela-cual-app-preferida-jovenes-2024-1420222'>Ni TikTok ni WhatsApp: un estudio revela cuál es la app preferida por los jóvenes en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-whatsapp-estudio-revela-cual-app-preferida-jovenes-2024-1420222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/generacion-z-3145148.jpg?tf=1200x' alt='Ni TikTok ni WhatsApp: un estudio revela cuál es la app preferida por los jóvenes en 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/pasando-widgets-windows-11-microsoft-retira-temporalmente-razon-1420281'>¿Qué está pasando con los widgets de Windows 11? Microsoft los retira temporalmente por esta razón</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/pasando-widgets-windows-11-microsoft-retira-temporalmente-razon-1420281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-4264258.jpg?tf=1200x' alt='¿Qué está pasando con los widgets de Windows 11? Microsoft los retira temporalmente por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ha-hecho-rogar-pero-fin-regresa-serie-ciencia-ficcion-popular-despues-tres-anos-1420089'>Netflix se ha hecho de rogar, pero al fin regresa su serie de ciencia ficción más popular después de tres años</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ha-hecho-rogar-pero-fin-regresa-serie-ciencia-ficcion-popular-despues-tres-anos-1420089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-ha-hecho-rogar-pero-fin-regresa-serie-ciencia-ficcion-popular-despues-tres-anos-4263910.jpg?tf=1200x' alt='Netflix se ha hecho de rogar, pero al fin regresa su serie de ciencia ficción más popular después de tres años' />
     </a>
 </div>
 
