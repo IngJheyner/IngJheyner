@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-amazfit-rival-garmin-mas-barato-cupon-descuento-amazon-1417416'>Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-amazfit-rival-garmin-mas-barato-cupon-descuento-amazon-1417416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazfit-t-rex-3-4259191.jpg?tf=1200x' alt='Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/japon-concurso-harakiri-seppuku-ritual-suicidio-samurai-1419994'>En Japón van a celebrar un concurso de Harakiri o Seppuku, el ritual de suicidio samurái</a></h4>
     <a href='https://computerhoy.20minutos.es/life/japon-concurso-harakiri-seppuku-ritual-suicidio-samurai-1419994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/concurso-harakiri-seppuku-ritual-suicidio-iba-celebrarse-japon-tiene-final-esperado-4263802.jpg?tf=1200x' alt='En Japón van a celebrar un concurso de Harakiri o Seppuku, el ritual de suicidio samurái' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-1419917'>BlueSky: la configuración perfecta para evitar los bulos y que no se convierta en otro X</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-1419917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-4263778.jpg?tf=1200x' alt='BlueSky: la configuración perfecta para evitar los bulos y que no se convierta en otro X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891'>Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-1419891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-joker-ni-borderlands-peor-fracaso-taquilla-2024-pelicula-protagonizada-dwayne-johnson-4263608.jpg?tf=1200x' alt='Ni Joker ni Borderlands: el peor fracaso de taquilla de 2024 es esta película protagonizada por Dwayne Johnson' />
     </a>
 </div>
 
