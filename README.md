@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anticipa-todos-anuncia-primer-ordenador-cuantico-comercial-mundo-1420121'>Microsoft se anticipa a todos y anuncia el primer ordenador cuántico comercial del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anticipa-todos-anuncia-primer-ordenador-cuantico-comercial-mundo-1420121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ordenador-cuantico-4264098.jpg?tf=1200x' alt='Microsoft se anticipa a todos y anuncia el primer ordenador cuántico comercial del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-incluira-cambio-playstation-6-promete-revolucionar-videojuegos-1420173'>Sony incluirá un cambio en la PlayStation 6 que promete revolucionar los videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sony-incluira-cambio-playstation-6-promete-revolucionar-videojuegos-1420173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/playstation-7-romperia-tendencia-historica-sony-consolas-marcaria-nuevo-inicio-3616418.jpg?tf=1200x' alt='Sony incluirá un cambio en la PlayStation 6 que promete revolucionar los videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/guardia-civil-multa-producto-prohibido-online-1408914'>Guardia Civil avisa: si lo compras online, lo que te llegará es una multa de 800 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/guardia-civil-multa-producto-prohibido-online-1408914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/guardia-civil-ia-ciberseguridad-3881784.jpg?tf=1200x' alt='Guardia Civil avisa: si lo compras online, lo que te llegará es una multa de 800 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/quieres-ser-como-elon-musk-bill-gates-exesposa-musk-sabe-secreto-estar-obsesionado-1420175'>¿Quieres ser como Elon Musk o Bill Gates? La exesposa de Musk sabe el secreto: "Estar obsesionado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/quieres-ser-como-elon-musk-bill-gates-exesposa-musk-sabe-secreto-estar-obsesionado-1420175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/steve-jobs-bill-gates-elon-musk-rasgos-personalidad-tienen-comun-3241118.jpg?tf=1200x' alt='¿Quieres ser como Elon Musk o Bill Gates? La exesposa de Musk sabe el secreto: "Estar obsesionado"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ia-resume-cualquier-clase-reunion-segundos-resuelve-todas-dudas-como-tener-profesor-particular-1420101'>Esta IA resume cualquier clase o reunión en segundos y resuelve todas las dudas: "es como tener un profesor particular"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ia-resume-cualquier-clase-reunion-segundos-resuelve-todas-dudas-como-tener-profesor-particular-1420101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-supera-apple-google-resume-cualquier-reunion-tan-solo-audio-4263969.jpg?tf=1200x' alt='Esta IA resume cualquier clase o reunión en segundos y resuelve todas las dudas: "es como tener un profesor particular"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/jefe-te-escribe-whatsapp-fuera-horario-laboral-estos-son-consejos-abogada-1420129'>¿Tu jefe te escribe por WhatsApp fuera del horario laboral? Estos son los consejos de una abogada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/jefe-te-escribe-whatsapp-fuera-horario-laboral-estos-son-consejos-abogada-1420129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enfado-movil-trabajo-4263992.jpg?tf=1200x' alt='¿Tu jefe te escribe por WhatsApp fuera del horario laboral? Estos son los consejos de una abogada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/bascula-tanita-mitico-videojuego-snk-1420168'>¿Terror a pesarte? Esta báscula te deja jugar a un mítico videojuego si te pesas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/bascula-tanita-mitico-videojuego-snk-1420168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/terror-pesarte-bascula-te-deja-jugar-mitico-videojuego-dejas-te-pese-4264020.jpg?tf=1200x' alt='¿Terror a pesarte? Esta báscula te deja jugar a un mítico videojuego si te pesas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/imagenes-explosion-spacex-starship-1419765'>Impactantes imágenes del fracaso del lanzamiento de Starship de SpaceX</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/imagenes-explosion-spacex-starship-1419765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spacex-starship-4264026.jpg?tf=1200x' alt='Impactantes imágenes del fracaso del lanzamiento de Starship de SpaceX' />
     </a>
 </div>
 
