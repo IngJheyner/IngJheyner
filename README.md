@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-amazfit-rival-garmin-mas-barato-cupon-descuento-amazon-1417416'>Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-amazfit-rival-garmin-mas-barato-cupon-descuento-amazon-1417416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazfit-t-rex-3-4259191.jpg?tf=1200x' alt='Este reloj ultrarresistente de Amazfit planta cara a los Garmin, y Amazon lo ha rebajado con un cupón descuento' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-chrome-desesperante-puede-desactivar-1419776'>Es la función de Chrome más desesperante, y sí, se puede desactivar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funcion-chrome-desesperante-puede-desactivar-1419776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4263497.jpg?tf=1200x' alt='Es la función de Chrome más desesperante, y sí, se puede desactivar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/japon-concurso-harakiri-seppuku-ritual-suicidio-samurai-1419994'>En Japón van a celebrar un concurso de Harakiri o Seppuku, el ritual de suicidio samurái</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/japon-concurso-harakiri-seppuku-ritual-suicidio-samurai-1419994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/concurso-harakiri-seppuku-ritual-suicidio-iba-celebrarse-japon-tiene-final-esperado-4263802.jpg?tf=1200x' alt='En Japón van a celebrar un concurso de Harakiri o Seppuku, el ritual de suicidio samurái' />
+    <h4><a href='https://computerhoy.20minutos.es/android/funcion-oculta-boton-circular-movil-android-te-facilitara-mucho-vida-1419676'>La función oculta del botón circular de tu móvil Android que te facilitará mucho la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/funcion-oculta-boton-circular-movil-android-te-facilitara-mucho-vida-1419676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/boton-inicio-movil-4263660.jpg?tf=1200x' alt='La función oculta del botón circular de tu móvil Android que te facilitará mucho la vida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ultima-bolsa-tenis-rafa-nadal-babolat-todos-records-1419977'>La última bolsa de tenis de Rafa Nadal con todos sus récords: '300 kilómetros de cuerdas gastadas'</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ultima-bolsa-tenis-rafa-nadal-babolat-todos-records-1419977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ultima-bolsa-tenis-rafa-nadal-todos-records-300-kilometros-cuerdas-gastadas-4263779.jpg?tf=1200x' alt='La última bolsa de tenis de Rafa Nadal con todos sus récords: '300 kilómetros de cuerdas gastadas'' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-tiene-15000-peliculas-series-gratis-1419674'>Ni Pluto TV ni TDTChannels, esta app tiene más de 15.000 películas y series gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-tiene-15000-peliculas-series-gratis-1419674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-pluto-tv-ni-tdtchannels-app-tiene-15000-peliculas-series-gratis-4263355.jpg?tf=1200x' alt='Ni Pluto TV ni TDTChannels, esta app tiene más de 15.000 películas y series gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898'>Adiós España, hola Andorra: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-1419898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-espana-hola-andorra-ibai-auronplay-jordi-wild-podrian-abandonar-pais-polemica-ley-influencers-4263709.jpg?tf=1200x' alt='Adiós España, hola Andorra: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sospechas-te-estan-espiando-grabando-conversaciones-puedes-confirmarlo-1419618'>¿Sospechas que te están espiando o grabando tus conversaciones? Así puedes confirmarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/sospechas-te-estan-espiando-grabando-conversaciones-puedes-confirmarlo-1419618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sospechas-te-espiando-grabando-conversaciones-puedes-confirmarlo-4263344.jpg?tf=1200x' alt='¿Sospechas que te están espiando o grabando tus conversaciones? Así puedes confirmarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-1419917'>BlueSky: la configuración perfecta para evitar los bulos y que no se convierta en otro X</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-1419917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-configuracion-perfecta-evitar-bulos-no-convierta-otro-x-4263778.jpg?tf=1200x' alt='BlueSky: la configuración perfecta para evitar los bulos y que no se convierta en otro X' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuracion-debe-tener-router-optimizar-juegos-online-1419247'>Esta es la configuración que debe tener tu router para optimizar los juegos online</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/configuracion-debe-tener-router-optimizar-juegos-online-1419247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/juegos-online-router-4262689.jpg?tf=1200x' alt='Esta es la configuración que debe tener tu router para optimizar los juegos online' />
     </a>
 </div>
 
