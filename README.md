@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/bascula-tanita-mitico-videojuego-snk-1420168'>¿Terror a pesarte? Esta báscula te deja jugar a un mítico videojuego si te pesas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/bascula-tanita-mitico-videojuego-snk-1420168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/terror-pesarte-bascula-te-deja-jugar-mitico-videojuego-dejas-te-pese-4264020.jpg?tf=1200x' alt='¿Terror a pesarte? Esta báscula te deja jugar a un mítico videojuego si te pesas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/imagenes-explosion-spacex-starship-1419765'>Impactantes imágenes del fracaso del lanzamiento de Starship de SpaceX</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/imagenes-explosion-spacex-starship-1419765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spacex-starship-4264026.jpg?tf=1200x' alt='Impactantes imágenes del fracaso del lanzamiento de Starship de SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-ios-1811-novedades-todas-mejoras-llegan-iphone-1420090'>Apple iOS 18.1.1: novedades y todas las mejoras que llegan a tu iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-ios-1811-novedades-todas-mejoras-llegan-iphone-1420090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ios-18-3479154.jpg?tf=1200x' alt='Apple iOS 18.1.1: novedades y todas las mejoras que llegan a tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tienes-mac-actualiza-ya-podrias-haber-sido-victima-ciberataque-1420031'>Si tienes un Mac, actualiza ya: podrías haber sido víctima de un ciberataque</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tienes-mac-actualiza-ya-podrias-haber-sido-victima-ciberataque-1420031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tienes-mac-actualiza-ya-podrias-haber-sido-victima-ciberataque-4263895.jpg?tf=1200x' alt='Si tienes un Mac, actualiza ya: podrías haber sido víctima de un ciberataque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tomar-notas-inteligencia-artificial-te-resume-cualquier-reunion-conferencia-tan-solo-audio-1420117'>Adiós a tomar notas: esta Inteligencia Artificial te resume cualquier reunión o conferencia tan solo con el audio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-tomar-notas-inteligencia-artificial-te-resume-cualquier-reunion-conferencia-tan-solo-audio-1420117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-estudios-4263983.jpg?tf=1200x' alt='Adiós a tomar notas: esta Inteligencia Artificial te resume cualquier reunión o conferencia tan solo con el audio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-hace-temblar-amazon-rebaja-dos-relojes-gps-alexa-99-euros-1419393'>Amazfit hace temblar Amazon: rebaja dos de sus relojes GPS con Alexa ¡desde 99 euros!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-hace-temblar-amazon-rebaja-dos-relojes-gps-alexa-99-euros-1419393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cheetah-amazfit-round-3933147.jpg?tf=1200x' alt='Amazfit hace temblar Amazon: rebaja dos de sus relojes GPS con Alexa ¡desde 99 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-16-ya-aqui-todo-debes-saber-1420103'>Android 16 ya está aquí: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-16-ya-aqui-todo-debes-saber-1420103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-16-4243806.jpg?tf=1200x' alt='Android 16 ya está aquí: todo lo que debes saber' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/smartwatches-gps-favoritos-ano-amazon-tiene-precio-ridiculo-1420015'>Es de nuestros smartwatches con GPS favoritos este año, y Amazon lo tiene a precio ridículo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/smartwatches-gps-favoritos-ano-amazon-tiene-precio-ridiculo-1420015' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cmf-nothing-watch-pro-2-4263836.jpg?tf=1200x' alt='Es de nuestros smartwatches con GPS favoritos este año, y Amazon lo tiene a precio ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/niantic-creara-ia-gps-basada-datos-pokemon-go-1420025'>Niantic creará una IA GPS basada en datos de Pokemon GO</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/niantic-creara-ia-gps-basada-datos-pokemon-go-1420025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg?tf=1200x' alt='Niantic creará una IA GPS basada en datos de Pokemon GO' />
     </a>
 </div>
 
