@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/estreno-microsoft-flight-simulator-desastre-1420316'>El estreno de Microsoft Flight Simulator 2024 ha sido un desastre: los jugadores no pueden ni despegar</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/estreno-microsoft-flight-simulator-desastre-1420316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estreno-microsoft-flight-simulator-desastre-jugadores-no-pueden-ni-despegar-4264298.jpg?tf=1200x' alt='El estreno de Microsoft Flight Simulator 2024 ha sido un desastre: los jugadores no pueden ni despegar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263'>Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-4264297.jpg?tf=1200x' alt='Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-llegaria-marzo-2025-adios-touch-id-hola-face-id-usb-c-1420285'>¡El iPhone SE 4 llegaría en marzo de 2025! Adiós Touch ID, hola Face ID y USB-C</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-4-llegaria-marzo-2025-adios-touch-id-hola-face-id-usb-c-1420285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='¡El iPhone SE 4 llegaría en marzo de 2025! Adiós Touch ID, hola Face ID y USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modo-voz-avanzado-chatgpt-cerca-llegar-usuarios-gratuitos-habla-chatgpt-como-nunca-antes-1420283'>El modo de voz avanzado de ChatGPT cerca de llegar a los usuarios gratuitos: ¡Habla con ChatGPT como nunca antes!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/modo-voz-avanzado-chatgpt-cerca-llegar-usuarios-gratuitos-habla-chatgpt-como-nunca-antes-1420283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modo-voz-avanzado-chatgpt-4264262.jpg?tf=1200x' alt='El modo de voz avanzado de ChatGPT cerca de llegar a los usuarios gratuitos: ¡Habla con ChatGPT como nunca antes!' />
     </a>
 </div>
 
