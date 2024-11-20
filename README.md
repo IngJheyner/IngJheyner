@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/echo-show-21-amazon-1420270'>El nuevo Echo Show 21 de Amazon es tan grande, que parece una tele</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/echo-show-21-amazon-1420270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-echo-show-21-amazon-tan-grande-parece-tele-4264179.jpg?tf=1200x' alt='El nuevo Echo Show 21 de Amazon es tan grande, que parece una tele' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-whatsapp-estudio-revela-cual-app-preferida-jovenes-2024-1420222'>Ni TikTok ni WhatsApp: un estudio revela cuál es la app preferida por los jóvenes en 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-whatsapp-estudio-revela-cual-app-preferida-jovenes-2024-1420222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/generacion-z-3145148.jpg?tf=1200x' alt='Ni TikTok ni WhatsApp: un estudio revela cuál es la app preferida por los jóvenes en 2024' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/di-adios-cargadores-bateria-externa-lidl-te-sirve-movil-tablet-ultrarrapida-1419933'>Di adiós a los cargadores: la batería externa de Lidl que te sirve para el móvil o la táblet y es ultrarrápida</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/di-adios-cargadores-bateria-externa-lidl-te-sirve-movil-tablet-ultrarrapida-1419933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lidl-supermercado-espana-3740171.jpg?tf=1200x' alt='Di adiós a los cargadores: la batería externa de Lidl que te sirve para el móvil o la táblet y es ultrarrápida' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-llegaria-marzo-2025-adios-touch-id-hola-face-id-usb-c-1420285'>¡El iPhone SE 4 llegaría en marzo de 2025! Adiós Touch ID, hola Face ID y USB-C</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-4-llegaria-marzo-2025-adios-touch-id-hola-face-id-usb-c-1420285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='¡El iPhone SE 4 llegaría en marzo de 2025! Adiós Touch ID, hola Face ID y USB-C' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-gmail-tal-como-conocias-google-pone-seria-llega-correo-blindado-1420229'>Adiós a Gmail tal y como lo conocías: Google se pone seria, llega el "correo blindado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-gmail-tal-como-conocias-google-pone-seria-llega-correo-blindado-1420229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/correo-blindado-gmail-4264189.jpg?tf=1200x' alt='Adiós a Gmail tal y como lo conocías: Google se pone seria, llega el "correo blindado"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modo-voz-avanzado-chatgpt-cerca-llegar-usuarios-gratuitos-habla-chatgpt-como-nunca-antes-1420283'>El modo de voz avanzado de ChatGPT cerca de llegar a los usuarios gratuitos: ¡Habla con ChatGPT como nunca antes!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/modo-voz-avanzado-chatgpt-cerca-llegar-usuarios-gratuitos-habla-chatgpt-como-nunca-antes-1420283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modo-voz-avanzado-chatgpt-4264262.jpg?tf=1200x' alt='El modo de voz avanzado de ChatGPT cerca de llegar a los usuarios gratuitos: ¡Habla con ChatGPT como nunca antes!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/roban-movil-decide-ir-mercado-ladrones-marruecos-recuperarlo-volvere-1420238'>Le roban el móvil y decide ir al "mercado de los ladrones" en Marruecos para recuperarlo: "Volveré"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/roban-movil-decide-ir-mercado-ladrones-marruecos-recuperarlo-volvere-1420238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roban-movil-decide-ir-mercado-ladrones-marruecos-recuperarlo-volvere-4264212.jpg?tf=1200x' alt='Le roban el móvil y decide ir al "mercado de los ladrones" en Marruecos para recuperarlo: "Volveré"' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/pasando-widgets-windows-11-microsoft-retira-temporalmente-razon-1420281'>¿Qué está pasando con los widgets de Windows 11? Microsoft los retira temporalmente por esta razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/pasando-widgets-windows-11-microsoft-retira-temporalmente-razon-1420281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-4264258.jpg?tf=1200x' alt='¿Qué está pasando con los widgets de Windows 11? Microsoft los retira temporalmente por esta razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-planta-cara-chatgpt-gemini-ahora-personaliza-respuestas-gracias-nueva-funcion-memoria-1420185'>Google planta cara a ChatGPT: Gemini ahora personaliza respuestas gracias a su nueva función de memoria</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-planta-cara-chatgpt-gemini-ahora-personaliza-respuestas-gracias-nueva-funcion-memoria-1420185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Google planta cara a ChatGPT: Gemini ahora personaliza respuestas gracias a su nueva función de memoria' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ha-hecho-rogar-pero-fin-regresa-serie-ciencia-ficcion-popular-despues-tres-anos-1420089'>Netflix se ha hecho de rogar, pero al fin regresa su serie de ciencia ficción más popular después de tres años</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ha-hecho-rogar-pero-fin-regresa-serie-ciencia-ficcion-popular-despues-tres-anos-1420089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-ha-hecho-rogar-pero-fin-regresa-serie-ciencia-ficcion-popular-despues-tres-anos-4263910.jpg?tf=1200x' alt='Netflix se ha hecho de rogar, pero al fin regresa su serie de ciencia ficción más popular después de tres años' />
     </a>
 </div>
 
