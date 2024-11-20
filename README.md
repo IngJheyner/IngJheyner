@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-watch-d2-primer-smartwatch-monitorizacion-presion-arterial-1406006'>Por fin llega a España Huawei Watch D2, el primer smartwatch con monitorización de presión arterial ambulatoria</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-watch-d2-primer-smartwatch-monitorizacion-presion-arterial-1406006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-d2-4262251.jpg?tf=1200x' alt='Por fin llega a España Huawei Watch D2, el primer smartwatch con monitorización de presión arterial ambulatoria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-mini-pc-geekom-gt1-mega-rendimiento-windows-consigues-pc-tan-pequeno-1417828'>Lo mejor del mini PC Geekom GT1 Mega es el rendimiento para Windows que consigues en un PC tan pequeño</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-mini-pc-geekom-gt1-mega-rendimiento-windows-consigues-pc-tan-pequeno-1417828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/geekom-gt1-mega-4255057.jpg?tf=1200x' alt='Lo mejor del mini PC Geekom GT1 Mega es el rendimiento para Windows que consigues en un PC tan pequeño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/creo-espana-deberiamos-tener-algo-como-alipay-pagar-despues-probarlo-semana-china-1414205'>Por qué creo que en España deberíamos tener algo como AliPay para pagar después de probarlo una semana en China</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/creo-espana-deberiamos-tener-algo-como-alipay-pagar-despues-probarlo-semana-china-1414205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-alipay-4253906.jpg?tf=1200x' alt='Por qué creo que en España deberíamos tener algo como AliPay para pagar después de probarlo una semana en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-chrome-desesperante-puede-desactivar-1419776'>Es la función de Chrome más desesperante, y sí, se puede desactivar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/funcion-chrome-desesperante-puede-desactivar-1419776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4263497.jpg?tf=1200x' alt='Es la función de Chrome más desesperante, y sí, se puede desactivar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/funcion-oculta-boton-circular-movil-android-te-facilitara-mucho-vida-1419676'>La función oculta del botón circular de tu móvil Android que te facilitará mucho la vida</a></h4>
     <a href='https://computerhoy.20minutos.es/android/funcion-oculta-boton-circular-movil-android-te-facilitara-mucho-vida-1419676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/boton-inicio-movil-4263660.jpg?tf=1200x' alt='La función oculta del botón circular de tu móvil Android que te facilitará mucho la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-tiene-15000-peliculas-series-gratis-1419674'>Ni Pluto TV ni TDTChannels, esta app tiene más de 15.000 películas y series gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-tiene-15000-peliculas-series-gratis-1419674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-pluto-tv-ni-tdtchannels-app-tiene-15000-peliculas-series-gratis-4263355.jpg?tf=1200x' alt='Ni Pluto TV ni TDTChannels, esta app tiene más de 15.000 películas y series gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/sospechas-te-estan-espiando-grabando-conversaciones-puedes-confirmarlo-1419618'>¿Sospechas que te están espiando o grabando tus conversaciones? Así puedes confirmarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/sospechas-te-estan-espiando-grabando-conversaciones-puedes-confirmarlo-1419618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sospechas-te-espiando-grabando-conversaciones-puedes-confirmarlo-4263344.jpg?tf=1200x' alt='¿Sospechas que te están espiando o grabando tus conversaciones? Así puedes confirmarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuracion-debe-tener-router-optimizar-juegos-online-1419247'>Esta es la configuración que debe tener tu router para optimizar los juegos online</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/configuracion-debe-tener-router-optimizar-juegos-online-1419247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/juegos-online-router-4262689.jpg?tf=1200x' alt='Esta es la configuración que debe tener tu router para optimizar los juegos online' />
     </a>
 </div>
 
