@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/echo-show-21-amazon-1420270'>El nuevo Echo Show 21 de Amazon es tan grande, que parece una tele</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/echo-show-21-amazon-1420270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-echo-show-21-amazon-tan-grande-parece-tele-4264179.jpg?tf=1200x' alt='El nuevo Echo Show 21 de Amazon es tan grande, que parece una tele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/di-adios-cargadores-bateria-externa-lidl-te-sirve-movil-tablet-ultrarrapida-1419933'>Di adiós a los cargadores: la batería externa de Lidl que te sirve para el móvil o la táblet y es ultrarrápida</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/di-adios-cargadores-bateria-externa-lidl-te-sirve-movil-tablet-ultrarrapida-1419933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/lidl-supermercado-espana-3740171.jpg?tf=1200x' alt='Di adiós a los cargadores: la batería externa de Lidl que te sirve para el móvil o la táblet y es ultrarrápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-gmail-tal-como-conocias-google-pone-seria-llega-correo-blindado-1420229'>Adiós a Gmail tal y como lo conocías: Google se pone seria, llega el "correo blindado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-gmail-tal-como-conocias-google-pone-seria-llega-correo-blindado-1420229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/correo-blindado-gmail-4264189.jpg?tf=1200x' alt='Adiós a Gmail tal y como lo conocías: Google se pone seria, llega el "correo blindado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/roban-movil-decide-ir-mercado-ladrones-marruecos-recuperarlo-volvere-1420238'>Le roban el móvil y decide ir al "mercado de los ladrones" en Marruecos para recuperarlo: "Volveré"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/roban-movil-decide-ir-mercado-ladrones-marruecos-recuperarlo-volvere-1420238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roban-movil-decide-ir-mercado-ladrones-marruecos-recuperarlo-volvere-4264212.jpg?tf=1200x' alt='Le roban el móvil y decide ir al "mercado de los ladrones" en Marruecos para recuperarlo: "Volveré"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-planta-cara-chatgpt-gemini-ahora-personaliza-respuestas-gracias-nueva-funcion-memoria-1420185'>Google planta cara a ChatGPT: Gemini ahora personaliza respuestas gracias a su nueva función de memoria</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-planta-cara-chatgpt-gemini-ahora-personaliza-respuestas-gracias-nueva-funcion-memoria-1420185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Google planta cara a ChatGPT: Gemini ahora personaliza respuestas gracias a su nueva función de memoria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-slim-cumplira-sueno-steve-jobs-batira-nuevo-record-1420177'>El iPhone 17 Slim cumplirá el sueño de Steve Jobs y batirá un nuevo récord</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-slim-cumplira-sueno-steve-jobs-batira-nuevo-record-1420177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-slim-4264178.jpg?tf=1200x' alt='El iPhone 17 Slim cumplirá el sueño de Steve Jobs y batirá un nuevo récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-1420140'>Nuevo golpe a las IPTV piratas en España: Telegram ha empezado a enviar los datos de los usuarios a la Guardia Civil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-1420140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-4264028.jpg?tf=1200x' alt='Nuevo golpe a las IPTV piratas en España: Telegram ha empezado a enviar los datos de los usuarios a la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-1420211'>Tenemos nuevo ordenador más potente del mundo: tiene chips de AMD y humilla a las máquinas de Intel</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-1420211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tenemos-nuevo-ordenador-potente-mundo-tiene-chips-amd-humilla-maquinas-intel-4264148.jpg?tf=1200x' alt='Tenemos nuevo ordenador más potente del mundo: tiene chips de AMD y humilla a las máquinas de Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-maps-iphone-tal-como-conocias-1420167'>Adiós a Google Maps en tu iPhone tal y como lo conocías</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-maps-iphone-tal-como-conocias-1420167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4264057.jpg?tf=1200x' alt='Adiós a Google Maps en tu iPhone tal y como lo conocías' />
     </a>
 </div>
 
