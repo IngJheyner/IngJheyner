@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/smartwatches-gps-favoritos-ano-amazon-tiene-precio-ridiculo-1420015'>Es de nuestros smartwatches con GPS favoritos este año, y Amazon lo tiene a precio ridículo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/smartwatches-gps-favoritos-ano-amazon-tiene-precio-ridiculo-1420015' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cmf-nothing-watch-pro-2-4263836.jpg?tf=1200x' alt='Es de nuestros smartwatches con GPS favoritos este año, y Amazon lo tiene a precio ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/niantic-creara-ia-gps-basada-datos-pokemon-go-1420025'>Niantic creará una IA GPS basada en datos de Pokemon GO</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/niantic-creara-ia-gps-basada-datos-pokemon-go-1420025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/09/pokemon-go-2459103.jpg?tf=1200x' alt='Niantic creará una IA GPS basada en datos de Pokemon GO' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-watch-d2-primer-smartwatch-monitorizacion-presion-arterial-1406006'>Por fin llega a España Huawei Watch D2, el primer smartwatch con monitorización de presión arterial ambulatoria</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/huawei-watch-d2-primer-smartwatch-monitorizacion-presion-arterial-1406006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-d2-4262251.jpg?tf=1200x' alt='Por fin llega a España Huawei Watch D2, el primer smartwatch con monitorización de presión arterial ambulatoria' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/creo-espana-deberiamos-tener-algo-como-alipay-pagar-despues-probarlo-semana-china-1414205'>Por qué creo que en España deberíamos tener algo como AliPay para pagar después de probarlo una semana en China</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/creo-espana-deberiamos-tener-algo-como-alipay-pagar-despues-probarlo-semana-china-1414205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-alipay-4253906.jpg?tf=1200x' alt='Por qué creo que en España deberíamos tener algo como AliPay para pagar después de probarlo una semana en China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-chrome-desesperante-puede-desactivar-1419776'>Es la función de Chrome más desesperante, y sí, se puede desactivar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funcion-chrome-desesperante-puede-desactivar-1419776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4263497.jpg?tf=1200x' alt='Es la función de Chrome más desesperante, y sí, se puede desactivar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/funcion-oculta-boton-circular-movil-android-te-facilitara-mucho-vida-1419676'>La función oculta del botón circular de tu móvil Android que te facilitará mucho la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/funcion-oculta-boton-circular-movil-android-te-facilitara-mucho-vida-1419676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/boton-inicio-movil-4263660.jpg?tf=1200x' alt='La función oculta del botón circular de tu móvil Android que te facilitará mucho la vida' />
     </a>
 </div>
 
