@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/iker-jimenez-recupera-canal-youtube-pero-puede-no-tengas-tanta-suerte-revisa-estos-puntos-no-te-cancelen-1420435'>Iker Jiménez recupera su canal de YouTube, pero puede que tú no tengas tanta suerte: revisa estos puntos para que no te lo cancelen</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/iker-jimenez-recupera-canal-youtube-pero-puede-no-tengas-tanta-suerte-revisa-estos-puntos-no-te-cancelen-1420435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iker-jimenez-youtube-4264492.jpg?tf=1200x' alt='Iker Jiménez recupera su canal de YouTube, pero puede que tú no tengas tanta suerte: revisa estos puntos para que no te lo cancelen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-openai-convierte-ultimo-ejecutivo-tecnologico-mete-politica-1420434'>Tras Elon Musk, Sam Altman de OpenAI se convierte en el último ejecutivo tecnológico que se mete en política</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-openai-convierte-ultimo-ejecutivo-tecnologico-mete-politica-1420434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/director-ejecutivo-openai-sam-altman-3445145.jpg?tf=1200x' alt='Tras Elon Musk, Sam Altman de OpenAI se convierte en el último ejecutivo tecnológico que se mete en política' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/platano-cinta-adhesiva-vende-62-millones-dolares-subasta-arte-1420391'>Plátano con cinta adhesiva se vende por 6,2 millones de dólares en subasta de arte</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/platano-cinta-adhesiva-vende-62-millones-dolares-subasta-arte-1420391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/platano-cinta-adhesiva-vende-62-millones-dolares-subasta-arte-4264413.jpg?tf=1200x' alt='Plátano con cinta adhesiva se vende por 6,2 millones de dólares en subasta de arte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvida-vende-10-millones-hora-pero-pega-chip-blackwell-1420396'>NVIDA vende más de 10 millones a la hora, pero se la pega con el chip Blackwell</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvida-vende-10-millones-hora-pero-pega-chip-blackwell-1420396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-4064064.jpg?tf=1200x' alt='NVIDA vende más de 10 millones a la hora, pero se la pega con el chip Blackwell' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-saca-artilleria-fire-tv-stick-vuelven-estar-precio-calientan-black-friday-1419401'>Amazon saca la artillería: los Fire TV Stick vuelven a estar a su precio más bajo y calientan el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-saca-artilleria-fire-tv-stick-vuelven-estar-precio-calientan-black-friday-1419401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-fire-tv-stick-4k-4262941.jpg?tf=1200x' alt='Amazon saca la artillería: los Fire TV Stick vuelven a estar a su precio más bajo y calientan el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-oleada-dimisiones-acaba-teletrabajo-aunque-admite-da-igual-1420415'>Elon Musk prevé una oleada de dimisiones si acaba con el teletrabajo, aunque admite que le da igual</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-oleada-dimisiones-acaba-teletrabajo-aunque-admite-da-igual-1420415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-despidos-4264463.jpg?tf=1200x' alt='Elon Musk prevé una oleada de dimisiones si acaba con el teletrabajo, aunque admite que le da igual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-pasa-juego-tiene-beneficios-limpios-10-millones-hora-1420367'>NVIDIA se pasa el juego: tiene unos beneficios limpios de 10 millones a la hora</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-pasa-juego-tiene-beneficios-limpios-10-millones-hora-1420367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nvidia-tan-famosa-taiwan-ninos-disfrazan-ceo-jensen-huang-halloween-4255825.jpg?tf=1200x' alt='NVIDIA se pasa el juego: tiene unos beneficios limpios de 10 millones a la hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/alerta-actualiza-iphone-ipad-no-quieres-ser-hackeado-1420389'>Alerta: actualiza tu iPhone y iPad si no quieres ser hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/alerta-actualiza-iphone-ipad-no-quieres-ser-hackeado-1420389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-iphone-4264441.jpg?tf=1200x' alt='Alerta: actualiza tu iPhone y iPad si no quieres ser hackeado' />
     </a>
 </div>
 
