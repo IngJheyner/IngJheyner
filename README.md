@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/super-tecnologia-hay-detras-misiles-atacms-guerra-ucrania-1424676'>La súper tecnología que hay detrás de los misiles ATACMS de la guerra de Ucrania</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/super-tecnologia-hay-detras-misiles-atacms-guerra-ucrania-1424676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/super-tecnologia-hay-detras-misiles-atacms-guerra-ucrania-4264643.jpg?tf=1200x' alt='La súper tecnología que hay detrás de los misiles ATACMS de la guerra de Ucrania' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/stephen-hawking-albert-einstein-carl-sagan-pensarian-hoy-conflicto-ucrania-tercera-guerra-mundial-1420432'>Stephen Hawking, Albert Einstein o Carl Sagan: ¿Qué pensarían hoy sobre el conflicto en Ucrania y una tercera guerra mundial?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/stephen-hawking-albert-einstein-carl-sagan-pensarian-hoy-conflicto-ucrania-tercera-guerra-mundial-1420432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bomba-nuclear-4264471.jpg?tf=1200x' alt='Stephen Hawking, Albert Einstein o Carl Sagan: ¿Qué pensarían hoy sobre el conflicto en Ucrania y una tercera guerra mundial?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-recomendaciones-feed-instagram-podras-resetearlo-empezar-cero-1420401'>Adiós a las recomendaciones del feed de Instagram: así podrás resetearlo y empezar de cero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-recomendaciones-feed-instagram-podras-resetearlo-empezar-cero-1420401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3970346.jpg?tf=1200x' alt='Adiós a las recomendaciones del feed de Instagram: así podrás resetearlo y empezar de cero' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/zte-nubia-z70-ultra-primer-movil-lente-bionica-1424751'>ZTE Nubia Z70 Ultra, el primer móvil con lente biónica de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/zte-nubia-z70-ultra-primer-movil-lente-bionica-1424751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/zte-nubia-z70-ultra-primer-movil-lente-bionica-historia-4264752.jpg?tf=1200x' alt='ZTE Nubia Z70 Ultra, el primer móvil con lente biónica de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/despiden-95-empleados-sustituyen-ia-hay-personas-otra-opcion-laboral-no-va-pasar-ellos-1420446'>Despiden al 95% de los empleados y los sustituyen por una IA: “Hay personas sin otra opción laboral, no sé qué va a pasar con ellos”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/despiden-95-empleados-sustituyen-ia-hay-personas-otra-opcion-laboral-no-va-pasar-ellos-1420446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robots-trabajando-4264544.jpg?tf=1200x' alt='Despiden al 95% de los empleados y los sustituyen por una IA: “Hay personas sin otra opción laboral, no sé qué va a pasar con ellos”' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-padrino-ni-cadena-perpetua-robert-niro-mejor-pelicula-historia-1424649'>Ni El padrino ni Cadena Perpetua, para Robert de Niro esta es la mejor película de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-padrino-ni-cadena-perpetua-robert-niro-mejor-pelicula-historia-1424649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robert-niro-2787705.jpg?tf=1200x' alt='Ni El padrino ni Cadena Perpetua, para Robert de Niro esta es la mejor película de la historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-estudiar-ingles-nueva-funcion-microsoft-teams-te-permitira-hablar-30-idiomas-hacer-nada-1424632'>Adiós a estudiar inglés: la nueva función de Microsoft Teams te permitirá “hablar” más de 30 idiomas sin hacer nada </a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-estudiar-ingles-nueva-funcion-microsoft-teams-te-permitira-hablar-30-idiomas-hacer-nada-1424632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/microsoft-teams-2147503.jpg?tf=1200x' alt='Adiós a estudiar inglés: la nueva función de Microsoft Teams te permitirá “hablar” más de 30 idiomas sin hacer nada ' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nunca-sucedio-gladiator-2-error-historico-pelicula-coinciden-todos-expertos-1422049'>"Nunca sucedió así": Gladiator 2 y el error histórico de la película en el que coinciden todos los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nunca-sucedio-gladiator-2-error-historico-pelicula-coinciden-todos-expertos-1422049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pedro-pascal-gladiator-ii-4246296.jpg?tf=1200x' alt='"Nunca sucedió así": Gladiator 2 y el error histórico de la película en el que coinciden todos los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-da-sorpresa-rebaja-nuevos-kindle-recien-presentados-deja-100-euros-baratos-1420144'>Amazon da la sorpresa: rebaja los nuevos Kindle recién presentados y los deja hasta 100 euros más baratos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-da-sorpresa-rebaja-nuevos-kindle-recien-presentados-deja-100-euros-baratos-1420144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4263968.jpg?tf=1200x' alt='Amazon da la sorpresa: rebaja los nuevos Kindle recién presentados y los deja hasta 100 euros más baratos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alexa-anima-black-friday-ya-bajan-precio-todos-altavoces-amazon-1419730'>Alexa anima el Black Friday: ya bajan de precio todos los altavoces de Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alexa-anima-black-friday-ya-bajan-precio-todos-altavoces-amazon-1419730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-echo-dot-5a-generacion-4263421.jpg?tf=1200x' alt='Alexa anima el Black Friday: ya bajan de precio todos los altavoces de Amazon' />
     </a>
 </div>
 
