@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-1-chatbots-1424787'>Adiós a todas las IA: los expertos confirman que ChatGPT es el número 1 de los chatbots</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-1-chatbots-1424787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-todas-ia-expertos-confirman-chatgpt-numero-1-chatbots-4264889.jpg?tf=1200x' alt='Adiós a todas las IA: los expertos confirman que ChatGPT es el número 1 de los chatbots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-mejor-jugador-diablo-4-1424773'>Elon Musk se convierte en el mejor jugador de Diablo 4 del mundo: pasa una prueba solo para los elegidos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/elon-musk-mejor-jugador-diablo-4-1424773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-convierte-mejor-jugador-diablo-4-mundo-pasa-prueba-solo-elegidos-4264852.jpg?tf=1200x' alt='Elon Musk se convierte en el mejor jugador de Diablo 4 del mundo: pasa una prueba solo para los elegidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-smartphone-sencillo-test-movil-revela-1424767'>¿Te espía tu smartphone? Este sencillo test para el móvil lo revela</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-smartphone-sencillo-test-movil-revela-1424767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-movil-espia-4264856.jpg?tf=1200x' alt='¿Te espía tu smartphone? Este sencillo test para el móvil lo revela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/construye-propio-robot-interstellar-ia-habilidades-humanas-1424658'>Construye su propio robot de Interstellar con IA y habilidades humanas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/construye-propio-robot-interstellar-ia-habilidades-humanas-1424658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/interstellar-4264632.jpg?tf=1200x' alt='Construye su propio robot de Interstellar con IA y habilidades humanas' />
     </a>
 </div>
 
