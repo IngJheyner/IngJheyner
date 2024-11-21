@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-vpn-baratas-black-friday-1419700'>5 VPN más baratas que nunca en la semana del Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-vpn-baratas-black-friday-1419700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='5 VPN más baratas que nunca en la semana del Black Friday' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338'>AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/avm-presenta-termostato-inteligente-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-4264340.jpg?tf=1200x' alt='AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nuevos-casos-estafa-pagina-espejo-6000-euros-victima-espana-1420322'>Nuevos casos de la estafa de la página espejo: más de 6.000 euros a una víctima en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nuevos-casos-estafa-pagina-espejo-6000-euros-victima-espana-1420322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevos-casos-estafa-pagina-espejo-6000-euros-victima-espana-4264321.jpg?tf=1200x' alt='Nuevos casos de la estafa de la página espejo: más de 6.000 euros a una víctima en España' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/ni-thegrefg-ni-xokas-ordenador-potente-espana-jamas-podras-comprar-1419999'>Ni TheGrefg ni El Xokas, este es el ordenador más potente de España que jamás podrás comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ni-thegrefg-ni-xokas-ordenador-potente-espana-jamas-podras-comprar-1419999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pc-potente-espana-4264195.jpg?tf=1200x' alt='Ni TheGrefg ni El Xokas, este es el ordenador más potente de España que jamás podrás comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309'>Soy conductor de un camión de basura y encontré una auténtica bestia en la basura</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/soy-conductor-camion-basura-encontre-autentica-bestia-basura-4264312.jpg?tf=1200x' alt='Soy conductor de un camión de basura y encontré una auténtica bestia en la basura' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/experto-desarrollador-compara-ps5-pro-pc-gaming-tiene-claro-ganador-excepcional-1419990'>Experto desarrollador compara la PS5 Pro con un PC Gaming y tiene un claro ganador: "es excepcional"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/experto-desarrollador-compara-ps5-pro-pc-gaming-tiene-claro-ganador-excepcional-1419990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-desarrollador-compara-ps5-pro-pc-gaming-tiene-claro-ganador-excepcional-4263818.jpg?tf=1200x' alt='Experto desarrollador compara la PS5 Pro con un PC Gaming y tiene un claro ganador: "es excepcional"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/estreno-microsoft-flight-simulator-desastre-1420316'>El estreno de Microsoft Flight Simulator 2024 ha sido un desastre: los jugadores no pueden ni despegar</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/estreno-microsoft-flight-simulator-desastre-1420316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estreno-microsoft-flight-simulator-desastre-jugadores-no-pueden-ni-despegar-4264298.jpg?tf=1200x' alt='El estreno de Microsoft Flight Simulator 2024 ha sido un desastre: los jugadores no pueden ni despegar' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/despues-dos-anos-utilizando-windows-11-estos-son-motivos-han-hecho-no-quiera-volver-windows-10-1419857'>Después de dos años utilizando Windows 11, estos son mis motivos que han hecho que no quiera volver a Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/despues-dos-anos-utilizando-windows-11-estos-son-motivos-han-hecho-no-quiera-volver-windows-10-1419857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-4249224.jpg?tf=1200x' alt='Después de dos años utilizando Windows 11, estos son mis motivos que han hecho que no quiera volver a Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263'>Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-4264297.jpg?tf=1200x' alt='Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra' />
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-como-crear-boton-panico-puede-salvarte-vida-1419670'>Android Auto: cómo crear un botón del pánico que puede salvarte la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-como-crear-boton-panico-puede-salvarte-vida-1419670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-como-crear-boton-panico-puede-salvarte-vida-4263351.jpg?tf=1200x' alt='Android Auto: cómo crear un botón del pánico que puede salvarte la vida' />
     </a>
 </div>
 
