@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309'>Soy conductor de un camión de basura y encontré una auténtica bestia en la basura</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/soy-conductor-camion-basura-encontre-autentica-bestia-basura-4264312.jpg?tf=1200x' alt='Soy conductor de un camión de basura y encontré una auténtica bestia en la basura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/estreno-microsoft-flight-simulator-desastre-1420316'>El estreno de Microsoft Flight Simulator 2024 ha sido un desastre: los jugadores no pueden ni despegar</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/estreno-microsoft-flight-simulator-desastre-1420316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estreno-microsoft-flight-simulator-desastre-jugadores-no-pueden-ni-despegar-4264298.jpg?tf=1200x' alt='El estreno de Microsoft Flight Simulator 2024 ha sido un desastre: los jugadores no pueden ni despegar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-whatsapp-estudio-revela-cual-app-preferida-jovenes-2024-1420222'>Ni TikTok ni WhatsApp: un estudio revela cuál es la app preferida por los jóvenes en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-tiktok-ni-whatsapp-estudio-revela-cual-app-preferida-jovenes-2024-1420222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/generacion-z-3145148.jpg?tf=1200x' alt='Ni TikTok ni WhatsApp: un estudio revela cuál es la app preferida por los jóvenes en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-llegaria-marzo-2025-adios-touch-id-hola-face-id-usb-c-1420285'>¡El iPhone SE 4 llegaría en marzo de 2025! Adiós Touch ID, hola Face ID y USB-C</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-4-llegaria-marzo-2025-adios-touch-id-hola-face-id-usb-c-1420285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/analisis-iphone-2022-2656601.jpg?tf=1200x' alt='¡El iPhone SE 4 llegaría en marzo de 2025! Adiós Touch ID, hola Face ID y USB-C' />
     </a>
 </div>
 
