@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sanchez-ni-feijoo-cifra-espanoles-votaria-ia-como-presidente-asusta-1420428'>Ni Sánchez ni Feijóo: la cifra de españoles que votaría a la IA como presidente asusta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-sanchez-ni-feijoo-cifra-espanoles-votaria-ia-como-presidente-asusta-1420428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pedro-sanchez-ia-4264556.jpg?tf=1200x' alt='Ni Sánchez ni Feijóo: la cifra de españoles que votaría a la IA como presidente asusta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/usuarios-windows-10-pie-guerra-microsoft-regreso-chantajes-no-puedes-compra-nuevo-1420448'>Usuarios de Windows 10 en pie de guerra contra Microsoft por el regreso de los chantajes: "si no puedes, compra uno nuevo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/usuarios-windows-10-pie-guerra-microsoft-regreso-chantajes-no-puedes-compra-nuevo-1420448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-microsoft-te-llenara-anuncios-pantalla-windows-10-tienes-pc-copilot-4264502.jpg?tf=1200x' alt='Usuarios de Windows 10 en pie de guerra contra Microsoft por el regreso de los chantajes: "si no puedes, compra uno nuevo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381'>Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-amazon-4264401.jpg?tf=1200x' alt='Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/andorra-ibai-auronplay-jordi-wild-ley-influencers-1419898'>Hola Andorra, adiós España: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/andorra-ibai-auronplay-jordi-wild-ley-influencers-1419898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibai-xokas-bandera-andorra-4264499.jpg?tf=1200x' alt='Hola Andorra, adiós España: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/iker-jimenez-recupera-canal-youtube-pero-puede-no-tengas-tanta-suerte-revisa-estos-puntos-no-te-cancelen-1420435'>Iker Jiménez recupera su canal de YouTube, pero puede que tú no tengas tanta suerte: revisa estos puntos para que no te lo cancelen</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/iker-jimenez-recupera-canal-youtube-pero-puede-no-tengas-tanta-suerte-revisa-estos-puntos-no-te-cancelen-1420435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iker-jimenez-youtube-4264492.jpg?tf=1200x' alt='Iker Jiménez recupera su canal de YouTube, pero puede que tú no tengas tanta suerte: revisa estos puntos para que no te lo cancelen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-openai-convierte-ultimo-ejecutivo-tecnologico-mete-politica-1420434'>Tras Elon Musk, Sam Altman de OpenAI se convierte en el último ejecutivo tecnológico que se mete en política</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-openai-convierte-ultimo-ejecutivo-tecnologico-mete-politica-1420434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/director-ejecutivo-openai-sam-altman-3445145.jpg?tf=1200x' alt='Tras Elon Musk, Sam Altman de OpenAI se convierte en el último ejecutivo tecnológico que se mete en política' />
     </a>
 </div>
 
