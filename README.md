@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/lg-introduce-garantia-vida-lavadoras-neveras-espana-1420426'>LG introduce la garantía de por vida para sus lavadoras y neveras en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/lg-introduce-garantia-vida-lavadoras-neveras-espana-1420426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lg-anade-garantia-vida-electrodomesticos-4264476.jpg?tf=1200x' alt='LG introduce la garantía de por vida para sus lavadoras y neveras en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sanchez-ni-feijoo-cifra-espanoles-votaria-ia-como-presidente-asusta-1420428'>Ni Sánchez ni Feijóo: la cifra de españoles que votaría a la IA como presidente asusta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-sanchez-ni-feijoo-cifra-espanoles-votaria-ia-como-presidente-asusta-1420428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pedro-sanchez-ia-4264556.jpg?tf=1200x' alt='Ni Sánchez ni Feijóo: la cifra de españoles que votaría a la IA como presidente asusta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/instalar-linux-windows-portatil-viejo-chromeos-flex-1402728'>Ni Linux ni Windows, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/instalar-linux-windows-portatil-viejo-chromeos-flex-1402728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/linux-windows-4264525.jpg?tf=1200x' alt='Ni Linux ni Windows, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/andorra-ibai-auronplay-jordi-wild-ley-influencers-1419898'>Hola Andorra, adiós España: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/andorra-ibai-auronplay-jordi-wild-ley-influencers-1419898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibai-xokas-bandera-andorra-4264499.jpg?tf=1200x' alt='Hola Andorra, adiós España: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers' />
     </a>
 </div>
 
