@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/stephen-hawking-albert-einstein-carl-sagan-pensarian-hoy-conflicto-ucrania-tercera-guerra-mundial-1420432'>Stephen Hawking, Albert Einstein o Carl Sagan: ¿Qué pensarían hoy sobre el conflicto en Ucrania y una tercera guerra mundial?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/stephen-hawking-albert-einstein-carl-sagan-pensarian-hoy-conflicto-ucrania-tercera-guerra-mundial-1420432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bomba-nuclear-4264471.jpg?tf=1200x' alt='Stephen Hawking, Albert Einstein o Carl Sagan: ¿Qué pensarían hoy sobre el conflicto en Ucrania y una tercera guerra mundial?' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088'>Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-convertido-camara-seguridad-4264851.jpg?tf=1200x' alt='Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/zte-nubia-z70-ultra-primer-movil-lente-bionica-1424751'>ZTE Nubia Z70 Ultra, el primer móvil con lente biónica de la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/zte-nubia-z70-ultra-primer-movil-lente-bionica-1424751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/zte-nubia-z70-ultra-primer-movil-lente-bionica-historia-4264752.jpg?tf=1200x' alt='ZTE Nubia Z70 Ultra, el primer móvil con lente biónica de la historia' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-smartphone-sencillo-test-movil-revela-1424767'>¿Te espía tu smartphone? Este sencillo test para el móvil lo revela</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-smartphone-sencillo-test-movil-revela-1424767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-movil-espia-4264856.jpg?tf=1200x' alt='¿Te espía tu smartphone? Este sencillo test para el móvil lo revela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-padrino-ni-cadena-perpetua-robert-niro-mejor-pelicula-historia-1424649'>Ni El padrino ni Cadena Perpetua, para Robert de Niro esta es la mejor película de la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-padrino-ni-cadena-perpetua-robert-niro-mejor-pelicula-historia-1424649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/robert-niro-2787705.jpg?tf=1200x' alt='Ni El padrino ni Cadena Perpetua, para Robert de Niro esta es la mejor película de la historia' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/construye-propio-robot-interstellar-ia-habilidades-humanas-1424658'>Construye su propio robot de Interstellar con IA y habilidades humanas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/construye-propio-robot-interstellar-ia-habilidades-humanas-1424658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/interstellar-4264632.jpg?tf=1200x' alt='Construye su propio robot de Interstellar con IA y habilidades humanas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nunca-sucedio-gladiator-2-error-historico-pelicula-coinciden-todos-expertos-1422049'>"Nunca sucedió así": Gladiator 2 y el error histórico de la película en el que coinciden todos los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/nunca-sucedio-gladiator-2-error-historico-pelicula-coinciden-todos-expertos-1422049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/pedro-pascal-gladiator-ii-4246296.jpg?tf=1200x' alt='"Nunca sucedió así": Gladiator 2 y el error histórico de la película en el que coinciden todos los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/espectador-pone-cuerdas-netflix-problemas-transmision-durante-historica-pelea-tyson-vs-paul-1424761'>Espectador “pone contra las cuerdas” a Netflix por problemas de transmisión durante la histórica pelea Tyson vs Paul</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/espectador-pone-cuerdas-netflix-problemas-transmision-durante-historica-pelea-tyson-vs-paul-1424761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/combate-jake-paul-vs-mike-tyson-4264850.jpg?tf=1200x' alt='Espectador “pone contra las cuerdas” a Netflix por problemas de transmisión durante la histórica pelea Tyson vs Paul' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alexa-anima-black-friday-ya-bajan-precio-todos-altavoces-amazon-1419730'>Alexa anima el Black Friday: ya bajan de precio todos los altavoces de Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alexa-anima-black-friday-ya-bajan-precio-todos-altavoces-amazon-1419730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-echo-dot-5a-generacion-4263421.jpg?tf=1200x' alt='Alexa anima el Black Friday: ya bajan de precio todos los altavoces de Amazon' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/desinstalar-actualizar-aplicaciones-windows-10-ahora-dolor-cabeza-1424760'>Desinstalar o actualizar aplicaciones en Windows 10 ahora es un dolor de cabeza</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/desinstalar-actualizar-aplicaciones-windows-10-ahora-dolor-cabeza-1424760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-4264849.jpg?tf=1200x' alt='Desinstalar o actualizar aplicaciones en Windows 10 ahora es un dolor de cabeza' />
     </a>
 </div>
 
