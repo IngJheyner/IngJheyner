@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-1420347'>Giro de 180 grados en Apple TV+: gasta 20.000 millones en series que nadie ve</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-1420347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-4264351.jpg?tf=1200x' alt='Giro de 180 grados en Apple TV+: gasta 20.000 millones en series que nadie ve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-oppo-oneplus-han-creado-impensable-airdrop-compatible-iphone-1418071'>Xiaomi, Oppo y OnePlus han creado lo impensable, un AirDrop compatible con iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-oppo-oneplus-han-creado-impensable-airdrop-compatible-iphone-1418071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/connect-oppo-oneplus-4262395.jpg?tf=1200x' alt='Xiaomi, Oppo y OnePlus han creado lo impensable, un AirDrop compatible con iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/oppo-find-x8-pro-detalles-caracteristicas-precios-1412614'>Oppo lo apuesta todo al Find X8 Pro para luchar contra Apple y Samsung en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/oppo-find-x8-pro-detalles-caracteristicas-precios-1412614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oppo-find-x8-pro-4254605.jpg?tf=1200x' alt='Oppo lo apuesta todo al Find X8 Pro para luchar contra Apple y Samsung en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338'>AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/avm-presenta-termostato-inteligente-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-4264340.jpg?tf=1200x' alt='AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ni-thegrefg-ni-xokas-ordenador-potente-espana-jamas-podras-comprar-1419999'>Ni TheGrefg ni El Xokas, este es el ordenador más potente de España que jamás podrás comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ni-thegrefg-ni-xokas-ordenador-potente-espana-jamas-podras-comprar-1419999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pc-potente-espana-4264195.jpg?tf=1200x' alt='Ni TheGrefg ni El Xokas, este es el ordenador más potente de España que jamás podrás comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/experto-desarrollador-compara-ps5-pro-pc-gaming-tiene-claro-ganador-excepcional-1419990'>Experto desarrollador compara la PS5 Pro con un PC Gaming y tiene un claro ganador: "es excepcional"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/experto-desarrollador-compara-ps5-pro-pc-gaming-tiene-claro-ganador-excepcional-1419990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/experto-desarrollador-compara-ps5-pro-pc-gaming-tiene-claro-ganador-excepcional-4263818.jpg?tf=1200x' alt='Experto desarrollador compara la PS5 Pro con un PC Gaming y tiene un claro ganador: "es excepcional"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/despues-dos-anos-utilizando-windows-11-estos-son-motivos-han-hecho-no-quiera-volver-windows-10-1419857'>Después de dos años utilizando Windows 11, estos son mis motivos que han hecho que no quiera volver a Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/despues-dos-anos-utilizando-windows-11-estos-son-motivos-han-hecho-no-quiera-volver-windows-10-1419857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/actualizacion-inversa-cada-vez-gente-abandonando-windows-11-volver-windows-10-4249224.jpg?tf=1200x' alt='Después de dos años utilizando Windows 11, estos son mis motivos que han hecho que no quiera volver a Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-como-crear-boton-panico-puede-salvarte-vida-1419670'>Android Auto: cómo crear un botón del pánico que puede salvarte la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-como-crear-boton-panico-puede-salvarte-vida-1419670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-como-crear-boton-panico-puede-salvarte-vida-4263351.jpg?tf=1200x' alt='Android Auto: cómo crear un botón del pánico que puede salvarte la vida' />
     </a>
 </div>
 
