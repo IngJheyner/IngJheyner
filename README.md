@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381'>Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-amazon-4264401.jpg?tf=1200x' alt='Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/instalar-linux-windows-portatil-viejo-chromeos-flex-1402728'>Ni Linux ni Windows, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/instalar-linux-windows-portatil-viejo-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/linux-windows-4264525.jpg?tf=1200x' alt='Ni Linux ni Windows, he instalado este sistema operativo gratis en viejo portátil y ahora parece nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/andorra-ibai-auronplay-jordi-wild-ley-influencers-1419898'>Hola Andorra, adiós España: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/andorra-ibai-auronplay-jordi-wild-ley-influencers-1419898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibai-xokas-bandera-andorra-4264499.jpg?tf=1200x' alt='Hola Andorra, adiós España: Ibai, El Xokas o Jordi Wild, podrían seguir los pasos de AuronPlay por la polémica ley de influencers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/iker-jimenez-recupera-canal-youtube-pero-puede-no-tengas-tanta-suerte-revisa-estos-puntos-no-te-cancelen-1420435'>Iker Jiménez recupera su canal de YouTube, pero puede que tú no tengas tanta suerte: revisa estos puntos para que no te lo cancelen</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/iker-jimenez-recupera-canal-youtube-pero-puede-no-tengas-tanta-suerte-revisa-estos-puntos-no-te-cancelen-1420435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iker-jimenez-youtube-4264492.jpg?tf=1200x' alt='Iker Jiménez recupera su canal de YouTube, pero puede que tú no tengas tanta suerte: revisa estos puntos para que no te lo cancelen' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-openai-convierte-ultimo-ejecutivo-tecnologico-mete-politica-1420434'>Tras Elon Musk, Sam Altman de OpenAI se convierte en el último ejecutivo tecnológico que se mete en política</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-sam-altman-openai-convierte-ultimo-ejecutivo-tecnologico-mete-politica-1420434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/director-ejecutivo-openai-sam-altman-3445145.jpg?tf=1200x' alt='Tras Elon Musk, Sam Altman de OpenAI se convierte en el último ejecutivo tecnológico que se mete en política' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/platano-cinta-adhesiva-vende-62-millones-dolares-subasta-arte-1420391'>Plátano con cinta adhesiva se vende por 6,2 millones de dólares en subasta de arte</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/platano-cinta-adhesiva-vende-62-millones-dolares-subasta-arte-1420391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/platano-cinta-adhesiva-vende-62-millones-dolares-subasta-arte-4264413.jpg?tf=1200x' alt='Plátano con cinta adhesiva se vende por 6,2 millones de dólares en subasta de arte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvida-vende-10-millones-hora-pero-pega-chip-blackwell-1420396'>NVIDA vende más de 10 millones a la hora, pero se la pega con el chip Blackwell</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvida-vende-10-millones-hora-pero-pega-chip-blackwell-1420396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-4064064.jpg?tf=1200x' alt='NVIDA vende más de 10 millones a la hora, pero se la pega con el chip Blackwell' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-saca-artilleria-fire-tv-stick-vuelven-estar-precio-calientan-black-friday-1419401'>Amazon saca la artillería: los Fire TV Stick vuelven a estar a su precio más bajo y calientan el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-saca-artilleria-fire-tv-stick-vuelven-estar-precio-calientan-black-friday-1419401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-fire-tv-stick-4k-4262941.jpg?tf=1200x' alt='Amazon saca la artillería: los Fire TV Stick vuelven a estar a su precio más bajo y calientan el Black Friday' />
     </a>
 </div>
 
