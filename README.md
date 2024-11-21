@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/super-tecnologia-hay-detras-misiles-atacms-guerra-ucrania-1424676'>La súper tecnología que hay detrás de los misiles ATACMS de la guerra de Ucrania</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/super-tecnologia-hay-detras-misiles-atacms-guerra-ucrania-1424676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/super-tecnologia-hay-detras-misiles-atacms-guerra-ucrania-4264643.jpg?tf=1200x' alt='La súper tecnología que hay detrás de los misiles ATACMS de la guerra de Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-recomendaciones-feed-instagram-podras-resetearlo-empezar-cero-1420401'>Adiós a las recomendaciones del feed de Instagram: así podrás resetearlo y empezar de cero</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-recomendaciones-feed-instagram-podras-resetearlo-empezar-cero-1420401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/instagram-3970346.jpg?tf=1200x' alt='Adiós a las recomendaciones del feed de Instagram: así podrás resetearlo y empezar de cero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/despiden-95-empleados-sustituyen-ia-hay-personas-otra-opcion-laboral-no-va-pasar-ellos-1420446'>Despiden al 95% de los empleados y los sustituyen por una IA: “Hay personas sin otra opción laboral, no sé qué va a pasar con ellos”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/despiden-95-empleados-sustituyen-ia-hay-personas-otra-opcion-laboral-no-va-pasar-ellos-1420446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robots-trabajando-4264544.jpg?tf=1200x' alt='Despiden al 95% de los empleados y los sustituyen por una IA: “Hay personas sin otra opción laboral, no sé qué va a pasar con ellos”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-da-sorpresa-rebaja-nuevos-kindle-recien-presentados-deja-100-euros-baratos-1420144'>Amazon da la sorpresa: rebaja los nuevos Kindle recién presentados y los deja hasta 100 euros más baratos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-da-sorpresa-rebaja-nuevos-kindle-recien-presentados-deja-100-euros-baratos-1420144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4263968.jpg?tf=1200x' alt='Amazon da la sorpresa: rebaja los nuevos Kindle recién presentados y los deja hasta 100 euros más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-ano-whatsapp-sera-especial-sera-efecto-festivo-chats-cuando-reacciones-estos-emojis-1420368'>El fin de año con WhatsApp será especial: así será el efecto festivo en tus chats cuando reacciones con estos emojis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fin-ano-whatsapp-sera-especial-sera-efecto-festivo-chats-cuando-reacciones-estos-emojis-1420368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg?tf=1200x' alt='El fin de año con WhatsApp será especial: así será el efecto festivo en tus chats cuando reacciones con estos emojis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sorprendente-razon-siempre-deberias-dormir-puerta-habitacion-cerrada-1419342'>La sorprendente razón por la que siempre deberías dormir con la puerta de tu habitación cerrada</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sorprendente-razon-siempre-deberias-dormir-puerta-habitacion-cerrada-1419342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/metodo-4-7-8-dormirte-rapido-2818353.jpg?tf=1200x' alt='La sorprendente razón por la que siempre deberías dormir con la puerta de tu habitación cerrada' />
     </a>
 </div>
 
