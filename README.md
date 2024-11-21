@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-pone-patas-arriba-empresas-chatgpt-ya-tiene-primeras-victimas-1420356'>La inteligencia artificial pone patas arriba las empresas y ChatGPT ya tiene sus primeras víctimas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-pone-patas-arriba-empresas-chatgpt-ya-tiene-primeras-victimas-1420356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-trabajo-4264367.jpg?tf=1200x' alt='La inteligencia artificial pone patas arriba las empresas y ChatGPT ya tiene sus primeras víctimas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvida-vende-10-millones-hora-pero-pega-chip-blackwell-1420396'>NVIDA vende más de 10 millones a la hora, pero se la pega con el chip Blackwell</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvida-vende-10-millones-hora-pero-pega-chip-blackwell-1420396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nvidia-4064064.jpg?tf=1200x' alt='NVIDA vende más de 10 millones a la hora, pero se la pega con el chip Blackwell' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-7x-pro-solar-no-falla-revienta-precio-black-friday-1419706'>El Garmin Fenix 7X Pro Solar no falla y revienta su precio por el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-7x-pro-solar-no-falla-revienta-precio-black-friday-1419706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='El Garmin Fenix 7X Pro Solar no falla y revienta su precio por el Black Friday' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-saca-artilleria-fire-tv-stick-vuelven-estar-precio-calientan-black-friday-1419401'>Amazon saca la artillería: los Fire TV Stick vuelven a estar a su precio más bajo y calientan el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-saca-artilleria-fire-tv-stick-vuelven-estar-precio-calientan-black-friday-1419401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-fire-tv-stick-4k-4262941.jpg?tf=1200x' alt='Amazon saca la artillería: los Fire TV Stick vuelven a estar a su precio más bajo y calientan el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/semana-black-friday-amazon-mejores-ofertas-1419693'>Semana de Black Friday: Amazon adelanta cientos de ofertas disponibles desde ya</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/semana-black-friday-amazon-mejores-ofertas-1419693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-portada-2141493.jpg?tf=1200x' alt='Semana de Black Friday: Amazon adelanta cientos de ofertas disponibles desde ya' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-oleada-dimisiones-acaba-teletrabajo-aunque-admite-da-igual-1420415'>Elon Musk prevé una oleada de dimisiones si acaba con el teletrabajo, aunque admite que le da igual</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-oleada-dimisiones-acaba-teletrabajo-aunque-admite-da-igual-1420415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-despidos-4264463.jpg?tf=1200x' alt='Elon Musk prevé una oleada de dimisiones si acaba con el teletrabajo, aunque admite que le da igual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-1420347'>Giro de 180 grados en Apple TV+: gasta 20.000 millones en series que nadie ve</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-1420347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-4264351.jpg?tf=1200x' alt='Giro de 180 grados en Apple TV+: gasta 20.000 millones en series que nadie ve' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-pasa-juego-tiene-beneficios-limpios-10-millones-hora-1420367'>NVIDIA se pasa el juego: tiene unos beneficios limpios de 10 millones a la hora</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-pasa-juego-tiene-beneficios-limpios-10-millones-hora-1420367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/nvidia-tan-famosa-taiwan-ninos-disfrazan-ceo-jensen-huang-halloween-4255825.jpg?tf=1200x' alt='NVIDIA se pasa el juego: tiene unos beneficios limpios de 10 millones a la hora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-oppo-oneplus-han-creado-impensable-airdrop-compatible-iphone-1418071'>Xiaomi, Oppo y OnePlus han creado lo impensable, un AirDrop compatible con iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-oppo-oneplus-han-creado-impensable-airdrop-compatible-iphone-1418071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/connect-oppo-oneplus-4262395.jpg?tf=1200x' alt='Xiaomi, Oppo y OnePlus han creado lo impensable, un AirDrop compatible con iPhone' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/alerta-actualiza-iphone-ipad-no-quieres-ser-hackeado-1420389'>Alerta: actualiza tu iPhone y iPad si no quieres ser hackeado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/alerta-actualiza-iphone-ipad-no-quieres-ser-hackeado-1420389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-iphone-4264441.jpg?tf=1200x' alt='Alerta: actualiza tu iPhone y iPad si no quieres ser hackeado' />
     </a>
 </div>
 
