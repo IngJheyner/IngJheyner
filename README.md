@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/despiden-95-empleados-sustituyen-ia-hay-personas-otra-opcion-laboral-no-va-pasar-ellos-1420446'>Despiden al 95% de los empleados y los sustituyen por una IA: “Hay personas sin otra opción laboral, no sé qué va a pasar con ellos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/despiden-95-empleados-sustituyen-ia-hay-personas-otra-opcion-laboral-no-va-pasar-ellos-1420446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robots-trabajando-4264544.jpg?tf=1200x' alt='Despiden al 95% de los empleados y los sustituyen por una IA: “Hay personas sin otra opción laboral, no sé qué va a pasar con ellos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-estudiar-ingles-nueva-funcion-microsoft-teams-te-permitira-hablar-30-idiomas-hacer-nada-1424632'>Adiós a estudiar inglés: la nueva función de Microsoft Teams te permitirá “hablar” más de 30 idiomas sin hacer nada </a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-estudiar-ingles-nueva-funcion-microsoft-teams-te-permitira-hablar-30-idiomas-hacer-nada-1424632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/microsoft-teams-2147503.jpg?tf=1200x' alt='Adiós a estudiar inglés: la nueva función de Microsoft Teams te permitirá “hablar” más de 30 idiomas sin hacer nada ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-da-sorpresa-rebaja-nuevos-kindle-recien-presentados-deja-100-euros-baratos-1420144'>Amazon da la sorpresa: rebaja los nuevos Kindle recién presentados y los deja hasta 100 euros más baratos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-da-sorpresa-rebaja-nuevos-kindle-recien-presentados-deja-100-euros-baratos-1420144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4263968.jpg?tf=1200x' alt='Amazon da la sorpresa: rebaja los nuevos Kindle recién presentados y los deja hasta 100 euros más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-ano-whatsapp-sera-especial-sera-efecto-festivo-chats-cuando-reacciones-estos-emojis-1420368'>El fin de año con WhatsApp será especial: así será el efecto festivo en tus chats cuando reacciones con estos emojis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fin-ano-whatsapp-sera-especial-sera-efecto-festivo-chats-cuando-reacciones-estos-emojis-1420368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/emojis-2818053.jpg?tf=1200x' alt='El fin de año con WhatsApp será especial: así será el efecto festivo en tus chats cuando reacciones con estos emojis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/sorprendente-razon-siempre-deberias-dormir-puerta-habitacion-cerrada-1419342'>La sorprendente razón por la que siempre deberías dormir con la puerta de tu habitación cerrada</a></h4>
     <a href='https://computerhoy.20minutos.es/life/sorprendente-razon-siempre-deberias-dormir-puerta-habitacion-cerrada-1419342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/metodo-4-7-8-dormirte-rapido-2818353.jpg?tf=1200x' alt='La sorprendente razón por la que siempre deberías dormir con la puerta de tu habitación cerrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/lg-introduce-garantia-vida-lavadoras-neveras-espana-1420426'>LG introduce la garantía de por vida para sus lavadoras y neveras en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/lg-introduce-garantia-vida-lavadoras-neveras-espana-1420426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lg-anade-garantia-vida-electrodomesticos-4264476.jpg?tf=1200x' alt='LG introduce la garantía de por vida para sus lavadoras y neveras en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sanchez-ni-feijoo-cifra-espanoles-votaria-ia-como-presidente-asusta-1420428'>Ni Sánchez ni Feijóo: la cifra de españoles que votaría a la IA como presidente asusta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-sanchez-ni-feijoo-cifra-espanoles-votaria-ia-como-presidente-asusta-1420428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pedro-sanchez-ia-4264556.jpg?tf=1200x' alt='Ni Sánchez ni Feijóo: la cifra de españoles que votaría a la IA como presidente asusta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/usuarios-windows-10-pie-guerra-microsoft-regreso-chantajes-no-puedes-compra-nuevo-1420448'>Usuarios de Windows 10 en pie de guerra contra Microsoft por el regreso de los chantajes: "si no puedes, compra uno nuevo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/usuarios-windows-10-pie-guerra-microsoft-regreso-chantajes-no-puedes-compra-nuevo-1420448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-microsoft-te-llenara-anuncios-pantalla-windows-10-tienes-pc-copilot-4264502.jpg?tf=1200x' alt='Usuarios de Windows 10 en pie de guerra contra Microsoft por el regreso de los chantajes: "si no puedes, compra uno nuevo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381'>Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-amazon-4264401.jpg?tf=1200x' alt='Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy' />
     </a>
 </div>
 
