@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-pone-patas-arriba-empresas-chatgpt-ya-tiene-primeras-victimas-1420356'>La inteligencia artificial pone patas arriba las empresas y ChatGPT ya tiene sus primeras víctimas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-pone-patas-arriba-empresas-chatgpt-ya-tiene-primeras-victimas-1420356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-trabajo-4264367.jpg?tf=1200x' alt='La inteligencia artificial pone patas arriba las empresas y ChatGPT ya tiene sus primeras víctimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-7x-pro-solar-no-falla-revienta-precio-black-friday-1419706'>El Garmin Fenix 7X Pro Solar no falla y revienta su precio por el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-7x-pro-solar-no-falla-revienta-precio-black-friday-1419706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='El Garmin Fenix 7X Pro Solar no falla y revienta su precio por el Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-oppo-oneplus-han-creado-impensable-airdrop-compatible-iphone-1418071'>Xiaomi, Oppo y OnePlus han creado lo impensable, un AirDrop compatible con iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-oppo-oneplus-han-creado-impensable-airdrop-compatible-iphone-1418071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/connect-oppo-oneplus-4262395.jpg?tf=1200x' alt='Xiaomi, Oppo y OnePlus han creado lo impensable, un AirDrop compatible con iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/oppo-find-x8-pro-detalles-caracteristicas-precios-1412614'>Oppo lo apuesta todo al Find X8 Pro para luchar contra Apple y Samsung en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/oppo-find-x8-pro-detalles-caracteristicas-precios-1412614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oppo-find-x8-pro-4254605.jpg?tf=1200x' alt='Oppo lo apuesta todo al Find X8 Pro para luchar contra Apple y Samsung en España' />
     </a>
 </div>
 
