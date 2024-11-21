@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-mejor-jugador-diablo-4-1424773'>Elon Musk se convierte en el mejor jugador de Diablo 4 del mundo: pasa una prueba solo para los elegidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-mejor-jugador-diablo-4-1424773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-convierte-mejor-jugador-diablo-4-mundo-pasa-prueba-solo-elegidos-4264852.jpg?tf=1200x' alt='Elon Musk se convierte en el mejor jugador de Diablo 4 del mundo: pasa una prueba solo para los elegidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-1424754'>Atento a tu Waze si escuchas dos voces: puede generarte un verdadero problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-1424754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-4264883.jpg?tf=1200x' alt='Atento a tu Waze si escuchas dos voces: puede generarte un verdadero problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088'>Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-convertido-camara-seguridad-4264851.jpg?tf=1200x' alt='Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/construye-propio-robot-interstellar-ia-habilidades-humanas-1424658'>Construye su propio robot de Interstellar con IA y habilidades humanas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/construye-propio-robot-interstellar-ia-habilidades-humanas-1424658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/interstellar-4264632.jpg?tf=1200x' alt='Construye su propio robot de Interstellar con IA y habilidades humanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/espectador-pone-cuerdas-netflix-problemas-transmision-durante-historica-pelea-tyson-vs-paul-1424761'>Espectador “pone contra las cuerdas” a Netflix por problemas de transmisión durante la histórica pelea Tyson vs Paul</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/espectador-pone-cuerdas-netflix-problemas-transmision-durante-historica-pelea-tyson-vs-paul-1424761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/combate-jake-paul-vs-mike-tyson-4264850.jpg?tf=1200x' alt='Espectador “pone contra las cuerdas” a Netflix por problemas de transmisión durante la histórica pelea Tyson vs Paul' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/desinstalar-actualizar-aplicaciones-windows-10-ahora-dolor-cabeza-1424760'>Desinstalar o actualizar aplicaciones en Windows 10 ahora es un dolor de cabeza</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/desinstalar-actualizar-aplicaciones-windows-10-ahora-dolor-cabeza-1424760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-4264849.jpg?tf=1200x' alt='Desinstalar o actualizar aplicaciones en Windows 10 ahora es un dolor de cabeza' />
     </a>
 </div>
 
