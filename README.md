@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-7x-pro-solar-no-falla-revienta-precio-black-friday-1419706'>El Garmin Fenix 7X Pro Solar no falla y revienta su precio por el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-fenix-7x-pro-solar-no-falla-revienta-precio-black-friday-1419706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/garmin-fenix-7-3227222.jpg?tf=1200x' alt='El Garmin Fenix 7X Pro Solar no falla y revienta su precio por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/semana-black-friday-amazon-mejores-ofertas-1419693'>Semana de Black Friday: Amazon adelanta cientos de ofertas disponibles desde ya</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/semana-black-friday-amazon-mejores-ofertas-1419693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-portada-2141493.jpg?tf=1200x' alt='Semana de Black Friday: Amazon adelanta cientos de ofertas disponibles desde ya' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/oppo-find-x8-pro-detalles-caracteristicas-precios-1412614'>Oppo lo apuesta todo al Find X8 Pro para luchar contra Apple y Samsung en España</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/oppo-find-x8-pro-detalles-caracteristicas-precios-1412614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/oppo-find-x8-pro-4254605.jpg?tf=1200x' alt='Oppo lo apuesta todo al Find X8 Pro para luchar contra Apple y Samsung en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338'>AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/avm-presenta-termostato-inteligente-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-4264340.jpg?tf=1200x' alt='AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno' />
     </a>
 </div>
 
