@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/semana-black-friday-amazon-mejores-ofertas-1419693'>Semana de Black Friday: Amazon adelanta cientos de ofertas disponibles desde ya</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/semana-black-friday-amazon-mejores-ofertas-1419693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/black-friday-portada-2141493.jpg?tf=1200x' alt='Semana de Black Friday: Amazon adelanta cientos de ofertas disponibles desde ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-1420347'>Giro de 180 grados en Apple TV+: gasta 20.000 millones en series que nadie ve</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-1420347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-apple-tv-gasta-20000-millones-series-nadie-ve-4264351.jpg?tf=1200x' alt='Giro de 180 grados en Apple TV+: gasta 20.000 millones en series que nadie ve' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338'>AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/termostato-inteligente-avm-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-1420338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/avm-presenta-termostato-inteligente-fritzdect-302-interruptor-fritzdect-440-ahorrar-calefaccion-invierno-4264340.jpg?tf=1200x' alt='AVM presenta el termostato inteligente Fritz!Dect 302 y el interruptor Fritz!Dect 440, para ahorrar en calefacción este invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ni-thegrefg-ni-xokas-ordenador-potente-espana-jamas-podras-comprar-1419999'>Ni TheGrefg ni El Xokas, este es el ordenador más potente de España que jamás podrás comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ni-thegrefg-ni-xokas-ordenador-potente-espana-jamas-podras-comprar-1419999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pc-potente-espana-4264195.jpg?tf=1200x' alt='Ni TheGrefg ni El Xokas, este es el ordenador más potente de España que jamás podrás comprar' />
     </a>
 </div>
 
