@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-vpn-baratas-black-friday-1419700'>5 VPN más baratas que nunca en la semana del Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-vpn-baratas-black-friday-1419700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/vpn-surfshark-3293120.jpg?tf=1200x' alt='5 VPN más baratas que nunca en la semana del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nuevos-casos-estafa-pagina-espejo-6000-euros-victima-espana-1420322'>Nuevos casos de la estafa de la página espejo: más de 6.000 euros a una víctima en España</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nuevos-casos-estafa-pagina-espejo-6000-euros-victima-espana-1420322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevos-casos-estafa-pagina-espejo-6000-euros-victima-espana-4264321.jpg?tf=1200x' alt='Nuevos casos de la estafa de la página espejo: más de 6.000 euros a una víctima en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263'>Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/life/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-1420263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modelo-onlyfans-ofrece-elon-musk-concebir-primer-marciano-tierra-4264297.jpg?tf=1200x' alt='Una modelo de OnlyFans se ofrece a Elon Musk para concebir al "primer marciano" de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-alaba-ley-italia-iptv-futbol-gratis-1420301'>Javier Tebas elige el método italiano para acabar con las IPTV, la piratería y el fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-alaba-ley-italia-iptv-futbol-gratis-1420301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-elige-metodo-italiano-acabar-iptv-pirateria-futbol-gratis-4264259.jpg?tf=1200x' alt='Javier Tebas elige el método italiano para acabar con las IPTV, la piratería y el fútbol gratis' />
     </a>
 </div>
 
