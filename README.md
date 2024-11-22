@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-ingeniero-ni-odontologo-estas-son-carreras-universitarias-mejor-pagadas-2024-1425056'>Ni ingeniero ni odontólogo, estas son las carreras universitarias mejor pagadas de 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-ingeniero-ni-odontologo-estas-son-carreras-universitarias-mejor-pagadas-2024-1425056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudiar-universidad-4265304.jpg?tf=1200x' alt='Ni ingeniero ni odontólogo, estas son las carreras universitarias mejor pagadas de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ducha-convencional-lavadora-humana-forma-capsula-aqui-1425055'>Adiós a la ducha convencional: la "lavadora humana" en forma de cápsula está aquí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-ducha-convencional-lavadora-humana-forma-capsula-aqui-1425055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mirai-ningen-sentakuki-4265303.jpg?tf=1200x' alt='Adiós a la ducha convencional: la "lavadora humana" en forma de cápsula está aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/misterio-instalador-windows-95-resuelve-finalmente-despues-30-anos-1425027'>El misterio del instalador de Windows 95 se resuelve finalmente después de 30 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/misterio-instalador-windows-95-resuelve-finalmente-despues-30-anos-1425027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/misterio-instalador-windows-95-resuelve-finalmente-despues-30-anos-4265293.jpg?tf=1200x' alt='El misterio del instalador de Windows 95 se resuelve finalmente después de 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ryanair-easyjet-vueling-multadas-cobrar-debes-saber-has-volado-ellos-1425047'>Ryanair, Easyjet, Vueling y más, multadas por cobrar de más: ¿Qué debes saber si has volado con ellos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ryanair-easyjet-vueling-multadas-cobrar-debes-saber-has-volado-ellos-1425047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aeropuerto-4265294.jpg?tf=1200x' alt='Ryanair, Easyjet, Vueling y más, multadas por cobrar de más: ¿Qué debes saber si has volado con ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-va-openai-quiere-convertir-siri-propio-chatgpt-1425038'>Apple va a por OpenAI: quiere convertir a Siri en su propio ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-va-openai-quiere-convertir-siri-propio-chatgpt-1425038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-va-openai-quiere-convertir-siri-propio-chatgpt-4265270.jpg?tf=1200x' alt='Apple va a por OpenAI: quiere convertir a Siri en su propio ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-desarrolla-llm-avanzado-siri-gestione-solicitudes-rapido-1425000'>Apple desarrolla un LLM avanzado para que Siri gestione solicitudes más rápido  </a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-desarrolla-llm-avanzado-siri-gestione-solicitudes-rapido-1425000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/siri-chatgpt-4265211.jpg?tf=1200x' alt='Apple desarrolla un LLM avanzado para que Siri gestione solicitudes más rápido  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/actor-daniel-craig-podria-ser-ultimo-fichaje-dc-comics-nuevo-universo-superheroes-1424932'>El actor Daniel Craig podría ser el último “fichaje” de DC Comics para su nuevo universo de superhéroes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/actor-daniel-craig-podria-ser-ultimo-fichaje-dc-comics-nuevo-universo-superheroes-1424932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/daniel-craig-anuncio-belvedere-vodka-2872151.jpg?tf=1200x' alt='El actor Daniel Craig podría ser el último “fichaje” de DC Comics para su nuevo universo de superhéroes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-google-assistant-gems-nueva-herramienta-google-gemini-mejorar-productividad-1424908'>Ni ChatGPT ni Google Assistant: los Gems es la nueva herramienta de Google Gemini para mejorar tu productividad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-google-assistant-gems-nueva-herramienta-google-gemini-mejorar-productividad-1424908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gemini-4265075.jpg?tf=1200x' alt='Ni ChatGPT ni Google Assistant: los Gems es la nueva herramienta de Google Gemini para mejorar tu productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-rompe-tienda-black-friday-precios-outlet-aspiradoras-purificadores-1424628'>Dyson rompe su tienda por el Black Friday: precios de outlet en aspiradoras, purificadores y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-rompe-tienda-black-friday-precios-outlet-aspiradoras-purificadores-1424628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-v15s-detect-submarine-3304835.jpg?tf=1200x' alt='Dyson rompe su tienda por el Black Friday: precios de outlet en aspiradoras, purificadores y más' />
     </a>
 </div>
 
