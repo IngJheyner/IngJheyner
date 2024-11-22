@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-pixel-tablet-2-hola-portatiles-android-todo-apunta-google-podria-dejar-fabricar-tablets-1424941'>Adiós Pixel Tablet 2, hola portátiles con Android: todo apunta a que Google podría dejar de fabricar tablets</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-pixel-tablet-2-hola-portatiles-android-todo-apunta-google-podria-dejar-fabricar-tablets-1424941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-pixel-tablet-2-todo-apunta-google-podria-dejar-fabricar-tablets-4265117.jpg?tf=1200x' alt='Adiós Pixel Tablet 2, hola portátiles con Android: todo apunta a que Google podría dejar de fabricar tablets' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/actor-daniel-craig-podria-ser-ultimo-fichaje-dc-comics-nuevo-universo-superheroes-1424932'>El actor Daniel Craig podría ser el último “fichaje” de DC Comics para su nuevo universo de superhéroes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/actor-daniel-craig-podria-ser-ultimo-fichaje-dc-comics-nuevo-universo-superheroes-1424932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/daniel-craig-anuncio-belvedere-vodka-2872151.jpg?tf=1200x' alt='El actor Daniel Craig podría ser el último “fichaje” de DC Comics para su nuevo universo de superhéroes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesor-alerta-cambiar-libros-tablets-no-fue-buena-idea-1424980'>Un profesor alerta: "Cambiar los libros por tablets no fue una buena idea, lo estamos pagando caro"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/profesor-alerta-cambiar-libros-tablets-no-fue-buena-idea-1424980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chicos-usando-tablets-4265152.jpg?tf=1200x' alt='Un profesor alerta: "Cambiar los libros por tablets no fue una buena idea, lo estamos pagando caro"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-google-assistant-gems-nueva-herramienta-google-gemini-mejorar-productividad-1424908'>Ni ChatGPT ni Google Assistant: los Gems es la nueva herramienta de Google Gemini para mejorar tu productividad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-google-assistant-gems-nueva-herramienta-google-gemini-mejorar-productividad-1424908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gemini-4265075.jpg?tf=1200x' alt='Ni ChatGPT ni Google Assistant: los Gems es la nueva herramienta de Google Gemini para mejorar tu productividad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/transcripciones-mensajes-voz-audios-whatsapp-1424915'>Llegan las transcripciones de mensajes de voz en WhatsApp: si odias los audios, enhorabuena </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/transcripciones-mensajes-voz-audios-whatsapp-1424915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/audios-whatsapp-4265170.jpg?tf=1200x' alt='Llegan las transcripciones de mensajes de voz en WhatsApp: si odias los audios, enhorabuena ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-rompe-tienda-black-friday-precios-outlet-aspiradoras-purificadores-1424628'>Dyson rompe su tienda por el Black Friday: precios de outlet en aspiradoras, purificadores y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-rompe-tienda-black-friday-precios-outlet-aspiradoras-purificadores-1424628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-v15s-detect-submarine-3304835.jpg?tf=1200x' alt='Dyson rompe su tienda por el Black Friday: precios de outlet en aspiradoras, purificadores y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-spam-whatsapp-crean-funcion-salirte-grupos-publicidad-no-deseada-1424825'>Adiós al spam de WhatsApp: crean una función para salirte de grupos de publicidad no deseada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-spam-whatsapp-crean-funcion-salirte-grupos-publicidad-no-deseada-1424825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-spam-whatsapp-crean-funcion-salirte-grupos-publicidad-no-deseada-4264963.jpg?tf=1200x' alt='Adiós al spam de WhatsApp: crean una función para salirte de grupos de publicidad no deseada' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-modelo-italia-iptv-futbol-gratis-1420301'>Javier Tebas anuncia la hoja de ruta para terminar con las IPTV y la barra libre en el fútbol</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-modelo-italia-iptv-futbol-gratis-1420301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='Javier Tebas anuncia la hoja de ruta para terminar con las IPTV y la barra libre en el fútbol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-1424886'>La estafa que arrasa en el Black Friday y te puede dejar sin un duro: así puedes evitarla, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-1424886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-4265017.jpg?tf=1200x' alt='La estafa que arrasa en el Black Friday y te puede dejar sin un duro: así puedes evitarla, según los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/sfdx-show-descubre-ssd-rara-version-windows-juegos-secretos-funciona-cualquier-pc-1424988'>Sfdx Show descubre un SSD con una rara versión de Windows con juegos secretos que funciona en cualquier PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/sfdx-show-descubre-ssd-rara-version-windows-juegos-secretos-funciona-cualquier-pc-1424988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sfdx-show-descubre-ssd-rara-version-windows-juegos-secretos-funciona-cualquier-pc-4265239.jpg?tf=1200x' alt='Sfdx Show descubre un SSD con una rara versión de Windows con juegos secretos que funciona en cualquier PC' />
     </a>
 </div>
 
