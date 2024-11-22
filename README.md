@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-pixel-tablet-2-hola-portatiles-android-todo-apunta-google-podria-dejar-fabricar-tablets-1424941'>Adiós Pixel Tablet 2, hola portátiles con Android: todo apunta a que Google podría dejar de fabricar tablets</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-pixel-tablet-2-hola-portatiles-android-todo-apunta-google-podria-dejar-fabricar-tablets-1424941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-pixel-tablet-2-todo-apunta-google-podria-dejar-fabricar-tablets-4265117.jpg?tf=1200x' alt='Adiós Pixel Tablet 2, hola portátiles con Android: todo apunta a que Google podría dejar de fabricar tablets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesor-alerta-cambiar-libros-tablets-no-fue-buena-idea-1424980'>Un profesor alerta: "Cambiar los libros por tablets no fue una buena idea, lo estamos pagando caro"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/profesor-alerta-cambiar-libros-tablets-no-fue-buena-idea-1424980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chicos-usando-tablets-4265152.jpg?tf=1200x' alt='Un profesor alerta: "Cambiar los libros por tablets no fue una buena idea, lo estamos pagando caro"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-1424886'>La estafa que arrasa en el Black Friday y te puede dejar sin un duro: así puedes evitarla, según los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-1424886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-4265017.jpg?tf=1200x' alt='La estafa que arrasa en el Black Friday y te puede dejar sin un duro: así puedes evitarla, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/di-adios-wifi-cortes-aparato-amplia-senal-toda-casa-tiene-wifi-6-1419739'>Di adiós al WiFi con cortes: este aparato amplía la señal a toda tu casa y tiene WiFi 6</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/di-adios-wifi-cortes-aparato-amplia-senal-toda-casa-tiene-wifi-6-1419739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercusys-me60x-ax1500-4263429.jpg?tf=1200x' alt='Di adiós al WiFi con cortes: este aparato amplía la señal a toda tu casa y tiene WiFi 6' />
     </a>
 </div>
 
