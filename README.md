@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/donde-descargar-juegos-zx-spectrum-forma-legal-1424792'>The Spectrum: dónde descargar juegos de ZX Spectrum de forma legal para la nueva consola</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/donde-descargar-juegos-zx-spectrum-forma-legal-1424792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spectrum-donde-descargar-juegos-zx-spectrum-forma-legal-nueva-consola-4264906.jpg?tf=1200x' alt='The Spectrum: dónde descargar juegos de ZX Spectrum de forma legal para la nueva consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-1-chatbots-1424787'>Adiós a todas las IA: los expertos confirman que ChatGPT es el número 1 de los chatbots</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-1-chatbots-1424787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-todas-ia-expertos-confirman-chatgpt-numero-1-chatbots-4264889.jpg?tf=1200x' alt='Adiós a todas las IA: los expertos confirman que ChatGPT es el número 1 de los chatbots' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088'>Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-convertido-camara-seguridad-4264851.jpg?tf=1200x' alt='Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-smartphone-sencillo-test-movil-revela-1424767'>¿Te espía tu smartphone? Este sencillo test para el móvil lo revela</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-espia-smartphone-sencillo-test-movil-revela-1424767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-movil-espia-4264856.jpg?tf=1200x' alt='¿Te espía tu smartphone? Este sencillo test para el móvil lo revela' />
     </a>
 </div>
 
