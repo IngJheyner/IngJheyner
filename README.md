@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/airpods-apple-watch-futuro-cada-vez-cerca-dispositivos-jamas-necesitan-cargarse-1424824'>Los AirPods o Apple Watch del futuro cada vez más cerca: dispositivos que jamás necesitan cargarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/airpods-apple-watch-futuro-cada-vez-cerca-dispositivos-jamas-necesitan-cargarse-1424824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-ruido-activa-4242490.jpg?tf=1200x' alt='Los AirPods o Apple Watch del futuro cada vez más cerca: dispositivos que jamás necesitan cargarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/respuesta-pablo-motos-zasca-david-broncano-dispara-twitter-150000-comentarios-1424841'>La respuesta de Pablo Motos al zasca de David Broncano dispara Twitter con más de 150.000 comentarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/respuesta-pablo-motos-zasca-david-broncano-dispara-twitter-150000-comentarios-1424841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pablo-motos-zasca-david-broncano-4264977.jpg?tf=1200x' alt='La respuesta de Pablo Motos al zasca de David Broncano dispara Twitter con más de 150.000 comentarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309'>Soy conductor de un camión de basura y encontré una auténtica bestia gaming que nadie quería</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/soy-conductor-camion-basura-encontre-autentica-bestia-basura-4264312.jpg?tf=1200x' alt='Soy conductor de un camión de basura y encontré una auténtica bestia gaming que nadie quería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pepino-movil-oneplus-carga-100w-rompe-dos-precio-black-friday-1419745'>Este pepino de móvil OnePlus con carga a 100W rompe en dos su precio por el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pepino-movil-oneplus-carga-100w-rompe-dos-precio-black-friday-1419745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-ace-3-3547303.jpg?tf=1200x' alt='Este pepino de móvil OnePlus con carga a 100W rompe en dos su precio por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821'>Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-facebook-4264960.jpg?tf=1200x' alt='Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-campanada-black-friday-desploma-precio-puedes-comprarla-350-euros-1419003'>PlayStation 5 da la campanada en el Black Friday y desploma su precio: puedes comprarla desde 350 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-campanada-black-friday-desploma-precio-puedes-comprarla-350-euros-1419003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='PlayStation 5 da la campanada en el Black Friday y desploma su precio: puedes comprarla desde 350 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-682-computer-hoy-1418750'>¡Ya está en tu quiosco el número 682 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-682-computer-hoy-1418750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/computer-hoy-682-4261411.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 682 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650'>Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cd-dinero-4264635.jpg?tf=1200x' alt='Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631'>Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4264771.jpg?tf=1200x' alt='Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón' />
     </a>
 </div>
 
