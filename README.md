@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-veto-eeuu-conseguira-chip-ia-llegue-2025-pese-limitaciones-tecnologicas-1424877'>Huawei contra el veto de EEUU: ¿Conseguirá que su chip de IA llegue en 2025 pese a las limitaciones tecnológicas?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-veto-eeuu-conseguira-chip-ia-llegue-2025-pese-limitaciones-tecnologicas-1424877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-3956992.jpg?tf=1200x' alt='Huawei contra el veto de EEUU: ¿Conseguirá que su chip de IA llegue en 2025 pese a las limitaciones tecnológicas?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-convenciendo-otros-companeros-abandonar-puesto-trabajo-1424887'>Captan en vídeo a un robot con IA convenciendo a otros compañeros de abandonar su puesto de trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-convenciendo-otros-companeros-abandonar-puesto-trabajo-1424887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/video-tiktok-robot-4265043.jpg?tf=1200x' alt='Captan en vídeo a un robot con IA convenciendo a otros compañeros de abandonar su puesto de trabajo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/airpods-apple-watch-futuro-cada-vez-cerca-dispositivos-jamas-necesitan-cargarse-1424824'>Los AirPods o Apple Watch del futuro cada vez más cerca: dispositivos que jamás necesitan cargarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/airpods-apple-watch-futuro-cada-vez-cerca-dispositivos-jamas-necesitan-cargarse-1424824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-ruido-activa-4242490.jpg?tf=1200x' alt='Los AirPods o Apple Watch del futuro cada vez más cerca: dispositivos que jamás necesitan cargarse' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-cuestiona-ia-ya-ha-tocado-techo-antes-haber-tocado-techo-openai-ya-tenia-solucion-1424896'>Experto en inteligencia artificial se cuestiona si la IA ya ha tocado techo: "Antes de haber tocado techo, OpenAI ya tenía la solución"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-cuestiona-ia-ya-ha-tocado-techo-antes-haber-tocado-techo-openai-ya-tenia-solucion-1424896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/draftblockcopyblocktypeunstyledblockkey16pu5entitiestextjon-hernandezstyles-4265045.jpg?tf=1200x' alt='Experto en inteligencia artificial se cuestiona si la IA ya ha tocado techo: "Antes de haber tocado techo, OpenAI ya tenía la solución"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/respuesta-pablo-motos-zasca-david-broncano-dispara-twitter-150000-comentarios-1424841'>La respuesta de Pablo Motos al zasca de David Broncano dispara Twitter con más de 150.000 comentarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/respuesta-pablo-motos-zasca-david-broncano-dispara-twitter-150000-comentarios-1424841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pablo-motos-zasca-david-broncano-4264977.jpg?tf=1200x' alt='La respuesta de Pablo Motos al zasca de David Broncano dispara Twitter con más de 150.000 comentarios' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-planta-cara-chatgpt-inteligencia-artificial-capaz-razonar-misma-1424826'>China planta cara a ChatGPT con una inteligencia artificial “capaz de razonar por sí misma”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-planta-cara-chatgpt-inteligencia-artificial-capaz-razonar-misma-1424826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/china-planta-cara-chatgpt-inteligencia-artificial-capaz-razonar-misma-4264964.jpg?tf=1200x' alt='China planta cara a ChatGPT con una inteligencia artificial “capaz de razonar por sí misma”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309'>Soy conductor de un camión de basura y encontré una auténtica bestia gaming que nadie quería</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/soy-conductor-camion-basura-encontre-autentica-bestia-basura-1420309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/soy-conductor-camion-basura-encontre-autentica-bestia-basura-4264312.jpg?tf=1200x' alt='Soy conductor de un camión de basura y encontré una auténtica bestia gaming que nadie quería' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-cascos-conduccion-osea-nadar-pero-amazon-ha-rebajado-version-pro-puede-salto-1420013'>Tengo unos cascos de conducción ósea para nadar, pero Amazon ha rebajado su versión Pro y puede que dé el salto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-cascos-conduccion-osea-nadar-pero-amazon-ha-rebajado-version-pro-puede-salto-1420013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/shokz-openswim-pro-4263832.jpg?tf=1200x' alt='Tengo unos cascos de conducción ósea para nadar, pero Amazon ha rebajado su versión Pro y puede que dé el salto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pepino-movil-oneplus-carga-100w-rompe-dos-precio-black-friday-1419745'>Este pepino de móvil OnePlus con carga a 100W rompe en dos su precio por el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pepino-movil-oneplus-carga-100w-rompe-dos-precio-black-friday-1419745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-ace-3-3547303.jpg?tf=1200x' alt='Este pepino de móvil OnePlus con carga a 100W rompe en dos su precio por el Black Friday' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-felicitado-bbva-forma-integrar-chatgpt-todos-equipos-1424891'>OpenAI ha felicitado al BBVA por su forma de integrar ChatGPT en todos los equipos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-felicitado-bbva-forma-integrar-chatgpt-todos-equipos-1424891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/openai-felicita-bbva-video-integrar-chatgpt-todos-equipos-4265032.jpg?tf=1200x' alt='OpenAI ha felicitado al BBVA por su forma de integrar ChatGPT en todos los equipos' />
     </a>
 </div>
 
