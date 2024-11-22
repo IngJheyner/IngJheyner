@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-veto-eeuu-conseguira-chip-ia-llegue-2025-pese-limitaciones-tecnologicas-1424877'>Huawei contra el veto de EEUU: ¿Conseguirá que su chip de IA llegue en 2025 pese a las limitaciones tecnológicas?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-veto-eeuu-conseguira-chip-ia-llegue-2025-pese-limitaciones-tecnologicas-1424877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estados-unidos-endurece-aun-guerra-huawei-fabricantes-semiconductores-3956992.jpg?tf=1200x' alt='Huawei contra el veto de EEUU: ¿Conseguirá que su chip de IA llegue en 2025 pese a las limitaciones tecnológicas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/airpods-apple-watch-futuro-cada-vez-cerca-dispositivos-jamas-necesitan-cargarse-1424824'>Los AirPods o Apple Watch del futuro cada vez más cerca: dispositivos que jamás necesitan cargarse</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/airpods-apple-watch-futuro-cada-vez-cerca-dispositivos-jamas-necesitan-cargarse-1424824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-4-cancelacion-ruido-activa-4242490.jpg?tf=1200x' alt='Los AirPods o Apple Watch del futuro cada vez más cerca: dispositivos que jamás necesitan cargarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pepino-movil-oneplus-carga-100w-rompe-dos-precio-black-friday-1419745'>Este pepino de móvil OnePlus con carga a 100W rompe en dos su precio por el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pepino-movil-oneplus-carga-100w-rompe-dos-precio-black-friday-1419745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/oneplus-ace-3-3547303.jpg?tf=1200x' alt='Este pepino de móvil OnePlus con carga a 100W rompe en dos su precio por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821'>Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-facebook-4264960.jpg?tf=1200x' alt='Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos' />
     </a>
 </div>
 
