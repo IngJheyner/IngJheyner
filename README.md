@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-desarrolla-llm-avanzado-siri-gestione-solicitudes-rapido-1425000'>Apple desarrolla un LLM avanzado para que Siri gestione solicitudes más rápido  </a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-desarrolla-llm-avanzado-siri-gestione-solicitudes-rapido-1425000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/siri-chatgpt-4265211.jpg?tf=1200x' alt='Apple desarrolla un LLM avanzado para que Siri gestione solicitudes más rápido  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/actor-daniel-craig-podria-ser-ultimo-fichaje-dc-comics-nuevo-universo-superheroes-1424932'>El actor Daniel Craig podría ser el último “fichaje” de DC Comics para su nuevo universo de superhéroes</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/actor-daniel-craig-podria-ser-ultimo-fichaje-dc-comics-nuevo-universo-superheroes-1424932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/daniel-craig-anuncio-belvedere-vodka-2872151.jpg?tf=1200x' alt='El actor Daniel Craig podría ser el último “fichaje” de DC Comics para su nuevo universo de superhéroes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-modelo-italia-iptv-futbol-gratis-1420301'>Javier Tebas anuncia la hoja de ruta para terminar con las IPTV y la barra libre en el fútbol</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/javier-tebas-modelo-italia-iptv-futbol-gratis-1420301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='Javier Tebas anuncia la hoja de ruta para terminar con las IPTV y la barra libre en el fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/sfdx-show-descubre-ssd-rara-version-windows-juegos-secretos-funciona-cualquier-pc-1424988'>Sfdx Show descubre un SSD con una rara versión de Windows con juegos secretos que funciona en cualquier PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/sfdx-show-descubre-ssd-rara-version-windows-juegos-secretos-funciona-cualquier-pc-1424988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sfdx-show-descubre-ssd-rara-version-windows-juegos-secretos-funciona-cualquier-pc-4265239.jpg?tf=1200x' alt='Sfdx Show descubre un SSD con una rara versión de Windows con juegos secretos que funciona en cualquier PC' />
     </a>
 </div>
 
