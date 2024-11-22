@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/donde-descargar-juegos-zx-spectrum-forma-legal-1424792'>The Spectrum: dónde descargar juegos de ZX Spectrum de forma legal para la nueva consola</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/donde-descargar-juegos-zx-spectrum-forma-legal-1424792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spectrum-donde-descargar-juegos-zx-spectrum-forma-legal-nueva-consola-4264906.jpg?tf=1200x' alt='The Spectrum: dónde descargar juegos de ZX Spectrum de forma legal para la nueva consola' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-pro-modelo-mas-vendido-todo-mundo-1424800'>Ni iPhone 16 ni el Pro, este es el modelo que se está comprando todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-pro-modelo-mas-vendido-todo-mundo-1424800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3142802.jpg?tf=1200x' alt='Ni iPhone 16 ni el Pro, este es el modelo que se está comprando todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-1-chatbots-1424787'>Adiós a todas las IA: los expertos confirman que ChatGPT es el número 1 de los chatbots</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-numero-1-chatbots-1424787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-todas-ia-expertos-confirman-chatgpt-numero-1-chatbots-4264889.jpg?tf=1200x' alt='Adiós a todas las IA: los expertos confirman que ChatGPT es el número 1 de los chatbots' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/ya-puedes-hablar-chatgpt-delante-ordenador-no-has-probado-hazlo-1424678'>Ya puedes hablar con ChatGPT delante de tu ordenador: "Si no lo has probado, hazlo" </a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ya-puedes-hablar-chatgpt-delante-ordenador-no-has-probado-hazlo-1424678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-modo-voz-4264761.jpg?tf=1200x' alt='Ya puedes hablar con ChatGPT delante de tu ordenador: "Si no lo has probado, hazlo" ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-mejor-jugador-diablo-4-1424773'>Elon Musk se convierte en el mejor jugador de Diablo 4 del mundo: pasa una prueba solo para los elegidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-mejor-jugador-diablo-4-1424773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-convierte-mejor-jugador-diablo-4-mundo-pasa-prueba-solo-elegidos-4264852.jpg?tf=1200x' alt='Elon Musk se convierte en el mejor jugador de Diablo 4 del mundo: pasa una prueba solo para los elegidos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-eliminan-puestos-trabajo-bill-gates-ceo-nvidia-tienen-claro-futuro-laboral-ia-1424638'>“No eliminan puestos de trabajo”: Bill Gates y el CEO de NVIDIA tienen claro su futuro laboral con la IA </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-eliminan-puestos-trabajo-bill-gates-ceo-nvidia-tienen-claro-futuro-laboral-ia-1424638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='“No eliminan puestos de trabajo”: Bill Gates y el CEO de NVIDIA tienen claro su futuro laboral con la IA ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-1424754'>Atento a tu Waze si escuchas dos voces: puede generarte un verdadero problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-1424754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-4264883.jpg?tf=1200x' alt='Atento a tu Waze si escuchas dos voces: puede generarte un verdadero problema' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/ibai-auronplay-rubius-xokas-streamer-espanol-tienen-mejor-pc-cuanto-cuesta-1420001'>Ibai, AuronPlay, Rubius o El Xokas: ¿Qué streamer español tienen el mejor PC y cuánto cuesta?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ibai-auronplay-rubius-xokas-streamer-espanol-tienen-mejor-pc-cuanto-cuesta-1420001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibai-auronplay-rubius-xokas-streamer-espanol-tienen-mejor-pc-cuanto-cuesta-4263824.jpg?tf=1200x' alt='Ibai, AuronPlay, Rubius o El Xokas: ¿Qué streamer español tienen el mejor PC y cuánto cuesta?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088'>Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/convertir-movil-viejo-camara-seguridad-1412088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-convertido-camara-seguridad-4264851.jpg?tf=1200x' alt='Así he transformado un viejo teléfono móvil perdido en un cajón en una cámara de seguridad' />
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-buzon-gmail-lleno-truco-permite-vaciarlo-segundos-1419594'>Adiós al buzón de Gmail lleno: este truco permite vaciarlo en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-buzon-gmail-lleno-truco-permite-vaciarlo-segundos-1419594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-buzon-gmail-lleno-truco-permite-vaciarlo-segundos-4263325.jpg?tf=1200x' alt='Adiós al buzón de Gmail lleno: este truco permite vaciarlo en segundos' />
     </a>
 </div>
 
