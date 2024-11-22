@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650'>Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cd-dinero-4264635.jpg?tf=1200x' alt='Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631'>Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4264771.jpg?tf=1200x' alt='Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-estos-3-errores-comunes-estan-arruinando-bateria-smartwatch-1416874'>Soy experto en tecnología y estos 3 errores comunes están arruinando la batería de tu smartwatch</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-estos-3-errores-comunes-estan-arruinando-bateria-smartwatch-1416874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-smartwatch-4259437.jpg?tf=1200x' alt='Soy experto en tecnología y estos 3 errores comunes están arruinando la batería de tu smartwatch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/6-razones-quiebra-royole-marca-adelanto-samsung-creo-primer-movil-plegable-1424675'>6 razones de la quiebra de Royole, la marca que se adelantó a Samsung y creó el primer móvil plegable</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/6-razones-quiebra-royole-marca-adelanto-samsung-creo-primer-movil-plegable-1424675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/royole-quiebra-4264741.jpg?tf=1200x' alt='6 razones de la quiebra de Royole, la marca que se adelantó a Samsung y creó el primer móvil plegable' />
     </a>
 </div>
 
