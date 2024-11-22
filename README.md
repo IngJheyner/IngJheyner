@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821'>Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-malware-ataca-cuentas-facebook-puede-vaciartela-segundos-1424821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-facebook-4264960.jpg?tf=1200x' alt='Cuidado con este malware que ataca cuentas de Facebook, puede vaciártela en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-campanada-black-friday-desploma-precio-puedes-comprarla-350-euros-1419003'>PlayStation 5 da la campanada en el Black Friday y desploma su precio: puedes comprarla desde 350 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-5-da-campanada-black-friday-desploma-precio-puedes-comprarla-350-euros-1419003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/ps5-playstation-5-3128532.jpg?tf=1200x' alt='PlayStation 5 da la campanada en el Black Friday y desploma su precio: puedes comprarla desde 350 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-682-computer-hoy-1418750'>¡Ya está en tu quiosco el número 682 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-682-computer-hoy-1418750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/computer-hoy-682-4261411.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 682 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650'>Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cd-dinero-4264635.jpg?tf=1200x' alt='Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631'>Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4264771.jpg?tf=1200x' alt='Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381'>Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-amazon-4264401.jpg?tf=1200x' alt='Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kim-kardashian-recibe-robot-elon-musk-tesla-1424806'>Kim Kardashian recibe un robot de Elon Musk y así es como presume en sus redes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kim-kardashian-recibe-robot-elon-musk-tesla-1424806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/kim-kardashian-compra-robot-elon-musk-como-presume-redes-4264937.jpg?tf=1200x' alt='Kim Kardashian recibe un robot de Elon Musk y así es como presume en sus redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-estos-3-errores-comunes-estan-arruinando-bateria-smartwatch-1416874'>Soy experto en tecnología y estos 3 errores comunes están arruinando la batería de tu smartwatch</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-estos-3-errores-comunes-estan-arruinando-bateria-smartwatch-1416874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-smartwatch-4259437.jpg?tf=1200x' alt='Soy experto en tecnología y estos 3 errores comunes están arruinando la batería de tu smartwatch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/6-razones-quiebra-royole-marca-adelanto-samsung-creo-primer-movil-plegable-1424675'>6 razones de la quiebra de Royole, la marca que se adelantó a Samsung y creó el primer móvil plegable</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/6-razones-quiebra-royole-marca-adelanto-samsung-creo-primer-movil-plegable-1424675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/royole-quiebra-4264741.jpg?tf=1200x' alt='6 razones de la quiebra de Royole, la marca que se adelantó a Samsung y creó el primer móvil plegable' />
     </a>
 </div>
 
