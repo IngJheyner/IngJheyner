@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-1424886'>La estafa que arrasa en el Black Friday y te puede dejar sin un duro: así puedes evitarla, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-1424886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-arrasa-black-friday-te-puede-dejar-duro-puedes-evitarla-expertos-4265017.jpg?tf=1200x' alt='La estafa que arrasa en el Black Friday y te puede dejar sin un duro: así puedes evitarla, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/di-adios-wifi-cortes-aparato-amplia-senal-toda-casa-tiene-wifi-6-1419739'>Di adiós al WiFi con cortes: este aparato amplía la señal a toda tu casa y tiene WiFi 6</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/di-adios-wifi-cortes-aparato-amplia-senal-toda-casa-tiene-wifi-6-1419739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercusys-me60x-ax1500-4263429.jpg?tf=1200x' alt='Di adiós al WiFi con cortes: este aparato amplía la señal a toda tu casa y tiene WiFi 6' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-va-cambiar-vida-mejor-ahora-podra-interactuar-entorno-tiempo-real-1424865'>ChatGPT va a cambiar tu vida a mejor: ahora podrá interactuar con tu entorno en tiempo real</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-va-cambiar-vida-mejor-ahora-podra-interactuar-entorno-tiempo-real-1424865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-4265005.jpg?tf=1200x' alt='ChatGPT va a cambiar tu vida a mejor: ahora podrá interactuar con tu entorno en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-audios-whatsapp-olvidate-ellos-ya-son-cosa-pasado-1424915'>Giro de 180 grados en los audios de WhatsApp: olvídate de ellos, ya son cosa del pasado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-audios-whatsapp-olvidate-ellos-ya-son-cosa-pasado-1424915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='Giro de 180 grados en los audios de WhatsApp: olvídate de ellos, ya son cosa del pasado' />
     </a>
 </div>
 
