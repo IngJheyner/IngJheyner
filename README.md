@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-convenciendo-otros-companeros-abandonar-puesto-trabajo-1424887'>Captan en vídeo a un robot con IA convenciendo a otros compañeros de abandonar su puesto de trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-convenciendo-otros-companeros-abandonar-puesto-trabajo-1424887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/video-tiktok-robot-4265043.jpg?tf=1200x' alt='Captan en vídeo a un robot con IA convenciendo a otros compañeros de abandonar su puesto de trabajo' />
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-google-chrome-ocurriria-eeuu-gana-exige-google-vender-navegador-1424913'>¿Adiós a Google Chrome? Esto es lo que ocurriría si  EEUU gana y exige a Google vender su navegador </a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-google-chrome-ocurriria-eeuu-gana-exige-google-vender-navegador-1424913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-eeuu-4265073.jpg?tf=1200x' alt='¿Adiós a Google Chrome? Esto es lo que ocurriría si  EEUU gana y exige a Google vender su navegador ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-cuestiona-ia-ya-ha-tocado-techo-antes-haber-tocado-techo-openai-ya-tenia-solucion-1424896'>Experto en inteligencia artificial se cuestiona si la IA ya ha tocado techo: "Antes de haber tocado techo, OpenAI ya tenía la solución"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-cuestiona-ia-ya-ha-tocado-techo-antes-haber-tocado-techo-openai-ya-tenia-solucion-1424896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/draftblockcopyblocktypeunstyledblockkey16pu5entitiestextjon-hernandezstyles-4265045.jpg?tf=1200x' alt='Experto en inteligencia artificial se cuestiona si la IA ya ha tocado techo: "Antes de haber tocado techo, OpenAI ya tenía la solución"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/inexperadas-consecuencias-virus-toxicpanda-ha-atacado-banco-1424679'>Las inexperadas consecuencias del virus ToxicPanda que ha atacado a tu banco</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/inexperadas-consecuencias-virus-toxicpanda-ha-atacado-banco-1424679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/toxicpanda-4264769.jpg?tf=1200x' alt='Las inexperadas consecuencias del virus ToxicPanda que ha atacado a tu banco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-planta-cara-chatgpt-inteligencia-artificial-capaz-razonar-misma-1424826'>China planta cara a ChatGPT con una inteligencia artificial “capaz de razonar por sí misma”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-planta-cara-chatgpt-inteligencia-artificial-capaz-razonar-misma-1424826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/china-planta-cara-chatgpt-inteligencia-artificial-capaz-razonar-misma-4264964.jpg?tf=1200x' alt='China planta cara a ChatGPT con una inteligencia artificial “capaz de razonar por sí misma”' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-va-cambiar-vida-mejor-ahora-podra-interactuar-entorno-tiempo-real-1424865'>ChatGPT va a cambiar tu vida a mejor: ahora podrá interactuar con tu entorno en tiempo real</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-va-cambiar-vida-mejor-ahora-podra-interactuar-entorno-tiempo-real-1424865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-4265005.jpg?tf=1200x' alt='ChatGPT va a cambiar tu vida a mejor: ahora podrá interactuar con tu entorno en tiempo real' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-cascos-conduccion-osea-nadar-pero-amazon-ha-rebajado-version-pro-puede-salto-1420013'>Tengo unos cascos de conducción ósea para nadar, pero Amazon ha rebajado su versión Pro y puede que dé el salto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-cascos-conduccion-osea-nadar-pero-amazon-ha-rebajado-version-pro-puede-salto-1420013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/shokz-openswim-pro-4263832.jpg?tf=1200x' alt='Tengo unos cascos de conducción ósea para nadar, pero Amazon ha rebajado su versión Pro y puede que dé el salto' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-audios-whatsapp-olvidate-ellos-ya-son-cosa-pasado-1424915'>Giro de 180 grados en los audios de WhatsApp: olvídate de ellos, ya son cosa del pasado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-audios-whatsapp-olvidate-ellos-ya-son-cosa-pasado-1424915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='Giro de 180 grados en los audios de WhatsApp: olvídate de ellos, ya son cosa del pasado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-felicitado-bbva-forma-integrar-chatgpt-todos-equipos-1424891'>OpenAI ha felicitado al BBVA por su forma de integrar ChatGPT en todos los equipos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-felicitado-bbva-forma-integrar-chatgpt-todos-equipos-1424891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/openai-felicita-bbva-video-integrar-chatgpt-todos-equipos-4265032.jpg?tf=1200x' alt='OpenAI ha felicitado al BBVA por su forma de integrar ChatGPT en todos los equipos' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-series-gratis-1419674'>Ni TDTChannels ni Pluto TV, esta app ofrece más de 15.000 series y películas gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-series-gratis-1419674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xumo-tv-4265053.jpg?tf=1200x' alt='Ni TDTChannels ni Pluto TV, esta app ofrece más de 15.000 series y películas gratis' />
     </a>
 </div>
 
