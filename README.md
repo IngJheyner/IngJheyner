@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-va-openai-quiere-convertir-siri-propio-chatgpt-1425038'>Apple va a por OpenAI: quiere convertir a Siri en su propio ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-va-openai-quiere-convertir-siri-propio-chatgpt-1425038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-va-openai-quiere-convertir-siri-propio-chatgpt-4265270.jpg?tf=1200x' alt='Apple va a por OpenAI: quiere convertir a Siri en su propio ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-desarrolla-llm-avanzado-siri-gestione-solicitudes-rapido-1425000'>Apple desarrolla un LLM avanzado para que Siri gestione solicitudes más rápido  </a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-desarrolla-llm-avanzado-siri-gestione-solicitudes-rapido-1425000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/siri-chatgpt-4265211.jpg?tf=1200x' alt='Apple desarrolla un LLM avanzado para que Siri gestione solicitudes más rápido  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-rompe-tienda-black-friday-precios-outlet-aspiradoras-purificadores-1424628'>Dyson rompe su tienda por el Black Friday: precios de outlet en aspiradoras, purificadores y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dyson-rompe-tienda-black-friday-precios-outlet-aspiradoras-purificadores-1424628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/dyson-v15s-detect-submarine-3304835.jpg?tf=1200x' alt='Dyson rompe su tienda por el Black Friday: precios de outlet en aspiradoras, purificadores y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-modelo-italia-iptv-futbol-gratis-1420301'>Javier Tebas anuncia la hoja de ruta para terminar con las IPTV y la barra libre en el fútbol</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-modelo-italia-iptv-futbol-gratis-1420301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='Javier Tebas anuncia la hoja de ruta para terminar con las IPTV y la barra libre en el fútbol' />
     </a>
 </div>
 
