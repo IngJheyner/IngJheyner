@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-pro-modelo-mas-vendido-todo-mundo-1424800'>Ni iPhone 16 ni el Pro, este es el modelo que se está comprando todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ni-iphone-16-ni-pro-modelo-mas-vendido-todo-mundo-1424800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/iphone-15-pro-iphone-15-pro-max-3142802.jpg?tf=1200x' alt='Ni iPhone 16 ni el Pro, este es el modelo que se está comprando todo el mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650'>Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/discos-musica-cd-podrian-valer-fortuna-1424650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cd-dinero-4264635.jpg?tf=1200x' alt='Alguno de esos discos de música en CD que tienes en casa podrían valer una fortuna, revisa antes de tirar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ya-puedes-hablar-chatgpt-delante-ordenador-no-has-probado-hazlo-1424678'>Ya puedes hablar con ChatGPT delante de tu ordenador: "Si no lo has probado, hazlo" </a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ya-puedes-hablar-chatgpt-delante-ordenador-no-has-probado-hazlo-1424678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-modo-voz-4264761.jpg?tf=1200x' alt='Ya puedes hablar con ChatGPT delante de tu ordenador: "Si no lo has probado, hazlo" ' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631'>Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-tdt-espana-prepara-televisor-acerca-nuevo-apagon-1424631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4264771.jpg?tf=1200x' alt='Giro de 180 grados a la TDT en España: prepara tu televisor, se acerca un nuevo apagón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-eliminan-puestos-trabajo-bill-gates-ceo-nvidia-tienen-claro-futuro-laboral-ia-1424638'>“No eliminan puestos de trabajo”: Bill Gates y el CEO de NVIDIA tienen claro su futuro laboral con la IA </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-eliminan-puestos-trabajo-bill-gates-ceo-nvidia-tienen-claro-futuro-laboral-ia-1424638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bill-gates-ia-3299749.jpg?tf=1200x' alt='“No eliminan puestos de trabajo”: Bill Gates y el CEO de NVIDIA tienen claro su futuro laboral con la IA ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381'>Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ofertas-wow-amazon-black-friday-1420381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-amazon-4264401.jpg?tf=1200x' alt='Ofertas WOW de Amazon: cómo funcionan en este Black Friday y cuáles son las de hoy' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ibai-auronplay-rubius-xokas-streamer-espanol-tienen-mejor-pc-cuanto-cuesta-1420001'>Ibai, AuronPlay, Rubius o El Xokas: ¿Qué streamer español tienen el mejor PC y cuánto cuesta?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ibai-auronplay-rubius-xokas-streamer-espanol-tienen-mejor-pc-cuanto-cuesta-1420001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibai-auronplay-rubius-xokas-streamer-espanol-tienen-mejor-pc-cuanto-cuesta-4263824.jpg?tf=1200x' alt='Ibai, AuronPlay, Rubius o El Xokas: ¿Qué streamer español tienen el mejor PC y cuánto cuesta?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kim-kardashian-recibe-robot-elon-musk-tesla-1424806'>Kim Kardashian recibe un robot de Elon Musk y así es como presume en sus redes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kim-kardashian-recibe-robot-elon-musk-tesla-1424806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/kim-kardashian-compra-robot-elon-musk-como-presume-redes-4264937.jpg?tf=1200x' alt='Kim Kardashian recibe un robot de Elon Musk y así es como presume en sus redes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-buzon-gmail-lleno-truco-permite-vaciarlo-segundos-1419594'>Adiós al buzón de Gmail lleno: este truco permite vaciarlo en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-buzon-gmail-lleno-truco-permite-vaciarlo-segundos-1419594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-buzon-gmail-lleno-truco-permite-vaciarlo-segundos-4263325.jpg?tf=1200x' alt='Adiós al buzón de Gmail lleno: este truco permite vaciarlo en segundos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-estos-3-errores-comunes-estan-arruinando-bateria-smartwatch-1416874'>Soy experto en tecnología y estos 3 errores comunes están arruinando la batería de tu smartwatch</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-estos-3-errores-comunes-estan-arruinando-bateria-smartwatch-1416874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bateria-smartwatch-4259437.jpg?tf=1200x' alt='Soy experto en tecnología y estos 3 errores comunes están arruinando la batería de tu smartwatch' />
     </a>
 </div>
 
