@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/di-adios-wifi-cortes-aparato-amplia-senal-toda-casa-tiene-wifi-6-1419739'>Di adiós al WiFi con cortes: este aparato amplía la señal a toda tu casa y tiene WiFi 6</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/di-adios-wifi-cortes-aparato-amplia-senal-toda-casa-tiene-wifi-6-1419739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercusys-me60x-ax1500-4263429.jpg?tf=1200x' alt='Di adiós al WiFi con cortes: este aparato amplía la señal a toda tu casa y tiene WiFi 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/adios-google-chrome-ocurriria-eeuu-gana-exige-google-vender-navegador-1424913'>¿Adiós a Google Chrome? Esto es lo que ocurriría si  EEUU gana y exige a Google vender su navegador </a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-google-chrome-ocurriria-eeuu-gana-exige-google-vender-navegador-1424913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-eeuu-4265073.jpg?tf=1200x' alt='¿Adiós a Google Chrome? Esto es lo que ocurriría si  EEUU gana y exige a Google vender su navegador ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-audios-whatsapp-olvidate-ellos-ya-son-cosa-pasado-1424915'>Giro de 180 grados en los audios de WhatsApp: olvídate de ellos, ya son cosa del pasado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-audios-whatsapp-olvidate-ellos-ya-son-cosa-pasado-1424915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nueva-funcion-whatsapp-permite-transcribir-notas-voz-3740008.jpg?tf=1200x' alt='Giro de 180 grados en los audios de WhatsApp: olvídate de ellos, ya son cosa del pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-series-gratis-1419674'>Ni TDTChannels ni Pluto TV, esta app ofrece más de 15.000 series y películas gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-series-gratis-1419674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xumo-tv-4265053.jpg?tf=1200x' alt='Ni TDTChannels ni Pluto TV, esta app ofrece más de 15.000 series y películas gratis' />
     </a>
 </div>
 
