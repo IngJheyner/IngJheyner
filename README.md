@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143'>¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-estaria-conversaciones-samsung-llevar-funciones-ia-proximos-galaxy-1425147'>OpenAI estaría en conversaciones con Samsung para llevar sus funciones de IA a los próximos Galaxy</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-estaria-conversaciones-samsung-llevar-funciones-ia-proximos-galaxy-1425147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-galaxy-ia-openai-4265407.jpg?tf=1200x' alt='OpenAI estaría en conversaciones con Samsung para llevar sus funciones de IA a los próximos Galaxy' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dia-ha-llegado-microsoft-lanza-controvertido-windows-recall-ya-puedes-probarlo-1425133'>El día ha llegado: Microsoft lanza el controvertido Windows Recall y ya puedes probarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dia-ha-llegado-microsoft-lanza-controvertido-windows-recall-ya-puedes-probarlo-1425133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242993.jpg?tf=1200x' alt='El día ha llegado: Microsoft lanza el controvertido Windows Recall y ya puedes probarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-peliculas-series-gratis-google-tv-1419954'>Cómo ver películas y series gratis con Google TV </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-peliculas-series-gratis-google-tv-1419954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/smart-tv-google-tv-4263771.jpg?tf=1200x' alt='Cómo ver películas y series gratis con Google TV ' />
     </a>
 </div>
 
