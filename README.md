@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-1420327'>Móviles que valen una auténtica fortuna y que cualquiera puede tener abandonado en un cajón</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-1420327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-4264337.jpg?tf=1200x' alt='Móviles que valen una auténtica fortuna y que cualquiera puede tener abandonado en un cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/ni-bajar-tapa-ni-suspender-opcion-ideal-cuando-no-utilizando-portatil-1424789'>Ni bajar la tapa ni suspender, esta es la opción ideal cuando no está utilizando tu portátil</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ni-bajar-tapa-ni-suspender-opcion-ideal-cuando-no-utilizando-portatil-1424789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-bajar-tapa-ni-suspender-opcion-ideal-cuando-no-utilizando-portatil-4264908.jpg?tf=1200x' alt='Ni bajar la tapa ni suspender, esta es la opción ideal cuando no está utilizando tu portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/criptos/adolescente-gana-30000-dolares-meme-coin-1425075'>Adolescente de 13 años gana 30.000 dólares troleando con una meme coin: la comunidad cripto se venga cruelmente</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/adolescente-gana-30000-dolares-meme-coin-1425075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adolescente-13-anos-gana-30000-dolares-troleando-meme-coin-comunidad-cripto-venga-cruelmente-4265327.jpg?tf=1200x' alt='Adolescente de 13 años gana 30.000 dólares troleando con una meme coin: la comunidad cripto se venga cruelmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/son-petroleo-mundo-digital-freidora-aire-sabe-todo-ti-donde-limite-recopilacion-excesiva-datos-1420224'>"Son el petróleo del mundo digital", hasta tu freidora de aire lo sabe todo de ti: ¿Dónde está el límite de la recopilación excesiva de datos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/son-petroleo-mundo-digital-freidora-aire-sabe-todo-ti-donde-limite-recopilacion-excesiva-datos-1420224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/control-datos-privacidad-4264137.jpg?tf=1200x' alt='"Son el petróleo del mundo digital", hasta tu freidora de aire lo sabe todo de ti: ¿Dónde está el límite de la recopilación excesiva de datos?' />
     </a>
 </div>
 
