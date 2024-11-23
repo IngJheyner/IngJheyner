@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/potencia-brutal-precio-mejor-aun-msi-cyborg-i9-precio-saldo-amazon-1424642'>Potencia brutal y precio mejor aún: el MSI Cyborg con i9 está a precio de saldo en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/potencia-brutal-precio-mejor-aun-msi-cyborg-i9-precio-saldo-amazon-1424642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/acer-nitro-5-3260954.jpg?tf=1200x' alt='Potencia brutal y precio mejor aún: el MSI Cyborg con i9 está a precio de saldo en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143'>¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014'>Cómo eliminar las notificaciones de Kodi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/notificaciones-kodi-4258793.jpg?tf=1200x' alt='Cómo eliminar las notificaciones de Kodi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dia-ha-llegado-microsoft-lanza-controvertido-windows-recall-ya-puedes-probarlo-1425133'>El día ha llegado: Microsoft lanza el controvertido Windows Recall y ya puedes probarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dia-ha-llegado-microsoft-lanza-controvertido-windows-recall-ya-puedes-probarlo-1425133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242993.jpg?tf=1200x' alt='El día ha llegado: Microsoft lanza el controvertido Windows Recall y ya puedes probarlo' />
     </a>
 </div>
 
