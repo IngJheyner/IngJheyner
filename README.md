@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070'>Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-4265315.jpg?tf=1200x' alt='Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-envian-mensaje-whatsapp-estafa-ha-comenzado-elimina-inmediato-bloquea-1425062'>Si te envían este mensaje al WhatsApp, la estafa ha comenzado: elimina de inmediato y bloquea</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-envian-mensaje-whatsapp-estafa-ha-comenzado-elimina-inmediato-bloquea-1425062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/te-envian-mensaje-whatsapp-estafa-ha-comenzado-elimina-inmediato-bloquea-4265318.jpg?tf=1200x' alt='Si te envían este mensaje al WhatsApp, la estafa ha comenzado: elimina de inmediato y bloquea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-mas-vista-2024-1425064'>Ni Fallout ni La casa del dragón: Google TV desvela la serie más vista de 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-mas-vista-2024-1425064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-vista-2024-4265291.jpg?tf=1200x' alt='Ni Fallout ni La casa del dragón: Google TV desvela la serie más vista de 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-especuladores-ni-falta-stock-nintendo-enviara-doble-switch-2-nadie-quede-ella-1425014'>Ni especuladores ni falta de stock, Nintendo enviará el doble de Switch 2 para que nadie se quede sin ella</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-especuladores-ni-falta-stock-nintendo-enviara-doble-switch-2-nadie-quede-ella-1425014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-2-4265236.jpg?tf=1200x' alt='Ni especuladores ni falta de stock, Nintendo enviará el doble de Switch 2 para que nadie se quede sin ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-ingeniero-ni-odontologo-estas-son-carreras-universitarias-mejor-pagadas-2024-1425056'>Ni ingeniero ni odontólogo, estas son las carreras universitarias mejor pagadas de 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-ingeniero-ni-odontologo-estas-son-carreras-universitarias-mejor-pagadas-2024-1425056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudiar-universidad-4265304.jpg?tf=1200x' alt='Ni ingeniero ni odontólogo, estas son las carreras universitarias mejor pagadas de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ducha-convencional-lavadora-humana-forma-capsula-aqui-1425055'>Adiós a la ducha convencional: la "lavadora humana" en forma de cápsula está aquí</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-ducha-convencional-lavadora-humana-forma-capsula-aqui-1425055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mirai-ningen-sentakuki-4265303.jpg?tf=1200x' alt='Adiós a la ducha convencional: la "lavadora humana" en forma de cápsula está aquí' />
     </a>
 </div>
 
