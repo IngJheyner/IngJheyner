@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-podria-realizar-acciones-aplicaciones-ti-gracias-gemini-ai-1425137'>Android 16 podría realizar acciones en las aplicaciones por ti, gracias a Gemini AI</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-podria-realizar-acciones-aplicaciones-ti-gracias-gemini-ai-1425137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-android-4265397.jpg?tf=1200x' alt='Android 16 podría realizar acciones en las aplicaciones por ti, gracias a Gemini AI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014'>Cómo eliminar las notificaciones de Kodi</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/notificaciones-kodi-4258793.jpg?tf=1200x' alt='Cómo eliminar las notificaciones de Kodi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128'>A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-chrome-monopolio-4265387.jpg?tf=1200x' alt='A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-ser-mi-compra-black-friday-oneplus-nord-4-100eu-menos-no-nada-mal-1420437'>Esta va a ser mi compra del Black Friday: el OnePlus Nord 4, que por 100€ menos no está nada mal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/va-ser-mi-compra-black-friday-oneplus-nord-4-100eu-menos-no-nada-mal-1420437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/oneplus-nord-4-4264429.jpg?tf=1200x' alt='Esta va a ser mi compra del Black Friday: el OnePlus Nord 4, que por 100€ menos no está nada mal' />
     </a>
 </div>
 
