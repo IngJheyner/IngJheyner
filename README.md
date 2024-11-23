@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-1425068'>Cierra la mayor plataforma de deportes y fútbol por IPTV con más de 1.000 canales gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-1425068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-4265326.jpg?tf=1200x' alt='Cierra la mayor plataforma de deportes y fútbol por IPTV con más de 1.000 canales gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070'>Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-4265315.jpg?tf=1200x' alt='Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/autentica-locura-filtran-precio-nvidia-rtx-5090-nos-va-manos-1425048'>"Es una auténtica locura": filtran el precio de la NVIDIA RTX 5090 y esto se nos va de las manos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/autentica-locura-filtran-precio-nvidia-rtx-5090-nos-va-manos-1425048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/autentica-locura-filtran-precio-nvidia-rtx-5090-nos-va-manos-4265309.jpg?tf=1200x' alt='"Es una auténtica locura": filtran el precio de la NVIDIA RTX 5090 y esto se nos va de las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-especuladores-ni-falta-stock-nintendo-enviara-doble-switch-2-nadie-quede-ella-1425014'>Ni especuladores ni falta de stock, Nintendo enviará el doble de Switch 2 para que nadie se quede sin ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-especuladores-ni-falta-stock-nintendo-enviara-doble-switch-2-nadie-quede-ella-1425014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-2-4265236.jpg?tf=1200x' alt='Ni especuladores ni falta de stock, Nintendo enviará el doble de Switch 2 para que nadie se quede sin ella' />
     </a>
 </div>
 
