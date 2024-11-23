@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operador-openai-revolucion-inteligencia-artificial-1419443'>"Puede eliminar un virus sin mover un dedo": lo próximo de OpenAI es tan gordo, que dejará en ridículo a ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/operador-openai-revolucion-inteligencia-artificial-1419443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-virus-4265234.jpg?tf=1200x' alt='"Puede eliminar un virus sin mover un dedo": lo próximo de OpenAI es tan gordo, que dejará en ridículo a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-podria-lanzar-propio-chrome-chatgpt-integrado-1425016'>OpenAI va a por Google: podría lanzar su propio Chrome con ChatGPT integrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-podria-lanzar-propio-chrome-chatgpt-integrado-1425016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/openai-google-4265254.jpg?tf=1200x' alt='OpenAI va a por Google: podría lanzar su propio Chrome con ChatGPT integrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-1425074'>Ni Netflix ni MAX, estas son las mejores plataformas de streaming para ver miles de películas gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-1425074' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-4265329.jpg?tf=1200x' alt='Ni Netflix ni MAX, estas son las mejores plataformas de streaming para ver miles de películas gratis' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070'>Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-4265315.jpg?tf=1200x' alt='Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-envian-mensaje-whatsapp-estafa-ha-comenzado-elimina-inmediato-bloquea-1425062'>Si te envían este mensaje al WhatsApp, la estafa ha comenzado: elimina de inmediato y bloquea</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-envian-mensaje-whatsapp-estafa-ha-comenzado-elimina-inmediato-bloquea-1425062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/te-envian-mensaje-whatsapp-estafa-ha-comenzado-elimina-inmediato-bloquea-4265318.jpg?tf=1200x' alt='Si te envían este mensaje al WhatsApp, la estafa ha comenzado: elimina de inmediato y bloquea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-mas-vista-2024-1425064'>Ni Fallout ni La casa del dragón: Google TV desvela la serie más vista de 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-mas-vista-2024-1425064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-vista-2024-4265291.jpg?tf=1200x' alt='Ni Fallout ni La casa del dragón: Google TV desvela la serie más vista de 2024' />
     </a>
 </div>
 
