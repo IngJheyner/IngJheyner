@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/son-petroleo-mundo-digital-freidora-aire-sabe-todo-ti-donde-limite-recopilacion-excesiva-datos-1420224'>"Son el petróleo del mundo digital", hasta tu freidora de aire lo sabe todo de ti: ¿Dónde está el límite de la recopilación excesiva de datos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/son-petroleo-mundo-digital-freidora-aire-sabe-todo-ti-donde-limite-recopilacion-excesiva-datos-1420224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/control-datos-privacidad-4264137.jpg?tf=1200x' alt='"Son el petróleo del mundo digital", hasta tu freidora de aire lo sabe todo de ti: ¿Dónde está el límite de la recopilación excesiva de datos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/app-espio-movil-da-igual-donde-te-encuentres-no-te-puedes-esconder-1424725'>Con esta app espío tu móvil, da igual donde te encuentres, no te puedes esconder</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/app-espio-movil-da-igual-donde-te-encuentres-no-te-puedes-esconder-1424725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-espio-movil-da-igual-donde-te-encuentres-no-te-puedes-esconder-4264827.jpg?tf=1200x' alt='Con esta app espío tu móvil, da igual donde te encuentres, no te puedes esconder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/consola-retro-anbernic-buscada-aterriza-black-friday-precio-outlet-aliexpress-1419425'>La consola retro de Anbernic más buscada aterriza en el Black Friday: está a precio de outlet en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/consola-retro-anbernic-buscada-aterriza-black-friday-precio-outlet-aliexpress-1419425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/anbernic-rg405v-4262966.jpg?tf=1200x' alt='La consola retro de Anbernic más buscada aterriza en el Black Friday: está a precio de outlet en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/operador-openai-revolucion-inteligencia-artificial-1419443'>"Puede eliminar un virus sin mover un dedo": lo próximo de OpenAI es tan gordo, que dejará en ridículo a ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/operador-openai-revolucion-inteligencia-artificial-1419443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-virus-4265234.jpg?tf=1200x' alt='"Puede eliminar un virus sin mover un dedo": lo próximo de OpenAI es tan gordo, que dejará en ridículo a ChatGPT' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-podria-lanzar-propio-chrome-chatgpt-integrado-1425016'>OpenAI va a por Google: podría lanzar su propio Chrome con ChatGPT integrado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-podria-lanzar-propio-chrome-chatgpt-integrado-1425016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/openai-google-4265254.jpg?tf=1200x' alt='OpenAI va a por Google: podría lanzar su propio Chrome con ChatGPT integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-1425074'>Ni Netflix ni MAX, estas son las mejores plataformas de streaming para ver miles de películas gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-1425074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-4265329.jpg?tf=1200x' alt='Ni Netflix ni MAX, estas son las mejores plataformas de streaming para ver miles de películas gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-1425068'>Cierra la mayor plataforma de deportes y fútbol por IPTV con más de 1.000 canales gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-1425068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-4265326.jpg?tf=1200x' alt='Cierra la mayor plataforma de deportes y fútbol por IPTV con más de 1.000 canales gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070'>Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-juez-1425070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/profesores-tenian-razon-castigar-alumnos-usar-ia-correcto-4265315.jpg?tf=1200x' alt='Los profesores tenían razón: castigar a los alumnos por usar IA es lo correcto, según un juez' />
     </a>
 </div>
 
