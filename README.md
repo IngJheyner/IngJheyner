@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128'>A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-chrome-monopolio-4265387.jpg?tf=1200x' alt='A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-ser-mi-compra-black-friday-oneplus-nord-4-100eu-menos-no-nada-mal-1420437'>Esta va a ser mi compra del Black Friday: el OnePlus Nord 4, que por 100€ menos no está nada mal</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/va-ser-mi-compra-black-friday-oneplus-nord-4-100eu-menos-no-nada-mal-1420437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/oneplus-nord-4-4264429.jpg?tf=1200x' alt='Esta va a ser mi compra del Black Friday: el OnePlus Nord 4, que por 100€ menos no está nada mal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-tienes-disponible-ultima-actualizacion-chromecast-google-tv-rastro-android-14-1425112'>Ya tienes disponible la última actualización para el Chromecast con Google TV: sin rastro de Android 14</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-tienes-disponible-ultima-actualizacion-chromecast-google-tv-rastro-android-14-1425112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chromecast-google-tv-3972093.jpg?tf=1200x' alt='Ya tienes disponible la última actualización para el Chromecast con Google TV: sin rastro de Android 14' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documento-word-pagina-web-1419554'>Cómo convertir un documento Word en una página web </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documento-word-pagina-web-1419554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/word-microsoft-sway-4263187.jpg?tf=1200x' alt='Cómo convertir un documento Word en una página web ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-windows-11-24h2-todas-estas-razones-te-afecta-1425109'>Microsoft bloquea la actualización Windows 11 24H2 por todas estas razones: así te afecta</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-windows-11-24h2-todas-estas-razones-te-afecta-1425109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bloqueo-windows-11-24h2-4265365.jpg?tf=1200x' alt='Microsoft bloquea la actualización Windows 11 24H2 por todas estas razones: así te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-antes-2024-actualizaciones-ios-1424937'>Qué esperar de Apple antes de que termine 2024: actualización de iOS, nuevo CarPlay y más </a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-antes-2024-actualizaciones-ios-1424937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-apple-2024-4265143.jpg?tf=1200x' alt='Qué esperar de Apple antes de que termine 2024: actualización de iOS, nuevo CarPlay y más ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-seran-futuro-desapareceran-tiempo-1420225'>¿Los móviles plegables serán el futuro o desaparecerán con el tiempo?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-seran-futuro-desapareceran-tiempo-1420225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-samsung-plegable-4264316.jpg?tf=1200x' alt='¿Los móviles plegables serán el futuro o desaparecerán con el tiempo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-bateria-solar-inagotable-cae-apenas-300-euros-black-friday-1419758'>Este Garmin de batería solar inagotable cae a apenas 300 euros en el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-bateria-solar-inagotable-cae-apenas-300-euros-black-friday-1419758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/garmin-instinct-2x-solar-4265242.jpg?tf=1200x' alt='Este Garmin de batería solar inagotable cae a apenas 300 euros en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antes-despues-sera-ano-ia-dejara-mejorar-estudio-1419328'>Un antes y un después: este será el año en el que la IA dejará de mejorar, según un estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/antes-despues-sera-ano-ia-dejara-mejorar-estudio-1419328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-ciega-sugiere-nuevo-estudio-3739136.jpg?tf=1200x' alt='Un antes y un después: este será el año en el que la IA dejará de mejorar, según un estudio' />
     </a>
 </div>
 
