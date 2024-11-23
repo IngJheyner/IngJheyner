@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lg-trabajarian-telefono-movil-ia-real-no-vas-poder-comprar-1425172'>Samsung y LG trabajarían en un teléfono móvil con “IA real” que no vas a poder comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lg-trabajarian-telefono-movil-ia-real-no-vas-poder-comprar-1425172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ixi-lg-uplus-4265459.jpg?tf=1200x' alt='Samsung y LG trabajarían en un teléfono móvil con “IA real” que no vas a poder comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/potencia-brutal-precio-mejor-aun-msi-cyborg-i9-precio-saldo-amazon-1424642'>Potencia brutal y precio mejor aún: el MSI Cyborg con i9 está a precio de saldo en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/potencia-brutal-precio-mejor-aun-msi-cyborg-i9-precio-saldo-amazon-1424642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/acer-nitro-5-3260954.jpg?tf=1200x' alt='Potencia brutal y precio mejor aún: el MSI Cyborg con i9 está a precio de saldo en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/android-16-podria-realizar-acciones-aplicaciones-ti-gracias-gemini-ai-1425137'>Android 16 podría realizar acciones en las aplicaciones por ti, gracias a Gemini AI</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-16-podria-realizar-acciones-aplicaciones-ti-gracias-gemini-ai-1425137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-android-4265397.jpg?tf=1200x' alt='Android 16 podría realizar acciones en las aplicaciones por ti, gracias a Gemini AI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014'>Cómo eliminar las notificaciones de Kodi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/notificaciones-kodi-4258793.jpg?tf=1200x' alt='Cómo eliminar las notificaciones de Kodi' />
     </a>
 </div>
 
