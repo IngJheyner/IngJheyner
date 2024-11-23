@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014'>Cómo eliminar las notificaciones de Kodi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-notificaciones-kodi-1417014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/notificaciones-kodi-4258793.jpg?tf=1200x' alt='Cómo eliminar las notificaciones de Kodi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dia-ha-llegado-microsoft-lanza-controvertido-windows-recall-ya-puedes-probarlo-1425133'>El día ha llegado: Microsoft lanza el controvertido Windows Recall y ya puedes probarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dia-ha-llegado-microsoft-lanza-controvertido-windows-recall-ya-puedes-probarlo-1425133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242993.jpg?tf=1200x' alt='El día ha llegado: Microsoft lanza el controvertido Windows Recall y ya puedes probarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-peliculas-series-gratis-google-tv-1419954'>Cómo ver películas y series gratis con Google TV </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-peliculas-series-gratis-google-tv-1419954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/smart-tv-google-tv-4263771.jpg?tf=1200x' alt='Cómo ver películas y series gratis con Google TV ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128'>A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-chrome-monopolio-4265387.jpg?tf=1200x' alt='A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-ser-mi-compra-black-friday-oneplus-nord-4-100eu-menos-no-nada-mal-1420437'>Esta va a ser mi compra del Black Friday: el OnePlus Nord 4, que por 100€ menos no está nada mal</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/va-ser-mi-compra-black-friday-oneplus-nord-4-100eu-menos-no-nada-mal-1420437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/oneplus-nord-4-4264429.jpg?tf=1200x' alt='Esta va a ser mi compra del Black Friday: el OnePlus Nord 4, que por 100€ menos no está nada mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-tienes-disponible-ultima-actualizacion-chromecast-google-tv-rastro-android-14-1425112'>Ya tienes disponible la última actualización para el Chromecast con Google TV: sin rastro de Android 14</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-tienes-disponible-ultima-actualizacion-chromecast-google-tv-rastro-android-14-1425112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/chromecast-google-tv-3972093.jpg?tf=1200x' alt='Ya tienes disponible la última actualización para el Chromecast con Google TV: sin rastro de Android 14' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documento-word-pagina-web-1419554'>Cómo convertir un documento Word en una página web </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documento-word-pagina-web-1419554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/word-microsoft-sway-4263187.jpg?tf=1200x' alt='Cómo convertir un documento Word en una página web ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-windows-11-24h2-todas-estas-razones-te-afecta-1425109'>Microsoft bloquea la actualización Windows 11 24H2 por todas estas razones: así te afecta</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-windows-11-24h2-todas-estas-razones-te-afecta-1425109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bloqueo-windows-11-24h2-4265365.jpg?tf=1200x' alt='Microsoft bloquea la actualización Windows 11 24H2 por todas estas razones: así te afecta' />
     </a>
 </div>
 
