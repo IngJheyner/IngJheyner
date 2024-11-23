@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-1425074'>Ni Netflix ni MAX, estas son las mejores plataformas de streaming para ver miles de películas gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-1425074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-netflix-ni-max-estas-son-mejores-plataformas-streaming-ver-miles-peliculas-gratis-4265329.jpg?tf=1200x' alt='Ni Netflix ni MAX, estas son las mejores plataformas de streaming para ver miles de películas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-1425068'>Cierra la mayor plataforma de deportes y fútbol por IPTV con más de 1.000 canales gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-1425068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cierra-mayor-plataforma-deportes-futbol-iptv-1000-canales-gratis-4265326.jpg?tf=1200x' alt='Cierra la mayor plataforma de deportes y fútbol por IPTV con más de 1.000 canales gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-mas-vista-2024-1425064'>Ni Fallout ni La casa del dragón: Google TV desvela la serie más vista de 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-mas-vista-2024-1425064' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-fallout-ni-casa-dragon-google-tv-desvela-serie-vista-2024-4265291.jpg?tf=1200x' alt='Ni Fallout ni La casa del dragón: Google TV desvela la serie más vista de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/autentica-locura-filtran-precio-nvidia-rtx-5090-nos-va-manos-1425048'>"Es una auténtica locura": filtran el precio de la NVIDIA RTX 5090 y esto se nos va de las manos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/autentica-locura-filtran-precio-nvidia-rtx-5090-nos-va-manos-1425048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/autentica-locura-filtran-precio-nvidia-rtx-5090-nos-va-manos-4265309.jpg?tf=1200x' alt='"Es una auténtica locura": filtran el precio de la NVIDIA RTX 5090 y esto se nos va de las manos' />
     </a>
 </div>
 
