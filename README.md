@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-estaria-conversaciones-samsung-llevar-funciones-ia-proximos-galaxy-1425147'>OpenAI estaría en conversaciones con Samsung para llevar sus funciones de IA a los próximos Galaxy</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-estaria-conversaciones-samsung-llevar-funciones-ia-proximos-galaxy-1425147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-galaxy-ia-openai-4265407.jpg?tf=1200x' alt='OpenAI estaría en conversaciones con Samsung para llevar sus funciones de IA a los próximos Galaxy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/android-16-podria-realizar-acciones-aplicaciones-ti-gracias-gemini-ai-1425137'>Android 16 podría realizar acciones en las aplicaciones por ti, gracias a Gemini AI</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-16-podria-realizar-acciones-aplicaciones-ti-gracias-gemini-ai-1425137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-android-4265397.jpg?tf=1200x' alt='Android 16 podría realizar acciones en las aplicaciones por ti, gracias a Gemini AI' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-peliculas-series-gratis-google-tv-1419954'>Cómo ver películas y series gratis con Google TV </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-peliculas-series-gratis-google-tv-1419954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/smart-tv-google-tv-4263771.jpg?tf=1200x' alt='Cómo ver películas y series gratis con Google TV ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128'>A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-prohibira-volver-entrar-mercado-navegadores-venta-chrome-1425128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-chrome-monopolio-4265387.jpg?tf=1200x' alt='A Google se le prohibirá volver a entrar en el mercado de navegadores tras la venta de Chrome' />
     </a>
 </div>
 
