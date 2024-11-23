@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/puedes-liberar-espacio-gmail-gratis-segundos-codigos-poco-conocidos-1420187'>Así puedes liberar espacio de Gmail gratis en unos segundos con unos códigos poco conocidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/puedes-liberar-espacio-gmail-gratis-segundos-codigos-poco-conocidos-1420187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4260815.jpg?tf=1200x' alt='Así puedes liberar espacio de Gmail gratis en unos segundos con unos códigos poco conocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-rompe-precio-poco-f6-pro-supera-mucho-amazon-1420018'>AliExpress rompe el precio del POCO F6 Pro y supera por mucho a Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-rompe-precio-poco-f6-pro-supera-mucho-amazon-1420018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='AliExpress rompe el precio del POCO F6 Pro y supera por mucho a Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-1420327'>Móviles que valen una auténtica fortuna y que cualquiera puede tener abandonado en un cajón</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-1420327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-4264337.jpg?tf=1200x' alt='Móviles que valen una auténtica fortuna y que cualquiera puede tener abandonado en un cajón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/como-saber-video-fotografia-original-ha-sido-editado-no-te-enganen-1413392'>Cómo saber si un vídeo o fotografía es original o ha sido editado para que no te engañen</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/como-saber-video-fotografia-original-ha-sido-editado-no-te-enganen-1413392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/imagen-inteligencia-artificial-ordenador-4252397.jpg?tf=1200x' alt='Cómo saber si un vídeo o fotografía es original o ha sido editado para que no te engañen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/he-probado-apple-intelligence-ingles-activa-mac-primeros-pasos-ia-1417854'>He probado Apple Intelligence en inglés, así se activa en un Mac y primeros pasos con la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/he-probado-apple-intelligence-ingles-activa-mac-primeros-pasos-ia-1417854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-intelligence-prueba-4264379.jpg?tf=1200x' alt='He probado Apple Intelligence en inglés, así se activa en un Mac y primeros pasos con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/adolescente-gana-30000-dolares-meme-coin-1425075'>Adolescente de 13 años gana 30.000 dólares troleando con una meme coin: la comunidad cripto se venga cruelmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/adolescente-gana-30000-dolares-meme-coin-1425075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adolescente-13-anos-gana-30000-dolares-troleando-meme-coin-comunidad-cripto-venga-cruelmente-4265327.jpg?tf=1200x' alt='Adolescente de 13 años gana 30.000 dólares troleando con una meme coin: la comunidad cripto se venga cruelmente' />
     </a>
 </div>
 
