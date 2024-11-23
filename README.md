@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-antes-2024-actualizaciones-ios-1424937'>Qué esperar de Apple antes de que termine 2024: actualización de iOS, nuevo CarPlay y más </a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-antes-2024-actualizaciones-ios-1424937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-apple-2024-4265143.jpg?tf=1200x' alt='Qué esperar de Apple antes de que termine 2024: actualización de iOS, nuevo CarPlay y más ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-seran-futuro-desapareceran-tiempo-1420225'>¿Los móviles plegables serán el futuro o desaparecerán con el tiempo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-seran-futuro-desapareceran-tiempo-1420225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-samsung-plegable-4264316.jpg?tf=1200x' alt='¿Los móviles plegables serán el futuro o desaparecerán con el tiempo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-bateria-solar-inagotable-cae-apenas-300-euros-black-friday-1419758'>Este Garmin de batería solar inagotable cae a apenas 300 euros en el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-bateria-solar-inagotable-cae-apenas-300-euros-black-friday-1419758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/garmin-instinct-2x-solar-4265242.jpg?tf=1200x' alt='Este Garmin de batería solar inagotable cae a apenas 300 euros en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antes-despues-sera-ano-ia-dejara-mejorar-estudio-1419328'>Un antes y un después: este será el año en el que la IA dejará de mejorar, según un estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/antes-despues-sera-ano-ia-dejara-mejorar-estudio-1419328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-ciega-sugiere-nuevo-estudio-3739136.jpg?tf=1200x' alt='Un antes y un después: este será el año en el que la IA dejará de mejorar, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/puedes-liberar-espacio-gmail-gratis-segundos-codigos-poco-conocidos-1420187'>Así puedes liberar espacio de Gmail gratis en unos segundos con unos códigos poco conocidos</a></h4>
     <a href='https://computerhoy.20minutos.es/google/puedes-liberar-espacio-gmail-gratis-segundos-codigos-poco-conocidos-1420187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4260815.jpg?tf=1200x' alt='Así puedes liberar espacio de Gmail gratis en unos segundos con unos códigos poco conocidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-rompe-precio-poco-f6-pro-supera-mucho-amazon-1420018'>AliExpress rompe el precio del POCO F6 Pro y supera por mucho a Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-rompe-precio-poco-f6-pro-supera-mucho-amazon-1420018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/poco-f6-pro-3339952.jpg?tf=1200x' alt='AliExpress rompe el precio del POCO F6 Pro y supera por mucho a Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-1420327'>Móviles que valen una auténtica fortuna y que cualquiera puede tener abandonado en un cajón</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-1420327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/moviles-valen-autentica-fortuna-cualquiera-puede-tener-abandonado-cajon-4264337.jpg?tf=1200x' alt='Móviles que valen una auténtica fortuna y que cualquiera puede tener abandonado en un cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ni-bajar-tapa-ni-suspender-opcion-ideal-cuando-no-utilizando-portatil-1424789'>Ni bajar la tapa ni suspender, esta es la opción ideal cuando no está utilizando tu portátil</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ni-bajar-tapa-ni-suspender-opcion-ideal-cuando-no-utilizando-portatil-1424789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-bajar-tapa-ni-suspender-opcion-ideal-cuando-no-utilizando-portatil-4264908.jpg?tf=1200x' alt='Ni bajar la tapa ni suspender, esta es la opción ideal cuando no está utilizando tu portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-saber-video-fotografia-original-ha-sido-editado-no-te-enganen-1413392'>Cómo saber si un vídeo o fotografía es original o ha sido editado para que no te engañen</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-saber-video-fotografia-original-ha-sido-editado-no-te-enganen-1413392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/imagen-inteligencia-artificial-ordenador-4252397.jpg?tf=1200x' alt='Cómo saber si un vídeo o fotografía es original o ha sido editado para que no te engañen' />
     </a>
 </div>
 
