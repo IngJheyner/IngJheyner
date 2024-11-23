@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-windows-11-24h2-todas-estas-razones-te-afecta-1425109'>Microsoft bloquea la actualización Windows 11 24H2 por todas estas razones: así te afecta</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-bloquea-actualizacion-windows-11-24h2-todas-estas-razones-te-afecta-1425109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bloqueo-windows-11-24h2-4265365.jpg?tf=1200x' alt='Microsoft bloquea la actualización Windows 11 24H2 por todas estas razones: así te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-antes-2024-actualizaciones-ios-1424937'>Qué esperar de Apple antes de que termine 2024: actualización de iOS, nuevo CarPlay y más </a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-antes-2024-actualizaciones-ios-1424937' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-apple-2024-4265143.jpg?tf=1200x' alt='Qué esperar de Apple antes de que termine 2024: actualización de iOS, nuevo CarPlay y más ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/antes-despues-sera-ano-ia-dejara-mejorar-estudio-1419328'>Un antes y un después: este será el año en el que la IA dejará de mejorar, según un estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/antes-despues-sera-ano-ia-dejara-mejorar-estudio-1419328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-ciega-sugiere-nuevo-estudio-3739136.jpg?tf=1200x' alt='Un antes y un después: este será el año en el que la IA dejará de mejorar, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/puedes-liberar-espacio-gmail-gratis-segundos-codigos-poco-conocidos-1420187'>Así puedes liberar espacio de Gmail gratis en unos segundos con unos códigos poco conocidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/puedes-liberar-espacio-gmail-gratis-segundos-codigos-poco-conocidos-1420187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-4260815.jpg?tf=1200x' alt='Así puedes liberar espacio de Gmail gratis en unos segundos con unos códigos poco conocidos' />
     </a>
 </div>
 
