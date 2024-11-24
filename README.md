@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/movil-barato-referencia-xiaomi-baja-precio-black-friday-1425159'>Este es nuestro móvil barato de referencia: es de Xiaomi y baja de precio por el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/movil-barato-referencia-xiaomi-baja-precio-black-friday-1425159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-redmi-note-13-4g-4265413.jpg?tf=1200x' alt='Este es nuestro móvil barato de referencia: es de Xiaomi y baja de precio por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-bateria-puede-hacer-viaje-uber-te-salga-barato-1424939'>El truco de la batería que puede hacer que tu viaje en Uber te salga más barato </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-bateria-puede-hacer-viaje-uber-te-salga-barato-1424939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/uber-4265130.jpg?tf=1200x' alt='El truco de la batería que puede hacer que tu viaje en Uber te salga más barato ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/cosori-vuelve-hacer-freidora-arrasa-ventas-baja-precio-black-friday-1425154'>Cosori lo vuelve a hacer: la freidora que arrasa en ventas baja más de precio por el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/cosori-vuelve-hacer-freidora-arrasa-ventas-baja-precio-black-friday-1425154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cp158-af-4265412.jpg?tf=1200x' alt='Cosori lo vuelve a hacer: la freidora que arrasa en ventas baja más de precio por el Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-1420326'>Google Fotos: así puedes encontrar imágenes antiguas al instante y viajar por el pasado</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-1420326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-4264325.jpg?tf=1200x' alt='Google Fotos: así puedes encontrar imágenes antiguas al instante y viajar por el pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-1424663'>Windows Tiny11 se actualiza a 24H2: novedades del Windows en miniatura para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-1424663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-4264692.jpg?tf=1200x' alt='Windows Tiny11 se actualiza a 24H2: novedades del Windows en miniatura para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-windows-ni-mac-os-estas-situaciones-deberias-usar-linux-antes-otro-sistema-operativo-1415269'>Ni Windows ni mac OS: en estas situaciones deberías usar Linux antes que otro sistema operativo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-windows-ni-mac-os-estas-situaciones-deberias-usar-linux-antes-otro-sistema-operativo-1415269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-linux-4055316.jpg?tf=1200x' alt='Ni Windows ni mac OS: en estas situaciones deberías usar Linux antes que otro sistema operativo' />
     </a>
 </div>
 
