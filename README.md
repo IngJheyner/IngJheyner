@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/adios-grandes-problemas-android-cuando-te-compras-movil-nuevo-1425032'>Adiós a uno de los grandes problemas de Android cuando te compras un móvil nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/adios-grandes-problemas-android-cuando-te-compras-movil-nuevo-1425032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transferir-datos-moviles-android-4265267.jpg?tf=1200x' alt='Adiós a uno de los grandes problemas de Android cuando te compras un móvil nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-onedrive-podra-convertir-documento-word-presentacion-powerpoint-segundos-1425176'>Copilot en OneDrive podrá convertir tu documento de Word en una presentación de PowerPoint en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-onedrive-podra-convertir-documento-word-presentacion-powerpoint-segundos-1425176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4265462.jpg?tf=1200x' alt='Copilot en OneDrive podrá convertir tu documento de Word en una presentación de PowerPoint en segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143'>¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-estaria-conversaciones-samsung-llevar-funciones-ia-proximos-galaxy-1425147'>OpenAI estaría en conversaciones con Samsung para llevar sus funciones de IA a los próximos Galaxy</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-estaria-conversaciones-samsung-llevar-funciones-ia-proximos-galaxy-1425147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-galaxy-ia-openai-4265407.jpg?tf=1200x' alt='OpenAI estaría en conversaciones con Samsung para llevar sus funciones de IA a los próximos Galaxy' />
     </a>
 </div>
 
