@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/cosori-vuelve-hacer-freidora-arrasa-ventas-baja-precio-black-friday-1425154'>Cosori lo vuelve a hacer: la freidora que arrasa en ventas baja más de precio por el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/cosori-vuelve-hacer-freidora-arrasa-ventas-baja-precio-black-friday-1425154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cp158-af-4265412.jpg?tf=1200x' alt='Cosori lo vuelve a hacer: la freidora que arrasa en ventas baja más de precio por el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/compara-ps5-pro-pc-850-euros-vuelve-loco-vaya-estafa-1423702'>Compara la PS5 Pro con un PC de 850 euros y se vuelve loco: ¡Vaya estafa!</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/compara-ps5-pro-pc-850-euros-vuelve-loco-vaya-estafa-1423702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pc-vs-ps5-pro-4264514.jpg?tf=1200x' alt='Compara la PS5 Pro con un PC de 850 euros y se vuelve loco: ¡Vaya estafa!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-1420326'>Google Fotos: así puedes encontrar imágenes antiguas al instante y viajar por el pasado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-1420326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-4264325.jpg?tf=1200x' alt='Google Fotos: así puedes encontrar imágenes antiguas al instante y viajar por el pasado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-1424663'>Windows Tiny11 se actualiza a 24H2: novedades del Windows en miniatura para todos</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-1424663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-4264692.jpg?tf=1200x' alt='Windows Tiny11 se actualiza a 24H2: novedades del Windows en miniatura para todos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-windows-ni-mac-os-estas-situaciones-deberias-usar-linux-antes-otro-sistema-operativo-1415269'>Ni Windows ni mac OS: en estas situaciones deberías usar Linux antes que otro sistema operativo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-windows-ni-mac-os-estas-situaciones-deberias-usar-linux-antes-otro-sistema-operativo-1415269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-linux-4055316.jpg?tf=1200x' alt='Ni Windows ni mac OS: en estas situaciones deberías usar Linux antes que otro sistema operativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flickering-como-fenomeno-monitor-tv-podria-estar-arruinandote-vista-1414538'>¿Qué es el flickering y cómo este fenómeno de tu monitor o TV podría estar arruinándote la vista?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/flickering-como-fenomeno-monitor-tv-podria-estar-arruinandote-vista-1414538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732271780411-4265028.jpg?tf=1200x' alt='¿Qué es el flickering y cómo este fenómeno de tu monitor o TV podría estar arruinándote la vista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/gasta-4000-euros-funeral-coche-1500-invitados-1425181'>Se gasta 4.000 euros en un funeral para su coche, con 1.500 invitados</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/gasta-4000-euros-funeral-coche-1500-invitados-1425181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gasta-4000-euros-hacer-funeral-coche-1500-invitados-4265468.jpg?tf=1200x' alt='Se gasta 4.000 euros en un funeral para su coche, con 1.500 invitados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/merece-pena-suscripcion-ps-plus-probar-modelo-basico-creo-hay-motivos-pagar-algo-1415041'>¿Merece la pena la suscripción a PS Plus? Tras probar el modelo básico, creo que hay motivos para pagar algo más</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/merece-pena-suscripcion-ps-plus-probar-modelo-basico-creo-hay-motivos-pagar-algo-1415041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/playstation-plus-ps-plus-2541109.jpg?tf=1200x' alt='¿Merece la pena la suscripción a PS Plus? Tras probar el modelo básico, creo que hay motivos para pagar algo más' />
     </a>
 </div>
 
