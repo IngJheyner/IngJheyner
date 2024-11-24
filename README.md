@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/no-pensarselo-mejor-reloj-samsung-cuesta-ya-menos-200-euros-1425184'>Para no pensárselo: el mejor reloj de Samsung cuesta ya menos de 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/no-pensarselo-mejor-reloj-samsung-cuesta-ya-menos-200-euros-1425184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4245610.jpg?tf=1200x' alt='Para no pensárselo: el mejor reloj de Samsung cuesta ya menos de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-1425248'>Jensen Huang, CEO de Nvidia: "Las alucinaciones de la IA durarán varios años" </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-1425248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-4265583.jpg?tf=1200x' alt='Jensen Huang, CEO de Nvidia: "Las alucinaciones de la IA durarán varios años" ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/popular-utilidad-windows-archivos-zip-tiene-importante-vulnerabilidad-tienes-hacer-1425236'>Esta popular utilidad de Windows para archivos ZIP tiene una importante vulnerabilidad: esto es lo que tienes que hacer</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/popular-utilidad-windows-archivos-zip-tiene-importante-vulnerabilidad-tienes-hacer-1425236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-zip-4265566.jpg?tf=1200x' alt='Esta popular utilidad de Windows para archivos ZIP tiene una importante vulnerabilidad: esto es lo que tienes que hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-notificaciones-waze-google-maps-android-auto-1415852'>Cómo ver los avisos de Waze al usar Google Maps en Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-notificaciones-waze-google-maps-android-auto-1415852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/waze-google-maps-android-auto-4256692.jpg?tf=1200x' alt='Cómo ver los avisos de Waze al usar Google Maps en Android Auto' />
     </a>
 </div>
 
