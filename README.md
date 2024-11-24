@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/montana-juego-tronos-bate-record-mundo-levantar-452-kilos-unidades-ssd-1425253'>La Montaña de Juego de Tronos bate el récord del mundo al levantar 452 Kilos de unidades SSD</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/montana-juego-tronos-bate-record-mundo-levantar-452-kilos-unidades-ssd-1425253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/montana-juego-tronos-bate-record-mundo-levantar-452-kilos-discos-ssd-4265592.jpg?tf=1200x' alt='La Montaña de Juego de Tronos bate el récord del mundo al levantar 452 Kilos de unidades SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/no-pensarselo-mejor-reloj-samsung-cuesta-ya-menos-200-euros-1425184'>Para no pensárselo: el mejor reloj de Samsung cuesta ya menos de 200 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/no-pensarselo-mejor-reloj-samsung-cuesta-ya-menos-200-euros-1425184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4245610.jpg?tf=1200x' alt='Para no pensárselo: el mejor reloj de Samsung cuesta ya menos de 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-silenciar-eliminar-notificaciones-android-auto-1415297'>Cómo silenciar o eliminar las notificaciones de Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-silenciar-eliminar-notificaciones-android-auto-1415297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-android-auto-4255664.jpg?tf=1200x' alt='Cómo silenciar o eliminar las notificaciones de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/popular-utilidad-windows-archivos-zip-tiene-importante-vulnerabilidad-tienes-hacer-1425236'>Esta popular utilidad de Windows para archivos ZIP tiene una importante vulnerabilidad: esto es lo que tienes que hacer</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/popular-utilidad-windows-archivos-zip-tiene-importante-vulnerabilidad-tienes-hacer-1425236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-zip-4265566.jpg?tf=1200x' alt='Esta popular utilidad de Windows para archivos ZIP tiene una importante vulnerabilidad: esto es lo que tienes que hacer' />
     </a>
 </div>
 
