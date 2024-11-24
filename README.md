@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-1425248'>Jensen Huang, CEO de Nvidia: "Las alucinaciones de la IA durarán varios años" </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-1425248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-4265583.jpg?tf=1200x' alt='Jensen Huang, CEO de Nvidia: "Las alucinaciones de la IA durarán varios años" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convertir-navegador-edge-predilecto-juegos-windows-11-1425240'>Microsoft quiere convertir al navegador Edge en el predilecto para los juegos en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convertir-navegador-edge-predilecto-juegos-windows-11-1425240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-edge-windows-pc-gaming-4265575.jpg?tf=1200x' alt='Microsoft quiere convertir al navegador Edge en el predilecto para los juegos en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-notificaciones-waze-google-maps-android-auto-1415852'>Cómo ver los avisos de Waze al usar Google Maps en Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-notificaciones-waze-google-maps-android-auto-1415852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/waze-google-maps-android-auto-4256692.jpg?tf=1200x' alt='Cómo ver los avisos de Waze al usar Google Maps en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-15-arruina-android-auto-usuarios-reportan-problemas-idioma-navegacion-1425230'>Android 15 arruina Android Auto: usuarios reportan problemas de idioma en la navegación</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-15-arruina-android-auto-usuarios-reportan-problemas-idioma-navegacion-1425230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-idioma-4265557.jpg?tf=1200x' alt='Android 15 arruina Android Auto: usuarios reportan problemas de idioma en la navegación' />
     </a>
 </div>
 
