@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/espana-moldavia-paises-europeos-mayor-menor-esperanza-vida-ocde-1425173'>De España a Moldavia: los países europeos con mayor y menor esperanza de vida según la OCDE</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/espana-moldavia-paises-europeos-mayor-menor-esperanza-vida-ocde-1425173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/esperanza-vida-4265460.jpg?tf=1200x' alt='De España a Moldavia: los países europeos con mayor y menor esperanza de vida según la OCDE' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-1424663'>Windows Tiny11 se actualiza a 24H2: novedades del Windows en miniatura para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-1424663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-4264692.jpg?tf=1200x' alt='Windows Tiny11 se actualiza a 24H2: novedades del Windows en miniatura para todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/no-dejes-datos-caigan-malas-manos-puedes-controlar-huella-digital-google-1420210'>No dejes que tus datos caigan en malas manos: así puedes controlar tu huella digital en Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/no-dejes-datos-caigan-malas-manos-puedes-controlar-huella-digital-google-1420210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huella-digital-google-4264127.jpg?tf=1200x' alt='No dejes que tus datos caigan en malas manos: así puedes controlar tu huella digital en Google' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-windows-ni-mac-os-estas-situaciones-deberias-usar-linux-antes-otro-sistema-operativo-1415269'>Ni Windows ni mac OS: en estas situaciones deberías usar Linux antes que otro sistema operativo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-windows-ni-mac-os-estas-situaciones-deberias-usar-linux-antes-otro-sistema-operativo-1415269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ordenador-linux-4055316.jpg?tf=1200x' alt='Ni Windows ni mac OS: en estas situaciones deberías usar Linux antes que otro sistema operativo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-1424778'>Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-1424778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flickering-como-fenomeno-monitor-tv-podria-estar-arruinandote-vista-1414538'>¿Qué es el flickering y cómo este fenómeno de tu monitor o TV podría estar arruinándote la vista?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/flickering-como-fenomeno-monitor-tv-podria-estar-arruinandote-vista-1414538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732271780411-4265028.jpg?tf=1200x' alt='¿Qué es el flickering y cómo este fenómeno de tu monitor o TV podría estar arruinándote la vista?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-grandes-problemas-android-cuando-te-compras-movil-nuevo-1425032'>Adiós a uno de los grandes problemas de Android cuando te compras un móvil nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-grandes-problemas-android-cuando-te-compras-movil-nuevo-1425032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transferir-datos-moviles-android-4265267.jpg?tf=1200x' alt='Adiós a uno de los grandes problemas de Android cuando te compras un móvil nuevo' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/gasta-4000-euros-funeral-coche-1500-invitados-1425181'>Se gasta 4.000 euros en un funeral para su coche, con 1.500 invitados</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/gasta-4000-euros-funeral-coche-1500-invitados-1425181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gasta-4000-euros-hacer-funeral-coche-1500-invitados-4265468.jpg?tf=1200x' alt='Se gasta 4.000 euros en un funeral para su coche, con 1.500 invitados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-onedrive-podra-convertir-documento-word-presentacion-powerpoint-segundos-1425176'>Copilot en OneDrive podrá convertir tu documento de Word en una presentación de PowerPoint en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-onedrive-podra-convertir-documento-word-presentacion-powerpoint-segundos-1425176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4265462.jpg?tf=1200x' alt='Copilot en OneDrive podrá convertir tu documento de Word en una presentación de PowerPoint en segundos' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/merece-pena-suscripcion-ps-plus-probar-modelo-basico-creo-hay-motivos-pagar-algo-1415041'>¿Merece la pena la suscripción a PS Plus? Tras probar el modelo básico, creo que hay motivos para pagar algo más</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/merece-pena-suscripcion-ps-plus-probar-modelo-basico-creo-hay-motivos-pagar-algo-1415041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/11/playstation-plus-ps-plus-2541109.jpg?tf=1200x' alt='¿Merece la pena la suscripción a PS Plus? Tras probar el modelo básico, creo que hay motivos para pagar algo más' />
     </a>
 </div>
 
