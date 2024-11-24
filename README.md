@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convertir-navegador-edge-predilecto-juegos-windows-11-1425240'>Microsoft quiere convertir al navegador Edge en el predilecto para los juegos en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convertir-navegador-edge-predilecto-juegos-windows-11-1425240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-edge-windows-pc-gaming-4265575.jpg?tf=1200x' alt='Microsoft quiere convertir al navegador Edge en el predilecto para los juegos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-silenciar-eliminar-notificaciones-android-auto-1415297'>Cómo silenciar o eliminar las notificaciones de Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-silenciar-eliminar-notificaciones-android-auto-1415297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-android-auto-4255664.jpg?tf=1200x' alt='Cómo silenciar o eliminar las notificaciones de Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-15-arruina-android-auto-usuarios-reportan-problemas-idioma-navegacion-1425230'>Android 15 arruina Android Auto: usuarios reportan problemas de idioma en la navegación</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-15-arruina-android-auto-usuarios-reportan-problemas-idioma-navegacion-1425230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-idioma-4265557.jpg?tf=1200x' alt='Android 15 arruina Android Auto: usuarios reportan problemas de idioma en la navegación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ahora-sera-facil-nunca-reparar-altavoz-macbook-pro-cambio-historico-apple-1425223'>Ahora será más fácil que nunca reparar el altavoz de tu MacBook Pro con este cambio histórico de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ahora-sera-facil-nunca-reparar-altavoz-macbook-pro-cambio-historico-apple-1425223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258497.jpg?tf=1200x' alt='Ahora será más fácil que nunca reparar el altavoz de tu MacBook Pro con este cambio histórico de Apple' />
     </a>
 </div>
 
