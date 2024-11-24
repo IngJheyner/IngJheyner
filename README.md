@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-silenciar-eliminar-notificaciones-android-auto-1415297'>Cómo silenciar o eliminar las notificaciones de Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-silenciar-eliminar-notificaciones-android-auto-1415297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/notificaciones-android-auto-4255664.jpg?tf=1200x' alt='Cómo silenciar o eliminar las notificaciones de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/popular-utilidad-windows-archivos-zip-tiene-importante-vulnerabilidad-tienes-hacer-1425236'>Esta popular utilidad de Windows para archivos ZIP tiene una importante vulnerabilidad: esto es lo que tienes que hacer</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/popular-utilidad-windows-archivos-zip-tiene-importante-vulnerabilidad-tienes-hacer-1425236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-zip-4265566.jpg?tf=1200x' alt='Esta popular utilidad de Windows para archivos ZIP tiene una importante vulnerabilidad: esto es lo que tienes que hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-notificaciones-waze-google-maps-android-auto-1415852'>Cómo ver los avisos de Waze al usar Google Maps en Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-notificaciones-waze-google-maps-android-auto-1415852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/waze-google-maps-android-auto-4256692.jpg?tf=1200x' alt='Cómo ver los avisos de Waze al usar Google Maps en Android Auto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ahora-sera-facil-nunca-reparar-altavoz-macbook-pro-cambio-historico-apple-1425223'>Ahora será más fácil que nunca reparar el altavoz de tu MacBook Pro con este cambio histórico de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ahora-sera-facil-nunca-reparar-altavoz-macbook-pro-cambio-historico-apple-1425223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/macbook-pro-14-m4-4258497.jpg?tf=1200x' alt='Ahora será más fácil que nunca reparar el altavoz de tu MacBook Pro con este cambio histórico de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-raspberry-pi-dispositivo-extrema-ciberseguridad-pialert-1418925'>Cómo convertir tu Raspberry Pi en un dispositivo de extrema ciberseguridad con Pi.Alert</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-raspberry-pi-dispositivo-extrema-ciberseguridad-pialert-1418925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-raspberry-pi-4261664.jpg?tf=1200x' alt='Cómo convertir tu Raspberry Pi en un dispositivo de extrema ciberseguridad con Pi.Alert' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/experto-seguridad-acusa-microsoft-crear-aplicacion-windows-similar-malware-1425215'>Experto en seguridad acusa a Microsoft de crear una aplicación para Windows similar a malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/experto-seguridad-acusa-microsoft-crear-aplicacion-windows-similar-malware-1425215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-malware-4265505.jpg?tf=1200x' alt='Experto en seguridad acusa a Microsoft de crear una aplicación para Windows similar a malware' />
     </a>
 </div>
 
