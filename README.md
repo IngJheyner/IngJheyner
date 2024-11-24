@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/experto-seguridad-acusa-microsoft-crear-aplicacion-windows-similar-malware-1425215'>Experto en seguridad acusa a Microsoft de crear una aplicación para Windows similar a malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/experto-seguridad-acusa-microsoft-crear-aplicacion-windows-similar-malware-1425215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-malware-4265505.jpg?tf=1200x' alt='Experto en seguridad acusa a Microsoft de crear una aplicación para Windows similar a malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/movil-barato-referencia-xiaomi-baja-precio-black-friday-1425159'>Este es nuestro móvil barato de referencia: es de Xiaomi y baja de precio por el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/android/movil-barato-referencia-xiaomi-baja-precio-black-friday-1425159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-redmi-note-13-4g-4265413.jpg?tf=1200x' alt='Este es nuestro móvil barato de referencia: es de Xiaomi y baja de precio por el Black Friday' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/compara-ps5-pro-pc-850-euros-vuelve-loco-vaya-estafa-1423702'>Compara la PS5 Pro con un PC de 850 euros y se vuelve loco: ¡Vaya estafa!</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/compara-ps5-pro-pc-850-euros-vuelve-loco-vaya-estafa-1423702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pc-vs-ps5-pro-4264514.jpg?tf=1200x' alt='Compara la PS5 Pro con un PC de 850 euros y se vuelve loco: ¡Vaya estafa!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-1420326'>Google Fotos: así puedes encontrar imágenes antiguas al instante y viajar por el pasado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-1420326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-4264325.jpg?tf=1200x' alt='Google Fotos: así puedes encontrar imágenes antiguas al instante y viajar por el pasado' />
     </a>
 </div>
 
