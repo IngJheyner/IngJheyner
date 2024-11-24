@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/espana-moldavia-paises-europeos-mayor-menor-esperanza-vida-ocde-1425173'>De España a Moldavia: los países europeos con mayor y menor esperanza de vida según la OCDE</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/espana-moldavia-paises-europeos-mayor-menor-esperanza-vida-ocde-1425173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/esperanza-vida-4265460.jpg?tf=1200x' alt='De España a Moldavia: los países europeos con mayor y menor esperanza de vida según la OCDE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/no-dejes-datos-caigan-malas-manos-puedes-controlar-huella-digital-google-1420210'>No dejes que tus datos caigan en malas manos: así puedes controlar tu huella digital en Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/no-dejes-datos-caigan-malas-manos-puedes-controlar-huella-digital-google-1420210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huella-digital-google-4264127.jpg?tf=1200x' alt='No dejes que tus datos caigan en malas manos: así puedes controlar tu huella digital en Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-1424778'>Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-1424778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/adios-grandes-problemas-android-cuando-te-compras-movil-nuevo-1425032'>Adiós a uno de los grandes problemas de Android cuando te compras un móvil nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/android/adios-grandes-problemas-android-cuando-te-compras-movil-nuevo-1425032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transferir-datos-moviles-android-4265267.jpg?tf=1200x' alt='Adiós a uno de los grandes problemas de Android cuando te compras un móvil nuevo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-onedrive-podra-convertir-documento-word-presentacion-powerpoint-segundos-1425176'>Copilot en OneDrive podrá convertir tu documento de Word en una presentación de PowerPoint en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-onedrive-podra-convertir-documento-word-presentacion-powerpoint-segundos-1425176' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4265462.jpg?tf=1200x' alt='Copilot en OneDrive podrá convertir tu documento de Word en una presentación de PowerPoint en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lg-trabajarian-telefono-movil-ia-real-no-vas-poder-comprar-1425172'>Samsung y LG trabajarían en un teléfono móvil con “IA real” que no vas a poder comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lg-trabajarian-telefono-movil-ia-real-no-vas-poder-comprar-1425172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ixi-lg-uplus-4265459.jpg?tf=1200x' alt='Samsung y LG trabajarían en un teléfono móvil con “IA real” que no vas a poder comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/potencia-brutal-precio-mejor-aun-msi-cyborg-i9-precio-saldo-amazon-1424642'>Potencia brutal y precio mejor aún: el MSI Cyborg con i9 está a precio de saldo en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/potencia-brutal-precio-mejor-aun-msi-cyborg-i9-precio-saldo-amazon-1424642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/acer-nitro-5-3260954.jpg?tf=1200x' alt='Potencia brutal y precio mejor aún: el MSI Cyborg con i9 está a precio de saldo en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143'>¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/cuidado-microsoft-advierte-version-actual-windows-recall-guarda-capturas-pantalla-incluso-sitios-excluidos-1425143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='¡Cuidado! Microsoft advierte que la versión actual de Windows Recall guarda capturas de pantalla incluso de sitios excluidos' />
     </a>
 </div>
 
