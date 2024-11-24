@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-deja-funcionar-televisores-2015-1425257'>Si tienes un televisor fabricando antes de 2015, Netflix tiene malas noticias para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-deja-funcionar-televisores-2015-1425257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tienes-televisor-fabricando-antes-2015-netflix-tiene-malas-noticia-ti-4265603.jpg?tf=1200x' alt='Si tienes un televisor fabricando antes de 2015, Netflix tiene malas noticias para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-coche-autonomo-atropelle-peatones-perro-robot-ponga-bombas-1425255'>Hackean un coche autónomo para que atropelle a peatones, y a un perro robot para que ponga bombas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-coche-autonomo-atropelle-peatones-perro-robot-ponga-bombas-1425255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hackean-coche-autonomo-atropelle-peatones-perro-robot-ponga-bombas-4265601.jpg?tf=1200x' alt='Hackean un coche autónomo para que atropelle a peatones, y a un perro robot para que ponga bombas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-1425248'>Jensen Huang, CEO de Nvidia: "Las alucinaciones de la IA durarán varios años" </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-1425248' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jensen-huang-ceo-nvidia-alucinaciones-ia-duraran-varios-anos-4265583.jpg?tf=1200x' alt='Jensen Huang, CEO de Nvidia: "Las alucinaciones de la IA durarán varios años" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convertir-navegador-edge-predilecto-juegos-windows-11-1425240'>Microsoft quiere convertir al navegador Edge en el predilecto para los juegos en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-convertir-navegador-edge-predilecto-juegos-windows-11-1425240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-edge-windows-pc-gaming-4265575.jpg?tf=1200x' alt='Microsoft quiere convertir al navegador Edge en el predilecto para los juegos en Windows 11' />
     </a>
 </div>
 
