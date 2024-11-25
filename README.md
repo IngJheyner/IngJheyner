@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/detectar-chatgpt-aplicaciones-ia-1424752'>Detectar ChatGPT: aplicaciones para saber si te las están colando con la IA de ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/detectar-chatgpt-aplicaciones-ia-1424752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redaccion-inteligencia-artificial-4264910.jpg?tf=1200x' alt='Detectar ChatGPT: aplicaciones para saber si te las están colando con la IA de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/nunca-pense-auriculares-pudieran-costar-1500-euros-pero-ahora-he-probado-creo-valen-precio-1417320'>Nunca pensé que unos auriculares pudieran costar 1.500 euros, pero ahora que los he probado creo que valen su precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/nunca-pense-auriculares-pudieran-costar-1500-euros-pero-ahora-he-probado-creo-valen-precio-1417320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bang-olufsen-beoplay-h100-4263652.jpg?tf=1200x' alt='Nunca pensé que unos auriculares pudieran costar 1.500 euros, pero ahora que los he probado creo que valen su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-haier-tv-c90-oled-ha-convertido-favoritas-ano-1424643'>He probado la Haier TV C90 OLED y se ha convertido en una de mis favoritas del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-haier-tv-c90-oled-ha-convertido-favoritas-ano-1424643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/haier-tv-c90-oled-4264746.jpg?tf=1200x' alt='He probado la Haier TV C90 OLED y se ha convertido en una de mis favoritas del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-1424791'>No salgo de casa sin mi USB Live Linux, y tú deberías hacer lo mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-1424791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-4264925.jpg?tf=1200x' alt='No salgo de casa sin mi USB Live Linux, y tú deberías hacer lo mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-aplicacion-te-lleva-destino-rapido-1424694'>Google Maps o Waze: ¿Qué aplicación te lleva a tu destino más rápido?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-aplicacion-te-lleva-destino-rapido-1424694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-wazeque-aplicacion-te-lleva-destino-rapido-4264720.jpg?tf=1200x' alt='Google Maps o Waze: ¿Qué aplicación te lleva a tu destino más rápido?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-raspberry-pi-mini-pc-ryzen-5-mucho-potente-ahora-bastante-barato-1419764'>Olvida las Raspberry Pi: este Mini PC con Ryzen 5 es mucho más potente y ahora es bastante barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-raspberry-pi-mini-pc-ryzen-5-mucho-potente-ahora-bastante-barato-1419764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Olvida las Raspberry Pi: este Mini PC con Ryzen 5 es mucho más potente y ahora es bastante barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/solo-pulsar-tecla-estafa-ha-comenzado-tecnica-vacia-cuentas-segundo-puedes-protegerte-1424949'>"Con solo pulsar una tecla, la estafa ha comenzado": Esta técnica vacía tus cuentas en segundo y así puedes protegerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/solo-pulsar-tecla-estafa-ha-comenzado-tecnica-vacia-cuentas-segundo-puedes-protegerte-1424949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/solo-pulsar-tecla-estafa-ha-comenzado-tecnica-vacia-cuentas-segundo-puedes-protegerte-4265116.jpg?tf=1200x' alt='"Con solo pulsar una tecla, la estafa ha comenzado": Esta técnica vacía tus cuentas en segundo y así puedes protegerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/lados-opuestos-dado-siempre-suman-7-1425258'>Por qué los lados opuestos de un dado siempre suman 7</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/lados-opuestos-dado-siempre-suman-7-1425258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lados-opuestos-dado-siempre-suman-7-4265604.jpg?tf=1200x' alt='Por qué los lados opuestos de un dado siempre suman 7' />
     </a>
 </div>
 
