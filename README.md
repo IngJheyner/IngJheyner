@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-ya-trabaja-nintendo-switch-2-killer-no-playstation-6-1425348'>Sony ya trabaja en una Nintendo Switch 2 killer, y no es la PlayStation 6</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sony-ya-trabaja-nintendo-switch-2-killer-no-playstation-6-1425348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sony-ya-trabaja-nintendo-switch-2-killer-no-playstation-6-4265716.jpg?tf=1200x' alt='Sony ya trabaja en una Nintendo Switch 2 killer, y no es la PlayStation 6' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5070-ti-potencia-cercana-rtx-5080-filtracion-1425412'>La NVIDIA GeForce RTX 5070 Ti tendrá una potencia cercana a la de RTX 5080, según una filtración</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5070-ti-potencia-cercana-rtx-5080-filtracion-1425412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-geforce-rtx-5070-4265816.jpg?tf=1200x' alt='La NVIDIA GeForce RTX 5070 Ti tendrá una potencia cercana a la de RTX 5080, según una filtración' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328'>Lidl no tiene una web propia dedicada a sus juguetes, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logo-lidl-4212305.jpg?tf=1200x' alt='Lidl no tiene una web propia dedicada a sus juguetes, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-mit-descubren-nueva-forma-materia-comienza-carrera-crear-ordenador-cuantico-potente-mundo-1425342'>Investigadores del MIT descubren una nueva forma de materia: comienza la carrera para crear el ordenador cuántico más potente del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-mit-descubren-nueva-forma-materia-comienza-carrera-crear-ordenador-cuantico-potente-mundo-1425342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-cuantico-ibm-2355365.jpg?tf=1200x' alt='Investigadores del MIT descubren una nueva forma de materia: comienza la carrera para crear el ordenador cuántico más potente del mundo' />
     </a>
 </div>
 
