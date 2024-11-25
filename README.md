@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5070-ti-potencia-cercana-rtx-5080-filtracion-1425412'>La NVIDIA GeForce RTX 5070 Ti tendrá una potencia cercana a la de RTX 5080, según una filtración</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5070-ti-potencia-cercana-rtx-5080-filtracion-1425412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-geforce-rtx-5070-4265816.jpg?tf=1200x' alt='La NVIDIA GeForce RTX 5070 Ti tendrá una potencia cercana a la de RTX 5080, según una filtración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ya-sabe-precio-llevar-hombre-marte-no-sera-barato-1425375'>Elon Musk ya sabe el precio de llevar al hombre a Marte, y no será barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ya-sabe-precio-llevar-hombre-marte-no-sera-barato-1425375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4265775.jpg?tf=1200x' alt='Elon Musk ya sabe el precio de llevar al hombre a Marte, y no será barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-lanza-pico-2-w-microcontrolador-accesible-proyectos-electronicos-1425448'>Raspberry Pi lanza la Pico 2 W: el microcontrolador accesible para proyectos electrónicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-lanza-pico-2-w-microcontrolador-accesible-proyectos-electronicos-1425448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-lanza-pico-2-w-microcontrolador-accesible-proyectos-electronicos-4265897.jpg?tf=1200x' alt='Raspberry Pi lanza la Pico 2 W: el microcontrolador accesible para proyectos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328'>Lidl no tiene una web propia dedicada a sus juguetes, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logo-lidl-4212305.jpg?tf=1200x' alt='Lidl no tiene una web propia dedicada a sus juguetes, es una estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-mit-descubren-nueva-forma-materia-comienza-carrera-crear-ordenador-cuantico-potente-mundo-1425342'>Investigadores del MIT descubren una nueva forma de materia: comienza la carrera para crear el ordenador cuántico más potente del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-mit-descubren-nueva-forma-materia-comienza-carrera-crear-ordenador-cuantico-potente-mundo-1425342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-cuantico-ibm-2355365.jpg?tf=1200x' alt='Investigadores del MIT descubren una nueva forma de materia: comienza la carrera para crear el ordenador cuántico más potente del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/necesitamos-cambio-cultura-satya-nadella-ceo-microsoft-graves-fallos-seguridad-compania-1425411'>"Necesitamos un cambio de cultura": Satya Nadella, CEO de Microsoft, tras los graves fallos de seguridad de la compañía</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/necesitamos-cambio-cultura-satya-nadella-ceo-microsoft-graves-fallos-seguridad-compania-1425411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/satya-nadella-ceo-microsoft-4057946.jpg?tf=1200x' alt='"Necesitamos un cambio de cultura": Satya Nadella, CEO de Microsoft, tras los graves fallos de seguridad de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dudas-hacienda-agencia-tributaria-1417127'>Adiós a la gestoría, este ChatGPT gratis resuelve todas tus dudas con Hacienda las 24 horas del día </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dudas-hacienda-agencia-tributaria-1417127' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-4258736.jpg?tf=1200x' alt='Adiós a la gestoría, este ChatGPT gratis resuelve todas tus dudas con Hacienda las 24 horas del día ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290'>La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-4265807.jpg?tf=1200x' alt='La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva' />
     </a>
 </div>
 
