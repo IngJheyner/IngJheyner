@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-1425526'>Inyectan un "veneno silencioso" en la música que consigue dejar a la inteligencia artificial fuera de juego</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-1425526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-4265993.jpg?tf=1200x' alt='Inyectan un "veneno silencioso" en la música que consigue dejar a la inteligencia artificial fuera de juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533'>Bluesky también está violando las leyes de la Unión Europea</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-tambien-violando-leyes-ue-4265960.jpg?tf=1200x' alt='Bluesky también está violando las leyes de la Unión Europea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/abono-transporte-gratis-hacker-demuestra-posible-utilizar-flipper-zero-viajar-pagar-nada-1425507'>Abono transporte gratis: hacker demuestra que es posible utilizar un Flipper Zero para viajar sin pagar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/abono-transporte-gratis-hacker-demuestra-posible-utilizar-flipper-zero-viajar-pagar-nada-1425507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/abono-transporte-gratis-hacker-demuestra-posible-utilizar-flipper-zero-viajar-pagar-nada-4265967.jpg?tf=1200x' alt='Abono transporte gratis: hacker demuestra que es posible utilizar un Flipper Zero para viajar sin pagar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/significa-nuevo-formato-version-google-maps-parece-1425523'>¿Qué significa el nuevo formato de versión de Google Maps? Más de lo que parece</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/significa-nuevo-formato-version-google-maps-parece-1425523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4265974.jpg?tf=1200x' alt='¿Qué significa el nuevo formato de versión de Google Maps? Más de lo que parece' />
     </a>
 </div>
 
