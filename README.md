@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290'>La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-4265807.jpg?tf=1200x' alt='La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/caras-entrada-nuevas-gafas-realidad-virtual-real-madrid-apple-podrian-costar-ojo-cara-1425373'>¿Más caras que una entrada? Las nuevas gafas de realidad virtual del Real Madrid y Apple podrían costar un ojo de la cara </a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/caras-entrada-nuevas-gafas-realidad-virtual-real-madrid-apple-podrian-costar-ojo-cara-1425373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gafas-realidad-virtual-real-madrid-apple-4265762.jpg?tf=1200x' alt='¿Más caras que una entrada? Las nuevas gafas de realidad virtual del Real Madrid y Apple podrían costar un ojo de la cara ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gente-normal-no-preparada-ia-ex-ceo-google-1425367'>"La gente normal no está preparada para la IA", según el ex-CEO de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gente-normal-no-preparada-ia-ex-ceo-google-1425367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='"La gente normal no está preparada para la IA", según el ex-CEO de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/xiaomi-apple-tablet-barata-desploma-precio-black-friday-aliexpress-1425277'>Xiaomi, a por Apple: su tablet barata desploma su precio por el Black Friday en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/xiaomi-apple-tablet-barata-desploma-precio-black-friday-aliexpress-1425277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/laterales-redmi-pad-3130526.jpg?tf=1200x' alt='Xiaomi, a por Apple: su tablet barata desploma su precio por el Black Friday en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/black-friday-ia-convirtiese-mejor-aliada-encontrar-ofertas-1425346'>Black Friday: ¿Y si la IA se convirtiese en tu mejor aliada para encontrar ofertas?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/black-friday-ia-convirtiese-mejor-aliada-encontrar-ofertas-1425346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-ia-4265742.jpg?tf=1200x' alt='Black Friday: ¿Y si la IA se convirtiese en tu mejor aliada para encontrar ofertas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-televisores-quedaran-netflix-partir-1-diciembre-2024-1425316'>Estos son los televisores que se quedarán sin Netflix a partir del 1 de diciembre de 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-televisores-quedaran-netflix-partir-1-diciembre-2024-1425316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-4265767.jpg?tf=1200x' alt='Estos son los televisores que se quedarán sin Netflix a partir del 1 de diciembre de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-servicio-streaming-legendario-pero-contenido-llegara-netflix-pagar-euro-extra-1425343'>Adiós a un servicio de streaming legendario, pero su contenido llegará a Netflix sin pagar un euro extra</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/adios-servicio-streaming-legendario-pero-contenido-llegara-netflix-pagar-euro-extra-1425343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/television-netflix-4265717.jpg?tf=1200x' alt='Adiós a un servicio de streaming legendario, pero su contenido llegará a Netflix sin pagar un euro extra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/trabajadora-bluesky-cuenta-motivos-exito-red-social-quiere-acabar-twitter-hecha-gente-gente-1425319'>Trabajadora de Bluesky cuenta los motivos de éxito de la red social que quiere acabar con Twitter: "Hecha por la gente y para la gente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/trabajadora-bluesky-cuenta-motivos-exito-red-social-quiere-acabar-twitter-hecha-gente-gente-1425319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/trabajadora-bluesky-4265692.jpg?tf=1200x' alt='Trabajadora de Bluesky cuenta los motivos de éxito de la red social que quiere acabar con Twitter: "Hecha por la gente y para la gente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tinder-aviones-app-conocer-gente-ligar-vuelo-funciona-conexion-1425321'>Así es el “Tinder” para los aviones: la app para con la que conocer gente y ligar en un vuelo, y que funciona sin conexión</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tinder-aviones-app-conocer-gente-ligar-vuelo-funciona-conexion-1425321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tinder-aviones-app-conocer-gente-ligar-vuelo-funciona-conexion-4265677.jpg?tf=1200x' alt='Así es el “Tinder” para los aviones: la app para con la que conocer gente y ligar en un vuelo, y que funciona sin conexión' />
     </a>
 </div>
 
