@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533'>Bluesky también está violando las leyes de la Unión Europea</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-tambien-violando-leyes-ue-4265960.jpg?tf=1200x' alt='Bluesky también está violando las leyes de la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378'>"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-video-tiktok-alba-dubai-albadubai-4265804.jpg?tf=1200x' alt='"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precios-2025-como-quedaran-tarifas-partir-enero-1425531'>Movistar sube precios en 2025: cómo quedarán sus tarifas a partir de enero</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precios-2025-como-quedaran-tarifas-partir-enero-1425531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='Movistar sube precios en 2025: cómo quedarán sus tarifas a partir de enero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/significa-nuevo-formato-version-google-maps-parece-1425523'>¿Qué significa el nuevo formato de versión de Google Maps? Más de lo que parece</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/significa-nuevo-formato-version-google-maps-parece-1425523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-4265974.jpg?tf=1200x' alt='¿Qué significa el nuevo formato de versión de Google Maps? Más de lo que parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-fin-permite-desactivar-molesta-opcion-1425521'>Windows 11 por fin permite desactivar esta molesta opción</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-fin-permite-desactivar-molesta-opcion-1425521' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/onedrive-ordenador-windows-11-4265971.jpg?tf=1200x' alt='Windows 11 por fin permite desactivar esta molesta opción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/estoy-poco-shock-compra-lote-productos-devueltos-amazon-1300-euros-encuentra-1425433'>"Estoy un poco en shock": compra un lote de productos devueltos en Amazon por 1.300 euros y esto es lo que se encuentra</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/estoy-poco-shock-compra-lote-productos-devueltos-amazon-1300-euros-encuentra-1425433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-estherreeds-4265901.jpg?tf=1200x' alt='"Estoy un poco en shock": compra un lote de productos devueltos en Amazon por 1.300 euros y esto es lo que se encuentra' />
     </a>
 </div>
 
