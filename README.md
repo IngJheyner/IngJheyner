@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/segundo-apagagon-tdt-espana-prepara-televisor-1424631'>Prepara tu televisor, se acerca un nuevo apagón de la TDT en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/segundo-apagagon-tdt-espana-prepara-televisor-1424631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4264771.jpg?tf=1200x' alt='Prepara tu televisor, se acerca un nuevo apagón de la TDT en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-director-gladiator-da-razon-stephen-king-respecto-mito-cine-no-funciono-1425415'>Ridley Scott, el director de Gladiator, da la razón a Stephen King con respecto a un mito del cine: “No funcionó”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ridley-scott-director-gladiator-da-razon-stephen-king-respecto-mito-cine-no-funciono-1425415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ridley-scott-director-gladiator-da-razon-stephen-king-respecto-mito-cine-no-funciono-4265817.jpg?tf=1200x' alt='Ridley Scott, el director de Gladiator, da la razón a Stephen King con respecto a un mito del cine: “No funcionó”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/app-gratis-adelanta-derecha-waze-google-maps-lanza-funcion-llevas-anos-esperando-1425464'>Esta app gratis adelanta por la derecha a Waze y Google Maps y lanza una función que llevas años esperando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/app-gratis-adelanta-derecha-waze-google-maps-lanza-funcion-llevas-anos-esperando-1425464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-gratis-adelanta-derecha-waze-google-maps-lanza-funcion-llevas-anos-esperando-4265951.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Waze y Google Maps y lanza una función que llevas años esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/sony-ya-trabaja-nintendo-switch-2-killer-no-playstation-6-1425348'>Sony ya trabaja en una Nintendo Switch 2 killer, y no es la PlayStation 6</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sony-ya-trabaja-nintendo-switch-2-killer-no-playstation-6-1425348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sony-ya-trabaja-nintendo-switch-2-killer-no-playstation-6-4265716.jpg?tf=1200x' alt='Sony ya trabaja en una Nintendo Switch 2 killer, y no es la PlayStation 6' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5070-ti-potencia-cercana-rtx-5080-filtracion-1425412'>La NVIDIA GeForce RTX 5070 Ti tendrá una potencia cercana a la de RTX 5080, según una filtración</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5070-ti-potencia-cercana-rtx-5080-filtracion-1425412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-geforce-rtx-5070-4265816.jpg?tf=1200x' alt='La NVIDIA GeForce RTX 5070 Ti tendrá una potencia cercana a la de RTX 5080, según una filtración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ya-sabe-precio-llevar-hombre-marte-no-sera-barato-1425375'>Elon Musk ya sabe el precio de llevar al hombre a Marte, y no será barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ya-sabe-precio-llevar-hombre-marte-no-sera-barato-1425375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4265775.jpg?tf=1200x' alt='Elon Musk ya sabe el precio de llevar al hombre a Marte, y no será barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-lanza-pico-2-w-microcontrolador-accesible-proyectos-electronicos-1425448'>Raspberry Pi lanza la Pico 2 W: el microcontrolador accesible para proyectos electrónicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-lanza-pico-2-w-microcontrolador-accesible-proyectos-electronicos-1425448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-lanza-pico-2-w-microcontrolador-accesible-proyectos-electronicos-4265897.jpg?tf=1200x' alt='Raspberry Pi lanza la Pico 2 W: el microcontrolador accesible para proyectos electrónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328'>Lidl no tiene una web propia dedicada a sus juguetes, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logo-lidl-4212305.jpg?tf=1200x' alt='Lidl no tiene una web propia dedicada a sus juguetes, es una estafa' />
     </a>
 </div>
 
