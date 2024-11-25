@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lanza-fin-espana-sistema-conduccion-autonoma-todo-podras-hacer-1425291'>Tesla lanza al fin en España su sistema de conducción autónoma: esto es todo lo que podrás hacer con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-lanza-fin-espana-sistema-conduccion-autonoma-todo-podras-hacer-1425291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesla-lanza-fin-espana-sistema-conduccion-autonoma-todo-puedes-hacer-4265663.jpg?tf=1200x' alt='Tesla lanza al fin en España su sistema de conducción autónoma: esto es todo lo que podrás hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/oled-barata-lg-55-menos-800-euros-1425273'>Esta OLED sí que es barata: de LG, con 55" y por menos de 800 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/oled-barata-lg-55-menos-800-euros-1425273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lg-55-oled-4265618.jpg?tf=1200x' alt='Esta OLED sí que es barata: de LG, con 55" y por menos de 800 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-movistar-no-te-llamando-cambiarte-router-estafa-1425095'>No, Movistar no te está llamando para cambiarte el router, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-movistar-no-te-llamando-cambiarte-router-estafa-1425095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-movistar-sos-4265684.jpg?tf=1200x' alt='No, Movistar no te está llamando para cambiarte el router, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-consiguen-desactivar-forma-remota-fire-tv-otros-dispositivos-android-tv-ver-futbol-pirata-1425311'>IPTV: consiguen desactivar de forma remota los Fire TV y otros dispositivos Android TV para ver el fútbol pirata</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/iptv-consiguen-desactivar-forma-remota-fire-tv-otros-dispositivos-android-tv-ver-futbol-pirata-1425311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-listas-iptv-4265241.jpg?tf=1200x' alt='IPTV: consiguen desactivar de forma remota los Fire TV y otros dispositivos Android TV para ver el fútbol pirata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gratis-todos-saliendo-muy-rentable-bbva-dos-horas-menos-oficina-gracias-ia-1425302'>El ChatGPT gratis para todos le está saliendo muy rentable a BBVA: dos horas menos de oficina gracias a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gratis-todos-saliendo-muy-rentable-bbva-dos-horas-menos-oficina-gracias-ia-1425302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-bbva-4265662.jpg?tf=1200x' alt='El ChatGPT gratis para todos le está saliendo muy rentable a BBVA: dos horas menos de oficina gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-tenia-razon-mayor-fabricante-chino-baterias-tiene-claro-confunde-tesla-1420361'>Elon Musk no tenía razón: el mayor fabricante chino de baterías tiene claro en qué se confunde Tesla</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-tenia-razon-mayor-fabricante-chino-baterias-tiene-claro-confunde-tesla-1420361' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/10-datos-sorprendentes-elon-musk-nueva-mano-derecha-donald-trump-4263055.jpg?tf=1200x' alt='Elon Musk no tenía razón: el mayor fabricante chino de baterías tiene claro en qué se confunde Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/detectar-chatgpt-aplicaciones-ia-1424752'>Detectar ChatGPT: aplicaciones para saber si te las están colando con la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/detectar-chatgpt-aplicaciones-ia-1424752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redaccion-inteligencia-artificial-4264910.jpg?tf=1200x' alt='Detectar ChatGPT: aplicaciones para saber si te las están colando con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/nunca-pense-auriculares-pudieran-costar-1500-euros-pero-ahora-he-probado-creo-valen-precio-1417320'>Nunca pensé que unos auriculares pudieran costar 1.500 euros, pero ahora que los he probado creo que valen su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/nunca-pense-auriculares-pudieran-costar-1500-euros-pero-ahora-he-probado-creo-valen-precio-1417320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bang-olufsen-beoplay-h100-4263652.jpg?tf=1200x' alt='Nunca pensé que unos auriculares pudieran costar 1.500 euros, pero ahora que los he probado creo que valen su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-haier-tv-c90-oled-ha-convertido-favoritas-ano-1424643'>He probado la Haier TV C90 OLED y se ha convertido en una de mis favoritas del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-haier-tv-c90-oled-ha-convertido-favoritas-ano-1424643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/haier-tv-c90-oled-4264746.jpg?tf=1200x' alt='He probado la Haier TV C90 OLED y se ha convertido en una de mis favoritas del año' />
     </a>
 </div>
 
