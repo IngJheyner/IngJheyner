@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/necesitamos-cambio-cultura-satya-nadella-ceo-microsoft-graves-fallos-seguridad-compania-1425411'>"Necesitamos un cambio de cultura": Satya Nadella, CEO de Microsoft, tras los graves fallos de seguridad de la compañía</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/necesitamos-cambio-cultura-satya-nadella-ceo-microsoft-graves-fallos-seguridad-compania-1425411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/satya-nadella-ceo-microsoft-4057946.jpg?tf=1200x' alt='"Necesitamos un cambio de cultura": Satya Nadella, CEO de Microsoft, tras los graves fallos de seguridad de la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dudas-hacienda-agencia-tributaria-1417127'>Adiós a la gestoría, este ChatGPT gratis resuelve todas tus dudas con Hacienda las 24 horas del día </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-dudas-hacienda-agencia-tributaria-1417127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-chatgpt-resolver-todas-dudas-agencia-tributaria-gratuito-disponible-24-7-4258736.jpg?tf=1200x' alt='Adiós a la gestoría, este ChatGPT gratis resuelve todas tus dudas con Hacienda las 24 horas del día ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290'>La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-4265807.jpg?tf=1200x' alt='La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gente-normal-no-preparada-ia-ex-ceo-google-1425367'>"La gente normal no está preparada para la IA", según el ex-CEO de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gente-normal-no-preparada-ia-ex-ceo-google-1425367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='"La gente normal no está preparada para la IA", según el ex-CEO de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/xiaomi-apple-tablet-barata-desploma-precio-black-friday-aliexpress-1425277'>Xiaomi, a por Apple: su tablet barata desploma su precio por el Black Friday en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/xiaomi-apple-tablet-barata-desploma-precio-black-friday-aliexpress-1425277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/laterales-redmi-pad-3130526.jpg?tf=1200x' alt='Xiaomi, a por Apple: su tablet barata desploma su precio por el Black Friday en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/black-friday-ia-convirtiese-mejor-aliada-encontrar-ofertas-1425346'>Black Friday: ¿Y si la IA se convirtiese en tu mejor aliada para encontrar ofertas?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/black-friday-ia-convirtiese-mejor-aliada-encontrar-ofertas-1425346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-ia-4265742.jpg?tf=1200x' alt='Black Friday: ¿Y si la IA se convirtiese en tu mejor aliada para encontrar ofertas?' />
     </a>
 </div>
 
