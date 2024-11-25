@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/trabajadora-bluesky-cuenta-motivos-exito-red-social-quiere-acabar-twitter-hecha-gente-gente-1425319'>Trabajadora de Bluesky cuenta los motivos de éxito de la red social que quiere acabar con Twitter: "Hecha por la gente y para la gente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/trabajadora-bluesky-cuenta-motivos-exito-red-social-quiere-acabar-twitter-hecha-gente-gente-1425319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/trabajadora-bluesky-4265692.jpg?tf=1200x' alt='Trabajadora de Bluesky cuenta los motivos de éxito de la red social que quiere acabar con Twitter: "Hecha por la gente y para la gente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tinder-aviones-app-conocer-gente-ligar-vuelo-funciona-conexion-1425321'>Así es el “Tinder” para los aviones: la app para con la que conocer gente y ligar en un vuelo, y que funciona sin conexión</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tinder-aviones-app-conocer-gente-ligar-vuelo-funciona-conexion-1425321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tinder-aviones-app-conocer-gente-ligar-vuelo-funciona-conexion-4265677.jpg?tf=1200x' alt='Así es el “Tinder” para los aviones: la app para con la que conocer gente y ligar en un vuelo, y que funciona sin conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lanza-fin-espana-sistema-conduccion-autonoma-todo-podras-hacer-1425291'>Tesla lanza al fin en España su sistema de conducción autónoma: esto es todo lo que podrás hacer con él</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-lanza-fin-espana-sistema-conduccion-autonoma-todo-podras-hacer-1425291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesla-lanza-fin-espana-sistema-conduccion-autonoma-todo-puedes-hacer-4265663.jpg?tf=1200x' alt='Tesla lanza al fin en España su sistema de conducción autónoma: esto es todo lo que podrás hacer con él' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-movistar-no-te-llamando-cambiarte-router-estafa-1425095'>No, Movistar no te está llamando para cambiarte el router, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/no-movistar-no-te-llamando-cambiarte-router-estafa-1425095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-movistar-sos-4265684.jpg?tf=1200x' alt='No, Movistar no te está llamando para cambiarte el router, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-consiguen-desactivar-forma-remota-fire-tv-otros-dispositivos-android-tv-ver-futbol-pirata-1425311'>IPTV: consiguen desactivar de forma remota los Fire TV y otros dispositivos Android TV para ver el fútbol pirata</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/iptv-consiguen-desactivar-forma-remota-fire-tv-otros-dispositivos-android-tv-ver-futbol-pirata-1425311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-listas-iptv-4265241.jpg?tf=1200x' alt='IPTV: consiguen desactivar de forma remota los Fire TV y otros dispositivos Android TV para ver el fútbol pirata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gratis-todos-saliendo-muy-rentable-bbva-dos-horas-menos-oficina-gracias-ia-1425302'>El ChatGPT gratis para todos le está saliendo muy rentable a BBVA: dos horas menos de oficina gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-gratis-todos-saliendo-muy-rentable-bbva-dos-horas-menos-oficina-gracias-ia-1425302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-bbva-4265662.jpg?tf=1200x' alt='El ChatGPT gratis para todos le está saliendo muy rentable a BBVA: dos horas menos de oficina gracias a la IA' />
     </a>
 </div>
 
