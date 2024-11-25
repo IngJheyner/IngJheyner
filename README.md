@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-tenia-razon-mayor-fabricante-chino-baterias-tiene-claro-confunde-tesla-1420361'>Elon Musk no tenía razón: el mayor fabricante chino de baterías tiene claro en qué se confunde Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-tenia-razon-mayor-fabricante-chino-baterias-tiene-claro-confunde-tesla-1420361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/10-datos-sorprendentes-elon-musk-nueva-mano-derecha-donald-trump-4263055.jpg?tf=1200x' alt='Elon Musk no tenía razón: el mayor fabricante chino de baterías tiene claro en qué se confunde Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/detectar-chatgpt-aplicaciones-ia-1424752'>Detectar ChatGPT: aplicaciones para saber si te las están colando con la IA de ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/detectar-chatgpt-aplicaciones-ia-1424752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/redaccion-inteligencia-artificial-4264910.jpg?tf=1200x' alt='Detectar ChatGPT: aplicaciones para saber si te las están colando con la IA de ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-1424791'>No salgo de casa sin mi USB Live Linux, y tú deberías hacer lo mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-1424791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-4264925.jpg?tf=1200x' alt='No salgo de casa sin mi USB Live Linux, y tú deberías hacer lo mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-aplicacion-te-lleva-destino-rapido-1424694'>Google Maps o Waze: ¿Qué aplicación te lleva a tu destino más rápido?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-aplicacion-te-lleva-destino-rapido-1424694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-wazeque-aplicacion-te-lleva-destino-rapido-4264720.jpg?tf=1200x' alt='Google Maps o Waze: ¿Qué aplicación te lleva a tu destino más rápido?' />
     </a>
 </div>
 
