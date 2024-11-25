@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-1424791'>No salgo de casa sin mi USB Live Linux, y tú deberías hacer lo mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-1424791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-salgo-casa-mi-usb-live-linux-deberias-hacer-mismo-4264925.jpg?tf=1200x' alt='No salgo de casa sin mi USB Live Linux, y tú deberías hacer lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-aplicacion-te-lleva-destino-rapido-1424694'>Google Maps o Waze: ¿Qué aplicación te lleva a tu destino más rápido?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-aplicacion-te-lleva-destino-rapido-1424694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-wazeque-aplicacion-te-lleva-destino-rapido-4264720.jpg?tf=1200x' alt='Google Maps o Waze: ¿Qué aplicación te lleva a tu destino más rápido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-raspberry-pi-mini-pc-ryzen-5-mucho-potente-ahora-bastante-barato-1419764'>Olvida las Raspberry Pi: este Mini PC con Ryzen 5 es mucho más potente y ahora es bastante barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-raspberry-pi-mini-pc-ryzen-5-mucho-potente-ahora-bastante-barato-1419764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/procesador-amd-ryzen-3274364.jpg?tf=1200x' alt='Olvida las Raspberry Pi: este Mini PC con Ryzen 5 es mucho más potente y ahora es bastante barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/solo-pulsar-tecla-estafa-ha-comenzado-tecnica-vacia-cuentas-segundo-puedes-protegerte-1424949'>"Con solo pulsar una tecla, la estafa ha comenzado": Esta técnica vacía tus cuentas en segundo y así puedes protegerte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/solo-pulsar-tecla-estafa-ha-comenzado-tecnica-vacia-cuentas-segundo-puedes-protegerte-1424949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/solo-pulsar-tecla-estafa-ha-comenzado-tecnica-vacia-cuentas-segundo-puedes-protegerte-4265116.jpg?tf=1200x' alt='"Con solo pulsar una tecla, la estafa ha comenzado": Esta técnica vacía tus cuentas en segundo y así puedes protegerte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/lados-opuestos-dado-siempre-suman-7-1425258'>Por qué los lados opuestos de un dado siempre suman 7</a></h4>
     <a href='https://computerhoy.20minutos.es/life/lados-opuestos-dado-siempre-suman-7-1425258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lados-opuestos-dado-siempre-suman-7-4265604.jpg?tf=1200x' alt='Por qué los lados opuestos de un dado siempre suman 7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-deja-funcionar-televisores-2015-1425257'>Si tienes un televisor fabricando antes de 2015, Netflix tiene malas noticias para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-deja-funcionar-televisores-2015-1425257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tienes-televisor-fabricando-antes-2015-netflix-tiene-malas-noticia-ti-4265603.jpg?tf=1200x' alt='Si tienes un televisor fabricando antes de 2015, Netflix tiene malas noticias para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-coche-autonomo-atropelle-peatones-perro-robot-ponga-bombas-1425255'>Hackean un coche autónomo para que atropelle a peatones, y a un perro robot para que ponga bombas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-coche-autonomo-atropelle-peatones-perro-robot-ponga-bombas-1425255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hackean-coche-autonomo-atropelle-peatones-perro-robot-ponga-bombas-4265601.jpg?tf=1200x' alt='Hackean un coche autónomo para que atropelle a peatones, y a un perro robot para que ponga bombas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/montana-juego-tronos-bate-record-mundo-levantar-452-kilos-unidades-ssd-1425253'>La Montaña de Juego de Tronos bate el récord del mundo al levantar 452 Kilos de unidades SSD</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/montana-juego-tronos-bate-record-mundo-levantar-452-kilos-unidades-ssd-1425253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/montana-juego-tronos-bate-record-mundo-levantar-452-kilos-discos-ssd-4265592.jpg?tf=1200x' alt='La Montaña de Juego de Tronos bate el récord del mundo al levantar 452 Kilos de unidades SSD' />
     </a>
 </div>
 
