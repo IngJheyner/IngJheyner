@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328'>Lidl no tiene una web propia dedicada a sus juguetes, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/lidl-no-tiene-web-propia-dedicada-juguetes-estafa-1425328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/logo-lidl-4212305.jpg?tf=1200x' alt='Lidl no tiene una web propia dedicada a sus juguetes, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-mit-descubren-nueva-forma-materia-comienza-carrera-crear-ordenador-cuantico-potente-mundo-1425342'>Investigadores del MIT descubren una nueva forma de materia: comienza la carrera para crear el ordenador cuántico más potente del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-mit-descubren-nueva-forma-materia-comienza-carrera-crear-ordenador-cuantico-potente-mundo-1425342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/procesador-cuantico-ibm-2355365.jpg?tf=1200x' alt='Investigadores del MIT descubren una nueva forma de materia: comienza la carrera para crear el ordenador cuántico más potente del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/necesitamos-cambio-cultura-satya-nadella-ceo-microsoft-graves-fallos-seguridad-compania-1425411'>"Necesitamos un cambio de cultura": Satya Nadella, CEO de Microsoft, tras los graves fallos de seguridad de la compañía</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/necesitamos-cambio-cultura-satya-nadella-ceo-microsoft-graves-fallos-seguridad-compania-1425411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/satya-nadella-ceo-microsoft-4057946.jpg?tf=1200x' alt='"Necesitamos un cambio de cultura": Satya Nadella, CEO de Microsoft, tras los graves fallos de seguridad de la compañía' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290'>La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-premio-resolver-enorme-problema-misiones-luna-1412290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-4265807.jpg?tf=1200x' alt='La NASA tiene un problema, y ofrece 2,9 millones de euros al que lo resuelva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/caras-entrada-nuevas-gafas-realidad-virtual-real-madrid-apple-podrian-costar-ojo-cara-1425373'>¿Más caras que una entrada? Las nuevas gafas de realidad virtual del Real Madrid y Apple podrían costar un ojo de la cara </a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/caras-entrada-nuevas-gafas-realidad-virtual-real-madrid-apple-podrian-costar-ojo-cara-1425373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gafas-realidad-virtual-real-madrid-apple-4265762.jpg?tf=1200x' alt='¿Más caras que una entrada? Las nuevas gafas de realidad virtual del Real Madrid y Apple podrían costar un ojo de la cara ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gente-normal-no-preparada-ia-ex-ceo-google-1425367'>"La gente normal no está preparada para la IA", según el ex-CEO de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gente-normal-no-preparada-ia-ex-ceo-google-1425367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/eric-schmidt-exceo-google-ia-podria-hacer-muchas-personas-lastimen-maten-3042070.jpg?tf=1200x' alt='"La gente normal no está preparada para la IA", según el ex-CEO de Google' />
     </a>
 </div>
 
