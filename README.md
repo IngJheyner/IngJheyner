@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-1425538'>Si recibes este mensaje de "Netflix", bórralo: es una estafa para robarte el dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-1425538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-4266016.jpg?tf=1200x' alt='Si recibes este mensaje de "Netflix", bórralo: es una estafa para robarte el dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-cuadernos-jupyter-transmitir-futbol-gratis-1425548'>Adiós a IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/iptv-cuadernos-jupyter-transmitir-futbol-gratis-1425548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-iptv-descubren-nuevo-metodo-ya-estan-usando-transmitir-futbol-gratis-4265995.jpg?tf=1200x' alt='Adiós a IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-1425526'>Inyectan un "veneno silencioso" en la música que consigue dejar a la inteligencia artificial fuera de juego</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-1425526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-4265993.jpg?tf=1200x' alt='Inyectan un "veneno silencioso" en la música que consigue dejar a la inteligencia artificial fuera de juego' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378'>"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa</a></h4>
     <a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-video-tiktok-alba-dubai-albadubai-4265804.jpg?tf=1200x' alt='"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precios-2025-como-quedaran-tarifas-partir-enero-1425531'>Movistar sube precios en 2025: cómo quedarán sus tarifas a partir de enero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precios-2025-como-quedaran-tarifas-partir-enero-1425531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='Movistar sube precios en 2025: cómo quedarán sus tarifas a partir de enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/abono-transporte-gratis-hacker-demuestra-posible-utilizar-flipper-zero-viajar-pagar-nada-1425507'>Abono transporte gratis: hacker demuestra que es posible utilizar un Flipper Zero para viajar sin pagar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/abono-transporte-gratis-hacker-demuestra-posible-utilizar-flipper-zero-viajar-pagar-nada-1425507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/abono-transporte-gratis-hacker-demuestra-posible-utilizar-flipper-zero-viajar-pagar-nada-4265967.jpg?tf=1200x' alt='Abono transporte gratis: hacker demuestra que es posible utilizar un Flipper Zero para viajar sin pagar nada' />
     </a>
 </div>
 
