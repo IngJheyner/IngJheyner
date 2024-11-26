@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-propuesto-nueva-forma-medir-tiempo-1425750'>Los científicos han propuesto una nueva forma de medir el tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-propuesto-nueva-forma-medir-tiempo-1425750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cientificos-han-propuesto-nueva-forma-medir-tiempo-4266329.jpg?tf=1200x' alt='Los científicos han propuesto una nueva forma de medir el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-inventan-nuevo-metodo-ataque-infectar-redes-wifi-distancia-1425714'>Los hackers inventan un nuevo método de ataque para infectar redes WiFi a distancia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-inventan-nuevo-metodo-ataque-infectar-redes-wifi-distancia-1425714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ataque-vecino-cercano-4266223.jpg?tf=1200x' alt='Los hackers inventan un nuevo método de ataque para infectar redes WiFi a distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/comprar-proximo-iphone-sera-caro-nunca-donald-trump-tiene-culpa-1425688'>Comprar tu próximo iPhone será más caro que nunca: Donald Trump tiene la culpa</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/comprar-proximo-iphone-sera-caro-nunca-donald-trump-tiene-culpa-1425688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/donald-trump-iphone-4266259.jpg?tf=1200x' alt='Comprar tu próximo iPhone será más caro que nunca: Donald Trump tiene la culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-avisan-estafa-puede-amargarte-navidad-te-llega-mensaje-eliminalo-inmediatamente-1419919'>Los expertos avisan de la estafa que puede amargarte la Navidad: si te llega este mensaje elimínalo inmediatamente</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-avisan-estafa-puede-amargarte-navidad-te-llega-mensaje-eliminalo-inmediatamente-1419919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/loteria-navidad-4134384.jpg?tf=1200x' alt='Los expertos avisan de la estafa que puede amargarte la Navidad: si te llega este mensaje elimínalo inmediatamente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aprovechan-spotify-ciberdelincuentes-distribuir-malware-experto-1425684'>Así aprovechan Spotify los ciberdelincuentes para distribuir su malware, según un experto</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/aprovechan-spotify-ciberdelincuentes-distribuir-malware-experto-1425684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Así aprovechan Spotify los ciberdelincuentes para distribuir su malware, según un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-sindicalista-abandonar-puesto-trabajo-1424887'>Captan al primer robot IA "sindicalista" intentando convencer a otros compañeros para que abandonen su puesto de trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-sindicalista-abandonar-puesto-trabajo-1424887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-sindicalista-4266217.jpg?tf=1200x' alt='Captan al primer robot IA "sindicalista" intentando convencer a otros compañeros para que abandonen su puesto de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/dji-mic-mini-microfono-ultraligero-10-gramos-menos-200-euros-nueva-apuesta-dji-1425735'>DJI Mic Mini, un micrófono ultraligero de 10 gramos por menos de 200 euros, la nueva apuesta de DJI </a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/dji-mic-mini-microfono-ultraligero-10-gramos-menos-200-euros-nueva-apuesta-dji-1425735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dji-mic-mini-4266248.jpg?tf=1200x' alt='DJI Mic Mini, un micrófono ultraligero de 10 gramos por menos de 200 euros, la nueva apuesta de DJI ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ver-canales-tv-gratis-iptv-coche-android-auto-1388344'>Cómo ver miles de canales de TV gratis por IPTV en la pantalla de Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/ver-canales-tv-gratis-iptv-coche-android-auto-1388344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conductor-android-auto-4266172.jpg?tf=1200x' alt='Cómo ver miles de canales de TV gratis por IPTV en la pantalla de Android Auto' />
     </a>
 </div>
 
