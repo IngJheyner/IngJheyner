@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/guerra-clones-lucha-contras-iptv-frustra-operadores-1425584'>"Es la guerra de los clones": La lucha contra las IPTV frustra a los operadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/guerra-clones-lucha-contras-iptv-frustra-operadores-1425584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lucha-contras-iptv-4266054.jpg?tf=1200x' alt='"Es la guerra de los clones": La lucha contra las IPTV frustra a los operadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/todavia-hay-idiotas-compran-f-35-elon-musk-quiere-cambiar-aviones-combate-drones-1425783'>"Todavía hay idiotas que compran F-35": Elon Musk quiere cambiar los aviones de combate por drones</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/todavia-hay-idiotas-compran-f-35-elon-musk-quiere-cambiar-aviones-combate-drones-1425783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/todavia-hay-idiotas-compran-f-35-elon-musk-quiere-cambiar-aviones-combate-drones-4266362.jpg?tf=1200x' alt='"Todavía hay idiotas que compran F-35": Elon Musk quiere cambiar los aviones de combate por drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-propuesto-nueva-forma-medir-tiempo-1425750'>Los científicos han propuesto una nueva forma de medir el tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-propuesto-nueva-forma-medir-tiempo-1425750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cientificos-han-propuesto-nueva-forma-medir-tiempo-4266329.jpg?tf=1200x' alt='Los científicos han propuesto una nueva forma de medir el tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/comprar-proximo-iphone-sera-caro-nunca-donald-trump-tiene-culpa-1425688'>Comprar tu próximo iPhone será más caro que nunca: Donald Trump tiene la culpa</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/comprar-proximo-iphone-sera-caro-nunca-donald-trump-tiene-culpa-1425688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/donald-trump-iphone-4266259.jpg?tf=1200x' alt='Comprar tu próximo iPhone será más caro que nunca: Donald Trump tiene la culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-avisan-estafa-puede-amargarte-navidad-te-llega-mensaje-eliminalo-inmediatamente-1419919'>Los expertos avisan de la estafa que puede amargarte la Navidad: si te llega este mensaje elimínalo inmediatamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-avisan-estafa-puede-amargarte-navidad-te-llega-mensaje-eliminalo-inmediatamente-1419919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/loteria-navidad-4134384.jpg?tf=1200x' alt='Los expertos avisan de la estafa que puede amargarte la Navidad: si te llega este mensaje elimínalo inmediatamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aprovechan-spotify-ciberdelincuentes-distribuir-malware-experto-1425684'>Así aprovechan Spotify los ciberdelincuentes para distribuir su malware, según un experto</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/aprovechan-spotify-ciberdelincuentes-distribuir-malware-experto-1425684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Así aprovechan Spotify los ciberdelincuentes para distribuir su malware, según un experto' />
     </a>
 </div>
 
