@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/misterioso-significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341'>El misterio del significado oculto de la bandera en los chats de WhatsApp: así puedes activarla y cuándo debes utilizarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/misterioso-significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/significado-bandera-whatsapp-4266166.jpg?tf=1200x' alt='El misterio del significado oculto de la bandera en los chats de WhatsApp: así puedes activarla y cuándo debes utilizarla' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-elon-musk-ni-optimus-robot-catalan-ona-reparte-paquetes-domicilio-barcelona-1425615'>Ni Elon Musk ni Optimus, el robot catalán Ona y reparte paquetes a domicilio en Barcelona </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-elon-musk-ni-optimus-robot-catalan-ona-reparte-paquetes-domicilio-barcelona-1425615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ona-robot-catalan-4266119.jpg?tf=1200x' alt='Ni Elon Musk ni Optimus, el robot catalán Ona y reparte paquetes a domicilio en Barcelona ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/app-recupera-funcion-muy-querida-google-maps-habia-eliminado-android-iphone-1425676'>Esta app recupera una función muy querida que Google Maps había eliminado en Android y iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/app-recupera-funcion-muy-querida-google-maps-habia-eliminado-android-iphone-1425676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-navegacion-google-maps-waze-4266164.jpg?tf=1200x' alt='Esta app recupera una función muy querida que Google Maps había eliminado en Android y iPhone' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estas-son-estafas-utilizadas-estos-momentos-expertos-seguridad-1425690'>WhatsApp: estas son las estafas más utilizadas en estos momentos, según los expertos en seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-estas-son-estafas-utilizadas-estos-momentos-expertos-seguridad-1425690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estafas-4266210.jpg?tf=1200x' alt='WhatsApp: estas son las estafas más utilizadas en estos momentos, según los expertos en seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-tv-actualiza-usuarios-estan-muy-enfadados-nuevos-qr-interactivos-1425628'>Google TV se actualiza: los usuarios están muy enfadados por los nuevos QR interactivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-tv-actualiza-usuarios-estan-muy-enfadados-nuevos-qr-interactivos-1425628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-tv-actualiza-ahora-tiene-anuncios-qr-sean-interactivos-4266098.jpg?tf=1200x' alt='Google TV se actualiza: los usuarios están muy enfadados por los nuevos QR interactivos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-nuevo-modelo-inteligencia-artificial-capaz-generar-musica-modificar-voces-1425667'>NVIDIA presenta un nuevo modelo de inteligencia artificial capaz de generar música y modificar voces</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-nuevo-modelo-inteligencia-artificial-capaz-generar-musica-modificar-voces-1425667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-presenta-nuevo-modelo-inteligencia-artificial-capaz-generar-musica-modificar-voces-4266157.jpg?tf=1200x' alt='NVIDIA presenta un nuevo modelo de inteligencia artificial capaz de generar música y modificar voces' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-prohibido-algunos-paises-1425593'>El iPhone 17 Air podría ser tan delgado que estaría prohibido en algunos países</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-prohibido-algunos-paises-1425593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-air-podria-ser-demasiado-delgado-ti-4266058.jpg?tf=1200x' alt='El iPhone 17 Air podría ser tan delgado que estaría prohibido en algunos países' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-como-personal-shopping-puede-ia-identificar-mejores-ofertas-durante-black-friday-1425613'>ChatGPT como personal shopping: así puede la IA a identificar las mejores ofertas durante el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-como-personal-shopping-puede-ia-identificar-mejores-ofertas-durante-black-friday-1425613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-chatgpt-4266163.jpg?tf=1200x' alt='ChatGPT como personal shopping: así puede la IA a identificar las mejores ofertas durante el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-tiene-muy-claro-nosotros-gpu-ia-costarian-millon-veces-1425625'>El CEO de Nvidia lo tiene muy claro: sin nosotros, las GPU con IA costarían un millón de veces más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-tiene-muy-claro-nosotros-gpu-ia-costarian-millon-veces-1425625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jensen-huang-ceo-nvidia-4054697.jpg?tf=1200x' alt='El CEO de Nvidia lo tiene muy claro: sin nosotros, las GPU con IA costarían un millón de veces más' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-mayor-enemigo-netflix-max-prime-video-disney-1424778'>Canceladores en serie: así es el mayor enemigo de Netflix, MAX, Prime Video o Disney+</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/canceladores-series-mayor-enemigo-netflix-max-prime-video-disney-1424778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/canceladores-seres-enemigo-streaming-4266180.jpg?tf=1200x' alt='Canceladores en serie: así es el mayor enemigo de Netflix, MAX, Prime Video o Disney+' />
     </a>
 </div>
 
