@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ipad-apple-fin-baja-precio-amazon-deja-339eu-varios-colores-1425429'>El iPad de Apple por fin baja de precio: Amazon lo deja en 339€ en varios colores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ipad-apple-fin-baja-precio-amazon-deja-339eu-varios-colores-1425429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897850.jpg?tf=1200x' alt='El iPad de Apple por fin baja de precio: Amazon lo deja en 339€ en varios colores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/guerra-clones-lucha-contras-iptv-frustra-operadores-1425584'>"Es la guerra de los clones": la lucha contras las IPTV frustra a los operadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/guerra-clones-lucha-contras-iptv-frustra-operadores-1425584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lucha-contras-iptv-4266054.jpg?tf=1200x' alt='"Es la guerra de los clones": la lucha contras las IPTV frustra a los operadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-plagas-comunidad-madrid-drones-inteligencia-artificial-mejorar-cultivos-1425580'>Adiós a las plagas: la Comunidad de Madrid usa drones e inteligencia artificial para mejorar cultivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-plagas-comunidad-madrid-drones-inteligencia-artificial-mejorar-cultivos-1425580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-plagas-comunidad-madrid-usa-drones-inteligencia-artificial-mejorar-cultivos-4266040.jpg?tf=1200x' alt='Adiós a las plagas: la Comunidad de Madrid usa drones e inteligencia artificial para mejorar cultivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-garmin-gps-pantalla-amoled-mucho-barato-1419774'>Olvida el Fenix 8: este Garmin con GPS y pantalla AMOLED es mucho más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-garmin-gps-pantalla-amoled-mucho-barato-1419774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Olvida el Fenix 8: este Garmin con GPS y pantalla AMOLED es mucho más barato' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/oled-4k-biseles-google-tv-estos-son-3-motivos-elegiria-television-haier-1424690'>OLED 4K, sin biseles y con Google TV: estos son los 3 motivos por los que elegiría esta televisión de Haier</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/oled-4k-biseles-google-tv-estos-son-3-motivos-elegiria-television-haier-1424690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/haier-tv-c90-oled-4264753.jpg?tf=1200x' alt='OLED 4K, sin biseles y con Google TV: estos son los 3 motivos por los que elegiría esta televisión de Haier' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/soy-experto-tecnologia-llevo-15-anos-editando-fotos-estas-son-apps-te-recomiendo-sistema-operativo-uses-1415090'>Soy experto en tecnología y llevo 15 años editando fotos: estas son las apps que te recomiendo según el sistema operativo que uses</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/soy-experto-tecnologia-llevo-15-anos-editando-fotos-estas-son-apps-te-recomiendo-sistema-operativo-uses-1415090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apps-te-recomiendo-editar-fotos-4255975.jpg?tf=1200x' alt='Soy experto en tecnología y llevo 15 años editando fotos: estas son las apps que te recomiendo según el sistema operativo que uses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-ha-decidido-400-millones-usuarios-windows-todo-mundo-tendran-pasar-caja-1425505'>Microsoft ha decidido: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-ha-decidido-400-millones-usuarios-windows-todo-mundo-tendran-pasar-caja-1425505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasar-windows-10-windows-11-4265946.jpg?tf=1200x' alt='Microsoft ha decidido: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/experto-fecha-consolas-videojuegos-dejaran-existir-1425441'>Ni PlayStation ni Nintendo Switch, un experto confirma la fecha en la que las consolas de videojuegos dejarán de existir</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/experto-fecha-consolas-videojuegos-dejaran-existir-1425441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consolas-next-gen-4265859.jpg?tf=1200x' alt='Ni PlayStation ni Nintendo Switch, un experto confirma la fecha en la que las consolas de videojuegos dejarán de existir' />
     </a>
 </div>
 
