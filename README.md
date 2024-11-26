@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ver-canales-tv-gratis-iptv-coche-android-auto-1388344'>Cómo ver miles de canales de TV gratis por IPTV en la pantalla de Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/ver-canales-tv-gratis-iptv-coche-android-auto-1388344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conductor-android-auto-4266172.jpg?tf=1200x' alt='Cómo ver miles de canales de TV gratis por IPTV en la pantalla de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-elon-musk-ni-optimus-robot-catalan-ona-reparte-paquetes-domicilio-barcelona-1425615'>Ni Elon Musk ni Optimus, el robot catalán Ona y reparte paquetes a domicilio en Barcelona </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-elon-musk-ni-optimus-robot-catalan-ona-reparte-paquetes-domicilio-barcelona-1425615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ona-robot-catalan-4266119.jpg?tf=1200x' alt='Ni Elon Musk ni Optimus, el robot catalán Ona y reparte paquetes a domicilio en Barcelona ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-como-personal-shopping-puede-ia-identificar-mejores-ofertas-durante-black-friday-1425613'>ChatGPT como personal shopping: así puede la IA a identificar las mejores ofertas durante el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-como-personal-shopping-puede-ia-identificar-mejores-ofertas-durante-black-friday-1425613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-chatgpt-4266163.jpg?tf=1200x' alt='ChatGPT como personal shopping: así puede la IA a identificar las mejores ofertas durante el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-mayor-enemigo-netflix-max-prime-video-disney-1424778'>Canceladores en serie: así es el mayor enemigo de Netflix, MAX, Prime Video o Disney+</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/canceladores-series-mayor-enemigo-netflix-max-prime-video-disney-1424778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/canceladores-seres-enemigo-streaming-4266180.jpg?tf=1200x' alt='Canceladores en serie: así es el mayor enemigo de Netflix, MAX, Prime Video o Disney+' />
     </a>
 </div>
 
