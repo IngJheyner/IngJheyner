@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/aprovechan-spotify-ciberdelincuentes-distribuir-malware-experto-1425684'>Así aprovechan Spotify los ciberdelincuentes para distribuir su malware, según un experto</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/aprovechan-spotify-ciberdelincuentes-distribuir-malware-experto-1425684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/spotify-2834811.jpg?tf=1200x' alt='Así aprovechan Spotify los ciberdelincuentes para distribuir su malware, según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-sindicalista-abandonar-puesto-trabajo-1424887'>Captan al primer robot IA "sindicalista" intentando convencer a otros compañeros para que abandonen su puesto de trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/captan-video-robot-ia-sindicalista-abandonar-puesto-trabajo-1424887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-sindicalista-4266217.jpg?tf=1200x' alt='Captan al primer robot IA "sindicalista" intentando convencer a otros compañeros para que abandonen su puesto de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/dji-mic-mini-microfono-ultraligero-10-gramos-menos-200-euros-nueva-apuesta-dji-1425735'>DJI Mic Mini, un micrófono ultraligero de 10 gramos por menos de 200 euros, la nueva apuesta de DJI </a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/dji-mic-mini-microfono-ultraligero-10-gramos-menos-200-euros-nueva-apuesta-dji-1425735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dji-mic-mini-4266248.jpg?tf=1200x' alt='DJI Mic Mini, un micrófono ultraligero de 10 gramos por menos de 200 euros, la nueva apuesta de DJI ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/ver-canales-tv-gratis-iptv-coche-android-auto-1388344'>Cómo ver miles de canales de TV gratis por IPTV en la pantalla de Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/ver-canales-tv-gratis-iptv-coche-android-auto-1388344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/conductor-android-auto-4266172.jpg?tf=1200x' alt='Cómo ver miles de canales de TV gratis por IPTV en la pantalla de Android Auto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-elon-musk-ni-optimus-robot-catalan-ona-reparte-paquetes-domicilio-barcelona-1425615'>Ni Elon Musk ni Optimus, el robot catalán Ona y reparte paquetes a domicilio en Barcelona </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-elon-musk-ni-optimus-robot-catalan-ona-reparte-paquetes-domicilio-barcelona-1425615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ona-robot-catalan-4266119.jpg?tf=1200x' alt='Ni Elon Musk ni Optimus, el robot catalán Ona y reparte paquetes a domicilio en Barcelona ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-estas-son-estafas-utilizadas-estos-momentos-expertos-seguridad-1425690'>WhatsApp: estas son las estafas más utilizadas en estos momentos, según los expertos en seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-estas-son-estafas-utilizadas-estos-momentos-expertos-seguridad-1425690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estafas-4266210.jpg?tf=1200x' alt='WhatsApp: estas son las estafas más utilizadas en estos momentos, según los expertos en seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-nuevo-modelo-inteligencia-artificial-capaz-generar-musica-modificar-voces-1425667'>NVIDIA presenta un nuevo modelo de inteligencia artificial capaz de generar música y modificar voces</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-nuevo-modelo-inteligencia-artificial-capaz-generar-musica-modificar-voces-1425667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nvidia-presenta-nuevo-modelo-inteligencia-artificial-capaz-generar-musica-modificar-voces-4266157.jpg?tf=1200x' alt='NVIDIA presenta un nuevo modelo de inteligencia artificial capaz de generar música y modificar voces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-como-personal-shopping-puede-ia-identificar-mejores-ofertas-durante-black-friday-1425613'>ChatGPT como personal shopping: así puede la IA a identificar las mejores ofertas durante el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-como-personal-shopping-puede-ia-identificar-mejores-ofertas-durante-black-friday-1425613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/black-friday-chatgpt-4266163.jpg?tf=1200x' alt='ChatGPT como personal shopping: así puede la IA a identificar las mejores ofertas durante el Black Friday' />
     </a>
 </div>
 
