@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/errores-criticos-windows-11-24h2-apagado-hibernacion-dolby-digital-afectados-1425838'>Errores críticos en Windows 11 24H2: Apagado, hibernación y Dolby Digital afectados</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/errores-criticos-windows-11-24h2-apagado-hibernacion-dolby-digital-afectados-1425838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-windows-4266426.jpg?tf=1200x' alt='Errores críticos en Windows 11 24H2: Apagado, hibernación y Dolby Digital afectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-intente-hacer-mismo-casa-puede-todopoderoso-nokia-3310-derrotar-sable-laser-star-wars-1425693'>"No intente hacer lo mismo en casa": ¿Puede el todopoderoso Nokia 3310 derrotar a un sable láser de Star Wars?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-intente-hacer-mismo-casa-puede-todopoderoso-nokia-3310-derrotar-sable-laser-star-wars-1425693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-marques-brownlee-mkbhd-4266228.jpg?tf=1200x' alt='"No intente hacer lo mismo en casa": ¿Puede el todopoderoso Nokia 3310 derrotar a un sable láser de Star Wars?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-advierte-peligroso-grupo-hackers-rusos-fija-mira-infraestructura-energetica-europa-justo-antes-invierno-1425813'>Google advierte: peligroso grupo de hackers rusos fija su mira en la infraestructura energética de Europa, justo antes del invierno</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-advierte-peligroso-grupo-hackers-rusos-fija-mira-infraestructura-energetica-europa-justo-antes-invierno-1425813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-advierte-peligroso-grupo-hackers-rusos-fija-mira-infraestructura-energetica-europa-justo-antes-invierno-4266411.jpg?tf=1200x' alt='Google advierte: peligroso grupo de hackers rusos fija su mira en la infraestructura energética de Europa, justo antes del invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/memoria-fuera-cerebro-nuevo-estudio-desafia-todo-sabemos-recuerdos-1425836'>¿Memoria fuera del cerebro? Nuevo estudio desafía todo lo que sabemos sobre los recuerdos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/memoria-fuera-cerebro-nuevo-estudio-desafia-todo-sabemos-recuerdos-1425836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cerebro-humano-4266417.jpg?tf=1200x' alt='¿Memoria fuera del cerebro? Nuevo estudio desafía todo lo que sabemos sobre los recuerdos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/tecnica-japonesa-transformara-finanzas-30-dias-descubre-metodo-kakeibo-1425831'>La técnica japonesa que transformará tus finanzas en 30 días: descubre el método “Kakeibo”</a></h4>
     <a href='https://computerhoy.20minutos.es/life/tecnica-japonesa-transformara-finanzas-30-dias-descubre-metodo-kakeibo-1425831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ahorrar-dinero-4266413.jpg?tf=1200x' alt='La técnica japonesa que transformará tus finanzas en 30 días: descubre el método “Kakeibo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-terror-amazon-prime-video-casi-nadie-conoce-inquietante-smile-2-parece-relato-stephen-king-1425719'>La película de terror de Amazon Prime Video que casi nadie conoce y es más inquietante que Smile 2: parece un relato de Stephen King</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-terror-amazon-prime-video-casi-nadie-conoce-inquietante-smile-2-parece-relato-stephen-king-1425719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/flight-7500-4266219.jpg?tf=1200x' alt='La película de terror de Amazon Prime Video que casi nadie conoce y es más inquietante que Smile 2: parece un relato de Stephen King' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/guerra-clones-lucha-contras-iptv-frustra-operadores-1425584'>"Es la guerra de los clones": La lucha contra las IPTV frustra a los operadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/guerra-clones-lucha-contras-iptv-frustra-operadores-1425584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lucha-contras-iptv-4266054.jpg?tf=1200x' alt='"Es la guerra de los clones": La lucha contra las IPTV frustra a los operadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/todavia-hay-idiotas-compran-f-35-elon-musk-quiere-cambiar-aviones-combate-drones-1425783'>"Todavía hay idiotas que compran F-35": Elon Musk quiere cambiar los aviones de combate por drones</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/todavia-hay-idiotas-compran-f-35-elon-musk-quiere-cambiar-aviones-combate-drones-1425783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/todavia-hay-idiotas-compran-f-35-elon-musk-quiere-cambiar-aviones-combate-drones-4266362.jpg?tf=1200x' alt='"Todavía hay idiotas que compran F-35": Elon Musk quiere cambiar los aviones de combate por drones' />
     </a>
 </div>
 
