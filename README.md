@@ -50,14 +50,6 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/me-di-cuenta-camara-compra-iphone-oferta-convierte-autentica-pesadilla-1425350'>"Me di cuenta por la cámara": compra un iPhone en oferta y se convierte en una auténtica pesadilla</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/me-di-cuenta-camara-compra-iphone-oferta-convierte-autentica-pesadilla-1425350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tiktok-soymovistar-4265760.jpg?tf=1200x' alt='"Me di cuenta por la cámara": compra un iPhone en oferta y se convierte en una auténtica pesadilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-1425538'>Si recibes este mensaje de "Netflix", bórralo: es una estafa para robarte el dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-1425538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-4266016.jpg?tf=1200x' alt='Si recibes este mensaje de "Netflix", bórralo: es una estafa para robarte el dinero' />
@@ -85,6 +77,14 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533'>Bluesky también está violando las leyes de la Unión Europea</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-tambien-violando-leyes-ue-4265960.jpg?tf=1200x' alt='Bluesky también está violando las leyes de la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378'>"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-video-tiktok-alba-dubai-albadubai-4265804.jpg?tf=1200x' alt='"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa' />
     </a>
 </div>
 
