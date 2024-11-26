@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/misterioso-significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341'>El misterio del significado oculto de la bandera en los chats de WhatsApp: así puedes activarla y cuándo debes utilizarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/misterioso-significado-oculto-bandera-chats-whatsapp-como-activarla-cuando-debes-utilizarla-1402341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/significado-bandera-whatsapp-4266166.jpg?tf=1200x' alt='El misterio del significado oculto de la bandera en los chats de WhatsApp: así puedes activarla y cuándo debes utilizarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/app-recupera-funcion-muy-querida-google-maps-habia-eliminado-android-iphone-1425676'>Esta app recupera una función muy querida que Google Maps había eliminado en Android y iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/app-recupera-funcion-muy-querida-google-maps-habia-eliminado-android-iphone-1425676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/app-navegacion-google-maps-waze-4266164.jpg?tf=1200x' alt='Esta app recupera una función muy querida que Google Maps había eliminado en Android y iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-tv-actualiza-usuarios-estan-muy-enfadados-nuevos-qr-interactivos-1425628'>Google TV se actualiza: los usuarios están muy enfadados por los nuevos QR interactivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-tv-actualiza-usuarios-estan-muy-enfadados-nuevos-qr-interactivos-1425628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-tv-actualiza-ahora-tiene-anuncios-qr-sean-interactivos-4266098.jpg?tf=1200x' alt='Google TV se actualiza: los usuarios están muy enfadados por los nuevos QR interactivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-prohibido-algunos-paises-1425593'>El iPhone 17 Air podría ser tan delgado que estaría prohibido en algunos países</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-prohibido-algunos-paises-1425593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-air-podria-ser-demasiado-delgado-ti-4266058.jpg?tf=1200x' alt='El iPhone 17 Air podría ser tan delgado que estaría prohibido en algunos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-tiene-muy-claro-nosotros-gpu-ia-costarian-millon-veces-1425625'>El CEO de Nvidia lo tiene muy claro: sin nosotros, las GPU con IA costarían un millón de veces más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-tiene-muy-claro-nosotros-gpu-ia-costarian-millon-veces-1425625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/jensen-huang-ceo-nvidia-4054697.jpg?tf=1200x' alt='El CEO de Nvidia lo tiene muy claro: sin nosotros, las GPU con IA costarían un millón de veces más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-teams-continuan-funcionar-seguimos-solucionando-problemas-1425616'>Outlook y Teams continúan sin funcionar: "Seguimos solucionando problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/outlook-teams-continuan-funcionar-seguimos-solucionando-problemas-1425616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/outlook-teams-no-funcionan-4266095.jpg?tf=1200x' alt='Outlook y Teams continúan sin funcionar: "Seguimos solucionando problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-realme-gt-7-pro-verdadero-flagship-killer-gracias-snapdragon-8-elite-1424898'>He probado el Realme GT 7 Pro y es un verdadero 'flagship killer' gracias a su Snapdragon 8 Elite</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-realme-gt-7-pro-verdadero-flagship-killer-gracias-snapdragon-8-elite-1424898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/realme-gt-7-pro-4265204.jpg?tf=1200x' alt='He probado el Realme GT 7 Pro y es un verdadero 'flagship killer' gracias a su Snapdragon 8 Elite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-no-quita-empleos-ha-generado-30000-trabajos-espana-1425506'>La inteligencia artificial no quita empleos: ha generado más de 30.000 trabajos en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-no-quita-empleos-ha-generado-30000-trabajos-espana-1425506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-empleos-espana-4265976.jpg?tf=1200x' alt='La inteligencia artificial no quita empleos: ha generado más de 30.000 trabajos en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ipad-apple-fin-baja-precio-amazon-deja-339eu-varios-colores-1425429'>El iPad de Apple por fin baja de precio: Amazon lo deja en 339€ en varios colores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ipad-apple-fin-baja-precio-amazon-deja-339eu-varios-colores-1425429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/ipad-10a-generacion-analisis-opinion-2897850.jpg?tf=1200x' alt='El iPad de Apple por fin baja de precio: Amazon lo deja en 339€ en varios colores' />
     </a>
 </div>
 
