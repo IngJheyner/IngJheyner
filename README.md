@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-garmin-gps-pantalla-amoled-mucho-barato-1419774'>Olvida el Fenix 8: este Garmin con GPS y pantalla AMOLED es mucho más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-garmin-gps-pantalla-amoled-mucho-barato-1419774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/garmin-venu-3-3278319.jpg?tf=1200x' alt='Olvida el Fenix 8: este Garmin con GPS y pantalla AMOLED es mucho más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/oled-4k-biseles-google-tv-estos-son-3-motivos-elegiria-television-haier-1424690'>OLED 4K, sin biseles y con Google TV: estos son los 3 motivos por los que elegiría esta televisión de Haier</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/oled-4k-biseles-google-tv-estos-son-3-motivos-elegiria-television-haier-1424690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/haier-tv-c90-oled-4264753.jpg?tf=1200x' alt='OLED 4K, sin biseles y con Google TV: estos son los 3 motivos por los que elegiría esta televisión de Haier' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/soy-experto-tecnologia-llevo-15-anos-editando-fotos-estas-son-apps-te-recomiendo-sistema-operativo-uses-1415090'>Soy experto en tecnología y llevo 15 años editando fotos: estas son las apps que te recomiendo según el sistema operativo que uses</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/soy-experto-tecnologia-llevo-15-anos-editando-fotos-estas-son-apps-te-recomiendo-sistema-operativo-uses-1415090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apps-te-recomiendo-editar-fotos-4255975.jpg?tf=1200x' alt='Soy experto en tecnología y llevo 15 años editando fotos: estas son las apps que te recomiendo según el sistema operativo que uses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-ha-decidido-400-millones-usuarios-windows-todo-mundo-tendran-pasar-caja-1425505'>Microsoft ha decidido: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-ha-decidido-400-millones-usuarios-windows-todo-mundo-tendran-pasar-caja-1425505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasar-windows-10-windows-11-4265946.jpg?tf=1200x' alt='Microsoft ha decidido: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/experto-fecha-consolas-videojuegos-dejaran-existir-1425441'>Ni PlayStation ni Nintendo Switch, un experto confirma la fecha en la que las consolas de videojuegos dejarán de existir</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/experto-fecha-consolas-videojuegos-dejaran-existir-1425441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consolas-next-gen-4265859.jpg?tf=1200x' alt='Ni PlayStation ni Nintendo Switch, un experto confirma la fecha en la que las consolas de videojuegos dejarán de existir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5000-euros-multa-compartir-datos-personales-grupo-whatsapp-1425404'>5.000 euros de multa por compartir datos personales en un grupo de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5000-euros-multa-compartir-datos-personales-grupo-whatsapp-1425404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-ha-copiado-reacciones-rapidas-dos-toques-instagram-facebook-3832637.jpg?tf=1200x' alt='5.000 euros de multa por compartir datos personales en un grupo de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gmail-punto-mira-recomendaciones-fbi-blindar-cuenta-estafas-1425397'>Gmail en el punto de mira: recomendaciones del FBI para blindar tu cuenta contra las estafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gmail-punto-mira-recomendaciones-fbi-blindar-cuenta-estafas-1425397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/alerta-gmail-fbi-4265805.jpg?tf=1200x' alt='Gmail en el punto de mira: recomendaciones del FBI para blindar tu cuenta contra las estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuerpo-humano-podria-ser-clave-desarrollar-tecnologia-6g-1425384'>El cuerpo humano podría ser la clave para desarrollar la tecnología 6G</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuerpo-humano-podria-ser-clave-desarrollar-tecnologia-6g-1425384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cuerpo-humano-podria-ser-clave-desarrollar-tecnologia-6g-4265761.jpg?tf=1200x' alt='El cuerpo humano podría ser la clave para desarrollar la tecnología 6G' />
     </a>
 </div>
 
