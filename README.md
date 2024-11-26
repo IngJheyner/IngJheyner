@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-1425832'>¿No puedes acceder a WhatsApp?: cuidado, seguramente se trate de una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-1425832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-4266435.jpg?tf=1200x' alt='¿No puedes acceder a WhatsApp?: cuidado, seguramente se trate de una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-black-friday-oferta-1425844'>Ni Netflix ni Disney+: la mejor oferta del Black Friday la tiene Max</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/max-black-friday-oferta-1425844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-netflix-ni-disney-mejor-oferta-black-friday-tiene-max-4266421.jpg?tf=1200x' alt='Ni Netflix ni Disney+: la mejor oferta del Black Friday la tiene Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/errores-criticos-windows-11-24h2-apagado-hibernacion-dolby-digital-afectados-1425838'>Errores críticos en Windows 11 24H2: Apagado, hibernación y Dolby Digital afectados</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/errores-criticos-windows-11-24h2-apagado-hibernacion-dolby-digital-afectados-1425838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-windows-4266426.jpg?tf=1200x' alt='Errores críticos en Windows 11 24H2: Apagado, hibernación y Dolby Digital afectados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-advierte-peligroso-grupo-hackers-rusos-fija-mira-infraestructura-energetica-europa-justo-antes-invierno-1425813'>Google advierte: peligroso grupo de hackers rusos fija su mira en la infraestructura energética de Europa, justo antes del invierno</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/google-advierte-peligroso-grupo-hackers-rusos-fija-mira-infraestructura-energetica-europa-justo-antes-invierno-1425813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-advierte-peligroso-grupo-hackers-rusos-fija-mira-infraestructura-energetica-europa-justo-antes-invierno-4266411.jpg?tf=1200x' alt='Google advierte: peligroso grupo de hackers rusos fija su mira en la infraestructura energética de Europa, justo antes del invierno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/memoria-fuera-cerebro-nuevo-estudio-desafia-todo-sabemos-recuerdos-1425836'>¿Memoria fuera del cerebro? Nuevo estudio desafía todo lo que sabemos sobre los recuerdos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/memoria-fuera-cerebro-nuevo-estudio-desafia-todo-sabemos-recuerdos-1425836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cerebro-humano-4266417.jpg?tf=1200x' alt='¿Memoria fuera del cerebro? Nuevo estudio desafía todo lo que sabemos sobre los recuerdos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/tecnica-japonesa-transformara-finanzas-30-dias-descubre-metodo-kakeibo-1425831'>La técnica japonesa que transformará tus finanzas en 30 días: descubre el método “Kakeibo”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/tecnica-japonesa-transformara-finanzas-30-dias-descubre-metodo-kakeibo-1425831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ahorrar-dinero-4266413.jpg?tf=1200x' alt='La técnica japonesa que transformará tus finanzas en 30 días: descubre el método “Kakeibo”' />
     </a>
 </div>
 
