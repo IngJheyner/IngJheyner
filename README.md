@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-1425538'>Si recibes este mensaje de "Netflix", bórralo: es una estafa para robarte el dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-1425538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/recibes-mensaje-netflix-borralo-estafa-robarte-dinero-4266016.jpg?tf=1200x' alt='Si recibes este mensaje de "Netflix", bórralo: es una estafa para robarte el dinero' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-ha-decidido-400-millones-usuarios-windows-todo-mundo-tendran-pasar-caja-1425505'>Microsoft ha decidido: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-ha-decidido-400-millones-usuarios-windows-todo-mundo-tendran-pasar-caja-1425505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasar-windows-10-windows-11-4265946.jpg?tf=1200x' alt='Microsoft ha decidido: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-cuadernos-jupyter-transmitir-futbol-gratis-1425548'>Adiós a IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/iptv-cuadernos-jupyter-transmitir-futbol-gratis-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-iptv-descubren-nuevo-metodo-ya-estan-usando-transmitir-futbol-gratis-4265995.jpg?tf=1200x' alt='Adiós a IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/experto-fecha-consolas-videojuegos-dejaran-existir-1425441'>Ni PlayStation ni Nintendo Switch, un experto confirma la fecha en la que las consolas de videojuegos dejarán de existir</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/experto-fecha-consolas-videojuegos-dejaran-existir-1425441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consolas-next-gen-4265859.jpg?tf=1200x' alt='Ni PlayStation ni Nintendo Switch, un experto confirma la fecha en la que las consolas de videojuegos dejarán de existir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-1425526'>Inyectan un "veneno silencioso" en la música que consigue dejar a la inteligencia artificial fuera de juego</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-1425526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inyectan-veneno-silencioso-musica-consigue-dejar-inteligencia-artificial-fuera-juego-4265993.jpg?tf=1200x' alt='Inyectan un "veneno silencioso" en la música que consigue dejar a la inteligencia artificial fuera de juego' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5000-euros-multa-compartir-datos-personales-grupo-whatsapp-1425404'>5.000 euros de multa por compartir datos personales en un grupo de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5000-euros-multa-compartir-datos-personales-grupo-whatsapp-1425404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/whatsapp-ha-copiado-reacciones-rapidas-dos-toques-instagram-facebook-3832637.jpg?tf=1200x' alt='5.000 euros de multa por compartir datos personales en un grupo de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533'>Bluesky también está violando las leyes de la Unión Europea</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/bluesky-tambien-violando-leyes-union-europea-1425533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-tambien-violando-leyes-ue-4265960.jpg?tf=1200x' alt='Bluesky también está violando las leyes de la Unión Europea' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gmail-punto-mira-recomendaciones-fbi-blindar-cuenta-estafas-1425397'>Gmail en el punto de mira: recomendaciones del FBI para blindar tu cuenta contra las estafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gmail-punto-mira-recomendaciones-fbi-blindar-cuenta-estafas-1425397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/alerta-gmail-fbi-4265805.jpg?tf=1200x' alt='Gmail en el punto de mira: recomendaciones del FBI para blindar tu cuenta contra las estafas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378'>"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/he-sido-estafada-intenta-recuperar-fotos-viejo-iphone-lleva-desagradable-sorpresa-1425378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-video-tiktok-alba-dubai-albadubai-4265804.jpg?tf=1200x' alt='"He sido estafada": intenta recuperar las fotos de un viejo iPhone y se lleva una desagradable sorpresa' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuerpo-humano-podria-ser-clave-desarrollar-tecnologia-6g-1425384'>El cuerpo humano podría ser la clave para desarrollar la tecnología 6G</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuerpo-humano-podria-ser-clave-desarrollar-tecnologia-6g-1425384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cuerpo-humano-podria-ser-clave-desarrollar-tecnologia-6g-4265761.jpg?tf=1200x' alt='El cuerpo humano podría ser la clave para desarrollar la tecnología 6G' />
     </a>
 </div>
 
