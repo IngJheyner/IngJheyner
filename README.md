@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-vende-cascos-xiaomi-cancelacion-no-envidian-nada-otros-mucho-caros-27-euros-1425322'>Amazon vende los cascos Xiaomi con cancelación que no envidian nada a otros mucho más caros, y por 27 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-vende-cascos-xiaomi-cancelacion-no-envidian-nada-otros-mucho-caros-27-euros-1425322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-redmi-buds-5-4265668.jpg?tf=1200x' alt='Amazon vende los cascos Xiaomi con cancelación que no envidian nada a otros mucho más caros, y por 27 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/telescopio-james-webb-mejor-foto-galaxia-sombrero-1425908'>El telescopio James Webb deslumbra con la mejor foto de la Galaxia del Sombrero, y revela una sorpresa</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/telescopio-james-webb-mejor-foto-galaxia-sombrero-1425908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telescopio-james-webb-deslumbra-mejor-foto-galaxia-sombrero-revela-sorpresa-4266497.jpg?tf=1200x' alt='El telescopio James Webb deslumbra con la mejor foto de la Galaxia del Sombrero, y revela una sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887'>La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/precios-actuales-moviles-mejor-honor-200-smart-debajo-200-euros-1425687'>Con los precios actuales en móviles, lo mejor del Honor 200 Smart es que esté por debajo de 200 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/precios-actuales-moviles-mejor-honor-200-smart-debajo-200-euros-1425687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/honor-200-smart-4262334.jpg?tf=1200x' alt='Con los precios actuales en móviles, lo mejor del Honor 200 Smart es que esté por debajo de 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-cosori-ni-ninja-freidora-xxl-cecotec-grande-barata-black-friday-1425863'>Ni Cosori ni Ninja: esta freidora XXL de Cecotec es la más grande y más barata del Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-cosori-ni-ninja-freidora-xxl-cecotec-grande-barata-black-friday-1425863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-freidora-4266459.jpg?tf=1200x' alt='Ni Cosori ni Ninja: esta freidora XXL de Cecotec es la más grande y más barata del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-motorola-moto-g55-5g-movil-potencial-coronarse-como-top-gama-media-1424639'>He probado el Motorola Moto G55 5G, un móvil con potencial para coronarse como top de la gama media</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-motorola-moto-g55-5g-movil-potencial-coronarse-como-top-gama-media-1424639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/motorola-moto-g55-5g-4264785.jpg?tf=1200x' alt='He probado el Motorola Moto G55 5G, un móvil con potencial para coronarse como top de la gama media' />
     </a>
 </div>
 
