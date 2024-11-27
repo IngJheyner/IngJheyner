@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-persona-mas-rica-historia-donald-trump-1425879'>Elon Musk ya es la persona más rica de la historia, gracias a Donald Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-persona-mas-rica-historia-donald-trump-1425879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-hoy-56000-millones-dolares-rico-pero-dinero-no-importante-3516665.jpg?tf=1200x' alt='Elon Musk ya es la persona más rica de la historia, gracias a Donald Trump' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/precios-actuales-moviles-mejor-honor-200-smart-debajo-200-euros-1425687'>Con los precios actuales en móviles, lo mejor del Honor 200 Smart es que esté por debajo de 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/precios-actuales-moviles-mejor-honor-200-smart-debajo-200-euros-1425687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/honor-200-smart-4262334.jpg?tf=1200x' alt='Con los precios actuales en móviles, lo mejor del Honor 200 Smart es que esté por debajo de 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-cosori-ni-ninja-freidora-xxl-cecotec-grande-barata-black-friday-1425863'>Ni Cosori ni Ninja: esta freidora XXL de Cecotec es la más grande y más barata del Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-cosori-ni-ninja-freidora-xxl-cecotec-grande-barata-black-friday-1425863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-freidora-4266459.jpg?tf=1200x' alt='Ni Cosori ni Ninja: esta freidora XXL de Cecotec es la más grande y más barata del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-motorola-moto-g55-5g-movil-potencial-coronarse-como-top-gama-media-1424639'>He probado el Motorola Moto G55 5G, un móvil con potencial para coronarse como top de la gama media</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-motorola-moto-g55-5g-movil-potencial-coronarse-como-top-gama-media-1424639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/motorola-moto-g55-5g-4264785.jpg?tf=1200x' alt='He probado el Motorola Moto G55 5G, un móvil con potencial para coronarse como top de la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/detectan-malware-utiliza-avast-como-puerta-entrada-infectar-cualquier-ordenador-segundos-1425739'>Detectan un malware que utiliza Avast como puerta de entrada para infectar cualquier ordenador en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/detectan-malware-utiliza-avast-como-puerta-entrada-infectar-cualquier-ordenador-segundos-1425739' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-avast-4266281.jpg?tf=1200x' alt='Detectan un malware que utiliza Avast como puerta de entrada para infectar cualquier ordenador en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/carroceria-tesla-cybertruck-puede-parar-balas-pero-no-imanes-nevera-1425717'>La carrocería del Tesla Cybertruck puede parar las balas, pero no los imanes de tu nevera</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/carroceria-tesla-cybertruck-puede-parar-balas-pero-no-imanes-nevera-1425717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cybertruck-elon-musk-4266363.jpg?tf=1200x' alt='La carrocería del Tesla Cybertruck puede parar las balas, pero no los imanes de tu nevera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estas-12-aplicaciones-android-ios-esconden-troyano-eliminalas-ahora-mismo-1425775'>Estas 12 aplicaciones de Android e iOS esconden un troyano, elimínalas ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estas-12-aplicaciones-android-ios-esconden-troyano-eliminalas-ahora-mismo-1425775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aplicaciones-android-ios-4266331.jpg?tf=1200x' alt='Estas 12 aplicaciones de Android e iOS esconden un troyano, elimínalas ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-wifi-tienes-alguno-estos-router-pide-operador-cambie-urgentemente-estas-peligro-1425708'>Alerta WiFi: si tienes alguno de estos router pide a tu operador que lo cambie urgentemente, estás en peligro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-wifi-tienes-alguno-estos-router-pide-operador-cambie-urgentemente-estas-peligro-1425708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-4266216.jpg?tf=1200x' alt='Alerta WiFi: si tienes alguno de estos router pide a tu operador que lo cambie urgentemente, estás en peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/denuncian-alumno-utilizar-ia-trabajo-justicia-dictamina-profesores-tomaron-decision-correcta-1425701'>Denuncian a un alumno por utilizar IA para un trabajo, y la justicia dictamina que los profesores tomaron la decisión correcta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/denuncian-alumno-utilizar-ia-trabajo-justicia-dictamina-profesores-tomaron-decision-correcta-1425701' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-metaverso-reto-colegios-espanoles-luchar-analfabetismo-digital-3287562.jpg?tf=1200x' alt='Denuncian a un alumno por utilizar IA para un trabajo, y la justicia dictamina que los profesores tomaron la decisión correcta' />
     </a>
 </div>
 
