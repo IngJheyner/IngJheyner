@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-publicidad-television-tendras-acostumbrarte-1426078'>Giro de 180 grados en la publicidad en televisión: tendrás que acostumbrarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-publicidad-television-tendras-acostumbrarte-1426078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-publicidad-television-tendras-acostumbrarte-4266806.jpg?tf=1200x' alt='Giro de 180 grados en la publicidad en televisión: tendrás que acostumbrarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ganga-suprema-black-friday-amazon-ya-online-robot-aspirador-22000-opiniones-89-euros-1425341'>La ganga suprema del Black Friday de Amazon ya está online: un robot aspirador con 22.000 opiniones por 89 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ganga-suprema-black-friday-amazon-ya-online-robot-aspirador-22000-opiniones-89-euros-1425341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lefant-m210-4265687.jpg?tf=1200x' alt='La ganga suprema del Black Friday de Amazon ya está online: un robot aspirador con 22.000 opiniones por 89 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/windows-11-24h2-culpable-no-puedas-jugar-ordenador-portatil-dell-1426032'>Windows 11 24H2 es el culpable de que no puedas jugar en tu ordenador portátil DELL</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/windows-11-24h2-culpable-no-puedas-jugar-ordenador-portatil-dell-1426032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/problemas-actualizacion-windows-11-4266695.jpg?tf=1200x' alt='Windows 11 24H2 es el culpable de que no puedas jugar en tu ordenador portátil DELL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-datos-cargador-movil-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-datos-cargador-movil-1401042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-1426053'>Ni Kodi ni Netflix, esta es la mejor app IPTV para ver tus series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-1426053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-4266753.jpg?tf=1200x' alt='Ni Kodi ni Netflix, esta es la mejor app IPTV para ver tus series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-1426011'>Ni PS5 Pro ni Nintendo Switch: por qué la mítica Atari 7800+ puede ser la consola de estas Navidades para muchos gamers</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-1426011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-4266664.jpg?tf=1200x' alt='Ni PS5 Pro ni Nintendo Switch: por qué la mítica Atari 7800+ puede ser la consola de estas Navidades para muchos gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/elon-musk-busca-nueva-proeza-usar-chip-neuralink-mover-brazos-roboticos-mente-1426022'>Elon Musk busca una nueva proeza: usar un chip de Neuralink para mover brazos robóticos con la mente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/elon-musk-busca-nueva-proeza-usar-chip-neuralink-mover-brazos-roboticos-mente-1426022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/galactica-cifra-tardaria-elon-musk-agotar-toda-fortuna-gastando-millon-mes-4265786.jpg?tf=1200x' alt='Elon Musk busca una nueva proeza: usar un chip de Neuralink para mover brazos robóticos con la mente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/como-mejorar-calidad-sonido-spotify-android-truco-oculto-1425989'>Cómo mejorar la calidad del sonido de Spotify en Android con este truco oculto</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/como-mejorar-calidad-sonido-spotify-android-truco-oculto-1425989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-mejorar-calidad-sonido-spotify-android-truco-oculto-4266655.jpg?tf=1200x' alt='Cómo mejorar la calidad del sonido de Spotify en Android con este truco oculto' />
     </a>
 </div>
 
