@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/como-fuera-prehistoria-cambia-portatil-windows-macbook-descubre-impactante-detalle-transferir-datos-1425623'>"Como si fuera de la prehistoria": Cambia su portátil con Windows por un MacBook y descubre un impactante detalle al transferir los datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/como-fuera-prehistoria-cambia-portatil-windows-macbook-descubre-impactante-detalle-transferir-datos-1425623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-cristinaccalvo-4266156.jpg?tf=1200x' alt='"Como si fuera de la prehistoria": Cambia su portátil con Windows por un MacBook y descubre un impactante detalle al transferir los datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-1425858'>Steve Jobs tenía razón: deberías hacerte esta pregunta cada mañana, la psicología lo confirma</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-1425858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-4266458.jpg?tf=1200x' alt='Steve Jobs tenía razón: deberías hacerte esta pregunta cada mañana, la psicología lo confirma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-1425832'>¿No puedes acceder a WhatsApp?: cuidado, seguramente se trate de una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-1425832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-4266435.jpg?tf=1200x' alt='¿No puedes acceder a WhatsApp?: cuidado, seguramente se trate de una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-black-friday-oferta-1425844'>Ni Netflix ni Disney+: la mejor oferta del Black Friday la tiene Max</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/max-black-friday-oferta-1425844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-netflix-ni-disney-mejor-oferta-black-friday-tiene-max-4266421.jpg?tf=1200x' alt='Ni Netflix ni Disney+: la mejor oferta del Black Friday la tiene Max' />
     </a>
 </div>
 
