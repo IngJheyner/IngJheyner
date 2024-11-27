@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-1425858'>Steve Jobs tenía razón: deberías hacerte esta pregunta cada mañana, la psicología lo confirma</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-1425858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-4266458.jpg?tf=1200x' alt='Steve Jobs tenía razón: deberías hacerte esta pregunta cada mañana, la psicología lo confirma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-1425848'>Si todavía tienes un viejo móvil Nokia en un cajón, estás de suerte: este es su valor actual</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-1425848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-4266447.jpg?tf=1200x' alt='Si todavía tienes un viejo móvil Nokia en un cajón, estás de suerte: este es su valor actual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/max-oled-sucesor-pantallas-oled-1425855'>Adiós a las pantallas OLED: ya está aquí su sucesor, MAX OLED</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/max-oled-sucesor-pantallas-oled-1425855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-pantallas-oled-ya-aqui-sucesor-max-oled-4266436.jpg?tf=1200x' alt='Adiós a las pantallas OLED: ya está aquí su sucesor, MAX OLED' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-black-friday-oferta-1425844'>Ni Netflix ni Disney+: la mejor oferta del Black Friday la tiene Max</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-black-friday-oferta-1425844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-netflix-ni-disney-mejor-oferta-black-friday-tiene-max-4266421.jpg?tf=1200x' alt='Ni Netflix ni Disney+: la mejor oferta del Black Friday la tiene Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/errores-criticos-windows-11-24h2-apagado-hibernacion-dolby-digital-afectados-1425838'>Errores críticos en Windows 11 24H2: Apagado, hibernación y Dolby Digital afectados</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/errores-criticos-windows-11-24h2-apagado-hibernacion-dolby-digital-afectados-1425838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-windows-4266426.jpg?tf=1200x' alt='Errores críticos en Windows 11 24H2: Apagado, hibernación y Dolby Digital afectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-intente-hacer-mismo-casa-puede-todopoderoso-nokia-3310-derrotar-sable-laser-star-wars-1425693'>"No intente hacer lo mismo en casa": ¿Puede el todopoderoso Nokia 3310 derrotar a un sable láser de Star Wars?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-intente-hacer-mismo-casa-puede-todopoderoso-nokia-3310-derrotar-sable-laser-star-wars-1425693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-marques-brownlee-mkbhd-4266228.jpg?tf=1200x' alt='"No intente hacer lo mismo en casa": ¿Puede el todopoderoso Nokia 3310 derrotar a un sable láser de Star Wars?' />
     </a>
 </div>
 
