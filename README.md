@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146'>Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-lanza-app-ajedrez-donde-generas-piezas-ia-4266864.jpg?tf=1200x' alt='Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/policia-advierte-estafas-black-friday-desconfia-ofertas-parezcan-demasiado-buenas-ser-ciertas-1426030'>La Policía advierte sobre las estafas en Black Friday: "Desconfía de ofertas que parezcan demasiado buenas para ser ciertas"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/policia-advierte-estafas-black-friday-desconfia-ofertas-parezcan-demasiado-buenas-ser-ciertas-1426030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-policia-4266709.jpg?tf=1200x' alt='La Policía advierte sobre las estafas en Black Friday: "Desconfía de ofertas que parezcan demasiado buenas para ser ciertas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/chrome-te-pide-contrasena-no-escribas-tienes-hacer-1426104'>Si Chrome te pide tu contraseña, no la escribas: esto es lo que tienes que hacer</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/chrome-te-pide-contrasena-no-escribas-tienes-hacer-1426104' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chrome-te-pide-contrasena-no-escribas-tienes-hacer-4266853.jpg?tf=1200x' alt='Si Chrome te pide tu contraseña, no la escribas: esto es lo que tienes que hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tres-fallecidos-despues-google-maps-dirigiera-coche-puente-construccion-1426131'>Tres fallecidos después de que Google Maps dirigiera su coche por un puente en construcción</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tres-fallecidos-despues-google-maps-dirigiera-coche-puente-construccion-1426131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tres-fallecidos-despues-google-maps-dirigiera-puente-construccion-4266856.jpg?tf=1200x' alt='Tres fallecidos después de que Google Maps dirigiera su coche por un puente en construcción' />
     </a>
 </div>
 
