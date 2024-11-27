@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-1426011'>Ni PS5 Pro ni Nintendo Switch: por qué la mítica Atari 7800+ puede ser la consola de estas Navidades para muchos gamers</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-1426011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-4266664.jpg?tf=1200x' alt='Ni PS5 Pro ni Nintendo Switch: por qué la mítica Atari 7800+ puede ser la consola de estas Navidades para muchos gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/elon-musk-busca-nueva-proeza-usar-chip-neuralink-mover-brazos-roboticos-mente-1426022'>Elon Musk busca una nueva proeza: usar un chip de Neuralink para mover brazos robóticos con la mente</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/elon-musk-busca-nueva-proeza-usar-chip-neuralink-mover-brazos-roboticos-mente-1426022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/galactica-cifra-tardaria-elon-musk-agotar-toda-fortuna-gastando-millon-mes-4265786.jpg?tf=1200x' alt='Elon Musk busca una nueva proeza: usar un chip de Neuralink para mover brazos robóticos con la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/como-mejorar-calidad-sonido-spotify-android-truco-oculto-1425989'>Cómo mejorar la calidad del sonido de Spotify en Android con este truco oculto</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/como-mejorar-calidad-sonido-spotify-android-truco-oculto-1425989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-mejorar-calidad-sonido-spotify-android-truco-oculto-4266655.jpg?tf=1200x' alt='Cómo mejorar la calidad del sonido de Spotify en Android con este truco oculto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-1425983'>La función de Android que llegará a tu móvil en breve y que te ayudará a ser más productivo</a></h4>
     <a href='https://computerhoy.20minutos.es/android/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-1425983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-4266624.jpg?tf=1200x' alt='La función de Android que llegará a tu móvil en breve y que te ayudará a ser más productivo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/adios-radares-google-maps-nueva-alerta-sustituye-1426018'>Adiós a los radares en Google Maps: esta es la nueva alerta y puede que no te guste</a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-radares-google-maps-nueva-alerta-sustituye-1426018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Adiós a los radares en Google Maps: esta es la nueva alerta y puede que no te guste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/samsung-podria-estar-trabajando-propia-nintendo-switch-pantalla-plegable-1425947'>Samsung podría estar trabajando en su propia Nintendo Switch con pantalla plegable</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/samsung-podria-estar-trabajando-propia-nintendo-switch-pantalla-plegable-1425947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-podria-estar-desarrollando-dispositivo-gaming-plegable-4266552.jpg?tf=1200x' alt='Samsung podría estar trabajando en su propia Nintendo Switch con pantalla plegable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/millones-usuarios-microsoft-windows-10-pagar-actualizaciones-1425505'>Microsoft sentencia: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/millones-usuarios-microsoft-windows-10-pagar-actualizaciones-1425505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/juez-sentencia-windows-10-4266642.jpg?tf=1200x' alt='Microsoft sentencia: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llega-novedad-bizum-gracias-sorteo-navidad-1425956'>Llega una novedad a Bizum gracias al Sorteo de Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/llega-novedad-bizum-gracias-sorteo-navidad-1425956' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bizum-navidad-4266614.jpg?tf=1200x' alt='Llega una novedad a Bizum gracias al Sorteo de Navidad' />
     </a>
 </div>
 
