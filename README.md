@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/novedad-esperada-clientes-digi-no-llegara-finales-2025-no-todos-1426083'>La novedad más esperada para los clientes de DIGI no llegará hasta finales de 2025, y no para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/novedad-esperada-clientes-digi-no-llegara-finales-2025-no-todos-1426083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='La novedad más esperada para los clientes de DIGI no llegará hasta finales de 2025, y no para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-1425760'>Es mejor que Gladiator 2 y está en MAX: la aclamada serie de HBO sobre el Imperio romano que fascinó a crítica y público</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-1425760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-4266284.jpg?tf=1200x' alt='Es mejor que Gladiator 2 y está en MAX: la aclamada serie de HBO sobre el Imperio romano que fascinó a crítica y público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-publicidad-television-tendras-acostumbrarte-1426078'>Giro de 180 grados en la publicidad en televisión: tendrás que acostumbrarte</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-publicidad-television-tendras-acostumbrarte-1426078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-publicidad-television-tendras-acostumbrarte-4266806.jpg?tf=1200x' alt='Giro de 180 grados en la publicidad en televisión: tendrás que acostumbrarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/windows-11-24h2-culpable-no-puedas-jugar-ordenador-portatil-dell-1426032'>Windows 11 24H2 es el culpable de que no puedas jugar en tu ordenador portátil DELL</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/windows-11-24h2-culpable-no-puedas-jugar-ordenador-portatil-dell-1426032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/problemas-actualizacion-windows-11-4266695.jpg?tf=1200x' alt='Windows 11 24H2 es el culpable de que no puedas jugar en tu ordenador portátil DELL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-datos-cargador-movil-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-datos-cargador-movil-1401042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-1426053'>Ni Kodi ni Netflix, esta es la mejor app IPTV para ver tus series y películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-1426053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-4266753.jpg?tf=1200x' alt='Ni Kodi ni Netflix, esta es la mejor app IPTV para ver tus series y películas' />
     </a>
 </div>
 
