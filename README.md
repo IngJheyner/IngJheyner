@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887'>La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-persona-mas-rica-historia-donald-trump-1425879'>Elon Musk ya es la persona más rica de la historia, gracias a Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-persona-mas-rica-historia-donald-trump-1425879' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-hoy-56000-millones-dolares-rico-pero-dinero-no-importante-3516665.jpg?tf=1200x' alt='Elon Musk ya es la persona más rica de la historia, gracias a Donald Trump' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-motorola-moto-g55-5g-movil-potencial-coronarse-como-top-gama-media-1424639'>He probado el Motorola Moto G55 5G, un móvil con potencial para coronarse como top de la gama media</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-motorola-moto-g55-5g-movil-potencial-coronarse-como-top-gama-media-1424639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/motorola-moto-g55-5g-4264785.jpg?tf=1200x' alt='He probado el Motorola Moto G55 5G, un móvil con potencial para coronarse como top de la gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/detectan-malware-utiliza-avast-como-puerta-entrada-infectar-cualquier-ordenador-segundos-1425739'>Detectan un malware que utiliza Avast como puerta de entrada para infectar cualquier ordenador en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/detectan-malware-utiliza-avast-como-puerta-entrada-infectar-cualquier-ordenador-segundos-1425739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-avast-4266281.jpg?tf=1200x' alt='Detectan un malware que utiliza Avast como puerta de entrada para infectar cualquier ordenador en segundos' />
     </a>
 </div>
 
