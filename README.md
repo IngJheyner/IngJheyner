@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/truco-tesla-saca-millones-dolares-gratis-todo-gracias-coche-gasolina-1425943'>Este es el truco de Tesla con el que saca millones de dólares gratis y todo gracias al coche de gasolina</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/truco-tesla-saca-millones-dolares-gratis-todo-gracias-coche-gasolina-1425943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesla-elon-musk-4266566.jpg?tf=1200x' alt='Este es el truco de Tesla con el que saca millones de dólares gratis y todo gracias al coche de gasolina' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/samsung-podria-estar-trabajando-propia-nintendo-switch-pantalla-plegable-1425947'>Samsung podría estar trabajando en su propia Nintendo Switch con pantalla plegable</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/samsung-podria-estar-trabajando-propia-nintendo-switch-pantalla-plegable-1425947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-podria-estar-desarrollando-dispositivo-gaming-plegable-4266552.jpg?tf=1200x' alt='Samsung podría estar trabajando en su propia Nintendo Switch con pantalla plegable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-adios-siempre-canal-historico-dejara-emitir-principios-2025-1425975'>TDT: adiós para siempre a un canal histórico que dejará de emitir a principios de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-adios-siempre-canal-historico-dejara-emitir-principios-2025-1425975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tdt-canales-llorar-4266607.jpg?tf=1200x' alt='TDT: adiós para siempre a un canal histórico que dejará de emitir a principios de 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/millones-usuarios-microsoft-windows-10-pagar-actualizaciones-1425505'>Microsoft sentencia: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/millones-usuarios-microsoft-windows-10-pagar-actualizaciones-1425505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/juez-sentencia-windows-10-4266642.jpg?tf=1200x' alt='Microsoft sentencia: 400 millones de usuarios de Windows de todo el mundo tendrán que pasar por caja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/olor-espacio-astronautas-nasa-1354382'>¿A qué huele el espacio? La NASA responde, y no es nada agradable</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/olor-espacio-astronautas-nasa-1354382' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? La NASA responde, y no es nada agradable' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llega-novedad-bizum-gracias-sorteo-navidad-1425956'>Llega una novedad a Bizum gracias al Sorteo de Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/llega-novedad-bizum-gracias-sorteo-navidad-1425956' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bizum-navidad-4266614.jpg?tf=1200x' alt='Llega una novedad a Bizum gracias al Sorteo de Navidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-1425909'>Bluesky no entrenará su IA con tus post, pero no estás exento de peligro</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-1425909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-4266536.jpg?tf=1200x' alt='Bluesky no entrenará su IA con tus post, pero no estás exento de peligro' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-juega-futuro-china-inteligencia-artificial-cuerda-floja-1425955'>Apple se juega su futuro en China: la inteligencia artificial, en la cuerda floja</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-juega-futuro-china-inteligencia-artificial-cuerda-floja-1425955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-tim-cook-china-4266595.jpg?tf=1200x' alt='Apple se juega su futuro en China: la inteligencia artificial, en la cuerda floja' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ya-tenemos-ganador-guerra-iptv-telegram-1425929'>Ya tenemos ganador en la guerra de las IPTV: Telegram</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ya-tenemos-ganador-guerra-iptv-telegram-1425929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telegram-iptv-4266549.jpg?tf=1200x' alt='Ya tenemos ganador en la guerra de las IPTV: Telegram' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/ni-samsung-ni-xiaomi-movil-nothing-apenas-300-euros-va-arrasar-black-friday-ya-rebajado-1425894'>Ni Samsung ni Xiaomi: este móvil Nothing de apenas 300 euros es uno de los que va a arrasar en el Black Friday ¡y ya rebajado!</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/ni-samsung-ni-xiaomi-movil-nothing-apenas-300-euros-va-arrasar-black-friday-ya-rebajado-1425894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nothing-phone-2a-3286437.jpg?tf=1200x' alt='Ni Samsung ni Xiaomi: este móvil Nothing de apenas 300 euros es uno de los que va a arrasar en el Black Friday ¡y ya rebajado!' />
     </a>
 </div>
 
