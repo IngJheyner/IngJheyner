@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/truco-tesla-saca-millones-dolares-gratis-todo-gracias-coche-gasolina-1425943'>Este es el truco de Tesla con el que saca millones de dólares gratis y todo gracias al coche de gasolina</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/truco-tesla-saca-millones-dolares-gratis-todo-gracias-coche-gasolina-1425943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tesla-elon-musk-4266566.jpg?tf=1200x' alt='Este es el truco de Tesla con el que saca millones de dólares gratis y todo gracias al coche de gasolina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-adios-siempre-canal-historico-dejara-emitir-principios-2025-1425975'>TDT: adiós para siempre a un canal histórico que dejará de emitir a principios de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-adios-siempre-canal-historico-dejara-emitir-principios-2025-1425975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tdt-canales-llorar-4266607.jpg?tf=1200x' alt='TDT: adiós para siempre a un canal histórico que dejará de emitir a principios de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/olor-espacio-astronautas-nasa-1354382'>¿A qué huele el espacio? La NASA responde, y no es nada agradable</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/olor-espacio-astronautas-nasa-1354382' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/huele-espacio-dicen-astronautas-3257015.jpg?tf=1200x' alt='¿A qué huele el espacio? La NASA responde, y no es nada agradable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-1425909'>Bluesky no entrenará su IA con tus post, pero no estás exento de peligro</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-1425909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-4266536.jpg?tf=1200x' alt='Bluesky no entrenará su IA con tus post, pero no estás exento de peligro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ya-tenemos-ganador-guerra-iptv-telegram-1425929'>Ya tenemos ganador en la guerra de las IPTV: Telegram</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ya-tenemos-ganador-guerra-iptv-telegram-1425929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telegram-iptv-4266549.jpg?tf=1200x' alt='Ya tenemos ganador en la guerra de las IPTV: Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/app-gratis-alternativa-waze-google-maps-nueva-funcion-1425464'>Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/app-gratis-alternativa-waze-google-maps-nueva-funcion-1425464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-sygic-4266553.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/futbol-gratis-iptv-cuadernos-jupyter-1425548'>Giro de 180 grados a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/futbol-gratis-iptv-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Giro de 180 grados a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/giro-180-grados-busqueda-windows-microsoft-soluciona-gran-punto-debil-1425921'>Giro de 180 grados a la búsqueda en Windows: Microsoft soluciona su gran punto débil</a></h4>
-    <a href='https://computerhoy.20minutos.es/giro-180-grados-busqueda-windows-microsoft-soluciona-gran-punto-debil-1425921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-microsoft-4266530.jpg?tf=1200x' alt='Giro de 180 grados a la búsqueda en Windows: Microsoft soluciona su gran punto débil' />
     </a>
 </div>
 
