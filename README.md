@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/he-tirado-350-euros-no-sigas-supuesto-truco-viral-limpiar-teclado-pc-1426049'>"He tirado 350 euros": No sigas este supuesto truco viral para limpiar el teclado de tu PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/he-tirado-350-euros-no-sigas-supuesto-truco-viral-limpiar-teclado-pc-1426049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-video-tiktok-afrosamuraitt-4266759.jpg?tf=1200x' alt='"He tirado 350 euros": No sigas este supuesto truco viral para limpiar el teclado de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-regala-dinero-juegos-gratis-1426121'>PlayStation está regalando dinero y juegos gratis, así puedes conseguirlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-regala-dinero-juegos-gratis-1426121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/playstation-regalando-dinero-juegos-gratis-puedes-conseguirlos-4266832.jpg?tf=1200x' alt='PlayStation está regalando dinero y juegos gratis, así puedes conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-asegura-juegos-hambre-copio-descaradamente-clasica-pelicula-culto-simplemente-plagio-1426033'>Quentin Tarantino asegura que Los juegos del hambre copió descaradamente esta clásica película de culto: "Simplemente la plagió"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-asegura-juegos-hambre-copio-descaradamente-clasica-pelicula-culto-simplemente-plagio-1426033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/quentin-tarantino-asegura-juegos-hambre-copio-descaradamente-clasica-pelicula-culto-simplemente-plagio-4266693.jpg?tf=1200x' alt='Quentin Tarantino asegura que Los juegos del hambre copió descaradamente esta clásica película de culto: "Simplemente la plagió"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/novedad-esperada-clientes-digi-no-llegara-finales-2025-no-todos-1426083'>La novedad más esperada para los clientes de DIGI no llegará hasta finales de 2025, y no para todos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/novedad-esperada-clientes-digi-no-llegara-finales-2025-no-todos-1426083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='La novedad más esperada para los clientes de DIGI no llegará hasta finales de 2025, y no para todos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-1425760'>Es mejor que Gladiator 2 y está en MAX: la aclamada serie de HBO sobre el Imperio romano que fascinó a crítica y público</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-1425760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-4266284.jpg?tf=1200x' alt='Es mejor que Gladiator 2 y está en MAX: la aclamada serie de HBO sobre el Imperio romano que fascinó a crítica y público' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-publicidad-television-tendras-acostumbrarte-1426078'>Giro de 180 grados en la publicidad en televisión: tendrás que acostumbrarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-publicidad-television-tendras-acostumbrarte-1426078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/giro-180-grados-publicidad-television-tendras-acostumbrarte-4266806.jpg?tf=1200x' alt='Giro de 180 grados en la publicidad en televisión: tendrás que acostumbrarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ganga-suprema-black-friday-amazon-ya-online-robot-aspirador-22000-opiniones-89-euros-1425341'>La ganga suprema del Black Friday de Amazon ya está online: un robot aspirador con 22.000 opiniones por 89 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ganga-suprema-black-friday-amazon-ya-online-robot-aspirador-22000-opiniones-89-euros-1425341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/lefant-m210-4265687.jpg?tf=1200x' alt='La ganga suprema del Black Friday de Amazon ya está online: un robot aspirador con 22.000 opiniones por 89 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/windows-11-24h2-culpable-no-puedas-jugar-ordenador-portatil-dell-1426032'>Windows 11 24H2 es el culpable de que no puedas jugar en tu ordenador portátil DELL</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/windows-11-24h2-culpable-no-puedas-jugar-ordenador-portatil-dell-1426032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/problemas-actualizacion-windows-11-4266695.jpg?tf=1200x' alt='Windows 11 24H2 es el culpable de que no puedas jugar en tu ordenador portátil DELL' />
     </a>
 </div>
 
