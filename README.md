@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-datos-cargador-movil-1401042'>¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-datos-cargador-movil-1401042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ocurre-conectas-memoria-usb-cargador-movil-enchufas-corriente-3994980.jpg?tf=1200x' alt='¿Qué ocurre si conectas una memoria USB al cargador del móvil y lo enchufas a la corriente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-1426053'>Ni Kodi ni Netflix, esta es la mejor app IPTV para ver tus series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-1426053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-kodi-ni-netflix-mejor-app-iptv-ver-series-peliculas-4266753.jpg?tf=1200x' alt='Ni Kodi ni Netflix, esta es la mejor app IPTV para ver tus series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-1426011'>Ni PS5 Pro ni Nintendo Switch: por qué la mítica Atari 7800+ puede ser la consola de estas Navidades para muchos gamers</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-1426011' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-ps5-pro-ni-nintendo-switch-mitica-atari-7800-puede-ser-consola-estas-navidades-muchos-gamers-4266664.jpg?tf=1200x' alt='Ni PS5 Pro ni Nintendo Switch: por qué la mítica Atari 7800+ puede ser la consola de estas Navidades para muchos gamers' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/como-mejorar-calidad-sonido-spotify-android-truco-oculto-1425989'>Cómo mejorar la calidad del sonido de Spotify en Android con este truco oculto</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/como-mejorar-calidad-sonido-spotify-android-truco-oculto-1425989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-mejorar-calidad-sonido-spotify-android-truco-oculto-4266655.jpg?tf=1200x' alt='Cómo mejorar la calidad del sonido de Spotify en Android con este truco oculto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-1425983'>La función de Android que llegará a tu móvil en breve y que te ayudará a ser más productivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-1425983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-4266624.jpg?tf=1200x' alt='La función de Android que llegará a tu móvil en breve y que te ayudará a ser más productivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-radares-google-maps-nueva-alerta-sustituye-1426018'>Adiós a los radares en Google Maps: esta es la nueva alerta y puede que no te guste</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-radares-google-maps-nueva-alerta-sustituye-1426018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Adiós a los radares en Google Maps: esta es la nueva alerta y puede que no te guste' />
     </a>
 </div>
 
