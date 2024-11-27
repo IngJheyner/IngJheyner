@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/leonardo-da-vinci-lego-maquina-voladora-1425869'>Leonardo Da Vinci convertido en figura de Lego, junto con su máquina voladora</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/leonardo-da-vinci-lego-maquina-voladora-1425869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/leonardo-da-vinci-convertido-figura-lego-junto-maquina-voladora-4266464.jpg?tf=1200x' alt='Leonardo Da Vinci convertido en figura de Lego, junto con su máquina voladora' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/detectan-malware-utiliza-avast-como-puerta-entrada-infectar-cualquier-ordenador-segundos-1425739'>Detectan un malware que utiliza Avast como puerta de entrada para infectar cualquier ordenador en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/detectan-malware-utiliza-avast-como-puerta-entrada-infectar-cualquier-ordenador-segundos-1425739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/malware-avast-4266281.jpg?tf=1200x' alt='Detectan un malware que utiliza Avast como puerta de entrada para infectar cualquier ordenador en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-tires-viejo-pc-no-funciona-siempre-revisa-antes-deshacerte-1425665'>No tires tu viejo PC si no funciona: siempre revisa esto antes de deshacerte de él</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-tires-viejo-pc-no-funciona-siempre-revisa-antes-deshacerte-1425665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-microwaremadrid-4266183.jpg?tf=1200x' alt='No tires tu viejo PC si no funciona: siempre revisa esto antes de deshacerte de él' />
+    <h4><a href='https://computerhoy.20minutos.es/life/carroceria-tesla-cybertruck-puede-parar-balas-pero-no-imanes-nevera-1425717'>La carrocería del Tesla Cybertruck puede parar las balas, pero no los imanes de tu nevera</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/carroceria-tesla-cybertruck-puede-parar-balas-pero-no-imanes-nevera-1425717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cybertruck-elon-musk-4266363.jpg?tf=1200x' alt='La carrocería del Tesla Cybertruck puede parar las balas, pero no los imanes de tu nevera' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/como-fuera-prehistoria-cambia-portatil-windows-macbook-descubre-impactante-detalle-transferir-datos-1425623'>"Como si fuera de la prehistoria": Cambia su portátil con Windows por un MacBook y descubre un impactante detalle al transferir los datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/como-fuera-prehistoria-cambia-portatil-windows-macbook-descubre-impactante-detalle-transferir-datos-1425623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-cristinaccalvo-4266156.jpg?tf=1200x' alt='"Como si fuera de la prehistoria": Cambia su portátil con Windows por un MacBook y descubre un impactante detalle al transferir los datos' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estas-12-aplicaciones-android-ios-esconden-troyano-eliminalas-ahora-mismo-1425775'>Estas 12 aplicaciones de Android e iOS esconden un troyano, elimínalas ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estas-12-aplicaciones-android-ios-esconden-troyano-eliminalas-ahora-mismo-1425775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aplicaciones-android-ios-4266331.jpg?tf=1200x' alt='Estas 12 aplicaciones de Android e iOS esconden un troyano, elimínalas ahora mismo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-1425858'>Steve Jobs tenía razón: deberías hacerte esta pregunta cada mañana, la psicología lo confirma</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-1425858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-deberias-hacerte-pregunta-cada-manana-psicologia-confirma-4266458.jpg?tf=1200x' alt='Steve Jobs tenía razón: deberías hacerte esta pregunta cada mañana, la psicología lo confirma' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-wifi-tienes-alguno-estos-router-pide-operador-cambie-urgentemente-estas-peligro-1425708'>Alerta WiFi: si tienes alguno de estos router pide a tu operador que lo cambie urgentemente, estás en peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-wifi-tienes-alguno-estos-router-pide-operador-cambie-urgentemente-estas-peligro-1425708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/router-4266216.jpg?tf=1200x' alt='Alerta WiFi: si tienes alguno de estos router pide a tu operador que lo cambie urgentemente, estás en peligro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-1425848'>Si todavía tienes un viejo móvil Nokia en un cajón, estás de suerte: este es su valor actual</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-1425848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-4266447.jpg?tf=1200x' alt='Si todavía tienes un viejo móvil Nokia en un cajón, estás de suerte: este es su valor actual' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/denuncian-alumno-utilizar-ia-trabajo-justicia-dictamina-profesores-tomaron-decision-correcta-1425701'>Denuncian a un alumno por utilizar IA para un trabajo, y la justicia dictamina que los profesores tomaron la decisión correcta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/denuncian-alumno-utilizar-ia-trabajo-justicia-dictamina-profesores-tomaron-decision-correcta-1425701' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ia-metaverso-reto-colegios-espanoles-luchar-analfabetismo-digital-3287562.jpg?tf=1200x' alt='Denuncian a un alumno por utilizar IA para un trabajo, y la justicia dictamina que los profesores tomaron la decisión correcta' />
     </a>
 </div>
 
