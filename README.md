@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-1425983'>La función de Android que llegará a tu móvil en breve y que te ayudará a ser más productivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-1425983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funcion-android-llegara-movil-breve-te-ayudara-ser-productivo-4266624.jpg?tf=1200x' alt='La función de Android que llegará a tu móvil en breve y que te ayudará a ser más productivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-radares-google-maps-nueva-alerta-sustituye-1426018'>Adiós a los radares en Google Maps: esta es la nueva alerta y puede que no te guste</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-radares-google-maps-nueva-alerta-sustituye-1426018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-maps-radares-3635041.jpg?tf=1200x' alt='Adiós a los radares en Google Maps: esta es la nueva alerta y puede que no te guste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/samsung-podria-estar-trabajando-propia-nintendo-switch-pantalla-plegable-1425947'>Samsung podría estar trabajando en su propia Nintendo Switch con pantalla plegable</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/samsung-podria-estar-trabajando-propia-nintendo-switch-pantalla-plegable-1425947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-podria-estar-desarrollando-dispositivo-gaming-plegable-4266552.jpg?tf=1200x' alt='Samsung podría estar trabajando en su propia Nintendo Switch con pantalla plegable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/llega-novedad-bizum-gracias-sorteo-navidad-1425956'>Llega una novedad a Bizum gracias al Sorteo de Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/llega-novedad-bizum-gracias-sorteo-navidad-1425956' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bizum-navidad-4266614.jpg?tf=1200x' alt='Llega una novedad a Bizum gracias al Sorteo de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-juega-futuro-china-inteligencia-artificial-cuerda-floja-1425955'>Apple se juega su futuro en China: la inteligencia artificial, en la cuerda floja</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-juega-futuro-china-inteligencia-artificial-cuerda-floja-1425955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-tim-cook-china-4266595.jpg?tf=1200x' alt='Apple se juega su futuro en China: la inteligencia artificial, en la cuerda floja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/ni-samsung-ni-xiaomi-movil-nothing-apenas-300-euros-va-arrasar-black-friday-ya-rebajado-1425894'>Ni Samsung ni Xiaomi: este móvil Nothing de apenas 300 euros es uno de los que va a arrasar en el Black Friday ¡y ya rebajado!</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/ni-samsung-ni-xiaomi-movil-nothing-apenas-300-euros-va-arrasar-black-friday-ya-rebajado-1425894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nothing-phone-2a-3286437.jpg?tf=1200x' alt='Ni Samsung ni Xiaomi: este móvil Nothing de apenas 300 euros es uno de los que va a arrasar en el Black Friday ¡y ya rebajado!' />
     </a>
 </div>
 
