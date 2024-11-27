@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-1425909'>Bluesky no entrenará su IA con tus post, pero no estás exento de peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-1425909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bluesky-no-entrenara-ia-post-pero-no-estas-exento-peligro-4266536.jpg?tf=1200x' alt='Bluesky no entrenará su IA con tus post, pero no estás exento de peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ya-tenemos-ganador-guerra-iptv-telegram-1425929'>Ya tenemos ganador en la guerra de las IPTV: Telegram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ya-tenemos-ganador-guerra-iptv-telegram-1425929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telegram-iptv-4266549.jpg?tf=1200x' alt='Ya tenemos ganador en la guerra de las IPTV: Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/app-gratis-alternativa-waze-google-maps-nueva-funcion-1425464'>Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/app-gratis-alternativa-waze-google-maps-nueva-funcion-1425464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-sygic-4266553.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/futbol-gratis-iptv-cuadernos-jupyter-1425548'>Giro de 180 grados a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/futbol-gratis-iptv-cuadernos-jupyter-1425548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Giro de 180 grados a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/giro-180-grados-busqueda-windows-microsoft-soluciona-gran-punto-debil-1425921'>Giro de 180 grados a la búsqueda en Windows: Microsoft soluciona su gran punto débil</a></h4>
     <a href='https://computerhoy.20minutos.es/giro-180-grados-busqueda-windows-microsoft-soluciona-gran-punto-debil-1425921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-microsoft-4266530.jpg?tf=1200x' alt='Giro de 180 grados a la búsqueda en Windows: Microsoft soluciona su gran punto débil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-vende-cascos-xiaomi-cancelacion-no-envidian-nada-otros-mucho-caros-27-euros-1425322'>Amazon vende los cascos Xiaomi con cancelación que no envidian nada a otros mucho más caros, y por 27 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-vende-cascos-xiaomi-cancelacion-no-envidian-nada-otros-mucho-caros-27-euros-1425322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-redmi-buds-5-4265668.jpg?tf=1200x' alt='Amazon vende los cascos Xiaomi con cancelación que no envidian nada a otros mucho más caros, y por 27 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/telescopio-james-webb-mejor-foto-galaxia-sombrero-1425908'>El telescopio James Webb deslumbra con la mejor foto de la Galaxia del Sombrero, y revela una sorpresa</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/telescopio-james-webb-mejor-foto-galaxia-sombrero-1425908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telescopio-james-webb-deslumbra-mejor-foto-galaxia-sombrero-revela-sorpresa-4266497.jpg?tf=1200x' alt='El telescopio James Webb deslumbra con la mejor foto de la Galaxia del Sombrero, y revela una sorpresa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887'>La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas' />
     </a>
 </div>
 
