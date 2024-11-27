@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/he-tirado-350-euros-no-sigas-supuesto-truco-viral-limpiar-teclado-pc-1426049'>"He tirado 350 euros": No sigas este supuesto truco viral para limpiar el teclado de tu PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/he-tirado-350-euros-no-sigas-supuesto-truco-viral-limpiar-teclado-pc-1426049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-video-tiktok-afrosamuraitt-4266759.jpg?tf=1200x' alt='"He tirado 350 euros": No sigas este supuesto truco viral para limpiar el teclado de tu PC' />
+    <h4><a href='https://computerhoy.20minutos.es/life/policia-advierte-estafas-black-friday-desconfia-ofertas-parezcan-demasiado-buenas-ser-ciertas-1426030'>La Policía advierte sobre las estafas en Black Friday: "Desconfía de ofertas que parezcan demasiado buenas para ser ciertas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/policia-advierte-estafas-black-friday-desconfia-ofertas-parezcan-demasiado-buenas-ser-ciertas-1426030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-policia-4266709.jpg?tf=1200x' alt='La Policía advierte sobre las estafas en Black Friday: "Desconfía de ofertas que parezcan demasiado buenas para ser ciertas"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-regala-dinero-juegos-gratis-1426121'>PlayStation está regalando dinero y juegos gratis, así puedes conseguirlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-regala-dinero-juegos-gratis-1426121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/playstation-regalando-dinero-juegos-gratis-puedes-conseguirlos-4266832.jpg?tf=1200x' alt='PlayStation está regalando dinero y juegos gratis, así puedes conseguirlo' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/filtra-windows-cpc-alternativa-web-microsoft-windows-11-1426137'>Se filtra Windows CPC: la alternativa web de Microsoft a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/filtra-windows-cpc-alternativa-web-microsoft-windows-11-1426137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/filtra-windows-cpc-alternativa-web-microsoft-windows-11-4266862.jpg?tf=1200x' alt='Se filtra Windows CPC: la alternativa web de Microsoft a Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-asegura-juegos-hambre-copio-descaradamente-clasica-pelicula-culto-simplemente-plagio-1426033'>Quentin Tarantino asegura que Los juegos del hambre copió descaradamente esta clásica película de culto: "Simplemente la plagió"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-asegura-juegos-hambre-copio-descaradamente-clasica-pelicula-culto-simplemente-plagio-1426033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/quentin-tarantino-asegura-juegos-hambre-copio-descaradamente-clasica-pelicula-culto-simplemente-plagio-4266693.jpg?tf=1200x' alt='Quentin Tarantino asegura que Los juegos del hambre copió descaradamente esta clásica película de culto: "Simplemente la plagió"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/potente-compacto-accesible-raspberry-pi-compute-module-5-ya-aqui-1426135'>Potente, compacto y accesible: Raspberry Pi Compute Module 5 ya está aquí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/potente-compacto-accesible-raspberry-pi-compute-module-5-ya-aqui-1426135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-compute-module-5-4266859.jpg?tf=1200x' alt='Potente, compacto y accesible: Raspberry Pi Compute Module 5 ya está aquí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/novedad-esperada-clientes-digi-no-llegara-finales-2025-no-todos-1426083'>La novedad más esperada para los clientes de DIGI no llegará hasta finales de 2025, y no para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/novedad-esperada-clientes-digi-no-llegara-finales-2025-no-todos-1426083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/digi-3436208.jpg?tf=1200x' alt='La novedad más esperada para los clientes de DIGI no llegará hasta finales de 2025, y no para todos' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/chrome-te-pide-contrasena-no-escribas-tienes-hacer-1426104'>Si Chrome te pide tu contraseña, no la escribas: esto es lo que tienes que hacer</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/chrome-te-pide-contrasena-no-escribas-tienes-hacer-1426104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chrome-te-pide-contrasena-no-escribas-tienes-hacer-4266853.jpg?tf=1200x' alt='Si Chrome te pide tu contraseña, no la escribas: esto es lo que tienes que hacer' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-1425760'>Es mejor que Gladiator 2 y está en MAX: la aclamada serie de HBO sobre el Imperio romano que fascinó a crítica y público</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-1425760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejor-gladiator-2-max-aclamada-serie-hbo-imperio-romano-fascino-critica-publico-4266284.jpg?tf=1200x' alt='Es mejor que Gladiator 2 y está en MAX: la aclamada serie de HBO sobre el Imperio romano que fascinó a crítica y público' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/tres-fallecidos-despues-google-maps-dirigiera-coche-puente-construccion-1426131'>Tres fallecidos después de que Google Maps dirigiera su coche por un puente en construcción</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tres-fallecidos-despues-google-maps-dirigiera-coche-puente-construccion-1426131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tres-fallecidos-despues-google-maps-dirigiera-puente-construccion-4266856.jpg?tf=1200x' alt='Tres fallecidos después de que Google Maps dirigiera su coche por un puente en construcción' />
     </a>
 </div>
 
