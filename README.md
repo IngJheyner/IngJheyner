@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/leonardo-da-vinci-lego-maquina-voladora-1425869'>Leonardo Da Vinci convertido en figura de Lego, junto con su máquina voladora</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/leonardo-da-vinci-lego-maquina-voladora-1425869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/leonardo-da-vinci-convertido-figura-lego-junto-maquina-voladora-4266464.jpg?tf=1200x' alt='Leonardo Da Vinci convertido en figura de Lego, junto con su máquina voladora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-tires-viejo-pc-no-funciona-siempre-revisa-antes-deshacerte-1425665'>No tires tu viejo PC si no funciona: siempre revisa esto antes de deshacerte de él</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-tires-viejo-pc-no-funciona-siempre-revisa-antes-deshacerte-1425665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-microwaremadrid-4266183.jpg?tf=1200x' alt='No tires tu viejo PC si no funciona: siempre revisa esto antes de deshacerte de él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/como-fuera-prehistoria-cambia-portatil-windows-macbook-descubre-impactante-detalle-transferir-datos-1425623'>"Como si fuera de la prehistoria": Cambia su portátil con Windows por un MacBook y descubre un impactante detalle al transferir los datos</a></h4>
     <a href='https://computerhoy.20minutos.es/life/como-fuera-prehistoria-cambia-portatil-windows-macbook-descubre-impactante-detalle-transferir-datos-1425623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-cristinaccalvo-4266156.jpg?tf=1200x' alt='"Como si fuera de la prehistoria": Cambia su portátil con Windows por un MacBook y descubre un impactante detalle al transferir los datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-1425848'>Si todavía tienes un viejo móvil Nokia en un cajón, estás de suerte: este es su valor actual</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-1425848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/todavia-tienes-viejo-movil-nokia-cajon-estas-suerte-valor-actual-4266447.jpg?tf=1200x' alt='Si todavía tienes un viejo móvil Nokia en un cajón, estás de suerte: este es su valor actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/max-oled-sucesor-pantallas-oled-1425855'>Adiós a las pantallas OLED: ya está aquí su sucesor, MAX OLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/max-oled-sucesor-pantallas-oled-1425855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/adios-pantallas-oled-ya-aqui-sucesor-max-oled-4266436.jpg?tf=1200x' alt='Adiós a las pantallas OLED: ya está aquí su sucesor, MAX OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-1425832'>¿No puedes acceder a WhatsApp?: cuidado, seguramente se trate de una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-1425832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/no-puedes-acceder-whatsapp-cuidado-seguramente-trate-estafa-4266435.jpg?tf=1200x' alt='¿No puedes acceder a WhatsApp?: cuidado, seguramente se trate de una estafa' />
     </a>
 </div>
 
