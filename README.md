@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/futbol-gratis-iptv-cuadernos-jupyter-1425548'>Giro de 180 grados a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/futbol-gratis-iptv-cuadernos-jupyter-1425548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Giro de 180 grados a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/giro-180-grados-busqueda-windows-microsoft-soluciona-gran-punto-debil-1425921'>Giro de 180 grados a la búsqueda en Windows: Microsoft soluciona su gran punto débil</a></h4>
+    <a href='https://computerhoy.20minutos.es/giro-180-grados-busqueda-windows-microsoft-soluciona-gran-punto-debil-1425921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-microsoft-4266530.jpg?tf=1200x' alt='Giro de 180 grados a la búsqueda en Windows: Microsoft soluciona su gran punto débil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-vende-cascos-xiaomi-cancelacion-no-envidian-nada-otros-mucho-caros-27-euros-1425322'>Amazon vende los cascos Xiaomi con cancelación que no envidian nada a otros mucho más caros, y por 27 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-vende-cascos-xiaomi-cancelacion-no-envidian-nada-otros-mucho-caros-27-euros-1425322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xiaomi-redmi-buds-5-4265668.jpg?tf=1200x' alt='Amazon vende los cascos Xiaomi con cancelación que no envidian nada a otros mucho más caros, y por 27 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887'>La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/venganza-artistas-openai-filtran-herramienta-hacer-videos-realistas-1425887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-despido-3228404.jpg?tf=1200x' alt='La venganza de los artistas con OpenAI: filtran su herramienta para hacer vídeos realistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-persona-mas-rica-historia-donald-trump-1425879'>Elon Musk ya es la persona más rica de la historia, gracias a Donald Trump</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-persona-mas-rica-historia-donald-trump-1425879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-hoy-56000-millones-dolares-rico-pero-dinero-no-importante-3516665.jpg?tf=1200x' alt='Elon Musk ya es la persona más rica de la historia, gracias a Donald Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/precios-actuales-moviles-mejor-honor-200-smart-debajo-200-euros-1425687'>Con los precios actuales en móviles, lo mejor del Honor 200 Smart es que esté por debajo de 200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/precios-actuales-moviles-mejor-honor-200-smart-debajo-200-euros-1425687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/honor-200-smart-4262334.jpg?tf=1200x' alt='Con los precios actuales en móviles, lo mejor del Honor 200 Smart es que esté por debajo de 200 euros' />
     </a>
 </div>
 
