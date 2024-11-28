@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-todos-tendremos-robot-inteligente-casa-proxima-decada-1426299'>Bill Gates lo tiene claro: "Todos tendremos un robot inteligente en casa en la próxima década" </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-todos-tendremos-robot-inteligente-casa-proxima-decada-1426299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bill-gates-robots-4267057.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Todos tendremos un robot inteligente en casa en la próxima década" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/22-millones-usuarios-espana-europa-quedan-iptv-ver-futbol-gratis-fin-semana-1426301'>22 millones de usuarios en España y Europa se quedan sin IPTV para ver el fútbol gratis este fin de semana</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/22-millones-usuarios-espana-europa-quedan-iptv-ver-futbol-gratis-fin-semana-1426301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-ver-partido-iptv-4267068.jpg?tf=1200x' alt='22 millones de usuarios en España y Europa se quedan sin IPTV para ver el fútbol gratis este fin de semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/segundo-apagon-tdt-peligro-llegada-nuevo-canal-1426244'>El segundo apagón de la TDT en peligro por la llegada de un nuevo canal</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/segundo-apagon-tdt-peligro-llegada-nuevo-canal-1426244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4267059.jpg?tf=1200x' alt='El segundo apagón de la TDT en peligro por la llegada de un nuevo canal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/whatsapp-android-auto-te-habla-raro-no-culpa-bug-solucion-1426257'>Si WhatsApp en Android Auto te habla raro, no es tu culpa, es un bug sin solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/whatsapp-android-auto-te-habla-raro-no-culpa-bug-solucion-1426257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-te-habla-raro-no-culpa-bug-4266961.jpg?tf=1200x' alt='Si WhatsApp en Android Auto te habla raro, no es tu culpa, es un bug sin solución' />
     </a>
 </div>
 
