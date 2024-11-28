@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-1426435'>Huawei busca venganza con Android: quiere superar las 100.000 apps en HarmonyOS Next</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-1426435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-4267316.jpg?tf=1200x' alt='Huawei busca venganza con Android: quiere superar las 100.000 apps en HarmonyOS Next' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/problema-masivo-televisores-xiaomi-pierden-hdmi-debido-fallo-app-atresplayer-1426442'>Problema masivo: los televisores Xiaomi pierden HDMI debido a un fallo con la app Atresplayer</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/problema-masivo-televisores-xiaomi-pierden-hdmi-debido-fallo-app-atresplayer-1426442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/tvs-xiaomi.jpeg?tf=1200x' alt='Problema masivo: los televisores Xiaomi pierden HDMI debido a un fallo con la app Atresplayer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/wear-os-5-finalmente-llega-relojes-inteligentes-antiguos-samsung-1426412'>Wear OS 5 finalmente llega a los relojes inteligentes más antiguos de Samsung</a></h4>
     <a href='https://computerhoy.20minutos.es/android/wear-os-5-finalmente-llega-relojes-inteligentes-antiguos-samsung-1426412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/wear-os-5-finalmente-llega-relojes-inteligentes-antiguos-samsung-4267289.jpg?tf=1200x' alt='Wear OS 5 finalmente llega a los relojes inteligentes más antiguos de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/he-asistido-apertura-tienda-apple-vaguada-doceava-espana-nervios-aplausos-80-empleados-dispuestos-ayudarte-1426201'>He asistido a la apertura de la tienda de Apple en La Vaguada, la doceava en España: nervios, aplausos y 80 empleados dispuestos a ayudarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/he-asistido-apertura-tienda-apple-vaguada-doceava-espana-nervios-aplausos-80-empleados-dispuestos-ayudarte-1426201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inauguracion-tienda-apple-vaguada-4267226.jpg?tf=1200x' alt='He asistido a la apertura de la tienda de Apple en La Vaguada, la doceava en España: nervios, aplausos y 80 empleados dispuestos a ayudarte' />
     </a>
 </div>
 
