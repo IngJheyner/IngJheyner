@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/llevas-toda-vida-enganandote-cohetes-como-spacex-no-despegan-arriba-1425963'>"Llevas toda la vida engañándote": Los cohetes (como los de SpaceX) no despegan hacia arriba </a></h4>
-    <a href='https://computerhoy.20minutos.es/life/llevas-toda-vida-enganandote-cohetes-como-spacex-no-despegan-arriba-1425963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-space-x-4266626.jpg?tf=1200x' alt='"Llevas toda la vida engañándote": Los cohetes (como los de SpaceX) no despegan hacia arriba ' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164'>Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-4266890.jpg?tf=1200x' alt='Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/recruiter-critica-jovenes-no-contestar-telefono-responden-muchos-piensan-me-he-cansado-salte-contestador-1425993'>Un recruiter critica a los jóvenes por no contestar al teléfono y le responden lo que muchos piensan: "Me he cansado de que salte un contestador"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/recruiter-critica-jovenes-no-contestar-telefono-responden-muchos-piensan-me-he-cansado-salte-contestador-1425993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-4192569.jpg?tf=1200x' alt='Un recruiter critica a los jóvenes por no contestar al teléfono y le responden lo que muchos piensan: "Me he cansado de que salte un contestador"' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/espana-planea-invertir-apps-inteligencia-artifical-mejorar-salud-mental-1426046'>España planea invertir en apps de inteligencia artificial para mejorar la salud mental de la población</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/espana-planea-invertir-apps-inteligencia-artifical-mejorar-salud-mental-1426046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='España planea invertir en apps de inteligencia artificial para mejorar la salud mental de la población' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-1426159'>"Las novias creadas con IA llevan a la obsesión y la soledad", asegura el ex-CEO de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-1426159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-4266876.jpg?tf=1200x' alt='"Las novias creadas con IA llevan a la obsesión y la soledad", asegura el ex-CEO de Google' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-tienes-estos-iphone-te-quedaras-acceso-solo-dias-1426031'>WhatsApp: si tienes uno de estos iPhone te quedarás sin acceso en solo unos días</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-tienes-estos-iphone-te-quedaras-acceso-solo-dias-1426031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estos-son-iphone-quedaran-acceso-solo-dias-4266692.jpg?tf=1200x' alt='WhatsApp: si tienes uno de estos iPhone te quedarás sin acceso en solo unos días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-confiesa-error-fire-tv-arruina-calidad-imagen-pero-tiene-facil-solucion-1426157'>Amazon confiesa un error en los Fire TV que arruina la calidad de la imagen, pero tiene fácil solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-confiesa-error-fire-tv-arruina-calidad-imagen-pero-tiene-facil-solucion-1426157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-confiesa-error-fire-tv-arruina-calidad-imagen-pero-tiene-facil-solucion-4266887.jpg?tf=1200x' alt='Amazon confiesa un error en los Fire TV que arruina la calidad de la imagen, pero tiene fácil solución' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-arrebata-waze-funciones-clave-android-auto-1426005'>Google Maps arrebata a Waze una de sus funciones clave en Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-arrebata-waze-funciones-clave-android-auto-1426005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-waze-4266768.jpg?tf=1200x' alt='Google Maps arrebata a Waze una de sus funciones clave en Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148'>Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-4266881.jpg?tf=1200x' alt='Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-revoluciona-aviones-combate-manda-serio-aviso-posible-tercera-guerra-mundial-1425974'>China revoluciona los aviones de combate y manda un serio aviso ante una posible Tercera Guerra Mundial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-revoluciona-aviones-combate-manda-serio-aviso-posible-tercera-guerra-mundial-1425974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/caza-4266649.jpg?tf=1200x' alt='China revoluciona los aviones de combate y manda un serio aviso ante una posible Tercera Guerra Mundial' />
     </a>
 </div>
 
