@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-1426134'>Ni OLED ni QLED, esta es la mejor opción para ver el cine en casa: más barato y en pantalla gigante </a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-1426134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-4266877.jpg?tf=1200x' alt='Ni OLED ni QLED, esta es la mejor opción para ver el cine en casa: más barato y en pantalla gigante ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146'>Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-lanza-app-ajedrez-donde-generas-piezas-ia-4266864.jpg?tf=1200x' alt='Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/potente-compacto-accesible-raspberry-pi-compute-module-5-ya-aqui-1426135'>Potente, compacto y accesible: Raspberry Pi Compute Module 5 ya está aquí</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/potente-compacto-accesible-raspberry-pi-compute-module-5-ya-aqui-1426135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-compute-module-5-4266859.jpg?tf=1200x' alt='Potente, compacto y accesible: Raspberry Pi Compute Module 5 ya está aquí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/chrome-te-pide-contrasena-no-escribas-tienes-hacer-1426104'>Si Chrome te pide tu contraseña, no la escribas: esto es lo que tienes que hacer</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/chrome-te-pide-contrasena-no-escribas-tienes-hacer-1426104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chrome-te-pide-contrasena-no-escribas-tienes-hacer-4266853.jpg?tf=1200x' alt='Si Chrome te pide tu contraseña, no la escribas: esto es lo que tienes que hacer' />
     </a>
 </div>
 
