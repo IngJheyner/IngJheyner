@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/whatsapp-android-auto-te-habla-raro-no-culpa-bug-solucion-1426257'>Si WhatsApp en Android Auto te habla raro, no es tu culpa, es un bug sin solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/whatsapp-android-auto-te-habla-raro-no-culpa-bug-solucion-1426257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-te-habla-raro-no-culpa-bug-4266961.jpg?tf=1200x' alt='Si WhatsApp en Android Auto te habla raro, no es tu culpa, es un bug sin solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-monje-whatsapp-1426239'>Cómo activar el modo monje de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-monje-whatsapp-1426239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/modo-monje-whatsapp-4267010.jpg?tf=1200x' alt='Cómo activar el modo monje de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-tiene-tienda-secreta-juegos-xbox-android-pero-no-puede-lanzarla-razon-1426213'>Microsoft tiene una tienda secreta de juegos Xbox en Android, pero no puede lanzarla por esta razón</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-tiene-tienda-secreta-juegos-xbox-android-pero-no-puede-lanzarla-razon-1426213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-tiene-tienda-secreta-juegos-xbox-android-pero-no-puede-lanzarla-razon-4266953.jpg?tf=1200x' alt='Microsoft tiene una tienda secreta de juegos Xbox en Android, pero no puede lanzarla por esta razón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/acabo-blanqueo-dinero-espana-funciona-ia-google-ya-prueba-bancos-1426197'>Se acabó el blanqueo de dinero en España: así funciona la IA que Google ya prueba en los bancos</a></h4>
     <a href='https://computerhoy.20minutos.es/google/acabo-blanqueo-dinero-espana-funciona-ia-google-ya-prueba-bancos-1426197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-ia-bancos-4266970.jpg?tf=1200x' alt='Se acabó el blanqueo de dinero en España: así funciona la IA que Google ya prueba en los bancos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/futbol-gratis-adios-iptv-cuadernos-jupyter-1425548'>Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/futbol-gratis-adios-iptv-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/spacex-ya-listo-ofrecer-internet-traves-satelites-moviles-conexion-areas-remotas-1426211'>SpaceX ya está listo para ofrecer Internet a través de sus satélites a los móviles sin conexión en áreas remotas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/spacex-ya-listo-ofrecer-internet-traves-satelites-moviles-conexion-areas-remotas-1426211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spacex-4266958.jpg?tf=1200x' alt='SpaceX ya está listo para ofrecer Internet a través de sus satélites a los móviles sin conexión en áreas remotas' />
     </a>
 </div>
 
