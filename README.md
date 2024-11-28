@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-ha-abandonado-x-pero-ha-encontrado-como-recomendar-nuevo-thriller-terror-como-exorcista-1426304'>Stephen King ha abandonado X, pero ha encontrado cómo recomendar un nuevo thriller de terror: "Es como El exorcista"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-ha-abandonado-x-pero-ha-encontrado-como-recomendar-nuevo-thriller-terror-como-exorcista-1426304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/stephen-king-ha-abandonado-x-pero-aun-ha-encontrado-como-recomendar-nuevo-thriller-terror-como-exorcista-4267053.jpg?tf=1200x' alt='Stephen King ha abandonado X, pero ha encontrado cómo recomendar un nuevo thriller de terror: "Es como El exorcista"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-convierte-empresa-grande-mundo-pero-no-puede-ganar-nvidia-aspecto-1426339'>Apple se convierte en la empresa más grande del mundo, pero no puede ganar a Nvidia en un aspecto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-convierte-empresa-grande-mundo-pero-no-puede-ganar-nvidia-aspecto-1426339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Apple se convierte en la empresa más grande del mundo, pero no puede ganar a Nvidia en un aspecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-pepephone-operadora-cuida-clientes-aunque-no-barata-1426370'>Ni DIGI ni Pepephone, esta es la operadora que más cuida a sus clientes (aunque no es la más barata)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-pepephone-operadora-cuida-clientes-aunque-no-barata-1426370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-digi-ni-pepephone-operadora-cuida-clientes-aunque-no-barata-4267223.jpg?tf=1200x' alt='Ni DIGI ni Pepephone, esta es la operadora que más cuida a sus clientes (aunque no es la más barata)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-windows-10-tan-fuera-comun-tendras-instalar-3-veces-programa-arreglarlo-1426325'>Este error de Windows 10 es tan fuera de lo común que tendrás que instalar 3 veces un programa para arreglarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/error-windows-10-tan-fuera-comun-tendras-instalar-3-veces-programa-arreglarlo-1426325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-4252747.jpg?tf=1200x' alt='Este error de Windows 10 es tan fuera de lo común que tendrás que instalar 3 veces un programa para arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-no-solo-mejor-jugador-mundo-ahora-quiere-crear-propios-videojuegos-1426348'>Elon Musk no solo es el mejor jugador del mundo, ahora quiere crear sus propios videojuegos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/elon-musk-no-solo-mejor-jugador-mundo-ahora-quiere-crear-propios-videojuegos-1426348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-4249454.jpg?tf=1200x' alt='Elon Musk no solo es el mejor jugador del mundo, ahora quiere crear sus propios videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-comprar-zapatillas-emoji-apple-cuanto-cuestan-donde-venden-1426323'>Ya puedes comprar las zapatillas emoji de Apple: cuánto cuestan y dónde se venden</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ya-puedes-comprar-zapatillas-emoji-apple-cuanto-cuestan-donde-venden-1426323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-comprar-zapatillas-emoji-apple-cuanto-cuestan-donde-venden-4267075.jpg?tf=1200x' alt='Ya puedes comprar las zapatillas emoji de Apple: cuánto cuestan y dónde se venden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-eliminado-estas-apps-mi-movil-android-vuelve-funcionar-como-primer-dia-1425425'>He eliminado estas apps de mi móvil Android y vuelve a funcionar como el primer día</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-eliminado-estas-apps-mi-movil-android-vuelve-funcionar-como-primer-dia-1425425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-apps-4265852.jpg?tf=1200x' alt='He eliminado estas apps de mi móvil Android y vuelve a funcionar como el primer día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-todos-tendremos-robot-inteligente-casa-proxima-decada-1426299'>Bill Gates lo tiene claro: "Todos tendremos un robot inteligente en casa en la próxima década" </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-todos-tendremos-robot-inteligente-casa-proxima-decada-1426299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bill-gates-robots-4267057.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Todos tendremos un robot inteligente en casa en la próxima década" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/22-millones-usuarios-espana-europa-quedan-iptv-ver-futbol-gratis-fin-semana-1426301'>22 millones de usuarios en España y Europa se quedan sin IPTV para ver el fútbol gratis este fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/22-millones-usuarios-espana-europa-quedan-iptv-ver-futbol-gratis-fin-semana-1426301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-ver-partido-iptv-4267068.jpg?tf=1200x' alt='22 millones de usuarios en España y Europa se quedan sin IPTV para ver el fútbol gratis este fin de semana' />
     </a>
 </div>
 
