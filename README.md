@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/anuncio-navideno-apple-airpods-pro-2-1426453'>Apple estrena su anuncio navideño, pensado para que se te caigan las lágrimas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/anuncio-navideno-apple-airpods-pro-2-1426453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732824751664-4267305.jpg?tf=1200x' alt='Apple estrena su anuncio navideño, pensado para que se te caigan las lágrimas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-1426435'>Huawei busca venganza con Android: quiere superar las 100.000 apps en HarmonyOS Next</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-1426435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-4267316.jpg?tf=1200x' alt='Huawei busca venganza con Android: quiere superar las 100.000 apps en HarmonyOS Next' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatarra-joya-gamer-youtuber-crea-pc-portatil-1426438'>De chatarra a joya gamer: Youtuber crea un PC portátil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatarra-joya-gamer-youtuber-crea-pc-portatil-1426438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatarra-joya-gamer-youtuber-crea-pc-portatil-4267301.jpg?tf=1200x' alt='De chatarra a joya gamer: Youtuber crea un PC portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/wear-os-5-finalmente-llega-relojes-inteligentes-antiguos-samsung-1426412'>Wear OS 5 finalmente llega a los relojes inteligentes más antiguos de Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/wear-os-5-finalmente-llega-relojes-inteligentes-antiguos-samsung-1426412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/wear-os-5-finalmente-llega-relojes-inteligentes-antiguos-samsung-4267289.jpg?tf=1200x' alt='Wear OS 5 finalmente llega a los relojes inteligentes más antiguos de Samsung' />
     </a>
 </div>
 
