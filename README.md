@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-no-solo-mejor-jugador-mundo-ahora-quiere-crear-propios-videojuegos-1426348'>Elon Musk no solo es el mejor jugador del mundo, ahora quiere crear sus propios videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-no-solo-mejor-jugador-mundo-ahora-quiere-crear-propios-videojuegos-1426348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-4249454.jpg?tf=1200x' alt='Elon Musk no solo es el mejor jugador del mundo, ahora quiere crear sus propios videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ya-puedes-comprar-zapatillas-emoji-apple-cuanto-cuestan-donde-venden-1426323'>Ya puedes comprar las zapatillas emoji de Apple: cuánto cuestan y dónde se venden</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ya-puedes-comprar-zapatillas-emoji-apple-cuanto-cuestan-donde-venden-1426323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ya-puedes-comprar-zapatillas-emoji-apple-cuanto-cuestan-donde-venden-4267075.jpg?tf=1200x' alt='Ya puedes comprar las zapatillas emoji de Apple: cuánto cuestan y dónde se venden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-eliminado-estas-apps-mi-movil-android-vuelve-funcionar-como-primer-dia-1425425'>He eliminado estas apps de mi móvil Android y vuelve a funcionar como el primer día</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-eliminado-estas-apps-mi-movil-android-vuelve-funcionar-como-primer-dia-1425425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-apps-4265852.jpg?tf=1200x' alt='He eliminado estas apps de mi móvil Android y vuelve a funcionar como el primer día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/22-millones-usuarios-espana-europa-quedan-iptv-ver-futbol-gratis-fin-semana-1426301'>22 millones de usuarios en España y Europa se quedan sin IPTV para ver el fútbol gratis este fin de semana</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/22-millones-usuarios-espana-europa-quedan-iptv-ver-futbol-gratis-fin-semana-1426301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-ver-partido-iptv-4267068.jpg?tf=1200x' alt='22 millones de usuarios en España y Europa se quedan sin IPTV para ver el fútbol gratis este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/televisiones-xiaomi-quedan-hdmi-ha-arreglado-usuario-1426315'>Las televisiones de Xiaomi se quedan sin HDMI: así lo ha arreglado este usuario</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/televisiones-xiaomi-quedan-hdmi-ha-arreglado-usuario-1426315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-tv-2024-43-4244897.jpg?tf=1200x' alt='Las televisiones de Xiaomi se quedan sin HDMI: así lo ha arreglado este usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ibm-rompe-barreras-hace-historia-avance-informatica-cuantica-1426240'>IBM rompe barreras y hace historia con este avance en informática cuántica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ibm-rompe-barreras-hace-historia-avance-informatica-cuantica-1426240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibm-computacion-cuantica-4267047.jpg?tf=1200x' alt='IBM rompe barreras y hace historia con este avance en informática cuántica' />
     </a>
 </div>
 
