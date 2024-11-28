@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-tiene-desconocida-pagina-cupones-black-friday-fundamental-encontrar-gangas-1418951'>Amazon tiene una desconocida página de cupones, y en el Black Friday es fundamental para encontrar gangas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-tiene-desconocida-pagina-cupones-black-friday-fundamental-encontrar-gangas-1418951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Amazon tiene una desconocida página de cupones, y en el Black Friday es fundamental para encontrar gangas' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-tiene-tienda-secreta-juegos-xbox-android-pero-no-puede-lanzarla-razon-1426213'>Microsoft tiene una tienda secreta de juegos Xbox en Android, pero no puede lanzarla por esta razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-tiene-tienda-secreta-juegos-xbox-android-pero-no-puede-lanzarla-razon-1426213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/microsoft-tiene-tienda-secreta-juegos-xbox-android-pero-no-puede-lanzarla-razon-4266953.jpg?tf=1200x' alt='Microsoft tiene una tienda secreta de juegos Xbox en Android, pero no puede lanzarla por esta razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tiktok-x-instagram-menores-16-anos-pais-listo-prohibir-uso-multas-millonarias-1426218'>Adiós a TikTok, X e Instagram para los menores de 16 años: este país, listo para prohibir su uso con multas millonarias</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-tiktok-x-instagram-menores-16-anos-pais-listo-prohibir-uso-multas-millonarias-1426218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/prohibicion-redes-sociales-4266944.jpg?tf=1200x' alt='Adiós a TikTok, X e Instagram para los menores de 16 años: este país, listo para prohibir su uso con multas millonarias' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/app-gratis-sygic-alternativa-waze-google-maps-nueva-funcion-1425464'>Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/app-gratis-sygic-alternativa-waze-google-maps-nueva-funcion-1425464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-sygic-4266553.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-apple-intel-amd-disputan-nodo-2-nm-pero-qualcomm-queda-fuera-carrera-1426196'>Nvidia, Apple, Intel, y AMD se disputan el nodo de 2 nm, pero ¿por qué Qualcomm se queda fuera de la carrera?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-apple-intel-amd-disputan-nodo-2-nm-pero-qualcomm-queda-fuera-carrera-1426196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/qualcomm-chips-4266927.jpg?tf=1200x' alt='Nvidia, Apple, Intel, y AMD se disputan el nodo de 2 nm, pero ¿por qué Qualcomm se queda fuera de la carrera?' />
+    <h4><a href='https://computerhoy.20minutos.es/google/acabo-blanqueo-dinero-espana-funciona-ia-google-ya-prueba-bancos-1426197'>Se acabó el blanqueo de dinero en España: así funciona la IA que Google ya prueba en los bancos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/acabo-blanqueo-dinero-espana-funciona-ia-google-ya-prueba-bancos-1426197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-ia-bancos-4266970.jpg?tf=1200x' alt='Se acabó el blanqueo de dinero en España: así funciona la IA que Google ya prueba en los bancos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-organiza-agenda-sincroniza-calendario-whatsapp-1426191'>Ni ChatGPT ni Gemini, esta IA organiza tu agenda y sincroniza tu calendario desde WhatsApp </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-organiza-agenda-sincroniza-calendario-whatsapp-1426191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-organiza-agenda-4266917.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini, esta IA organiza tu agenda y sincroniza tu calendario desde WhatsApp ' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/futbol-gratis-adios-iptv-cuadernos-jupyter-1425548'>Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/futbol-gratis-adios-iptv-cuadernos-jupyter-1425548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moto-ai-inteligencia-artificial-moviles-motorola-1426178'>Moto AI ya está aquí, la inteligencia artificial llega a los móviles Motorola</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/moto-ai-inteligencia-artificial-moviles-motorola-1426178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/moto-ai-ya-aqui-inteligencia-artificial-llega-moviles-motorola-4266895.jpg?tf=1200x' alt='Moto AI ya está aquí, la inteligencia artificial llega a los móviles Motorola' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/spacex-ya-listo-ofrecer-internet-traves-satelites-moviles-conexion-areas-remotas-1426211'>SpaceX ya está listo para ofrecer Internet a través de sus satélites a los móviles sin conexión en áreas remotas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/spacex-ya-listo-ofrecer-internet-traves-satelites-moviles-conexion-areas-remotas-1426211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/spacex-4266958.jpg?tf=1200x' alt='SpaceX ya está listo para ofrecer Internet a través de sus satélites a los móviles sin conexión en áreas remotas' />
     </a>
 </div>
 
