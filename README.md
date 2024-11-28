@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problema-masivo-televisores-xiaomi-pierden-hdmi-debido-fallo-app-atresplayer-1426442'>Problema masivo: los televisores Xiaomi pierden HDMI debido a un fallo con la app Atresplayer</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/problema-masivo-televisores-xiaomi-pierden-hdmi-debido-fallo-app-atresplayer-1426442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/tvs-xiaomi.jpeg?tf=1200x' alt='Problema masivo: los televisores Xiaomi pierden HDMI debido a un fallo con la app Atresplayer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/freidoras-aire-no-solo-cocinan-mejor-tambien-mejoran-calidad-aire-hogar-1426440'>Las freidoras de aire no solo cocinan mejor, ¡también mejoran la calidad del aire en tu hogar!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/freidoras-aire-no-solo-cocinan-mejor-tambien-mejoran-calidad-aire-hogar-1426440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-4015948.jpg?tf=1200x' alt='Las freidoras de aire no solo cocinan mejor, ¡también mejoran la calidad del aire en tu hogar!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/he-asistido-apertura-tienda-apple-vaguada-doceava-espana-nervios-aplausos-80-empleados-dispuestos-ayudarte-1426201'>He asistido a la apertura de la tienda de Apple en La Vaguada, la doceava en España: nervios, aplausos y 80 empleados dispuestos a ayudarte</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/he-asistido-apertura-tienda-apple-vaguada-doceava-espana-nervios-aplausos-80-empleados-dispuestos-ayudarte-1426201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inauguracion-tienda-apple-vaguada-4267226.jpg?tf=1200x' alt='He asistido a la apertura de la tienda de Apple en La Vaguada, la doceava en España: nervios, aplausos y 80 empleados dispuestos a ayudarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-elegido-construir-mastodontica-central-electrica-grande-europa-1426278'>Este es el lugar de España elegido para construir una mastodóntica central eléctrica, la más grande de Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-elegido-construir-mastodontica-central-electrica-grande-europa-1426278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/central-hidroelectrica-bombeo-4267070.jpg?tf=1200x' alt='Este es el lugar de España elegido para construir una mastodóntica central eléctrica, la más grande de Europa' />
     </a>
 </div>
 
