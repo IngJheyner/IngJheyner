@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/he-asistido-apertura-tienda-apple-vaguada-doceava-espana-nervios-aplausos-80-empleados-dispuestos-ayudarte-1426201'>He asistido a la apertura de la tienda de Apple en La Vaguada, la doceava en España: nervios, aplausos y 80 empleados dispuestos a ayudarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/he-asistido-apertura-tienda-apple-vaguada-doceava-espana-nervios-aplausos-80-empleados-dispuestos-ayudarte-1426201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inauguracion-tienda-apple-vaguada-4267226.jpg?tf=1200x' alt='He asistido a la apertura de la tienda de Apple en La Vaguada, la doceava en España: nervios, aplausos y 80 empleados dispuestos a ayudarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-elegido-construir-mastodontica-central-electrica-grande-europa-1426278'>Este es el lugar de España elegido para construir una mastodóntica central eléctrica, la más grande de Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-elegido-construir-mastodontica-central-electrica-grande-europa-1426278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/central-hidroelectrica-bombeo-4267070.jpg?tf=1200x' alt='Este es el lugar de España elegido para construir una mastodóntica central eléctrica, la más grande de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/rusia-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164'>Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/rusia-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-4266890.jpg?tf=1200x' alt='Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-ha-abandonado-x-pero-ha-encontrado-como-recomendar-nuevo-thriller-terror-como-exorcista-1426304'>Stephen King ha abandonado X, pero ha encontrado cómo recomendar un nuevo thriller de terror: "Es como El exorcista"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-ha-abandonado-x-pero-ha-encontrado-como-recomendar-nuevo-thriller-terror-como-exorcista-1426304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/stephen-king-ha-abandonado-x-pero-aun-ha-encontrado-como-recomendar-nuevo-thriller-terror-como-exorcista-4267053.jpg?tf=1200x' alt='Stephen King ha abandonado X, pero ha encontrado cómo recomendar un nuevo thriller de terror: "Es como El exorcista"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-convierte-empresa-grande-mundo-pero-no-puede-ganar-nvidia-aspecto-1426339'>Apple se convierte en la empresa más grande del mundo, pero no puede ganar a Nvidia en un aspecto</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-convierte-empresa-grande-mundo-pero-no-puede-ganar-nvidia-aspecto-1426339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/jensen-huang-ceo-nvidia-inteligencia-artificial-dominara-todas-industrias-3045852.jpg?tf=1200x' alt='Apple se convierte en la empresa más grande del mundo, pero no puede ganar a Nvidia en un aspecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-pepephone-operadora-cuida-clientes-aunque-no-barata-1426370'>Ni DIGI ni Pepephone, esta es la operadora que más cuida a sus clientes (aunque no es la más barata)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-pepephone-operadora-cuida-clientes-aunque-no-barata-1426370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-digi-ni-pepephone-operadora-cuida-clientes-aunque-no-barata-4267223.jpg?tf=1200x' alt='Ni DIGI ni Pepephone, esta es la operadora que más cuida a sus clientes (aunque no es la más barata)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-windows-10-tan-fuera-comun-tendras-instalar-3-veces-programa-arreglarlo-1426325'>Este error de Windows 10 es tan fuera de lo común que tendrás que instalar 3 veces un programa para arreglarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/error-windows-10-tan-fuera-comun-tendras-instalar-3-veces-programa-arreglarlo-1426325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/ultimo-parche-windows-10-esconde-dos-funciones-ocultas-windows-11-activan-4252747.jpg?tf=1200x' alt='Este error de Windows 10 es tan fuera de lo común que tendrás que instalar 3 veces un programa para arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-no-solo-mejor-jugador-mundo-ahora-quiere-crear-propios-videojuegos-1426348'>Elon Musk no solo es el mejor jugador del mundo, ahora quiere crear sus propios videojuegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-no-solo-mejor-jugador-mundo-ahora-quiere-crear-propios-videojuegos-1426348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/elon-musk-4249454.jpg?tf=1200x' alt='Elon Musk no solo es el mejor jugador del mundo, ahora quiere crear sus propios videojuegos' />
     </a>
 </div>
 
