@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moto-ai-inteligencia-artificial-moviles-motorola-1426178'>Moto AI ya está aquí, la inteligencia artificial llega a los móviles Motorola</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/moto-ai-inteligencia-artificial-moviles-motorola-1426178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/moto-ai-ya-aqui-inteligencia-artificial-llega-moviles-motorola-4266895.jpg?tf=1200x' alt='Moto AI ya está aquí, la inteligencia artificial llega a los móviles Motorola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-quiere-romper-black-friday-band-9-baja-menos-40-euros-1419830'>Xiaomi quiere romper el Black Friday con su Band 9: baja a menos de 40 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-quiere-romper-black-friday-band-9-baja-menos-40-euros-1419830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-band-9-4247876.jpg?tf=1200x' alt='Xiaomi quiere romper el Black Friday con su Band 9: baja a menos de 40 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-realme-gt-7-pro-no-procesador-panel-autonomia-superan-esperado-alta-gama-1425503'>Lo que más me ha gustado del Realme GT 7 Pro no es su procesador: su panel y autonomía superan lo esperado en la alta gama</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-realme-gt-7-pro-no-procesador-panel-autonomia-superan-esperado-alta-gama-1425503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/realme-gt-7-pro-4265208.jpg?tf=1200x' alt='Lo que más me ha gustado del Realme GT 7 Pro no es su procesador: su panel y autonomía superan lo esperado en la alta gama' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164'>Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-4266890.jpg?tf=1200x' alt='Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/espana-planea-invertir-apps-inteligencia-artifical-mejorar-salud-mental-1426046'>España planea invertir en apps de inteligencia artificial para mejorar la salud mental de la población</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/espana-planea-invertir-apps-inteligencia-artifical-mejorar-salud-mental-1426046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='España planea invertir en apps de inteligencia artificial para mejorar la salud mental de la población' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-tienes-estos-iphone-te-quedaras-acceso-solo-dias-1426031'>WhatsApp: si tienes uno de estos iPhone te quedarás sin acceso en solo unos días</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-tienes-estos-iphone-te-quedaras-acceso-solo-dias-1426031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estos-son-iphone-quedaran-acceso-solo-dias-4266692.jpg?tf=1200x' alt='WhatsApp: si tienes uno de estos iPhone te quedarás sin acceso en solo unos días' />
     </a>
 </div>
 
