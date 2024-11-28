@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-tiene-desconocida-pagina-cupones-black-friday-fundamental-encontrar-gangas-1418951'>Amazon tiene una desconocida página de cupones, y en el Black Friday es fundamental para encontrar gangas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-tiene-desconocida-pagina-cupones-black-friday-fundamental-encontrar-gangas-1418951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/cupon-tarjeta-amazon-3073164.jpg?tf=1200x' alt='Amazon tiene una desconocida página de cupones, y en el Black Friday es fundamental para encontrar gangas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tiktok-x-instagram-menores-16-anos-pais-listo-prohibir-uso-multas-millonarias-1426218'>Adiós a TikTok, X e Instagram para los menores de 16 años: este país, listo para prohibir su uso con multas millonarias</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-tiktok-x-instagram-menores-16-anos-pais-listo-prohibir-uso-multas-millonarias-1426218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/prohibicion-redes-sociales-4266944.jpg?tf=1200x' alt='Adiós a TikTok, X e Instagram para los menores de 16 años: este país, listo para prohibir su uso con multas millonarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-apple-intel-amd-disputan-nodo-2-nm-pero-qualcomm-queda-fuera-carrera-1426196'>Nvidia, Apple, Intel, y AMD se disputan el nodo de 2 nm, pero ¿por qué Qualcomm se queda fuera de la carrera?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-apple-intel-amd-disputan-nodo-2-nm-pero-qualcomm-queda-fuera-carrera-1426196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/qualcomm-chips-4266927.jpg?tf=1200x' alt='Nvidia, Apple, Intel, y AMD se disputan el nodo de 2 nm, pero ¿por qué Qualcomm se queda fuera de la carrera?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/moto-ai-inteligencia-artificial-moviles-motorola-1426178'>Moto AI ya está aquí, la inteligencia artificial llega a los móviles Motorola</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/moto-ai-inteligencia-artificial-moviles-motorola-1426178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/moto-ai-ya-aqui-inteligencia-artificial-llega-moviles-motorola-4266895.jpg?tf=1200x' alt='Moto AI ya está aquí, la inteligencia artificial llega a los móviles Motorola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-quiere-romper-black-friday-band-9-baja-menos-40-euros-1419830'>Xiaomi quiere romper el Black Friday con su Band 9: baja a menos de 40 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-quiere-romper-black-friday-band-9-baja-menos-40-euros-1419830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/xiaomi-smart-band-9-4247876.jpg?tf=1200x' alt='Xiaomi quiere romper el Black Friday con su Band 9: baja a menos de 40 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-realme-gt-7-pro-no-procesador-panel-autonomia-superan-esperado-alta-gama-1425503'>Lo que más me ha gustado del Realme GT 7 Pro no es su procesador: su panel y autonomía superan lo esperado en la alta gama</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-realme-gt-7-pro-no-procesador-panel-autonomia-superan-esperado-alta-gama-1425503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/realme-gt-7-pro-4265208.jpg?tf=1200x' alt='Lo que más me ha gustado del Realme GT 7 Pro no es su procesador: su panel y autonomía superan lo esperado en la alta gama' />
     </a>
 </div>
 
