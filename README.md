@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-realme-gt-7-pro-no-procesador-panel-autonomia-superan-esperado-alta-gama-1425503'>Lo que más me ha gustado del Realme GT 7 Pro no es su procesador: su panel y autonomía superan lo esperado en la alta gama</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-realme-gt-7-pro-no-procesador-panel-autonomia-superan-esperado-alta-gama-1425503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/realme-gt-7-pro-4265208.jpg?tf=1200x' alt='Lo que más me ha gustado del Realme GT 7 Pro no es su procesador: su panel y autonomía superan lo esperado en la alta gama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-muchos-relojes-pero-ninguno-como-huawei-watch-d2-control-ambulatorio-presion-arterial-excepcional-1425748'>He probado muchos relojes, pero ninguno como el Huawei Watch D2: su control ambulatorio de la presión arterial es excepcional</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-muchos-relojes-pero-ninguno-como-huawei-watch-d2-control-ambulatorio-presion-arterial-excepcional-1425748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-d2-4266384.jpg?tf=1200x' alt='He probado muchos relojes, pero ninguno como el Huawei Watch D2: su control ambulatorio de la presión arterial es excepcional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164'>Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-1426164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-rusia-ni-corea-descubren-quien-saboteo-cables-submarinos-suecia-finlandia-4266890.jpg?tf=1200x' alt='Ni Rusia ni Corea: descubren quién saboteó los cables submarinos en Suecia y Finlandia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-tienes-estos-iphone-te-quedaras-acceso-solo-dias-1426031'>WhatsApp: si tienes uno de estos iPhone te quedarás sin acceso en solo unos días</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-tienes-estos-iphone-te-quedaras-acceso-solo-dias-1426031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estos-son-iphone-quedaran-acceso-solo-dias-4266692.jpg?tf=1200x' alt='WhatsApp: si tienes uno de estos iPhone te quedarás sin acceso en solo unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-arrebata-waze-funciones-clave-android-auto-1426005'>Google Maps arrebata a Waze una de sus funciones clave en Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-arrebata-waze-funciones-clave-android-auto-1426005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-maps-waze-4266768.jpg?tf=1200x' alt='Google Maps arrebata a Waze una de sus funciones clave en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-revoluciona-aviones-combate-manda-serio-aviso-posible-tercera-guerra-mundial-1425974'>China revoluciona los aviones de combate y manda un serio aviso ante una posible Tercera Guerra Mundial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-revoluciona-aviones-combate-manda-serio-aviso-posible-tercera-guerra-mundial-1425974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/caza-4266649.jpg?tf=1200x' alt='China revoluciona los aviones de combate y manda un serio aviso ante una posible Tercera Guerra Mundial' />
     </a>
 </div>
 
