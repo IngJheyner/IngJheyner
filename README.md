@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/llevas-toda-vida-enganandote-cohetes-como-spacex-no-despegan-arriba-1425963'>"Llevas toda la vida engañándote": Los cohetes (como los de SpaceX) no despegan hacia arriba </a></h4>
+    <a href='https://computerhoy.20minutos.es/life/llevas-toda-vida-enganandote-cohetes-como-spacex-no-despegan-arriba-1425963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-space-x-4266626.jpg?tf=1200x' alt='"Llevas toda la vida engañándote": Los cohetes (como los de SpaceX) no despegan hacia arriba ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/recruiter-critica-jovenes-no-contestar-telefono-responden-muchos-piensan-me-he-cansado-salte-contestador-1425993'>Un recruiter critica a los jóvenes por no contestar al teléfono y le responden lo que muchos piensan: "Me he cansado de que salte un contestador"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/recruiter-critica-jovenes-no-contestar-telefono-responden-muchos-piensan-me-he-cansado-salte-contestador-1425993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/adios-llamadas-telefono-autentica-razon-jovenes-nunca-responden-4192569.jpg?tf=1200x' alt='Un recruiter critica a los jóvenes por no contestar al teléfono y le responden lo que muchos piensan: "Me he cansado de que salte un contestador"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-1426159'>"Las novias creadas con IA llevan a la obsesión y la soledad", asegura el ex-CEO de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-1426159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-4266876.jpg?tf=1200x' alt='"Las novias creadas con IA llevan a la obsesión y la soledad", asegura el ex-CEO de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148'>Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-4266881.jpg?tf=1200x' alt='Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-1426134'>Ni OLED ni QLED, esta es la mejor opción para ver el cine en casa: más barato y en pantalla gigante </a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-1426134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-4266877.jpg?tf=1200x' alt='Ni OLED ni QLED, esta es la mejor opción para ver el cine en casa: más barato y en pantalla gigante ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146'>Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-lanza-app-ajedrez-donde-generas-piezas-ia-4266864.jpg?tf=1200x' alt='Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA' />
     </a>
 </div>
 
