@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148'>Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-4266881.jpg?tf=1200x' alt='Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-1426134'>Ni OLED ni QLED, esta es la mejor opción para ver el cine en casa: más barato y en pantalla gigante </a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-1426134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-oled-ni-qled-mejor-opcion-ver-cine-casa-barato-pantalla-gigante-4266877.jpg?tf=1200x' alt='Ni OLED ni QLED, esta es la mejor opción para ver el cine en casa: más barato y en pantalla gigante ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/filtra-windows-cpc-alternativa-web-microsoft-windows-11-1426137'>Se filtra Windows CPC: la alternativa web de Microsoft a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/filtra-windows-cpc-alternativa-web-microsoft-windows-11-1426137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/filtra-windows-cpc-alternativa-web-microsoft-windows-11-4266862.jpg?tf=1200x' alt='Se filtra Windows CPC: la alternativa web de Microsoft a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/potente-compacto-accesible-raspberry-pi-compute-module-5-ya-aqui-1426135'>Potente, compacto y accesible: Raspberry Pi Compute Module 5 ya está aquí</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/potente-compacto-accesible-raspberry-pi-compute-module-5-ya-aqui-1426135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/raspberry-pi-compute-module-5-4266859.jpg?tf=1200x' alt='Potente, compacto y accesible: Raspberry Pi Compute Module 5 ya está aquí' />
     </a>
 </div>
 
