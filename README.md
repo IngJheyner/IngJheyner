@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-eliminado-estas-apps-mi-movil-android-vuelve-funcionar-como-primer-dia-1425425'>He eliminado estas apps de mi móvil Android y vuelve a funcionar como el primer día</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-eliminado-estas-apps-mi-movil-android-vuelve-funcionar-como-primer-dia-1425425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-apps-4265852.jpg?tf=1200x' alt='He eliminado estas apps de mi móvil Android y vuelve a funcionar como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-todos-tendremos-robot-inteligente-casa-proxima-decada-1426299'>Bill Gates lo tiene claro: "Todos tendremos un robot inteligente en casa en la próxima década" </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-todos-tendremos-robot-inteligente-casa-proxima-decada-1426299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bill-gates-robots-4267057.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Todos tendremos un robot inteligente en casa en la próxima década" ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ibm-rompe-barreras-hace-historia-avance-informatica-cuantica-1426240'>IBM rompe barreras y hace historia con este avance en informática cuántica</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ibm-rompe-barreras-hace-historia-avance-informatica-cuantica-1426240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ibm-computacion-cuantica-4267047.jpg?tf=1200x' alt='IBM rompe barreras y hace historia con este avance en informática cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/segundo-apagon-tdt-peligro-llegada-nuevo-canal-1426244'>El segundo apagón de la TDT en peligro por la llegada de un nuevo canal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/segundo-apagon-tdt-peligro-llegada-nuevo-canal-1426244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apagon-tdt-4267059.jpg?tf=1200x' alt='El segundo apagón de la TDT en peligro por la llegada de un nuevo canal' />
     </a>
 </div>
 
