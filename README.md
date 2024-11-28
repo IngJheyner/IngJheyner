@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-1426159'>"Las novias creadas con IA llevan a la obsesión y la soledad", asegura el ex-CEO de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-1426159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novias-creadas-ia-llevan-obsesion-soledad-asegura-ex-ceo-google-4266876.jpg?tf=1200x' alt='"Las novias creadas con IA llevan a la obsesión y la soledad", asegura el ex-CEO de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-confiesa-error-fire-tv-arruina-calidad-imagen-pero-tiene-facil-solucion-1426157'>Amazon confiesa un error en los Fire TV que arruina la calidad de la imagen, pero tiene fácil solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-confiesa-error-fire-tv-arruina-calidad-imagen-pero-tiene-facil-solucion-1426157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-confiesa-error-fire-tv-arruina-calidad-imagen-pero-tiene-facil-solucion-4266887.jpg?tf=1200x' alt='Amazon confiesa un error en los Fire TV que arruina la calidad de la imagen, pero tiene fácil solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148'>Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-1426148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-4266881.jpg?tf=1200x' alt='Gmail: así funciona la aterradora y peligrosa estafa de los 10 segundos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146'>Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-genchess-app-ajedrez-generas-piezas-ia-1426146' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-lanza-app-ajedrez-donde-generas-piezas-ia-4266864.jpg?tf=1200x' alt='Google GenChess, una app de ajedrez gratuita en donde generas las piezas con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/policia-advierte-estafas-black-friday-desconfia-ofertas-parezcan-demasiado-buenas-ser-ciertas-1426030'>La Policía advierte sobre las estafas en Black Friday: "Desconfía de ofertas que parezcan demasiado buenas para ser ciertas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/policia-advierte-estafas-black-friday-desconfia-ofertas-parezcan-demasiado-buenas-ser-ciertas-1426030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-policia-4266709.jpg?tf=1200x' alt='La Policía advierte sobre las estafas en Black Friday: "Desconfía de ofertas que parezcan demasiado buenas para ser ciertas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/filtra-windows-cpc-alternativa-web-microsoft-windows-11-1426137'>Se filtra Windows CPC: la alternativa web de Microsoft a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/filtra-windows-cpc-alternativa-web-microsoft-windows-11-1426137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/filtra-windows-cpc-alternativa-web-microsoft-windows-11-4266862.jpg?tf=1200x' alt='Se filtra Windows CPC: la alternativa web de Microsoft a Windows 11' />
     </a>
 </div>
 
