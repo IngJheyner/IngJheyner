@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/portatiles-snapdragon-x-son-gran-fracaso-ventas-1426492'>Intel tenía razón: los portátiles con Snapdragon X son un gran fracaso en ventas</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/portatiles-snapdragon-x-son-gran-fracaso-ventas-1426492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832328.jpg?tf=1200x' alt='Intel tenía razón: los portátiles con Snapdragon X son un gran fracaso en ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-pega-bombazo-rebaja-casi-todas-aspiradoras-black-friday-modelos-299-euros-1426061'>Dyson pega el bombazo: rebaja casi todas sus aspiradoras en el Black Friday, con modelos por 299 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-pega-bombazo-rebaja-casi-todas-aspiradoras-black-friday-modelos-299-euros-1426061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dyson-gen5detect-4205134.jpg?tf=1200x' alt='Dyson pega el bombazo: rebaja casi todas sus aspiradoras en el Black Friday, con modelos por 299 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-pasado-24-horas-analizando-mi-tension-arterial-gracias-huawei-watch-d2-merece-pena-reloj-1426103'>He pasado 24 horas analizando mi tensión arterial gracias al Huawei Watch D2: ¿merece la pena este reloj?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-pasado-24-horas-analizando-mi-tension-arterial-gracias-huawei-watch-d2-merece-pena-reloj-1426103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-d2-4266390.jpg?tf=1200x' alt='He pasado 24 horas analizando mi tensión arterial gracias al Huawei Watch D2: ¿merece la pena este reloj?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/create-tv-art-matte-smart-tv-antirrflejos-arte-google-tv-1425469'>Tras probar Create TV Art Matte no tengo duda, necesitas una TV con panel antirreflejos a este precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/create-tv-art-matte-smart-tv-antirrflejos-arte-google-tv-1425469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/create-tv-art-matte-4266315.jpg?tf=1200x' alt='Tras probar Create TV Art Matte no tengo duda, necesitas una TV con panel antirreflejos a este precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-une-black-friday-rebajas-iphone-16-nuevos-apple-watch-airpods-pro-2-1425911'>Apple se une al Black Friday: rebajas en el iPhone 16, los nuevos Apple Watch, AirPods Pro 2 y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-une-black-friday-rebajas-iphone-16-nuevos-apple-watch-airpods-pro-2-1425911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-store-3286773.jpg?tf=1200x' alt='Apple se une al Black Friday: rebajas en el iPhone 16, los nuevos Apple Watch, AirPods Pro 2 y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/mapa-muestra-paises-sobrevivirian-guerra-nuclear-seria-situacion-espana-1426379'>Un mapa muestra qué países sobrevivirían a una guerra nuclear (y esta sería la situación de España)</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/mapa-muestra-paises-sobrevivirian-guerra-nuclear-seria-situacion-espana-1426379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mapa-muestra-paises-sobrevivirian-guerra-nuclear-seria-situacion-espana-4267176.jpg?tf=1200x' alt='Un mapa muestra qué países sobrevivirían a una guerra nuclear (y esta sería la situación de España)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/estudio-mit-afirma-ia-riesgo-humanidad-1426360'>Un estudio del MIT afirma que la IA sí es un riesgo para la humanidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/estudio-mit-afirma-ia-riesgo-humanidad-1426360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-inteligencia-artificial-4267136.jpg?tf=1200x' alt='Un estudio del MIT afirma que la IA sí es un riesgo para la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/agregar-mensaje-como-funciona-sirve-ultima-funcion-whatsapp-1426340'>“Agregar un mensaje”: Cómo funciona y para qué sirve la última función de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/agregar-mensaje-como-funciona-sirve-ultima-funcion-whatsapp-1426340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/agregar-mensaje-reenviado-whatsapp-4267125.jpg?tf=1200x' alt='“Agregar un mensaje”: Cómo funciona y para qué sirve la última función de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-no-te-timen-bizum-te-piden-aceptes-sospecha-1426336'>El consejo de la Policía Nacional para que no te timen por Bizum: “Si te piden que aceptes esto, sospecha”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-no-te-timen-bizum-te-piden-aceptes-sospecha-1426336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-representa-20-aquellos-comercios-ofrecen-servicio-3607640.jpg?tf=1200x' alt='El consejo de la Policía Nacional para que no te timen por Bizum: “Si te piden que aceptes esto, sospecha”' />
     </a>
 </div>
 
