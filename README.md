@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-1426459'>iPhone 17 Air: todo lo que ya sabemos del móvil más delgado de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-1426459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-4267353.jpg?tf=1200x' alt='iPhone 17 Air: todo lo que ya sabemos del móvil más delgado de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-estafas-black-friday-estos-son-enganos-comunes-tiendas-no-oficiales-1425037'>¡Cuidado con las estafas en Black Friday! Estos son los engaños más comunes de las tiendas no oficiales</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-estafas-black-friday-estos-son-enganos-comunes-tiendas-no-oficiales-1425037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafas-black-friday-4265281.jpg?tf=1200x' alt='¡Cuidado con las estafas en Black Friday! Estos son los engaños más comunes de las tiendas no oficiales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-reloj-garmin-gps-pantalla-amoled-barato-muy-completo-1426172'>Olvida el Fenix 8: este reloj Garmin con GPS y pantalla AMOLED es más barato y muy completo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-reloj-garmin-gps-pantalla-amoled-barato-muy-completo-1426172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/garmin-epix-gen-2-pro-4266758.jpg?tf=1200x' alt='Olvida el Fenix 8: este reloj Garmin con GPS y pantalla AMOLED es más barato y muy completo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/elon-musk-movil-tesla-phone-advierte-apple-google-1426460'>Elon Musk advierte: "Si Apple y Google se portan mal, Tesla fabricará un móvil"</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/elon-musk-movil-tesla-phone-advierte-apple-google-1426460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-iphone-3129350.jpg?tf=1200x' alt='Elon Musk advierte: "Si Apple y Google se portan mal, Tesla fabricará un móvil"' />
     </a>
 </div>
 
