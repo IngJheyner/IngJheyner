@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/phil-spencer-jefe-xbox-homenajea-mitico-ejecutivo-playstation-retira-1426473'>Phil Spencer, jefe de Xbox, homenajea a un mítico ejecutivo de PlayStation que se retira</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/phil-spencer-jefe-xbox-homenajea-mitico-ejecutivo-playstation-retira-1426473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/phil-spencer-jefe-xbox-homenajea-mitico-ejecutivo-playstation-retira-4267337.jpg?tf=1200x' alt='Phil Spencer, jefe de Xbox, homenajea a un mítico ejecutivo de PlayStation que se retira' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-une-black-friday-rebajas-iphone-16-nuevos-apple-watch-airpods-pro-2-1425911'>Apple se une al Black Friday: rebajas en el iPhone 16, los nuevos Apple Watch, AirPods Pro 2 y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-une-black-friday-rebajas-iphone-16-nuevos-apple-watch-airpods-pro-2-1425911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-store-3286773.jpg?tf=1200x' alt='Apple se une al Black Friday: rebajas en el iPhone 16, los nuevos Apple Watch, AirPods Pro 2 y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llega-black-friday-google-chrome-tiene-7-extensiones-muy-utiles-encontrar-mejores-chollos-amazon-1426085'>Llega el Black Friday y Google Chrome tiene 7 extensiones muy útiles para encontrar los mejores chollos de Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/llega-black-friday-google-chrome-tiene-7-extensiones-muy-utiles-encontrar-mejores-chollos-amazon-1426085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/extensiones-google-4266822.jpg?tf=1200x' alt='Llega el Black Friday y Google Chrome tiene 7 extensiones muy útiles para encontrar los mejores chollos de Amazon' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/mapa-muestra-paises-sobrevivirian-guerra-nuclear-seria-situacion-espana-1426379'>Un mapa muestra qué países sobrevivirían a una guerra nuclear (y esta sería la situación de España)</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/mapa-muestra-paises-sobrevivirian-guerra-nuclear-seria-situacion-espana-1426379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mapa-muestra-paises-sobrevivirian-guerra-nuclear-seria-situacion-espana-4267176.jpg?tf=1200x' alt='Un mapa muestra qué países sobrevivirían a una guerra nuclear (y esta sería la situación de España)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-1426459'>iPhone 17 Air: todo lo que ya sabemos del móvil más delgado de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-1426459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-4267353.jpg?tf=1200x' alt='iPhone 17 Air: todo lo que ya sabemos del móvil más delgado de Apple' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/estudio-mit-afirma-ia-riesgo-humanidad-1426360'>Un estudio del MIT afirma que la IA sí es un riesgo para la humanidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/estudio-mit-afirma-ia-riesgo-humanidad-1426360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estudio-inteligencia-artificial-4267136.jpg?tf=1200x' alt='Un estudio del MIT afirma que la IA sí es un riesgo para la humanidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-estafas-black-friday-estos-son-enganos-comunes-tiendas-no-oficiales-1425037'>¡Cuidado con las estafas en Black Friday! Estos son los engaños más comunes de las tiendas no oficiales</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-estafas-black-friday-estos-son-enganos-comunes-tiendas-no-oficiales-1425037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafas-black-friday-4265281.jpg?tf=1200x' alt='¡Cuidado con las estafas en Black Friday! Estos son los engaños más comunes de las tiendas no oficiales' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/agregar-mensaje-como-funciona-sirve-ultima-funcion-whatsapp-1426340'>“Agregar un mensaje”: Cómo funciona y para qué sirve la última función de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/agregar-mensaje-como-funciona-sirve-ultima-funcion-whatsapp-1426340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/agregar-mensaje-reenviado-whatsapp-4267125.jpg?tf=1200x' alt='“Agregar un mensaje”: Cómo funciona y para qué sirve la última función de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-steam-deck-ni-asus-rog-consola-retro-android-potentisima-mucho-barata-black-friday-1425620'>Ni Steam Deck ni ASUS ROG: esta consola retro con Android es potentísima y mucho más barata por el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-steam-deck-ni-asus-rog-consola-retro-android-potentisima-mucho-barata-black-friday-1425620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ayn-odin-2-mini-4266085.jpg?tf=1200x' alt='Ni Steam Deck ni ASUS ROG: esta consola retro con Android es potentísima y mucho más barata por el Black Friday' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-no-te-timen-bizum-te-piden-aceptes-sospecha-1426336'>El consejo de la Policía Nacional para que no te timen por Bizum: “Si te piden que aceptes esto, sospecha”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-no-te-timen-bizum-te-piden-aceptes-sospecha-1426336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/bizum-representa-20-aquellos-comercios-ofrecen-servicio-3607640.jpg?tf=1200x' alt='El consejo de la Policía Nacional para que no te timen por Bizum: “Si te piden que aceptes esto, sospecha”' />
     </a>
 </div>
 
