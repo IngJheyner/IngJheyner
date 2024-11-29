@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/mercadona-mejor-movil-limite-maximo-monedas-dinero-efectivo-puedes-pagar-1426738'>Al Mercadona, mejor con el móvil: este es límite máximo de monedas y dinero en efectivo con el que puedes pagar</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/mercadona-mejor-movil-limite-maximo-monedas-dinero-efectivo-puedes-pagar-1426738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercadona-mejor-movil-limite-maximo-monedas-dinero-efectivo-puedes-pagar-4267873.jpg?tf=1200x' alt='Al Mercadona, mejor con el móvil: este es límite máximo de monedas y dinero en efectivo con el que puedes pagar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-desmiente-bulos-limites-envio-no-han-cambiado-1426766'>Bizum desmiente los bulos: los límites de envío no han cambiado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bizum-desmiente-bulos-limites-envio-no-han-cambiado-1426766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bizum-desmiente-bulos-limites-envio-no-han-cambiado-4267843.jpg?tf=1200x' alt='Bizum desmiente los bulos: los límites de envío no han cambiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/disco-optico-diamantes-promete-almacenar-datos-millones-anos-1426760'>Un disco óptico de diamantes promete almacenar datos por millones de años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/disco-optico-diamantes-promete-almacenar-datos-millones-anos-1426760' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disco-optico-diamantes-4267854.jpg?tf=1200x' alt='Un disco óptico de diamantes promete almacenar datos por millones de años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/vodafone-anuncia-subidas-precios-2025-vas-pagar-1426756'>Vodafone anuncia subidas de precios en 2025: esto es lo que vas a pagar de más</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/vodafone-anuncia-subidas-precios-2025-vas-pagar-1426756' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/vodafone-4267850.jpg?tf=1200x' alt='Vodafone anuncia subidas de precios en 2025: esto es lo que vas a pagar de más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/director-dune-tiene-claro-cual-fue-pelicula-acabo-universo-star-wars-todo-termino-ella-1426673'>El director de Dune tiene claro cuál fue la película que acabó con el universo de Star Wars: "Todo se terminó con ella"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/director-dune-tiene-claro-cual-fue-pelicula-acabo-universo-star-wars-todo-termino-ella-1426673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/director-dune-tiene-claro-cual-fue-pelicula-acabo-universo-star-wars-todo-acabo-ella-4267678.jpg?tf=1200x' alt='El director de Dune tiene claro cuál fue la película que acabó con el universo de Star Wars: "Todo se terminó con ella"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657'>El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-4267623.jpg?tf=1200x' alt='El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él' />
     </a>
 </div>
 
