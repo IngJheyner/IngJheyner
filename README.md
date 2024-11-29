@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-tiene-rival-hay-potentisima-aspiradora-barata-ademas-friega-1426177'>Dyson tiene rival: hay una potentísima aspiradora, más barata ¡y que además friega!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-tiene-rival-hay-potentisima-aspiradora-barata-ademas-friega-1426177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-conga-rockstar-8500-infinity-ergowet-pet-4266902.jpg?tf=1200x' alt='Dyson tiene rival: hay una potentísima aspiradora, más barata ¡y que además friega!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usas-vpn-te-interesa-conocer-funcion-secreta-malware-estafas-online-1426543'>Si usas VPN, te interesa conocer esta función secreta contra el malware y las estafas online</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/usas-vpn-te-interesa-conocer-funcion-secreta-malware-estafas-online-1426543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/alerta-apps-vpn-3757430.jpg?tf=1200x' alt='Si usas VPN, te interesa conocer esta función secreta contra el malware y las estafas online' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-abandona-trabajo-1424887'>"La gran evasión": Pillan a un robot con Inteligencia Artificial convenciendo a otros 12 para fugarse </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-abandona-trabajo-1424887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-sindicalista-4266217.jpg?tf=1200x' alt='"La gran evasión": Pillan a un robot con Inteligencia Artificial convenciendo a otros 12 para fugarse ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ser-pajaro-nos-libera-generacion-z-china-deja-ser-humana-protestar-presiones-sociales-1426594'>“Ser pájaro nos libera”: la Generación Z china deja de ser humana para protestar contra las presiones sociales</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ser-pajaro-nos-libera-generacion-z-china-deja-ser-humana-protestar-presiones-sociales-1426594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/joven-chino-haciendose-pasar-pajaro-4267563.jpg?tf=1200x' alt='“Ser pájaro nos libera”: la Generación Z china deja de ser humana para protestar contra las presiones sociales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/app-gps-gratis-sygic-alternativa-waze-google-maps-1425464'>Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/app-gps-gratis-sygic-alternativa-waze-google-maps-1425464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-sygic-4266553.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/7-chollos-menos-20eu-picar-black-friday-alguna-compra-1426520'>7 chollos de menos de 20€ para picar en este Black Friday con alguna compra</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/7-chollos-menos-20eu-picar-black-friday-alguna-compra-1426520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/chollos-amazon.jpg?tf=1200x' alt='7 chollos de menos de 20€ para picar en este Black Friday con alguna compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-conseguido-compartir-canales-sea-facil-nunca-nueva-funcion-1426597'>WhatsApp ha conseguido que compartir canales sea más fácil que nunca con esta nueva función</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-conseguido-compartir-canales-sea-facil-nunca-nueva-funcion-1426597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-ha-conseguido-compartir-canales-sea-facil-nunca-nueva-funcion-4267504.jpg?tf=1200x' alt='WhatsApp ha conseguido que compartir canales sea más fácil que nunca con esta nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-atresplayer-lanzan-suscripcion-conjunta-precio-contenido-incluye-1426591'>Disney+ y Atresplayer lanzan una suscripción conjunta: precio y contenido que incluye </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-atresplayer-lanzan-suscripcion-conjunta-precio-contenido-incluye-1426591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-atresplayer-premium-4267548.jpg?tf=1200x' alt='Disney+ y Atresplayer lanzan una suscripción conjunta: precio y contenido que incluye ' />
     </a>
 </div>
 
