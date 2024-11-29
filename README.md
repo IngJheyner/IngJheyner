@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-quiere-ser-contrario-elon-musk-pretende-red-moderar-contenido-danino-1426647'>Bluesky quiere ser lo contrario a Elon Musk: así pretende la red moderar su contenido “dañino”</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/bluesky-quiere-ser-contrario-elon-musk-pretende-red-moderar-contenido-danino-1426647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ilustracion-muestra-logotipo-aplicacion-bluesky-4265900.jpg?tf=1200x' alt='Bluesky quiere ser lo contrario a Elon Musk: así pretende la red moderar su contenido “dañino”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oferta-black-friday-iphone-16-140-euros-descuento-trampas-1426688'>Esta es la oferta del Black Friday: el iPhone 16 con 140 euros de descuento, y sin trampas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/oferta-black-friday-iphone-16-140-euros-descuento-trampas-1426688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241453.jpg?tf=1200x' alt='Esta es la oferta del Black Friday: el iPhone 16 con 140 euros de descuento, y sin trampas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-tiene-rival-hay-potentisima-aspiradora-barata-ademas-friega-1426177'>Dyson tiene rival: hay una potentísima aspiradora, más barata ¡y que además friega!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dyson-tiene-rival-hay-potentisima-aspiradora-barata-ademas-friega-1426177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cecotec-conga-rockstar-8500-infinity-ergowet-pet-4266902.jpg?tf=1200x' alt='Dyson tiene rival: hay una potentísima aspiradora, más barata ¡y que además friega!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-abandona-trabajo-1424887'>"La gran evasión": Pillan a un robot con Inteligencia Artificial convenciendo a otros 12 para fugarse </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robot-ia-abandona-trabajo-1424887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-ia-sindicalista-4266217.jpg?tf=1200x' alt='"La gran evasión": Pillan a un robot con Inteligencia Artificial convenciendo a otros 12 para fugarse ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ser-pajaro-nos-libera-generacion-z-china-deja-ser-humana-protestar-presiones-sociales-1426594'>“Ser pájaro nos libera”: la Generación Z china deja de ser humana para protestar contra las presiones sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ser-pajaro-nos-libera-generacion-z-china-deja-ser-humana-protestar-presiones-sociales-1426594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/joven-chino-haciendose-pasar-pajaro-4267563.jpg?tf=1200x' alt='“Ser pájaro nos libera”: la Generación Z china deja de ser humana para protestar contra las presiones sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/app-gps-gratis-sygic-alternativa-waze-google-maps-1425464'>Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/app-gps-gratis-sygic-alternativa-waze-google-maps-1425464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-sygic-4266553.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando' />
     </a>
 </div>
 
