@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/disco-optico-diamantes-promete-almacenar-datos-millones-anos-1426760'>Un disco óptico de diamantes promete almacenar datos por millones de años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/disco-optico-diamantes-promete-almacenar-datos-millones-anos-1426760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disco-optico-diamantes-4267854.jpg?tf=1200x' alt='Un disco óptico de diamantes promete almacenar datos por millones de años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/segura-web-policia-aclara-mitos-candado-barra-direcciones-1426757'>¿Es segura esta web? La Policía aclara los mitos sobre el candado en la barra de direcciones</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/segura-web-policia-aclara-mitos-candado-barra-direcciones-1426757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegacion-insegura-internet-4267852.jpg?tf=1200x' alt='¿Es segura esta web? La Policía aclara los mitos sobre el candado en la barra de direcciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657'>El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-4267623.jpg?tf=1200x' alt='El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/convierten-raspberry-pi-poderoso-robot-nasa-1426709'>Convierten una Raspberry Pi en un poderoso robot de la NASA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/convierten-raspberry-pi-poderoso-robot-nasa-1426709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/convierten-raspberry-pi-poderoso-robot-nasa-4267822.jpg?tf=1200x' alt='Convierten una Raspberry Pi en un poderoso robot de la NASA' />
     </a>
 </div>
 
