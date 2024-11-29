@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/segura-web-policia-aclara-mitos-candado-barra-direcciones-1426757'>¿Es segura esta web? La Policía aclara los mitos sobre el candado en la barra de direcciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/segura-web-policia-aclara-mitos-candado-barra-direcciones-1426757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegacion-insegura-internet-4267852.jpg?tf=1200x' alt='¿Es segura esta web? La Policía aclara los mitos sobre el candado en la barra de direcciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/vodafone-anuncia-subidas-precios-2025-vas-pagar-1426756'>Vodafone anuncia subidas de precios en 2025: esto es lo que vas a pagar de más</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/vodafone-anuncia-subidas-precios-2025-vas-pagar-1426756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/vodafone-4267850.jpg?tf=1200x' alt='Vodafone anuncia subidas de precios en 2025: esto es lo que vas a pagar de más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/director-dune-tiene-claro-cual-fue-pelicula-acabo-universo-star-wars-todo-termino-ella-1426673'>El director de Dune tiene claro cuál fue la película que acabó con el universo de Star Wars: "Todo se terminó con ella"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/director-dune-tiene-claro-cual-fue-pelicula-acabo-universo-star-wars-todo-termino-ella-1426673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/director-dune-tiene-claro-cual-fue-pelicula-acabo-universo-star-wars-todo-acabo-ella-4267678.jpg?tf=1200x' alt='El director de Dune tiene claro cuál fue la película que acabó con el universo de Star Wars: "Todo se terminó con ella"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657'>El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-4267623.jpg?tf=1200x' alt='El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/convierten-raspberry-pi-poderoso-robot-nasa-1426709'>Convierten una Raspberry Pi en un poderoso robot de la NASA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/convierten-raspberry-pi-poderoso-robot-nasa-1426709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/convierten-raspberry-pi-poderoso-robot-nasa-4267822.jpg?tf=1200x' alt='Convierten una Raspberry Pi en un poderoso robot de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/despidete-ruido-estos-auriculares-cancelacion-son-chollos-ineditos-black-friday-1426275'>Despídete del ruido: estos auriculares con cancelación son chollos inéditos en el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/despidete-ruido-estos-auriculares-cancelacion-son-chollos-ineditos-black-friday-1426275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-galaxy-buds3-pro-black-friday-4267008.jpg?tf=1200x' alt='Despídete del ruido: estos auriculares con cancelación son chollos inéditos en el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/solo-necesitas-15-segundos-experto-ia-te-explica-como-clonar-voz-gratis-espanol-1426564'>"Sólo necesitas 15 segundos": Un experto en IA te explica cómo clonar tu voz gratis en español</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/solo-necesitas-15-segundos-experto-ia-te-explica-como-clonar-voz-gratis-espanol-1426564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-carlos-santana-dotcsv-4267542.jpg?tf=1200x' alt='"Sólo necesitas 15 segundos": Un experto en IA te explica cómo clonar tu voz gratis en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bizum-haces-alguna-estas-transacciones-deberas-declararlas-hacienda-te-meteras-lio-1426652'>Bizum: si haces alguna de estas transacciones deberás declararlas en Hacienda o te meterás en un lío</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bizum-haces-alguna-estas-transacciones-deberas-declararlas-hacienda-te-meteras-lio-1426652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacienda-te-puede-multar-150000-euros-no-declaran-pagos-bizum-renta-2023-2024-3289208.jpg?tf=1200x' alt='Bizum: si haces alguna de estas transacciones deberás declararlas en Hacienda o te meterás en un lío' />
     </a>
 </div>
 
