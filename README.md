@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/7-chollos-xiaomi-irrepetibles-calientan-black-friday-1420097'>7 chollos Xiaomi irrepetibles que calientan el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/7-chollos-xiaomi-irrepetibles-calientan-black-friday-1420097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg?tf=1200x' alt='7 chollos Xiaomi irrepetibles que calientan el Black Friday' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/maps-waze-todo-android-auto-coche-viejo-sea-amazon-tumba-precio-pantalla-inteligente-black-friday-1426525'>Maps, Waze y todo Android Auto en tu coche, por viejo que sea: Amazon tumba el precio de una pantalla inteligente por el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/maps-waze-todo-android-auto-coche-viejo-sea-amazon-tumba-precio-pantalla-inteligente-black-friday-1426525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/volam-pantalla-4267426.jpg?tf=1200x' alt='Maps, Waze y todo Android Auto en tu coche, por viejo que sea: Amazon tumba el precio de una pantalla inteligente por el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/portatiles-snapdragon-x-son-gran-fracaso-ventas-1426492'>Intel tenía razón: los portátiles con Snapdragon X son un gran fracaso en ventas</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/portatiles-snapdragon-x-son-gran-fracaso-ventas-1426492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832328.jpg?tf=1200x' alt='Intel tenía razón: los portátiles con Snapdragon X son un gran fracaso en ventas' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-filtros-belleza-enganosos-tiktok-como-va-proteger-menores-18-anos-1426526'>Adiós a los filtros de belleza engañosos en Tiktok: así es como va a proteger a los menores de 18 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-filtros-belleza-enganosos-tiktok-como-va-proteger-menores-18-anos-1426526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jovenes-tiktok-4267453.jpg?tf=1200x' alt='Adiós a los filtros de belleza engañosos en Tiktok: así es como va a proteger a los menores de 18 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-pega-bombazo-rebaja-casi-todas-aspiradoras-black-friday-modelos-299-euros-1426061'>Dyson pega el bombazo: rebaja casi todas sus aspiradoras en el Black Friday, con modelos por 299 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-pega-bombazo-rebaja-casi-todas-aspiradoras-black-friday-modelos-299-euros-1426061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dyson-gen5detect-4205134.jpg?tf=1200x' alt='Dyson pega el bombazo: rebaja casi todas sus aspiradoras en el Black Friday, con modelos por 299 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-xiaomi-carga-vez-mes-tiene-llamadas-precio-parece-error-1425705'>Este reloj Xiaomi se carga una vez al mes, tiene llamadas y su precio parece un error</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-xiaomi-carga-vez-mes-tiene-llamadas-precio-parece-error-1425705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272286.jpg?tf=1200x' alt='Este reloj Xiaomi se carga una vez al mes, tiene llamadas y su precio parece un error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-pasado-24-horas-analizando-mi-tension-arterial-gracias-huawei-watch-d2-merece-pena-reloj-1426103'>He pasado 24 horas analizando mi tensión arterial gracias al Huawei Watch D2: ¿merece la pena este reloj?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-pasado-24-horas-analizando-mi-tension-arterial-gracias-huawei-watch-d2-merece-pena-reloj-1426103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-watch-d2-4266390.jpg?tf=1200x' alt='He pasado 24 horas analizando mi tensión arterial gracias al Huawei Watch D2: ¿merece la pena este reloj?' />
+    <h4><a href='https://computerhoy.20minutos.es/nasa-encarga-spacex-lanzar-5-kilos-plutonio-radiactivo-espacio-1426515'>La NASA encarga a SpaceX lanzar 5 kilos de plutonio radiactivo al espacio: ¿Para qué?</a></h4>
+    <a href='https://computerhoy.20minutos.es/nasa-encarga-spacex-lanzar-5-kilos-plutonio-radiactivo-espacio-1426515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-space-x-plutonio-4267431.jpg?tf=1200x' alt='La NASA encarga a SpaceX lanzar 5 kilos de plutonio radiactivo al espacio: ¿Para qué?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/create-tv-art-matte-smart-tv-antirrflejos-arte-google-tv-1425469'>Tras probar Create TV Art Matte no tengo duda, necesitas una TV con panel antirreflejos a este precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/create-tv-art-matte-smart-tv-antirrflejos-arte-google-tv-1425469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/create-tv-art-matte-4266315.jpg?tf=1200x' alt='Tras probar Create TV Art Matte no tengo duda, necesitas una TV con panel antirreflejos a este precio' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-casio-g-shock-2024-1426517'>41 años después, Casio vuelve a lanzar su primer reloj G-Shock</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-casio-g-shock-2024-1426517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/41-anos-despues-casio-vuelve-lanzar-primer-reloj-g-shock-4267419.jpg?tf=1200x' alt='41 años después, Casio vuelve a lanzar su primer reloj G-Shock' />
     </a>
 </div>
 
