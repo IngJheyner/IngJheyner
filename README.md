@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ingenioso-metodo-desenmascarar-llamadas-indeseadas-recomienda-policia-nacional-1426588'>El ingenioso método para desenmascarar llamadas indeseadas que recomienda la Policía Nacional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ingenioso-metodo-desenmascarar-llamadas-indeseadas-recomienda-policia-nacional-1426588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/policia-llamadas-spam-4267530.jpg?tf=1200x' alt='El ingenioso método para desenmascarar llamadas indeseadas que recomienda la Policía Nacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/telegram-paraiso-iptv-vuelve-usuarios-datos-manos-guardia-civil-1426531'>Telegram, el paraíso de las IPTV, se vuelve contra sus usuarios: tus datos en manos de la Guardia Civil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/telegram-paraiso-iptv-vuelve-usuarios-datos-manos-guardia-civil-1426531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telegram-iptv-4267492.jpg?tf=1200x' alt='Telegram, el paraíso de las IPTV, se vuelve contra sus usuarios: tus datos en manos de la Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-ya-sabemos-canal-abierto-sustituira-disney-channel-1426561'>TDT: ya sabemos el canal en abierto que sustituirá a Disney Channel</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-ya-sabemos-canal-abierto-sustituira-disney-channel-1426561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mickey-mouse-llorando-4267507.jpg?tf=1200x' alt='TDT: ya sabemos el canal en abierto que sustituirá a Disney Channel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-robots-aspiradores-roomba-cecotec-xiaomi-marcas-liquidan-stock-1425976'>La guerra de los robots aspiradores: Roomba, Cecotec, Xiaomi y más marcas liquidan stock</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/guerra-robots-aspiradores-roomba-cecotec-xiaomi-marcas-liquidan-stock-1425976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/roborock-s8-maxv-ultra-3256895.jpg?tf=1200x' alt='La guerra de los robots aspiradores: Roomba, Cecotec, Xiaomi y más marcas liquidan stock' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ganador-guerra-iptv-telegram-1425929'>La guerra de las IPTV ya tiene un claro ganador: Telegram</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ganador-guerra-iptv-telegram-1425929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telegram-iptv-4267488.jpg?tf=1200x' alt='La guerra de las IPTV ya tiene un claro ganador: Telegram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lector-ebooks-cuaderno-vez-kindle-scribe-grandes-gangas-black-friday-1425402'>Lector de ebooks y cuaderno a la vez: el Kindle Scribe es una de las grandes gangas del Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lector-ebooks-cuaderno-vez-kindle-scribe-grandes-gangas-black-friday-1425402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939660.jpg?tf=1200x' alt='Lector de ebooks y cuaderno a la vez: el Kindle Scribe es una de las grandes gangas del Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/maps-waze-todo-android-auto-coche-viejo-sea-amazon-tumba-precio-pantalla-inteligente-black-friday-1426525'>Maps, Waze y todo Android Auto en tu coche, por viejo que sea: Amazon tumba el precio de una pantalla inteligente por el Black Friday</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/maps-waze-todo-android-auto-coche-viejo-sea-amazon-tumba-precio-pantalla-inteligente-black-friday-1426525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/volam-pantalla-4267426.jpg?tf=1200x' alt='Maps, Waze y todo Android Auto en tu coche, por viejo que sea: Amazon tumba el precio de una pantalla inteligente por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-filtros-belleza-enganosos-tiktok-como-va-proteger-menores-18-anos-1426526'>Adiós a los filtros de belleza engañosos en Tiktok: así es como va a proteger a los menores de 18 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-filtros-belleza-enganosos-tiktok-como-va-proteger-menores-18-anos-1426526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/jovenes-tiktok-4267453.jpg?tf=1200x' alt='Adiós a los filtros de belleza engañosos en Tiktok: así es como va a proteger a los menores de 18 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-xiaomi-carga-vez-mes-tiene-llamadas-precio-parece-error-1425705'>Este reloj Xiaomi se carga una vez al mes, tiene llamadas y su precio parece un error</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-xiaomi-carga-vez-mes-tiene-llamadas-precio-parece-error-1425705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272286.jpg?tf=1200x' alt='Este reloj Xiaomi se carga una vez al mes, tiene llamadas y su precio parece un error' />
     </a>
 </div>
 
