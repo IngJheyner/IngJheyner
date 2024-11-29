@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/7-chollos-xiaomi-irrepetibles-calientan-black-friday-1420097'>7 chollos Xiaomi irrepetibles que calientan el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/7-chollos-xiaomi-irrepetibles-calientan-black-friday-1420097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/tienda-xiaomi-store-2751213.jpg?tf=1200x' alt='7 chollos Xiaomi irrepetibles que calientan el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/portatiles-snapdragon-x-son-gran-fracaso-ventas-1426492'>Intel tenía razón: los portátiles con Snapdragon X son un gran fracaso en ventas</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/portatiles-snapdragon-x-son-gran-fracaso-ventas-1426492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832328.jpg?tf=1200x' alt='Intel tenía razón: los portátiles con Snapdragon X son un gran fracaso en ventas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/create-tv-art-matte-smart-tv-antirrflejos-arte-google-tv-1425469'>Tras probar Create TV Art Matte no tengo duda, necesitas una TV con panel antirreflejos a este precio</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/create-tv-art-matte-smart-tv-antirrflejos-arte-google-tv-1425469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/create-tv-art-matte-4266315.jpg?tf=1200x' alt='Tras probar Create TV Art Matte no tengo duda, necesitas una TV con panel antirreflejos a este precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-une-black-friday-rebajas-iphone-16-nuevos-apple-watch-airpods-pro-2-1425911'>Apple se une al Black Friday: rebajas en el iPhone 16, los nuevos Apple Watch, AirPods Pro 2 y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-une-black-friday-rebajas-iphone-16-nuevos-apple-watch-airpods-pro-2-1425911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/apple-store-3286773.jpg?tf=1200x' alt='Apple se une al Black Friday: rebajas en el iPhone 16, los nuevos Apple Watch, AirPods Pro 2 y más' />
     </a>
 </div>
 
