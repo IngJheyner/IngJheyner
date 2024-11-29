@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/anuncio-navideno-apple-airpods-pro-2-1426453'>Apple estrena su anuncio navideño, pensado para que se te caigan las lágrimas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/anuncio-navideno-apple-airpods-pro-2-1426453' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732824751664-4267305.jpg?tf=1200x' alt='Apple estrena su anuncio navideño, pensado para que se te caigan las lágrimas' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-estafas-black-friday-estos-son-enganos-comunes-tiendas-no-oficiales-1425037'>¡Cuidado con las estafas en Black Friday! Estos son los engaños más comunes de las tiendas no oficiales</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-estafas-black-friday-estos-son-enganos-comunes-tiendas-no-oficiales-1425037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafas-black-friday-4265281.jpg?tf=1200x' alt='¡Cuidado con las estafas en Black Friday! Estos son los engaños más comunes de las tiendas no oficiales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-1426435'>Huawei busca venganza con Android: quiere superar las 100.000 apps en HarmonyOS Next</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-1426435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/huawei-busca-venganza-android-quiere-superar-100000-apps-harmonyos-next-4267316.jpg?tf=1200x' alt='Huawei busca venganza con Android: quiere superar las 100.000 apps en HarmonyOS Next' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-steam-deck-ni-asus-rog-consola-retro-android-potentisima-mucho-barata-black-friday-1425620'>Ni Steam Deck ni ASUS ROG: esta consola retro con Android es potentísima y mucho más barata por el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-steam-deck-ni-asus-rog-consola-retro-android-potentisima-mucho-barata-black-friday-1425620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ayn-odin-2-mini-4266085.jpg?tf=1200x' alt='Ni Steam Deck ni ASUS ROG: esta consola retro con Android es potentísima y mucho más barata por el Black Friday' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problema-masivo-televisores-xiaomi-pierden-hdmi-debido-fallo-app-atresplayer-1426442'>Problema masivo: los televisores Xiaomi pierden HDMI debido a un fallo con la app Atresplayer</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/problema-masivo-televisores-xiaomi-pierden-hdmi-debido-fallo-app-atresplayer-1426442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/11/tvs-xiaomi.jpeg?tf=1200x' alt='Problema masivo: los televisores Xiaomi pierden HDMI debido a un fallo con la app Atresplayer' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-hace-regalo-fans-apple-rebaja-airpods-pro-2-precio-minimo-1425954'>Amazon hace un regalo a los fans de Apple: rebaja los AirPods Pro 2 a su precio mínimo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-hace-regalo-fans-apple-rebaja-airpods-pro-2-precio-minimo-1425954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Amazon hace un regalo a los fans de Apple: rebaja los AirPods Pro 2 a su precio mínimo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/freidoras-aire-no-solo-cocinan-mejor-tambien-mejoran-calidad-aire-hogar-1426440'>Las freidoras de aire no solo cocinan mejor, ¡también mejoran la calidad del aire en tu hogar!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/freidoras-aire-no-solo-cocinan-mejor-tambien-mejoran-calidad-aire-hogar-1426440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-4015948.jpg?tf=1200x' alt='Las freidoras de aire no solo cocinan mejor, ¡también mejoran la calidad del aire en tu hogar!' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-reloj-garmin-gps-pantalla-amoled-barato-muy-completo-1426172'>Olvida el Fenix 8: este reloj Garmin con GPS y pantalla AMOLED es más barato y muy completo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-reloj-garmin-gps-pantalla-amoled-barato-muy-completo-1426172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/garmin-epix-gen-2-pro-4266758.jpg?tf=1200x' alt='Olvida el Fenix 8: este reloj Garmin con GPS y pantalla AMOLED es más barato y muy completo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatarra-joya-gamer-youtuber-crea-pc-portatil-1426438'>De chatarra a joya gamer: Youtuber crea un PC portátil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatarra-joya-gamer-youtuber-crea-pc-portatil-1426438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatarra-joya-gamer-youtuber-crea-pc-portatil-4267301.jpg?tf=1200x' alt='De chatarra a joya gamer: Youtuber crea un PC portátil' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/elon-musk-movil-tesla-phone-advierte-apple-google-1426460'>Elon Musk advierte: "Si Apple y Google se portan mal, Tesla fabricará un móvil"</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/elon-musk-movil-tesla-phone-advierte-apple-google-1426460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/elon-musk-iphone-3129350.jpg?tf=1200x' alt='Elon Musk advierte: "Si Apple y Google se portan mal, Tesla fabricará un móvil"' />
     </a>
 </div>
 
