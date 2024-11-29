@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/phil-spencer-jefe-xbox-homenajea-mitico-ejecutivo-playstation-retira-1426473'>Phil Spencer, jefe de Xbox, homenajea a un mítico ejecutivo de PlayStation que se retira</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/phil-spencer-jefe-xbox-homenajea-mitico-ejecutivo-playstation-retira-1426473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/phil-spencer-jefe-xbox-homenajea-mitico-ejecutivo-playstation-retira-4267337.jpg?tf=1200x' alt='Phil Spencer, jefe de Xbox, homenajea a un mítico ejecutivo de PlayStation que se retira' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llega-black-friday-google-chrome-tiene-7-extensiones-muy-utiles-encontrar-mejores-chollos-amazon-1426085'>Llega el Black Friday y Google Chrome tiene 7 extensiones muy útiles para encontrar los mejores chollos de Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/llega-black-friday-google-chrome-tiene-7-extensiones-muy-utiles-encontrar-mejores-chollos-amazon-1426085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/extensiones-google-4266822.jpg?tf=1200x' alt='Llega el Black Friday y Google Chrome tiene 7 extensiones muy útiles para encontrar los mejores chollos de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-1426459'>iPhone 17 Air: todo lo que ya sabemos del móvil más delgado de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-1426459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/iphone-17-air-todo-ya-sabemos-movil-delgado-apple-4267353.jpg?tf=1200x' alt='iPhone 17 Air: todo lo que ya sabemos del móvil más delgado de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-steam-deck-ni-asus-rog-consola-retro-android-potentisima-mucho-barata-black-friday-1425620'>Ni Steam Deck ni ASUS ROG: esta consola retro con Android es potentísima y mucho más barata por el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-steam-deck-ni-asus-rog-consola-retro-android-potentisima-mucho-barata-black-friday-1425620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ayn-odin-2-mini-4266085.jpg?tf=1200x' alt='Ni Steam Deck ni ASUS ROG: esta consola retro con Android es potentísima y mucho más barata por el Black Friday' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-hace-regalo-fans-apple-rebaja-airpods-pro-2-precio-minimo-1425954'>Amazon hace un regalo a los fans de Apple: rebaja los AirPods Pro 2 a su precio mínimo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-hace-regalo-fans-apple-rebaja-airpods-pro-2-precio-minimo-1425954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-airpods-pro-2-analisis-opinion-2844263.jpg?tf=1200x' alt='Amazon hace un regalo a los fans de Apple: rebaja los AirPods Pro 2 a su precio mínimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-reloj-garmin-gps-pantalla-amoled-barato-muy-completo-1426172'>Olvida el Fenix 8: este reloj Garmin con GPS y pantalla AMOLED es más barato y muy completo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-fenix-8-reloj-garmin-gps-pantalla-amoled-barato-muy-completo-1426172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/garmin-epix-gen-2-pro-4266758.jpg?tf=1200x' alt='Olvida el Fenix 8: este reloj Garmin con GPS y pantalla AMOLED es más barato y muy completo' />
     </a>
 </div>
 
