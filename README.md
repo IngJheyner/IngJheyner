@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657'>El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-1426657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/thriller-terror-visto-amazon-prime-video-basado-hechos-reales-nadie-daba-duro-4267623.jpg?tf=1200x' alt='El thriller de terror más visto de Amazon Prime Video está basado en hechos reales, y nadie daba un duro por él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/convierten-raspberry-pi-poderoso-robot-nasa-1426709'>Convierten una Raspberry Pi en un poderoso robot de la NASA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/convierten-raspberry-pi-poderoso-robot-nasa-1426709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/convierten-raspberry-pi-poderoso-robot-nasa-4267822.jpg?tf=1200x' alt='Convierten una Raspberry Pi en un poderoso robot de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/despidete-ruido-estos-auriculares-cancelacion-son-chollos-ineditos-black-friday-1426275'>Despídete del ruido: estos auriculares con cancelación son chollos inéditos en el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/despidete-ruido-estos-auriculares-cancelacion-son-chollos-ineditos-black-friday-1426275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-galaxy-buds3-pro-black-friday-4267008.jpg?tf=1200x' alt='Despídete del ruido: estos auriculares con cancelación son chollos inéditos en el Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bizum-haces-alguna-estas-transacciones-deberas-declararlas-hacienda-te-meteras-lio-1426652'>Bizum: si haces alguna de estas transacciones deberás declararlas en Hacienda o te meterás en un lío</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bizum-haces-alguna-estas-transacciones-deberas-declararlas-hacienda-te-meteras-lio-1426652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacienda-te-puede-multar-150000-euros-no-declaran-pagos-bizum-renta-2023-2024-3289208.jpg?tf=1200x' alt='Bizum: si haces alguna de estas transacciones deberás declararlas en Hacienda o te meterás en un lío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/experto-seguridad-desvela-unico-metodo-efectivo-evitar-te-roben-coche-1426656'>Experto en seguridad desvela el único método efectivo para evitar que te roben el coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/experto-seguridad-desvela-unico-metodo-efectivo-evitar-te-roben-coche-1426656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robar-coche-4267726.jpg?tf=1200x' alt='Experto en seguridad desvela el único método efectivo para evitar que te roben el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/roomba-aprieta-black-friday-deja-robot-barato-casi-regalado-cuesta-solo-147-euros-friega-1426076'>Roomba aprieta en el Black Friday y deja su robot más barato casi regalado: cuesta solo 147 euros ¡y friega!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/roomba-aprieta-black-friday-deja-robot-barato-casi-regalado-cuesta-solo-147-euros-friega-1426076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/irobot-roomba-essential-4266740.jpg?tf=1200x' alt='Roomba aprieta en el Black Friday y deja su robot más barato casi regalado: cuesta solo 147 euros ¡y friega!' />
     </a>
 </div>
 
