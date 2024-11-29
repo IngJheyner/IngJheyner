@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/solo-necesitas-15-segundos-experto-ia-te-explica-como-clonar-voz-gratis-espanol-1426564'>"Sólo necesitas 15 segundos": Un experto en IA te explica cómo clonar tu voz gratis en español</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/solo-necesitas-15-segundos-experto-ia-te-explica-como-clonar-voz-gratis-espanol-1426564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-carlos-santana-dotcsv-4267542.jpg?tf=1200x' alt='"Sólo necesitas 15 segundos": Un experto en IA te explica cómo clonar tu voz gratis en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bizum-haces-alguna-estas-transacciones-deberas-declararlas-hacienda-te-meteras-lio-1426652'>Bizum: si haces alguna de estas transacciones deberás declararlas en Hacienda o te meterás en un lío</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bizum-haces-alguna-estas-transacciones-deberas-declararlas-hacienda-te-meteras-lio-1426652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/hacienda-te-puede-multar-150000-euros-no-declaran-pagos-bizum-renta-2023-2024-3289208.jpg?tf=1200x' alt='Bizum: si haces alguna de estas transacciones deberás declararlas en Hacienda o te meterás en un lío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/experto-seguridad-desvela-unico-metodo-efectivo-evitar-te-roben-coche-1426656'>Experto en seguridad desvela el único método efectivo para evitar que te roben el coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/experto-seguridad-desvela-unico-metodo-efectivo-evitar-te-roben-coche-1426656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robar-coche-4267726.jpg?tf=1200x' alt='Experto en seguridad desvela el único método efectivo para evitar que te roben el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/roomba-aprieta-black-friday-deja-robot-barato-casi-regalado-cuesta-solo-147-euros-friega-1426076'>Roomba aprieta en el Black Friday y deja su robot más barato casi regalado: cuesta solo 147 euros ¡y friega!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/roomba-aprieta-black-friday-deja-robot-barato-casi-regalado-cuesta-solo-147-euros-friega-1426076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/irobot-roomba-essential-4266740.jpg?tf=1200x' alt='Roomba aprieta en el Black Friday y deja su robot más barato casi regalado: cuesta solo 147 euros ¡y friega!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-o2-pepephone-web-independiente-te-permite-comparar-velocidad-averias-calidad-servicio-operadores-espana-1426699'>DIGI, O2 o Pepephone, esta web independiente te permite comparar la velocidad, averías y calidad del servicio de los operadores en España</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-o2-pepephone-web-independiente-te-permite-comparar-velocidad-averias-calidad-servicio-operadores-espana-1426699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-o2-pepephone-web-independiente-te-permite-comparar-velocidad-averias-calidad-servicio-operadores-espana-4267752.jpg?tf=1200x' alt='DIGI, O2 o Pepephone, esta web independiente te permite comparar la velocidad, averías y calidad del servicio de los operadores en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-bmw-fabrica-utilizan-robots-ia-suplantando-trabajo-humano-1426627'>Giro de 180 grados para BMW: en su fábrica utilizan robots con IA, suplantando el trabajo humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-bmw-fabrica-utilizan-robots-ia-suplantando-trabajo-humano-1426627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/robot-bmw-4267609.jpg?tf=1200x' alt='Giro de 180 grados para BMW: en su fábrica utilizan robots con IA, suplantando el trabajo humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-anticipa-navidad-epico-video-cohete-chimenea-dura-8-horas-1426636'>La NASA anticipa la Navidad con un épico vídeo de un cohete en una chimenea que dura 8 horas</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-anticipa-navidad-epico-video-cohete-chimenea-dura-8-horas-1426636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-anticipa-navidad-epico-video-cohete-chimenea-dura-8-horas-4267580.jpg?tf=1200x' alt='La NASA anticipa la Navidad con un épico vídeo de un cohete en una chimenea que dura 8 horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-quiere-ser-contrario-elon-musk-pretende-red-moderar-contenido-danino-1426647'>Bluesky quiere ser lo contrario a Elon Musk: así pretende la red moderar su contenido “dañino”</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/bluesky-quiere-ser-contrario-elon-musk-pretende-red-moderar-contenido-danino-1426647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ilustracion-muestra-logotipo-aplicacion-bluesky-4265900.jpg?tf=1200x' alt='Bluesky quiere ser lo contrario a Elon Musk: así pretende la red moderar su contenido “dañino”' />
     </a>
 </div>
 
