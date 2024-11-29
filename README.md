@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ganador-guerra-iptv-telegram-1425929'>La guerra de las IPTV ya tiene un claro ganador: Telegram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ganador-guerra-iptv-telegram-1425929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telegram-iptv-4267488.jpg?tf=1200x' alt='La guerra de las IPTV ya tiene un claro ganador: Telegram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lector-ebooks-cuaderno-vez-kindle-scribe-grandes-gangas-black-friday-1425402'>Lector de ebooks y cuaderno a la vez: el Kindle Scribe es una de las grandes gangas del Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lector-ebooks-cuaderno-vez-kindle-scribe-grandes-gangas-black-friday-1425402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/analisis-kindle-scribe-2939660.jpg?tf=1200x' alt='Lector de ebooks y cuaderno a la vez: el Kindle Scribe es una de las grandes gangas del Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/maps-waze-todo-android-auto-coche-viejo-sea-amazon-tumba-precio-pantalla-inteligente-black-friday-1426525'>Maps, Waze y todo Android Auto en tu coche, por viejo que sea: Amazon tumba el precio de una pantalla inteligente por el Black Friday</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/maps-waze-todo-android-auto-coche-viejo-sea-amazon-tumba-precio-pantalla-inteligente-black-friday-1426525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/volam-pantalla-4267426.jpg?tf=1200x' alt='Maps, Waze y todo Android Auto en tu coche, por viejo que sea: Amazon tumba el precio de una pantalla inteligente por el Black Friday' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-xiaomi-carga-vez-mes-tiene-llamadas-precio-parece-error-1425705'>Este reloj Xiaomi se carga una vez al mes, tiene llamadas y su precio parece un error</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reloj-xiaomi-carga-vez-mes-tiene-llamadas-precio-parece-error-1425705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-redmi-watch-4-3272286.jpg?tf=1200x' alt='Este reloj Xiaomi se carga una vez al mes, tiene llamadas y su precio parece un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/nasa-encarga-spacex-lanzar-5-kilos-plutonio-radiactivo-espacio-1426515'>La NASA encarga a SpaceX lanzar 5 kilos de plutonio radiactivo al espacio: ¿Para qué?</a></h4>
-    <a href='https://computerhoy.20minutos.es/nasa-encarga-spacex-lanzar-5-kilos-plutonio-radiactivo-espacio-1426515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-space-x-plutonio-4267431.jpg?tf=1200x' alt='La NASA encarga a SpaceX lanzar 5 kilos de plutonio radiactivo al espacio: ¿Para qué?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-casio-g-shock-2024-1426517'>41 años después, Casio vuelve a lanzar su primer reloj G-Shock</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-casio-g-shock-2024-1426517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/41-anos-despues-casio-vuelve-lanzar-primer-reloj-g-shock-4267419.jpg?tf=1200x' alt='41 años después, Casio vuelve a lanzar su primer reloj G-Shock' />
     </a>
 </div>
 
