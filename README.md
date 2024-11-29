@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/despidete-ruido-estos-auriculares-cancelacion-son-chollos-ineditos-black-friday-1426275'>Despídete del ruido: estos auriculares con cancelación son chollos inéditos en el Black Friday</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/despidete-ruido-estos-auriculares-cancelacion-son-chollos-ineditos-black-friday-1426275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/samsung-galaxy-buds3-pro-black-friday-4267008.jpg?tf=1200x' alt='Despídete del ruido: estos auriculares con cancelación son chollos inéditos en el Black Friday' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/solo-necesitas-15-segundos-experto-ia-te-explica-como-clonar-voz-gratis-espanol-1426564'>"Sólo necesitas 15 segundos": Un experto en IA te explica cómo clonar tu voz gratis en español</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/solo-necesitas-15-segundos-experto-ia-te-explica-como-clonar-voz-gratis-espanol-1426564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-carlos-santana-dotcsv-4267542.jpg?tf=1200x' alt='"Sólo necesitas 15 segundos": Un experto en IA te explica cómo clonar tu voz gratis en español' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/roomba-aprieta-black-friday-deja-robot-barato-casi-regalado-cuesta-solo-147-euros-friega-1426076'>Roomba aprieta en el Black Friday y deja su robot más barato casi regalado: cuesta solo 147 euros ¡y friega!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/roomba-aprieta-black-friday-deja-robot-barato-casi-regalado-cuesta-solo-147-euros-friega-1426076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/irobot-roomba-essential-4266740.jpg?tf=1200x' alt='Roomba aprieta en el Black Friday y deja su robot más barato casi regalado: cuesta solo 147 euros ¡y friega!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-o2-pepephone-web-independiente-te-permite-comparar-velocidad-averias-calidad-servicio-operadores-espana-1426699'>DIGI, O2 o Pepephone, esta web independiente te permite comparar la velocidad, averías y calidad del servicio de los operadores en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-o2-pepephone-web-independiente-te-permite-comparar-velocidad-averias-calidad-servicio-operadores-espana-1426699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-o2-pepephone-web-independiente-te-permite-comparar-velocidad-averias-calidad-servicio-operadores-espana-4267752.jpg?tf=1200x' alt='DIGI, O2 o Pepephone, esta web independiente te permite comparar la velocidad, averías y calidad del servicio de los operadores en España' />
     </a>
 </div>
 
