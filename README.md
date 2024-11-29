@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/impacto-legado-steve-jobs-vision-actual-ceo-nvidia-inteligencia-artificial-1426562'>El impacto del legado de Steve Jobs en la visión actual del CEO de Nvidia con la Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/impacto-legado-steve-jobs-vision-actual-ceo-nvidia-inteligencia-artificial-1426562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-jensen-huang-4267526.jpg?tf=1200x' alt='El impacto del legado de Steve Jobs en la visión actual del CEO de Nvidia con la Inteligencia Artificial' />
+    <h4><a href='https://computerhoy.20minutos.es/life/ser-pajaro-nos-libera-generacion-z-china-deja-ser-humana-protestar-presiones-sociales-1426594'>“Ser pájaro nos libera”: la Generación Z china deja de ser humana para protestar contra las presiones sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ser-pajaro-nos-libera-generacion-z-china-deja-ser-humana-protestar-presiones-sociales-1426594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/joven-chino-haciendose-pasar-pajaro-4267563.jpg?tf=1200x' alt='“Ser pájaro nos libera”: la Generación Z china deja de ser humana para protestar contra las presiones sociales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-descubre-base-militar-oculta-hielo-groenlandia-secreto-mejor-guardado-eeuu-1426573'>La NASA descubre una base militar oculta en el hielo de Groenlandia: el secreto mejor guardado de EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-descubre-base-militar-oculta-hielo-groenlandia-secreto-mejor-guardado-eeuu-1426573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nasa-base-eeuu-4267531.jpg?tf=1200x' alt='La NASA descubre una base militar oculta en el hielo de Groenlandia: el secreto mejor guardado de EEUU' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/app-gps-gratis-sygic-alternativa-waze-google-maps-1425464'>Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/app-gps-gratis-sygic-alternativa-waze-google-maps-1425464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/navegador-sygic-4266553.jpg?tf=1200x' alt='Esta app gratis adelanta por la derecha a Google Maps y Waze: lanza una función que llevas años esperando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chollo-xiaomi-black-friday-desconocido-1404713'>Este chollo del Black Friday es de Xiaomi, pero muy desconocido, y cuesta solo 16 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chollo-xiaomi-black-friday-desconocido-1404713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-mi-home-s100-4155155.jpg?tf=1200x' alt='Este chollo del Black Friday es de Xiaomi, pero muy desconocido, y cuesta solo 16 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/7-chollos-menos-20eu-picar-black-friday-alguna-compra-1426520'>7 chollos de menos de 20€ para picar en este Black Friday con alguna compra</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/7-chollos-menos-20eu-picar-black-friday-alguna-compra-1426520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/11/chollos-amazon.jpg?tf=1200x' alt='7 chollos de menos de 20€ para picar en este Black Friday con alguna compra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/futbol-gratis-nuevo-metodo-iptv-cuadernos-jupyter-1425548'>Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/futbol-gratis-nuevo-metodo-iptv-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-conseguido-compartir-canales-sea-facil-nunca-nueva-funcion-1426597'>WhatsApp ha conseguido que compartir canales sea más fácil que nunca con esta nueva función</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-conseguido-compartir-canales-sea-facil-nunca-nueva-funcion-1426597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-ha-conseguido-compartir-canales-sea-facil-nunca-nueva-funcion-4267504.jpg?tf=1200x' alt='WhatsApp ha conseguido que compartir canales sea más fácil que nunca con esta nueva función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/grok-independiza-ia-elon-musk-escondida-x-tendra-propia-aplicacion-1426542'>Grok se independiza, la IA de Elon Musk escondida en X tendrá su propia aplicación</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/grok-independiza-ia-elon-musk-escondida-x-tendra-propia-aplicacion-1426542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Grok se independiza, la IA de Elon Musk escondida en X tendrá su propia aplicación' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-atresplayer-lanzan-suscripcion-conjunta-precio-contenido-incluye-1426591'>Disney+ y Atresplayer lanzan una suscripción conjunta: precio y contenido que incluye </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-atresplayer-lanzan-suscripcion-conjunta-precio-contenido-incluye-1426591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disney-atresplayer-premium-4267548.jpg?tf=1200x' alt='Disney+ y Atresplayer lanzan una suscripción conjunta: precio y contenido que incluye ' />
     </a>
 </div>
 
