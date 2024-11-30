@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598'>Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-4259499.jpg?tf=1200x' alt='Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/buscar-archivos-windows-nueva-app-microsoft-promete-hacerlo-util-verdad-1426822'>¿Buscar archivos en Windows? La nueva app de Microsoft promete hacerlo útil de verdad</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/buscar-archivos-windows-nueva-app-microsoft-promete-hacerlo-util-verdad-1426822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/busqueda-windows-11-4267947.jpg?tf=1200x' alt='¿Buscar archivos en Windows? La nueva app de Microsoft promete hacerlo útil de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-1419097'>Ni Star Wars ni Alien: esta es la mejor película de ciencia ficción de todos los tiempos, según la crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-1419097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-4262394.jpg?tf=1200x' alt='Ni Star Wars ni Alien: esta es la mejor película de ciencia ficción de todos los tiempos, según la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-revoluciona-compras-ia-opiniones-usuarios-alcance-clic-1426813'>Chrome revoluciona tus compras con IA: opiniones de usuarios al alcance de un clic</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-revoluciona-compras-ia-opiniones-usuarios-alcance-clic-1426813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4267935.jpg?tf=1200x' alt='Chrome revoluciona tus compras con IA: opiniones de usuarios al alcance de un clic' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/roomba-perfecta-casas-mascotas-rebajada-60-reconoce-obstaculos-1426427'>La Roomba perfecta para casas con mascotas está rebajada en un 60% ¡y hasta reconoce obstáculos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/roomba-perfecta-casas-mascotas-rebajada-60-reconoce-obstaculos-1426427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/irobot-roomba-j7-4267264.jpg?tf=1200x' alt='La Roomba perfecta para casas con mascotas está rebajada en un 60% ¡y hasta reconoce obstáculos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps-saber-corres-peligro-catastrofes-naturales-1425537'>10 apps para saber si corres peligro por catástrofes naturales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps-saber-corres-peligro-catastrofes-naturales-1425537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/alerta-terremoto-4265994.jpg?tf=1200x' alt='10 apps para saber si corres peligro por catástrofes naturales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-netflix-nasa-esa-entretener-ninos-mientras-aprenden-1426795'>Ni Disney+ ni Netflix: la NASA y la ESA te dicen cómo entretener a los niños mientras aprenden</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-netflix-nasa-esa-entretener-ninos-mientras-aprenden-1426795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-disney-ni-netflix-nasa-esa-te-dicen-como-entretener-ninos-mientras-aprenden-4267900.jpg?tf=1200x' alt='Ni Disney+ ni Netflix: la NASA y la ESA te dicen cómo entretener a los niños mientras aprenden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ruidos-extranos-apps-desconocidas-cuatro-senales-inequivocas-revelan-telefono-intervenido-1425449'>De ruidos extraños a apps desconocidas: cuatro señales inequívocas que revelan que tu teléfono está intervenido</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ruidos-extranos-apps-desconocidas-cuatro-senales-inequivocas-revelan-telefono-intervenido-1425449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ruidos-extranos-apps-desconocidas-cuatro-senales-inequivocas-revelan-telefono-intervenido-4265876.jpg?tf=1200x' alt='De ruidos extraños a apps desconocidas: cuatro señales inequívocas que revelan que tu teléfono está intervenido' />
     </a>
 </div>
 
