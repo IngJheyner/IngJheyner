@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-rugerizada-tank-pad-proyector-luz-camping-1426898'>Esta tablet rugerizada tiene un proyector integrado, para ver series en una pantalla de 150 pulgadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tablet-rugerizada-tank-pad-proyector-luz-camping-1426898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tablet-rugerizada-tiene-proyector-dentro-ver-series-pantalla-150-pulgadas-4268071.jpg?tf=1200x' alt='Esta tablet rugerizada tiene un proyector integrado, para ver series en una pantalla de 150 pulgadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-desafia-iphone-17-air-galaxy-s25-slim-debutaria-todo-mundo-2025-1426889'>Samsung desafía al iPhone 17 Air: el Galaxy S25 Slim debutaría en todo el mundo en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-desafia-iphone-17-air-galaxy-s25-slim-debutaria-todo-mundo-2025-1426889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Samsung desafía al iPhone 17 Air: el Galaxy S25 Slim debutaría en todo el mundo en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-cierra-era-avatares-xbox-dejaran-existir-puedes-recibir-reembolso-1426882'>Microsoft cierra una era: los avatares de Xbox dejarán de existir y así puedes recibir un reembolso</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-cierra-era-avatares-xbox-dejaran-existir-puedes-recibir-reembolso-1426882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/avatares-xbox-4268021.jpg?tf=1200x' alt='Microsoft cierra una era: los avatares de Xbox dejarán de existir y así puedes recibir un reembolso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/gmail-android-mejora-experiencia-usuario-funcion-arrastrar-soltar-direcciones-correo-1426864'>Gmail para Android mejora la experiencia de usuario con la función de arrastrar y soltar direcciones de correo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/gmail-android-mejora-experiencia-usuario-funcion-arrastrar-soltar-direcciones-correo-1426864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-ajustes-imprescindibles-mejorar-gmail-movil-android-3296489.jpg?tf=1200x' alt='Gmail para Android mejora la experiencia de usuario con la función de arrastrar y soltar direcciones de correo' />
     </a>
 </div>
 
