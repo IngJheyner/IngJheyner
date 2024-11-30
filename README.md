@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777'>La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-4267899.jpg?tf=1200x' alt='La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-puerta-sol-ni-ninguna-ciudad-madrid-experto-situa-centro-peninsula-pequeno-pueblo-1426767'>Ni la Puerta del Sol ni ninguna ciudad de Madrid, un experto sitúa el centro de la península en este pequeño pueblo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-puerta-sol-ni-ninguna-ciudad-madrid-experto-situa-centro-peninsula-pequeno-pueblo-1426767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-puerta-sol-ni-ninguna-ciudad-madrid-experto-situa-centro-peninsula-pequeno-pueblo-4267891.jpg?tf=1200x' alt='Ni la Puerta del Sol ni ninguna ciudad de Madrid, un experto sitúa el centro de la península en este pequeño pueblo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/bizum-desmiente-bulos-limites-envio-no-han-cambiado-1426766'>Bizum desmiente los bulos: los límites de envío no han cambiado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/bizum-desmiente-bulos-limites-envio-no-han-cambiado-1426766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bizum-desmiente-bulos-limites-envio-no-han-cambiado-4267843.jpg?tf=1200x' alt='Bizum desmiente los bulos: los límites de envío no han cambiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/disco-optico-diamantes-promete-almacenar-datos-millones-anos-1426760'>Un disco óptico de diamantes promete almacenar datos por millones de años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/disco-optico-diamantes-promete-almacenar-datos-millones-anos-1426760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disco-optico-diamantes-4267854.jpg?tf=1200x' alt='Un disco óptico de diamantes promete almacenar datos por millones de años' />
     </a>
 </div>
 
