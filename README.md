@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/listas-compra-pero-bien-1425595'>Listas de la compra, pero bien </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/listas-compra-pero-bien-1425595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/supermercado-4266181.jpg?tf=1200x' alt='Listas de la compra, pero bien ' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/experto-opina-javier-tebas-gran-batalla-laliga-iptv-quieres-gente-deje-usar-plataformas-piratas-no-basta-cerrarlas-1425648'>Experto opina sobre Javier Tebas y la gran batalla de LaLiga contra las IPTV: "Si quieres que la gente deje de usar plataformas piratas, no basta con cerrarlas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/experto-opina-javier-tebas-gran-batalla-laliga-iptv-quieres-gente-deje-usar-plataformas-piratas-no-basta-cerrarlas-1425648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-iptv-espana-4266712.jpg?tf=1200x' alt='Experto opina sobre Javier Tebas y la gran batalla de LaLiga contra las IPTV: "Si quieres que la gente deje de usar plataformas piratas, no basta con cerrarlas"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/plaud-notepin-ia-notas-analisis-opinion-1425090'>He probado el Plaud NotePin y he visto el futuro de la productividad con la IA (si la regulación se lo permite)</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/plaud-notepin-ia-notas-analisis-opinion-1425090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/plaud-notepin-analisis-opiniones-4267677.jpg?tf=1200x' alt='He probado el Plaud NotePin y he visto el futuro de la productividad con la IA (si la regulación se lo permite)' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/o2-aclara-como-hacer-test-velocidad-correctamente-saber-compania-te-enganando-1426523'>O2 aclara cómo hacer un test de velocidad correctamente para saber si tu compañía te está engañando</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/o2-aclara-como-hacer-test-velocidad-correctamente-saber-compania-te-enganando-1426523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/o2-aclara-como-hacer-test-velocidad-correctamente-saber-compania-te-enganando-4267473.jpg?tf=1200x' alt='O2 aclara cómo hacer un test de velocidad correctamente para saber si tu compañía te está engañando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-1426158'>Este es mi truco para no equivocarme nunca al elegir el mejor cable para cargar el móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-1426158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-4266889.jpg?tf=1200x' alt='Este es mi truco para no equivocarme nunca al elegir el mejor cable para cargar el móvil' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/panasonic-resucita-fundador-ia-sera-consultada-tomar-decisiones-1426787'>Panasonic "resucita" a su fundador con una IA, que será consultada para tomar decisiones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/panasonic-resucita-fundador-ia-sera-consultada-tomar-decisiones-1426787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/panasonic-resucita-fundador-ia-transmitir-sabiduria-empleados-4267907.jpg?tf=1200x' alt='Panasonic "resucita" a su fundador con una IA, que será consultada para tomar decisiones' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ultima-llamada-ps5-sigue-oferta-hay-stock-pronto-volvera-subir-precio-1426279'>Última llamada: la PS5 sigue en oferta, hay stock y pronto volverá a subir de precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ultima-llamada-ps5-sigue-oferta-hay-stock-pronto-volvera-subir-precio-1426279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Última llamada: la PS5 sigue en oferta, hay stock y pronto volverá a subir de precio' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usuarios-europa-iptv-ver-futbol-gratis-fin-semana-1426301'>22 millones de usuarios se quedan sin IPTV para ver el fútbol gratis este fin de semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/usuarios-europa-iptv-ver-futbol-gratis-fin-semana-1426301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aficionado-futbol-desesperado-no-puede-ver-partido-iptv-4267716.jpg?tf=1200x' alt='22 millones de usuarios se quedan sin IPTV para ver el fútbol gratis este fin de semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777'>La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-4267899.jpg?tf=1200x' alt='La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/agujero-todo-mundo-tiene-movil-pero-casi-nadie-sabe-sirve-1425555'>El agujero que todo el mundo tiene en su móvil, pero que casi nadie sabe para qué sirve</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/agujero-todo-mundo-tiene-movil-pero-casi-nadie-sabe-sirve-1425555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/agujero-todo-mundo-tiene-movil-pero-casi-nadie-sabe-sirve-4266027.jpg?tf=1200x' alt='El agujero que todo el mundo tiene en su móvil, pero que casi nadie sabe para qué sirve' />
     </a>
 </div>
 
