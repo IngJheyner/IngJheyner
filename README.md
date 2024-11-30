@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/polar-va-garmin-rebaja-alternativa-fenix-mucho-barata-casi-mitad-precio-1425711'>Polar va a por Garmin: rebaja la alternativa a los Fenix, mucho más barata casi a mitad de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/polar-va-garmin-rebaja-alternativa-fenix-mucho-barata-casi-mitad-precio-1425711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Polar va a por Garmin: rebaja la alternativa a los Fenix, mucho más barata casi a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/40000-kilometros-fibra-optica-ambicioso-cable-submarino-meta-dara-vuelta-mundo-1426843'>40.000 kilómetros de fibra óptica: el ambicioso cable submarino de Meta que dará la vuelta al mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/40000-kilometros-fibra-optica-ambicioso-cable-submarino-meta-dara-vuelta-mundo-1426843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cable-submarino-meta-4267974.jpg?tf=1200x' alt='40.000 kilómetros de fibra óptica: el ambicioso cable submarino de Meta que dará la vuelta al mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/buscar-archivos-windows-nueva-app-microsoft-promete-hacerlo-util-verdad-1426822'>¿Buscar archivos en Windows? La nueva app de Microsoft promete hacerlo útil de verdad</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/buscar-archivos-windows-nueva-app-microsoft-promete-hacerlo-util-verdad-1426822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/busqueda-windows-11-4267947.jpg?tf=1200x' alt='¿Buscar archivos en Windows? La nueva app de Microsoft promete hacerlo útil de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-1419097'>Ni Star Wars ni Alien: esta es la mejor película de ciencia ficción de todos los tiempos, según la crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-1419097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-4262394.jpg?tf=1200x' alt='Ni Star Wars ni Alien: esta es la mejor película de ciencia ficción de todos los tiempos, según la crítica' />
     </a>
 </div>
 
