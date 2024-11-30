@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/listas-compra-pero-bien-1425595'>Listas de la compra, pero bien </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/listas-compra-pero-bien-1425595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/supermercado-4266181.jpg?tf=1200x' alt='Listas de la compra, pero bien ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/plaud-notepin-ia-notas-analisis-opinion-1425090'>He probado el Plaud NotePin y he visto el futuro de la productividad con la IA (si la regulación se lo permite)</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/plaud-notepin-ia-notas-analisis-opinion-1425090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/plaud-notepin-analisis-opiniones-4267677.jpg?tf=1200x' alt='He probado el Plaud NotePin y he visto el futuro de la productividad con la IA (si la regulación se lo permite)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-1426158'>Este es mi truco para no equivocarme nunca al elegir el mejor cable para cargar el móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-1426158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-4266889.jpg?tf=1200x' alt='Este es mi truco para no equivocarme nunca al elegir el mejor cable para cargar el móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777'>La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-4267899.jpg?tf=1200x' alt='La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-puerta-sol-ni-ninguna-ciudad-madrid-experto-situa-centro-peninsula-pequeno-pueblo-1426767'>Ni la Puerta del Sol ni ninguna ciudad de Madrid, un experto sitúa el centro de la península en este pequeño pueblo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-puerta-sol-ni-ninguna-ciudad-madrid-experto-situa-centro-peninsula-pequeno-pueblo-1426767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-puerta-sol-ni-ninguna-ciudad-madrid-experto-situa-centro-peninsula-pequeno-pueblo-4267891.jpg?tf=1200x' alt='Ni la Puerta del Sol ni ninguna ciudad de Madrid, un experto sitúa el centro de la península en este pequeño pueblo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/polemica-funcion-firefox-busca-ser-navegador-predeterminado-descarga-1426774'>Polémica función de Firefox: busca ser el navegador predeterminado desde la descarga</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/polemica-funcion-firefox-busca-ser-navegador-predeterminado-descarga-1426774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/polemica-funcion-firefox-busca-ser-navegador-predeterminado-descarga-4267885.jpg?tf=1200x' alt='Polémica función de Firefox: busca ser el navegador predeterminado desde la descarga' />
     </a>
 </div>
 
