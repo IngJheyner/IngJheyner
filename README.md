@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-netflix-nasa-esa-entretener-ninos-mientras-aprenden-1426795'>Ni Disney+ ni Netflix: la NASA y la ESA te dicen cómo entretener a los niños mientras aprenden</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-disney-ni-netflix-nasa-esa-entretener-ninos-mientras-aprenden-1426795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-disney-ni-netflix-nasa-esa-te-dicen-como-entretener-ninos-mientras-aprenden-4267900.jpg?tf=1200x' alt='Ni Disney+ ni Netflix: la NASA y la ESA te dicen cómo entretener a los niños mientras aprenden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ruidos-extranos-apps-desconocidas-cuatro-senales-inequivocas-revelan-telefono-intervenido-1425449'>De ruidos extraños a apps desconocidas: cuatro señales inequívocas que revelan que tu teléfono está intervenido</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ruidos-extranos-apps-desconocidas-cuatro-senales-inequivocas-revelan-telefono-intervenido-1425449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ruidos-extranos-apps-desconocidas-cuatro-senales-inequivocas-revelan-telefono-intervenido-4265876.jpg?tf=1200x' alt='De ruidos extraños a apps desconocidas: cuatro señales inequívocas que revelan que tu teléfono está intervenido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/experto-opina-javier-tebas-gran-batalla-laliga-iptv-quieres-gente-deje-usar-plataformas-piratas-no-basta-cerrarlas-1425648'>Experto opina sobre Javier Tebas y la gran batalla de LaLiga contra las IPTV: "Si quieres que la gente deje de usar plataformas piratas, no basta con cerrarlas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/experto-opina-javier-tebas-gran-batalla-laliga-iptv-quieres-gente-deje-usar-plataformas-piratas-no-basta-cerrarlas-1425648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-iptv-espana-4266712.jpg?tf=1200x' alt='Experto opina sobre Javier Tebas y la gran batalla de LaLiga contra las IPTV: "Si quieres que la gente deje de usar plataformas piratas, no basta con cerrarlas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/panasonic-resucita-fundador-ia-sera-consultada-tomar-decisiones-1426787'>Panasonic "resucita" a su fundador con una IA, que será consultada para tomar decisiones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/panasonic-resucita-fundador-ia-sera-consultada-tomar-decisiones-1426787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/panasonic-resucita-fundador-ia-transmitir-sabiduria-empleados-4267907.jpg?tf=1200x' alt='Panasonic "resucita" a su fundador con una IA, que será consultada para tomar decisiones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usuarios-europa-iptv-ver-futbol-gratis-fin-semana-1426301'>22 millones de usuarios se quedan sin IPTV para ver el fútbol gratis este fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/usuarios-europa-iptv-ver-futbol-gratis-fin-semana-1426301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/aficionado-futbol-desesperado-no-puede-ver-partido-iptv-4267716.jpg?tf=1200x' alt='22 millones de usuarios se quedan sin IPTV para ver el fútbol gratis este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/agujero-todo-mundo-tiene-movil-pero-casi-nadie-sabe-sirve-1425555'>El agujero que todo el mundo tiene en su móvil, pero que casi nadie sabe para qué sirve</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/agujero-todo-mundo-tiene-movil-pero-casi-nadie-sabe-sirve-1425555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/agujero-todo-mundo-tiene-movil-pero-casi-nadie-sabe-sirve-4266027.jpg?tf=1200x' alt='El agujero que todo el mundo tiene en su móvil, pero que casi nadie sabe para qué sirve' />
     </a>
 </div>
 
