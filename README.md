@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/gmail-android-mejora-experiencia-usuario-funcion-arrastrar-soltar-direcciones-correo-1426864'>Gmail para Android mejora la experiencia de usuario con la función de arrastrar y soltar direcciones de correo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/gmail-android-mejora-experiencia-usuario-funcion-arrastrar-soltar-direcciones-correo-1426864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-ajustes-imprescindibles-mejorar-gmail-movil-android-3296489.jpg?tf=1200x' alt='Gmail para Android mejora la experiencia de usuario con la función de arrastrar y soltar direcciones de correo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-acusa-vinicius-junior-pirateria-liverpool-vs-real-madrid-champions-estaba-pirateando-partido-1426857'>Javier Tebas acusa a Vinicius Júnior de piratería en el Liverpool vs Real Madrid de Champions: "Estaba pirateando el partido"</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/javier-tebas-acusa-vinicius-junior-pirateria-liverpool-vs-real-madrid-champions-estaba-pirateando-partido-1426857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/vinicius-jugador-real-madrid.jpg?tf=1200x' alt='Javier Tebas acusa a Vinicius Júnior de piratería en el Liverpool vs Real Madrid de Champions: "Estaba pirateando el partido"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/40000-kilometros-fibra-optica-ambicioso-cable-submarino-meta-dara-vuelta-mundo-1426843'>40.000 kilómetros de fibra óptica: el ambicioso cable submarino de Meta que dará la vuelta al mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/40000-kilometros-fibra-optica-ambicioso-cable-submarino-meta-dara-vuelta-mundo-1426843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cable-submarino-meta-4267974.jpg?tf=1200x' alt='40.000 kilómetros de fibra óptica: el ambicioso cable submarino de Meta que dará la vuelta al mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/experta-revela-truco-conseguir-cita-medico-dia-siguiente-movil-salir-casa-1426681'>Una experta revela el truco para conseguir cita en el médico al día siguiente, con el móvil y sin salir de casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/experta-revela-truco-conseguir-cita-medico-dia-siguiente-movil-salir-casa-1426681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cita-medica-seguridad-social-4267730.jpg?tf=1200x' alt='Una experta revela el truco para conseguir cita en el médico al día siguiente, con el móvil y sin salir de casa' />
     </a>
 </div>
 
