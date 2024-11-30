@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-1426158'>Este es mi truco para no equivocarme nunca al elegir el mejor cable para cargar el móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-1426158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mi-truco-no-equivocarme-nunca-elegir-mejor-cable-cargar-movil-4266889.jpg?tf=1200x' alt='Este es mi truco para no equivocarme nunca al elegir el mejor cable para cargar el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ultima-llamada-ps5-sigue-oferta-hay-stock-pronto-volvera-subir-precio-1426279'>Última llamada: la PS5 sigue en oferta, hay stock y pronto volverá a subir de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ultima-llamada-ps5-sigue-oferta-hay-stock-pronto-volvera-subir-precio-1426279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/playstation-5-ps5-2963696.jpg?tf=1200x' alt='Última llamada: la PS5 sigue en oferta, hay stock y pronto volverá a subir de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777'>La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-1426777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-ya-puede-hacer-ti-mejor-mismo-solo-necesita-charlar-contigo-par-horas-4267899.jpg?tf=1200x' alt='La IA ya puede hacer de ti mejor que tú mismo, solo necesita charlar contigo un par de horas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/polemica-funcion-firefox-busca-ser-navegador-predeterminado-descarga-1426774'>Polémica función de Firefox: busca ser el navegador predeterminado desde la descarga</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/polemica-funcion-firefox-busca-ser-navegador-predeterminado-descarga-1426774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/polemica-funcion-firefox-busca-ser-navegador-predeterminado-descarga-4267885.jpg?tf=1200x' alt='Polémica función de Firefox: busca ser el navegador predeterminado desde la descarga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mercadona-mejor-movil-limite-maximo-monedas-dinero-efectivo-puedes-pagar-1426738'>Al Mercadona, mejor con el móvil: este es límite máximo de monedas y dinero en efectivo con el que puedes pagar</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mercadona-mejor-movil-limite-maximo-monedas-dinero-efectivo-puedes-pagar-1426738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mercadona-mejor-movil-limite-maximo-monedas-dinero-efectivo-puedes-pagar-4267873.jpg?tf=1200x' alt='Al Mercadona, mejor con el móvil: este es límite máximo de monedas y dinero en efectivo con el que puedes pagar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-desmiente-bulos-limites-envio-no-han-cambiado-1426766'>Bizum desmiente los bulos: los límites de envío no han cambiado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bizum-desmiente-bulos-limites-envio-no-han-cambiado-1426766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/bizum-desmiente-bulos-limites-envio-no-han-cambiado-4267843.jpg?tf=1200x' alt='Bizum desmiente los bulos: los límites de envío no han cambiado' />
     </a>
 </div>
 
