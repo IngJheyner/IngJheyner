@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-acusa-vinicius-junior-pirateria-liverpool-vs-real-madrid-champions-estaba-pirateando-partido-1426857'>Javier Tebas acusa a Vinicius Júnior de piratería en el Liverpool vs Real Madrid de Champions: "Estaba pirateando el partido"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-acusa-vinicius-junior-pirateria-liverpool-vs-real-madrid-champions-estaba-pirateando-partido-1426857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/vinicius-jugador-real-madrid.jpg?tf=1200x' alt='Javier Tebas acusa a Vinicius Júnior de piratería en el Liverpool vs Real Madrid de Champions: "Estaba pirateando el partido"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-asistente-google-deja-notificaciones-persistentes-estos-moviles-1426848'>Un error en el Asistente de Google deja notificaciones persistentes en estos móviles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/error-asistente-google-deja-notificaciones-persistentes-estos-moviles-1426848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-assistant-4267979.jpg?tf=1200x' alt='Un error en el Asistente de Google deja notificaciones persistentes en estos móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/experta-revela-truco-conseguir-cita-medico-dia-siguiente-movil-salir-casa-1426681'>Una experta revela el truco para conseguir cita en el médico al día siguiente, con el móvil y sin salir de casa</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/experta-revela-truco-conseguir-cita-medico-dia-siguiente-movil-salir-casa-1426681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cita-medica-seguridad-social-4267730.jpg?tf=1200x' alt='Una experta revela el truco para conseguir cita en el médico al día siguiente, con el móvil y sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598'>Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-4259499.jpg?tf=1200x' alt='Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo' />
     </a>
 </div>
 
