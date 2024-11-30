@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/40000-kilometros-fibra-optica-ambicioso-cable-submarino-meta-dara-vuelta-mundo-1426843'>40.000 kilómetros de fibra óptica: el ambicioso cable submarino de Meta que dará la vuelta al mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/40000-kilometros-fibra-optica-ambicioso-cable-submarino-meta-dara-vuelta-mundo-1426843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cable-submarino-meta-4267974.jpg?tf=1200x' alt='40.000 kilómetros de fibra óptica: el ambicioso cable submarino de Meta que dará la vuelta al mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/experta-revela-truco-conseguir-cita-medico-dia-siguiente-movil-salir-casa-1426681'>Una experta revela el truco para conseguir cita en el médico al día siguiente, con el móvil y sin salir de casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/experta-revela-truco-conseguir-cita-medico-dia-siguiente-movil-salir-casa-1426681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cita-medica-seguridad-social-4267730.jpg?tf=1200x' alt='Una experta revela el truco para conseguir cita en el médico al día siguiente, con el móvil y sin salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598'>Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-4259499.jpg?tf=1200x' alt='Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-1419097'>Ni Star Wars ni Alien: esta es la mejor película de ciencia ficción de todos los tiempos, según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-1419097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-star-wars-ni-alien-mejor-pelicula-ciencia-ficcion-todos-tiempos-critica-4262394.jpg?tf=1200x' alt='Ni Star Wars ni Alien: esta es la mejor película de ciencia ficción de todos los tiempos, según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-revoluciona-compras-ia-opiniones-usuarios-alcance-clic-1426813'>Chrome revoluciona tus compras con IA: opiniones de usuarios al alcance de un clic</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-revoluciona-compras-ia-opiniones-usuarios-alcance-clic-1426813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4267935.jpg?tf=1200x' alt='Chrome revoluciona tus compras con IA: opiniones de usuarios al alcance de un clic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/roomba-perfecta-casas-mascotas-rebajada-60-reconoce-obstaculos-1426427'>La Roomba perfecta para casas con mascotas está rebajada en un 60% ¡y hasta reconoce obstáculos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/roomba-perfecta-casas-mascotas-rebajada-60-reconoce-obstaculos-1426427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/irobot-roomba-j7-4267264.jpg?tf=1200x' alt='La Roomba perfecta para casas con mascotas está rebajada en un 60% ¡y hasta reconoce obstáculos' />
     </a>
 </div>
 
