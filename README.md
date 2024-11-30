@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-asistente-google-deja-notificaciones-persistentes-estos-moviles-1426848'>Un error en el Asistente de Google deja notificaciones persistentes en estos móviles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/error-asistente-google-deja-notificaciones-persistentes-estos-moviles-1426848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-assistant-4267979.jpg?tf=1200x' alt='Un error en el Asistente de Google deja notificaciones persistentes en estos móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/polar-va-garmin-rebaja-alternativa-fenix-mucho-barata-casi-mitad-precio-1425711'>Polar va a por Garmin: rebaja la alternativa a los Fenix, mucho más barata casi a mitad de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/polar-va-garmin-rebaja-alternativa-fenix-mucho-barata-casi-mitad-precio-1425711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/polar-grit-x-pro-3285939.jpg?tf=1200x' alt='Polar va a por Garmin: rebaja la alternativa a los Fenix, mucho más barata casi a mitad de precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598'>Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-1417598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-desactivar-buscar-mi-mac-implica-seguridad-dispositivo-4259499.jpg?tf=1200x' alt='Cómo desactivar Buscar mi Mac y qué implica para la seguridad de tu dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/buscar-archivos-windows-nueva-app-microsoft-promete-hacerlo-util-verdad-1426822'>¿Buscar archivos en Windows? La nueva app de Microsoft promete hacerlo útil de verdad</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/buscar-archivos-windows-nueva-app-microsoft-promete-hacerlo-util-verdad-1426822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/busqueda-windows-11-4267947.jpg?tf=1200x' alt='¿Buscar archivos en Windows? La nueva app de Microsoft promete hacerlo útil de verdad' />
     </a>
 </div>
 
