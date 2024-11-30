@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-desafia-iphone-17-air-galaxy-s25-slim-debutaria-todo-mundo-2025-1426889'>Samsung desafía al iPhone 17 Air: el Galaxy S25 Slim debutaría en todo el mundo en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-desafia-iphone-17-air-galaxy-s25-slim-debutaria-todo-mundo-2025-1426889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Samsung desafía al iPhone 17 Air: el Galaxy S25 Slim debutaría en todo el mundo en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cambio-llevas-toda-vida-esperando-llega-finalmente-outlook-1426884'>El cambio que llevas toda la vida esperando llega finalmente a Outlook</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cambio-llevas-toda-vida-esperando-llega-finalmente-outlook-1426884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4127100.jpg?tf=1200x' alt='El cambio que llevas toda la vida esperando llega finalmente a Outlook' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-modo-traductor-google-recordara-preferencias-traduccion-1426883'>El nuevo modo del traductor de Google recordará tus preferencias de traducción</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevo-modo-traductor-google-recordara-preferencias-traduccion-1426883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/traductor-google-3541592.jpg?tf=1200x' alt='El nuevo modo del traductor de Google recordará tus preferencias de traducción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/gmail-android-mejora-experiencia-usuario-funcion-arrastrar-soltar-direcciones-correo-1426864'>Gmail para Android mejora la experiencia de usuario con la función de arrastrar y soltar direcciones de correo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/gmail-android-mejora-experiencia-usuario-funcion-arrastrar-soltar-direcciones-correo-1426864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/6-ajustes-imprescindibles-mejorar-gmail-movil-android-3296489.jpg?tf=1200x' alt='Gmail para Android mejora la experiencia de usuario con la función de arrastrar y soltar direcciones de correo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-acusa-vinicius-junior-pirateria-liverpool-vs-real-madrid-champions-estaba-pirateando-partido-1426857'>Javier Tebas acusa a Vinicius Júnior de piratería en el Liverpool vs Real Madrid de Champions: "Estaba pirateando el partido"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-acusa-vinicius-junior-pirateria-liverpool-vs-real-madrid-champions-estaba-pirateando-partido-1426857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/12/vinicius-jugador-real-madrid.jpg?tf=1200x' alt='Javier Tebas acusa a Vinicius Júnior de piratería en el Liverpool vs Real Madrid de Champions: "Estaba pirateando el partido"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-asistente-google-deja-notificaciones-persistentes-estos-moviles-1426848'>Un error en el Asistente de Google deja notificaciones persistentes en estos móviles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/error-asistente-google-deja-notificaciones-persistentes-estos-moviles-1426848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-assistant-4267979.jpg?tf=1200x' alt='Un error en el Asistente de Google deja notificaciones persistentes en estos móviles' />
     </a>
 </div>
 
