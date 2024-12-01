@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-internacional-pagos-italia-portugal-andorra-1426975'>Bizum Internacional probará una importante novedad este mes, si viajas al extranjero</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bizum-internacional-pagos-italia-portugal-andorra-1426975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bizum-probara-importante-novedad-mes-viajas-extranjero-4268192.jpg?tf=1200x' alt='Bizum Internacional probará una importante novedad este mes, si viajas al extranjero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-intel-arc-battlemage-especificaciones-finales-intel-arc-b570-b580-1426968'>Las tarjetas Intel Arc Battlemage ya están aquí: Intel Arc B570 y B580, listas para competir con RTX 4060</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tarjetas-intel-arc-battlemage-especificaciones-finales-intel-arc-b570-b580-1426968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjetas-intel-arc-battlemage-ya-estan-aqui-especificaciones-finales-intel-arc-b570-b580-4268182.jpg?tf=1200x' alt='Las tarjetas Intel Arc Battlemage ya están aquí: Intel Arc B570 y B580, listas para competir con RTX 4060' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944'>Outlook marca el correo electrónico de Microsoft como “basura”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/outlook-marca-correo-electronico-microsoft-como-basura-4268121.jpg?tf=1200x' alt='Outlook marca el correo electrónico de Microsoft como “basura”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-tienes-dar-datos-pedir-ensalada-abogado-advierte-uso-codigos-qr-como-cartas-restaurantes-1426592'>"No tienes que dar tus datos para pedir una ensalada": Un abogado advierte sobre el uso de códigos QR como cartas en restaurantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-tienes-dar-datos-pedir-ensalada-abogado-advierte-uso-codigos-qr-como-cartas-restaurantes-1426592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-lawtips-4267718.jpg?tf=1200x' alt='"No tienes que dar tus datos para pedir una ensalada": Un abogado advierte sobre el uso de códigos QR como cartas en restaurantes' />
     </a>
 </div>
 
