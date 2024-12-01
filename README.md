@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944'>Outlook marca el correo electrónico de Microsoft como “basura”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/outlook-marca-correo-electronico-microsoft-como-basura-4268121.jpg?tf=1200x' alt='Outlook marca el correo electrónico de Microsoft como “basura”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/no-tienes-dar-datos-pedir-ensalada-abogado-advierte-uso-codigos-qr-como-cartas-restaurantes-1426592'>"No tienes que dar tus datos para pedir una ensalada": Un abogado advierte sobre el uso de códigos QR como cartas en restaurantes</a></h4>
     <a href='https://computerhoy.20minutos.es/life/no-tienes-dar-datos-pedir-ensalada-abogado-advierte-uso-codigos-qr-como-cartas-restaurantes-1426592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-lawtips-4267718.jpg?tf=1200x' alt='"No tienes que dar tus datos para pedir una ensalada": Un abogado advierte sobre el uso de códigos QR como cartas en restaurantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410'>Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-office-3250623.jpg?tf=1200x' alt='Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/google-ultima-renovado-administrador-tareas-chrome-windows-11-1426934'>Google ultima un renovado administrador de tareas para Chrome en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/google-ultima-renovado-administrador-tareas-chrome-windows-11-1426934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/administrador-tareas-chrome-windows-11-4268110.jpg?tf=1200x' alt='Google ultima un renovado administrador de tareas para Chrome en Windows 11' />
     </a>
 </div>
 
