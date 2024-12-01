@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-tienes-dar-datos-pedir-ensalada-abogado-advierte-uso-codigos-qr-como-cartas-restaurantes-1426592'>"No tienes que dar tus datos para pedir una ensalada": Un abogado advierte sobre el uso de códigos QR como cartas en restaurantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-tienes-dar-datos-pedir-ensalada-abogado-advierte-uso-codigos-qr-como-cartas-restaurantes-1426592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-lawtips-4267718.jpg?tf=1200x' alt='"No tienes que dar tus datos para pedir una ensalada": Un abogado advierte sobre el uso de códigos QR como cartas en restaurantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/algunos-modelos-relojes-inteligentes-garmin-bloquean-varias-veces-mes-1426943'>Algunos modelos de relojes inteligentes Garmin se bloquean varias veces al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/algunos-modelos-relojes-inteligentes-garmin-bloquean-varias-veces-mes-1426943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4255363.jpg?tf=1200x' alt='Algunos modelos de relojes inteligentes Garmin se bloquean varias veces al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/truco-google-maps-me-permite-ver-ubicacion-contactos-mapa-1418357'>Este truco de Google Maps me permite ver la ubicación de mis contactos en un mapa</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/truco-google-maps-me-permite-ver-ubicacion-contactos-mapa-1418357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-google-maps-me-permite-ver-ubicacion-contactos-mapa-4260735.jpg?tf=1200x' alt='Este truco de Google Maps me permite ver la ubicación de mis contactos en un mapa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410'>Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-office-3250623.jpg?tf=1200x' alt='Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/google-ultima-renovado-administrador-tareas-chrome-windows-11-1426934'>Google ultima un renovado administrador de tareas para Chrome en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/google-ultima-renovado-administrador-tareas-chrome-windows-11-1426934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/administrador-tareas-chrome-windows-11-4268110.jpg?tf=1200x' alt='Google ultima un renovado administrador de tareas para Chrome en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-sistema-animar-emojis-conversacion-tengas-1426931'>Microsoft piensa en un sistema para animar emojis según la conversación que tengas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-sistema-animar-emojis-conversacion-tengas-1426931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/emojis-microsoft-4268104.jpg?tf=1200x' alt='Microsoft piensa en un sistema para animar emojis según la conversación que tengas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-robot-salvaje-ni-reves-2-pelicula-animacion-2024-preferida-critica-europea-1425427'>Ni Robot salvaje ni Del revés 2: esta es la película de animación de 2024 preferida por la crítica, y es europea</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-robot-salvaje-ni-reves-2-pelicula-animacion-2024-preferida-critica-europea-1425427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-robot-salvaje-ni-reves-2-pelicula-animacion-2024-preferida-critica-europea-4265844.jpg?tf=1200x' alt='Ni Robot salvaje ni Del revés 2: esta es la película de animación de 2024 preferida por la crítica, y es europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-1416318'>Cómo añadir paradas en Google Maps directamente desde la pantalla de Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-1416318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-4257379.jpg?tf=1200x' alt='Cómo añadir paradas en Google Maps directamente desde la pantalla de Android Auto' />
     </a>
 </div>
 
