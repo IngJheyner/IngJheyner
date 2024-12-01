@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-1425864'>Consejos y trucos ocultos para sacarle todo el provecho al administrador de tareas de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-1425864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-4266470.jpg?tf=1200x' alt='Consejos y trucos ocultos para sacarle todo el provecho al administrador de tareas de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-estado-punto-comprar-consola-retro-varias-veces-rebaja-no-me-pienso-1426577'>He estado a punto de comprar esta consola retro varias veces, y con esta rebaja no me lo pienso más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-estado-punto-comprar-consola-retro-varias-veces-rebaja-no-me-pienso-1426577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/anbernic-rg406v-rg-4267502.jpg?tf=1200x' alt='He estado a punto de comprar esta consola retro varias veces, y con esta rebaja no me lo pienso más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-rugerizada-tank-pad-proyector-luz-camping-1426898'>Esta tablet rugerizada tiene un proyector integrado, para ver series en una pantalla de 150 pulgadas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tablet-rugerizada-tank-pad-proyector-luz-camping-1426898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tablet-rugerizada-tiene-proyector-dentro-ver-series-pantalla-150-pulgadas-4268071.jpg?tf=1200x' alt='Esta tablet rugerizada tiene un proyector integrado, para ver series en una pantalla de 150 pulgadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/cambio-llevas-toda-vida-esperando-llega-finalmente-outlook-1426884'>El cambio que llevas toda la vida esperando llega finalmente a Outlook</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cambio-llevas-toda-vida-esperando-llega-finalmente-outlook-1426884' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4127100.jpg?tf=1200x' alt='El cambio que llevas toda la vida esperando llega finalmente a Outlook' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-modo-traductor-google-recordara-preferencias-traduccion-1426883'>El nuevo modo del traductor de Google recordará tus preferencias de traducción</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevo-modo-traductor-google-recordara-preferencias-traduccion-1426883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/traductor-google-3541592.jpg?tf=1200x' alt='El nuevo modo del traductor de Google recordará tus preferencias de traducción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-cierra-era-avatares-xbox-dejaran-existir-puedes-recibir-reembolso-1426882'>Microsoft cierra una era: los avatares de Xbox dejarán de existir y así puedes recibir un reembolso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-cierra-era-avatares-xbox-dejaran-existir-puedes-recibir-reembolso-1426882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/avatares-xbox-4268021.jpg?tf=1200x' alt='Microsoft cierra una era: los avatares de Xbox dejarán de existir y así puedes recibir un reembolso' />
     </a>
 </div>
 
