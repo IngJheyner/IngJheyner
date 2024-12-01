@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/bandas-sonoras-videojuegos-mas-escuchadas-1426980'>Ni Zelda ni Mario: estas son las bandas sonoras de videojuegos más escuchadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/bandas-sonoras-videojuegos-mas-escuchadas-1426980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-zelda-ni-mario-estas-son-bandas-sonoras-videojuegos-escuchadas-4268229.jpg?tf=1200x' alt='Ni Zelda ni Mario: estas son las bandas sonoras de videojuegos más escuchadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/bizum-internacional-pagos-italia-portugal-andorra-1426975'>Bizum Internacional probará una importante novedad este mes, si viajas al extranjero</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/bizum-internacional-pagos-italia-portugal-andorra-1426975' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bizum-probara-importante-novedad-mes-viajas-extranjero-4268192.jpg?tf=1200x' alt='Bizum Internacional probará una importante novedad este mes, si viajas al extranjero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-endurece-politica-suplantacion-identidad-proteger-autenticidad-cuentas-1426948'>Bluesky endurece su política contra la suplantación de identidad para proteger la autenticidad de las cuentas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/bluesky-endurece-politica-suplantacion-identidad-proteger-autenticidad-cuentas-1426948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-4268128.jpg?tf=1200x' alt='Bluesky endurece su política contra la suplantación de identidad para proteger la autenticidad de las cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944'>Outlook marca el correo electrónico de Microsoft como “basura”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/outlook-marca-correo-electronico-microsoft-como-basura-4268121.jpg?tf=1200x' alt='Outlook marca el correo electrónico de Microsoft como “basura”' />
     </a>
 </div>
 
