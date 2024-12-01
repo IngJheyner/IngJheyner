@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-disco-duro-viejo-plataforma-emuladores-consolas-retro-1419820'>Cómo convertir un disco duro viejo en una plataforma de emuladores de consolas retro </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-disco-duro-viejo-plataforma-emuladores-consolas-retro-1419820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disco-duro-juegos-retro-4267274.jpg?tf=1200x' alt='Cómo convertir un disco duro viejo en una plataforma de emuladores de consolas retro ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/todavia-tienes-telefono-fijo-casa-experto-aconseja-deshacerse-directa-efectiva-1425649'>¿Todavía tienes teléfono fijo en casa? Experto aconseja deshacerse de él: "Es una vía más directa y efectiva"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/todavia-tienes-telefono-fijo-casa-experto-aconseja-deshacerse-directa-efectiva-1425649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-fijo-ciberseguridad-4267568.jpg?tf=1200x' alt='¿Todavía tienes teléfono fijo en casa? Experto aconseja deshacerse de él: "Es una vía más directa y efectiva"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/china-encuentra-yacimiento-oro-valorado-78500-millones-euros-1426901'>China encuentra un inmenso yacimiento de oro valorado en 78.500 millones de euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/china-encuentra-yacimiento-oro-valorado-78500-millones-euros-1426901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/china-encuentra-inmensa-mina-oro-valorada-78500-millones-euros-4268076.jpg?tf=1200x' alt='China encuentra un inmenso yacimiento de oro valorado en 78.500 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-demostrado-1425018'>Steve Jobs tenía razón: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-demostrado-1425018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-dado-razon-4265262.jpg?tf=1200x' alt='Steve Jobs tenía razón: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado' />
     </a>
 </div>
 
