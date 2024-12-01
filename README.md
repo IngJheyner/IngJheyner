@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410'>Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-office-3250623.jpg?tf=1200x' alt='Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/google-ultima-renovado-administrador-tareas-chrome-windows-11-1426934'>Google ultima un renovado administrador de tareas para Chrome en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/google-ultima-renovado-administrador-tareas-chrome-windows-11-1426934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/administrador-tareas-chrome-windows-11-4268110.jpg?tf=1200x' alt='Google ultima un renovado administrador de tareas para Chrome en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-sistema-animar-emojis-conversacion-tengas-1426931'>Microsoft piensa en un sistema para animar emojis según la conversación que tengas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-sistema-animar-emojis-conversacion-tengas-1426931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/emojis-microsoft-4268104.jpg?tf=1200x' alt='Microsoft piensa en un sistema para animar emojis según la conversación que tengas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-robot-salvaje-ni-reves-2-pelicula-animacion-2024-preferida-critica-europea-1425427'>Ni Robot salvaje ni Del revés 2: esta es la película de animación de 2024 preferida por la crítica, y es europea</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-robot-salvaje-ni-reves-2-pelicula-animacion-2024-preferida-critica-europea-1425427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-robot-salvaje-ni-reves-2-pelicula-animacion-2024-preferida-critica-europea-4265844.jpg?tf=1200x' alt='Ni Robot salvaje ni Del revés 2: esta es la película de animación de 2024 preferida por la crítica, y es europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-1416318'>Cómo añadir paradas en Google Maps directamente desde la pantalla de Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-1416318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-4257379.jpg?tf=1200x' alt='Cómo añadir paradas en Google Maps directamente desde la pantalla de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-disco-duro-viejo-plataforma-emuladores-consolas-retro-1419820'>Cómo convertir un disco duro viejo en una plataforma de emuladores de consolas retro </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-disco-duro-viejo-plataforma-emuladores-consolas-retro-1419820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disco-duro-juegos-retro-4267274.jpg?tf=1200x' alt='Cómo convertir un disco duro viejo en una plataforma de emuladores de consolas retro ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todavia-tienes-telefono-fijo-casa-experto-aconseja-deshacerse-directa-efectiva-1425649'>¿Todavía tienes teléfono fijo en casa? Experto aconseja deshacerse de él: "Es una vía más directa y efectiva"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todavia-tienes-telefono-fijo-casa-experto-aconseja-deshacerse-directa-efectiva-1425649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/telefono-fijo-ciberseguridad-4267568.jpg?tf=1200x' alt='¿Todavía tienes teléfono fijo en casa? Experto aconseja deshacerse de él: "Es una vía más directa y efectiva"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iptv-ni-tdt-app-gratis-spotify-radio-tiene-miles-emisoras-todo-mundo-1424994'>Ni IPTV ni TDT, esta app gratis es el Spotify de la radio: tiene miles emisoras de todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iptv-ni-tdt-app-gratis-spotify-radio-tiene-miles-emisoras-todo-mundo-1424994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/radio-4265220.jpg?tf=1200x' alt='Ni IPTV ni TDT, esta app gratis es el Spotify de la radio: tiene miles emisoras de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-airtag-mejores-apps-movil-rastrear-ubicacion-hijo-protegerlo-1425551'>Ni Google Maps ni AirTag: las mejores apps del móvil para rastrear la ubicación de tu hijo y protegerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-airtag-mejores-apps-movil-rastrear-ubicacion-hijo-protegerlo-1425551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-google-maps-ni-airtag-mejores-apps-movil-rastrear-ubicacion-hijo-protegerlo-4266020.jpg?tf=1200x' alt='Ni Google Maps ni AirTag: las mejores apps del móvil para rastrear la ubicación de tu hijo y protegerlo' />
     </a>
 </div>
 
