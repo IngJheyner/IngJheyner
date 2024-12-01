@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/recomende-freidora-cosori-mi-madre-me-arrepiento-no-haber-esperado-ahora-mucho-barata-nunca-1426872'>Recomendé esta freidora Cosori a mi madre y me arrepiento de no haber esperado: ahora es mucho más barata que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/recomende-freidora-cosori-mi-madre-me-arrepiento-no-haber-esperado-ahora-mucho-barata-nunca-1426872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg?tf=1200x' alt='Recomendé esta freidora Cosori a mi madre y me arrepiento de no haber esperado: ahora es mucho más barata que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-endurece-politica-suplantacion-identidad-proteger-autenticidad-cuentas-1426948'>Bluesky endurece su política contra la suplantación de identidad para proteger la autenticidad de las cuentas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bluesky-endurece-politica-suplantacion-identidad-proteger-autenticidad-cuentas-1426948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-4268128.jpg?tf=1200x' alt='Bluesky endurece su política contra la suplantación de identidad para proteger la autenticidad de las cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944'>Outlook marca el correo electrónico de Microsoft como “basura”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/outlook-marca-correo-electronico-microsoft-como-basura-1426944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/outlook-marca-correo-electronico-microsoft-como-basura-4268121.jpg?tf=1200x' alt='Outlook marca el correo electrónico de Microsoft como “basura”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/algunos-modelos-relojes-inteligentes-garmin-bloquean-varias-veces-mes-1426943'>Algunos modelos de relojes inteligentes Garmin se bloquean varias veces al mes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/algunos-modelos-relojes-inteligentes-garmin-bloquean-varias-veces-mes-1426943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4255363.jpg?tf=1200x' alt='Algunos modelos de relojes inteligentes Garmin se bloquean varias veces al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/truco-google-maps-me-permite-ver-ubicacion-contactos-mapa-1418357'>Este truco de Google Maps me permite ver la ubicación de mis contactos en un mapa</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/truco-google-maps-me-permite-ver-ubicacion-contactos-mapa-1418357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/truco-google-maps-me-permite-ver-ubicacion-contactos-mapa-4260735.jpg?tf=1200x' alt='Este truco de Google Maps me permite ver la ubicación de mis contactos en un mapa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410'>Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-deja-ko-google-office-365-6tb-nube-precio-derribo-1419410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/microsoft-office-3250623.jpg?tf=1200x' alt='Microsoft deja KO a Google: Office 365 con hasta 6TB en la nube a precio de derribo' />
     </a>
 </div>
 
