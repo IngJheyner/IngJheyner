@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986'>Quién es David Mayer, el nombre que bloquea por completo ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-david-mayer-nombre-bloquea-completo-chatgpt-4268251.jpg?tf=1200x' alt='Quién es David Mayer, el nombre que bloquea por completo ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/bandas-sonoras-videojuegos-mas-escuchadas-1426980'>Ni Zelda ni Mario: estas son las bandas sonoras de videojuegos más escuchadas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/bandas-sonoras-videojuegos-mas-escuchadas-1426980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-zelda-ni-mario-estas-son-bandas-sonoras-videojuegos-escuchadas-4268229.jpg?tf=1200x' alt='Ni Zelda ni Mario: estas son las bandas sonoras de videojuegos más escuchadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/recomende-freidora-cosori-mi-madre-me-arrepiento-no-haber-esperado-ahora-mucho-barata-nunca-1426872'>Recomendé esta freidora Cosori a mi madre y me arrepiento de no haber esperado: ahora es mucho más barata que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/recomende-freidora-cosori-mi-madre-me-arrepiento-no-haber-esperado-ahora-mucho-barata-nunca-1426872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg?tf=1200x' alt='Recomendé esta freidora Cosori a mi madre y me arrepiento de no haber esperado: ahora es mucho más barata que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-endurece-politica-suplantacion-identidad-proteger-autenticidad-cuentas-1426948'>Bluesky endurece su política contra la suplantación de identidad para proteger la autenticidad de las cuentas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bluesky-endurece-politica-suplantacion-identidad-proteger-autenticidad-cuentas-1426948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-4268128.jpg?tf=1200x' alt='Bluesky endurece su política contra la suplantación de identidad para proteger la autenticidad de las cuentas' />
     </a>
 </div>
 
