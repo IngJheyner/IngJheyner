@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-1416318'>Cómo añadir paradas en Google Maps directamente desde la pantalla de Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-1416318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/como-anadir-paradas-google-maps-directamente-pantalla-android-auto-4257379.jpg?tf=1200x' alt='Cómo añadir paradas en Google Maps directamente desde la pantalla de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-disco-duro-viejo-plataforma-emuladores-consolas-retro-1419820'>Cómo convertir un disco duro viejo en una plataforma de emuladores de consolas retro </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-disco-duro-viejo-plataforma-emuladores-consolas-retro-1419820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/disco-duro-juegos-retro-4267274.jpg?tf=1200x' alt='Cómo convertir un disco duro viejo en una plataforma de emuladores de consolas retro ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-airtag-mejores-apps-movil-rastrear-ubicacion-hijo-protegerlo-1425551'>Ni Google Maps ni AirTag: las mejores apps del móvil para rastrear la ubicación de tu hijo y protegerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-google-maps-ni-airtag-mejores-apps-movil-rastrear-ubicacion-hijo-protegerlo-1425551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-google-maps-ni-airtag-mejores-apps-movil-rastrear-ubicacion-hijo-protegerlo-4266020.jpg?tf=1200x' alt='Ni Google Maps ni AirTag: las mejores apps del móvil para rastrear la ubicación de tu hijo y protegerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/china-encuentra-yacimiento-oro-valorado-78500-millones-euros-1426901'>China encuentra un inmenso yacimiento de oro valorado en 78.500 millones de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/china-encuentra-yacimiento-oro-valorado-78500-millones-euros-1426901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/china-encuentra-inmensa-mina-oro-valorada-78500-millones-euros-4268076.jpg?tf=1200x' alt='China encuentra un inmenso yacimiento de oro valorado en 78.500 millones de euros' />
     </a>
 </div>
 
