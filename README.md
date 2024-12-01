@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/china-encuentra-yacimiento-oro-valorado-78500-millones-euros-1426901'>China encuentra un inmenso yacimiento de oro valorado en 78.500 millones de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/china-encuentra-yacimiento-oro-valorado-78500-millones-euros-1426901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/china-encuentra-inmensa-mina-oro-valorada-78500-millones-euros-4268076.jpg?tf=1200x' alt='China encuentra un inmenso yacimiento de oro valorado en 78.500 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-demostrado-1425018'>Steve Jobs tenía razón: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-demostrado-1425018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-dado-razon-4265262.jpg?tf=1200x' alt='Steve Jobs tenía razón: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/thunderbolt-5-modelos-mac-compatible-1419770'>¿Qué es Thunderbolt 5 y con qué modelos de Mac es compatible?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/thunderbolt-5-modelos-mac-compatible-1419770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/verticalimage1732887357036-4267699.jpg?tf=1200x' alt='¿Qué es Thunderbolt 5 y con qué modelos de Mac es compatible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/dyson-supersonic-nural-analisis-review-opinion-caracteristicas-1420119'>He probado el Dyson Supersonic Nural durante un mes: su versatilidad y diseño me han impresionado</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/dyson-supersonic-nural-analisis-review-opinion-caracteristicas-1420119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dyson-supersonic-nural-4267637.jpg?tf=1200x' alt='He probado el Dyson Supersonic Nural durante un mes: su versatilidad y diseño me han impresionado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-1425864'>Consejos y trucos ocultos para sacarle todo el provecho al administrador de tareas de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-1425864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-4266470.jpg?tf=1200x' alt='Consejos y trucos ocultos para sacarle todo el provecho al administrador de tareas de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-estado-punto-comprar-consola-retro-varias-veces-rebaja-no-me-pienso-1426577'>He estado a punto de comprar esta consola retro varias veces, y con esta rebaja no me lo pienso más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-estado-punto-comprar-consola-retro-varias-veces-rebaja-no-me-pienso-1426577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/anbernic-rg406v-rg-4267502.jpg?tf=1200x' alt='He estado a punto de comprar esta consola retro varias veces, y con esta rebaja no me lo pienso más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-rugerizada-tank-pad-proyector-luz-camping-1426898'>Esta tablet rugerizada tiene un proyector integrado, para ver series en una pantalla de 150 pulgadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tablet-rugerizada-tank-pad-proyector-luz-camping-1426898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tablet-rugerizada-tiene-proyector-dentro-ver-series-pantalla-150-pulgadas-4268071.jpg?tf=1200x' alt='Esta tablet rugerizada tiene un proyector integrado, para ver series en una pantalla de 150 pulgadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-desafia-iphone-17-air-galaxy-s25-slim-debutaria-todo-mundo-2025-1426889'>Samsung desafía al iPhone 17 Air: el Galaxy S25 Slim debutaría en todo el mundo en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-desafia-iphone-17-air-galaxy-s25-slim-debutaria-todo-mundo-2025-1426889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Samsung desafía al iPhone 17 Air: el Galaxy S25 Slim debutaría en todo el mundo en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cambio-llevas-toda-vida-esperando-llega-finalmente-outlook-1426884'>El cambio que llevas toda la vida esperando llega finalmente a Outlook</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cambio-llevas-toda-vida-esperando-llega-finalmente-outlook-1426884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4127100.jpg?tf=1200x' alt='El cambio que llevas toda la vida esperando llega finalmente a Outlook' />
     </a>
 </div>
 
