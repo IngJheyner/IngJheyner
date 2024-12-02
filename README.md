@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-nasa-tiene-claro-impacto-va-ser-brutal-forma-ser-pensar-sentir-relacionarnos-1427049'>El experto en IA de la NASA lo tiene claro: “Su impacto va a ser brutal en nuestra forma de ser, pensar, sentir y relacionarnos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-nasa-tiene-claro-impacto-va-ser-brutal-forma-ser-pensar-sentir-relacionarnos-1427049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-nasa-4268355.jpg?tf=1200x' alt='El experto en IA de la NASA lo tiene claro: “Su impacto va a ser brutal en nuestra forma de ser, pensar, sentir y relacionarnos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-1427036'>El gran cambio que planea Samsung para sus plegables tiene un responsable: Donald Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-1427036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-4268317.jpg?tf=1200x' alt='El gran cambio que planea Samsung para sus plegables tiene un responsable: Donald Trump' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/javier-tebas-dedica-ocho-horas-batalla-pirateria-google-conventos-monjas-1427061'>Javier Tebas dedica ocho horas a su batalla contra las IPTV pirata y caerán hasta los conventos de monjas</a></h4>
+    <a href='https://computerhoy.20minutos.es/javier-tebas-dedica-ocho-horas-batalla-pirateria-google-conventos-monjas-1427061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-pirateria-4268360.jpg?tf=1200x' alt='Javier Tebas dedica ocho horas a su batalla contra las IPTV pirata y caerán hasta los conventos de monjas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-padre-me-dijo-comprame-movil-barato-he-comprado-bastante-original-va-encantar-1427005'>Mi padre me dijo "cómprame un móvil barato" y le he comprado uno bastante original que le va a encantar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mi-padre-me-dijo-comprame-movil-barato-he-comprado-bastante-original-va-encantar-1427005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-phone-1-4268270.jpg?tf=1200x' alt='Mi padre me dijo "cómprame un móvil barato" y le he comprado uno bastante original que le va a encantar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/alerta-android-ocho-millones-usuarios-peligro-15-apps-infectadas-malware-1427045'>Alerta Android: ocho millones de usuarios en peligro por 15 apps infectadas con malware</a></h4>
     <a href='https://computerhoy.20minutos.es/android/alerta-android-ocho-millones-usuarios-peligro-15-apps-infectadas-malware-1427045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Alerta Android: ocho millones de usuarios en peligro por 15 apps infectadas con malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trinity-grupo-hackers-amenaza-agencia-tributaria-publicar-millones-datos-robados-1427025'>Qué es Trinity, el grupo de hackers que amenaza a la Agencia Tributaria con publicar millones de datos robados</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/trinity-grupo-hackers-amenaza-agencia-tributaria-publicar-millones-datos-robados-1427025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberataque-aeat-4268300.jpg?tf=1200x' alt='Qué es Trinity, el grupo de hackers que amenaza a la Agencia Tributaria con publicar millones de datos robados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-varias-vpn-mejor-ahora-ha-bajado-precio-viene-drive-propio-1426885'>He probado varias VPN y esta es la mejor: ahora ha bajado a su precio más bajo y viene con Drive propio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-varias-vpn-mejor-ahora-ha-bajado-precio-viene-drive-propio-1426885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-servidores-3285051.jpg?tf=1200x' alt='He probado varias VPN y esta es la mejor: ahora ha bajado a su precio más bajo y viene con Drive propio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/voy-jubilar-mi-firestick-android-tv-box-plex-kodi-iptv-smarters-pro-practica-libre-barata-1426875'>Voy a jubilar mi Firestick: esta Android TV Box con Plex, Kodi e IPTV Smarters Pro es más práctica, más libre y más barata</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/voy-jubilar-mi-firestick-android-tv-box-plex-kodi-iptv-smarters-pro-practica-libre-barata-1426875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transpeed-8k-4268011.jpg?tf=1200x' alt='Voy a jubilar mi Firestick: esta Android TV Box con Plex, Kodi e IPTV Smarters Pro es más práctica, más libre y más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-ofertas-cyber-monday-ultimo-dia-rebajas-1425608'>El Cyber Monday toma el relevo: las ofertas siguen en todas las tiendas y hoy es el último día antes de Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-ofertas-cyber-monday-ultimo-dia-rebajas-1425608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cyber-monday-4268267.jpg?tf=1200x' alt='El Cyber Monday toma el relevo: las ofertas siguen en todas las tiendas y hoy es el último día antes de Navidad' />
     </a>
 </div>
 
