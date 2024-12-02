@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trinity-grupo-hackers-amenaza-agencia-tributaria-publicar-millones-datos-robados-1427025'>Qué es Trinity, el grupo de hackers que amenaza a la Agencia Tributaria con publicar millones de datos robados</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/trinity-grupo-hackers-amenaza-agencia-tributaria-publicar-millones-datos-robados-1427025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberataque-aeat-4268300.jpg?tf=1200x' alt='Qué es Trinity, el grupo de hackers que amenaza a la Agencia Tributaria con publicar millones de datos robados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-varias-vpn-mejor-ahora-ha-bajado-precio-viene-drive-propio-1426885'>He probado varias VPN y esta es la mejor: ahora ha bajado a su precio más bajo y viene con Drive propio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-varias-vpn-mejor-ahora-ha-bajado-precio-viene-drive-propio-1426885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/nordvpn-servidores-3285051.jpg?tf=1200x' alt='He probado varias VPN y esta es la mejor: ahora ha bajado a su precio más bajo y viene con Drive propio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/adios-arruinarte-movil-mejor-motorola-moto-g55-5g-precio-deberia-estar-lista-1425387'>Adiós a arruinarte por un móvil: lo mejor de este Motorola Moto G55 5G es su precio y debería estar en tu lista</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/adios-arruinarte-movil-mejor-motorola-moto-g55-5g-precio-deberia-estar-lista-1425387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/motorola-moto-g5-5g-4264783.jpg?tf=1200x' alt='Adiós a arruinarte por un móvil: lo mejor de este Motorola Moto G55 5G es su precio y debería estar en tu lista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/he-probado-8-auriculares-2024-estos-son-favoritos-trabajar-1414935'>He probado 8 auriculares en 2024 y estos son mis favoritos para trabajar</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/he-probado-8-auriculares-2024-estos-son-favoritos-trabajar-1414935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-freebuds-6i-3444988.jpg?tf=1200x' alt='He probado 8 auriculares en 2024 y estos son mis favoritos para trabajar' />
     </a>
 </div>
 
