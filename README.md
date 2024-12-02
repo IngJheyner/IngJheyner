@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-intel-pat-gelsinger-retira-antes-echen-tendra-dos-sustitutos-1427274'>El CEO de Intel, Pat Gelsinger, se retira antes de que lo echen, tendrá dos sustitutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-intel-pat-gelsinger-retira-antes-echen-tendra-dos-sustitutos-1427274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ceo-intel-retira-antes-echen-tendra-dos-sustitutos-4268641.jpg?tf=1200x' alt='El CEO de Intel, Pat Gelsinger, se retira antes de que lo echen, tendrá dos sustitutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-1427256'>Ni Digi ni Vodafone: esta es la mejor fibra para ver Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-1427256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-4268640.jpg?tf=1200x' alt='Ni Digi ni Vodafone: esta es la mejor fibra para ver Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podrias-sobrevivir-mujer-gana-1300-euros-pasar-8-horas-usar-movil-1427271'>¿Podrías sobrevivir? Mujer gana más de 1300 euros por pasar 8 horas sin usar su móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/podrias-sobrevivir-mujer-gana-1300-euros-pasar-8-horas-usar-movil-1427271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adiccion-movil-4268648.jpg?tf=1200x' alt='¿Podrías sobrevivir? Mujer gana más de 1300 euros por pasar 8 horas sin usar su móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-11-usuarios-regresan-windows-10-1427263'>¿Adiós a Windows 11? Usuarios regresan a Windows 10</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-windows-11-usuarios-regresan-windows-10-1427263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-4268639.jpg?tf=1200x' alt='¿Adiós a Windows 11? Usuarios regresan a Windows 10' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-1427247'>Adiós a WhatsApp en todos estos iPhone: la aplicación de mensajería dejará de estar disponible muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-1427247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-4268624.jpg?tf=1200x' alt='Adiós a WhatsApp en todos estos iPhone: la aplicación de mensajería dejará de estar disponible muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-1427196'>Alerta estafa: si tienes un dispositivo Apple, mucho cuidado, podrían robarte tu cuenta y todos tus datos </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-1427196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-4268575.jpg?tf=1200x' alt='Alerta estafa: si tienes un dispositivo Apple, mucho cuidado, podrían robarte tu cuenta y todos tus datos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/libros-sam-altman-creador-chatgpt-recomienda-leer-regalar-estas-navidades-1426051'>Los libros que Sam Altman, creador de ChatGPT, recomienda leer (y regalar) estas navidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/libros-sam-altman-creador-chatgpt-recomienda-leer-regalar-estas-navidades-1426051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3309366.jpg?tf=1200x' alt='Los libros que Sam Altman, creador de ChatGPT, recomienda leer (y regalar) estas navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165'>Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-humano-4268508.jpg?tf=1200x' alt='Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos' />
     </a>
 </div>
 
