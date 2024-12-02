@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137'>La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-alerta-aumento-estafas-trashing-cuidado-tiras-basura-4263062.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/invento-cambiara-coches-electricos-completo-integra-frenos-motor-mejorar-conduccion-1427163'>El invento que cambiará los coches eléctricos por completo: integra los frenos en el motor para mejorar la conducción</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/invento-cambiara-coches-electricos-completo-integra-frenos-motor-mejorar-conduccion-1427163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/invento-cambiara-coches-electricos-completo-integra-frenos-motor-mejorar-conduccion-4268504.jpg?tf=1200x' alt='El invento que cambiará los coches eléctricos por completo: integra los frenos en el motor para mejorar la conducción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135'>Google Maps se ayuda de Waze para alertarte de los accidentes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-ayuda-waze-alertarte-accidentes-4268470.jpg?tf=1200x' alt='Google Maps se ayuda de Waze para alertarte de los accidentes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-estas-son-funciones-favoritas-ahorrar-dinero-viajes-1427119'>Waze: estas son mis funciones favoritas para ahorrar dinero en los viajes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-estas-son-funciones-favoritas-ahorrar-dinero-viajes-1427119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/waze-gasolineras-4268464.jpg?tf=1200x' alt='Waze: estas son mis funciones favoritas para ahorrar dinero en los viajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-fotos-lia-oculta-funciones-queridas-usuarios-1427136'>Google Fotos la lía y oculta una de las funciones más queridas por los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-fotos-lia-oculta-funciones-queridas-usuarios-1427136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-fotos-cambios-4268478.jpg?tf=1200x' alt='Google Fotos la lía y oculta una de las funciones más queridas por los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-toma-medidas-quiere-disimilar-migracion-x-bluesky-muchos-usuarios-1427121'>Elon Musk toma medidas: así quiere disimilar la migración de X a Bluesky de muchos usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/elon-musk-toma-medidas-quiere-disimilar-migracion-x-bluesky-muchos-usuarios-1427121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-x-bluesky-4268484.jpg?tf=1200x' alt='Elon Musk toma medidas: así quiere disimilar la migración de X a Bluesky de muchos usuarios' />
     </a>
 </div>
 
