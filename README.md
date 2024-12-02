@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-1427196'>Alerta estafa: si tienes un dispositivo Apple, mucho cuidado, podrían robarte tu cuenta y todos tus datos </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-1427196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-4268575.jpg?tf=1200x' alt='Alerta estafa: si tienes un dispositivo Apple, mucho cuidado, podrían robarte tu cuenta y todos tus datos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/libros-sam-altman-creador-chatgpt-recomienda-leer-regalar-estas-navidades-1426051'>Los libros que Sam Altman, creador de ChatGPT, recomienda leer (y regalar) estas navidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/libros-sam-altman-creador-chatgpt-recomienda-leer-regalar-estas-navidades-1426051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3309366.jpg?tf=1200x' alt='Los libros que Sam Altman, creador de ChatGPT, recomienda leer (y regalar) estas navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165'>Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-humano-4268508.jpg?tf=1200x' alt='Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137'>La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-alerta-aumento-estafas-trashing-cuidado-tiras-basura-4263062.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/invento-cambiara-coches-electricos-completo-integra-frenos-motor-mejorar-conduccion-1427163'>El invento que cambiará los coches eléctricos por completo: integra los frenos en el motor para mejorar la conducción</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/invento-cambiara-coches-electricos-completo-integra-frenos-motor-mejorar-conduccion-1427163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/invento-cambiara-coches-electricos-completo-integra-frenos-motor-mejorar-conduccion-4268504.jpg?tf=1200x' alt='El invento que cambiará los coches eléctricos por completo: integra los frenos en el motor para mejorar la conducción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135'>Google Maps se ayuda de Waze para alertarte de los accidentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-ayuda-waze-alertarte-accidentes-4268470.jpg?tf=1200x' alt='Google Maps se ayuda de Waze para alertarte de los accidentes' />
     </a>
 </div>
 
