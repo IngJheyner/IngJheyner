@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986'>Quién es David Mayer, el nombre que bloquea por completo ChatGPT</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986'>Quién es David Mayer, el nombre que rompe ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-david-mayer-nombre-bloquea-completo-chatgpt-4268251.jpg?tf=1200x' alt='Quién es David Mayer, el nombre que bloquea por completo ChatGPT' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-david-mayer-nombre-bloquea-completo-chatgpt-4268251.jpg?tf=1200x' alt='Quién es David Mayer, el nombre que rompe ChatGPT' />
     </a>
 </div>
 
