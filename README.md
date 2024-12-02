@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/alerta-android-ocho-millones-usuarios-peligro-15-apps-infectadas-malware-1427045'>Alerta Android: ocho millones de usuarios en peligro por 15 apps infectadas con malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/alerta-android-ocho-millones-usuarios-peligro-15-apps-infectadas-malware-1427045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Alerta Android: ocho millones de usuarios en peligro por 15 apps infectadas con malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trinity-grupo-hackers-amenaza-agencia-tributaria-publicar-millones-datos-robados-1427025'>Qué es Trinity, el grupo de hackers que amenaza a la Agencia Tributaria con publicar millones de datos robados</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/trinity-grupo-hackers-amenaza-agencia-tributaria-publicar-millones-datos-robados-1427025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberataque-aeat-4268300.jpg?tf=1200x' alt='Qué es Trinity, el grupo de hackers que amenaza a la Agencia Tributaria con publicar millones de datos robados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-ofertas-cyber-monday-ultimo-dia-rebajas-1425608'>El Cyber Monday toma el relevo: las ofertas siguen en todas las tiendas y hoy es el último día antes de Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejores-ofertas-cyber-monday-ultimo-dia-rebajas-1425608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cyber-monday-4268267.jpg?tf=1200x' alt='El Cyber Monday toma el relevo: las ofertas siguen en todas las tiendas y hoy es el último día antes de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/adios-arruinarte-movil-mejor-motorola-moto-g55-5g-precio-deberia-estar-lista-1425387'>Adiós a arruinarte por un móvil: lo mejor de este Motorola Moto G55 5G es su precio y debería estar en tu lista</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/adios-arruinarte-movil-mejor-motorola-moto-g55-5g-precio-deberia-estar-lista-1425387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/motorola-moto-g5-5g-4264783.jpg?tf=1200x' alt='Adiós a arruinarte por un móvil: lo mejor de este Motorola Moto G55 5G es su precio y debería estar en tu lista' />
     </a>
 </div>
 
