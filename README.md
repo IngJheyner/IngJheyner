@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-1427247'>Adiós a WhatsApp en todos estos iPhone: la aplicación de mensajería dejará de estar disponible muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-1427247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-4268624.jpg?tf=1200x' alt='Adiós a WhatsApp en todos estos iPhone: la aplicación de mensajería dejará de estar disponible muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-1427196'>Alerta estafa: si tienes un dispositivo Apple, mucho cuidado, podrían robarte tu cuenta y todos tus datos </a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-1427196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-estafa-tienes-dispositivo-apple-mucho-cuidado-podrian-robarte-cuenta-todos-datos-4268575.jpg?tf=1200x' alt='Alerta estafa: si tienes un dispositivo Apple, mucho cuidado, podrían robarte tu cuenta y todos tus datos ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/logro-podria-cambiar-rumbo-tecnologia-ahora-podemos-ofrecer-ordenador-cuantico-comercial-confiable-aseguran-microsoft-1427101'>Este logro podría cambiar el rumbo de la tecnología: “Ahora podemos ofrecer un ordenador cuántico comercial confiable”, aseguran desde Microsoft </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/logro-podria-cambiar-rumbo-tecnologia-ahora-podemos-ofrecer-ordenador-cuantico-comercial-confiable-aseguran-microsoft-1427101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-cuantico-confiable-microsoft-4268512.jpg?tf=1200x' alt='Este logro podría cambiar el rumbo de la tecnología: “Ahora podemos ofrecer un ordenador cuántico comercial confiable”, aseguran desde Microsoft ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137'>La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-alerta-aumento-estafas-trashing-cuidado-tiras-basura-4263062.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”' />
     </a>
 </div>
 
