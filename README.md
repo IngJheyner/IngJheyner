@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/numero-7642-whatsapp-mensaje-secreto-conquistando-generacion-z-1427062'>El número 7642 en WhatsApp: el mensaje secreto que está conquistando a la Generación Z</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/numero-7642-whatsapp-mensaje-secreto-conquistando-generacion-z-1427062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='El número 7642 en WhatsApp: el mensaje secreto que está conquistando a la Generación Z' />
+    <h4><a href='https://computerhoy.20minutos.es/google/google-fotos-lia-oculta-funciones-queridas-usuarios-1427136'>Google Fotos la lía y oculta una de las funciones más queridas por los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-fotos-lia-oculta-funciones-queridas-usuarios-1427136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-fotos-cambios-4268478.jpg?tf=1200x' alt='Google Fotos la lía y oculta una de las funciones más queridas por los usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/sera-navegar-chrome-ya-no-pertenece-google-expertos-1427084'>Así será navegar en Chrome si ya no pertenece a Google, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/sera-navegar-chrome-ya-no-pertenece-google-expertos-1427084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sera-navegar-chrome-ya-no-pertenece-google-expertos-4268390.jpg?tf=1200x' alt='Así será navegar en Chrome si ya no pertenece a Google, según los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-toma-medidas-quiere-disimilar-migracion-x-bluesky-muchos-usuarios-1427121'>Elon Musk toma medidas: así quiere disimilar la migración de X a Bluesky de muchos usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/elon-musk-toma-medidas-quiere-disimilar-migracion-x-bluesky-muchos-usuarios-1427121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-x-bluesky-4268484.jpg?tf=1200x' alt='Elon Musk toma medidas: así quiere disimilar la migración de X a Bluesky de muchos usuarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-roban-datos-tambien-pagas-posible-multa-1427091'>Hackeo a la Agencia Tributaria: roban tus datos y ¿también pagas la posible multa?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-roban-datos-tambien-pagas-posible-multa-1427091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackeo-agencia-tributaria-4268414.jpg?tf=1200x' alt='Hackeo a la Agencia Tributaria: roban tus datos y ¿también pagas la posible multa?' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-cada-vez-cerca-nvidia-realizando-envios-masivos-nintendo-1427105'>La Nintendo Switch 2 cada vez más cerca: Nvidia está realizando envíos masivos a Nintendo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-cada-vez-cerca-nvidia-realizando-envios-masivos-nintendo-1427105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nvidia-realizando-envios-masivos-nintendo-switch-2-podria-estar-cerca-4268411.jpg?tf=1200x' alt='La Nintendo Switch 2 cada vez más cerca: Nvidia está realizando envíos masivos a Nintendo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-nasa-tiene-claro-impacto-va-ser-brutal-forma-ser-pensar-sentir-relacionarnos-1427049'>El experto en IA de la NASA lo tiene claro: “Su impacto va a ser brutal en nuestra forma de ser, pensar, sentir y relacionarnos”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-nasa-tiene-claro-impacto-va-ser-brutal-forma-ser-pensar-sentir-relacionarnos-1427049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-nasa-4268355.jpg?tf=1200x' alt='El experto en IA de la NASA lo tiene claro: “Su impacto va a ser brutal en nuestra forma de ser, pensar, sentir y relacionarnos”' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guerra-iptv-piratas-11-detenidos-luchar-netflix-gratis-1427104'>Guerra a las IPTV piratas: 11 detenidos para luchar contra el "Netflix gratis"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guerra-iptv-piratas-11-detenidos-luchar-netflix-gratis-1427104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-4264028.jpg?tf=1200x' alt='Guerra a las IPTV piratas: 11 detenidos para luchar contra el "Netflix gratis"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-1427036'>El gran cambio que planea Samsung para sus plegables tiene un responsable: Donald Trump</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-1427036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-4268317.jpg?tf=1200x' alt='El gran cambio que planea Samsung para sus plegables tiene un responsable: Donald Trump' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-fin-responde-quejas-usuarios-lanza-nueva-funcion-muy-invernal-1427098'>Tesla por fin responde a las quejas de los usuarios y lanza una nueva función muy invernal</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-fin-responde-quejas-usuarios-lanza-nueva-funcion-muy-invernal-1427098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-invierno-4268434.jpg?tf=1200x' alt='Tesla por fin responde a las quejas de los usuarios y lanza una nueva función muy invernal' />
     </a>
 </div>
 
