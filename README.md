@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-11-usuarios-regresan-windows-10-1427263'>¿Adiós a Windows 11? Usuarios regresan a Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-windows-11-usuarios-regresan-windows-10-1427263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-4268639.jpg?tf=1200x' alt='¿Adiós a Windows 11? Usuarios regresan a Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-1427247'>Adiós a WhatsApp en todos estos iPhone: la aplicación de mensajería dejará de estar disponible muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-1427247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-whatsapp-todos-estos-iphone-aplicacion-mensajeria-dejara-estar-disponible-muy-pronto-4268624.jpg?tf=1200x' alt='Adiós a WhatsApp en todos estos iPhone: la aplicación de mensajería dejará de estar disponible muy pronto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165'>Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-humano-4268508.jpg?tf=1200x' alt='Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/logro-podria-cambiar-rumbo-tecnologia-ahora-podemos-ofrecer-ordenador-cuantico-comercial-confiable-aseguran-microsoft-1427101'>Este logro podría cambiar el rumbo de la tecnología: “Ahora podemos ofrecer un ordenador cuántico comercial confiable”, aseguran desde Microsoft </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/logro-podria-cambiar-rumbo-tecnologia-ahora-podemos-ofrecer-ordenador-cuantico-comercial-confiable-aseguran-microsoft-1427101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-cuantico-confiable-microsoft-4268512.jpg?tf=1200x' alt='Este logro podría cambiar el rumbo de la tecnología: “Ahora podemos ofrecer un ordenador cuántico comercial confiable”, aseguran desde Microsoft ' />
     </a>
 </div>
 
