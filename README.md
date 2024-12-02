@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/voy-jubilar-mi-firestick-android-tv-box-plex-kodi-iptv-smarters-pro-practica-libre-barata-1426875'>Voy a jubilar mi Firestick: esta Android TV Box con Plex, Kodi e IPTV Smarters Pro es más práctica, más libre y más barata</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/voy-jubilar-mi-firestick-android-tv-box-plex-kodi-iptv-smarters-pro-practica-libre-barata-1426875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transpeed-8k-4268011.jpg?tf=1200x' alt='Voy a jubilar mi Firestick: esta Android TV Box con Plex, Kodi e IPTV Smarters Pro es más práctica, más libre y más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-ofertas-cyber-monday-ultimo-dia-rebajas-1425608'>El Cyber Monday toma el relevo: las ofertas siguen en todas las tiendas y hoy es el último día antes de Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-ofertas-cyber-monday-ultimo-dia-rebajas-1425608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cyber-monday-4268267.jpg?tf=1200x' alt='El Cyber Monday toma el relevo: las ofertas siguen en todas las tiendas y hoy es el último día antes de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/adios-arruinarte-movil-mejor-motorola-moto-g55-5g-precio-deberia-estar-lista-1425387'>Adiós a arruinarte por un móvil: lo mejor de este Motorola Moto G55 5G es su precio y debería estar en tu lista</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/adios-arruinarte-movil-mejor-motorola-moto-g55-5g-precio-deberia-estar-lista-1425387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/motorola-moto-g5-5g-4264783.jpg?tf=1200x' alt='Adiós a arruinarte por un móvil: lo mejor de este Motorola Moto G55 5G es su precio y debería estar en tu lista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/he-probado-8-auriculares-2024-estos-son-favoritos-trabajar-1414935'>He probado 8 auriculares en 2024 y estos son mis favoritos para trabajar</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/he-probado-8-auriculares-2024-estos-son-favoritos-trabajar-1414935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-freebuds-6i-3444988.jpg?tf=1200x' alt='He probado 8 auriculares en 2024 y estos son mis favoritos para trabajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/mi-secreto-tener-internet-maxima-velocidad-cada-rincon-casa-cables-ni-wifi-enchufes-1426079'>Este es mi secreto para tener Internet a máxima velocidad en cada rincón de casa sin cables ni WiFi: los enchufes</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/mi-secreto-tener-internet-maxima-velocidad-cada-rincon-casa-cables-ni-wifi-enchufes-1426079' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/velocidad-internet-4266757.jpg?tf=1200x' alt='Este es mi secreto para tener Internet a máxima velocidad en cada rincón de casa sin cables ni WiFi: los enchufes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-dialecto-espanol-atractivo-1426408'>Según la inteligencia artificial, este es el dialecto español más atractivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-dialecto-espanol-atractivo-1426408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4267228.jpg?tf=1200x' alt='Según la inteligencia artificial, este es el dialecto español más atractivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/adios-resenas-falsas-google-amazon-tripadvisor-multas-600000-euros-jugar-sucio-eso-tiene-consecuencias-1425650'>Adiós a las reseñas falsas en Google, Amazon o TripAdvisor con multas de hasta 600.000 euros: "Es jugar sucio, y eso tiene sus consecuencias" </a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/adios-resenas-falsas-google-amazon-tripadvisor-multas-600000-euros-jugar-sucio-eso-tiene-consecuencias-1425650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/resenas-falsas-google-amazon-tripadvisor-4267579.jpg?tf=1200x' alt='Adiós a las reseñas falsas en Google, Amazon o TripAdvisor con multas de hasta 600.000 euros: "Es jugar sucio, y eso tiene sus consecuencias" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/experto-despeja-dudas-dana-televisor-apagarlo-directamente-enchufe-1425459'>Un experto despeja las dudas: ¿Se daña el televisor al apagarlo directamente en el enchufe?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/experto-despeja-dudas-dana-televisor-apagarlo-directamente-enchufe-1425459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enchufar-tv-4265908.jpg?tf=1200x' alt='Un experto despeja las dudas: ¿Se daña el televisor al apagarlo directamente en el enchufe?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-televisor-ni-microondas-objeto-jamas-debes-colocar-cerca-router-wifi-ni-siquiera-enchufa-1425431'>Ni televisor ni microondas, este es el objeto que jamás debes colocar cerca del router WiFi (y ni siquiera se enchufa)</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-televisor-ni-microondas-objeto-jamas-debes-colocar-cerca-router-wifi-ni-siquiera-enchufa-1425431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-televisor-ni-microondas-objeto-jamas-debes-colocar-cerca-router-wifi-ni-siquiera-enchufa-4265850.jpg?tf=1200x' alt='Ni televisor ni microondas, este es el objeto que jamás debes colocar cerca del router WiFi (y ni siquiera se enchufa)' />
     </a>
 </div>
 
