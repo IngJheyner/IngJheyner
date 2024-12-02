@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/numero-7642-whatsapp-mensaje-secreto-conquistando-generacion-z-1427062'>El número 7642 en WhatsApp: el mensaje secreto que está conquistando a la Generación Z</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/numero-7642-whatsapp-mensaje-secreto-conquistando-generacion-z-1427062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mujer-usando-whatsapp-4245175.jpg?tf=1200x' alt='El número 7642 en WhatsApp: el mensaje secreto que está conquistando a la Generación Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/sera-navegar-chrome-ya-no-pertenece-google-expertos-1427084'>Así será navegar en Chrome si ya no pertenece a Google, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/sera-navegar-chrome-ya-no-pertenece-google-expertos-1427084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sera-navegar-chrome-ya-no-pertenece-google-expertos-4268390.jpg?tf=1200x' alt='Así será navegar en Chrome si ya no pertenece a Google, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-roban-datos-tambien-pagas-posible-multa-1427091'>Hackeo a la Agencia Tributaria: roban tus datos y ¿también pagas la posible multa?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-roban-datos-tambien-pagas-posible-multa-1427091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackeo-agencia-tributaria-4268414.jpg?tf=1200x' alt='Hackeo a la Agencia Tributaria: roban tus datos y ¿también pagas la posible multa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-nasa-tiene-claro-impacto-va-ser-brutal-forma-ser-pensar-sentir-relacionarnos-1427049'>El experto en IA de la NASA lo tiene claro: “Su impacto va a ser brutal en nuestra forma de ser, pensar, sentir y relacionarnos”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-nasa-tiene-claro-impacto-va-ser-brutal-forma-ser-pensar-sentir-relacionarnos-1427049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-nasa-4268355.jpg?tf=1200x' alt='El experto en IA de la NASA lo tiene claro: “Su impacto va a ser brutal en nuestra forma de ser, pensar, sentir y relacionarnos”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-1427036'>El gran cambio que planea Samsung para sus plegables tiene un responsable: Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-1427036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gran-cambio-planea-samsung-plegables-tiene-responsable-donald-trump-4268317.jpg?tf=1200x' alt='El gran cambio que planea Samsung para sus plegables tiene un responsable: Donald Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/javier-tebas-dedica-ocho-horas-batalla-pirateria-google-conventos-monjas-1427061'>Javier Tebas dedica ocho horas a su batalla contra las IPTV pirata y caerán hasta los conventos de monjas</a></h4>
-    <a href='https://computerhoy.20minutos.es/javier-tebas-dedica-ocho-horas-batalla-pirateria-google-conventos-monjas-1427061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-pirateria-4268360.jpg?tf=1200x' alt='Javier Tebas dedica ocho horas a su batalla contra las IPTV pirata y caerán hasta los conventos de monjas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-padre-me-dijo-comprame-movil-barato-he-comprado-bastante-original-va-encantar-1427005'>Mi padre me dijo "cómprame un móvil barato" y le he comprado uno bastante original que le va a encantar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mi-padre-me-dijo-comprame-movil-barato-he-comprado-bastante-original-va-encantar-1427005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-phone-1-4268270.jpg?tf=1200x' alt='Mi padre me dijo "cómprame un móvil barato" y le he comprado uno bastante original que le va a encantar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/alerta-android-ocho-millones-usuarios-peligro-15-apps-infectadas-malware-1427045'>Alerta Android: ocho millones de usuarios en peligro por 15 apps infectadas con malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/alerta-android-ocho-millones-usuarios-peligro-15-apps-infectadas-malware-1427045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Alerta Android: ocho millones de usuarios en peligro por 15 apps infectadas con malware' />
     </a>
 </div>
 
