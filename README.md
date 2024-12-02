@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/runtime-rival-pluto-tv-estrena-canal-gratis-navidad-1426991'>El rival de Pluto TV estrena un nuevo canal gratis para ver películas navideñas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/runtime-rival-pluto-tv-estrena-canal-gratis-navidad-1426991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rival-pluto-tv-estrena-nuevo-canal-gratis-ver-peliculas-navidenas-4268256.jpg?tf=1200x' alt='El rival de Pluto TV estrena un nuevo canal gratis para ver películas navideñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986'>Quién es David Mayer, el nombre que rompe ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-david-mayer-nombre-bloquea-completo-chatgpt-4268251.jpg?tf=1200x' alt='Quién es David Mayer, el nombre que rompe ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-intel-arc-battlemage-especificaciones-finales-intel-arc-b570-b580-1426968'>Las tarjetas Intel Arc Battlemage ya están aquí: Intel Arc B570 y B580, listas para competir con RTX 4060</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tarjetas-intel-arc-battlemage-especificaciones-finales-intel-arc-b570-b580-1426968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjetas-intel-arc-battlemage-ya-estan-aqui-especificaciones-finales-intel-arc-b570-b580-4268182.jpg?tf=1200x' alt='Las tarjetas Intel Arc Battlemage ya están aquí: Intel Arc B570 y B580, listas para competir con RTX 4060' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/recomende-freidora-cosori-mi-madre-me-arrepiento-no-haber-esperado-ahora-mucho-barata-nunca-1426872'>Recomendé esta freidora Cosori a mi madre y me arrepiento de no haber esperado: ahora es mucho más barata que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/recomende-freidora-cosori-mi-madre-me-arrepiento-no-haber-esperado-ahora-mucho-barata-nunca-1426872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/freidora-aire-cosori-2623409.jpg?tf=1200x' alt='Recomendé esta freidora Cosori a mi madre y me arrepiento de no haber esperado: ahora es mucho más barata que nunca' />
     </a>
 </div>
 
