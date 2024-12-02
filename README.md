@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165'>Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/equipo-cientificos-quiere-cubrir-robots-piel-viva-parezcan-humanos-1427165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-humano-4268508.jpg?tf=1200x' alt='Un equipo de científicos quiere cubrir a los robots con piel viva para que se parezcan más a los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/logro-podria-cambiar-rumbo-tecnologia-ahora-podemos-ofrecer-ordenador-cuantico-comercial-confiable-aseguran-microsoft-1427101'>Este logro podría cambiar el rumbo de la tecnología: “Ahora podemos ofrecer un ordenador cuántico comercial confiable”, aseguran desde Microsoft </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/logro-podria-cambiar-rumbo-tecnologia-ahora-podemos-ofrecer-ordenador-cuantico-comercial-confiable-aseguran-microsoft-1427101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-cuantico-confiable-microsoft-4268512.jpg?tf=1200x' alt='Este logro podría cambiar el rumbo de la tecnología: “Ahora podemos ofrecer un ordenador cuántico comercial confiable”, aseguran desde Microsoft ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137'>La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-pueden-obtener-toda-informacion-1427137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/guardia-civil-alerta-aumento-estafas-trashing-cuidado-tiras-basura-4263062.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: “Así pueden obtener toda nuestra información”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135'>Google Maps se ayuda de Waze para alertarte de los accidentes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-ayuda-waze-alertarte-accidentes-4268470.jpg?tf=1200x' alt='Google Maps se ayuda de Waze para alertarte de los accidentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/siento-amazon-pero-no-mi-proximo-lector-ebooks-no-va-ser-kindle-ya-tengo-heredero-1427088'>Lo siento, Amazon, pero no: mi próximo lector de ebooks no va a ser un Kindle y ya tengo el heredero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/siento-amazon-pero-no-mi-proximo-lector-ebooks-no-va-ser-kindle-ya-tengo-heredero-1427088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kobo-libra-colour-4250413.jpg?tf=1200x' alt='Lo siento, Amazon, pero no: mi próximo lector de ebooks no va a ser un Kindle y ya tengo el heredero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-estas-son-funciones-favoritas-ahorrar-dinero-viajes-1427119'>Waze: estas son mis funciones favoritas para ahorrar dinero en los viajes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-estas-son-funciones-favoritas-ahorrar-dinero-viajes-1427119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/waze-gasolineras-4268464.jpg?tf=1200x' alt='Waze: estas son mis funciones favoritas para ahorrar dinero en los viajes' />
     </a>
 </div>
 
