@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135'>Google Maps se ayuda de Waze para alertarte de los accidentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-ayuda-waze-alertarte-accidentes-1427135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-ayuda-waze-alertarte-accidentes-4268470.jpg?tf=1200x' alt='Google Maps se ayuda de Waze para alertarte de los accidentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/siento-amazon-pero-no-mi-proximo-lector-ebooks-no-va-ser-kindle-ya-tengo-heredero-1427088'>Lo siento, Amazon, pero no: mi próximo lector de ebooks no va a ser un Kindle y ya tengo el heredero</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/siento-amazon-pero-no-mi-proximo-lector-ebooks-no-va-ser-kindle-ya-tengo-heredero-1427088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kobo-libra-colour-4250413.jpg?tf=1200x' alt='Lo siento, Amazon, pero no: mi próximo lector de ebooks no va a ser un Kindle y ya tengo el heredero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-estas-son-funciones-favoritas-ahorrar-dinero-viajes-1427119'>Waze: estas son mis funciones favoritas para ahorrar dinero en los viajes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-estas-son-funciones-favoritas-ahorrar-dinero-viajes-1427119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/waze-gasolineras-4268464.jpg?tf=1200x' alt='Waze: estas son mis funciones favoritas para ahorrar dinero en los viajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-fotos-lia-oculta-funciones-queridas-usuarios-1427136'>Google Fotos la lía y oculta una de las funciones más queridas por los usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-fotos-lia-oculta-funciones-queridas-usuarios-1427136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-fotos-cambios-4268478.jpg?tf=1200x' alt='Google Fotos la lía y oculta una de las funciones más queridas por los usuarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-toma-medidas-quiere-disimilar-migracion-x-bluesky-muchos-usuarios-1427121'>Elon Musk toma medidas: así quiere disimilar la migración de X a Bluesky de muchos usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/elon-musk-toma-medidas-quiere-disimilar-migracion-x-bluesky-muchos-usuarios-1427121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-x-bluesky-4268484.jpg?tf=1200x' alt='Elon Musk toma medidas: así quiere disimilar la migración de X a Bluesky de muchos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-cada-vez-cerca-nvidia-realizando-envios-masivos-nintendo-1427105'>La Nintendo Switch 2 cada vez más cerca: Nvidia está realizando envíos masivos a Nintendo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-cada-vez-cerca-nvidia-realizando-envios-masivos-nintendo-1427105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nvidia-realizando-envios-masivos-nintendo-switch-2-podria-estar-cerca-4268411.jpg?tf=1200x' alt='La Nintendo Switch 2 cada vez más cerca: Nvidia está realizando envíos masivos a Nintendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guerra-iptv-piratas-11-detenidos-luchar-netflix-gratis-1427104'>Guerra a las IPTV piratas: 11 detenidos para luchar contra el "Netflix gratis"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guerra-iptv-piratas-11-detenidos-luchar-netflix-gratis-1427104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nuevo-golpe-iptv-piratas-espana-telegram-ha-empezado-enviar-datos-usuarios-guardia-civil-4264028.jpg?tf=1200x' alt='Guerra a las IPTV piratas: 11 detenidos para luchar contra el "Netflix gratis"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-fin-responde-quejas-usuarios-lanza-nueva-funcion-muy-invernal-1427098'>Tesla por fin responde a las quejas de los usuarios y lanza una nueva función muy invernal</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-fin-responde-quejas-usuarios-lanza-nueva-funcion-muy-invernal-1427098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-invierno-4268434.jpg?tf=1200x' alt='Tesla por fin responde a las quejas de los usuarios y lanza una nueva función muy invernal' />
     </a>
 </div>
 
