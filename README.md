@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294'>El grupo hacker Massgrave asegura haber roto el sistema de licencias de Windows y Office, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-aseguran-haber-roto-sistema-licencias-windows-office-gratis-todos-4268677.jpg?tf=1200x' alt='El grupo hacker Massgrave asegura haber roto el sistema de licencias de Windows y Office, lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/puedes-instalar-nuevo-sistema-operativo-one-ui-smart-tv-samsung-1427272'>Así puedes instalar el nuevo sistema operativo One UI en tu Smart TV Samsung</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/puedes-instalar-nuevo-sistema-operativo-one-ui-smart-tv-samsung-1427272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-instalar-nuevo-sistema-operativo-one-ui-smart-tv-samsung-4268657.jpg?tf=1200x' alt='Así puedes instalar el nuevo sistema operativo One UI en tu Smart TV Samsung' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/podrias-sobrevivir-mujer-gana-1300-euros-pasar-8-horas-usar-movil-1427271'>¿Podrías sobrevivir? Mujer gana más de 1300 euros por pasar 8 horas sin usar su móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/podrias-sobrevivir-mujer-gana-1300-euros-pasar-8-horas-usar-movil-1427271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adiccion-movil-4268648.jpg?tf=1200x' alt='¿Podrías sobrevivir? Mujer gana más de 1300 euros por pasar 8 horas sin usar su móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-11-usuarios-regresan-windows-10-1427263'>¿Adiós a Windows 11? Usuarios regresan a Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-windows-11-usuarios-regresan-windows-10-1427263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-4268639.jpg?tf=1200x' alt='¿Adiós a Windows 11? Usuarios regresan a Windows 10' />
     </a>
 </div>
 
