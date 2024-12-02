@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/runtime-rival-pluto-tv-estrena-canal-gratis-navidad-1426991'>El rival de Pluto TV estrena un nuevo canal gratis para ver películas navideñas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/runtime-rival-pluto-tv-estrena-canal-gratis-navidad-1426991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rival-pluto-tv-estrena-nuevo-canal-gratis-ver-peliculas-navidenas-4268256.jpg?tf=1200x' alt='El rival de Pluto TV estrena un nuevo canal gratis para ver películas navideñas' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/mi-secreto-tener-internet-maxima-velocidad-cada-rincon-casa-cables-ni-wifi-enchufes-1426079'>Este es mi secreto para tener Internet a máxima velocidad en cada rincón de casa sin cables ni WiFi: los enchufes</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mi-secreto-tener-internet-maxima-velocidad-cada-rincon-casa-cables-ni-wifi-enchufes-1426079' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/velocidad-internet-4266757.jpg?tf=1200x' alt='Este es mi secreto para tener Internet a máxima velocidad en cada rincón de casa sin cables ni WiFi: los enchufes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986'>Quién es David Mayer, el nombre que rompe ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/david-mayer-nombre-bloquea-completo-chatgpt-1426986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-david-mayer-nombre-bloquea-completo-chatgpt-4268251.jpg?tf=1200x' alt='Quién es David Mayer, el nombre que rompe ChatGPT' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-dialecto-espanol-atractivo-1426408'>Según la inteligencia artificial, este es el dialecto español más atractivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-dialecto-espanol-atractivo-1426408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4267228.jpg?tf=1200x' alt='Según la inteligencia artificial, este es el dialecto español más atractivo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/bandas-sonoras-videojuegos-mas-escuchadas-1426980'>Ni Zelda ni Mario: estas son las bandas sonoras de videojuegos más escuchadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/bandas-sonoras-videojuegos-mas-escuchadas-1426980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-zelda-ni-mario-estas-son-bandas-sonoras-videojuegos-escuchadas-4268229.jpg?tf=1200x' alt='Ni Zelda ni Mario: estas son las bandas sonoras de videojuegos más escuchadas' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/adios-resenas-falsas-google-amazon-tripadvisor-multas-600000-euros-jugar-sucio-eso-tiene-consecuencias-1425650'>Adiós a las reseñas falsas en Google, Amazon o TripAdvisor con multas de hasta 600.000 euros: "Es jugar sucio, y eso tiene sus consecuencias" </a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/adios-resenas-falsas-google-amazon-tripadvisor-multas-600000-euros-jugar-sucio-eso-tiene-consecuencias-1425650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/resenas-falsas-google-amazon-tripadvisor-4267579.jpg?tf=1200x' alt='Adiós a las reseñas falsas en Google, Amazon o TripAdvisor con multas de hasta 600.000 euros: "Es jugar sucio, y eso tiene sus consecuencias" ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-internacional-pagos-italia-portugal-andorra-1426975'>Bizum Internacional probará una importante novedad este mes, si viajas al extranjero</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bizum-internacional-pagos-italia-portugal-andorra-1426975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bizum-probara-importante-novedad-mes-viajas-extranjero-4268192.jpg?tf=1200x' alt='Bizum Internacional probará una importante novedad este mes, si viajas al extranjero' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/experto-despeja-dudas-dana-televisor-apagarlo-directamente-enchufe-1425459'>Un experto despeja las dudas: ¿Se daña el televisor al apagarlo directamente en el enchufe?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/experto-despeja-dudas-dana-televisor-apagarlo-directamente-enchufe-1425459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enchufar-tv-4265908.jpg?tf=1200x' alt='Un experto despeja las dudas: ¿Se daña el televisor al apagarlo directamente en el enchufe?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-intel-arc-battlemage-especificaciones-finales-intel-arc-b570-b580-1426968'>Las tarjetas Intel Arc Battlemage ya están aquí: Intel Arc B570 y B580, listas para competir con RTX 4060</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tarjetas-intel-arc-battlemage-especificaciones-finales-intel-arc-b570-b580-1426968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjetas-intel-arc-battlemage-ya-estan-aqui-especificaciones-finales-intel-arc-b570-b580-4268182.jpg?tf=1200x' alt='Las tarjetas Intel Arc Battlemage ya están aquí: Intel Arc B570 y B580, listas para competir con RTX 4060' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-televisor-ni-microondas-objeto-jamas-debes-colocar-cerca-router-wifi-ni-siquiera-enchufa-1425431'>Ni televisor ni microondas, este es el objeto que jamás debes colocar cerca del router WiFi (y ni siquiera se enchufa)</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-televisor-ni-microondas-objeto-jamas-debes-colocar-cerca-router-wifi-ni-siquiera-enchufa-1425431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-televisor-ni-microondas-objeto-jamas-debes-colocar-cerca-router-wifi-ni-siquiera-enchufa-4265850.jpg?tf=1200x' alt='Ni televisor ni microondas, este es el objeto que jamás debes colocar cerca del router WiFi (y ni siquiera se enchufa)' />
     </a>
 </div>
 
