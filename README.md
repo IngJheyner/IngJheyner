@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405'>Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-4268890.jpg?tf=1200x' alt='Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395'>Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aigostar-4268842.jpg?tf=1200x' alt='Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-une-fuerzas-waze-trae-app-funciones-queridas-1427335'>Google Maps une fuerzas con Waze y trae a la app una de sus funciones más queridas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-une-fuerzas-waze-trae-app-funciones-queridas-1427335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-une-fuerzas-waze-4268787.jpg?tf=1200x' alt='Google Maps une fuerzas con Waze y trae a la app una de sus funciones más queridas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334'>Nike cierra RTFKT, uno de sus proyectos centrados en NFT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtfkt-zapatillas-nft-2559869.jpg?tf=1200x' alt='Nike cierra RTFKT, uno de sus proyectos centrados en NFT' />
     </a>
 </div>
 
