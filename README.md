@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-1427331'>Llega a Gemini una de las funciones más esperadas por los usuarios: podrás hacer llamadas sin desbloquear tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-1427331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-4268769.jpg?tf=1200x' alt='Llega a Gemini una de las funciones más esperadas por los usuarios: podrás hacer llamadas sin desbloquear tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-une-fuerzas-waze-trae-app-funciones-queridas-1427335'>Google Maps une fuerzas con Waze y trae a la app una de sus funciones más queridas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-une-fuerzas-waze-trae-app-funciones-queridas-1427335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-une-fuerzas-waze-4268787.jpg?tf=1200x' alt='Google Maps une fuerzas con Waze y trae a la app una de sus funciones más queridas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334'>Nike cierra RTFKT, uno de sus proyectos centrados en NFT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtfkt-zapatillas-nft-2559869.jpg?tf=1200x' alt='Nike cierra RTFKT, uno de sus proyectos centrados en NFT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-tripulacion-perdida-inspirada-goonies-gremlins-et-extraterrestre-1427344'>Se estrena en Disney+ la serie de Star Wars inspirada en Los Goonies, Gremlins y E.T. el extraterrestre</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-tripulacion-perdida-inspirada-goonies-gremlins-et-extraterrestre-1427344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733212075031-4268742.jpg?tf=1200x' alt='Se estrena en Disney+ la serie de Star Wars inspirada en Los Goonies, Gremlins y E.T. el extraterrestre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hace-cinco-anos-me-compre-aspiradora-dyson-volveria-hacerlo-mil-veces-no-ha-perdido-potencia-mi-paz-mental-debe-ella-1427013'>Hace cinco años me compré esta aspiradora Dyson y volvería a hacerlo mil veces: no ha perdido potencia y mi paz mental se debe a ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hace-cinco-anos-me-compre-aspiradora-dyson-volveria-hacerlo-mil-veces-no-ha-perdido-potencia-mi-paz-mental-debe-ella-1427013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-v8-animal-2389431.jpg?tf=1200x' alt='Hace cinco años me compré esta aspiradora Dyson y volvería a hacerlo mil veces: no ha perdido potencia y mi paz mental se debe a ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-ciberdelincuentes-pudieron-estar-meses-robando-datos-1427330'>Hackeo a la Agencia Tributaria: "Los ciberdelincuentes pudieron estar meses robando datos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-ciberdelincuentes-pudieron-estar-meses-robando-datos-1427330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackeo-hacienda-4268755.jpg?tf=1200x' alt='Hackeo a la Agencia Tributaria: "Los ciberdelincuentes pudieron estar meses robando datos"' />
     </a>
 </div>
 
