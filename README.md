@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/surfshark-reta-nordvpn-tiene-vpn-rapidas-deja-menos-cuesta-cafe-1427020'>Surfshark reta a NordVPN: tiene una de las VPN más rápidas y la deja por menos de lo que cuesta un café</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/surfshark-reta-nordvpn-tiene-vpn-rapidas-deja-menos-cuesta-cafe-1427020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/surfshark-vpn-3307493.jpg?tf=1200x' alt='Surfshark reta a NordVPN: tiene una de las VPN más rápidas y la deja por menos de lo que cuesta un café' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-urge-usuarios-instalar-windows-11-incluso-hardware-no-compatible-1427550'>Microsoft urge a los usuarios a instalar Windows 11 incluso en hardware no compatible</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-urge-usuarios-instalar-windows-11-incluso-hardware-no-compatible-1427550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/instalacion-windows-11-4269092.jpg?tf=1200x' alt='Microsoft urge a los usuarios a instalar Windows 11 incluso en hardware no compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-1427546'>Movistar Plus+ integra Apple TV+: series y películas sin coste adicional en diciembre</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-1427546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-4269086.jpg?tf=1200x' alt='Movistar Plus+ integra Apple TV+: series y películas sin coste adicional en diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nombres-hacen-colapsar-chatgpt-reconoces-alguno-lista-1427544'>Los nombres que hacen colapsar a ChatGPT: ¿reconoces alguno de la lista?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nombres-hacen-colapsar-chatgpt-reconoces-alguno-lista-1427544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nombres-hacen-colapsar-chatgpt-4269084.jpg?tf=1200x' alt='Los nombres que hacen colapsar a ChatGPT: ¿reconoces alguno de la lista?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-1427509'>Demuestran que Windows 7 puede arrancar en un espacio de disco increíblemente pequeño</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-1427509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-4269075.jpg?tf=1200x' alt='Demuestran que Windows 7 puede arrancar en un espacio de disco increíblemente pequeño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-1427487'>Ni Ubuntu ni Debian, esta es la nueva reina de las distribuciones de Linux para los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-1427487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-4269019.jpg?tf=1200x' alt='Ni Ubuntu ni Debian, esta es la nueva reina de las distribuciones de Linux para los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flipper-zero-tamagotchi-hackers-lanza-nueva-version-exclusiva-limitada-1427389'>Flipper Zero, el Tamagotchi para hackers, lanza una nueva versión exclusiva y limitada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/flipper-zero-tamagotchi-hackers-lanza-nueva-version-exclusiva-limitada-1427389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/flipper-zero-4268854.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers, lanza una nueva versión exclusiva y limitada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/premios-computer-hoy-2024-estos-son-todos-ganadores-1427327'>Premios Computer Hoy 2024: estos son todos los ganadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/premios-computer-hoy-2024-estos-son-todos-ganadores-1427327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/premios-computer-hoy-2024-estos-son-todos-ganadores-4269001.jpg?tf=1200x' alt='Premios Computer Hoy 2024: estos son todos los ganadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410'>Estas son las tendencias en móviles más extrañas que nunca triunfaron</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-camara-4267486.jpg?tf=1200x' alt='Estas son las tendencias en móviles más extrañas que nunca triunfaron' />
     </a>
 </div>
 
