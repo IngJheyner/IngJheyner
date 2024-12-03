@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-1427581'>Intel presenta sus nuevas tarjetas gráficas Intel Arc B570 y B580, más baratas y más potentes que RTX 4060</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-1427581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-4269088.jpg?tf=1200x' alt='Intel presenta sus nuevas tarjetas gráficas Intel Arc B570 y B580, más baratas y más potentes que RTX 4060' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-tiktok-princesa-leonor-donaciones-latinoamerica-1427568'>Una estafa en TikTok usa a la princesa Leonor generada con IA para robar miles de euros en Latinoamérica</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-tiktok-princesa-leonor-donaciones-latinoamerica-1427568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-tiktok-princesa-leonor-roba-miles-euros-latinoamerica-4269121.jpg?tf=1200x' alt='Una estafa en TikTok usa a la princesa Leonor generada con IA para robar miles de euros en Latinoamérica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-1427546'>Movistar Plus+ integra Apple TV+: series y películas sin coste adicional en diciembre</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-1427546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-4269086.jpg?tf=1200x' alt='Movistar Plus+ integra Apple TV+: series y películas sin coste adicional en diciembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nombres-hacen-colapsar-chatgpt-reconoces-alguno-lista-1427544'>Los nombres que hacen colapsar a ChatGPT: ¿reconoces alguno de la lista?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nombres-hacen-colapsar-chatgpt-reconoces-alguno-lista-1427544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nombres-hacen-colapsar-chatgpt-4269084.jpg?tf=1200x' alt='Los nombres que hacen colapsar a ChatGPT: ¿reconoces alguno de la lista?' />
     </a>
 </div>
 
