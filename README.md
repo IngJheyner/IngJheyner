@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flipper-zero-tamagotchi-hackers-lanza-nueva-version-exclusiva-limitada-1427389'>Flipper Zero, el Tamagotchi para hackers, lanza una nueva versión exclusiva y limitada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/flipper-zero-tamagotchi-hackers-lanza-nueva-version-exclusiva-limitada-1427389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/flipper-zero-4268854.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers, lanza una nueva versión exclusiva y limitada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/premios-computer-hoy-2024-estos-son-todos-ganadores-1427327'>Premios Computer Hoy 2024: estos son todos los ganadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/premios-computer-hoy-2024-estos-son-todos-ganadores-1427327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/premios-computer-hoy-2024-estos-son-todos-ganadores-4269001.jpg?tf=1200x' alt='Premios Computer Hoy 2024: estos son todos los ganadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410'>Estas son las tendencias en móviles más extrañas que nunca triunfaron</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-camara-4267486.jpg?tf=1200x' alt='Estas son las tendencias en móviles más extrañas que nunca triunfaron' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/javier-tebas-amenaza-pirateria-iptv-futbol-gratis-1427061'>"Caerán hasta los conventos de monjas": Javier Tebas promete un futuro muy negro a las IPTV en España</a></h4>
     <a href='https://computerhoy.20minutos.es/javier-tebas-amenaza-pirateria-iptv-futbol-gratis-1427061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-pirateria-4268360.jpg?tf=1200x' alt='"Caerán hasta los conventos de monjas": Javier Tebas promete un futuro muy negro a las IPTV en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/larga-vida-windows-10-microsoft-shock-cuota-mercado-windows-11-vuelve-bajar-1427393'>Larga vida a Windows 10: Microsoft en shock, la cuota de mercado de Windows 11 vuelve a bajar</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/larga-vida-windows-10-microsoft-shock-cuota-mercado-windows-11-vuelve-bajar-1427393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/larga-vida-windows-10-microsoft-shock-cuota-mercado-windows-11-vuelve-bajar-4268877.jpg?tf=1200x' alt='Larga vida a Windows 10: Microsoft en shock, la cuota de mercado de Windows 11 vuelve a bajar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405'>Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-4268890.jpg?tf=1200x' alt='Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV' />
     </a>
 </div>
 
