@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334'>Nike cierra RTFKT, uno de sus proyectos centrados en NFT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtfkt-zapatillas-nft-2559869.jpg?tf=1200x' alt='Nike cierra RTFKT, uno de sus proyectos centrados en NFT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-cierra-puerta-ublock-chrome-pero-hay-forma-seguir-usando-extension-1427337'>Google le cierra la puerta a uBlock en Chrome, pero hay una forma de seguir usándo la extensión</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-cierra-puerta-ublock-chrome-pero-hay-forma-seguir-usando-extension-1427337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ublock-google-chrome-4268768.jpg?tf=1200x' alt='Google le cierra la puerta a uBlock en Chrome, pero hay una forma de seguir usándo la extensión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-ciberdelincuentes-pudieron-estar-meses-robando-datos-1427330'>Hackeo a la Agencia Tributaria: "Los ciberdelincuentes pudieron estar meses robando datos"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-ciberdelincuentes-pudieron-estar-meses-robando-datos-1427330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackeo-hacienda-4268755.jpg?tf=1200x' alt='Hackeo a la Agencia Tributaria: "Los ciberdelincuentes pudieron estar meses robando datos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/trafico-internet-todo-mundo-peligro-sabotajes-cables-submarinos-1427319'>El tráfico de internet en todo el mundo, en peligro: expertos estudian cómo evitar sabotajes en los cables submarinos‍</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/trafico-internet-todo-mundo-peligro-sabotajes-cables-submarinos-1427319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/trafico-internet-todo-mundo-peligro-expertos-estudian-como-evitar-sabotajes-cables-submarinos-4268734.jpg?tf=1200x' alt='El tráfico de internet en todo el mundo, en peligro: expertos estudian cómo evitar sabotajes en los cables submarinos‍' />
     </a>
 </div>
 
