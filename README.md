@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410'>Estas son las tendencias en móviles más extrañas que nunca triunfaron</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-camara-4267486.jpg?tf=1200x' alt='Estas son las tendencias en móviles más extrañas que nunca triunfaron' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431'>Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-hiring-4268939.jpg?tf=1200x' alt='Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405'>Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-4268890.jpg?tf=1200x' alt='Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395'>Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aigostar-4268842.jpg?tf=1200x' alt='Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina' />
     </a>
 </div>
 
