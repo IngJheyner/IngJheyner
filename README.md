@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-1427509'>Demuestran que Windows 7 puede arrancar en un espacio de disco increíblemente pequeño</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-1427509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-4269075.jpg?tf=1200x' alt='Demuestran que Windows 7 puede arrancar en un espacio de disco increíblemente pequeño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-1427487'>Ni Ubuntu ni Debian, esta es la nueva reina de las distribuciones de Linux para los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-1427487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-4269019.jpg?tf=1200x' alt='Ni Ubuntu ni Debian, esta es la nueva reina de las distribuciones de Linux para los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410'>Estas son las tendencias en móviles más extrañas que nunca triunfaron</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tendencias-moviles-extranas-nunca-triunfaron-1426410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movil-camara-4267486.jpg?tf=1200x' alt='Estas son las tendencias en móviles más extrañas que nunca triunfaron' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431'>Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-hiring-4268939.jpg?tf=1200x' alt='Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero' />
     </a>
 </div>
 
