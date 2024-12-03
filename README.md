@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-tiktok-princesa-leonor-donaciones-latinoamerica-1427568'>Una estafa en TikTok usa a la princesa Leonor generada con IA para robar miles de euros en Latinoamérica</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-tiktok-princesa-leonor-donaciones-latinoamerica-1427568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-tiktok-princesa-leonor-roba-miles-euros-latinoamerica-4269121.jpg?tf=1200x' alt='Una estafa en TikTok usa a la princesa Leonor generada con IA para robar miles de euros en Latinoamérica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/surfshark-reta-nordvpn-tiene-vpn-rapidas-deja-menos-cuesta-cafe-1427020'>Surfshark reta a NordVPN: tiene una de las VPN más rápidas y la deja por menos de lo que cuesta un café</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/surfshark-reta-nordvpn-tiene-vpn-rapidas-deja-menos-cuesta-cafe-1427020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/surfshark-vpn-3307493.jpg?tf=1200x' alt='Surfshark reta a NordVPN: tiene una de las VPN más rápidas y la deja por menos de lo que cuesta un café' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nombres-hacen-colapsar-chatgpt-reconoces-alguno-lista-1427544'>Los nombres que hacen colapsar a ChatGPT: ¿reconoces alguno de la lista?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nombres-hacen-colapsar-chatgpt-reconoces-alguno-lista-1427544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nombres-hacen-colapsar-chatgpt-4269084.jpg?tf=1200x' alt='Los nombres que hacen colapsar a ChatGPT: ¿reconoces alguno de la lista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-1427509'>Demuestran que Windows 7 puede arrancar en un espacio de disco increíblemente pequeño</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-1427509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/demuestran-windows-7-puede-arrancar-espacio-disco-increiblemente-pequeno-4269075.jpg?tf=1200x' alt='Demuestran que Windows 7 puede arrancar en un espacio de disco increíblemente pequeño' />
     </a>
 </div>
 
