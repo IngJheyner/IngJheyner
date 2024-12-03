@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431'>Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-hiring-4268939.jpg?tf=1200x' alt='Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/javier-tebas-amenaza-pirateria-iptv-futbol-gratis-1427061'>"Caerán hasta los conventos de monjas": Javier Tebas promete un futuro muy negro a las IPTV en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/javier-tebas-amenaza-pirateria-iptv-futbol-gratis-1427061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-pirateria-4268360.jpg?tf=1200x' alt='"Caerán hasta los conventos de monjas": Javier Tebas promete un futuro muy negro a las IPTV en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/larga-vida-windows-10-microsoft-shock-cuota-mercado-windows-11-vuelve-bajar-1427393'>Larga vida a Windows 10: Microsoft en shock, la cuota de mercado de Windows 11 vuelve a bajar</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/larga-vida-windows-10-microsoft-shock-cuota-mercado-windows-11-vuelve-bajar-1427393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/larga-vida-windows-10-microsoft-shock-cuota-mercado-windows-11-vuelve-bajar-4268877.jpg?tf=1200x' alt='Larga vida a Windows 10: Microsoft en shock, la cuota de mercado de Windows 11 vuelve a bajar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405'>Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-tdt-television-digi-ya-aqui-canales-precio-como-contratar-digi-tv-1427405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-4268890.jpg?tf=1200x' alt='Adiós a la TDT, la televisión de DIGI ya está aquí: canales, precio y cómo contratar DIGI TV' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395'>Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aigostar-4268842.jpg?tf=1200x' alt='Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-acusada-espiar-propios-empleados-1427386'>Apple es acusada de espiar a sus propios empleados</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-acusada-espiar-propios-empleados-1427386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-acusada-espiar-propios-empleados-4268792.jpg?tf=1200x' alt='Apple es acusada de espiar a sus propios empleados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-1427331'>Llega a Gemini una de las funciones más esperadas por los usuarios: podrás hacer llamadas sin desbloquear tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-1427331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-4268769.jpg?tf=1200x' alt='Llega a Gemini una de las funciones más esperadas por los usuarios: podrás hacer llamadas sin desbloquear tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-une-fuerzas-waze-trae-app-funciones-queridas-1427335'>Google Maps une fuerzas con Waze y trae a la app una de sus funciones más queridas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-une-fuerzas-waze-trae-app-funciones-queridas-1427335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-une-fuerzas-waze-4268787.jpg?tf=1200x' alt='Google Maps une fuerzas con Waze y trae a la app una de sus funciones más queridas' />
     </a>
 </div>
 
