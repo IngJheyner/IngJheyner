@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-man-middle-inteligencia-artificial-1427310'>Detenidas ocho personas por una gran estafa "man in the middle" con IA, en Madrid, Sevilla, Murcia, Las Palmas y otras provincias</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-man-middle-inteligencia-artificial-1427310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/detenidas-ocho-personas-gran-estafa-man-middle-ia-madrid-sevilla-murcia-palmas-otras-provincias-4268727.jpg?tf=1200x' alt='Detenidas ocho personas por una gran estafa "man in the middle" con IA, en Madrid, Sevilla, Murcia, Las Palmas y otras provincias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-1427284'>¿No sabes si te gustará Linux? Así puedes probarlo desde tu ordenador</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-1427284' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-4268704.jpg?tf=1200x' alt='¿No sabes si te gustará Linux? Así puedes probarlo desde tu ordenador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-intel-pat-gelsinger-retira-antes-echen-tendra-dos-sustitutos-1427274'>El CEO de Intel, Pat Gelsinger, se retira antes de que lo echen, tendrá dos sustitutos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ceo-intel-pat-gelsinger-retira-antes-echen-tendra-dos-sustitutos-1427274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ceo-intel-retira-antes-echen-tendra-dos-sustitutos-4268641.jpg?tf=1200x' alt='El CEO de Intel, Pat Gelsinger, se retira antes de que lo echen, tendrá dos sustitutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-1427256'>Ni Digi ni Vodafone: esta es la mejor fibra para ver Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-1427256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-4268640.jpg?tf=1200x' alt='Ni Digi ni Vodafone: esta es la mejor fibra para ver Netflix' />
     </a>
 </div>
 
