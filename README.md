@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-man-middle-inteligencia-artificial-1427310'>Detenidas ocho personas por una gran estafa "man in the middle" con IA, en Madrid, Sevilla, Murcia, Las Palmas y otras provincias</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-man-middle-inteligencia-artificial-1427310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/detenidas-ocho-personas-gran-estafa-man-middle-ia-madrid-sevilla-murcia-palmas-otras-provincias-4268727.jpg?tf=1200x' alt='Detenidas ocho personas por una gran estafa "man in the middle" con IA, en Madrid, Sevilla, Murcia, Las Palmas y otras provincias' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-1427156'>Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y está disponible en Disney+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-1427156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-4268493.jpg?tf=1200x' alt='Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y está disponible en Disney+' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-1427284'>¿No sabes si te gustará Linux? Así puedes probarlo desde tu ordenador</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-1427284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-4268704.jpg?tf=1200x' alt='¿No sabes si te gustará Linux? Así puedes probarlo desde tu ordenador' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-pidio-ayuda-elon-musk-destruir-estacion-espacial-internacional-1427151'>La NASA pidió ayuda a Elon Musk para destruir la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-pidio-ayuda-elon-musk-destruir-estacion-espacial-internacional-1427151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iss-4268503.jpg?tf=1200x' alt='La NASA pidió ayuda a Elon Musk para destruir la Estación Espacial Internacional' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294'>El grupo hacker Massgrave ha roto el sistema de licencias de Windows y Office, lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-aseguran-haber-roto-sistema-licencias-windows-office-gratis-todos-4268677.jpg?tf=1200x' alt='El grupo hacker Massgrave ha roto el sistema de licencias de Windows y Office, lo cambia todo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-liquidando-mini-pc-ryzen-7-precio-movil-xiaomi-1427009'>AliExpress está liquidando este Mini PC: Ryzen 7 a precio de móvil Xiaomi</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-liquidando-mini-pc-ryzen-7-precio-movil-xiaomi-1427009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beelink-ser5-3254285.jpg?tf=1200x' alt='AliExpress está liquidando este Mini PC: Ryzen 7 a precio de móvil Xiaomi' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/puedes-instalar-nuevo-sistema-operativo-one-ui-smart-tv-samsung-1427272'>Así puedes instalar el nuevo sistema operativo One UI en tu Smart TV Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/puedes-instalar-nuevo-sistema-operativo-one-ui-smart-tv-samsung-1427272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-instalar-nuevo-sistema-operativo-one-ui-smart-tv-samsung-4268657.jpg?tf=1200x' alt='Así puedes instalar el nuevo sistema operativo One UI en tu Smart TV Samsung' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-apasionado-videojuegos-diablo-iv-pero-hay-dos-titulos-clasicos-no-quiere-oir-ni-hablar-1426923'>Elon Musk es un apasionado de los videojuegos y Diablo IV, pero hay dos títulos clásicos de los que no quiere oír ni hablar</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-apasionado-videojuegos-diablo-iv-pero-hay-dos-titulos-clasicos-no-quiere-oir-ni-hablar-1426923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/musk-diablo-iv-4258424.jpg?tf=1200x' alt='Elon Musk es un apasionado de los videojuegos y Diablo IV, pero hay dos títulos clásicos de los que no quiere oír ni hablar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-intel-pat-gelsinger-retira-antes-echen-tendra-dos-sustitutos-1427274'>El CEO de Intel, Pat Gelsinger, se retira antes de que lo echen, tendrá dos sustitutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-intel-pat-gelsinger-retira-antes-echen-tendra-dos-sustitutos-1427274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ceo-intel-retira-antes-echen-tendra-dos-sustitutos-4268641.jpg?tf=1200x' alt='El CEO de Intel, Pat Gelsinger, se retira antes de que lo echen, tendrá dos sustitutos' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/comando-magico-windows-elimina-malware-minuto-tan-solo-clic-1426786'>El comando mágico de Windows que elimina el malware en un minuto y con tan solo un clic</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/comando-magico-windows-elimina-malware-minuto-tan-solo-clic-1426786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/comando-magico-windows-elimina-malware-minuto-tan-solo-clic-4267908.jpg?tf=1200x' alt='El comando mágico de Windows que elimina el malware en un minuto y con tan solo un clic' />
     </a>
 </div>
 
