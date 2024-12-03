@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-1427487'>Ni Ubuntu ni Debian, esta es la nueva reina de las distribuciones de Linux para los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-1427487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-4269019.jpg?tf=1200x' alt='Ni Ubuntu ni Debian, esta es la nueva reina de las distribuciones de Linux para los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/flipper-zero-tamagotchi-hackers-lanza-nueva-version-exclusiva-limitada-1427389'>Flipper Zero, el Tamagotchi para hackers, lanza una nueva versión exclusiva y limitada</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/flipper-zero-tamagotchi-hackers-lanza-nueva-version-exclusiva-limitada-1427389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/flipper-zero-4268854.jpg?tf=1200x' alt='Flipper Zero, el Tamagotchi para hackers, lanza una nueva versión exclusiva y limitada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431'>Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-linkedin-quieres-encontrar-trabajo-nueva-plataforma-elon-musk-ganar-dinero-1427431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-hiring-4268939.jpg?tf=1200x' alt='Olvídate de LinkedIn si quieres encontrar trabajo: esta es la nueva plataforma de Elon Musk para ganar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/javier-tebas-amenaza-pirateria-iptv-futbol-gratis-1427061'>"Caerán hasta los conventos de monjas": Javier Tebas promete un futuro muy negro a las IPTV en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/javier-tebas-amenaza-pirateria-iptv-futbol-gratis-1427061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-pirateria-4268360.jpg?tf=1200x' alt='"Caerán hasta los conventos de monjas": Javier Tebas promete un futuro muy negro a las IPTV en España' />
     </a>
 </div>
 
