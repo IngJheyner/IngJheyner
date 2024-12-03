@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-1427284'>¿No sabes si te gustará Linux? Así puedes probarlo desde tu ordenador</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-1427284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-sabes-te-gustara-linux-puedes-probarlo-ordenador-4268704.jpg?tf=1200x' alt='¿No sabes si te gustará Linux? Así puedes probarlo desde tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294'>El grupo hacker Massgrave asegura haber roto el sistema de licencias de Windows y Office, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-aseguran-haber-roto-sistema-licencias-windows-office-gratis-todos-4268677.jpg?tf=1200x' alt='El grupo hacker Massgrave asegura haber roto el sistema de licencias de Windows y Office, lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-1427256'>Ni Digi ni Vodafone: esta es la mejor fibra para ver Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-1427256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-digi-ni-vodafone-mejor-fibra-ver-netflix-4268640.jpg?tf=1200x' alt='Ni Digi ni Vodafone: esta es la mejor fibra para ver Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podrias-sobrevivir-mujer-gana-1300-euros-pasar-8-horas-usar-movil-1427271'>¿Podrías sobrevivir? Mujer gana más de 1300 euros por pasar 8 horas sin usar su móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/podrias-sobrevivir-mujer-gana-1300-euros-pasar-8-horas-usar-movil-1427271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adiccion-movil-4268648.jpg?tf=1200x' alt='¿Podrías sobrevivir? Mujer gana más de 1300 euros por pasar 8 horas sin usar su móvil' />
     </a>
 </div>
 
