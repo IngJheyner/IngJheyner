@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-cierra-puerta-ublock-chrome-pero-hay-forma-seguir-usando-extension-1427337'>Google le cierra la puerta a uBlock en Chrome, pero hay una forma de seguir usándo la extensión</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-cierra-puerta-ublock-chrome-pero-hay-forma-seguir-usando-extension-1427337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ublock-google-chrome-4268768.jpg?tf=1200x' alt='Google le cierra la puerta a uBlock en Chrome, pero hay una forma de seguir usándo la extensión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-tripulacion-perdida-inspirada-goonies-gremlins-et-extraterrestre-1427344'>Se estrena en Disney+ la serie de Star Wars inspirada en Los Goonies, Gremlins y E.T. el extraterrestre</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-tripulacion-perdida-inspirada-goonies-gremlins-et-extraterrestre-1427344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733212075031-4268742.jpg?tf=1200x' alt='Se estrena en Disney+ la serie de Star Wars inspirada en Los Goonies, Gremlins y E.T. el extraterrestre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hace-cinco-anos-me-compre-aspiradora-dyson-volveria-hacerlo-mil-veces-no-ha-perdido-potencia-mi-paz-mental-debe-ella-1427013'>Hace cinco años me compré esta aspiradora Dyson y volvería a hacerlo mil veces: no ha perdido potencia y mi paz mental se debe a ella</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hace-cinco-anos-me-compre-aspiradora-dyson-volveria-hacerlo-mil-veces-no-ha-perdido-potencia-mi-paz-mental-debe-ella-1427013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/dyson-v8-animal-2389431.jpg?tf=1200x' alt='Hace cinco años me compré esta aspiradora Dyson y volvería a hacerlo mil veces: no ha perdido potencia y mi paz mental se debe a ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-ciberdelincuentes-pudieron-estar-meses-robando-datos-1427330'>Hackeo a la Agencia Tributaria: "Los ciberdelincuentes pudieron estar meses robando datos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackeo-agencia-tributaria-ciberdelincuentes-pudieron-estar-meses-robando-datos-1427330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackeo-hacienda-4268755.jpg?tf=1200x' alt='Hackeo a la Agencia Tributaria: "Los ciberdelincuentes pudieron estar meses robando datos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/trafico-internet-todo-mundo-peligro-sabotajes-cables-submarinos-1427319'>El tráfico de internet en todo el mundo, en peligro: expertos estudian cómo evitar sabotajes en los cables submarinos‍</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/trafico-internet-todo-mundo-peligro-sabotajes-cables-submarinos-1427319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/trafico-internet-todo-mundo-peligro-expertos-estudian-como-evitar-sabotajes-cables-submarinos-4268734.jpg?tf=1200x' alt='El tráfico de internet en todo el mundo, en peligro: expertos estudian cómo evitar sabotajes en los cables submarinos‍' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/error-comun-arruinando-bateria-android-1416873'>Este error común está arruinando la batería de tu Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/error-comun-arruinando-bateria-android-1416873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-carga-rapida-4258372.jpg?tf=1200x' alt='Este error común está arruinando la batería de tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/he-analizado-8-dispositivos-hacer-mi-casa-inteligente-debes-considerar-antes-integrar-tecnologia-hogar-1414934'>He analizado 8 dispositivos para hacer mi casa más inteligente: lo que debes considerar antes de integrar tecnología en tu hogar</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/he-analizado-8-dispositivos-hacer-mi-casa-inteligente-debes-considerar-antes-integrar-tecnologia-hogar-1414934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234289.jpg?tf=1200x' alt='He analizado 8 dispositivos para hacer mi casa más inteligente: lo que debes considerar antes de integrar tecnología en tu hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-1427156'>Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y está disponible en Disney+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-1427156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-4268493.jpg?tf=1200x' alt='Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y está disponible en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-liquidando-mini-pc-ryzen-7-precio-movil-xiaomi-1427009'>AliExpress está liquidando este Mini PC: Ryzen 7 a precio de móvil Xiaomi</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-liquidando-mini-pc-ryzen-7-precio-movil-xiaomi-1427009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beelink-ser5-3254285.jpg?tf=1200x' alt='AliExpress está liquidando este Mini PC: Ryzen 7 a precio de móvil Xiaomi' />
     </a>
 </div>
 
