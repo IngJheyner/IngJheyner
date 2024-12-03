@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395'>Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/ni-horno-ni-freidora-aire-dos-12l-tiene-todo-conquistar-cocina-1427395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aigostar-4268842.jpg?tf=1200x' alt='Ni horno ni freidora de aire, las dos: esta de 12L lo tiene todo para conquistar tu cocina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-acusada-espiar-propios-empleados-1427386'>Apple es acusada de espiar a sus propios empleados</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-acusada-espiar-propios-empleados-1427386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-acusada-espiar-propios-empleados-4268792.jpg?tf=1200x' alt='Apple es acusada de espiar a sus propios empleados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-1427331'>Llega a Gemini una de las funciones más esperadas por los usuarios: podrás hacer llamadas sin desbloquear tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/google/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-1427331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llega-gemini-funciones-esperadas-usuarios-podras-hacer-llamadas-desbloquear-movil-4268769.jpg?tf=1200x' alt='Llega a Gemini una de las funciones más esperadas por los usuarios: podrás hacer llamadas sin desbloquear tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334'>Nike cierra RTFKT, uno de sus proyectos centrados en NFT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nike-cierra-rtfkt-proyectos-centrados-nft-1427334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/rtfkt-zapatillas-nft-2559869.jpg?tf=1200x' alt='Nike cierra RTFKT, uno de sus proyectos centrados en NFT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-cierra-puerta-ublock-chrome-pero-hay-forma-seguir-usando-extension-1427337'>Google le cierra la puerta a uBlock en Chrome, pero hay una forma de seguir usándo la extensión</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-cierra-puerta-ublock-chrome-pero-hay-forma-seguir-usando-extension-1427337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ublock-google-chrome-4268768.jpg?tf=1200x' alt='Google le cierra la puerta a uBlock en Chrome, pero hay una forma de seguir usándo la extensión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-tripulacion-perdida-inspirada-goonies-gremlins-et-extraterrestre-1427344'>Se estrena en Disney+ la serie de Star Wars inspirada en Los Goonies, Gremlins y E.T. el extraterrestre</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-tripulacion-perdida-inspirada-goonies-gremlins-et-extraterrestre-1427344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733212075031-4268742.jpg?tf=1200x' alt='Se estrena en Disney+ la serie de Star Wars inspirada en Los Goonies, Gremlins y E.T. el extraterrestre' />
     </a>
 </div>
 
