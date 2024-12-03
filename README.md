@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/trafico-internet-todo-mundo-peligro-sabotajes-cables-submarinos-1427319'>El tráfico de internet en todo el mundo, en peligro: expertos estudian cómo evitar sabotajes en los cables submarinos‍</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/trafico-internet-todo-mundo-peligro-sabotajes-cables-submarinos-1427319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/trafico-internet-todo-mundo-peligro-expertos-estudian-como-evitar-sabotajes-cables-submarinos-4268734.jpg?tf=1200x' alt='El tráfico de internet en todo el mundo, en peligro: expertos estudian cómo evitar sabotajes en los cables submarinos‍' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/error-comun-arruinando-bateria-android-1416873'>Este error común está arruinando la batería de tu Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/error-comun-arruinando-bateria-android-1416873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-carga-rapida-4258372.jpg?tf=1200x' alt='Este error común está arruinando la batería de tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/he-analizado-8-dispositivos-hacer-mi-casa-inteligente-debes-considerar-antes-integrar-tecnologia-hogar-1414934'>He analizado 8 dispositivos para hacer mi casa más inteligente: lo que debes considerar antes de integrar tecnología en tu hogar</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/he-analizado-8-dispositivos-hacer-mi-casa-inteligente-debes-considerar-antes-integrar-tecnologia-hogar-1414934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234289.jpg?tf=1200x' alt='He analizado 8 dispositivos para hacer mi casa más inteligente: lo que debes considerar antes de integrar tecnología en tu hogar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-1427156'>Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y está disponible en Disney+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-1427156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-star-wars-ni-alien-ni-blade-runner-mejor-pelicula-ciencia-ficcion-disponible-disney-4268493.jpg?tf=1200x' alt='Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y está disponible en Disney+' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-pidio-ayuda-elon-musk-destruir-estacion-espacial-internacional-1427151'>La NASA pidió ayuda a Elon Musk para destruir la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-pidio-ayuda-elon-musk-destruir-estacion-espacial-internacional-1427151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iss-4268503.jpg?tf=1200x' alt='La NASA pidió ayuda a Elon Musk para destruir la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-liquidando-mini-pc-ryzen-7-precio-movil-xiaomi-1427009'>AliExpress está liquidando este Mini PC: Ryzen 7 a precio de móvil Xiaomi</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-liquidando-mini-pc-ryzen-7-precio-movil-xiaomi-1427009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/beelink-ser5-3254285.jpg?tf=1200x' alt='AliExpress está liquidando este Mini PC: Ryzen 7 a precio de móvil Xiaomi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-apasionado-videojuegos-diablo-iv-pero-hay-dos-titulos-clasicos-no-quiere-oir-ni-hablar-1426923'>Elon Musk es un apasionado de los videojuegos y Diablo IV, pero hay dos títulos clásicos de los que no quiere oír ni hablar</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-apasionado-videojuegos-diablo-iv-pero-hay-dos-titulos-clasicos-no-quiere-oir-ni-hablar-1426923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/musk-diablo-iv-4258424.jpg?tf=1200x' alt='Elon Musk es un apasionado de los videojuegos y Diablo IV, pero hay dos títulos clásicos de los que no quiere oír ni hablar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/comando-magico-windows-elimina-malware-minuto-tan-solo-clic-1426786'>El comando mágico de Windows que elimina el malware en un minuto y con tan solo un clic</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/comando-magico-windows-elimina-malware-minuto-tan-solo-clic-1426786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/comando-magico-windows-elimina-malware-minuto-tan-solo-clic-4267908.jpg?tf=1200x' alt='El comando mágico de Windows que elimina el malware en un minuto y con tan solo un clic' />
     </a>
 </div>
 
