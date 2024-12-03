@@ -58,9 +58,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294'>El grupo hacker Massgrave asegura haber roto el sistema de licencias de Windows y Office, lo cambia todo</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294'>El grupo hacker Massgrave ha roto el sistema de licencias de Windows y Office, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/grupo-hacker-massgrave-sistema-licencias-windows-office-1427294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-aseguran-haber-roto-sistema-licencias-windows-office-gratis-todos-4268677.jpg?tf=1200x' alt='El grupo hacker Massgrave asegura haber roto el sistema de licencias de Windows y Office, lo cambia todo' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-aseguran-haber-roto-sistema-licencias-windows-office-gratis-todos-4268677.jpg?tf=1200x' alt='El grupo hacker Massgrave ha roto el sistema de licencias de Windows y Office, lo cambia todo' />
     </a>
 </div>
 
