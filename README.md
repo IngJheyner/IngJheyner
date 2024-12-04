@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acabo-chollo-adios-compartir-contrasenas-tambien-max-comenzamos-revisar-cuentas-1427613'>Se acabó el chollo, adiós a compartir contraseñas también en MAX: "comenzamos a revisar cuentas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/acabo-chollo-adios-compartir-contrasenas-tambien-max-comenzamos-revisar-cuentas-1427613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-compartir-contrasenas-max-breve-llegara-muy-pronto-4269210.jpg?tf=1200x' alt='Se acabó el chollo, adiós a compartir contraseñas también en MAX: "comenzamos a revisar cuentas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-futbol-gratis-iptv-conocido-portal-anime-ha-anunciado-cierre-1427644'>No solo fútbol gratis por IPTV: este conocido portal de anime ha anunciado su cierre</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-futbol-gratis-iptv-conocido-portal-anime-ha-anunciado-cierre-1427644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nuevo-golpe-iptv-piratas-tambien-conocido-portal-anime-ha-anunciado-cierre-4269256.jpg?tf=1200x' alt='No solo fútbol gratis por IPTV: este conocido portal de anime ha anunciado su cierre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/apps-bancarias-android-infectadas-malware-1427045'>Busca estas 15 apps bancarias en tu móvil porque te están robando: tienen millones de descargas y ocultan un malware que te vacía la cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/android/apps-bancarias-android-infectadas-malware-1427045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Busca estas 15 apps bancarias en tu móvil porque te están robando: tienen millones de descargas y ocultan un malware que te vacía la cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175'>Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tunel-conecta-alemania-suecia-4268573.jpg?tf=1200x' alt='Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-movil-evitar-ciberataques-1406390'>Toma nota: este sencillo código para iPhone y Android permite detectar ciberataques en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-movil-evitar-ciberataques-1406390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/002-desconocido-codigo-secreto-protege-movil-evita-espien-4238856.jpg?tf=1200x' alt='Toma nota: este sencillo código para iPhone y Android permite detectar ciberataques en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-llega-macetas-has-leido-bien-maceta-tiene-estados-animo-te-recuerda-cuando-regar-1427375'>La IA llega a las macetas, y has leído bien: esta maceta tiene estados de ánimo y te recuerda cuándo regar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-llega-macetas-has-leido-bien-maceta-tiene-estados-animo-te-recuerda-cuando-regar-1427375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/maceta-inteligente-ivy-4268785.jpg?tf=1200x' alt='La IA llega a las macetas, y has leído bien: esta maceta tiene estados de ánimo y te recuerda cuándo regar' />
     </a>
 </div>
 
