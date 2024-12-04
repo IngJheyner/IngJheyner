@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/puedes-convertir-movil-android-iphone-sovietico-david-broncano-revuelta-1427673'>Así puedes convertir tu móvil Android en el iPhone soviético de David Broncano en 'La revuelta'</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/puedes-convertir-movil-android-iphone-sovietico-david-broncano-revuelta-1427673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movil-david-broncano-revuelta-4269376.jpg?tf=1200x' alt='Así puedes convertir tu móvil Android en el iPhone soviético de David Broncano en 'La revuelta'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-alerta-estafa-tecnico-whatsapp-picas-estafador-podra-ver-todo-haces-1427633'>La Policía Nacional alerta de la estafa del técnico de WhatsApp: “Si picas, el estafador podrá ver todo lo que haces”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-alerta-estafa-tecnico-whatsapp-picas-estafador-podra-ver-todo-haces-1427633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-estafa-policia-nacional-4269292.jpg?tf=1200x' alt='La Policía Nacional alerta de la estafa del técnico de WhatsApp: “Si picas, el estafador podrá ver todo lo que haces”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acabo-chollo-adios-compartir-contrasenas-tambien-max-comenzamos-revisar-cuentas-1427613'>Se acabó el chollo, adiós a compartir contraseñas también en MAX: "comenzamos a revisar cuentas"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/acabo-chollo-adios-compartir-contrasenas-tambien-max-comenzamos-revisar-cuentas-1427613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-compartir-contrasenas-max-breve-llegara-muy-pronto-4269210.jpg?tf=1200x' alt='Se acabó el chollo, adiós a compartir contraseñas también en MAX: "comenzamos a revisar cuentas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/apps-bancarias-android-infectadas-malware-1427045'>Busca estas 15 apps bancarias en tu móvil porque te están robando: tienen millones de descargas y ocultan un malware que te vacía la cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/android/apps-bancarias-android-infectadas-malware-1427045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Busca estas 15 apps bancarias en tu móvil porque te están robando: tienen millones de descargas y ocultan un malware que te vacía la cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-durante-anos-esperando-sea-oro-realidad-meteorito-1427622'>Un hombre guarda una piedra durante años esperando que sea oro: en realidad es mucho más valiosa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-durante-anos-esperando-sea-oro-realidad-meteorito-1427622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hombre-guarda-piedra-durante-anos-esperando-sea-oro-realidad-mucho-valiosa-4269191.jpg?tf=1200x' alt='Un hombre guarda una piedra durante años esperando que sea oro: en realidad es mucho más valiosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175'>Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tunel-conecta-alemania-suecia-4268573.jpg?tf=1200x' alt='Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua' />
     </a>
 </div>
 
