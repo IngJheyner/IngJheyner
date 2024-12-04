@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-filtrarse-web-antes-termine-2024-1427590'>El diseño de la Nintendo Switch 2 podría filtrarse en esta web antes de que termine 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-filtrarse-web-antes-termine-2024-1427590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/diseno-nintendo-switch-2-podria-filtrarse-web-antes-termine-2024-4269157.jpg?tf=1200x' alt='El diseño de la Nintendo Switch 2 podría filtrarse en esta web antes de que termine 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-1427581'>Intel presenta sus nuevas tarjetas gráficas Intel Arc B570 y B580, más baratas y más potentes que RTX 4060</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-1427581' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-4269088.jpg?tf=1200x' alt='Intel presenta sus nuevas tarjetas gráficas Intel Arc B570 y B580, más baratas y más potentes que RTX 4060' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-urge-usuarios-instalar-windows-11-incluso-hardware-no-compatible-1427550'>Microsoft urge a los usuarios a instalar Windows 11 incluso en hardware no compatible</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-urge-usuarios-instalar-windows-11-incluso-hardware-no-compatible-1427550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/instalacion-windows-11-4269092.jpg?tf=1200x' alt='Microsoft urge a los usuarios a instalar Windows 11 incluso en hardware no compatible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-1427546'>Movistar Plus+ integra Apple TV+: series y películas sin coste adicional en diciembre</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-1427546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-plus-integra-apple-tv-series-peliculas-coste-adicional-diciembre-4269086.jpg?tf=1200x' alt='Movistar Plus+ integra Apple TV+: series y películas sin coste adicional en diciembre' />
     </a>
 </div>
 
