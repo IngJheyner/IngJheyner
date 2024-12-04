@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-pantallas-ni-internet-propuesta-gobierno-regular-uso-tecnologia-ninos-1427733'>Ni pantallas ni internet, esta es la propuesta del Gobierno para regular el uso de la tecnología en los niños</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-pantallas-ni-internet-propuesta-gobierno-regular-uso-tecnologia-ninos-1427733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-pantallas-ni-internet-propuesta-gobierno-regular-uso-tecnologia-ninos-4269440.jpg?tf=1200x' alt='Ni pantallas ni internet, esta es la propuesta del Gobierno para regular el uso de la tecnología en los niños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-ni-huawei-marca-ha-conseguido-vender-wearables-1427787'>Ni Apple ni Huawei: esta es la marca que ha conseguido vender más wearables</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-ni-huawei-marca-ha-conseguido-vender-wearables-1427787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244581.jpg?tf=1200x' alt='Ni Apple ni Huawei: esta es la marca que ha conseguido vender más wearables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-lanzara-superordenador-desafiar-nvidia-creando-chips-propios-revolucionaran-industria-ia-1427731'>Amazon lanzará un superordenador para desafiar a Nvidia, creando chips propios que revolucionarán la industria de IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-lanzara-superordenador-desafiar-nvidia-creando-chips-propios-revolucionaran-industria-ia-1427731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nuevo-trainium2-ultraserver-quiet-lab-annapurna-labs-4269458.jpg?tf=1200x' alt='Amazon lanzará un superordenador para desafiar a Nvidia, creando chips propios que revolucionarán la industria de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/intenta-comprar-grafica-prohibida-nvdia-pero-no-sale-bien-1427723'>Intenta comprar la gráfica prohibida de NVDIA pero no sale bien</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/intenta-comprar-grafica-prohibida-nvdia-pero-no-sale-bien-1427723' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/comprar-tarjeta-grafica-4269412.jpg?tf=1200x' alt='Intenta comprar la gráfica prohibida de NVDIA pero no sale bien' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-1427677'>Registro de viajeros obligatorio en España: no es una estafa, estos son los datos que te pedirán a partir de ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-1427677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-4269305.jpg?tf=1200x' alt='Registro de viajeros obligatorio en España: no es una estafa, estos son los datos que te pedirán a partir de ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-confirma-discretamente-siri-no-sera-compatible-robots-aspiradores-corto-plazo-1427692'>Giro de 180 grados: Apple confirma (discretamente) que Siri no será compatible con robots aspiradores a corto plazo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-confirma-discretamente-siri-no-sera-compatible-robots-aspiradores-corto-plazo-1427692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-apple-confirma-discretamente-siri-no-sera-compatible-robots-aspiradores-corto-plazo-4269355.jpg?tf=1200x' alt='Giro de 180 grados: Apple confirma (discretamente) que Siri no será compatible con robots aspiradores a corto plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-chatgpt-amazon-ya-tiene-ia-llama-nova-quiere-acabar-openai-1427685'>Tiembla ChatGPT: Amazon ya tiene su IA, se llama Nova y quiere acabar con OpenAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-chatgpt-amazon-ya-tiene-ia-llama-nova-quiere-acabar-openai-1427685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/presentacion-nova-amazon-4269379.jpg?tf=1200x' alt='Tiembla ChatGPT: Amazon ya tiene su IA, se llama Nova y quiere acabar con OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/telefono-fijo-casa-experto-aconseja-quitarlo-1425649'>Adiós al teléfono fijo, experto aconseja deshacerse de él: "Es la vía más directa y efectiva"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/telefono-fijo-casa-experto-aconseja-quitarlo-1425649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-telefono-fijo-4269413.jpg?tf=1200x' alt='Adiós al teléfono fijo, experto aconseja deshacerse de él: "Es la vía más directa y efectiva"' />
     </a>
 </div>
 
