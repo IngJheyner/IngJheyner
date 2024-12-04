@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/intenta-comprar-grafica-prohibida-nvdia-pero-no-sale-bien-1427723'>Intenta comprar la gráfica prohibida de NVDIA pero no sale bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/intenta-comprar-grafica-prohibida-nvdia-pero-no-sale-bien-1427723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/comprar-tarjeta-grafica-4269412.jpg?tf=1200x' alt='Intenta comprar la gráfica prohibida de NVDIA pero no sale bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-1427677'>Registro de viajeros obligatorio en España: no es una estafa, estos son los datos que te pedirán a partir de ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-1427677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-4269305.jpg?tf=1200x' alt='Registro de viajeros obligatorio en España: no es una estafa, estos son los datos que te pedirán a partir de ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/telefono-fijo-casa-experto-aconseja-quitarlo-1425649'>Adiós al teléfono fijo, experto aconseja deshacerse de él: "Es la vía más directa y efectiva"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/telefono-fijo-casa-experto-aconseja-quitarlo-1425649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-telefono-fijo-4269413.jpg?tf=1200x' alt='Adiós al teléfono fijo, experto aconseja deshacerse de él: "Es la vía más directa y efectiva"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/va-peor-playstation-5-basica-mayores-expertos-analisis-consolas-critican-duramente-ps5-pro-1427694'>"Va peor que la PlayStation 5 básica": Los mayores expertos en análisis de consolas critican duramente a la PS5 Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/va-peor-playstation-5-basica-mayores-expertos-analisis-consolas-critican-duramente-ps5-pro-1427694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ps5-pro-3290517.jpg?tf=1200x' alt='"Va peor que la PlayStation 5 básica": Los mayores expertos en análisis de consolas critican duramente a la PS5 Pro' />
     </a>
 </div>
 
