@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/spotify-wrapped-2024-canciones-artistas-podcast-escuchados-1427829'>Spotify Wrapped 2024: las canciones, artistas y pódcast más escuchados del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/spotify-wrapped-2024-canciones-artistas-podcast-escuchados-1427829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/spotify-wrapped-2024-canciones-artistas-podcast-escuchados-ano-4269584.jpg?tf=1200x' alt='Spotify Wrapped 2024: las canciones, artistas y pódcast más escuchados del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gente-me-mira-raro-cuando-hablo-vpn-pero-tiene-mucho-convencer-correo-electronico-nube-plantar-cara-google-1427048'>La gente me mira raro cuando hablo de VPN, pero esta tiene mucho más para convencer: correo electrónico y nube para plantar cara a Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gente-me-mira-raro-cuando-hablo-vpn-pero-tiene-mucho-convencer-correo-electronico-nube-plantar-cara-google-1427048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-drive-4048115.jpg?tf=1200x' alt='La gente me mira raro cuando hablo de VPN, pero esta tiene mucho más para convencer: correo electrónico y nube para plantar cara a Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-acento-espanol-atractivo-1426408'>Ni murciano ni canario o extremeño, este es el acento español más atractivo para la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-acento-espanol-atractivo-1426408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4267228.jpg?tf=1200x' alt='Ni murciano ni canario o extremeño, este es el acento español más atractivo para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/visitas-domicilio-ofensiva-nunca-vista-iptv-corre-riesgo-enfrentar-graves-consecuencias-1427779'>Visitas a domicilio en una ofensiva nunca vista contra las IPTV: "corre el riesgo de enfrentar graves consecuencias"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/visitas-domicilio-ofensiva-nunca-vista-iptv-corre-riesgo-enfrentar-graves-consecuencias-1427779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/visitas-domicilio-ofensiva-nunca-vista-iptv-corre-riesgo-enfrentar-graves-consecuencias-4269577.jpg?tf=1200x' alt='Visitas a domicilio en una ofensiva nunca vista contra las IPTV: "corre el riesgo de enfrentar graves consecuencias"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-samsung-ha-escuchado-usuarios-dara-cambio-radical-moviles-2025-1427717'>Giro de 180 grados: Samsung ha escuchado a los usuarios y dará un cambio radical en sus móviles en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-samsung-ha-escuchado-usuarios-dara-cambio-radical-moviles-2025-1427717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-samsung-ha-escuchado-usuarios-dara-cambio-radical-moviles-2025-4269466.jpg?tf=1200x' alt='Giro de 180 grados: Samsung ha escuchado a los usuarios y dará un cambio radical en sus móviles en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-pantallas-ni-internet-propuesta-gobierno-regular-uso-tecnologia-ninos-1427733'>Ni pantallas ni internet, esta es la propuesta del Gobierno para regular el uso de la tecnología en los niños</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-pantallas-ni-internet-propuesta-gobierno-regular-uso-tecnologia-ninos-1427733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-pantallas-ni-internet-propuesta-gobierno-regular-uso-tecnologia-ninos-4269440.jpg?tf=1200x' alt='Ni pantallas ni internet, esta es la propuesta del Gobierno para regular el uso de la tecnología en los niños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-ni-huawei-marca-ha-conseguido-vender-wearables-1427787'>Ni Apple ni Huawei: esta es la marca que ha conseguido vender más wearables</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-apple-ni-huawei-marca-ha-conseguido-vender-wearables-1427787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244581.jpg?tf=1200x' alt='Ni Apple ni Huawei: esta es la marca que ha conseguido vender más wearables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-lanzara-superordenador-desafiar-nvidia-creando-chips-propios-revolucionaran-industria-ia-1427731'>Amazon lanzará un superordenador para desafiar a Nvidia, creando chips propios que revolucionarán la industria de IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-lanzara-superordenador-desafiar-nvidia-creando-chips-propios-revolucionaran-industria-ia-1427731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nuevo-trainium2-ultraserver-quiet-lab-annapurna-labs-4269458.jpg?tf=1200x' alt='Amazon lanzará un superordenador para desafiar a Nvidia, creando chips propios que revolucionarán la industria de IA' />
     </a>
 </div>
 
