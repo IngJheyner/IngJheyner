@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175'>Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tunel-conecta-alemania-suecia-4268573.jpg?tf=1200x' alt='Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-movil-evitar-ciberataques-1406390'>Toma nota: este sencillo código para iPhone y Android permite detectar ciberataques en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-movil-evitar-ciberataques-1406390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/002-desconocido-codigo-secreto-protege-movil-evita-espien-4238856.jpg?tf=1200x' alt='Toma nota: este sencillo código para iPhone y Android permite detectar ciberataques en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-llega-macetas-has-leido-bien-maceta-tiene-estados-animo-te-recuerda-cuando-regar-1427375'>La IA llega a las macetas, y has leído bien: esta maceta tiene estados de ánimo y te recuerda cuándo regar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-llega-macetas-has-leido-bien-maceta-tiene-estados-animo-te-recuerda-cuando-regar-1427375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/maceta-inteligente-ivy-4268785.jpg?tf=1200x' alt='La IA llega a las macetas, y has leído bien: esta maceta tiene estados de ánimo y te recuerda cuándo regar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-documentos-microsoft-word-corruptos-peligrosa-campana-phishing-1427600'>¡Alerta! Documentos de Microsoft Word usados en una peligrosa campaña de phishing</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-documentos-microsoft-word-corruptos-peligrosa-campana-phishing-1427600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-documentos-microsoft-word-usados-peligrosa-campana-phishing-4269184.jpg?tf=1200x' alt='¡Alerta! Documentos de Microsoft Word usados en una peligrosa campaña de phishing' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/adios-busqueda-extraterrestre-expertos-cambridge-descartan-completo-vida-planeta-1427475'>Adiós a la búsqueda extraterrestre: expertos de Cambridge descartan por completo la vida en este planeta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/adios-busqueda-extraterrestre-expertos-cambridge-descartan-completo-vida-planeta-1427475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/venus-planeta-2357159.jpg?tf=1200x' alt='Adiós a la búsqueda extraterrestre: expertos de Cambridge descartan por completo la vida en este planeta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-cambiar-mundo-ia-punto-dar-salto-definitivo-expertos-1427493'>"Va a cambiar el mundo", la IA a punto de dar el salto definitivo, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/va-cambiar-mundo-ia-punto-dar-salto-definitivo-expertos-1427493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-salud-mental-4266733.jpg?tf=1200x' alt='"Va a cambiar el mundo", la IA a punto de dar el salto definitivo, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/mas-me-ha-gustado-create-tv-art-matte-1427038'>Ni su panel o sus funciones inteligentes, lo que más me ha gustado de Create TV Art Matte es su diseño</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/mas-me-ha-gustado-create-tv-art-matte-1427038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/create-tv-art-matte-4266326.jpg?tf=1200x' alt='Ni su panel o sus funciones inteligentes, lo que más me ha gustado de Create TV Art Matte es su diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/acer-swift-14-ai-portatiles-autonomia-mercado-ademas-tener-copilot-servicio-1426394'>El Acer Swift 14 AI es uno de los portátiles con más autonomía del mercado, además de tener Copilot+ a tu servicio</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/acer-swift-14-ai-portatiles-autonomia-mercado-ademas-tener-copilot-servicio-1426394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/acer-swift-14-ai-4267793.jpg?tf=1200x' alt='El Acer Swift 14 AI es uno de los portátiles con más autonomía del mercado, además de tener Copilot+ a tu servicio' />
     </a>
 </div>
 
