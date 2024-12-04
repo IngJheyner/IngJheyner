@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-1427875'>El primer tren de hidrógeno de España completa sus primeros 10.000 Kilómetros</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-1427875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-4269707.jpg?tf=1200x' alt='El primer tren de hidrógeno de España completa sus primeros 10.000 Kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845'>Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-4269701.jpg?tf=1200x' alt='Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-134-beta-ya-disponible-novedades-como-instalarla-ya-mismo-1427859'>Android Auto 13.4 beta ya disponible: novedades y cómo instalarla ya mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-134-beta-ya-disponible-novedades-como-instalarla-ya-mismo-1427859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-134-4269687.jpg?tf=1200x' alt='Android Auto 13.4 beta ya disponible: novedades y cómo instalarla ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-explica-apagar-telefono-todos-dias-podria-protegerte-ser-hackeado-1427807'>Experto explica por qué apagar el teléfono todos los días podría protegerte de ser hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-explica-apagar-telefono-todos-dias-podria-protegerte-ser-hackeado-1427807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-explica-apagar-telefono-todos-dias-podria-protegerte-ser-hackeado-4269654.jpg?tf=1200x' alt='Experto explica por qué apagar el teléfono todos los días podría protegerte de ser hackeado' />
     </a>
 </div>
 
