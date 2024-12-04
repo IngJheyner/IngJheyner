@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-1427677'>Registro de viajeros obligatorio en España: no es una estafa, estos son los datos que te pedirán a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-1427677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/registro-viajeros-obligatorio-espana-no-estafa-estos-son-datos-te-pediran-partir-ahora-4269305.jpg?tf=1200x' alt='Registro de viajeros obligatorio en España: no es una estafa, estos son los datos que te pedirán a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-confirma-discretamente-siri-no-sera-compatible-robots-aspiradores-corto-plazo-1427692'>Giro de 180 grados: Apple confirma (discretamente) que Siri no será compatible con robots aspiradores a corto plazo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-confirma-discretamente-siri-no-sera-compatible-robots-aspiradores-corto-plazo-1427692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-apple-confirma-discretamente-siri-no-sera-compatible-robots-aspiradores-corto-plazo-4269355.jpg?tf=1200x' alt='Giro de 180 grados: Apple confirma (discretamente) que Siri no será compatible con robots aspiradores a corto plazo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-chatgpt-amazon-ya-tiene-ia-llama-nova-quiere-acabar-openai-1427685'>Tiembla ChatGPT: Amazon ya tiene su IA, se llama Nova y quiere acabar con OpenAI</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-chatgpt-amazon-ya-tiene-ia-llama-nova-quiere-acabar-openai-1427685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/presentacion-nova-amazon-4269379.jpg?tf=1200x' alt='Tiembla ChatGPT: Amazon ya tiene su IA, se llama Nova y quiere acabar con OpenAI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/va-peor-playstation-5-basica-mayores-expertos-analisis-consolas-critican-duramente-ps5-pro-1427694'>"Va peor que la PlayStation 5 básica": Los mayores expertos en análisis de consolas critican duramente a la PS5 Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/va-peor-playstation-5-basica-mayores-expertos-analisis-consolas-critican-duramente-ps5-pro-1427694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ps5-pro-3290517.jpg?tf=1200x' alt='"Va peor que la PlayStation 5 básica": Los mayores expertos en análisis de consolas critican duramente a la PS5 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/mediamarkt-rebaja-casi-todas-dyson-150-euros-descuento-modelos-299-euros-1427674'>MediaMarkt rebaja casi todas las Dyson: 150 euros de descuento y modelos desde 299 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/mediamarkt-rebaja-casi-todas-dyson-150-euros-descuento-modelos-299-euros-1427674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dyson-4269317.jpg?tf=1200x' alt='MediaMarkt rebaja casi todas las Dyson: 150 euros de descuento y modelos desde 299 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/puedes-convertir-movil-android-iphone-sovietico-david-broncano-revuelta-1427673'>Así puedes convertir tu móvil Android en el iPhone soviético de David Broncano en 'La revuelta'</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/puedes-convertir-movil-android-iphone-sovietico-david-broncano-revuelta-1427673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movil-david-broncano-revuelta-4269376.jpg?tf=1200x' alt='Así puedes convertir tu móvil Android en el iPhone soviético de David Broncano en 'La revuelta'' />
     </a>
 </div>
 
