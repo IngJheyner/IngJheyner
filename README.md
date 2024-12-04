@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/apps-bancarias-android-infectadas-malware-1427045'>Busca estas 15 apps bancarias en tu móvil porque te están robando: tienen millones de descargas y ocultan un malware que te vacía la cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/apps-bancarias-android-infectadas-malware-1427045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/malware-android-4144237.jpg?tf=1200x' alt='Busca estas 15 apps bancarias en tu móvil porque te están robando: tienen millones de descargas y ocultan un malware que te vacía la cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-durante-anos-esperando-sea-oro-realidad-meteorito-1427622'>Un hombre guarda una piedra durante años esperando que sea oro: en realidad es mucho más valiosa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-durante-anos-esperando-sea-oro-realidad-meteorito-1427622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hombre-guarda-piedra-durante-anos-esperando-sea-oro-realidad-mucho-valiosa-4269191.jpg?tf=1200x' alt='Un hombre guarda una piedra durante años esperando que sea oro: en realidad es mucho más valiosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175'>Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mayor-tunel-submarino-mundo-tecnologia-revolucionaria-18-km-debajo-agua-1427175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tunel-conecta-alemania-suecia-4268573.jpg?tf=1200x' alt='Así es el mayor túnel submarino del mundo con tecnología revolucionaria: 18 km debajo del agua' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-llega-macetas-has-leido-bien-maceta-tiene-estados-animo-te-recuerda-cuando-regar-1427375'>La IA llega a las macetas, y has leído bien: esta maceta tiene estados de ánimo y te recuerda cuándo regar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-llega-macetas-has-leido-bien-maceta-tiene-estados-animo-te-recuerda-cuando-regar-1427375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/maceta-inteligente-ivy-4268785.jpg?tf=1200x' alt='La IA llega a las macetas, y has leído bien: esta maceta tiene estados de ánimo y te recuerda cuándo regar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-documentos-microsoft-word-corruptos-peligrosa-campana-phishing-1427600'>¡Alerta! Documentos de Microsoft Word usados en una peligrosa campaña de phishing</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-documentos-microsoft-word-corruptos-peligrosa-campana-phishing-1427600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-documentos-microsoft-word-usados-peligrosa-campana-phishing-4269184.jpg?tf=1200x' alt='¡Alerta! Documentos de Microsoft Word usados en una peligrosa campaña de phishing' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/adios-busqueda-extraterrestre-expertos-cambridge-descartan-completo-vida-planeta-1427475'>Adiós a la búsqueda extraterrestre: expertos de Cambridge descartan por completo la vida en este planeta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/adios-busqueda-extraterrestre-expertos-cambridge-descartan-completo-vida-planeta-1427475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/venus-planeta-2357159.jpg?tf=1200x' alt='Adiós a la búsqueda extraterrestre: expertos de Cambridge descartan por completo la vida en este planeta' />
     </a>
 </div>
 
