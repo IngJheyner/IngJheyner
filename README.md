@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845'>Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-4269701.jpg?tf=1200x' alt='Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-apuesta-moviles-baratos-llevara-android-15-dispositivos-1427866'>Samsung apuesta por lo móviles baratos: llevará Android 15 a más dispositivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-apuesta-moviles-baratos-llevara-android-15-dispositivos-1427866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a15-3607181.jpg?tf=1200x' alt='Samsung apuesta por lo móviles baratos: llevará Android 15 a más dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/como-seria-windows-12-disenador-imagina-proxima-generacion-windows-1427861'>¿Cómo sería Windows 12? Un diseñador imagina la próxima generación de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/como-seria-windows-12-disenador-imagina-proxima-generacion-windows-1427861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/concepto-windows-12-4269690.jpg?tf=1200x' alt='¿Cómo sería Windows 12? Un diseñador imagina la próxima generación de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-134-beta-ya-disponible-novedades-como-instalarla-ya-mismo-1427859'>Android Auto 13.4 beta ya disponible: novedades y cómo instalarla ya mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-134-beta-ya-disponible-novedades-como-instalarla-ya-mismo-1427859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-134-4269687.jpg?tf=1200x' alt='Android Auto 13.4 beta ya disponible: novedades y cómo instalarla ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-explica-apagar-telefono-todos-dias-podria-protegerte-ser-hackeado-1427807'>Experto explica por qué apagar el teléfono todos los días podría protegerte de ser hackeado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-explica-apagar-telefono-todos-dias-podria-protegerte-ser-hackeado-1427807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-explica-apagar-telefono-todos-dias-podria-protegerte-ser-hackeado-4269654.jpg?tf=1200x' alt='Experto explica por qué apagar el teléfono todos los días podría protegerte de ser hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-hoy-culto-mejor-pelicula-ciencia-ficcion-escondida-catalogo-max-1427710'>Fracasó en taquilla, pero hoy es de culto: la mejor película de ciencia ficción escondida en el catálogo de MAX</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-hoy-culto-mejor-pelicula-ciencia-ficcion-escondida-catalogo-max-1427710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fracaso-taquilla-pero-hoy-culto-mejor-pelicula-ciencia-ficcion-escondida-catalogo-max-4269394.jpg?tf=1200x' alt='Fracasó en taquilla, pero hoy es de culto: la mejor película de ciencia ficción escondida en el catálogo de MAX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/spotify-wrapped-2024-canciones-artistas-podcast-escuchados-1427829'>Spotify Wrapped 2024: las canciones, artistas y pódcast más escuchados del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/spotify-wrapped-2024-canciones-artistas-podcast-escuchados-1427829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/spotify-wrapped-2024-canciones-artistas-podcast-escuchados-ano-4269584.jpg?tf=1200x' alt='Spotify Wrapped 2024: las canciones, artistas y pódcast más escuchados del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gente-me-mira-raro-cuando-hablo-vpn-pero-tiene-mucho-convencer-correo-electronico-nube-plantar-cara-google-1427048'>La gente me mira raro cuando hablo de VPN, pero esta tiene mucho más para convencer: correo electrónico y nube para plantar cara a Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gente-me-mira-raro-cuando-hablo-vpn-pero-tiene-mucho-convencer-correo-electronico-nube-plantar-cara-google-1427048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/proton-drive-4048115.jpg?tf=1200x' alt='La gente me mira raro cuando hablo de VPN, pero esta tiene mucho más para convencer: correo electrónico y nube para plantar cara a Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-acento-espanol-atractivo-1426408'>Ni murciano ni canario o extremeño, este es el acento español más atractivo para la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-acento-espanol-atractivo-1426408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4267228.jpg?tf=1200x' alt='Ni murciano ni canario o extremeño, este es el acento español más atractivo para la IA' />
     </a>
 </div>
 
