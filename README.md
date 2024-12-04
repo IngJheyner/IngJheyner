@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-cuida-cultivos-trabaja-tierra-descanso-24-horas-dia-1427416'>Este robot cuida de los cultivos y trabaja la tierra sin descanso las 24 horas del día</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/robot-cuida-cultivos-trabaja-tierra-descanso-24-horas-dia-1427416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-katr-4268917.jpg?tf=1200x' alt='Este robot cuida de los cultivos y trabaja la tierra sin descanso las 24 horas del día' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-documentos-microsoft-word-corruptos-peligrosa-campana-phishing-1427600'>¡Alerta! Documentos de Microsoft Word usados en una peligrosa campaña de phishing</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-documentos-microsoft-word-corruptos-peligrosa-campana-phishing-1427600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-documentos-microsoft-word-usados-peligrosa-campana-phishing-4269184.jpg?tf=1200x' alt='¡Alerta! Documentos de Microsoft Word usados en una peligrosa campaña de phishing' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-alerta-principal-riesgo-inteligencia-artificial-novias-ia-1427352'>El antiguo CEO de Google alerta del principal riesgo de la inteligencia artificial: “Las novias con IA”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-alerta-principal-riesgo-inteligencia-artificial-novias-ia-1427352' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antiguo-ceo-google-inteligencia-artificial-puede-ser-peligro-adolescentes-enamoren-ella-provocar-obsesion-soledad-4268776.jpg?tf=1200x' alt='El antiguo CEO de Google alerta del principal riesgo de la inteligencia artificial: “Las novias con IA”' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/adios-busqueda-extraterrestre-expertos-cambridge-descartan-completo-vida-planeta-1427475'>Adiós a la búsqueda extraterrestre: expertos de Cambridge descartan por completo la vida en este planeta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/adios-busqueda-extraterrestre-expertos-cambridge-descartan-completo-vida-planeta-1427475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/venus-planeta-2357159.jpg?tf=1200x' alt='Adiós a la búsqueda extraterrestre: expertos de Cambridge descartan por completo la vida en este planeta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-logran-reducir-1000-componentes-computadoras-cuanticas-1427444'>Científicos logran reducir en un 1000% los componentes de las computadoras cuánticas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-logran-reducir-1000-componentes-computadoras-cuanticas-1427444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/laser-azul-generar-pares-fotones-entrelazados-experimentos-ntu-singapur-4268951.jpg?tf=1200x' alt='Científicos logran reducir en un 1000% los componentes de las computadoras cuánticas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/va-cambiar-mundo-ia-punto-dar-salto-definitivo-expertos-1427493'>"Va a cambiar el mundo", la IA a punto de dar el salto definitivo, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/va-cambiar-mundo-ia-punto-dar-salto-definitivo-expertos-1427493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-salud-mental-4266733.jpg?tf=1200x' alt='"Va a cambiar el mundo", la IA a punto de dar el salto definitivo, según los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-tablet-huawei-ha-muerto-viva-mi-tablet-huawei-sucesora-estoy-pensando-comprar-1427028'>Mi tablet Huawei ha muerto, viva mi tablet Huawei: esta es la sucesora que estoy pensando en comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mi-tablet-huawei-ha-muerto-viva-mi-tablet-huawei-sucesora-estoy-pensando-comprar-1427028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-matepad-pro-132-4268296.jpg?tf=1200x' alt='Mi tablet Huawei ha muerto, viva mi tablet Huawei: esta es la sucesora que estoy pensando en comprar' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/mas-me-ha-gustado-create-tv-art-matte-1427038'>Ni su panel o sus funciones inteligentes, lo que más me ha gustado de Create TV Art Matte es su diseño</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/mas-me-ha-gustado-create-tv-art-matte-1427038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/create-tv-art-matte-4266326.jpg?tf=1200x' alt='Ni su panel o sus funciones inteligentes, lo que más me ha gustado de Create TV Art Matte es su diseño' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-filtrarse-web-antes-termine-2024-1427590'>El diseño de la Nintendo Switch 2 podría filtrarse en esta web antes de que termine 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-filtrarse-web-antes-termine-2024-1427590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/diseno-nintendo-switch-2-podria-filtrarse-web-antes-termine-2024-4269157.jpg?tf=1200x' alt='El diseño de la Nintendo Switch 2 podría filtrarse en esta web antes de que termine 2024' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/acer-swift-14-ai-portatiles-autonomia-mercado-ademas-tener-copilot-servicio-1426394'>El Acer Swift 14 AI es uno de los portátiles con más autonomía del mercado, además de tener Copilot+ a tu servicio</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/acer-swift-14-ai-portatiles-autonomia-mercado-ademas-tener-copilot-servicio-1426394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/acer-swift-14-ai-4267793.jpg?tf=1200x' alt='El Acer Swift 14 AI es uno de los portátiles con más autonomía del mercado, además de tener Copilot+ a tu servicio' />
     </a>
 </div>
 
