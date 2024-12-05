@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carrera-hay-estudiar-quieres-ser-multimillonario-inteligencia-artificial-1427712'>Esta es la carrera que hay que estudiar si quieres ser multimillonario, según la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/carrera-hay-estudiar-quieres-ser-multimillonario-inteligencia-artificial-1427712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dibujo-leonardo-dicaprio-pelicula-lobo-wall-street-4269401.jpg?tf=1200x' alt='Esta es la carrera que hay que estudiar si quieres ser multimillonario, según la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/eduardochi-kfc-tamagotchi-cuidar-muslo-pollo-solo-espana-1427901'>KFC lanza un tamagotchi en donde tienes que cuidar a un muslo de pollo, solo en España</a></h4>
     <a href='https://computerhoy.20minutos.es/life/eduardochi-kfc-tamagotchi-cuidar-muslo-pollo-solo-espana-1427901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733358818017-4269743.jpg?tf=1200x' alt='KFC lanza un tamagotchi en donde tienes que cuidar a un muslo de pollo, solo en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845'>Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-4269701.jpg?tf=1200x' alt='Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-apuesta-moviles-baratos-llevara-android-15-dispositivos-1427866'>Samsung apuesta por lo móviles baratos: llevará Android 15 a más dispositivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-apuesta-moviles-baratos-llevara-android-15-dispositivos-1427866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a15-3607181.jpg?tf=1200x' alt='Samsung apuesta por lo móviles baratos: llevará Android 15 a más dispositivos' />
     </a>
 </div>
 
