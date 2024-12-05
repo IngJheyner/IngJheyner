@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-stanford-descubren-misterio-gatos-naranjas-despues-60-anos-ha-sido-desafio-genetico-enigma-1427984'>Expertos de Stanford descubren el misterio de los gatos naranjas después de 60 años: "Ha sido un desafío genético, un enigma"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/expertos-stanford-descubren-misterio-gatos-naranjas-despues-60-anos-ha-sido-desafio-genetico-enigma-1427984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gatos-4269890.jpg?tf=1200x' alt='Expertos de Stanford descubren el misterio de los gatos naranjas después de 60 años: "Ha sido un desafío genético, un enigma"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/actuan-delincuentes-usan-inteligencia-artificial-1426345'>Así actúan los delincuentes que usan la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/actuan-delincuentes-usan-inteligencia-artificial-1426345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberdelincuentes-utilizando-ia-4267124.jpg?tf=1200x' alt='Así actúan los delincuentes que usan la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-1428007'>¿Idea genial u otra excentricidad de Donald Trump? Quién es Jared Isaacman, el multimillonario astronauta que dirigirá la NASA </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-1428007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-4269895.jpg?tf=1200x' alt='¿Idea genial u otra excentricidad de Donald Trump? Quién es Jared Isaacman, el multimillonario astronauta que dirigirá la NASA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-disney-plataforma-rebaja-plan-4k-mitad-siempre-1427926'>Ni Netflix, ni Disney: esta plataforma rebaja su plan 4K a la mitad para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-disney-plataforma-rebaja-plan-4k-mitad-siempre-1427926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/skyshowtime-4269797.jpg?tf=1200x' alt='Ni Netflix, ni Disney: esta plataforma rebaja su plan 4K a la mitad para siempre' />
     </a>
 </div>
 
