@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-revienta-mercado-antes-navidad-portatil-barato-perfecto-regalar-200-euros-1427604'>AliExpress revienta el mercado antes de Navidad: el portátil barato perfecto para regalar por 200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-revienta-mercado-antes-navidad-portatil-barato-perfecto-regalar-200-euros-1427604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='AliExpress revienta el mercado antes de Navidad: el portátil barato perfecto para regalar por 200 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-1427981'>¿Pagarías un euro para saber si tu móvil está infectado del malware espía Pegasus?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-1427981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-4269853.jpg?tf=1200x' alt='¿Pagarías un euro para saber si tu móvil está infectado del malware espía Pegasus?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-letra-password-1388389'>Hacker ético desvela la letra que debes tener en tus contraseñas para que sean casi imposibles de descifrar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-letra-password-1388389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/letra-contrasena-4269882.jpg?tf=1200x' alt='Hacker ético desvela la letra que debes tener en tus contraseñas para que sean casi imposibles de descifrar' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-1428007'>¿Idea genial u otra excentricidad de Donald Trump? Quién es Jared Isaacman, el multimillonario astronauta que dirigirá la NASA </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-1428007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-4269895.jpg?tf=1200x' alt='¿Idea genial u otra excentricidad de Donald Trump? Quién es Jared Isaacman, el multimillonario astronauta que dirigirá la NASA ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-hackeo-agencia-tributaria-investigaciones-apuntan-empresa-externa-1427934'>Giro de 180 grados en el hackeo a la Agencia Tributaria: las investigaciones apuntan a una empresa externa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-hackeo-agencia-tributaria-investigaciones-apuntan-empresa-externa-1427934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hacienda-4269862.jpg?tf=1200x' alt='Giro de 180 grados en el hackeo a la Agencia Tributaria: las investigaciones apuntan a una empresa externa' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-disney-plataforma-rebaja-plan-4k-mitad-siempre-1427926'>Ni Netflix, ni Disney: esta plataforma rebaja su plan 4K a la mitad para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-disney-plataforma-rebaja-plan-4k-mitad-siempre-1427926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/skyshowtime-4269797.jpg?tf=1200x' alt='Ni Netflix, ni Disney: esta plataforma rebaja su plan 4K a la mitad para siempre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/adios-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/adios-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-tiene-rival-perfecto-garmin-barato-gps-bateria-muchos-dias-1427709'>Huawei tiene el rival perfecto de los Garmin: es barato, con GPS y con batería para muchos días</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-tiene-rival-perfecto-garmin-barato-gps-bateria-muchos-dias-1427709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Huawei tiene el rival perfecto de los Garmin: es barato, con GPS y con batería para muchos días' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ubuntu-debian-nueva-mejor-distro-linux-expertos-1427487'>Ni Debian ni Ubuntu, para los expertos esta es la nueva reina de las distribuciones Linux </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ubuntu-debian-nueva-mejor-distro-linux-expertos-1427487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-distribucion-linux-4269861.jpg?tf=1200x' alt='Ni Debian ni Ubuntu, para los expertos esta es la nueva reina de las distribuciones Linux ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-movistar-vodafone-pierde-100000-lineas-moviles-culpa-operador-espanol-1427973'>Ni DIGI ni Movistar, Vodafone pierde más de 100.000 líneas móviles por culpa de un operador español</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-movistar-vodafone-pierde-100000-lineas-moviles-culpa-operador-espanol-1427973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/operadora-nueva-absorbe-resto-4269878.jpg?tf=1200x' alt='Ni DIGI ni Movistar, Vodafone pierde más de 100.000 líneas móviles por culpa de un operador español' />
     </a>
 </div>
 
