@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/pais-mayor-reserva-oro-mundo-cifra-cuadruplica-china-rusia-juntas-1428035'>Este es el país con la mayor reserva de oro del mundo: su cifra cuadruplica a la de China y Rusia juntas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/pais-mayor-reserva-oro-mundo-cifra-cuadruplica-china-rusia-juntas-1428035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reservas-oro-4269989.jpg?tf=1200x' alt='Este es el país con la mayor reserva de oro del mundo: su cifra cuadruplica a la de China y Rusia juntas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/tienes-amazon-fire-tv-iptv-estas-punto-mira-policia-lanza-seria-advertencia-1428095'>"Si tienes un Amazon Fire TV con IPTV, estás en el punto de mira": La Policía lanza una seria advertencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/tienes-amazon-fire-tv-iptv-estas-punto-mira-policia-lanza-seria-advertencia-1428095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienes-amazon-fire-tv-iptv-estas-punto-mira-policia-lanza-seria-advertencia-4270161.jpg?tf=1200x' alt='"Si tienes un Amazon Fire TV con IPTV, estás en el punto de mira": La Policía lanza una seria advertencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/toyota-ya-tiene-plan-acabar-tesla-fiabilidad-35-millones-coches-electricos-2030-1428026'>Toyota ya tiene su plan para acabar con Tesla: "Fiabilidad y 3,5 millones de coches eléctricos en 2030"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/toyota-ya-tiene-plan-acabar-tesla-fiabilidad-35-millones-coches-electricos-2030-1428026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/toyota-ya-tiene-plan-acabar-tesla-35-millones-coches-electricos-2030-4269951.jpg?tf=1200x' alt='Toyota ya tiene su plan para acabar con Tesla: "Fiabilidad y 3,5 millones de coches eléctricos en 2030"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/comando-infalible-windows-elimina-malware-minuto-tan-solo-clic-1426786'>El comando infalible de Windows que elimina el malware en un minuto con tan solo un clic</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/comando-infalible-windows-elimina-malware-minuto-tan-solo-clic-1426786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quitar-virus-windows-4270103.jpg?tf=1200x' alt='El comando infalible de Windows que elimina el malware en un minuto con tan solo un clic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moviles-sovieticos-arrasan-espana-hay-detras-sorprendente-tendencia-1428017'>Los “móviles soviéticos” arrasan en España: ¿qué hay detrás de esta sorprendente tendencia? </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/moviles-sovieticos-arrasan-espana-hay-detras-sorprendente-tendencia-1428017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-4269959.jpg?tf=1200x' alt='Los “móviles soviéticos” arrasan en España: ¿qué hay detrás de esta sorprendente tendencia? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/quedatelo-ti-no-te-pide-director-colegio-requisa-movil-alumno-respuesta-padre-ejemplar-1428043'>"Quédatelo tú, que a ti no te lo pide": Director de un colegio requisa el móvil a un alumno y la respuesta del padre es ejemplar</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/quedatelo-ti-no-te-pide-director-colegio-requisa-movil-alumno-respuesta-padre-ejemplar-1428043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/profesora-movil-4270025.jpg?tf=1200x' alt='"Quédatelo tú, que a ti no te lo pide": Director de un colegio requisa el móvil a un alumno y la respuesta del padre es ejemplar' />
     </a>
 </div>
 
