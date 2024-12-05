@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/error-windows-11-predice-16537-grados-centigrados-fin-ano-1428145'>Error en Windows 11 predice 16.537 grados centígrados para fin de año</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/error-windows-11-predice-16537-grados-centigrados-fin-ano-1428145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-widget-clima-4270176.jpg?tf=1200x' alt='Error en Windows 11 predice 16.537 grados centígrados para fin de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-llega-dispositivos-pc-lista-ultima-actualizacion-1428140'>Windows 11 24H2 llega a más dispositivos: ¿está tu PC en la lista de la última actualización?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-llega-dispositivos-pc-lista-ultima-actualizacion-1428140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Windows 11 24H2 llega a más dispositivos: ¿está tu PC en la lista de la última actualización?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/pais-mayor-reserva-oro-mundo-cifra-cuadruplica-china-rusia-juntas-1428035'>Este es el país con la mayor reserva de oro del mundo: su cifra cuadruplica a la de China y Rusia juntas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/pais-mayor-reserva-oro-mundo-cifra-cuadruplica-china-rusia-juntas-1428035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reservas-oro-4269989.jpg?tf=1200x' alt='Este es el país con la mayor reserva de oro del mundo: su cifra cuadruplica a la de China y Rusia juntas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/toyota-ya-tiene-plan-acabar-tesla-fiabilidad-35-millones-coches-electricos-2030-1428026'>Toyota ya tiene su plan para acabar con Tesla: "Fiabilidad y 3,5 millones de coches eléctricos en 2030"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/toyota-ya-tiene-plan-acabar-tesla-fiabilidad-35-millones-coches-electricos-2030-1428026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/toyota-ya-tiene-plan-acabar-tesla-35-millones-coches-electricos-2030-4269951.jpg?tf=1200x' alt='Toyota ya tiene su plan para acabar con Tesla: "Fiabilidad y 3,5 millones de coches eléctricos en 2030"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-alien-blade-runner-mejor-pelicula-ciencia-ficcion-disney-1427156'>Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y la puedes ver en Disney+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-alien-blade-runner-mejor-pelicula-ciencia-ficcion-disney-1427156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/12/vengadores-endgame-claves-primer-trailer.jpg?tf=1200x' alt='Ni Star Wars ni Alien ni Blade Runner: esta es la mejor película de ciencia ficción, y la puedes ver en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/comando-infalible-windows-elimina-malware-minuto-tan-solo-clic-1426786'>El comando infalible de Windows que elimina el malware en un minuto con tan solo un clic</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/comando-infalible-windows-elimina-malware-minuto-tan-solo-clic-1426786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quitar-virus-windows-4270103.jpg?tf=1200x' alt='El comando infalible de Windows que elimina el malware en un minuto con tan solo un clic' />
     </a>
 </div>
 
