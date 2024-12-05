@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932'>Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-4269772.jpg?tf=1200x' alt='Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-683-computer-hoy-1426317'>¡Ya está en tu quiosco el número 683 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-683-computer-hoy-1426317' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-683-4269409.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 683 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-optimizar-chatgpt-aumentar-productividad-instante-1427296'>5 configuraciones para optimizar ChatGPT y aumentar tu productividad al instante </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-optimizar-chatgpt-aumentar-productividad-instante-1427296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-configuraciones-optimizar-chatgpt-aumentar-productividad-instante-4268718.jpg?tf=1200x' alt='5 configuraciones para optimizar ChatGPT y aumentar tu productividad al instante ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/3-ventajas-bluesky-x-me-han-hecho-cambiar-definitivamente-red-social-1427232'>Las 3 ventajas de Bluesky sobre X que me han hecho cambiar definitivamente a esta red social </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/3-ventajas-bluesky-x-me-han-hecho-cambiar-definitivamente-red-social-1427232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-twitter-x-4268636.jpg?tf=1200x' alt='Las 3 ventajas de Bluesky sobre X que me han hecho cambiar definitivamente a esta red social ' />
     </a>
 </div>
 
