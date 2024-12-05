@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-revienta-mercado-antes-navidad-portatil-barato-perfecto-regalar-200-euros-1427604'>AliExpress revienta el mercado antes de Navidad: el portátil barato perfecto para regalar por 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-revienta-mercado-antes-navidad-portatil-barato-perfecto-regalar-200-euros-1427604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='AliExpress revienta el mercado antes de Navidad: el portátil barato perfecto para regalar por 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-letra-password-1388389'>Hacker ético desvela la letra que debes tener en tus contraseñas para que sean casi imposibles de descifrar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-letra-password-1388389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/letra-contrasena-4269882.jpg?tf=1200x' alt='Hacker ético desvela la letra que debes tener en tus contraseñas para que sean casi imposibles de descifrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-hackeo-agencia-tributaria-investigaciones-apuntan-empresa-externa-1427934'>Giro de 180 grados en el hackeo a la Agencia Tributaria: las investigaciones apuntan a una empresa externa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-hackeo-agencia-tributaria-investigaciones-apuntan-empresa-externa-1427934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hacienda-4269862.jpg?tf=1200x' alt='Giro de 180 grados en el hackeo a la Agencia Tributaria: las investigaciones apuntan a una empresa externa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ubuntu-debian-nueva-mejor-distro-linux-expertos-1427487'>Ni Debian ni Ubuntu, para los expertos esta es la nueva reina de las distribuciones Linux </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ubuntu-debian-nueva-mejor-distro-linux-expertos-1427487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-distribucion-linux-4269861.jpg?tf=1200x' alt='Ni Debian ni Ubuntu, para los expertos esta es la nueva reina de las distribuciones Linux ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-1427922'>Sam Altman cree que la superinteligencia artificial llegará pronto, pero no será como prometió</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-1427922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman cree que la superinteligencia artificial llegará pronto, pero no será como prometió' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932'>Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-4269772.jpg?tf=1200x' alt='Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC' />
     </a>
 </div>
 
