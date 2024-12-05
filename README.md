@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/eduardochi-kfc-tamagotchi-cuidar-muslo-pollo-solo-espana-1427901'>KFC lanza un tamagotchi en donde tienes que cuidar a un muslo de pollo, solo en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/eduardochi-kfc-tamagotchi-cuidar-muslo-pollo-solo-espana-1427901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733358818017-4269743.jpg?tf=1200x' alt='KFC lanza un tamagotchi en donde tienes que cuidar a un muslo de pollo, solo en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/adios-playstation-ex-jefe-sony-shawn-layden-fin-consolas-1427890'>Adiós PlayStation, el ex jefe de Sony lo tiene claro: “Las consolas están alcanzando sus límites tecnológicos”</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/adios-playstation-ex-jefe-sony-shawn-layden-fin-consolas-1427890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-playstation-ex-jefe-sony-tiene-claro-consolas-estan-alcanzando-limites-tecnologicos-4269724.jpg?tf=1200x' alt='Adiós PlayStation, el ex jefe de Sony lo tiene claro: “Las consolas están alcanzando sus límites tecnológicos”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-apuesta-moviles-baratos-llevara-android-15-dispositivos-1427866'>Samsung apuesta por lo móviles baratos: llevará Android 15 a más dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-apuesta-moviles-baratos-llevara-android-15-dispositivos-1427866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/samsung-galaxy-a15-3607181.jpg?tf=1200x' alt='Samsung apuesta por lo móviles baratos: llevará Android 15 a más dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/como-seria-windows-12-disenador-imagina-proxima-generacion-windows-1427861'>¿Cómo sería Windows 12? Un diseñador imagina la próxima generación de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/como-seria-windows-12-disenador-imagina-proxima-generacion-windows-1427861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/concepto-windows-12-4269690.jpg?tf=1200x' alt='¿Cómo sería Windows 12? Un diseñador imagina la próxima generación de Windows' />
     </a>
 </div>
 
