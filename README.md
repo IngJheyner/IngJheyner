@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anillos-pulseras-relojes-inteligentes-medicos-no-fian-wearables-1427582'>Anillos, pulseras o relojes inteligentes: ¿Por qué los médicos no se fían de los wearables?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/anillos-pulseras-relojes-inteligentes-medicos-no-fian-wearables-1427582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anillos-pulseras-relojes-inteligentes-medicos-no-fian-wearables-4269167.jpg?tf=1200x' alt='Anillos, pulseras o relojes inteligentes: ¿Por qué los médicos no se fían de los wearables?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-negociable-microsoft-cierra-puerta-usuarios-windows-10-1427725'>"No es negociable", Microsoft cierra la puerta a los usuarios de Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-negociable-microsoft-cierra-puerta-usuarios-windows-10-1427725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-4269427.jpg?tf=1200x' alt='"No es negociable", Microsoft cierra la puerta a los usuarios de Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/carrera-hay-estudiar-quieres-ser-multimillonario-inteligencia-artificial-1427712'>Esta es la carrera que hay que estudiar si quieres ser multimillonario, según la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/carrera-hay-estudiar-quieres-ser-multimillonario-inteligencia-artificial-1427712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dibujo-leonardo-dicaprio-pelicula-lobo-wall-street-4269401.jpg?tf=1200x' alt='Esta es la carrera que hay que estudiar si quieres ser multimillonario, según la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/adios-playstation-ex-jefe-sony-shawn-layden-fin-consolas-1427890'>Adiós PlayStation, el ex jefe de Sony lo tiene claro: “Las consolas están alcanzando sus límites tecnológicos”</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/adios-playstation-ex-jefe-sony-shawn-layden-fin-consolas-1427890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-playstation-ex-jefe-sony-tiene-claro-consolas-estan-alcanzando-limites-tecnologicos-4269724.jpg?tf=1200x' alt='Adiós PlayStation, el ex jefe de Sony lo tiene claro: “Las consolas están alcanzando sus límites tecnológicos”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-1427875'>El primer tren de hidrógeno de España completa sus primeros 10.000 Kilómetros</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-1427875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-4269707.jpg?tf=1200x' alt='El primer tren de hidrógeno de España completa sus primeros 10.000 Kilómetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845'>Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-1427845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-juegos-arcade-comparte-truco-ganar-siempre-maquinas-gancho-tramposas-4269701.jpg?tf=1200x' alt='Experto en juegos arcade comparte el truco para ganar siempre en las máquinas de gancho "tramposas"' />
     </a>
 </div>
 
