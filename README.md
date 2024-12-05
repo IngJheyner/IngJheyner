@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346'>Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-1427981'>¿Pagarías un euro para saber si tu móvil está infectado del malware espía Pegasus?</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-1427981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-4269853.jpg?tf=1200x' alt='¿Pagarías un euro para saber si tu móvil está infectado del malware espía Pegasus?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-tiene-rival-perfecto-garmin-barato-gps-bateria-muchos-dias-1427709'>Huawei tiene el rival perfecto de los Garmin: es barato, con GPS y con batería para muchos días</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/huawei-tiene-rival-perfecto-garmin-barato-gps-bateria-muchos-dias-1427709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Huawei tiene el rival perfecto de los Garmin: es barato, con GPS y con batería para muchos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-movistar-vodafone-pierde-100000-lineas-moviles-culpa-operador-espanol-1427973'>Ni DIGI ni Movistar, Vodafone pierde más de 100.000 líneas móviles por culpa de un operador español</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-digi-ni-movistar-vodafone-pierde-100000-lineas-moviles-culpa-operador-espanol-1427973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/operadora-nueva-absorbe-resto-4269878.jpg?tf=1200x' alt='Ni DIGI ni Movistar, Vodafone pierde más de 100.000 líneas móviles por culpa de un operador español' />
     </a>
 </div>
 
