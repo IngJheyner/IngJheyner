@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-hackeo-agencia-tributaria-investigaciones-apuntan-empresa-externa-1427934'>Giro de 180 grados en el hackeo a la Agencia Tributaria: las investigaciones apuntan a una empresa externa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-hackeo-agencia-tributaria-investigaciones-apuntan-empresa-externa-1427934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hacienda-4269862.jpg?tf=1200x' alt='Giro de 180 grados en el hackeo a la Agencia Tributaria: las investigaciones apuntan a una empresa externa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/adios-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/adios-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ver-futbol-gratis-iptv-4266365.jpg?tf=1200x' alt='Adiós a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ubuntu-debian-nueva-mejor-distro-linux-expertos-1427487'>Ni Debian ni Ubuntu, para los expertos esta es la nueva reina de las distribuciones Linux </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ubuntu-debian-nueva-mejor-distro-linux-expertos-1427487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-distribucion-linux-4269861.jpg?tf=1200x' alt='Ni Debian ni Ubuntu, para los expertos esta es la nueva reina de las distribuciones Linux ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-1427922'>Sam Altman cree que la superinteligencia artificial llegará pronto, pero no será como prometió</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-1427922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman cree que la superinteligencia artificial llegará pronto, pero no será como prometió' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932'>Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-4269772.jpg?tf=1200x' alt='Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-683-computer-hoy-1426317'>¡Ya está en tu quiosco el número 683 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-683-computer-hoy-1426317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-683-4269409.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 683 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-mi-casa-llena-camaras-volviera-empezar-iria-directo-oferta-1427073'>Tengo mi casa llena de cámaras y, si volviera a empezar, iría directo a por esta oferta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-mi-casa-llena-camaras-volviera-empezar-iria-directo-oferta-1427073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/yi-pro-2k-4268359.jpg?tf=1200x' alt='Tengo mi casa llena de cámaras y, si volviera a empezar, iría directo a por esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-tdt-espana-guerra-prisa-1427910'>Jarro de agua fría para la TDT en España: hay que esperar a que termine la guerra</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-tdt-espana-guerra-prisa-1427910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jarro-agua-fria-tdt-espana-hay-esperar-termine-guerra-4269768.jpg?tf=1200x' alt='Jarro de agua fría para la TDT en España: hay que esperar a que termine la guerra' />
     </a>
 </div>
 
