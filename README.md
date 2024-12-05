@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/actuan-delincuentes-usan-inteligencia-artificial-1426345'>Así actúan los delincuentes que usan la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/actuan-delincuentes-usan-inteligencia-artificial-1426345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberdelincuentes-utilizando-ia-4267124.jpg?tf=1200x' alt='Así actúan los delincuentes que usan la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346'>Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-disney-plataforma-rebaja-plan-4k-mitad-siempre-1427926'>Ni Netflix, ni Disney: esta plataforma rebaja su plan 4K a la mitad para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-disney-plataforma-rebaja-plan-4k-mitad-siempre-1427926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/skyshowtime-4269797.jpg?tf=1200x' alt='Ni Netflix, ni Disney: esta plataforma rebaja su plan 4K a la mitad para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/huawei-tiene-rival-perfecto-garmin-barato-gps-bateria-muchos-dias-1427709'>Huawei tiene el rival perfecto de los Garmin: es barato, con GPS y con batería para muchos días</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/huawei-tiene-rival-perfecto-garmin-barato-gps-bateria-muchos-dias-1427709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/huawei-watch-gt-4-3131222.jpg?tf=1200x' alt='Huawei tiene el rival perfecto de los Garmin: es barato, con GPS y con batería para muchos días' />
     </a>
 </div>
 
