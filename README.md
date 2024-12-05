@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moviles-sovieticos-arrasan-espana-hay-detras-sorprendente-tendencia-1428017'>Los “móviles soviéticos” arrasan en España: ¿qué hay detrás de esta sorprendente tendencia? </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/moviles-sovieticos-arrasan-espana-hay-detras-sorprendente-tendencia-1428017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-4269959.jpg?tf=1200x' alt='Los “móviles soviéticos” arrasan en España: ¿qué hay detrás de esta sorprendente tendencia? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/quedatelo-ti-no-te-pide-director-colegio-requisa-movil-alumno-respuesta-padre-ejemplar-1428043'>"Quédatelo tú, que a ti no te lo pide": Director de un colegio requisa el móvil a un alumno y la respuesta del padre es ejemplar</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/quedatelo-ti-no-te-pide-director-colegio-requisa-movil-alumno-respuesta-padre-ejemplar-1428043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/profesora-movil-4270025.jpg?tf=1200x' alt='"Quédatelo tú, que a ti no te lo pide": Director de un colegio requisa el móvil a un alumno y la respuesta del padre es ejemplar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/novedades-android-compartir-fotos-qr-fusion-emojis-gemini-llega-apps-1428096'>Novedades de Android: compartir fotos por QR, fusión de emojis, Gemini llega a más apps y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/novedades-android-compartir-fotos-qr-fusion-emojis-gemini-llega-apps-1428096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-android-compartir-fotos-qr-fusion-emojis-gemini-llega-apps-4270104.jpg?tf=1200x' alt='Novedades de Android: compartir fotos por QR, fusión de emojis, Gemini llega a más apps y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-revela-lista-libros-favoritos-2024-descubre-titulos-marcaron-ano-1428005'>Bill Gates revela su lista de libros favoritos de 2024: descubre los títulos que marcaron su año</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bill-gates-revela-lista-libros-favoritos-2024-descubre-titulos-marcaron-ano-1428005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/libros-recomendados-bill-gates-4269931.jpg?tf=1200x' alt='Bill Gates revela su lista de libros favoritos de 2024: descubre los títulos que marcaron su año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-1428065'>Qué es el "parche del rey pingüino" de Linux y por qué deberías instalarlo ahora mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-1428065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-4270094.jpg?tf=1200x' alt='Qué es el "parche del rey pingüino" de Linux y por qué deberías instalarlo ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-stanford-descubren-misterio-gatos-naranjas-despues-60-anos-ha-sido-desafio-genetico-enigma-1427984'>Expertos de Stanford descubren el misterio de los gatos naranjas después de 60 años: "Ha sido un desafío genético, un enigma"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/expertos-stanford-descubren-misterio-gatos-naranjas-despues-60-anos-ha-sido-desafio-genetico-enigma-1427984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gatos-4269890.jpg?tf=1200x' alt='Expertos de Stanford descubren el misterio de los gatos naranjas después de 60 años: "Ha sido un desafío genético, un enigma"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/actuan-delincuentes-usan-inteligencia-artificial-1426345'>Así actúan los delincuentes que usan la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/actuan-delincuentes-usan-inteligencia-artificial-1426345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberdelincuentes-utilizando-ia-4267124.jpg?tf=1200x' alt='Así actúan los delincuentes que usan la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346'>Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre' />
     </a>
 </div>
 
