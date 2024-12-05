@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-683-computer-hoy-1426317'>¡Ya está en tu quiosco el número 683 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-683-computer-hoy-1426317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-683-4269409.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 683 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-mi-casa-llena-camaras-volviera-empezar-iria-directo-oferta-1427073'>Tengo mi casa llena de cámaras y, si volviera a empezar, iría directo a por esta oferta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-mi-casa-llena-camaras-volviera-empezar-iria-directo-oferta-1427073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/yi-pro-2k-4268359.jpg?tf=1200x' alt='Tengo mi casa llena de cámaras y, si volviera a empezar, iría directo a por esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-tdt-espana-guerra-prisa-1427910'>Jarro de agua fría para la TDT en España: hay que esperar a que termine la guerra</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-tdt-espana-guerra-prisa-1427910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jarro-agua-fria-tdt-espana-hay-esperar-termine-guerra-4269768.jpg?tf=1200x' alt='Jarro de agua fría para la TDT en España: hay que esperar a que termine la guerra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/3-ventajas-bluesky-x-me-han-hecho-cambiar-definitivamente-red-social-1427232'>Las 3 ventajas de Bluesky sobre X que me han hecho cambiar definitivamente a esta red social </a></h4>
     <a href='https://computerhoy.20minutos.es/apps/3-ventajas-bluesky-x-me-han-hecho-cambiar-definitivamente-red-social-1427232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-twitter-x-4268636.jpg?tf=1200x' alt='Las 3 ventajas de Bluesky sobre X que me han hecho cambiar definitivamente a esta red social ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/hp-omnibook-x-me-ha-demostrado-portatil-aun-puede-sacar-partido-snapdragon-x-elite-1427237'>El HP Omnibook X me ha demostrado que un portátil aún puede sacar más partido al Snapdragon X Elite</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/hp-omnibook-x-me-ha-demostrado-portatil-aun-puede-sacar-partido-snapdragon-x-elite-1427237' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hp-omnibook-x-4269102.jpg?tf=1200x' alt='El HP Omnibook X me ha demostrado que un portátil aún puede sacar más partido al Snapdragon X Elite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/anillos-pulseras-relojes-inteligentes-medicos-no-fian-wearables-1427582'>Anillos, pulseras o relojes inteligentes: ¿Por qué los médicos no se fían de los wearables?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/anillos-pulseras-relojes-inteligentes-medicos-no-fian-wearables-1427582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anillos-pulseras-relojes-inteligentes-medicos-no-fian-wearables-4269167.jpg?tf=1200x' alt='Anillos, pulseras o relojes inteligentes: ¿Por qué los médicos no se fían de los wearables?' />
     </a>
 </div>
 
