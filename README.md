@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-1427922'>Sam Altman cree que la superinteligencia artificial llegará pronto, pero no será como prometió</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-1427922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman cree que la superinteligencia artificial llegará pronto, pero no será como prometió' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932'>Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-1427932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/qualcomm-snapdragon-x-elite-da-salto-ordenadores-escritorio-primer-mini-pc-4269772.jpg?tf=1200x' alt='Qualcomm Snapdragon X Elite da el salto a los ordenadores de escritorio, con su primer mini PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-tdt-espana-guerra-prisa-1427910'>Jarro de agua fría para la TDT en España: hay que esperar a que termine la guerra</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-tdt-espana-guerra-prisa-1427910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jarro-agua-fria-tdt-espana-hay-esperar-termine-guerra-4269768.jpg?tf=1200x' alt='Jarro de agua fría para la TDT en España: hay que esperar a que termine la guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-optimizar-chatgpt-aumentar-productividad-instante-1427296'>5 configuraciones para optimizar ChatGPT y aumentar tu productividad al instante </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-optimizar-chatgpt-aumentar-productividad-instante-1427296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-configuraciones-optimizar-chatgpt-aumentar-productividad-instante-4268718.jpg?tf=1200x' alt='5 configuraciones para optimizar ChatGPT y aumentar tu productividad al instante ' />
     </a>
 </div>
 
