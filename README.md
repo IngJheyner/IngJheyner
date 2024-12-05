@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/adios-playstation-ex-jefe-sony-shawn-layden-fin-consolas-1427890'>Adiós PlayStation, el ex jefe de Sony lo tiene claro: “Las consolas están alcanzando sus límites tecnológicos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/adios-playstation-ex-jefe-sony-shawn-layden-fin-consolas-1427890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-playstation-ex-jefe-sony-tiene-claro-consolas-estan-alcanzando-limites-tecnologicos-4269724.jpg?tf=1200x' alt='Adiós PlayStation, el ex jefe de Sony lo tiene claro: “Las consolas están alcanzando sus límites tecnológicos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-1427875'>El primer tren de hidrógeno de España completa sus primeros 10.000 Kilómetros</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-1427875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/primer-tren-hidrogeno-espana-completa-primeros-10000-kilometros-4269707.jpg?tf=1200x' alt='El primer tren de hidrógeno de España completa sus primeros 10.000 Kilómetros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/como-seria-windows-12-disenador-imagina-proxima-generacion-windows-1427861'>¿Cómo sería Windows 12? Un diseñador imagina la próxima generación de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/como-seria-windows-12-disenador-imagina-proxima-generacion-windows-1427861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/concepto-windows-12-4269690.jpg?tf=1200x' alt='¿Cómo sería Windows 12? Un diseñador imagina la próxima generación de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-134-beta-ya-disponible-novedades-como-instalarla-ya-mismo-1427859'>Android Auto 13.4 beta ya disponible: novedades y cómo instalarla ya mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-134-beta-ya-disponible-novedades-como-instalarla-ya-mismo-1427859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-134-4269687.jpg?tf=1200x' alt='Android Auto 13.4 beta ya disponible: novedades y cómo instalarla ya mismo' />
     </a>
 </div>
 
