@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-revela-lista-libros-favoritos-2024-descubre-titulos-marcaron-ano-1428005'>Bill Gates revela su lista de libros favoritos de 2024: descubre los títulos que marcaron su año</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-revela-lista-libros-favoritos-2024-descubre-titulos-marcaron-ano-1428005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/libros-recomendados-bill-gates-4269931.jpg?tf=1200x' alt='Bill Gates revela su lista de libros favoritos de 2024: descubre los títulos que marcaron su año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-1428065'>Qué es el "parche del rey pingüino" de Linux y por qué deberías instalarlo ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-1428065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-4270094.jpg?tf=1200x' alt='Qué es el "parche del rey pingüino" de Linux y por qué deberías instalarlo ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-stanford-descubren-misterio-gatos-naranjas-despues-60-anos-ha-sido-desafio-genetico-enigma-1427984'>Expertos de Stanford descubren el misterio de los gatos naranjas después de 60 años: "Ha sido un desafío genético, un enigma"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/expertos-stanford-descubren-misterio-gatos-naranjas-despues-60-anos-ha-sido-desafio-genetico-enigma-1427984' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gatos-4269890.jpg?tf=1200x' alt='Expertos de Stanford descubren el misterio de los gatos naranjas después de 60 años: "Ha sido un desafío genético, un enigma"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346'>Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-guardar-ruta-google-maps-planificar-viajes-puente-1296346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/rutas-google-maps-4250085.jpg?tf=1200x' alt='Cómo guardar una ruta en Google Maps para planificar tus viajes en el Puente de Diciembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-1427981'>¿Pagarías un euro para saber si tu móvil está infectado del malware espía Pegasus?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-1427981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pagarias-euro-saber-movil-infectado-malware-espia-pegasus-4269853.jpg?tf=1200x' alt='¿Pagarías un euro para saber si tu móvil está infectado del malware espía Pegasus?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-1428007'>¿Idea genial u otra excentricidad de Donald Trump? Quién es Jared Isaacman, el multimillonario astronauta que dirigirá la NASA </a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-1428007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/idea-genial-otra-excentricidad-donald-trump-quien-jared-isaacman-multimillonario-astronauta-dirigira-nasa-4269895.jpg?tf=1200x' alt='¿Idea genial u otra excentricidad de Donald Trump? Quién es Jared Isaacman, el multimillonario astronauta que dirigirá la NASA ' />
     </a>
 </div>
 
