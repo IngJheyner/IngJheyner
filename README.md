@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-1428267'>Meta colaborará con James Cameron para crear una nueva experiencia 3D para las Meta Quest</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-1428267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-4270371.jpg?tf=1200x' alt='Meta colaborará con James Cameron para crear una nueva experiencia 3D para las Meta Quest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251'>Google Photos tendrá su propia versión del Spotify Wrapped</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-fotos-3270105.jpg?tf=1200x' alt='Google Photos tendrá su propia versión del Spotify Wrapped' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-ha-escuchado-usuarios-nueva-funcion-cambia-forma-administrar-almacenamiento-nube-1428234'>Google ha escuchado a los usuarios con una nueva función que cambia la forma de administrar el almacenamiento en la nube</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-ha-escuchado-usuarios-nueva-funcion-cambia-forma-administrar-almacenamiento-nube-1428234' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4251455.jpg?tf=1200x' alt='Google ha escuchado a los usuarios con una nueva función que cambia la forma de administrar el almacenamiento en la nube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472'>Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/eliminar-meta-whatsapp-4267355.jpg?tf=1200x' alt='Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo' />
     </a>
 </div>
 
