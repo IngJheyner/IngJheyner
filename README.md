@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-aplicacion-android-1427131'>Cómo ocultar una aplicación en Android para que otra persona no la vea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-aplicacion-android-1427131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bloquear-movil-4268496.jpg?tf=1200x' alt='Cómo ocultar una aplicación en Android para que otra persona no la vea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-1427249'>Mejores películas de 2024 según la crítica, y que no puedes perderte antes de que acabe el año</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-1427249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-4268612.jpg?tf=1200x' alt='Mejores películas de 2024 según la crítica, y que no puedes perderte antes de que acabe el año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/10-formas-liberar-completamente-memoria-movil-android-1427587'>10 formas de liberar completamente la memoria de un móvil Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/10-formas-liberar-completamente-memoria-movil-android-1427587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-formas-liberar-completamente-memoria-movil-android-4269178.jpg?tf=1200x' alt='10 formas de liberar completamente la memoria de un móvil Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-1427591'>El modo secreto de Waze que funciona en cualquier dispositivo sin instalar absolutamente nada</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-1427591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-4269180.jpg?tf=1200x' alt='El modo secreto de Waze que funciona en cualquier dispositivo sin instalar absolutamente nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/me-encanta-diseno-compacto-acer-swift-14-ai-pero-aun-tener-copilot-portatil-tan-ligero-1426712'>Me encanta el diseño compacto del Acer Swift 14 AI, pero más aún tener Copilot+ en un portátil tan ligero</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/me-encanta-diseno-compacto-acer-swift-14-ai-pero-aun-tener-copilot-portatil-tan-ligero-1426712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/acer-swift-ai-copilot-4267807.jpg?tf=1200x' alt='Me encanta el diseño compacto del Acer Swift 14 AI, pero más aún tener Copilot+ en un portátil tan ligero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/canon-eos-r50-camara-creadores-contenido-1427074'>Tras probar la Canon EOS R50 creo que la compañía le da a los influencers exactamente lo que necesitan, excepto por una cosa</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/canon-eos-r50-camara-creadores-contenido-1427074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canon-eos-r50-4269280.jpg?tf=1200x' alt='Tras probar la Canon EOS R50 creo que la compañía le da a los influencers exactamente lo que necesitan, excepto por una cosa' />
     </a>
 </div>
 
