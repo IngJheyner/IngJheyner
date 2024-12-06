@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/nuevo-tocar-timbre-salir-corriendo-trolea-mujer-todas-vecinas-tienen-alexa-barrio-1426367'>"El nuevo tocar el timbre y salir corriendo”: así trolea esta mujer a todas las vecinas que tienen Alexa en su barrio</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/nuevo-tocar-timbre-salir-corriendo-trolea-mujer-todas-vecinas-tienen-alexa-barrio-1426367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-anabelmua-4267287.jpg?tf=1200x' alt='"El nuevo tocar el timbre y salir corriendo”: así trolea esta mujer a todas las vecinas que tienen Alexa en su barrio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/telefonica-enfrenta-multa-13-millones-euros-exponer-datos-personales-clientes-1428217'>Telefónica se enfrenta a una multa de 1,3 millones de euros por exponer los datos personales de sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/telefonica-enfrenta-multa-13-millones-euros-exponer-datos-personales-clientes-1428217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/telefonica-enfrenta-multa-13-millones-euros-exponer-datos-personales-clientes-4270289.jpg?tf=1200x' alt='Telefónica se enfrenta a una multa de 1,3 millones de euros por exponer los datos personales de sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965'>Android Auto y las increíbles funciones secretas que llegarán muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='Android Auto y las increíbles funciones secretas que llegarán muy pronto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614'>Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-abrir-ventana-cmd-cualquier-version-windows-3279244.jpg?tf=1200x' alt='Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/giro-180-grados-guerra-comercial-china-estados-unidos-nvidia-intel-samsung-sufriran-consecuencias-ultima-medida-pais-asiatico-1428191'>Giro de 180 grados en la guerra comercial de China y Estados Unidos: Nvidia, Intel y Samsung sufrirán las consecuencias de la última medida del país asiático</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/giro-180-grados-guerra-comercial-china-estados-unidos-nvidia-intel-samsung-sufriran-consecuencias-ultima-medida-pais-asiatico-1428191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-guerra-comercial-china-estados-unidos-nvidia-intel-samsung-sufriran-consecuencias-ultima-medida-pais-asiatico-4270255.jpg?tf=1200x' alt='Giro de 180 grados en la guerra comercial de China y Estados Unidos: Nvidia, Intel y Samsung sufrirán las consecuencias de la última medida del país asiático' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-meteorologia-4251303.jpg?tf=1200x' alt='La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas' />
     </a>
 </div>
 
