@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965'>Android Auto y las increíbles funciones secretas que llegarán muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='Android Auto y las increíbles funciones secretas que llegarán muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-1428197'>OpenAI ha puesto fecha al lanzamiento de Sora para competir con Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-1428197' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-4270274.jpg?tf=1200x' alt='OpenAI ha puesto fecha al lanzamiento de Sora para competir con Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614'>Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-abrir-ventana-cmd-cualquier-version-windows-3279244.jpg?tf=1200x' alt='Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-meteorologia-4251303.jpg?tf=1200x' alt='La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-colaborara-samsung-mejorar-rendimiento-apple-intelligence-iphone-17-1428180'>Apple colaborará con Samsung para mejorar el rendimiento de Apple Intelligence en el iPhone 17</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-colaborara-samsung-mejorar-rendimiento-apple-intelligence-iphone-17-1428180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-colaborara-samsung-mejorar-rendimiento-apple-intelligence-iphone-17-4270234.jpg?tf=1200x' alt='Apple colaborará con Samsung para mejorar el rendimiento de Apple Intelligence en el iPhone 17' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834'>Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-4261668.jpg?tf=1200x' alt='Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada' />
     </a>
 </div>
 
