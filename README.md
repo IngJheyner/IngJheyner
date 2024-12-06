@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614'>Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-abrir-ventana-cmd-cualquier-version-windows-3279244.jpg?tf=1200x' alt='Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/giro-180-grados-guerra-comercial-china-estados-unidos-nvidia-intel-samsung-sufriran-consecuencias-ultima-medida-pais-asiatico-1428191'>Giro de 180 grados en la guerra comercial de China y Estados Unidos: Nvidia, Intel y Samsung sufrirán las consecuencias de la última medida del país asiático</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/giro-180-grados-guerra-comercial-china-estados-unidos-nvidia-intel-samsung-sufriran-consecuencias-ultima-medida-pais-asiatico-1428191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-guerra-comercial-china-estados-unidos-nvidia-intel-samsung-sufriran-consecuencias-ultima-medida-pais-asiatico-4270255.jpg?tf=1200x' alt='Giro de 180 grados en la guerra comercial de China y Estados Unidos: Nvidia, Intel y Samsung sufrirán las consecuencias de la última medida del país asiático' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-meteorologia-4251303.jpg?tf=1200x' alt='La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834'>Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-4261668.jpg?tf=1200x' alt='Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-aplicacion-android-1427131'>Cómo ocultar una aplicación en Android para que otra persona no la vea</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-aplicacion-android-1427131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bloquear-movil-4268496.jpg?tf=1200x' alt='Cómo ocultar una aplicación en Android para que otra persona no la vea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-1427249'>Mejores películas de 2024 según la crítica, y que no puedes perderte antes de que acabe el año</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-1427249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-4268612.jpg?tf=1200x' alt='Mejores películas de 2024 según la crítica, y que no puedes perderte antes de que acabe el año' />
     </a>
 </div>
 
