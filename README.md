@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/futuro-buscador-google-habra-cambios-radicales-2025-sundar-pichai-1428314'>El futuro del buscador de Google: habrá cambios radicales en 2025, según Sundar Pichai</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/futuro-buscador-google-habra-cambios-radicales-2025-sundar-pichai-1428314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-google-ia-4270421.jpg?tf=1200x' alt='El futuro del buscador de Google: habrá cambios radicales en 2025, según Sundar Pichai' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ofertas-empleo-fraudulentas-whatsapp-puedes-evitarlas-1428309'>Policía Nacional alerta sobre ofertas de empleo fraudulentas en WhatsApp: así puedes evitarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ofertas-empleo-fraudulentas-whatsapp-puedes-evitarlas-1428309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ofertas-empleo-falsas-whatsapp-4270414.jpg?tf=1200x' alt='Policía Nacional alerta sobre ofertas de empleo fraudulentas en WhatsApp: así puedes evitarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gama-alta-me-parecen-caros-pero-ahora-no-tanto-s24-ultra-casi-mitad-precio-aliexpress-1427716'>Los gama alta me parecen caros, pero ahora no tanto: el S24 Ultra está casi a mitad de precio en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gama-alta-me-parecen-caros-pero-ahora-no-tanto-s24-ultra-casi-mitad-precio-aliexpress-1427716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/galaxy-s24-ultra-4249339.jpg?tf=1200x' alt='Los gama alta me parecen caros, pero ahora no tanto: el S24 Ultra está casi a mitad de precio en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tengo-spotify-voy-dejarlo-entrada-aprovechare-tres-meses-gratis-amazon-music-1427938'>Tengo Spotify y voy a dejarlo: de entrada, aprovecharé los tres meses gratis de Amazon Music</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tengo-spotify-voy-dejarlo-entrada-aprovechare-tres-meses-gratis-amazon-music-1427938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-echo-amazon-music-4269812.jpg?tf=1200x' alt='Tengo Spotify y voy a dejarlo: de entrada, aprovecharé los tres meses gratis de Amazon Music' />
     </a>
 </div>
 
