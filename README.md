@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/papa-francisco-papamovil-electrico-jubileo-2025-mercedes-benz-1428170'>El Papa Francisco recibe su primer papamóvil eléctrico para el Jubileo 2025, fabricado por Mercedes-Benz</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/papa-francisco-papamovil-electrico-jubileo-2025-mercedes-benz-1428170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-francisco-recibe-primer-papamovil-electrico-fabricado-mercedes-benz-4270209.jpg?tf=1200x' alt='El Papa Francisco recibe su primer papamóvil eléctrico para el Jubileo 2025, fabricado por Mercedes-Benz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/merece-pena-pagar-digi-tv-television-digi-solo-7-euros-mes-1428135'>¿Merece la pena pagar por DIGI TV? La televisión de DIGI por solo 7 euros al mes</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/merece-pena-pagar-digi-tv-television-digi-solo-7-euros-mes-1428135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/merece-pena-pagar-digi-tv-television-digi-solo-7-euros-mes-4270191.jpg?tf=1200x' alt='¿Merece la pena pagar por DIGI TV? La televisión de DIGI por solo 7 euros al mes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-llega-dispositivos-pc-lista-ultima-actualizacion-1428140'>Windows 11 24H2 llega a más dispositivos: ¿está tu PC en la lista de la última actualización?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-llega-dispositivos-pc-lista-ultima-actualizacion-1428140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Windows 11 24H2 llega a más dispositivos: ¿está tu PC en la lista de la última actualización?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/pais-mayor-reserva-oro-mundo-cifra-cuadruplica-china-rusia-juntas-1428035'>Este es el país con la mayor reserva de oro del mundo: su cifra cuadruplica a la de China y Rusia juntas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/pais-mayor-reserva-oro-mundo-cifra-cuadruplica-china-rusia-juntas-1428035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reservas-oro-4269989.jpg?tf=1200x' alt='Este es el país con la mayor reserva de oro del mundo: su cifra cuadruplica a la de China y Rusia juntas' />
     </a>
 </div>
 
