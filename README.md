@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220'>El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-4270294.jpg?tf=1200x' alt='El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/nuevo-tocar-timbre-salir-corriendo-trolea-mujer-todas-vecinas-tienen-alexa-barrio-1426367'>"El nuevo tocar el timbre y salir corriendo”: así trolea esta mujer a todas las vecinas que tienen Alexa en su barrio</a></h4>
     <a href='https://computerhoy.20minutos.es/life/nuevo-tocar-timbre-salir-corriendo-trolea-mujer-todas-vecinas-tienen-alexa-barrio-1426367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-anabelmua-4267287.jpg?tf=1200x' alt='"El nuevo tocar el timbre y salir corriendo”: así trolea esta mujer a todas las vecinas que tienen Alexa en su barrio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-1428197'>OpenAI ha puesto fecha al lanzamiento de Sora para competir con Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-1428197' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-4270274.jpg?tf=1200x' alt='OpenAI ha puesto fecha al lanzamiento de Sora para competir con Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614'>Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/mide-velocidad-internet-pocos-segundos-sencillo-comando-magico-cmd-windows-1406614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/como-abrir-ventana-cmd-cualquier-version-windows-3279244.jpg?tf=1200x' alt='Así puedes medir tu velocidad de Internet en pocos segundos con este comando mágico CMD en Windows' />
     </a>
 </div>
 
