@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251'>Google Photos tendrá su propia versión del Spotify Wrapped</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-fotos-3270105.jpg?tf=1200x' alt='Google Photos tendrá su propia versión del Spotify Wrapped' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/honor-pretende-competir-samsung-primer-movil-enrollable-1428241'>Honor pretende competir con Samsung con su primer móvil enrollable</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/honor-pretende-competir-samsung-primer-movil-enrollable-1428241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honor-pretende-competir-samsung-primer-movil-enrollable-4270330.jpg?tf=1200x' alt='Honor pretende competir con Samsung con su primer móvil enrollable' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472'>Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/eliminar-meta-whatsapp-4267355.jpg?tf=1200x' alt='Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220'>El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-4270294.jpg?tf=1200x' alt='El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial' />
     </a>
 </div>
 
