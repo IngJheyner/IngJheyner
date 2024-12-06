@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152'>La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-actualiza-definitiva-ahora-ofrecera-informacion-conductores-incidencias-meteorologicas-1417152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-maps-meteorologia-4251303.jpg?tf=1200x' alt='La función definitiva de Google Maps perfecta para el Puente de Diciembre y las vacaciones navideñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-colaborara-samsung-mejorar-rendimiento-apple-intelligence-iphone-17-1428180'>Apple colaborará con Samsung para mejorar el rendimiento de Apple Intelligence en el iPhone 17</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-colaborara-samsung-mejorar-rendimiento-apple-intelligence-iphone-17-1428180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-colaborara-samsung-mejorar-rendimiento-apple-intelligence-iphone-17-4270234.jpg?tf=1200x' alt='Apple colaborará con Samsung para mejorar el rendimiento de Apple Intelligence en el iPhone 17' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834'>Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-4261668.jpg?tf=1200x' alt='Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-1427249'>Mejores películas de 2024 según la crítica, y que no puedes perderte antes de que acabe el año</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-1427249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejores-peliculas-2024-critica-no-puedes-perderte-antes-acabe-ano-4268612.jpg?tf=1200x' alt='Mejores películas de 2024 según la crítica, y que no puedes perderte antes de que acabe el año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/10-formas-liberar-completamente-memoria-movil-android-1427587'>10 formas de liberar completamente la memoria de un móvil Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/10-formas-liberar-completamente-memoria-movil-android-1427587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-formas-liberar-completamente-memoria-movil-android-4269178.jpg?tf=1200x' alt='10 formas de liberar completamente la memoria de un móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-1428175'>Ni Chrome ni Firefox, esta startup está reinventando el navegador web gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-1428175' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-4270208.jpg?tf=1200x' alt='Ni Chrome ni Firefox, esta startup está reinventando el navegador web gracias a la IA' />
     </a>
 </div>
 
