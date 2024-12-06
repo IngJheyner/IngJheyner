@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-1426475'>Funciones útiles de WhatsApp que la gente raramente conoce y que nadie utiliza</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-1426475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-4267393.jpg?tf=1200x' alt='Funciones útiles de WhatsApp que la gente raramente conoce y que nadie utiliza' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/10-formas-liberar-completamente-memoria-movil-android-1427587'>10 formas de liberar completamente la memoria de un móvil Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/10-formas-liberar-completamente-memoria-movil-android-1427587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-formas-liberar-completamente-memoria-movil-android-4269178.jpg?tf=1200x' alt='10 formas de liberar completamente la memoria de un móvil Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-vende-accesorio-moda-todos-quieren-probar-10-euros-1427092'>Xiaomi vende un accesorio de moda que todos quieren probar, y por 10 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-vende-accesorio-moda-todos-quieren-probar-10-euros-1427092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/auriculares-conduccion-osea-xiaomi-4268413.jpg?tf=1200x' alt='Xiaomi vende un accesorio de moda que todos quieren probar, y por 10 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-1428175'>Ni Chrome ni Firefox, esta startup está reinventando el navegador web gracias a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-1428175' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-4270208.jpg?tf=1200x' alt='Ni Chrome ni Firefox, esta startup está reinventando el navegador web gracias a la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/papa-francisco-papamovil-electrico-jubileo-2025-mercedes-benz-1428170'>El Papa Francisco recibe su primer papamóvil eléctrico para el Jubileo 2025, fabricado por Mercedes-Benz</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/papa-francisco-papamovil-electrico-jubileo-2025-mercedes-benz-1428170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-francisco-recibe-primer-papamovil-electrico-fabricado-mercedes-benz-4270209.jpg?tf=1200x' alt='El Papa Francisco recibe su primer papamóvil eléctrico para el Jubileo 2025, fabricado por Mercedes-Benz' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-1427591'>El modo secreto de Waze que funciona en cualquier dispositivo sin instalar absolutamente nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-1427591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-4269180.jpg?tf=1200x' alt='El modo secreto de Waze que funciona en cualquier dispositivo sin instalar absolutamente nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/merece-pena-pagar-digi-tv-television-digi-solo-7-euros-mes-1428135'>¿Merece la pena pagar por DIGI TV? La televisión de DIGI por solo 7 euros al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/merece-pena-pagar-digi-tv-television-digi-solo-7-euros-mes-1428135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/merece-pena-pagar-digi-tv-television-digi-solo-7-euros-mes-4270191.jpg?tf=1200x' alt='¿Merece la pena pagar por DIGI TV? La televisión de DIGI por solo 7 euros al mes' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/me-encanta-diseno-compacto-acer-swift-14-ai-pero-aun-tener-copilot-portatil-tan-ligero-1426712'>Me encanta el diseño compacto del Acer Swift 14 AI, pero más aún tener Copilot+ en un portátil tan ligero</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/me-encanta-diseno-compacto-acer-swift-14-ai-pero-aun-tener-copilot-portatil-tan-ligero-1426712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/acer-swift-ai-copilot-4267807.jpg?tf=1200x' alt='Me encanta el diseño compacto del Acer Swift 14 AI, pero más aún tener Copilot+ en un portátil tan ligero' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/12-dias-openai-o1-ia-razona-chatgpt-pro-1428155'>12 días de OpenAI: o1, la IA que razona, y ChatGPT Pro por 200 dólares al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/12-dias-openai-o1-ia-razona-chatgpt-pro-1428155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/12-dias-openai-o1-ia-razona-chatgpt-pro-200-dolares-mes-4270179.jpg?tf=1200x' alt='12 días de OpenAI: o1, la IA que razona, y ChatGPT Pro por 200 dólares al mes' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/canon-eos-r50-camara-creadores-contenido-1427074'>Tras probar la Canon EOS R50 creo que la compañía le da a los influencers exactamente lo que necesitan, excepto por una cosa</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/canon-eos-r50-camara-creadores-contenido-1427074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canon-eos-r50-4269280.jpg?tf=1200x' alt='Tras probar la Canon EOS R50 creo que la compañía le da a los influencers exactamente lo que necesitan, excepto por una cosa' />
     </a>
 </div>
 
