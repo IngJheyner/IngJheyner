@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834'>Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ni-iptv-ni-kodi-asi-puedes-ver-gratis-toda-tdt-1000-canales-tv-todo-mundo-instalar-nada-1408834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-iptv-ni-tdtchannels-mejor-forma-ver-tv-gratis-movil-instalar-nada-4261668.jpg?tf=1200x' alt='Ni IPTV ni Kodi, así puedes ver gratis toda la TDT y más de 1.000 canales de TV de todo el mundo sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-aplicacion-android-1427131'>Cómo ocultar una aplicación en Android para que otra persona no la vea</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-aplicacion-android-1427131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bloquear-movil-4268496.jpg?tf=1200x' alt='Cómo ocultar una aplicación en Android para que otra persona no la vea' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-1428175'>Ni Chrome ni Firefox, esta startup está reinventando el navegador web gracias a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-1428175' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-chrome-ni-firefox-startup-reinventando-navegador-web-gracias-ia-4270208.jpg?tf=1200x' alt='Ni Chrome ni Firefox, esta startup está reinventando el navegador web gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-1427591'>El modo secreto de Waze que funciona en cualquier dispositivo sin instalar absolutamente nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-1427591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/modo-secreto-waze-funciona-cualquier-dispositivo-instalar-absolutamente-nada-4269180.jpg?tf=1200x' alt='El modo secreto de Waze que funciona en cualquier dispositivo sin instalar absolutamente nada' />
     </a>
 </div>
 
