@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ofertas-empleo-fraudulentas-whatsapp-puedes-evitarlas-1428309'>Policía Nacional alerta sobre ofertas de empleo fraudulentas en WhatsApp: así puedes evitarlas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ofertas-empleo-fraudulentas-whatsapp-puedes-evitarlas-1428309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ofertas-empleo-falsas-whatsapp-4270414.jpg?tf=1200x' alt='Policía Nacional alerta sobre ofertas de empleo fraudulentas en WhatsApp: así puedes evitarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-parche-urgente-android-auto-consiste-debes-instalarlo-1428308'>Google lanza un parche urgente para Android Auto: en esto consiste y por qué debes instalarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-lanza-parche-urgente-android-auto-consiste-debes-instalarlo-1428308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='Google lanza un parche urgente para Android Auto: en esto consiste y por qué debes instalarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278'>El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-4270372.jpg?tf=1200x' alt='El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tengo-spotify-voy-dejarlo-entrada-aprovechare-tres-meses-gratis-amazon-music-1427938'>Tengo Spotify y voy a dejarlo: de entrada, aprovecharé los tres meses gratis de Amazon Music</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/tengo-spotify-voy-dejarlo-entrada-aprovechare-tres-meses-gratis-amazon-music-1427938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-echo-amazon-music-4269812.jpg?tf=1200x' alt='Tengo Spotify y voy a dejarlo: de entrada, aprovecharé los tres meses gratis de Amazon Music' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-1428267'>Meta colaborará con James Cameron para crear una nueva experiencia 3D para las Meta Quest</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-1428267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-4270371.jpg?tf=1200x' alt='Meta colaborará con James Cameron para crear una nueva experiencia 3D para las Meta Quest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251'>Google Photos tendrá su propia versión del Spotify Wrapped</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-fotos-3270105.jpg?tf=1200x' alt='Google Photos tendrá su propia versión del Spotify Wrapped' />
     </a>
 </div>
 
