@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472'>Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/eliminar-meta-whatsapp-4267355.jpg?tf=1200x' alt='Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220'>El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-4270294.jpg?tf=1200x' alt='El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965'>Android Auto y las increíbles funciones secretas que llegarán muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='Android Auto y las increíbles funciones secretas que llegarán muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-1428197'>OpenAI ha puesto fecha al lanzamiento de Sora para competir con Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-1428197' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-ha-puesto-fecha-lanzamiento-sora-competir-google-4270274.jpg?tf=1200x' alt='OpenAI ha puesto fecha al lanzamiento de Sora para competir con Google' />
     </a>
 </div>
 
