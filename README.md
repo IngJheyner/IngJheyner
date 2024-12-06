@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278'>El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-4270372.jpg?tf=1200x' alt='El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gama-alta-me-parecen-caros-pero-ahora-no-tanto-s24-ultra-casi-mitad-precio-aliexpress-1427716'>Los gama alta me parecen caros, pero ahora no tanto: el S24 Ultra está casi a mitad de precio en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gama-alta-me-parecen-caros-pero-ahora-no-tanto-s24-ultra-casi-mitad-precio-aliexpress-1427716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/galaxy-s24-ultra-4249339.jpg?tf=1200x' alt='Los gama alta me parecen caros, pero ahora no tanto: el S24 Ultra está casi a mitad de precio en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tengo-spotify-voy-dejarlo-entrada-aprovechare-tres-meses-gratis-amazon-music-1427938'>Tengo Spotify y voy a dejarlo: de entrada, aprovecharé los tres meses gratis de Amazon Music</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tengo-spotify-voy-dejarlo-entrada-aprovechare-tres-meses-gratis-amazon-music-1427938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-echo-amazon-music-4269812.jpg?tf=1200x' alt='Tengo Spotify y voy a dejarlo: de entrada, aprovecharé los tres meses gratis de Amazon Music' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-1428267'>Meta colaborará con James Cameron para crear una nueva experiencia 3D para las Meta Quest</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-1428267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meta-colaborara-james-cameron-crear-nueva-experiencia-3d-meta-quest-4270371.jpg?tf=1200x' alt='Meta colaborará con James Cameron para crear una nueva experiencia 3D para las Meta Quest' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251'>Google Photos tendrá su propia versión del Spotify Wrapped</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-photos-tendra-propia-version-spotify-wrapped-1428251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/google-fotos-3270105.jpg?tf=1200x' alt='Google Photos tendrá su propia versión del Spotify Wrapped' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/honor-pretende-competir-samsung-primer-movil-enrollable-1428241'>Honor pretende competir con Samsung con su primer móvil enrollable</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/honor-pretende-competir-samsung-primer-movil-enrollable-1428241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honor-pretende-competir-samsung-primer-movil-enrollable-4270330.jpg?tf=1200x' alt='Honor pretende competir con Samsung con su primer móvil enrollable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-figura-cera-banderas-explorers-club-1428178'>Elon Musk ya tiene figura de cera, pero la gente se ha vuelto loca con las banderas que hay detrás</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-figura-cera-banderas-explorers-club-1428178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ya-tiene-figura-cera-pero-gente-ha-vuelto-loca-banderas-hay-detras-4270230.jpg?tf=1200x' alt='Elon Musk ya tiene figura de cera, pero la gente se ha vuelto loca con las banderas que hay detrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-ha-escuchado-usuarios-nueva-funcion-cambia-forma-administrar-almacenamiento-nube-1428234'>Google ha escuchado a los usuarios con una nueva función que cambia la forma de administrar el almacenamiento en la nube</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-ha-escuchado-usuarios-nueva-funcion-cambia-forma-administrar-almacenamiento-nube-1428234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4251455.jpg?tf=1200x' alt='Google ha escuchado a los usuarios con una nueva función que cambia la forma de administrar el almacenamiento en la nube' />
     </a>
 </div>
 
