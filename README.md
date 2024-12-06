@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-1426475'>Funciones útiles de WhatsApp que la gente raramente conoce y que nadie utiliza</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-1426475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-4267393.jpg?tf=1200x' alt='Funciones útiles de WhatsApp que la gente raramente conoce y que nadie utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-vende-accesorio-moda-todos-quieren-probar-10-euros-1427092'>Xiaomi vende un accesorio de moda que todos quieren probar, y por 10 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-vende-accesorio-moda-todos-quieren-probar-10-euros-1427092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/auriculares-conduccion-osea-xiaomi-4268413.jpg?tf=1200x' alt='Xiaomi vende un accesorio de moda que todos quieren probar, y por 10 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/papa-francisco-papamovil-electrico-jubileo-2025-mercedes-benz-1428170'>El Papa Francisco recibe su primer papamóvil eléctrico para el Jubileo 2025, fabricado por Mercedes-Benz</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/papa-francisco-papamovil-electrico-jubileo-2025-mercedes-benz-1428170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-francisco-recibe-primer-papamovil-electrico-fabricado-mercedes-benz-4270209.jpg?tf=1200x' alt='El Papa Francisco recibe su primer papamóvil eléctrico para el Jubileo 2025, fabricado por Mercedes-Benz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/12-dias-openai-o1-ia-razona-chatgpt-pro-1428155'>12 días de OpenAI: o1, la IA que razona, y ChatGPT Pro por 200 dólares al mes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/12-dias-openai-o1-ia-razona-chatgpt-pro-1428155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/12-dias-openai-o1-ia-razona-chatgpt-pro-200-dolares-mes-4270179.jpg?tf=1200x' alt='12 días de OpenAI: o1, la IA que razona, y ChatGPT Pro por 200 dólares al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/error-windows-11-predice-16537-grados-centigrados-fin-ano-1428145'>Error en Windows 11 predice 16.537 grados centígrados para fin de año</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/error-windows-11-predice-16537-grados-centigrados-fin-ano-1428145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-widget-clima-4270176.jpg?tf=1200x' alt='Error en Windows 11 predice 16.537 grados centígrados para fin de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-llega-dispositivos-pc-lista-ultima-actualizacion-1428140'>Windows 11 24H2 llega a más dispositivos: ¿está tu PC en la lista de la última actualización?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-llega-dispositivos-pc-lista-ultima-actualizacion-1428140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Windows 11 24H2 llega a más dispositivos: ¿está tu PC en la lista de la última actualización?' />
     </a>
 </div>
 
