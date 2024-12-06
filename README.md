@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/honor-pretende-competir-samsung-primer-movil-enrollable-1428241'>Honor pretende competir con Samsung con su primer móvil enrollable</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/honor-pretende-competir-samsung-primer-movil-enrollable-1428241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honor-pretende-competir-samsung-primer-movil-enrollable-4270330.jpg?tf=1200x' alt='Honor pretende competir con Samsung con su primer móvil enrollable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-figura-cera-banderas-explorers-club-1428178'>Elon Musk ya tiene figura de cera, pero la gente se ha vuelto loca con las banderas que hay detrás</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-figura-cera-banderas-explorers-club-1428178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ya-tiene-figura-cera-pero-gente-ha-vuelto-loca-banderas-hay-detras-4270230.jpg?tf=1200x' alt='Elon Musk ya tiene figura de cera, pero la gente se ha vuelto loca con las banderas que hay detrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-ha-escuchado-usuarios-nueva-funcion-cambia-forma-administrar-almacenamiento-nube-1428234'>Google ha escuchado a los usuarios con una nueva función que cambia la forma de administrar el almacenamiento en la nube</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-ha-escuchado-usuarios-nueva-funcion-cambia-forma-administrar-almacenamiento-nube-1428234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/google-fotos-4251455.jpg?tf=1200x' alt='Google ha escuchado a los usuarios con una nueva función que cambia la forma de administrar el almacenamiento en la nube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472'>Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-meta-ai-whatsapp-deberias-hacerlo-1426472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/eliminar-meta-whatsapp-4267355.jpg?tf=1200x' alt='Cómo desactivar Meta AI en WhatsApp y por qué deberías hacerlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220'>El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-1428220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fbi-revela-truco-protegerte-ataques-deepfake-mediante-inteligencia-artificial-4270294.jpg?tf=1200x' alt='El FBI revela el truco para protegerte de ataques de deepfake mediante inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/nuevo-tocar-timbre-salir-corriendo-trolea-mujer-todas-vecinas-tienen-alexa-barrio-1426367'>"El nuevo tocar el timbre y salir corriendo”: así trolea esta mujer a todas las vecinas que tienen Alexa en su barrio</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/nuevo-tocar-timbre-salir-corriendo-trolea-mujer-todas-vecinas-tienen-alexa-barrio-1426367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-anabelmua-4267287.jpg?tf=1200x' alt='"El nuevo tocar el timbre y salir corriendo”: así trolea esta mujer a todas las vecinas que tienen Alexa en su barrio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/telefonica-enfrenta-multa-13-millones-euros-exponer-datos-personales-clientes-1428217'>Telefónica se enfrenta a una multa de 1,3 millones de euros por exponer los datos personales de sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/telefonica-enfrenta-multa-13-millones-euros-exponer-datos-personales-clientes-1428217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/telefonica-enfrenta-multa-13-millones-euros-exponer-datos-personales-clientes-4270289.jpg?tf=1200x' alt='Telefónica se enfrenta a una multa de 1,3 millones de euros por exponer los datos personales de sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965'>Android Auto y las increíbles funciones secretas que llegarán muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/todas-funciones-secretas-llegaran-muy-pronto-android-auto-1414965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/android-auto-musica-4251299.jpg?tf=1200x' alt='Android Auto y las increíbles funciones secretas que llegarán muy pronto' />
     </a>
 </div>
 
