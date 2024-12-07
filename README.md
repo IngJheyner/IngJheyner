@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/cosas-puedes-hacer-ia-durante-navidad-1426750'>7 cosas que puedes hacer con la IA durante la Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/cosas-puedes-hacer-ia-durante-navidad-1426750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-navidad-4267853.jpg?tf=1200x' alt='7 cosas que puedes hacer con la IA durante la Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-modifique-primero-pasar-x-bluesky-1427201'>Las 7 configuraciones que modifiqué nada más pasar de X a Bluesky</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-modifique-primero-pasar-x-bluesky-1427201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/configurar-bluesky-4268576.jpg?tf=1200x' alt='Las 7 configuraciones que modifiqué nada más pasar de X a Bluesky' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-1427556'>La función del móvil que todos los expertos recomiendan apagar siempre que lo lleves en el bolsillo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-1427556' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-4269151.jpg?tf=1200x' alt='La función del móvil que todos los expertos recomiendan apagar siempre que lo lleves en el bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-canon-eos-r50-video-4k-relacion-calidad-precio-1427758'>Lo mejor de la Canon EOS R50 es el vídeo 4K y su relación calidad-precio (pero sobre todo su precio)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-canon-eos-r50-video-4k-relacion-calidad-precio-1427758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canon-eos-r50-4269485.jpg?tf=1200x' alt='Lo mejor de la Canon EOS R50 es el vídeo 4K y su relación calidad-precio (pero sobre todo su precio)' />
     </a>
 </div>
 
