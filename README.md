@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413'>YouTube estrena una funcionalidad que te ahorrará mucho tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-4270571.jpg?tf=1200x' alt='YouTube estrena una funcionalidad que te ahorrará mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/aliexpress-reta-amazon-robot-aspirador-barato-arraso-black-friday-sigue-oferta-91-euros-1428328'>AliExpress reta a Amazon: el robot aspirador barato que arrasó en el Black Friday sigue en oferta por 91 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/aliexpress-reta-amazon-robot-aspirador-barato-arraso-black-friday-sigue-oferta-91-euros-1428328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lefant-m210-pro-4270448.jpg?tf=1200x' alt='AliExpress reta a Amazon: el robot aspirador barato que arrasó en el Black Friday sigue en oferta por 91 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400'>Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jugador-pc-enfadado-windows-4270552.jpg?tf=1200x' alt='Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzamiento-futuribles-macs-vision-pro-conectividad-5g-1428392'>Apple prepara el lanzamiento de futuribles Macs y Vision Pro con conectividad 5G </a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzamiento-futuribles-macs-vision-pro-conectividad-5g-1428392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/macbook-5g-4270543.jpg?tf=1200x' alt='Apple prepara el lanzamiento de futuribles Macs y Vision Pro con conectividad 5G ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ya-no-necesitas-pagar-usar-ia-grok-x-activa-todos-usuarios-1428390'>Ya no necesitas pagar para usar la IA Grok en X: así se activa para todos los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ya-no-necesitas-pagar-usar-ia-grok-x-activa-todos-usuarios-1428390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Ya no necesitas pagar para usar la IA Grok en X: así se activa para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727'>Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/monitor-alienware-4267787.jpg?tf=1200x' alt='Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros' />
     </a>
 </div>
 
