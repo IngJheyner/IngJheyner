@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727'>Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/monitor-alienware-4267787.jpg?tf=1200x' alt='Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-lleva-recall-funciones-ia-pcs-intel-amd-ultima-compilacion-1428381'>Windows 11 lleva Recall y más funciones de IA a PCs Intel y AMD con la última compilación</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-lleva-recall-funciones-ia-pcs-intel-amd-ultima-compilacion-1428381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242995.jpg?tf=1200x' alt='Windows 11 lleva Recall y más funciones de IA a PCs Intel y AMD con la última compilación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-alucinante-waze-google-maps-desconocida-1408188'>Ni Google Maps Ni Apple Maps, la alucinante función de Waze que marca la diferencia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/funcion-alucinante-waze-google-maps-desconocida-1408188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-4264883.jpg?tf=1200x' alt='Ni Google Maps Ni Apple Maps, la alucinante función de Waze que marca la diferencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082'>¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-4008570.jpg?tf=1200x' alt='¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/plan-5g-apple-proximos-anos-independencia-qualcomm-pero-inicio-modesto-2025-1428365'>El plan 5G de Apple para los próximos años: independencia de Qualcomm pero con un inicio modesto en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/plan-5g-apple-proximos-anos-independencia-qualcomm-pero-inicio-modesto-2025-1428365' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-5g-4270509.jpg?tf=1200x' alt='El plan 5G de Apple para los próximos años: independencia de Qualcomm pero con un inicio modesto en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/megafiltracion-nintendo-switch-2-precio-caracteristicas-fecha-lanzamiento-nuevo-diseno-1428179'>Megafiltración de Nintendo Switch 2: precio, características, fecha de lanzamiento y nuevo diseño</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/megafiltracion-nintendo-switch-2-precio-caracteristicas-fecha-lanzamiento-nuevo-diseno-1428179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-2-4266220.jpg?tf=1200x' alt='Megafiltración de Nintendo Switch 2: precio, características, fecha de lanzamiento y nuevo diseño' />
     </a>
 </div>
 
