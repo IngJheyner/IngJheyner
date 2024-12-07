@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/usas-windows-casi-obligacion-tener-usb-como-cajon-puedes-crear-1426781'>Si usas Windows, es casi una obligación tener un USB como este en tu cajón: así puedes crear el tuyo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/usas-windows-casi-obligacion-tener-usb-como-cajon-puedes-crear-1426781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/usas-windows-casi-obligacion-tener-usb-como-cajon-puedes-crear-4267904.jpg?tf=1200x' alt='Si usas Windows, es casi una obligación tener un USB como este en tu cajón: así puedes crear el tuyo' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-ni-ps5-web-tiene-30000-juegos-gratis-jugar-movil-pc-instalar-nada-1427445'>Ni Nintendo Switch ni PS5, esta web tiene más de 30.000 juegos gratis para jugar en el móvil o PC sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-ni-ps5-web-tiene-30000-juegos-gratis-jugar-movil-pc-instalar-nada-1427445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-playstation-street-fighter-4268947.jpg?tf=1200x' alt='Ni Nintendo Switch ni PS5, esta web tiene más de 30.000 juegos gratis para jugar en el móvil o PC sin instalar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/futuro-buscador-google-habra-cambios-radicales-2025-sundar-pichai-1428314'>El futuro del buscador de Google: habrá cambios radicales en 2025, según Sundar Pichai</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/futuro-buscador-google-habra-cambios-radicales-2025-sundar-pichai-1428314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-google-ia-4270421.jpg?tf=1200x' alt='El futuro del buscador de Google: habrá cambios radicales en 2025, según Sundar Pichai' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-1427556'>La función del móvil que todos los expertos recomiendan apagar siempre que lo lleves en el bolsillo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-1427556' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-4269151.jpg?tf=1200x' alt='La función del móvil que todos los expertos recomiendan apagar siempre que lo lleves en el bolsillo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ofertas-empleo-fraudulentas-whatsapp-puedes-evitarlas-1428309'>Policía Nacional alerta sobre ofertas de empleo fraudulentas en WhatsApp: así puedes evitarlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ofertas-empleo-fraudulentas-whatsapp-puedes-evitarlas-1428309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ofertas-empleo-falsas-whatsapp-4270414.jpg?tf=1200x' alt='Policía Nacional alerta sobre ofertas de empleo fraudulentas en WhatsApp: así puedes evitarlas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-canon-eos-r50-video-4k-relacion-calidad-precio-1427758'>Lo mejor de la Canon EOS R50 es el vídeo 4K y su relación calidad-precio (pero sobre todo su precio)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-canon-eos-r50-video-4k-relacion-calidad-precio-1427758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canon-eos-r50-4269485.jpg?tf=1200x' alt='Lo mejor de la Canon EOS R50 es el vídeo 4K y su relación calidad-precio (pero sobre todo su precio)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-parche-urgente-android-auto-consiste-debes-instalarlo-1428308'>Google lanza un parche urgente para Android Auto: en esto consiste y por qué debes instalarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-lanza-parche-urgente-android-auto-consiste-debes-instalarlo-1428308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='Google lanza un parche urgente para Android Auto: en esto consiste y por qué debes instalarlo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/molluscan-vieiras-mejillones-ciborg-detectar-polucion-agua-1428332'>Ni sensores ni productos químicos: usan vieiras y mejillones cíborg para detectar la polución del agua</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/molluscan-vieiras-mejillones-ciborg-detectar-polucion-agua-1428332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733530794906-4270461.jpg?tf=1200x' alt='Ni sensores ni productos químicos: usan vieiras y mejillones cíborg para detectar la polución del agua' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278'>El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-4270372.jpg?tf=1200x' alt='El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-calculado-precio-servicios-streaming-costaria-suscribirse-todos-ellos-1416246'>He calculado el precio de los servicios de streaming y esto es lo que costaría suscribirse a todos ellos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-calculado-precio-servicios-streaming-costaria-suscribirse-todos-ellos-1416246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/precios-plataforma-streaming-video-audio-videojuegos-netflix-spotify-max-prime-video-amazon-music-xbox-ps-plus-4257270.jpg?tf=1200x' alt='He calculado el precio de los servicios de streaming y esto es lo que costaría suscribirse a todos ellos' />
     </a>
 </div>
 
