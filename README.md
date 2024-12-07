@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ya-no-necesitas-pagar-usar-ia-grok-x-activa-todos-usuarios-1428390'>Ya no necesitas pagar para usar la IA Grok en X: así se activa para todos los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ya-no-necesitas-pagar-usar-ia-grok-x-activa-todos-usuarios-1428390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Ya no necesitas pagar para usar la IA Grok en X: así se activa para todos los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727'>Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/monitor-alienware-4267787.jpg?tf=1200x' alt='Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/lanzamiento-nintendo-switch-2-punto-seria-presentada-lanzada-fecha-1428366'>El lanzamiento de Nintendo Switch 2 a punto: sería presentada y lanzada en esta fecha</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/lanzamiento-nintendo-switch-2-punto-seria-presentada-lanzada-fecha-1428366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='El lanzamiento de Nintendo Switch 2 a punto: sería presentada y lanzada en esta fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082'>¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-4008570.jpg?tf=1200x' alt='¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?' />
     </a>
 </div>
 
