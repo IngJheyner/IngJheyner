@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400'>Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jugador-pc-enfadado-windows-4270552.jpg?tf=1200x' alt='Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/falso-coronel-perfil-generado-ia-estafa-23000-euros-mujer-tinder-1420152'>El falso coronel: un perfil generado con IA estafa más de 23.000 euros a una mujer en Tinder</a></h4>
     <a href='https://computerhoy.20minutos.es/life/falso-coronel-perfil-generado-ia-estafa-23000-euros-mujer-tinder-1420152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/timo-romantico-militar-estadounidense-reino-unido-ntfraudhelpline-4264150.jpg?tf=1200x' alt='El falso coronel: un perfil generado con IA estafa más de 23.000 euros a una mujer en Tinder' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727'>Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-asume-error-regala-monitor-gaming-valorado-1200-euros-1426727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/monitor-alienware-4267787.jpg?tf=1200x' alt='Amazon asume su error y le regala un monitor gaming valorado en 1.200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-lleva-recall-funciones-ia-pcs-intel-amd-ultima-compilacion-1428381'>Windows 11 lleva Recall y más funciones de IA a PCs Intel y AMD con la última compilación</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-lleva-recall-funciones-ia-pcs-intel-amd-ultima-compilacion-1428381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242995.jpg?tf=1200x' alt='Windows 11 lleva Recall y más funciones de IA a PCs Intel y AMD con la última compilación' />
     </a>
 </div>
 
