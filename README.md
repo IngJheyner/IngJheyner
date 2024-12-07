@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/amigo-invisible-2024-chatgpt-gemini-copilot-como-hacer-sorteo-usando-inteligencia-artificial-1427426'>Amigo invisible 2024 con ChatGPT, Gemini o Copilot: cómo hacer el sorteo usando inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/amigo-invisible-2024-chatgpt-gemini-copilot-como-hacer-sorteo-usando-inteligencia-artificial-1427426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amigo-invisible-inteligencia-artificial-4268928.jpg?tf=1200x' alt='Amigo invisible 2024 con ChatGPT, Gemini o Copilot: cómo hacer el sorteo usando inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/pensaba-comprar-dyson-pero-aspiradora-xiaomi-cuesta-mitad-parece-igual-buena-1428255'>Pensaba comprar una Dyson, pero esta aspiradora Xiaomi cuesta la mitad y parece igual de buena</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/pensaba-comprar-dyson-pero-aspiradora-xiaomi-cuesta-mitad-parece-igual-buena-1428255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/xiaomi-g10-plus-4270335.jpg?tf=1200x' alt='Pensaba comprar una Dyson, pero esta aspiradora Xiaomi cuesta la mitad y parece igual de buena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/cosas-puedes-hacer-ia-durante-navidad-1426750'>7 cosas que puedes hacer con la IA durante la Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/cosas-puedes-hacer-ia-durante-navidad-1426750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-navidad-4267853.jpg?tf=1200x' alt='7 cosas que puedes hacer con la IA durante la Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-limpiar-pantalla-televisor-revestimiento-antirreflejos-1426302'>Cómo limpiar la pantalla del televisor sin cargarte el revestimiento antirreflejos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-limpiar-pantalla-televisor-revestimiento-antirreflejos-1426302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/limpiar-tv-4267255.jpg?tf=1200x' alt='Cómo limpiar la pantalla del televisor sin cargarte el revestimiento antirreflejos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-ni-ps5-web-tiene-30000-juegos-gratis-jugar-movil-pc-instalar-nada-1427445'>Ni Nintendo Switch ni PS5, esta web tiene más de 30.000 juegos gratis para jugar en el móvil o PC sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-ni-ps5-web-tiene-30000-juegos-gratis-jugar-movil-pc-instalar-nada-1427445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-playstation-street-fighter-4268947.jpg?tf=1200x' alt='Ni Nintendo Switch ni PS5, esta web tiene más de 30.000 juegos gratis para jugar en el móvil o PC sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-1427556'>La función del móvil que todos los expertos recomiendan apagar siempre que lo lleves en el bolsillo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-1427556' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funcion-movil-todos-expertos-recomiendan-apagar-siempre-lleves-bolsillo-4269151.jpg?tf=1200x' alt='La función del móvil que todos los expertos recomiendan apagar siempre que lo lleves en el bolsillo' />
     </a>
 </div>
 
