@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082'>¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-4008570.jpg?tf=1200x' alt='¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/plan-5g-apple-proximos-anos-independencia-qualcomm-pero-inicio-modesto-2025-1428365'>El plan 5G de Apple para los próximos años: independencia de Qualcomm pero con un inicio modesto en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/plan-5g-apple-proximos-anos-independencia-qualcomm-pero-inicio-modesto-2025-1428365' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-5g-4270509.jpg?tf=1200x' alt='El plan 5G de Apple para los próximos años: independencia de Qualcomm pero con un inicio modesto en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/megafiltracion-nintendo-switch-2-precio-caracteristicas-fecha-lanzamiento-nuevo-diseno-1428179'>Megafiltración de Nintendo Switch 2: precio, características, fecha de lanzamiento y nuevo diseño</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/megafiltracion-nintendo-switch-2-precio-caracteristicas-fecha-lanzamiento-nuevo-diseno-1428179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-2-4266220.jpg?tf=1200x' alt='Megafiltración de Nintendo Switch 2: precio, características, fecha de lanzamiento y nuevo diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/amigo-invisible-2024-chatgpt-gemini-copilot-como-hacer-sorteo-usando-inteligencia-artificial-1427426'>Amigo invisible 2024 con ChatGPT, Gemini o Copilot: cómo hacer el sorteo usando inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/amigo-invisible-2024-chatgpt-gemini-copilot-como-hacer-sorteo-usando-inteligencia-artificial-1427426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amigo-invisible-inteligencia-artificial-4268928.jpg?tf=1200x' alt='Amigo invisible 2024 con ChatGPT, Gemini o Copilot: cómo hacer el sorteo usando inteligencia artificial' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/pensaba-comprar-dyson-pero-aspiradora-xiaomi-cuesta-mitad-parece-igual-buena-1428255'>Pensaba comprar una Dyson, pero esta aspiradora Xiaomi cuesta la mitad y parece igual de buena</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/pensaba-comprar-dyson-pero-aspiradora-xiaomi-cuesta-mitad-parece-igual-buena-1428255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/xiaomi-g10-plus-4270335.jpg?tf=1200x' alt='Pensaba comprar una Dyson, pero esta aspiradora Xiaomi cuesta la mitad y parece igual de buena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/cosas-puedes-hacer-ia-durante-navidad-1426750'>7 cosas que puedes hacer con la IA durante la Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/cosas-puedes-hacer-ia-durante-navidad-1426750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-navidad-4267853.jpg?tf=1200x' alt='7 cosas que puedes hacer con la IA durante la Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-modifique-primero-pasar-x-bluesky-1427201'>Las 7 configuraciones que modifiqué nada más pasar de X a Bluesky</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-modifique-primero-pasar-x-bluesky-1427201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/configurar-bluesky-4268576.jpg?tf=1200x' alt='Las 7 configuraciones que modifiqué nada más pasar de X a Bluesky' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-limpiar-pantalla-televisor-revestimiento-antirreflejos-1426302'>Cómo limpiar la pantalla del televisor sin cargarte el revestimiento antirreflejos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-limpiar-pantalla-televisor-revestimiento-antirreflejos-1426302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/limpiar-tv-4267255.jpg?tf=1200x' alt='Cómo limpiar la pantalla del televisor sin cargarte el revestimiento antirreflejos' />
     </a>
 </div>
 
