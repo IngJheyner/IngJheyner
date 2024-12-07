@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/usas-windows-casi-obligacion-tener-usb-como-cajon-puedes-crear-1426781'>Si usas Windows, es casi una obligación tener un USB como este en tu cajón: así puedes crear el tuyo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/usas-windows-casi-obligacion-tener-usb-como-cajon-puedes-crear-1426781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/usas-windows-casi-obligacion-tener-usb-como-cajon-puedes-crear-4267904.jpg?tf=1200x' alt='Si usas Windows, es casi una obligación tener un USB como este en tu cajón: así puedes crear el tuyo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/futuro-buscador-google-habra-cambios-radicales-2025-sundar-pichai-1428314'>El futuro del buscador de Google: habrá cambios radicales en 2025, según Sundar Pichai</a></h4>
     <a href='https://computerhoy.20minutos.es/google/futuro-buscador-google-habra-cambios-radicales-2025-sundar-pichai-1428314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-google-ia-4270421.jpg?tf=1200x' alt='El futuro del buscador de Google: habrá cambios radicales en 2025, según Sundar Pichai' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278'>El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-1428278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-alargar-bateria-iphone-ios-18-tiene-dos-configuraciones-ocultas-4270372.jpg?tf=1200x' alt='El truco para alargar la batería del iPhone: iOS 18 tiene dos configuraciones ocultas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gama-alta-me-parecen-caros-pero-ahora-no-tanto-s24-ultra-casi-mitad-precio-aliexpress-1427716'>Los gama alta me parecen caros, pero ahora no tanto: el S24 Ultra está casi a mitad de precio en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gama-alta-me-parecen-caros-pero-ahora-no-tanto-s24-ultra-casi-mitad-precio-aliexpress-1427716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/galaxy-s24-ultra-4249339.jpg?tf=1200x' alt='Los gama alta me parecen caros, pero ahora no tanto: el S24 Ultra está casi a mitad de precio en AliExpress' />
     </a>
 </div>
 
