@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/falso-coronel-perfil-generado-ia-estafa-23000-euros-mujer-tinder-1420152'>El falso coronel: un perfil generado con IA estafa más de 23.000 euros a una mujer en Tinder</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/falso-coronel-perfil-generado-ia-estafa-23000-euros-mujer-tinder-1420152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/timo-romantico-militar-estadounidense-reino-unido-ntfraudhelpline-4264150.jpg?tf=1200x' alt='El falso coronel: un perfil generado con IA estafa más de 23.000 euros a una mujer en Tinder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzamiento-futuribles-macs-vision-pro-conectividad-5g-1428392'>Apple prepara el lanzamiento de futuribles Macs y Vision Pro con conectividad 5G </a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzamiento-futuribles-macs-vision-pro-conectividad-5g-1428392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/macbook-5g-4270543.jpg?tf=1200x' alt='Apple prepara el lanzamiento de futuribles Macs y Vision Pro con conectividad 5G ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ya-no-necesitas-pagar-usar-ia-grok-x-activa-todos-usuarios-1428390'>Ya no necesitas pagar para usar la IA Grok en X: así se activa para todos los usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ya-no-necesitas-pagar-usar-ia-grok-x-activa-todos-usuarios-1428390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Ya no necesitas pagar para usar la IA Grok en X: así se activa para todos los usuarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-lleva-recall-funciones-ia-pcs-intel-amd-ultima-compilacion-1428381'>Windows 11 lleva Recall y más funciones de IA a PCs Intel y AMD con la última compilación</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-lleva-recall-funciones-ia-pcs-intel-amd-ultima-compilacion-1428381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-recall-4242995.jpg?tf=1200x' alt='Windows 11 lleva Recall y más funciones de IA a PCs Intel y AMD con la última compilación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-alucinante-waze-google-maps-desconocida-1408188'>Ni Google Maps Ni Apple Maps, la alucinante función de Waze que marca la diferencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funcion-alucinante-waze-google-maps-desconocida-1408188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-4264883.jpg?tf=1200x' alt='Ni Google Maps Ni Apple Maps, la alucinante función de Waze que marca la diferencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/lanzamiento-nintendo-switch-2-punto-seria-presentada-lanzada-fecha-1428366'>El lanzamiento de Nintendo Switch 2 a punto: sería presentada y lanzada en esta fecha</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/lanzamiento-nintendo-switch-2-punto-seria-presentada-lanzada-fecha-1428366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='El lanzamiento de Nintendo Switch 2 a punto: sería presentada y lanzada en esta fecha' />
     </a>
 </div>
 
