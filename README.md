@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/aplicacion-notas-rapidas-deja-funcionar-windows-11-nadie-sabe-razon-1428417'>La aplicación de notas rápidas deja de funcionar en Windows 11 y nadie sabe la razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/aplicacion-notas-rapidas-deja-funcionar-windows-11-nadie-sabe-razon-1428417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='La aplicación de notas rápidas deja de funcionar en Windows 11 y nadie sabe la razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407'>Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tp-link-re500xd-4270561.jpg?tf=1200x' alt='Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/aliexpress-reta-amazon-robot-aspirador-barato-arraso-black-friday-sigue-oferta-91-euros-1428328'>AliExpress reta a Amazon: el robot aspirador barato que arrasó en el Black Friday sigue en oferta por 91 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/aliexpress-reta-amazon-robot-aspirador-barato-arraso-black-friday-sigue-oferta-91-euros-1428328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lefant-m210-pro-4270448.jpg?tf=1200x' alt='AliExpress reta a Amazon: el robot aspirador barato que arrasó en el Black Friday sigue en oferta por 91 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400'>Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jugador-pc-enfadado-windows-4270552.jpg?tf=1200x' alt='Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft' />
     </a>
 </div>
 
