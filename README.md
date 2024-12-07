@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407'>Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tp-link-re500xd-4270561.jpg?tf=1200x' alt='Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/personaliza-outlook-como-nunca-antes-llegan-descripciones-cuentas-2025-1428414'>Personaliza Outlook como nunca antes: llegan las descripciones de cuentas en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/personaliza-outlook-como-nunca-antes-llegan-descripciones-cuentas-2025-1428414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Personaliza Outlook como nunca antes: llegan las descripciones de cuentas en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413'>YouTube estrena una funcionalidad que te ahorrará mucho tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-4270571.jpg?tf=1200x' alt='YouTube estrena una funcionalidad que te ahorrará mucho tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400'>Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-levanta-bloqueo-actualizacion-windows-11-24h2-estos-juegos-ubisoft-1428400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jugador-pc-enfadado-windows-4270552.jpg?tf=1200x' alt='Microsoft levanta el bloqueo de actualización de Windows 11 24H2 para estos juegos de Ubisoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/falso-coronel-perfil-generado-ia-estafa-23000-euros-mujer-tinder-1420152'>El falso coronel: un perfil generado con IA estafa más de 23.000 euros a una mujer en Tinder</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/falso-coronel-perfil-generado-ia-estafa-23000-euros-mujer-tinder-1420152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/timo-romantico-militar-estadounidense-reino-unido-ntfraudhelpline-4264150.jpg?tf=1200x' alt='El falso coronel: un perfil generado con IA estafa más de 23.000 euros a una mujer en Tinder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzamiento-futuribles-macs-vision-pro-conectividad-5g-1428392'>Apple prepara el lanzamiento de futuribles Macs y Vision Pro con conectividad 5G </a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzamiento-futuribles-macs-vision-pro-conectividad-5g-1428392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/macbook-5g-4270543.jpg?tf=1200x' alt='Apple prepara el lanzamiento de futuribles Macs y Vision Pro con conectividad 5G ' />
     </a>
 </div>
 
