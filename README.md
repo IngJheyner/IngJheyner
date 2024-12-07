@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/buscas-smartwatch-barato-gps-tiene-llamadas-50-euros-1428259'>Si buscas un smartwatch barato con GPS, este tiene más: llamadas, y por 50 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/buscas-smartwatch-barato-gps-tiene-llamadas-50-euros-1428259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cmf-nothing-watch-pro-2-4263836.jpg?tf=1200x' alt='Si buscas un smartwatch barato con GPS, este tiene más: llamadas, y por 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/aplicacion-notas-rapidas-deja-funcionar-windows-11-nadie-sabe-razon-1428417'>La aplicación de notas rápidas deja de funcionar en Windows 11 y nadie sabe la razón</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/aplicacion-notas-rapidas-deja-funcionar-windows-11-nadie-sabe-razon-1428417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='La aplicación de notas rápidas deja de funcionar en Windows 11 y nadie sabe la razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413'>YouTube estrena una funcionalidad que te ahorrará mucho tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-4270571.jpg?tf=1200x' alt='YouTube estrena una funcionalidad que te ahorrará mucho tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/aliexpress-reta-amazon-robot-aspirador-barato-arraso-black-friday-sigue-oferta-91-euros-1428328'>AliExpress reta a Amazon: el robot aspirador barato que arrasó en el Black Friday sigue en oferta por 91 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/aliexpress-reta-amazon-robot-aspirador-barato-arraso-black-friday-sigue-oferta-91-euros-1428328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lefant-m210-pro-4270448.jpg?tf=1200x' alt='AliExpress reta a Amazon: el robot aspirador barato que arrasó en el Black Friday sigue en oferta por 91 euros' />
     </a>
 </div>
 
