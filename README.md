@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-modifique-primero-pasar-x-bluesky-1427201'>Las 7 configuraciones que modifiqué nada más pasar de X a Bluesky</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/configuraciones-modifique-primero-pasar-x-bluesky-1427201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/configurar-bluesky-4268576.jpg?tf=1200x' alt='Las 7 configuraciones que modifiqué nada más pasar de X a Bluesky' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-limpiar-pantalla-televisor-revestimiento-antirreflejos-1426302'>Cómo limpiar la pantalla del televisor sin cargarte el revestimiento antirreflejos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-limpiar-pantalla-televisor-revestimiento-antirreflejos-1426302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/limpiar-tv-4267255.jpg?tf=1200x' alt='Cómo limpiar la pantalla del televisor sin cargarte el revestimiento antirreflejos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-ni-ps5-web-tiene-30000-juegos-gratis-jugar-movil-pc-instalar-nada-1427445'>Ni Nintendo Switch ni PS5, esta web tiene más de 30.000 juegos gratis para jugar en el móvil o PC sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-ni-ps5-web-tiene-30000-juegos-gratis-jugar-movil-pc-instalar-nada-1427445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-playstation-street-fighter-4268947.jpg?tf=1200x' alt='Ni Nintendo Switch ni PS5, esta web tiene más de 30.000 juegos gratis para jugar en el móvil o PC sin instalar nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-canon-eos-r50-video-4k-relacion-calidad-precio-1427758'>Lo mejor de la Canon EOS R50 es el vídeo 4K y su relación calidad-precio (pero sobre todo su precio)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-canon-eos-r50-video-4k-relacion-calidad-precio-1427758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canon-eos-r50-4269485.jpg?tf=1200x' alt='Lo mejor de la Canon EOS R50 es el vídeo 4K y su relación calidad-precio (pero sobre todo su precio)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/molluscan-vieiras-mejillones-ciborg-detectar-polucion-agua-1428332'>Ni sensores ni productos químicos: usan vieiras y mejillones cíborg para detectar la polución del agua</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/molluscan-vieiras-mejillones-ciborg-detectar-polucion-agua-1428332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733530794906-4270461.jpg?tf=1200x' alt='Ni sensores ni productos químicos: usan vieiras y mejillones cíborg para detectar la polución del agua' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-calculado-precio-servicios-streaming-costaria-suscribirse-todos-ellos-1416246'>He calculado el precio de los servicios de streaming y esto es lo que costaría suscribirse a todos ellos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-calculado-precio-servicios-streaming-costaria-suscribirse-todos-ellos-1416246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/precios-plataforma-streaming-video-audio-videojuegos-netflix-spotify-max-prime-video-amazon-music-xbox-ps-plus-4257270.jpg?tf=1200x' alt='He calculado el precio de los servicios de streaming y esto es lo que costaría suscribirse a todos ellos' />
     </a>
 </div>
 
