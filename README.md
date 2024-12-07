@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-alucinante-waze-google-maps-desconocida-1408188'>Ni Google Maps Ni Apple Maps, la alucinante función de Waze que marca la diferencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funcion-alucinante-waze-google-maps-desconocida-1408188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/atento-waze-escuchas-dos-voces-puede-generarte-verdadero-problema-4264883.jpg?tf=1200x' alt='Ni Google Maps Ni Apple Maps, la alucinante función de Waze que marca la diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/lanzamiento-nintendo-switch-2-punto-seria-presentada-lanzada-fecha-1428366'>El lanzamiento de Nintendo Switch 2 a punto: sería presentada y lanzada en esta fecha</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/lanzamiento-nintendo-switch-2-punto-seria-presentada-lanzada-fecha-1428366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='El lanzamiento de Nintendo Switch 2 a punto: sería presentada y lanzada en esta fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082'>¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sirve-algo-flipper-zero-manos-no-experimentadas-juguete-muy-caro-1415082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/flipper-zero-vuelve-aun-peligroso-nuevo-potente-accesorio-4008570.jpg?tf=1200x' alt='¿Sirve Flipper Zero en manos no experimentadas o simplemente es un juguete muy caro?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/megafiltracion-nintendo-switch-2-precio-caracteristicas-fecha-lanzamiento-nuevo-diseno-1428179'>Megafiltración de Nintendo Switch 2: precio, características, fecha de lanzamiento y nuevo diseño</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/megafiltracion-nintendo-switch-2-precio-caracteristicas-fecha-lanzamiento-nuevo-diseno-1428179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/nintendo-switch-2-4266220.jpg?tf=1200x' alt='Megafiltración de Nintendo Switch 2: precio, características, fecha de lanzamiento y nuevo diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/amigo-invisible-2024-chatgpt-gemini-copilot-como-hacer-sorteo-usando-inteligencia-artificial-1427426'>Amigo invisible 2024 con ChatGPT, Gemini o Copilot: cómo hacer el sorteo usando inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/amigo-invisible-2024-chatgpt-gemini-copilot-como-hacer-sorteo-usando-inteligencia-artificial-1427426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amigo-invisible-inteligencia-artificial-4268928.jpg?tf=1200x' alt='Amigo invisible 2024 con ChatGPT, Gemini o Copilot: cómo hacer el sorteo usando inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/pensaba-comprar-dyson-pero-aspiradora-xiaomi-cuesta-mitad-parece-igual-buena-1428255'>Pensaba comprar una Dyson, pero esta aspiradora Xiaomi cuesta la mitad y parece igual de buena</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/pensaba-comprar-dyson-pero-aspiradora-xiaomi-cuesta-mitad-parece-igual-buena-1428255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/xiaomi-g10-plus-4270335.jpg?tf=1200x' alt='Pensaba comprar una Dyson, pero esta aspiradora Xiaomi cuesta la mitad y parece igual de buena' />
     </a>
 </div>
 
