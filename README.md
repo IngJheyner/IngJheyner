@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/adios-viajar-luna-2025-nasa-anuncia-nuevo-retraso-1428496'>Adiós a viajar a la Luna en 2025: la NASA anuncia un nuevo retraso</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/adios-viajar-luna-2025-nasa-anuncia-nuevo-retraso-1428496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-viajar-luna-2025-nasa-anuncia-nuevo-retraso-4270705.jpg?tf=1200x' alt='Adiós a viajar a la Luna en 2025: la NASA anuncia un nuevo retraso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059'>Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/cambiara-completo-microsoft-store-windows-11-mayor-compatibilidad-descargas-rapidas-1428472'>Así cambiará por completo la Microsoft Store en Windows 11: mayor compatibilidad y descargas más rápidas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/cambiara-completo-microsoft-store-windows-11-mayor-compatibilidad-descargas-rapidas-1428472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Así cambiará por completo la Microsoft Store en Windows 11: mayor compatibilidad y descargas más rápidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aurora-x-elon-musk-anuncia-nuevo-generador-imagenes-grok-rompe-barreras-algunas-reglas-1428468'>Aurora de X: Elon Musk anuncia un nuevo generador de imágenes para Grok que rompe barreras (y algunas reglas)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aurora-x-elon-musk-anuncia-nuevo-generador-imagenes-grok-rompe-barreras-algunas-reglas-1428468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/grok-3831857.jpg?tf=1200x' alt='Aurora de X: Elon Musk anuncia un nuevo generador de imágenes para Grok que rompe barreras (y algunas reglas)' />
     </a>
 </div>
 
