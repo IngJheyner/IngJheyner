@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/experto-informatica-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605'>Un experto en informática alerta: "El cifrado de extremo a extremo de WhatsApp protege la privacidad de los mensajes, pero no puede evitar las estafas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/experto-informatica-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-estafa-verificacion-2202253.jpg?tf=1200x' alt='Un experto en informática alerta: "El cifrado de extremo a extremo de WhatsApp protege la privacidad de los mensajes, pero no puede evitar las estafas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895'>Cómo proteger tu escritorio de Windows contra robos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proteccion-windows-4268074.jpg?tf=1200x' alt='Cómo proteger tu escritorio de Windows contra robos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733'>Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/historial-gemini-4267825.jpg?tf=1200x' alt='Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-no-saltarme-ninguno-1427592'>No me fío de los avisos de radares de Google Maps, y tú tampoco deberías: este es mi truco para no saltarme ninguno</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-no-saltarme-ninguno-1427592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-4269181.jpg?tf=1200x' alt='No me fío de los avisos de radares de Google Maps, y tú tampoco deberías: este es mi truco para no saltarme ninguno' />
     </a>
 </div>
 
