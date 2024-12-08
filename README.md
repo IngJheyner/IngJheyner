@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-google-chromecast-1410212'>No tires tu viejo móvil Android, así puedes convertirlo en un Google Chromecast</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-google-chromecast-1410212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/viejo-android-transforma-google-chromecast-4269306.jpg?tf=1200x' alt='No tires tu viejo móvil Android, así puedes convertirlo en un Google Chromecast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/experto-informatica-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605'>Un experto en informática alerta: "El cifrado de extremo a extremo de WhatsApp protege la privacidad de los mensajes, pero no puede evitar las estafas"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/experto-informatica-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-estafa-verificacion-2202253.jpg?tf=1200x' alt='Un experto en informática alerta: "El cifrado de extremo a extremo de WhatsApp protege la privacidad de los mensajes, pero no puede evitar las estafas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/trucos-consejos-liberar-memoria-movil-no-llene-rapidamente-1426443'>Trucos y consejos para liberar la memoria de tu móvil y que no se llene rápidamente</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/trucos-consejos-liberar-memoria-movil-no-llene-rapidamente-1426443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/memoria-movil-4267332.jpg?tf=1200x' alt='Trucos y consejos para liberar la memoria de tu móvil y que no se llene rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733'>Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/historial-gemini-4267825.jpg?tf=1200x' alt='Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google' />
     </a>
 </div>
 
