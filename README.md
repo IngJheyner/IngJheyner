@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883'>Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-4269747.jpg?tf=1200x' alt='Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-llorar-1411551'>Este es el prompt de Sam Altman en ChatGPT que está haciendo llorar a la gente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-llorar-1411551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-invita-usar-prompt-chatgpt-haciendo-llorar-emocionarse-gente-4249190.jpg?tf=1200x' alt='Este es el prompt de Sam Altman en ChatGPT que está haciendo llorar a la gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/pixel-watch-2-desploma-precio-cae-menos-200-euros-oferta-flash-1417130'>El Pixel Watch 2 desploma su precio: cae a menos de 200 euros en oferta flash</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/pixel-watch-2-desploma-precio-cae-menos-200-euros-oferta-flash-1417130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pixel-watch-2-4258759.jpg?tf=1200x' alt='El Pixel Watch 2 desploma su precio: cae a menos de 200 euros en oferta flash' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/nunca-hablamos-cobrar-ello-tim-cook-aclara-dudas-apple-intelligence-1428459'>"Nunca hablamos de cobrar por ello": Tim Cook aclara dudas sobre Apple Intelligence</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/nunca-hablamos-cobrar-ello-tim-cook-aclara-dudas-apple-intelligence-1428459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-intelligence-4270662.jpg?tf=1200x' alt='"Nunca hablamos de cobrar por ello": Tim Cook aclara dudas sobre Apple Intelligence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/funcion-secreta-ios-18-acabara-mareos-coche-1413076'>Adiós a los mareos en el coche: la función secreta de iOS 18 que lo soluciona de manera sencilla</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/funcion-secreta-ios-18-acabara-mareos-coche-1413076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funcion-secreta-ios-18-mareos-coche-4269303.jpg?tf=1200x' alt='Adiós a los mareos en el coche: la función secreta de iOS 18 que lo soluciona de manera sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-ha-estado-recomendando-herramienta-windows-7-plena-era-windows-11-1428419'>Microsoft ha estado recomendando una herramienta de Windows 7 en plena era de Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-ha-estado-recomendando-herramienta-windows-7-plena-era-windows-11-1428419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-7-4270574.jpg?tf=1200x' alt='Microsoft ha estado recomendando una herramienta de Windows 7 en plena era de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-google-chromecast-1410212'>No tires tu viejo móvil Android, así puedes convertirlo en un Google Chromecast</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-google-chromecast-1410212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/viejo-android-transforma-google-chromecast-4269306.jpg?tf=1200x' alt='No tires tu viejo móvil Android, así puedes convertirlo en un Google Chromecast' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/experto-informatica-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605'>Un experto en informática alerta: "El cifrado de extremo a extremo de WhatsApp protege la privacidad de los mensajes, pero no puede evitar las estafas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/experto-informatica-desvela-caemos-estafas-whatsapp-mejor-forma-defenderse-1410605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/01/whatsapp-estafa-verificacion-2202253.jpg?tf=1200x' alt='Un experto en informática alerta: "El cifrado de extremo a extremo de WhatsApp protege la privacidad de los mensajes, pero no puede evitar las estafas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895'>Cómo proteger tu escritorio de Windows contra robos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proteccion-windows-4268074.jpg?tf=1200x' alt='Cómo proteger tu escritorio de Windows contra robos' />
     </a>
 </div>
 
