@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/cambiara-completo-microsoft-store-windows-11-mayor-compatibilidad-descargas-rapidas-1428472'>Así cambiará por completo la Microsoft Store en Windows 11: mayor compatibilidad y descargas más rápidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/cambiara-completo-microsoft-store-windows-11-mayor-compatibilidad-descargas-rapidas-1428472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Así cambiará por completo la Microsoft Store en Windows 11: mayor compatibilidad y descargas más rápidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aurora-x-elon-musk-anuncia-nuevo-generador-imagenes-grok-rompe-barreras-algunas-reglas-1428468'>Aurora de X: Elon Musk anuncia un nuevo generador de imágenes para Grok que rompe barreras (y algunas reglas)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aurora-x-elon-musk-anuncia-nuevo-generador-imagenes-grok-rompe-barreras-algunas-reglas-1428468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/grok-3831857.jpg?tf=1200x' alt='Aurora de X: Elon Musk anuncia un nuevo generador de imágenes para Grok que rompe barreras (y algunas reglas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/no-tiene-ni-agua-compra-seat-600-54-anos-hace-viral-llevarlo-itv-1426686'>"No tiene ni agua": Se compra un Seat 600 de 54 años y se hace viral al llevarlo a la ITV</a></h4>
     <a href='https://computerhoy.20minutos.es/life/no-tiene-ni-agua-compra-seat-600-54-anos-hace-viral-llevarlo-itv-1426686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-teresafurquet-4267757.jpg?tf=1200x' alt='"No tiene ni agua": Se compra un Seat 600 de 54 años y se hace viral al llevarlo a la ITV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883'>Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro</a></h4>
     <a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-4269747.jpg?tf=1200x' alt='Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-llorar-1411551'>Este es el prompt de Sam Altman en ChatGPT que está haciendo llorar a la gente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-prompt-chatgpt-emocionar-llorar-1411551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/sam-altman-invita-usar-prompt-chatgpt-haciendo-llorar-emocionarse-gente-4249190.jpg?tf=1200x' alt='Este es el prompt de Sam Altman en ChatGPT que está haciendo llorar a la gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/pixel-watch-2-desploma-precio-cae-menos-200-euros-oferta-flash-1417130'>El Pixel Watch 2 desploma su precio: cae a menos de 200 euros en oferta flash</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/pixel-watch-2-desploma-precio-cae-menos-200-euros-oferta-flash-1417130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pixel-watch-2-4258759.jpg?tf=1200x' alt='El Pixel Watch 2 desploma su precio: cae a menos de 200 euros en oferta flash' />
     </a>
 </div>
 
