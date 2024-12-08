@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059'>Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-1428491'>Parece una broma, pero no lo es: Apple y Sony se alían para que los mandos de PS VR2 funcionen en Vision Pro</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-1428491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-broma-pero-no-apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-4270697.jpg?tf=1200x' alt='Parece una broma, pero no lo es: Apple y Sony se alían para que los mandos de PS VR2 funcionen en Vision Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/guarda-durante-cuatro-anos-dos-menus-mcdonalds-burger-king-no-da-credito-como-hubiese-pedido-ayer-1420112'>Guarda durante cuatro años dos menús de McDonald's y Burger King y no da crédito: "Es como si las hubiese pedido ayer"</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/guarda-durante-cuatro-anos-dos-menus-mcdonalds-burger-king-no-da-credito-como-hubiese-pedido-ayer-1420112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/influencer-caro-trippar-abriendo-menus-mcdonalds-burger-king-hace-cuatro-anos-4264051.jpg?tf=1200x' alt='Guarda durante cuatro años dos menús de McDonald's y Burger King y no da crédito: "Es como si las hubiese pedido ayer"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aurora-x-elon-musk-anuncia-nuevo-generador-imagenes-grok-rompe-barreras-algunas-reglas-1428468'>Aurora de X: Elon Musk anuncia un nuevo generador de imágenes para Grok que rompe barreras (y algunas reglas)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aurora-x-elon-musk-anuncia-nuevo-generador-imagenes-grok-rompe-barreras-algunas-reglas-1428468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/grok-3831857.jpg?tf=1200x' alt='Aurora de X: Elon Musk anuncia un nuevo generador de imágenes para Grok que rompe barreras (y algunas reglas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-tiene-ni-agua-compra-seat-600-54-anos-hace-viral-llevarlo-itv-1426686'>"No tiene ni agua": Se compra un Seat 600 de 54 años y se hace viral al llevarlo a la ITV</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-tiene-ni-agua-compra-seat-600-54-anos-hace-viral-llevarlo-itv-1426686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-teresafurquet-4267757.jpg?tf=1200x' alt='"No tiene ni agua": Se compra un Seat 600 de 54 años y se hace viral al llevarlo a la ITV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prepara-funcion-esperada-configurar-webcam-windows-11-1428461'>Microsoft prepara la función más esperada para configurar la webcam en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-prepara-funcion-esperada-configurar-webcam-windows-11-1428461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Microsoft prepara la función más esperada para configurar la webcam en Windows 11' />
     </a>
 </div>
 
