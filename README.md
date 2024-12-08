@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-tiene-ni-agua-compra-seat-600-54-anos-hace-viral-llevarlo-itv-1426686'>"No tiene ni agua": Se compra un Seat 600 de 54 años y se hace viral al llevarlo a la ITV</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-tiene-ni-agua-compra-seat-600-54-anos-hace-viral-llevarlo-itv-1426686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-teresafurquet-4267757.jpg?tf=1200x' alt='"No tiene ni agua": Se compra un Seat 600 de 54 años y se hace viral al llevarlo a la ITV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prepara-funcion-esperada-configurar-webcam-windows-11-1428461'>Microsoft prepara la función más esperada para configurar la webcam en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-prepara-funcion-esperada-configurar-webcam-windows-11-1428461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Microsoft prepara la función más esperada para configurar la webcam en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883'>Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro</a></h4>
     <a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-4269747.jpg?tf=1200x' alt='Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/pixel-watch-2-desploma-precio-cae-menos-200-euros-oferta-flash-1417130'>El Pixel Watch 2 desploma su precio: cae a menos de 200 euros en oferta flash</a></h4>
     <a href='https://computerhoy.20minutos.es/google/pixel-watch-2-desploma-precio-cae-menos-200-euros-oferta-flash-1417130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pixel-watch-2-4258759.jpg?tf=1200x' alt='El Pixel Watch 2 desploma su precio: cae a menos de 200 euros en oferta flash' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/nunca-hablamos-cobrar-ello-tim-cook-aclara-dudas-apple-intelligence-1428459'>"Nunca hablamos de cobrar por ello": Tim Cook aclara dudas sobre Apple Intelligence</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/nunca-hablamos-cobrar-ello-tim-cook-aclara-dudas-apple-intelligence-1428459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-intelligence-4270662.jpg?tf=1200x' alt='"Nunca hablamos de cobrar por ello": Tim Cook aclara dudas sobre Apple Intelligence' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/funcion-secreta-ios-18-acabara-mareos-coche-1413076'>Adiós a los mareos en el coche: la función secreta de iOS 18 que lo soluciona de manera sencilla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/funcion-secreta-ios-18-acabara-mareos-coche-1413076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funcion-secreta-ios-18-mareos-coche-4269303.jpg?tf=1200x' alt='Adiós a los mareos en el coche: la función secreta de iOS 18 que lo soluciona de manera sencilla' />
     </a>
 </div>
 
