@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pregunta-magica-debes-hacerle-siempre-chatgpt-no-equivoque-nunca-experto-1427436'>La pregunta mágica que debes hacerle siempre a ChatGPT para que no se equivoque nunca, según un experto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pregunta-magica-debes-hacerle-siempre-chatgpt-no-equivoque-nunca-experto-1427436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pregunta-magica-debes-hacerle-siempre-chatgpt-no-equivoque-nunca-experto-4268908.jpg?tf=1200x' alt='La pregunta mágica que debes hacerle siempre a ChatGPT para que no se equivoque nunca, según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pronto-cambiare-lector-ebooks-tablet-tinta-electronica-puede-ser-sustituta-1427626'>Pronto cambiaré de lector de ebooks y esta tablet con tinta electrónica puede ser su sustituta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pronto-cambiare-lector-ebooks-tablet-tinta-electronica-puede-ser-sustituta-1427626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-color-7-4115165.jpg?tf=1200x' alt='Pronto cambiaré de lector de ebooks y esta tablet con tinta electrónica puede ser su sustituta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/buscas-smartwatch-barato-gps-tiene-llamadas-50-euros-1428259'>Si buscas un smartwatch barato con GPS, este tiene más: llamadas, y por 50 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/buscas-smartwatch-barato-gps-tiene-llamadas-50-euros-1428259' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cmf-nothing-watch-pro-2-4263836.jpg?tf=1200x' alt='Si buscas un smartwatch barato con GPS, este tiene más: llamadas, y por 50 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407'>Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tp-link-re500xd-4270561.jpg?tf=1200x' alt='Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/personaliza-outlook-como-nunca-antes-llegan-descripciones-cuentas-2025-1428414'>Personaliza Outlook como nunca antes: llegan las descripciones de cuentas en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/personaliza-outlook-como-nunca-antes-llegan-descripciones-cuentas-2025-1428414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/correo-electronico-outlook-3003844.jpg?tf=1200x' alt='Personaliza Outlook como nunca antes: llegan las descripciones de cuentas en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413'>YouTube estrena una funcionalidad que te ahorrará mucho tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-estrena-funcionalidad-te-ahorrara-mucho-tiempo-1428413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-4270571.jpg?tf=1200x' alt='YouTube estrena una funcionalidad que te ahorrará mucho tiempo' />
     </a>
 </div>
 
