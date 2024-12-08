@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/guarda-durante-cuatro-anos-dos-menus-mcdonalds-burger-king-no-da-credito-como-hubiese-pedido-ayer-1420112'>Guarda durante cuatro años dos menús de McDonald's y Burger King y no da crédito: "Es como si las hubiese pedido ayer"</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/guarda-durante-cuatro-anos-dos-menus-mcdonalds-burger-king-no-da-credito-como-hubiese-pedido-ayer-1420112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/influencer-caro-trippar-abriendo-menus-mcdonalds-burger-king-hace-cuatro-anos-4264051.jpg?tf=1200x' alt='Guarda durante cuatro años dos menús de McDonald's y Burger King y no da crédito: "Es como si las hubiese pedido ayer"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/cambiara-completo-microsoft-store-windows-11-mayor-compatibilidad-descargas-rapidas-1428472'>Así cambiará por completo la Microsoft Store en Windows 11: mayor compatibilidad y descargas más rápidas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/cambiara-completo-microsoft-store-windows-11-mayor-compatibilidad-descargas-rapidas-1428472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/nueva-microsoft-store-3202512.jpg?tf=1200x' alt='Así cambiará por completo la Microsoft Store en Windows 11: mayor compatibilidad y descargas más rápidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prepara-funcion-esperada-configurar-webcam-windows-11-1428461'>Microsoft prepara la función más esperada para configurar la webcam en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-prepara-funcion-esperada-configurar-webcam-windows-11-1428461' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Microsoft prepara la función más esperada para configurar la webcam en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883'>Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-1427883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antes-tiraba-cajas-envios-amazon-ahora-han-convertido-tesoro-4269747.jpg?tf=1200x' alt='Antes tiraba las cajas de los envíos de Amazon, ahora se han convertido en un tesoro' />
     </a>
 </div>
 
