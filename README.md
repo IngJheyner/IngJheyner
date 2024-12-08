@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/funcion-secreta-ios-18-acabara-mareos-coche-1413076'>Adiós a los mareos en el coche: la función secreta de iOS 18 que lo soluciona de manera sencilla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/funcion-secreta-ios-18-acabara-mareos-coche-1413076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funcion-secreta-ios-18-mareos-coche-4269303.jpg?tf=1200x' alt='Adiós a los mareos en el coche: la función secreta de iOS 18 que lo soluciona de manera sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-ha-estado-recomendando-herramienta-windows-7-plena-era-windows-11-1428419'>Microsoft ha estado recomendando una herramienta de Windows 7 en plena era de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-ha-estado-recomendando-herramienta-windows-7-plena-era-windows-11-1428419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-7-4270574.jpg?tf=1200x' alt='Microsoft ha estado recomendando una herramienta de Windows 7 en plena era de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-google-chromecast-1410212'>No tires tu viejo móvil Android, así puedes convertirlo en un Google Chromecast</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-viejo-movil-android-google-chromecast-1410212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/viejo-android-transforma-google-chromecast-4269306.jpg?tf=1200x' alt='No tires tu viejo móvil Android, así puedes convertirlo en un Google Chromecast' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895'>Cómo proteger tu escritorio de Windows contra robos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proteccion-windows-4268074.jpg?tf=1200x' alt='Cómo proteger tu escritorio de Windows contra robos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-alquiler-quiero-alarma-pero-no-pagar-cuotas-me-he-decantado-189-euros-sensores-puertas-ventanas-1427660'>Vivo de alquiler y quiero una alarma, pero no pagar cuotas: me he decantado por esta de 189 euros con sensores de puertas y ventanas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vivo-alquiler-quiero-alarma-pero-no-pagar-cuotas-me-he-decantado-189-euros-sensores-puertas-ventanas-1427660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/eufy-alarma-4269289.jpg?tf=1200x' alt='Vivo de alquiler y quiero una alarma, pero no pagar cuotas: me he decantado por esta de 189 euros con sensores de puertas y ventanas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/trucos-consejos-liberar-memoria-movil-no-llene-rapidamente-1426443'>Trucos y consejos para liberar la memoria de tu móvil y que no se llene rápidamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/trucos-consejos-liberar-memoria-movil-no-llene-rapidamente-1426443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/memoria-movil-4267332.jpg?tf=1200x' alt='Trucos y consejos para liberar la memoria de tu móvil y que no se llene rápidamente' />
     </a>
 </div>
 
