@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pregunta-magica-debes-hacerle-siempre-chatgpt-no-equivoque-nunca-experto-1427436'>La pregunta mágica que debes hacerle siempre a ChatGPT para que no se equivoque nunca, según un experto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pregunta-magica-debes-hacerle-siempre-chatgpt-no-equivoque-nunca-experto-1427436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pregunta-magica-debes-hacerle-siempre-chatgpt-no-equivoque-nunca-experto-4268908.jpg?tf=1200x' alt='La pregunta mágica que debes hacerle siempre a ChatGPT para que no se equivoque nunca, según un experto' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733'>Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/historial-gemini-4267825.jpg?tf=1200x' alt='Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pronto-cambiare-lector-ebooks-tablet-tinta-electronica-puede-ser-sustituta-1427626'>Pronto cambiaré de lector de ebooks y esta tablet con tinta electrónica puede ser su sustituta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pronto-cambiare-lector-ebooks-tablet-tinta-electronica-puede-ser-sustituta-1427626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/boox-go-color-7-4115165.jpg?tf=1200x' alt='Pronto cambiaré de lector de ebooks y esta tablet con tinta electrónica puede ser su sustituta' />
+    <h4><a href='https://computerhoy.20minutos.es/google/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-no-saltarme-ninguno-1427592'>No me fío de los avisos de radares de Google Maps, y tú tampoco deberías: este es mi truco para no saltarme ninguno</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-no-saltarme-ninguno-1427592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-4269181.jpg?tf=1200x' alt='No me fío de los avisos de radares de Google Maps, y tú tampoco deberías: este es mi truco para no saltarme ninguno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/buscas-smartwatch-barato-gps-tiene-llamadas-50-euros-1428259'>Si buscas un smartwatch barato con GPS, este tiene más: llamadas, y por 50 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/buscas-smartwatch-barato-gps-tiene-llamadas-50-euros-1428259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cmf-nothing-watch-pro-2-4263836.jpg?tf=1200x' alt='Si buscas un smartwatch barato con GPS, este tiene más: llamadas, y por 50 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/showos-windows-11-modificado-dando-tanto-hablar-1419772'>¿Qué es ShowOS y por qué este Windows 11 modificado está dando tanto de qué hablar?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/showos-windows-11-modificado-dando-tanto-hablar-1419772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/showos-4269933.jpg?tf=1200x' alt='¿Qué es ShowOS y por qué este Windows 11 modificado está dando tanto de qué hablar?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/aplicacion-notas-rapidas-deja-funcionar-windows-11-nadie-sabe-razon-1428417'>La aplicación de notas rápidas deja de funcionar en Windows 11 y nadie sabe la razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/aplicacion-notas-rapidas-deja-funcionar-windows-11-nadie-sabe-razon-1428417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/notas-rapidas-windows-11-3266827.jpg?tf=1200x' alt='La aplicación de notas rápidas deja de funcionar en Windows 11 y nadie sabe la razón' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/brick-my-world-convierte-cualquier-objeto-figura-lego-usando-ia-1428430'>Esta app convierte cualquier objeto es una figura de LEGO usando IA, con instrucciones para construirlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/brick-my-world-convierte-cualquier-objeto-figura-lego-usando-ia-1428430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733615783105-4270622.jpg?tf=1200x' alt='Esta app convierte cualquier objeto es una figura de LEGO usando IA, con instrucciones para construirlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407'>Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/acabaron-problemas-wifi-repetidor-wifi-6-soluciona-vez-todas-1428407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tp-link-re500xd-4270561.jpg?tf=1200x' alt='Se acabaron los problemas con el WiFi: este repetidor con WiFi 6 los soluciona de una vez por todas' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/7-trucos-bombillas-inteligentes-philips-hue-he-aprendido-anos-uso-1417894'>7 trucos con las bombillas inteligentes Philips Hue que he aprendido tras años de uso</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/7-trucos-bombillas-inteligentes-philips-hue-he-aprendido-anos-uso-1417894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/philips-hue-4260112.jpg?tf=1200x' alt='7 trucos con las bombillas inteligentes Philips Hue que he aprendido tras años de uso' />
     </a>
 </div>
 
