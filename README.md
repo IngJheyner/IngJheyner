@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-1428504'>La OTAN va a usar drones acuáticos autónomos para vigilar los cables submarinos</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-1428504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-4270745.jpg?tf=1200x' alt='La OTAN va a usar drones acuáticos autónomos para vigilar los cables submarinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/stardew-valley--mejor-juego-reducir-estres-psicologo-1428499'>Ni Animal Crossing ni Pokémon: este es el mejor juego para reducir el estrés, según un psicólogo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/stardew-valley--mejor-juego-reducir-estres-psicologo-1428499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/stardew-valley.jpg?tf=1200x' alt='Ni Animal Crossing ni Pokémon: este es el mejor juego para reducir el estrés, según un psicólogo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-1428491'>Parece una broma, pero no lo es: Apple y Sony se alían para que los mandos de PS VR2 funcionen en Vision Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-1428491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-broma-pero-no-apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-4270697.jpg?tf=1200x' alt='Parece una broma, pero no lo es: Apple y Sony se alían para que los mandos de PS VR2 funcionen en Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/guarda-durante-cuatro-anos-dos-menus-mcdonalds-burger-king-no-da-credito-como-hubiese-pedido-ayer-1420112'>Guarda durante cuatro años dos menús de McDonald's y Burger King y no da crédito: "Es como si las hubiese pedido ayer"</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/guarda-durante-cuatro-anos-dos-menus-mcdonalds-burger-king-no-da-credito-como-hubiese-pedido-ayer-1420112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/influencer-caro-trippar-abriendo-menus-mcdonalds-burger-king-hace-cuatro-anos-4264051.jpg?tf=1200x' alt='Guarda durante cuatro años dos menús de McDonald's y Burger King y no da crédito: "Es como si las hubiese pedido ayer"' />
     </a>
 </div>
 
