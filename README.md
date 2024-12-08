@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895'>Cómo proteger tu escritorio de Windows contra robos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-proteger-escritorio-windows-robos-1426895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proteccion-windows-4268074.jpg?tf=1200x' alt='Cómo proteger tu escritorio de Windows contra robos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-alquiler-quiero-alarma-pero-no-pagar-cuotas-me-he-decantado-189-euros-sensores-puertas-ventanas-1427660'>Vivo de alquiler y quiero una alarma, pero no pagar cuotas: me he decantado por esta de 189 euros con sensores de puertas y ventanas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vivo-alquiler-quiero-alarma-pero-no-pagar-cuotas-me-he-decantado-189-euros-sensores-puertas-ventanas-1427660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/eufy-alarma-4269289.jpg?tf=1200x' alt='Vivo de alquiler y quiero una alarma, pero no pagar cuotas: me he decantado por esta de 189 euros con sensores de puertas y ventanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/trucos-consejos-liberar-memoria-movil-no-llene-rapidamente-1426443'>Trucos y consejos para liberar la memoria de tu móvil y que no se llene rápidamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/trucos-consejos-liberar-memoria-movil-no-llene-rapidamente-1426443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/memoria-movil-4267332.jpg?tf=1200x' alt='Trucos y consejos para liberar la memoria de tu móvil y que no se llene rápidamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733'>Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/borrar-historial-gemini-como-eliminar-consultar-todo-has-preguntado-ia-google-1426733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/historial-gemini-4267825.jpg?tf=1200x' alt='Borrar el historial de Gemini: cómo eliminar y consultar todo lo que le has preguntado a la IA de Google' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-no-saltarme-ninguno-1427592'>No me fío de los avisos de radares de Google Maps, y tú tampoco deberías: este es mi truco para no saltarme ninguno</a></h4>
     <a href='https://computerhoy.20minutos.es/google/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-no-saltarme-ninguno-1427592' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-me-fio-avisos-radares-google-maps-tampoco-deberias-mi-truco-4269181.jpg?tf=1200x' alt='No me fío de los avisos de radares de Google Maps, y tú tampoco deberías: este es mi truco para no saltarme ninguno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/showos-windows-11-modificado-dando-tanto-hablar-1419772'>¿Qué es ShowOS y por qué este Windows 11 modificado está dando tanto de qué hablar?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/showos-windows-11-modificado-dando-tanto-hablar-1419772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/showos-4269933.jpg?tf=1200x' alt='¿Qué es ShowOS y por qué este Windows 11 modificado está dando tanto de qué hablar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/brick-my-world-convierte-cualquier-objeto-figura-lego-usando-ia-1428430'>Esta app convierte cualquier objeto es una figura de LEGO usando IA, con instrucciones para construirlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/brick-my-world-convierte-cualquier-objeto-figura-lego-usando-ia-1428430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733615783105-4270622.jpg?tf=1200x' alt='Esta app convierte cualquier objeto es una figura de LEGO usando IA, con instrucciones para construirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/7-trucos-bombillas-inteligentes-philips-hue-he-aprendido-anos-uso-1417894'>7 trucos con las bombillas inteligentes Philips Hue que he aprendido tras años de uso</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/7-trucos-bombillas-inteligentes-philips-hue-he-aprendido-anos-uso-1417894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/philips-hue-4260112.jpg?tf=1200x' alt='7 trucos con las bombillas inteligentes Philips Hue que he aprendido tras años de uso' />
     </a>
 </div>
 
