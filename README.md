@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/whatsapp-cree-gente-pasa-olimpicamente-mirar-estados-quiere-solucionarlo-1428589'>WhatsApp cree que la gente pasa olímpicamente de mirar sus Estados, y así quiere solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/whatsapp-cree-gente-pasa-olimpicamente-mirar-estados-quiere-solucionarlo-1428589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='WhatsApp cree que la gente pasa olímpicamente de mirar sus Estados, y así quiere solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-apunta-cielos-submarinos-armas-laser-derribar-satelites-elon-musk-1428543'>China apunta a los cielos: submarinos con armas láser para derribar los satélites de Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-apunta-cielos-submarinos-armas-laser-derribar-satelites-elon-musk-1428543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-submarinos-starlink-4270862.jpg?tf=1200x' alt='China apunta a los cielos: submarinos con armas láser para derribar los satélites de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/cinco-meses-carcel-suscribirse-servicio-iptv-pirata-1428584'>Cinco meses de cárcel por suscribirse a un servicio de IPTV pirata</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/cinco-meses-carcel-suscribirse-servicio-iptv-pirata-1428584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cinco-meses-carcel-suscribirse-servicio-iptv-pirata-4270878.jpg?tf=1200x' alt='Cinco meses de cárcel por suscribirse a un servicio de IPTV pirata' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-10-cambios-debe-hacer-microsoft-te-pases-windows-11-1428542'>Adiós a Windows 10: ¿Qué cambios debe hacer Microsoft para que te pases a Windows 11?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-windows-10-cambios-debe-hacer-microsoft-te-pases-windows-11-1428542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-cambia-forma-vamos-actualizar-windows-11-3759520.jpg?tf=1200x' alt='Adiós a Windows 10: ¿Qué cambios debe hacer Microsoft para que te pases a Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-ordenador-cuantico-mucho-potente-1428557'>China se ha adelantado a Google con un ordenador cuántico mucho más potente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-ordenador-cuantico-mucho-potente-1428557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-cuantico-4270849.jpg?tf=1200x' alt='China se ha adelantado a Google con un ordenador cuántico mucho más potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-pro-novedades-confirmadas-todo-ya-sabemos-proximo-iphone-1428541'>iPhone 17 Pro: novedades confirmadas y todo lo que ya sabemos del próximo iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-pro-novedades-confirmadas-todo-ya-sabemos-proximo-iphone-1428541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-4056498.jpg?tf=1200x' alt='iPhone 17 Pro: novedades confirmadas y todo lo que ya sabemos del próximo iPhone' />
     </a>
 </div>
 
