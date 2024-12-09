@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/buen-intento-apple-pero-echo-menos-jugar-pc-300-euros-sera-mi-proxima-compra-1427645'>Buen intento, Apple, pero echo de menos jugar: este PC de 300 euros será mi próxima compra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/buen-intento-apple-pero-echo-menos-jugar-pc-300-euros-sera-mi-proxima-compra-1427645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acemagician-amr5-3254302.jpg?tf=1200x' alt='Buen intento, Apple, pero echo de menos jugar: este PC de 300 euros será mi próxima compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-ia-podria-perseguir-objetivos-propios-saltarse-control-humano-1428538'>Giro de 180 grados en OpenAI: su IA podría perseguir objetivos propios y saltarse el control humano</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-ia-podria-perseguir-objetivos-propios-saltarse-control-humano-1428538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-control-humano-4270836.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: su IA podría perseguir objetivos propios y saltarse el control humano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118'>Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/arenero-gato-4268445.jpg?tf=1200x' alt='Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479'>Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejores-juegos-pc-4267391.jpg?tf=1200x' alt='Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming' />
     </a>
 </div>
 
