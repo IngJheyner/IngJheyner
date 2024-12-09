@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-inteligencia-artificial-detectando-casos-cancer-mama-1428630'>Según un estudio la inteligencia artificial está detectando más casos de cáncer de mama</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-inteligencia-artificial-detectando-casos-cancer-mama-1428630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estudio-inteligencia-artificial-detectando-casos-cancer-mama-4270994.jpg?tf=1200x' alt='Según un estudio la inteligencia artificial está detectando más casos de cáncer de mama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646'>La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-intelligence-4270662.jpg?tf=1200x' alt='La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/detenidos-abuelos-iptv-suman-215-anos-hicieron-ricos-apps-secretas-ver-peliculas-series-gratis-iphone-1428580'>Detenidos los "abuelos de las IPTV": suman 215 años y se hicieron ricos con apps secretas para ver películas y series gratis en el iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/detenidos-abuelos-iptv-suman-215-anos-hicieron-ricos-apps-secretas-ver-peliculas-series-gratis-iphone-1428580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/abuelos-iphone-4270950.jpg?tf=1200x' alt='Detenidos los "abuelos de las IPTV": suman 215 años y se hicieron ricos con apps secretas para ver películas y series gratis en el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/repente-chrome-abre-pagina-navegador-estas-problema-1428544'>Si de repente Chrome abre esta página en tu navegador, estás en un problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/repente-chrome-abre-pagina-navegador-estas-problema-1428544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-google-chrome-4262783.jpg?tf=1200x' alt='Si de repente Chrome abre esta página en tu navegador, estás en un problema' />
     </a>
 </div>
 
