@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966'>Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/encender-pc-4268184.jpg?tf=1200x' alt='Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-saber-ubicacion-cualquier-movil-tan-solo-marcar-numero-1426675'>Así puedes saber la ubicación de cualquier móvil con tan solo marcar su número</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-saber-ubicacion-cualquier-movil-tan-solo-marcar-numero-1426675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/localizar-movil-gps-4267695.jpg?tf=1200x' alt='Así puedes saber la ubicación de cualquier móvil con tan solo marcar su número' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-zona-contaminada-madrid-repente-gastarme-700-euros-purificador-dyson-no-me-parece-locura-1427653'>Vivo en la zona más contaminada de Madrid y, de repente, gastarme 700 euros en el purificador de Dyson no me parece una locura</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vivo-zona-contaminada-madrid-repente-gastarme-700-euros-purificador-dyson-no-me-parece-locura-1427653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dyson-purifier-hotcool-formaldehyde-hp09-4269272.jpg?tf=1200x' alt='Vivo en la zona más contaminada de Madrid y, de repente, gastarme 700 euros en el purificador de Dyson no me parece una locura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/tipo-usuarios-complicado-abandonar-windows-10-1427134'>¿Por qué a este tipo de usuarios en concreto le está resultando tan complicado abandonar Windows 10?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/tipo-usuarios-complicado-abandonar-windows-10-1427134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-instalar-windows-11-4269059.jpg?tf=1200x' alt='¿Por qué a este tipo de usuarios en concreto le está resultando tan complicado abandonar Windows 10?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-caracteristicas-google-gemini-mejor-chatgpt-1427351'>5 características en las que Google Gemini es mejor que ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/5-caracteristicas-google-gemini-mejor-chatgpt-1427351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gemini-chatgpt-4268817.jpg?tf=1200x' alt='5 características en las que Google Gemini es mejor que ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/become-anyone-mascara-pantalla-led-cambia-cara-1428506'>Esta máscara con pantalla LED cambia tu cara para que vivas otras vidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/become-anyone-mascara-pantalla-led-cambia-cara-1428506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mascara-pantalla-led-cambia-cara-vivas-otras-vidas-4270750.jpg?tf=1200x' alt='Esta máscara con pantalla LED cambia tu cara para que vivas otras vidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-1428504'>La OTAN va a usar drones acuáticos autónomos para vigilar los cables submarinos</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-1428504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-4270745.jpg?tf=1200x' alt='La OTAN va a usar drones acuáticos autónomos para vigilar los cables submarinos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/stardew-valley--mejor-juego-reducir-estres-psicologo-1428499'>Ni Animal Crossing ni Pokémon: este es el mejor juego para reducir el estrés, según un psicólogo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/stardew-valley--mejor-juego-reducir-estres-psicologo-1428499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/stardew-valley.jpg?tf=1200x' alt='Ni Animal Crossing ni Pokémon: este es el mejor juego para reducir el estrés, según un psicólogo' />
     </a>
 </div>
 
