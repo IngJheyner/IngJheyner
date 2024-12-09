@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-gta-ni-last-us-juego-lleva-12-anos-desarrollo-ha-recaudado-750-millones-dolares-pero-sigue-salir-mercado-1428625'>Ni GTA ni The Last of Us, este juego lleva 12 años de desarrollo, ha recaudado 750 millones de dólares, pero sigue sin salir al mercado</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-gta-ni-last-us-juego-lleva-12-anos-desarrollo-ha-recaudado-750-millones-dolares-pero-sigue-salir-mercado-1428625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/videojuego-ha-recaudado-750-millones-dolares-crowdfunding-12-anos-desarrollo-pero-sigue-salir-mercado-4270960.jpg?tf=1200x' alt='Ni GTA ni The Last of Us, este juego lleva 12 años de desarrollo, ha recaudado 750 millones de dólares, pero sigue sin salir al mercado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602'>Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-4270936.jpg?tf=1200x' alt='Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646'>La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-intelligence-4270662.jpg?tf=1200x' alt='La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-1428608'>Presentan a ChatGPT a las pruebas para el grado de física y estos son sus increíbles resultados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-1428608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-4270946.jpg?tf=1200x' alt='Presentan a ChatGPT a las pruebas para el grado de física y estos son sus increíbles resultados' />
     </a>
 </div>
 
