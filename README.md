@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646'>La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-intelligence-4270662.jpg?tf=1200x' alt='La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-1428608'>Presentan a ChatGPT a las pruebas para el grado de física y estos son sus increíbles resultados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-1428608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-4270946.jpg?tf=1200x' alt='Presentan a ChatGPT a las pruebas para el grado de física y estos son sus increíbles resultados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/repente-chrome-abre-pagina-navegador-estas-problema-1428544'>Si de repente Chrome abre esta página en tu navegador, estás en un problema</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/repente-chrome-abre-pagina-navegador-estas-problema-1428544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/errores-google-chrome-4262783.jpg?tf=1200x' alt='Si de repente Chrome abre esta página en tu navegador, estás en un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/whatsapp-cree-gente-pasa-olimpicamente-mirar-estados-quiere-solucionarlo-1428589'>WhatsApp cree que la gente pasa olímpicamente de mirar sus Estados, y así quiere solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/whatsapp-cree-gente-pasa-olimpicamente-mirar-estados-quiere-solucionarlo-1428589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='WhatsApp cree que la gente pasa olímpicamente de mirar sus Estados, y así quiere solucionarlo' />
     </a>
 </div>
 
