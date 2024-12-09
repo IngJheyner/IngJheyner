@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602'>Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-4270936.jpg?tf=1200x' alt='Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-1428677'>Ni Google ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-1428677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-4271142.jpg?tf=1200x' alt='Ni Google ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-inteligencia-artificial-detectando-casos-cancer-mama-1428630'>Según un estudio la inteligencia artificial está detectando más casos de cáncer de mama</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-inteligencia-artificial-detectando-casos-cancer-mama-1428630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estudio-inteligencia-artificial-detectando-casos-cancer-mama-4270994.jpg?tf=1200x' alt='Según un estudio la inteligencia artificial está detectando más casos de cáncer de mama' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-1428608'>Presentan a ChatGPT a las pruebas para el grado de física y estos son sus increíbles resultados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-1428608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/presentan-chatgpt-pruebas-grado-fisica-estos-son-increibles-resultados-4270946.jpg?tf=1200x' alt='Presentan a ChatGPT a las pruebas para el grado de física y estos son sus increíbles resultados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-construir-mastodontica-central-electrica-grande-europa-1426278'>Este es el lugar de España elegido para construir una mastodóntica central eléctrica, la más grande de Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-construir-mastodontica-central-electrica-grande-europa-1426278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/central-hidroelectrica-bombeo-4267070.jpg?tf=1200x' alt='Este es el lugar de España elegido para construir una mastodóntica central eléctrica, la más grande de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/detenidos-abuelos-iptv-suman-215-anos-hicieron-ricos-apps-secretas-ver-peliculas-series-gratis-iphone-1428580'>Detenidos los "abuelos de las IPTV": suman 215 años y se hicieron ricos con apps secretas para ver películas y series gratis en el iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/detenidos-abuelos-iptv-suman-215-anos-hicieron-ricos-apps-secretas-ver-peliculas-series-gratis-iphone-1428580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/abuelos-iphone-4270950.jpg?tf=1200x' alt='Detenidos los "abuelos de las IPTV": suman 215 años y se hicieron ricos con apps secretas para ver películas y series gratis en el iPhone' />
     </a>
 </div>
 
