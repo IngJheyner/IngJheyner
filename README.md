@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654'>Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-fraude-4271018.jpg?tf=1200x' alt='Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/george-rr-martin-creador-juego-tronos-fin-vientos-invierno-1428738'>George R.R. Martin, creador de Juego de Tronos, pesimista sobre el fin de la saga: "tal vez tengan razón"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/george-rr-martin-creador-juego-tronos-fin-vientos-invierno-1428738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin, creador de Juego de Tronos, pesimista sobre el fin de la saga: "tal vez tengan razón"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-motivo-jamas-deberias-volver-enrollar-cable-cargador-1428718'>Ni en iPhone ni en Android, este es el motivo por el que jamás deberías volver a enrollar el cable en el cargador</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-motivo-jamas-deberias-volver-enrollar-cable-cargador-1428718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-iphone-ni-android-motivo-jamas-deberias-volver-enrollar-cable-cargador-4271185.jpg?tf=1200x' alt='Ni en iPhone ni en Android, este es el motivo por el que jamás deberías volver a enrollar el cable en el cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-gta-ni-last-us-juego-lleva-12-anos-desarrollo-ha-recaudado-750-millones-dolares-pero-sigue-salir-mercado-1428625'>Ni GTA ni The Last of Us, este juego lleva 12 años de desarrollo, ha recaudado 750 millones de dólares, pero sigue sin salir al mercado</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-gta-ni-last-us-juego-lleva-12-anos-desarrollo-ha-recaudado-750-millones-dolares-pero-sigue-salir-mercado-1428625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/videojuego-ha-recaudado-750-millones-dolares-crowdfunding-12-anos-desarrollo-pero-sigue-salir-mercado-4270960.jpg?tf=1200x' alt='Ni GTA ni The Last of Us, este juego lleva 12 años de desarrollo, ha recaudado 750 millones de dólares, pero sigue sin salir al mercado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602'>Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-4270936.jpg?tf=1200x' alt='Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-1428677'>Ni Google ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-1428677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-4271142.jpg?tf=1200x' alt='Ni Google ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-inteligencia-artificial-detectando-casos-cancer-mama-1428630'>Según un estudio la inteligencia artificial está detectando más casos de cáncer de mama</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-inteligencia-artificial-detectando-casos-cancer-mama-1428630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estudio-inteligencia-artificial-detectando-casos-cancer-mama-4270994.jpg?tf=1200x' alt='Según un estudio la inteligencia artificial está detectando más casos de cáncer de mama' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646'>La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/proxima-tanda-funciones-ia-iphone-ya-aqui-son-alucinantes-1428646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-intelligence-4270662.jpg?tf=1200x' alt='La próxima tanda de funciones IA para tu iPhone ya está aquí, y son alucinantes' />
     </a>
 </div>
 
