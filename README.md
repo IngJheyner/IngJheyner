@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118'>Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/arenero-gato-4268445.jpg?tf=1200x' alt='Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479'>Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejores-juegos-pc-4267391.jpg?tf=1200x' alt='Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/oppo-find-x8-pro-1427928'>Tras probar el Oppo Find X8 Pro creo que ha merecido la pena la espera y se convierte en uno de los mejores móviles del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/oppo-find-x8-pro-1427928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oppo-find-x8-pro-4269958.jpg?tf=1200x' alt='Tras probar el Oppo Find X8 Pro creo que ha merecido la pena la espera y se convierte en uno de los mejores móviles del año' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966'>Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/encender-pc-4268184.jpg?tf=1200x' alt='Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-saber-ubicacion-cualquier-movil-tan-solo-marcar-numero-1426675'>Así puedes saber la ubicación de cualquier móvil con tan solo marcar su número</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-saber-ubicacion-cualquier-movil-tan-solo-marcar-numero-1426675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/localizar-movil-gps-4267695.jpg?tf=1200x' alt='Así puedes saber la ubicación de cualquier móvil con tan solo marcar su número' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-zona-contaminada-madrid-repente-gastarme-700-euros-purificador-dyson-no-me-parece-locura-1427653'>Vivo en la zona más contaminada de Madrid y, de repente, gastarme 700 euros en el purificador de Dyson no me parece una locura</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vivo-zona-contaminada-madrid-repente-gastarme-700-euros-purificador-dyson-no-me-parece-locura-1427653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dyson-purifier-hotcool-formaldehyde-hp09-4269272.jpg?tf=1200x' alt='Vivo en la zona más contaminada de Madrid y, de repente, gastarme 700 euros en el purificador de Dyson no me parece una locura' />
     </a>
 </div>
 
