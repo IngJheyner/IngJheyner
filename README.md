@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/mercedes-benz-pintura-solar-coche-electrico-20000-km-gratis-1428766'>Una pintura para el coche de Mercedes-Benz permite conducir 20.000 Km gratis al año, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/mercedes-benz-pintura-solar-coche-electrico-20000-km-gratis-1428766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733775085069-4271196.jpg?tf=1200x' alt='Una pintura para el coche de Mercedes-Benz permite conducir 20.000 Km gratis al año, lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752'>Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654'>Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-fraude-4271018.jpg?tf=1200x' alt='Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/george-rr-martin-creador-juego-tronos-fin-vientos-invierno-1428738'>George R.R. Martin, creador de Juego de Tronos, pesimista sobre el fin de la saga: "tal vez tengan razón"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/george-rr-martin-creador-juego-tronos-fin-vientos-invierno-1428738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin, creador de Juego de Tronos, pesimista sobre el fin de la saga: "tal vez tengan razón"' />
     </a>
 </div>
 
