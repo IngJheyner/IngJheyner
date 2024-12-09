@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479'>Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejores-juegos-pc-4267391.jpg?tf=1200x' alt='Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/me-ha-gustado-hp-omnibook-x-encontrar-acompanante-adicional-copilot-1427537'>Lo que más me ha gustado del HP Omnibook X es encontrar un acompañante adicional a Copilot+</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/me-ha-gustado-hp-omnibook-x-encontrar-acompanante-adicional-copilot-1427537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hp-omnibook-x-4269110.jpg?tf=1200x' alt='Lo que más me ha gustado del HP Omnibook X es encontrar un acompañante adicional a Copilot+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966'>Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/encender-pc-4268184.jpg?tf=1200x' alt='Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-zona-contaminada-madrid-repente-gastarme-700-euros-purificador-dyson-no-me-parece-locura-1427653'>Vivo en la zona más contaminada de Madrid y, de repente, gastarme 700 euros en el purificador de Dyson no me parece una locura</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/vivo-zona-contaminada-madrid-repente-gastarme-700-euros-purificador-dyson-no-me-parece-locura-1427653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dyson-purifier-hotcool-formaldehyde-hp09-4269272.jpg?tf=1200x' alt='Vivo en la zona más contaminada de Madrid y, de repente, gastarme 700 euros en el purificador de Dyson no me parece una locura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/tipo-usuarios-complicado-abandonar-windows-10-1427134'>¿Por qué a este tipo de usuarios en concreto le está resultando tan complicado abandonar Windows 10?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/tipo-usuarios-complicado-abandonar-windows-10-1427134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-instalar-windows-11-4269059.jpg?tf=1200x' alt='¿Por qué a este tipo de usuarios en concreto le está resultando tan complicado abandonar Windows 10?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-caracteristicas-google-gemini-mejor-chatgpt-1427351'>5 características en las que Google Gemini es mejor que ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-caracteristicas-google-gemini-mejor-chatgpt-1427351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gemini-chatgpt-4268817.jpg?tf=1200x' alt='5 características en las que Google Gemini es mejor que ChatGPT' />
     </a>
 </div>
 
