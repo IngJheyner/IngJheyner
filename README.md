@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-ordenador-cuantico-mucho-potente-1428557'>China se ha adelantado a Google con un ordenador cuántico mucho más potente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-ordenador-cuantico-mucho-potente-1428557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-cuantico-4270849.jpg?tf=1200x' alt='China se ha adelantado a Google con un ordenador cuántico mucho más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-pro-novedades-confirmadas-todo-ya-sabemos-proximo-iphone-1428541'>iPhone 17 Pro: novedades confirmadas y todo lo que ya sabemos del próximo iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-pro-novedades-confirmadas-todo-ya-sabemos-proximo-iphone-1428541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/apple-mira-futuro-iphone-17-pro-max-12-gb-ram-sistema-refrigeracion-eficiente-nunca-4056498.jpg?tf=1200x' alt='iPhone 17 Pro: novedades confirmadas y todo lo que ya sabemos del próximo iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/pueda-no-quiere-decir-deba-alguien-ha-conseguido-instalar-windows-11-movil-1428550'>Que se pueda no quiere decir que se deba: alguien ha conseguido instalar Windows 11 en su móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/pueda-no-quiere-decir-deba-alguien-ha-conseguido-instalar-windows-11-movil-1428550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pueda-no-quiere-decir-deba-alguien-instala-windows-11-movil-4270847.jpg?tf=1200x' alt='Que se pueda no quiere decir que se deba: alguien ha conseguido instalar Windows 11 en su móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/buen-intento-apple-pero-echo-menos-jugar-pc-300-euros-sera-mi-proxima-compra-1427645'>Buen intento, Apple, pero echo de menos jugar: este PC de 300 euros será mi próxima compra</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/buen-intento-apple-pero-echo-menos-jugar-pc-300-euros-sera-mi-proxima-compra-1427645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/acemagician-amr5-3254302.jpg?tf=1200x' alt='Buen intento, Apple, pero echo de menos jugar: este PC de 300 euros será mi próxima compra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-ia-podria-perseguir-objetivos-propios-saltarse-control-humano-1428538'>Giro de 180 grados en OpenAI: su IA podría perseguir objetivos propios y saltarse el control humano</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-ia-podria-perseguir-objetivos-propios-saltarse-control-humano-1428538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-control-humano-4270836.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: su IA podría perseguir objetivos propios y saltarse el control humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-sony-estan-trabajando-colaboracion-precedentes-videojuegos-1428537'>Apple y Sony están trabajando en una colaboración sin precedentes en videojuegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-sony-estan-trabajando-colaboracion-precedentes-videojuegos-1428537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276006.jpg?tf=1200x' alt='Apple y Sony están trabajando en una colaboración sin precedentes en videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes-sociales/twitter-x-caido-1208124'>Twitter caído, X no funciona y deja sin acceso a miles de usuarios en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes-sociales/twitter-x-caido-1208124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='Twitter caído, X no funciona y deja sin acceso a miles de usuarios en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118'>Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/arenero-gato-4268445.jpg?tf=1200x' alt='Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno' />
     </a>
 </div>
 
