@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752'>Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-revoluciona-escritorio-nuevo-500-raspberry-pi-monitor-1428751'>Raspberry Pi revoluciona el escritorio con su nuevo 500 y el Raspberry Pi Monitor</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-revoluciona-escritorio-nuevo-500-raspberry-pi-monitor-1428751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/raspberry-pi-500-raspberry-pi-monitor-4271197.jpg?tf=1200x' alt='Raspberry Pi revoluciona el escritorio con su nuevo 500 y el Raspberry Pi Monitor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/como-whatsapp-instagram-spotify-te-manipulan-atraer-atencion-1428750'>Así es cómo WhatsApp, Instagram y Spotify te manipulan para atraer tu atención</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/como-whatsapp-instagram-spotify-te-manipulan-atraer-atencion-1428750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aplicaciones-movil-4271194.jpg?tf=1200x' alt='Así es cómo WhatsApp, Instagram y Spotify te manipulan para atraer tu atención' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654'>Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-fraude-4271018.jpg?tf=1200x' alt='Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/george-rr-martin-creador-juego-tronos-fin-vientos-invierno-1428738'>George R.R. Martin, creador de Juego de Tronos, pesimista sobre el fin de la saga: "tal vez tengan razón"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/george-rr-martin-creador-juego-tronos-fin-vientos-invierno-1428738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/george-rr-martin-1897093.jpeg?tf=1200x' alt='George R.R. Martin, creador de Juego de Tronos, pesimista sobre el fin de la saga: "tal vez tengan razón"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-motivo-jamas-deberias-volver-enrollar-cable-cargador-1428718'>Ni en iPhone ni en Android, este es el motivo por el que jamás deberías volver a enrollar el cable en el cargador</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-motivo-jamas-deberias-volver-enrollar-cable-cargador-1428718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-iphone-ni-android-motivo-jamas-deberias-volver-enrollar-cable-cargador-4271185.jpg?tf=1200x' alt='Ni en iPhone ni en Android, este es el motivo por el que jamás deberías volver a enrollar el cable en el cargador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-gta-ni-last-us-juego-lleva-12-anos-desarrollo-ha-recaudado-750-millones-dolares-pero-sigue-salir-mercado-1428625'>Ni GTA ni The Last of Us, este juego lleva 12 años de desarrollo, ha recaudado 750 millones de dólares, pero sigue sin salir al mercado</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-gta-ni-last-us-juego-lleva-12-anos-desarrollo-ha-recaudado-750-millones-dolares-pero-sigue-salir-mercado-1428625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/videojuego-ha-recaudado-750-millones-dolares-crowdfunding-12-anos-desarrollo-pero-sigue-salir-mercado-4270960.jpg?tf=1200x' alt='Ni GTA ni The Last of Us, este juego lleva 12 años de desarrollo, ha recaudado 750 millones de dólares, pero sigue sin salir al mercado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602'>Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-1428602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-gladiator-ni-blade-runner-thriller-ridley-scott-puntuacion-casi-perfecta-puedes-ver-netflix-4270936.jpg?tf=1200x' alt='Ni Gladiator ni Blade Runner: el thriller de Ridley Scott con una puntuación casi perfecta que puedes ver en Netflix' />
     </a>
 </div>
 
