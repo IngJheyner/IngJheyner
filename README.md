@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-ia-podria-perseguir-objetivos-propios-saltarse-control-humano-1428538'>Giro de 180 grados en OpenAI: su IA podría perseguir objetivos propios y saltarse el control humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-ia-podria-perseguir-objetivos-propios-saltarse-control-humano-1428538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-control-humano-4270836.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: su IA podría perseguir objetivos propios y saltarse el control humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-sony-estan-trabajando-colaboracion-precedentes-videojuegos-1428537'>Apple y Sony están trabajando en una colaboración sin precedentes en videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-sony-estan-trabajando-colaboracion-precedentes-videojuegos-1428537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3276006.jpg?tf=1200x' alt='Apple y Sony están trabajando en una colaboración sin precedentes en videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes-sociales/twitter-x-caido-1208124'>Twitter caído, X no funciona y deja sin acceso a miles de usuarios en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes-sociales/twitter-x-caido-1208124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/twitter-2676209.jpg?tf=1200x' alt='Twitter caído, X no funciona y deja sin acceso a miles de usuarios en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118'>Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-tengo-excusa-areneros-autolimpiables-han-vuelto-tan-baratos-voy-tener-comprar-1427118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/arenero-gato-4268445.jpg?tf=1200x' alt='Ya no tengo excusa: los areneros autolimpiables se han vuelto tan baratos que voy a tener que comprar uno' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479'>Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/juegos-mejores-graficos-poner-prueba-pc-gaming-1426479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mejores-juegos-pc-4267391.jpg?tf=1200x' alt='Los 13 juegos con mejores gráficos para poner a prueba tu PC Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/oppo-find-x8-pro-1427928'>Tras probar el Oppo Find X8 Pro creo que ha merecido la pena la espera y se convierte en uno de los mejores móviles del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/oppo-find-x8-pro-1427928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oppo-find-x8-pro-4269958.jpg?tf=1200x' alt='Tras probar el Oppo Find X8 Pro creo que ha merecido la pena la espera y se convierte en uno de los mejores móviles del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/me-ha-gustado-hp-omnibook-x-encontrar-acompanante-adicional-copilot-1427537'>Lo que más me ha gustado del HP Omnibook X es encontrar un acompañante adicional a Copilot+</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/me-ha-gustado-hp-omnibook-x-encontrar-acompanante-adicional-copilot-1427537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hp-omnibook-x-4269110.jpg?tf=1200x' alt='Lo que más me ha gustado del HP Omnibook X es encontrar un acompañante adicional a Copilot+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966'>Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/apagar-pc-windows-semana-experiencia-1426966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/encender-pc-4268184.jpg?tf=1200x' alt='Llevo sin apagar mi PC con Windows más de una semana: esta es mi experiencia' />
     </a>
 </div>
 
