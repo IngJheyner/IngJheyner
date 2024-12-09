@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/become-anyone-mascara-pantalla-led-cambia-cara-1428506'>Esta máscara con pantalla LED cambia tu cara para que vivas otras vidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/become-anyone-mascara-pantalla-led-cambia-cara-1428506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mascara-pantalla-led-cambia-cara-vivas-otras-vidas-4270750.jpg?tf=1200x' alt='Esta máscara con pantalla LED cambia tu cara para que vivas otras vidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-1428504'>La OTAN va a usar drones acuáticos autónomos para vigilar los cables submarinos</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-1428504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/otan-va-usar-drones-acuaticos-autonomos-vigilar-cables-submarinos-4270745.jpg?tf=1200x' alt='La OTAN va a usar drones acuáticos autónomos para vigilar los cables submarinos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059'>Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-1428491'>Parece una broma, pero no lo es: Apple y Sony se alían para que los mandos de PS VR2 funcionen en Vision Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-1428491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-broma-pero-no-apple-sony-alian-mandos-ps-vr2-funcionen-vision-pro-4270697.jpg?tf=1200x' alt='Parece una broma, pero no lo es: Apple y Sony se alían para que los mandos de PS VR2 funcionen en Vision Pro' />
     </a>
 </div>
 
