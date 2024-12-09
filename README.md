@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/tipo-usuarios-complicado-abandonar-windows-10-1427134'>¿Por qué a este tipo de usuarios en concreto le está resultando tan complicado abandonar Windows 10?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/tipo-usuarios-complicado-abandonar-windows-10-1427134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-instalar-windows-11-4269059.jpg?tf=1200x' alt='¿Por qué a este tipo de usuarios en concreto le está resultando tan complicado abandonar Windows 10?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-caracteristicas-google-gemini-mejor-chatgpt-1427351'>5 características en las que Google Gemini es mejor que ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-caracteristicas-google-gemini-mejor-chatgpt-1427351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gemini-chatgpt-4268817.jpg?tf=1200x' alt='5 características en las que Google Gemini es mejor que ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/become-anyone-mascara-pantalla-led-cambia-cara-1428506'>Esta máscara con pantalla LED cambia tu cara para que vivas otras vidas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/become-anyone-mascara-pantalla-led-cambia-cara-1428506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mascara-pantalla-led-cambia-cara-vivas-otras-vidas-4270750.jpg?tf=1200x' alt='Esta máscara con pantalla LED cambia tu cara para que vivas otras vidas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/stardew-valley--mejor-juego-reducir-estres-psicologo-1428499'>Ni Animal Crossing ni Pokémon: este es el mejor juego para reducir el estrés, según un psicólogo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/stardew-valley--mejor-juego-reducir-estres-psicologo-1428499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/10/stardew-valley.jpg?tf=1200x' alt='Ni Animal Crossing ni Pokémon: este es el mejor juego para reducir el estrés, según un psicólogo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/adios-viajar-luna-2025-nasa-anuncia-nuevo-retraso-1428496'>Adiós a viajar a la Luna en 2025: la NASA anuncia un nuevo retraso</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/adios-viajar-luna-2025-nasa-anuncia-nuevo-retraso-1428496' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-viajar-luna-2025-nasa-anuncia-nuevo-retraso-4270705.jpg?tf=1200x' alt='Adiós a viajar a la Luna en 2025: la NASA anuncia un nuevo retraso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059'>Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-mp3-nadar-funciona-agua-pero-caso-me-averia-ire-1427059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/lenovo-x5-3311265.jpg?tf=1200x' alt='Tengo un MP3 para nadar que funciona bajo el agua, pero es caso: si se me avería iré a por este' />
     </a>
 </div>
 
