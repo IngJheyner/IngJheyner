@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-1428617'>"Puede arruinarte las Navidades": La policía advierte de esta peligrosa práctica con los paquetes de Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-1428617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-4270952.jpg?tf=1200x' alt='"Puede arruinarte las Navidades": La policía advierte de esta peligrosa práctica con los paquetes de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-1428628'>NASA: estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-1428628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='NASA: estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/iba-steam-deck-pero-consola-retro-potentisima-me-ha-convencido-antes-1427132'>Iba a por una Steam Deck, pero esta consola retro es potentísima y me ha convencido antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/iba-steam-deck-pero-consola-retro-potentisima-me-ha-convencido-antes-1427132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ayn-odin-2-pro-4268448.jpg?tf=1200x' alt='Iba a por una Steam Deck, pero esta consola retro es potentísima y me ha convencido antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-no-va-desaparecer-tenemos-usarla-defendernos-1428607'>“La IA no va a desaparecer y tenemos que usarla para defendernos”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-no-va-desaparecer-tenemos-usarla-defendernos-1428607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ciberseguridad-2025-4270949.jpg?tf=1200x' alt='“La IA no va a desaparecer y tenemos que usarla para defendernos”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-sorprende-lista-paises-superordenadores-potentes-1428635'>España sorprende en la lista de los países con los superordenadores más potentes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/espana-sorprende-lista-paises-superordenadores-potentes-1428635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/supercomputadora-chaohu-mingyue-4270993.jpg?tf=1200x' alt='España sorprende en la lista de los países con los superordenadores más potentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/animal-mas-longevo-tierra-esponja-mar-1428779'>Parece fake news, pero no lo es: descubren en la Antártida un animal con 11.000 años de edad</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/animal-mas-longevo-tierra-esponja-mar-1428779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-fake-news-pero-no-descubren-antartida-animal-11000-anos-edad-4271233.jpg?tf=1200x' alt='Parece fake news, pero no lo es: descubren en la Antártida un animal con 11.000 años de edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/mercedes-benz-pintura-solar-coche-electrico-20000-km-gratis-1428766'>Una pintura para el coche de Mercedes-Benz permite conducir 20.000 Km gratis al año, lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/mercedes-benz-pintura-solar-coche-electrico-20000-km-gratis-1428766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733775085069-4271196.jpg?tf=1200x' alt='Una pintura para el coche de Mercedes-Benz permite conducir 20.000 Km gratis al año, lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752'>Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost' />
     </a>
 </div>
 
