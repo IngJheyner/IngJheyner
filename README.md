@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-1427899'>Esta combinación de teclas impide a los hackers robar tus contraseñas de Google, apréndetela</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-1427899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-4269752.jpg?tf=1200x' alt='Esta combinación de teclas impide a los hackers robar tus contraseñas de Google, apréndetela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-revoluciona-carga-galaxy-novedad-nadie-veia-venir-1428920'>Samsung revoluciona la carga de los Galaxy con una novedad que nadie veía venir</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-revoluciona-carga-galaxy-novedad-nadie-veia-venir-1428920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267400.jpg?tf=1200x' alt='Samsung revoluciona la carga de los Galaxy con una novedad que nadie veía venir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-llamada-empleo-indeed-1428309'>"Hola, soy de recursos humanos de Indeed", la estafa telefónica que está volviendo loca a media España </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-llamada-empleo-indeed-1428309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ofertas-empleo-falsas-whatsapp-4270414.jpg?tf=1200x' alt='"Hola, soy de recursos humanos de Indeed", la estafa telefónica que está volviendo loca a media España ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873'>Willow el nuevo chip cuántico de Google que resuelve en minutos cálculos imposibles para cualquier superordenador</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-chip-cuantico-willow-4271374.jpg?tf=1200x' alt='Willow el nuevo chip cuántico de Google que resuelve en minutos cálculos imposibles para cualquier superordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-oferta-trabajo-parece-confirmar-caracteristica-inedita-consola-1428888'>Nintendo Switch 2: una oferta de trabajo parece confirmar una característica inédita de la consola</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-oferta-trabajo-parece-confirmar-caracteristica-inedita-consola-1428888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-podria-realizar-anuncio-oficial-switch-2-mes-septiembre-4112491.jpg?tf=1200x' alt='Nintendo Switch 2: una oferta de trabajo parece confirmar una característica inédita de la consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-tesla-china-lanza-mercado-nuevo-coche-autonomo-bateria-semisolida-1000-km-autonomia-1428840'>Tiembla Tesla: China lanza al mercado un nuevo coche autónomo con batería semisólida y 1.000 km de autonomía</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-tesla-china-lanza-mercado-nuevo-coche-autonomo-bateria-semisolida-1000-km-autonomia-1428840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nuevo-coche-electrico-im-motors-4271350.jpg?tf=1200x' alt='Tiembla Tesla: China lanza al mercado un nuevo coche autónomo con batería semisólida y 1.000 km de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/empujon-final-saltar-windows-10-windows-11-esperada-novedad-trae-microsoft-1428895'>El empujón final para saltar de Windows 10 a Windows 11 podría ser esta novedad que trae Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/empujon-final-saltar-windows-10-windows-11-esperada-novedad-trae-microsoft-1428895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instalar-windows-11-pc-4259489.jpg?tf=1200x' alt='El empujón final para saltar de Windows 10 a Windows 11 podría ser esta novedad que trae Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-1428880'>Reddit va a por Google: lanza una IA que reemplazará las consultas en el buscador</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-1428880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-4271395.jpg?tf=1200x' alt='Reddit va a por Google: lanza una IA que reemplazará las consultas en el buscador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-billete-truco-te-roban-coche-crees-ganas-50-euros-1428886'>La estafa del billete: el truco con el que te roban el coche y tú crees que ganas 50 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-billete-truco-te-roban-coche-crees-ganas-50-euros-1428886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-billete-4271421.jpg?tf=1200x' alt='La estafa del billete: el truco con el que te roban el coche y tú crees que ganas 50 euros' />
     </a>
 </div>
 
