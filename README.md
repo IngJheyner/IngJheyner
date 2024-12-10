@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/olvidate-cohetes-cientificos-japoneses-reinventan-viaje-espacial-nuevo-sistema-1428951'>Olvídate de los cohetes: científicos japoneses reinventan el viaje espacial con un nuevo sistema</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/olvidate-cohetes-cientificos-japoneses-reinventan-viaje-espacial-nuevo-sistema-1428951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ascensor-espacial-japones-4271520.jpg?tf=1200x' alt='Olvídate de los cohetes: científicos japoneses reinventan el viaje espacial con un nuevo sistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/sencillo-truco-experto-recuperar-espacio-whatsapp-eliminar-nada-importante-1428976'>El sencillo truco de un experto para recuperar espacio en WhatsApp sin eliminar nada importante</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/sencillo-truco-experto-recuperar-espacio-whatsapp-eliminar-nada-importante-1428976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sencillo-truco-experto-recuperar-espacio-whatsapp-eliminar-nada-importante-4271619.jpg?tf=1200x' alt='El sencillo truco de un experto para recuperar espacio en WhatsApp sin eliminar nada importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confirma-superordenador-ia-colossus-sera-aun-potente-competir-nvidia-1428938'>Elon Musk confirma que el superordenador con IA Colossus será aún más potente para competir con Nvidia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confirma-superordenador-ia-colossus-sera-aun-potente-competir-nvidia-1428938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/colossus-data-center-compute-hall-4271489.jpg?tf=1200x' alt='Elon Musk confirma que el superordenador con IA Colossus será aún más potente para competir con Nvidia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-1427899'>Esta combinación de teclas impide a los hackers robar tus contraseñas de Google, apréndetela</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-1427899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-4269752.jpg?tf=1200x' alt='Esta combinación de teclas impide a los hackers robar tus contraseñas de Google, apréndetela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-revoluciona-carga-galaxy-novedad-nadie-veia-venir-1428920'>Samsung revoluciona la carga de los Galaxy con una novedad que nadie veía venir</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-revoluciona-carga-galaxy-novedad-nadie-veia-venir-1428920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267400.jpg?tf=1200x' alt='Samsung revoluciona la carga de los Galaxy con una novedad que nadie veía venir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-llamada-empleo-indeed-1428309'>"Hola, soy de recursos humanos de Indeed", la estafa telefónica que está volviendo loca a media España </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-llamada-empleo-indeed-1428309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ofertas-empleo-falsas-whatsapp-4270414.jpg?tf=1200x' alt='"Hola, soy de recursos humanos de Indeed", la estafa telefónica que está volviendo loca a media España ' />
     </a>
 </div>
 
