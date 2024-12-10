@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-no-va-desaparecer-tenemos-usarla-defendernos-1428607'>“La IA no va a desaparecer y tenemos que usarla para defendernos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-no-va-desaparecer-tenemos-usarla-defendernos-1428607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ciberseguridad-2025-4270949.jpg?tf=1200x' alt='“La IA no va a desaparecer y tenemos que usarla para defendernos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-sorprende-lista-paises-superordenadores-potentes-1428635'>España sorprende en la lista de los países con los superordenadores más potentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/espana-sorprende-lista-paises-superordenadores-potentes-1428635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/supercomputadora-chaohu-mingyue-4270993.jpg?tf=1200x' alt='España sorprende en la lista de los países con los superordenadores más potentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/animal-mas-longevo-tierra-esponja-mar-1428779'>Parece fake news, pero no lo es: descubren en la Antártida un animal con 11.000 años de edad</a></h4>
     <a href='https://computerhoy.20minutos.es/life/animal-mas-longevo-tierra-esponja-mar-1428779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-fake-news-pero-no-descubren-antartida-animal-11000-anos-edad-4271233.jpg?tf=1200x' alt='Parece fake news, pero no lo es: descubren en la Antártida un animal con 11.000 años de edad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752'>Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-alertan-riesgos-productos-temu-otras-tiendas-low-cost-1428752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/shein-acusa-temu-copiar-productos-vendidos-intimidacion-estilo-mafioso-3997626.jpg?tf=1200x' alt='Expertos alertan sobre riesgos en productos de Temu y otras tiendas low cost' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-revoluciona-escritorio-nuevo-500-raspberry-pi-monitor-1428751'>Raspberry Pi revoluciona el escritorio con su nuevo 500 y el Raspberry Pi Monitor</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/raspberry-pi-revoluciona-escritorio-nuevo-500-raspberry-pi-monitor-1428751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/raspberry-pi-500-raspberry-pi-monitor-4271197.jpg?tf=1200x' alt='Raspberry Pi revoluciona el escritorio con su nuevo 500 y el Raspberry Pi Monitor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-whatsapp-instagram-spotify-te-manipulan-atraer-atencion-1428750'>Así es cómo WhatsApp, Instagram y Spotify te manipulan para atraer tu atención</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-whatsapp-instagram-spotify-te-manipulan-atraer-atencion-1428750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aplicaciones-movil-4271194.jpg?tf=1200x' alt='Así es cómo WhatsApp, Instagram y Spotify te manipulan para atraer tu atención' />
     </a>
 </div>
 
