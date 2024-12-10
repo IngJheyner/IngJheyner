@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/netflix-espanol-gratuito-quienes-no-tienen-mucho-tiempo-divergente-nueva-plataforma-streaming-1428636'>El Netflix español gratuito para quienes no tienen mucho tiempo: así es Divergente, una nueva plataforma de streaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/netflix-espanol-gratuito-quienes-no-tienen-mucho-tiempo-divergente-nueva-plataforma-streaming-1428636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/divergente-streaming-plataforma-tv-4270990.jpg?tf=1200x' alt='El Netflix español gratuito para quienes no tienen mucho tiempo: así es Divergente, una nueva plataforma de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-moviles-tontos-han-triplicado-ventas-2024-1428819'>Ni iPhone ni Android: estos móviles han triplicado sus ventas en 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-moviles-tontos-han-triplicado-ventas-2024-1428819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-iphone-ni-android-estos-moviles-han-duplicado-demanda-2024-4271297.jpg?tf=1200x' alt='Ni iPhone ni Android: estos móviles han triplicado sus ventas en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-aspirador-ciclon-8000-pa-potencia-marca-espanola-1428749'>Este robot aspirador es un ciclón: 8.000 Pa de potencia y de marca española</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robot-aspirador-ciclon-8000-pa-potencia-marca-espanola-1428749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/conga-14090-twice-roller-home-fill-4271188.jpg?tf=1200x' alt='Este robot aspirador es un ciclón: 8.000 Pa de potencia y de marca española' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/japon-prohibio-venta-ps2-muchos-paises-arma-militar-1428801'>Japón prohibió la venta de esta mítica consola en muchos países por su potencial como arma militar</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/japon-prohibio-venta-ps2-muchos-paises-arma-militar-1428801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/japon-prohibio-venta-mitica-consola-muchos-paises-potencial-como-arma-militar-4271286.jpg?tf=1200x' alt='Japón prohibió la venta de esta mítica consola en muchos países por su potencial como arma militar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/como-aprovechar-android-maximo-puedes-acceder-funciones-prueba-herramientas-adicionales-1417425'>Cómo aprovechar Android al máximo: así puedes acceder a funciones en prueba o a herramientas adicionales</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/como-aprovechar-android-maximo-puedes-acceder-funciones-prueba-herramientas-adicionales-1417425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-android-4241286.jpg?tf=1200x' alt='Cómo aprovechar Android al máximo: así puedes acceder a funciones en prueba o a herramientas adicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-tab-s10-ultra-5g-1427676'>¿Tablet o portátil? Tras dos semanas probando esta Samsung  Galaxy Tab S10 Ultra 5G, no me queda claro</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-tab-s10-ultra-5g-1427676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-tab-s10-ultra-5g-4271153.jpg?tf=1200x' alt='¿Tablet o portátil? Tras dos semanas probando esta Samsung  Galaxy Tab S10 Ultra 5G, no me queda claro' />
     </a>
 </div>
 
