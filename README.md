@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/japon-prohibio-venta-ps2-muchos-paises-arma-militar-1428801'>Japón prohibió la venta de esta mítica consola en muchos países por su potencial como arma militar</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/japon-prohibio-venta-ps2-muchos-paises-arma-militar-1428801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/japon-prohibio-venta-mitica-consola-muchos-paises-potencial-como-arma-militar-4271286.jpg?tf=1200x' alt='Japón prohibió la venta de esta mítica consola en muchos países por su potencial como arma militar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/como-aprovechar-android-maximo-puedes-acceder-funciones-prueba-herramientas-adicionales-1417425'>Cómo aprovechar Android al máximo: así puedes acceder a funciones en prueba o a herramientas adicionales</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/como-aprovechar-android-maximo-puedes-acceder-funciones-prueba-herramientas-adicionales-1417425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/notificaciones-android-4241286.jpg?tf=1200x' alt='Cómo aprovechar Android al máximo: así puedes acceder a funciones en prueba o a herramientas adicionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-tab-s10-ultra-5g-1427676'>¿Tablet o portátil? Tras dos semanas probando esta Samsung  Galaxy Tab S10 Ultra 5G, no me queda claro</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-tab-s10-ultra-5g-1427676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-tab-s10-ultra-5g-4271153.jpg?tf=1200x' alt='¿Tablet o portátil? Tras dos semanas probando esta Samsung  Galaxy Tab S10 Ultra 5G, no me queda claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-1428617'>"Puede arruinarte las Navidades": La policía advierte de esta peligrosa práctica con los paquetes de Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-1428617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-4270952.jpg?tf=1200x' alt='"Puede arruinarte las Navidades": La policía advierte de esta peligrosa práctica con los paquetes de Amazon' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-1428628'>NASA: estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-1428628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='NASA: estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/iba-steam-deck-pero-consola-retro-potentisima-me-ha-convencido-antes-1427132'>Iba a por una Steam Deck, pero esta consola retro es potentísima y me ha convencido antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/iba-steam-deck-pero-consola-retro-potentisima-me-ha-convencido-antes-1427132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ayn-odin-2-pro-4268448.jpg?tf=1200x' alt='Iba a por una Steam Deck, pero esta consola retro es potentísima y me ha convencido antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-no-va-desaparecer-tenemos-usarla-defendernos-1428607'>“La IA no va a desaparecer y tenemos que usarla para defendernos”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-no-va-desaparecer-tenemos-usarla-defendernos-1428607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ciberseguridad-2025-4270949.jpg?tf=1200x' alt='“La IA no va a desaparecer y tenemos que usarla para defendernos”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-sorprende-lista-paises-superordenadores-potentes-1428635'>España sorprende en la lista de los países con los superordenadores más potentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/espana-sorprende-lista-paises-superordenadores-potentes-1428635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/supercomputadora-chaohu-mingyue-4270993.jpg?tf=1200x' alt='España sorprende en la lista de los países con los superordenadores más potentes' />
     </a>
 </div>
 
