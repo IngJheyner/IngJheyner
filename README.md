@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-oferta-trabajo-parece-confirmar-caracteristica-inedita-consola-1428888'>Nintendo Switch 2: una oferta de trabajo parece confirmar una característica inédita de la consola</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-oferta-trabajo-parece-confirmar-caracteristica-inedita-consola-1428888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-podria-realizar-anuncio-oficial-switch-2-mes-septiembre-4112491.jpg?tf=1200x' alt='Nintendo Switch 2: una oferta de trabajo parece confirmar una característica inédita de la consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-tesla-china-lanza-mercado-nuevo-coche-autonomo-bateria-semisolida-1000-km-autonomia-1428840'>Tiembla Tesla: China lanza al mercado un nuevo coche autónomo con batería semisólida y 1.000 km de autonomía</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-tesla-china-lanza-mercado-nuevo-coche-autonomo-bateria-semisolida-1000-km-autonomia-1428840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nuevo-coche-electrico-im-motors-4271350.jpg?tf=1200x' alt='Tiembla Tesla: China lanza al mercado un nuevo coche autónomo con batería semisólida y 1.000 km de autonomía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-billete-truco-te-roban-coche-crees-ganas-50-euros-1428886'>La estafa del billete: el truco con el que te roban el coche y tú crees que ganas 50 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-billete-truco-te-roban-coche-crees-ganas-50-euros-1428886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-billete-4271421.jpg?tf=1200x' alt='La estafa del billete: el truco con el que te roban el coche y tú crees que ganas 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-pulsera-xiaomi-venden-reloj-barato-menos-funciones-30-euros-1428849'>Olvida la pulsera Xiaomi: venden un reloj más barato y con menos funciones ¡por 30 euros!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-pulsera-xiaomi-venden-reloj-barato-menos-funciones-30-euros-1428849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redmi-5-4271347.jpg?tf=1200x' alt='Olvida la pulsera Xiaomi: venden un reloj más barato y con menos funciones ¡por 30 euros!' />
     </a>
 </div>
 
