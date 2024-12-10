@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/humane-ai-pin-no-rinde-actualiza-bateria-mejoras-conexion-1428822'>Humane AI Pin no se rinde y se actualiza: más batería y mejoras de conexión</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/humane-ai-pin-no-rinde-actualiza-bateria-mejoras-conexion-1428822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-busca-compradores-apenas-unas-semanas-lanzamiento-primer-wearable-3353077.jpg?tf=1200x' alt='Humane AI Pin no se rinde y se actualiza: más batería y mejoras de conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873'>Willow el nuevo chip cuántico de Google, es capaz de resolver en solo 5 minutos una operación que un superordenador tardaría millones de años </a></h4>
+    <a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-chip-cuantico-willow-4271374.jpg?tf=1200x' alt='Willow el nuevo chip cuántico de Google, es capaz de resolver en solo 5 minutos una operación que un superordenador tardaría millones de años ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/ni-nadal-ni-broncano-son-preguntas-palabras-buscadas-espana-2024-1428839'>Ni Nadal ni Broncano, estas son las palabras y preguntas más buscadas en España en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/google/ni-nadal-ni-broncano-son-preguntas-palabras-buscadas-espana-2024-1428839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/busquedas-google-2024-4271356.jpg?tf=1200x' alt='Ni Nadal ni Broncano, estas son las palabras y preguntas más buscadas en España en 2024' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/openai-lanza-oficialmente-sora-ia-video-generativa-pero-malas-noticias-espana-1428807'>OpenAI lanza oficialmente Sora, su IA de vídeo generativa pero con malas noticias para España</a></h4>
     <a href='https://computerhoy.20minutos.es/openai-lanza-oficialmente-sora-ia-video-generativa-pero-malas-noticias-espana-1428807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sora-openai-ia-4271296.jpg?tf=1200x' alt='OpenAI lanza oficialmente Sora, su IA de vídeo generativa pero con malas noticias para España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/netflix-espanol-gratuito-quienes-no-tienen-mucho-tiempo-divergente-nueva-plataforma-streaming-1428636'>El Netflix español gratuito para quienes no tienen mucho tiempo: así es Divergente, una nueva plataforma de streaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/netflix-espanol-gratuito-quienes-no-tienen-mucho-tiempo-divergente-nueva-plataforma-streaming-1428636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/divergente-streaming-plataforma-tv-4270990.jpg?tf=1200x' alt='El Netflix español gratuito para quienes no tienen mucho tiempo: así es Divergente, una nueva plataforma de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-moviles-tontos-han-triplicado-ventas-2024-1428819'>Ni iPhone ni Android: estos móviles han triplicado sus ventas en 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-android-moviles-tontos-han-triplicado-ventas-2024-1428819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-iphone-ni-android-estos-moviles-han-duplicado-demanda-2024-4271297.jpg?tf=1200x' alt='Ni iPhone ni Android: estos móviles han triplicado sus ventas en 2024' />
     </a>
 </div>
 
