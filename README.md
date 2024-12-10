@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/humane-ai-pin-no-rinde-actualiza-bateria-mejoras-conexion-1428822'>Humane AI Pin no se rinde y se actualiza: más batería y mejoras de conexión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/humane-ai-pin-no-rinde-actualiza-bateria-mejoras-conexion-1428822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/humane-ai-busca-compradores-apenas-unas-semanas-lanzamiento-primer-wearable-3353077.jpg?tf=1200x' alt='Humane AI Pin no se rinde y se actualiza: más batería y mejoras de conexión' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-1428880'>Reddit va a por Google: lanza una IA que reemplazará las consultas en el buscador</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-1428880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-4271395.jpg?tf=1200x' alt='Reddit va a por Google: lanza una IA que reemplazará las consultas en el buscador' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873'>Willow el nuevo chip cuántico de Google, es capaz de resolver en solo 5 minutos una operación que un superordenador tardaría millones de años </a></h4>
-    <a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-chip-cuantico-willow-4271374.jpg?tf=1200x' alt='Willow el nuevo chip cuántico de Google, es capaz de resolver en solo 5 minutos una operación que un superordenador tardaría millones de años ' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-billete-truco-te-roban-coche-crees-ganas-50-euros-1428886'>La estafa del billete: el truco con el que te roban el coche y tú crees que ganas 50 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-billete-truco-te-roban-coche-crees-ganas-50-euros-1428886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estafa-billete-4271421.jpg?tf=1200x' alt='La estafa del billete: el truco con el que te roban el coche y tú crees que ganas 50 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ni-nadal-ni-broncano-son-preguntas-palabras-buscadas-espana-2024-1428839'>Ni Nadal ni Broncano, estas son las palabras y preguntas más buscadas en España en 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ni-nadal-ni-broncano-son-preguntas-palabras-buscadas-espana-2024-1428839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/busquedas-google-2024-4271356.jpg?tf=1200x' alt='Ni Nadal ni Broncano, estas son las palabras y preguntas más buscadas en España en 2024' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-pulsera-xiaomi-venden-reloj-barato-menos-funciones-30-euros-1428849'>Olvida la pulsera Xiaomi: venden un reloj más barato y con menos funciones ¡por 30 euros!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvida-pulsera-xiaomi-venden-reloj-barato-menos-funciones-30-euros-1428849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redmi-5-4271347.jpg?tf=1200x' alt='Olvida la pulsera Xiaomi: venden un reloj más barato y con menos funciones ¡por 30 euros!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/combo-amazon-rebaja-altavoz-alexa-barato-anade-porterillo-inteligente-casi-gratis-1428818'>Combo de Amazon: rebaja su altavoz con Alexa más barato y le añade un porterillo inteligente casi gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/combo-amazon-rebaja-altavoz-alexa-barato-anade-porterillo-inteligente-casi-gratis-1428818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/echo-pop-intercom-4271323.jpg?tf=1200x' alt='Combo de Amazon: rebaja su altavoz con Alexa más barato y le añade un porterillo inteligente casi gratis' />
+    <h4><a href='https://computerhoy.20minutos.es/google/avisos-radares-google-maps-truco-no-saltarme-ninguno-1427592'>Desde que utilizo este truco de Google Maps ya no he vuelto a saltarme ningún radar: "Es infalible"</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/avisos-radares-google-maps-truco-no-saltarme-ninguno-1427592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/radar-google-maps-4271408.jpg?tf=1200x' alt='Desde que utilizo este truco de Google Maps ya no he vuelto a saltarme ningún radar: "Es infalible"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/openai-lanza-oficialmente-sora-ia-video-generativa-pero-malas-noticias-espana-1428807'>OpenAI lanza oficialmente Sora, su IA de vídeo generativa pero con malas noticias para España</a></h4>
-    <a href='https://computerhoy.20minutos.es/openai-lanza-oficialmente-sora-ia-video-generativa-pero-malas-noticias-espana-1428807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sora-openai-ia-4271296.jpg?tf=1200x' alt='OpenAI lanza oficialmente Sora, su IA de vídeo generativa pero con malas noticias para España' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-bomba-punto-estallar-microsoft-no-tiene-forma-evitarlo-1428875'>Windows 10 es una bomba a punto de estallar y Microsoft no tiene forma de evitarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-bomba-punto-estallar-microsoft-no-tiene-forma-evitarlo-1428875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-bomba-4271396.jpg?tf=1200x' alt='Windows 10 es una bomba a punto de estallar y Microsoft no tiene forma de evitarlo' />
     </a>
 </div>
 
