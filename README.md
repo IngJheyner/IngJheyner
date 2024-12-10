@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-1428859'>Se estrenó en 2008, pero este remake protagonizado por Jason Statham se ha colado ahora entre lo más visto de Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-1428859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-4271372.jpg?tf=1200x' alt='Se estrenó en 2008, pero este remake protagonizado por Jason Statham se ha colado ahora entre lo más visto de Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-1428901'>“Es tan terrible que lo solucionan o me voy", descubren un cambio en WhatsApp del que casi nadie se ha dado cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/life/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-1428901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/losjasca-tiktok-4271643.jpg?tf=1200x' alt='“Es tan terrible que lo solucionan o me voy", descubren un cambio en WhatsApp del que casi nadie se ha dado cuenta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/significan-nuevos-iconos-whatsapp-puntos-suspensivos-microfono-ondas-sonido-1429000'>Qué significan los nuevos iconos de WhatsApp: puntos suspensivos, micrófono y ondas de sonido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/significan-nuevos-iconos-whatsapp-puntos-suspensivos-microfono-ondas-sonido-1429000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-iconos-4271600.jpg?tf=1200x' alt='Qué significan los nuevos iconos de WhatsApp: puntos suspensivos, micrófono y ondas de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/potente-tablet-apenas-300-euros-planta-cara-todas-snapdragon-8-gen-1-precio-ganga-1428862'>Esta potente tablet de apenas 300 euros planta cara a todas: Snapdragon 8+ Gen 1 a precio de ganga</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/potente-tablet-apenas-300-euros-planta-cara-todas-snapdragon-8-gen-1-precio-ganga-1428862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lenovo-legion-y700-4271340.jpg?tf=1200x' alt='Esta potente tablet de apenas 300 euros planta cara a todas: Snapdragon 8+ Gen 1 a precio de ganga' />
     </a>
 </div>
 
