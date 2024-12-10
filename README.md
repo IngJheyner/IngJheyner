@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confirma-superordenador-ia-colossus-sera-aun-potente-competir-nvidia-1428938'>Elon Musk confirma que el superordenador con IA Colossus será aún más potente para competir con Nvidia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-confirma-superordenador-ia-colossus-sera-aun-potente-competir-nvidia-1428938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/colossus-data-center-compute-hall-4271489.jpg?tf=1200x' alt='Elon Musk confirma que el superordenador con IA Colossus será aún más potente para competir con Nvidia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cnmc-sufre-ciberataque-expone-datos-2000-millones-clientes-1428903'>El CNMC sufre un ciberataque y expone los datos de 2.000 millones de clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cnmc-sufre-ciberataque-expone-datos-2000-millones-clientes-1428903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberataque-cnmc-4271456.jpg?tf=1200x' alt='El CNMC sufre un ciberataque y expone los datos de 2.000 millones de clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-1427899'>Esta combinación de teclas impide a los hackers robar tus contraseñas de Google, apréndetela</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-1427899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/combinacion-teclas-impide-hackers-robar-contrasenas-google-aprendetela-4269752.jpg?tf=1200x' alt='Esta combinación de teclas impide a los hackers robar tus contraseñas de Google, apréndetela' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-llamada-empleo-indeed-1428309'>"Hola, soy de recursos humanos de Indeed", la estafa telefónica que está volviendo loca a media España </a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-llamada-empleo-indeed-1428309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ofertas-empleo-falsas-whatsapp-4270414.jpg?tf=1200x' alt='"Hola, soy de recursos humanos de Indeed", la estafa telefónica que está volviendo loca a media España ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873'>Willow el nuevo chip cuántico de Google que resuelve en minutos cálculos imposibles para cualquier superordenador</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/willow-nuevo-chip-cuantico-google-capaz-resolver-solo-5-minutos-operacion-superordenador-tardaria-millones-anos-1428873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-chip-cuantico-willow-4271374.jpg?tf=1200x' alt='Willow el nuevo chip cuántico de Google que resuelve en minutos cálculos imposibles para cualquier superordenador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-oferta-trabajo-parece-confirmar-caracteristica-inedita-consola-1428888'>Nintendo Switch 2: una oferta de trabajo parece confirmar una característica inédita de la consola</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-oferta-trabajo-parece-confirmar-caracteristica-inedita-consola-1428888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-podria-realizar-anuncio-oficial-switch-2-mes-septiembre-4112491.jpg?tf=1200x' alt='Nintendo Switch 2: una oferta de trabajo parece confirmar una característica inédita de la consola' />
     </a>
 </div>
 
