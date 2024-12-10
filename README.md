@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-tesla-china-lanza-mercado-nuevo-coche-autonomo-bateria-semisolida-1000-km-autonomia-1428840'>Tiembla Tesla: China lanza al mercado un nuevo coche autónomo con batería semisólida y 1.000 km de autonomía</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-tesla-china-lanza-mercado-nuevo-coche-autonomo-bateria-semisolida-1000-km-autonomia-1428840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nuevo-coche-electrico-im-motors-4271350.jpg?tf=1200x' alt='Tiembla Tesla: China lanza al mercado un nuevo coche autónomo con batería semisólida y 1.000 km de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/empujon-final-saltar-windows-10-windows-11-esperada-novedad-trae-microsoft-1428895'>El empujón final para saltar de Windows 10 a Windows 11 podría ser esta novedad que trae Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/empujon-final-saltar-windows-10-windows-11-esperada-novedad-trae-microsoft-1428895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/instalar-windows-11-pc-4259489.jpg?tf=1200x' alt='El empujón final para saltar de Windows 10 a Windows 11 podría ser esta novedad que trae Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-1428880'>Reddit va a por Google: lanza una IA que reemplazará las consultas en el buscador</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-1428880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reddit-va-google-lanza-ia-reemplazara-consultas-buscador-4271395.jpg?tf=1200x' alt='Reddit va a por Google: lanza una IA que reemplazará las consultas en el buscador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvida-pulsera-xiaomi-venden-reloj-barato-menos-funciones-30-euros-1428849'>Olvida la pulsera Xiaomi: venden un reloj más barato y con menos funciones ¡por 30 euros!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/olvida-pulsera-xiaomi-venden-reloj-barato-menos-funciones-30-euros-1428849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redmi-5-4271347.jpg?tf=1200x' alt='Olvida la pulsera Xiaomi: venden un reloj más barato y con menos funciones ¡por 30 euros!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/avisos-radares-google-maps-truco-no-saltarme-ninguno-1427592'>Desde que utilizo este truco de Google Maps ya no he vuelto a saltarme ningún radar: "Es infalible"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/avisos-radares-google-maps-truco-no-saltarme-ninguno-1427592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/radar-google-maps-4271408.jpg?tf=1200x' alt='Desde que utilizo este truco de Google Maps ya no he vuelto a saltarme ningún radar: "Es infalible"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-bomba-punto-estallar-microsoft-no-tiene-forma-evitarlo-1428875'>Windows 10 es una bomba a punto de estallar y Microsoft no tiene forma de evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-bomba-punto-estallar-microsoft-no-tiene-forma-evitarlo-1428875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-bomba-4271396.jpg?tf=1200x' alt='Windows 10 es una bomba a punto de estallar y Microsoft no tiene forma de evitarlo' />
     </a>
 </div>
 
