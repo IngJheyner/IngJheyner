@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-aspirador-ciclon-8000-pa-potencia-marca-espanola-1428749'>Este robot aspirador es un ciclón: 8.000 Pa de potencia y de marca española</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/robot-aspirador-ciclon-8000-pa-potencia-marca-espanola-1428749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/conga-14090-twice-roller-home-fill-4271188.jpg?tf=1200x' alt='Este robot aspirador es un ciclón: 8.000 Pa de potencia y de marca española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/openai-lanza-oficialmente-sora-ia-video-generativa-pero-malas-noticias-espana-1428807'>OpenAI lanza oficialmente Sora, su IA de vídeo generativa pero con malas noticias para España</a></h4>
+    <a href='https://computerhoy.20minutos.es/openai-lanza-oficialmente-sora-ia-video-generativa-pero-malas-noticias-espana-1428807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sora-openai-ia-4271296.jpg?tf=1200x' alt='OpenAI lanza oficialmente Sora, su IA de vídeo generativa pero con malas noticias para España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/japon-prohibio-venta-ps2-muchos-paises-arma-militar-1428801'>Japón prohibió la venta de esta mítica consola en muchos países por su potencial como arma militar</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/japon-prohibio-venta-ps2-muchos-paises-arma-militar-1428801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/japon-prohibio-venta-mitica-consola-muchos-paises-potencial-como-arma-militar-4271286.jpg?tf=1200x' alt='Japón prohibió la venta de esta mítica consola en muchos países por su potencial como arma militar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-tab-s10-ultra-5g-1427676'>¿Tablet o portátil? Tras dos semanas probando esta Samsung  Galaxy Tab S10 Ultra 5G, no me queda claro</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-tab-s10-ultra-5g-1427676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-tab-s10-ultra-5g-4271153.jpg?tf=1200x' alt='¿Tablet o portátil? Tras dos semanas probando esta Samsung  Galaxy Tab S10 Ultra 5G, no me queda claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-1428617'>"Puede arruinarte las Navidades": La policía advierte de esta peligrosa práctica con los paquetes de Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-1428617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puede-arruinarte-navidades-policia-advierte-peligrosa-practica-paquetes-amazon-4270952.jpg?tf=1200x' alt='"Puede arruinarte las Navidades": La policía advierte de esta peligrosa práctica con los paquetes de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-1428628'>NASA: estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-1428628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='NASA: estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años' />
     </a>
 </div>
 
