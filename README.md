@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-spacex-facebook-dominan-otro-ano-record-internet-1429074'>Google, SpaceX y Facebook dominan en otro año récord para Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-spacex-facebook-dominan-otro-ano-record-internet-1429074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/internet-4271728.jpg?tf=1200x' alt='Google, SpaceX y Facebook dominan en otro año récord para Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ia-chrome-protege-mejor-windows-11-1429072'>Google afirma que su IA en Chrome protege mejor en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ia-chrome-protege-mejor-windows-11-1429072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-chrome-windows-11-4271723.jpg?tf=1200x' alt='Google afirma que su IA en Chrome protege mejor en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-1429071'>España tiene la conexión a Internet más rápida del mundo en 2024, según Cloudflare</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-1429071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-4271705.jpg?tf=1200x' alt='España tiene la conexión a Internet más rápida del mundo en 2024, según Cloudflare' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-1428859'>Se estrenó en 2008, pero este remake protagonizado por Jason Statham se ha colado ahora entre lo más visto de Amazon Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-1428859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-4271372.jpg?tf=1200x' alt='Se estrenó en 2008, pero este remake protagonizado por Jason Statham se ha colado ahora entre lo más visto de Amazon Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-1428901'>“Es tan terrible que lo solucionan o me voy", descubren un cambio en WhatsApp del que casi nadie se ha dado cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/life/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-1428901' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/losjasca-tiktok-4271643.jpg?tf=1200x' alt='“Es tan terrible que lo solucionan o me voy", descubren un cambio en WhatsApp del que casi nadie se ha dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/madrid-da-bienvenida-tecnologia-futuro-convirtiendose-medio-prueba-coches-autonomos-drones-1428998'>Madrid da la bienvenida a la tecnología del futuro, convirtiéndose en un medio de prueba con coches autónomos y drones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/madrid-da-bienvenida-tecnologia-futuro-convirtiendose-medio-prueba-coches-autonomos-drones-1428998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/madrid-como-gran-sandbox-4271648.jpg?tf=1200x' alt='Madrid da la bienvenida a la tecnología del futuro, convirtiéndose en un medio de prueba con coches autónomos y drones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-google-maps-ni-waze-dgt-no-gusta-uses-ya-busca-formas-evitarlo-1428908'>Ni Google Maps ni Waze, a la DGT no le gusta que las uses y ya busca formas de evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-google-maps-ni-waze-dgt-no-gusta-uses-ya-busca-formas-evitarlo-1428908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-maps-ni-waze-dgt-no-gusta-uses-ya-busca-formas-evitarlo-4271498.jpg?tf=1200x' alt='Ni Google Maps ni Waze, a la DGT no le gusta que las uses y ya busca formas de evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/significan-nuevos-iconos-whatsapp-puntos-suspensivos-microfono-ondas-sonido-1429000'>Qué significan los nuevos iconos de WhatsApp: puntos suspensivos, micrófono y ondas de sonido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/significan-nuevos-iconos-whatsapp-puntos-suspensivos-microfono-ondas-sonido-1429000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-iconos-4271600.jpg?tf=1200x' alt='Qué significan los nuevos iconos de WhatsApp: puntos suspensivos, micrófono y ondas de sonido' />
     </a>
 </div>
 
