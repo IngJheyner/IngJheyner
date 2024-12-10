@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/animal-mas-longevo-tierra-esponja-mar-1428779'>Parece fake news, pero no lo es: descubren en la Antártida un animal con 11.000 años de edad</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/animal-mas-longevo-tierra-esponja-mar-1428779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-fake-news-pero-no-descubren-antartida-animal-11000-anos-edad-4271233.jpg?tf=1200x' alt='Parece fake news, pero no lo es: descubren en la Antártida un animal con 11.000 años de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/mercedes-benz-pintura-solar-coche-electrico-20000-km-gratis-1428766'>Una pintura para el coche de Mercedes-Benz permite conducir 20.000 Km gratis al año, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/mercedes-benz-pintura-solar-coche-electrico-20000-km-gratis-1428766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733775085069-4271196.jpg?tf=1200x' alt='Una pintura para el coche de Mercedes-Benz permite conducir 20.000 Km gratis al año, lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/como-whatsapp-instagram-spotify-te-manipulan-atraer-atencion-1428750'>Así es cómo WhatsApp, Instagram y Spotify te manipulan para atraer tu atención</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/como-whatsapp-instagram-spotify-te-manipulan-atraer-atencion-1428750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aplicaciones-movil-4271194.jpg?tf=1200x' alt='Así es cómo WhatsApp, Instagram y Spotify te manipulan para atraer tu atención' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654'>Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estafas-navidad-debes-actuar-web-te-engana-alguna-compras-1428654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-fraude-4271018.jpg?tf=1200x' alt='Estafas en Navidad: así debes actuar si una web te engaña con alguna de tus compras' />
     </a>
 </div>
 
