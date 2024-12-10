@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-1428901'>“Es tan terrible que lo solucionan o me voy", descubren un cambio en WhatsApp del que casi nadie se ha dado cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-1428901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/losjasca-tiktok-4271643.jpg?tf=1200x' alt='“Es tan terrible que lo solucionan o me voy", descubren un cambio en WhatsApp del que casi nadie se ha dado cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/madrid-da-bienvenida-tecnologia-futuro-convirtiendose-medio-prueba-coches-autonomos-drones-1428998'>Madrid da la bienvenida a la tecnología del futuro, convirtiéndose en un medio de prueba con coches autónomos y drones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/madrid-da-bienvenida-tecnologia-futuro-convirtiendose-medio-prueba-coches-autonomos-drones-1428998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/madrid-como-gran-sandbox-4271648.jpg?tf=1200x' alt='Madrid da la bienvenida a la tecnología del futuro, convirtiéndose en un medio de prueba con coches autónomos y drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/ni-google-maps-ni-waze-dgt-no-gusta-uses-ya-busca-formas-evitarlo-1428908'>Ni Google Maps ni Waze, a la DGT no le gusta que las uses y ya busca formas de evitarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ni-google-maps-ni-waze-dgt-no-gusta-uses-ya-busca-formas-evitarlo-1428908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-maps-ni-waze-dgt-no-gusta-uses-ya-busca-formas-evitarlo-4271498.jpg?tf=1200x' alt='Ni Google Maps ni Waze, a la DGT no le gusta que las uses y ya busca formas de evitarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/potente-tablet-apenas-300-euros-planta-cara-todas-snapdragon-8-gen-1-precio-ganga-1428862'>Esta potente tablet de apenas 300 euros planta cara a todas: Snapdragon 8+ Gen 1 a precio de ganga</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/potente-tablet-apenas-300-euros-planta-cara-todas-snapdragon-8-gen-1-precio-ganga-1428862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lenovo-legion-y700-4271340.jpg?tf=1200x' alt='Esta potente tablet de apenas 300 euros planta cara a todas: Snapdragon 8+ Gen 1 a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/olvidate-cohetes-cientificos-japoneses-reinventan-viaje-espacial-nuevo-sistema-1428951'>Olvídate de los cohetes: científicos japoneses reinventan el viaje espacial con un nuevo sistema</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/olvidate-cohetes-cientificos-japoneses-reinventan-viaje-espacial-nuevo-sistema-1428951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ascensor-espacial-japones-4271520.jpg?tf=1200x' alt='Olvídate de los cohetes: científicos japoneses reinventan el viaje espacial con un nuevo sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/sencillo-truco-experto-recuperar-espacio-whatsapp-eliminar-nada-importante-1428976'>El sencillo truco de un experto para recuperar espacio en WhatsApp sin eliminar nada importante</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/sencillo-truco-experto-recuperar-espacio-whatsapp-eliminar-nada-importante-1428976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sencillo-truco-experto-recuperar-espacio-whatsapp-eliminar-nada-importante-4271619.jpg?tf=1200x' alt='El sencillo truco de un experto para recuperar espacio en WhatsApp sin eliminar nada importante' />
     </a>
 </div>
 
