@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-2024-1429082'>Dana, teletrabajar y desarrollador, entre las nuevas palabras del Diccionario de la Lengua Española de la RAE en 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-2024-1429082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-4271739.jpg?tf=1200x' alt='Dana, teletrabajar y desarrollador, entre las nuevas palabras del Diccionario de la Lengua Española de la RAE en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-1429075'>¿Escuchar para ver? La IA que convierte sonidos en imágenes callejeras precisas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-1429075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-4271731.jpg?tf=1200x' alt='¿Escuchar para ver? La IA que convierte sonidos en imágenes callejeras precisas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-1429071'>España tiene la conexión a Internet más rápida del mundo en 2024, según Cloudflare</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-1429071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-4271705.jpg?tf=1200x' alt='España tiene la conexión a Internet más rápida del mundo en 2024, según Cloudflare' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-1428859'>Se estrenó en 2008, pero este remake protagonizado por Jason Statham se ha colado ahora entre lo más visto de Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-1428859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estreno-2008-pero-remake-protagonizado-jason-statham-ha-colado-ahora-visto-amazon-prime-video-4271372.jpg?tf=1200x' alt='Se estrenó en 2008, pero este remake protagonizado por Jason Statham se ha colado ahora entre lo más visto de Amazon Prime Video' />
     </a>
 </div>
 
