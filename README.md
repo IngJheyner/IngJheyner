@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-shop-llega-espana-comprar-vender-forma-local-1429364'>TikTok Shop llega a España para comprar y vender de forma local a través de TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiktok-shop-llega-espana-comprar-vender-forma-local-1429364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiktok-shop-llega-espana-comprar-vender-forma-local-traves-tiktok-4272234.jpg?tf=1200x' alt='TikTok Shop llega a España para comprar y vender de forma local a través de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357'>Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-lanza-ios-182-chatgpt-apple-intelligence-ahora-tiene-ojos-4272212.jpg?tf=1200x' alt='Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/podria-lucir-nintendo-switch-2-modelo-3d-filtrado-1429347'>Así podría lucir la Nintendo Switch 2 según un modelo 3D filtrado</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/podria-lucir-nintendo-switch-2-modelo-3d-filtrado-1429347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/filtracion-nintendo-switch-2-4272217.jpg?tf=1200x' alt='Así podría lucir la Nintendo Switch 2 según un modelo 3D filtrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/audio-android-auto-ultimo-parche-causa-caos-dispositivos-no-instales-1429345'>Sin audio en Android Auto: el último parche causa caos en los dispositivos, no lo instales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/audio-android-auto-ultimo-parche-causa-caos-dispositivos-no-instales-1429345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='Sin audio en Android Auto: el último parche causa caos en los dispositivos, no lo instales' />
     </a>
 </div>
 
