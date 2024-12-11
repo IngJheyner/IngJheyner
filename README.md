@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250'>El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-4272043.jpg?tf=1200x' alt='El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/brushing-estafa-paquete-no-has-pedido-puedes-abrirlo-incluso-quedartelo-pero-nunca-hagas-1429228'>Brushing o la estafa del paquete que no has pedido: puedes abrirlo e incluso quedártelo, pero nunca hagas esto</a></h4>
     <a href='https://computerhoy.20minutos.es/life/brushing-estafa-paquete-no-has-pedido-puedes-abrirlo-incluso-quedartelo-pero-nunca-hagas-1429228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/p-4272063.jpg?tf=1200x' alt='Brushing o la estafa del paquete que no has pedido: puedes abrirlo e incluso quedártelo, pero nunca hagas esto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-tienes-tirados-cajon-hoy-dia-valen-pequena-fortuna-1429244'>Móviles que tienes tirados en el cajón y que hoy en día valen una pequeña fortuna</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/moviles-tienes-tirados-cajon-hoy-dia-valen-pequena-fortuna-1429244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Móviles que tienes tirados en el cajón y que hoy en día valen una pequeña fortuna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231'>Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-4272022.jpg?tf=1200x' alt='Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet' />
     </a>
 </div>
 
