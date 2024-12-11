@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-1428945'>Si tienes una cámara de fotos antigua en casa, tienes un tesoro: esta es la razón por la que vuelven a estar de moda entre los jóvenes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-1428945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-4271484.jpg?tf=1200x' alt='Si tienes una cámara de fotos antigua en casa, tienes un tesoro: esta es la razón por la que vuelven a estar de moda entre los jóvenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-1428933'>Expertos alertan del aumento de las estafas en Google Maps: "Sabemos dónde vives”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-1428933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-4271478.jpg?tf=1200x' alt='Expertos alertan del aumento de las estafas en Google Maps: "Sabemos dónde vives”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-1428988'>El cable de antena: el olvidado en las tormentas que puede causar serios problemas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-1428988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-4271568.jpg?tf=1200x' alt='El cable de antena: el olvidado en las tormentas que puede causar serios problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hace-dos-anos-me-compre-raton-costara-doble-volveria-comprar-1428817'>Hace dos años me compré este ratón y, si costara el doble, lo volvería a comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hace-dos-anos-me-compre-raton-costara-doble-volveria-comprar-1428817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/logitech-lift-4271317.jpg?tf=1200x' alt='Hace dos años me compré este ratón y, si costara el doble, lo volvería a comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-jefe-ia-contradicen-sam-altman-superinteligencia-artificial-tardara-esperado-1428977'>Microsoft y su jefe de IA contradicen a Sam Altman: "La superinteligencia artificial tardará más de lo esperado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-jefe-ia-contradicen-sam-altman-superinteligencia-artificial-tardara-esperado-1428977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mustafa-suleyman-3033612.jpg?tf=1200x' alt='Microsoft y su jefe de IA contradicen a Sam Altman: "La superinteligencia artificial tardará más de lo esperado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ray-ban-meta-solos-airgo-v-gafas-inteligentes-camara-chatgpt-1429104'>Adiós a Ray-Ban de Meta: Solos AirGo V, las gafas inteligentes con cámara y ChatGPT, lo cambian todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-ray-ban-meta-solos-airgo-v-gafas-inteligentes-camara-chatgpt-1429104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/solos-nuevas-gafas-inteligentes-camara-chatgpt-cambian-todo-4271759.jpg?tf=1200x' alt='Adiós a Ray-Ban de Meta: Solos AirGo V, las gafas inteligentes con cámara y ChatGPT, lo cambian todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/quien-cobra-ingeniero-espana-personal-limpieza-suiza-expatriada-espanola-da-respuesta-1428867'>¿Quién cobra más: un ingeniero en España o el personal de limpieza en Suiza? Una expatriada española da la respuesta</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/quien-cobra-ingeniero-espana-personal-limpieza-suiza-expatriada-espanola-da-respuesta-1428867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/limpiadora-suiza-vs-ingeniero-espanol-4271427.jpg?tf=1200x' alt='¿Quién cobra más: un ingeniero en España o el personal de limpieza en Suiza? Una expatriada española da la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-2024-1429082'>Dana, teletrabajar y desarrollador, entre las nuevas palabras del Diccionario de la Lengua Española de la RAE en 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-2024-1429082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-4271739.jpg?tf=1200x' alt='Dana, teletrabajar y desarrollador, entre las nuevas palabras del Diccionario de la Lengua Española de la RAE en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-1429075'>¿Escuchar para ver? La IA que convierte sonidos en imágenes callejeras precisas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-1429075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-4271731.jpg?tf=1200x' alt='¿Escuchar para ver? La IA que convierte sonidos en imágenes callejeras precisas' />
     </a>
 </div>
 
