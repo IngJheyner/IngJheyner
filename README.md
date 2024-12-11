@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-1429131'>Marcha atrás histórica de Microsoft: dejará instalar Windows 11 en equipos no compatibles (pero tiene truco)</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-1429131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-4271809.jpg?tf=1200x' alt='Marcha atrás histórica de Microsoft: dejará instalar Windows 11 en equipos no compatibles (pero tiene truco)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/llevo-2-dias-probando-transcripcion-automatica-audios-whatsapp-tengo-claro-no-vuelvo-1429142'>Llevo 2 días probando la transcripción automática de los audios de WhatsApp y lo tengo claro: "No vuelvo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/llevo-2-dias-probando-transcripcion-automatica-audios-whatsapp-tengo-claro-no-vuelvo-1429142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Llevo 2 días probando la transcripción automática de los audios de WhatsApp y lo tengo claro: "No vuelvo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/senal-laser-espacio-profundo-alcanza-tierra-1340250'>No es Interestelar, es real: la Tierra recibe un mensaje enviado por láser desde 16 millones de kilómetros de distancia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/senal-laser-espacio-profundo-alcanza-tierra-1340250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/interestelar-2279433.jpg?tf=1200x' alt='No es Interestelar, es real: la Tierra recibe un mensaje enviado por láser desde 16 millones de kilómetros de distancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-denuncia-characterai-chatbot-adolescente-asesine-padres-1429135'>Nueva denuncia a CharacterAI porque un chatbot sugirió a un adolescente que asesine a sus padres</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nueva-denuncia-characterai-chatbot-adolescente-asesine-padres-1429135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nueva-denuncia-chatbot-characterai-sugerir-adolescente-autolesione-asesine-padres-4271796.jpg?tf=1200x' alt='Nueva denuncia a CharacterAI porque un chatbot sugirió a un adolescente que asesine a sus padres' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-funcion-esperada-gratis-todos-incluso-usuarios-espana-1429124'>ChatGPT estrena la función más esperada: gratis para todos, incluso para los usuarios en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-funcion-esperada-gratis-todos-incluso-usuarios-espana-1429124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='ChatGPT estrena la función más esperada: gratis para todos, incluso para los usuarios en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/vas-regalar-movil-quieres-sea-barato-te-presento-poco-c75-menos-100-euros-1429092'>Si vas a regalar un móvil y quieres que sea barato, te presento al POCO C75, por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/vas-regalar-movil-quieres-sea-barato-te-presento-poco-c75-menos-100-euros-1429092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/poco-c75-4271757.jpg?tf=1200x' alt='Si vas a regalar un móvil y quieres que sea barato, te presento al POCO C75, por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-galaxy-tab-s10-ultra-facil-ha-sido-convertirla-portatil-1428816'>Lo que más me ha gustado del Galaxy Tab S10 Ultra es lo fácil que ha sido convertirla en un portátil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-galaxy-tab-s10-ultra-facil-ha-sido-convertirla-portatil-1428816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-tab-s10-ultra-5g-4271159.jpg?tf=1200x' alt='Lo que más me ha gustado del Galaxy Tab S10 Ultra es lo fácil que ha sido convertirla en un portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/me-han-estafado-42000-euros-ciberataque-casi-perfecto-pero-he-aprendido-varias-cosas-deberias-tener-cuenta-1428698'>Me han estafado 42.000 euros con un ciberataque "casi perfecto", pero he aprendido varias cosas que deberías tener en cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/me-han-estafado-42000-euros-ciberataque-casi-perfecto-pero-he-aprendido-varias-cosas-deberias-tener-cuenta-1428698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hector-rodriguez-monerris-ceo-fundador-marca-condal-hacking-4271447.jpg?tf=1200x' alt='Me han estafado 42.000 euros con un ciberataque "casi perfecto", pero he aprendido varias cosas que deberías tener en cuenta' />
     </a>
 </div>
 
