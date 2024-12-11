@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/vas-regalar-movil-quieres-sea-barato-te-presento-poco-c75-menos-100-euros-1429092'>Si vas a regalar un móvil y quieres que sea barato, te presento al POCO C75, por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/vas-regalar-movil-quieres-sea-barato-te-presento-poco-c75-menos-100-euros-1429092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/poco-c75-4271757.jpg?tf=1200x' alt='Si vas a regalar un móvil y quieres que sea barato, te presento al POCO C75, por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-galaxy-tab-s10-ultra-facil-ha-sido-convertirla-portatil-1428816'>Lo que más me ha gustado del Galaxy Tab S10 Ultra es lo fácil que ha sido convertirla en un portátil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-galaxy-tab-s10-ultra-facil-ha-sido-convertirla-portatil-1428816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-tab-s10-ultra-5g-4271159.jpg?tf=1200x' alt='Lo que más me ha gustado del Galaxy Tab S10 Ultra es lo fácil que ha sido convertirla en un portátil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-1428933'>Expertos alertan del aumento de las estafas en Google Maps: "Sabemos dónde vives”</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-1428933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-4271478.jpg?tf=1200x' alt='Expertos alertan del aumento de las estafas en Google Maps: "Sabemos dónde vives”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-1428988'>El cable de antena: el olvidado en las tormentas que puede causar serios problemas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-1428988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-4271568.jpg?tf=1200x' alt='El cable de antena: el olvidado en las tormentas que puede causar serios problemas' />
     </a>
 </div>
 
