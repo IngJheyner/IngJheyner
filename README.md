@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-denuncia-characterai-chatbot-adolescente-asesine-padres-1429135'>Nueva denuncia a CharacterAI porque un chatbot sugirió a un adolescente que asesine a sus padres</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-denuncia-characterai-chatbot-adolescente-asesine-padres-1429135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nueva-denuncia-chatbot-characterai-sugerir-adolescente-autolesione-asesine-padres-4271796.jpg?tf=1200x' alt='Nueva denuncia a CharacterAI porque un chatbot sugirió a un adolescente que asesine a sus padres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-funcion-esperada-gratis-todos-incluso-usuarios-espana-1429124'>ChatGPT estrena la función más esperada: gratis para todos, incluso para los usuarios en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-funcion-esperada-gratis-todos-incluso-usuarios-espana-1429124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='ChatGPT estrena la función más esperada: gratis para todos, incluso para los usuarios en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/vas-regalar-movil-quieres-sea-barato-te-presento-poco-c75-menos-100-euros-1429092'>Si vas a regalar un móvil y quieres que sea barato, te presento al POCO C75, por menos de 100 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/android/vas-regalar-movil-quieres-sea-barato-te-presento-poco-c75-menos-100-euros-1429092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/poco-c75-4271757.jpg?tf=1200x' alt='Si vas a regalar un móvil y quieres que sea barato, te presento al POCO C75, por menos de 100 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/me-han-estafado-42000-euros-ciberataque-casi-perfecto-pero-he-aprendido-varias-cosas-deberias-tener-cuenta-1428698'>Me han estafado 42.000 euros con un ciberataque "casi perfecto", pero he aprendido varias cosas que deberías tener en cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/me-han-estafado-42000-euros-ciberataque-casi-perfecto-pero-he-aprendido-varias-cosas-deberias-tener-cuenta-1428698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hector-rodriguez-monerris-ceo-fundador-marca-condal-hacking-4271447.jpg?tf=1200x' alt='Me han estafado 42.000 euros con un ciberataque "casi perfecto", pero he aprendido varias cosas que deberías tener en cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-1428945'>Si tienes una cámara de fotos antigua en casa, tienes un tesoro: esta es la razón por la que vuelven a estar de moda entre los jóvenes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-1428945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-4271484.jpg?tf=1200x' alt='Si tienes una cámara de fotos antigua en casa, tienes un tesoro: esta es la razón por la que vuelven a estar de moda entre los jóvenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-1428933'>Expertos alertan del aumento de las estafas en Google Maps: "Sabemos dónde vives”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-1428933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-alertan-aumento-estafas-google-maps-sabemos-donde-vives-4271478.jpg?tf=1200x' alt='Expertos alertan del aumento de las estafas en Google Maps: "Sabemos dónde vives”' />
     </a>
 </div>
 
