@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-1429155'>El juego del calamar tiene competencia en Netflix: la “otra” serie coreana que arrasa en la plataforma</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-1429155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-4271852.jpg?tf=1200x' alt='El juego del calamar tiene competencia en Netflix: la “otra” serie coreana que arrasa en la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-estrena-gemini-20-agentes-ia-como-gran-novedad-1429338'>Google estrena Gemini 2.0 con los agentes de IA como gran novedad</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-estrena-gemini-20-agentes-ia-como-gran-novedad-1429338' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-estrena-gemini-20-apple-lanza-ios-182-chatgpt-4272148.jpg?tf=1200x' alt='Google estrena Gemini 2.0 con los agentes de IA como gran novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-1429193'>Prime Video tiene la serie más buscada en Google en 2024, y así es su segunda temporada</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-1429193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-4271961.jpg?tf=1200x' alt='Prime Video tiene la serie más buscada en Google en 2024, y así es su segunda temporada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250'>El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-4272043.jpg?tf=1200x' alt='El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/brushing-estafa-paquete-no-has-pedido-puedes-abrirlo-incluso-quedartelo-pero-nunca-hagas-1429228'>Brushing o la estafa del paquete que no has pedido: puedes abrirlo e incluso quedártelo, pero nunca hagas esto</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/brushing-estafa-paquete-no-has-pedido-puedes-abrirlo-incluso-quedartelo-pero-nunca-hagas-1429228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/p-4272063.jpg?tf=1200x' alt='Brushing o la estafa del paquete que no has pedido: puedes abrirlo e incluso quedártelo, pero nunca hagas esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208'>Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robots-pal-robotics-4272018.jpg?tf=1200x' alt='Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas' />
     </a>
 </div>
 
