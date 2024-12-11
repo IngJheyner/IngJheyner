@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-jefe-ia-contradicen-sam-altman-superinteligencia-artificial-tardara-esperado-1428977'>Microsoft y su jefe de IA contradicen a Sam Altman: "La superinteligencia artificial tardará más de lo esperado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-jefe-ia-contradicen-sam-altman-superinteligencia-artificial-tardara-esperado-1428977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mustafa-suleyman-3033612.jpg?tf=1200x' alt='Microsoft y su jefe de IA contradicen a Sam Altman: "La superinteligencia artificial tardará más de lo esperado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ray-ban-meta-solos-airgo-v-gafas-inteligentes-camara-chatgpt-1429104'>Adiós a Ray-Ban de Meta: Solos AirGo V, las gafas inteligentes con cámara y ChatGPT, lo cambian todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-ray-ban-meta-solos-airgo-v-gafas-inteligentes-camara-chatgpt-1429104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/solos-nuevas-gafas-inteligentes-camara-chatgpt-cambian-todo-4271759.jpg?tf=1200x' alt='Adiós a Ray-Ban de Meta: Solos AirGo V, las gafas inteligentes con cámara y ChatGPT, lo cambian todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/quien-cobra-ingeniero-espana-personal-limpieza-suiza-expatriada-espanola-da-respuesta-1428867'>¿Quién cobra más: un ingeniero en España o el personal de limpieza en Suiza? Una expatriada española da la respuesta</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/quien-cobra-ingeniero-espana-personal-limpieza-suiza-expatriada-espanola-da-respuesta-1428867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/limpiadora-suiza-vs-ingeniero-espanol-4271427.jpg?tf=1200x' alt='¿Quién cobra más: un ingeniero en España o el personal de limpieza en Suiza? Una expatriada española da la respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-2024-1429082'>Dana, teletrabajar y desarrollador, entre las nuevas palabras del Diccionario de la Lengua Española de la RAE en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-2024-1429082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dana-teletrabajar-desarrollador-nuevas-palabras-diccionario-lengua-espanola-rae-4271739.jpg?tf=1200x' alt='Dana, teletrabajar y desarrollador, entre las nuevas palabras del Diccionario de la Lengua Española de la RAE en 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-1429075'>¿Escuchar para ver? La IA que convierte sonidos en imágenes callejeras precisas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-1429075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/escuchar-ver-ia-convierte-sonidos-imagenes-callejeras-precisas-4271731.jpg?tf=1200x' alt='¿Escuchar para ver? La IA que convierte sonidos en imágenes callejeras precisas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-spacex-facebook-dominan-otro-ano-record-internet-1429074'>Google, SpaceX y Facebook dominan en otro año récord para Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-spacex-facebook-dominan-otro-ano-record-internet-1429074' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/internet-4271728.jpg?tf=1200x' alt='Google, SpaceX y Facebook dominan en otro año récord para Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ia-chrome-protege-mejor-windows-11-1429072'>Google afirma que su IA en Chrome protege mejor en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ia-chrome-protege-mejor-windows-11-1429072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-chrome-windows-11-4271723.jpg?tf=1200x' alt='Google afirma que su IA en Chrome protege mejor en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-1429071'>España tiene la conexión a Internet más rápida del mundo en 2024, según Cloudflare</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-1429071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/espana-tiene-conexion-internet-rapida-mundo-2024-cloudflare-4271705.jpg?tf=1200x' alt='España tiene la conexión a Internet más rápida del mundo en 2024, según Cloudflare' />
     </a>
 </div>
 
