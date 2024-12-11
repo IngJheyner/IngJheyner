@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357'>Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-lanza-ios-182-chatgpt-apple-intelligence-ahora-tiene-ojos-4272212.jpg?tf=1200x' alt='Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/actualizacion-google-maps-luce-nueva-paleta-colores-android-1429351'>Actualización de Google Maps: así luce la nueva paleta de colores en Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/actualizacion-google-maps-luce-nueva-paleta-colores-android-1429351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-todas-novedades-ha-traido-google-maps-2024-3853293.jpg?tf=1200x' alt='Actualización de Google Maps: así luce la nueva paleta de colores en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301'>WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apps-prohibidas-whatsapp-4272154.jpg?tf=1200x' alt='WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/audio-android-auto-ultimo-parche-causa-caos-dispositivos-no-instales-1429345'>Sin audio en Android Auto: el último parche causa caos en los dispositivos, no lo instales</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/audio-android-auto-ultimo-parche-causa-caos-dispositivos-no-instales-1429345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='Sin audio en Android Auto: el último parche causa caos en los dispositivos, no lo instales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-1429155'>El juego del calamar tiene competencia en Netflix: la “otra” serie coreana que arrasa en la plataforma</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-1429155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-4271852.jpg?tf=1200x' alt='El juego del calamar tiene competencia en Netflix: la “otra” serie coreana que arrasa en la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-estrena-gemini-20-agentes-ia-como-gran-novedad-1429338'>Google estrena Gemini 2.0 con los agentes de IA como gran novedad</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-estrena-gemini-20-agentes-ia-como-gran-novedad-1429338' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-estrena-gemini-20-apple-lanza-ios-182-chatgpt-4272148.jpg?tf=1200x' alt='Google estrena Gemini 2.0 con los agentes de IA como gran novedad' />
     </a>
 </div>
 
