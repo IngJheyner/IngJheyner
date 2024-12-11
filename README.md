@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208'>Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robots-pal-robotics-4272018.jpg?tf=1200x' alt='Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-provincias-puede-encontrarse-cuando-llegara-casa-1429262'>DIGI TV: en qué provincias puede encontrarse y cuándo llegará a tu casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-provincias-puede-encontrarse-cuando-llegara-casa-1429262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-provincias-espana-4272075.jpg?tf=1200x' alt='DIGI TV: en qué provincias puede encontrarse y cuándo llegará a tu casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-tienes-tirados-cajon-hoy-dia-valen-pequena-fortuna-1429244'>Móviles que tienes tirados en el cajón y que hoy en día valen una pequeña fortuna</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/moviles-tienes-tirados-cajon-hoy-dia-valen-pequena-fortuna-1429244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Móviles que tienes tirados en el cajón y que hoy en día valen una pequeña fortuna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231'>Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet</a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-4272022.jpg?tf=1200x' alt='Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/experto-intenta-crear-ps5-portatil-pega-realidad-pesaria-como-10-nintendo-switch-1429220'>Experto intenta crear la PS5 portátil y se la pega con la realidad: "Pesaría como 10 Nintendo Switch"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/experto-intenta-crear-ps5-portatil-pega-realidad-pesaria-como-10-nintendo-switch-1429220' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ps5-portatil-nintendo-switch-4272045.jpg?tf=1200x' alt='Experto intenta crear la PS5 portátil y se la pega con la realidad: "Pesaría como 10 Nintendo Switch"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-trabaja-nueva-funcion-apple-watch-podria-salvarte-vida-1429167'>Apple trabaja en una nueva función para los Apple Watch que podría salvarte la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-trabaja-nueva-funcion-apple-watch-podria-salvarte-vida-1429167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-watch-ultra-3-4271971.jpg?tf=1200x' alt='Apple trabaja en una nueva función para los Apple Watch que podría salvarte la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/4-errores-puedes-cometer-gmail-podrian-despedirte-1429182'>4 errores que puedes cometer en Gmail y por los que podrían despedirte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/4-errores-puedes-cometer-gmail-podrian-despedirte-1429182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/causas-despido-mal-uso-correo-electronico-gmail-4272007.jpg?tf=1200x' alt='4 errores que puedes cometer en Gmail y por los que podrían despedirte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-comienza-vender-coches-llegara-espana-1429187'>Amazon comienza a vender coches, ¿llegará a España?</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-comienza-vender-coches-llegara-espana-1429187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-comienza-vender-coches-llegara-espana-4271952.jpg?tf=1200x' alt='Amazon comienza a vender coches, ¿llegará a España?' />
     </a>
 </div>
 
