@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-comienza-vender-coches-llegara-espana-1429187'>Amazon comienza a vender coches, ¿llegará a España?</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-comienza-vender-coches-llegara-espana-1429187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-comienza-vender-coches-llegara-espana-4271952.jpg?tf=1200x' alt='Amazon comienza a vender coches, ¿llegará a España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estamos-primeros-dias-era-autonoma-bill-gates-volvio-acertar-1429160'>“Estamos en los primeros días de una era autónoma”: Bill Gates volvió a acertar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estamos-primeros-dias-era-autonoma-bill-gates-volvio-acertar-1429160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bill-gates-4271870.jpg?tf=1200x' alt='“Estamos en los primeros días de una era autónoma”: Bill Gates volvió a acertar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-1429131'>Marcha atrás histórica de Microsoft: dejará instalar Windows 11 en equipos no compatibles (pero tiene truco)</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-1429131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-4271809.jpg?tf=1200x' alt='Marcha atrás histórica de Microsoft: dejará instalar Windows 11 en equipos no compatibles (pero tiene truco)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/llevo-2-dias-probando-transcripcion-automatica-audios-whatsapp-tengo-claro-no-vuelvo-1429142'>Llevo 2 días probando la transcripción automática de los audios de WhatsApp y lo tengo claro: "No vuelvo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/llevo-2-dias-probando-transcripcion-automatica-audios-whatsapp-tengo-claro-no-vuelvo-1429142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Llevo 2 días probando la transcripción automática de los audios de WhatsApp y lo tengo claro: "No vuelvo"' />
     </a>
 </div>
 
