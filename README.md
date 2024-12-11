@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301'>WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apps-prohibidas-whatsapp-4272154.jpg?tf=1200x' alt='WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/podria-lucir-nintendo-switch-2-modelo-3d-filtrado-1429347'>Así podría lucir la Nintendo Switch 2 según un modelo 3D filtrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/podria-lucir-nintendo-switch-2-modelo-3d-filtrado-1429347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/filtracion-nintendo-switch-2-4272217.jpg?tf=1200x' alt='Así podría lucir la Nintendo Switch 2 según un modelo 3D filtrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/audio-android-auto-ultimo-parche-causa-caos-dispositivos-no-instales-1429345'>Sin audio en Android Auto: el último parche causa caos en los dispositivos, no lo instales</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/audio-android-auto-ultimo-parche-causa-caos-dispositivos-no-instales-1429345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='Sin audio en Android Auto: el último parche causa caos en los dispositivos, no lo instales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-1429155'>El juego del calamar tiene competencia en Netflix: la “otra” serie coreana que arrasa en la plataforma</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-1429155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juego-calamar-tiene-competencia-netflix-otra-serie-coreana-arrasa-plataforma-4271852.jpg?tf=1200x' alt='El juego del calamar tiene competencia en Netflix: la “otra” serie coreana que arrasa en la plataforma' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-estrena-gemini-20-agentes-ia-como-gran-novedad-1429338'>Google estrena Gemini 2.0 con los agentes de IA como gran novedad</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-estrena-gemini-20-agentes-ia-como-gran-novedad-1429338' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-estrena-gemini-20-apple-lanza-ios-182-chatgpt-4272148.jpg?tf=1200x' alt='Google estrena Gemini 2.0 con los agentes de IA como gran novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-1429193'>Prime Video tiene la serie más buscada en Google en 2024, y así es su segunda temporada</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-1429193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-4271961.jpg?tf=1200x' alt='Prime Video tiene la serie más buscada en Google en 2024, y así es su segunda temporada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-baratos-compraria-anc-apenas-20-euros-1429147'>Estos son los auriculares baratos que compraría: con ANC y por apenas 20 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-baratos-compraria-anc-apenas-20-euros-1429147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-nothing-buds-4271842.jpg?tf=1200x' alt='Estos son los auriculares baratos que compraría: con ANC y por apenas 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250'>El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-4272043.jpg?tf=1200x' alt='El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla' />
     </a>
 </div>
 
