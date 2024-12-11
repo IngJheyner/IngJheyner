@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estamos-primeros-dias-era-autonoma-bill-gates-volvio-acertar-1429160'>“Estamos en los primeros días de una era autónoma”: Bill Gates volvió a acertar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estamos-primeros-dias-era-autonoma-bill-gates-volvio-acertar-1429160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bill-gates-4271870.jpg?tf=1200x' alt='“Estamos en los primeros días de una era autónoma”: Bill Gates volvió a acertar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-15-estrena-funcion-exclusiva-controlar-mejor-camara-microfono-movil-1429163'>Android 15 estrena una función exclusiva para controlar mejor la cámara y el micrófono de tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-15-estrena-funcion-exclusiva-controlar-mejor-camara-microfono-movil-1429163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-15-4271933.jpg?tf=1200x' alt='Android 15 estrena una función exclusiva para controlar mejor la cámara y el micrófono de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/visitas-domicilio-policia-listas-iptv-graves-consecuencias-1427779'>Visitas a domicilio en una ofensiva nunca vista contra las IPTV: "Las consecuencias pueden ser muy graves"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/visitas-domicilio-policia-listas-iptv-graves-consecuencias-1427779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/visitas-domicilio-ofensiva-nunca-vista-iptv-corre-riesgo-enfrentar-graves-consecuencias-4269577.jpg?tf=1200x' alt='Visitas a domicilio en una ofensiva nunca vista contra las IPTV: "Las consecuencias pueden ser muy graves"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-1429131'>Marcha atrás histórica de Microsoft: dejará instalar Windows 11 en equipos no compatibles (pero tiene truco)</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-1429131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-4271809.jpg?tf=1200x' alt='Marcha atrás histórica de Microsoft: dejará instalar Windows 11 en equipos no compatibles (pero tiene truco)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/llevo-2-dias-probando-transcripcion-automatica-audios-whatsapp-tengo-claro-no-vuelvo-1429142'>Llevo 2 días probando la transcripción automática de los audios de WhatsApp y lo tengo claro: "No vuelvo"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/llevo-2-dias-probando-transcripcion-automatica-audios-whatsapp-tengo-claro-no-vuelvo-1429142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Llevo 2 días probando la transcripción automática de los audios de WhatsApp y lo tengo claro: "No vuelvo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/senal-laser-espacio-profundo-alcanza-tierra-1340250'>No es Interestelar, es real: la Tierra recibe un mensaje enviado por láser desde 16 millones de kilómetros de distancia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/senal-laser-espacio-profundo-alcanza-tierra-1340250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/interestelar-2279433.jpg?tf=1200x' alt='No es Interestelar, es real: la Tierra recibe un mensaje enviado por láser desde 16 millones de kilómetros de distancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-denuncia-characterai-chatbot-adolescente-asesine-padres-1429135'>Nueva denuncia a CharacterAI porque un chatbot sugirió a un adolescente que asesine a sus padres</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-denuncia-characterai-chatbot-adolescente-asesine-padres-1429135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nueva-denuncia-chatbot-characterai-sugerir-adolescente-autolesione-asesine-padres-4271796.jpg?tf=1200x' alt='Nueva denuncia a CharacterAI porque un chatbot sugirió a un adolescente que asesine a sus padres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-funcion-esperada-gratis-todos-incluso-usuarios-espana-1429124'>ChatGPT estrena la función más esperada: gratis para todos, incluso para los usuarios en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-funcion-esperada-gratis-todos-incluso-usuarios-espana-1429124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/chatgpt-3404414.jpg?tf=1200x' alt='ChatGPT estrena la función más esperada: gratis para todos, incluso para los usuarios en España' />
     </a>
 </div>
 
