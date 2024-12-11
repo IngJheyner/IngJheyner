@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231'>Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-4272022.jpg?tf=1200x' alt='Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/experto-intenta-crear-ps5-portatil-pega-realidad-pesaria-como-10-nintendo-switch-1429220'>Experto intenta crear la PS5 portátil y se la pega con la realidad: "Pesaría como 10 Nintendo Switch"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/experto-intenta-crear-ps5-portatil-pega-realidad-pesaria-como-10-nintendo-switch-1429220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ps5-portatil-nintendo-switch-4272045.jpg?tf=1200x' alt='Experto intenta crear la PS5 portátil y se la pega con la realidad: "Pesaría como 10 Nintendo Switch"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-trabaja-nueva-funcion-apple-watch-podria-salvarte-vida-1429167'>Apple trabaja en una nueva función para los Apple Watch que podría salvarte la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-trabaja-nueva-funcion-apple-watch-podria-salvarte-vida-1429167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-watch-ultra-3-4271971.jpg?tf=1200x' alt='Apple trabaja en una nueva función para los Apple Watch que podría salvarte la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/4-errores-puedes-cometer-gmail-podrian-despedirte-1429182'>4 errores que puedes cometer en Gmail y por los que podrían despedirte</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/4-errores-puedes-cometer-gmail-podrian-despedirte-1429182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/causas-despido-mal-uso-correo-electronico-gmail-4272007.jpg?tf=1200x' alt='4 errores que puedes cometer en Gmail y por los que podrían despedirte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-comienza-vender-coches-llegara-espana-1429187'>Amazon comienza a vender coches, ¿llegará a España?</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-comienza-vender-coches-llegara-espana-1429187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-comienza-vender-coches-llegara-espana-4271952.jpg?tf=1200x' alt='Amazon comienza a vender coches, ¿llegará a España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estamos-primeros-dias-era-autonoma-bill-gates-volvio-acertar-1429160'>“Estamos en los primeros días de una era autónoma”: Bill Gates volvió a acertar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estamos-primeros-dias-era-autonoma-bill-gates-volvio-acertar-1429160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bill-gates-4271870.jpg?tf=1200x' alt='“Estamos en los primeros días de una era autónoma”: Bill Gates volvió a acertar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-15-estrena-funcion-exclusiva-controlar-mejor-camara-microfono-movil-1429163'>Android 15 estrena una función exclusiva para controlar mejor la cámara y el micrófono de tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-15-estrena-funcion-exclusiva-controlar-mejor-camara-microfono-movil-1429163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-15-4271933.jpg?tf=1200x' alt='Android 15 estrena una función exclusiva para controlar mejor la cámara y el micrófono de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/visitas-domicilio-policia-listas-iptv-graves-consecuencias-1427779'>Visitas a domicilio en una ofensiva nunca vista contra las IPTV: "Las consecuencias pueden ser muy graves"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/visitas-domicilio-policia-listas-iptv-graves-consecuencias-1427779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/visitas-domicilio-ofensiva-nunca-vista-iptv-corre-riesgo-enfrentar-graves-consecuencias-4269577.jpg?tf=1200x' alt='Visitas a domicilio en una ofensiva nunca vista contra las IPTV: "Las consecuencias pueden ser muy graves"' />
     </a>
 </div>
 
