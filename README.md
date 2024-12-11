@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/brushing-estafa-paquete-no-has-pedido-puedes-abrirlo-incluso-quedartelo-pero-nunca-hagas-1429228'>Brushing o la estafa del paquete que no has pedido: puedes abrirlo e incluso quedártelo, pero nunca hagas esto</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/brushing-estafa-paquete-no-has-pedido-puedes-abrirlo-incluso-quedartelo-pero-nunca-hagas-1429228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/p-4272063.jpg?tf=1200x' alt='Brushing o la estafa del paquete que no has pedido: puedes abrirlo e incluso quedártelo, pero nunca hagas esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208'>Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robots-pal-robotics-4272018.jpg?tf=1200x' alt='Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231'>Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet</a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-1429231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llevar-pasaporte-fisico-ahora-puedes-llevarlo-movil-google-wallet-4272022.jpg?tf=1200x' alt='Adiós a llevar el pasaporte en físico, ahora puedes llevarlo en el móvil con Google Wallet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/experto-intenta-crear-ps5-portatil-pega-realidad-pesaria-como-10-nintendo-switch-1429220'>Experto intenta crear la PS5 portátil y se la pega con la realidad: "Pesaría como 10 Nintendo Switch"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/experto-intenta-crear-ps5-portatil-pega-realidad-pesaria-como-10-nintendo-switch-1429220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ps5-portatil-nintendo-switch-4272045.jpg?tf=1200x' alt='Experto intenta crear la PS5 portátil y se la pega con la realidad: "Pesaría como 10 Nintendo Switch"' />
     </a>
 </div>
 
