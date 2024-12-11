@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-galaxy-tab-s10-ultra-facil-ha-sido-convertirla-portatil-1428816'>Lo que más me ha gustado del Galaxy Tab S10 Ultra es lo fácil que ha sido convertirla en un portátil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-galaxy-tab-s10-ultra-facil-ha-sido-convertirla-portatil-1428816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-tab-s10-ultra-5g-4271159.jpg?tf=1200x' alt='Lo que más me ha gustado del Galaxy Tab S10 Ultra es lo fácil que ha sido convertirla en un portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/me-han-estafado-42000-euros-ciberataque-casi-perfecto-pero-he-aprendido-varias-cosas-deberias-tener-cuenta-1428698'>Me han estafado 42.000 euros con un ciberataque "casi perfecto", pero he aprendido varias cosas que deberías tener en cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/me-han-estafado-42000-euros-ciberataque-casi-perfecto-pero-he-aprendido-varias-cosas-deberias-tener-cuenta-1428698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hector-rodriguez-monerris-ceo-fundador-marca-condal-hacking-4271447.jpg?tf=1200x' alt='Me han estafado 42.000 euros con un ciberataque "casi perfecto", pero he aprendido varias cosas que deberías tener en cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-1428945'>Si tienes una cámara de fotos antigua en casa, tienes un tesoro: esta es la razón por la que vuelven a estar de moda entre los jóvenes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-1428945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienes-camara-fotos-antigua-casa-tienes-tesoro-razon-vuelven-estar-moda-jovenes-4271484.jpg?tf=1200x' alt='Si tienes una cámara de fotos antigua en casa, tienes un tesoro: esta es la razón por la que vuelven a estar de moda entre los jóvenes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-1428988'>El cable de antena: el olvidado en las tormentas que puede causar serios problemas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-1428988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cable-antena-olvidado-tormentas-puede-causar-serios-problemas-4271568.jpg?tf=1200x' alt='El cable de antena: el olvidado en las tormentas que puede causar serios problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hace-dos-anos-me-compre-raton-costara-doble-volveria-comprar-1428817'>Hace dos años me compré este ratón y, si costara el doble, lo volvería a comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hace-dos-anos-me-compre-raton-costara-doble-volveria-comprar-1428817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/logitech-lift-4271317.jpg?tf=1200x' alt='Hace dos años me compré este ratón y, si costara el doble, lo volvería a comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-jefe-ia-contradicen-sam-altman-superinteligencia-artificial-tardara-esperado-1428977'>Microsoft y su jefe de IA contradicen a Sam Altman: "La superinteligencia artificial tardará más de lo esperado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-jefe-ia-contradicen-sam-altman-superinteligencia-artificial-tardara-esperado-1428977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/mustafa-suleyman-3033612.jpg?tf=1200x' alt='Microsoft y su jefe de IA contradicen a Sam Altman: "La superinteligencia artificial tardará más de lo esperado"' />
     </a>
 </div>
 
