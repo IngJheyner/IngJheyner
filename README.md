@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-1429193'>Prime Video tiene la serie más buscada en Google en 2024, y así es su segunda temporada</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-1429193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/prime-video-tiene-serie-buscada-google-2024-segunda-temporada-4271961.jpg?tf=1200x' alt='Prime Video tiene la serie más buscada en Google en 2024, y así es su segunda temporada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-baratos-compraria-anc-apenas-20-euros-1429147'>Estos son los auriculares baratos que compraría: con ANC y por apenas 20 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/estos-son-auriculares-baratos-compraria-anc-apenas-20-euros-1429147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-nothing-buds-4271842.jpg?tf=1200x' alt='Estos son los auriculares baratos que compraría: con ANC y por apenas 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250'>El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-1429250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/studio-ghibli-hizo-secuela-mi-vecino-totoro-pero-poder-verla-no-tarea-sencilla-4272043.jpg?tf=1200x' alt='El Studio Ghibli sí hizo una secuela de Mi vecino Totoro, pero poder verla no es una tarea sencilla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208'>Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/robot-humanoide-espanol-ya-trabaja-hospitales-ayuda-enfermeros-tareas-1429208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robots-pal-robotics-4272018.jpg?tf=1200x' alt='Este es el robot humanoide español que ya trabaja en hospitales y ayuda a los enfermeros en sus tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-provincias-puede-encontrarse-cuando-llegara-casa-1429262'>DIGI TV: en qué provincias puede encontrarse y cuándo llegará a tu casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-provincias-puede-encontrarse-cuando-llegara-casa-1429262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-provincias-espana-4272075.jpg?tf=1200x' alt='DIGI TV: en qué provincias puede encontrarse y cuándo llegará a tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-tienes-tirados-cajon-hoy-dia-valen-pequena-fortuna-1429244'>Móviles que tienes tirados en el cajón y que hoy en día valen una pequeña fortuna</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/moviles-tienes-tirados-cajon-hoy-dia-valen-pequena-fortuna-1429244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/tienes-estos-moviles-tontos-podria-valer-fortuna-estan-pagando-miles-euros-3946692.jpg?tf=1200x' alt='Móviles que tienes tirados en el cajón y que hoy en día valen una pequeña fortuna' />
     </a>
 </div>
 
