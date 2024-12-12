@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/regalar-familiares-amigos-navidad-chatgpt-gemini-copilot-1429453'>Qué regalar a tus familiares y amigos en Navidad, según ChatGPT, Gemini, Copilot y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/regalar-familiares-amigos-navidad-chatgpt-gemini-copilot-1429453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/regalos-navidad-ideas-familiares-amigos-4272464.jpg?tf=1200x' alt='Qué regalar a tus familiares y amigos en Navidad, según ChatGPT, Gemini, Copilot y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-fin-podras-compartir-archivos-iphone-windows-app-1429399'>Giro de 180 grados: por fin podrás compartir archivos desde tu iPhone a tu Windows con una app</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-fin-podras-compartir-archivos-iphone-windows-app-1429399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/compartir-archivos-iphone-windows-aplicacion-microsoft-4272407.jpg?tf=1200x' alt='Giro de 180 grados: por fin podrás compartir archivos desde tu iPhone a tu Windows con una app' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-liada-portatil-32gb-ram-cuesta-599-euros-i7-1429120'>No es una liada: este portátil con 32GB de RAM cuesta 599 euros ¡y con i7!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-liada-portatil-32gb-ram-cuesta-599-euros-i7-1429120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alurin-flex-advance-i7-4271799.jpg?tf=1200x' alt='No es una liada: este portátil con 32GB de RAM cuesta 599 euros ¡y con i7!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/industria/elon-musk-duplica-fortuna-dos-meses-convierte-primera-persona-superar-400000-millones-1429425'>Elon Musk duplica su fortuna en dos meses y se convierte en la primera persona en superar los 400.000 millones</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/elon-musk-duplica-fortuna-dos-meses-convierte-primera-persona-superar-400000-millones-1429425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Elon Musk duplica su fortuna en dos meses y se convierte en la primera persona en superar los 400.000 millones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/tv-tcl-usaran-ia-ofrecer-anuncios-personalizados-1429411'>Las TV de TCL usarán IA para ofrecer anuncios personalizados</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/tv-tcl-usaran-ia-ofrecer-anuncios-personalizados-1429411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tv-tcl-usaran-ia-ofrecer-anuncios-personalizados-4272329.jpg?tf=1200x' alt='Las TV de TCL usarán IA para ofrecer anuncios personalizados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-baltra-chip-avanzado-ia-2026-todos-detalles-acuerdo-broadcom-1429433'>Apple prepara Baltra, un chip avanzado con IA para 2026: todos los detalles del acuerdo con Broadcom</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-prepara-baltra-chip-avanzado-ia-2026-todos-detalles-acuerdo-broadcom-1429433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-chip-inteligencia-artificial-4272411.jpg?tf=1200x' alt='Apple prepara Baltra, un chip avanzado con IA para 2026: todos los detalles del acuerdo con Broadcom' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/integracion-siri-chatgpt-ya-disponible-iphone-ipad-mac-1429430'>La integración de Siri con ChatGPT ya está disponible en iPhone, iPad y Mac</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/integracion-siri-chatgpt-ya-disponible-iphone-ipad-mac-1429430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-apple-intelligence-siri-4272393.jpg?tf=1200x' alt='La integración de Siri con ChatGPT ya está disponible en iPhone, iPad y Mac' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arenero-automatico-barato-me-quedo-sin-excusas-1427118'>Los areneros automáticos eran caros, pero ya no: me quedo sin excusas y al final voy a tener que comprar uno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/arenero-automatico-barato-me-quedo-sin-excusas-1427118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/arenero-gato-4268445.jpg?tf=1200x' alt='Los areneros automáticos eran caros, pero ya no: me quedo sin excusas y al final voy a tener que comprar uno' />
     </a>
 </div>
 
