@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-pirateria-policia-visita-casas-transmisiones-ilegales-firestick-1429653'>Golpe a la piratería: la policía visita casas por transmisiones ilegales con Firestick</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/golpe-pirateria-policia-visita-casas-transmisiones-ilegales-firestick-1429653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iptv-ilegal-4272771.jpg?tf=1200x' alt='Golpe a la piratería: la policía visita casas por transmisiones ilegales con Firestick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-rompe-barreras-pronto-podras-chatear-miedo-idioma-gracias-traduccion-automatica-1429652'>WhatsApp rompe barreras: pronto podrás chatear sin miedo al idioma gracias a la traducción automática</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-rompe-barreras-pronto-podras-chatear-miedo-idioma-gracias-traduccion-automatica-1429652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/idiomas-whatsapp-4272769.jpg?tf=1200x' alt='WhatsApp rompe barreras: pronto podrás chatear sin miedo al idioma gracias a la traducción automática' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cable-usb-c-podria-ser-espia-desvela-analisis-rayos-x-1429651'>Tu cable USB-C podría ser un espía: así se desvela en un análisis con rayos X</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cable-usb-c-podria-ser-espia-desvela-analisis-rayos-x-1429651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cable-usb-c-podria-ser-espia-desvela-analisis-rayos-x-4272767.jpg?tf=1200x' alt='Tu cable USB-C podría ser un espía: así se desvela en un análisis con rayos X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-funcion-clave-windows-11-adios-acciones-sugeridas-1429648'>Microsoft elimina una función clave de Windows 11: adiós a las "acciones sugeridas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-funcion-clave-windows-11-adios-acciones-sugeridas-1429648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-4272763.jpg?tf=1200x' alt='Microsoft elimina una función clave de Windows 11: adiós a las "acciones sugeridas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-pide-movil-regalale-pantalla-tinta-electronica-antitiktok-android-13-1428896'>Si tu hijo pide un móvil, regálale esto: pantalla de tinta electrónica antiTikTok y Android 13</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hijo-pide-movil-regalale-pantalla-tinta-electronica-antitiktok-android-13-1428896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/boox-palma-2-4271404.jpg?tf=1200x' alt='Si tu hijo pide un móvil, regálale esto: pantalla de tinta electrónica antiTikTok y Android 13' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-1429573'>60 años para mover un sofá: un matemático encuentra la respuesta a su gran problema gracias a la ciencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-1429573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-4272614.jpg?tf=1200x' alt='60 años para mover un sofá: un matemático encuentra la respuesta a su gran problema gracias a la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trabajo-ia-sustituira-solo-tres-anos-experto-1429530'>Este es el trabajo que la IA sustituirá en solo tres años, según un experto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/trabajo-ia-sustituira-solo-tres-anos-experto-1429530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-leyendo-4272615.jpg?tf=1200x' alt='Este es el trabajo que la IA sustituirá en solo tres años, según un experto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-android-xr-samsung-project-moohan-1429626'>Google y Samsung anuncian unas gafas con IA y el nuevo Android XR, para competir con Apple Vision Pro y Meta Quest</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-android-xr-samsung-project-moohan-1429626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-samsung-lanzan-unas-gafas-ia-nuevo-android-xr-competir-apple-vision-pro-meta-quest-4272694.jpg?tf=1200x' alt='Google y Samsung anuncian unas gafas con IA y el nuevo Android XR, para competir con Apple Vision Pro y Meta Quest' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517'>"No cogen el teléfono": el problema para encontrar trabajo de la generación Z</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jovenes-movil-4272562.jpg?tf=1200x' alt='"No cogen el teléfono": el problema para encontrar trabajo de la generación Z' />
     </a>
 </div>
 
