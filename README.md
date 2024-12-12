@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/lg-deja-fabricar-reproductores-blu-ray-1429664'>El fin del Blu-ray, más cerca: LG deja de fabricar reproductores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/lg-deja-fabricar-reproductores-blu-ray-1429664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fin-blu-ray-cerca-lg-deja-fabricar-reproductores-4272770.jpg?tf=1200x' alt='El fin del Blu-ray, más cerca: LG deja de fabricar reproductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-pirateria-policia-visita-casas-transmisiones-ilegales-firestick-1429653'>Golpe a la piratería: la policía visita casas por transmisiones ilegales con Firestick</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/golpe-pirateria-policia-visita-casas-transmisiones-ilegales-firestick-1429653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iptv-ilegal-4272771.jpg?tf=1200x' alt='Golpe a la piratería: la policía visita casas por transmisiones ilegales con Firestick' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-funcion-clave-windows-11-adios-acciones-sugeridas-1429648'>Microsoft elimina una función clave de Windows 11: adiós a las "acciones sugeridas"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-funcion-clave-windows-11-adios-acciones-sugeridas-1429648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-4272763.jpg?tf=1200x' alt='Microsoft elimina una función clave de Windows 11: adiós a las "acciones sugeridas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-pide-movil-regalale-pantalla-tinta-electronica-antitiktok-android-13-1428896'>Si tu hijo pide un móvil, regálale esto: pantalla de tinta electrónica antiTikTok y Android 13</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hijo-pide-movil-regalale-pantalla-tinta-electronica-antitiktok-android-13-1428896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/boox-palma-2-4271404.jpg?tf=1200x' alt='Si tu hijo pide un móvil, regálale esto: pantalla de tinta electrónica antiTikTok y Android 13' />
     </a>
 </div>
 
