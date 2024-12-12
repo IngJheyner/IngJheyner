@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517'>"No cogen el teléfono": el problema para encontrar trabajo de la generación Z</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jovenes-movil-4272562.jpg?tf=1200x' alt='"No cogen el teléfono": el problema para encontrar trabajo de la generación Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/vas-regalar-ipad-ahora-momento-amazon-ha-rebajado-tiene-stock-pero-estan-agotando-1429405'>Si vas a regalar un iPad, ahora es el momento: Amazon los ha rebajado y tiene stock, pero se están agotando</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/vas-regalar-ipad-ahora-momento-amazon-ha-rebajado-tiene-stock-pero-estan-agotando-1429405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Si vas a regalar un iPad, ahora es el momento: Amazon los ha rebajado y tiene stock, pero se están agotando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-seas-persona-eras-hace-20-anos-clave-steve-jobs-encontrar-felicidad-harvard-1429477'>"No seas la persona que eras hace 20 años": la clave de Steve Jobs para encontrar la felicidad, según Harvard</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-seas-persona-eras-hace-20-anos-clave-steve-jobs-encontrar-felicidad-harvard-1429477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tim-cook-steve-jobs-4272506.jpg?tf=1200x' alt='"No seas la persona que eras hace 20 años": la clave de Steve Jobs para encontrar la felicidad, según Harvard' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-1429482'>Giro de 180 grados en Google Maps: cambia la forma en la que verifican los límites de velocidad</a></h4>
     <a href='https://computerhoy.20minutos.es/google/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-1429482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-4272473.jpg?tf=1200x' alt='Giro de 180 grados en Google Maps: cambia la forma en la que verifican los límites de velocidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/huawei-mate-x6-llega-gran-revolucion-mundo-plegables-acompanado-freebuds-pro-4-1429388'>Huawei Mate X6: llega la gran revolución en el mundo de los plegables acompañado de los FreeBuds Pro 4</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/huawei-mate-x6-llega-gran-revolucion-mundo-plegables-acompanado-freebuds-pro-4-1429388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-mate-x6-4272517.jpg?tf=1200x' alt='Huawei Mate X6: llega la gran revolución en el mundo de los plegables acompañado de los FreeBuds Pro 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-norton-ni-mcafee-jovenes-ya-no-usan-antivirus-pago-expertos-1429456'>Ni Norton ni McAfee: los jóvenes ya no usan antivirus de pago, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-norton-ni-mcafee-jovenes-ya-no-usan-antivirus-pago-expertos-1429456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/antivirus-ordenador-3942232.jpg?tf=1200x' alt='Ni Norton ni McAfee: los jóvenes ya no usan antivirus de pago, según los expertos' />
     </a>
 </div>
 
