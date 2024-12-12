@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-1429482'>Giro de 180 grados en Google Maps: cambia la forma en la que verifican los límites de velocidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-1429482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-4272473.jpg?tf=1200x' alt='Giro de 180 grados en Google Maps: cambia la forma en la que verifican los límites de velocidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/huawei-mate-x6-llega-gran-revolucion-mundo-plegables-acompanado-freebuds-pro-4-1429388'>Huawei Mate X6: llega la gran revolución en el mundo de los plegables acompañado de los FreeBuds Pro 4</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/huawei-mate-x6-llega-gran-revolucion-mundo-plegables-acompanado-freebuds-pro-4-1429388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-mate-x6-4272517.jpg?tf=1200x' alt='Huawei Mate X6: llega la gran revolución en el mundo de los plegables acompañado de los FreeBuds Pro 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-norton-ni-mcafee-jovenes-ya-no-usan-antivirus-pago-expertos-1429456'>Ni Norton ni McAfee: los jóvenes ya no usan antivirus de pago, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-norton-ni-mcafee-jovenes-ya-no-usan-antivirus-pago-expertos-1429456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/antivirus-ordenador-3942232.jpg?tf=1200x' alt='Ni Norton ni McAfee: los jóvenes ya no usan antivirus de pago, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-mejor-lugar-espana-pasar-navidad-1427486'>Según la inteligencia artificial, este es el mejor lugar de España para pasar la Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-mejor-lugar-espana-pasar-navidad-1427486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/navidad-espana-ia-4268984.jpg?tf=1200x' alt='Según la inteligencia artificial, este es el mejor lugar de España para pasar la Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/elon-musk-abre-ia-x-todos-usuarios-como-acceder-ella-1429504'>Elon Musk abre la IA de X a todos los usuarios: cómo acceder a ella</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/elon-musk-abre-ia-x-todos-usuarios-como-acceder-ella-1429504' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-imagen-generada-ia-grok-4272521.jpg?tf=1200x' alt='Elon Musk abre la IA de X a todos los usuarios: cómo acceder a ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/smart-tv-te-vigila-ajustar-publicidad-revela-nuevo-estudio-1429443'>Tu Smart TV te vigila para ajustar la publicidad, según revela un nuevo estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/smart-tv-te-vigila-ajustar-publicidad-revela-nuevo-estudio-1429443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tvs-espian-usuarios-4272443.jpg?tf=1200x' alt='Tu Smart TV te vigila para ajustar la publicidad, según revela un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-pasarte-horas-buscando-google-nueva-herramienta-gemini-solventara-problemas-minutos-1429458'>Adiós a pasarte horas buscando en Google: la nueva herramienta de Gemini solventará tus problemas en minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-pasarte-horas-buscando-google-nueva-herramienta-gemini-solventara-problemas-minutos-1429458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-pasarte-horas-buscando-google-nueva-herramienta-gemini-solventara-problemas-minutos-4272422.jpg?tf=1200x' alt='Adiós a pasarte horas buscando en Google: la nueva herramienta de Gemini solventará tus problemas en minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/apuesta-tesla-desafia-normas-espanolas-lanzamiento-estrella-2025-1429489'>La apuesta de Tesla que desafía las normas españolas: este es su lanzamiento estrella para 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/apuesta-tesla-desafia-normas-espanolas-lanzamiento-estrella-2025-1429489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='La apuesta de Tesla que desafía las normas españolas: este es su lanzamiento estrella para 2025' />
     </a>
 </div>
 
