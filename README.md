@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-1429374'>Aurora, la IA de Grok que genera imágenes sin censura, está causando el caos en X </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-1429374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-4272254.jpg?tf=1200x' alt='Aurora, la IA de Grok que genera imágenes sin censura, está causando el caos en X ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-shop-llega-espana-comprar-vender-forma-local-1429364'>TikTok Shop llega a España para comprar y vender de forma local a través de TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tiktok-shop-llega-espana-comprar-vender-forma-local-1429364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiktok-shop-llega-espana-comprar-vender-forma-local-traves-tiktok-4272234.jpg?tf=1200x' alt='TikTok Shop llega a España para comprar y vender de forma local a través de TikTok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301'>WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apps-prohibidas-whatsapp-4272154.jpg?tf=1200x' alt='WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/podria-lucir-nintendo-switch-2-modelo-3d-filtrado-1429347'>Así podría lucir la Nintendo Switch 2 según un modelo 3D filtrado</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/podria-lucir-nintendo-switch-2-modelo-3d-filtrado-1429347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/filtracion-nintendo-switch-2-4272217.jpg?tf=1200x' alt='Así podría lucir la Nintendo Switch 2 según un modelo 3D filtrado' />
     </a>
 </div>
 
