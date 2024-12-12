@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-1429573'>60 años para mover un sofá: un matemático encuentra la respuesta a su gran problema gracias a la ciencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-1429573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-4272614.jpg?tf=1200x' alt='60 años para mover un sofá: un matemático encuentra la respuesta a su gran problema gracias a la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trabajo-ia-sustituira-solo-tres-anos-experto-1429530'>Este es el trabajo que la IA sustituirá en solo tres años, según un experto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/trabajo-ia-sustituira-solo-tres-anos-experto-1429530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-leyendo-4272615.jpg?tf=1200x' alt='Este es el trabajo que la IA sustituirá en solo tres años, según un experto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-android-xr-samsung-project-moohan-1429626'>Google y Samsung anuncian unas gafas con IA y el nuevo Android XR, para competir con Apple Vision Pro y Meta Quest</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-android-xr-samsung-project-moohan-1429626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-samsung-lanzan-unas-gafas-ia-nuevo-android-xr-competir-apple-vision-pro-meta-quest-4272694.jpg?tf=1200x' alt='Google y Samsung anuncian unas gafas con IA y el nuevo Android XR, para competir con Apple Vision Pro y Meta Quest' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517'>"No cogen el teléfono": el problema para encontrar trabajo de la generación Z</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jovenes-movil-4272562.jpg?tf=1200x' alt='"No cogen el teléfono": el problema para encontrar trabajo de la generación Z' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/vas-regalar-ipad-ahora-momento-amazon-ha-rebajado-tiene-stock-pero-estan-agotando-1429405'>Si vas a regalar un iPad, ahora es el momento: Amazon los ha rebajado y tiene stock, pero se están agotando</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/vas-regalar-ipad-ahora-momento-amazon-ha-rebajado-tiene-stock-pero-estan-agotando-1429405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Si vas a regalar un iPad, ahora es el momento: Amazon los ha rebajado y tiene stock, pero se están agotando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-seas-persona-eras-hace-20-anos-clave-steve-jobs-encontrar-felicidad-harvard-1429477'>"No seas la persona que eras hace 20 años": la clave de Steve Jobs para encontrar la felicidad, según Harvard</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-seas-persona-eras-hace-20-anos-clave-steve-jobs-encontrar-felicidad-harvard-1429477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tim-cook-steve-jobs-4272506.jpg?tf=1200x' alt='"No seas la persona que eras hace 20 años": la clave de Steve Jobs para encontrar la felicidad, según Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/he-probado-durante-minutos-huawei-mate-x6-duda-gran-revolucion-movil-plegable-1428975'>He probado durante unos minutos el Huawei Mate X6 y sin duda es la gran revolución del móvil plegable </a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/he-probado-durante-minutos-huawei-mate-x6-duda-gran-revolucion-movil-plegable-1428975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-mate-x6-4272607.jpg?tf=1200x' alt='He probado durante unos minutos el Huawei Mate X6 y sin duda es la gran revolución del móvil plegable ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-1429482'>Giro de 180 grados en Google Maps: cambia la forma en la que verifican los límites de velocidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-1429482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-4272473.jpg?tf=1200x' alt='Giro de 180 grados en Google Maps: cambia la forma en la que verifican los límites de velocidad' />
     </a>
 </div>
 
