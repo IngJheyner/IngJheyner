@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-pide-movil-regalale-pantalla-tinta-electronica-antitiktok-android-13-1428896'>Si tu hijo pide un móvil, regálale esto: pantalla de tinta electrónica antiTikTok y Android 13</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hijo-pide-movil-regalale-pantalla-tinta-electronica-antitiktok-android-13-1428896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/boox-palma-2-4271404.jpg?tf=1200x' alt='Si tu hijo pide un móvil, regálale esto: pantalla de tinta electrónica antiTikTok y Android 13' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-1429573'>60 años para mover un sofá: un matemático encuentra la respuesta a su gran problema gracias a la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-1429573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/60-anos-mover-sofa-matematico-encuentra-respuesta-gran-problema-gracias-ciencia-4272614.jpg?tf=1200x' alt='60 años para mover un sofá: un matemático encuentra la respuesta a su gran problema gracias a la ciencia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517'>"No cogen el teléfono": el problema para encontrar trabajo de la generación Z</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-cogen-telefono-problema-encontrar-trabajo-generacion-z-1429517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jovenes-movil-4272562.jpg?tf=1200x' alt='"No cogen el teléfono": el problema para encontrar trabajo de la generación Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/vas-regalar-ipad-ahora-momento-amazon-ha-rebajado-tiene-stock-pero-estan-agotando-1429405'>Si vas a regalar un iPad, ahora es el momento: Amazon los ha rebajado y tiene stock, pero se están agotando</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/vas-regalar-ipad-ahora-momento-amazon-ha-rebajado-tiene-stock-pero-estan-agotando-1429405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Si vas a regalar un iPad, ahora es el momento: Amazon los ha rebajado y tiene stock, pero se están agotando' />
     </a>
 </div>
 
