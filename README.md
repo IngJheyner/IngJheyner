@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/integracion-siri-chatgpt-ya-disponible-iphone-ipad-mac-1429430'>La integración de Siri con ChatGPT ya está disponible en iPhone, iPad y Mac</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/integracion-siri-chatgpt-ya-disponible-iphone-ipad-mac-1429430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-apple-intelligence-siri-4272393.jpg?tf=1200x' alt='La integración de Siri con ChatGPT ya está disponible en iPhone, iPad y Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arenero-automatico-barato-me-quedo-sin-excusas-1427118'>Los areneros automáticos eran caros, pero ya no: me quedo sin excusas y al final voy a tener que comprar uno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/arenero-automatico-barato-me-quedo-sin-excusas-1427118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/arenero-gato-4268445.jpg?tf=1200x' alt='Los areneros automáticos eran caros, pero ya no: me quedo sin excusas y al final voy a tener que comprar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-instagram-chatgpt-estan-caidos-ha-producido-como-solucionarlo-1429406'>WhatsApp, Instagram, ChatGPT y más están caídos: por qué se ha producido y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-instagram-chatgpt-estan-caidos-ha-producido-como-solucionarlo-1429406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/eliminar-meta-whatsapp-4267355.jpg?tf=1200x' alt='WhatsApp, Instagram, ChatGPT y más están caídos: por qué se ha producido y cómo solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/impresion-4d-objeto-cuatro-dimensiones-1429386'>Se ha impreso el primer objeto en cuatro dimensiones: algo que supera nuestra capacidad de comprensión</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/impresion-4d-objeto-cuatro-dimensiones-1429386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ha-impreso-primer-objeto-cuatro-dimensiones-algo-supera-capacidad-comprension-4272288.jpg?tf=1200x' alt='Se ha impreso el primer objeto en cuatro dimensiones: algo que supera nuestra capacidad de comprensión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-tablet-ni-portatil-dos-cosas-tiene-windows-11-potente-precio-parece-error-1429200'>Ni tablet ni portátil, las dos cosas: tiene Windows 11, es potente y su precio parece un error</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-tablet-ni-portatil-dos-cosas-tiene-windows-11-potente-precio-parece-error-1429200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ninkear-t40-4271953.jpg?tf=1200x' alt='Ni tablet ni portátil, las dos cosas: tiene Windows 11, es potente y su precio parece un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-quieres-probar-algo-relacionado-ciberseguridad-1414271'>Mejores distribuciones de Linux si quieres probar algo relacionado con ciberseguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-quieres-probar-algo-relacionado-ciberseguridad-1414271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/deberias-instalar-antivirus-linux-todo-necesitas-saber-3277652.jpg?tf=1200x' alt='Mejores distribuciones de Linux si quieres probar algo relacionado con ciberseguridad' />
     </a>
 </div>
 
