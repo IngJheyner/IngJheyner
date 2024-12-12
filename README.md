@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/impresion-4d-objeto-cuatro-dimensiones-1429386'>Se ha impreso el primer objeto en cuatro dimensiones: algo que supera nuestra capacidad de comprensión</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/impresion-4d-objeto-cuatro-dimensiones-1429386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ha-impreso-primer-objeto-cuatro-dimensiones-algo-supera-capacidad-comprension-4272288.jpg?tf=1200x' alt='Se ha impreso el primer objeto en cuatro dimensiones: algo que supera nuestra capacidad de comprensión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-tablet-ni-portatil-dos-cosas-tiene-windows-11-potente-precio-parece-error-1429200'>Ni tablet ni portátil, las dos cosas: tiene Windows 11, es potente y su precio parece un error</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-tablet-ni-portatil-dos-cosas-tiene-windows-11-potente-precio-parece-error-1429200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ninkear-t40-4271953.jpg?tf=1200x' alt='Ni tablet ni portátil, las dos cosas: tiene Windows 11, es potente y su precio parece un error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-quieres-probar-algo-relacionado-ciberseguridad-1414271'>Mejores distribuciones de Linux si quieres probar algo relacionado con ciberseguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/mejores-distribuciones-linux-quieres-probar-algo-relacionado-ciberseguridad-1414271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/deberias-instalar-antivirus-linux-todo-necesitas-saber-3277652.jpg?tf=1200x' alt='Mejores distribuciones de Linux si quieres probar algo relacionado con ciberseguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/uso-android-siempre-pero-estas-funciones-iphone-16-me-han-devuelto-confianza-apple-1418234'>Uso Android siempre, pero estas funciones del iPhone 16 me han devuelto la confianza en Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/uso-android-siempre-pero-estas-funciones-iphone-16-me-han-devuelto-confianza-apple-1418234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241454.jpg?tf=1200x' alt='Uso Android siempre, pero estas funciones del iPhone 16 me han devuelto la confianza en Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/soporta-28000-veces-radiacion-humanos-bacteria-podria-vivir-marte-1429247'>Soporta 28.000 veces más radiación que los humanos: la bacteria que podría vivir en Marte</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/soporta-28000-veces-radiacion-humanos-bacteria-podria-vivir-marte-1429247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bacteria-resistente-radiacion-4272090.jpg?tf=1200x' alt='Soporta 28.000 veces más radiación que los humanos: la bacteria que podría vivir en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-combate-tecnologia-openai-alimentara-tambien-campo-batalla-1429017'>De ChatGPT al combate: la tecnología de OpenAI alimentará también el campo de batalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-combate-tecnologia-openai-alimentara-tambien-campo-batalla-1429017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dron-4271666.jpg?tf=1200x' alt='De ChatGPT al combate: la tecnología de OpenAI alimentará también el campo de batalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usan-suplantar-identidad-nueva-estafa-preocupa-policia-nacional-1429229'>"La usan para suplantar tu identidad": así es la nueva estafa que preocupa a la Policía Nacional</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/usan-suplantar-identidad-nueva-estafa-preocupa-policia-nacional-1429229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/usan-suplantar-identidad-estafa-preocupa-policia-nacional-4272020.jpg?tf=1200x' alt='"La usan para suplantar tu identidad": así es la nueva estafa que preocupa a la Policía Nacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kobo-reta-amazon-lector-ebooks-cuesta-menos-kindle-color-casi-igual-1428885'>Kobo reta a Amazon: este lector de ebooks cuesta menos que el Kindle a color y es casi igual</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kobo-reta-amazon-lector-ebooks-cuesta-menos-kindle-color-casi-igual-1428885' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kobo-clara-colour-4271392.jpg?tf=1200x' alt='Kobo reta a Amazon: este lector de ebooks cuesta menos que el Kindle a color y es casi igual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-estudia-construir-tunel-conecte-estados-unidos-solo-54-minutos-1429251'>Europa estudia construir un túnel que conecte con Estados Unidos en solo 54 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/europa-estudia-construir-tunel-conecte-estados-unidos-solo-54-minutos-1429251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-estudia-construir-tunel-conecte-estados-unidos-costara-20-billones-trayecto-54-minutos-4272048.jpg?tf=1200x' alt='Europa estudia construir un túnel que conecte con Estados Unidos en solo 54 minutos' />
     </a>
 </div>
 
