@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-pasarte-horas-buscando-google-nueva-herramienta-gemini-solventara-problemas-minutos-1429458'>Adiós a pasarte horas buscando en Google: la nueva herramienta de Gemini solventará tus problemas en minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-pasarte-horas-buscando-google-nueva-herramienta-gemini-solventara-problemas-minutos-1429458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-pasarte-horas-buscando-google-nueva-herramienta-gemini-solventara-problemas-minutos-4272422.jpg?tf=1200x' alt='Adiós a pasarte horas buscando en Google: la nueva herramienta de Gemini solventará tus problemas en minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/apuesta-tesla-desafia-normas-espanolas-lanzamiento-estrella-2025-1429489'>La apuesta de Tesla que desafía las normas españolas: este es su lanzamiento estrella para 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/apuesta-tesla-desafia-normas-espanolas-lanzamiento-estrella-2025-1429489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tesla-cuerdas-empleados-compartieron-contenido-sensible-grabado-vehiculos-3005386.jpg?tf=1200x' alt='La apuesta de Tesla que desafía las normas españolas: este es su lanzamiento estrella para 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/no-microsoft-no-te-dejara-instalar-windows-11-pcs-soporte-1429470'>No, Microsoft no te dejará instalar Windows 11 en PCs sin soporte</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/no-microsoft-no-te-dejara-instalar-windows-11-pcs-soporte-1429470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-11-pc-3641997.jpg?tf=1200x' alt='No, Microsoft no te dejará instalar Windows 11 en PCs sin soporte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/regalar-familiares-amigos-navidad-chatgpt-gemini-copilot-1429453'>Qué regalar a tus familiares y amigos en Navidad, según ChatGPT, Gemini, Copilot y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/regalar-familiares-amigos-navidad-chatgpt-gemini-copilot-1429453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/regalos-navidad-ideas-familiares-amigos-4272464.jpg?tf=1200x' alt='Qué regalar a tus familiares y amigos en Navidad, según ChatGPT, Gemini, Copilot y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-fin-podras-compartir-archivos-iphone-windows-app-1429399'>Giro de 180 grados: por fin podrás compartir archivos desde tu iPhone a tu Windows con una app</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-fin-podras-compartir-archivos-iphone-windows-app-1429399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/compartir-archivos-iphone-windows-aplicacion-microsoft-4272407.jpg?tf=1200x' alt='Giro de 180 grados: por fin podrás compartir archivos desde tu iPhone a tu Windows con una app' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-liada-portatil-32gb-ram-cuesta-599-euros-i7-1429120'>No es una liada: este portátil con 32GB de RAM cuesta 599 euros ¡y con i7!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-liada-portatil-32gb-ram-cuesta-599-euros-i7-1429120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alurin-flex-advance-i7-4271799.jpg?tf=1200x' alt='No es una liada: este portátil con 32GB de RAM cuesta 599 euros ¡y con i7!' />
     </a>
 </div>
 
