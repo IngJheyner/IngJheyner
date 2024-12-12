@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/no-microsoft-no-te-dejara-instalar-windows-11-pcs-soporte-1429470'>No, Microsoft no te dejará instalar Windows 11 en PCs sin soporte</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/no-microsoft-no-te-dejara-instalar-windows-11-pcs-soporte-1429470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/windows-11-pc-3641997.jpg?tf=1200x' alt='No, Microsoft no te dejará instalar Windows 11 en PCs sin soporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-sacado-star-wars-pero-robot-policia-ya-patrulla-calles-china-1429444'>Parece sacado de Star Wars, pero este robot policía ya patrulla las calles de China</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parece-sacado-star-wars-pero-robot-policia-ya-patrulla-calles-china-1429444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-sacado-star-wars-pero-robot-policia-ya-patrulla-calles-china-4272409.jpg?tf=1200x' alt='Parece sacado de Star Wars, pero este robot policía ya patrulla las calles de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/regalar-familiares-amigos-navidad-chatgpt-gemini-copilot-1429453'>Qué regalar a tus familiares y amigos en Navidad, según ChatGPT, Gemini, Copilot y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/regalar-familiares-amigos-navidad-chatgpt-gemini-copilot-1429453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/regalos-navidad-ideas-familiares-amigos-4272464.jpg?tf=1200x' alt='Qué regalar a tus familiares y amigos en Navidad, según ChatGPT, Gemini, Copilot y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-liada-portatil-32gb-ram-cuesta-599-euros-i7-1429120'>No es una liada: este portátil con 32GB de RAM cuesta 599 euros ¡y con i7!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-liada-portatil-32gb-ram-cuesta-599-euros-i7-1429120' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alurin-flex-advance-i7-4271799.jpg?tf=1200x' alt='No es una liada: este portátil con 32GB de RAM cuesta 599 euros ¡y con i7!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/elon-musk-duplica-fortuna-dos-meses-convierte-primera-persona-superar-400000-millones-1429425'>Elon Musk duplica su fortuna en dos meses y se convierte en la primera persona en superar los 400.000 millones</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/elon-musk-duplica-fortuna-dos-meses-convierte-primera-persona-superar-400000-millones-1429425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Elon Musk duplica su fortuna en dos meses y se convierte en la primera persona en superar los 400.000 millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tv-tcl-usaran-ia-ofrecer-anuncios-personalizados-1429411'>Las TV de TCL usarán IA para ofrecer anuncios personalizados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tv-tcl-usaran-ia-ofrecer-anuncios-personalizados-1429411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tv-tcl-usaran-ia-ofrecer-anuncios-personalizados-4272329.jpg?tf=1200x' alt='Las TV de TCL usarán IA para ofrecer anuncios personalizados' />
     </a>
 </div>
 
