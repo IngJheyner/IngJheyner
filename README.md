@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/soporta-28000-veces-radiacion-humanos-bacteria-podria-vivir-marte-1429247'>Soporta 28.000 veces más radiación que los humanos: la bacteria que podría vivir en Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/soporta-28000-veces-radiacion-humanos-bacteria-podria-vivir-marte-1429247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bacteria-resistente-radiacion-4272090.jpg?tf=1200x' alt='Soporta 28.000 veces más radiación que los humanos: la bacteria que podría vivir en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-combate-tecnologia-openai-alimentara-tambien-campo-batalla-1429017'>De ChatGPT al combate: la tecnología de OpenAI alimentará también el campo de batalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-combate-tecnologia-openai-alimentara-tambien-campo-batalla-1429017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dron-4271666.jpg?tf=1200x' alt='De ChatGPT al combate: la tecnología de OpenAI alimentará también el campo de batalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/usan-suplantar-identidad-nueva-estafa-preocupa-policia-nacional-1429229'>"La usan para suplantar tu identidad": así es la nueva estafa que preocupa a la Policía Nacional</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/usan-suplantar-identidad-nueva-estafa-preocupa-policia-nacional-1429229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/usan-suplantar-identidad-estafa-preocupa-policia-nacional-4272020.jpg?tf=1200x' alt='"La usan para suplantar tu identidad": así es la nueva estafa que preocupa a la Policía Nacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kobo-reta-amazon-lector-ebooks-cuesta-menos-kindle-color-casi-igual-1428885'>Kobo reta a Amazon: este lector de ebooks cuesta menos que el Kindle a color y es casi igual</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kobo-reta-amazon-lector-ebooks-cuesta-menos-kindle-color-casi-igual-1428885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kobo-clara-colour-4271392.jpg?tf=1200x' alt='Kobo reta a Amazon: este lector de ebooks cuesta menos que el Kindle a color y es casi igual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-estudia-construir-tunel-conecte-estados-unidos-solo-54-minutos-1429251'>Europa estudia construir un túnel que conecte con Estados Unidos en solo 54 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/europa-estudia-construir-tunel-conecte-estados-unidos-solo-54-minutos-1429251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-estudia-construir-tunel-conecte-estados-unidos-costara-20-billones-trayecto-54-minutos-4272048.jpg?tf=1200x' alt='Europa estudia construir un túnel que conecte con Estados Unidos en solo 54 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pistola-fantasma-impresa-3d-asesino-ceo-united-healthcare-uso-plantilla-encontro-internet-1429201'>La pistola fantasma impresa en 3D: el asesino del CEO de United Healthcare usó una plantilla que encontró en internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pistola-fantasma-impresa-3d-asesino-ceo-united-healthcare-uso-plantilla-encontro-internet-1429201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pistola-fantasma-impresa-3d-asesino-ceo-united-healthcare-uso-plantilla-encontro-internet-4271987.jpg?tf=1200x' alt='La pistola fantasma impresa en 3D: el asesino del CEO de United Healthcare usó una plantilla que encontró en internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-1429374'>Aurora, la IA de Grok que genera imágenes sin censura, está causando el caos en X </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-1429374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-4272254.jpg?tf=1200x' alt='Aurora, la IA de Grok que genera imágenes sin censura, está causando el caos en X ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-shop-llega-espana-comprar-vender-forma-local-1429364'>TikTok Shop llega a España para comprar y vender de forma local a través de TikTok</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tiktok-shop-llega-espana-comprar-vender-forma-local-1429364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiktok-shop-llega-espana-comprar-vender-forma-local-traves-tiktok-4272234.jpg?tf=1200x' alt='TikTok Shop llega a España para comprar y vender de forma local a través de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357'>Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-lanza-ios-182-chatgpt-apple-intelligence-ahora-tiene-ojos-4272212.jpg?tf=1200x' alt='Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos' />
     </a>
 </div>
 
