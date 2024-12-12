@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-estudia-construir-tunel-conecte-estados-unidos-solo-54-minutos-1429251'>Europa estudia construir un túnel que conecte con Estados Unidos en solo 54 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/europa-estudia-construir-tunel-conecte-estados-unidos-solo-54-minutos-1429251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-estudia-construir-tunel-conecte-estados-unidos-costara-20-billones-trayecto-54-minutos-4272048.jpg?tf=1200x' alt='Europa estudia construir un túnel que conecte con Estados Unidos en solo 54 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pistola-fantasma-impresa-3d-asesino-ceo-united-healthcare-uso-plantilla-encontro-internet-1429201'>La pistola fantasma impresa en 3D: el asesino del CEO de United Healthcare usó una plantilla que encontró en internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pistola-fantasma-impresa-3d-asesino-ceo-united-healthcare-uso-plantilla-encontro-internet-1429201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pistola-fantasma-impresa-3d-asesino-ceo-united-healthcare-uso-plantilla-encontro-internet-4271987.jpg?tf=1200x' alt='La pistola fantasma impresa en 3D: el asesino del CEO de United Healthcare usó una plantilla que encontró en internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-1429374'>Aurora, la IA de Grok que genera imágenes sin censura, está causando el caos en X </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-1429374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aurora-ia-grok-genera-imagenes-censura-causando-caos-x-4272254.jpg?tf=1200x' alt='Aurora, la IA de Grok que genera imágenes sin censura, está causando el caos en X ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357'>Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-lanza-ios-182-chatgpt-apple-intelligence-1429357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-lanza-ios-182-chatgpt-apple-intelligence-ahora-tiene-ojos-4272212.jpg?tf=1200x' alt='Apple lanza iOS 18.2 con ChatGPT, Apple Intelligence ahora tiene ojos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/actualizacion-google-maps-luce-nueva-paleta-colores-android-1429351'>Actualización de Google Maps: así luce la nueva paleta de colores en Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/actualizacion-google-maps-luce-nueva-paleta-colores-android-1429351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/estas-son-todas-novedades-ha-traido-google-maps-2024-3853293.jpg?tf=1200x' alt='Actualización de Google Maps: así luce la nueva paleta de colores en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301'>WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-apps-prohibidas-no-deberias-instalar-no-quieres-quedarte-cuenta-1429301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apps-prohibidas-whatsapp-4272154.jpg?tf=1200x' alt='WhatsApp: apps prohibidas que no deberías instalar si no quieres quedarte sin cuenta' />
     </a>
 </div>
 
