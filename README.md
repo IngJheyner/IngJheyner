@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-navidad-rapida-sector-rebajada-70-1429605'>VPN por Navidad: la más rápida del sector está rebajada en un 70%</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-navidad-rapida-sector-rebajada-70-1429605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='VPN por Navidad: la más rápida del sector está rebajada en un 70%' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/cultura-unboxing-nos-fascina-tanto-abrir-dispositivos-nuevos-1424962'>La cultura del unboxing: ¿por qué nos fascina tanto abrir dispositivos nuevos?</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/cultura-unboxing-nos-fascina-tanto-abrir-dispositivos-nuevos-1424962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/unboxing-4265279.jpg?tf=1200x' alt='La cultura del unboxing: ¿por qué nos fascina tanto abrir dispositivos nuevos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-1429505'>Así es el oscuro thriller francés que ha enamorado a la crítica, es puro suspense y puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-1429505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-4272515.jpg?tf=1200x' alt='Así es el oscuro thriller francés que ha enamorado a la crítica, es puro suspense y puedes ver en Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-enchufes-inteligentes-casa-8-euros-cuestan-me-ahorran-mucho-trabajo-1428916'>Tengo enchufes inteligentes en casa y, por los 8 euros que cuestan, me ahorran mucho trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-enchufes-inteligentes-casa-8-euros-cuestan-me-ahorran-mucho-trabajo-1428916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tp-link-tapo-p100-2719367.jpg?tf=1200x' alt='Tengo enchufes inteligentes en casa y, por los 8 euros que cuestan, me ahorran mucho trabajo' />
     </a>
 </div>
 
