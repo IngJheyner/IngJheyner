@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuesta-navidad-puedes-activar-modo-papa-noel-1429808'>ChatGPT apuesta por la Navidad: así puedes activar su modo Papá Noel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuesta-navidad-puedes-activar-modo-papa-noel-1429808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-apuesta-navidad-puedes-activar-modo-santa-claus-4273041.jpg?tf=1200x' alt='ChatGPT apuesta por la Navidad: así puedes activar su modo Papá Noel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-wordpress-afectado-malware-gravedad-98-10-como-saber-eres-victima-1429837'>¡Alerta! WordPress afectado por un malware con una gravedad de 9,8 sobre 10: cómo saber si eres víctima</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-wordpress-afectado-malware-gravedad-98-10-como-saber-eres-victima-1429837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-wordpress-afectado-malware-como-saber-eres-victima-4273111.jpg?tf=1200x' alt='¡Alerta! WordPress afectado por un malware con una gravedad de 9,8 sobre 10: cómo saber si eres víctima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-fecha-televisores-afectados-como-saber-preparado-1429831'>Apagón TDT 2025: fecha, televisores afectados y cómo saber si el tuyo está preparado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-fecha-televisores-afectados-como-saber-preparado-1429831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3264021.jpg?tf=1200x' alt='Apagón TDT 2025: fecha, televisores afectados y cómo saber si el tuyo está preparado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-oro-meteorito-1427622'>Guarda una piedra indestructible durante años esperando que sea oro: en realidad es mucho más valiosa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-oro-meteorito-1427622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/piedra-indestructible-oro-4273067.jpg?tf=1200x' alt='Guarda una piedra indestructible durante años esperando que sea oro: en realidad es mucho más valiosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-1429780'>Tesla comienza a instalar en España una solución desesperada para salvar el coche eléctrico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-1429780' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-4273026.jpg?tf=1200x' alt='Tesla comienza a instalar en España una solución desesperada para salvar el coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-construir-megacentral-electrica-grande-europa-1426278'>Ya sabemos el lugar de España elegido para construir una megacentral eléctrica, la más grande de Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-construir-megacentral-electrica-grande-europa-1426278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/central-hidroelectrica-espana-4273066.jpg?tf=1200x' alt='Ya sabemos el lugar de España elegido para construir una megacentral eléctrica, la más grande de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-utilizar-grok-crear-propias-imagenes-aunque-jamas-hayas-tocado-ia-1429814'>Cómo utilizar Grok para crear tus propias imágenes, aunque jamás hayas tocado una IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-utilizar-grok-crear-propias-imagenes-aunque-jamas-hayas-tocado-ia-1429814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-tony-stark-grok-inteligencia-artificial-4273086.jpg?tf=1200x' alt='Cómo utilizar Grok para crear tus propias imágenes, aunque jamás hayas tocado una IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eliminar-telefono-fijo-casa-experto-1425649'>"Es la vía más directa y efectiva": Adiós al teléfono fijo, experto aconseja eliminarlo de inmediato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/eliminar-telefono-fijo-casa-experto-1425649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hombre-mayor-hablando-telefono-fijo-4273061.jpg?tf=1200x' alt='"Es la vía más directa y efectiva": Adiós al teléfono fijo, experto aconseja eliminarlo de inmediato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-mobioffice-alternativa-gratis-microsoft-office-1428677'>Ni Google Docs ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-mobioffice-alternativa-gratis-microsoft-office-1428677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-4271142.jpg?tf=1200x' alt='Ni Google Docs ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office' />
     </a>
 </div>
 
