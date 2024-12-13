@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-iphone-mucho-seguro-movil-android-1429815'>Según un experto en ciberseguridad: "Un iPhone es mucho más seguro que un móvil Android"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-iphone-mucho-seguro-movil-android-1429815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-iphone-seguridad-4273130.jpg?tf=1200x' alt='Según un experto en ciberseguridad: "Un iPhone es mucho más seguro que un móvil Android"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-fomentar-cultura-como-ex-director-tesla-utiliza-inteligencia-artificial-como-club-lectura-1429836'>¿ChatGPT para fomentar la cultura? Así es como el ex director de Tesla utiliza la inteligencia artificial como club de lectura</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-fomentar-cultura-como-ex-director-tesla-utiliza-inteligencia-artificial-como-club-lectura-1429836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-fomentar-cultura-como-ex-director-tesla-utiliza-inteligencia-artificial-como-club-lectura-4273087.jpg?tf=1200x' alt='¿ChatGPT para fomentar la cultura? Así es como el ex director de Tesla utiliza la inteligencia artificial como club de lectura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-opina-comunidad-autonoma-espana-1236976'>ChatGPT se pasa de la raya: Esto es lo que opina de los españoles según la comunidad autónoma en la que viven</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-opina-comunidad-autonoma-espana-1236976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='ChatGPT se pasa de la raya: Esto es lo que opina de los españoles según la comunidad autónoma en la que viven' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-1429871'>Mejor que La vida es bella: la conmovedora película italiana basada en hechos reales que arrasa en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-1429871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-4273162.jpg?tf=1200x' alt='Mejor que La vida es bella: la conmovedora película italiana basada en hechos reales que arrasa en Netflix' />
     </a>
 </div>
 
