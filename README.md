@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-cables-usb-c-falsos-estudio-revela-son-arma-favorita-hackers-1429790'>Adiós a los cables USB-C falsos, un estudio revela que son el arma favorita de los hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-cables-usb-c-falsos-estudio-revela-son-arma-favorita-hackers-1429790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-cables-usb-c-falsos-estudio-revela-son-arma-favorita-hackers-4273013.jpg?tf=1200x' alt='Adiós a los cables USB-C falsos, un estudio revela que son el arma favorita de los hackers' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-1429780'>Tesla comienza a instalar en España una solución desesperada para salvar el coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-1429780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-4273026.jpg?tf=1200x' alt='Tesla comienza a instalar en España una solución desesperada para salvar el coche eléctrico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-desenmascara-verdad-ia-puede-ganar-gran-maestro-ajedrez-pero-perder-nino-damas-1429809'>Experto desenmascara la verdad sobre la IA: "Puede ganar a un gran maestro de ajedrez, pero perder con un niño a las damas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-desenmascara-verdad-ia-puede-ganar-gran-maestro-ajedrez-pero-perder-nino-damas-1429809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-3300074.jpg?tf=1200x' alt='Experto desenmascara la verdad sobre la IA: "Puede ganar a un gran maestro de ajedrez, pero perder con un niño a las damas"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-construir-megacentral-electrica-grande-europa-1426278'>Ya sabemos el lugar de España elegido para construir una megacentral eléctrica, la más grande de Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-construir-megacentral-electrica-grande-europa-1426278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/central-hidroelectrica-espana-4273066.jpg?tf=1200x' alt='Ya sabemos el lugar de España elegido para construir una megacentral eléctrica, la más grande de Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/pasa-itv-seat-600-54-anos-1426686'>Pasa la ITV con un Seat 600 de 54 años y los técnicos alucinan con sus respuestas: "¿Agua? No tiene"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/pasa-itv-seat-600-54-anos-1426686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-teresafurquet-4267757.jpg?tf=1200x' alt='Pasa la ITV con un Seat 600 de 54 años y los técnicos alucinan con sus respuestas: "¿Agua? No tiene"' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-utilizar-grok-crear-propias-imagenes-aunque-jamas-hayas-tocado-ia-1429814'>Cómo utilizar Grok para crear tus propias imágenes, aunque jamás hayas tocado una IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-utilizar-grok-crear-propias-imagenes-aunque-jamas-hayas-tocado-ia-1429814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-tony-stark-grok-inteligencia-artificial-4273086.jpg?tf=1200x' alt='Cómo utilizar Grok para crear tus propias imágenes, aunque jamás hayas tocado una IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ultimo-chip-cuantico-podria-ser-clave-probar-existencia-universos-paralelos-1429742'>Google afirma que su último chip cuántico podría ser la clave para probar la existencia de universos paralelos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ultimo-chip-cuantico-podria-ser-clave-probar-existencia-universos-paralelos-1429742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chip-cuantico-4272994.jpg?tf=1200x' alt='Google afirma que su último chip cuántico podría ser la clave para probar la existencia de universos paralelos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eliminar-telefono-fijo-casa-experto-1425649'>"Es la vía más directa y efectiva": Adiós al teléfono fijo, experto aconseja eliminarlo de inmediato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/eliminar-telefono-fijo-casa-experto-1425649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hombre-mayor-hablando-telefono-fijo-4273061.jpg?tf=1200x' alt='"Es la vía más directa y efectiva": Adiós al teléfono fijo, experto aconseja eliminarlo de inmediato' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-1428628'>Según la NASA, estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-1428628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='Según la NASA, estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-mobioffice-alternativa-gratis-microsoft-office-1428677'>Ni Google Docs ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-mobioffice-alternativa-gratis-microsoft-office-1428677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-4271142.jpg?tf=1200x' alt='Ni Google Docs ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office' />
     </a>
 </div>
 
