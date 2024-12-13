@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-1429732'>ChatGPT ya entiende el vídeo real, siete meses después de que OpenAI lo presentara</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-1429732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-4272963.jpg?tf=1200x' alt='ChatGPT ya entiende el vídeo real, siete meses después de que OpenAI lo presentara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ha-modificado-microsoft-requisitos-instalar-windows-11-no-no-te-mareen-nada-ha-cambiado-1429747'>¿Ha modificado Microsoft los requisitos para instalar Windows 11? No, que no te mareen, nada ha cambiado</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ha-modificado-microsoft-requisitos-instalar-windows-11-no-no-te-mareen-nada-ha-cambiado-1429747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4251487.jpg?tf=1200x' alt='¿Ha modificado Microsoft los requisitos para instalar Windows 11? No, que no te mareen, nada ha cambiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/alexa-enciende-calefaccion-radiador-potente-barato-triunfa-aliexpress-1429706'>Alexa, enciende la calefacción: este radiador potente y barato triunfa en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/alexa-enciende-calefaccion-radiador-potente-barato-triunfa-aliexpress-1429706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/radiador-inteligente-smartmi-1s-4272901.jpg?tf=1200x' alt='Alexa, enciende la calefacción: este radiador potente y barato triunfa en AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735'>Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-sentencia-conducir-coche-gasolina-sera-como-montar-caballo-usando-movil-concha-4272898.jpg?tf=1200x' alt='Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-navidad-rapida-sector-rebajada-70-1429605'>VPN por Navidad: la más rápida del sector está rebajada en un 70%</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-navidad-rapida-sector-rebajada-70-1429605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='VPN por Navidad: la más rápida del sector está rebajada en un 70%' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/cultura-unboxing-nos-fascina-tanto-abrir-dispositivos-nuevos-1424962'>La cultura del unboxing: ¿por qué nos fascina tanto abrir dispositivos nuevos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/cultura-unboxing-nos-fascina-tanto-abrir-dispositivos-nuevos-1424962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/unboxing-4265279.jpg?tf=1200x' alt='La cultura del unboxing: ¿por qué nos fascina tanto abrir dispositivos nuevos?' />
     </a>
 </div>
 
