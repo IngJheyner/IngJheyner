@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-investiga-primer-accidente-aereo-lugar-no-espana-ni-te-podras-imaginar-1429850'>La NASA investiga el primer accidente aéreo en un lugar que no es España y ni te podrás imaginar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-investiga-primer-accidente-aereo-lugar-no-espana-ni-te-podras-imaginar-1429850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/helicoptero-ingenuity-ya-suelo-marciano-mientras-registran-dos-terremotos-planeta-rojo-2287441.jpg?tf=1200x' alt='La NASA investiga el primer accidente aéreo en un lugar que no es España y ni te podrás imaginar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-ipad-apenas-200-euros-letra-pequena-1429804'>No es un error: Amazon vende un iPad por apenas 200 euros y esta es la letra pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-ipad-apenas-200-euros-letra-pequena-1429804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/iPad_166564566945354.jpg?tf=1200x' alt='No es un error: Amazon vende un iPad por apenas 200 euros y esta es la letra pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-iphone-mucho-seguro-movil-android-1429815'>Según un experto en ciberseguridad: "Un iPhone es mucho más seguro que un móvil Android"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-iphone-mucho-seguro-movil-android-1429815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-iphone-seguridad-4273130.jpg?tf=1200x' alt='Según un experto en ciberseguridad: "Un iPhone es mucho más seguro que un móvil Android"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/mentira-luces-led-ahorrar-energia-1207572'>Puede que nos hayan engañado con las luces LED para "ahorrar energía"</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/mentira-luces-led-ahorrar-energia-1207572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='Puede que nos hayan engañado con las luces LED para "ahorrar energía"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-1429821'>Ni LinkedIn ni Infojobs, la nueva forma de encontrar trabajo se llama Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-1429821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-4273058.jpg?tf=1200x' alt='Ni LinkedIn ni Infojobs, la nueva forma de encontrar trabajo se llama Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-opina-comunidad-autonoma-espana-1236976'>ChatGPT se pasa de la raya: Esto es lo que opina de los españoles según la comunidad autónoma en la que viven</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-opina-comunidad-autonoma-espana-1236976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='ChatGPT se pasa de la raya: Esto es lo que opina de los españoles según la comunidad autónoma en la que viven' />
     </a>
 </div>
 
