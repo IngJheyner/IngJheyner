@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/alexa-enciende-calefaccion-radiador-potente-barato-triunfa-aliexpress-1429706'>Alexa, enciende la calefacción: este radiador potente y barato triunfa en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/alexa-enciende-calefaccion-radiador-potente-barato-triunfa-aliexpress-1429706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/radiador-inteligente-smartmi-1s-4272901.jpg?tf=1200x' alt='Alexa, enciende la calefacción: este radiador potente y barato triunfa en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-phi-4-nuevo-modelo-ia-generativa-todo-debes-saber-1429744'>Microsoft lanza Phi 4, un nuevo modelo de IA generativa: todo lo que debes saber</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-phi-4-nuevo-modelo-ia-generativa-todo-debes-saber-1429744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sede-microsoft-3936380.jpg?tf=1200x' alt='Microsoft lanza Phi 4, un nuevo modelo de IA generativa: todo lo que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735'>Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-sentencia-conducir-coche-gasolina-sera-como-montar-caballo-usando-movil-concha-4272898.jpg?tf=1200x' alt='Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/cultura-unboxing-nos-fascina-tanto-abrir-dispositivos-nuevos-1424962'>La cultura del unboxing: ¿por qué nos fascina tanto abrir dispositivos nuevos?</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/cultura-unboxing-nos-fascina-tanto-abrir-dispositivos-nuevos-1424962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/unboxing-4265279.jpg?tf=1200x' alt='La cultura del unboxing: ¿por qué nos fascina tanto abrir dispositivos nuevos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/he-analizado-10-robots-aspiradores-consejos-encontrar-mejor-ti-1419886'>He analizado más de 10 robots aspiradores: consejos para encontrar el mejor para ti </a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/he-analizado-10-robots-aspiradores-consejos-encontrar-mejor-ti-1419886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consejos-comprar-robot-aspirador-limpieza-casa-4263650.jpg?tf=1200x' alt='He analizado más de 10 robots aspiradores: consejos para encontrar el mejor para ti ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-predice-futuro-dispositivo-ofrece-sustituto-tienen-dias-contados-1429507'>Mark Zuckerberg predice el futuro sobre este dispositivo y ofrece un sustituto: "Tienen los días contados"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-predice-futuro-dispositivo-ofrece-sustituto-tienen-dias-contados-1429507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='Mark Zuckerberg predice el futuro sobre este dispositivo y ofrece un sustituto: "Tienen los días contados"' />
     </a>
 </div>
 
