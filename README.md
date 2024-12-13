@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/epic-games-store-juegos-gratis-navidad-1429682'>Epic Games Store comienza a regalar juegos gratis en Navidad: el primero, uno de El Señor de los Anillos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/epic-games-store-juegos-gratis-navidad-1429682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/epic-games-store-comienza-regalar-juegos-navidad-primero-senor-anillos-4272792.jpg?tf=1200x' alt='Epic Games Store comienza a regalar juegos gratis en Navidad: el primero, uno de El Señor de los Anillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/lg-deja-fabricar-reproductores-blu-ray-1429664'>El fin del Blu-ray, más cerca: LG deja de fabricar reproductores</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/lg-deja-fabricar-reproductores-blu-ray-1429664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fin-blu-ray-cerca-lg-deja-fabricar-reproductores-4272770.jpg?tf=1200x' alt='El fin del Blu-ray, más cerca: LG deja de fabricar reproductores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cable-usb-c-podria-ser-espia-desvela-analisis-rayos-x-1429651'>Tu cable USB-C podría ser un espía: así se desvela en un análisis con rayos X</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cable-usb-c-podria-ser-espia-desvela-analisis-rayos-x-1429651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cable-usb-c-podria-ser-espia-desvela-analisis-rayos-x-4272767.jpg?tf=1200x' alt='Tu cable USB-C podría ser un espía: así se desvela en un análisis con rayos X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-funcion-clave-windows-11-adios-acciones-sugeridas-1429648'>Microsoft elimina una función clave de Windows 11: adiós a las "acciones sugeridas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-funcion-clave-windows-11-adios-acciones-sugeridas-1429648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-4272763.jpg?tf=1200x' alt='Microsoft elimina una función clave de Windows 11: adiós a las "acciones sugeridas"' />
     </a>
 </div>
 
