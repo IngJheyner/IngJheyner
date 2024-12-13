@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-fomentar-cultura-como-ex-director-tesla-utiliza-inteligencia-artificial-como-club-lectura-1429836'>¿ChatGPT para fomentar la cultura? Así es como el ex director de Tesla utiliza la inteligencia artificial como club de lectura</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-fomentar-cultura-como-ex-director-tesla-utiliza-inteligencia-artificial-como-club-lectura-1429836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-fomentar-cultura-como-ex-director-tesla-utiliza-inteligencia-artificial-como-club-lectura-4273087.jpg?tf=1200x' alt='¿ChatGPT para fomentar la cultura? Así es como el ex director de Tesla utiliza la inteligencia artificial como club de lectura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/mentira-luces-led-ahorrar-energia-1207572'>Puede que nos hayan engañado con las luces LED para "ahorrar energía"</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/mentira-luces-led-ahorrar-energia-1207572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/bombilla-led-junto-bombillas-normales-2970350.jpg?tf=1200x' alt='Puede que nos hayan engañado con las luces LED para "ahorrar energía"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-1429821'>Ni LinkedIn ni Infojobs, la nueva forma de encontrar trabajo se llama Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-1429821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-4273058.jpg?tf=1200x' alt='Ni LinkedIn ni Infojobs, la nueva forma de encontrar trabajo se llama Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-1429871'>Mejor que La vida es bella: la conmovedora película italiana basada en hechos reales que arrasa en Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-1429871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-4273162.jpg?tf=1200x' alt='Mejor que La vida es bella: la conmovedora película italiana basada en hechos reales que arrasa en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-estas-manias-comparten-genios-pero-pueden-resultar-insoportables-1429822'>Steve Jobs tenía estás manías que comparten los genios (pero pueden resultar insoportables)</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-estas-manias-comparten-genios-pero-pueden-resultar-insoportables-1429822' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='Steve Jobs tenía estás manías que comparten los genios (pero pueden resultar insoportables)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espionaje-camara-telefono-movil-alertas-indicios-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/espionaje-camara-telefono-movil-alertas-indicios-1268008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte' />
     </a>
 </div>
 
