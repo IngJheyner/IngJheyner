@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-1429732'>ChatGPT ya entiende el vídeo real, siete meses después de que OpenAI lo presentara</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-1429732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-4272963.jpg?tf=1200x' alt='ChatGPT ya entiende el vídeo real, siete meses después de que OpenAI lo presentara' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-cables-usb-c-falsos-estudio-revela-son-arma-favorita-hackers-1429790'>Adiós a los cables USB-C falsos, un estudio revela que son el arma favorita de los hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-cables-usb-c-falsos-estudio-revela-son-arma-favorita-hackers-1429790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-cables-usb-c-falsos-estudio-revela-son-arma-favorita-hackers-4273013.jpg?tf=1200x' alt='Adiós a los cables USB-C falsos, un estudio revela que son el arma favorita de los hackers' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ha-modificado-microsoft-requisitos-instalar-windows-11-no-no-te-mareen-nada-ha-cambiado-1429747'>¿Ha modificado Microsoft los requisitos para instalar Windows 11? No, que no te mareen, nada ha cambiado</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ha-modificado-microsoft-requisitos-instalar-windows-11-no-no-te-mareen-nada-ha-cambiado-1429747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4251487.jpg?tf=1200x' alt='¿Ha modificado Microsoft los requisitos para instalar Windows 11? No, que no te mareen, nada ha cambiado' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-desenmascara-verdad-ia-puede-ganar-gran-maestro-ajedrez-pero-perder-nino-damas-1429809'>Experto desenmascara la verdad sobre la IA: "Puede ganar a un gran maestro de ajedrez, pero perder con un niño a las damas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-desenmascara-verdad-ia-puede-ganar-gran-maestro-ajedrez-pero-perder-nino-damas-1429809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/inteligencia-artificial-3300074.jpg?tf=1200x' alt='Experto desenmascara la verdad sobre la IA: "Puede ganar a un gran maestro de ajedrez, pero perder con un niño a las damas"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/alexa-enciende-calefaccion-radiador-potente-barato-triunfa-aliexpress-1429706'>Alexa, enciende la calefacción: este radiador potente y barato triunfa en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/alexa-enciende-calefaccion-radiador-potente-barato-triunfa-aliexpress-1429706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/radiador-inteligente-smartmi-1s-4272901.jpg?tf=1200x' alt='Alexa, enciende la calefacción: este radiador potente y barato triunfa en AliExpress' />
+    <h4><a href='https://computerhoy.20minutos.es/life/pasa-itv-seat-600-54-anos-1426686'>Pasa la ITV con un Seat 600 de 54 años y los técnicos alucinan con sus respuestas: "¿Agua? No tiene"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/pasa-itv-seat-600-54-anos-1426686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagenes-video-tiktok-teresafurquet-4267757.jpg?tf=1200x' alt='Pasa la ITV con un Seat 600 de 54 años y los técnicos alucinan con sus respuestas: "¿Agua? No tiene"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-phi-4-nuevo-modelo-ia-generativa-todo-debes-saber-1429744'>Microsoft lanza Phi 4, un nuevo modelo de IA generativa: todo lo que debes saber</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-phi-4-nuevo-modelo-ia-generativa-todo-debes-saber-1429744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sede-microsoft-3936380.jpg?tf=1200x' alt='Microsoft lanza Phi 4, un nuevo modelo de IA generativa: todo lo que debes saber' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ultimo-chip-cuantico-podria-ser-clave-probar-existencia-universos-paralelos-1429742'>Google afirma que su último chip cuántico podría ser la clave para probar la existencia de universos paralelos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-afirma-ultimo-chip-cuantico-podria-ser-clave-probar-existencia-universos-paralelos-1429742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chip-cuantico-4272994.jpg?tf=1200x' alt='Google afirma que su último chip cuántico podría ser la clave para probar la existencia de universos paralelos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735'>Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-sentencia-conducir-coche-gasolina-sera-como-montar-caballo-usando-movil-concha-4272898.jpg?tf=1200x' alt='Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-1428628'>Según la NASA, estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-1428628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='Según la NASA, estas son las regiones de España en riesgo de convertirse en inhabitables en muy pocos años' />
     </a>
 </div>
 
