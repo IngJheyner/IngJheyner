@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-alertan-sol-podria-desatar-superllamarada-catastrofica-siglo-1429923'>Científicos alertan: el Sol podría desatar una superllamarada catastrófica este siglo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cientificos-alertan-sol-podria-desatar-superllamarada-catastrofica-siglo-1429923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sol-tierra-4273244.jpg?tf=1200x' alt='Científicos alertan: el Sol podría desatar una superllamarada catastrófica este siglo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-revoluciona-llamadas-videollamadas-4-grandes-novedades-1429922'>WhatsApp revoluciona llamadas y videollamadas con 4 grandes novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-revoluciona-llamadas-videollamadas-4-grandes-novedades-1429922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llamadas-whatsapp-4273243.jpg?tf=1200x' alt='WhatsApp revoluciona llamadas y videollamadas con 4 grandes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-furiosos-ios-182-hace-app-correo-sea-casi-inutilizable-1429921'>Usuarios de iPhone furiosos: iOS 18.2 hace que la app Correo sea "casi inutilizable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-furiosos-ios-182-hace-app-correo-sea-casi-inutilizable-1429921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/correo-iphone-4273239.jpg?tf=1200x' alt='Usuarios de iPhone furiosos: iOS 18.2 hace que la app Correo sea "casi inutilizable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861'>Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meteorito-4273164.jpg?tf=1200x' alt='Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-tiktok-dominan-pero-redes-sociales-clasicas-caen-picado-1429914'>YouTube y TikTok dominan, pero las redes sociales clásicas caen en picado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/youtube-tiktok-dominan-pero-redes-sociales-clasicas-caen-picado-1429914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redes-sociales-adolescentes-4273230.jpg?tf=1200x' alt='YouTube y TikTok dominan, pero las redes sociales clásicas caen en picado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/malcom-in-the-middle-nuevos-capitulos-disney-plus-1429913'>Bomba en Disney+: nuevos capítulos de la serie que superó a Los Simpson hace 25 años, con los actores originales</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/malcom-in-the-middle-nuevos-capitulos-disney-plus-1429913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bomba-disney-vuelve-serie-supero-simpson-90-actores-originales-4273214.jpg?tf=1200x' alt='Bomba en Disney+: nuevos capítulos de la serie que superó a Los Simpson hace 25 años, con los actores originales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modo-candado-whatsapp-como-activarlo-1429878'>Qué es el modo candado de WhatsApp y cómo activarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/modo-candado-whatsapp-como-activarlo-1429878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/modo-candado-whatsapp-4273183.jpg?tf=1200x' alt='Qué es el modo candado de WhatsApp y cómo activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-nuevo-diseno-helicoptero-seis-helices-explorar-marte-1429873'>NASA: este es el nuevo diseño de helicóptero con seis hélices para explorar Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-nuevo-diseno-helicoptero-seis-helices-explorar-marte-1429873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/helicoptero-marciano-chopper-nasa-4273178.jpg?tf=1200x' alt='NASA: este es el nuevo diseño de helicóptero con seis hélices para explorar Marte' />
     </a>
 </div>
 
