@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mercadonia-chatgpt-todos-productos-mercadona-1429927'>MercadonIA, el ChatGPT con los productos de Mercadona que hace recetas y listas de compra según presupuesto</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/mercadonia-chatgpt-todos-productos-mercadona-1429927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mercadonia-chatgpt-todos-productos-mercadona-hace-recetas-listas-compra-presupuesto-4273246.jpg?tf=1200x' alt='MercadonIA, el ChatGPT con los productos de Mercadona que hace recetas y listas de compra según presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-alertan-sol-podria-desatar-superllamarada-catastrofica-siglo-1429923'>Científicos alertan: el Sol podría desatar una superllamarada catastrófica este siglo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/cientificos-alertan-sol-podria-desatar-superllamarada-catastrofica-siglo-1429923' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sol-tierra-4273244.jpg?tf=1200x' alt='Científicos alertan: el Sol podría desatar una superllamarada catastrófica este siglo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861'>Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meteorito-4273164.jpg?tf=1200x' alt='Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-tiktok-dominan-pero-redes-sociales-clasicas-caen-picado-1429914'>YouTube y TikTok dominan, pero las redes sociales clásicas caen en picado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-tiktok-dominan-pero-redes-sociales-clasicas-caen-picado-1429914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redes-sociales-adolescentes-4273230.jpg?tf=1200x' alt='YouTube y TikTok dominan, pero las redes sociales clásicas caen en picado' />
     </a>
 </div>
 
