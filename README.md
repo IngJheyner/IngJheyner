@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861'>Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meteorito-4273164.jpg?tf=1200x' alt='Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-tiktok-dominan-pero-redes-sociales-clasicas-caen-picado-1429914'>YouTube y TikTok dominan, pero las redes sociales clásicas caen en picado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-tiktok-dominan-pero-redes-sociales-clasicas-caen-picado-1429914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redes-sociales-adolescentes-4273230.jpg?tf=1200x' alt='YouTube y TikTok dominan, pero las redes sociales clásicas caen en picado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/malcom-in-the-middle-nuevos-capitulos-disney-plus-1429913'>Bomba en Disney+: nuevos capítulos de la serie que superó a Los Simpson hace 25 años, con los actores originales</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/malcom-in-the-middle-nuevos-capitulos-disney-plus-1429913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bomba-disney-vuelve-serie-supero-simpson-90-actores-originales-4273214.jpg?tf=1200x' alt='Bomba en Disney+: nuevos capítulos de la serie que superó a Los Simpson hace 25 años, con los actores originales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/modo-candado-whatsapp-como-activarlo-1429878'>Qué es el modo candado de WhatsApp y cómo activarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/modo-candado-whatsapp-como-activarlo-1429878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/modo-candado-whatsapp-4273183.jpg?tf=1200x' alt='Qué es el modo candado de WhatsApp y cómo activarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-nuevo-diseno-helicoptero-seis-helices-explorar-marte-1429873'>NASA: este es el nuevo diseño de helicóptero con seis hélices para explorar Marte</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-nuevo-diseno-helicoptero-seis-helices-explorar-marte-1429873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/helicoptero-marciano-chopper-nasa-4273178.jpg?tf=1200x' alt='NASA: este es el nuevo diseño de helicóptero con seis hélices para explorar Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-investiga-primer-accidente-aereo-lugar-no-espana-ni-te-podras-imaginar-1429850'>La NASA investiga el primer accidente aéreo en un lugar que no es España y ni te podrás imaginar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-investiga-primer-accidente-aereo-lugar-no-espana-ni-te-podras-imaginar-1429850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/helicoptero-ingenuity-ya-suelo-marciano-mientras-registran-dos-terremotos-planeta-rojo-2287441.jpg?tf=1200x' alt='La NASA investiga el primer accidente aéreo en un lugar que no es España y ni te podrás imaginar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-ipad-apenas-200-euros-letra-pequena-1429804'>No es un error: Amazon vende un iPad por apenas 200 euros y esta es la letra pequeña</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-ipad-apenas-200-euros-letra-pequena-1429804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/iPad_166564566945354.jpg?tf=1200x' alt='No es un error: Amazon vende un iPad por apenas 200 euros y esta es la letra pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-iphone-mucho-seguro-movil-android-1429815'>Según un experto en ciberseguridad: "Un iPhone es mucho más seguro que un móvil Android"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-iphone-mucho-seguro-movil-android-1429815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-iphone-seguridad-4273130.jpg?tf=1200x' alt='Según un experto en ciberseguridad: "Un iPhone es mucho más seguro que un móvil Android"' />
     </a>
 </div>
 
