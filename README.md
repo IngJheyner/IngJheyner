@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735'>Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-conducir-coche-gasolina-como-montar-caballo-usando-movil-plegable-1429735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-sentencia-conducir-coche-gasolina-sera-como-montar-caballo-usando-movil-concha-4272898.jpg?tf=1200x' alt='Elon Musk sentencia: "Conducir un coche de gasolina será tan raro como montar a caballo con un móvil plegable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-navidad-rapida-sector-rebajada-70-1429605'>VPN por Navidad: la más rápida del sector está rebajada en un 70%</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/vpn-navidad-rapida-sector-rebajada-70-1429605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/nordvpn-3250617.jpg?tf=1200x' alt='VPN por Navidad: la más rápida del sector está rebajada en un 70%' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-predice-futuro-dispositivo-ofrece-sustituto-tienen-dias-contados-1429507'>Mark Zuckerberg predice el futuro sobre este dispositivo y ofrece un sustituto: "Tienen los días contados"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-predice-futuro-dispositivo-ofrece-sustituto-tienen-dias-contados-1429507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='Mark Zuckerberg predice el futuro sobre este dispositivo y ofrece un sustituto: "Tienen los días contados"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-1429505'>Así es el oscuro thriller francés que ha enamorado a la crítica, es puro suspense y puedes ver en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-1429505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-4272515.jpg?tf=1200x' alt='Así es el oscuro thriller francés que ha enamorado a la crítica, es puro suspense y puedes ver en Filmin' />
     </a>
 </div>
 
