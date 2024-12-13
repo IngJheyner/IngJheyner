@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuesta-navidad-puedes-activar-modo-papa-noel-1429808'>ChatGPT apuesta por la Navidad: así puedes activar su modo Papá Noel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-apuesta-navidad-puedes-activar-modo-papa-noel-1429808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-apuesta-navidad-puedes-activar-modo-santa-claus-4273041.jpg?tf=1200x' alt='ChatGPT apuesta por la Navidad: así puedes activar su modo Papá Noel' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-estas-manias-comparten-genios-pero-pueden-resultar-insoportables-1429822'>Steve Jobs tenía estás manías que comparten los genios (pero pueden resultar insoportables)</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-estas-manias-comparten-genios-pero-pueden-resultar-insoportables-1429822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='Steve Jobs tenía estás manías que comparten los genios (pero pueden resultar insoportables)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-wordpress-afectado-malware-gravedad-98-10-como-saber-eres-victima-1429837'>¡Alerta! WordPress afectado por un malware con una gravedad de 9,8 sobre 10: cómo saber si eres víctima</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-wordpress-afectado-malware-gravedad-98-10-como-saber-eres-victima-1429837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-wordpress-afectado-malware-como-saber-eres-victima-4273111.jpg?tf=1200x' alt='¡Alerta! WordPress afectado por un malware con una gravedad de 9,8 sobre 10: cómo saber si eres víctima' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espionaje-camara-telefono-movil-alertas-indicios-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/espionaje-camara-telefono-movil-alertas-indicios-1268008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-fecha-televisores-afectados-como-saber-preparado-1429831'>Apagón TDT 2025: fecha, televisores afectados y cómo saber si el tuyo está preparado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-fecha-televisores-afectados-como-saber-preparado-1429831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/tdt-3264021.jpg?tf=1200x' alt='Apagón TDT 2025: fecha, televisores afectados y cómo saber si el tuyo está preparado' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-estafa-pierdes-conexion-cuenta-banco-llena-cargos-1429855'>Guardia Civil en alerta por una nueva estafa: "Pierdes la conexión y la cuenta del banco se llena de cargos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-estafa-pierdes-conexion-cuenta-banco-llena-cargos-1429855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-3705394.jpg?tf=1200x' alt='Guardia Civil en alerta por una nueva estafa: "Pierdes la conexión y la cuenta del banco se llena de cargos"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-oro-meteorito-1427622'>Guarda una piedra indestructible durante años esperando que sea oro: en realidad es mucho más valiosa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hombre-guarda-piedra-oro-meteorito-1427622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/piedra-indestructible-oro-4273067.jpg?tf=1200x' alt='Guarda una piedra indestructible durante años esperando que sea oro: en realidad es mucho más valiosa' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/cazado-conduciendo-patinete-sentado-silla-calles-ciudad-espanola-1429843'>Cazado conduciendo un patinete sentado en una silla por las calles de esta ciudad española</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/cazado-conduciendo-patinete-sentado-silla-calles-ciudad-espanola-1429843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/patinete-silla-tiktok-4273147.jpg?tf=1200x' alt='Cazado conduciendo un patinete sentado en una silla por las calles de esta ciudad española' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-1429780'>Tesla comienza a instalar en España una solución desesperada para salvar el coche eléctrico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-1429780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-comienza-instalar-espana-solucion-desesperada-salvar-coche-electrico-4273026.jpg?tf=1200x' alt='Tesla comienza a instalar en España una solución desesperada para salvar el coche eléctrico' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/messi-donald-trump-imagenes-polemicas-generada-grok-ia-gratis-x-1429844'>De Messi a Donald Trump, las imágenes más polémicas generadas con Grok, la IA gratis de X</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/messi-donald-trump-imagenes-polemicas-generada-grok-ia-gratis-x-1429844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/imagenes-creadas-ia-grok-x-twitter-4273148.jpg?tf=1200x' alt='De Messi a Donald Trump, las imágenes más polémicas generadas con Grok, la IA gratis de X' />
     </a>
 </div>
 
