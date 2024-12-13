@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-1429821'>Ni LinkedIn ni Infojobs, la nueva forma de encontrar trabajo se llama Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-1429821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-linkedin-ni-infojobs-nueva-forma-encontrar-trabajo-llama-google-maps-4273058.jpg?tf=1200x' alt='Ni LinkedIn ni Infojobs, la nueva forma de encontrar trabajo se llama Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-opina-comunidad-autonoma-espana-1236976'>ChatGPT se pasa de la raya: Esto es lo que opina de los españoles según la comunidad autónoma en la que viven</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-opina-comunidad-autonoma-espana-1236976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/he-probado-lado-oscuro-chatgpt-opina-habitantes-cada-comunidad-autonoma-espana-3021220.jpg?tf=1200x' alt='ChatGPT se pasa de la raya: Esto es lo que opina de los españoles según la comunidad autónoma en la que viven' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-1429871'>Mejor que La vida es bella: la conmovedora película italiana basada en hechos reales que arrasa en Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-1429871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-vida-bella-conmovedora-pelicula-italiana-basada-hechos-reales-arrasa-netflix-4273162.jpg?tf=1200x' alt='Mejor que La vida es bella: la conmovedora película italiana basada en hechos reales que arrasa en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-estas-manias-comparten-genios-pero-pueden-resultar-insoportables-1429822'>Steve Jobs tenía estás manías que comparten los genios (pero pueden resultar insoportables)</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tenia-estas-manias-comparten-genios-pero-pueden-resultar-insoportables-1429822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='Steve Jobs tenía estás manías que comparten los genios (pero pueden resultar insoportables)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espionaje-camara-telefono-movil-alertas-indicios-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/espionaje-camara-telefono-movil-alertas-indicios-1268008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-estafa-pierdes-conexion-cuenta-banco-llena-cargos-1429855'>Guardia Civil en alerta por una nueva estafa: "Pierdes la conexión y la cuenta del banco se llena de cargos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-estafa-pierdes-conexion-cuenta-banco-llena-cargos-1429855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-3705394.jpg?tf=1200x' alt='Guardia Civil en alerta por una nueva estafa: "Pierdes la conexión y la cuenta del banco se llena de cargos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/cazado-conduciendo-patinete-sentado-silla-calles-ciudad-espanola-1429843'>Cazado conduciendo un patinete sentado en una silla por las calles de esta ciudad española</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/cazado-conduciendo-patinete-sentado-silla-calles-ciudad-espanola-1429843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/patinete-silla-tiktok-4273147.jpg?tf=1200x' alt='Cazado conduciendo un patinete sentado en una silla por las calles de esta ciudad española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/messi-donald-trump-imagenes-polemicas-generada-grok-ia-gratis-x-1429844'>De Messi a Donald Trump, las imágenes más polémicas generadas con Grok, la IA gratis de X</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/messi-donald-trump-imagenes-polemicas-generada-grok-ia-gratis-x-1429844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/imagenes-creadas-ia-grok-x-twitter-4273148.jpg?tf=1200x' alt='De Messi a Donald Trump, las imágenes más polémicas generadas con Grok, la IA gratis de X' />
     </a>
 </div>
 
