@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-predice-futuro-dispositivo-ofrece-sustituto-tienen-dias-contados-1429507'>Mark Zuckerberg predice el futuro sobre este dispositivo y ofrece un sustituto: "Tienen los días contados"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-predice-futuro-dispositivo-ofrece-sustituto-tienen-dias-contados-1429507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='Mark Zuckerberg predice el futuro sobre este dispositivo y ofrece un sustituto: "Tienen los días contados"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-1429505'>Así es el oscuro thriller francés que ha enamorado a la crítica, es puro suspense y puedes ver en Filmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-1429505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oscuro-thriller-frances-ha-enamorado-critica-puro-suspense-puedes-ver-filmin-4272515.jpg?tf=1200x' alt='Así es el oscuro thriller francés que ha enamorado a la crítica, es puro suspense y puedes ver en Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tengo-enchufes-inteligentes-casa-8-euros-cuestan-me-ahorran-mucho-trabajo-1428916'>Tengo enchufes inteligentes en casa y, por los 8 euros que cuestan, me ahorran mucho trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tengo-enchufes-inteligentes-casa-8-euros-cuestan-me-ahorran-mucho-trabajo-1428916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/tp-link-tapo-p100-2719367.jpg?tf=1200x' alt='Tengo enchufes inteligentes en casa y, por los 8 euros que cuestan, me ahorran mucho trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/ultima-funcionalidad-android-tags-te-protegera-acosadores-1429496'>La ultima funcionalidad de Android con las tags te protegerá contra los acosadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/ultima-funcionalidad-android-tags-te-protegera-acosadores-1429496' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ultima-funcionalidad-android-tags-te-protegera-acosadores-4272511.jpg?tf=1200x' alt='La ultima funcionalidad de Android con las tags te protegerá contra los acosadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/starlink-ha-lanzado-primera-constelacion-satelites-elon-musk-cerca-cumplir-objetivos-2025-1429312'>Starlink ha lanzado su primera constelación de satélites y Elon Musk está más cerca de cumplir sus objetivos para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/starlink-ha-lanzado-primera-constelacion-satelites-elon-musk-cerca-cumplir-objetivos-2025-1429312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-4272185.jpg?tf=1200x' alt='Starlink ha lanzado su primera constelación de satélites y Elon Musk está más cerca de cumplir sus objetivos para 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/comprueba-movimientos-bancarios-quiere-policia-nacional-no-te-estafen-navidad-1429499'>"Comprueba los movimientos bancarios": así quiere la Policía Nacional que no te estafen esta Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/comprueba-movimientos-bancarios-quiere-policia-nacional-no-te-estafen-navidad-1429499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/comprueba-movimientos-bancarios-quiere-policia-nacional-no-te-estafen-navidad-4272502.jpg?tf=1200x' alt='"Comprueba los movimientos bancarios": así quiere la Policía Nacional que no te estafen esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/epic-games-store-juegos-gratis-navidad-1429682'>Epic Games Store comienza a regalar juegos gratis en Navidad: el primero, uno de El Señor de los Anillos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/epic-games-store-juegos-gratis-navidad-1429682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/epic-games-store-comienza-regalar-juegos-navidad-primero-senor-anillos-4272792.jpg?tf=1200x' alt='Epic Games Store comienza a regalar juegos gratis en Navidad: el primero, uno de El Señor de los Anillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/lg-deja-fabricar-reproductores-blu-ray-1429664'>El fin del Blu-ray, más cerca: LG deja de fabricar reproductores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/lg-deja-fabricar-reproductores-blu-ray-1429664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fin-blu-ray-cerca-lg-deja-fabricar-reproductores-4272770.jpg?tf=1200x' alt='El fin del Blu-ray, más cerca: LG deja de fabricar reproductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-pirateria-policia-visita-casas-transmisiones-ilegales-firestick-1429653'>Golpe a la piratería: la policía visita casas por transmisiones ilegales con Firestick</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/golpe-pirateria-policia-visita-casas-transmisiones-ilegales-firestick-1429653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iptv-ilegal-4272771.jpg?tf=1200x' alt='Golpe a la piratería: la policía visita casas por transmisiones ilegales con Firestick' />
     </a>
 </div>
 
