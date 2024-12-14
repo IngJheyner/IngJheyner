@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/acceso-facil-emojis-windows-11-incluira-boton-especial-barra-tareas-1430025'>Acceso más fácil a emojis: Windows 11 incluirá un botón especial en la barra de tareas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/acceso-facil-emojis-windows-11-incluira-boton-especial-barra-tareas-1430025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/emojis-windows-11-4273381.jpg?tf=1200x' alt='Acceso más fácil a emojis: Windows 11 incluirá un botón especial en la barra de tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-boton-encendido-portatiles-sensor-huellas-integrado-1430023'>Microsoft piensa en un botón de encendido para portátiles con sensor de huellas integrado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-boton-encendido-portatiles-sensor-huellas-integrado-1430023' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lector-huellas-integrado-portatil-4273377.jpg?tf=1200x' alt='Microsoft piensa en un botón de encendido para portátiles con sensor de huellas integrado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006'>Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002'>Google TV encuentra nuevos espacios para saturarte de publicidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-tv-actualiza-ahora-tiene-anuncios-qr-sean-interactivos-4266098.jpg?tf=1200x' alt='Google TV encuentra nuevos espacios para saturarte de publicidad' />
     </a>
 </div>
 
