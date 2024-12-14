@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002'>Google TV encuentra nuevos espacios para saturarte de publicidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-tv-actualiza-ahora-tiene-anuncios-qr-sean-interactivos-4266098.jpg?tf=1200x' alt='Google TV encuentra nuevos espacios para saturarte de publicidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998'>WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcador-llamadas-whatsapp-iphone-4273347.jpg?tf=1200x' alt='WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163'>No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-4270216.jpg?tf=1200x' alt='No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fabricante-accesorios-1429970'>Así es la Nintendo Switch 2, según este fabricante de accesorios</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fabricante-accesorios-1429970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Así es la Nintendo Switch 2, según este fabricante de accesorios' />
     </a>
 </div>
 
