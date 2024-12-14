@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946'>El calefactor Taurus que arrasa en Amazon por menos de 20 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taurus-alpatec-new-gobi-4273278.jpg?tf=1200x' alt='El calefactor Taurus que arrasa en Amazon por menos de 20 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-podria-separar-busqueda-local-busqueda-web-bing-union-europea-1430019'>Windows 11 podría separar la búsqueda local de la búsqueda web de Bing en la Unión Europea</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-podria-separar-busqueda-local-busqueda-web-bing-union-europea-1430019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-windows-11-4273374.jpg?tf=1200x' alt='Windows 11 podría separar la búsqueda local de la búsqueda web de Bing en la Unión Europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006'>Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998'>WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcador-llamadas-whatsapp-iphone-4273347.jpg?tf=1200x' alt='WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-contaria-dos-nuevos-tamanos-dedos-grandes-1429996'>Samsung Galaxy Ring contaría con dos nuevos tamaños para dedos más grandes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-contaria-dos-nuevos-tamanos-dedos-grandes-1429996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3697586.jpg?tf=1200x' alt='Samsung Galaxy Ring contaría con dos nuevos tamaños para dedos más grandes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266'>Ajustes secretos para aprovechar al máximo todas las funciones de Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-4270388.jpg?tf=1200x' alt='Ajustes secretos para aprovechar al máximo todas las funciones de Netflix' />
     </a>
 </div>
 
