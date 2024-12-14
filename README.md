@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-estrena-cambio-actualizaciones-juegos-1429931'>Giro de 180 grados en Steam: estrena un cambio en las actualizaciones que no va a gustar a mucha gente</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steam-estrena-cambio-actualizaciones-juegos-1429931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-steam-estrena-cambio-actualizaciones-usuarios-llevan-anos-pidiendo-4273254.jpg?tf=1200x' alt='Giro de 180 grados en Steam: estrena un cambio en las actualizaciones que no va a gustar a mucha gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/mercadonia-chatgpt-todos-productos-mercadona-1429927'>MercadonIA, el ChatGPT con los productos de Mercadona que hace recetas y listas de compra según presupuesto</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/mercadonia-chatgpt-todos-productos-mercadona-1429927' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mercadonia-chatgpt-todos-productos-mercadona-hace-recetas-listas-compra-presupuesto-4273246.jpg?tf=1200x' alt='MercadonIA, el ChatGPT con los productos de Mercadona que hace recetas y listas de compra según presupuesto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-furiosos-ios-182-hace-app-correo-sea-casi-inutilizable-1429921'>Usuarios de iPhone furiosos: iOS 18.2 hace que la app Correo sea "casi inutilizable"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/usuarios-iphone-furiosos-ios-182-hace-app-correo-sea-casi-inutilizable-1429921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/correo-iphone-4273239.jpg?tf=1200x' alt='Usuarios de iPhone furiosos: iOS 18.2 hace que la app Correo sea "casi inutilizable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861'>Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/hallazgo-digno-ciencia-ficcion-descubrimiento-desafia-todo-creiamos-saber-vida-tierra-1429861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/meteorito-4273164.jpg?tf=1200x' alt='Un hallazgo digno de ciencia ficción: el descubrimiento que desafía todo lo que creíamos saber sobre la vida en la Tierra' />
     </a>
 </div>
 
