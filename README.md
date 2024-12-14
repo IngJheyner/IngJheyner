@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-graficas-gpu-externas-ventajas-desventajas-cuando-recomienda-uso-1427795'>Tarjetas gráficas (GPU) externas: ventajas, desventajas y cuándo se recomienda su uso</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/tarjetas-graficas-gpu-externas-ventajas-desventajas-cuando-recomienda-uso-1427795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjeta-grafica-externa-4269568.jpg?tf=1200x' alt='Tarjetas gráficas (GPU) externas: ventajas, desventajas y cuándo se recomienda su uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preciosa-consola-parece-retro-pero-android-va-mi-lista-deseos-navidad-1429401'>Esta preciosa consola parece retro, pero es Android y va a mi lista de deseos de Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preciosa-consola-parece-retro-pero-android-va-mi-lista-deseos-navidad-1429401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/retroid-pocket-4-4272309.jpg?tf=1200x' alt='Esta preciosa consola parece retro, pero es Android y va a mi lista de deseos de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-probar-linux-navegador-instalar-nada-1428276'>Cómo probar Linux en el navegador sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-probar-linux-navegador-instalar-nada-1428276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/linux-navegador-4270464.jpg?tf=1200x' alt='Cómo probar Linux en el navegador sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-malware-movil-android-iphone-guia-definitiva-1428126'>Cómo eliminar un virus o malware de un móvil Android o iPhone: la guía definitiva</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-malware-movil-android-iphone-guia-definitiva-1428126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/virus-movil-4270167.jpg?tf=1200x' alt='Cómo eliminar un virus o malware de un móvil Android o iPhone: la guía definitiva' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nigel-richards-campeonato-mundo-scrabble-espanol-frances-truco-1429934'>Solo habla inglés, pero ha ganado el Campeonato del Mundo de Scrabble en español y francés usando un truco</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nigel-richards-campeonato-mundo-scrabble-espanol-frances-truco-1429934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/solo-habla-ingles-pero-ha-ganado-campeonato-mundo-scrabble-espanol-frances-usando-truco-4273260.jpg?tf=1200x' alt='Solo habla inglés, pero ha ganado el Campeonato del Mundo de Scrabble en español y francés usando un truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/bomba-fork-linux-como-puedes-protegerte-1428277'>¿Qué es una bomba fork en Linux y cómo puedes protegerte?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/bomba-fork-linux-como-puedes-protegerte-1428277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bomba-fork-linux-4270542.jpg?tf=1200x' alt='¿Qué es una bomba fork en Linux y cómo puedes protegerte?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-tecnologia-he-visto-ano-1428969'>Lo mejor en tecnología que he visto este año </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-tecnologia-he-visto-ano-1428969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832332.jpg?tf=1200x' alt='Lo mejor en tecnología que he visto este año ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/he-probado-todas-interfaces-android-te-ordeno-mejor-peor-1416176'>He probado todas las interfaces de Android y te las ordeno de mejor a peor</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/he-probado-todas-interfaces-android-te-ordeno-mejor-peor-1416176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/interfaces-android-4257744.jpg?tf=1200x' alt='He probado todas las interfaces de Android y te las ordeno de mejor a peor' />
     </a>
 </div>
 
