@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266'>Ajustes secretos para aprovechar al máximo todas las funciones de Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-4270388.jpg?tf=1200x' alt='Ajustes secretos para aprovechar al máximo todas las funciones de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163'>No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-4270216.jpg?tf=1200x' alt='No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-caos-chatgpt-proyectos-facilita-seguimiento-tareas-1429962'>Adiós al caos en ChatGPT: con “Proyectos” se facilita el seguimiento de tus tareas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-caos-chatgpt-proyectos-facilita-seguimiento-tareas-1429962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proyectos-chatgpt-4273298.jpg?tf=1200x' alt='Adiós al caos en ChatGPT: con “Proyectos” se facilita el seguimiento de tus tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-1428160'>"No lo dudes", he hecho overclock a mi Raspberry Pi y solo le veo ventajas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-1428160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-4270213.jpg?tf=1200x' alt='"No lo dudes", he hecho overclock a mi Raspberry Pi y solo le veo ventajas' />
     </a>
 </div>
 
