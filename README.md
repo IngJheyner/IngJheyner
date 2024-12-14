@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-boton-encendido-portatiles-sensor-huellas-integrado-1430023'>Microsoft piensa en un botón de encendido para portátiles con sensor de huellas integrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-boton-encendido-portatiles-sensor-huellas-integrado-1430023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lector-huellas-integrado-portatil-4273377.jpg?tf=1200x' alt='Microsoft piensa en un botón de encendido para portátiles con sensor de huellas integrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946'>El calefactor Taurus que arrasa en Amazon por menos de 20 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taurus-alpatec-new-gobi-4273278.jpg?tf=1200x' alt='El calefactor Taurus que arrasa en Amazon por menos de 20 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002'>Google TV encuentra nuevos espacios para saturarte de publicidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-tv-actualiza-ahora-tiene-anuncios-qr-sean-interactivos-4266098.jpg?tf=1200x' alt='Google TV encuentra nuevos espacios para saturarte de publicidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998'>WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcador-llamadas-whatsapp-iphone-4273347.jpg?tf=1200x' alt='WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce' />
     </a>
 </div>
 
