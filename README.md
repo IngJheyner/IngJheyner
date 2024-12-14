@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-cuenta-whatsapp-te-han-robado-movil-1427772'>Cómo recuperar tu cuenta de WhatsApp si te han robado el móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-cuenta-whatsapp-te-han-robado-movil-1427772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-cuenta-whatsapp-4269535.jpg?tf=1200x' alt='Cómo recuperar tu cuenta de WhatsApp si te han robado el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-caos-chatgpt-proyectos-facilita-seguimiento-tareas-1429962'>Adiós al caos en ChatGPT: con “Proyectos” se facilita el seguimiento de tus tareas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-caos-chatgpt-proyectos-facilita-seguimiento-tareas-1429962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proyectos-chatgpt-4273298.jpg?tf=1200x' alt='Adiós al caos en ChatGPT: con “Proyectos” se facilita el seguimiento de tus tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-1428160'>"No lo dudes", he hecho overclock a mi Raspberry Pi y solo le veo ventajas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-1428160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-4270213.jpg?tf=1200x' alt='"No lo dudes", he hecho overclock a mi Raspberry Pi y solo le veo ventajas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-graficas-gpu-externas-ventajas-desventajas-cuando-recomienda-uso-1427795'>Tarjetas gráficas (GPU) externas: ventajas, desventajas y cuándo se recomienda su uso</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tarjetas-graficas-gpu-externas-ventajas-desventajas-cuando-recomienda-uso-1427795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjeta-grafica-externa-4269568.jpg?tf=1200x' alt='Tarjetas gráficas (GPU) externas: ventajas, desventajas y cuándo se recomienda su uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preciosa-consola-parece-retro-pero-android-va-mi-lista-deseos-navidad-1429401'>Esta preciosa consola parece retro, pero es Android y va a mi lista de deseos de Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preciosa-consola-parece-retro-pero-android-va-mi-lista-deseos-navidad-1429401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/retroid-pocket-4-4272309.jpg?tf=1200x' alt='Esta preciosa consola parece retro, pero es Android y va a mi lista de deseos de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-probar-linux-navegador-instalar-nada-1428276'>Cómo probar Linux en el navegador sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-probar-linux-navegador-instalar-nada-1428276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/linux-navegador-4270464.jpg?tf=1200x' alt='Cómo probar Linux en el navegador sin instalar nada' />
     </a>
 </div>
 
