@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998'>WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-pronto-tendra-propio-marcador-llamadas-luce-1429998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcador-llamadas-whatsapp-iphone-4273347.jpg?tf=1200x' alt='WhatsApp para el iPhone pronto tendrá su propio marcador de llamadas y así luce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-contaria-dos-nuevos-tamanos-dedos-grandes-1429996'>Samsung Galaxy Ring contaría con dos nuevos tamaños para dedos más grandes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-ring-contaria-dos-nuevos-tamanos-dedos-grandes-1429996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-ring-3697586.jpg?tf=1200x' alt='Samsung Galaxy Ring contaría con dos nuevos tamaños para dedos más grandes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266'>Ajustes secretos para aprovechar al máximo todas las funciones de Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-4270388.jpg?tf=1200x' alt='Ajustes secretos para aprovechar al máximo todas las funciones de Netflix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fabricante-accesorios-1429970'>Así es la Nintendo Switch 2, según este fabricante de accesorios</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fabricante-accesorios-1429970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Así es la Nintendo Switch 2, según este fabricante de accesorios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-cuenta-whatsapp-te-han-robado-movil-1427772'>Cómo recuperar tu cuenta de WhatsApp si te han robado el móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-cuenta-whatsapp-te-han-robado-movil-1427772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-cuenta-whatsapp-4269535.jpg?tf=1200x' alt='Cómo recuperar tu cuenta de WhatsApp si te han robado el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-caos-chatgpt-proyectos-facilita-seguimiento-tareas-1429962'>Adiós al caos en ChatGPT: con “Proyectos” se facilita el seguimiento de tus tareas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-caos-chatgpt-proyectos-facilita-seguimiento-tareas-1429962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proyectos-chatgpt-4273298.jpg?tf=1200x' alt='Adiós al caos en ChatGPT: con “Proyectos” se facilita el seguimiento de tus tareas' />
     </a>
 </div>
 
