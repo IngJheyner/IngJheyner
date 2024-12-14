@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163'>No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-4270216.jpg?tf=1200x' alt='No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fabricante-accesorios-1429970'>Así es la Nintendo Switch 2, según este fabricante de accesorios</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fabricante-accesorios-1429970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Así es la Nintendo Switch 2, según este fabricante de accesorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-cuenta-whatsapp-te-han-robado-movil-1427772'>Cómo recuperar tu cuenta de WhatsApp si te han robado el móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-cuenta-whatsapp-te-han-robado-movil-1427772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-cuenta-whatsapp-4269535.jpg?tf=1200x' alt='Cómo recuperar tu cuenta de WhatsApp si te han robado el móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-1428160'>"No lo dudes", he hecho overclock a mi Raspberry Pi y solo le veo ventajas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-1428160' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-dudes-he-hecho-overclock-mi-raspberry-pi-solo-veo-ventajas-4270213.jpg?tf=1200x' alt='"No lo dudes", he hecho overclock a mi Raspberry Pi y solo le veo ventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mayor-experto-longevidad-mundo-desvela-receta-vivir-100-anos-evita-cinco-p-venenosas-1428157'>El mayor experto en longevidad del mundo desvela su receta para vivir hasta los 100 años: "Evita las cinco 'P' venenosas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mayor-experto-longevidad-mundo-desvela-receta-vivir-100-anos-evita-cinco-p-venenosas-1428157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mayor-experto-longevidad-mundo-desvela-receta-vivir-100-anos-evita-cinco-p-venenosas-4270211.jpg?tf=1200x' alt='El mayor experto en longevidad del mundo desvela su receta para vivir hasta los 100 años: "Evita las cinco 'P' venenosas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-graficas-gpu-externas-ventajas-desventajas-cuando-recomienda-uso-1427795'>Tarjetas gráficas (GPU) externas: ventajas, desventajas y cuándo se recomienda su uso</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tarjetas-graficas-gpu-externas-ventajas-desventajas-cuando-recomienda-uso-1427795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjeta-grafica-externa-4269568.jpg?tf=1200x' alt='Tarjetas gráficas (GPU) externas: ventajas, desventajas y cuándo se recomienda su uso' />
     </a>
 </div>
 
