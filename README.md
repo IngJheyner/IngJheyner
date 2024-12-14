@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/wintoys-app-gratis-mejorar-rendimiento-windows-1428275'>Wintoys es la única app gratis con la que realmente he conseguido mejorar el rendimiento de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/wintoys-app-gratis-mejorar-rendimiento-windows-1428275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pc-wintoys-4270427.jpg?tf=1200x' alt='Wintoys es la única app gratis con la que realmente he conseguido mejorar el rendimiento de Windows' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-malware-movil-android-iphone-guia-definitiva-1428126'>Cómo eliminar un virus o malware de un móvil Android o iPhone: la guía definitiva</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-virus-malware-movil-android-iphone-guia-definitiva-1428126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/virus-movil-4270167.jpg?tf=1200x' alt='Cómo eliminar un virus o malware de un móvil Android o iPhone: la guía definitiva' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/era-esceptico-calentadores-mano-pero-ahora-creo-tengo-estos-me-ahorran-mucho-sufrimiento-1428921'>Era escéptico de los calentadores de mano, pero ahora creo: tengo estos y me ahorran mucho sufrimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/era-esceptico-calentadores-mano-pero-ahora-creo-tengo-estos-me-ahorran-mucho-sufrimiento-1428921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/calentador-manos-4271457.jpg?tf=1200x' alt='Era escéptico de los calentadores de mano, pero ahora creo: tengo estos y me ahorran mucho sufrimiento' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nigel-richards-campeonato-mundo-scrabble-espanol-frances-truco-1429934'>Solo habla inglés, pero ha ganado el Campeonato del Mundo de Scrabble en español y francés usando un truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nigel-richards-campeonato-mundo-scrabble-espanol-frances-truco-1429934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/solo-habla-ingles-pero-ha-ganado-campeonato-mundo-scrabble-espanol-frances-usando-truco-4273260.jpg?tf=1200x' alt='Solo habla inglés, pero ha ganado el Campeonato del Mundo de Scrabble en español y francés usando un truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-estrena-cambio-actualizaciones-juegos-1429931'>Giro de 180 grados en Steam: estrena un cambio en las actualizaciones que no va a gustar a mucha gente</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/steam-estrena-cambio-actualizaciones-juegos-1429931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-steam-estrena-cambio-actualizaciones-usuarios-llevan-anos-pidiendo-4273254.jpg?tf=1200x' alt='Giro de 180 grados en Steam: estrena un cambio en las actualizaciones que no va a gustar a mucha gente' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/bomba-fork-linux-como-puedes-protegerte-1428277'>¿Qué es una bomba fork en Linux y cómo puedes protegerte?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/bomba-fork-linux-como-puedes-protegerte-1428277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bomba-fork-linux-4270542.jpg?tf=1200x' alt='¿Qué es una bomba fork en Linux y cómo puedes protegerte?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mercadonia-chatgpt-todos-productos-mercadona-1429927'>MercadonIA, el ChatGPT con los productos de Mercadona que hace recetas y listas de compra según presupuesto</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/mercadonia-chatgpt-todos-productos-mercadona-1429927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mercadonia-chatgpt-todos-productos-mercadona-hace-recetas-listas-compra-presupuesto-4273246.jpg?tf=1200x' alt='MercadonIA, el ChatGPT con los productos de Mercadona que hace recetas y listas de compra según presupuesto' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-tecnologia-he-visto-ano-1428969'>Lo mejor en tecnología que he visto este año </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-tecnologia-he-visto-ano-1428969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832332.jpg?tf=1200x' alt='Lo mejor en tecnología que he visto este año ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-alertan-sol-podria-desatar-superllamarada-catastrofica-siglo-1429923'>Científicos alertan: el Sol podría desatar una superllamarada catastrófica este siglo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cientificos-alertan-sol-podria-desatar-superllamarada-catastrofica-siglo-1429923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sol-tierra-4273244.jpg?tf=1200x' alt='Científicos alertan: el Sol podría desatar una superllamarada catastrófica este siglo' />
+    <h4><a href='https://computerhoy.20minutos.es/android/he-probado-todas-interfaces-android-te-ordeno-mejor-peor-1416176'>He probado todas las interfaces de Android y te las ordeno de mejor a peor</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/he-probado-todas-interfaces-android-te-ordeno-mejor-peor-1416176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/interfaces-android-4257744.jpg?tf=1200x' alt='He probado todas las interfaces de Android y te las ordeno de mejor a peor' />
     </a>
 </div>
 
