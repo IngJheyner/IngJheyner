@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006'>Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002'>Google TV encuentra nuevos espacios para saturarte de publicidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-encuentra-nuevos-espacios-saturarte-publicidad-1430002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-tv-actualiza-ahora-tiene-anuncios-qr-sean-interactivos-4266098.jpg?tf=1200x' alt='Google TV encuentra nuevos espacios para saturarte de publicidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266'>Ajustes secretos para aprovechar al máximo todas las funciones de Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-1428266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ajustes-secretos-aprovechar-maximo-todas-funciones-netflix-4270388.jpg?tf=1200x' alt='Ajustes secretos para aprovechar al máximo todas las funciones de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163'>No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-1428163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-falla-desactivas-funcion-televisor-mejoras-inmediato-calidad-imagen-garantizado-4270216.jpg?tf=1200x' alt='No falla, si desactivas esta función de tu televisor, mejoras de inmediato la calidad de imagen: garantizado' />
     </a>
 </div>
 
