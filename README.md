@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-itinerancia-datos-roaming-cuando-debes-activarlos-1419825'>Diferencias entre la itinerancia de datos y el roaming: ¿cuándo debes activarlos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-itinerancia-datos-roaming-cuando-debes-activarlos-1419825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roaming-4263531.jpg?tf=1200x' alt='Diferencias entre la itinerancia de datos y el roaming: ¿cuándo debes activarlos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-estafa-pierdes-conexion-cuenta-banco-1429855'>"Pierdes la conexión y la cuenta del banco se llena de cargos": Guardia Civil en alerta por una nueva estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-estafa-pierdes-conexion-cuenta-banco-1429855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberdelincuentes-miran-amazon-debes-protegerte-no-caer-estafas-prime-day-3705394.jpg?tf=1200x' alt='"Pierdes la conexión y la cuenta del banco se llena de cargos": Guardia Civil en alerta por una nueva estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/extrano-error-hace-windows-11-tarde-horas-iniciar-sesion-1430026'>Extraño error hace que Windows 11 tarde horas en iniciar sesión</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/extrano-error-hace-windows-11-tarde-horas-iniciar-sesion-1430026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/extrano-error-hace-windows-11-tarde-horas-iniciar-sesion-4273382.jpg?tf=1200x' alt='Extraño error hace que Windows 11 tarde horas en iniciar sesión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-alguien-ha-guardado-numero-1428781'>WhatsApp: cómo saber si alguien ha guardado tu número</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-alguien-ha-guardado-numero-1428781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-como-saber-alguien-ha-guardado-numero-4271263.jpg?tf=1200x' alt='WhatsApp: cómo saber si alguien ha guardado tu número' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-mobioffice-alternativa-gratis-office-1428677'>Ni Google Docs ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-google-ni-libreoffice-mobioffice-alternativa-gratis-office-1428677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-google-ni-libreoffice-lugar-dudas-mejor-alternativa-gratis-microsoft-office-4271142.jpg?tf=1200x' alt='Ni Google Docs ni LibreOffice, esta es sin lugar a dudas la mejor alternativa gratis a Microsoft Office' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cartas-javier-tebas-ver-futbol-iptv-1429766'>IPTV: ¿qué ha pasado con las cartas amenazantes que envió Javier Tebas por ver el fútbol gratis?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cartas-javier-tebas-ver-futbol-iptv-1429766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-plena-lucha-iptv-4273458.jpg?tf=1200x' alt='IPTV: ¿qué ha pasado con las cartas amenazantes que envió Javier Tebas por ver el fútbol gratis?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/mi-biblia-mantener-mi-portatil-windows-como-primer-dia-5-anos-uso-1428330'>Esta es mi biblia para mantener mi portátil con Windows como el primer día tras más de 5 años de uso</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/mi-biblia-mantener-mi-portatil-windows-como-primer-dia-5-anos-uso-1428330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mi-biblia-mantener-mi-portatil-windows-como-primer-dia-5-anos-uso-4270463.jpg?tf=1200x' alt='Esta es mi biblia para mantener mi portátil con Windows como el primer día tras más de 5 años de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/chatgpt-grati-mercadona-1429927'>Señor Hacendado: el ChatGPT gratis de Mercadona con el que podrás ahorrar cientos de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/chatgpt-grati-mercadona-1429927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/superman-mercadona-4273457.jpg?tf=1200x' alt='Señor Hacendado: el ChatGPT gratis de Mercadona con el que podrás ahorrar cientos de euros' />
     </a>
 </div>
 
