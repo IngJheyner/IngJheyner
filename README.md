@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/trailer-palma-serie-dramatica-netflix-erupcion-volcan-1430103'>Tráiler de La Palma, la polémica serie dramática de Netflix sobre la erupción del volcán</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/trailer-palma-serie-dramatica-netflix-erupcion-volcan-1430103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734281613933-4273515.jpg?tf=1200x' alt='Tráiler de La Palma, la polémica serie dramática de Netflix sobre la erupción del volcán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085'>YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-otros-idiomas-4273499.jpg?tf=1200x' alt='YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/pedidos-amazon-como-ver-historial-completo-todas-compras-amazon-1419351'>Mis pedidos de Amazon: cómo ver el historial completo de todas tus compras en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/pedidos-amazon-como-ver-historial-completo-todas-compras-amazon-1419351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Mis pedidos de Amazon: cómo ver el historial completo de todas tus compras en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-centro-polemica-actualizacion-llena-escritorio-ofertas-personalizadas-1430072'>Windows 11 en el centro de la polémica: esta actualización llena el escritorio de ofertas personalizadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-centro-polemica-actualizacion-llena-escritorio-ofertas-personalizadas-1430072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-windows-11-muchas-ofertas-personalizadas-4273483.jpg?tf=1200x' alt='Windows 11 en el centro de la polémica: esta actualización llena el escritorio de ofertas personalizadas' />
     </a>
 </div>
 
