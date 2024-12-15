@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085'>YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-otros-idiomas-4273499.jpg?tf=1200x' alt='YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/seria-fecha-celebracion-proximo-galaxy-unpacked-lista-completa-anuncios-1430084'>Esta sería la fecha de celebración del próximo Galaxy Unpacked y la lista completa de anuncios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/seria-fecha-celebracion-proximo-galaxy-unpacked-lista-completa-anuncios-1430084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienda-samsung-4273498.jpg?tf=1200x' alt='Esta sería la fecha de celebración del próximo Galaxy Unpacked y la lista completa de anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-1428516'>Netflix: estas son las mejores películas basadas en crímenes reales que no puedes perderte</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-1428516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-4270782.jpg?tf=1200x' alt='Netflix: estas son las mejores películas basadas en crímenes reales que no puedes perderte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-centro-polemica-actualizacion-llena-escritorio-ofertas-personalizadas-1430072'>Windows 11 en el centro de la polémica: esta actualización llena el escritorio de ofertas personalizadas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-centro-polemica-actualizacion-llena-escritorio-ofertas-personalizadas-1430072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ordenador-windows-11-muchas-ofertas-personalizadas-4273483.jpg?tf=1200x' alt='Windows 11 en el centro de la polémica: esta actualización llena el escritorio de ofertas personalizadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-runners-tienen-cascos-abiertos-vendidos-amazon-hunden-precio-1429428'>Todos los runners los tienen: los cascos abiertos más vendidos en Amazon hunden su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todos-runners-tienen-cascos-abiertos-vendidos-amazon-hunden-precio-1429428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/shokz-openrun-mini-4272319.jpg?tf=1200x' alt='Todos los runners los tienen: los cascos abiertos más vendidos en Amazon hunden su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-android-refuerza-seguridad-visitar-sitios-web-inseguros-1430069'>Chrome para Android refuerza su seguridad al visitar sitios web inseguros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-android-refuerza-seguridad-visitar-sitios-web-inseguros-1430069' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chrome-android-seguridad-4273478.jpg?tf=1200x' alt='Chrome para Android refuerza su seguridad al visitar sitios web inseguros' />
     </a>
 </div>
 
