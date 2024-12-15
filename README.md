@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/mi-biblia-mantener-mi-portatil-windows-como-primer-dia-5-anos-uso-1428330'>Esta es mi biblia para mantener mi portátil con Windows como el primer día tras más de 5 años de uso</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/mi-biblia-mantener-mi-portatil-windows-como-primer-dia-5-anos-uso-1428330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mi-biblia-mantener-mi-portatil-windows-como-primer-dia-5-anos-uso-4270463.jpg?tf=1200x' alt='Esta es mi biblia para mantener mi portátil con Windows como el primer día tras más de 5 años de uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/chatgpt-grati-mercadona-1429927'>Señor Hacendado: el ChatGPT gratis de Mercadona con el que podrás ahorrar cientos de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/chatgpt-grati-mercadona-1429927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/superman-mercadona-4273457.jpg?tf=1200x' alt='Señor Hacendado: el ChatGPT gratis de Mercadona con el que podrás ahorrar cientos de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cecotec-reta-roomba-vende-potentisimo-robot-pasa-mopa-1429731'>Cecotec reta a Roomba y vende un potentísimo robot que hasta pasa la mopa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cecotec-reta-roomba-vende-potentisimo-robot-pasa-mopa-1429731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/conga-10090-ai-spin-evolution-ultra-power-4272933.jpg?tf=1200x' alt='Cecotec reta a Roomba y vende un potentísimo robot que hasta pasa la mopa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-1428339'>Distribuciones gratis de Linux que se parecen y utilizan como Windows, ideales para ordenadores antiguos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-1428339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-4270487.jpg?tf=1200x' alt='Distribuciones gratis de Linux que se parecen y utilizan como Windows, ideales para ordenadores antiguos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/llevo-anos-comprando-amazon-jamas-he-recibido-paquete-mi-casa-nunca-he-tenido-problema-mi-truco-1428790'>Llevo años comprando en Amazon: jamás he recibido un paquete en mi casa y nunca he tenido un problema, este es mi truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/llevo-anos-comprando-amazon-jamas-he-recibido-paquete-mi-casa-nunca-he-tenido-problema-mi-truco-1428790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevo-anos-comprando-amazon-jamas-he-recibido-paquete-mi-casa-nunca-he-tenido-problema-mi-truco-4271268.jpg?tf=1200x' alt='Llevo años comprando en Amazon: jamás he recibido un paquete en mi casa y nunca he tenido un problema, este es mi truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trashing-todo-publicas-internet-podria-acabar-ciberseguridad-1419771'>¿Qué es 'trashing' y por qué todo lo que publicas en internet podría acabar con tu ciberseguridad?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/trashing-todo-publicas-internet-podria-acabar-ciberseguridad-1419771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733905176867-4271808.jpg?tf=1200x' alt='¿Qué es 'trashing' y por qué todo lo que publicas en internet podría acabar con tu ciberseguridad?' />
     </a>
 </div>
 
