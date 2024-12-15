@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cecotec-reta-roomba-vende-potentisimo-robot-pasa-mopa-1429731'>Cecotec reta a Roomba y vende un potentísimo robot que hasta pasa la mopa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cecotec-reta-roomba-vende-potentisimo-robot-pasa-mopa-1429731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/conga-10090-ai-spin-evolution-ultra-power-4272933.jpg?tf=1200x' alt='Cecotec reta a Roomba y vende un potentísimo robot que hasta pasa la mopa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/funciones-ocultas-microsoft-office-deberias-usar-ahora-mismo-mejorar-productividad-1428291'>Funciones ocultas de Microsoft Office que deberías usar ahora mismo para mejorar tu productividad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/funciones-ocultas-microsoft-office-deberias-usar-ahora-mismo-mejorar-productividad-1428291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/funciones-ocultas-microsoft-office-deberias-usar-ahora-mismo-mejorar-productividad-4270425.jpg?tf=1200x' alt='Funciones ocultas de Microsoft Office que deberías usar ahora mismo para mejorar tu productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-1428339'>Distribuciones gratis de Linux que se parecen y utilizan como Windows, ideales para ordenadores antiguos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-1428339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-4270487.jpg?tf=1200x' alt='Distribuciones gratis de Linux que se parecen y utilizan como Windows, ideales para ordenadores antiguos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trashing-todo-publicas-internet-podria-acabar-ciberseguridad-1419771'>¿Qué es 'trashing' y por qué todo lo que publicas en internet podría acabar con tu ciberseguridad?</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/trashing-todo-publicas-internet-podria-acabar-ciberseguridad-1419771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733905176867-4271808.jpg?tf=1200x' alt='¿Qué es 'trashing' y por qué todo lo que publicas en internet podría acabar con tu ciberseguridad?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-3-apps-fitness-te-recomendaria-1415088'>He probado 3 apps fitness y esta es la que te recomendaría</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/he-probado-3-apps-fitness-te-recomendaria-1415088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-probado-3-apps-fitness-4255654.jpg?tf=1200x' alt='He probado 3 apps fitness y esta es la que te recomendaría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-1428747'>Ni resolución ni tamaño de pantalla, cualquiera que tenga un televisor debería conocer esta sencilla regla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-1428747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-4271226.jpg?tf=1200x' alt='Ni resolución ni tamaño de pantalla, cualquiera que tenga un televisor debería conocer esta sencilla regla' />
     </a>
 </div>
 
