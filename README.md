@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-1428339'>Distribuciones gratis de Linux que se parecen y utilizan como Windows, ideales para ordenadores antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-1428339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/distribuciones-gratis-linux-parecen-utilizan-como-windows-ideales-ordenadores-antiguos-4270487.jpg?tf=1200x' alt='Distribuciones gratis de Linux que se parecen y utilizan como Windows, ideales para ordenadores antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/llevo-anos-comprando-amazon-jamas-he-recibido-paquete-mi-casa-nunca-he-tenido-problema-mi-truco-1428790'>Llevo años comprando en Amazon: jamás he recibido un paquete en mi casa y nunca he tenido un problema, este es mi truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/llevo-anos-comprando-amazon-jamas-he-recibido-paquete-mi-casa-nunca-he-tenido-problema-mi-truco-1428790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevo-anos-comprando-amazon-jamas-he-recibido-paquete-mi-casa-nunca-he-tenido-problema-mi-truco-4271268.jpg?tf=1200x' alt='Llevo años comprando en Amazon: jamás he recibido un paquete en mi casa y nunca he tenido un problema, este es mi truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trashing-todo-publicas-internet-podria-acabar-ciberseguridad-1419771'>¿Qué es 'trashing' y por qué todo lo que publicas en internet podría acabar con tu ciberseguridad?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/trashing-todo-publicas-internet-podria-acabar-ciberseguridad-1419771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1733905176867-4271808.jpg?tf=1200x' alt='¿Qué es 'trashing' y por qué todo lo que publicas en internet podría acabar con tu ciberseguridad?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-3-apps-fitness-te-recomendaria-1415088'>He probado 3 apps fitness y esta es la que te recomendaría</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/he-probado-3-apps-fitness-te-recomendaria-1415088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/he-probado-3-apps-fitness-4255654.jpg?tf=1200x' alt='He probado 3 apps fitness y esta es la que te recomendaría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-1428747'>Ni resolución ni tamaño de pantalla, cualquiera que tenga un televisor debería conocer esta sencilla regla</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-1428747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-4271226.jpg?tf=1200x' alt='Ni resolución ni tamaño de pantalla, cualquiera que tenga un televisor debería conocer esta sencilla regla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nadie-compra-mp3-estas-alturas-pero-yo-nadar-volveria-hacer-mil-veces-1429436'>Nadie compra un MP3 a estas alturas, pero yo sí: es para nadar y lo volvería a hacer mil veces</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nadie-compra-mp3-estas-alturas-pero-yo-nadar-volveria-hacer-mil-veces-1429436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shokz-openswim-3263224.jpg?tf=1200x' alt='Nadie compra un MP3 a estas alturas, pero yo sí: es para nadar y lo volvería a hacer mil veces' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/acceso-facil-emojis-windows-11-incluira-boton-especial-barra-tareas-1430025'>Acceso más fácil a emojis: Windows 11 incluirá un botón especial en la barra de tareas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/acceso-facil-emojis-windows-11-incluira-boton-especial-barra-tareas-1430025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/emojis-windows-11-4273381.jpg?tf=1200x' alt='Acceso más fácil a emojis: Windows 11 incluirá un botón especial en la barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-boton-encendido-portatiles-sensor-huellas-integrado-1430023'>Microsoft piensa en un botón de encendido para portátiles con sensor de huellas integrado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-piensa-boton-encendido-portatiles-sensor-huellas-integrado-1430023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lector-huellas-integrado-portatil-4273377.jpg?tf=1200x' alt='Microsoft piensa en un botón de encendido para portátiles con sensor de huellas integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946'>El calefactor Taurus que arrasa en Amazon por menos de 20 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taurus-alpatec-new-gobi-4273278.jpg?tf=1200x' alt='El calefactor Taurus que arrasa en Amazon por menos de 20 euros' />
     </a>
 </div>
 
