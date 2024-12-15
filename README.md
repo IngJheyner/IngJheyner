@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109'>La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-pronuncia-4273565.jpg?tf=1200x' alt='La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/hdmi-22-nuevo-cable-1430107'>Prepárate para comprar nuevos cables: HDMI 2.2 lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/hdmi-22-nuevo-cable-1430107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/preparate-comprar-nuevos-cables-hdmi-22-cambia-todo-4273526.jpg?tf=1200x' alt='Prepárate para comprar nuevos cables: HDMI 2.2 lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/seria-fecha-celebracion-proximo-galaxy-unpacked-lista-completa-anuncios-1430084'>Esta sería la fecha de celebración del próximo Galaxy Unpacked y la lista completa de anuncios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/seria-fecha-celebracion-proximo-galaxy-unpacked-lista-completa-anuncios-1430084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienda-samsung-4273498.jpg?tf=1200x' alt='Esta sería la fecha de celebración del próximo Galaxy Unpacked y la lista completa de anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-1428516'>Netflix: estas son las mejores películas basadas en crímenes reales que no puedes perderte</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-1428516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-4270782.jpg?tf=1200x' alt='Netflix: estas son las mejores películas basadas en crímenes reales que no puedes perderte' />
     </a>
 </div>
 
