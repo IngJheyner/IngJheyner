@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-1428516'>Netflix: estas son las mejores películas basadas en crímenes reales que no puedes perderte</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-1428516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-estas-son-mejores-peliculas-basadas-crimenes-reales-no-puedes-perderte-4270782.jpg?tf=1200x' alt='Netflix: estas son las mejores películas basadas en crímenes reales que no puedes perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/pedidos-amazon-como-ver-historial-completo-todas-compras-amazon-1419351'>Mis pedidos de Amazon: cómo ver el historial completo de todas tus compras en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/pedidos-amazon-como-ver-historial-completo-todas-compras-amazon-1419351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Mis pedidos de Amazon: cómo ver el historial completo de todas tus compras en Amazon' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-android-refuerza-seguridad-visitar-sitios-web-inseguros-1430069'>Chrome para Android refuerza su seguridad al visitar sitios web inseguros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-android-refuerza-seguridad-visitar-sitios-web-inseguros-1430069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chrome-android-seguridad-4273478.jpg?tf=1200x' alt='Chrome para Android refuerza su seguridad al visitar sitios web inseguros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-itinerancia-datos-roaming-cuando-debes-activarlos-1419825'>Diferencias entre la itinerancia de datos y el roaming: ¿cuándo debes activarlos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-itinerancia-datos-roaming-cuando-debes-activarlos-1419825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/roaming-4263531.jpg?tf=1200x' alt='Diferencias entre la itinerancia de datos y el roaming: ¿cuándo debes activarlos?' />
     </a>
 </div>
 
