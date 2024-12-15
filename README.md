@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-estrena-canales-navidad-gratis-1430112'>Ni Netflix ni Disney+: Pluto TV estrena sus canales de Navidad gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-estrena-canales-navidad-gratis-1430112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-netflix-ni-disney-pluto-tv-estrena-canales-navidad-gratis-4273567.jpg?tf=1200x' alt='Ni Netflix ni Disney+: Pluto TV estrena sus canales de Navidad gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109'>La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-pronuncia-4273565.jpg?tf=1200x' alt='La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085'>YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-otros-idiomas-4273499.jpg?tf=1200x' alt='YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/seria-fecha-celebracion-proximo-galaxy-unpacked-lista-completa-anuncios-1430084'>Esta sería la fecha de celebración del próximo Galaxy Unpacked y la lista completa de anuncios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/seria-fecha-celebracion-proximo-galaxy-unpacked-lista-completa-anuncios-1430084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienda-samsung-4273498.jpg?tf=1200x' alt='Esta sería la fecha de celebración del próximo Galaxy Unpacked y la lista completa de anuncios' />
     </a>
 </div>
 
