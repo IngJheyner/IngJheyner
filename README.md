@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-1428747'>Ni resolución ni tamaño de pantalla, cualquiera que tenga un televisor debería conocer esta sencilla regla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-1428747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-resolucion-ni-tamano-pantalla-cualquiera-tenga-televisor-deberia-conocer-sencilla-regla-4271226.jpg?tf=1200x' alt='Ni resolución ni tamaño de pantalla, cualquiera que tenga un televisor debería conocer esta sencilla regla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nadie-compra-mp3-estas-alturas-pero-yo-nadar-volveria-hacer-mil-veces-1429436'>Nadie compra un MP3 a estas alturas, pero yo sí: es para nadar y lo volvería a hacer mil veces</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nadie-compra-mp3-estas-alturas-pero-yo-nadar-volveria-hacer-mil-veces-1429436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/shokz-openswim-3263224.jpg?tf=1200x' alt='Nadie compra un MP3 a estas alturas, pero yo sí: es para nadar y lo volvería a hacer mil veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/acceso-facil-emojis-windows-11-incluira-boton-especial-barra-tareas-1430025'>Acceso más fácil a emojis: Windows 11 incluirá un botón especial en la barra de tareas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/acceso-facil-emojis-windows-11-incluira-boton-especial-barra-tareas-1430025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/emojis-windows-11-4273381.jpg?tf=1200x' alt='Acceso más fácil a emojis: Windows 11 incluirá un botón especial en la barra de tareas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946'>El calefactor Taurus que arrasa en Amazon por menos de 20 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/calefactor-taurus-arrasa-amazon-menos-20-euros-1429946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taurus-alpatec-new-gobi-4273278.jpg?tf=1200x' alt='El calefactor Taurus que arrasa en Amazon por menos de 20 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-podria-separar-busqueda-local-busqueda-web-bing-union-europea-1430019'>Windows 11 podría separar la búsqueda local de la búsqueda web de Bing en la Unión Europea</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-podria-separar-busqueda-local-busqueda-web-bing-union-europea-1430019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-windows-11-4273374.jpg?tf=1200x' alt='Windows 11 podría separar la búsqueda local de la búsqueda web de Bing en la Unión Europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006'>Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/outlook-windows-potencia-modo-offline-vas-poder-guardar-archivos-adjuntos-conexion-internet-1430006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/correo-electronico-outlook-3652399.jpg?tf=1200x' alt='Outlook para Windows potencia su modo offline: vas a poder guardar archivos adjuntos sin conexión a Internet' />
     </a>
 </div>
 
