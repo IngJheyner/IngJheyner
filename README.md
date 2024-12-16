@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-1429076'>Android Auto: estas son las funciones que más uso y que sorprendentemente mucha gente no conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-1429076' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-4271758.jpg?tf=1200x' alt='Android Auto: estas son las funciones que más uso y que sorprendentemente mucha gente no conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moto-electrica-cuesta-casi-menos-bici-tiene-110-km-bateria-1429851'>Esta moto eléctrica cuesta casi menos que una bici: tiene hasta 110 km de batería</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/moto-electrica-cuesta-casi-menos-bici-tiene-110-km-bateria-1429851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cecotec-piazza-4273115.jpg?tf=1200x' alt='Esta moto eléctrica cuesta casi menos que una bici: tiene hasta 110 km de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cargador-consume-energia-telefono-movil-conectado-1429093'>¿Un cargador consume energía sin un teléfono móvil conectado?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cargador-consume-energia-telefono-movil-conectado-1429093' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cargador-consume-energia-telefono-movil-conectado-4271769.jpg?tf=1200x' alt='¿Un cargador consume energía sin un teléfono móvil conectado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-1429102'>Estos son mis trucos para navegar seguro con Chrome: "Es casi invulnerable"</a></h4>
     <a href='https://computerhoy.20minutos.es/google/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-1429102' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-4271780.jpg?tf=1200x' alt='Estos son mis trucos para navegar seguro con Chrome: "Es casi invulnerable"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-1429006'>Ni Python ni JavaScript, para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-1429006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-4271672.jpg?tf=1200x' alt='Ni Python ni JavaScript, para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-lanzan-moneda-aire-350000-veces-descubren-truco-1430117'>Expertos lanzan una moneda al aire 350.000 veces, y descubren un truco para aumentar las posibilidades de ganar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/expertos-lanzan-moneda-aire-350000-veces-descubren-truco-1430117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-lanzan-moneda-aire-350000-veces-descubren-no-hay-50-probabilidad-4273568.jpg?tf=1200x' alt='Expertos lanzan una moneda al aire 350.000 veces, y descubren un truco para aumentar las posibilidades de ganar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-estrena-canales-navidad-gratis-1430112'>Ni Netflix ni Disney+: Pluto TV estrena sus canales de Navidad gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-estrena-canales-navidad-gratis-1430112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-netflix-ni-disney-pluto-tv-estrena-canales-navidad-gratis-4273567.jpg?tf=1200x' alt='Ni Netflix ni Disney+: Pluto TV estrena sus canales de Navidad gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109'>La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-pronuncia-4273565.jpg?tf=1200x' alt='La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia' />
     </a>
 </div>
 
