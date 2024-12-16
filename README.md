@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384'>Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar, de series como The Walking Dead o La Casa del Dragón</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg?tf=1200x' alt='Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar, de series como The Walking Dead o La Casa del Dragón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/suben-tarifas-movistar-orange-vodafone-pagaras-2025-1430383'>Suben las tarifas en Movistar, Orange y Vodafone: esto es lo que pagarás de más en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/suben-tarifas-movistar-orange-vodafone-pagaras-2025-1430383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/operadores-4273983.jpg?tf=1200x' alt='Suben las tarifas en Movistar, Orange y Vodafone: esto es lo que pagarás de más en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372'>Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730'>AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-12r-4272915.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-1430299'>Giro de 180 grados en Telegram: fin de las IPTV y el contenido ilegal en la plataforma</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-1430299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-4273861.jpg?tf=1200x' alt='Giro de 180 grados en Telegram: fin de las IPTV y el contenido ilegal en la plataforma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273'>Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025' />
     </a>
 </div>
 
