@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/inevitable-algunos-contenidos-escapen-ceo-instagram-habla-ia-impacto-redes-sociales-1430174'>"Es inevitable que algunos contenidos se escapen": el CEO de Instagram habla sobre la IA y su impacto en las redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/inevitable-algunos-contenidos-escapen-ceo-instagram-habla-ia-impacto-redes-sociales-1430174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adam-mosseri-ceo-instagram-4273635.jpg?tf=1200x' alt='"Es inevitable que algunos contenidos se escapen": el CEO de Instagram habla sobre la IA y su impacto en las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-va-agotar-fenix-8-casi-200-euros-descuento-varias-versiones-1430135'>Amazon va a agotar el Fenix 8 con casi 200 euros de descuento en varias versiones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-va-agotar-fenix-8-casi-200-euros-descuento-varias-versiones-1430135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4246172.jpg?tf=1200x' alt='Amazon va a agotar el Fenix 8 con casi 200 euros de descuento en varias versiones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-amazon-reloj-ultra-potente-cuesta-100-euros-menos-1430128'>Samsung la lía en Amazon: su reloj Ultra, el más potente, cuesta 100 euros menos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-amazon-reloj-ultra-potente-cuesta-100-euros-menos-1430128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='Samsung la lía en Amazon: su reloj Ultra, el más potente, cuesta 100 euros menos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/he-entrado-desconocido-mundo-laboratorios-google-ya-no-puedo-dejar-actividades-practicas-menos-1-hora-1420153'>He entrado en el desconocido mundo de los laboratorios de Google y ya no puedo dejar sus actividades prácticas de menos de 1 hora</a></h4>
     <a href='https://computerhoy.20minutos.es/google/he-entrado-desconocido-mundo-laboratorios-google-ya-no-puedo-dejar-actividades-practicas-menos-1-hora-1420153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cursos-laboratorios-qwiklabs-google-cloud-skills-4264065.jpg?tf=1200x' alt='He entrado en el desconocido mundo de los laboratorios de Google y ya no puedo dejar sus actividades prácticas de menos de 1 hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-1429076'>Android Auto: estas son las funciones que más uso y que sorprendentemente mucha gente no conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-1429076' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-4271758.jpg?tf=1200x' alt='Android Auto: estas son las funciones que más uso y que sorprendentemente mucha gente no conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/moto-electrica-cuesta-casi-menos-bici-tiene-110-km-bateria-1429851'>Esta moto eléctrica cuesta casi menos que una bici: tiene hasta 110 km de batería</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/moto-electrica-cuesta-casi-menos-bici-tiene-110-km-bateria-1429851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cecotec-piazza-4273115.jpg?tf=1200x' alt='Esta moto eléctrica cuesta casi menos que una bici: tiene hasta 110 km de batería' />
     </a>
 </div>
 
