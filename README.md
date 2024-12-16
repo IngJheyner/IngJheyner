@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-1430299'>Giro de 180 grados en Telegram: fin de las IPTV y el contenido ilegal en la plataforma</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-1430299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-4273861.jpg?tf=1200x' alt='Giro de 180 grados en Telegram: fin de las IPTV y el contenido ilegal en la plataforma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273'>Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254'>Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/game-boy-4273746.jpg?tf=1200x' alt='Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227'>Apple estaría desarrollando un iPad plegable de tamaño gigante que podría estar listo para 2028</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Apple estaría desarrollando un iPad plegable de tamaño gigante que podría estar listo para 2028' />
     </a>
 </div>
 
