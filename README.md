@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168'>Frío extremo en España: así puedes protegerte activando la alerta en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-4273619.jpg?tf=1200x' alt='Frío extremo en España: así puedes protegerte activando la alerta en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254'>Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/game-boy-4273746.jpg?tf=1200x' alt='Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194'>El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán</a></h4>
     <a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mit-imagenes-ia-4273704.jpg?tf=1200x' alt='El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-1430246'>El iPhone 18 será el móvil más caro de la historia de Apple por culpa del nuevo chip</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-1430246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-4273733.jpg?tf=1200x' alt='El iPhone 18 será el móvil más caro de la historia de Apple por culpa del nuevo chip' />
     </a>
 </div>
 
