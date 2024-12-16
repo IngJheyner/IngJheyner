@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-1429102'>Estos son mis trucos para navegar seguro con Chrome: "Es casi invulnerable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-1429102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-4271780.jpg?tf=1200x' alt='Estos son mis trucos para navegar seguro con Chrome: "Es casi invulnerable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-1429006'>Ni Python ni JavaScript, para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-1429006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-4271672.jpg?tf=1200x' alt='Ni Python ni JavaScript, para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-lanzan-moneda-aire-350000-veces-descubren-truco-1430117'>Expertos lanzan una moneda al aire 350.000 veces, y descubren un truco para aumentar las posibilidades de ganar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/expertos-lanzan-moneda-aire-350000-veces-descubren-truco-1430117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-lanzan-moneda-aire-350000-veces-descubren-no-hay-50-probabilidad-4273568.jpg?tf=1200x' alt='Expertos lanzan una moneda al aire 350.000 veces, y descubren un truco para aumentar las posibilidades de ganar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109'>La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-1430109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fusion-intel-amd-lisa-como-gran-jefa-ceo-amd-pronuncia-4273565.jpg?tf=1200x' alt='La fusión de Intel y AMD con Lisa Su como gran jefa: la CEO de AMD se pronuncia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/hdmi-22-nuevo-cable-1430107'>Prepárate para comprar nuevos cables: HDMI 2.2 lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/hdmi-22-nuevo-cable-1430107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/preparate-comprar-nuevos-cables-hdmi-22-cambia-todo-4273526.jpg?tf=1200x' alt='Prepárate para comprar nuevos cables: HDMI 2.2 lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/trailer-palma-serie-dramatica-netflix-erupcion-volcan-1430103'>Tráiler de La Palma, la polémica serie dramática de Netflix sobre la erupción del volcán</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/trailer-palma-serie-dramatica-netflix-erupcion-volcan-1430103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734281613933-4273515.jpg?tf=1200x' alt='Tráiler de La Palma, la polémica serie dramática de Netflix sobre la erupción del volcán' />
     </a>
 </div>
 
