@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273'>Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-nueva-funcion-quiere-acabar-ghosting-1430261'>WhatsApp: así es su nueva función que quiere acabar con el ghosting </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-nueva-funcion-quiere-acabar-ghosting-1430261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-4267393.jpg?tf=1200x' alt='WhatsApp: así es su nueva función que quiere acabar con el ghosting ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168'>Frío extremo en España: así puedes protegerte activando la alerta en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-4273619.jpg?tf=1200x' alt='Frío extremo en España: así puedes protegerte activando la alerta en tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227'>Apple estaría desarrollando un iPad plegable de tamaño gigante que podría estar listo para 2028</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Apple estaría desarrollando un iPad plegable de tamaño gigante que podría estar listo para 2028' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/conoce-secreto-tesla-descubre-quien-detras-fabricacion-cybertrucks-1430187'>Se conoce el secreto de Tesla: descubre quién está detrás de la fabricación de sus Cybertrucks</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/conoce-secreto-tesla-descubre-quien-detras-fabricacion-cybertrucks-1430187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg?tf=1200x' alt='Se conoce el secreto de Tesla: descubre quién está detrás de la fabricación de sus Cybertrucks' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194'>El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán</a></h4>
-    <a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mit-imagenes-ia-4273704.jpg?tf=1200x' alt='El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán' />
     </a>
 </div>
 
