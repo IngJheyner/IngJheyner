@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/no-usas-herramienta-estas-desaprovechando-windows-1417467'>Si no usas esta herramienta, estás desaprovechando Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/no-usas-herramienta-estas-desaprovechando-windows-1417467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Si no usas esta herramienta, estás desaprovechando Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/he-entrado-desconocido-mundo-laboratorios-google-ya-no-puedo-dejar-actividades-practicas-menos-1-hora-1420153'>He entrado en el desconocido mundo de los laboratorios de Google y ya no puedo dejar sus actividades prácticas de menos de 1 hora</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/he-entrado-desconocido-mundo-laboratorios-google-ya-no-puedo-dejar-actividades-practicas-menos-1-hora-1420153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/cursos-laboratorios-qwiklabs-google-cloud-skills-4264065.jpg?tf=1200x' alt='He entrado en el desconocido mundo de los laboratorios de Google y ya no puedo dejar sus actividades prácticas de menos de 1 hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-1429076'>Android Auto: estas son las funciones que más uso y que sorprendentemente mucha gente no conoce</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-1429076' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-estas-son-funciones-uso-sorprendentemente-mucha-gente-no-conoce-4271758.jpg?tf=1200x' alt='Android Auto: estas son las funciones que más uso y que sorprendentemente mucha gente no conoce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cargador-consume-energia-telefono-movil-conectado-1429093'>¿Un cargador consume energía sin un teléfono móvil conectado?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cargador-consume-energia-telefono-movil-conectado-1429093' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cargador-consume-energia-telefono-movil-conectado-4271769.jpg?tf=1200x' alt='¿Un cargador consume energía sin un teléfono móvil conectado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-1429102'>Estos son mis trucos para navegar seguro con Chrome: "Es casi invulnerable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-1429102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estos-son-trucos-navegar-seguro-chrome-casi-invulnerable-4271780.jpg?tf=1200x' alt='Estos son mis trucos para navegar seguro con Chrome: "Es casi invulnerable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-1429006'>Ni Python ni JavaScript, para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-1429006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-4271672.jpg?tf=1200x' alt='Ni Python ni JavaScript, para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)' />
     </a>
 </div>
 
