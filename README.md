@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/escanea-mejora-olvidate-editar-nueva-funcion-google-drive-ya-aqui-1430391'>Escanea, mejora y olvídate de editar: La nueva función de Google Drive ya está aquí</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/escanea-mejora-olvidate-editar-nueva-funcion-google-drive-ya-aqui-1430391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-drive-permitira-escanear-documentos-competir-microsoft-onedrive-3831533.jpg?tf=1200x' alt='Escanea, mejora y olvídate de editar: La nueva función de Google Drive ya está aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384'>Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar, de series como The Walking Dead o La Casa del Dragón</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg?tf=1200x' alt='Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar, de series como The Walking Dead o La Casa del Dragón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-1430331'>Adiós a las llamadas spam: el truco con Telegram que te ayudará a identificarlas al instante</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-1430331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-4273934.jpg?tf=1200x' alt='Adiós a las llamadas spam: el truco con Telegram que te ayudará a identificarlas al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730'>AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-12r-4272915.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España' />
     </a>
 </div>
 
