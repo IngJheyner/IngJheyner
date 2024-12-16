@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372'>Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-1430331'>Adiós a las llamadas spam: el truco con Telegram que te ayudará a identificarlas al instante</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-1430331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-4273934.jpg?tf=1200x' alt='Adiós a las llamadas spam: el truco con Telegram que te ayudará a identificarlas al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730'>AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-12r-4272915.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273'>Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-1-enero-2025-1430273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/estrenos-series-peliculas-movistar-plus-julio-ultima-gato-botas-serie-raul-cimas-3071180.jpg?tf=1200x' alt='Movistar Plus+ dice adiós a 14 canales premium desde el 1 de enero de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-nueva-funcion-quiere-acabar-ghosting-1430261'>WhatsApp: así es su nueva función que quiere acabar con el ghosting </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-nueva-funcion-quiere-acabar-ghosting-1430261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/funciones-utiles-whatsapp-gente-raramente-conoce-nadie-utiliza-4267393.jpg?tf=1200x' alt='WhatsApp: así es su nueva función que quiere acabar con el ghosting ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168'>Frío extremo en España: así puedes protegerte activando la alerta en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-4273619.jpg?tf=1200x' alt='Frío extremo en España: así puedes protegerte activando la alerta en tu móvil' />
     </a>
 </div>
 
