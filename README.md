@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-amazon-reloj-ultra-potente-cuesta-100-euros-menos-1430128'>Samsung la lía en Amazon: su reloj Ultra, el más potente, cuesta 100 euros menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-amazon-reloj-ultra-potente-cuesta-100-euros-menos-1430128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch-ultra-4243776.jpg?tf=1200x' alt='Samsung la lía en Amazon: su reloj Ultra, el más potente, cuesta 100 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/no-usas-herramienta-estas-desaprovechando-windows-1417467'>Si no usas esta herramienta, estás desaprovechando Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/no-usas-herramienta-estas-desaprovechando-windows-1417467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Si no usas esta herramienta, estás desaprovechando Windows' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/moto-electrica-cuesta-casi-menos-bici-tiene-110-km-bateria-1429851'>Esta moto eléctrica cuesta casi menos que una bici: tiene hasta 110 km de batería</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/moto-electrica-cuesta-casi-menos-bici-tiene-110-km-bateria-1429851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cecotec-piazza-4273115.jpg?tf=1200x' alt='Esta moto eléctrica cuesta casi menos que una bici: tiene hasta 110 km de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cargador-consume-energia-telefono-movil-conectado-1429093'>¿Un cargador consume energía sin un teléfono móvil conectado?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cargador-consume-energia-telefono-movil-conectado-1429093' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cargador-consume-energia-telefono-movil-conectado-4271769.jpg?tf=1200x' alt='¿Un cargador consume energía sin un teléfono móvil conectado?' />
     </a>
 </div>
 
