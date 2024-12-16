@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-lanzan-moneda-aire-350000-veces-descubren-truco-1430117'>Expertos lanzan una moneda al aire 350.000 veces, y descubren un truco para aumentar las posibilidades de ganar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/expertos-lanzan-moneda-aire-350000-veces-descubren-truco-1430117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-lanzan-moneda-aire-350000-veces-descubren-no-hay-50-probabilidad-4273568.jpg?tf=1200x' alt='Expertos lanzan una moneda al aire 350.000 veces, y descubren un truco para aumentar las posibilidades de ganar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-estrena-canales-navidad-gratis-1430112'>Ni Netflix ni Disney+: Pluto TV estrena sus canales de Navidad gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-estrena-canales-navidad-gratis-1430112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-netflix-ni-disney-pluto-tv-estrena-canales-navidad-gratis-4273567.jpg?tf=1200x' alt='Ni Netflix ni Disney+: Pluto TV estrena sus canales de Navidad gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/trailer-palma-serie-dramatica-netflix-erupcion-volcan-1430103'>Tráiler de La Palma, la polémica serie dramática de Netflix sobre la erupción del volcán</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/trailer-palma-serie-dramatica-netflix-erupcion-volcan-1430103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734281613933-4273515.jpg?tf=1200x' alt='Tráiler de La Palma, la polémica serie dramática de Netflix sobre la erupción del volcán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085'>YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-ahora-puede-doblar-automaticamente-videos-gracias-ia-1430085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-otros-idiomas-4273499.jpg?tf=1200x' alt='YouTube ahora puede doblar automáticamente tus vídeos, gracias a la IA' />
     </a>
 </div>
 
