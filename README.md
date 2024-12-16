@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730'>AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aliexpress-vuelve-hacer-deja-oneplus-12r-precio-china-pero-vende-espana-1429730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-12r-4272915.jpg?tf=1200x' alt='AliExpress lo vuelve a hacer: deja el OnePlus 12R a precio de China, pero lo vende en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-1430299'>Giro de 180 grados en Telegram: fin de las IPTV y el contenido ilegal en la plataforma</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-1430299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-telegram-fin-iptv-contenido-ilegal-plataforma-4273861.jpg?tf=1200x' alt='Giro de 180 grados en Telegram: fin de las IPTV y el contenido ilegal en la plataforma' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168'>Frío extremo en España: así puedes protegerte activando la alerta en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-1430168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/frio-extremo-espana-puedes-protegerte-activando-alerta-movil-4273619.jpg?tf=1200x' alt='Frío extremo en España: así puedes protegerte activando la alerta en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254'>Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/game-boy-4273746.jpg?tf=1200x' alt='Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta' />
     </a>
 </div>
 
