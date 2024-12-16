@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227'>Apple estaría desarrollando un iPad plegable gigante</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Apple estaría desarrollando un iPad plegable gigante' />
+    <h4><a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194'>El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán</a></h4>
+    <a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mit-imagenes-ia-4273704.jpg?tf=1200x' alt='El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/alternativa-airtag-cuesta-menos-mitad-amazon-vende-solo-12-euros-1430105'>Esta alternativa al AirTag cuesta menos de la mitad: Amazon la vende por solo 12 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/alternativa-airtag-cuesta-menos-mitad-amazon-vende-solo-12-euros-1430105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tile-mate-2022-4273522.jpg?tf=1200x' alt='Esta alternativa al AirTag cuesta menos de la mitad: Amazon la vende por solo 12 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-1430246'>El iPhone 18 será el móvil más caro de la historia de Apple por culpa del nuevo chip</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-1430246' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-4273733.jpg?tf=1200x' alt='El iPhone 18 será el móvil más caro de la historia de Apple por culpa del nuevo chip' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-apple-llega-2026-todas-conoce-gran-rival-samsung-galaxy-z-flip-1430173'>El iPhone plegable de Apple llega en 2026: todas lo que se conoce del gran rival del Samsung Galaxy Z Flip</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-apple-llega-2026-todas-conoce-gran-rival-samsung-galaxy-z-flip-1430173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable de Apple llega en 2026: todas lo que se conoce del gran rival del Samsung Galaxy Z Flip' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-varios-modelos-iphone-motivo-apple-retira-ue-2025-1430172'>Adiós a varios modelos de iPhone: este es el motivo por el que Apple los retira de la UE en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-varios-modelos-iphone-motivo-apple-retira-ue-2025-1430172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-iphone-4264441.jpg?tf=1200x' alt='Adiós a varios modelos de iPhone: este es el motivo por el que Apple los retira de la UE en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/magic-mouse-apple-productos-polemicos-podria-cambiar-completo-quejas-usuarios-1430178'>El Magic Mouse de Apple es uno de los productos más polémicos y podría cambiar por completo por las quejas de sus usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/magic-mouse-apple-productos-polemicos-podria-cambiar-completo-quejas-usuarios-1430178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magic-mouse-apple-productos-polemicos-podria-cambiar-completo-quejas-usuarios-4273676.jpg?tf=1200x' alt='El Magic Mouse de Apple es uno de los productos más polémicos y podría cambiar por completo por las quejas de sus usuarios' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sayan-chakraborty-extrabajador-nasa-ia-estara-totalmente-integrada-nosotros-1430193'>Sayan Chakraborty, extrabajador de la NASA: la IA "estará totalmente integrada en nosotros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sayan-chakraborty-extrabajador-nasa-ia-estara-totalmente-integrada-nosotros-1430193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sayan-chakraborty-extrabajador-nasa-4273694.jpg?tf=1200x' alt='Sayan Chakraborty, extrabajador de la NASA: la IA "estará totalmente integrada en nosotros"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-linkedin-ni-infojobs-herramienta-elon-musk-conseguir-empleo-fijo-1430155'>Ni Linkedin ni Infojobs, esta es la herramienta de Elon Musk para conseguir empleo fijo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-linkedin-ni-infojobs-herramienta-elon-musk-conseguir-empleo-fijo-1430155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='Ni Linkedin ni Infojobs, esta es la herramienta de Elon Musk para conseguir empleo fijo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-grok-continuan-polemica-libre-chatgpt-creador-bulos-1430198'>Elon Musk y Grok continúan la polémica: ¿más libre que ChatGPT o creador de bulos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-grok-continuan-polemica-libre-chatgpt-creador-bulos-1430198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk y Grok continúan la polémica: ¿más libre que ChatGPT o creador de bulos?' />
     </a>
 </div>
 
