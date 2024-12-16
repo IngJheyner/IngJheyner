@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227'>Apple estaría desarrollando un iPad plegable gigante</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Apple estaría desarrollando un iPad plegable gigante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/alternativa-airtag-cuesta-menos-mitad-amazon-vende-solo-12-euros-1430105'>Esta alternativa al AirTag cuesta menos de la mitad: Amazon la vende por solo 12 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/alternativa-airtag-cuesta-menos-mitad-amazon-vende-solo-12-euros-1430105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tile-mate-2022-4273522.jpg?tf=1200x' alt='Esta alternativa al AirTag cuesta menos de la mitad: Amazon la vende por solo 12 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-apple-llega-2026-todas-conoce-gran-rival-samsung-galaxy-z-flip-1430173'>El iPhone plegable de Apple llega en 2026: todas lo que se conoce del gran rival del Samsung Galaxy Z Flip</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-apple-llega-2026-todas-conoce-gran-rival-samsung-galaxy-z-flip-1430173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable de Apple llega en 2026: todas lo que se conoce del gran rival del Samsung Galaxy Z Flip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/magic-mouse-apple-productos-polemicos-podria-cambiar-completo-quejas-usuarios-1430178'>El Magic Mouse de Apple es uno de los productos más polémicos y podría cambiar por completo por las quejas de sus usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/magic-mouse-apple-productos-polemicos-podria-cambiar-completo-quejas-usuarios-1430178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magic-mouse-apple-productos-polemicos-podria-cambiar-completo-quejas-usuarios-4273676.jpg?tf=1200x' alt='El Magic Mouse de Apple es uno de los productos más polémicos y podría cambiar por completo por las quejas de sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-linkedin-ni-infojobs-herramienta-elon-musk-conseguir-empleo-fijo-1430155'>Ni Linkedin ni Infojobs, esta es la herramienta de Elon Musk para conseguir empleo fijo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-linkedin-ni-infojobs-herramienta-elon-musk-conseguir-empleo-fijo-1430155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='Ni Linkedin ni Infojobs, esta es la herramienta de Elon Musk para conseguir empleo fijo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-limite-170-millones-usuarios-eeuu-vilo-posible-adios-tiendas-google-apple-1430181'>TikTok al límite: 170 millones de usuarios de EEUU en vilo ante el posible adiós de las tiendas de Google y Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tiktok-limite-170-millones-usuarios-eeuu-vilo-posible-adios-tiendas-google-apple-1430181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiktok-eeuu-4273667.jpg?tf=1200x' alt='TikTok al límite: 170 millones de usuarios de EEUU en vilo ante el posible adiós de las tiendas de Google y Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-varios-modelos-iphone-motivo-apple-retira-ue-2025-1430172'>Adiós a varios modelos de iPhone: este es el motivo por el que Apple los retira de la UE en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-varios-modelos-iphone-motivo-apple-retira-ue-2025-1430172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-iphone-4264441.jpg?tf=1200x' alt='Adiós a varios modelos de iPhone: este es el motivo por el que Apple los retira de la UE en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/inevitable-algunos-contenidos-escapen-ceo-instagram-habla-ia-impacto-redes-sociales-1430174'>"Es inevitable que algunos contenidos se escapen": el CEO de Instagram habla sobre la IA y su impacto en las redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/inevitable-algunos-contenidos-escapen-ceo-instagram-habla-ia-impacto-redes-sociales-1430174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adam-mosseri-ceo-instagram-4273635.jpg?tf=1200x' alt='"Es inevitable que algunos contenidos se escapen": el CEO de Instagram habla sobre la IA y su impacto en las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-va-agotar-fenix-8-casi-200-euros-descuento-varias-versiones-1430135'>Amazon va a agotar el Fenix 8 con casi 200 euros de descuento en varias versiones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-va-agotar-fenix-8-casi-200-euros-descuento-varias-versiones-1430135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4246172.jpg?tf=1200x' alt='Amazon va a agotar el Fenix 8 con casi 200 euros de descuento en varias versiones' />
     </a>
 </div>
 
