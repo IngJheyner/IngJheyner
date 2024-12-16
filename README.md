@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254'>Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/compra-game-boy-segunda-mano-interruptor-extrano-descubre-ingeniosa-funcion-oculta-1430254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/game-boy-4273746.jpg?tf=1200x' alt='Compra una Game Boy de segunda mano con un interruptor extraño y descubre su ingeniosa función oculta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227'>Apple estaría desarrollando un iPad plegable de tamaño gigante que podría estar listo para 2028</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-estaria-desarrollando-ipad-plegable-gigante-1430227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-ipad-109-pulgadas-4265628.jpg?tf=1200x' alt='Apple estaría desarrollando un iPad plegable de tamaño gigante que podría estar listo para 2028' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/conoce-secreto-tesla-descubre-quien-detras-fabricacion-cybertrucks-1430187'>Se conoce el secreto de Tesla: descubre quién está detrás de la fabricación de sus Cybertrucks</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/conoce-secreto-tesla-descubre-quien-detras-fabricacion-cybertrucks-1430187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/03/tesla-cybertruck-2256663.jpg?tf=1200x' alt='Se conoce el secreto de Tesla: descubre quién está detrás de la fabricación de sus Cybertrucks' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194'>El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán</a></h4>
     <a href='https://computerhoy.20minutos.es/mit-desarrolla-tecnologia-mostrar-como-quedaria-ciudad-inundacion-huracan-1430194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mit-imagenes-ia-4273704.jpg?tf=1200x' alt='El MIT desarrolla una tecnología para mostrar cómo quedaría tu ciudad tras una inundación o huracán' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-1430246'>El iPhone 18 será el móvil más caro de la historia de Apple por culpa del nuevo chip</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-1430246' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-18-sera-movil-caro-historia-apple-culpa-nuevo-chip-4273733.jpg?tf=1200x' alt='El iPhone 18 será el móvil más caro de la historia de Apple por culpa del nuevo chip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-varios-modelos-iphone-motivo-apple-retira-ue-2025-1430172'>Adiós a varios modelos de iPhone: este es el motivo por el que Apple los retira de la UE en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-varios-modelos-iphone-motivo-apple-retira-ue-2025-1430172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-iphone-4264441.jpg?tf=1200x' alt='Adiós a varios modelos de iPhone: este es el motivo por el que Apple los retira de la UE en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sayan-chakraborty-extrabajador-nasa-ia-estara-totalmente-integrada-nosotros-1430193'>Sayan Chakraborty, extrabajador de la NASA: la IA "estará totalmente integrada en nosotros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sayan-chakraborty-extrabajador-nasa-ia-estara-totalmente-integrada-nosotros-1430193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sayan-chakraborty-extrabajador-nasa-4273694.jpg?tf=1200x' alt='Sayan Chakraborty, extrabajador de la NASA: la IA "estará totalmente integrada en nosotros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-grok-continuan-polemica-libre-chatgpt-creador-bulos-1430198'>Elon Musk y Grok continúan la polémica: ¿más libre que ChatGPT o creador de bulos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-grok-continuan-polemica-libre-chatgpt-creador-bulos-1430198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/grok-elon-musk-3216228.jpg?tf=1200x' alt='Elon Musk y Grok continúan la polémica: ¿más libre que ChatGPT o creador de bulos?' />
     </a>
 </div>
 
