@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estalla-internet-redes-sociales-quien-importa-me-guste-1430552'>Quentin Tarantino estalla contra Internet y las redes sociales: "¿A quién le importa lo que me guste?"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estalla-internet-redes-sociales-quien-importa-me-guste-1430552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3062130.jpg?tf=1200x' alt='Quentin Tarantino estalla contra Internet y las redes sociales: "¿A quién le importa lo que me guste?"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-contrasenas-microsoft-pretende-eliminar-claves-1000-millones-usuarios-1430574'>Adiós a las contraseñas: Microsoft pretende eliminar las claves de 1.000 millones de usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-contrasenas-microsoft-pretende-eliminar-claves-1000-millones-usuarios-1430574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/contrasenas-4274282.jpg?tf=1200x' alt='Adiós a las contraseñas: Microsoft pretende eliminar las claves de 1.000 millones de usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-1429671'>Ni turrón ni Belén, esta es la mejor tradición navideña de España, según la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-1429671' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-4272813.jpg?tf=1200x' alt='Ni turrón ni Belén, esta es la mejor tradición navideña de España, según la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-1430560'>Los AirTag 2 se lanzarán en 2025 con una gran mejora en su chip y mayor seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-1430560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-4274263.jpg?tf=1200x' alt='Los AirTag 2 se lanzarán en 2025 con una gran mejora en su chip y mayor seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/novedad-android-cambia-todo-funciona-alerta-te-obliga-desconectar-movil-1430506'>Esta novedad de Android lo cambia todo: así funciona la alerta que te obliga a desconectar del móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/novedad-android-cambia-todo-funciona-alerta-te-obliga-desconectar-movil-1430506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/10-aplicaciones-tal-vez-deberias-desinstalar-telefono-movil-estas-razones-4259456.jpg?tf=1200x' alt='Esta novedad de Android lo cambia todo: así funciona la alerta que te obliga a desconectar del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-1430465'>El antiguo CEO de Google advierte del peligro de la tecnología: "Habrá que desconectar a la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-1430465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-4274126.jpg?tf=1200x' alt='El antiguo CEO de Google advierte del peligro de la tecnología: "Habrá que desconectar a la IA"' />
     </a>
 </div>
 
