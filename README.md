@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-habra-marcha-atras-he-dejado-gmail-google-siempre-estas-son-alternativas-uso-1430140'>No habrá marcha atrás: he dejado Gmail y Google para siempre y estas son las alternativas que uso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-habra-marcha-atras-he-dejado-gmail-google-siempre-estas-son-alternativas-uso-1430140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proton-mail-4273594.jpg?tf=1200x' alt='No habrá marcha atrás: he dejado Gmail y Google para siempre y estas son las alternativas que uso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-grok-estas-son-imagenes-pueden-hacer-1430411'>He probado Grok y estas son las imágenes que se pueden hacer y que no te vas a creer que puedan ser reales</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-grok-estas-son-imagenes-pueden-hacer-1430411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/he-probado-grok-estas-son-imagenes-pueden-hacer-no-te-vas-creer-puedan-ser-reales-4274009.jpg?tf=1200x' alt='He probado Grok y estas son las imágenes que se pueden hacer y que no te vas a creer que puedan ser reales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/suben-tarifas-movistar-orange-vodafone-pagaras-2025-1430383'>Suben las tarifas en Movistar, Orange y Vodafone: esto es lo que pagarás de más en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/suben-tarifas-movistar-orange-vodafone-pagaras-2025-1430383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/operadores-4273983.jpg?tf=1200x' alt='Suben las tarifas en Movistar, Orange y Vodafone: esto es lo que pagarás de más en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372'>Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible' />
     </a>
 </div>
 
