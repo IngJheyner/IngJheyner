@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-1430484'>Filtraciones masivas de Nintendo Switch 2: el anuncio de la consola estaría más cerca de lo que crees</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-1430484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-4274191.jpg?tf=1200x' alt='Filtraciones masivas de Nintendo Switch 2: el anuncio de la consola estaría más cerca de lo que crees' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/funciona-ia-telefonos-moviles-puro-marketing-usuarios-apple-samsung-no-tienen-nada-claro-1430494'>¿Funciona la IA en los teléfonos móviles o es puro marketing? Los usuarios de Apple y Samsung no lo tienen nada claro</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/funciona-ia-telefonos-moviles-puro-marketing-usuarios-apple-samsung-no-tienen-nada-claro-1430494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-apple-4274173.jpg?tf=1200x' alt='¿Funciona la IA en los teléfonos móviles o es puro marketing? Los usuarios de Apple y Samsung no lo tienen nada claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456'>Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roomba-i5-4274091.jpg?tf=1200x' alt='Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487'>Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora</a></h4>
     <a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-ia-veo-2-4274156.jpg?tf=1200x' alt='Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-google-tiktok-serios-problemas-contenidos-ilegales-posibles-bloqueos-servicio-millones-perfiles-1430486'>Meta, Google y TikTok en serios problemas por contenidos ilegales con posibles bloqueos del servicio para millones de perfiles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-google-tiktok-serios-problemas-contenidos-ilegales-posibles-bloqueos-servicio-millones-perfiles-1430486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redes-sociales-4271275.jpg?tf=1200x' alt='Meta, Google y TikTok en serios problemas por contenidos ilegales con posibles bloqueos del servicio para millones de perfiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-1430450'>OpenAI va a por Google: ChatGPT Search ya está disponible para los usuarios de la versión gratuita</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-1430450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-declara-guerra-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-4274127.jpg?tf=1200x' alt='OpenAI va a por Google: ChatGPT Search ya está disponible para los usuarios de la versión gratuita' />
     </a>
 </div>
 
