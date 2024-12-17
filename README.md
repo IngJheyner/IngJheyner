@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/novedad-android-cambia-todo-funciona-alerta-te-obliga-desconectar-movil-1430506'>Esta novedad de Android lo cambia todo: así funciona la alerta que te obliga a desconectar del móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/novedad-android-cambia-todo-funciona-alerta-te-obliga-desconectar-movil-1430506' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/10-aplicaciones-tal-vez-deberias-desinstalar-telefono-movil-estas-razones-4259456.jpg?tf=1200x' alt='Esta novedad de Android lo cambia todo: así funciona la alerta que te obliga a desconectar del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-1430465'>El antiguo CEO de Google advierte del peligro de la tecnología: "Habrá que desconectar a la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-1430465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-4274126.jpg?tf=1200x' alt='El antiguo CEO de Google advierte del peligro de la tecnología: "Habrá que desconectar a la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-1430484'>Filtraciones masivas de Nintendo Switch 2: el anuncio de la consola estaría más cerca de lo que crees</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-1430484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-4274191.jpg?tf=1200x' alt='Filtraciones masivas de Nintendo Switch 2: el anuncio de la consola estaría más cerca de lo que crees' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456'>Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roomba-i5-4274091.jpg?tf=1200x' alt='Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-primera-beta-ios-183-estas-son-novedades-trae-iphone-1430507'>Apple lanza la primera beta de iOS 18.3: estas son las novedades que trae para iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-lanza-primera-beta-ios-183-estas-son-novedades-trae-iphone-1430507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ios-183-apple-4274200.jpg?tf=1200x' alt='Apple lanza la primera beta de iOS 18.3: estas son las novedades que trae para iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487'>Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-ia-veo-2-4274156.jpg?tf=1200x' alt='Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora' />
     </a>
 </div>
 
