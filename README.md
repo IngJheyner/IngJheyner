@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-habra-marcha-atras-he-dejado-gmail-google-siempre-estas-son-alternativas-uso-1430140'>No habrá marcha atrás: he dejado Gmail y Google para siempre y estas son las alternativas que uso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-habra-marcha-atras-he-dejado-gmail-google-siempre-estas-son-alternativas-uso-1430140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proton-mail-4273594.jpg?tf=1200x' alt='No habrá marcha atrás: he dejado Gmail y Google para siempre y estas son las alternativas que uso' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tendremos-dispositivo-cabeza-nos-permitira-conectarnos-red-cerebro-1430214'>"Tendremos un dispositivo en la cabeza que nos permitirá conectarnos a la red con el cerebro" </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tendremos-dispositivo-cabeza-nos-permitira-conectarnos-red-cerebro-1430214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chip-cerebral-4273732.jpg?tf=1200x' alt='"Tendremos un dispositivo en la cabeza que nos permitirá conectarnos a la red con el cerebro" ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-grok-estas-son-imagenes-pueden-hacer-1430411'>He probado Grok y estas son las imágenes que se pueden hacer y que no te vas a creer que puedan ser reales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-grok-estas-son-imagenes-pueden-hacer-1430411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/he-probado-grok-estas-son-imagenes-pueden-hacer-no-te-vas-creer-puedan-ser-reales-4274009.jpg?tf=1200x' alt='He probado Grok y estas son las imágenes que se pueden hacer y que no te vas a creer que puedan ser reales' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-va-fundar-propia-ciudad-texas-starbase-1430433'>Elon Musk va a fundar su propia ciudad en Texas, y ya le ha puesto nombre: Starbase</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-va-fundar-propia-ciudad-texas-starbase-1430433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-quiere-propia-ciudad-texas-ya-ha-puesto-nombre-starbase-4274055.jpg?tf=1200x' alt='Elon Musk va a fundar su propia ciudad en Texas, y ya le ha puesto nombre: Starbase' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/escanea-mejora-olvidate-editar-nueva-funcion-google-drive-ya-aqui-1430391'>Escanea, mejora y olvídate de editar: La nueva función de Google Drive ya está aquí</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/escanea-mejora-olvidate-editar-nueva-funcion-google-drive-ya-aqui-1430391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-drive-permitira-escanear-documentos-competir-microsoft-onedrive-3831533.jpg?tf=1200x' alt='Escanea, mejora y olvídate de editar: La nueva función de Google Drive ya está aquí' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/no-nos-ensenan-cuando-empezamos-truco-experto-electricista-nuevos-propietarios-1430283'>¿Por qué no nos enseñan esto cuando empezamos?: el truco de un experto electricista para nuevos propietarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/no-nos-ensenan-cuando-empezamos-truco-experto-electricista-nuevos-propietarios-1430283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-nos-ensenan-cuando-empezamos-truco-experto-electricista-nuevos-propietarios-4273791.jpg?tf=1200x' alt='¿Por qué no nos enseñan esto cuando empezamos?: el truco de un experto electricista para nuevos propietarios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384'>Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar de series como The Walking Dead o La Casa del Dragón</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg?tf=1200x' alt='Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar de series como The Walking Dead o La Casa del Dragón' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/no-hay-duda-mejor-oppo-find-x8-pro-son-dos-todas-camaras-1429159'>No hay duda, lo mejor del Oppo Find X8 Pro son dos de todas sus cámaras</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/no-hay-duda-mejor-oppo-find-x8-pro-son-dos-todas-camaras-1429159' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oppo-find-x8-pro-4269975.jpg?tf=1200x' alt='No hay duda, lo mejor del Oppo Find X8 Pro son dos de todas sus cámaras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/suben-tarifas-movistar-orange-vodafone-pagaras-2025-1430383'>Suben las tarifas en Movistar, Orange y Vodafone: esto es lo que pagarás de más en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/suben-tarifas-movistar-orange-vodafone-pagaras-2025-1430383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/operadores-4273983.jpg?tf=1200x' alt='Suben las tarifas en Movistar, Orange y Vodafone: esto es lo que pagarás de más en 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/hemos-probado-24-portatiles-ano-estos-son-favoritos-necesidades-1429758'>Hemos probado 24 portátiles este año y estos son mis favoritos según tus necesidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/hemos-probado-24-portatiles-ano-estos-son-favoritos-necesidades-1429758' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razer-blade-16-2024-analisis-opinion-3281557.jpg?tf=1200x' alt='Hemos probado 24 portátiles este año y estos son mis favoritos según tus necesidades' />
     </a>
 </div>
 
