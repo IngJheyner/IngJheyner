@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/intel-50-aniversario-procesador-intel-8080-1430705'>Intel celebra el 50 Aniversario del mítico procesador Intel 8080, que lo cambió todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/intel-50-aniversario-procesador-intel-8080-1430705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-celebra-50-aniversario-procesador-intel-8080-cambio-todo-4274494.jpg?tf=1200x' alt='Intel celebra el 50 Aniversario del mítico procesador Intel 8080, que lo cambió todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/son-ciertas-filtraciones-nvidia-rtx-5090-necesitara-mucho-espacio-pc-1430684'>Si son ciertas las filtraciones, la Nvidia RTX 5090 necesitará mucho espacio en tu PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/son-ciertas-filtraciones-nvidia-rtx-5090-necesitara-mucho-espacio-pc-1430684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/son-ciertas-filtraciones-nvidia-rtx-5090-necesitara-mucho-espacio-pc-4274532.jpg?tf=1200x' alt='Si son ciertas las filtraciones, la Nvidia RTX 5090 necesitará mucho espacio en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640'>Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-4274479.jpg?tf=1200x' alt='Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/men-black-madrid-ultima-linea-defensa-ayuntamientos-ciberdelincuentes-1430673'>Los "Men in Black" de Madrid, la última línea de defensa de los ayuntamientos contra los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/men-black-madrid-ultima-linea-defensa-ayuntamientos-ciberdelincuentes-1430673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/men-black-madrid-ultima-linea-defensa-ciberdelincuentes-ayuntamientos-4274470.jpg?tf=1200x' alt='Los "Men in Black" de Madrid, la última línea de defensa de los ayuntamientos contra los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-tiene-todo-listo-competir-gmail-correo-x-mail-1430667'>Elon Musk lo tiene todo listo para competir con Gmail con su correo X Mail</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/elon-musk-tiene-todo-listo-competir-gmail-correo-x-mail-1430667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-mail-4274453.jpg?tf=1200x' alt='Elon Musk lo tiene todo listo para competir con Gmail con su correo X Mail' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-1430651'>Adiós a IPTV y a las multas de Javier Tebas: Unify ofrecerá gratis todos los partidos de la Superliga</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-1430651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-4274425.jpg?tf=1200x' alt='Adiós a IPTV y a las multas de Javier Tebas: Unify ofrecerá gratis todos los partidos de la Superliga' />
     </a>
 </div>
 
