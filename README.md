@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tendremos-dispositivo-cabeza-nos-permitira-conectarnos-red-cerebro-1430214'>"Tendremos un dispositivo en la cabeza que nos permitirá conectarnos a la red con el cerebro" </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tendremos-dispositivo-cabeza-nos-permitira-conectarnos-red-cerebro-1430214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chip-cerebral-4273732.jpg?tf=1200x' alt='"Tendremos un dispositivo en la cabeza que nos permitirá conectarnos a la red con el cerebro" ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567'>Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-4272740.jpg?tf=1200x' alt='Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-va-fundar-propia-ciudad-texas-starbase-1430433'>Elon Musk va a fundar su propia ciudad en Texas, y ya le ha puesto nombre: Starbase</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-va-fundar-propia-ciudad-texas-starbase-1430433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-quiere-propia-ciudad-texas-ya-ha-puesto-nombre-starbase-4274055.jpg?tf=1200x' alt='Elon Musk va a fundar su propia ciudad en Texas, y ya le ha puesto nombre: Starbase' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-enero-2025-1430273'>Adiós a 14 canales en Movistar Plus+ a partir de enero de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-enero-2025-1430273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Adiós a 14 canales en Movistar Plus+ a partir de enero de 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/no-nos-ensenan-cuando-empezamos-truco-experto-electricista-nuevos-propietarios-1430283'>¿Por qué no nos enseñan esto cuando empezamos?: el truco de un experto electricista para nuevos propietarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/no-nos-ensenan-cuando-empezamos-truco-experto-electricista-nuevos-propietarios-1430283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-nos-ensenan-cuando-empezamos-truco-experto-electricista-nuevos-propietarios-4273791.jpg?tf=1200x' alt='¿Por qué no nos enseñan esto cuando empezamos?: el truco de un experto electricista para nuevos propietarios' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/curan-mujer-ciega-gracias-tecnica-cirugia-laser-guiada-ia-1430442'>Curan a una mujer ciega gracias a una técnica de cirugía láser guiada por la IA </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/curan-mujer-ciega-gracias-tecnica-cirugia-laser-guiada-ia-1430442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ojos-ia-4274065.jpg?tf=1200x' alt='Curan a una mujer ciega gracias a una técnica de cirugía láser guiada por la IA ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/no-hay-duda-mejor-oppo-find-x8-pro-son-dos-todas-camaras-1429159'>No hay duda, lo mejor del Oppo Find X8 Pro son dos de todas sus cámaras</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/no-hay-duda-mejor-oppo-find-x8-pro-son-dos-todas-camaras-1429159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oppo-find-x8-pro-4269975.jpg?tf=1200x' alt='No hay duda, lo mejor del Oppo Find X8 Pro son dos de todas sus cámaras' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-1430270'>Microsoft ofrece cursos gratis de inteligencia artificial y análisis de datos con certificado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-1430270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-4273777.jpg?tf=1200x' alt='Microsoft ofrece cursos gratis de inteligencia artificial y análisis de datos con certificado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/hemos-probado-24-portatiles-ano-estos-son-favoritos-necesidades-1429758'>Hemos probado 24 portátiles este año y estos son mis favoritos según tus necesidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/hemos-probado-24-portatiles-ano-estos-son-favoritos-necesidades-1429758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/razer-blade-16-2024-analisis-opinion-3281557.jpg?tf=1200x' alt='Hemos probado 24 portátiles este año y estos son mis favoritos según tus necesidades' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/reloj-gps-aguanta-casi-todo-barato-muchos-garmin-1430092'>Este reloj GPS lo aguanta casi todo y es más barato que muchos Garmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/reloj-gps-aguanta-casi-todo-barato-muchos-garmin-1430092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazfit-t-rex-3-4273506.jpg?tf=1200x' alt='Este reloj GPS lo aguanta casi todo y es más barato que muchos Garmin' />
     </a>
 </div>
 
