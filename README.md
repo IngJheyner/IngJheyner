@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-tiene-todo-listo-competir-gmail-correo-x-mail-1430667'>Elon Musk lo tiene todo listo para competir con Gmail con su correo X Mail</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/elon-musk-tiene-todo-listo-competir-gmail-correo-x-mail-1430667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-mail-4274453.jpg?tf=1200x' alt='Elon Musk lo tiene todo listo para competir con Gmail con su correo X Mail' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-1430651'>Adiós a IPTV y a las multas de Javier Tebas: Unify ofrecerá gratis todos los partidos de la Superliga</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-1430651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-4274425.jpg?tf=1200x' alt='Adiós a IPTV y a las multas de Javier Tebas: Unify ofrecerá gratis todos los partidos de la Superliga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-1430612'>Ni expertos ni novatos: la Generación Z y nuestros abuelos tienen los mismos conocimientos en ciberseguridad y eso preocupa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-1430612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-4274397.jpg?tf=1200x' alt='Ni expertos ni novatos: la Generación Z y nuestros abuelos tienen los mismos conocimientos en ciberseguridad y eso preocupa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-contrasenas-microsoft-pretende-eliminar-claves-1000-millones-usuarios-1430574'>Adiós a las contraseñas: Microsoft pretende eliminar las claves de 1.000 millones de usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-contrasenas-microsoft-pretende-eliminar-claves-1000-millones-usuarios-1430574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/contrasenas-4274282.jpg?tf=1200x' alt='Adiós a las contraseñas: Microsoft pretende eliminar las claves de 1.000 millones de usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-1429671'>Ni turrón ni Belén, esta es la mejor tradición navideña de España, según la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-1429671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-4272813.jpg?tf=1200x' alt='Ni turrón ni Belén, esta es la mejor tradición navideña de España, según la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-1430544'>Europa le declara la guerra a Starlink de Elon Musk con su servicio satelital IRIS</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-1430544' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-4274212.jpg?tf=1200x' alt='Europa le declara la guerra a Starlink de Elon Musk con su servicio satelital IRIS' />
     </a>
 </div>
 
