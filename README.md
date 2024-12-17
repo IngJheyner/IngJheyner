@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-grok-estas-son-imagenes-pueden-hacer-1430411'>He probado Grok y estas son las imágenes que se pueden hacer y que no te vas a creer que puedan ser reales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-grok-estas-son-imagenes-pueden-hacer-1430411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/he-probado-grok-estas-son-imagenes-pueden-hacer-no-te-vas-creer-puedan-ser-reales-4274009.jpg?tf=1200x' alt='He probado Grok y estas son las imágenes que se pueden hacer y que no te vas a creer que puedan ser reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/escanea-mejora-olvidate-editar-nueva-funcion-google-drive-ya-aqui-1430391'>Escanea, mejora y olvídate de editar: La nueva función de Google Drive ya está aquí</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/escanea-mejora-olvidate-editar-nueva-funcion-google-drive-ya-aqui-1430391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/google-drive-permitira-escanear-documentos-competir-microsoft-onedrive-3831533.jpg?tf=1200x' alt='Escanea, mejora y olvídate de editar: La nueva función de Google Drive ya está aquí' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384'>Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar, de series como The Walking Dead o La Casa del Dragón</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384'>Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar de series como The Walking Dead o La Casa del Dragón</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-estrena-300-temporadas-comprar-series-walking-dead-casa-dragon-1430384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg?tf=1200x' alt='Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar, de series como The Walking Dead o La Casa del Dragón' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/casa-dragon-2738577.jpg?tf=1200x' alt='Adiós a las suscripciones: Prime Video estrena 300 temporadas para comprar de series como The Walking Dead o La Casa del Dragón' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372'>Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-advierte-puede-pasar-instalas-windows-11-equipo-no-compatible-1430372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft advierte: esto es lo que puede pasar si instalas Windows 11 en un equipo no compatible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-1430331'>Adiós a las llamadas spam: el truco con Telegram que te ayudará a identificarlas al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-1430331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-llamadas-spam-truco-telegram-te-ayudara-identificarlas-instante-4273934.jpg?tf=1200x' alt='Adiós a las llamadas spam: el truco con Telegram que te ayudará a identificarlas al instante' />
     </a>
 </div>
 
