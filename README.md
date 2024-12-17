@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487'>Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-ia-veo-2-4274156.jpg?tf=1200x' alt='Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-google-tiktok-serios-problemas-contenidos-ilegales-posibles-bloqueos-servicio-millones-perfiles-1430486'>Meta, Google y TikTok en serios problemas por contenidos ilegales con posibles bloqueos del servicio para millones de perfiles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-google-tiktok-serios-problemas-contenidos-ilegales-posibles-bloqueos-servicio-millones-perfiles-1430486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redes-sociales-4271275.jpg?tf=1200x' alt='Meta, Google y TikTok en serios problemas por contenidos ilegales con posibles bloqueos del servicio para millones de perfiles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697'>Cómo crear tu avatar al estilo Los Simpson con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/equipo-simpson-4272874.jpg?tf=1200x' alt='Cómo crear tu avatar al estilo Los Simpson con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567'>Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-4272740.jpg?tf=1200x' alt='Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad' />
     </a>
 </div>
 
