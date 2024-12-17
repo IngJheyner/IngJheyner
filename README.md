@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-1429671'>Ni turrón ni Belén, esta es la mejor tradición navideña de España, según la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-1429671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-turron-ni-belen-mejor-tradicion-navidena-espana-ia-4272813.jpg?tf=1200x' alt='Ni turrón ni Belén, esta es la mejor tradición navideña de España, según la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-1430544'>Europa le declara la guerra a Starlink de Elon Musk con su servicio satelital IRIS</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-1430544' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-4274212.jpg?tf=1200x' alt='Europa le declara la guerra a Starlink de Elon Musk con su servicio satelital IRIS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-1430560'>Los AirTag 2 se lanzarán en 2025 con una gran mejora en su chip y mayor seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-1430560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-4274263.jpg?tf=1200x' alt='Los AirTag 2 se lanzarán en 2025 con una gran mejora en su chip y mayor seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/novedad-android-cambia-todo-funciona-alerta-te-obliga-desconectar-movil-1430506'>Esta novedad de Android lo cambia todo: así funciona la alerta que te obliga a desconectar del móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/novedad-android-cambia-todo-funciona-alerta-te-obliga-desconectar-movil-1430506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/10-aplicaciones-tal-vez-deberias-desinstalar-telefono-movil-estas-razones-4259456.jpg?tf=1200x' alt='Esta novedad de Android lo cambia todo: así funciona la alerta que te obliga a desconectar del móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-1430465'>El antiguo CEO de Google advierte del peligro de la tecnología: "Habrá que desconectar a la IA"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-1430465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antiguo-ceo-google-advierte-peligro-tecnologia-habra-desconectar-ia-4274126.jpg?tf=1200x' alt='El antiguo CEO de Google advierte del peligro de la tecnología: "Habrá que desconectar a la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-1430484'>Filtraciones masivas de Nintendo Switch 2: el anuncio de la consola estaría más cerca de lo que crees</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-1430484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/filtraciones-masivas-nintendo-switch-2-anuncio-consola-estaria-cerca-crees-4274191.jpg?tf=1200x' alt='Filtraciones masivas de Nintendo Switch 2: el anuncio de la consola estaría más cerca de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/funciona-ia-telefonos-moviles-puro-marketing-usuarios-apple-samsung-no-tienen-nada-claro-1430494'>¿Funciona la IA en los teléfonos móviles o es puro marketing? Los usuarios de Apple y Samsung no lo tienen nada claro</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/funciona-ia-telefonos-moviles-puro-marketing-usuarios-apple-samsung-no-tienen-nada-claro-1430494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-apple-4274173.jpg?tf=1200x' alt='¿Funciona la IA en los teléfonos móviles o es puro marketing? Los usuarios de Apple y Samsung no lo tienen nada claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456'>Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roomba-i5-4274091.jpg?tf=1200x' alt='Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad' />
     </a>
 </div>
 
