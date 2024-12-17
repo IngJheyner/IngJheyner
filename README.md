@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697'>Cómo crear tu avatar al estilo Los Simpson con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/equipo-simpson-4272874.jpg?tf=1200x' alt='Cómo crear tu avatar al estilo Los Simpson con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567'>Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-4272740.jpg?tf=1200x' alt='Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-1430270'>Microsoft ofrece cursos gratis de inteligencia artificial y análisis de datos con certificado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-1430270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-4273777.jpg?tf=1200x' alt='Microsoft ofrece cursos gratis de inteligencia artificial y análisis de datos con certificado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/reloj-gps-aguanta-casi-todo-barato-muchos-garmin-1430092'>Este reloj GPS lo aguanta casi todo y es más barato que muchos Garmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/reloj-gps-aguanta-casi-todo-barato-muchos-garmin-1430092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazfit-t-rex-3-4273506.jpg?tf=1200x' alt='Este reloj GPS lo aguanta casi todo y es más barato que muchos Garmin' />
     </a>
 </div>
 
