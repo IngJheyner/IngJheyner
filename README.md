@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640'>Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-4274479.jpg?tf=1200x' alt='Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/pequena-empresa-francesa-consigue-poner-jaque-apple-mejorando-modulos-ssd-almacenamiento-datos-1430682'>Una pequeña empresa francesa consigue poner en jaque a Apple mejorando sus módulos SSD de almacenamiento de datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/pequena-empresa-francesa-consigue-poner-jaque-apple-mejorando-modulos-ssd-almacenamiento-datos-1430682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-studio-2023-3070210.jpg?tf=1200x' alt='Una pequeña empresa francesa consigue poner en jaque a Apple mejorando sus módulos SSD de almacenamiento de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/men-black-madrid-ultima-linea-defensa-ayuntamientos-ciberdelincuentes-1430673'>Los "Men in Black" de Madrid, la última línea de defensa de los ayuntamientos contra los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/men-black-madrid-ultima-linea-defensa-ayuntamientos-ciberdelincuentes-1430673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/men-black-madrid-ultima-linea-defensa-ciberdelincuentes-ayuntamientos-4274470.jpg?tf=1200x' alt='Los "Men in Black" de Madrid, la última línea de defensa de los ayuntamientos contra los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-tiene-todo-listo-competir-gmail-correo-x-mail-1430667'>Elon Musk lo tiene todo listo para competir con Gmail con su correo X Mail</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/elon-musk-tiene-todo-listo-competir-gmail-correo-x-mail-1430667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/x-mail-4274453.jpg?tf=1200x' alt='Elon Musk lo tiene todo listo para competir con Gmail con su correo X Mail' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-1430651'>Adiós a IPTV y a las multas de Javier Tebas: Unify ofrecerá gratis todos los partidos de la Superliga</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/adios-iptv-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-1430651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-multas-javier-tebas-unify-ofrecera-gratis-todos-partidos-superliga-4274425.jpg?tf=1200x' alt='Adiós a IPTV y a las multas de Javier Tebas: Unify ofrecerá gratis todos los partidos de la Superliga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-1430612'>Ni expertos ni novatos: la Generación Z y nuestros abuelos tienen los mismos conocimientos en ciberseguridad y eso preocupa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-1430612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-4274397.jpg?tf=1200x' alt='Ni expertos ni novatos: la Generación Z y nuestros abuelos tienen los mismos conocimientos en ciberseguridad y eso preocupa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estalla-internet-redes-sociales-quien-importa-me-guste-1430552'>Quentin Tarantino estalla contra Internet y las redes sociales: "¿A quién le importa lo que me guste?"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estalla-internet-redes-sociales-quien-importa-me-guste-1430552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3062130.jpg?tf=1200x' alt='Quentin Tarantino estalla contra Internet y las redes sociales: "¿A quién le importa lo que me guste?"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-contrasenas-microsoft-pretende-eliminar-claves-1000-millones-usuarios-1430574'>Adiós a las contraseñas: Microsoft pretende eliminar las claves de 1.000 millones de usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-contrasenas-microsoft-pretende-eliminar-claves-1000-millones-usuarios-1430574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/contrasenas-4274282.jpg?tf=1200x' alt='Adiós a las contraseñas: Microsoft pretende eliminar las claves de 1.000 millones de usuarios' />
     </a>
 </div>
 
