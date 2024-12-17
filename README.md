@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456'>Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/roomba-da-sorpresa-robot-aspirador-autolimpiable-cuesta-menos-mitad-1430456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roomba-i5-4274091.jpg?tf=1200x' alt='Roomba da la sorpresa: su robot aspirador autolimpiable cuesta menos de la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-primera-beta-ios-183-estas-son-novedades-trae-iphone-1430507'>Apple lanza la primera beta de iOS 18.3: estas son las novedades que trae para iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lanza-primera-beta-ios-183-estas-son-novedades-trae-iphone-1430507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ios-183-apple-4274200.jpg?tf=1200x' alt='Apple lanza la primera beta de iOS 18.3: estas son las novedades que trae para iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487'>Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora</a></h4>
     <a href='https://computerhoy.20minutos.es/google/duro-palo-openai-google-lanza-veo-2-asegura-supera-videos-sora-1430487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-ia-veo-2-4274156.jpg?tf=1200x' alt='Duro palo para OpenAI: Google lanza Veo 2 y asegura que supera los vídeos de Sora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-1430450'>OpenAI va a por Google: ChatGPT Search ya está disponible para los usuarios de la versión gratuita</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-1430450' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-declara-guerra-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-4274127.jpg?tf=1200x' alt='OpenAI va a por Google: ChatGPT Search ya está disponible para los usuarios de la versión gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/rusia-prueba-propia-internet-vpn-no-funcionan-1430463'>Rusia se desconecta de Internet y consigue lo imposible: que las VPN no funcionen en el país</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/rusia-prueba-propia-internet-vpn-no-funcionan-1430463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rusia-prueba-propia-internet-consigue-imposible-vpn-no-funcionen-pais-4274063.jpg?tf=1200x' alt='Rusia se desconecta de Internet y consigue lo imposible: que las VPN no funcionen en el país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697'>Cómo crear tu avatar al estilo Los Simpson con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/equipo-simpson-4272874.jpg?tf=1200x' alt='Cómo crear tu avatar al estilo Los Simpson con IA' />
     </a>
 </div>
 
