@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-1430612'>Ni expertos ni novatos: la Generación Z y nuestros abuelos tienen los mismos conocimientos en ciberseguridad y eso preocupa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-1430612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-expertos-ni-novatos-generacion-z-abuelos-tienen-mismos-conocimientos-ciberseguridad-eso-preocupa-4274397.jpg?tf=1200x' alt='Ni expertos ni novatos: la Generación Z y nuestros abuelos tienen los mismos conocimientos en ciberseguridad y eso preocupa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estalla-internet-redes-sociales-quien-importa-me-guste-1430552'>Quentin Tarantino estalla contra Internet y las redes sociales: "¿A quién le importa lo que me guste?"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/quentin-tarantino-estalla-internet-redes-sociales-quien-importa-me-guste-1430552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/quentin-tarantino-3062130.jpg?tf=1200x' alt='Quentin Tarantino estalla contra Internet y las redes sociales: "¿A quién le importa lo que me guste?"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-1430544'>Europa le declara la guerra a Starlink de Elon Musk con su servicio satelital IRIS</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-1430544' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-declara-guerra-starlink-elon-musk-servicio-satelital-iris-4274212.jpg?tf=1200x' alt='Europa le declara la guerra a Starlink de Elon Musk con su servicio satelital IRIS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-1430560'>Los AirTag 2 se lanzarán en 2025 con una gran mejora en su chip y mayor seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-1430560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/airtag-2-lanzaran-2025-gran-mejora-chip-mayor-seguridad-4274263.jpg?tf=1200x' alt='Los AirTag 2 se lanzarán en 2025 con una gran mejora en su chip y mayor seguridad' />
     </a>
 </div>
 
