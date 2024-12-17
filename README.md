@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-google-tiktok-serios-problemas-contenidos-ilegales-posibles-bloqueos-servicio-millones-perfiles-1430486'>Meta, Google y TikTok en serios problemas por contenidos ilegales con posibles bloqueos del servicio para millones de perfiles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-google-tiktok-serios-problemas-contenidos-ilegales-posibles-bloqueos-servicio-millones-perfiles-1430486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redes-sociales-4271275.jpg?tf=1200x' alt='Meta, Google y TikTok en serios problemas por contenidos ilegales con posibles bloqueos del servicio para millones de perfiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-1430450'>OpenAI va a por Google: ChatGPT Search ya está disponible para los usuarios de la versión gratuita</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-va-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-1430450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-declara-guerra-google-chatgpt-search-ya-disponible-usuarios-version-gratuita-4274127.jpg?tf=1200x' alt='OpenAI va a por Google: ChatGPT Search ya está disponible para los usuarios de la versión gratuita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/rusia-prueba-propia-internet-vpn-no-funcionan-1430463'>Rusia se desconecta de Internet y consigue lo imposible: que las VPN no funcionen en el país</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/rusia-prueba-propia-internet-vpn-no-funcionan-1430463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rusia-prueba-propia-internet-consigue-imposible-vpn-no-funcionen-pais-4274063.jpg?tf=1200x' alt='Rusia se desconecta de Internet y consigue lo imposible: que las VPN no funcionen en el país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697'>Cómo crear tu avatar al estilo Los Simpson con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/como-crear-avatar-estilo-simpson-ia-1429697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/equipo-simpson-4272874.jpg?tf=1200x' alt='Cómo crear tu avatar al estilo Los Simpson con IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567'>Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-1429567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-gadgets-tecnologicos-salieron-simpson-han-hecho-realidad-4272740.jpg?tf=1200x' alt='Los 5 gadgets tecnológicos que salieron en Los Simpson y se han hecho realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-enero-2025-1430273'>Adiós a 14 canales en Movistar Plus+ a partir de enero de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-dice-adios-14-canales-premium-enero-2025-1430273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/movistar-lanza-clientes-fugados-netflix-canal-plus-muy-barato-incluye-liga-champions-3082996.jpg?tf=1200x' alt='Adiós a 14 canales en Movistar Plus+ a partir de enero de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/curan-mujer-ciega-gracias-tecnica-cirugia-laser-guiada-ia-1430442'>Curan a una mujer ciega gracias a una técnica de cirugía láser guiada por la IA </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/curan-mujer-ciega-gracias-tecnica-cirugia-laser-guiada-ia-1430442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ojos-ia-4274065.jpg?tf=1200x' alt='Curan a una mujer ciega gracias a una técnica de cirugía láser guiada por la IA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-1430270'>Microsoft ofrece cursos gratis de inteligencia artificial y análisis de datos con certificado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-1430270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-ofrece-cursos-gratis-inteligencia-artificial-analisis-datos-certificado-4273777.jpg?tf=1200x' alt='Microsoft ofrece cursos gratis de inteligencia artificial y análisis de datos con certificado' />
     </a>
 </div>
 
