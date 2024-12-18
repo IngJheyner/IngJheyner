@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-youtube-como-conocemos-prepara-nuevo-diseno-horizontal-cambiara-reproduccion-video-siempre-1430843'>Adiós a YouTube como lo conocemos: prepara un nuevo diseño horizontal que cambiará la reproducción de vídeo para siempre </a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-youtube-como-conocemos-prepara-nuevo-diseno-horizontal-cambiara-reproduccion-video-siempre-1430843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-prueba-nuevo-diseno-horizontal-cambiara-reproduccion-video-siempre-4274760.jpg?tf=1200x' alt='Adiós a YouTube como lo conocemos: prepara un nuevo diseño horizontal que cambiará la reproducción de vídeo para siempre ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-cerca-parece-soluciona-mayores-problemas-apple-1430777'>El iPhone SE 4 está más cerca de lo que parece y soluciona uno de los mayores problemas de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-4-cerca-parece-soluciona-mayores-problemas-apple-1430777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='El iPhone SE 4 está más cerca de lo que parece y soluciona uno de los mayores problemas de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-no-tiene-permitido-entrar-algunas-reuniones-spacex-motivos-seguridad-1430784'>Elon Musk no tiene permitido entrar a algunas reuniones de SpaceX por motivos de seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-no-tiene-permitido-entrar-algunas-reuniones-spacex-motivos-seguridad-1430784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vetado-spacex-4274731.jpg?tf=1200x' alt='Elon Musk no tiene permitido entrar a algunas reuniones de SpaceX por motivos de seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/loteria-navidad-2024-he-probado-chatgpt-gemini-copilot-apuesta-ia-gordo-navidad-1430776'>Lotería de Navidad 2024: he probado ChatGPT, Gemini y Copilot y esta es la apuesta de la IA para el Gordo de Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/loteria-navidad-2024-he-probado-chatgpt-gemini-copilot-apuesta-ia-gordo-navidad-1430776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/loteria-navidad-2024-ia-4274705.jpg?tf=1200x' alt='Lotería de Navidad 2024: he probado ChatGPT, Gemini y Copilot y esta es la apuesta de la IA para el Gordo de Navidad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-relojes-running-gps-ahora-viene-auriculares-regalo-1430224'>Es de las mejores relojes para running, con GPS y ahora viene con auriculares de regalo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejores-relojes-running-gps-ahora-viene-auriculares-regalo-1430224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-gt-5-4273698.jpg?tf=1200x' alt='Es de las mejores relojes para running, con GPS y ahora viene con auriculares de regalo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/usas-aplicacion-nvidia-tienes-estar-alerta-hace-pierdas-fps-juegos-1430816'>Alerta si usas la aplicación de Nvidia: así hace que pierdas FPS en tus juegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/usas-aplicacion-nvidia-tienes-estar-alerta-hace-pierdas-fps-juegos-1430816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/usas-aplicacion-nvidia-tienes-estar-alerta-hace-pierdas-fps-juegos-4274707.jpg?tf=1200x' alt='Alerta si usas la aplicación de Nvidia: así hace que pierdas FPS en tus juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-1430749'>Roku lanza una actualización: agrega funciones de Smart Home y beneficios adicionales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-1430749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-4274675.jpg?tf=1200x' alt='Roku lanza una actualización: agrega funciones de Smart Home y beneficios adicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-quiere-destruir-modelo-openai-despues-haberlo-apoyado-1430753'>Giro de 180 grados de Elon Musk: quiere destruir el modelo de OpenAI después de haberlo apoyado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-quiere-destruir-modelo-openai-despues-haberlo-apoyado-1430753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vs-sam-altman-4274662.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: quiere destruir el modelo de OpenAI después de haberlo apoyado' />
     </a>
 </div>
 
