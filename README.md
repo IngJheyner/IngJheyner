@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cambio-climatico-the-blob-mata-4-millones-aves-alaska-1430716'>El cambio climático es mortal: una masa de agua caliente mata a 4 millones de aves en Alaska</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cambio-climatico-the-blob-mata-4-millones-aves-alaska-1430716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cambio-climatico-mortal-corriente-agua-caliente-mata-4-millones-aves-alaska-4274557.jpg?tf=1200x' alt='El cambio climático es mortal: una masa de agua caliente mata a 4 millones de aves en Alaska' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/intel-50-aniversario-procesador-intel-8080-1430705'>Intel celebra el 50 Aniversario del mítico procesador Intel 8080, que lo cambió todo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/intel-50-aniversario-procesador-intel-8080-1430705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-celebra-50-aniversario-procesador-intel-8080-cambio-todo-4274494.jpg?tf=1200x' alt='Intel celebra el 50 Aniversario del mítico procesador Intel 8080, que lo cambió todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/pequena-empresa-francesa-consigue-poner-jaque-apple-mejorando-modulos-ssd-almacenamiento-datos-1430682'>Una pequeña empresa francesa consigue poner en jaque a Apple mejorando sus módulos SSD de almacenamiento de datos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/pequena-empresa-francesa-consigue-poner-jaque-apple-mejorando-modulos-ssd-almacenamiento-datos-1430682' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-studio-2023-3070210.jpg?tf=1200x' alt='Una pequeña empresa francesa consigue poner en jaque a Apple mejorando sus módulos SSD de almacenamiento de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/men-black-madrid-ultima-linea-defensa-ayuntamientos-ciberdelincuentes-1430673'>Los "Men in Black" de Madrid, la última línea de defensa de los ayuntamientos contra los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/men-black-madrid-ultima-linea-defensa-ayuntamientos-ciberdelincuentes-1430673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/men-black-madrid-ultima-linea-defensa-ciberdelincuentes-ayuntamientos-4274470.jpg?tf=1200x' alt='Los "Men in Black" de Madrid, la última línea de defensa de los ayuntamientos contra los ciberdelincuentes' />
     </a>
 </div>
 
