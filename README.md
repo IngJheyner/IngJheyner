@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-1430585'>Un ingeniero ha creado una herramienta para ver cómo nos vigilan, y los resultados asustan: "Hay que defender la privacidad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-1430585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-4274275.jpg?tf=1200x' alt='Un ingeniero ha creado una herramienta para ver cómo nos vigilan, y los resultados asustan: "Hay que defender la privacidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/thanatos-dron-inteligente-sigiloso-eeuu-realiza-primer-vuelo-secreto-1430480'>Thanatos, el dron inteligente más sigiloso de EEUU, realiza su primer vuelo en secreto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/thanatos-dron-inteligente-sigiloso-eeuu-realiza-primer-vuelo-secreto-1430480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/thanatos-dron-secreto-4274168.jpg?tf=1200x' alt='Thanatos, el dron inteligente más sigiloso de EEUU, realiza su primer vuelo en secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-comandos-basicos-sacar-partido-terminal-distros-linux-1414716'>Estos son los comandos básicos para sacar partido a la terminal en distros de Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-comandos-basicos-sacar-partido-terminal-distros-linux-1414716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-4202852.jpg?tf=1200x' alt='Estos son los comandos básicos para sacar partido a la terminal en distros de Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/llevo-10-anos-mismo-ordenador-trucos-convertir-pc-inmortal-1420181'>Llevo más de 10 años con el mismo ordenador: los trucos para convertir tu PC en inmortal</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/llevo-10-anos-mismo-ordenador-trucos-convertir-pc-inmortal-1420181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/escena-eliminada-deadpool-lobezno-confirma-supervivencia-querido-personaje-pelicula-4042391.jpg?tf=1200x' alt='Llevo más de 10 años con el mismo ordenador: los trucos para convertir tu PC en inmortal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-relojes-inteligentes-baratos-regalar-navidad-son-acierto-seguro-1430196'>5 relojes inteligentes baratos para regalar por Navidad que son acierto seguro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/5-relojes-inteligentes-baratos-regalar-navidad-son-acierto-seguro-1430196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-watch-pro-2-nothing-4273628.jpg?tf=1200x' alt='5 relojes inteligentes baratos para regalar por Navidad que son acierto seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cambio-climatico-the-blob-mata-4-millones-aves-alaska-1430716'>El cambio climático es mortal: una masa de agua caliente mata a 4 millones de aves en Alaska</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cambio-climatico-the-blob-mata-4-millones-aves-alaska-1430716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cambio-climatico-mortal-corriente-agua-caliente-mata-4-millones-aves-alaska-4274557.jpg?tf=1200x' alt='El cambio climático es mortal: una masa de agua caliente mata a 4 millones de aves en Alaska' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/intel-50-aniversario-procesador-intel-8080-1430705'>Intel celebra el 50 Aniversario del mítico procesador Intel 8080, que lo cambió todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/intel-50-aniversario-procesador-intel-8080-1430705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-celebra-50-aniversario-procesador-intel-8080-cambio-todo-4274494.jpg?tf=1200x' alt='Intel celebra el 50 Aniversario del mítico procesador Intel 8080, que lo cambió todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/son-ciertas-filtraciones-nvidia-rtx-5090-necesitara-mucho-espacio-pc-1430684'>Si son ciertas las filtraciones, la Nvidia RTX 5090 necesitará mucho espacio en tu PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/son-ciertas-filtraciones-nvidia-rtx-5090-necesitara-mucho-espacio-pc-1430684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/son-ciertas-filtraciones-nvidia-rtx-5090-necesitara-mucho-espacio-pc-4274532.jpg?tf=1200x' alt='Si son ciertas las filtraciones, la Nvidia RTX 5090 necesitará mucho espacio en tu PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640'>Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-4274479.jpg?tf=1200x' alt='Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos' />
     </a>
 </div>
 
