@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-relojes-inteligentes-baratos-regalar-navidad-son-acierto-seguro-1430196'>5 relojes inteligentes baratos para regalar por Navidad que son acierto seguro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-relojes-inteligentes-baratos-regalar-navidad-son-acierto-seguro-1430196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-watch-pro-2-nothing-4273628.jpg?tf=1200x' alt='5 relojes inteligentes baratos para regalar por Navidad que son acierto seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cambio-climatico-the-blob-mata-4-millones-aves-alaska-1430716'>El cambio climático es mortal: una masa de agua caliente mata a 4 millones de aves en Alaska</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cambio-climatico-the-blob-mata-4-millones-aves-alaska-1430716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cambio-climatico-mortal-corriente-agua-caliente-mata-4-millones-aves-alaska-4274557.jpg?tf=1200x' alt='El cambio climático es mortal: una masa de agua caliente mata a 4 millones de aves en Alaska' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640'>Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-1430640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-4274479.jpg?tf=1200x' alt='Cómo activar el Modo Ninja en Waze si no quieres que la app sepa tus movimientos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/pequena-empresa-francesa-consigue-poner-jaque-apple-mejorando-modulos-ssd-almacenamiento-datos-1430682'>Una pequeña empresa francesa consigue poner en jaque a Apple mejorando sus módulos SSD de almacenamiento de datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/pequena-empresa-francesa-consigue-poner-jaque-apple-mejorando-modulos-ssd-almacenamiento-datos-1430682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/mac-studio-2023-3070210.jpg?tf=1200x' alt='Una pequeña empresa francesa consigue poner en jaque a Apple mejorando sus módulos SSD de almacenamiento de datos' />
     </a>
 </div>
 
