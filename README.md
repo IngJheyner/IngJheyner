@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/loteria-navidad-2024-he-probado-chatgpt-gemini-copilot-apuesta-ia-gordo-navidad-1430776'>Lotería de Navidad 2024: he probado ChatGPT, Gemini y Copilot y esta es la apuesta de la IA para el Gordo de Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/loteria-navidad-2024-he-probado-chatgpt-gemini-copilot-apuesta-ia-gordo-navidad-1430776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/loteria-navidad-2024-ia-4274705.jpg?tf=1200x' alt='Lotería de Navidad 2024: he probado ChatGPT, Gemini y Copilot y esta es la apuesta de la IA para el Gordo de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-relojes-running-gps-ahora-viene-auriculares-regalo-1430224'>Es de las mejores relojes para running, con GPS y ahora viene con auriculares de regalo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-relojes-running-gps-ahora-viene-auriculares-regalo-1430224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-gt-5-4273698.jpg?tf=1200x' alt='Es de las mejores relojes para running, con GPS y ahora viene con auriculares de regalo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/usas-aplicacion-nvidia-tienes-estar-alerta-hace-pierdas-fps-juegos-1430816'>Alerta si usas la aplicación de Nvidia: así hace que pierdas FPS en tus juegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/usas-aplicacion-nvidia-tienes-estar-alerta-hace-pierdas-fps-juegos-1430816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/usas-aplicacion-nvidia-tienes-estar-alerta-hace-pierdas-fps-juegos-4274707.jpg?tf=1200x' alt='Alerta si usas la aplicación de Nvidia: así hace que pierdas FPS en tus juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-1430749'>Roku lanza una actualización: agrega funciones de Smart Home y beneficios adicionales</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-1430749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-4274675.jpg?tf=1200x' alt='Roku lanza una actualización: agrega funciones de Smart Home y beneficios adicionales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-quiere-destruir-modelo-openai-despues-haberlo-apoyado-1430753'>Giro de 180 grados de Elon Musk: quiere destruir el modelo de OpenAI después de haberlo apoyado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-quiere-destruir-modelo-openai-despues-haberlo-apoyado-1430753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vs-sam-altman-4274662.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: quiere destruir el modelo de OpenAI después de haberlo apoyado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tina-wilson-experta-relaciones-revela-como-mensajes-whatsapp-muestran-personalidad-1430745'>Tina Wilson, experta en relaciones, revela cómo tus mensajes en WhatsApp muestran tu personalidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tina-wilson-experta-relaciones-revela-como-mensajes-whatsapp-muestran-personalidad-1430745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Tina Wilson, experta en relaciones, revela cómo tus mensajes en WhatsApp muestran tu personalidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/unas-imagenes-google-maps-claves-detencion-mujer-pareja-desmembrar-marido-ella-pueblo-soriano-1430779'>Google Maps y unas espeluznantes imágenes, claves en la investigación de un asesinato en Soria</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/unas-imagenes-google-maps-claves-detencion-mujer-pareja-desmembrar-marido-ella-pueblo-soriano-1430779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-asesinato-soria-4274676.jpg?tf=1200x' alt='Google Maps y unas espeluznantes imágenes, claves en la investigación de un asesinato en Soria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/alerta-android-hackean-30000-dispositivos-ordenan-desconectarlos-inmediatamente-internet-1430752'>Alerta Android: hackean 30.000 dispositivos y ordenan desconectarlos inmediatamente de Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/alerta-android-hackean-30000-dispositivos-ordenan-desconectarlos-inmediatamente-internet-1430752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta Android: hackean 30.000 dispositivos y ordenan desconectarlos inmediatamente de Internet' />
     </a>
 </div>
 
