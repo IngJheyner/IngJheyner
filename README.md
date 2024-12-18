@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jetson-orin-nano-super-superordenador-ia-generativa-nvidia-pequeno-barato-mundo-1430951'>Jetson Orin Nano Super, el superordenador con IA generativa de Nvidia más pequeño y barato del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jetson-orin-nano-super-superordenador-ia-generativa-nvidia-pequeno-barato-mundo-1430951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jetson-orin-nano-super-superordenador-ia-generativa-nvidia-pequeno-barato-mundo-4275029.jpg?tf=1200x' alt='Jetson Orin Nano Super, el superordenador con IA generativa de Nvidia más pequeño y barato del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-ia-experto-explica-jordi-wild-posible-1430902'>La singularidad en la IA: un experto explica a Jordi Wild por qué es más que posible </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-ia-experto-explica-jordi-wild-posible-1430902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/singularidad-ia-experto-explica-jordi-wild-posible-4274935.jpg?tf=1200x' alt='La singularidad en la IA: un experto explica a Jordi Wild por qué es más que posible ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854'>Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-4274784.jpg?tf=1200x' alt='Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-whatsapp-ni-telegram-apps-descargadas-2024-app-store-1430813'>Ni WhatsApp ni Telegram: esta es una de las apps más descargadas de 2024 de la App Store</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-whatsapp-ni-telegram-apps-descargadas-2024-app-store-1430813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/threema-4274758.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram: esta es una de las apps más descargadas de 2024 de la App Store' />
     </a>
 </div>
 
