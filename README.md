@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854'>Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-4274784.jpg?tf=1200x' alt='Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-whatsapp-ni-telegram-apps-descargadas-2024-app-store-1430813'>Ni WhatsApp ni Telegram: esta es una de las apps más descargadas de 2024 de la App Store</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-whatsapp-ni-telegram-apps-descargadas-2024-app-store-1430813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/threema-4274758.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram: esta es una de las apps más descargadas de 2024 de la App Store' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-no-tiene-permitido-entrar-algunas-reuniones-spacex-motivos-seguridad-1430784'>Elon Musk no tiene permitido entrar a algunas reuniones de SpaceX por motivos de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-no-tiene-permitido-entrar-algunas-reuniones-spacex-motivos-seguridad-1430784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vetado-spacex-4274731.jpg?tf=1200x' alt='Elon Musk no tiene permitido entrar a algunas reuniones de SpaceX por motivos de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/loteria-navidad-2024-he-probado-chatgpt-gemini-copilot-apuesta-ia-gordo-navidad-1430776'>Lotería de Navidad 2024: he probado ChatGPT, Gemini y Copilot y esta es la apuesta de la IA para el Gordo de Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/loteria-navidad-2024-he-probado-chatgpt-gemini-copilot-apuesta-ia-gordo-navidad-1430776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/loteria-navidad-2024-ia-4274705.jpg?tf=1200x' alt='Lotería de Navidad 2024: he probado ChatGPT, Gemini y Copilot y esta es la apuesta de la IA para el Gordo de Navidad' />
     </a>
 </div>
 
