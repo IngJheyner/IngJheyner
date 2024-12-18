@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-ia-experto-explica-jordi-wild-posible-1430902'>La singularidad en la IA: un experto explica a Jordi Wild por qué es más que posible </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-ia-experto-explica-jordi-wild-posible-1430902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/singularidad-ia-experto-explica-jordi-wild-posible-4274935.jpg?tf=1200x' alt='La singularidad en la IA: un experto explica a Jordi Wild por qué es más que posible ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tdtchannels-actualiza-nuevos-canales-gratis-disponibles-registros-ni-instalaciones-1430879'>TDTChannels se actualiza: nuevos canales gratis disponibles sin registros ni instalaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tdtchannels-actualiza-nuevos-canales-gratis-disponibles-registros-ni-instalaciones-1430879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tdtchannels-4274838.jpg?tf=1200x' alt='TDTChannels se actualiza: nuevos canales gratis disponibles sin registros ni instalaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-disney-1424778'>Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-disney-1424778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-whatsapp-ni-telegram-apps-descargadas-2024-app-store-1430813'>Ni WhatsApp ni Telegram: esta es una de las apps más descargadas de 2024 de la App Store</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-whatsapp-ni-telegram-apps-descargadas-2024-app-store-1430813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/threema-4274758.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram: esta es una de las apps más descargadas de 2024 de la App Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-youtube-como-conocemos-prepara-nuevo-diseno-horizontal-cambiara-reproduccion-video-siempre-1430843'>Adiós a YouTube como lo conocemos: prepara un nuevo diseño horizontal que cambiará la reproducción de vídeo para siempre </a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-youtube-como-conocemos-prepara-nuevo-diseno-horizontal-cambiara-reproduccion-video-siempre-1430843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-prueba-nuevo-diseno-horizontal-cambiara-reproduccion-video-siempre-4274760.jpg?tf=1200x' alt='Adiós a YouTube como lo conocemos: prepara un nuevo diseño horizontal que cambiará la reproducción de vídeo para siempre ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-cerca-parece-soluciona-mayores-problemas-apple-1430777'>El iPhone SE 4 está más cerca de lo que parece y soluciona uno de los mayores problemas de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-4-cerca-parece-soluciona-mayores-problemas-apple-1430777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='El iPhone SE 4 está más cerca de lo que parece y soluciona uno de los mayores problemas de Apple' />
     </a>
 </div>
 
