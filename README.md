@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449'>Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/impresora-3d-4274132.jpg?tf=1200x' alt='Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/chino-revela-secreto-detras-bares-bazares-espana-consiguen-dinero-1430535'>Un chino revela el secreto detrás de los bares y bazares en España: así consiguen el dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/chino-revela-secreto-detras-bares-bazares-espana-consiguen-dinero-1430535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bazar-chino-4274229.jpg?tf=1200x' alt='Un chino revela el secreto detrás de los bares y bazares en España: así consiguen el dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ambientar-cena-nochebuena-nochevieja-netflix-nuevas-chimeneas-digitales-1430735'>El mejor ambiente para tu cena de Nochebuena y Nochevieja: Netflix estrena tres nuevas chimeneas digitales</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ambientar-cena-nochebuena-nochevieja-netflix-nuevas-chimeneas-digitales-1430735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-ambientacion-cena-nochebuena-nochevieja-netflix-estrena-tres-nuevas-chimeneas-digitales-4274597.jpg?tf=1200x' alt='El mejor ambiente para tu cena de Nochebuena y Nochevieja: Netflix estrena tres nuevas chimeneas digitales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-1430585'>Un ingeniero ha creado una herramienta para ver cómo nos vigilan, y los resultados asustan: "Hay que defender la privacidad"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-1430585' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-4274275.jpg?tf=1200x' alt='Un ingeniero ha creado una herramienta para ver cómo nos vigilan, y los resultados asustan: "Hay que defender la privacidad"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/thanatos-dron-inteligente-sigiloso-eeuu-realiza-primer-vuelo-secreto-1430480'>Thanatos, el dron inteligente más sigiloso de EEUU, realiza su primer vuelo en secreto</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/thanatos-dron-inteligente-sigiloso-eeuu-realiza-primer-vuelo-secreto-1430480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/thanatos-dron-secreto-4274168.jpg?tf=1200x' alt='Thanatos, el dron inteligente más sigiloso de EEUU, realiza su primer vuelo en secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-comandos-basicos-sacar-partido-terminal-distros-linux-1414716'>Estos son los comandos básicos para sacar partido a la terminal en distros de Linux</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-comandos-basicos-sacar-partido-terminal-distros-linux-1414716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-linux-peligrosos-no-deberias-utilizar-nunca-existen-4202852.jpg?tf=1200x' alt='Estos son los comandos básicos para sacar partido a la terminal en distros de Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/llevo-10-anos-mismo-ordenador-trucos-convertir-pc-inmortal-1420181'>Llevo más de 10 años con el mismo ordenador: los trucos para convertir tu PC en inmortal</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/llevo-10-anos-mismo-ordenador-trucos-convertir-pc-inmortal-1420181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/escena-eliminada-deadpool-lobezno-confirma-supervivencia-querido-personaje-pelicula-4042391.jpg?tf=1200x' alt='Llevo más de 10 años con el mismo ordenador: los trucos para convertir tu PC en inmortal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-relojes-inteligentes-baratos-regalar-navidad-son-acierto-seguro-1430196'>5 relojes inteligentes baratos para regalar por Navidad que son acierto seguro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-relojes-inteligentes-baratos-regalar-navidad-son-acierto-seguro-1430196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cmf-watch-pro-2-nothing-4273628.jpg?tf=1200x' alt='5 relojes inteligentes baratos para regalar por Navidad que son acierto seguro' />
     </a>
 </div>
 
