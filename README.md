@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-disney-1424778'>Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-disney-1424778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854'>Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-4274784.jpg?tf=1200x' alt='Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-cerca-parece-soluciona-mayores-problemas-apple-1430777'>El iPhone SE 4 está más cerca de lo que parece y soluciona uno de los mayores problemas de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-4-cerca-parece-soluciona-mayores-problemas-apple-1430777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='El iPhone SE 4 está más cerca de lo que parece y soluciona uno de los mayores problemas de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-no-tiene-permitido-entrar-algunas-reuniones-spacex-motivos-seguridad-1430784'>Elon Musk no tiene permitido entrar a algunas reuniones de SpaceX por motivos de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-no-tiene-permitido-entrar-algunas-reuniones-spacex-motivos-seguridad-1430784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vetado-spacex-4274731.jpg?tf=1200x' alt='Elon Musk no tiene permitido entrar a algunas reuniones de SpaceX por motivos de seguridad' />
     </a>
 </div>
 
