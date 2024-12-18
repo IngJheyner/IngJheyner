@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/xiaomi-actualizacion-android-15-android-auto-deja-funcionar-1430996'>Xiaomi y la actualización de Android 15: Android Auto deja de funcionar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/xiaomi-actualizacion-android-15-android-auto-deja-funcionar-1430996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-xiaomi-4275051.jpg?tf=1200x' alt='Xiaomi y la actualización de Android 15: Android Auto deja de funcionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-actualiza-gafas-ray-ban-ia-traducciones-tiempo-real-shazam-integrado-1430995'>Meta actualiza sus gafas Ray-Ban con IA: traducciones en tiempo real y Shazam integrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-actualiza-gafas-ray-ban-ia-traducciones-tiempo-real-shazam-integrado-1430995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='Meta actualiza sus gafas Ray-Ban con IA: traducciones en tiempo real y Shazam integrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tiktok-enciende-alarma-algunos-usuarios-afirman-airdrop-apple-expone-datos-financieros-1430994'>TikTok enciende la alarma: algunos usuarios afirman que AirDrop de Apple expone tus datos financieros</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tiktok-enciende-alarma-algunos-usuarios-afirman-airdrop-apple-expone-datos-financieros-1430994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/airdrop-apple-4275050.jpg?tf=1200x' alt='TikTok enciende la alarma: algunos usuarios afirman que AirDrop de Apple expone tus datos financieros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-apunta-80-millones-ventas-2028-superando-playstation-xbox-1430992'>Nintendo Switch 2 apunta a 80 millones de ventas para 2028, superando a PlayStation y Xbox</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-apunta-80-millones-ventas-2028-superando-playstation-xbox-1430992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Switch 2 apunta a 80 millones de ventas para 2028, superando a PlayStation y Xbox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/jetson-orin-nano-super-superordenador-ia-generativa-nvidia-pequeno-barato-mundo-1430951'>Jetson Orin Nano Super, el superordenador con IA generativa de Nvidia más pequeño y barato del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/jetson-orin-nano-super-superordenador-ia-generativa-nvidia-pequeno-barato-mundo-1430951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jetson-orin-nano-super-superordenador-ia-generativa-nvidia-pequeno-barato-mundo-4275029.jpg?tf=1200x' alt='Jetson Orin Nano Super, el superordenador con IA generativa de Nvidia más pequeño y barato del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-ia-experto-explica-jordi-wild-posible-1430902'>La singularidad en la IA: un experto explica a Jordi Wild por qué es más que posible </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-ia-experto-explica-jordi-wild-posible-1430902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/singularidad-ia-experto-explica-jordi-wild-posible-4274935.jpg?tf=1200x' alt='La singularidad en la IA: un experto explica a Jordi Wild por qué es más que posible ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tdtchannels-actualiza-nuevos-canales-gratis-disponibles-registros-ni-instalaciones-1430879'>TDTChannels se actualiza: nuevos canales gratis disponibles sin registros ni instalaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tdtchannels-actualiza-nuevos-canales-gratis-disponibles-registros-ni-instalaciones-1430879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tdtchannels-4274838.jpg?tf=1200x' alt='TDTChannels se actualiza: nuevos canales gratis disponibles sin registros ni instalaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-disney-1424778'>Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-disney-1424778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Ni anuncios ni subida de precio, el nuevo enemigo de Netflix, MAX, Prime Video o Disney+ son los canceladores en serie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854'>Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-1430854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-perder-equipaje-iberia-abre-utilizar-airtags-apple-vuelos-4274784.jpg?tf=1200x' alt='Adiós a perder el equipaje: Iberia se abre a utilizar AirTags de Apple en sus vuelos' />
     </a>
 </div>
 
