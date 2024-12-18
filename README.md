@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/unas-imagenes-google-maps-claves-detencion-mujer-pareja-desmembrar-marido-ella-pueblo-soriano-1430779'>Google Maps y unas espeluznantes imágenes, claves en la investigación de un asesinato en Soria</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/unas-imagenes-google-maps-claves-detencion-mujer-pareja-desmembrar-marido-ella-pueblo-soriano-1430779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-asesinato-soria-4274676.jpg?tf=1200x' alt='Google Maps y unas espeluznantes imágenes, claves en la investigación de un asesinato en Soria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/alerta-android-hackean-30000-dispositivos-ordenan-desconectarlos-inmediatamente-internet-1430752'>Alerta Android: hackean 30.000 dispositivos y ordenan desconectarlos inmediatamente de Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/alerta-android-hackean-30000-dispositivos-ordenan-desconectarlos-inmediatamente-internet-1430752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta Android: hackean 30.000 dispositivos y ordenan desconectarlos inmediatamente de Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-retrasa-segunda-vez-regreso-astronautas-tierra-1430751'>La NASA retrasa por segunda vez el regreso de sus astronautas a la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-retrasa-segunda-vez-regreso-astronautas-tierra-1430751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='La NASA retrasa por segunda vez el regreso de sus astronautas a la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449'>Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/impresora-3d-4274132.jpg?tf=1200x' alt='Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/chino-revela-secreto-detras-bares-bazares-espana-consiguen-dinero-1430535'>Un chino revela el secreto detrás de los bares y bazares en España: así consiguen el dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/chino-revela-secreto-detras-bares-bazares-espana-consiguen-dinero-1430535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bazar-chino-4274229.jpg?tf=1200x' alt='Un chino revela el secreto detrás de los bares y bazares en España: así consiguen el dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ambientar-cena-nochebuena-nochevieja-netflix-nuevas-chimeneas-digitales-1430735'>El mejor ambiente para tu cena de Nochebuena y Nochevieja: Netflix estrena tres nuevas chimeneas digitales</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ambientar-cena-nochebuena-nochevieja-netflix-nuevas-chimeneas-digitales-1430735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-ambientacion-cena-nochebuena-nochevieja-netflix-estrena-tres-nuevas-chimeneas-digitales-4274597.jpg?tf=1200x' alt='El mejor ambiente para tu cena de Nochebuena y Nochevieja: Netflix estrena tres nuevas chimeneas digitales' />
     </a>
 </div>
 
