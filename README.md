@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-retrasa-segunda-vez-regreso-astronautas-tierra-1430751'>La NASA retrasa por segunda vez el regreso de sus astronautas a la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-retrasa-segunda-vez-regreso-astronautas-tierra-1430751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='La NASA retrasa por segunda vez el regreso de sus astronautas a la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arma-nuclear-devastadora-jamas-creada-capaz-arrasar-pais-entero-como-espana-1430555'>El arma nuclear más devastadora jamás creada: capaz de arrasar un país entero como España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/arma-nuclear-devastadora-jamas-creada-capaz-arrasar-pais-entero-como-espana-1430555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bomba-nuclear-4274259.jpg?tf=1200x' alt='El arma nuclear más devastadora jamás creada: capaz de arrasar un país entero como España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449'>Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/impresora-3d-4274132.jpg?tf=1200x' alt='Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ambientar-cena-nochebuena-nochevieja-netflix-nuevas-chimeneas-digitales-1430735'>El mejor ambiente para tu cena de Nochebuena y Nochevieja: Netflix estrena tres nuevas chimeneas digitales</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ambientar-cena-nochebuena-nochevieja-netflix-nuevas-chimeneas-digitales-1430735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mejor-ambientacion-cena-nochebuena-nochevieja-netflix-estrena-tres-nuevas-chimeneas-digitales-4274597.jpg?tf=1200x' alt='El mejor ambiente para tu cena de Nochebuena y Nochevieja: Netflix estrena tres nuevas chimeneas digitales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-1430585'>Un ingeniero ha creado una herramienta para ver cómo nos vigilan, y los resultados asustan: "Hay que defender la privacidad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-1430585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ingeniero-ha-creado-herramienta-ver-como-nos-vigilan-resultados-asustan-hay-defender-privacidad-4274275.jpg?tf=1200x' alt='Un ingeniero ha creado una herramienta para ver cómo nos vigilan, y los resultados asustan: "Hay que defender la privacidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/thanatos-dron-inteligente-sigiloso-eeuu-realiza-primer-vuelo-secreto-1430480'>Thanatos, el dron inteligente más sigiloso de EEUU, realiza su primer vuelo en secreto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/thanatos-dron-inteligente-sigiloso-eeuu-realiza-primer-vuelo-secreto-1430480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/thanatos-dron-secreto-4274168.jpg?tf=1200x' alt='Thanatos, el dron inteligente más sigiloso de EEUU, realiza su primer vuelo en secreto' />
     </a>
 </div>
 
