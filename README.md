@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-1430749'>Roku lanza una actualización: agrega funciones de Smart Home y beneficios adicionales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-1430749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/roku-lanza-actualizacion-agrega-funciones-smart-home-beneficios-adicionales-4274675.jpg?tf=1200x' alt='Roku lanza una actualización: agrega funciones de Smart Home y beneficios adicionales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-quiere-destruir-modelo-openai-despues-haberlo-apoyado-1430753'>Giro de 180 grados de Elon Musk: quiere destruir el modelo de OpenAI después de haberlo apoyado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-quiere-destruir-modelo-openai-despues-haberlo-apoyado-1430753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vs-sam-altman-4274662.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: quiere destruir el modelo de OpenAI después de haberlo apoyado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tina-wilson-experta-relaciones-revela-como-mensajes-whatsapp-muestran-personalidad-1430745'>Tina Wilson, experta en relaciones, revela cómo tus mensajes en WhatsApp muestran tu personalidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tina-wilson-experta-relaciones-revela-como-mensajes-whatsapp-muestran-personalidad-1430745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Tina Wilson, experta en relaciones, revela cómo tus mensajes en WhatsApp muestran tu personalidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/unas-imagenes-google-maps-claves-detencion-mujer-pareja-desmembrar-marido-ella-pueblo-soriano-1430779'>Google Maps y unas espeluznantes imágenes, claves en la investigación de un asesinato en Soria</a></h4>
     <a href='https://computerhoy.20minutos.es/life/unas-imagenes-google-maps-claves-detencion-mujer-pareja-desmembrar-marido-ella-pueblo-soriano-1430779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-asesinato-soria-4274676.jpg?tf=1200x' alt='Google Maps y unas espeluznantes imágenes, claves en la investigación de un asesinato en Soria' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/alerta-android-hackean-30000-dispositivos-ordenan-desconectarlos-inmediatamente-internet-1430752'>Alerta Android: hackean 30.000 dispositivos y ordenan desconectarlos inmediatamente de Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/android/alerta-android-hackean-30000-dispositivos-ordenan-desconectarlos-inmediatamente-internet-1430752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/android-malware-3294180.jpg?tf=1200x' alt='Alerta Android: hackean 30.000 dispositivos y ordenan desconectarlos inmediatamente de Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-retrasa-segunda-vez-regreso-astronautas-tierra-1430751'>La NASA retrasa por segunda vez el regreso de sus astronautas a la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-retrasa-segunda-vez-regreso-astronautas-tierra-1430751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/nasa-prepara-acabar-estacion-espacial-internacional-pero-necesita-spacex-3754699.jpg?tf=1200x' alt='La NASA retrasa por segunda vez el regreso de sus astronautas a la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arma-nuclear-devastadora-jamas-creada-capaz-arrasar-pais-entero-como-espana-1430555'>El arma nuclear más devastadora jamás creada: capaz de arrasar un país entero como España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/arma-nuclear-devastadora-jamas-creada-capaz-arrasar-pais-entero-como-espana-1430555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bomba-nuclear-4274259.jpg?tf=1200x' alt='El arma nuclear más devastadora jamás creada: capaz de arrasar un país entero como España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449'>Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/equipo-investigadores-princeton-descubre-forma-fabricar-plasticos-programables-gracias-impresion-3d-1430449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/impresora-3d-4274132.jpg?tf=1200x' alt='Un equipo de investigadores de Princeton descubre la forma de fabricar plásticos programables gracias a la impresión 3D' />
     </a>
 </div>
 
