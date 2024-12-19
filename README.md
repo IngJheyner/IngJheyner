@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-mejor-menu-navidad-inteligencia-artificial-1427747'>ChatGPT: este es el mejor menú de Navidad según la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-mejor-menu-navidad-inteligencia-artificial-1427747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-mejor-menu-navidad-inteligencia-artificial-4269436.jpg?tf=1200x' alt='ChatGPT: este es el mejor menú de Navidad según la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/ni-linux-ni-windows-portatil-viejo-chromeos-flex-1402728'>Ni Linux ni Windows, he instalado este sistema operativo gratis en este viejo portátil y ahora parece nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ni-linux-ni-windows-portatil-viejo-chromeos-flex-1402728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Linux ni Windows, he instalado este sistema operativo gratis en este viejo portátil y ahora parece nuevo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fallo-tesla-model-3-highland-denuncian-usuarios-espanoles-1431113'>Este es el fallo del Tesla Model 3 Highland que denuncian los usuarios españoles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fallo-tesla-model-3-highland-denuncian-usuarios-espanoles-1431113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fallos-coche-tesla-4275246.jpg?tf=1200x' alt='Este es el fallo del Tesla Model 3 Highland que denuncian los usuarios españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045'>Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ordenador-cuantico-3269479.jpg?tf=1200x' alt='Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits' />
     </a>
 </div>
 
