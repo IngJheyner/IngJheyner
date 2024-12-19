@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ni-linux-ni-windows-portatil-viejo-chromeos-flex-1402728'>Ni Linux ni Windows, he instalado este sistema operativo gratis en este viejo portátil y ahora parece nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ni-linux-ni-windows-portatil-viejo-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Linux ni Windows, he instalado este sistema operativo gratis en este viejo portátil y ahora parece nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-canales-series-gratis-1419674'>Ni TDTChannels ni Pluto TV, esta es la app que ofrece más de 15.000 series y películas gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-canales-series-gratis-1419674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xumo-4263354.jpg?tf=1200x' alt='Ni TDTChannels ni Pluto TV, esta es la app que ofrece más de 15.000 series y películas gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-1431094'>Movistar responde al cabreo de los usuarios por eliminar 14 canales de golpe</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-1431094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-4275267.jpg?tf=1200x' alt='Movistar responde al cabreo de los usuarios por eliminar 14 canales de golpe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045'>Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ordenador-cuantico-3269479.jpg?tf=1200x' alt='Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/satya-nadella-admite-google-gana-windows-microsoft-1431049'>Satya Nadella lo admite, Google gana más con Windows que Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/satya-nadella-admite-google-gana-windows-microsoft-1431049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/satya-nadella-microsoft-4275262.jpg?tf=1200x' alt='Satya Nadella lo admite, Google gana más con Windows que Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-va-rebajas-nuevo-pixel-9-ahora-200-euros-barato-1430856'>Google se va de rebajas: el nuevo Pixel 9 es ahora 200 euros más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-va-rebajas-nuevo-pixel-9-ahora-200-euros-barato-1430856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-pixel-9-4274718.jpg?tf=1200x' alt='Google se va de rebajas: el nuevo Pixel 9 es ahora 200 euros más barato' />
     </a>
 </div>
 
