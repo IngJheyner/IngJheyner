@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/aerogenerador-mas-grande-mundo-cambiar-microclima-local-1431026'>El aerogenerador más grande del mundo ya está en funcionamiento y es capaz de cambiar el microclima local</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/aerogenerador-mas-grande-mundo-cambiar-microclima-local-1431026' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aerogenerador-grande-mundo-ya-funcionamiento-capaz-cambiar-microclima-local-4275101.jpg?tf=1200x' alt='El aerogenerador más grande del mundo ya está en funcionamiento y es capaz de cambiar el microclima local' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ko-steam-deck-consola-china-super-potente-windows-steamos-sale-luz-ya-venta-1430211'>KO a Steam Deck: esta consola china súper potente con Windows y steamOS sale a la luz y ya está a la venta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ko-steam-deck-consola-china-super-potente-windows-steamos-sale-luz-ya-venta-1430211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gpd-win4-4273675.jpg?tf=1200x' alt='KO a Steam Deck: esta consola china súper potente con Windows y steamOS sale a la luz y ya está a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/cancelan-primer-servicio-autobus-conductor-culpa-pasajeros-1431025'>Cancelan el primer servicio de autobús sin conductor por culpa de lo que hacían los pasajeros</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cancelan-primer-servicio-autobus-conductor-culpa-pasajeros-1431025' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cancelan-primer-servicio-autobus-conductor-culpa-hacian-pasajeros-4275084.jpg?tf=1200x' alt='Cancelan el primer servicio de autobús sin conductor por culpa de lo que hacían los pasajeros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012'>El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-acceso-contenido-pedofilo-4275069.jpg?tf=1200x' alt='El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/te-confundes-nombres-modelos-cpu-portatiles-quieres-comprar-navidad-te-explicamos-1430975'>¿Te confundes con los nombres de los modelos de CPU de los portátiles y quieres comprar uno en Navidad? Te lo explicamos</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/te-confundes-nombres-modelos-cpu-portatiles-quieres-comprar-navidad-te-explicamos-1430975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/te-confundes-nombres-modelos-cpu-portatiles-quieres-comprar-navidad-te-explicamos-4275065.jpg?tf=1200x' alt='¿Te confundes con los nombres de los modelos de CPU de los portátiles y quieres comprar uno en Navidad? Te lo explicamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-advierte-peligro-1431005'>Paul McCartney se emociona con la nueva canción de los Beatles hecha con IA, pero advierte de que "podría tomar el control"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-advierte-peligro-1431005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-pero-advierte-podria-tomar-control-4275056.jpg?tf=1200x' alt='Paul McCartney se emociona con la nueva canción de los Beatles hecha con IA, pero advierte de que "podría tomar el control"' />
     </a>
 </div>
 
