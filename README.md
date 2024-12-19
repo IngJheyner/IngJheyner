@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/supone-riesgo-estamos-estudiando-prohibirla-tp-link-enfrenta-bloqueo-eeuu-1431051'>"Supone un riesgo y estamos estudiando prohibirla": TP-Link se enfrenta a un bloqueo en EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/supone-riesgo-estamos-estudiando-prohibirla-tp-link-enfrenta-bloqueo-eeuu-1431051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-3993177.jpg?tf=1200x' alt='"Supone un riesgo y estamos estudiando prohibirla": TP-Link se enfrenta a un bloqueo en EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ucrania-desvela-arma-laser-capaz-derribar-aviones-2-kilometros-1430864'>Ucrania desvela un arma láser capaz de derribar aviones a más de 2 kilómetros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ucrania-desvela-arma-laser-capaz-derribar-aviones-2-kilometros-1430864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/caza-equipado-arma-laser-4274832.jpg?tf=1200x' alt='Ucrania desvela un arma láser capaz de derribar aviones a más de 2 kilómetros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-superinteligente-sera-incontrolable-aviso-experto-chatgpt-1430841'>"La IA superinteligente será incontrolable": el aviso del experto tras ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-superinteligente-sera-incontrolable-aviso-experto-chatgpt-1430841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-4274789.jpg?tf=1200x' alt='"La IA superinteligente será incontrolable": el aviso del experto tras ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-no-grok-quiere-defender-famosos-hollywood-deepfakes-ia-1430834'>Youtube no es Grok: así quiere defender a los famosos de Hollywood de los deepfakes de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-no-grok-quiere-defender-famosos-hollywood-deepfakes-ia-1430834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacer-tiktoks-deepfakes-tom-cruise-ser-metaphysic-empresa-ai-exitosa-2432777.jpg?tf=1200x' alt='Youtube no es Grok: así quiere defender a los famosos de Hollywood de los deepfakes de la IA' />
     </a>
 </div>
 
