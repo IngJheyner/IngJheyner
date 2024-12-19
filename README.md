@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-superinteligente-sera-incontrolable-aviso-experto-chatgpt-1430841'>"La IA superinteligente será incontrolable": el aviso del experto tras ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-superinteligente-sera-incontrolable-aviso-experto-chatgpt-1430841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-4274789.jpg?tf=1200x' alt='"La IA superinteligente será incontrolable": el aviso del experto tras ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-no-grok-quiere-defender-famosos-hollywood-deepfakes-ia-1430834'>Youtube no es Grok: así quiere defender a los famosos de Hollywood de los deepfakes de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-no-grok-quiere-defender-famosos-hollywood-deepfakes-ia-1430834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacer-tiktoks-deepfakes-tom-cruise-ser-metaphysic-empresa-ai-exitosa-2432777.jpg?tf=1200x' alt='Youtube no es Grok: así quiere defender a los famosos de Hollywood de los deepfakes de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/soy-experto-tecnologia-estos-son-5-gadgets-te-recomiendo-te-haran-vida-facil-1420109'>Soy experto en tecnología: estos son los 5 gadgets que te recomiendo y que te harán la vida más fácil</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/soy-experto-tecnologia-estos-son-5-gadgets-te-recomiendo-te-haran-vida-facil-1420109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-hacer-vida-facil-4264151.jpg?tf=1200x' alt='Soy experto en tecnología: estos son los 5 gadgets que te recomiendo y que te harán la vida más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-pro-ideal-buscas-mayor-pantalla-bateria-infinita-pero-no-perfecta-1430204'>He probado la Xiaomi Smart Band 9 Pro y es ideal si buscas mayor pantalla y batería infinita, pero no es perfecta</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-pro-ideal-buscas-mayor-pantalla-bateria-infinita-pero-no-perfecta-1430204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/xiaomi-smart-band-9-pro-4274386.jpg?tf=1200x' alt='He probado la Xiaomi Smart Band 9 Pro y es ideal si buscas mayor pantalla y batería infinita, pero no es perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/aerogenerador-mas-grande-mundo-cambiar-microclima-local-1431026'>El aerogenerador más grande del mundo ya está en funcionamiento y es capaz de cambiar el microclima local</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/aerogenerador-mas-grande-mundo-cambiar-microclima-local-1431026' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aerogenerador-grande-mundo-ya-funcionamiento-capaz-cambiar-microclima-local-4275101.jpg?tf=1200x' alt='El aerogenerador más grande del mundo ya está en funcionamiento y es capaz de cambiar el microclima local' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ko-steam-deck-consola-china-super-potente-windows-steamos-sale-luz-ya-venta-1430211'>KO a Steam Deck: esta consola china súper potente con Windows y steamOS sale a la luz y ya está a la venta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ko-steam-deck-consola-china-super-potente-windows-steamos-sale-luz-ya-venta-1430211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gpd-win4-4273675.jpg?tf=1200x' alt='KO a Steam Deck: esta consola china súper potente con Windows y steamOS sale a la luz y ya está a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/cancelan-primer-servicio-autobus-conductor-culpa-pasajeros-1431025'>Cancelan el primer servicio de autobús sin conductor por culpa de lo que hacían los pasajeros</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/cancelan-primer-servicio-autobus-conductor-culpa-pasajeros-1431025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cancelan-primer-servicio-autobus-conductor-culpa-hacian-pasajeros-4275084.jpg?tf=1200x' alt='Cancelan el primer servicio de autobús sin conductor por culpa de lo que hacían los pasajeros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-1431009'>Instagram estrena su cámara modo noche, pero no todos los dispositivos Android lo tendrán</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-1431009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-4275077.jpg?tf=1200x' alt='Instagram estrena su cámara modo noche, pero no todos los dispositivos Android lo tendrán' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012'>El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-acceso-contenido-pedofilo-4275069.jpg?tf=1200x' alt='El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo' />
     </a>
 </div>
 
