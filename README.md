@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261'>Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/escuchado-2024-suena-spotify-consolas-coches-altavoces-inteligentes-1431260'>Lo más escuchado en 2024: así suena Spotify en consolas, coches y altavoces inteligentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/escuchado-2024-suena-spotify-consolas-coches-altavoces-inteligentes-1431260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/spotify-coche-4275499.jpg?tf=1200x' alt='Lo más escuchado en 2024: así suena Spotify en consolas, coches y altavoces inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-detiene-windows-11-24h2-solucionar-problemas-juegos-audio-1431257'>Microsoft detiene Windows 11 24H2 para solucionar los problemas en juegos y audio</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-detiene-windows-11-24h2-solucionar-problemas-juegos-audio-1431257' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-problemas-sonido-juegos-4275497.jpg?tf=1200x' alt='Microsoft detiene Windows 11 24H2 para solucionar los problemas en juegos y audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-listas-iptv-1431255'>Un juez da permiso a la LaLiga para espiar las direcciones IP de los usuarios de Ace Stream y sus listas IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-listas-iptv-1431255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-otras-listas-iptv-4275475.jpg?tf=1200x' alt='Un juez da permiso a la LaLiga para espiar las direcciones IP de los usuarios de Ace Stream y sus listas IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/protocolo-l4s-como-va-cambiar-internet-nuevo-1431204'>Qué es el protocolo L4S y cómo va a cambiar Internet de nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/protocolo-l4s-como-va-cambiar-internet-nuevo-1431204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/protocolo-l4s-como-va-cambiar-internet-nuevo-4275460.jpg?tf=1200x' alt='Qué es el protocolo L4S y cómo va a cambiar Internet de nuevo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/enganado-luces-led-ahorrar-energia-1207572'>Cómo nos han engañado con las luces LED para "ahorrar energía"</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/enganado-luces-led-ahorrar-energia-1207572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/luces-led-navidad-4271756.jpg?tf=1200x' alt='Cómo nos han engañado con las luces LED para "ahorrar energía"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-fotos-oscuras-instagram-android-hara-brillen-gracias-actualizacion-1431139'>Adiós a las fotos oscuras en Instagram: Android hará que brillen gracias a una actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-fotos-oscuras-instagram-android-hara-brillen-gracias-actualizacion-1431139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-fotos-oscuras-instagram-android-hara-brillen-gracias-actualizacion-4275320.jpg?tf=1200x' alt='Adiós a las fotos oscuras en Instagram: Android hará que brillen gracias a una actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/adios-cables-ethernet-plc-fibra-fttr-movistar-llevar-fibra-optica-cada-rincon-hogar-1431190'>Adiós a los cables Ethernet y a los PLC: así es la fibra FTTR de Movistar para llevar fibra óptica a cada rincón de tu hogar</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/adios-cables-ethernet-plc-fibra-fttr-movistar-llevar-fibra-optica-cada-rincon-hogar-1431190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-cables-ethernet-plc-fibra-fttr-movistar-llevar-fibra-optica-cada-rincon-hogar-4275403.jpg?tf=1200x' alt='Adiós a los cables Ethernet y a los PLC: así es la fibra FTTR de Movistar para llevar fibra óptica a cada rincón de tu hogar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-1431096'>Alerta si te llaman con el prefijo 621: esto es lo que tienes que hacer para evitar una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-1431096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-4275343.jpg?tf=1200x' alt='Alerta si te llaman con el prefijo 621: esto es lo que tienes que hacer para evitar una estafa' />
     </a>
 </div>
 
