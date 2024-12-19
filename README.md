@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ucrania-desvela-arma-laser-capaz-derribar-aviones-2-kilometros-1430864'>Ucrania desvela un arma láser capaz de derribar aviones a más de 2 kilómetros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ucrania-desvela-arma-laser-capaz-derribar-aviones-2-kilometros-1430864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/caza-equipado-arma-laser-4274832.jpg?tf=1200x' alt='Ucrania desvela un arma láser capaz de derribar aviones a más de 2 kilómetros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-programar-mensajes-directos-instagram-paso-paso-1430880'>Así es como puedes programar tus mensajes directos en Instagram paso a paso</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-programar-mensajes-directos-instagram-paso-paso-1430880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-puedes-programar-mensajes-directos-instagram-paso-paso-4274833.jpg?tf=1200x' alt='Así es como puedes programar tus mensajes directos en Instagram paso a paso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-no-grok-quiere-defender-famosos-hollywood-deepfakes-ia-1430834'>Youtube no es Grok: así quiere defender a los famosos de Hollywood de los deepfakes de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/youtube-no-grok-quiere-defender-famosos-hollywood-deepfakes-ia-1430834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/hacer-tiktoks-deepfakes-tom-cruise-ser-metaphysic-empresa-ai-exitosa-2432777.jpg?tf=1200x' alt='Youtube no es Grok: así quiere defender a los famosos de Hollywood de los deepfakes de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/soy-experto-tecnologia-estos-son-5-gadgets-te-recomiendo-te-haran-vida-facil-1420109'>Soy experto en tecnología: estos son los 5 gadgets que te recomiendo y que te harán la vida más fácil</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/soy-experto-tecnologia-estos-son-5-gadgets-te-recomiendo-te-haran-vida-facil-1420109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-hacer-vida-facil-4264151.jpg?tf=1200x' alt='Soy experto en tecnología: estos son los 5 gadgets que te recomiendo y que te harán la vida más fácil' />
     </a>
 </div>
 
