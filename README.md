@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012'>El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-acceso-contenido-pedofilo-4275069.jpg?tf=1200x' alt='El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/te-confundes-nombres-modelos-cpu-portatiles-quieres-comprar-navidad-te-explicamos-1430975'>¿Te confundes con los nombres de los modelos de CPU de los portátiles y quieres comprar uno en Navidad? Te lo explicamos</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/te-confundes-nombres-modelos-cpu-portatiles-quieres-comprar-navidad-te-explicamos-1430975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/te-confundes-nombres-modelos-cpu-portatiles-quieres-comprar-navidad-te-explicamos-4275065.jpg?tf=1200x' alt='¿Te confundes con los nombres de los modelos de CPU de los portátiles y quieres comprar uno en Navidad? Te lo explicamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-advierte-peligro-1431005'>Paul McCartney se emociona con la nueva canción de los Beatles hecha con IA, pero advierte de que "podría tomar el control"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-advierte-peligro-1431005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-pero-advierte-podria-tomar-control-4275056.jpg?tf=1200x' alt='Paul McCartney se emociona con la nueva canción de los Beatles hecha con IA, pero advierte de que "podría tomar el control"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-actualiza-gafas-ray-ban-ia-traducciones-tiempo-real-shazam-integrado-1430995'>Meta actualiza sus gafas Ray-Ban con IA: traducciones en tiempo real y Shazam integrado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-actualiza-gafas-ray-ban-ia-traducciones-tiempo-real-shazam-integrado-1430995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='Meta actualiza sus gafas Ray-Ban con IA: traducciones en tiempo real y Shazam integrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tiktok-enciende-alarma-algunos-usuarios-afirman-airdrop-apple-expone-datos-financieros-1430994'>TikTok enciende la alarma: algunos usuarios afirman que AirDrop de Apple expone tus datos financieros</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tiktok-enciende-alarma-algunos-usuarios-afirman-airdrop-apple-expone-datos-financieros-1430994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/airdrop-apple-4275050.jpg?tf=1200x' alt='TikTok enciende la alarma: algunos usuarios afirman que AirDrop de Apple expone tus datos financieros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-apunta-80-millones-ventas-2028-superando-playstation-xbox-1430992'>Nintendo Switch 2 apunta a 80 millones de ventas para 2028, superando a PlayStation y Xbox</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-apunta-80-millones-ventas-2028-superando-playstation-xbox-1430992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/nintendo-switch-2-filtrada-posible-resolucion-tiempos-carga-juego-lanzamiento-fecha-venta-3133956.jpg?tf=1200x' alt='Nintendo Switch 2 apunta a 80 millones de ventas para 2028, superando a PlayStation y Xbox' />
     </a>
 </div>
 
