@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-1431096'>Alerta si te llaman con el prefijo 621: esto es lo que tienes que hacer para evitar una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-1431096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-4275343.jpg?tf=1200x' alt='Alerta si te llaman con el prefijo 621: esto es lo que tienes que hacer para evitar una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-entra-ring-experimento-podria-provocar-giro-180-grados-boxeo-1431136'>La IA entra al ring: este experimento podría provocar un giro de 180 grados en el boxeo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-entra-ring-experimento-podria-provocar-giro-180-grados-boxeo-1431136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-entra-ring-experimento-podria-provocar-giro-180-grados-boxeo-4275296.jpg?tf=1200x' alt='La IA entra al ring: este experimento podría provocar un giro de 180 grados en el boxeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-mejor-menu-navidad-inteligencia-artificial-1427747'>ChatGPT: este es el mejor menú de Navidad según la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-mejor-menu-navidad-inteligencia-artificial-1427747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-mejor-menu-navidad-inteligencia-artificial-4269436.jpg?tf=1200x' alt='ChatGPT: este es el mejor menú de Navidad según la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-canales-series-gratis-1419674'>Ni TDTChannels ni Pluto TV, esta es la app que ofrece más de 15.000 series y películas gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ni-pluto-tv-ni-tdtchannels-app-15000-peliculas-canales-series-gratis-1419674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/xumo-4263354.jpg?tf=1200x' alt='Ni TDTChannels ni Pluto TV, esta es la app que ofrece más de 15.000 series y películas gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-1431094'>Movistar responde al cabreo de los usuarios por eliminar 14 canales de golpe</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-1431094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-4275267.jpg?tf=1200x' alt='Movistar responde al cabreo de los usuarios por eliminar 14 canales de golpe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fallo-tesla-model-3-highland-denuncian-usuarios-espanoles-1431113'>Este es el fallo del Tesla Model 3 Highland que denuncian los usuarios españoles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fallo-tesla-model-3-highland-denuncian-usuarios-espanoles-1431113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fallos-coche-tesla-4275246.jpg?tf=1200x' alt='Este es el fallo del Tesla Model 3 Highland que denuncian los usuarios españoles' />
     </a>
 </div>
 
