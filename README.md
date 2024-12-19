@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045'>Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ordenador-cuantico-3269479.jpg?tf=1200x' alt='Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/satya-nadella-admite-google-gana-windows-microsoft-1431049'>Satya Nadella lo admite, Google gana más con Windows que Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/satya-nadella-admite-google-gana-windows-microsoft-1431049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/satya-nadella-microsoft-4275262.jpg?tf=1200x' alt='Satya Nadella lo admite, Google gana más con Windows que Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-va-rebajas-nuevo-pixel-9-ahora-200-euros-barato-1430856'>Google se va de rebajas: el nuevo Pixel 9 es ahora 200 euros más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-va-rebajas-nuevo-pixel-9-ahora-200-euros-barato-1430856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-pixel-9-4274718.jpg?tf=1200x' alt='Google se va de rebajas: el nuevo Pixel 9 es ahora 200 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/como-poner-chatgpt-whatsapp-telefono-debes-anadir-como-contacto-1431120'>Cómo poner ChatGPT en WhatsApp: este es el teléfono que debes añadir como contacto</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/como-poner-chatgpt-whatsapp-telefono-debes-anadir-como-contacto-1431120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='Cómo poner ChatGPT en WhatsApp: este es el teléfono que debes añadir como contacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/adios-plan-suscripcion-iphone-apple-abandona-idea-antes-sacarlo-luz-1431054'>Adiós al plan de suscripción de iPhone: Apple abandona esta idea antes de sacarlo a la luz</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/adios-plan-suscripcion-iphone-apple-abandona-idea-antes-sacarlo-luz-1431054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-plan-suscripcion-iphone-apple-abandona-idea-antes-sacarlo-luz-4275202.jpg?tf=1200x' alt='Adiós al plan de suscripción de iPhone: Apple abandona esta idea antes de sacarlo a la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-convierte-detective-todos-crimenes-ha-ayudado-resolver-1431048'>Google Maps se convierte en detective: todos los crímenes que ha ayudado a resolver</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-convierte-detective-todos-crimenes-ha-ayudado-resolver-1431048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-detective-4275217.jpg?tf=1200x' alt='Google Maps se convierte en detective: todos los crímenes que ha ayudado a resolver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/supone-riesgo-estamos-estudiando-prohibirla-tp-link-enfrenta-bloqueo-eeuu-1431051'>"Supone un riesgo y estamos estudiando prohibirla": TP-Link se enfrenta a un bloqueo en EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/supone-riesgo-estamos-estudiando-prohibirla-tp-link-enfrenta-bloqueo-eeuu-1431051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/routers-tp-link-punto-mira-autoridades-riesgos-seguridad-3993177.jpg?tf=1200x' alt='"Supone un riesgo y estamos estudiando prohibirla": TP-Link se enfrenta a un bloqueo en EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ucrania-desvela-arma-laser-capaz-derribar-aviones-2-kilometros-1430864'>Ucrania desvela un arma láser capaz de derribar aviones a más de 2 kilómetros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ucrania-desvela-arma-laser-capaz-derribar-aviones-2-kilometros-1430864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/caza-equipado-arma-laser-4274832.jpg?tf=1200x' alt='Ucrania desvela un arma láser capaz de derribar aviones a más de 2 kilómetros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-programar-mensajes-directos-instagram-paso-paso-1430880'>Así es como puedes programar tus mensajes directos en Instagram paso a paso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-programar-mensajes-directos-instagram-paso-paso-1430880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-puedes-programar-mensajes-directos-instagram-paso-paso-4274833.jpg?tf=1200x' alt='Así es como puedes programar tus mensajes directos en Instagram paso a paso' />
     </a>
 </div>
 
