@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/protocolo-l4s-como-va-cambiar-internet-nuevo-1431204'>Qué es el protocolo L4S y cómo va a cambiar Internet de nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/protocolo-l4s-como-va-cambiar-internet-nuevo-1431204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/protocolo-l4s-como-va-cambiar-internet-nuevo-4275460.jpg?tf=1200x' alt='Qué es el protocolo L4S y cómo va a cambiar Internet de nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/enganado-luces-led-ahorrar-energia-1207572'>Cómo nos han engañado con las luces LED para "ahorrar energía"</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/enganado-luces-led-ahorrar-energia-1207572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/luces-led-navidad-4271756.jpg?tf=1200x' alt='Cómo nos han engañado con las luces LED para "ahorrar energía"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-1431096'>Alerta si te llaman con el prefijo 621: esto es lo que tienes que hacer para evitar una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-1431096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/alerta-te-llaman-prefijo-621-tienes-hacer-evitar-estafa-4275343.jpg?tf=1200x' alt='Alerta si te llaman con el prefijo 621: esto es lo que tienes que hacer para evitar una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-entra-ring-experimento-podria-provocar-giro-180-grados-boxeo-1431136'>La IA entra al ring: este experimento podría provocar un giro de 180 grados en el boxeo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-entra-ring-experimento-podria-provocar-giro-180-grados-boxeo-1431136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-entra-ring-experimento-podria-provocar-giro-180-grados-boxeo-4275296.jpg?tf=1200x' alt='La IA entra al ring: este experimento podría provocar un giro de 180 grados en el boxeo' />
     </a>
 </div>
 
