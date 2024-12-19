@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-1431094'>Movistar responde al cabreo de los usuarios por eliminar 14 canales de golpe</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-1431094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-4275267.jpg?tf=1200x' alt='Movistar responde al cabreo de los usuarios por eliminar 14 canales de golpe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fallo-tesla-model-3-highland-denuncian-usuarios-espanoles-1431113'>Este es el fallo del Tesla Model 3 Highland que denuncian los usuarios españoles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fallo-tesla-model-3-highland-denuncian-usuarios-espanoles-1431113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fallos-coche-tesla-4275246.jpg?tf=1200x' alt='Este es el fallo del Tesla Model 3 Highland que denuncian los usuarios españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045'>Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-rusia-ni-eeuu-china-rompe-brutal-record-tecnologia-cuantica-ordenador-504-cubits-1431045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ordenador-cuantico-3269479.jpg?tf=1200x' alt='Ni Rusia ni EEUU, China rompe un brutal récord en tecnología cuántica con su ordenador de 504 cúbits' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-va-rebajas-nuevo-pixel-9-ahora-200-euros-barato-1430856'>Google se va de rebajas: el nuevo Pixel 9 es ahora 200 euros más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-va-rebajas-nuevo-pixel-9-ahora-200-euros-barato-1430856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-pixel-9-4274718.jpg?tf=1200x' alt='Google se va de rebajas: el nuevo Pixel 9 es ahora 200 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/como-poner-chatgpt-whatsapp-telefono-debes-anadir-como-contacto-1431120'>Cómo poner ChatGPT en WhatsApp: este es el teléfono que debes añadir como contacto</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/como-poner-chatgpt-whatsapp-telefono-debes-anadir-como-contacto-1431120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/chatgpt-4243002.jpg?tf=1200x' alt='Cómo poner ChatGPT en WhatsApp: este es el teléfono que debes añadir como contacto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-plan-suscripcion-iphone-apple-abandona-idea-antes-sacarlo-luz-1431054'>Adiós al plan de suscripción de iPhone: Apple abandona esta idea antes de sacarlo a la luz</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-plan-suscripcion-iphone-apple-abandona-idea-antes-sacarlo-luz-1431054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-plan-suscripcion-iphone-apple-abandona-idea-antes-sacarlo-luz-4275202.jpg?tf=1200x' alt='Adiós al plan de suscripción de iPhone: Apple abandona esta idea antes de sacarlo a la luz' />
     </a>
 </div>
 
