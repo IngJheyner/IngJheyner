@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-programar-mensajes-directos-instagram-paso-paso-1430880'>Así es como puedes programar tus mensajes directos en Instagram paso a paso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-programar-mensajes-directos-instagram-paso-paso-1430880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-puedes-programar-mensajes-directos-instagram-paso-paso-4274833.jpg?tf=1200x' alt='Así es como puedes programar tus mensajes directos en Instagram paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-pone-navidena-espectacular-corona-cosmica-parece-adorno-1430825'>La NASA se pone navideña: así es la espectacular corona cósmica que parece un adorno</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-pone-navidena-espectacular-corona-cosmica-parece-adorno-1430825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-pone-navidena-espectacular-corona-cosmica-parece-adorno-4274713.jpg?tf=1200x' alt='La NASA se pone navideña: así es la espectacular corona cósmica que parece un adorno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-superinteligente-sera-incontrolable-aviso-experto-chatgpt-1430841'>"La IA superinteligente será incontrolable": el aviso del experto tras ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-superinteligente-sera-incontrolable-aviso-experto-chatgpt-1430841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-4274789.jpg?tf=1200x' alt='"La IA superinteligente será incontrolable": el aviso del experto tras ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/soy-experto-tecnologia-estos-son-5-gadgets-te-recomiendo-te-haran-vida-facil-1420109'>Soy experto en tecnología: estos son los 5 gadgets que te recomiendo y que te harán la vida más fácil</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/soy-experto-tecnologia-estos-son-5-gadgets-te-recomiendo-te-haran-vida-facil-1420109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/dispositivos-hacer-vida-facil-4264151.jpg?tf=1200x' alt='Soy experto en tecnología: estos son los 5 gadgets que te recomiendo y que te harán la vida más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-pro-ideal-buscas-mayor-pantalla-bateria-infinita-pero-no-perfecta-1430204'>He probado la Xiaomi Smart Band 9 Pro y es ideal si buscas mayor pantalla y batería infinita, pero no es perfecta</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-smart-band-9-pro-ideal-buscas-mayor-pantalla-bateria-infinita-pero-no-perfecta-1430204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/xiaomi-smart-band-9-pro-4274386.jpg?tf=1200x' alt='He probado la Xiaomi Smart Band 9 Pro y es ideal si buscas mayor pantalla y batería infinita, pero no es perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/aerogenerador-mas-grande-mundo-cambiar-microclima-local-1431026'>El aerogenerador más grande del mundo ya está en funcionamiento y es capaz de cambiar el microclima local</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/aerogenerador-mas-grande-mundo-cambiar-microclima-local-1431026' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/aerogenerador-grande-mundo-ya-funcionamiento-capaz-cambiar-microclima-local-4275101.jpg?tf=1200x' alt='El aerogenerador más grande del mundo ya está en funcionamiento y es capaz de cambiar el microclima local' />
     </a>
 </div>
 
