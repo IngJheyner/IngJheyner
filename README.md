@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/cancelan-primer-servicio-autobus-conductor-culpa-pasajeros-1431025'>Cancelan el primer servicio de autobús sin conductor por culpa de lo que hacían los pasajeros</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/cancelan-primer-servicio-autobus-conductor-culpa-pasajeros-1431025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cancelan-primer-servicio-autobus-conductor-culpa-hacian-pasajeros-4275084.jpg?tf=1200x' alt='Cancelan el primer servicio de autobús sin conductor por culpa de lo que hacían los pasajeros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-1431009'>Instagram estrena su cámara modo noche, pero no todos los dispositivos Android lo tendrán</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-1431009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-4275077.jpg?tf=1200x' alt='Instagram estrena su cámara modo noche, pero no todos los dispositivos Android lo tendrán' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-advierte-peligro-1431005'>Paul McCartney se emociona con la nueva canción de los Beatles hecha con IA, pero advierte de que "podría tomar el control"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-advierte-peligro-1431005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/paul-mccartney-emociona-nueva-cancion-beatles-hecha-ia-pero-advierte-podria-tomar-control-4275056.jpg?tf=1200x' alt='Paul McCartney se emociona con la nueva canción de los Beatles hecha con IA, pero advierte de que "podría tomar el control"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/xiaomi-actualizacion-android-15-android-auto-deja-funcionar-1430996'>Xiaomi y la actualización de Android 15: Android Auto deja de funcionar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/xiaomi-actualizacion-android-15-android-auto-deja-funcionar-1430996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-xiaomi-4275051.jpg?tf=1200x' alt='Xiaomi y la actualización de Android 15: Android Auto deja de funcionar' />
     </a>
 </div>
 
