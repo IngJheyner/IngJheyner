@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-1431009'>Instagram estrena su cámara modo noche, pero no todos los dispositivos Android lo tendrán</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-1431009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/instagram-estrena-camara-modo-noche-pero-no-todos-dispositivos-android-tendran-4275077.jpg?tf=1200x' alt='Instagram estrena su cámara modo noche, pero no todos los dispositivos Android lo tendrán' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012'>El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-napoles-1431012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/peligro-descargar-listas-iptv-ciegas-desmantelan-red-iptv-ilegal-acceso-contenido-pedofilo-4275069.jpg?tf=1200x' alt='El peligro de descargar listas IPTV a ciegas: desmantelan una red IPTV ilegal con acceso a contenido pedófilo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/xiaomi-actualizacion-android-15-android-auto-deja-funcionar-1430996'>Xiaomi y la actualización de Android 15: Android Auto deja de funcionar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/xiaomi-actualizacion-android-15-android-auto-deja-funcionar-1430996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-xiaomi-4275051.jpg?tf=1200x' alt='Xiaomi y la actualización de Android 15: Android Auto deja de funcionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-actualiza-gafas-ray-ban-ia-traducciones-tiempo-real-shazam-integrado-1430995'>Meta actualiza sus gafas Ray-Ban con IA: traducciones en tiempo real y Shazam integrado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-actualiza-gafas-ray-ban-ia-traducciones-tiempo-real-shazam-integrado-1430995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-gafas-ray-ban-meta-llega-espana-pero-falta-mejor-funcion-4263341.jpg?tf=1200x' alt='Meta actualiza sus gafas Ray-Ban con IA: traducciones en tiempo real y Shazam integrado' />
     </a>
 </div>
 
