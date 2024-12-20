@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/como-gestionar-compartir-contrasenas-google-chrome-manera-segura-practica-1431375'>Cómo gestionar y compartir tus contraseñas en Google Chrome de manera segura y práctica</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/como-gestionar-compartir-contrasenas-google-chrome-manera-segura-practica-1431375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4264099.jpg?tf=1200x' alt='Cómo gestionar y compartir tus contraseñas en Google Chrome de manera segura y práctica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/google-vende-smartwatch-no-envidia-nada-apple-watch-ademas-cuesta-70-euros-menos-amazon-1431072'>Google vende un smartwatch que no envidia nada al Apple Watch, y además cuesta 70 euros menos en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/google-vende-smartwatch-no-envidia-nada-apple-watch-ademas-cuesta-70-euros-menos-amazon-1431072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-watch-3-4114862.jpg?tf=1200x' alt='Google vende un smartwatch que no envidia nada al Apple Watch, y además cuesta 70 euros menos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/creador-juego-calamar-confiesa-sentirse-superado-exito-serie-netflix-estoy-harto-mi-vida-1431392'>El creador de El juego del calamar confiesa sentirse superado con el éxito de la serie de Netflix: "Estoy harto de mi vida"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/creador-juego-calamar-confiesa-sentirse-superado-exito-serie-netflix-estoy-harto-mi-vida-1431392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/creador-juego-calamar-confiesa-sentirse-superado-exito-serie-netflix-estoy-harto-mi-vida-4275676.jpg?tf=1200x' alt='El creador de El juego del calamar confiesa sentirse superado con el éxito de la serie de Netflix: "Estoy harto de mi vida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/catl-ha-disenado-bateria-recupera-100-autonomia-solo-minuto-1431360'>CATL ha diseñado una batería que recupera el 100% de la autonomía en solo un minuto</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/catl-ha-disenado-bateria-recupera-100-autonomia-solo-minuto-1431360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/catl-ha-disenado-bateria-recupera-100-autonomia-solo-minuto-4275662.jpg?tf=1200x' alt='CATL ha diseñado una batería que recupera el 100% de la autonomía en solo un minuto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-autobuses-madrid-va-ser-movilidad-futuro-1431318'>La Inteligencia Artificial llega a los autobuses de Madrid: así va a ser la movilidad del futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-autobuses-madrid-va-ser-movilidad-futuro-1431318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/transporte-inteligente-4275637.jpg?tf=1200x' alt='La Inteligencia Artificial llega a los autobuses de Madrid: así va a ser la movilidad del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/union-europea-pone-apple-cuerdas-acabo-jardin-vallado-iphone-1431353'>La Unión Europea pone a Apple contra las cuerdas: ¿Se acabó el jardín vallado del iPhone? </a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/union-europea-pone-apple-cuerdas-acabo-jardin-vallado-iphone-1431353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='La Unión Europea pone a Apple contra las cuerdas: ¿Se acabó el jardín vallado del iPhone? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-ciberseguridad-hackers-criptomonedas-suplantan-marcas-reales-x-estafar-youtubers-1431328'>Adiós a la ciberseguridad: hackers de criptomonedas suplantan marcas reales en X para estafar a youtubers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-ciberseguridad-hackers-criptomonedas-suplantan-marcas-reales-x-estafar-youtubers-1431328' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-criptomoneadas-estan-estafando-youtubers-haciendose-pasar-marcas-reales-x-4275623.jpg?tf=1200x' alt='Adiós a la ciberseguridad: hackers de criptomonedas suplantan marcas reales en X para estafar a youtubers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-va-openai-lanza-gemini-20-flash-thinking-propia-ia-capaz-razonar-1431336'>Google va a por OpenAI: lanza Gemini 2.0 Flash Thinking, su propia IA capaz de razonar</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-va-openai-lanza-gemini-20-flash-thinking-propia-ia-capaz-razonar-1431336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-va-openai-4275614.jpg?tf=1200x' alt='Google va a por OpenAI: lanza Gemini 2.0 Flash Thinking, su propia IA capaz de razonar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327'>Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-3093098.jpg?tf=1200x' alt='Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos' />
     </a>
 </div>
 
