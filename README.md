@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-1431465'>Llevar cuernos de reno en el coche: la DGT responde cuánto podría costarte la multa</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-1431465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-4275838.jpg?tf=1200x' alt='Llevar cuernos de reno en el coche: la DGT responde cuánto podría costarte la multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-revela-cual-sera-gran-revolucion-2025-seguro-alegra-dia-elon-musk-1431451'>Bill Gates revela cuál será la gran revolución de 2025 y seguro que alegra el día a Elon Musk </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-revela-cual-sera-gran-revolucion-2025-seguro-alegra-dia-elon-musk-1431451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vestir-siempre-igual-tiene-ventajas-celebridades-como-bill-gates-tienen-claro-3294183.jpg?tf=1200x' alt='Bill Gates revela cuál será la gran revolución de 2025 y seguro que alegra el día a Elon Musk ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/adios-ir-cine-android-auto-tiene-funcion-secreta-convertir-coche-autocine-1431437'>Adiós a ir al cine: Android Auto tiene una función secreta para convertir tu coche en un autocine</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/adios-ir-cine-android-auto-tiene-funcion-secreta-convertir-coche-autocine-1431437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-cambiar-vista-android-auto-3851905.jpg?tf=1200x' alt='Adiós a ir al cine: Android Auto tiene una función secreta para convertir tu coche en un autocine' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/figure-02-segundo-robot-humanoide-ha-conseguido-empleo-1431397'>Figure 02: el segundo robot humanoide que ha conseguido un empleo </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/figure-02-segundo-robot-humanoide-ha-conseguido-empleo-1431397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/figure-02-4275782.jpg?tf=1200x' alt='Figure 02: el segundo robot humanoide que ha conseguido un empleo ' />
     </a>
 </div>
 
