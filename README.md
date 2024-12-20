@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-autobuses-madrid-va-ser-movilidad-futuro-1431318'>La Inteligencia Artificial llega a los autobuses de Madrid: así va a ser la movilidad del futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-autobuses-madrid-va-ser-movilidad-futuro-1431318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/transporte-inteligente-4275637.jpg?tf=1200x' alt='La Inteligencia Artificial llega a los autobuses de Madrid: así va a ser la movilidad del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/union-europea-pone-apple-cuerdas-acabo-jardin-vallado-iphone-1431353'>La Unión Europea pone a Apple contra las cuerdas: ¿Se acabó el jardín vallado del iPhone? </a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/union-europea-pone-apple-cuerdas-acabo-jardin-vallado-iphone-1431353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/union-europea-multa-apple-1840-millones-euros-denuncia-spotify-3283253.jpg?tf=1200x' alt='La Unión Europea pone a Apple contra las cuerdas: ¿Se acabó el jardín vallado del iPhone? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-ciberseguridad-hackers-criptomonedas-suplantan-marcas-reales-x-estafar-youtubers-1431328'>Adiós a la ciberseguridad: hackers de criptomonedas suplantan marcas reales en X para estafar a youtubers</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-ciberseguridad-hackers-criptomonedas-suplantan-marcas-reales-x-estafar-youtubers-1431328' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-criptomoneadas-estan-estafando-youtubers-haciendose-pasar-marcas-reales-x-4275623.jpg?tf=1200x' alt='Adiós a la ciberseguridad: hackers de criptomonedas suplantan marcas reales en X para estafar a youtubers' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327'>Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-3093098.jpg?tf=1200x' alt='Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-caracteristicas-revelan-alto-nivel-inteligencia-persona-inteligencia-artificial-1431141'>Tres características que revelan un alto nivel de inteligencia en una persona, según la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tres-caracteristicas-revelan-alto-nivel-inteligencia-persona-inteligencia-artificial-1431141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-4275329.jpg?tf=1200x' alt='Tres características que revelan un alto nivel de inteligencia en una persona, según la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/truco-secreto-iphone-nieve-pantalla-movil-navidad-1431189'>El truco secreto en iPhone para que nieve en la pantalla de tu móvil esta Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/truco-secreto-iphone-nieve-pantalla-movil-navidad-1431189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-secreto-iphone-nieve-pantalla-movil-navidad-4275363.jpg?tf=1200x' alt='El truco secreto en iPhone para que nieve en la pantalla de tu móvil esta Navidad' />
     </a>
 </div>
 
