@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-traduccion-audio-tiempo-real-copilot-1431299'>Windows 11 estrena la traducción de audio en tiempo real, pero tiene truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-traduccion-audio-tiempo-real-copilot-1431299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-estrena-traduccion-tiempo-real-cualquier-audio-pero-tiene-truco-4275562.jpg?tf=1200x' alt='Windows 11 estrena la traducción de audio en tiempo real, pero tiene truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-barato-regalaria-rapido-buena-pantalla-apenas-200-euros-1431056'>Este es el móvil barato que regalaría: es rápido, con buena pantalla y por apenas 200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movil-barato-regalaria-rapido-buena-pantalla-apenas-200-euros-1431056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Este es el móvil barato que regalaría: es rápido, con buena pantalla y por apenas 200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-tendran-esperar-volver-casa-1431295'>Parece una broma, pero no lo es: los astronautas "náufragos" tendrán que esperar aún más para volver a casa</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-tendran-esperar-volver-casa-1431295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-broma-pero-no-astronautas-naufragos-tendran-esperar-aun-volver-casa-4275534.jpg?tf=1200x' alt='Parece una broma, pero no lo es: los astronautas "náufragos" tendrán que esperar aún más para volver a casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261'>Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/escuchado-2024-suena-spotify-consolas-coches-altavoces-inteligentes-1431260'>Lo más escuchado en 2024: así suena Spotify en consolas, coches y altavoces inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/escuchado-2024-suena-spotify-consolas-coches-altavoces-inteligentes-1431260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/spotify-coche-4275499.jpg?tf=1200x' alt='Lo más escuchado en 2024: así suena Spotify en consolas, coches y altavoces inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-detiene-windows-11-24h2-solucionar-problemas-juegos-audio-1431257'>Microsoft detiene Windows 11 24H2 para solucionar los problemas en juegos y audio</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-detiene-windows-11-24h2-solucionar-problemas-juegos-audio-1431257' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-problemas-sonido-juegos-4275497.jpg?tf=1200x' alt='Microsoft detiene Windows 11 24H2 para solucionar los problemas en juegos y audio' />
     </a>
 </div>
 
