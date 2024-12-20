@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/buscador-google-boton-ia-pedir-ayuda-gemini-1431534'>El buscador de Google va a incluir un Modo IA para pedir ayuda a Gemini</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/buscador-google-boton-ia-pedir-ayuda-gemini-1431534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-google-va-incluir-modo-ia-pedir-ayuda-gemini-4275910.jpg?tf=1200x' alt='El buscador de Google va a incluir un Modo IA para pedir ayuda a Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528'>¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taller-reparacion-4275916.jpg?tf=1200x' alt='¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-1431507'>Microsoft sorprende a los usuarios de Windows 11 con publicidad disfrazada de notificaciones en el escritorio</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-1431507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-4275911.jpg?tf=1200x' alt='Microsoft sorprende a los usuarios de Windows 11 con publicidad disfrazada de notificaciones en el escritorio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cuanto-deberias-ahorrar-mes-metodo-50-20-30-tiene-respuesta-1431525'>¿Cuánto deberías ahorrar al mes? El método 50-20-30 tiene la respuesta</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cuanto-deberias-ahorrar-mes-metodo-50-20-30-tiene-respuesta-1431525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ahorros-4275913.jpg?tf=1200x' alt='¿Cuánto deberías ahorrar al mes? El método 50-20-30 tiene la respuesta' />
     </a>
 </div>
 
