@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-traduccion-audio-tiempo-real-copilot-1431299'>Windows 11 estrena la traducción de audio en tiempo real, pero tiene truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-traduccion-audio-tiempo-real-copilot-1431299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-estrena-traduccion-tiempo-real-cualquier-audio-pero-tiene-truco-4275562.jpg?tf=1200x' alt='Windows 11 estrena la traducción de audio en tiempo real, pero tiene truco' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-whatsapp-pueden-clonar-numero-como-detectarlo-segundos-1431137'>Alerta en WhatsApp: así pueden clonar tu número y cómo detectarlo en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-whatsapp-pueden-clonar-numero-como-detectarlo-segundos-1431137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pueden-clonar-numero-whatsapp-como-detectarlo-segundos-4275298.jpg?tf=1200x' alt='Alerta en WhatsApp: así pueden clonar tu número y cómo detectarlo en segundos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-barato-regalaria-rapido-buena-pantalla-apenas-200-euros-1431056'>Este es el móvil barato que regalaría: es rápido, con buena pantalla y por apenas 200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movil-barato-regalaria-rapido-buena-pantalla-apenas-200-euros-1431056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/poco-x6-pro-3260018.jpg?tf=1200x' alt='Este es el móvil barato que regalaría: es rápido, con buena pantalla y por apenas 200 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-tiene-problema-jovenes-china-tampoco-van-ya-cine-1431177'>Hollywood tiene un problema: los jóvenes de China tampoco van ya al cine</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/hollywood-tiene-problema-jovenes-china-tampoco-van-ya-cine-1431177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hollywood-tiene-problema-jovenes-china-tampoco-van-ya-cine-4275351.jpg?tf=1200x' alt='Hollywood tiene un problema: los jóvenes de China tampoco van ya al cine' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-tendran-esperar-volver-casa-1431295'>Parece una broma, pero no lo es: los astronautas "náufragos" tendrán que esperar aún más para volver a casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-tendran-esperar-volver-casa-1431295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-broma-pero-no-astronautas-naufragos-tendran-esperar-aun-volver-casa-4275534.jpg?tf=1200x' alt='Parece una broma, pero no lo es: los astronautas "náufragos" tendrán que esperar aún más para volver a casa' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/panaderia-utiliza-commodore-64-1982-como-caja-registradora-1431303'>Ni IA ni la nube: esta panadería utiliza un Commodore 64 de 1982 como caja registradora</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/panaderia-utiliza-commodore-64-1982-como-caja-registradora-1431303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ia-ni-nube-tienda-donuts-utiliza-commodore-64-1982-como-caja-registradora-4275570.jpg?tf=1200x' alt='Ni IA ni la nube: esta panadería utiliza un Commodore 64 de 1982 como caja registradora' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-publica-correos-elon-musk-denuncia-1431279'>Giro de 180 grados en la denuncia de Elon Musk: OpenAI publica correos en donde pedía justo lo que critica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-publica-correos-elon-musk-denuncia-1431279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-denuncia-elon-musk-openai-publica-correos-donde-pedia-justo-denuncia-4275531.jpg?tf=1200x' alt='Giro de 180 grados en la denuncia de Elon Musk: OpenAI publica correos en donde pedía justo lo que critica' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/pulsera-me-ha-parecido-mejor-cualquier-smartwatch-carga-vez-mes-1430208'>Esta pulsera me ha parecido mejor que cualquier smartwatch y se carga una vez al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/pulsera-me-ha-parecido-mejor-cualquier-smartwatch-carga-vez-mes-1430208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/xiaomi-smart-band-9-pro-4274411.jpg?tf=1200x' alt='Esta pulsera me ha parecido mejor que cualquier smartwatch y se carga una vez al mes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261'>Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-s24-fe-me-ha-encantado-tener-mismas-funciones-ia-modelos-superiores-1430886'>He probado el Samsung Galaxy S24 FE y me ha encantado tener las mismas funciones de IA que en los modelos superiores</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-samsung-galaxy-s24-fe-me-ha-encantado-tener-mismas-funciones-ia-modelos-superiores-1430886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-s24-fe-4274902.jpg?tf=1200x' alt='He probado el Samsung Galaxy S24 FE y me ha encantado tener las mismas funciones de IA que en los modelos superiores' />
     </a>
 </div>
 
