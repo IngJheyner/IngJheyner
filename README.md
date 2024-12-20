@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-1431490'>Apple se alía con estas aerolíneas para que nunca más pierdas tu maleta gracias al AirTag</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-1431490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-4275883.jpg?tf=1200x' alt='Apple se alía con estas aerolíneas para que nunca más pierdas tu maleta gracias al AirTag' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-altavoz-inteligente-alexa-19-euros-1431374'>No es un error: Amazon vende un altavoz inteligente con Alexa por 19 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-altavoz-inteligente-alexa-19-euros-1431374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/echo-pop-4275604.jpg?tf=1200x' alt='No es un error: Amazon vende un altavoz inteligente con Alexa por 19 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/roja-directa-condenada-pagar-316-millones-mediapro-emitir-ilegalmente-partidos-futbol-1431435'>Roja Directa condenada a pagar 31,6 millones a Mediapro por emitir ilegalmente partidos de fútbol</a></h4>
     <a href='https://computerhoy.20minutos.es/life/roja-directa-condenada-pagar-316-millones-mediapro-emitir-ilegalmente-partidos-futbol-1431435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='Roja Directa condenada a pagar 31,6 millones a Mediapro por emitir ilegalmente partidos de fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-tiene-plan-mantener-presencia-humana-espacio-destruccion-estacion-espacial-internacional-1431438'>La NASA tiene un plan para mantener la presencia humana en el espacio tras la destrucción de la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-tiene-plan-mantener-presencia-humana-espacio-destruccion-estacion-espacial-internacional-1431438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-4090719.jpg?tf=1200x' alt='La NASA tiene un plan para mantener la presencia humana en el espacio tras la destrucción de la Estación Espacial Internacional' />
     </a>
 </div>
 
