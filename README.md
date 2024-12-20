@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380'>Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-1431507'>Microsoft sorprende a los usuarios de Windows 11 con publicidad disfrazada de notificaciones en el escritorio</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-1431507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-4275911.jpg?tf=1200x' alt='Microsoft sorprende a los usuarios de Windows 11 con publicidad disfrazada de notificaciones en el escritorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cuanto-deberias-ahorrar-mes-metodo-50-20-30-tiene-respuesta-1431525'>¿Cuánto deberías ahorrar al mes? El método 50-20-30 tiene la respuesta</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cuanto-deberias-ahorrar-mes-metodo-50-20-30-tiene-respuesta-1431525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ahorros-4275913.jpg?tf=1200x' alt='¿Cuánto deberías ahorrar al mes? El método 50-20-30 tiene la respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/donde-ver-todas-peliculas-nominadas-goya-2025-netflix-movistar-filmin-1431515'>Dónde ver todas las películas nominadas a los Goya 2025: Netflix, Movistar, Filmin y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/donde-ver-todas-peliculas-nominadas-goya-2025-netflix-movistar-filmin-1431515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/donde-ver-todas-peliculas-nominadas-goya-2025-netflix-movistar-filmin-4275897.jpg?tf=1200x' alt='Dónde ver todas las películas nominadas a los Goya 2025: Netflix, Movistar, Filmin y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-1431490'>Apple se alía con estas aerolíneas para que nunca más pierdas tu maleta gracias al AirTag</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-1431490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-4275883.jpg?tf=1200x' alt='Apple se alía con estas aerolíneas para que nunca más pierdas tu maleta gracias al AirTag' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-altavoz-inteligente-alexa-19-euros-1431374'>No es un error: Amazon vende un altavoz inteligente con Alexa por 19 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-altavoz-inteligente-alexa-19-euros-1431374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/echo-pop-4275604.jpg?tf=1200x' alt='No es un error: Amazon vende un altavoz inteligente con Alexa por 19 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-1431465'>Llevar cuernos de reno en el coche: la DGT responde cuánto podría costarte la multa</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-1431465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-4275838.jpg?tf=1200x' alt='Llevar cuernos de reno en el coche: la DGT responde cuánto podría costarte la multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-revela-cual-sera-gran-revolucion-2025-seguro-alegra-dia-elon-musk-1431451'>Bill Gates revela cuál será la gran revolución de 2025 y seguro que alegra el día a Elon Musk </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-revela-cual-sera-gran-revolucion-2025-seguro-alegra-dia-elon-musk-1431451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vestir-siempre-igual-tiene-ventajas-celebridades-como-bill-gates-tienen-claro-3294183.jpg?tf=1200x' alt='Bill Gates revela cuál será la gran revolución de 2025 y seguro que alegra el día a Elon Musk ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/roja-directa-condenada-pagar-316-millones-mediapro-emitir-ilegalmente-partidos-futbol-1431435'>Roja Directa condenada a pagar 31,6 millones a Mediapro por emitir ilegalmente partidos de fútbol</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/roja-directa-condenada-pagar-316-millones-mediapro-emitir-ilegalmente-partidos-futbol-1431435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='Roja Directa condenada a pagar 31,6 millones a Mediapro por emitir ilegalmente partidos de fútbol' />
     </a>
 </div>
 
