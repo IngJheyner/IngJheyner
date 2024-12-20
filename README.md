@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/figure-02-segundo-robot-humanoide-ha-conseguido-empleo-1431397'>Figure 02: el segundo robot humanoide que ha conseguido un empleo </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/figure-02-segundo-robot-humanoide-ha-conseguido-empleo-1431397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/figure-02-4275782.jpg?tf=1200x' alt='Figure 02: el segundo robot humanoide que ha conseguido un empleo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-primer-cohete-espanol-podria-competir-spacex-elon-musk-1431414'>Así es MIURA 5, el primer cohete español que podría competir con SpaceX de Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/miura-5-primer-cohete-espanol-podria-competir-spacex-elon-musk-1431414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/miura-5-primer-cohete-espanol-podria-competir-spacex-elon-musk-4275719.jpg?tf=1200x' alt='Así es MIURA 5, el primer cohete español que podría competir con SpaceX de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/conductor-tesla-sorprende-compartir-factura-electricidad-instalar-cargador-casa-1431420'>Un conductor de Tesla sorprende al compartir su factura de electricidad tras instalar un cargador en casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/conductor-tesla-sorprende-compartir-factura-electricidad-instalar-cargador-casa-1431420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/cargador-tesla-2554861.jpg?tf=1200x' alt='Un conductor de Tesla sorprende al compartir su factura de electricidad tras instalar un cargador en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/alerta-gmail-recibes-estos-correos-borralos-inmediato-1431405'>Alerta en Gmail: si recibes estos correos bórralos de inmediato</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/alerta-gmail-recibes-estos-correos-borralos-inmediato-1431405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/gmail-funciona-aterradora-peligrosa-estafa-10-segundos-4266881.jpg?tf=1200x' alt='Alerta en Gmail: si recibes estos correos bórralos de inmediato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/como-gestionar-compartir-contrasenas-google-chrome-manera-segura-practica-1431375'>Cómo gestionar y compartir tus contraseñas en Google Chrome de manera segura y práctica</a></h4>
     <a href='https://computerhoy.20minutos.es/google/como-gestionar-compartir-contrasenas-google-chrome-manera-segura-practica-1431375' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-4264099.jpg?tf=1200x' alt='Cómo gestionar y compartir tus contraseñas en Google Chrome de manera segura y práctica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/google-vende-smartwatch-no-envidia-nada-apple-watch-ademas-cuesta-70-euros-menos-amazon-1431072'>Google vende un smartwatch que no envidia nada al Apple Watch, y además cuesta 70 euros menos en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/google-vende-smartwatch-no-envidia-nada-apple-watch-ademas-cuesta-70-euros-menos-amazon-1431072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-pixel-watch-3-4114862.jpg?tf=1200x' alt='Google vende un smartwatch que no envidia nada al Apple Watch, y además cuesta 70 euros menos en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/creador-juego-calamar-confiesa-sentirse-superado-exito-serie-netflix-estoy-harto-mi-vida-1431392'>El creador de El juego del calamar confiesa sentirse superado con el éxito de la serie de Netflix: "Estoy harto de mi vida"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/creador-juego-calamar-confiesa-sentirse-superado-exito-serie-netflix-estoy-harto-mi-vida-1431392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/creador-juego-calamar-confiesa-sentirse-superado-exito-serie-netflix-estoy-harto-mi-vida-4275676.jpg?tf=1200x' alt='El creador de El juego del calamar confiesa sentirse superado con el éxito de la serie de Netflix: "Estoy harto de mi vida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/catl-ha-disenado-bateria-recupera-100-autonomia-solo-minuto-1431360'>CATL ha diseñado una batería que recupera el 100% de la autonomía en solo un minuto</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/catl-ha-disenado-bateria-recupera-100-autonomia-solo-minuto-1431360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/catl-ha-disenado-bateria-recupera-100-autonomia-solo-minuto-4275662.jpg?tf=1200x' alt='CATL ha diseñado una batería que recupera el 100% de la autonomía en solo un minuto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-autobuses-madrid-va-ser-movilidad-futuro-1431318'>La Inteligencia Artificial llega a los autobuses de Madrid: así va a ser la movilidad del futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-autobuses-madrid-va-ser-movilidad-futuro-1431318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/transporte-inteligente-4275637.jpg?tf=1200x' alt='La Inteligencia Artificial llega a los autobuses de Madrid: así va a ser la movilidad del futuro' />
     </a>
 </div>
 
