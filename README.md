@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-altavoz-inteligente-alexa-19-euros-1431374'>No es un error: Amazon vende un altavoz inteligente con Alexa por 19 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-error-amazon-vende-altavoz-inteligente-alexa-19-euros-1431374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/echo-pop-4275604.jpg?tf=1200x' alt='No es un error: Amazon vende un altavoz inteligente con Alexa por 19 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-1431465'>Llevar cuernos de reno en el coche: la DGT responde cuánto podría costarte la multa</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-1431465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevar-cuernos-reno-coche-dgt-responde-cuanto-podria-costarte-multa-4275838.jpg?tf=1200x' alt='Llevar cuernos de reno en el coche: la DGT responde cuánto podría costarte la multa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-tiene-plan-mantener-presencia-humana-espacio-destruccion-estacion-espacial-internacional-1431438'>La NASA tiene un plan para mantener la presencia humana en el espacio tras la destrucción de la Estación Espacial Internacional</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-tiene-plan-mantener-presencia-humana-espacio-destruccion-estacion-espacial-internacional-1431438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/astronautas-starliner-estan-escuchando-ruidos-extranos-interior-iss-4090719.jpg?tf=1200x' alt='La NASA tiene un plan para mantener la presencia humana en el espacio tras la destrucción de la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/adios-ir-cine-android-auto-tiene-funcion-secreta-convertir-coche-autocine-1431437'>Adiós a ir al cine: Android Auto tiene una función secreta para convertir tu coche en un autocine</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/adios-ir-cine-android-auto-tiene-funcion-secreta-convertir-coche-autocine-1431437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-cambiar-vista-android-auto-3851905.jpg?tf=1200x' alt='Adiós a ir al cine: Android Auto tiene una función secreta para convertir tu coche en un autocine' />
     </a>
 </div>
 
