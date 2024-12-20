@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-ciberseguridad-hackers-criptomonedas-suplantan-marcas-reales-x-estafar-youtubers-1431328'>Adiós a la ciberseguridad: hackers de criptomonedas suplantan marcas reales en X para estafar a youtubers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-ciberseguridad-hackers-criptomonedas-suplantan-marcas-reales-x-estafar-youtubers-1431328' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/hackers-criptomoneadas-estan-estafando-youtubers-haciendose-pasar-marcas-reales-x-4275623.jpg?tf=1200x' alt='Adiós a la ciberseguridad: hackers de criptomonedas suplantan marcas reales en X para estafar a youtubers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-va-openai-lanza-gemini-20-flash-thinking-propia-ia-capaz-razonar-1431336'>Google va a por OpenAI: lanza Gemini 2.0 Flash Thinking, su propia IA capaz de razonar</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-va-openai-lanza-gemini-20-flash-thinking-propia-ia-capaz-razonar-1431336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-va-openai-4275614.jpg?tf=1200x' alt='Google va a por OpenAI: lanza Gemini 2.0 Flash Thinking, su propia IA capaz de razonar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327'>Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-3093098.jpg?tf=1200x' alt='Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/truco-secreto-iphone-nieve-pantalla-movil-navidad-1431189'>El truco secreto en iPhone para que nieve en la pantalla de tu móvil esta Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/truco-secreto-iphone-nieve-pantalla-movil-navidad-1431189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-secreto-iphone-nieve-pantalla-movil-navidad-4275363.jpg?tf=1200x' alt='El truco secreto en iPhone para que nieve en la pantalla de tu móvil esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-x200-pro-nuevo-movil-apuesta-casi-todo-fotografia-1431171'>Vivo X200 Pro, el nuevo móvil que lo apuesta casi todo a la fotografía</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vivo-x200-pro-nuevo-movil-apuesta-casi-todo-fotografia-1431171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/vivo-x200-pro-4275352.jpg?tf=1200x' alt='Vivo X200 Pro, el nuevo móvil que lo apuesta casi todo a la fotografía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-684-computer-hoy-1429295'>¡Ya está en tu quiosco el número 684 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-684-computer-hoy-1429295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-684-4273050.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 684 de Computer Hoy!' />
     </a>
 </div>
 
