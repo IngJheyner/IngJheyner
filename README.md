@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-publica-correos-elon-musk-denuncia-1431279'>Giro de 180 grados en la denuncia de Elon Musk: OpenAI publica correos en donde pedía justo lo que critica</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-publica-correos-elon-musk-denuncia-1431279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-denuncia-elon-musk-openai-publica-correos-donde-pedia-justo-denuncia-4275531.jpg?tf=1200x' alt='Giro de 180 grados en la denuncia de Elon Musk: OpenAI publica correos en donde pedía justo lo que critica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261'>Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-sigue-pasos-apple-funcion-adoran-usuarios-iphone-llegara-android-1431261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/administrador-contrasenas-android-4254240.jpg?tf=1200x' alt='Google sigue los pasos de Apple: esta función que adoran los usuarios de iPhone llegará a Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-listas-iptv-1431255'>Un juez da permiso a la LaLiga para espiar las direcciones IP de los usuarios de Ace Stream y sus listas IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-listas-iptv-1431255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-otras-listas-iptv-4275475.jpg?tf=1200x' alt='Un juez da permiso a la LaLiga para espiar las direcciones IP de los usuarios de Ace Stream y sus listas IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/protocolo-l4s-como-va-cambiar-internet-nuevo-1431204'>Qué es el protocolo L4S y cómo va a cambiar Internet de nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/protocolo-l4s-como-va-cambiar-internet-nuevo-1431204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/protocolo-l4s-como-va-cambiar-internet-nuevo-4275460.jpg?tf=1200x' alt='Qué es el protocolo L4S y cómo va a cambiar Internet de nuevo' />
     </a>
 </div>
 
