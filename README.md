@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327'>Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/golpe-worldcoin-tendra-borrar-iris-escaneados-usuarios-europeos-1431327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/worldcoin-como-funciona-merece-pena-ceder-iris-cambio-dinero-3093098.jpg?tf=1200x' alt='Golpe a Worldcoin: tendrá que borrar los iris escaneados de usuarios europeos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tres-caracteristicas-revelan-alto-nivel-inteligencia-persona-inteligencia-artificial-1431141'>Tres características que revelan un alto nivel de inteligencia en una persona, según la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tres-caracteristicas-revelan-alto-nivel-inteligencia-persona-inteligencia-artificial-1431141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ia-4275329.jpg?tf=1200x' alt='Tres características que revelan un alto nivel de inteligencia en una persona, según la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/truco-secreto-iphone-nieve-pantalla-movil-navidad-1431189'>El truco secreto en iPhone para que nieve en la pantalla de tu móvil esta Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/truco-secreto-iphone-nieve-pantalla-movil-navidad-1431189' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-secreto-iphone-nieve-pantalla-movil-navidad-4275363.jpg?tf=1200x' alt='El truco secreto en iPhone para que nieve en la pantalla de tu móvil esta Navidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-684-computer-hoy-1429295'>¡Ya está en tu quiosco el número 684 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-684-computer-hoy-1429295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-684-4273050.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 684 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/hoy-megaconstrucciones-estados-unidos-construira-primera-central-fusion-nuclear-conectada-red-electrica-1431116'>Hoy en megaconstrucciones: Estados Unidos construirá la primera central de fusión nuclear conectada a la red eléctrica</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/hoy-megaconstrucciones-estados-unidos-construira-primera-central-fusion-nuclear-conectada-red-electrica-1431116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/plasma-confinado-tokamak-disenado-energy-singularity-4275303.jpg?tf=1200x' alt='Hoy en megaconstrucciones: Estados Unidos construirá la primera central de fusión nuclear conectada a la red eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-whatsapp-pueden-clonar-numero-como-detectarlo-segundos-1431137'>Alerta en WhatsApp: así pueden clonar tu número y cómo detectarlo en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-whatsapp-pueden-clonar-numero-como-detectarlo-segundos-1431137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/pueden-clonar-numero-whatsapp-como-detectarlo-segundos-4275298.jpg?tf=1200x' alt='Alerta en WhatsApp: así pueden clonar tu número y cómo detectarlo en segundos' />
     </a>
 </div>
 
