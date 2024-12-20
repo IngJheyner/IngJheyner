@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-revela-cual-sera-gran-revolucion-2025-seguro-alegra-dia-elon-musk-1431451'>Bill Gates revela cuál será la gran revolución de 2025 y seguro que alegra el día a Elon Musk </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-revela-cual-sera-gran-revolucion-2025-seguro-alegra-dia-elon-musk-1431451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/vestir-siempre-igual-tiene-ventajas-celebridades-como-bill-gates-tienen-claro-3294183.jpg?tf=1200x' alt='Bill Gates revela cuál será la gran revolución de 2025 y seguro que alegra el día a Elon Musk ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/roja-directa-condenada-pagar-316-millones-mediapro-emitir-ilegalmente-partidos-futbol-1431435'>Roja Directa condenada a pagar 31,6 millones a Mediapro por emitir ilegalmente partidos de fútbol</a></h4>
     <a href='https://computerhoy.20minutos.es/life/roja-directa-condenada-pagar-316-millones-mediapro-emitir-ilegalmente-partidos-futbol-1431435' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/futbol-iptv-3287654.jpg?tf=1200x' alt='Roja Directa condenada a pagar 31,6 millones a Mediapro por emitir ilegalmente partidos de fútbol' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/figure-02-segundo-robot-humanoide-ha-conseguido-empleo-1431397'>Figure 02: el segundo robot humanoide que ha conseguido un empleo </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/figure-02-segundo-robot-humanoide-ha-conseguido-empleo-1431397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/figure-02-4275782.jpg?tf=1200x' alt='Figure 02: el segundo robot humanoide que ha conseguido un empleo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-primer-cohete-espanol-podria-competir-spacex-elon-musk-1431414'>Así es MIURA 5, el primer cohete español que podría competir con SpaceX de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/miura-5-primer-cohete-espanol-podria-competir-spacex-elon-musk-1431414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/miura-5-primer-cohete-espanol-podria-competir-spacex-elon-musk-4275719.jpg?tf=1200x' alt='Así es MIURA 5, el primer cohete español que podría competir con SpaceX de Elon Musk' />
     </a>
 </div>
 
