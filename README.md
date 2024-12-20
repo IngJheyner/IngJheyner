@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528'>¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taller-reparacion-4275916.jpg?tf=1200x' alt='¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mejores-turrones-2024-ocu-clasicos-almendra-triunfan-otros-toda-vida-decepcionan-1431526'>Mejores turrones de 2024 según la OCU: clásicos de almendra que triunfan y otros de toda la vida que decepcionan</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/mejores-turrones-2024-ocu-clasicos-almendra-triunfan-otros-toda-vida-decepcionan-1431526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/turrones-4275915.jpg?tf=1200x' alt='Mejores turrones de 2024 según la OCU: clásicos de almendra que triunfan y otros de toda la vida que decepcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380'>Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cuanto-deberias-ahorrar-mes-metodo-50-20-30-tiene-respuesta-1431525'>¿Cuánto deberías ahorrar al mes? El método 50-20-30 tiene la respuesta</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cuanto-deberias-ahorrar-mes-metodo-50-20-30-tiene-respuesta-1431525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ahorros-4275913.jpg?tf=1200x' alt='¿Cuánto deberías ahorrar al mes? El método 50-20-30 tiene la respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/donde-ver-todas-peliculas-nominadas-goya-2025-netflix-movistar-filmin-1431515'>Dónde ver todas las películas nominadas a los Goya 2025: Netflix, Movistar, Filmin y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/donde-ver-todas-peliculas-nominadas-goya-2025-netflix-movistar-filmin-1431515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/donde-ver-todas-peliculas-nominadas-goya-2025-netflix-movistar-filmin-4275897.jpg?tf=1200x' alt='Dónde ver todas las películas nominadas a los Goya 2025: Netflix, Movistar, Filmin y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-1431490'>Apple se alía con estas aerolíneas para que nunca más pierdas tu maleta gracias al AirTag</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-1431490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-alia-estas-aerolineas-nunca-pierdas-maleta-gracias-airtag-4275883.jpg?tf=1200x' alt='Apple se alía con estas aerolíneas para que nunca más pierdas tu maleta gracias al AirTag' />
     </a>
 </div>
 
