@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-tendran-esperar-volver-casa-1431295'>Parece una broma, pero no lo es: los astronautas "náufragos" tendrán que esperar aún más para volver a casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-tendran-esperar-volver-casa-1431295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-broma-pero-no-astronautas-naufragos-tendran-esperar-aun-volver-casa-4275534.jpg?tf=1200x' alt='Parece una broma, pero no lo es: los astronautas "náufragos" tendrán que esperar aún más para volver a casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-publica-correos-elon-musk-denuncia-1431279'>Giro de 180 grados en la denuncia de Elon Musk: OpenAI publica correos en donde pedía justo lo que critica</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-publica-correos-elon-musk-denuncia-1431279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-denuncia-elon-musk-openai-publica-correos-donde-pedia-justo-denuncia-4275531.jpg?tf=1200x' alt='Giro de 180 grados en la denuncia de Elon Musk: OpenAI publica correos en donde pedía justo lo que critica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-detiene-windows-11-24h2-solucionar-problemas-juegos-audio-1431257'>Microsoft detiene Windows 11 24H2 para solucionar los problemas en juegos y audio</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-detiene-windows-11-24h2-solucionar-problemas-juegos-audio-1431257' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-problemas-sonido-juegos-4275497.jpg?tf=1200x' alt='Microsoft detiene Windows 11 24H2 para solucionar los problemas en juegos y audio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-listas-iptv-1431255'>Un juez da permiso a la LaLiga para espiar las direcciones IP de los usuarios de Ace Stream y sus listas IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-listas-iptv-1431255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juez-da-permiso-laliga-espiar-direcciones-ip-usuarios-ace-stream-otras-listas-iptv-4275475.jpg?tf=1200x' alt='Un juez da permiso a la LaLiga para espiar las direcciones IP de los usuarios de Ace Stream y sus listas IPTV' />
     </a>
 </div>
 
