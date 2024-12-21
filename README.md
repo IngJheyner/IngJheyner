@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-1431596'>Se acabó el clickbait: YouTube borrará vídeos con títulos y miniaturas engañosos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-1431596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-4276019.jpg?tf=1200x' alt='Se acabó el clickbait: YouTube borrará vídeos con títulos y miniaturas engañosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-navidad-disfrutar-familiar-1429342'>Netflix: estas son las mejores películas de Navidad para disfrutar en familiar</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-navidad-disfrutar-familiar-1429342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-estas-son-mejores-peliculas-navidad-disfrutar-familiar-4272204.jpg?tf=1200x' alt='Netflix: estas son las mejores películas de Navidad para disfrutar en familiar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/aliexpress-ataque-deja-pixel-8a-precio-saldo-1431547'>AliExpress, al ataque: deja el Pixel 8a a precio de saldo</a></h4>
     <a href='https://computerhoy.20minutos.es/android/aliexpress-ataque-deja-pixel-8a-precio-saldo-1431547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='AliExpress, al ataque: deja el Pixel 8a a precio de saldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-responde-google-presenta-nuevos-modelos-o3-o3-mini-1431573'>OpenAI responde a Google: presenta sus nuevos modelos o3 y o3 Mini</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-responde-google-presenta-nuevos-modelos-o3-o3-mini-1431573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-4275985.jpg?tf=1200x' alt='OpenAI responde a Google: presenta sus nuevos modelos o3 y o3 Mini' />
     </a>
 </div>
 
