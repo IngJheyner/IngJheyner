@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-ia-encontrar-mejores-descuentos-regalos-navidad-1429378'>Cómo usar IA para encontrar los mejores descuentos en regalos de Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-ia-encontrar-mejores-descuentos-regalos-navidad-1429378' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-usar-ia-encontrar-mejores-descuentos-regalos-navidad-4272289.jpg?tf=1200x' alt='Cómo usar IA para encontrar los mejores descuentos en regalos de Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-casi-me-convence-pero-anbernic-logra-antes-vende-consola-steamos-mucho-barata-1430492'>Steam Deck casi me convence, pero Anbernic lo logra antes: vende una consola con steamOS mucho más barata</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steam-deck-casi-me-convence-pero-anbernic-logra-antes-vende-consola-steamos-mucho-barata-1430492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anbernic-win600-4274143.jpg?tf=1200x' alt='Steam Deck casi me convence, pero Anbernic lo logra antes: vende una consola con steamOS mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevos-datos-demuestran-pc-moviles-ia-no-atraen-ventas-1431537'>Nuevos datos demuestran que los PC y móviles con IA no atraen ventas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevos-datos-demuestran-pc-moviles-ia-no-atraen-ventas-1431537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832327.jpg?tf=1200x' alt='Nuevos datos demuestran que los PC y móviles con IA no atraen ventas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528'>¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taller-reparacion-4275916.jpg?tf=1200x' alt='¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mejores-turrones-2024-ocu-clasicos-almendra-triunfan-otros-toda-vida-decepcionan-1431526'>Mejores turrones de 2024 según la OCU: clásicos de almendra que triunfan y otros de toda la vida que decepcionan</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/mejores-turrones-2024-ocu-clasicos-almendra-triunfan-otros-toda-vida-decepcionan-1431526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/turrones-4275915.jpg?tf=1200x' alt='Mejores turrones de 2024 según la OCU: clásicos de almendra que triunfan y otros de toda la vida que decepcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380'>Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla' />
     </a>
 </div>
 
