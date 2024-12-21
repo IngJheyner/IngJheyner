@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-tranquiliza-usuarios-reciente-polemica-recall-1431617'>Microsoft tranquiliza a los usuarios sobre la reciente polémica con Recall</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-tranquiliza-usuarios-reciente-polemica-recall-1431617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='Microsoft tranquiliza a los usuarios sobre la reciente polémica con Recall' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-certificacion-confirma-nuevos-tamanos-samsung-galaxy-ring-estan-cerca-nunca-1431616'>Esta nueva certificación confirma que los nuevos tamaños del Samsung Galaxy Ring están más cerca que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nueva-certificacion-confirma-nuevos-tamanos-samsung-galaxy-ring-estan-cerca-nunca-1431616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247297.jpg?tf=1200x' alt='Esta nueva certificación confirma que los nuevos tamaños del Samsung Galaxy Ring están más cerca que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-edge-insiste-aparecen-nuevas-ventanas-emergentes-configurarlo-como-navegador-predeterminado-windows-11-1431601'>Microsoft Edge insiste: aparecen nuevas ventanas emergentes para configurarlo como navegador predeterminado en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-edge-insiste-aparecen-nuevas-ventanas-emergentes-configurarlo-como-navegador-predeterminado-windows-11-1431601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-edge-windows-11-4276024.jpg?tf=1200x' alt='Microsoft Edge insiste: aparecen nuevas ventanas emergentes para configurarlo como navegador predeterminado en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-automotive-mejora-soporte-multiusuario-diseno-multimedia-renovado-1431599'>Android Automotive mejora con soporte multiusuario y diseño multimedia renovado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-automotive-mejora-soporte-multiusuario-diseno-multimedia-renovado-1431599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg?tf=1200x' alt='Android Automotive mejora con soporte multiusuario y diseño multimedia renovado' />
     </a>
 </div>
 
