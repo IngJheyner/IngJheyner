@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-navidad-disfrutar-familiar-1429342'>Netflix: estas son las mejores películas de Navidad para disfrutar en familiar</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estas-son-mejores-peliculas-navidad-disfrutar-familiar-1429342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-estas-son-mejores-peliculas-navidad-disfrutar-familiar-4272204.jpg?tf=1200x' alt='Netflix: estas son las mejores películas de Navidad para disfrutar en familiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-problemas-ultima-actualizacion-android-auto-soluciona-fallos-wifi-audio-1431587'>Adiós a los problemas: la última actualización de Android Auto soluciona fallos de WiFi y audio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-problemas-ultima-actualizacion-android-auto-soluciona-fallos-wifi-audio-1431587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='Adiós a los problemas: la última actualización de Android Auto soluciona fallos de WiFi y audio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-elon-musk-peligro-fotos-ia-donde-vamos-llegar-1430529'>Grok, Elon Musk y el peligro de las fotos con IA: ¿Hasta dónde vamos a llegar?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/grok-elon-musk-peligro-fotos-ia-donde-vamos-llegar-1430529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Grok, Elon Musk y el peligro de las fotos con IA: ¿Hasta dónde vamos a llegar?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-responde-google-presenta-nuevos-modelos-o3-o3-mini-1431573'>OpenAI responde a Google: presenta sus nuevos modelos o3 y o3 Mini</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-responde-google-presenta-nuevos-modelos-o3-o3-mini-1431573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-4275985.jpg?tf=1200x' alt='OpenAI responde a Google: presenta sus nuevos modelos o3 y o3 Mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/generacion-z-no-inmune-estafas-internet-mitad-jovenes-estan-peligro-estudio-1430538'>La generación Z no es inmune a las estafas de Internet: la mitad de los jóvenes están en peligro, según un estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/generacion-z-no-inmune-estafas-internet-mitad-jovenes-estan-peligro-estudio-1430538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sindrome-tecnologico-cada-vez-afecta-miembros-generacion-z-como-vivir-encarcelado-4183109.jpg?tf=1200x' alt='La generación Z no es inmune a las estafas de Internet: la mitad de los jóvenes están en peligro, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377'>Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-papa-noel-4272480.jpg?tf=1200x' alt='Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos' />
     </a>
 </div>
 
