@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377'>Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-papa-noel-4272480.jpg?tf=1200x' alt='Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ia-predice-numeros-probabilidades-ganar-gordo-loteria-navidad-2024-1429035'>La IA predice los números con más probabilidades de ganar el Gordo de la lotería de Navidad 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ia-predice-numeros-probabilidades-ganar-gordo-loteria-navidad-2024-1429035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/millonario-gordo-4271683.jpg?tf=1200x' alt='La IA predice los números con más probabilidades de ganar el Gordo de la lotería de Navidad 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/formas--usar-ia-felicitar-navidad-ano-nuevo-como-hacer-imagenes-paso-paso-1430712'>5 formas originales de usar la IA para felicitar Navidad y el Año Nuevo: cómo hacer imágenes paso a paso</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/formas--usar-ia-felicitar-navidad-ano-nuevo-como-hacer-imagenes-paso-paso-1430712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-navidad-inteligencia-artificial-4274560.jpg?tf=1200x' alt='5 formas originales de usar la IA para felicitar Navidad y el Año Nuevo: cómo hacer imágenes paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260'>Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sundar-pichai-4273773.jpg?tf=1200x' alt='Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades' />
     </a>
 </div>
 
