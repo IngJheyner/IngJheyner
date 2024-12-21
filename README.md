@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-experimenta-paneles-dedicados-chrome-android-hacer-accesibles-marcadores-historial-1431619'>Google experimenta con paneles dedicados en Chrome para Android para hacer más accesibles los marcadores y el historial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-experimenta-paneles-dedicados-chrome-android-hacer-accesibles-marcadores-historial-1431619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google experimenta con paneles dedicados en Chrome para Android para hacer más accesibles los marcadores y el historial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-tranquiliza-usuarios-reciente-polemica-recall-1431617'>Microsoft tranquiliza a los usuarios sobre la reciente polémica con Recall</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-tranquiliza-usuarios-reciente-polemica-recall-1431617' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='Microsoft tranquiliza a los usuarios sobre la reciente polémica con Recall' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-ofrecera-nuevas-opciones-inicio-sesion-servicios-google-como-gmail-youtube-1431603'>Chrome ofrecerá nuevas opciones de inicio de sesión para servicios de Google como Gmail y YouTube</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-ofrecera-nuevas-opciones-inicio-sesion-servicios-google-como-gmail-youtube-1431603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/contrasenas-chrome-3927123.jpg?tf=1200x' alt='Chrome ofrecerá nuevas opciones de inicio de sesión para servicios de Google como Gmail y YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-edge-insiste-aparecen-nuevas-ventanas-emergentes-configurarlo-como-navegador-predeterminado-windows-11-1431601'>Microsoft Edge insiste: aparecen nuevas ventanas emergentes para configurarlo como navegador predeterminado en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-edge-insiste-aparecen-nuevas-ventanas-emergentes-configurarlo-como-navegador-predeterminado-windows-11-1431601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-edge-windows-11-4276024.jpg?tf=1200x' alt='Microsoft Edge insiste: aparecen nuevas ventanas emergentes para configurarlo como navegador predeterminado en Windows 11' />
     </a>
 </div>
 
