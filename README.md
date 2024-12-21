@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/generacion-z-no-inmune-estafas-internet-mitad-jovenes-estan-peligro-estudio-1430538'>La generación Z no es inmune a las estafas de Internet: la mitad de los jóvenes están en peligro, según un estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/generacion-z-no-inmune-estafas-internet-mitad-jovenes-estan-peligro-estudio-1430538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sindrome-tecnologico-cada-vez-afecta-miembros-generacion-z-como-vivir-encarcelado-4183109.jpg?tf=1200x' alt='La generación Z no es inmune a las estafas de Internet: la mitad de los jóvenes están en peligro, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377'>Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-papa-noel-4272480.jpg?tf=1200x' alt='Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376'>¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-4272284.jpg?tf=1200x' alt='¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/formas--usar-ia-felicitar-navidad-ano-nuevo-como-hacer-imagenes-paso-paso-1430712'>5 formas originales de usar la IA para felicitar Navidad y el Año Nuevo: cómo hacer imágenes paso a paso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/formas--usar-ia-felicitar-navidad-ano-nuevo-como-hacer-imagenes-paso-paso-1430712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-navidad-inteligencia-artificial-4274560.jpg?tf=1200x' alt='5 formas originales de usar la IA para felicitar Navidad y el Año Nuevo: cómo hacer imágenes paso a paso' />
     </a>
 </div>
 
