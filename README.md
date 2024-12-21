@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-automotive-mejora-soporte-multiusuario-diseno-multimedia-renovado-1431599'>Android Automotive mejora con soporte multiusuario y diseño multimedia renovado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-automotive-mejora-soporte-multiusuario-diseno-multimedia-renovado-1431599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg?tf=1200x' alt='Android Automotive mejora con soporte multiusuario y diseño multimedia renovado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-1431596'>Se acabó el clickbait: YouTube borrará vídeos con títulos y miniaturas engañosos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-1431596' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-4276019.jpg?tf=1200x' alt='Se acabó el clickbait: YouTube borrará vídeos con títulos y miniaturas engañosos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-elon-musk-peligro-fotos-ia-donde-vamos-llegar-1430529'>Grok, Elon Musk y el peligro de las fotos con IA: ¿Hasta dónde vamos a llegar?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/grok-elon-musk-peligro-fotos-ia-donde-vamos-llegar-1430529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Grok, Elon Musk y el peligro de las fotos con IA: ¿Hasta dónde vamos a llegar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/aliexpress-ataque-deja-pixel-8a-precio-saldo-1431547'>AliExpress, al ataque: deja el Pixel 8a a precio de saldo</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/aliexpress-ataque-deja-pixel-8a-precio-saldo-1431547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='AliExpress, al ataque: deja el Pixel 8a a precio de saldo' />
     </a>
 </div>
 
