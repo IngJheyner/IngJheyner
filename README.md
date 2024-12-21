@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevos-datos-demuestran-pc-moviles-ia-no-atraen-ventas-1431537'>Nuevos datos demuestran que los PC y móviles con IA no atraen ventas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevos-datos-demuestran-pc-moviles-ia-no-atraen-ventas-1431537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832327.jpg?tf=1200x' alt='Nuevos datos demuestran que los PC y móviles con IA no atraen ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/buscador-google-boton-ia-pedir-ayuda-gemini-1431534'>El buscador de Google va a incluir un Modo IA para pedir ayuda a Gemini</a></h4>
     <a href='https://computerhoy.20minutos.es/google/buscador-google-boton-ia-pedir-ayuda-gemini-1431534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-google-va-incluir-modo-ia-pedir-ayuda-gemini-4275910.jpg?tf=1200x' alt='El buscador de Google va a incluir un Modo IA para pedir ayuda a Gemini' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380'>Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/forma-legal-ocultar-ip-ni-laliga-pueda-verla-1431380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Esta es la forma legal de ocultar tu IP y que ni LaLiga pueda verla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-1431507'>Microsoft sorprende a los usuarios de Windows 11 con publicidad disfrazada de notificaciones en el escritorio</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-1431507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-sorprende-usuarios-windows-11-publicidad-disfrazada-notificaciones-escritorio-4275911.jpg?tf=1200x' alt='Microsoft sorprende a los usuarios de Windows 11 con publicidad disfrazada de notificaciones en el escritorio' />
     </a>
 </div>
 
