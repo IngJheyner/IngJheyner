@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-elon-musk-peligro-fotos-ia-donde-vamos-llegar-1430529'>Grok, Elon Musk y el peligro de las fotos con IA: ¿Hasta dónde vamos a llegar?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/grok-elon-musk-peligro-fotos-ia-donde-vamos-llegar-1430529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Grok, Elon Musk y el peligro de las fotos con IA: ¿Hasta dónde vamos a llegar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/aliexpress-ataque-deja-pixel-8a-precio-saldo-1431547'>AliExpress, al ataque: deja el Pixel 8a a precio de saldo</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/aliexpress-ataque-deja-pixel-8a-precio-saldo-1431547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-pixel-8a-3315747.jpg?tf=1200x' alt='AliExpress, al ataque: deja el Pixel 8a a precio de saldo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-responde-google-presenta-nuevos-modelos-o3-o3-mini-1431573'>OpenAI responde a Google: presenta sus nuevos modelos o3 y o3 Mini</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-responde-google-presenta-nuevos-modelos-o3-o3-mini-1431573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-4275985.jpg?tf=1200x' alt='OpenAI responde a Google: presenta sus nuevos modelos o3 y o3 Mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/generacion-z-no-inmune-estafas-internet-mitad-jovenes-estan-peligro-estudio-1430538'>La generación Z no es inmune a las estafas de Internet: la mitad de los jóvenes están en peligro, según un estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/generacion-z-no-inmune-estafas-internet-mitad-jovenes-estan-peligro-estudio-1430538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sindrome-tecnologico-cada-vez-afecta-miembros-generacion-z-como-vivir-encarcelado-4183109.jpg?tf=1200x' alt='La generación Z no es inmune a las estafas de Internet: la mitad de los jóvenes están en peligro, según un estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377'>Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usar-ia-redactar-cartas-papa-noel-reyes-magos-1429377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-papa-noel-4272480.jpg?tf=1200x' alt='Así puedes usar la IA para redactar las cartas de Papá Noel o los Reyes Magos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ia-predice-numeros-probabilidades-ganar-gordo-loteria-navidad-2024-1429035'>La IA predice los números con más probabilidades de ganar el Gordo de la lotería de Navidad 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ia-predice-numeros-probabilidades-ganar-gordo-loteria-navidad-2024-1429035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/millonario-gordo-4271683.jpg?tf=1200x' alt='La IA predice los números con más probabilidades de ganar el Gordo de la lotería de Navidad 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-universidad-problema-solucion-1431543'>ChatGPT ya se ha infiltrado en la universidad, y eso preocupa: "Desde que lo uso, pienso menos por mí misma"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-universidad-problema-solucion-1431543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-alumno-universidad-eso-preocupa-uso-pienso-menos-mi-misma-4275950.jpg?tf=1200x' alt='ChatGPT ya se ha infiltrado en la universidad, y eso preocupa: "Desde que lo uso, pienso menos por mí misma"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376'>¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-4272284.jpg?tf=1200x' alt='¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo' />
     </a>
 </div>
 
