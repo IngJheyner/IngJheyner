@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376'>¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-4272284.jpg?tf=1200x' alt='¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/formas--usar-ia-felicitar-navidad-ano-nuevo-como-hacer-imagenes-paso-paso-1430712'>5 formas originales de usar la IA para felicitar Navidad y el Año Nuevo: cómo hacer imágenes paso a paso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/formas--usar-ia-felicitar-navidad-ano-nuevo-como-hacer-imagenes-paso-paso-1430712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-navidad-inteligencia-artificial-4274560.jpg?tf=1200x' alt='5 formas originales de usar la IA para felicitar Navidad y el Año Nuevo: cómo hacer imágenes paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260'>Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sundar-pichai-4273773.jpg?tf=1200x' alt='Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/monta-zx-spectrum-tamano-llavero-20-euros-espectrum-1431542'>Móntate tu propio ZX Spectrum del tamaño de un llavero por 20 euros, con ESPectrum</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/monta-zx-spectrum-tamano-llavero-20-euros-espectrum-1431542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/montate-propio-zx-spectrum-tamano-llavero-20-euros-espectrum-4275945.jpg?tf=1200x' alt='Móntate tu propio ZX Spectrum del tamaño de un llavero por 20 euros, con ESPectrum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-habia-probado-galaxy-ai-pero-me-ha-gustado-samsung-galaxy-s24-fe-1430904'>Nunca había probado Galaxy AI, pero es lo que más me ha gustado del Samsung Galaxy S24 FE</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nunca-habia-probado-galaxy-ai-pero-me-ha-gustado-samsung-galaxy-s24-fe-1430904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apps-galaxy-ai-samsung-galaxy-s24-fe-4274955.jpg?tf=1200x' alt='Nunca había probado Galaxy AI, pero es lo que más me ha gustado del Samsung Galaxy S24 FE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/hace-movil-como-precio-como-he-probado-nubia-z70-ultra-me-ha-parecido-mejor-ano-1430578'>Qué hace un móvil como tú a un precio como este: he probado el Nubia Z70 Ultra y me ha parecido de lo mejor del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/hace-movil-como-precio-como-he-probado-nubia-z70-ultra-me-ha-parecido-mejor-ano-1430578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nubia-z70-ultra-4274380.jpg?tf=1200x' alt='Qué hace un móvil como tú a un precio como este: he probado el Nubia Z70 Ultra y me ha parecido de lo mejor del año' />
     </a>
 </div>
 
