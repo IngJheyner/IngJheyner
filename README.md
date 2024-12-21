@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-ia-encontrar-mejores-descuentos-regalos-navidad-1429378'>Cómo usar IA para encontrar los mejores descuentos en regalos de Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-ia-encontrar-mejores-descuentos-regalos-navidad-1429378' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-usar-ia-encontrar-mejores-descuentos-regalos-navidad-4272289.jpg?tf=1200x' alt='Cómo usar IA para encontrar los mejores descuentos en regalos de Navidad' />
+    <h4><a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260'>Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sundar-pichai-4273773.jpg?tf=1200x' alt='Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-casi-me-convence-pero-anbernic-logra-antes-vende-consola-steamos-mucho-barata-1430492'>Steam Deck casi me convence, pero Anbernic lo logra antes: vende una consola con steamOS mucho más barata</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/steam-deck-casi-me-convence-pero-anbernic-logra-antes-vende-consola-steamos-mucho-barata-1430492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anbernic-win600-4274143.jpg?tf=1200x' alt='Steam Deck casi me convence, pero Anbernic lo logra antes: vende una consola con steamOS mucho más barata' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-rebel-moon-ni-mision-imposible-pelicula-accion-moda-netflix-1430295'>Ni Rebel Moon ni Misión imposible: así es la película de acción más de moda en Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-rebel-moon-ni-mision-imposible-pelicula-accion-moda-netflix-1430295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-rebel-moon-ni-mision-imposible-pelicula-accion-moda-netflix-4273806.jpg?tf=1200x' alt='Ni Rebel Moon ni Misión imposible: así es la película de acción más de moda en Netflix' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevos-datos-demuestran-pc-moviles-ia-no-atraen-ventas-1431537'>Nuevos datos demuestran que los PC y móviles con IA no atraen ventas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevos-datos-demuestran-pc-moviles-ia-no-atraen-ventas-1431537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/microsoft-surface-laptop-7-3832327.jpg?tf=1200x' alt='Nuevos datos demuestran que los PC y móviles con IA no atraen ventas' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/monta-zx-spectrum-tamano-llavero-20-euros-espectrum-1431542'>Móntate tu propio ZX Spectrum del tamaño de un llavero por 20 euros, con ESPectrum</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/monta-zx-spectrum-tamano-llavero-20-euros-espectrum-1431542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/montate-propio-zx-spectrum-tamano-llavero-20-euros-espectrum-4275945.jpg?tf=1200x' alt='Móntate tu propio ZX Spectrum del tamaño de un llavero por 20 euros, con ESPectrum' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/buscador-google-boton-ia-pedir-ayuda-gemini-1431534'>El buscador de Google va a incluir un Modo IA para pedir ayuda a Gemini</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/buscador-google-boton-ia-pedir-ayuda-gemini-1431534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/buscador-google-va-incluir-modo-ia-pedir-ayuda-gemini-4275910.jpg?tf=1200x' alt='El buscador de Google va a incluir un Modo IA para pedir ayuda a Gemini' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-habia-probado-galaxy-ai-pero-me-ha-gustado-samsung-galaxy-s24-fe-1430904'>Nunca había probado Galaxy AI, pero es lo que más me ha gustado del Samsung Galaxy S24 FE</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nunca-habia-probado-galaxy-ai-pero-me-ha-gustado-samsung-galaxy-s24-fe-1430904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apps-galaxy-ai-samsung-galaxy-s24-fe-4274955.jpg?tf=1200x' alt='Nunca había probado Galaxy AI, pero es lo que más me ha gustado del Samsung Galaxy S24 FE' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528'>¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-lista-marcas-reparaciones-han-tenido-2024-1431528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/taller-reparacion-4275916.jpg?tf=1200x' alt='¿Tu coche está en la lista? Las marcas que más reparaciones han tenido en 2024' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/hace-movil-como-precio-como-he-probado-nubia-z70-ultra-me-ha-parecido-mejor-ano-1430578'>Qué hace un móvil como tú a un precio como este: he probado el Nubia Z70 Ultra y me ha parecido de lo mejor del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/hace-movil-como-precio-como-he-probado-nubia-z70-ultra-me-ha-parecido-mejor-ano-1430578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nubia-z70-ultra-4274380.jpg?tf=1200x' alt='Qué hace un móvil como tú a un precio como este: he probado el Nubia Z70 Ultra y me ha parecido de lo mejor del año' />
     </a>
 </div>
 
