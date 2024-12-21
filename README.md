@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ia-predice-numeros-probabilidades-ganar-gordo-loteria-navidad-2024-1429035'>La IA predice los números con más probabilidades de ganar el Gordo de la lotería de Navidad 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ia-predice-numeros-probabilidades-ganar-gordo-loteria-navidad-2024-1429035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/millonario-gordo-4271683.jpg?tf=1200x' alt='La IA predice los números con más probabilidades de ganar el Gordo de la lotería de Navidad 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-universidad-problema-solucion-1431543'>ChatGPT ya se ha infiltrado en la universidad, y eso preocupa: "Desde que lo uso, pienso menos por mí misma"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-universidad-problema-solucion-1431543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-alumno-universidad-eso-preocupa-uso-pienso-menos-mi-misma-4275950.jpg?tf=1200x' alt='ChatGPT ya se ha infiltrado en la universidad, y eso preocupa: "Desde que lo uso, pienso menos por mí misma"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376'>¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-1429376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mucha-gente-conectada-wifi-navidad-configuracion-router-ideal-solucionarlo-4272284.jpg?tf=1200x' alt='¿Mucha gente conectada a tu WiFi en Navidad? Esta es la configuración del router ideal para solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260'>Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ocho-libros-favoritos-ceo-google-deberias-leer-regalar-estas-navidades-1430260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sundar-pichai-4273773.jpg?tf=1200x' alt='Los ocho libros favoritos del CEO de Google que deberías leer o regalar estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-rebel-moon-ni-mision-imposible-pelicula-accion-moda-netflix-1430295'>Ni Rebel Moon ni Misión imposible: así es la película de acción más de moda en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-rebel-moon-ni-mision-imposible-pelicula-accion-moda-netflix-1430295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-rebel-moon-ni-mision-imposible-pelicula-accion-moda-netflix-4273806.jpg?tf=1200x' alt='Ni Rebel Moon ni Misión imposible: así es la película de acción más de moda en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/monta-zx-spectrum-tamano-llavero-20-euros-espectrum-1431542'>Móntate tu propio ZX Spectrum del tamaño de un llavero por 20 euros, con ESPectrum</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/monta-zx-spectrum-tamano-llavero-20-euros-espectrum-1431542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/montate-propio-zx-spectrum-tamano-llavero-20-euros-espectrum-4275945.jpg?tf=1200x' alt='Móntate tu propio ZX Spectrum del tamaño de un llavero por 20 euros, con ESPectrum' />
     </a>
 </div>
 
