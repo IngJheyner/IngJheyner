@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-certificacion-confirma-nuevos-tamanos-samsung-galaxy-ring-estan-cerca-nunca-1431616'>Esta nueva certificación confirma que los nuevos tamaños del Samsung Galaxy Ring están más cerca que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-certificacion-confirma-nuevos-tamanos-samsung-galaxy-ring-estan-cerca-nunca-1431616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247297.jpg?tf=1200x' alt='Esta nueva certificación confirma que los nuevos tamaños del Samsung Galaxy Ring están más cerca que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/todos-iphone-compatibles-ios-18-recibirian-ios-19-usuarios-ipad-no-tendrian-tanta-suerte-1431614'>Todos los iPhone compatibles con iOS 18 recibirían iOS 19: los usuarios de iPad no tendrían tanta suerte</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/todos-iphone-compatibles-ios-18-recibirian-ios-19-usuarios-ipad-no-tendrian-tanta-suerte-1431614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-debes-saber-ios-18-3798816.jpg?tf=1200x' alt='Todos los iPhone compatibles con iOS 18 recibirían iOS 19: los usuarios de iPad no tendrían tanta suerte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-automotive-mejora-soporte-multiusuario-diseno-multimedia-renovado-1431599'>Android Automotive mejora con soporte multiusuario y diseño multimedia renovado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-automotive-mejora-soporte-multiusuario-diseno-multimedia-renovado-1431599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg?tf=1200x' alt='Android Automotive mejora con soporte multiusuario y diseño multimedia renovado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-1431596'>Se acabó el clickbait: YouTube borrará vídeos con títulos y miniaturas engañosos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-1431596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/acabo-clickbait-youtube-borrara-videos-titulos-miniaturas-enganosos-4276019.jpg?tf=1200x' alt='Se acabó el clickbait: YouTube borrará vídeos con títulos y miniaturas engañosos' />
     </a>
 </div>
 
