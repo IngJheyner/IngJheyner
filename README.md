@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528'>El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/precios-streaming-espana-4275013.jpg?tf=1200x' alt='El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/realme-da-golpe-nuevo-movil-barato-presume-potencia-menos-300-euros-1431624'>realme da el golpe: su nuevo móvil barato presume de potencia, y por menos de 300 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/realme-da-golpe-nuevo-movil-barato-presume-potencia-menos-300-euros-1431624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/realme-13-pro-plus-4276070.jpg?tf=1200x' alt='realme da el golpe: su nuevo móvil barato presume de potencia, y por menos de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-permite-creadores-contenido-publicar-notas-voz-como-comentarios-1431649'>YouTube permite a los creadores de contenido publicar notas de voz como comentarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-permite-creadores-contenido-publicar-notas-voz-como-comentarios-1431649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-nota-voz-4276104.jpg?tf=1200x' alt='YouTube permite a los creadores de contenido publicar notas de voz como comentarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/puedes-activar-modo-navideno-whatsapp-1429272'>Así puedes activar el modo navideño en WhatsApp </a></h4>
     <a href='https://computerhoy.20minutos.es/apps/puedes-activar-modo-navideno-whatsapp-1429272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-activar-modo-navideno-whatsapp-4272147.jpg?tf=1200x' alt='Así puedes activar el modo navideño en WhatsApp ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-outlook-windows-11-enfrentan-temible-error-acceso-denegado-1431644'>Usuarios de Outlook en Windows 11 se enfrentan a este temible error de acceso denegado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-outlook-windows-11-enfrentan-temible-error-acceso-denegado-1431644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/correo-fraudulento-outlook-4222057.jpg?tf=1200x' alt='Usuarios de Outlook en Windows 11 se enfrentan a este temible error de acceso denegado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-prueba-colores-personalizados-android-auto-ve-ahora-1431620'>Google prueba con colores personalizados en Android Auto: así se ve ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-prueba-colores-personalizados-android-auto-ve-ahora-1431620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-prueba-colores-personalizados-android-auto-4276040.jpg?tf=1200x' alt='Google prueba con colores personalizados en Android Auto: así se ve ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/como-decorar-casa-navidad-dispositivos-inteligentes-1428793'>Cómo decorar tu casa para Navidad con dispositivos inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/como-decorar-casa-navidad-dispositivos-inteligentes-1428793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/navidad-tecnologia-4271436.jpg?tf=1200x' alt='Cómo decorar tu casa para Navidad con dispositivos inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386'>100 mensajes originales de Navidad para enviar esta Nochebuena 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='100 mensajes originales de Navidad para enviar esta Nochebuena 2024' />
     </a>
 </div>
 
