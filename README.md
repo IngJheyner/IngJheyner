@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683'>Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-videotimbre-seguridad-vigilancia-casa-hogar-4254768.jpg?tf=1200x' alt='Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660'>Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528'>El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/precios-streaming-espana-4275013.jpg?tf=1200x' alt='El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/realme-da-golpe-nuevo-movil-barato-presume-potencia-menos-300-euros-1431624'>realme da el golpe: su nuevo móvil barato presume de potencia, y por menos de 300 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/realme-da-golpe-nuevo-movil-barato-presume-potencia-menos-300-euros-1431624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/realme-13-pro-plus-4276070.jpg?tf=1200x' alt='realme da el golpe: su nuevo móvil barato presume de potencia, y por menos de 300 euros' />
     </a>
 </div>
 
