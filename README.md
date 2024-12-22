@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925'>Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-navidad-4271528.jpg?tf=1200x' alt='Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-1428335'>10 aplicaciones gratis para Android que te harán la vida mucho más fácil esta Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-1428335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-4270484.jpg?tf=1200x' alt='10 aplicaciones gratis para Android que te harán la vida mucho más fácil esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-novedades-trae-acabar-reinado-elon-musk-x-1428705'>¿Qué es Bluesky y qué novedades trae para acabar con el reinado de Elon Musk en X?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bluesky-novedades-trae-acabar-reinado-elon-musk-x-1428705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-4268128.jpg?tf=1200x' alt='¿Qué es Bluesky y qué novedades trae para acabar con el reinado de Elon Musk en X?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/netflix-prime-video-te-agobian-tengo-opcion-mejor-divergente-ya-mi-app-streaming-favorita-1430239'>Si Netflix o Prime Video te agobian, tengo una opción mejor: Divergente ya es mi app de streaming favorita</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/netflix-prime-video-te-agobian-tengo-opcion-mejor-divergente-ya-mi-app-streaming-favorita-1430239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/divergente-app-streaming-4273812.jpg?tf=1200x' alt='Si Netflix o Prime Video te agobian, tengo una opción mejor: Divergente ya es mi app de streaming favorita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-aplicaciones-viajar-navidades-1428691'>Android Auto: 10 aplicaciones esenciales para viajar estas navidades</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-aplicaciones-viajar-navidades-1428691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-navidad-4271241.jpg?tf=1200x' alt='Android Auto: 10 aplicaciones esenciales para viajar estas navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-experimenta-paneles-dedicados-chrome-android-hacer-accesibles-marcadores-historial-1431619'>Google experimenta con paneles dedicados en Chrome para Android para hacer más accesibles los marcadores y el historial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-experimenta-paneles-dedicados-chrome-android-hacer-accesibles-marcadores-historial-1431619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/chrome-efecto-mica-3021520.jpg?tf=1200x' alt='Google experimenta con paneles dedicados en Chrome para Android para hacer más accesibles los marcadores y el historial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-tranquiliza-usuarios-reciente-polemica-recall-1431617'>Microsoft tranquiliza a los usuarios sobre la reciente polémica con Recall</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-tranquiliza-usuarios-reciente-polemica-recall-1431617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-windows-recall-4265403.jpg?tf=1200x' alt='Microsoft tranquiliza a los usuarios sobre la reciente polémica con Recall' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-certificacion-confirma-nuevos-tamanos-samsung-galaxy-ring-estan-cerca-nunca-1431616'>Esta nueva certificación confirma que los nuevos tamaños del Samsung Galaxy Ring están más cerca que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-certificacion-confirma-nuevos-tamanos-samsung-galaxy-ring-estan-cerca-nunca-1431616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-ring-4247297.jpg?tf=1200x' alt='Esta nueva certificación confirma que los nuevos tamaños del Samsung Galaxy Ring están más cerca que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/todos-iphone-compatibles-ios-18-recibirian-ios-19-usuarios-ipad-no-tendrian-tanta-suerte-1431614'>Todos los iPhone compatibles con iOS 18 recibirían iOS 19: los usuarios de iPad no tendrían tanta suerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/todos-iphone-compatibles-ios-18-recibirian-ios-19-usuarios-ipad-no-tendrian-tanta-suerte-1431614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/todo-debes-saber-ios-18-3798816.jpg?tf=1200x' alt='Todos los iPhone compatibles con iOS 18 recibirían iOS 19: los usuarios de iPad no tendrían tanta suerte' />
     </a>
 </div>
 
