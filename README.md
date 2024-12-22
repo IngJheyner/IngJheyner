@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/trucos-ia-nadie-cuenta-navidades-faciles-1428983'>5 trucos con IA que nadie te cuenta y que harán tus Navidades más fáciles</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/trucos-ia-nadie-cuenta-navidades-faciles-1428983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-navidad-4271711.jpg?tf=1200x' alt='5 trucos con IA que nadie te cuenta y que harán tus Navidades más fáciles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-felicitar-amigos-traves-instagram-estas-plantillas-resumen-ano-1430619'>Cómo felicitar a tus amigos a través de Instagram con estas plantillas de “Resumen del Año”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-felicitar-amigos-traves-instagram-estas-plantillas-resumen-ano-1430619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/plantillas-nochevieja-instagram-4274347.jpg?tf=1200x' alt='Cómo felicitar a tus amigos a través de Instagram con estas plantillas de “Resumen del Año”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/mujer-embarazada-coche-niega-arrancar-durante-actualizacion-software-1431627'>Una mujer va a dar a luz y tiene que pedir un taxi porque el coche se niega a arrancar durante una actualización de software</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/mujer-embarazada-coche-niega-arrancar-durante-actualizacion-software-1431627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mujer-embarazada-tiene-pedir-taxi-porque-coche-niega-arrancar-durante-actualizacion-hardware-4276074.jpg?tf=1200x' alt='Una mujer va a dar a luz y tiene que pedir un taxi porque el coche se niega a arrancar durante una actualización de software' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925'>Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-navidad-4271528.jpg?tf=1200x' alt='Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-1428335'>10 aplicaciones gratis para Android que te harán la vida mucho más fácil esta Navidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-1428335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-4270484.jpg?tf=1200x' alt='10 aplicaciones gratis para Android que te harán la vida mucho más fácil esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bluesky-novedades-trae-acabar-reinado-elon-musk-x-1428705'>¿Qué es Bluesky y qué novedades trae para acabar con el reinado de Elon Musk en X?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bluesky-novedades-trae-acabar-reinado-elon-musk-x-1428705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-4268128.jpg?tf=1200x' alt='¿Qué es Bluesky y qué novedades trae para acabar con el reinado de Elon Musk en X?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/netflix-prime-video-te-agobian-tengo-opcion-mejor-divergente-ya-mi-app-streaming-favorita-1430239'>Si Netflix o Prime Video te agobian, tengo una opción mejor: Divergente ya es mi app de streaming favorita</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/netflix-prime-video-te-agobian-tengo-opcion-mejor-divergente-ya-mi-app-streaming-favorita-1430239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/divergente-app-streaming-4273812.jpg?tf=1200x' alt='Si Netflix o Prime Video te agobian, tengo una opción mejor: Divergente ya es mi app de streaming favorita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-aplicaciones-viajar-navidades-1428691'>Android Auto: 10 aplicaciones esenciales para viajar estas navidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-aplicaciones-viajar-navidades-1428691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-navidad-4271241.jpg?tf=1200x' alt='Android Auto: 10 aplicaciones esenciales para viajar estas navidades' />
     </a>
 </div>
 
