@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660'>Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370'>70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-navidad-whatsapp-elegantes-4273118.jpg?tf=1200x' alt='70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/realme-da-golpe-nuevo-movil-barato-presume-potencia-menos-300-euros-1431624'>realme da el golpe: su nuevo móvil barato presume de potencia, y por menos de 300 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/android/realme-da-golpe-nuevo-movil-barato-presume-potencia-menos-300-euros-1431624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/realme-13-pro-plus-4276070.jpg?tf=1200x' alt='realme da el golpe: su nuevo móvil barato presume de potencia, y por menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-permite-creadores-contenido-publicar-notas-voz-como-comentarios-1431649'>YouTube permite a los creadores de contenido publicar notas de voz como comentarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-permite-creadores-contenido-publicar-notas-voz-como-comentarios-1431649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-nota-voz-4276104.jpg?tf=1200x' alt='YouTube permite a los creadores de contenido publicar notas de voz como comentarios' />
     </a>
 </div>
 
