@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-1431688'>Según la astronomía, las estrellas que vemos en el cielo no están realmente ahí</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-1431688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-4276188.jpg?tf=1200x' alt='Según la astronomía, las estrellas que vemos en el cielo no están realmente ahí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687'>Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734893842544-4276150.jpg?tf=1200x' alt='Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683'>Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-videotimbre-seguridad-vigilancia-casa-hogar-4254768.jpg?tf=1200x' alt='Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660'>Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas' />
     </a>
 </div>
 
