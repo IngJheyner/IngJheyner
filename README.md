@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/como-decorar-casa-navidad-dispositivos-inteligentes-1428793'>Cómo decorar tu casa para Navidad con dispositivos inteligentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/como-decorar-casa-navidad-dispositivos-inteligentes-1428793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/navidad-tecnologia-4271436.jpg?tf=1200x' alt='Cómo decorar tu casa para Navidad con dispositivos inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386'>100 mensajes originales de Navidad para enviar esta Nochebuena 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='100 mensajes originales de Navidad para enviar esta Nochebuena 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/mujer-embarazada-coche-niega-arrancar-durante-actualizacion-software-1431627'>Una mujer va a dar a luz y tiene que pedir un taxi porque el coche se niega a arrancar durante una actualización de software</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/mujer-embarazada-coche-niega-arrancar-durante-actualizacion-software-1431627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mujer-embarazada-tiene-pedir-taxi-porque-coche-niega-arrancar-durante-actualizacion-hardware-4276074.jpg?tf=1200x' alt='Una mujer va a dar a luz y tiene que pedir un taxi porque el coche se niega a arrancar durante una actualización de software' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925'>Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-navidad-4271528.jpg?tf=1200x' alt='Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas' />
     </a>
 </div>
 
