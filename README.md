@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370'>70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-navidad-whatsapp-elegantes-4273118.jpg?tf=1200x' alt='70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-utilizara-ia-detectar-estafas-1431655'>Google Chrome utilizará IA para detectar estafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-utilizara-ia-detectar-estafas-1431655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/seguridad-chrome-4276111.jpg?tf=1200x' alt='Google Chrome utilizará IA para detectar estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528'>El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/precios-streaming-espana-4275013.jpg?tf=1200x' alt='El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-permite-creadores-contenido-publicar-notas-voz-como-comentarios-1431649'>YouTube permite a los creadores de contenido publicar notas de voz como comentarios</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-permite-creadores-contenido-publicar-notas-voz-como-comentarios-1431649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/youtube-nota-voz-4276104.jpg?tf=1200x' alt='YouTube permite a los creadores de contenido publicar notas de voz como comentarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/puedes-activar-modo-navideno-whatsapp-1429272'>Así puedes activar el modo navideño en WhatsApp </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/puedes-activar-modo-navideno-whatsapp-1429272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-activar-modo-navideno-whatsapp-4272147.jpg?tf=1200x' alt='Así puedes activar el modo navideño en WhatsApp ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-outlook-windows-11-enfrentan-temible-error-acceso-denegado-1431644'>Usuarios de Outlook en Windows 11 se enfrentan a este temible error de acceso denegado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-outlook-windows-11-enfrentan-temible-error-acceso-denegado-1431644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/correo-fraudulento-outlook-4222057.jpg?tf=1200x' alt='Usuarios de Outlook en Windows 11 se enfrentan a este temible error de acceso denegado' />
     </a>
 </div>
 
