@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/puedes-activar-modo-navideno-whatsapp-1429272'>Así puedes activar el modo navideño en WhatsApp </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/puedes-activar-modo-navideno-whatsapp-1429272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-activar-modo-navideno-whatsapp-4272147.jpg?tf=1200x' alt='Así puedes activar el modo navideño en WhatsApp ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-outlook-windows-11-enfrentan-temible-error-acceso-denegado-1431644'>Usuarios de Outlook en Windows 11 se enfrentan a este temible error de acceso denegado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-outlook-windows-11-enfrentan-temible-error-acceso-denegado-1431644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/correo-fraudulento-outlook-4222057.jpg?tf=1200x' alt='Usuarios de Outlook en Windows 11 se enfrentan a este temible error de acceso denegado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-prueba-colores-personalizados-android-auto-ve-ahora-1431620'>Google prueba con colores personalizados en Android Auto: así se ve ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-prueba-colores-personalizados-android-auto-ve-ahora-1431620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-prueba-colores-personalizados-android-auto-4276040.jpg?tf=1200x' alt='Google prueba con colores personalizados en Android Auto: así se ve ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/como-decorar-casa-navidad-dispositivos-inteligentes-1428793'>Cómo decorar tu casa para Navidad con dispositivos inteligentes</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/como-decorar-casa-navidad-dispositivos-inteligentes-1428793' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/navidad-tecnologia-4271436.jpg?tf=1200x' alt='Cómo decorar tu casa para Navidad con dispositivos inteligentes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386'>100 mensajes originales de Navidad para enviar esta Nochebuena 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='100 mensajes originales de Navidad para enviar esta Nochebuena 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/trucos-ia-nadie-cuenta-navidades-faciles-1428983'>5 trucos con IA que nadie te cuenta y que harán tus Navidades más fáciles</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/trucos-ia-nadie-cuenta-navidades-faciles-1428983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-navidad-4271711.jpg?tf=1200x' alt='5 trucos con IA que nadie te cuenta y que harán tus Navidades más fáciles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-felicitar-amigos-traves-instagram-estas-plantillas-resumen-ano-1430619'>Cómo felicitar a tus amigos a través de Instagram con estas plantillas de “Resumen del Año”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-felicitar-amigos-traves-instagram-estas-plantillas-resumen-ano-1430619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/plantillas-nochevieja-instagram-4274347.jpg?tf=1200x' alt='Cómo felicitar a tus amigos a través de Instagram con estas plantillas de “Resumen del Año”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/mujer-embarazada-coche-niega-arrancar-durante-actualizacion-software-1431627'>Una mujer va a dar a luz y tiene que pedir un taxi porque el coche se niega a arrancar durante una actualización de software</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/mujer-embarazada-coche-niega-arrancar-durante-actualizacion-software-1431627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mujer-embarazada-tiene-pedir-taxi-porque-coche-niega-arrancar-durante-actualizacion-hardware-4276074.jpg?tf=1200x' alt='Una mujer va a dar a luz y tiene que pedir un taxi porque el coche se niega a arrancar durante una actualización de software' />
     </a>
 </div>
 
