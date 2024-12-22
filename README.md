@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-firestick-ni-xiaomi-android-tv-box-planta-cara-5000-ventas-aliexpress-1431629'>Ni Firestick ni Xiaomi: esta Android TV Box les planta cara con más de 5.000 ventas en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-firestick-ni-xiaomi-android-tv-box-planta-cara-5000-ventas-aliexpress-1431629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tv98-s905w2-4276083.jpg?tf=1200x' alt='Ni Firestick ni Xiaomi: esta Android TV Box les planta cara con más de 5.000 ventas en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-gana-juicio-arm-procesadores-snapdragon-x-elite-1431685'>Los procesadores Snapdragon X se salvan de ser destruidos: Qualcomm gana el juicio a Arm</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-gana-juicio-arm-procesadores-snapdragon-x-elite-1431685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/procesadores-snapdragon-x-salvan-ser-destruidos-qualcomm-gana-juicio-arm-4276147.jpg?tf=1200x' alt='Los procesadores Snapdragon X se salvan de ser destruidos: Qualcomm gana el juicio a Arm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683'>Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-videotimbre-seguridad-vigilancia-casa-hogar-4254768.jpg?tf=1200x' alt='Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370'>70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-navidad-whatsapp-elegantes-4273118.jpg?tf=1200x' alt='70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-utilizara-ia-detectar-estafas-1431655'>Google Chrome utilizará IA para detectar estafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-utilizara-ia-detectar-estafas-1431655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/seguridad-chrome-4276111.jpg?tf=1200x' alt='Google Chrome utilizará IA para detectar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528'>El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/streaming-dispara-cuanto-gastan-familias-espanolas-netflix-prime-video-max-datos-asustan-1430528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/precios-streaming-espana-4275013.jpg?tf=1200x' alt='El streaming se dispara: ¿Cuánto gastan las familias españolas en Netflix, Prime Video o Max? Los datos asustan' />
     </a>
 </div>
 
