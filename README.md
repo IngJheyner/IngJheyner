@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687'>Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734893842544-4276150.jpg?tf=1200x' alt='Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/ni-firestick-ni-xiaomi-android-tv-box-planta-cara-5000-ventas-aliexpress-1431629'>Ni Firestick ni Xiaomi: esta Android TV Box les planta cara con más de 5.000 ventas en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ni-firestick-ni-xiaomi-android-tv-box-planta-cara-5000-ventas-aliexpress-1431629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tv98-s905w2-4276083.jpg?tf=1200x' alt='Ni Firestick ni Xiaomi: esta Android TV Box les planta cara con más de 5.000 ventas en AliExpress' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660'>Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-da-bienvenida-esperadas-aplicaciones-meteorologicas-1431660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='Android Auto da la bienvenida a las esperadas aplicaciones meteorológicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370'>70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/felicitaciones-navidad-elegantes-originales-whatsapp-2024-1346370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-navidad-whatsapp-elegantes-4273118.jpg?tf=1200x' alt='70 felicitaciones de Navidad elegantes y originales para enviar por WhatsApp este 2024' />
     </a>
 </div>
 
