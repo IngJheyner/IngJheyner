@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386'>100 mensajes originales de Navidad para enviar esta Nochebuena 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/100-mensajes-originales-navidad-enviar-nochebuena-2024-1346386' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/estas-son-mejores-apps-seguir-papa-noel-navidad-3248655.jpg?tf=1200x' alt='100 mensajes originales de Navidad para enviar esta Nochebuena 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/trucos-ia-nadie-cuenta-navidades-faciles-1428983'>5 trucos con IA que nadie te cuenta y que harán tus Navidades más fáciles</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/trucos-ia-nadie-cuenta-navidades-faciles-1428983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-navidad-4271711.jpg?tf=1200x' alt='5 trucos con IA que nadie te cuenta y que harán tus Navidades más fáciles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925'>Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/como-sacar-maximo-partido-smart-tv-estas-navidades-peliculas-apps-funciones-ocultas-1428925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-navidad-4271528.jpg?tf=1200x' alt='Cómo sacar el máximo partido a tu Smart TV estas Navidades: películas, apps y funciones ocultas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-1428335'>10 aplicaciones gratis para Android que te harán la vida mucho más fácil esta Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-1428335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-gratis-android-te-haran-vida-mucho-facil-navidad-4270484.jpg?tf=1200x' alt='10 aplicaciones gratis para Android que te harán la vida mucho más fácil esta Navidad' />
     </a>
 </div>
 
