@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/botellas-agua-fillico-10000-euros-1431691'>Estas botellas cuestan hasta 10.000 euros, y no te vas a creer el líquido que hay dentro</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/botellas-agua-fillico-10000-euros-1431691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-botellas-cuestan-10000-euros-no-te-vas-creer-liquido-hay-dentro-4276193.jpg?tf=1200x' alt='Estas botellas cuestan hasta 10.000 euros, y no te vas a creer el líquido que hay dentro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-1431688'>Según la astronomía, las estrellas que vemos en el cielo no están realmente ahí</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-1431688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-4276188.jpg?tf=1200x' alt='Según la astronomía, las estrellas que vemos en el cielo no están realmente ahí' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-gana-juicio-arm-procesadores-snapdragon-x-elite-1431685'>Los procesadores Snapdragon X se salvan de ser destruidos: Qualcomm gana el juicio a Arm</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-gana-juicio-arm-procesadores-snapdragon-x-elite-1431685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/procesadores-snapdragon-x-salvan-ser-destruidos-qualcomm-gana-juicio-arm-4276147.jpg?tf=1200x' alt='Los procesadores Snapdragon X se salvan de ser destruidos: Qualcomm gana el juicio a Arm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683'>Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/timbre-inteligente-face-id-apple-1431683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-ring-videotimbre-seguridad-vigilancia-casa-hogar-4254768.jpg?tf=1200x' alt='Ni iPhone ni Vision Pro: nadie esperaba el nuevo dispositivo de Apple' />
     </a>
 </div>
 
