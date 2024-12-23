@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-wii-sigue-siendo-estrella-fiestas-navidenas-decada-despues-1431922'>La Nintendo Wii sigue siendo la estrella de las fiestas navideñas más de una década después</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-wii-sigue-siendo-estrella-fiestas-navidenas-decada-despues-1431922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-wii-sigue-siendo-estrella-fiestas-navidenas-decada-despues-4276651.jpg?tf=1200x' alt='La Nintendo Wii sigue siendo la estrella de las fiestas navideñas más de una década después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-airpods-pro-3-apple-camaras-biosensores-salud-1431936'>Giro de 180 grados en los AirPods Pro 3 de Apple: mucho más que escuchar música</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-airpods-pro-3-apple-camaras-biosensores-salud-1431936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-4243051.jpg?tf=1200x' alt='Giro de 180 grados en los AirPods Pro 3 de Apple: mucho más que escuchar música' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-enfrenta-desafios-desarrollo-gpt-5-retrasos-costos-elevados-marcan-desarrollo-1431929'>OpenAI enfrenta desafíos en el desarrollo de GPT-5: retrasos y costos elevados marcan su desarrollo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-enfrenta-desafios-desarrollo-gpt-5-retrasos-costos-elevados-marcan-desarrollo-1431929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-4276635.jpg?tf=1200x' alt='OpenAI enfrenta desafíos en el desarrollo de GPT-5: retrasos y costos elevados marcan su desarrollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924'>Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-persigue-listas-iptv-fin-mundo-ha-ido-arabia-saudi-acabar-piratas-4276597.jpg?tf=1200x' alt='Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas' />
     </a>
 </div>
 
