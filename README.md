@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-navidad-contactos-movil-1348348'>¡Feliz Navidad! Imágenes y fotos originales para felicitar la Navidad a tus contactos del móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-navidad-contactos-movil-1348348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-feliz-navidad-4272471.jpg?tf=1200x' alt='¡Feliz Navidad! Imágenes y fotos originales para felicitar la Navidad a tus contactos del móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/mejores-lista-gifs-videos-felicitar-navidad-familia-amigos-1346410'>Los mejores GIFs y vídeos para felicitar la Navidad a familia y amigos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/mejores-lista-gifs-videos-felicitar-navidad-familia-amigos-1346410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-navidad-3252149.jpg?tf=1200x' alt='Los mejores GIFs y vídeos para felicitar la Navidad a familia y amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/tecnica-infalible-analistas-ciberseguridad-saber-alguien-ha-colado-red-1417978'>Esta es la técnica infalible de los analistas de ciberseguridad para saber si alguien se ha colado en tu red</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/tecnica-infalible-analistas-ciberseguridad-saber-alguien-ha-colado-red-1417978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-analisis-redes-4260203.jpg?tf=1200x' alt='Esta es la técnica infalible de los analistas de ciberseguridad para saber si alguien se ha colado en tu red' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/verdad-como-plataformas-ia-usan-datos-nadie-te-cuenta-1424847'>La verdad sobre cómo las plataformas de IA usan tus datos (y que nadie te cuenta)</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/verdad-como-plataformas-ia-usan-datos-nadie-te-cuenta-1424847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-datos-personales-4265118.jpg?tf=1200x' alt='La verdad sobre cómo las plataformas de IA usan tus datos (y que nadie te cuenta)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/frases-navidad-creadas-ia-felicitar-fiestas-1430423'>30 frases de Navidad creadas por IA perfectas para felicitar las fiestas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/frases-navidad-creadas-ia-felicitar-fiestas-1430423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-navidad-4274048.jpg?tf=1200x' alt='30 frases de Navidad creadas por IA perfectas para felicitar las fiestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pago-bicimad-pero-he-echado-cuentas-hay-bici-electrica-puedo-amortizar-rapidamente-1431070'>Pago BiciMad, pero he echado cuentas y hay una bici eléctrica que puedo amortizar rápidamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pago-bicimad-pero-he-echado-cuentas-hay-bici-electrica-puedo-amortizar-rapidamente-1431070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cecotec-xplorer-4275165.jpg?tf=1200x' alt='Pago BiciMad, pero he echado cuentas y hay una bici eléctrica que puedo amortizar rápidamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/10-trucos-microsoft-pueden-ayudarte-navidad-1431024'>10 trucos de Microsoft que pueden ayudarte esta Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/10-trucos-microsoft-pueden-ayudarte-navidad-1431024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-trucos-microsoft-pueden-ayudarte-navidad-4275099.jpg?tf=1200x' alt='10 trucos de Microsoft que pueden ayudarte esta Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/disenar-tarjeta-navidena-microsoft-word-1429491'>La manera más sencilla de diseñar una tarjeta navideña en Microsoft Word</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/disenar-tarjeta-navidena-microsoft-word-1429491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-navidad-microsoft-word-4272485.jpg?tf=1200x' alt='La manera más sencilla de diseñar una tarjeta navideña en Microsoft Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-automatizar-mensajes-feliz-navidad-todos-contactos-whatsapp-1426708'>Cómo automatizar mensajes de "Feliz Navidad" para todos tus contactos de WhatsApp </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-automatizar-mensajes-feliz-navidad-todos-contactos-whatsapp-1426708' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/feliz-navidad-whatsapp-4267744.jpg?tf=1200x' alt='Cómo automatizar mensajes de "Feliz Navidad" para todos tus contactos de WhatsApp ' />
     </a>
 </div>
 
