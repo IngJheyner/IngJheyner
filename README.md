@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-enfrenta-desafios-desarrollo-gpt-5-retrasos-costos-elevados-marcan-desarrollo-1431929'>OpenAI enfrenta desafíos en el desarrollo de GPT-5: retrasos y costos elevados marcan su desarrollo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-enfrenta-desafios-desarrollo-gpt-5-retrasos-costos-elevados-marcan-desarrollo-1431929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-4276635.jpg?tf=1200x' alt='OpenAI enfrenta desafíos en el desarrollo de GPT-5: retrasos y costos elevados marcan su desarrollo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924'>Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-persigue-listas-iptv-fin-mundo-ha-ido-arabia-saudi-acabar-piratas-4276597.jpg?tf=1200x' alt='Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817'>Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/adios-cables-submarinos-gobiernos-aseguran-tienen-probabilidad-sufrir-ataque-1431839'>Adiós a los cables submarinos: los gobiernos aseguran que tienen más probabilidad de sufrir un ataque</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/adios-cables-submarinos-gobiernos-aseguran-tienen-probabilidad-sufrir-ataque-1431839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cables-submarinos-internet-4276445.jpg?tf=1200x' alt='Adiós a los cables submarinos: los gobiernos aseguran que tienen más probabilidad de sufrir un ataque' />
     </a>
 </div>
 
