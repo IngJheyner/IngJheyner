@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813'>Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-4276364.jpg?tf=1200x' alt='Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/sorpresa-movistar-plus-plataforma-incorpora-cuatro-nuevos-canales-partir-1-enero-1431803'>Sorpresa en Movistar Plus+: la plataforma incorpora cuatro nuevos canales a partir del 1 de enero</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/sorpresa-movistar-plus-plataforma-incorpora-cuatro-nuevos-canales-partir-1-enero-1431803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sorpresa-movistar-plus-plataforma-incorpora-cuatro-nuevos-canales-partir-1-enero-4276346.jpg?tf=1200x' alt='Sorpresa en Movistar Plus+: la plataforma incorpora cuatro nuevos canales a partir del 1 de enero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734'>Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-4276316.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/xiaomi-redmi-14c-barato-pero-maton-amazon-quita-20-presume-camara-ia-1431752'>El Xiaomi Redmi 14C es barato pero matón: Amazon le quita un 20% y presume de cámara con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/xiaomi-redmi-14c-barato-pero-maton-amazon-quita-20-presume-camara-ia-1431752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redmi-14c-4276256.jpg?tf=1200x' alt='El Xiaomi Redmi 14C es barato pero matón: Amazon le quita un 20% y presume de cámara con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/justicia-espanola-llama-google-declarar-como-testigo-caso-begona-gomez-1431784'>La justicia española llama a Google a declarar como testigo en el caso de Begoña Gómez</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/justicia-espanola-llama-google-declarar-como-testigo-caso-begona-gomez-1431784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-juicio-4276325.jpg?tf=1200x' alt='La justicia española llama a Google a declarar como testigo en el caso de Begoña Gómez' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mantendremos-tiktok-durante-tiempo-trump-dice-red-social-permanecera-momento-eeuu-1431742'>"Mantendremos TikTok durante un tiempo": Trump dice que la red social permanecerá, de momento, en EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mantendremos-tiktok-durante-tiempo-trump-dice-red-social-permanecera-momento-eeuu-1431742' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/donald-trump-tiktok-estados-unidos-4276291.jpg?tf=1200x' alt='"Mantendremos TikTok durante un tiempo": Trump dice que la red social permanecerá, de momento, en EEUU' />
     </a>
 </div>
 
