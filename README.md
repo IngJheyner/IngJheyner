@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mantendremos-tiktok-durante-tiempo-trump-dice-red-social-permanecera-momento-eeuu-1431742'>"Mantendremos TikTok durante un tiempo": Trump dice que la red social permanecerá, de momento, en EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mantendremos-tiktok-durante-tiempo-trump-dice-red-social-permanecera-momento-eeuu-1431742' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/donald-trump-tiktok-estados-unidos-4276291.jpg?tf=1200x' alt='"Mantendremos TikTok durante un tiempo": Trump dice que la red social permanecerá, de momento, en EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/agencia-espacial-europea-muestra-imagen-blanca-navidad-marte-1431751'>La Agencia Espacial Europea muestra una imagen de la "blanca Navidad" en Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/agencia-espacial-europea-muestra-imagen-blanca-navidad-marte-1431751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/agencia-espacial-europea-muestra-imagen-blanca-navidad-marte-4276249.jpg?tf=1200x' alt='La Agencia Espacial Europea muestra una imagen de la "blanca Navidad" en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-apuros-verdadera-razon-chatgpt-ya-ha-superado-x-1431732'>Elon Musk en apuros: la verdadera razón por la que ChatGPT ya ha superado a X</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-apuros-verdadera-razon-chatgpt-ya-ha-superado-x-1431732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vs-sam-altman-4274662.jpg?tf=1200x' alt='Elon Musk en apuros: la verdadera razón por la que ChatGPT ya ha superado a X' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/puedes-cobrar-premios-loteria-navidad-2024-bizum-1431728'>Así puedes cobrar los premios de la Lotería de Navidad 2024 por Bizum</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/puedes-cobrar-premios-loteria-navidad-2024-bizum-1431728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-cobrar-premios-loteria-navidad-2024-bizum-4276227.jpg?tf=1200x' alt='Así puedes cobrar los premios de la Lotería de Navidad 2024 por Bizum' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-escatimando-revisiones-apps-investigacion-considera-1431721'>¿Está Apple escatimando en las revisiones de sus apps? Una investigación así lo considera</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-escatimando-revisiones-apps-investigacion-considera-1431721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/app-store.jpg?tf=1200x' alt='¿Está Apple escatimando en las revisiones de sus apps? Una investigación así lo considera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-villancicos-cero-ia-estas-navidades-1430988'>Cómo crear villancicos desde cero con IA para estas Navidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-villancicos-cero-ia-estas-navidades-1430988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/musica-navidad-ia-4275301.jpg?tf=1200x' alt='Cómo crear villancicos desde cero con IA para estas Navidades' />
     </a>
 </div>
 
