@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817'>Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/adios-cables-submarinos-gobiernos-aseguran-tienen-probabilidad-sufrir-ataque-1431839'>Adiós a los cables submarinos: los gobiernos aseguran que tienen más probabilidad de sufrir un ataque</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/adios-cables-submarinos-gobiernos-aseguran-tienen-probabilidad-sufrir-ataque-1431839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cables-submarinos-internet-4276445.jpg?tf=1200x' alt='Adiós a los cables submarinos: los gobiernos aseguran que tienen más probabilidad de sufrir un ataque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-calendar-tampoco-salva-phishing-mucho-cuidado-recibes-invitacion-1431791'>Google Calendar tampoco se salva del phishing: mucho cuidado si recibes esta invitación</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/google-calendar-tampoco-salva-phishing-mucho-cuidado-recibes-invitacion-1431791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-calendar-recibe-actualizacion-importante-mejora-gestion-tareas-4266028.jpg?tf=1200x' alt='Google Calendar tampoco se salva del phishing: mucho cuidado si recibes esta invitación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813'>Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-4276364.jpg?tf=1200x' alt='Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/sorpresa-movistar-plus-plataforma-incorpora-cuatro-nuevos-canales-partir-1-enero-1431803'>Sorpresa en Movistar Plus+: la plataforma incorpora cuatro nuevos canales a partir del 1 de enero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/sorpresa-movistar-plus-plataforma-incorpora-cuatro-nuevos-canales-partir-1-enero-1431803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sorpresa-movistar-plus-plataforma-incorpora-cuatro-nuevos-canales-partir-1-enero-4276346.jpg?tf=1200x' alt='Sorpresa en Movistar Plus+: la plataforma incorpora cuatro nuevos canales a partir del 1 de enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734'>Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-4276316.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA' />
     </a>
 </div>
 
