@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-calendar-tampoco-salva-phishing-mucho-cuidado-recibes-invitacion-1431791'>Google Calendar tampoco se salva del phishing: mucho cuidado si recibes esta invitación</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-calendar-tampoco-salva-phishing-mucho-cuidado-recibes-invitacion-1431791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-calendar-recibe-actualizacion-importante-mejora-gestion-tareas-4266028.jpg?tf=1200x' alt='Google Calendar tampoco se salva del phishing: mucho cuidado si recibes esta invitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/mark-cerny-habla-como-gpu-hibrida-ps5-pro-1431807'>Mark Cerny habla de cómo es la GPU híbrida de PS5 Pro</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/mark-cerny-habla-como-gpu-hibrida-ps5-pro-1431807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mark-cerny-playstation-ps5-pro-4276413.jpg?tf=1200x' alt='Mark Cerny habla de cómo es la GPU híbrida de PS5 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813'>Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-4276364.jpg?tf=1200x' alt='Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734'>Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-4276316.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/adios-estos-vehiculos-tesla-fallo-obliga-retirar-700000-coches-estados-unidos-1431790'>Adiós a estos vehículos de Tesla: el fallo que obliga a retirar 700.000 coches en Estados Unidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/adios-estos-vehiculos-tesla-fallo-obliga-retirar-700000-coches-estados-unidos-1431790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-model-4276349.jpg?tf=1200x' alt='Adiós a estos vehículos de Tesla: el fallo que obliga a retirar 700.000 coches en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/xiaomi-redmi-14c-barato-pero-maton-amazon-quita-20-presume-camara-ia-1431752'>El Xiaomi Redmi 14C es barato pero matón: Amazon le quita un 20% y presume de cámara con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/xiaomi-redmi-14c-barato-pero-maton-amazon-quita-20-presume-camara-ia-1431752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redmi-14c-4276256.jpg?tf=1200x' alt='El Xiaomi Redmi 14C es barato pero matón: Amazon le quita un 20% y presume de cámara con IA' />
     </a>
 </div>
 
