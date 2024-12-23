@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864'>ZimaOS podría convertirse en tu nuevo sistema operativo favorito para NAS</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-4276562.jpg?tf=1200x' alt='ZimaOS podría convertirse en tu nuevo sistema operativo favorito para NAS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817'>Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/mark-cerny-habla-como-gpu-hibrida-ps5-pro-1431807'>Mark Cerny habla de cómo es la GPU híbrida de PS5 Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/mark-cerny-habla-como-gpu-hibrida-ps5-pro-1431807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mark-cerny-playstation-ps5-pro-4276413.jpg?tf=1200x' alt='Mark Cerny habla de cómo es la GPU híbrida de PS5 Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813'>Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-1431813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-contraataca-vodafone-oferta-bestial-incluye-todo-65-menos-tambien-futbol-4276364.jpg?tf=1200x' alt='Movistar contraataca a Vodafone con una oferta bestial que lo incluye todo por un 65 % menos, también el fútbol' />
     </a>
 </div>
 
