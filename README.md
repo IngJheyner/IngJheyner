@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/frases-navidad-creadas-ia-felicitar-fiestas-1430423'>30 frases de Navidad creadas por IA perfectas para felicitar las fiestas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/frases-navidad-creadas-ia-felicitar-fiestas-1430423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-navidad-4274048.jpg?tf=1200x' alt='30 frases de Navidad creadas por IA perfectas para felicitar las fiestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pago-bicimad-pero-he-echado-cuentas-hay-bici-electrica-puedo-amortizar-rapidamente-1431070'>Pago BiciMad, pero he echado cuentas y hay una bici eléctrica que puedo amortizar rápidamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pago-bicimad-pero-he-echado-cuentas-hay-bici-electrica-puedo-amortizar-rapidamente-1431070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cecotec-xplorer-4275165.jpg?tf=1200x' alt='Pago BiciMad, pero he echado cuentas y hay una bici eléctrica que puedo amortizar rápidamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/10-trucos-microsoft-pueden-ayudarte-navidad-1431024'>10 trucos de Microsoft que pueden ayudarte esta Navidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/10-trucos-microsoft-pueden-ayudarte-navidad-1431024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-trucos-microsoft-pueden-ayudarte-navidad-4275099.jpg?tf=1200x' alt='10 trucos de Microsoft que pueden ayudarte esta Navidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/disenar-tarjeta-navidena-microsoft-word-1429491'>La manera más sencilla de diseñar una tarjeta navideña en Microsoft Word</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/disenar-tarjeta-navidena-microsoft-word-1429491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-navidad-microsoft-word-4272485.jpg?tf=1200x' alt='La manera más sencilla de diseñar una tarjeta navideña en Microsoft Word' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-automatizar-mensajes-feliz-navidad-todos-contactos-whatsapp-1426708'>Cómo automatizar mensajes de "Feliz Navidad" para todos tus contactos de WhatsApp </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-automatizar-mensajes-feliz-navidad-todos-contactos-whatsapp-1426708' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/feliz-navidad-whatsapp-4267744.jpg?tf=1200x' alt='Cómo automatizar mensajes de "Feliz Navidad" para todos tus contactos de WhatsApp ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/botellas-agua-fillico-10000-euros-1431691'>Estas botellas cuestan hasta 10.000 euros, y no te vas a creer el líquido que hay dentro</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/botellas-agua-fillico-10000-euros-1431691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-botellas-cuestan-10000-euros-no-te-vas-creer-liquido-hay-dentro-4276193.jpg?tf=1200x' alt='Estas botellas cuestan hasta 10.000 euros, y no te vas a creer el líquido que hay dentro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-1431688'>Según la astronomía, las estrellas que vemos en el cielo no están realmente ahí</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-1431688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/astronomia-estrellas-vemos-cielo-no-estan-realmente-ahi-4276188.jpg?tf=1200x' alt='Según la astronomía, las estrellas que vemos en el cielo no están realmente ahí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687'>Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734893842544-4276150.jpg?tf=1200x' alt='Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos' />
     </a>
 </div>
 
