@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-airpods-pro-3-apple-camaras-biosensores-salud-1431936'>Giro de 180 grados en los AirPods Pro 3 de Apple: mucho más que escuchar música</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-airpods-pro-3-apple-camaras-biosensores-salud-1431936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-4243051.jpg?tf=1200x' alt='Giro de 180 grados en los AirPods Pro 3 de Apple: mucho más que escuchar música' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-1431932'>La sonda solar Parker de la NASA alcanzará un nuevo hito al acercarse como nunca antes al Sol</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-1431932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-4276637.jpg?tf=1200x' alt='La sonda solar Parker de la NASA alcanzará un nuevo hito al acercarse como nunca antes al Sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-era-investigacion-deep-research-gemini-ya-45-idiomas-1431931'>Nueva era en la investigación: Deep Research de Gemini ya en 45 idiomas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-era-investigacion-deep-research-gemini-ya-45-idiomas-1431931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Nueva era en la investigación: Deep Research de Gemini ya en 45 idiomas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-enfrenta-desafios-desarrollo-gpt-5-retrasos-costos-elevados-marcan-desarrollo-1431929'>OpenAI enfrenta desafíos en el desarrollo de GPT-5: retrasos y costos elevados marcan su desarrollo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-enfrenta-desafios-desarrollo-gpt-5-retrasos-costos-elevados-marcan-desarrollo-1431929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-4276635.jpg?tf=1200x' alt='OpenAI enfrenta desafíos en el desarrollo de GPT-5: retrasos y costos elevados marcan su desarrollo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924'>Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-persigue-listas-iptv-fin-mundo-ha-ido-arabia-saudi-acabar-piratas-4276597.jpg?tf=1200x' alt='Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-gmail-gemini-aprovechar-maximo-inteligencia-artificial-correo-1431888'>Cómo configurar Gmail en Gemini para aprovechar al máximo la inteligencia artificial en tu correo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-gmail-gemini-aprovechar-maximo-inteligencia-artificial-correo-1431888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-configurar-gmail-gemini-aprovechar-maximo-inteligencia-artificial-correo-4276613.jpg?tf=1200x' alt='Cómo configurar Gmail en Gemini para aprovechar al máximo la inteligencia artificial en tu correo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864'>ZimaOS, la herramienta definitiva para gestionar tu nube personal desde casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-4276562.jpg?tf=1200x' alt='ZimaOS, la herramienta definitiva para gestionar tu nube personal desde casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817'>Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-elon-musk-suscripciones-x-subiran-40-algunos-paises-1431817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk: las suscripciones a X subirán hasta un 40% en algunos países' />
     </a>
 </div>
 
