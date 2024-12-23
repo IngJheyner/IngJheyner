@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864'>ZimaOS podría convertirse en tu nuevo sistema operativo favorito para NAS</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924'>Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/javier-tebas-persigue-listas-iptv-arabia-saudi-1431924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/javier-tebas-persigue-listas-iptv-fin-mundo-ha-ido-arabia-saudi-acabar-piratas-4276597.jpg?tf=1200x' alt='Javier Tebas persigue a las listas IPTV hasta el fin de mundo: ha ido a Arabia Saudí a acabar con los piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-gmail-gemini-aprovechar-maximo-inteligencia-artificial-correo-1431888'>Cómo configurar Gmail en Gemini para aprovechar al máximo la inteligencia artificial en tu correo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-configurar-gmail-gemini-aprovechar-maximo-inteligencia-artificial-correo-1431888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-configurar-gmail-gemini-aprovechar-maximo-inteligencia-artificial-correo-4276613.jpg?tf=1200x' alt='Cómo configurar Gmail en Gemini para aprovechar al máximo la inteligencia artificial en tu correo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864'>ZimaOS, la herramienta definitiva para gestionar tu nube personal desde casa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-1431864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-4276562.jpg?tf=1200x' alt='ZimaOS podría convertirse en tu nuevo sistema operativo favorito para NAS' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/zimaos-podria-convertirse-nuevo-sistema-operativo-favorito-nas-4276562.jpg?tf=1200x' alt='ZimaOS, la herramienta definitiva para gestionar tu nube personal desde casa' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/adios-cables-submarinos-gobiernos-aseguran-tienen-probabilidad-sufrir-ataque-1431839'>Adiós a los cables submarinos: los gobiernos aseguran que tienen más probabilidad de sufrir un ataque</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/adios-cables-submarinos-gobiernos-aseguran-tienen-probabilidad-sufrir-ataque-1431839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cables-submarinos-internet-4276445.jpg?tf=1200x' alt='Adiós a los cables submarinos: los gobiernos aseguran que tienen más probabilidad de sufrir un ataque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-calendar-tampoco-salva-phishing-mucho-cuidado-recibes-invitacion-1431791'>Google Calendar tampoco se salva del phishing: mucho cuidado si recibes esta invitación</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-calendar-tampoco-salva-phishing-mucho-cuidado-recibes-invitacion-1431791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-calendar-recibe-actualizacion-importante-mejora-gestion-tareas-4266028.jpg?tf=1200x' alt='Google Calendar tampoco se salva del phishing: mucho cuidado si recibes esta invitación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/mark-cerny-habla-como-gpu-hibrida-ps5-pro-1431807'>Mark Cerny habla de cómo es la GPU híbrida de PS5 Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/mark-cerny-habla-como-gpu-hibrida-ps5-pro-1431807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mark-cerny-playstation-ps5-pro-4276413.jpg?tf=1200x' alt='Mark Cerny habla de cómo es la GPU híbrida de PS5 Pro' />
     </a>
 </div>
 
