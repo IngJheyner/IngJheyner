@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-escatimando-revisiones-apps-investigacion-considera-1431721'>¿Está Apple escatimando en las revisiones de sus apps? Una investigación así lo considera</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-escatimando-revisiones-apps-investigacion-considera-1431721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/app-store.jpg?tf=1200x' alt='¿Está Apple escatimando en las revisiones de sus apps? Una investigación así lo considera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-villancicos-cero-ia-estas-navidades-1430988'>Cómo crear villancicos desde cero con IA para estas Navidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-villancicos-cero-ia-estas-navidades-1430988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/musica-navidad-ia-4275301.jpg?tf=1200x' alt='Cómo crear villancicos desde cero con IA para estas Navidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-dejara-funcionar-estos-moviles-2025-1428108'>Adiós WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-dejara-funcionar-estos-moviles-2025-1428108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='Adiós WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-navidad-contactos-movil-1348348'>¡Feliz Navidad! Imágenes y fotos originales para felicitar la Navidad a tus contactos del móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-navidad-contactos-movil-1348348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-feliz-navidad-4272471.jpg?tf=1200x' alt='¡Feliz Navidad! Imágenes y fotos originales para felicitar la Navidad a tus contactos del móvil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/mejores-lista-gifs-videos-felicitar-navidad-familia-amigos-1346410'>Los mejores GIFs y vídeos para felicitar la Navidad a familia y amigos</a></h4>
     <a href='https://computerhoy.20minutos.es/life/mejores-lista-gifs-videos-felicitar-navidad-familia-amigos-1346410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-navidad-3252149.jpg?tf=1200x' alt='Los mejores GIFs y vídeos para felicitar la Navidad a familia y amigos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/tecnica-infalible-analistas-ciberseguridad-saber-alguien-ha-colado-red-1417978'>Esta es la técnica infalible de los analistas de ciberseguridad para saber si alguien se ha colado en tu red</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/tecnica-infalible-analistas-ciberseguridad-saber-alguien-ha-colado-red-1417978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ciberseguridad-analisis-redes-4260203.jpg?tf=1200x' alt='Esta es la técnica infalible de los analistas de ciberseguridad para saber si alguien se ha colado en tu red' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/verdad-como-plataformas-ia-usan-datos-nadie-te-cuenta-1424847'>La verdad sobre cómo las plataformas de IA usan tus datos (y que nadie te cuenta)</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/verdad-como-plataformas-ia-usan-datos-nadie-te-cuenta-1424847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-datos-personales-4265118.jpg?tf=1200x' alt='La verdad sobre cómo las plataformas de IA usan tus datos (y que nadie te cuenta)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/frases-navidad-creadas-ia-felicitar-fiestas-1430423'>30 frases de Navidad creadas por IA perfectas para felicitar las fiestas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/frases-navidad-creadas-ia-felicitar-fiestas-1430423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-navidad-4274048.jpg?tf=1200x' alt='30 frases de Navidad creadas por IA perfectas para felicitar las fiestas' />
     </a>
 </div>
 
