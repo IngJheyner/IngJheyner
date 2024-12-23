@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-apuros-verdadera-razon-chatgpt-ya-ha-superado-x-1431732'>Elon Musk en apuros: la verdadera razón por la que ChatGPT ya ha superado a X</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-apuros-verdadera-razon-chatgpt-ya-ha-superado-x-1431732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vs-sam-altman-4274662.jpg?tf=1200x' alt='Elon Musk en apuros: la verdadera razón por la que ChatGPT ya ha superado a X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-soporte-estos-iphone-2025-movil-ellos-1431729'>Adiós al soporte en estos iPhone en 2025: ¿está tu móvil entre ellos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-soporte-estos-iphone-2025-movil-ellos-1431729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estos-moviles-android-muy-baratos-tienen-mejor-pantalla-iphone-16-4256479.jpg?tf=1200x' alt='Adiós al soporte en estos iPhone en 2025: ¿está tu móvil entre ellos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/puedes-cobrar-premios-loteria-navidad-2024-bizum-1431728'>Así puedes cobrar los premios de la Lotería de Navidad 2024 por Bizum</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/puedes-cobrar-premios-loteria-navidad-2024-bizum-1431728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-cobrar-premios-loteria-navidad-2024-bizum-4276227.jpg?tf=1200x' alt='Así puedes cobrar los premios de la Lotería de Navidad 2024 por Bizum' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-escatimando-revisiones-apps-investigacion-considera-1431721'>¿Está Apple escatimando en las revisiones de sus apps? Una investigación así lo considera</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-escatimando-revisiones-apps-investigacion-considera-1431721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/app-store.jpg?tf=1200x' alt='¿Está Apple escatimando en las revisiones de sus apps? Una investigación así lo considera' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-villancicos-cero-ia-estas-navidades-1430988'>Cómo crear villancicos desde cero con IA para estas Navidades</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-villancicos-cero-ia-estas-navidades-1430988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/musica-navidad-ia-4275301.jpg?tf=1200x' alt='Cómo crear villancicos desde cero con IA para estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-dejara-funcionar-estos-moviles-2025-1428108'>Adiós WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-dejara-funcionar-estos-moviles-2025-1428108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='Adiós WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-navidad-contactos-movil-1348348'>¡Feliz Navidad! Imágenes y fotos originales para felicitar la Navidad a tus contactos del móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-navidad-contactos-movil-1348348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-feliz-navidad-4272471.jpg?tf=1200x' alt='¡Feliz Navidad! Imágenes y fotos originales para felicitar la Navidad a tus contactos del móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mejores-lista-gifs-videos-felicitar-navidad-familia-amigos-1346410'>Los mejores GIFs y vídeos para felicitar la Navidad a familia y amigos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mejores-lista-gifs-videos-felicitar-navidad-familia-amigos-1346410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/feliz-navidad-3252149.jpg?tf=1200x' alt='Los mejores GIFs y vídeos para felicitar la Navidad a familia y amigos' />
     </a>
 </div>
 
