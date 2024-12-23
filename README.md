@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/disenar-tarjeta-navidena-microsoft-word-1429491'>La manera más sencilla de diseñar una tarjeta navideña en Microsoft Word</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/disenar-tarjeta-navidena-microsoft-word-1429491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/carta-navidad-microsoft-word-4272485.jpg?tf=1200x' alt='La manera más sencilla de diseñar una tarjeta navideña en Microsoft Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-automatizar-mensajes-feliz-navidad-todos-contactos-whatsapp-1426708'>Cómo automatizar mensajes de "Feliz Navidad" para todos tus contactos de WhatsApp </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-automatizar-mensajes-feliz-navidad-todos-contactos-whatsapp-1426708' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/feliz-navidad-whatsapp-4267744.jpg?tf=1200x' alt='Cómo automatizar mensajes de "Feliz Navidad" para todos tus contactos de WhatsApp ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/alimentacion/botellas-agua-fillico-10000-euros-1431691'>Estas botellas cuestan hasta 10.000 euros, y no te vas a creer el líquido que hay dentro</a></h4>
     <a href='https://computerhoy.20minutos.es/alimentacion/botellas-agua-fillico-10000-euros-1431691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-botellas-cuestan-10000-euros-no-te-vas-creer-liquido-hay-dentro-4276193.jpg?tf=1200x' alt='Estas botellas cuestan hasta 10.000 euros, y no te vas a creer el líquido que hay dentro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687'>Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/video-viral-cable-usb-c-revolucionario-1431687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1734893842544-4276150.jpg?tf=1200x' alt='Este video viral sobre un cable USB-C revolucionario te hará querer tirar los tuyos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-firestick-ni-xiaomi-android-tv-box-planta-cara-5000-ventas-aliexpress-1431629'>Ni Firestick ni Xiaomi: esta Android TV Box les planta cara con más de 5.000 ventas en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-firestick-ni-xiaomi-android-tv-box-planta-cara-5000-ventas-aliexpress-1431629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tv98-s905w2-4276083.jpg?tf=1200x' alt='Ni Firestick ni Xiaomi: esta Android TV Box les planta cara con más de 5.000 ventas en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-gana-juicio-arm-procesadores-snapdragon-x-elite-1431685'>Los procesadores Snapdragon X se salvan de ser destruidos: Qualcomm gana el juicio a Arm</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-gana-juicio-arm-procesadores-snapdragon-x-elite-1431685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/procesadores-snapdragon-x-salvan-ser-destruidos-qualcomm-gana-juicio-arm-4276147.jpg?tf=1200x' alt='Los procesadores Snapdragon X se salvan de ser destruidos: Qualcomm gana el juicio a Arm' />
     </a>
 </div>
 
