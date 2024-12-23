@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734'>Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-1431734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-openai-telefonica-obliga-cambiar-nombre-ultimo-modelo-ia-4276316.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI: Telefónica le obliga a cambiar el nombre de su último modelo de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/adios-estos-vehiculos-tesla-fallo-obliga-retirar-700000-coches-estados-unidos-1431790'>Adiós a estos vehículos de Tesla: el fallo que obliga a retirar 700.000 coches en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/adios-estos-vehiculos-tesla-fallo-obliga-retirar-700000-coches-estados-unidos-1431790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-model-4276349.jpg?tf=1200x' alt='Adiós a estos vehículos de Tesla: el fallo que obliga a retirar 700.000 coches en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/xiaomi-redmi-14c-barato-pero-maton-amazon-quita-20-presume-camara-ia-1431752'>El Xiaomi Redmi 14C es barato pero matón: Amazon le quita un 20% y presume de cámara con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/xiaomi-redmi-14c-barato-pero-maton-amazon-quita-20-presume-camara-ia-1431752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/redmi-14c-4276256.jpg?tf=1200x' alt='El Xiaomi Redmi 14C es barato pero matón: Amazon le quita un 20% y presume de cámara con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/justicia-espanola-llama-google-declarar-como-testigo-caso-begona-gomez-1431784'>La justicia española llama a Google a declarar como testigo en el caso de Begoña Gómez</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/justicia-espanola-llama-google-declarar-como-testigo-caso-begona-gomez-1431784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-juicio-4276325.jpg?tf=1200x' alt='La justicia española llama a Google a declarar como testigo en el caso de Begoña Gómez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mantendremos-tiktok-durante-tiempo-trump-dice-red-social-permanecera-momento-eeuu-1431742'>"Mantendremos TikTok durante un tiempo": Trump dice que la red social permanecerá, de momento, en EEUU</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mantendremos-tiktok-durante-tiempo-trump-dice-red-social-permanecera-momento-eeuu-1431742' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/donald-trump-tiktok-estados-unidos-4276291.jpg?tf=1200x' alt='"Mantendremos TikTok durante un tiempo": Trump dice que la red social permanecerá, de momento, en EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/agencia-espacial-europea-muestra-imagen-blanca-navidad-marte-1431751'>La Agencia Espacial Europea muestra una imagen de la "blanca Navidad" en Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/agencia-espacial-europea-muestra-imagen-blanca-navidad-marte-1431751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/agencia-espacial-europea-muestra-imagen-blanca-navidad-marte-4276249.jpg?tf=1200x' alt='La Agencia Espacial Europea muestra una imagen de la "blanca Navidad" en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-apuros-verdadera-razon-chatgpt-ya-ha-superado-x-1431732'>Elon Musk en apuros: la verdadera razón por la que ChatGPT ya ha superado a X</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-apuros-verdadera-razon-chatgpt-ya-ha-superado-x-1431732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-vs-sam-altman-4274662.jpg?tf=1200x' alt='Elon Musk en apuros: la verdadera razón por la que ChatGPT ya ha superado a X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-soporte-estos-iphone-2025-movil-ellos-1431729'>Adiós al soporte en estos iPhone en 2025: ¿está tu móvil entre ellos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-soporte-estos-iphone-2025-movil-ellos-1431729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estos-moviles-android-muy-baratos-tienen-mejor-pantalla-iphone-16-4256479.jpg?tf=1200x' alt='Adiós al soporte en estos iPhone en 2025: ¿está tu móvil entre ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/puedes-cobrar-premios-loteria-navidad-2024-bizum-1431728'>Así puedes cobrar los premios de la Lotería de Navidad 2024 por Bizum</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/puedes-cobrar-premios-loteria-navidad-2024-bizum-1431728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-cobrar-premios-loteria-navidad-2024-bizum-4276227.jpg?tf=1200x' alt='Así puedes cobrar los premios de la Lotería de Navidad 2024 por Bizum' />
     </a>
 </div>
 
