@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-reconoce-derrota-guerra-chips-1431983'>Estados Unidos reconoce su derrota en la guerra de los chips: "Tratar de frenar a China es un disparate"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-reconoce-derrota-guerra-chips-1431983' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estados-unidos-reconoce-derrota-guerra-chips-tratar-frenar-china-disparate-4276729.jpg?tf=1200x' alt='Estados Unidos reconoce su derrota en la guerra de los chips: "Tratar de frenar a China es un disparate"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/100-frases-navidad-cortas-felicitar-fiestas-whatsapp-1348684'>100 frases de Navidad cortas para felicitar las fiestas a tus contactos en WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/life/100-frases-navidad-cortas-felicitar-fiestas-whatsapp-1348684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-cortas-felicitaciones-navidad-2022-whatsapp-2899054.jpg?tf=1200x' alt='100 frases de Navidad cortas para felicitar las fiestas a tus contactos en WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/nissan-honda-anuncian-fusion-afrontar-nueva-era-coche-electrico-1431954'>Nissan y Honda anuncian una fusión para afrontar la nueva era del coche eléctrico</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/nissan-honda-anuncian-fusion-afrontar-nueva-era-coche-electrico-1431954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honda-nissan-anuncian-fusion-afrontar-nueva-era-coche-electrico-4276677.jpg?tf=1200x' alt='Nissan y Honda anuncian una fusión para afrontar la nueva era del coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/mejores-playlists-navidenas-apple-music-villancicos-canciones-1430980'>Arrasa en Navidad con las mejores playlists navideñas de Apple Music: villancicos y canciones top</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/mejores-playlists-navidenas-apple-music-villancicos-canciones-1430980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/listas-navidad-apple-music-4275040.jpg?tf=1200x' alt='Arrasa en Navidad con las mejores playlists navideñas de Apple Music: villancicos y canciones top' />
     </a>
 </div>
 
