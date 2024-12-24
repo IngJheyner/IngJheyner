@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277'>Si tienes esta conexión para TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/conexion-tv-internet-vuela-4276487.jpg?tf=1200x' alt='Si tienes esta conexión para TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/razones-no-deberias-tirar-discos-dvd-antiguos-1352265'>Esta es la razón por la que haces bien en no tirar tus CD ni DVD antiguos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/razones-no-deberias-tirar-discos-dvd-antiguos-1352265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-3308744.jpg?tf=1200x' alt='Esta es la razón por la que haces bien en no tirar tus CD ni DVD antiguos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>12+1 usos legales por los que merece la pena comprar un Flipper Zero</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='12+1 usos legales por los que merece la pena comprar un Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-mejores-juegos-2024-1432040'>Steam revela los juegos más jugados y los que más ingresos han generado en 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/steam-mejores-juegos-2024-1432040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steam-revela-juegos-jugados-ingresos-han-generado-2024-4276791.jpg?tf=1200x' alt='Steam revela los juegos más jugados y los que más ingresos han generado en 2024' />
     </a>
 </div>
 
