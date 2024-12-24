@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004'>Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-2k-android-precio-increible-teclast-rebaja-muchisimo-tablet-estrella-1431942'>Pantalla 2K, Android y precio increíble: Teclast rebaja muchísimo su tablet estrella</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-2k-android-precio-increible-teclast-rebaja-muchisimo-tablet-estrella-1431942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/teclast-t60-plus-4276670.jpg?tf=1200x' alt='Pantalla 2K, Android y precio increíble: Teclast rebaja muchísimo su tablet estrella' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ninos-hablar-directamente-papa-noel-traves-gemini-ia-1430989'>Ni cartas ni listas: los niños ahora pueden hablar directamente con Papá Noel a través de Gemini IA</a></h4>
     <a href='https://computerhoy.20minutos.es/ninos-hablar-directamente-papa-noel-traves-gemini-ia-1430989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-noel-gemini-ai-4275317.jpg?tf=1200x' alt='Ni cartas ni listas: los niños ahora pueden hablar directamente con Papá Noel a través de Gemini IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/lista-navidad-spotify-mejores-playlists-villancicos-temazos-navidenos-1430926'>Lista de Navidad en Spotify: las 7 mejores playlists con villancicos y temazos navideños para triunfar estas fiestas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/lista-navidad-spotify-mejores-playlists-villancicos-temazos-navidenos-1430926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/musica-navidad-spotify-4274921.jpg?tf=1200x' alt='Lista de Navidad en Spotify: las 7 mejores playlists con villancicos y temazos navideños para triunfar estas fiestas' />
     </a>
 </div>
 
