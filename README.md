@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/100-frases-navidad-cortas-felicitar-fiestas-whatsapp-1348684'>100 frases de Navidad cortas para felicitar las fiestas a tus contactos en WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/100-frases-navidad-cortas-felicitar-fiestas-whatsapp-1348684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-cortas-felicitaciones-navidad-2022-whatsapp-2899054.jpg?tf=1200x' alt='100 frases de Navidad cortas para felicitar las fiestas a tus contactos en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ninos-hablar-directamente-papa-noel-traves-gemini-ia-1430989'>Ni cartas ni listas: los niños ahora pueden hablar directamente con Papá Noel a través de Gemini IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/ninos-hablar-directamente-papa-noel-traves-gemini-ia-1430989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-noel-gemini-ai-4275317.jpg?tf=1200x' alt='Ni cartas ni listas: los niños ahora pueden hablar directamente con Papá Noel a través de Gemini IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/lista-navidad-spotify-mejores-playlists-villancicos-temazos-navidenos-1430926'>Lista de Navidad en Spotify: las 7 mejores playlists con villancicos y temazos navideños para triunfar estas fiestas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/lista-navidad-spotify-mejores-playlists-villancicos-temazos-navidenos-1430926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/musica-navidad-spotify-4274921.jpg?tf=1200x' alt='Lista de Navidad en Spotify: las 7 mejores playlists con villancicos y temazos navideños para triunfar estas fiestas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/mejores-playlists-navidenas-apple-music-villancicos-canciones-1430980'>Arrasa en Navidad con las mejores playlists navideñas de Apple Music: villancicos y canciones top</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mejores-playlists-navidenas-apple-music-villancicos-canciones-1430980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/listas-navidad-apple-music-4275040.jpg?tf=1200x' alt='Arrasa en Navidad con las mejores playlists navideñas de Apple Music: villancicos y canciones top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/he-probado-muchos-moviles-alta-gama-pero-solo-nubia-z70-ultra-me-ha-permitido-llegar-2-dias-uso-1430648'>He probado muchos móviles de alta gama, pero solo el Nubia Z70 Ultra me ha permitido llegar a más de 2 días de uso</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/he-probado-muchos-moviles-alta-gama-pero-solo-nubia-z70-ultra-me-ha-permitido-llegar-2-dias-uso-1430648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nubia-z70-ultra-4274418.jpg?tf=1200x' alt='He probado muchos móviles de alta gama, pero solo el Nubia Z70 Ultra me ha permitido llegar a más de 2 días de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/soy-reviewer-estos-son-7-trucos-editar-retratos-google-fotos-1414792'>Soy reviewer y estos son mis 7 trucos para editar tus retratos en Google Fotos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/soy-reviewer-estos-son-7-trucos-editar-retratos-google-fotos-1414792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-google-fotos-4254985.jpg?tf=1200x' alt='Soy reviewer y estos son mis 7 trucos para editar tus retratos en Google Fotos' />
     </a>
 </div>
 
