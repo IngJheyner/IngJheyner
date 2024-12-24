@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>12+1 usos legales por los que merece la pena comprar un Flipper Zero</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='12+1 usos legales por los que merece la pena comprar un Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-mejores-juegos-2024-1432040'>Steam revela los juegos más jugados y los que más ingresos han generado en 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steam-mejores-juegos-2024-1432040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steam-revela-juegos-jugados-ingresos-han-generado-2024-4276791.jpg?tf=1200x' alt='Steam revela los juegos más jugados y los que más ingresos han generado en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/precio-google-pixel-9-toca-fondo-amazon-eso-solo-color-1431995'>El precio del Google Pixel 9 toca fondo en Amazon, eso sí, en un solo color</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/precio-google-pixel-9-toca-fondo-amazon-eso-solo-color-1431995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-pixel-9-4276744.jpg?tf=1200x' alt='El precio del Google Pixel 9 toca fondo en Amazon, eso sí, en un solo color' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004'>Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-2k-android-precio-increible-teclast-rebaja-muchisimo-tablet-estrella-1431942'>Pantalla 2K, Android y precio increíble: Teclast rebaja muchísimo su tablet estrella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-2k-android-precio-increible-teclast-rebaja-muchisimo-tablet-estrella-1431942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/teclast-t60-plus-4276670.jpg?tf=1200x' alt='Pantalla 2K, Android y precio increíble: Teclast rebaja muchísimo su tablet estrella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-reconoce-derrota-guerra-chips-1431983'>Estados Unidos reconoce su derrota en la guerra de los chips: "Tratar de frenar a China es un disparate"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-reconoce-derrota-guerra-chips-1431983' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estados-unidos-reconoce-derrota-guerra-chips-tratar-frenar-china-disparate-4276729.jpg?tf=1200x' alt='Estados Unidos reconoce su derrota en la guerra de los chips: "Tratar de frenar a China es un disparate"' />
     </a>
 </div>
 
