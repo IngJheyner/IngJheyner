@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pedido-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>Le he pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pedido-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-jobs-ia-4276478.jpg?tf=1200x' alt='Le he pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>12+1 usos legales por los que merece la pena comprar un Flipper Zero</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='12+1 usos legales por los que merece la pena comprar un Flipper Zero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-1432021'>Adiós a los ventiladores en los portátiles: llegan los emisores de aire ionizado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-1432021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-4276769.jpg?tf=1200x' alt='Adiós a los ventiladores en los portátiles: llegan los emisores de aire ionizado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004'>Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones' />
     </a>
 </div>
 
