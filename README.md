@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/como-puedes-usar-realidad-aumentada-tiktok-ver-papa-noel-1431298'>Así es como puedes usar la realidad aumentada de TikTok para ver a Papá Noel</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/como-puedes-usar-realidad-aumentada-tiktok-ver-papa-noel-1431298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-noel-navidad-tiktok-4275567.jpg?tf=1200x' alt='Así es como puedes usar la realidad aumentada de TikTok para ver a Papá Noel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-vpn-gratuitas-big-mama-vpn-gorilla-tag-1431943'>El peligro de las VPN gratuitas: Big Mama VPN roba la conexión a Internet a miles de adolescentes</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-vpn-gratuitas-big-mama-vpn-gorilla-tag-1431943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/peligro-vpn-gratuitas-big-mama-vpn-roba-conexion-internet-miles-adolescentes-4276656.jpg?tf=1200x' alt='El peligro de las VPN gratuitas: Big Mama VPN roba la conexión a Internet a miles de adolescentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-1431932'>La sonda solar Parker de la NASA alcanzará un nuevo hito al acercarse como nunca antes al Sol</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-1431932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-4276637.jpg?tf=1200x' alt='La sonda solar Parker de la NASA alcanzará un nuevo hito al acercarse como nunca antes al Sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-era-investigacion-deep-research-gemini-ya-45-idiomas-1431931'>Nueva era en la investigación: Deep Research de Gemini ya en 45 idiomas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-era-investigacion-deep-research-gemini-ya-45-idiomas-1431931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/ya-puedes-crear-propios-gem-chatbots-personalizados-gemini-4051918.jpg?tf=1200x' alt='Nueva era en la investigación: Deep Research de Gemini ya en 45 idiomas' />
     </a>
 </div>
 
