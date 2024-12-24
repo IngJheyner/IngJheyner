@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/razones-no-deberias-tirar-discos-dvd-antiguos-1352265'>Esta es la razón por la que haces bien en no tirar tus CD ni DVD antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/razones-no-deberias-tirar-discos-dvd-antiguos-1352265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-3308744.jpg?tf=1200x' alt='Esta es la razón por la que haces bien en no tirar tus CD ni DVD antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/teclado-icebreaker-mas-caro-mundo-cuesta-1500-euros-1432052'>Parece una estafa, pero no lo es: el teclado más caro del mundo cuesta 1.500 euros, y no hace nada especial</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/teclado-icebreaker-mas-caro-mundo-cuesta-1500-euros-1432052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-estafa-pero-no-teclado-caro-mundo-cuesta-1500-euros-no-hace-nada-especial-4276823.jpg?tf=1200x' alt='Parece una estafa, pero no lo es: el teclado más caro del mundo cuesta 1.500 euros, y no hace nada especial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pedido-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>Le he pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pedido-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-jobs-ia-4276478.jpg?tf=1200x' alt='Le he pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/steam-mejores-juegos-2024-1432040'>Steam revela los juegos más jugados y los que más ingresos han generado en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/steam-mejores-juegos-2024-1432040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steam-revela-juegos-jugados-ingresos-han-generado-2024-4276791.jpg?tf=1200x' alt='Steam revela los juegos más jugados y los que más ingresos han generado en 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/precio-google-pixel-9-toca-fondo-amazon-eso-solo-color-1431995'>El precio del Google Pixel 9 toca fondo en Amazon, eso sí, en un solo color</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/precio-google-pixel-9-toca-fondo-amazon-eso-solo-color-1431995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-pixel-9-4276744.jpg?tf=1200x' alt='El precio del Google Pixel 9 toca fondo en Amazon, eso sí, en un solo color' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-1432021'>Adiós a los ventiladores en los portátiles: llegan los emisores de aire ionizado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-1432021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-4276769.jpg?tf=1200x' alt='Adiós a los ventiladores en los portátiles: llegan los emisores de aire ionizado' />
     </a>
 </div>
 
