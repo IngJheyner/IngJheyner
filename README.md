@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-puedes-usar-realidad-aumentada-tiktok-ver-papa-noel-1431298'>Así es como puedes usar la realidad aumentada de TikTok para ver a Papá Noel</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-puedes-usar-realidad-aumentada-tiktok-ver-papa-noel-1431298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-noel-navidad-tiktok-4275567.jpg?tf=1200x' alt='Así es como puedes usar la realidad aumentada de TikTok para ver a Papá Noel' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/lista-navidad-spotify-mejores-playlists-villancicos-temazos-navidenos-1430926'>Lista de Navidad en Spotify: las 7 mejores playlists con villancicos y temazos navideños para triunfar estas fiestas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/lista-navidad-spotify-mejores-playlists-villancicos-temazos-navidenos-1430926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/musica-navidad-spotify-4274921.jpg?tf=1200x' alt='Lista de Navidad en Spotify: las 7 mejores playlists con villancicos y temazos navideños para triunfar estas fiestas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-vpn-gratuitas-big-mama-vpn-gorilla-tag-1431943'>El peligro de las VPN gratuitas: Big Mama VPN roba la conexión a Internet a miles de adolescentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-vpn-gratuitas-big-mama-vpn-gorilla-tag-1431943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/peligro-vpn-gratuitas-big-mama-vpn-roba-conexion-internet-miles-adolescentes-4276656.jpg?tf=1200x' alt='El peligro de las VPN gratuitas: Big Mama VPN roba la conexión a Internet a miles de adolescentes' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/nissan-honda-anuncian-fusion-afrontar-nueva-era-coche-electrico-1431954'>Nissan y Honda anuncian una fusión para afrontar la nueva era del coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/nissan-honda-anuncian-fusion-afrontar-nueva-era-coche-electrico-1431954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honda-nissan-anuncian-fusion-afrontar-nueva-era-coche-electrico-4276677.jpg?tf=1200x' alt='Nissan y Honda anuncian una fusión para afrontar la nueva era del coche eléctrico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-wii-sigue-siendo-estrella-fiestas-navidenas-decada-despues-1431922'>La Nintendo Wii sigue siendo la estrella de las fiestas navideñas más de una década después</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-wii-sigue-siendo-estrella-fiestas-navidenas-decada-despues-1431922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-wii-sigue-siendo-estrella-fiestas-navidenas-decada-despues-4276651.jpg?tf=1200x' alt='La Nintendo Wii sigue siendo la estrella de las fiestas navideñas más de una década después' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/mejores-playlists-navidenas-apple-music-villancicos-canciones-1430980'>Arrasa en Navidad con las mejores playlists navideñas de Apple Music: villancicos y canciones top</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/mejores-playlists-navidenas-apple-music-villancicos-canciones-1430980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/listas-navidad-apple-music-4275040.jpg?tf=1200x' alt='Arrasa en Navidad con las mejores playlists navideñas de Apple Music: villancicos y canciones top' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-airpods-pro-3-apple-camaras-biosensores-salud-1431936'>Giro de 180 grados en los AirPods Pro 3 de Apple: mucho más que escuchar música</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-airpods-pro-3-apple-camaras-biosensores-salud-1431936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/airpods-pro-3-apple-podrian-detectar-enfermedades-cardiacas-4243051.jpg?tf=1200x' alt='Giro de 180 grados en los AirPods Pro 3 de Apple: mucho más que escuchar música' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/he-probado-muchos-moviles-alta-gama-pero-solo-nubia-z70-ultra-me-ha-permitido-llegar-2-dias-uso-1430648'>He probado muchos móviles de alta gama, pero solo el Nubia Z70 Ultra me ha permitido llegar a más de 2 días de uso</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/he-probado-muchos-moviles-alta-gama-pero-solo-nubia-z70-ultra-me-ha-permitido-llegar-2-dias-uso-1430648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nubia-z70-ultra-4274418.jpg?tf=1200x' alt='He probado muchos móviles de alta gama, pero solo el Nubia Z70 Ultra me ha permitido llegar a más de 2 días de uso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-1431932'>La sonda solar Parker de la NASA alcanzará un nuevo hito al acercarse como nunca antes al Sol</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-1431932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-alcanzara-nuevo-hito-acercarse-como-nunca-antes-sol-4276637.jpg?tf=1200x' alt='La sonda solar Parker de la NASA alcanzará un nuevo hito al acercarse como nunca antes al Sol' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/soy-reviewer-estos-son-7-trucos-editar-retratos-google-fotos-1414792'>Soy reviewer y estos son mis 7 trucos para editar tus retratos en Google Fotos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/soy-reviewer-estos-son-7-trucos-editar-retratos-google-fotos-1414792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-google-fotos-4254985.jpg?tf=1200x' alt='Soy reviewer y estos son mis 7 trucos para editar tus retratos en Google Fotos' />
     </a>
 </div>
 
