@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/precio-google-pixel-9-toca-fondo-amazon-eso-solo-color-1431995'>El precio del Google Pixel 9 toca fondo en Amazon, eso sí, en un solo color</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/precio-google-pixel-9-toca-fondo-amazon-eso-solo-color-1431995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-pixel-9-4276744.jpg?tf=1200x' alt='El precio del Google Pixel 9 toca fondo en Amazon, eso sí, en un solo color' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-1432021'>Adiós a los ventiladores en los portátiles: llegan los emisores de aire ionizado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-1432021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-ventiladores-portatiles-llegan-emisores-aire-ionizado-4276769.jpg?tf=1200x' alt='Adiós a los ventiladores en los portátiles: llegan los emisores de aire ionizado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004'>Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/fire-tv-stick-amazon-caducan-fecha-dejaran-recibir-actualizaciones-1432004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/amazon-fire-tv-stick-3223450.jpg?tf=1200x' alt='Los Fire TV Stick de Amazon caducan: esta es la fecha en la que dejarán de recibir actualizaciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-reconoce-derrota-guerra-chips-1431983'>Estados Unidos reconoce su derrota en la guerra de los chips: "Tratar de frenar a China es un disparate"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-reconoce-derrota-guerra-chips-1431983' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estados-unidos-reconoce-derrota-guerra-chips-tratar-frenar-china-disparate-4276729.jpg?tf=1200x' alt='Estados Unidos reconoce su derrota en la guerra de los chips: "Tratar de frenar a China es un disparate"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/100-frases-navidad-cortas-felicitar-fiestas-whatsapp-1348684'>100 frases de Navidad cortas para felicitar las fiestas a tus contactos en WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/100-frases-navidad-cortas-felicitar-fiestas-whatsapp-1348684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/frases-cortas-felicitaciones-navidad-2022-whatsapp-2899054.jpg?tf=1200x' alt='100 frases de Navidad cortas para felicitar las fiestas a tus contactos en WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ninos-hablar-directamente-papa-noel-traves-gemini-ia-1430989'>Ni cartas ni listas: los niños ahora pueden hablar directamente con Papá Noel a través de Gemini IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/ninos-hablar-directamente-papa-noel-traves-gemini-ia-1430989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/papa-noel-gemini-ai-4275317.jpg?tf=1200x' alt='Ni cartas ni listas: los niños ahora pueden hablar directamente con Papá Noel a través de Gemini IA' />
     </a>
 </div>
 
