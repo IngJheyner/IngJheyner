@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-gama-alta-precio-gama-media-snapdragon-8-gen-2-gran-autonomia-poco-300-euros-1432105'>Móvil de gama alta a precio de gama media: Snapdragon 8 Gen 2 y gran autonomía por poco más de 300 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movil-gama-alta-precio-gama-media-snapdragon-8-gen-2-gran-autonomia-poco-300-euros-1432105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='Móvil de gama alta a precio de gama media: Snapdragon 8 Gen 2 y gran autonomía por poco más de 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-1428280'>Las joyas ocultas de 2024: películas de las que nadie habla que deberías ver antes de acabar el año</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-1428280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-4270358.jpg?tf=1200x' alt='Las joyas ocultas de 2024: películas de las que nadie habla que deberías ver antes de acabar el año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/mejores-plataformas-online-aprender-programar-gratis-2025-1427554'>Las mejores plataformas online para aprender a programar gratis en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/mejores-plataformas-online-aprender-programar-gratis-2025-1427554' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estudiar-programacion-4269108.jpg?tf=1200x' alt='Las mejores plataformas online para aprender a programar gratis en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-planificar-viaje-carretera-perfecto-google-maps-1428644'>Cómo planificar el viaje por carretera perfecto en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-planificar-viaje-carretera-perfecto-google-maps-1428644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/viajes-carretera-google-maps-4271000.jpg?tf=1200x' alt='Cómo planificar el viaje por carretera perfecto en Google Maps' />
     </a>
 </div>
 
