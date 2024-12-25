@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277'>Si tienes esta conexión para TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/conexion-tv-habitaciones-velocidad-internet-cable-coaxial-1395277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/conexion-tv-internet-vuela-4276487.jpg?tf=1200x' alt='Si tienes esta conexión para TV en tus habitaciones, enhorabuena: puedes hacer que tu conexión a internet vuele' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-1428280'>Las joyas ocultas de 2024: películas de las que nadie habla que deberías ver antes de acabar el año</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-1428280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-4270358.jpg?tf=1200x' alt='Las joyas ocultas de 2024: películas de las que nadie habla que deberías ver antes de acabar el año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/razones-no-deberias-tirar-discos-dvd-antiguos-1352265'>Esta es la razón por la que haces bien en no tirar tus CD ni DVD antiguos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/razones-no-deberias-tirar-discos-dvd-antiguos-1352265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/cuanto-tiempo-dura-dvd-blu-ray-cintas-vhs-3308744.jpg?tf=1200x' alt='Esta es la razón por la que haces bien en no tirar tus CD ni DVD antiguos' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/15-mejores-anime-shonen-puedes-ver-crunchyroll-estas-navidades-1406392'>15 mejores anime shonen que puedes ver en Crunchyroll estas Navidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/15-mejores-anime-shonen-puedes-ver-crunchyroll-estas-navidades-1406392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dragon-ball-super-4239332.jpg?tf=1200x' alt='15 mejores anime shonen que puedes ver en Crunchyroll estas Navidades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/teclado-icebreaker-mas-caro-mundo-cuesta-1500-euros-1432052'>Parece una estafa, pero no lo es: el teclado más caro del mundo cuesta 1.500 euros, y no hace nada especial</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/teclado-icebreaker-mas-caro-mundo-cuesta-1500-euros-1432052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parece-estafa-pero-no-teclado-caro-mundo-cuesta-1500-euros-no-hace-nada-especial-4276823.jpg?tf=1200x' alt='Parece una estafa, pero no lo es: el teclado más caro del mundo cuesta 1.500 euros, y no hace nada especial' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/adios-vistas-previas-automaticas-netflix-puedes-desactivar-molesta-funcion-facilmente-1429869'>Adiós a las vistas previas automáticas en Netflix, así puedes desactivar esta molesta función fácilmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/adios-vistas-previas-automaticas-netflix-puedes-desactivar-molesta-funcion-facilmente-1429869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reproduccion-automatica-netflix-4273168.jpg?tf=1200x' alt='Adiós a las vistas previas automáticas en Netflix, así puedes desactivar esta molesta función fácilmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pedido-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652'>Le he pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pedido-metodo-puntos-steve-jobs-chatgpt-disenos-son-geniales-1348652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-jobs-ia-4276478.jpg?tf=1200x' alt='Le he pedido a ChatGPT que utilice el método de puntos de Steve Jobs y los inventos que ha generado son fascinantes' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-plataformas-online-aprender-programar-gratis-2025-1427554'>Las mejores plataformas online para aprender a programar gratis en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mejores-plataformas-online-aprender-programar-gratis-2025-1427554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estudiar-programacion-4269108.jpg?tf=1200x' alt='Las mejores plataformas online para aprender a programar gratis en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802'>12+1 usos legales por los que merece la pena comprar un Flipper Zero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/usos-legales-merece-pena-comprar-flipper-zero-1348802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cosas-puedes-hacer-no-flipper-zero-tamagotchi-hackers-3588630.jpg?tf=1200x' alt='12+1 usos legales por los que merece la pena comprar un Flipper Zero' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-planificar-viaje-carretera-perfecto-google-maps-1428644'>Cómo planificar el viaje por carretera perfecto en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-planificar-viaje-carretera-perfecto-google-maps-1428644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/viajes-carretera-google-maps-4271000.jpg?tf=1200x' alt='Cómo planificar el viaje por carretera perfecto en Google Maps' />
     </a>
 </div>
 
