@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-1429647'>CapibaraZero, la alternativa ultra barata a Flipper Zero que puedes fabricar tú mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-1429647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-4272793.jpg?tf=1200x' alt='CapibaraZero, la alternativa ultra barata a Flipper Zero que puedes fabricar tú mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-marca-smartwatch-nacio-militares-pero-triunfo-deportistas-1404526'>Garmin, la marca de smartwatch que nació para militares pero triunfó entre deportistas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-marca-smartwatch-nacio-militares-pero-triunfo-deportistas-1404526' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-4157218.jpg?tf=1200x' alt='Garmin, la marca de smartwatch que nació para militares pero triunfó entre deportistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-gama-alta-precio-gama-media-snapdragon-8-gen-2-gran-autonomia-poco-300-euros-1432105'>Móvil de gama alta a precio de gama media: Snapdragon 8 Gen 2 y gran autonomía por poco más de 300 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/movil-gama-alta-precio-gama-media-snapdragon-8-gen-2-gran-autonomia-poco-300-euros-1432105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='Móvil de gama alta a precio de gama media: Snapdragon 8 Gen 2 y gran autonomía por poco más de 300 euros' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/15-mejores-anime-shonen-puedes-ver-crunchyroll-estas-navidades-1406392'>15 mejores anime shonen que puedes ver en Crunchyroll estas Navidades</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/15-mejores-anime-shonen-puedes-ver-crunchyroll-estas-navidades-1406392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dragon-ball-super-4239332.jpg?tf=1200x' alt='15 mejores anime shonen que puedes ver en Crunchyroll estas Navidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/adios-vistas-previas-automaticas-netflix-puedes-desactivar-molesta-funcion-facilmente-1429869'>Adiós a las vistas previas automáticas en Netflix, así puedes desactivar esta molesta función fácilmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/adios-vistas-previas-automaticas-netflix-puedes-desactivar-molesta-funcion-facilmente-1429869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/reproduccion-automatica-netflix-4273168.jpg?tf=1200x' alt='Adiós a las vistas previas automáticas en Netflix, así puedes desactivar esta molesta función fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-plataformas-online-aprender-programar-gratis-2025-1427554'>Las mejores plataformas online para aprender a programar gratis en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mejores-plataformas-online-aprender-programar-gratis-2025-1427554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estudiar-programacion-4269108.jpg?tf=1200x' alt='Las mejores plataformas online para aprender a programar gratis en 2025' />
     </a>
 </div>
 
