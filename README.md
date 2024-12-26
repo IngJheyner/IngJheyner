@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelos-ia-avanzan-tan-rapido-evaluaciones-llevarlas-limite-no-pueden-seguir-ritmo-1432358'>Los modelos de IA avanzan tan rápido que las evaluaciones para llevarlas a su límite no pueden seguir el ritmo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/modelos-ia-avanzan-tan-rapido-evaluaciones-llevarlas-limite-no-pueden-seguir-ritmo-1432358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='Los modelos de IA avanzan tan rápido que las evaluaciones para llevarlas a su límite no pueden seguir el ritmo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/japan-airlines-sufre-ciberataque-denegacion-servicio-decenas-vuelos-retrasados-1432353'>Japan Airlines sufre un ciberataque de denegación de servicio: decenas de vuelos retrasados</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/japan-airlines-sufre-ciberataque-denegacion-servicio-decenas-vuelos-retrasados-1432353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/japan-airlines-4277319.jpg?tf=1200x' alt='Japan Airlines sufre un ciberataque de denegación de servicio: decenas de vuelos retrasados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351'>Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-4277313.jpg?tf=1200x' alt='Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-mac-ni-linux-3-razones-windows-tiene-virus-1432319'>Ni Mac ni Linux, las 3 razones por las que Windows tiene más virus</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-mac-ni-linux-3-razones-windows-tiene-virus-1432319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-mac-ni-linux-3-razones-windows-tiene-virus-4277287.jpg?tf=1200x' alt='Ni Mac ni Linux, las 3 razones por las que Windows tiene más virus' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-1432296'>HeliCops: Así funciona la tecnología que pone en jaque a los helicópteros de la DGT </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-1432296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-4277226.jpg?tf=1200x' alt='HeliCops: Así funciona la tecnología que pone en jaque a los helicópteros de la DGT ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/magsafe-samsung-carga-magnetica-apunta-llegar-serie-galaxy-s25-1432301'>¿MagSafe en Samsung? La carga magnética apunta a llegar a la serie Galaxy S25</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/magsafe-samsung-carga-magnetica-apunta-llegar-serie-galaxy-s25-1432301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magsafe-funda-magnetica-samsung-galaxy-s25-4277215.jpg?tf=1200x' alt='¿MagSafe en Samsung? La carga magnética apunta a llegar a la serie Galaxy S25' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-cambia-coche-siempre-modo-multiusuario-nuevo-reproductor-multimedia-1432290'>Android cambia tu coche para siempre con modo multiusuario, nuevo reproductor multimedia y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-cambia-coche-siempre-modo-multiusuario-nuevo-reproductor-multimedia-1432290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg?tf=1200x' alt='Android cambia tu coche para siempre con modo multiusuario, nuevo reproductor multimedia y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-quiere-dar-vida-chatgpt-hara-realidad-robot-humanoide-sam-altman-1432289'>OpenAI quiere dar vida a ChatGPT. ¿Se hará realidad el robot humanoide de Sam Altman?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-quiere-dar-vida-chatgpt-hara-realidad-robot-humanoide-sam-altman-1432289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-estan-aqui-openai-une-1x-crear-primer-robot-humanoide-trabajador-chatgpt-3006320.jpg?tf=1200x' alt='OpenAI quiere dar vida a ChatGPT. ¿Se hará realidad el robot humanoide de Sam Altman?' />
     </a>
 </div>
 
