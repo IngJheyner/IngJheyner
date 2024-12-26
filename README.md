@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-1432254'>Sam Altman afirma que Elon Musk es "un matón al que le gusta pelearse con sus rivales"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-1432254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-4277141.jpg?tf=1200x' alt='Sam Altman afirma que Elon Musk es "un matón al que le gusta pelearse con sus rivales"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-dejara-enviar-soporte-windows-10-meses-pero-dos-versiones-tendran-anos-vida-gratis-1432249'>Microsoft dejará de enviar soporte de Windows 10 en unos meses, pero dos versiones tendrán más años de vida gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-dejara-enviar-soporte-windows-10-meses-pero-dos-versiones-tendran-anos-vida-gratis-1432249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft dejará de enviar soporte de Windows 10 en unos meses, pero dos versiones tendrán más años de vida gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ligero-potente-oferta-mejor-portatil-apple-m3-ahora-barato-1432035'>Ligero, potente y en oferta: el mejor portátil de Apple con M3 ahora es más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ligero-potente-oferta-mejor-portatil-apple-m3-ahora-barato-1432035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Ligero, potente y en oferta: el mejor portátil de Apple con M3 ahora es más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-1432208'>Giro de 180 grados en Microsoft: las aplicaciones de 365 cambiarán para siempre en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-1432208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-4277074.jpg?tf=1200x' alt='Giro de 180 grados en Microsoft: las aplicaciones de 365 cambiarán para siempre en 2025' />
     </a>
 </div>
 
