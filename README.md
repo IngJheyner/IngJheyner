@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/aplicacion-whatsapp-dejara-funcionar-estos-moviles-2025-1428108'>Adiós a WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/aplicacion-whatsapp-dejara-funcionar-estos-moviles-2025-1428108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Adiós a WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-1432154'>Nintendo se cansa de las filtraciones y podría adelantar el lanzamiento de la Switch 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-1432154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Nintendo se cansa de las filtraciones y podría adelantar el lanzamiento de la Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-1432165'>Apple no quiere ser Google: el sorprendente motivo por el que renuncia a tener su propio buscador</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-1432165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-4277015.jpg?tf=1200x' alt='Apple no quiere ser Google: el sorprendente motivo por el que renuncia a tener su propio buscador' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-estos-son-mejores-servicios-enviar-archivos-grandes-1425474'>Ni WhatsApp ni Telegram, estos son los mejores servicios para enviar archivos grandes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-estos-son-mejores-servicios-enviar-archivos-grandes-1425474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enviar-archivos-grandes-4265928.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, estos son los mejores servicios para enviar archivos grandes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-espero-ver-2025-1431355'>Hemos probado 70 móviles este año y esto es lo que espero ver en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-espero-ver-2025-1431355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-2025-4275800.jpg?tf=1200x' alt='Hemos probado 70 móviles este año y esto es lo que espero ver en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087'>Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-4141377.jpg?tf=1200x' alt='Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo' />
     </a>
 </div>
 
