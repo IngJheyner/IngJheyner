@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-cambia-coche-siempre-modo-multiusuario-nuevo-reproductor-multimedia-1432290'>Android cambia tu coche para siempre con modo multiusuario, nuevo reproductor multimedia y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-cambia-coche-siempre-modo-multiusuario-nuevo-reproductor-multimedia-1432290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg?tf=1200x' alt='Android cambia tu coche para siempre con modo multiusuario, nuevo reproductor multimedia y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-quiere-dar-vida-chatgpt-hara-realidad-robot-humanoide-sam-altman-1432289'>OpenAI quiere dar vida a ChatGPT. ¿Se hará realidad el robot humanoide de Sam Altman?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-quiere-dar-vida-chatgpt-hara-realidad-robot-humanoide-sam-altman-1432289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/ya-estan-aqui-openai-une-1x-crear-primer-robot-humanoide-trabajador-chatgpt-3006320.jpg?tf=1200x' alt='OpenAI quiere dar vida a ChatGPT. ¿Se hará realidad el robot humanoide de Sam Altman?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-1432263'>ChatGPT o3 rompe todas las expectativas y se acerca peligrosamente a la inteligencia artificial general</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-1432263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-4277153.jpg?tf=1200x' alt='ChatGPT o3 rompe todas las expectativas y se acerca peligrosamente a la inteligencia artificial general' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cnmv-abre-expediente-twitter-amenaza-multa-340-millones-1432270'>La CNMV abre un expediente a Twitter y amenaza con una multa de hasta 340 millones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cnmv-abre-expediente-twitter-amenaza-multa-340-millones-1432270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-twitter-3569826.jpg?tf=1200x' alt='La CNMV abre un expediente a Twitter y amenaza con una multa de hasta 340 millones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-permite-escanear-documentos-convertirlos-pdf-aplicacion-puedes-hacerlo-paso-paso-1432266'>WhatsApp permite escanear documentos y convertirlos a PDF desde la aplicación: así puedes hacerlo paso a paso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-permite-escanear-documentos-convertirlos-pdf-aplicacion-puedes-hacerlo-paso-paso-1432266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='WhatsApp permite escanear documentos y convertirlos a PDF desde la aplicación: así puedes hacerlo paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-1432254'>Sam Altman afirma que Elon Musk es "un matón al que le gusta pelearse con sus rivales"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-1432254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-4277141.jpg?tf=1200x' alt='Sam Altman afirma que Elon Musk es "un matón al que le gusta pelearse con sus rivales"' />
     </a>
 </div>
 
