@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-1432296'>HeliCops: Así funciona la tecnología que pone en jaque a los helicópteros de la DGT </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-1432296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-4277226.jpg?tf=1200x' alt='HeliCops: Así funciona la tecnología que pone en jaque a los helicópteros de la DGT ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/magsafe-samsung-carga-magnetica-apunta-llegar-serie-galaxy-s25-1432301'>¿MagSafe en Samsung? La carga magnética apunta a llegar a la serie Galaxy S25</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/magsafe-samsung-carga-magnetica-apunta-llegar-serie-galaxy-s25-1432301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magsafe-funda-magnetica-samsung-galaxy-s25-4277215.jpg?tf=1200x' alt='¿MagSafe en Samsung? La carga magnética apunta a llegar a la serie Galaxy S25' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-1432263'>ChatGPT o3 rompe todas las expectativas y se acerca peligrosamente a la inteligencia artificial general</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-1432263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-4277153.jpg?tf=1200x' alt='ChatGPT o3 rompe todas las expectativas y se acerca peligrosamente a la inteligencia artificial general' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espana-alerta-guardia-civil-avisa-estafa-roba-datos-bancarios-duplica-sim-1432280'>España, en alerta: la Guardia Civil avisa sobre la estafa que roba tus datos bancarios y duplica tu SIM</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/espana-alerta-guardia-civil-avisa-estafa-roba-datos-bancarios-duplica-sim-1432280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='España, en alerta: la Guardia Civil avisa sobre la estafa que roba tus datos bancarios y duplica tu SIM' />
     </a>
 </div>
 
