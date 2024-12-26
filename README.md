@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/magsafe-samsung-carga-magnetica-apunta-llegar-serie-galaxy-s25-1432301'>¿MagSafe en Samsung? La carga magnética apunta a llegar a la serie Galaxy S25</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/magsafe-samsung-carga-magnetica-apunta-llegar-serie-galaxy-s25-1432301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magsafe-funda-magnetica-samsung-galaxy-s25-4277215.jpg?tf=1200x' alt='¿MagSafe en Samsung? La carga magnética apunta a llegar a la serie Galaxy S25' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/android-cambia-coche-siempre-modo-multiusuario-nuevo-reproductor-multimedia-1432290'>Android cambia tu coche para siempre con modo multiusuario, nuevo reproductor multimedia y más</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-cambia-coche-siempre-modo-multiusuario-nuevo-reproductor-multimedia-1432290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/android-automotive-2556239.jpg?tf=1200x' alt='Android cambia tu coche para siempre con modo multiusuario, nuevo reproductor multimedia y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espana-alerta-guardia-civil-avisa-estafa-roba-datos-bancarios-duplica-sim-1432280'>España, en alerta: la Guardia Civil avisa sobre la estafa que roba tus datos bancarios y duplica tu SIM</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/espana-alerta-guardia-civil-avisa-estafa-roba-datos-bancarios-duplica-sim-1432280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='España, en alerta: la Guardia Civil avisa sobre la estafa que roba tus datos bancarios y duplica tu SIM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cnmv-abre-expediente-twitter-amenaza-multa-340-millones-1432270'>La CNMV abre un expediente a Twitter y amenaza con una multa de hasta 340 millones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cnmv-abre-expediente-twitter-amenaza-multa-340-millones-1432270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-twitter-3569826.jpg?tf=1200x' alt='La CNMV abre un expediente a Twitter y amenaza con una multa de hasta 340 millones' />
     </a>
 </div>
 
