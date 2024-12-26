@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-1432165'>Apple no quiere ser Google: el sorprendente motivo por el que renuncia a tener su propio buscador</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-1432165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-4277015.jpg?tf=1200x' alt='Apple no quiere ser Google: el sorprendente motivo por el que renuncia a tener su propio buscador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-sacado-star-wars-pero-robot-policia-patrulla-calles-china-1429444'>Parece sacado de una película de Star Wars, pero este robot policía ya patrulla las calles de China</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parece-sacado-star-wars-pero-robot-policia-patrulla-calles-china-1429444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-patrulla-policia-china-4277016.jpg?tf=1200x' alt='Parece sacado de una película de Star Wars, pero este robot policía ya patrulla las calles de China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-estos-son-mejores-servicios-enviar-archivos-grandes-1425474'>Ni WhatsApp ni Telegram, estos son los mejores servicios para enviar archivos grandes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-estos-son-mejores-servicios-enviar-archivos-grandes-1425474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enviar-archivos-grandes-4265928.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, estos son los mejores servicios para enviar archivos grandes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087'>Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-4141377.jpg?tf=1200x' alt='Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-ha-vuelto-loco-reloj-inteligente-amazfit-gps-ia-ahora-mitad-precio-1432017'>Amazon se ha vuelto loco: el reloj inteligente de Amazfit con GPS e IA ahora está a mitad de precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-ha-vuelto-loco-reloj-inteligente-amazfit-gps-ia-ahora-mitad-precio-1432017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazfit-cheetah-pro-4276777.jpg?tf=1200x' alt='Amazon se ha vuelto loco: el reloj inteligente de Amazfit con GPS e IA ahora está a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/puedes-ver-imagen-tomo-nasa-cumpleanos-telescopio-hubble-1424629'>Así puedes ver la imagen que tomó la NASA en tu cumpleaños con el telescopio Hubble</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/puedes-ver-imagen-tomo-nasa-cumpleanos-telescopio-hubble-1424629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-sacada-web-oficial-nasa-4264567.jpg?tf=1200x' alt='Así puedes ver la imagen que tomó la NASA en tu cumpleaños con el telescopio Hubble' />
     </a>
 </div>
 
