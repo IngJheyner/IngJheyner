@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087'>Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-4141377.jpg?tf=1200x' alt='Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-ha-vuelto-loco-reloj-inteligente-amazfit-gps-ia-ahora-mitad-precio-1432017'>Amazon se ha vuelto loco: el reloj inteligente de Amazfit con GPS e IA ahora está a mitad de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-ha-vuelto-loco-reloj-inteligente-amazfit-gps-ia-ahora-mitad-precio-1432017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazfit-cheetah-pro-4276777.jpg?tf=1200x' alt='Amazon se ha vuelto loco: el reloj inteligente de Amazfit con GPS e IA ahora está a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/puedes-ver-imagen-tomo-nasa-cumpleanos-telescopio-hubble-1424629'>Así puedes ver la imagen que tomó la NASA en tu cumpleaños con el telescopio Hubble</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/puedes-ver-imagen-tomo-nasa-cumpleanos-telescopio-hubble-1424629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-sacada-web-oficial-nasa-4264567.jpg?tf=1200x' alt='Así puedes ver la imagen que tomó la NASA en tu cumpleaños con el telescopio Hubble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-1429647'>CapibaraZero, la alternativa ultra barata a Flipper Zero que puedes fabricar tú mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-1429647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-4272793.jpg?tf=1200x' alt='CapibaraZero, la alternativa ultra barata a Flipper Zero que puedes fabricar tú mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-marca-smartwatch-nacio-militares-pero-triunfo-deportistas-1404526'>Garmin, la marca de smartwatch que nació para militares pero triunfó entre deportistas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/garmin-marca-smartwatch-nacio-militares-pero-triunfo-deportistas-1404526' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-4157218.jpg?tf=1200x' alt='Garmin, la marca de smartwatch que nació para militares pero triunfó entre deportistas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movil-gama-alta-precio-gama-media-snapdragon-8-gen-2-gran-autonomia-poco-300-euros-1432105'>Móvil de gama alta a precio de gama media: Snapdragon 8 Gen 2 y gran autonomía por poco más de 300 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movil-gama-alta-precio-gama-media-snapdragon-8-gen-2-gran-autonomia-poco-300-euros-1432105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nubia-z60s-pro-4158036.jpg?tf=1200x' alt='Móvil de gama alta a precio de gama media: Snapdragon 8 Gen 2 y gran autonomía por poco más de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-1428280'>Las joyas ocultas de 2024: películas de las que nadie habla que deberías ver antes de acabar el año</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-1428280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/joyas-ocultas-2024-peliculas-nadie-habla-deberias-ver-antes-acabar-ano-4270358.jpg?tf=1200x' alt='Las joyas ocultas de 2024: películas de las que nadie habla que deberías ver antes de acabar el año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/15-mejores-anime-shonen-puedes-ver-crunchyroll-estas-navidades-1406392'>15 mejores anime shonen que puedes ver en Crunchyroll estas Navidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/15-mejores-anime-shonen-puedes-ver-crunchyroll-estas-navidades-1406392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/dragon-ball-super-4239332.jpg?tf=1200x' alt='15 mejores anime shonen que puedes ver en Crunchyroll estas Navidades' />
     </a>
 </div>
 
