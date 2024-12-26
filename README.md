@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-estos-son-mejores-servicios-enviar-archivos-grandes-1425474'>Ni WhatsApp ni Telegram, estos son los mejores servicios para enviar archivos grandes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-estos-son-mejores-servicios-enviar-archivos-grandes-1425474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/enviar-archivos-grandes-4265928.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, estos son los mejores servicios para enviar archivos grandes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-espero-ver-2025-1431355'>Hemos probado 70 móviles este año y esto es lo que espero ver en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-espero-ver-2025-1431355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-2025-4275800.jpg?tf=1200x' alt='Hemos probado 70 móviles este año y esto es lo que espero ver en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087'>Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/asus-fabricante-placas-base-convirtio-mayores-marcas-pc-mundo-1404087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/asus-4141377.jpg?tf=1200x' alt='Asus, el fabricante de placas base que se convirtió en una de las mayores marcas de PC en el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/puedes-ver-imagen-tomo-nasa-cumpleanos-telescopio-hubble-1424629'>Así puedes ver la imagen que tomó la NASA en tu cumpleaños con el telescopio Hubble</a></h4>
     <a href='https://computerhoy.20minutos.es/life/puedes-ver-imagen-tomo-nasa-cumpleanos-telescopio-hubble-1424629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/imagen-sacada-web-oficial-nasa-4264567.jpg?tf=1200x' alt='Así puedes ver la imagen que tomó la NASA en tu cumpleaños con el telescopio Hubble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-1429647'>CapibaraZero, la alternativa ultra barata a Flipper Zero que puedes fabricar tú mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-1429647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/capibarazero-alternativa-ultra-barata-flipper-zero-puedes-fabricar-mismo-4272793.jpg?tf=1200x' alt='CapibaraZero, la alternativa ultra barata a Flipper Zero que puedes fabricar tú mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-marca-smartwatch-nacio-militares-pero-triunfo-deportistas-1404526'>Garmin, la marca de smartwatch que nació para militares pero triunfó entre deportistas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-marca-smartwatch-nacio-militares-pero-triunfo-deportistas-1404526' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/garmin-4157218.jpg?tf=1200x' alt='Garmin, la marca de smartwatch que nació para militares pero triunfó entre deportistas' />
     </a>
 </div>
 
