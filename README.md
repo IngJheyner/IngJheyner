@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-1432228'>China quiere que vuelva el CD, pero no será igual a como lo recuerdas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-1432228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-4277109.jpg?tf=1200x' alt='China quiere que vuelva el CD, pero no será igual a como lo recuerdas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ligero-potente-oferta-mejor-portatil-apple-m3-ahora-barato-1432035'>Ligero, potente y en oferta: el mejor portátil de Apple con M3 ahora es más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ligero-potente-oferta-mejor-portatil-apple-m3-ahora-barato-1432035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Ligero, potente y en oferta: el mejor portátil de Apple con M3 ahora es más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-1432208'>Giro de 180 grados en Microsoft: las aplicaciones de 365 cambiarán para siempre en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-1432208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-4277074.jpg?tf=1200x' alt='Giro de 180 grados en Microsoft: las aplicaciones de 365 cambiarán para siempre en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/tiempo-cambiar-pasta-termica-procesador-pc-1373562'>¿Cuánto tiempo dura la pasta térmica en el procesador? Así puedes cambiarla antes de que seque</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tiempo-cambiar-pasta-termica-procesador-pc-1373562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='¿Cuánto tiempo dura la pasta térmica en el procesador? Así puedes cambiarla antes de que seque' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicacion-whatsapp-dejara-funcionar-estos-moviles-2025-1428108'>Adiós a WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicacion-whatsapp-dejara-funcionar-estos-moviles-2025-1428108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Adiós a WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-1432154'>Nintendo se cansa de las filtraciones y podría adelantar el lanzamiento de la Switch 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-1432154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Nintendo se cansa de las filtraciones y podría adelantar el lanzamiento de la Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-1432165'>Apple no quiere ser Google: el sorprendente motivo por el que renuncia a tener su propio buscador</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-1432165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-no-desea-convertirse-nueva-google-sorprendente-motivo-renuncia-tener-propio-buscador-4277015.jpg?tf=1200x' alt='Apple no quiere ser Google: el sorprendente motivo por el que renuncia a tener su propio buscador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-sacado-star-wars-pero-robot-policia-patrulla-calles-china-1429444'>Parece sacado de una película de Star Wars, pero este robot policía ya patrulla las calles de China</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/parece-sacado-star-wars-pero-robot-policia-patrulla-calles-china-1429444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/robot-patrulla-policia-china-4277016.jpg?tf=1200x' alt='Parece sacado de una película de Star Wars, pero este robot policía ya patrulla las calles de China' />
     </a>
 </div>
 
