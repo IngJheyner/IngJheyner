@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-dejara-enviar-soporte-windows-10-meses-pero-dos-versiones-tendran-anos-vida-gratis-1432249'>Microsoft dejará de enviar soporte de Windows 10 en unos meses, pero dos versiones tendrán más años de vida gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-dejara-enviar-soporte-windows-10-meses-pero-dos-versiones-tendran-anos-vida-gratis-1432249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft dejará de enviar soporte de Windows 10 en unos meses, pero dos versiones tendrán más años de vida gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-cada-dia-parece-twitter-mejores-funciones-red-social-1432234'>Bluesky cada día se parece más a Twitter con una de las mejores funciones de la red social</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/bluesky-cada-dia-parece-twitter-mejores-funciones-red-social-1432234' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-cada-dia-parece-twitter-mejores-funciones-red-social-4277089.jpg?tf=1200x' alt='Bluesky cada día se parece más a Twitter con una de las mejores funciones de la red social' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-1432228'>China quiere que vuelva el CD, pero no será igual a como lo recuerdas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-1432228' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-4277109.jpg?tf=1200x' alt='China quiere que vuelva el CD, pero no será igual a como lo recuerdas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-1432208'>Giro de 180 grados en Microsoft: las aplicaciones de 365 cambiarán para siempre en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-1432208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-microsoft-aplicaciones-365-cambiaran-siempre-2025-4277074.jpg?tf=1200x' alt='Giro de 180 grados en Microsoft: las aplicaciones de 365 cambiarán para siempre en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tiempo-cambiar-pasta-termica-procesador-pc-1373562'>¿Cuánto tiempo dura la pasta térmica en el procesador? Así puedes cambiarla antes de que seque</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tiempo-cambiar-pasta-termica-procesador-pc-1373562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/cuanto-tiempo-dura-pasta-termica-procesador-como-cambiarla-antes-seque-3289573.jpg?tf=1200x' alt='¿Cuánto tiempo dura la pasta térmica en el procesador? Así puedes cambiarla antes de que seque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/aplicacion-whatsapp-dejara-funcionar-estos-moviles-2025-1428108'>Adiós a WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/aplicacion-whatsapp-dejara-funcionar-estos-moviles-2025-1428108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Adiós a WhatsApp: la aplicación dejará de funcionar en estos móviles en 2025' />
     </a>
 </div>
 
