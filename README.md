@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-1432263'>ChatGPT o3 rompe todas las expectativas y se acerca peligrosamente a la inteligencia artificial general</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-1432263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-o3-rompe-todas-expectativas-acerca-peligrosamente-inteligencia-artificial-general-4277153.jpg?tf=1200x' alt='ChatGPT o3 rompe todas las expectativas y se acerca peligrosamente a la inteligencia artificial general' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espana-alerta-guardia-civil-avisa-estafa-roba-datos-bancarios-duplica-sim-1432280'>España, en alerta: la Guardia Civil avisa sobre la estafa que roba tus datos bancarios y duplica tu SIM</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/espana-alerta-guardia-civil-avisa-estafa-roba-datos-bancarios-duplica-sim-1432280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/tarjeta-sim-2953546.jpg?tf=1200x' alt='España, en alerta: la Guardia Civil avisa sobre la estafa que roba tus datos bancarios y duplica tu SIM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cnmv-abre-expediente-twitter-amenaza-multa-340-millones-1432270'>La CNMV abre un expediente a Twitter y amenaza con una multa de hasta 340 millones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cnmv-abre-expediente-twitter-amenaza-multa-340-millones-1432270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-twitter-3569826.jpg?tf=1200x' alt='La CNMV abre un expediente a Twitter y amenaza con una multa de hasta 340 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-permite-escanear-documentos-convertirlos-pdf-aplicacion-puedes-hacerlo-paso-paso-1432266'>WhatsApp permite escanear documentos y convertirlos a PDF desde la aplicación: así puedes hacerlo paso a paso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-permite-escanear-documentos-convertirlos-pdf-aplicacion-puedes-hacerlo-paso-paso-1432266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estados-whatsapp-copian-funcion-muy-usada-instagram-4258645.jpg?tf=1200x' alt='WhatsApp permite escanear documentos y convertirlos a PDF desde la aplicación: así puedes hacerlo paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-1432254'>Sam Altman afirma que Elon Musk es "un matón al que le gusta pelearse con sus rivales"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-1432254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-afirma-elon-musk-maton-gusta-pelearse-rivales-4277141.jpg?tf=1200x' alt='Sam Altman afirma que Elon Musk es "un matón al que le gusta pelearse con sus rivales"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-dejara-enviar-soporte-windows-10-meses-pero-dos-versiones-tendran-anos-vida-gratis-1432249'>Microsoft dejará de enviar soporte de Windows 10 en unos meses, pero dos versiones tendrán más años de vida gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-dejara-enviar-soporte-windows-10-meses-pero-dos-versiones-tendran-anos-vida-gratis-1432249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/windows-10-3305161.jpg?tf=1200x' alt='Microsoft dejará de enviar soporte de Windows 10 en unos meses, pero dos versiones tendrán más años de vida gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/bluesky-cada-dia-parece-twitter-mejores-funciones-red-social-1432234'>Bluesky cada día se parece más a Twitter con una de las mejores funciones de la red social</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/bluesky-cada-dia-parece-twitter-mejores-funciones-red-social-1432234' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bluesky-cada-dia-parece-twitter-mejores-funciones-red-social-4277089.jpg?tf=1200x' alt='Bluesky cada día se parece más a Twitter con una de las mejores funciones de la red social' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-1432228'>China quiere que vuelva el CD, pero no será igual a como lo recuerdas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-1432228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/china-quiere-vuelva-cd-pero-no-sera-igual-como-recuerdas-4277109.jpg?tf=1200x' alt='China quiere que vuelva el CD, pero no será igual a como lo recuerdas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ligero-potente-oferta-mejor-portatil-apple-m3-ahora-barato-1432035'>Ligero, potente y en oferta: el mejor portátil de Apple con M3 ahora es más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ligero-potente-oferta-mejor-portatil-apple-m3-ahora-barato-1432035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='Ligero, potente y en oferta: el mejor portátil de Apple con M3 ahora es más barato' />
     </a>
 </div>
 
