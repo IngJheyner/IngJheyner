@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487'>Apple pospondrá la evolución de su Isla Dinámica</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-pospondra-evolucion-isla-dinamica-4277496.jpg?tf=1200x' alt='Apple pospondrá la evolución de su Isla Dinámica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/deposito-grande-agua-universo-equivale-140-billones-oceanos-nasa-aunque-12000-millones-anos-luz-1432488'>El depósito más grande de agua del universo equivale a 140 billones de océanos, según la NASA, aunque está a 12.000 millones de años luz</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/deposito-grande-agua-universo-equivale-140-billones-oceanos-nasa-aunque-12000-millones-anos-luz-1432488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-planeta-agua-4277509.jpg?tf=1200x' alt='El depósito más grande de agua del universo equivale a 140 billones de océanos, según la NASA, aunque está a 12.000 millones de años luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-crunchyroll-serie-original-pokemon-ya-youtube-completamente-gratis-1432467'>Ni Netflix ni Crunchyroll, la serie original de Pokémon ya está en Youtube completamente gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-crunchyroll-serie-original-pokemon-ya-youtube-completamente-gratis-1432467' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/serie-original-pokemon-ya-youtube-puedes-disfrutar-ella-completamente-gratis-4277486.jpg?tf=1200x' alt='Ni Netflix ni Crunchyroll, la serie original de Pokémon ya está en Youtube completamente gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-anade-funcion-indecisos-puedan-elegir-facilmente-siguiente-video-1432481'>YouTube añade una función para que los más indecisos puedan elegir fácilmente el siguiente vídeo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-anade-funcion-indecisos-puedan-elegir-facilmente-siguiente-video-1432481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-4112830.jpg?tf=1200x' alt='YouTube añade una función para que los más indecisos puedan elegir fácilmente el siguiente vídeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-byd-no-solo-enfrentan-coches-electricos-tambien-robots-humanoides-ia-1432454'>Tesla vs BYD, no solo se enfrentan con sus coches eléctricos, también con los robots humanoides y la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tesla-byd-no-solo-enfrentan-coches-electricos-tambien-robots-humanoides-ia-1432454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-byd-no-solo-enfrentan-dominar-coches-electricos-tambien-robots-humanoides-ia-4277469.jpg?tf=1200x' alt='Tesla vs BYD, no solo se enfrentan con sus coches eléctricos, también con los robots humanoides y la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzar-iphone-esperado-2025-pero-no-estara-solo-1432442'>Apple se prepara para lanzar el iPhone más esperado en 2025, pero no estará solo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzar-iphone-esperado-2025-pero-no-estara-solo-1432442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='Apple se prepara para lanzar el iPhone más esperado en 2025, pero no estará solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/gemini-puede-acceder-nube-google-drive-puede-hacer-datos-1432435'>Gemini puede acceder a la nube de Google Drive: esto es lo que puede hacer con tus datos </a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/gemini-puede-acceder-nube-google-drive-puede-hacer-datos-1432435' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gemini-puede-acceder-nube-google-drive-puede-hacer-datos-4277460.jpg?tf=1200x' alt='Gemini puede acceder a la nube de Google Drive: esto es lo que puede hacer con tus datos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-microsoft-creen-inteligencia-artificial-general-sera-realidad-cuando-tenga-100000-millones-beneficios-1432436'>OpenAI y Microsoft creen que la inteligencia artificial general será una realidad cuando tenga 100.000 millones en beneficios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-microsoft-creen-inteligencia-artificial-general-sera-realidad-cuando-tenga-100000-millones-beneficios-1432436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-general-agi-4277452.jpg?tf=1200x' alt='OpenAI y Microsoft creen que la inteligencia artificial general será una realidad cuando tenga 100.000 millones en beneficios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-1432411'>Apple trabaja en “el iPhone definitivo” para cumplir los sueños de Steve Jobs</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-1432411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-4277414.jpg?tf=1200x' alt='Apple trabaja en “el iPhone definitivo” para cumplir los sueños de Steve Jobs' />
     </a>
 </div>
 
