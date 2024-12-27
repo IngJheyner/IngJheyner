@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-evitar-sustos-durante-fiestas-mucho-ojo-redes-sociales-1432476'>El consejo de la Policía Nacional para evitar sustos durante las fiestas: mucho ojo a las redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-evitar-sustos-durante-fiestas-mucho-ojo-redes-sociales-1432476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/policia-nacional-3256495.jpg?tf=1200x' alt='El consejo de la Policía Nacional para evitar sustos durante las fiestas: mucho ojo a las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459'>Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-4277478.jpg?tf=1200x' alt='Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-crunchyroll-serie-original-pokemon-ya-youtube-completamente-gratis-1432467'>Ni Netflix ni Crunchyroll, la serie original de Pokémon ya está en Youtube completamente gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-crunchyroll-serie-original-pokemon-ya-youtube-completamente-gratis-1432467' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/serie-original-pokemon-ya-youtube-puedes-disfrutar-ella-completamente-gratis-4277486.jpg?tf=1200x' alt='Ni Netflix ni Crunchyroll, la serie original de Pokémon ya está en Youtube completamente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-anade-funcion-indecisos-puedan-elegir-facilmente-siguiente-video-1432481'>YouTube añade una función para que los más indecisos puedan elegir fácilmente el siguiente vídeo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/youtube-anade-funcion-indecisos-puedan-elegir-facilmente-siguiente-video-1432481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-4112830.jpg?tf=1200x' alt='YouTube añade una función para que los más indecisos puedan elegir fácilmente el siguiente vídeo' />
     </a>
 </div>
 
