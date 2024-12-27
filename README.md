@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/lg-va-presentar-lampara-ces-2025-jardineria-1432404'>LG va a presentar una lámpara en CES 2025 que lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/lg-va-presentar-lampara-ces-2025-jardineria-1432404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lg-va-presentar-lampara-ces-2025-cambia-todo-4277389.jpg?tf=1200x' alt='LG va a presentar una lámpara en CES 2025 que lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-sora-recuperan-haberse-caido-todo-mundo-durante-horas-1432394'>ChatGPT y Sora se recuperan tras haberse caído en todo el mundo durante horas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-sora-recuperan-haberse-caido-todo-mundo-durante-horas-1432394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='ChatGPT y Sora se recuperan tras haberse caído en todo el mundo durante horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-controlar-hijos-ven-youtube-1431582'>Este código secreto te permite controlar lo que tus hijos ven en YouTube: así puedes activarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-controlar-hijos-ven-youtube-1431582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ninos-youtube-4276000.jpg?tf=1200x' alt='Este código secreto te permite controlar lo que tus hijos ven en YouTube: así puedes activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262'>¿Será suficiente una CPU de 6 núcleos para jugar en 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cpu-6-nucleos-4277157.jpg?tf=1200x' alt='¿Será suficiente una CPU de 6 núcleos para jugar en 2025?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-hdr-samsung-anuncia-cambio-importante-ves-videos-noche-1432383'>Giro de 180 grados con el HDR de Samsung: anuncia un cambio importante si ves vídeos por la noche</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-hdr-samsung-anuncia-cambio-importante-ves-videos-noche-1432383' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Giro de 180 grados con el HDR de Samsung: anuncia un cambio importante si ves vídeos por la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/wine-linux-como-funciona-1432235'>¿Qué es Wine para Linux y cómo funciona?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/wine-linux-como-funciona-1432235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/linux-wine-4277117.jpg?tf=1200x' alt='¿Qué es Wine para Linux y cómo funciona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-1432288'>¿Es el tiempo realmente una ilusión? Eso dice un nuevo estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-1432288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-4277167.jpg?tf=1200x' alt='¿Es el tiempo realmente una ilusión? Eso dice un nuevo estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-enchufes-electricos-llevar-internet-toda-casa-adaptadores-plc-1425787'>Cómo usar los enchufes eléctricos para llevar Internet a toda tu casa con adaptadores PLC</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-enchufes-electricos-llevar-internet-toda-casa-adaptadores-plc-1425787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/plc-tp-link-2689467.jpg?tf=1200x' alt='Cómo usar los enchufes eléctricos para llevar Internet a toda tu casa con adaptadores PLC' />
     </a>
 </div>
 
