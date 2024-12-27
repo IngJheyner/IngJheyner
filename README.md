@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-microsoft-creen-inteligencia-artificial-general-sera-realidad-cuando-tenga-100000-millones-beneficios-1432436'>OpenAI y Microsoft creen que la inteligencia artificial general será una realidad cuando tenga 100.000 millones en beneficios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-microsoft-creen-inteligencia-artificial-general-sera-realidad-cuando-tenga-100000-millones-beneficios-1432436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-general-agi-4277452.jpg?tf=1200x' alt='OpenAI y Microsoft creen que la inteligencia artificial general será una realidad cuando tenga 100.000 millones en beneficios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-1432411'>Apple trabaja en “el iPhone definitivo” para cumplir los sueños de Steve Jobs</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-1432411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-4277414.jpg?tf=1200x' alt='Apple trabaja en “el iPhone definitivo” para cumplir los sueños de Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/easter-egg-juego-calamar-puedes-jugar-busqueda-google-1432390'>Si eres fan de El Juego del Calamar atento a este easter egg de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/easter-egg-juego-calamar-puedes-jugar-busqueda-google-1432390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/juego-calamar-3251075.jpg?tf=1200x' alt='Si eres fan de El Juego del Calamar atento a este easter egg de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/grok-estrena-app-ios-web-propia-salir-x-1432417'>Grok estrena app en iOS y una web propia para salir de X</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/grok-estrena-app-ios-web-propia-salir-x-1432417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Grok estrena app en iOS y una web propia para salir de X' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/fallo-windows-11-impide-actualizaciones-seguridad-varios-dispositivos-aunque-tiene-facil-solucion-1432406'>Un fallo en Windows 11 impide las actualizaciones de seguridad en varios dispositivos, aunque tiene fácil solución</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/fallo-windows-11-impide-actualizaciones-seguridad-varios-dispositivos-aunque-tiene-facil-solucion-1432406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-4271809.jpg?tf=1200x' alt='Un fallo en Windows 11 impide las actualizaciones de seguridad en varios dispositivos, aunque tiene fácil solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/lg-va-presentar-lampara-ces-2025-jardineria-1432404'>LG va a presentar una lámpara en CES 2025 que lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/lg-va-presentar-lampara-ces-2025-jardineria-1432404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lg-va-presentar-lampara-ces-2025-cambia-todo-4277389.jpg?tf=1200x' alt='LG va a presentar una lámpara en CES 2025 que lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-sora-recuperan-haberse-caido-todo-mundo-durante-horas-1432394'>ChatGPT y Sora se recuperan tras haberse caído en todo el mundo durante horas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-sora-recuperan-haberse-caido-todo-mundo-durante-horas-1432394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/chatgpt-4244525.jpg?tf=1200x' alt='ChatGPT y Sora se recuperan tras haberse caído en todo el mundo durante horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-controlar-hijos-ven-youtube-1431582'>Este código secreto te permite controlar lo que tus hijos ven en YouTube: así puedes activarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/codigo-secreto-controlar-hijos-ven-youtube-1431582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ninos-youtube-4276000.jpg?tf=1200x' alt='Este código secreto te permite controlar lo que tus hijos ven en YouTube: así puedes activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262'>¿Será suficiente una CPU de 6 núcleos para jugar en 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cpu-6-nucleos-4277157.jpg?tf=1200x' alt='¿Será suficiente una CPU de 6 núcleos para jugar en 2025?' />
     </a>
 </div>
 
