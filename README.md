@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/fallo-windows-11-impide-actualizaciones-seguridad-varios-dispositivos-aunque-tiene-facil-solucion-1432406'>Un fallo en Windows 11 impide las actualizaciones de seguridad en varios dispositivos, aunque tiene fácil solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/fallo-windows-11-impide-actualizaciones-seguridad-varios-dispositivos-aunque-tiene-facil-solucion-1432406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-4271809.jpg?tf=1200x' alt='Un fallo en Windows 11 impide las actualizaciones de seguridad en varios dispositivos, aunque tiene fácil solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/lg-va-presentar-lampara-ces-2025-jardineria-1432404'>LG va a presentar una lámpara en CES 2025 que lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/lg-va-presentar-lampara-ces-2025-jardineria-1432404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lg-va-presentar-lampara-ces-2025-cambia-todo-4277389.jpg?tf=1200x' alt='LG va a presentar una lámpara en CES 2025 que lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262'>¿Será suficiente una CPU de 6 núcleos para jugar en 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cpu-6-nucleos-4277157.jpg?tf=1200x' alt='¿Será suficiente una CPU de 6 núcleos para jugar en 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-hdr-samsung-anuncia-cambio-importante-ves-videos-noche-1432383'>Giro de 180 grados con el HDR de Samsung: anuncia un cambio importante si ves vídeos por la noche</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-hdr-samsung-anuncia-cambio-importante-ves-videos-noche-1432383' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Giro de 180 grados con el HDR de Samsung: anuncia un cambio importante si ves vídeos por la noche' />
     </a>
 </div>
 
