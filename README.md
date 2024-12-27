@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262'>¿Será suficiente una CPU de 6 núcleos para jugar en 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/cpu-6-nucleos-jugar-2025-1432262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cpu-6-nucleos-4277157.jpg?tf=1200x' alt='¿Será suficiente una CPU de 6 núcleos para jugar en 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-hdr-samsung-anuncia-cambio-importante-ves-videos-noche-1432383'>Giro de 180 grados con el HDR de Samsung: anuncia un cambio importante si ves vídeos por la noche</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-hdr-samsung-anuncia-cambio-importante-ves-videos-noche-1432383' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Giro de 180 grados con el HDR de Samsung: anuncia un cambio importante si ves vídeos por la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/wine-linux-como-funciona-1432235'>¿Qué es Wine para Linux y cómo funciona?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/wine-linux-como-funciona-1432235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/linux-wine-4277117.jpg?tf=1200x' alt='¿Qué es Wine para Linux y cómo funciona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-1432288'>¿Es el tiempo realmente una ilusión? Eso dice un nuevo estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-1432288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-4277167.jpg?tf=1200x' alt='¿Es el tiempo realmente una ilusión? Eso dice un nuevo estudio' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-enchufes-electricos-llevar-internet-toda-casa-adaptadores-plc-1425787'>Cómo usar los enchufes eléctricos para llevar Internet a toda tu casa con adaptadores PLC</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-enchufes-electricos-llevar-internet-toda-casa-adaptadores-plc-1425787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/plc-tp-link-2689467.jpg?tf=1200x' alt='Cómo usar los enchufes eléctricos para llevar Internet a toda tu casa con adaptadores PLC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-amazon-kindle-scribe-2024-ahora-quiero-anotar-subrayar-todos-ebooks-leo-1431824'>He probado el Amazon Kindle Scribe (2024) y ahora quiero anotar y subrayar todos los ebooks que leo</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-amazon-kindle-scribe-2024-ahora-quiero-anotar-subrayar-todos-ebooks-leo-1431824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-kindle-scribe-2024-4277118.jpg?tf=1200x' alt='He probado el Amazon Kindle Scribe (2024) y ahora quiero anotar y subrayar todos los ebooks que leo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/aprovecha-windows-11-mejores-trucos-funciones-sistema-operativo-1418269'>Aprovecha Windows 11 con los mejores trucos y funciones para el sistema operativo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/aprovecha-windows-11-mejores-trucos-funciones-sistema-operativo-1418269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/novedades-windows-11-4244218.jpg?tf=1200x' alt='Aprovecha Windows 11 con los mejores trucos y funciones para el sistema operativo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-renta-basica-universal-resultado-1432374'>Sam Altman ha pagado 1.000 dólares al mes a 1.000 personas durante 3 años, para probar la Renta básica universal: ya tiene el resultado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-renta-basica-universal-resultado-1432374' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-ha-pagado-1000-dolares-mes-1000-personas-durante-3-anos-ver-renta-basica-universal-funciona-ya-tiene-resultado-4277357.jpg?tf=1200x' alt='Sam Altman ha pagado 1.000 dólares al mes a 1.000 personas durante 3 años, para probar la Renta básica universal: ya tiene el resultado' />
     </a>
 </div>
 
