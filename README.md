@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459'>Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-4277478.jpg?tf=1200x' alt='Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487'>Apple pospondrá la evolución de su Isla Dinámica</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-pospondra-evolucion-isla-dinamica-4277496.jpg?tf=1200x' alt='Apple pospondrá la evolución de su Isla Dinámica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtube-anade-funcion-indecisos-puedan-elegir-facilmente-siguiente-video-1432481'>YouTube añade una función para que los más indecisos puedan elegir fácilmente el siguiente vídeo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/youtube-anade-funcion-indecisos-puedan-elegir-facilmente-siguiente-video-1432481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-trabaja-nueva-funcion-saber-cancion-ha-creado-ia-4112830.jpg?tf=1200x' alt='YouTube añade una función para que los más indecisos puedan elegir fácilmente el siguiente vídeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-byd-no-solo-enfrentan-coches-electricos-tambien-robots-humanoides-ia-1432454'>Tesla vs BYD, no solo se enfrentan con sus coches eléctricos, también con los robots humanoides y la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-byd-no-solo-enfrentan-coches-electricos-tambien-robots-humanoides-ia-1432454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-byd-no-solo-enfrentan-dominar-coches-electricos-tambien-robots-humanoides-ia-4277469.jpg?tf=1200x' alt='Tesla vs BYD, no solo se enfrentan con sus coches eléctricos, también con los robots humanoides y la IA' />
     </a>
 </div>
 
