@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-renta-basica-universal-resultado-1432374'>Sam Altman ha pagado 1.000 dólares al mes a 1.000 personas durante 3 años, para probar la Renta básica universal: ya tiene el resultado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-renta-basica-universal-resultado-1432374' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-ha-pagado-1000-dolares-mes-1000-personas-durante-3-anos-ver-renta-basica-universal-funciona-ya-tiene-resultado-4277357.jpg?tf=1200x' alt='Sam Altman ha pagado 1.000 dólares al mes a 1.000 personas durante 3 años, para probar la Renta básica universal: ya tiene el resultado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-han-sido-ciberataques-destacados-2024-espana-1432341'>Estos han sido los ciberataques más destacados de 2024 en España</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-han-sido-ciberataques-destacados-2024-espana-1432341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estos-han-sido-ciberataques-destacados-2024-espana-4277350.jpg?tf=1200x' alt='Estos han sido los ciberataques más destacados de 2024 en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/japan-airlines-sufre-ciberataque-denegacion-servicio-decenas-vuelos-retrasados-1432353'>Japan Airlines sufre un ciberataque de denegación de servicio: decenas de vuelos retrasados</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/japan-airlines-sufre-ciberataque-denegacion-servicio-decenas-vuelos-retrasados-1432353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/japan-airlines-4277319.jpg?tf=1200x' alt='Japan Airlines sufre un ciberataque de denegación de servicio: decenas de vuelos retrasados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351'>Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-4277313.jpg?tf=1200x' alt='Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico' />
     </a>
 </div>
 
