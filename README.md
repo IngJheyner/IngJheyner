@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564'>¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-3066890.jpg?tf=1200x' alt='¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-moviles-antiguos-espana-entierra-cargadores-microusb-lightning-favor-usb-c-1432562'>Adiós a los móviles antiguos: España entierra los cargadores MicroUSB y Lightning en favor del USB-C</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-moviles-antiguos-espana-entierra-cargadores-microusb-lightning-favor-usb-c-1432562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Adiós a los móviles antiguos: España entierra los cargadores MicroUSB y Lightning en favor del USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alguien-robaron-macbook-meses-despues-ladrones-contactan-whatsapp-fue-historia-1432561'>A alguien le robaron su MacBook y meses después los ladrones le contactan por WhatsApp: así fue la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alguien-robaron-macbook-meses-despues-ladrones-contactan-whatsapp-fue-historia-1432561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-2629111.jpg?tf=1200x' alt='A alguien le robaron su MacBook y meses después los ladrones le contactan por WhatsApp: así fue la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524'>Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-4277613.jpg?tf=1200x' alt='Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498'>Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-archivos-pc-4277514.jpg?tf=1200x' alt='Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-1432519'>La Nvidia RTX 5090 al descubierto: nuevas filtraciones revelan su diseño y las especificaciones de la 5070 Ti y 5070</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-1432519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-4277550.jpg?tf=1200x' alt='La Nvidia RTX 5090 al descubierto: nuevas filtraciones revelan su diseño y las especificaciones de la 5070 Ti y 5070' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-evitar-sustos-durante-fiestas-mucho-ojo-redes-sociales-1432476'>El consejo de la Policía Nacional para evitar sustos durante las fiestas: mucho ojo a las redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-evitar-sustos-durante-fiestas-mucho-ojo-redes-sociales-1432476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/policia-nacional-3256495.jpg?tf=1200x' alt='El consejo de la Policía Nacional para evitar sustos durante las fiestas: mucho ojo a las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459'>Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-4277478.jpg?tf=1200x' alt='Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo' />
     </a>
 </div>
 
