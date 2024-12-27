@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-han-sido-ciberataques-destacados-2024-espana-1432341'>Estos han sido los ciberataques más destacados de 2024 en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-han-sido-ciberataques-destacados-2024-espana-1432341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estos-han-sido-ciberataques-destacados-2024-espana-4277350.jpg?tf=1200x' alt='Estos han sido los ciberataques más destacados de 2024 en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/listas-iptv-piratas-acorraladas-descubren-nueva-trampa-futbol-gratis-1432362'>Las listas IPTV piratas, acorraladas: descubren una nueva trampa para atrapar a los que ven el fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/listas-iptv-piratas-acorraladas-descubren-nueva-trampa-futbol-gratis-1432362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/listas-iptv-piratas-acorraladas-descubren-nueva-trampa-atrapar-ven-futbol-gratis-4277329.jpg?tf=1200x' alt='Las listas IPTV piratas, acorraladas: descubren una nueva trampa para atrapar a los que ven el fútbol gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351'>Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-1432351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ps5-ni-pc-genio-logro-jugar-doom-eternal-game-boy-color-raspberry-pi-pico-4277313.jpg?tf=1200x' alt='Ni PS5 ni PC, el genio que logró jugar Doom Eternal en una Game Boy Color con una Raspberry Pi Pico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-mac-ni-linux-3-razones-windows-tiene-virus-1432319'>Ni Mac ni Linux, las 3 razones por las que Windows tiene más virus</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-mac-ni-linux-3-razones-windows-tiene-virus-1432319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-mac-ni-linux-3-razones-windows-tiene-virus-4277287.jpg?tf=1200x' alt='Ni Mac ni Linux, las 3 razones por las que Windows tiene más virus' />
     </a>
 </div>
 
