@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzar-iphone-esperado-2025-pero-no-estara-solo-1432442'>Apple se prepara para lanzar el iPhone más esperado en 2025, pero no estará solo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzar-iphone-esperado-2025-pero-no-estara-solo-1432442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='Apple se prepara para lanzar el iPhone más esperado en 2025, pero no estará solo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/gemini-puede-acceder-nube-google-drive-puede-hacer-datos-1432435'>Gemini puede acceder a la nube de Google Drive: esto es lo que puede hacer con tus datos </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/gemini-puede-acceder-nube-google-drive-puede-hacer-datos-1432435' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gemini-puede-acceder-nube-google-drive-puede-hacer-datos-4277460.jpg?tf=1200x' alt='Gemini puede acceder a la nube de Google Drive: esto es lo que puede hacer con tus datos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-microsoft-creen-inteligencia-artificial-general-sera-realidad-cuando-tenga-100000-millones-beneficios-1432436'>OpenAI y Microsoft creen que la inteligencia artificial general será una realidad cuando tenga 100.000 millones en beneficios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-microsoft-creen-inteligencia-artificial-general-sera-realidad-cuando-tenga-100000-millones-beneficios-1432436' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-general-agi-4277452.jpg?tf=1200x' alt='OpenAI y Microsoft creen que la inteligencia artificial general será una realidad cuando tenga 100.000 millones en beneficios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/easter-egg-juego-calamar-puedes-jugar-busqueda-google-1432390'>Si eres fan de El Juego del Calamar atento a este easter egg de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/google/easter-egg-juego-calamar-puedes-jugar-busqueda-google-1432390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/juego-calamar-3251075.jpg?tf=1200x' alt='Si eres fan de El Juego del Calamar atento a este easter egg de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/grok-estrena-app-ios-web-propia-salir-x-1432417'>Grok estrena app en iOS y una web propia para salir de X</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/grok-estrena-app-ios-web-propia-salir-x-1432417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/grok-3307945.jpg?tf=1200x' alt='Grok estrena app en iOS y una web propia para salir de X' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/fallo-windows-11-impide-actualizaciones-seguridad-varios-dispositivos-aunque-tiene-facil-solucion-1432406'>Un fallo en Windows 11 impide las actualizaciones de seguridad en varios dispositivos, aunque tiene fácil solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/fallo-windows-11-impide-actualizaciones-seguridad-varios-dispositivos-aunque-tiene-facil-solucion-1432406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcha-atras-historica-microsoft-dejara-instalar-windows-11-equipos-no-compatibles-pero-tiene-truco-4271809.jpg?tf=1200x' alt='Un fallo en Windows 11 impide las actualizaciones de seguridad en varios dispositivos, aunque tiene fácil solución' />
     </a>
 </div>
 
