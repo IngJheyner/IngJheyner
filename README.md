@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498'>Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-archivos-pc-4277514.jpg?tf=1200x' alt='Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-1432519'>La Nvidia RTX 5090 al descubierto: nuevas filtraciones revelan su diseño y las especificaciones de la 5070 Ti y 5070</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-1432519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-4277550.jpg?tf=1200x' alt='La Nvidia RTX 5090 al descubierto: nuevas filtraciones revelan su diseño y las especificaciones de la 5070 Ti y 5070' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-evitar-sustos-durante-fiestas-mucho-ojo-redes-sociales-1432476'>El consejo de la Policía Nacional para evitar sustos durante las fiestas: mucho ojo a las redes sociales</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/consejo-policia-nacional-evitar-sustos-durante-fiestas-mucho-ojo-redes-sociales-1432476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/policia-nacional-3256495.jpg?tf=1200x' alt='El consejo de la Policía Nacional para evitar sustos durante las fiestas: mucho ojo a las redes sociales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487'>Apple pospondrá la evolución de su Isla Dinámica</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-pospondra-evolucion-isla-dinamica-4277496.jpg?tf=1200x' alt='Apple pospondrá la evolución de su Isla Dinámica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/deposito-grande-agua-universo-equivale-140-billones-oceanos-nasa-aunque-12000-millones-anos-luz-1432488'>El depósito más grande de agua del universo equivale a 140 billones de océanos, según la NASA, aunque está a 12.000 millones de años luz</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/deposito-grande-agua-universo-equivale-140-billones-oceanos-nasa-aunque-12000-millones-anos-luz-1432488' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-planeta-agua-4277509.jpg?tf=1200x' alt='El depósito más grande de agua del universo equivale a 140 billones de océanos, según la NASA, aunque está a 12.000 millones de años luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-crunchyroll-serie-original-pokemon-ya-youtube-completamente-gratis-1432467'>Ni Netflix ni Crunchyroll, la serie original de Pokémon ya está en Youtube completamente gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-netflix-ni-crunchyroll-serie-original-pokemon-ya-youtube-completamente-gratis-1432467' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/serie-original-pokemon-ya-youtube-puedes-disfrutar-ella-completamente-gratis-4277486.jpg?tf=1200x' alt='Ni Netflix ni Crunchyroll, la serie original de Pokémon ya está en Youtube completamente gratis' />
     </a>
 </div>
 
