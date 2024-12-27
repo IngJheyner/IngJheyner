@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524'>Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-4277613.jpg?tf=1200x' alt='Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498'>Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-archivos-pc-4277514.jpg?tf=1200x' alt='Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459'>Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-1432459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-toda-eternidad-empresa-hace-fantasma-ti-mismo-4277478.jpg?tf=1200x' alt='Inteligencia artificial para toda la eternidad: así es la empresa que hace un "fantasma" de ti mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487'>Apple pospondrá la evolución de su Isla Dinámica</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-pospondra-evolucion-isla-dinamica-1432487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-pospondra-evolucion-isla-dinamica-4277496.jpg?tf=1200x' alt='Apple pospondrá la evolución de su Isla Dinámica' />
     </a>
 </div>
 
