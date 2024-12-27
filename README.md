@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-1432288'>¿Es el tiempo realmente una ilusión? Eso dice un nuevo estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-1432288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tiempo-realmente-ilusion-eso-dice-nuevo-estudio-4277167.jpg?tf=1200x' alt='¿Es el tiempo realmente una ilusión? Eso dice un nuevo estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-enchufes-electricos-llevar-internet-toda-casa-adaptadores-plc-1425787'>Cómo usar los enchufes eléctricos para llevar Internet a toda tu casa con adaptadores PLC</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-enchufes-electricos-llevar-internet-toda-casa-adaptadores-plc-1425787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/plc-tp-link-2689467.jpg?tf=1200x' alt='Cómo usar los enchufes eléctricos para llevar Internet a toda tu casa con adaptadores PLC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-amazon-kindle-scribe-2024-ahora-quiero-anotar-subrayar-todos-ebooks-leo-1431824'>He probado el Amazon Kindle Scribe (2024) y ahora quiero anotar y subrayar todos los ebooks que leo</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-amazon-kindle-scribe-2024-ahora-quiero-anotar-subrayar-todos-ebooks-leo-1431824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-kindle-scribe-2024-4277118.jpg?tf=1200x' alt='He probado el Amazon Kindle Scribe (2024) y ahora quiero anotar y subrayar todos los ebooks que leo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/aprovecha-windows-11-mejores-trucos-funciones-sistema-operativo-1418269'>Aprovecha Windows 11 con los mejores trucos y funciones para el sistema operativo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/aprovecha-windows-11-mejores-trucos-funciones-sistema-operativo-1418269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/novedades-windows-11-4244218.jpg?tf=1200x' alt='Aprovecha Windows 11 con los mejores trucos y funciones para el sistema operativo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-renta-basica-universal-resultado-1432374'>Sam Altman ha pagado 1.000 dólares al mes a 1.000 personas durante 3 años, para probar la Renta básica universal: ya tiene el resultado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-renta-basica-universal-resultado-1432374' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-ha-pagado-1000-dolares-mes-1000-personas-durante-3-anos-ver-renta-basica-universal-funciona-ya-tiene-resultado-4277357.jpg?tf=1200x' alt='Sam Altman ha pagado 1.000 dólares al mes a 1.000 personas durante 3 años, para probar la Renta básica universal: ya tiene el resultado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-han-sido-ciberataques-destacados-2024-espana-1432341'>Estos han sido los ciberataques más destacados de 2024 en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-han-sido-ciberataques-destacados-2024-espana-1432341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estos-han-sido-ciberataques-destacados-2024-espana-4277350.jpg?tf=1200x' alt='Estos han sido los ciberataques más destacados de 2024 en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/listas-iptv-piratas-acorraladas-descubren-nueva-trampa-futbol-gratis-1432362'>Las listas IPTV piratas, acorraladas: descubren una nueva trampa para atrapar a los que ven el fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/listas-iptv-piratas-acorraladas-descubren-nueva-trampa-futbol-gratis-1432362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/listas-iptv-piratas-acorraladas-descubren-nueva-trampa-atrapar-ven-futbol-gratis-4277329.jpg?tf=1200x' alt='Las listas IPTV piratas, acorraladas: descubren una nueva trampa para atrapar a los que ven el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelos-ia-avanzan-tan-rapido-evaluaciones-llevarlas-limite-no-pueden-seguir-ritmo-1432358'>Los modelos de IA avanzan tan rápido que las evaluaciones para llevarlas a su límite no pueden seguir el ritmo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/modelos-ia-avanzan-tan-rapido-evaluaciones-llevarlas-limite-no-pueden-seguir-ritmo-1432358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/03/inteligencia-artificial-2998412.jpg?tf=1200x' alt='Los modelos de IA avanzan tan rápido que las evaluaciones para llevarlas a su límite no pueden seguir el ritmo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/japan-airlines-sufre-ciberataque-denegacion-servicio-decenas-vuelos-retrasados-1432353'>Japan Airlines sufre un ciberataque de denegación de servicio: decenas de vuelos retrasados</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/japan-airlines-sufre-ciberataque-denegacion-servicio-decenas-vuelos-retrasados-1432353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/japan-airlines-4277319.jpg?tf=1200x' alt='Japan Airlines sufre un ciberataque de denegación de servicio: decenas de vuelos retrasados' />
     </a>
 </div>
 
