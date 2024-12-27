@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-byd-no-solo-enfrentan-coches-electricos-tambien-robots-humanoides-ia-1432454'>Tesla vs BYD, no solo se enfrentan con sus coches eléctricos, también con los robots humanoides y la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-byd-no-solo-enfrentan-coches-electricos-tambien-robots-humanoides-ia-1432454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tesla-byd-no-solo-enfrentan-dominar-coches-electricos-tambien-robots-humanoides-ia-4277469.jpg?tf=1200x' alt='Tesla vs BYD, no solo se enfrentan con sus coches eléctricos, también con los robots humanoides y la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzar-iphone-esperado-2025-pero-no-estara-solo-1432442'>Apple se prepara para lanzar el iPhone más esperado en 2025, pero no estará solo</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-prepara-lanzar-iphone-esperado-2025-pero-no-estara-solo-1432442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='Apple se prepara para lanzar el iPhone más esperado en 2025, pero no estará solo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-1432411'>Apple trabaja en “el iPhone definitivo” para cumplir los sueños de Steve Jobs</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-1432411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-trabaja-iphone-definitivo-cumplir-suenos-steve-jobs-4277414.jpg?tf=1200x' alt='Apple trabaja en “el iPhone definitivo” para cumplir los sueños de Steve Jobs' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/easter-egg-juego-calamar-puedes-jugar-busqueda-google-1432390'>Si eres fan de El Juego del Calamar atento a este easter egg de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/easter-egg-juego-calamar-puedes-jugar-busqueda-google-1432390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/juego-calamar-3251075.jpg?tf=1200x' alt='Si eres fan de El Juego del Calamar atento a este easter egg de Google' />
     </a>
 </div>
 
