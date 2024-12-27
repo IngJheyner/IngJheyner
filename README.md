@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-1432571'>Ni Microsoft ni Apple: por qué Nvidia y AMD están invirtiendo millones en Grok, la IA de Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-1432571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-microsoft-ni-apple-nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-4277619.jpg?tf=1200x' alt='Ni Microsoft ni Apple: por qué Nvidia y AMD están invirtiendo millones en Grok, la IA de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564'>¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-3066890.jpg?tf=1200x' alt='¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524'>Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-4277613.jpg?tf=1200x' alt='Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498'>Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/experto-ensena-recuperar-cualquier-archivo-eliminado-pc-1432498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/recuperar-archivos-pc-4277514.jpg?tf=1200x' alt='Un experto te enseña a recuperar cualquier archivo eliminado en tu PC: “100% eficaz y gratuito con herramientas de forense digital”' />
     </a>
 </div>
 
