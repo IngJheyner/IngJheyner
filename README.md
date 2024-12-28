@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/aerolineas-cambian-normas-gente-dejando-usar-auriculares-aviones-aeropuertos-1432579'>Las aerolíneas cambian sus normas porque la gente está dejando de usar auriculares en aviones y aeropuertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/aerolineas-cambian-normas-gente-dejando-usar-auriculares-aviones-aeropuertos-1432579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llegan-denuncias-porque-gente-dejando-usar-auriculares-transporte-publico-aviones-aeropuertos-4277652.jpg?tf=1200x' alt='Las aerolíneas cambian sus normas porque la gente está dejando de usar auriculares en aviones y aeropuertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-1432571'>Ni Microsoft ni Apple: por qué Nvidia y AMD están invirtiendo millones en Grok, la IA de Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-1432571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-microsoft-ni-apple-nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-4277619.jpg?tf=1200x' alt='Ni Microsoft ni Apple: por qué Nvidia y AMD están invirtiendo millones en Grok, la IA de Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alguien-robaron-macbook-meses-despues-ladrones-contactan-whatsapp-fue-historia-1432561'>A alguien le robaron su MacBook y meses después los ladrones le contactan por WhatsApp: así fue la historia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alguien-robaron-macbook-meses-despues-ladrones-contactan-whatsapp-fue-historia-1432561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-2629111.jpg?tf=1200x' alt='A alguien le robaron su MacBook y meses después los ladrones le contactan por WhatsApp: así fue la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524'>Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-1432524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/te-han-regalado-iphone-nuevo-estas-navidades-puedes-transferir-datos-facilmente-4277613.jpg?tf=1200x' alt='Si te han regalado un iPhone nuevo estas Navidades, así puedes transferir tus datos fácilmente' />
     </a>
 </div>
 
