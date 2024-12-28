@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-caros-2025-comparados-2024-1428424'>Productos tecnológicos que serán más caros en 2025 comparados con 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-caros-2025-comparados-2024-1428424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/productos-caros-2025-4270767.jpg?tf=1200x' alt='Productos tecnológicos que serán más caros en 2025 comparados con 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/superventas-xiaomi-no-llega-300-euros-1432217'>Este es el superventas de Xiaomi y no llega a 300 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/superventas-xiaomi-no-llega-300-euros-1432217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-note-13-pro-3304929.jpg?tf=1200x' alt='Este es el superventas de Xiaomi y no llega a 300 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/aerolineas-cambian-normas-gente-dejando-usar-auriculares-aviones-aeropuertos-1432579'>Las aerolíneas cambian sus normas porque la gente está dejando de usar auriculares en aviones y aeropuertos</a></h4>
     <a href='https://computerhoy.20minutos.es/life/aerolineas-cambian-normas-gente-dejando-usar-auriculares-aviones-aeropuertos-1432579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llegan-denuncias-porque-gente-dejando-usar-auriculares-transporte-publico-aviones-aeropuertos-4277652.jpg?tf=1200x' alt='Las aerolíneas cambian sus normas porque la gente está dejando de usar auriculares en aviones y aeropuertos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564'>¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-3066890.jpg?tf=1200x' alt='¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-moviles-antiguos-espana-entierra-cargadores-microusb-lightning-favor-usb-c-1432562'>Adiós a los móviles antiguos: España entierra los cargadores MicroUSB y Lightning en favor del USB-C</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-moviles-antiguos-espana-entierra-cargadores-microusb-lightning-favor-usb-c-1432562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/ue-quiere-evitar-trampas-apple-cables-usb-c-iphone-15-3025780.jpg?tf=1200x' alt='Adiós a los móviles antiguos: España entierra los cargadores MicroUSB y Lightning en favor del USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alguien-robaron-macbook-meses-despues-ladrones-contactan-whatsapp-fue-historia-1432561'>A alguien le robaron su MacBook y meses después los ladrones le contactan por WhatsApp: así fue la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alguien-robaron-macbook-meses-despues-ladrones-contactan-whatsapp-fue-historia-1432561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/macbook-2629111.jpg?tf=1200x' alt='A alguien le robaron su MacBook y meses después los ladrones le contactan por WhatsApp: así fue la historia' />
     </a>
 </div>
 
