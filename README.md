@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105'>Nuevas funciones que llegan a Telegram en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/telegram-2025-4271781.jpg?tf=1200x' alt='Nuevas funciones que llegan a Telegram en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-apuesta-fotografia-movil-gama-alta-pero-precio-gama-media-1432221'>Xiaomi apuesta por la fotografía con este móvil de gama alta pero con precio de gama media</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-apuesta-fotografia-movil-gama-alta-pero-precio-gama-media-1432221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi apuesta por la fotografía con este móvil de gama alta pero con precio de gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/dile-adios-enganos-whatsapp-web-integrara-busqueda-inversa-imagenes-1432607'>Dile adiós a los engaños: WhatsApp Web integrará búsqueda inversa de imágenes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/dile-adios-enganos-whatsapp-web-integrara-busqueda-inversa-imagenes-1432607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-web-busqueda-imagenes-4277706.jpg?tf=1200x' alt='Dile adiós a los engaños: WhatsApp Web integrará búsqueda inversa de imágenes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/futuro-asistentes-virtuales-esperar-siri-google-assistant-alexa-2025-1428785'>El futuro de los asistentes virtuales: qué esperar de Siri, Google Assistant y Alexa en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/futuro-asistentes-virtuales-esperar-siri-google-assistant-alexa-2025-1428785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/asistentes-virtuales-4271257.jpg?tf=1200x' alt='El futuro de los asistentes virtuales: qué esperar de Siri, Google Assistant y Alexa en 2025' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/regalado-ps5-navidades-juegos-no-te-puedes-perder-1432334'>Si te han regalado una PS5 estas Navidades, estos son los 14 juegos que no te puedes perder</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/regalado-ps5-navidades-juegos-no-te-puedes-perder-1432334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/videojuegos-ps5-4277322.jpg?tf=1200x' alt='Si te han regalado una PS5 estas Navidades, estos son los 14 juegos que no te puedes perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-foto-cumulo-estelar-arbol-navidad-1432584'>La NASA sorprende con una foto del cúmulo estelar Árbol de Navidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-foto-cumulo-estelar-arbol-navidad-1432584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-sorprende-foto-cumulo-estelar-arbol-navidad-4277671.jpg?tf=1200x' alt='La NASA sorprende con una foto del cúmulo estelar Árbol de Navidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-desconocido-whatsapp-debes-hacer-te-agrega-extrano-policia-1430876'>Número desconocido de WhatsApp: esto debes hacer si te agrega un extraño, según la policía</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-desconocido-whatsapp-debes-hacer-te-agrega-extrano-policia-1430876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Número desconocido de WhatsApp: esto debes hacer si te agrega un extraño, según la policía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-funciones-chatgpt-2025-1429261'>Nuevas funciones que llegan a ChatGPT en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-funciones-chatgpt-2025-1429261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-2025-4272071.jpg?tf=1200x' alt='Nuevas funciones que llegan a ChatGPT en 2025' />
     </a>
 </div>
 
