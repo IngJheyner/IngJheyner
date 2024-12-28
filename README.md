@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627'>La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-4277730.jpg?tf=1200x' alt='La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegan-google-maps-2025-1427834'>Nuevas funciones que llegan a Google Maps en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegan-google-maps-2025-1427834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-2025-4269655.jpg?tf=1200x' alt='Nuevas funciones que llegan a Google Maps en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105'>Nuevas funciones que llegan a Telegram en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/telegram-2025-4271781.jpg?tf=1200x' alt='Nuevas funciones que llegan a Telegram en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-apuesta-fotografia-movil-gama-alta-pero-precio-gama-media-1432221'>Xiaomi apuesta por la fotografía con este móvil de gama alta pero con precio de gama media</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-apuesta-fotografia-movil-gama-alta-pero-precio-gama-media-1432221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi apuesta por la fotografía con este móvil de gama alta pero con precio de gama media' />
     </a>
 </div>
 
