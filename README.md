@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653'>Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-te-va-permitir-cambiar-facilmente-fps-calidad-camara-1432652'>Windows 11 te va a permitir cambiar fácilmente los FPS y la calidad de tu cámara</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-te-va-permitir-cambiar-facilmente-fps-calidad-camara-1432652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Windows 11 te va a permitir cambiar fácilmente los FPS y la calidad de tu cámara' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627'>La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-4277730.jpg?tf=1200x' alt='La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegan-google-maps-2025-1427834'>Nuevas funciones que llegan a Google Maps en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegan-google-maps-2025-1427834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-2025-4269655.jpg?tf=1200x' alt='Nuevas funciones que llegan a Google Maps en 2025' />
     </a>
 </div>
 
