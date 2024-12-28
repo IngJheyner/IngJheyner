@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/futuro-asistentes-virtuales-esperar-siri-google-assistant-alexa-2025-1428785'>El futuro de los asistentes virtuales: qué esperar de Siri, Google Assistant y Alexa en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/futuro-asistentes-virtuales-esperar-siri-google-assistant-alexa-2025-1428785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/asistentes-virtuales-4271257.jpg?tf=1200x' alt='El futuro de los asistentes virtuales: qué esperar de Siri, Google Assistant y Alexa en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/regalado-ps5-navidades-juegos-no-te-puedes-perder-1432334'>Si te han regalado una PS5 estas Navidades, estos son los 14 juegos que no te puedes perder</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/regalado-ps5-navidades-juegos-no-te-puedes-perder-1432334' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/videojuegos-ps5-4277322.jpg?tf=1200x' alt='Si te han regalado una PS5 estas Navidades, estos son los 14 juegos que no te puedes perder' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-funciones-chatgpt-2025-1429261'>Nuevas funciones que llegan a ChatGPT en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-funciones-chatgpt-2025-1429261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-2025-4272071.jpg?tf=1200x' alt='Nuevas funciones que llegan a ChatGPT en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usar-1430590'>Adiós a estos gadgets en 2025: la tecnología que ha desaparecido este año y no podrás usar más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usar-1430590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usa-4274300.jpg?tf=1200x' alt='Adiós a estos gadgets en 2025: la tecnología que ha desaparecido este año y no podrás usar más' />
     </a>
 </div>
 
