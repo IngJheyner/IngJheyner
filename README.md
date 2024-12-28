@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-desconocido-whatsapp-debes-hacer-te-agrega-extrano-policia-1430876'>Número desconocido de WhatsApp: esto debes hacer si te agrega un extraño, según la policía</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-desconocido-whatsapp-debes-hacer-te-agrega-extrano-policia-1430876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-transcripcion-mensajes-voz-4271857.jpg?tf=1200x' alt='Número desconocido de WhatsApp: esto debes hacer si te agrega un extraño, según la policía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-funciones-chatgpt-2025-1429261'>Nuevas funciones que llegan a ChatGPT en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-funciones-chatgpt-2025-1429261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-2025-4272071.jpg?tf=1200x' alt='Nuevas funciones que llegan a ChatGPT en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usar-1430590'>Adiós a estos gadgets en 2025: la tecnología que ha desaparecido este año y no podrás usar más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usar-1430590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usa-4274300.jpg?tf=1200x' alt='Adiós a estos gadgets en 2025: la tecnología que ha desaparecido este año y no podrás usar más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-seran-principales-peligros-amenazas-tecnologicas-2025-1428426'>Estos serán los principales peligros y amenazas tecnológicas para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-seran-principales-peligros-amenazas-tecnologicas-2025-1428426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ataques-ciberneticos-4270777.jpg?tf=1200x' alt='Estos serán los principales peligros y amenazas tecnológicas para 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2025-1427547'>Los lenguajes de programación con más proyección si quieres aprender a programar en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2025-1427547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/trabajar-programador-4269112.jpg?tf=1200x' alt='Los lenguajes de programación con más proyección si quieres aprender a programar en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/me-gusta-kindle-scribe-2024-hace-leer-sea-colectivo-1431820'>Lo que más me gusta del Kindle Scribe (2024) es que hace que leer sea colectivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/me-gusta-kindle-scribe-2024-hace-leer-sea-colectivo-1431820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-kindle-scribe-2024-4277111.jpg?tf=1200x' alt='Lo que más me gusta del Kindle Scribe (2024) es que hace que leer sea colectivo' />
     </a>
 </div>
 
