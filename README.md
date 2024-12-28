@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-seran-principales-peligros-amenazas-tecnologicas-2025-1428426'>Estos serán los principales peligros y amenazas tecnológicas para 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-seran-principales-peligros-amenazas-tecnologicas-2025-1428426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ataques-ciberneticos-4270777.jpg?tf=1200x' alt='Estos serán los principales peligros y amenazas tecnológicas para 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2025-1427547'>Los lenguajes de programación con más proyección si quieres aprender a programar en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-proyeccion-quieres-aprender-programar-2025-1427547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/trabajar-programador-4269112.jpg?tf=1200x' alt='Los lenguajes de programación con más proyección si quieres aprender a programar en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/me-gusta-kindle-scribe-2024-hace-leer-sea-colectivo-1431820'>Lo que más me gusta del Kindle Scribe (2024) es que hace que leer sea colectivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/me-gusta-kindle-scribe-2024-hace-leer-sea-colectivo-1431820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-kindle-scribe-2024-4277111.jpg?tf=1200x' alt='Lo que más me gusta del Kindle Scribe (2024) es que hace que leer sea colectivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-anker-soundcore-sleep-a20-han-resuelto-mi-mayor-problema-fin-puedo-dormir-tiron-1427790'>He probado los Anker Soundcore Sleep A20 y han resuelto mi mayor problema: por fin puedo dormir del tirón</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-anker-soundcore-sleep-a20-han-resuelto-mi-mayor-problema-fin-puedo-dormir-tiron-1427790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anker-soundcore-sleep-a20-4276305.jpg?tf=1200x' alt='He probado los Anker Soundcore Sleep A20 y han resuelto mi mayor problema: por fin puedo dormir del tirón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-caros-2025-comparados-2024-1428424'>Productos tecnológicos que serán más caros en 2025 comparados con 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-caros-2025-comparados-2024-1428424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/productos-caros-2025-4270767.jpg?tf=1200x' alt='Productos tecnológicos que serán más caros en 2025 comparados con 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/superventas-xiaomi-no-llega-300-euros-1432217'>Este es el superventas de Xiaomi y no llega a 300 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/superventas-xiaomi-no-llega-300-euros-1432217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/xiaomi-redmi-note-13-pro-3304929.jpg?tf=1200x' alt='Este es el superventas de Xiaomi y no llega a 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/aerolineas-cambian-normas-gente-dejando-usar-auriculares-aviones-aeropuertos-1432579'>Las aerolíneas cambian sus normas porque la gente está dejando de usar auriculares en aviones y aeropuertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/aerolineas-cambian-normas-gente-dejando-usar-auriculares-aviones-aeropuertos-1432579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llegan-denuncias-porque-gente-dejando-usar-auriculares-transporte-publico-aviones-aeropuertos-4277652.jpg?tf=1200x' alt='Las aerolíneas cambian sus normas porque la gente está dejando de usar auriculares en aviones y aeropuertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-1432571'>Ni Microsoft ni Apple: por qué Nvidia y AMD están invirtiendo millones en Grok, la IA de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-1432571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-microsoft-ni-apple-nvidia-amd-estan-invirtiendo-millones-grok-ia-elon-musk-4277619.jpg?tf=1200x' alt='Ni Microsoft ni Apple: por qué Nvidia y AMD están invirtiendo millones en Grok, la IA de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564'>¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/smartwatch-podria-estar-envenenandote-descubren-altos-niveles-quimicos-toxicos-algunas-correas-estudio-1432564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/smartwatch-3066890.jpg?tf=1200x' alt='¿Tu smartwatch podría estar envenenándote? Descubren altos niveles de químicos tóxicos en algunas correas, según este estudio' />
     </a>
 </div>
 
