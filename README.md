@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usar-1430590'>Adiós a estos gadgets en 2025: la tecnología que ha desaparecido este año y no podrás usar más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usar-1430590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/adios-estos-gadgets-2025-tecnologia-ha-desaparecido-ano-no-podras-usa-4274300.jpg?tf=1200x' alt='Adiós a estos gadgets en 2025: la tecnología que ha desaparecido este año y no podrás usar más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/series-disney-no-podras-ver-2025-1432311'>Estas son las series de Disney+ que ya no podrás ver en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/series-disney-no-podras-ver-2025-1432311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/loki-mandalorian-4277231.jpg?tf=1200x' alt='Estas son las series de Disney+ que ya no podrás ver en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estos-seran-principales-peligros-amenazas-tecnologicas-2025-1428426'>Estos serán los principales peligros y amenazas tecnológicas para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estos-seran-principales-peligros-amenazas-tecnologicas-2025-1428426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ataques-ciberneticos-4270777.jpg?tf=1200x' alt='Estos serán los principales peligros y amenazas tecnológicas para 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/me-gusta-kindle-scribe-2024-hace-leer-sea-colectivo-1431820'>Lo que más me gusta del Kindle Scribe (2024) es que hace que leer sea colectivo</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/me-gusta-kindle-scribe-2024-hace-leer-sea-colectivo-1431820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazon-kindle-scribe-2024-4277111.jpg?tf=1200x' alt='Lo que más me gusta del Kindle Scribe (2024) es que hace que leer sea colectivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-anker-soundcore-sleep-a20-han-resuelto-mi-mayor-problema-fin-puedo-dormir-tiron-1427790'>He probado los Anker Soundcore Sleep A20 y han resuelto mi mayor problema: por fin puedo dormir del tirón</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-anker-soundcore-sleep-a20-han-resuelto-mi-mayor-problema-fin-puedo-dormir-tiron-1427790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anker-soundcore-sleep-a20-4276305.jpg?tf=1200x' alt='He probado los Anker Soundcore Sleep A20 y han resuelto mi mayor problema: por fin puedo dormir del tirón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-caros-2025-comparados-2024-1428424'>Productos tecnológicos que serán más caros en 2025 comparados con 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-caros-2025-comparados-2024-1428424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/productos-caros-2025-4270767.jpg?tf=1200x' alt='Productos tecnológicos que serán más caros en 2025 comparados con 2024' />
     </a>
 </div>
 
