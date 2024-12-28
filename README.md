@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-finalmente-adoptara-clasica-caracteristica-android-nougat-galaxy-s25-1432634'>Samsung finalmente adoptará esta clásica característica de Android Nougat en el Galaxy S25</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-finalmente-adoptara-clasica-caracteristica-android-nougat-galaxy-s25-1432634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267387.jpg?tf=1200x' alt='Samsung finalmente adoptará esta clásica característica de Android Nougat en el Galaxy S25' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-planea-revolucionar-proxima-consola-xbox-mando-inspirado-dualsense-ps5-1432631'>Microsoft planea revolucionar su próxima consola Xbox con un mando inspirado en el DualSense de PS5</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-planea-revolucionar-proxima-consola-xbox-mando-inspirado-dualsense-ps5-1432631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mando-xbox-series-x-4277733.jpg?tf=1200x' alt='Microsoft planea revolucionar su próxima consola Xbox con un mando inspirado en el DualSense de PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627'>La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-4277730.jpg?tf=1200x' alt='La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/veran-aplicaciones-gafas-xr-samsung-google-1432621'>Así se verán las aplicaciones en las gafas XR de Samsung y Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/veran-aplicaciones-gafas-xr-samsung-google-1432621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/project-moohan-4277722.jpg?tf=1200x' alt='Así se verán las aplicaciones en las gafas XR de Samsung y Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberataque-navidad-ciberdelincuentes-lanzan-actualizacion-maliciosa-popular-extension-chrome-1432617'>Ciberataque en Navidad: ciberdelincuentes lanzan una actualización maliciosa para esta popular extensión de Chrome</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberataque-navidad-ciberdelincuentes-lanzan-actualizacion-maliciosa-popular-extension-chrome-1432617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-chrome-4277717.jpg?tf=1200x' alt='Ciberataque en Navidad: ciberdelincuentes lanzan una actualización maliciosa para esta popular extensión de Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105'>Nuevas funciones que llegan a Telegram en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/telegram-2025-4271781.jpg?tf=1200x' alt='Nuevas funciones que llegan a Telegram en 2025' />
     </a>
 </div>
 
