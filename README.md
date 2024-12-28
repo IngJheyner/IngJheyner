@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegan-google-maps-2025-1427834'>Nuevas funciones que llegan a Google Maps en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/nuevas-funciones-llegan-google-maps-2025-1427834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-maps-2025-4269655.jpg?tf=1200x' alt='Nuevas funciones que llegan a Google Maps en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/veran-aplicaciones-gafas-xr-samsung-google-1432621'>Así se verán las aplicaciones en las gafas XR de Samsung y Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/veran-aplicaciones-gafas-xr-samsung-google-1432621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/project-moohan-4277722.jpg?tf=1200x' alt='Así se verán las aplicaciones en las gafas XR de Samsung y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ciberataque-navidad-ciberdelincuentes-lanzan-actualizacion-maliciosa-popular-extension-chrome-1432617'>Ciberataque en Navidad: ciberdelincuentes lanzan una actualización maliciosa para esta popular extensión de Chrome</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ciberataque-navidad-ciberdelincuentes-lanzan-actualizacion-maliciosa-popular-extension-chrome-1432617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/google-chrome-4277717.jpg?tf=1200x' alt='Ciberataque en Navidad: ciberdelincuentes lanzan una actualización maliciosa para esta popular extensión de Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105'>Nuevas funciones que llegan a Telegram en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-telegram-2025-1429105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/telegram-2025-4271781.jpg?tf=1200x' alt='Nuevas funciones que llegan a Telegram en 2025' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-apuesta-fotografia-movil-gama-alta-pero-precio-gama-media-1432221'>Xiaomi apuesta por la fotografía con este móvil de gama alta pero con precio de gama media</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-apuesta-fotografia-movil-gama-alta-pero-precio-gama-media-1432221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi apuesta por la fotografía con este móvil de gama alta pero con precio de gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/dile-adios-enganos-whatsapp-web-integrara-busqueda-inversa-imagenes-1432607'>Dile adiós a los engaños: WhatsApp Web integrará búsqueda inversa de imágenes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/dile-adios-enganos-whatsapp-web-integrara-busqueda-inversa-imagenes-1432607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-web-busqueda-imagenes-4277706.jpg?tf=1200x' alt='Dile adiós a los engaños: WhatsApp Web integrará búsqueda inversa de imágenes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/futuro-asistentes-virtuales-esperar-siri-google-assistant-alexa-2025-1428785'>El futuro de los asistentes virtuales: qué esperar de Siri, Google Assistant y Alexa en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/futuro-asistentes-virtuales-esperar-siri-google-assistant-alexa-2025-1428785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/asistentes-virtuales-4271257.jpg?tf=1200x' alt='El futuro de los asistentes virtuales: qué esperar de Siri, Google Assistant y Alexa en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/regalado-ps5-navidades-juegos-no-te-puedes-perder-1432334'>Si te han regalado una PS5 estas Navidades, estos son los 14 juegos que no te puedes perder</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/regalado-ps5-navidades-juegos-no-te-puedes-perder-1432334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/videojuegos-ps5-4277322.jpg?tf=1200x' alt='Si te han regalado una PS5 estas Navidades, estos son los 14 juegos que no te puedes perder' />
     </a>
 </div>
 
