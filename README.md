@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/demuestran-posible-ejecutar-servidor-minecraft-lenguaje-programacion-cobol-1432656'>Demuestran que es posible ejecutar un servidor de Minecraft en lenguaje de programación COBOL</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/demuestran-posible-ejecutar-servidor-minecraft-lenguaje-programacion-cobol-1432656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/minecraft-pc-4277773.jpg?tf=1200x' alt='Demuestran que es posible ejecutar un servidor de Minecraft en lenguaje de programación COBOL' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/outlook-traera-compatibilidad-archivos-pst-2025-1432654'>Outlook traerá compatibilidad con archivos PST en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/outlook-traera-compatibilidad-archivos-pst-2025-1432654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/problemas-acceso-correo-electronico-outlook-4186588.jpg?tf=1200x' alt='Outlook traerá compatibilidad con archivos PST en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653'>Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-finalmente-adoptara-clasica-caracteristica-android-nougat-galaxy-s25-1432634'>Samsung finalmente adoptará esta clásica característica de Android Nougat en el Galaxy S25</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-finalmente-adoptara-clasica-caracteristica-android-nougat-galaxy-s25-1432634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267387.jpg?tf=1200x' alt='Samsung finalmente adoptará esta clásica característica de Android Nougat en el Galaxy S25' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-planea-revolucionar-proxima-consola-xbox-mando-inspirado-dualsense-ps5-1432631'>Microsoft planea revolucionar su próxima consola Xbox con un mando inspirado en el DualSense de PS5</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/microsoft-planea-revolucionar-proxima-consola-xbox-mando-inspirado-dualsense-ps5-1432631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mando-xbox-series-x-4277733.jpg?tf=1200x' alt='Microsoft planea revolucionar su próxima consola Xbox con un mando inspirado en el DualSense de PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627'>La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-cumple-exito-mision-acercarse-como-nunca-sol-1432627' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-nasa-4277730.jpg?tf=1200x' alt='La sonda Parker de la NASA cumple con éxito su misión tras acercarse como nunca al Sol' />
     </a>
 </div>
 
