@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871'>Nuevas funciones que llegan a WhatsApp en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-2025-4269753.jpg?tf=1200x' alt='Nuevas funciones que llegan a WhatsApp en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/enigma-estrella-belen-no-veremos-navidad-2024-astronomia-no-hay-unica-respuesta-1432664'>El enigma de la Estrella de Belén que no veremos en Navidad 2024: según la astronomía, no hay una única respuesta</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/enigma-estrella-belen-no-veremos-navidad-2024-astronomia-no-hay-unica-respuesta-1432664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/enigma-estrella-belen-no-veremos-navidad-2024-astronomia-aun-no-sabemos-4277818.jpg?tf=1200x' alt='El enigma de la Estrella de Belén que no veremos en Navidad 2024: según la astronomía, no hay una única respuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454'>Móviles plegables: ¿el gran fracaso tecnológico de 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-plegables-gran-fracaso-tecnologico-2025-4268957.jpg?tf=1200x' alt='Móviles plegables: ¿el gran fracaso tecnológico de 2025?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792'>6 productos y servicios tecnológicos que desaparecen en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/botar-equipos-4271282.jpg?tf=1200x' alt='6 productos y servicios tecnológicos que desaparecen en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/fenomenos-atmosfericos-alucinantes-tendran-lugar-2025-1427711'>Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/fenomenos-atmosfericos-alucinantes-tendran-lugar-2025-1427711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fenomenos-atmosfericos-4269398.jpg?tf=1200x' alt='Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/hemos-probado-25-auriculares-ano-estas-son-recomendaciones-necesidades-1432255'>Hemos probado 25 auriculares este año y estas son mis recomendaciones según tus necesidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/hemos-probado-25-auriculares-ano-estas-son-recomendaciones-necesidades-1432255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3913290.jpg?tf=1200x' alt='Hemos probado 25 auriculares este año y estas son mis recomendaciones según tus necesidades' />
     </a>
 </div>
 
