@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-1431236'>Míralo mientras puedas: estas son las series de Netflix que ya no podrás ver en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-1431236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-4275480.jpg?tf=1200x' alt='Míralo mientras puedas: estas son las series de Netflix que ya no podrás ver en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-impone-copilot-usuarios-365-encima-aumenta-precio-1432686'>Microsoft impone Copilot a sus usuarios de 365 y encima aumenta el precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-impone-copilot-usuarios-365-encima-aumenta-precio-1432686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-copilot-4277834.jpg?tf=1200x' alt='Microsoft impone Copilot a sus usuarios de 365 y encima aumenta el precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-auriculares-inalambricos-sony-tienen-cancelacion-ruido-interesante-descuento-1432475'>Los mejores auriculares inalámbricos de Sony tienen cancelación de ruido y un interesante descuento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-auriculares-inalambricos-sony-tienen-cancelacion-ruido-interesante-descuento-1432475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los mejores auriculares inalámbricos de Sony tienen cancelación de ruido y un interesante descuento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/gta-6-ghost-tsushima-2-videojuegos-esperados-2025-fechas-lanzamiento-1428364'>De GTA 6 a Ghost of Tsushima 2, los videojuegos más esperados de 2025 y sus fechas de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/gta-6-ghost-tsushima-2-videojuegos-esperados-2025-fechas-lanzamiento-1428364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-6-3243960.jpg?tf=1200x' alt='De GTA 6 a Ghost of Tsushima 2, los videojuegos más esperados de 2025 y sus fechas de lanzamiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/dos-coches-sufren-accidente-despues-google-maps-dirigiera-autopista-terminar-1432684'>Dos coches sufren un accidente después de que Google Maps les dirigiera a una autopista sin terminar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/dos-coches-sufren-accidente-despues-google-maps-dirigiera-autopista-terminar-1432684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dos-coches-sufren-accidente-despues-google-maps-dirigiera-autopista-terminar-4277833.jpg?tf=1200x' alt='Dos coches sufren un accidente después de que Google Maps les dirigiera a una autopista sin terminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/regalado-nintendo-switch-navidad-juegos-tienes-jugar-primero-1432364'>¿Te han regalado un Nintendo Switch esta Navidad? 9 juegos que tienes que jugar primero</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/regalado-nintendo-switch-navidad-juegos-tienes-jugar-primero-1432364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juegos-nintendo-switch-4277373.jpg?tf=1200x' alt='¿Te han regalado un Nintendo Switch esta Navidad? 9 juegos que tienes que jugar primero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-enfrenta-desastre-navideno-meta-quest-3-3s-quedan-bloqueados-error-actualizacion-1432679'>Meta se enfrenta a un desastre navideño: los Meta Quest 3 y 3S quedan bloqueados por un error de actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-enfrenta-desastre-navideno-meta-quest-3-3s-quedan-bloqueados-error-actualizacion-1432679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/meta-quest-3-todo-sabe-nuevo-dispositivo-vr-meta-3039960.jpg?tf=1200x' alt='Meta se enfrenta a un desastre navideño: los Meta Quest 3 y 3S quedan bloqueados por un error de actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871'>Nuevas funciones que llegan a WhatsApp en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-2025-4269753.jpg?tf=1200x' alt='Nuevas funciones que llegan a WhatsApp en 2025' />
     </a>
 </div>
 
