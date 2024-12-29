@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700'>El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonido-waze-4277846.jpg?tf=1200x' alt='El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-kodi-2025-1429110'>Nuevas funciones que llegan a Kodi en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-kodi-2025-1429110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kodi-2025-4272050.jpg?tf=1200x' alt='Nuevas funciones que llegan a Kodi en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-impone-copilot-usuarios-365-encima-aumenta-precio-1432686'>Microsoft impone Copilot a sus usuarios de 365 y encima aumenta el precio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-impone-copilot-usuarios-365-encima-aumenta-precio-1432686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-copilot-4277834.jpg?tf=1200x' alt='Microsoft impone Copilot a sus usuarios de 365 y encima aumenta el precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-auriculares-inalambricos-sony-tienen-cancelacion-ruido-interesante-descuento-1432475'>Los mejores auriculares inalámbricos de Sony tienen cancelación de ruido y un interesante descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-auriculares-inalambricos-sony-tienen-cancelacion-ruido-interesante-descuento-1432475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los mejores auriculares inalámbricos de Sony tienen cancelación de ruido y un interesante descuento' />
     </a>
 </div>
 
