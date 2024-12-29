@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/gta-6-ghost-tsushima-2-videojuegos-esperados-2025-fechas-lanzamiento-1428364'>De GTA 6 a Ghost of Tsushima 2, los videojuegos más esperados de 2025 y sus fechas de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/gta-6-ghost-tsushima-2-videojuegos-esperados-2025-fechas-lanzamiento-1428364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-6-3243960.jpg?tf=1200x' alt='De GTA 6 a Ghost of Tsushima 2, los videojuegos más esperados de 2025 y sus fechas de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/dos-coches-sufren-accidente-despues-google-maps-dirigiera-autopista-terminar-1432684'>Dos coches sufren un accidente después de que Google Maps les dirigiera a una autopista sin terminar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/dos-coches-sufren-accidente-despues-google-maps-dirigiera-autopista-terminar-1432684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dos-coches-sufren-accidente-despues-google-maps-dirigiera-autopista-terminar-4277833.jpg?tf=1200x' alt='Dos coches sufren un accidente después de que Google Maps les dirigiera a una autopista sin terminar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/regalado-nintendo-switch-navidad-juegos-tienes-jugar-primero-1432364'>¿Te han regalado un Nintendo Switch esta Navidad? 9 juegos que tienes que jugar primero</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/regalado-nintendo-switch-navidad-juegos-tienes-jugar-primero-1432364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juegos-nintendo-switch-4277373.jpg?tf=1200x' alt='¿Te han regalado un Nintendo Switch esta Navidad? 9 juegos que tienes que jugar primero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871'>Nuevas funciones que llegan a WhatsApp en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-2025-4269753.jpg?tf=1200x' alt='Nuevas funciones que llegan a WhatsApp en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/enigma-estrella-belen-no-veremos-navidad-2024-astronomia-no-hay-unica-respuesta-1432664'>El enigma de la Estrella de Belén que no veremos en Navidad 2024: según la astronomía, no hay una única respuesta</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/enigma-estrella-belen-no-veremos-navidad-2024-astronomia-no-hay-unica-respuesta-1432664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/enigma-estrella-belen-no-veremos-navidad-2024-astronomia-aun-no-sabemos-4277818.jpg?tf=1200x' alt='El enigma de la Estrella de Belén que no veremos en Navidad 2024: según la astronomía, no hay una única respuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454'>Móviles plegables: ¿el gran fracaso tecnológico de 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-plegables-gran-fracaso-tecnologico-2025-4268957.jpg?tf=1200x' alt='Móviles plegables: ¿el gran fracaso tecnológico de 2025?' />
     </a>
 </div>
 
