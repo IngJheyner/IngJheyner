@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792'>6 productos y servicios tecnológicos que desaparecen en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/botar-equipos-4271282.jpg?tf=1200x' alt='6 productos y servicios tecnológicos que desaparecen en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/fenomenos-atmosfericos-alucinantes-tendran-lugar-2025-1427711'>Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/fenomenos-atmosfericos-alucinantes-tendran-lugar-2025-1427711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fenomenos-atmosfericos-4269398.jpg?tf=1200x' alt='Los fenómenos atmosféricos más alucinantes que tendrán lugar en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/hemos-probado-25-auriculares-ano-estas-son-recomendaciones-necesidades-1432255'>Hemos probado 25 auriculares este año y estas son mis recomendaciones según tus necesidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/hemos-probado-25-auriculares-ano-estas-son-recomendaciones-necesidades-1432255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3913290.jpg?tf=1200x' alt='Hemos probado 25 auriculares este año y estas son mis recomendaciones según tus necesidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/typosquatting-error-escribir-web-google-podria-acabar-estafa-1428704'>¿Qué es typosquatting y por qué un error al escribir una web en Google podría acabar en estafa?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/typosquatting-error-escribir-web-google-podria-acabar-estafa-1428704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1735211307176-4277090.jpg?tf=1200x' alt='¿Qué es typosquatting y por qué un error al escribir una web en Google podría acabar en estafa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-baratos-2025-comparados-2024-1428325'>Productos tecnológicos que serán más baratos en 2025 comparados con 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-baratos-2025-comparados-2024-1428325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/productos-baratos-2025-4270752.jpg?tf=1200x' alt='Productos tecnológicos que serán más baratos en 2025 comparados con 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/samsung-viene-ia-potencia-bestial-precio-ha-caido-picado-amazon-1432645'>Este Samsung viene con IA y una potencia bestial, y su precio ha caído en picado en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/samsung-viene-ia-potencia-bestial-precio-ha-caido-picado-amazon-1432645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Este Samsung viene con IA y una potencia bestial, y su precio ha caído en picado en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/demuestran-posible-ejecutar-servidor-minecraft-lenguaje-programacion-cobol-1432656'>Demuestran que es posible ejecutar un servidor de Minecraft en lenguaje de programación COBOL</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/demuestran-posible-ejecutar-servidor-minecraft-lenguaje-programacion-cobol-1432656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/minecraft-pc-4277773.jpg?tf=1200x' alt='Demuestran que es posible ejecutar un servidor de Minecraft en lenguaje de programación COBOL' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/outlook-traera-compatibilidad-archivos-pst-2025-1432654'>Outlook traerá compatibilidad con archivos PST en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/outlook-traera-compatibilidad-archivos-pst-2025-1432654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/problemas-acceso-correo-electronico-outlook-4186588.jpg?tf=1200x' alt='Outlook traerá compatibilidad con archivos PST en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653'>Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría' />
     </a>
 </div>
 
