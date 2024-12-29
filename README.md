@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454'>Móviles plegables: ¿el gran fracaso tecnológico de 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-plegables-gran-fracaso-tecnologico-2025-4268957.jpg?tf=1200x' alt='Móviles plegables: ¿el gran fracaso tecnológico de 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/series-esperadas-2025-fechas-estreno-donde-verlas-1428189'>Las series más esperadas de 2025: fechas de estreno y dónde verlas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/series-esperadas-2025-fechas-estreno-donde-verlas-1428189' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/series-esperadas-2025-fechas-estreno-donde-verlas-4270244.jpg?tf=1200x' alt='Las series más esperadas de 2025: fechas de estreno y dónde verlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792'>6 productos y servicios tecnológicos que desaparecen en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/botar-equipos-4271282.jpg?tf=1200x' alt='6 productos y servicios tecnológicos que desaparecen en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/hemos-probado-25-auriculares-ano-estas-son-recomendaciones-necesidades-1432255'>Hemos probado 25 auriculares este año y estas son mis recomendaciones según tus necesidades</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/hemos-probado-25-auriculares-ano-estas-son-recomendaciones-necesidades-1432255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-buds-3-pro-3913290.jpg?tf=1200x' alt='Hemos probado 25 auriculares este año y estas son mis recomendaciones según tus necesidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/typosquatting-error-escribir-web-google-podria-acabar-estafa-1428704'>¿Qué es typosquatting y por qué un error al escribir una web en Google podría acabar en estafa?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/typosquatting-error-escribir-web-google-podria-acabar-estafa-1428704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/verticalimage1735211307176-4277090.jpg?tf=1200x' alt='¿Qué es typosquatting y por qué un error al escribir una web en Google podría acabar en estafa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-baratos-2025-comparados-2024-1428325'>Productos tecnológicos que serán más baratos en 2025 comparados con 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-baratos-2025-comparados-2024-1428325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/productos-baratos-2025-4270752.jpg?tf=1200x' alt='Productos tecnológicos que serán más baratos en 2025 comparados con 2024' />
     </a>
 </div>
 
