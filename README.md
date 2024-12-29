@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-revela-plan-reestructuracion-convertirse-compania-animo-lucro-1432717'>OpenAI revela su plan de reestructuración para convertirse en una compañía con ánimo de lucro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-revela-plan-reestructuracion-convertirse-compania-animo-lucro-1432717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-revela-plan-reestructuracion-convertirse-compania-lucro-4277864.jpg?tf=1200x' alt='OpenAI revela su plan de reestructuración para convertirse en una compañía con ánimo de lucro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700'>El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonido-waze-4277846.jpg?tf=1200x' alt='El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-1431236'>Míralo mientras puedas: estas son las series de Netflix que ya no podrás ver en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-1431236' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-4275480.jpg?tf=1200x' alt='Míralo mientras puedas: estas son las series de Netflix que ya no podrás ver en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-impone-copilot-usuarios-365-encima-aumenta-precio-1432686'>Microsoft impone Copilot a sus usuarios de 365 y encima aumenta el precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-impone-copilot-usuarios-365-encima-aumenta-precio-1432686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/microsoft-copilot-4277834.jpg?tf=1200x' alt='Microsoft impone Copilot a sus usuarios de 365 y encima aumenta el precio' />
     </a>
 </div>
 
