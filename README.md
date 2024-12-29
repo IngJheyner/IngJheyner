@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731'>RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rfdew-nueva-arma-ejercito-britanico-derriba-docenas-drones-kilometro-distancia-4277681.jpg?tf=1200x' alt='RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-son-como-fallout-last-us-razon-bunkeres-nucleares-no-funcionarian-realidad-1432728'>No son como en Fallout o The Last of Us: la razón por la que los búnkeres nucleares no funcionarían en la realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-son-como-fallout-last-us-razon-bunkeres-nucleares-no-funcionarian-realidad-1432728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-son-como-fallout-last-us-razon-bunkers-nucleares-no-funcionarian-realidad-4277928.jpg?tf=1200x' alt='No son como en Fallout o The Last of Us: la razón por la que los búnkeres nucleares no funcionarían en la realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724'>¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nos-enganan-chips-ia-consiguen-usar-llama-meta-pentium-ii-hace-26-anos-4277926.jpg?tf=1200x' alt='¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-14-iphone-se-apple-ha-retirado-tiendas-1432718'>Si buscas un iPhone 14 o iPhone SE para los Reyes Magos, no los vas a encontrar: Apple los ha retirado de las tiendas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-14-iphone-se-apple-ha-retirado-tiendas-1432718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si buscas un iPhone 14 o iPhone SE para los Reyes Magos, no los vas a encontrar: Apple los ha retirado de las tiendas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-revela-plan-reestructuracion-convertirse-compania-animo-lucro-1432717'>OpenAI revela su plan de reestructuración para convertirse en una compañía con ánimo de lucro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-revela-plan-reestructuracion-convertirse-compania-animo-lucro-1432717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-revela-plan-reestructuracion-convertirse-compania-lucro-4277864.jpg?tf=1200x' alt='OpenAI revela su plan de reestructuración para convertirse en una compañía con ánimo de lucro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700'>El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonido-waze-4277846.jpg?tf=1200x' alt='El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando' />
     </a>
 </div>
 
