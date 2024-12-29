@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-baratos-2025-comparados-2024-1428325'>Productos tecnológicos que serán más baratos en 2025 comparados con 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/productos-tecnologicos-seran-baratos-2025-comparados-2024-1428325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/productos-baratos-2025-4270752.jpg?tf=1200x' alt='Productos tecnológicos que serán más baratos en 2025 comparados con 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/samsung-viene-ia-potencia-bestial-precio-ha-caido-picado-amazon-1432645'>Este Samsung viene con IA y una potencia bestial, y su precio ha caído en picado en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/samsung-viene-ia-potencia-bestial-precio-ha-caido-picado-amazon-1432645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/samsung-galaxy-s24-3290413.jpg?tf=1200x' alt='Este Samsung viene con IA y una potencia bestial, y su precio ha caído en picado en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/demuestran-posible-ejecutar-servidor-minecraft-lenguaje-programacion-cobol-1432656'>Demuestran que es posible ejecutar un servidor de Minecraft en lenguaje de programación COBOL</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/demuestran-posible-ejecutar-servidor-minecraft-lenguaje-programacion-cobol-1432656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/minecraft-pc-4277773.jpg?tf=1200x' alt='Demuestran que es posible ejecutar un servidor de Minecraft en lenguaje de programación COBOL' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653'>Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-prepararia-actualizacion-sorpresa-ios-primeros-enero-incluiria-1432653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/pasa-ios-182-va-tardar-llegar-iphone-4257027.jpg?tf=1200x' alt='Apple prepararía una actualización sorpresa para iOS a primeros de enero, y esto incluiría' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-te-va-permitir-cambiar-facilmente-fps-calidad-camara-1432652'>Windows 11 te va a permitir cambiar fácilmente los FPS y la calidad de tu cámara</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-te-va-permitir-cambiar-facilmente-fps-calidad-camara-1432652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/webcam-windows-11-3288333.jpg?tf=1200x' alt='Windows 11 te va a permitir cambiar fácilmente los FPS y la calidad de tu cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-finalmente-adoptara-clasica-caracteristica-android-nougat-galaxy-s25-1432634'>Samsung finalmente adoptará esta clásica característica de Android Nougat en el Galaxy S25</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-finalmente-adoptara-clasica-caracteristica-android-nougat-galaxy-s25-1432634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267387.jpg?tf=1200x' alt='Samsung finalmente adoptará esta clásica característica de Android Nougat en el Galaxy S25' />
     </a>
 </div>
 
