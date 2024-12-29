@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724'>¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nos-enganan-chips-ia-consiguen-usar-llama-meta-pentium-ii-hace-26-anos-4277926.jpg?tf=1200x' alt='¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-originales-feliz-ano-nuevo-enviar-whatsapp-1349454'>50 felicitaciones originales de Año Nuevo para enviar por WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/life/felicitaciones-originales-feliz-ano-nuevo-enviar-whatsapp-1349454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/felicitaciones-nochebuena-whatsapp-2175443.jpg?tf=1200x' alt='50 felicitaciones originales de Año Nuevo para enviar por WhatsApp' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700'>El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/error-waze-hace-casi-imperceptible-sonido-solucion-funcionando-1432700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonido-waze-4277846.jpg?tf=1200x' alt='El error en Waze que hace casi imperceptible el sonido: esta es la solución que está funcionando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-kodi-2025-1429110'>Nuevas funciones que llegan a Kodi en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-kodi-2025-1429110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kodi-2025-4272050.jpg?tf=1200x' alt='Nuevas funciones que llegan a Kodi en 2025' />
     </a>
 </div>
 
