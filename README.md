@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-originales-feliz-ano-nuevo-enviar-whatsapp-1349454'>50 felicitaciones originales de Año Nuevo para enviar por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/felicitaciones-originales-feliz-ano-nuevo-enviar-whatsapp-1349454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/felicitaciones-nochebuena-whatsapp-2175443.jpg?tf=1200x' alt='50 felicitaciones originales de Año Nuevo para enviar por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-14-iphone-se-apple-ha-retirado-tiendas-1432718'>Si buscas un iPhone 14 o iPhone SE para los Reyes Magos, no los vas a encontrar: Apple los ha retirado de las tiendas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-14-iphone-se-apple-ha-retirado-tiendas-1432718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si buscas un iPhone 14 o iPhone SE para los Reyes Magos, no los vas a encontrar: Apple los ha retirado de las tiendas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-revela-plan-reestructuracion-convertirse-compania-animo-lucro-1432717'>OpenAI revela su plan de reestructuración para convertirse en una compañía con ánimo de lucro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-revela-plan-reestructuracion-convertirse-compania-animo-lucro-1432717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openai-revela-plan-reestructuracion-convertirse-compania-lucro-4277864.jpg?tf=1200x' alt='OpenAI revela su plan de reestructuración para convertirse en una compañía con ánimo de lucro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-kodi-2025-1429110'>Nuevas funciones que llegan a Kodi en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-kodi-2025-1429110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kodi-2025-4272050.jpg?tf=1200x' alt='Nuevas funciones que llegan a Kodi en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-actualiza-grabacion-video-windows-11-mejor-calidad-menor-peso-1432690'>Chrome actualiza la grabación de vídeo en Windows 11 con mejor calidad y menor peso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-actualiza-grabacion-video-windows-11-mejor-calidad-menor-peso-1432690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grabacion-video-chrome-windows-11-4277839.jpg?tf=1200x' alt='Chrome actualiza la grabación de vídeo en Windows 11 con mejor calidad y menor peso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-1431236'>Míralo mientras puedas: estas son las series de Netflix que ya no podrás ver en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-1431236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/miralo-mientras-puedas-estas-son-series-netflix-ya-no-podras-ver-2025-4275480.jpg?tf=1200x' alt='Míralo mientras puedas: estas son las series de Netflix que ya no podrás ver en 2025' />
     </a>
 </div>
 
