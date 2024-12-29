@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/regalado-nintendo-switch-navidad-juegos-tienes-jugar-primero-1432364'>¿Te han regalado un Nintendo Switch esta Navidad? 9 juegos que tienes que jugar primero</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/regalado-nintendo-switch-navidad-juegos-tienes-jugar-primero-1432364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/juegos-nintendo-switch-4277373.jpg?tf=1200x' alt='¿Te han regalado un Nintendo Switch esta Navidad? 9 juegos que tienes que jugar primero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-enfrenta-desastre-navideno-meta-quest-3-3s-quedan-bloqueados-error-actualizacion-1432679'>Meta se enfrenta a un desastre navideño: los Meta Quest 3 y 3S quedan bloqueados por un error de actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-enfrenta-desastre-navideno-meta-quest-3-3s-quedan-bloqueados-error-actualizacion-1432679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/meta-quest-3-todo-sabe-nuevo-dispositivo-vr-meta-3039960.jpg?tf=1200x' alt='Meta se enfrenta a un desastre navideño: los Meta Quest 3 y 3S quedan bloqueados por un error de actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871'>Nuevas funciones que llegan a WhatsApp en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-whatsapp-2025-1427871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-2025-4269753.jpg?tf=1200x' alt='Nuevas funciones que llegan a WhatsApp en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454'>Móviles plegables: ¿el gran fracaso tecnológico de 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/moviles-plegables-gran-fracaso-tecnologico-2025-1427454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/moviles-plegables-gran-fracaso-tecnologico-2025-4268957.jpg?tf=1200x' alt='Móviles plegables: ¿el gran fracaso tecnológico de 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/series-esperadas-2025-fechas-estreno-donde-verlas-1428189'>Las series más esperadas de 2025: fechas de estreno y dónde verlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/series-esperadas-2025-fechas-estreno-donde-verlas-1428189' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/series-esperadas-2025-fechas-estreno-donde-verlas-4270244.jpg?tf=1200x' alt='Las series más esperadas de 2025: fechas de estreno y dónde verlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792'>6 productos y servicios tecnológicos que desaparecen en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/productos-servicios-tecnologicos-desaparecen-2025-1428792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/botar-equipos-4271282.jpg?tf=1200x' alt='6 productos y servicios tecnológicos que desaparecen en 2025' />
     </a>
 </div>
 
