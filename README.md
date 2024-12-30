@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/teclados-ratones-ergonomicos-cosas-deberias-saber-antes-comprar-1419528'>Teclados y ratones ergonómicos: qué cosas deberías saber antes de comprar uno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/teclados-ratones-ergonomicos-cosas-deberias-saber-antes-comprar-1419528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclado-raton-ergonomico-4263147.jpg?tf=1200x' alt='Teclados y ratones ergonómicos: qué cosas deberías saber antes de comprar uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-roomba-combo-10-max-me-parece-robot-completo-ano-ya-permite-lavar-secar-mopa-1431489'>He probado el Roomba Combo 10 Max y me parece el robot más completo del año: ya permite lavar y secar su mopa</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-roomba-combo-10-max-me-parece-robot-completo-ano-ya-permite-lavar-secar-mopa-1431489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/irobot-roomba-combo-10-max-4276518.jpg?tf=1200x' alt='He probado el Roomba Combo 10 Max y me parece el robot más completo del año: ya permite lavar y secar su mopa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419'>Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-2025-inteligencia-artificial-4274037.jpg?tf=1200x' alt='Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/cosas-hacer-inteligencia-artificial-antes-nochevieja-1426749'>10 cosas para hacer con la inteligencia artificial antes de que termine el año</a></h4>
     <a href='https://computerhoy.20minutos.es/cosas-hacer-inteligencia-artificial-antes-nochevieja-1426749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-2025-4267851.jpg?tf=1200x' alt='10 cosas para hacer con la inteligencia artificial antes de que termine el año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/planifica-menu-navideno-ayuda-inteligencia-artificial-1428167'>Planifica tu menú navideño con ayuda de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/planifica-menu-navideno-ayuda-inteligencia-artificial-1428167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/planifica-menu-navideno-ayuda-inteligencia-artificial-4270220.jpg?tf=1200x' alt='Planifica tu menú navideño con ayuda de la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731'>RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rfdew-nueva-arma-ejercito-britanico-derriba-docenas-drones-kilometro-distancia-4277681.jpg?tf=1200x' alt='RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle' />
     </a>
 </div>
 
