@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-fabricada-como-posible-haya-conseguido-acercarse-tanto-sol-1432807'>Sonda Parker de la NASA: de qué está fabricada y cómo es posible que haya conseguido acercarse tanto al sol</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-fabricada-como-posible-haya-conseguido-acercarse-tanto-sol-1432807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-continuara-orbitando-cerca-sol-durante-proximos-seis-meses-4278029.jpg?tf=1200x' alt='Sonda Parker de la NASA: de qué está fabricada y cómo es posible que haya conseguido acercarse tanto al sol' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/iptv-nueva-sentencia-historica-deja-fuera-juego-futbol-gratis-1432787'>IPTV: una nueva sentencia histórica deja en fuera de juego al fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/iptv-nueva-sentencia-historica-deja-fuera-juego-futbol-gratis-1432787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iptv-nueva-sentencia-historica-deja-fuera-juego-futbol-gratis-4278027.jpg?tf=1200x' alt='IPTV: una nueva sentencia histórica deja en fuera de juego al fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/moviles-sin-whatsapp-enero-2025-1428108'>Adiós a WhatsApp en 2025: estos móviles se quedarán sin acceso el 1 de enero</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/moviles-sin-whatsapp-enero-2025-1428108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Adiós a WhatsApp en 2025: estos móviles se quedarán sin acceso el 1 de enero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/openai-desvela-trucos-activar-modo-dios-chatgpt-1432815'>OpenAI desvela los trucos para activar el modo dios de ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/openai-desvela-trucos-activar-modo-dios-chatgpt-1432815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-chatgpt-windows-4250991.jpg?tf=1200x' alt='OpenAI desvela los trucos para activar el modo dios de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/chatgpt-search-no-infalible-puede-hacer-usuarios-instalen-malware-1432788'>ChatGPT Search no es infalible: así puede hacer que los usuarios instalen malware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/chatgpt-search-no-infalible-puede-hacer-usuarios-instalen-malware-1432788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-4272963.jpg?tf=1200x' alt='ChatGPT Search no es infalible: así puede hacer que los usuarios instalen malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-apple-homepod-ia-2025-mucho-altavoz-inteligente-1432753'>¿Nuevo Apple HomePod con IA en 2025? Mucho más que un altavoz inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-apple-homepod-ia-2025-mucho-altavoz-inteligente-1432753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/homepod-mini-4278013.jpg?tf=1200x' alt='¿Nuevo Apple HomePod con IA en 2025? Mucho más que un altavoz inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-gusta-musica-necesitas-movil-estetica-noventera-altavoz-forma-vinilo-menos-100-euros-1432818'>Si te gusta la música, necesitas este móvil: estética noventera, altavoz con forma de vinilo y menos de 100 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/te-gusta-musica-necesitas-movil-estetica-noventera-altavoz-forma-vinilo-menos-100-euros-1432818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/zte-nubia-music-movil-estetica-90-enorme-altavoz-forma-vinilo-3308791.jpg?tf=1200x' alt='Si te gusta la música, necesitas este móvil: estética noventera, altavoz con forma de vinilo y menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgtp-activa-modo-apisonadora-destruyendo-mundo-programacion-1432805'>ChatGTP activa el modo apisonadora y está destruyendo el mundo de la programación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgtp-activa-modo-apisonadora-destruyendo-mundo-programacion-1432805' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='ChatGTP activa el modo apisonadora y está destruyendo el mundo de la programación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-podria-perder-mejores-programadores-tesla-spacex-1432754'>Elon Musk podría perder a sus mejores programadores de Tesla y SpaceX</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-podria-perder-mejores-programadores-tesla-spacex-1432754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/eres-programador-quieres-trabajar-eeuu-elon-musk-trump-chocan-visados-especiales-4277984.jpg?tf=1200x' alt='Elon Musk podría perder a sus mejores programadores de Tesla y SpaceX' />
     </a>
 </div>
 
