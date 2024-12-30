@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/error-pantalla-verde-whatsapp-solucion-1417889'>Pantalla verde de WhatsApp: por qué se produce este error y cómo solucionarlo fácilmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/error-pantalla-verde-whatsapp-solucion-1417889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-4260031.jpg?tf=1200x' alt='Pantalla verde de WhatsApp: por qué se produce este error y cómo solucionarlo fácilmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-hidrogeno-primer-motor-aire-ya-realidad-podria-cambiarlo-todo-1432864'>Adiós hidrógeno, el primer motor por aire ya es una realidad y podría cambiarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-hidrogeno-primer-motor-aire-ya-realidad-podria-cambiarlo-todo-1432864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motor-hidrogeno-3218490.jpg?tf=1200x' alt='Adiós hidrógeno, el primer motor por aire ya es una realidad y podría cambiarlo todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/helicops-app-gratis-detectar-radares-helicopteros-dgt-1432296'>Esta app gratis pone contra las cuerdas al radar Pegasus de la DGT y desatada la locura en Internet </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/helicops-app-gratis-detectar-radares-helicopteros-dgt-1432296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/helicops-funciona-tecnologia-pone-jaque-helicopteros-dgt-4277226.jpg?tf=1200x' alt='Esta app gratis pone contra las cuerdas al radar Pegasus de la DGT y desatada la locura en Internet ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gafas-inteligentes-vuelven-2025-ahora-susurran-oido-ayuda-chatgpt-1432847'>Las gafas inteligentes vuelven en 2025: ahora susurran al oído con la ayuda de ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gafas-inteligentes-vuelven-2025-ahora-susurran-oido-ayuda-chatgpt-1432847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/google-glass.jpg?tf=1200x' alt='Las gafas inteligentes vuelven en 2025: ahora susurran al oído con la ayuda de ChatGPT' />
     </a>
 </div>
 
