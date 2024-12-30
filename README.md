@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/cosas-hacer-inteligencia-artificial-antes-nochevieja-1426749'>10 cosas para hacer con la inteligencia artificial antes de que termine el año</a></h4>
+    <a href='https://computerhoy.20minutos.es/cosas-hacer-inteligencia-artificial-antes-nochevieja-1426749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-2025-4267851.jpg?tf=1200x' alt='10 cosas para hacer con la inteligencia artificial antes de que termine el año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/planifica-menu-navideno-ayuda-inteligencia-artificial-1428167'>Planifica tu menú navideño con ayuda de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/planifica-menu-navideno-ayuda-inteligencia-artificial-1428167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/planifica-menu-navideno-ayuda-inteligencia-artificial-4270220.jpg?tf=1200x' alt='Planifica tu menú navideño con ayuda de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731'>RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rfdew-nueva-arma-ejercito-britanico-derriba-docenas-drones-kilometro-distancia-4277681.jpg?tf=1200x' alt='RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724'>¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nos-enganan-chips-ia-consiguen-usar-llama-meta-pentium-ii-hace-26-anos-4277926.jpg?tf=1200x' alt='¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/felicitaciones-originales-feliz-ano-nuevo-enviar-whatsapp-1349454'>50 felicitaciones originales de Año Nuevo para enviar por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/felicitaciones-originales-feliz-ano-nuevo-enviar-whatsapp-1349454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/12/felicitaciones-nochebuena-whatsapp-2175443.jpg?tf=1200x' alt='50 felicitaciones originales de Año Nuevo para enviar por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-14-iphone-se-apple-ha-retirado-tiendas-1432718'>Si buscas un iPhone 14 o iPhone SE para los Reyes Magos, no los vas a encontrar: Apple los ha retirado de las tiendas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-14-iphone-se-apple-ha-retirado-tiendas-1432718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-iphone-14-plus-analisis-opinion-2857693.jpg?tf=1200x' alt='Si buscas un iPhone 14 o iPhone SE para los Reyes Magos, no los vas a encontrar: Apple los ha retirado de las tiendas' />
     </a>
 </div>
 
