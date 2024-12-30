@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gafas-inteligentes-vuelven-2025-ahora-susurran-oido-ayuda-chatgpt-1432847'>Las gafas inteligentes vuelven en 2025: ahora susurran al oído con la ayuda de ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gafas-inteligentes-vuelven-2025-ahora-susurran-oido-ayuda-chatgpt-1432847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/google-glass.jpg?tf=1200x' alt='Las gafas inteligentes vuelven en 2025: ahora susurran al oído con la ayuda de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/estos-10-dispositivos-tecnologias-cumplen-25-anos-2025-1432858'>Estos 10 dispositivos y tecnologías cumplen 25 años en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/estos-10-dispositivos-tecnologias-cumplen-25-anos-2025-1432858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dispositivos-tecnologias-2025-4278082.jpg?tf=1200x' alt='Estos 10 dispositivos y tecnologías cumplen 25 años en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-finetwork-ganan-clientes-2024-pero-son-operadoras-dinero-pierden-1432832'>DIGI y Finetwork ganan clientes en 2024, pero son las operadoras que más dinero pierden</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/digi-finetwork-ganan-clientes-2024-pero-son-operadoras-dinero-pierden-1432832' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-finetwork-ganan-clientes-2024-pero-son-operadoras-dinero-pierden-4278040.jpg?tf=1200x' alt='DIGI y Finetwork ganan clientes en 2024, pero son las operadoras que más dinero pierden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-cientos-herramientas-ia-ano-estas-son-10-imprescindibles-ya-no-puedo-vivir-1432819'>He probado cientos de herramientas IA este año: estas son mis 10 imprescindibles sin las que ya no puedo vivir</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-cientos-herramientas-ia-ano-estas-son-10-imprescindibles-ya-no-puedo-vivir-1432819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/herramientas-inteligencia-artificial-3301658.jpg?tf=1200x' alt='He probado cientos de herramientas IA este año: estas son mis 10 imprescindibles sin las que ya no puedo vivir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-fabricada-como-posible-haya-conseguido-acercarse-tanto-sol-1432807'>Sonda Parker de la NASA: de qué está fabricada y cómo es posible que haya conseguido acercarse tanto al sol</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/sonda-parker-nasa-fabricada-como-posible-haya-conseguido-acercarse-tanto-sol-1432807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sonda-solar-parker-continuara-orbitando-cerca-sol-durante-proximos-seis-meses-4278029.jpg?tf=1200x' alt='Sonda Parker de la NASA: de qué está fabricada y cómo es posible que haya conseguido acercarse tanto al sol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/iptv-nueva-sentencia-historica-deja-fuera-juego-futbol-gratis-1432787'>IPTV: una nueva sentencia histórica deja en fuera de juego al fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/iptv-nueva-sentencia-historica-deja-fuera-juego-futbol-gratis-1432787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iptv-nueva-sentencia-historica-deja-fuera-juego-futbol-gratis-4278027.jpg?tf=1200x' alt='IPTV: una nueva sentencia histórica deja en fuera de juego al fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/moviles-sin-whatsapp-enero-2025-1428108'>Adiós a WhatsApp en 2025: estos móviles se quedarán sin acceso el 1 de enero</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/moviles-sin-whatsapp-enero-2025-1428108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-4260495.jpg?tf=1200x' alt='Adiós a WhatsApp en 2025: estos móviles se quedarán sin acceso el 1 de enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/openai-desvela-trucos-activar-modo-dios-chatgpt-1432815'>OpenAI desvela los trucos para activar el modo dios de ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/openai-desvela-trucos-activar-modo-dios-chatgpt-1432815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/app-chatgpt-windows-4250991.jpg?tf=1200x' alt='OpenAI desvela los trucos para activar el modo dios de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/chatgpt-search-no-infalible-puede-hacer-usuarios-instalen-malware-1432788'>ChatGPT Search no es infalible: así puede hacer que los usuarios instalen malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/chatgpt-search-no-infalible-puede-hacer-usuarios-instalen-malware-1432788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-4272963.jpg?tf=1200x' alt='ChatGPT Search no es infalible: así puede hacer que los usuarios instalen malware' />
     </a>
 </div>
 
