@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419'>Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-2025-inteligencia-artificial-4274037.jpg?tf=1200x' alt='Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-movil-te-ayudaran-seguir-cumplir-propositos-ano-nuevo-1428791'>10 aplicaciones para el móvil que te ayudarán a seguir y cumplir tus propósitos de Año Nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-movil-te-ayudaran-seguir-cumplir-propositos-ano-nuevo-1428791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-movil-te-ayudaran-seguir-cumplir-propositos-ano-nuevo-4271281.jpg?tf=1200x' alt='10 aplicaciones para el móvil que te ayudarán a seguir y cumplir tus propósitos de Año Nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/cosas-hacer-inteligencia-artificial-antes-nochevieja-1426749'>10 cosas para hacer con la inteligencia artificial antes de que termine el año</a></h4>
     <a href='https://computerhoy.20minutos.es/cosas-hacer-inteligencia-artificial-antes-nochevieja-1426749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-2025-4267851.jpg?tf=1200x' alt='10 cosas para hacer con la inteligencia artificial antes de que termine el año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731'>RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/rfdew-nueva-arma-derriba-docenas-drones-kilometro-distancia-1432731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/rfdew-nueva-arma-ejercito-britanico-derriba-docenas-drones-kilometro-distancia-4277681.jpg?tf=1200x' alt='RFDEW, la nueva arma que derriba docenas de drones a un kilómetro de distancia, por menos de lo que cuesta un chicle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-son-como-fallout-last-us-razon-bunkeres-nucleares-no-funcionarian-realidad-1432728'>No son como en Fallout o The Last of Us: la razón por la que los búnkeres nucleares no funcionarían en la realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-son-como-fallout-last-us-razon-bunkeres-nucleares-no-funcionarian-realidad-1432728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-son-como-fallout-last-us-razon-bunkers-nucleares-no-funcionarian-realidad-4277928.jpg?tf=1200x' alt='No son como en Fallout o The Last of Us: la razón por la que los búnkeres nucleares no funcionarían en la realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724'>¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/consiguen-usar-ia-llama-meta-pentium-ii-hace-26-anos-1432724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nos-enganan-chips-ia-consiguen-usar-llama-meta-pentium-ii-hace-26-anos-4277926.jpg?tf=1200x' alt='¿Nos engañan con los chips de IA?: Consiguen usar Llama de Meta en un Pentium II de hace 26 años' />
     </a>
 </div>
 
