@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870'>Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-4278085.jpg?tf=1200x' alt='Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-1432950'>Nintendo Switch 2 ya tendría fecha oficial de lanzamiento (y no te va a gustar)</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-1432950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-switch-2-ya-tendria-fecha-oficial-lanzamiento-no-te-va-gustar-4278197.jpg?tf=1200x' alt='Nintendo Switch 2 ya tendría fecha oficial de lanzamiento (y no te va a gustar)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-1432842'>La Casa Blanca tenía paneles solares hace 45 años, gracias a Jimmy Carter</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-1432842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-4278076.jpg?tf=1200x' alt='La Casa Blanca tenía paneles solares hace 45 años, gracias a Jimmy Carter' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/error-pantalla-verde-whatsapp-solucion-1417889'>Pantalla verde de WhatsApp: por qué se produce este error y cómo solucionarlo fácilmente</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/error-pantalla-verde-whatsapp-solucion-1417889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-4260031.jpg?tf=1200x' alt='Pantalla verde de WhatsApp: por qué se produce este error y cómo solucionarlo fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-hidrogeno-primer-motor-aire-ya-realidad-podria-cambiarlo-todo-1432864'>Adiós hidrógeno, el primer motor por aire ya es una realidad y podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-hidrogeno-primer-motor-aire-ya-realidad-podria-cambiarlo-todo-1432864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motor-hidrogeno-3218490.jpg?tf=1200x' alt='Adiós hidrógeno, el primer motor por aire ya es una realidad y podría cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compras-ordenador-2025-asegurate-lleve-procesador-arm-futuro-tecnologia-ya-aqui-1432828'>Si compras un ordenador en 2025, asegúrate de que lleve un procesador ARM: el futuro de la tecnología ya está aquí</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/compras-ordenador-2025-asegurate-lleve-procesador-arm-futuro-tecnologia-ya-aqui-1432828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chip-amr-4278063.jpg?tf=1200x' alt='Si compras un ordenador en 2025, asegúrate de que lleve un procesador ARM: el futuro de la tecnología ya está aquí' />
     </a>
 </div>
 
