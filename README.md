@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/agencia-espanola-ia-ya-realidad-podria-multarte-tan-solo-unas-horas-1432784'>La agencia española de la IA ya es una realidad y podría multarte en tan solo unas horas</a></h4>
+    <a href='https://computerhoy.20minutos.es/agencia-espanola-ia-ya-realidad-podria-multarte-tan-solo-unas-horas-1432784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='La agencia española de la IA ya es una realidad y podría multarte en tan solo unas horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-deja-lado-tesla-nueva-apuesta-2025-1432771'>Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-deja-lado-tesla-nueva-apuesta-2025-1432771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-roomba-combo-10-max-me-parece-robot-completo-ano-ya-permite-lavar-secar-mopa-1431489'>He probado el Roomba Combo 10 Max y me parece el robot más completo del año: ya permite lavar y secar su mopa</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-roomba-combo-10-max-me-parece-robot-completo-ano-ya-permite-lavar-secar-mopa-1431489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/irobot-roomba-combo-10-max-4276518.jpg?tf=1200x' alt='He probado el Roomba Combo 10 Max y me parece el robot más completo del año: ya permite lavar y secar su mopa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419'>Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-2025-inteligencia-artificial-4274037.jpg?tf=1200x' alt='Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp' />
     </a>
 </div>
 
