@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969'>¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/soporte-humano-whatsapp-4278248.jpg?tf=1200x' alt='¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-nuevos-colores-joycon-potencia-misteriosos-parches-juegos-actuales-1432966'>Nintendo Switch 2 como nunca antes se ha visto: nuevos colores, joycon, potencia y misteriosos parches para juegos actuales</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-nuevos-colores-joycon-potencia-misteriosos-parches-juegos-actuales-1432966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-switch-2-como-nunca-antes-ha-visto-nuevos-colores-joycon-potencia-misteriosos-parches-juegos-actuales-4278230.jpg?tf=1200x' alt='Nintendo Switch 2 como nunca antes se ha visto: nuevos colores, joycon, potencia y misteriosos parches para juegos actuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtuber-ha-restaurado-perfeccion-primeras-tablets-historia-hace-31-anos-1432967'>Este youtuber ha restaurado a la perfección una de las primeras tablets de la historia de hace 31 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/youtuber-ha-restaurado-perfeccion-primeras-tablets-historia-hace-31-anos-1432967' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ibm-thinkpad-4278246.jpg?tf=1200x' alt='Este youtuber ha restaurado a la perfección una de las primeras tablets de la historia de hace 31 años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870'>Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-4278085.jpg?tf=1200x' alt='Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-1432950'>Nintendo Switch 2 ya tendría fecha oficial de lanzamiento (y no te va a gustar)</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-1432950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-switch-2-ya-tendria-fecha-oficial-lanzamiento-no-te-va-gustar-4278197.jpg?tf=1200x' alt='Nintendo Switch 2 ya tendría fecha oficial de lanzamiento (y no te va a gustar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-1432842'>La Casa Blanca tenía paneles solares hace 45 años, gracias a Jimmy Carter</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-1432842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-4278076.jpg?tf=1200x' alt='La Casa Blanca tenía paneles solares hace 45 años, gracias a Jimmy Carter' />
     </a>
 </div>
 
