@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/agencia-espanola-ia-ya-realidad-podria-multarte-tan-solo-unas-horas-1432784'>La agencia española de la IA ya es una realidad y podría multarte en tan solo unas horas</a></h4>
-    <a href='https://computerhoy.20minutos.es/agencia-espanola-ia-ya-realidad-podria-multarte-tan-solo-unas-horas-1432784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='La agencia española de la IA ya es una realidad y podría multarte en tan solo unas horas' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/chatgpt-search-no-infalible-puede-hacer-usuarios-instalen-malware-1432788'>ChatGPT Search no es infalible: así puede hacer que los usuarios instalen malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/chatgpt-search-no-infalible-puede-hacer-usuarios-instalen-malware-1432788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-4272963.jpg?tf=1200x' alt='ChatGPT Search no es infalible: así puede hacer que los usuarios instalen malware' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-deja-lado-tesla-nueva-apuesta-2025-1432771'>Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-deja-lado-tesla-nueva-apuesta-2025-1432771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-apple-homepod-ia-2025-mucho-altavoz-inteligente-1432753'>¿Nuevo Apple HomePod con IA en 2025? Mucho más que un altavoz inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-apple-homepod-ia-2025-mucho-altavoz-inteligente-1432753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/homepod-mini-4278013.jpg?tf=1200x' alt='¿Nuevo Apple HomePod con IA en 2025? Mucho más que un altavoz inteligente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-videollamadas-ni-mensajes-estas-son-novedades-whatsapp-felicites-ano-nuevo-1432758'>Ni videollamadas ni mensajes: estas son las novedades de WhatsApp para que felicites el Año Nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-videollamadas-ni-mensajes-estas-son-novedades-whatsapp-felicites-ano-nuevo-1432758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-whatsapp-felicites-ano-nuevo-4277968.jpg?tf=1200x' alt='Ni videollamadas ni mensajes: estas son las novedades de WhatsApp para que felicites el Año Nuevo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/te-gusta-musica-necesitas-movil-estetica-noventera-altavoz-forma-vinilo-menos-100-euros-1432818'>Si te gusta la música, necesitas este móvil: estética noventera, altavoz con forma de vinilo y menos de 100 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/te-gusta-musica-necesitas-movil-estetica-noventera-altavoz-forma-vinilo-menos-100-euros-1432818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/zte-nubia-music-movil-estetica-90-enorme-altavoz-forma-vinilo-3308791.jpg?tf=1200x' alt='Si te gusta la música, necesitas este móvil: estética noventera, altavoz con forma de vinilo y menos de 100 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/teclados-ratones-ergonomicos-cosas-deberias-saber-antes-comprar-1419528'>Teclados y ratones ergonómicos: qué cosas deberías saber antes de comprar uno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/teclados-ratones-ergonomicos-cosas-deberias-saber-antes-comprar-1419528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclado-raton-ergonomico-4263147.jpg?tf=1200x' alt='Teclados y ratones ergonómicos: qué cosas deberías saber antes de comprar uno' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgtp-activa-modo-apisonadora-destruyendo-mundo-programacion-1432805'>ChatGTP activa el modo apisonadora y está destruyendo el mundo de la programación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgtp-activa-modo-apisonadora-destruyendo-mundo-programacion-1432805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/chatgpt-programacion-3105538.jpg?tf=1200x' alt='ChatGTP activa el modo apisonadora y está destruyendo el mundo de la programación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-roomba-combo-10-max-me-parece-robot-completo-ano-ya-permite-lavar-secar-mopa-1431489'>He probado el Roomba Combo 10 Max y me parece el robot más completo del año: ya permite lavar y secar su mopa</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-roomba-combo-10-max-me-parece-robot-completo-ano-ya-permite-lavar-secar-mopa-1431489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/irobot-roomba-combo-10-max-4276518.jpg?tf=1200x' alt='He probado el Roomba Combo 10 Max y me parece el robot más completo del año: ya permite lavar y secar su mopa' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-podria-perder-mejores-programadores-tesla-spacex-1432754'>Elon Musk podría perder a sus mejores programadores de Tesla y SpaceX</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-podria-perder-mejores-programadores-tesla-spacex-1432754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/eres-programador-quieres-trabajar-eeuu-elon-musk-trump-chocan-visados-especiales-4277984.jpg?tf=1200x' alt='Elon Musk podría perder a sus mejores programadores de Tesla y SpaceX' />
     </a>
 </div>
 
