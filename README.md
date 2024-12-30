@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-deja-lado-tesla-nueva-apuesta-2025-1432771'>Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-elon-musk-deja-lado-tesla-nueva-apuesta-2025-1432771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-videollamadas-ni-mensajes-estas-son-novedades-whatsapp-felicites-ano-nuevo-1432758'>Ni videollamadas ni mensajes: estas son las novedades de WhatsApp para que felicites el Año Nuevo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-videollamadas-ni-mensajes-estas-son-novedades-whatsapp-felicites-ano-nuevo-1432758' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-whatsapp-felicites-ano-nuevo-4277968.jpg?tf=1200x' alt='Ni videollamadas ni mensajes: estas son las novedades de WhatsApp para que felicites el Año Nuevo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419'>Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/felicita-ano-nuevo-felicitaciones-ia-whatsapp-1430419' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-2025-inteligencia-artificial-4274037.jpg?tf=1200x' alt='Felicita el Año Nuevo con 30 felicitaciones hechas por IA perfectas para WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-movil-te-ayudaran-seguir-cumplir-propositos-ano-nuevo-1428791'>10 aplicaciones para el móvil que te ayudarán a seguir y cumplir tus propósitos de Año Nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/10-aplicaciones-movil-te-ayudaran-seguir-cumplir-propositos-ano-nuevo-1428791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-movil-te-ayudaran-seguir-cumplir-propositos-ano-nuevo-4271281.jpg?tf=1200x' alt='10 aplicaciones para el móvil que te ayudarán a seguir y cumplir tus propósitos de Año Nuevo' />
     </a>
 </div>
 
