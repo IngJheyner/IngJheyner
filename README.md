@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-hidrogeno-primer-motor-aire-ya-realidad-podria-cambiarlo-todo-1432864'>Adiós hidrógeno, el primer motor por aire ya es una realidad y podría cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-hidrogeno-primer-motor-aire-ya-realidad-podria-cambiarlo-todo-1432864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/motor-hidrogeno-3218490.jpg?tf=1200x' alt='Adiós hidrógeno, el primer motor por aire ya es una realidad y podría cambiarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compras-ordenador-2025-asegurate-lleve-procesador-arm-futuro-tecnologia-ya-aqui-1432828'>Si compras un ordenador en 2025, asegúrate de que lleve un procesador ARM: el futuro de la tecnología ya está aquí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/compras-ordenador-2025-asegurate-lleve-procesador-arm-futuro-tecnologia-ya-aqui-1432828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chip-amr-4278063.jpg?tf=1200x' alt='Si compras un ordenador en 2025, asegúrate de que lleve un procesador ARM: el futuro de la tecnología ya está aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-tiene-enorme-problema-camaras-gps-ultimos-tesla-no-sabe-como-solucionarlo-1432876'>Elon Musk tiene un enorme problema con las cámaras y el GPS de sus últimos Tesla, y no sabe cómo solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-tiene-enorme-problema-camaras-gps-ultimos-tesla-no-sabe-como-solucionarlo-1432876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-tiene-enorme-problema-camaras-gps-ultimos-tesla-no-sabe-como-solucionarlo-4278089.jpg?tf=1200x' alt='Elon Musk tiene un enorme problema con las cámaras y el GPS de sus últimos Tesla, y no sabe cómo solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gafas-inteligentes-vuelven-2025-ahora-susurran-oido-ayuda-chatgpt-1432847'>Las gafas inteligentes vuelven en 2025: ahora susurran al oído con la ayuda de ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gafas-inteligentes-vuelven-2025-ahora-susurran-oido-ayuda-chatgpt-1432847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/05/google-glass.jpg?tf=1200x' alt='Las gafas inteligentes vuelven en 2025: ahora susurran al oído con la ayuda de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/estos-10-dispositivos-tecnologias-cumplen-25-anos-2025-1432858'>Estos 10 dispositivos y tecnologías cumplen 25 años en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/estos-10-dispositivos-tecnologias-cumplen-25-anos-2025-1432858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dispositivos-tecnologias-2025-4278082.jpg?tf=1200x' alt='Estos 10 dispositivos y tecnologías cumplen 25 años en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-finetwork-ganan-clientes-2024-pero-son-operadoras-dinero-pierden-1432832'>DIGI y Finetwork ganan clientes en 2024, pero son las operadoras que más dinero pierden</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/digi-finetwork-ganan-clientes-2024-pero-son-operadoras-dinero-pierden-1432832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-finetwork-ganan-clientes-2024-pero-son-operadoras-dinero-pierden-4278040.jpg?tf=1200x' alt='DIGI y Finetwork ganan clientes en 2024, pero son las operadoras que más dinero pierden' />
     </a>
 </div>
 
