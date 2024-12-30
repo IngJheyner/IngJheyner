@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtuber-ha-restaurado-perfeccion-primeras-tablets-historia-hace-31-anos-1432967'>Este youtuber ha restaurado a la perfección una de las primeras tablets de la historia de hace 31 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/youtuber-ha-restaurado-perfeccion-primeras-tablets-historia-hace-31-anos-1432967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ibm-thinkpad-4278246.jpg?tf=1200x' alt='Este youtuber ha restaurado a la perfección una de las primeras tablets de la historia de hace 31 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-barato-apple-ya-no-sera-tan-barato-iphone-4-no-sera-todos-bolsillos-1432963'>El iPhone barato de Apple ya no será tan "barato": el iPhone SE 4 no será para todos los bolsillos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-barato-apple-ya-no-sera-tan-barato-iphone-4-no-sera-todos-bolsillos-1432963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-4-lanzamiento-precio-todas-novedades-smartphone-barato-apple-3612038.jpg?tf=1200x' alt='El iPhone barato de Apple ya no será tan "barato": el iPhone SE 4 no será para todos los bolsillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870'>Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-4278085.jpg?tf=1200x' alt='Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-1432842'>La Casa Blanca tenía paneles solares hace 45 años, gracias a Jimmy Carter</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-1432842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/casa-blanca-tenia-paneles-solares-hace-45-anos-gracias-jimmy-carter-4278076.jpg?tf=1200x' alt='La Casa Blanca tenía paneles solares hace 45 años, gracias a Jimmy Carter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/catarata-grande-mundo-pero-existe-razon-nunca-has-oido-hablar-ella-ni-podras-visitar-1432802'>Es la catarata más grande del mundo, pero existe una razón por la que nunca has oído hablar de ella (ni la podrás visitar)</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/catarata-grande-mundo-pero-existe-razon-nunca-has-oido-hablar-ella-ni-podras-visitar-1432802' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/catarata-grande-mundo-pero-existe-razon-nunca-has-oido-hablar-ella-ni-podras-visitar-4278011.jpg?tf=1200x' alt='Es la catarata más grande del mundo, pero existe una razón por la que nunca has oído hablar de ella (ni la podrás visitar)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/error-pantalla-verde-whatsapp-solucion-1417889'>Pantalla verde de WhatsApp: por qué se produce este error y cómo solucionarlo fácilmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/error-pantalla-verde-whatsapp-solucion-1417889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-whatsapp-vuelve-verde-toda-aplicacion-pero-tiene-facil-solucion-4260031.jpg?tf=1200x' alt='Pantalla verde de WhatsApp: por qué se produce este error y cómo solucionarlo fácilmente' />
     </a>
 </div>
 
