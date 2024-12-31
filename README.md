@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-wozniak-steve-jobs-quedaron-navidad-culpa-apple-pero-ganaron-40-millones-simple-accesorio-1432879'>Steve Wozniak y Steve Jobs se quedaron sin Navidad por culpa de Apple, pero ganaron más de 40 millones con un "simple" accesorio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-wozniak-steve-jobs-quedaron-navidad-culpa-apple-pero-ganaron-40-millones-simple-accesorio-1432879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-wozniak-steve-jobs-quedaron-navidad-culpa-apple-pero-ganaron-40-millones-simple-accesorio-4278102.jpg?tf=1200x' alt='Steve Wozniak y Steve Jobs se quedaron sin Navidad por culpa de Apple, pero ganaron más de 40 millones con un "simple" accesorio' />
+    <h4><a href='https://computerhoy.20minutos.es/mejores-playlists-spotify-nochevieja-villancicos-canciones-navidenas-fiestas-1431165'>Las 11 mejores playlists de Spotify para Fin de Año con villancicos y canciones navideñas para tus fiestas</a></h4>
+    <a href='https://computerhoy.20minutos.es/mejores-playlists-spotify-nochevieja-villancicos-canciones-navidenas-fiestas-1431165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canciones-navidad-spotify-4275360.jpg?tf=1200x' alt='Las 11 mejores playlists de Spotify para Fin de Año con villancicos y canciones navideñas para tus fiestas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
-    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3261488.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-iniciara-2025-lanzamiento-5-nuevos-dispositivos-1432871'>Apple iniciará el 2025 con el lanzamiento de 5 nuevos dispositivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-iniciara-2025-lanzamiento-5-nuevos-dispositivos-1432871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-4278110.jpg?tf=1200x' alt='Apple iniciará el 2025 con el lanzamiento de 5 nuevos dispositivos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-otras-herramientas-sora-dall-e-codex-whisper-1432981'>No solo ChatGPT: OpenAI tiene otras herramientas IA que merecen mucho la pena y que deberías probar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-otras-herramientas-sora-dall-e-codex-whisper-1432981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-solo-chatgpt-openai-tiene-otras-herramientas-ia-merecen-mucho-pena-deberias-probar-4278266.jpg?tf=1200x' alt='No solo ChatGPT: OpenAI tiene otras herramientas IA que merecen mucho la pena y que deberías probar' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/playlists-navidenas-apple-music-necesitas-1431281'>Las 8 playlists navideñas de Apple Music que necesitas para triunfar en Fin de Año</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/playlists-navidenas-apple-music-necesitas-1431281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-music-navidad-4275532.jpg?tf=1200x' alt='Las 8 playlists navideñas de Apple Music que necesitas para triunfar en Fin de Año' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/bateria-diamante-dura-miles-anos-viajes-espaciales-medicina-1432977'>Esta batería de diamante dura miles de años y podría revolucionar desde los viajes espaciales a los pacientes con problemas de corazón</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/bateria-diamante-dura-miles-anos-viajes-espaciales-medicina-1432977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-diamante-dura-miles-anos-podria-revolucionar-viajes-espaciales-pacientes-problemas-corazon-4278260.jpg?tf=1200x' alt='Esta batería de diamante dura miles de años y podría revolucionar desde los viajes espaciales a los pacientes con problemas de corazón' />
+    <h4><a href='https://computerhoy.20minutos.es/audio/pareja-ronca-estos-son-auriculares-tienes-comprar-1431792'>Si tu pareja ronca, estos son los auriculares que tienes que comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/pareja-ronca-estos-son-auriculares-tienes-comprar-1431792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anker-soundcore-sleep-a20-4276307.jpg?tf=1200x' alt='Si tu pareja ronca, estos son los auriculares que tienes que comprar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969'>¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/soporte-humano-whatsapp-4278248.jpg?tf=1200x' alt='¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-estos-son-mejores-necesidades-1431196'>Hemos probado 70 móviles este año, estos son los mejores según tus necesidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-estos-son-mejores-necesidades-1431196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267390.jpg?tf=1200x' alt='Hemos probado 70 móviles este año, estos son los mejores según tus necesidades' />
     </a>
 </div>
 
