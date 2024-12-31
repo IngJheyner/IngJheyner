@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107'>Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg?tf=1200x' alt='Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/frases-cortas-diferentes-felicitar-ano-nuevo-2025-familiares-amigos-1173268'>Frases cortas diferentes para felicitar el Año Nuevo 2025 por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/frases-cortas-diferentes-felicitar-ano-nuevo-2025-familiares-amigos-1173268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-ano-2025-whatsapp-4278443.jpg?tf=1200x' alt='Frases cortas diferentes para felicitar el Año Nuevo 2025 por WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/frases-mensajes-originales-ano-nuevo-2025-enviar-nochevieja-1349484'>50 frases y mensajes originales de Año Nuevo 2025 para enviar por WhatsApp en Nochevieja</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/frases-mensajes-originales-ano-nuevo-2025-enviar-nochevieja-1349484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-whatsapp-nochevieja-2025-4278434.jpg?tf=1200x' alt='50 frases y mensajes originales de Año Nuevo 2025 para enviar por WhatsApp en Nochevieja' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-tiene-supuesta-cuenta-falsa-donde-defiende-mismo-eres-padre-increible-1433038'>Elon Musk tiene una supuesta cuenta falsa donde se defiende a sí mismo: "Eres un padre increíble" </a></h4>
     <a href='https://computerhoy.20minutos.es/redes/elon-musk-tiene-supuesta-cuenta-falsa-donde-defiende-mismo-eres-padre-increible-1433038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-twitter-3569826.jpg?tf=1200x' alt='Elon Musk tiene una supuesta cuenta falsa donde se defiende a sí mismo: "Eres un padre increíble" ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/samsung-apuesta-ia-potencia-igual-movil-potente-ha-roto-precio-amazon-1433039'>Samsung apuesta por la IA y potencia sin igual, y su móvil más potente ha roto su precio en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/samsung-apuesta-ia-potencia-igual-movil-potente-ha-roto-precio-amazon-1433039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-s24-ultra-4270751.jpg?tf=1200x' alt='Samsung apuesta por la IA y potencia sin igual, y su móvil más potente ha roto su precio en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-ano-nuevo-2025-1349881'>Imágenes y fotos originales para felicitar el Año Nuevo 2025 a tus contactos de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/imagenes-fotos-originales-felicitar-ano-nuevo-2025-1349881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-ano-2025-4278418.jpg?tf=1200x' alt='Imágenes y fotos originales para felicitar el Año Nuevo 2025 a tus contactos de WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/europa-adelanta-estados-unidos-china-primera-conexion-5g-movil-satelite-1433085'>Europa adelanta a Estados Unidos y China con la primera conexión 5G entre un móvil y un satélite</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/europa-adelanta-estados-unidos-china-primera-conexion-5g-movil-satelite-1433085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-adelanta-estados-unidos-china-primera-conexion-5g-traves-satelite-4278406.jpg?tf=1200x' alt='Europa adelanta a Estados Unidos y China con la primera conexión 5G entre un móvil y un satélite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/estas-han-sido-extensiones-utilizadas-google-chrome-2024-1433013'>Estas han sido las extensiones más utilizadas de Google Chrome en 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/estas-han-sido-extensiones-utilizadas-google-chrome-2024-1433013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-han-sido-extensiones-utilizadas-google-chrome-2024-4278344.jpg?tf=1200x' alt='Estas han sido las extensiones más utilizadas de Google Chrome en 2024' />
     </a>
 </div>
 
