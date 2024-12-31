@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/bateria-diamante-dura-miles-anos-viajes-espaciales-medicina-1432977'>Esta batería de diamante dura miles de años y podría revolucionar desde los viajes espaciales a los pacientes con problemas de corazón</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/bateria-diamante-dura-miles-anos-viajes-espaciales-medicina-1432977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-diamante-dura-miles-anos-podria-revolucionar-viajes-espaciales-pacientes-problemas-corazon-4278260.jpg?tf=1200x' alt='Esta batería de diamante dura miles de años y podría revolucionar desde los viajes espaciales a los pacientes con problemas de corazón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969'>¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/soporte-humano-whatsapp-4278248.jpg?tf=1200x' alt='¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-barato-apple-ya-no-sera-tan-barato-iphone-4-no-sera-todos-bolsillos-1432963'>El iPhone barato de Apple ya no será tan "barato": el iPhone SE 4 no será para todos los bolsillos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-barato-apple-ya-no-sera-tan-barato-iphone-4-no-sera-todos-bolsillos-1432963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-4-lanzamiento-precio-todas-novedades-smartphone-barato-apple-3612038.jpg?tf=1200x' alt='El iPhone barato de Apple ya no será tan "barato": el iPhone SE 4 no será para todos los bolsillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870'>Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-1432870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-nosferatu-ni-dracula-pelicula-vampiros-culto-marco-generacion-puedes-ver-filmin-4278085.jpg?tf=1200x' alt='Ni Nosferatu ni Drácula: la película de vampiros de culto que marcó a una generación y que puedes ver en Filmin' />
     </a>
 </div>
 
