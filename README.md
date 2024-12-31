@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/estos-son-grandes-fracasos-moviles-2024-1433053'>Estos son los grandes fracasos en móviles de 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/estos-son-grandes-fracasos-moviles-2024-1433053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Estos son los grandes fracasos en móviles de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/nueva-funcion-ios-18-te-ayuda-fotos-pero-puede-ser-inquietante-1433112'>La nueva función de iOS 18 te ayuda con tus fotos, pero puede ser inquietante</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/nueva-funcion-ios-18-te-ayuda-fotos-pero-puede-ser-inquietante-1433112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/privacidad-iphone-4278465.jpg?tf=1200x' alt='La nueva función de iOS 18 te ayuda con tus fotos, pero puede ser inquietante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/repartidor-amazon-abandona-80-paquetes-bosque-estaba-demasiado-cansado-estresado-hacer-todas-entregas-1433109'>Repartidor de Amazon abandona 80 paquetes en el bosque: “Estaba demasiado cansado y estresado para hacer todas las entregas”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/repartidor-amazon-abandona-80-paquetes-bosque-estaba-demasiado-cansado-estresado-hacer-todas-entregas-1433109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/paquetes-amazon-4278463.jpg?tf=1200x' alt='Repartidor de Amazon abandona 80 paquetes en el bosque: “Estaba demasiado cansado y estresado para hacer todas las entregas”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107'>Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg?tf=1200x' alt='Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/frases-cortas-diferentes-felicitar-ano-nuevo-2025-familiares-amigos-1173268'>Frases cortas diferentes para felicitar el Año Nuevo 2025 por WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/life/frases-cortas-diferentes-felicitar-ano-nuevo-2025-familiares-amigos-1173268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-ano-2025-whatsapp-4278443.jpg?tf=1200x' alt='Frases cortas diferentes para felicitar el Año Nuevo 2025 por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/frases-mensajes-originales-ano-nuevo-2025-enviar-nochevieja-1349484'>50 frases y mensajes originales de Año Nuevo 2025 para enviar por WhatsApp en Nochevieja</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/frases-mensajes-originales-ano-nuevo-2025-enviar-nochevieja-1349484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-whatsapp-nochevieja-2025-4278434.jpg?tf=1200x' alt='50 frases y mensajes originales de Año Nuevo 2025 para enviar por WhatsApp en Nochevieja' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-tiene-supuesta-cuenta-falsa-donde-defiende-mismo-eres-padre-increible-1433038'>Elon Musk tiene una supuesta cuenta falsa donde se defiende a sí mismo: "Eres un padre increíble" </a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/elon-musk-tiene-supuesta-cuenta-falsa-donde-defiende-mismo-eres-padre-increible-1433038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/elon-musk-twitter-3569826.jpg?tf=1200x' alt='Elon Musk tiene una supuesta cuenta falsa donde se defiende a sí mismo: "Eres un padre increíble" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/samsung-apuesta-ia-potencia-igual-movil-potente-ha-roto-precio-amazon-1433039'>Samsung apuesta por la IA y potencia sin igual, y su móvil más potente ha roto su precio en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/samsung-apuesta-ia-potencia-igual-movil-potente-ha-roto-precio-amazon-1433039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/samsung-galaxy-s24-ultra-4270751.jpg?tf=1200x' alt='Samsung apuesta por la IA y potencia sin igual, y su móvil más potente ha roto su precio en Amazon' />
     </a>
 </div>
 
