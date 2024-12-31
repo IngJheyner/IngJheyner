@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/europa-adelanta-estados-unidos-china-primera-conexion-5g-movil-satelite-1433085'>Europa adelanta a Estados Unidos y China con la primera conexión 5G entre un móvil y un satélite</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/europa-adelanta-estados-unidos-china-primera-conexion-5g-movil-satelite-1433085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/europa-adelanta-estados-unidos-china-primera-conexion-5g-traves-satelite-4278406.jpg?tf=1200x' alt='Europa adelanta a Estados Unidos y China con la primera conexión 5G entre un móvil y un satélite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/estas-han-sido-extensiones-utilizadas-google-chrome-2024-1433013'>Estas han sido las extensiones más utilizadas de Google Chrome en 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/google/estas-han-sido-extensiones-utilizadas-google-chrome-2024-1433013' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-han-sido-extensiones-utilizadas-google-chrome-2024-4278344.jpg?tf=1200x' alt='Estas han sido las extensiones más utilizadas de Google Chrome en 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lg-ces-2025-monitor-5k-pantalla-flexible-nuevos-portatiles-lg-gram-ia-1433063'>LG presenta en CES 2025 un monitor 5K con pantalla flexible, y nuevos portátiles LG Gram con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lg-ces-2025-monitor-5k-pantalla-flexible-nuevos-portatiles-lg-gram-ia-1433063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lg-presenta-ces-2025-monitor-pantalla-flexible-nuevos-portatiles-lg-gram-ia-4278371.jpg?tf=1200x' alt='LG presenta en CES 2025 un monitor 5K con pantalla flexible, y nuevos portátiles LG Gram con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2025-1172852'>Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2025-1172852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/memes-2025-4278304.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2025' />
     </a>
 </div>
 
