@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lg-ces-2025-monitor-5k-pantalla-flexible-nuevos-portatiles-lg-gram-ia-1433063'>LG presenta en CES 2025 un monitor 5K con pantalla flexible, y nuevos portátiles LG Gram con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lg-ces-2025-monitor-5k-pantalla-flexible-nuevos-portatiles-lg-gram-ia-1433063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lg-presenta-ces-2025-monitor-pantalla-flexible-nuevos-portatiles-lg-gram-ia-4278371.jpg?tf=1200x' alt='LG presenta en CES 2025 un monitor 5K con pantalla flexible, y nuevos portátiles LG Gram con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2025-1172852'>Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2025-1172852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/memes-2025-4278304.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/christopher-nolan-confirma-proximo-proyecto-adaptara-mayores-clasicos-literarios-todos-tiempos-1432388'>Christopher Nolan confirma su próximo proyecto: adaptará uno de los mayores clásicos literarios de todos los tiempos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/christopher-nolan-confirma-proximo-proyecto-adaptara-mayores-clasicos-literarios-todos-tiempos-1432388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/christopher-nolan-4256279.jpg?tf=1200x' alt='Christopher Nolan confirma su próximo proyecto: adaptará uno de los mayores clásicos literarios de todos los tiempos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/superman-fue-interpretado-ben-affleck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-1431213'>Superman fue interpretado por Ben Affleck antes de James Gunn, y lo hizo en una estupenda película de intriga que casi nadie recuerda</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/superman-fue-interpretado-ben-affleck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-1431213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/superman-fue-interpretado-ben-affeck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-4275421.jpg?tf=1200x' alt='Superman fue interpretado por Ben Affleck antes de James Gunn, y lo hizo en una estupenda película de intriga que casi nadie recuerda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2025-whatsapp-73605'>Mensajes e imágenes de Navidad para felicitar el Año Nuevo por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2025-whatsapp-73605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-2025-whatsapp-4278302.jpg?tf=1200x' alt='Mensajes e imágenes de Navidad para felicitar el Año Nuevo por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-pelicula-senor-anillos-no-solo-ha-sido-fracaso-warner-ha-revelado-hizo-1430573'>La nueva película de El señor de los anillos no solo ha sido un fracaso: Warner ha revelado por qué la hizo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-pelicula-senor-anillos-no-solo-ha-sido-fracaso-warner-ha-revelado-hizo-1430573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nueva-pelicula-senor-anillos-no-solo-ha-sido-fracaso-warner-ha-revelado-hizo-4274254.jpg?tf=1200x' alt='La nueva película de El señor de los anillos no solo ha sido un fracaso: Warner ha revelado por qué la hizo' />
     </a>
 </div>
 
