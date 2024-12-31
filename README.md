@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-series-nadie-habla-deberias-ver-antes-acabar-ano-1428370'>Las joyas ocultas de 2024: series de las que nadie habla que deberías ver antes de acabar el año</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-series-nadie-habla-deberias-ver-antes-acabar-ano-1428370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/joyas-ocultas-2024-series-nadie-habla-deberias-ver-antes-acabar-ano-4270514.jpg?tf=1200x' alt='Las joyas ocultas de 2024: series de las que nadie habla que deberías ver antes de acabar el año' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/christopher-nolan-confirma-proximo-proyecto-adaptara-mayores-clasicos-literarios-todos-tiempos-1432388'>Christopher Nolan confirma su próximo proyecto: adaptará uno de los mayores clásicos literarios de todos los tiempos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/christopher-nolan-confirma-proximo-proyecto-adaptara-mayores-clasicos-literarios-todos-tiempos-1432388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/christopher-nolan-4256279.jpg?tf=1200x' alt='Christopher Nolan confirma su próximo proyecto: adaptará uno de los mayores clásicos literarios de todos los tiempos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/series-esperadas-amazon-prime-video-2025-1431680'>Las series más esperadas de Amazon Prime Video de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/series-esperadas-amazon-prime-video-2025-1431680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-prime-video-4276202.jpg?tf=1200x' alt='Las series más esperadas de Amazon Prime Video de 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-mejora-emoji-te-pone-bandeja-nochevieja-ano-nuevo-2025-1433044'>WhatsApp mejora este emoji y te lo pone en bandeja para Nochevieja y Año Nuevo 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-mejora-emoji-te-pone-bandeja-nochevieja-ano-nuevo-2025-1433044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-da-prioridad-emoji-dia-nochebuena-ano-nuevo-2025-4278346.jpg?tf=1200x' alt='WhatsApp mejora este emoji y te lo pone en bandeja para Nochevieja y Año Nuevo 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/como-usar-chats-notas-tematica-nochevieja-instagram-1430644'>Así es como puedes usar los chats y notas con temática de Año Nuevo en Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/como-usar-chats-notas-tematica-nochevieja-instagram-1430644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mensajes-nochevieja-instagram-4274450.jpg?tf=1200x' alt='Así es como puedes usar los chats y notas con temática de Año Nuevo en Instagram' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/superman-fue-interpretado-ben-affleck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-1431213'>Superman fue interpretado por Ben Affleck antes de James Gunn, y lo hizo en una estupenda película de intriga que casi nadie recuerda</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/superman-fue-interpretado-ben-affleck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-1431213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/superman-fue-interpretado-ben-affeck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-4275421.jpg?tf=1200x' alt='Superman fue interpretado por Ben Affleck antes de James Gunn, y lo hizo en una estupenda película de intriga que casi nadie recuerda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/mejores-playlists-spotify-nochevieja-villancicos-canciones-navidenas-fiestas-1431165'>Las 11 mejores playlists de Spotify para Fin de Año con villancicos y canciones navideñas para tus fiestas</a></h4>
-    <a href='https://computerhoy.20minutos.es/mejores-playlists-spotify-nochevieja-villancicos-canciones-navidenas-fiestas-1431165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canciones-navidad-spotify-4275360.jpg?tf=1200x' alt='Las 11 mejores playlists de Spotify para Fin de Año con villancicos y canciones navideñas para tus fiestas' />
+    <h4><a href='https://computerhoy.20minutos.es/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2025-whatsapp-73605'>Mensajes e imágenes de Navidad para felicitar el Año Nuevo por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/life/mensajes-imagenes-navidad-felicitar-ano-nuevo-2025-whatsapp-73605' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/felicitaciones-2025-whatsapp-4278302.jpg?tf=1200x' alt='Mensajes e imágenes de Navidad para felicitar el Año Nuevo por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-iniciara-2025-lanzamiento-5-nuevos-dispositivos-1432871'>Apple iniciará el 2025 con el lanzamiento de 5 nuevos dispositivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-iniciara-2025-lanzamiento-5-nuevos-dispositivos-1432871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-4278110.jpg?tf=1200x' alt='Apple iniciará el 2025 con el lanzamiento de 5 nuevos dispositivos' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-pelicula-senor-anillos-no-solo-ha-sido-fracaso-warner-ha-revelado-hizo-1430573'>La nueva película de El señor de los anillos no solo ha sido un fracaso: Warner ha revelado por qué la hizo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-pelicula-senor-anillos-no-solo-ha-sido-fracaso-warner-ha-revelado-hizo-1430573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nueva-pelicula-senor-anillos-no-solo-ha-sido-fracaso-warner-ha-revelado-hizo-4274254.jpg?tf=1200x' alt='La nueva película de El señor de los anillos no solo ha sido un fracaso: Warner ha revelado por qué la hizo' />
     </a>
 </div>
 
