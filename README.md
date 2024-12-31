@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/estas-han-sido-extensiones-utilizadas-google-chrome-2024-1433013'>Estas han sido las extensiones más utilizadas de Google Chrome en 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/estas-han-sido-extensiones-utilizadas-google-chrome-2024-1433013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-han-sido-extensiones-utilizadas-google-chrome-2024-4278344.jpg?tf=1200x' alt='Estas han sido las extensiones más utilizadas de Google Chrome en 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/elon-musk-llama-ahora-kekius-maximus-como-gobernaran-habitantes-marte-1433080'>Elon Musk se llama ahora Kekius Maximus, decide cómo se gobernarán los habitantes de Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/elon-musk-llama-ahora-kekius-maximus-como-gobernaran-habitantes-marte-1433080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-llama-ahora-kekius-maximus-tambien-decide-como-gobernaran-habitantes-marte-4278401.jpg?tf=1200x' alt='Elon Musk se llama ahora Kekius Maximus, decide cómo se gobernarán los habitantes de Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-sigue-incompleto-popular-funcion-sigue-fallando-despues-casi-decada-1432991'>Windows 11 sigue incompleto: esta popular función sigue fallando después de casi una década</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-sigue-incompleto-popular-funcion-sigue-fallando-despues-casi-decada-1432991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-sigue-incompleto-popular-funcion-sigue-fallando-despues-casi-decada-4278301.jpg?tf=1200x' alt='Windows 11 sigue incompleto: esta popular función sigue fallando después de casi una década' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2025-1172852'>Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/life/memes-whatsapp-felicitar-nochevieja-ano-nuevo-2025-1172852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/memes-2025-4278304.jpg?tf=1200x' alt='Memes de WhatsApp para felicitar la Nochevieja y el Año Nuevo 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/christopher-nolan-confirma-proximo-proyecto-adaptara-mayores-clasicos-literarios-todos-tiempos-1432388'>Christopher Nolan confirma su próximo proyecto: adaptará uno de los mayores clásicos literarios de todos los tiempos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/christopher-nolan-confirma-proximo-proyecto-adaptara-mayores-clasicos-literarios-todos-tiempos-1432388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/christopher-nolan-4256279.jpg?tf=1200x' alt='Christopher Nolan confirma su próximo proyecto: adaptará uno de los mayores clásicos literarios de todos los tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-mejora-emoji-te-pone-bandeja-nochevieja-ano-nuevo-2025-1433044'>WhatsApp mejora este emoji y te lo pone en bandeja para Nochevieja y Año Nuevo 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-mejora-emoji-te-pone-bandeja-nochevieja-ano-nuevo-2025-1433044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-da-prioridad-emoji-dia-nochebuena-ano-nuevo-2025-4278346.jpg?tf=1200x' alt='WhatsApp mejora este emoji y te lo pone en bandeja para Nochevieja y Año Nuevo 2025' />
     </a>
 </div>
 
