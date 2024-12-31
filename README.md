@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/series-esperadas-amazon-prime-video-2025-1431680'>Las series más esperadas de Amazon Prime Video de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/series-esperadas-amazon-prime-video-2025-1431680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-prime-video-4276202.jpg?tf=1200x' alt='Las series más esperadas de Amazon Prime Video de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/como-usar-chats-notas-tematica-nochevieja-instagram-1430644'>Así es como puedes usar los chats y notas con temática de Año Nuevo en Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/como-usar-chats-notas-tematica-nochevieja-instagram-1430644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/mensajes-nochevieja-instagram-4274450.jpg?tf=1200x' alt='Así es como puedes usar los chats y notas con temática de Año Nuevo en Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/mejores-playlists-spotify-nochevieja-villancicos-canciones-navidenas-fiestas-1431165'>Las 11 mejores playlists de Spotify para Fin de Año con villancicos y canciones navideñas para tus fiestas</a></h4>
     <a href='https://computerhoy.20minutos.es/mejores-playlists-spotify-nochevieja-villancicos-canciones-navidenas-fiestas-1431165' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/canciones-navidad-spotify-4275360.jpg?tf=1200x' alt='Las 11 mejores playlists de Spotify para Fin de Año con villancicos y canciones navideñas para tus fiestas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/playlists-navidenas-apple-music-necesitas-1431281'>Las 8 playlists navideñas de Apple Music que necesitas para triunfar en Fin de Año</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/playlists-navidenas-apple-music-necesitas-1431281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-music-navidad-4275532.jpg?tf=1200x' alt='Las 8 playlists navideñas de Apple Music que necesitas para triunfar en Fin de Año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/pareja-ronca-estos-son-auriculares-tienes-comprar-1431792'>Si tu pareja ronca, estos son los auriculares que tienes que comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/pareja-ronca-estos-son-auriculares-tienes-comprar-1431792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anker-soundcore-sleep-a20-4276307.jpg?tf=1200x' alt='Si tu pareja ronca, estos son los auriculares que tienes que comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-estos-son-mejores-necesidades-1431196'>Hemos probado 70 móviles este año, estos son los mejores según tus necesidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/hemos-probado-70-moviles-ano-estos-son-mejores-necesidades-1431196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267390.jpg?tf=1200x' alt='Hemos probado 70 móviles este año, estos son los mejores según tus necesidades' />
     </a>
 </div>
 
