@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-wozniak-steve-jobs-quedaron-navidad-culpa-apple-pero-ganaron-40-millones-simple-accesorio-1432879'>Steve Wozniak y Steve Jobs se quedaron sin Navidad por culpa de Apple, pero ganaron más de 40 millones con un "simple" accesorio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-wozniak-steve-jobs-quedaron-navidad-culpa-apple-pero-ganaron-40-millones-simple-accesorio-1432879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-wozniak-steve-jobs-quedaron-navidad-culpa-apple-pero-ganaron-40-millones-simple-accesorio-4278102.jpg?tf=1200x' alt='Steve Wozniak y Steve Jobs se quedaron sin Navidad por culpa de Apple, pero ganaron más de 40 millones con un "simple" accesorio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-samsung-892935'>Los mejores móviles Samsung que puedes comprar según tu presupuesto</a></h4>
+    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-samsung-892935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3261488.jpg?tf=1200x' alt='Los mejores móviles Samsung que puedes comprar según tu presupuesto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-otras-herramientas-sora-dall-e-codex-whisper-1432981'>No solo ChatGPT: OpenAI tiene otras herramientas IA que merecen mucho la pena y que deberías probar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-otras-herramientas-sora-dall-e-codex-whisper-1432981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-solo-chatgpt-openai-tiene-otras-herramientas-ia-merecen-mucho-pena-deberias-probar-4278266.jpg?tf=1200x' alt='No solo ChatGPT: OpenAI tiene otras herramientas IA que merecen mucho la pena y que deberías probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/bateria-diamante-dura-miles-anos-viajes-espaciales-medicina-1432977'>Esta batería de diamante dura miles de años y podría revolucionar desde los viajes espaciales a los pacientes con problemas de corazón</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/bateria-diamante-dura-miles-anos-viajes-espaciales-medicina-1432977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-diamante-dura-miles-anos-podria-revolucionar-viajes-espaciales-pacientes-problemas-corazon-4278260.jpg?tf=1200x' alt='Esta batería de diamante dura miles de años y podría revolucionar desde los viajes espaciales a los pacientes con problemas de corazón' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969'>¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-esperas-whatsapp-web-trabaja-soporte-humano-tiempo-real-1432969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/soporte-humano-whatsapp-4278248.jpg?tf=1200x' alt='¡Adiós a las esperas! WhatsApp Web trabaja en soporte humano en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-nuevos-colores-joycon-potencia-misteriosos-parches-juegos-actuales-1432966'>Nintendo Switch 2 como nunca antes se ha visto: nuevos colores, joycon, potencia y misteriosos parches para juegos actuales</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-nuevos-colores-joycon-potencia-misteriosos-parches-juegos-actuales-1432966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-switch-2-como-nunca-antes-ha-visto-nuevos-colores-joycon-potencia-misteriosos-parches-juegos-actuales-4278230.jpg?tf=1200x' alt='Nintendo Switch 2 como nunca antes se ha visto: nuevos colores, joycon, potencia y misteriosos parches para juegos actuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/youtuber-ha-restaurado-perfeccion-primeras-tablets-historia-hace-31-anos-1432967'>Este youtuber ha restaurado a la perfección una de las primeras tablets de la historia de hace 31 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/youtuber-ha-restaurado-perfeccion-primeras-tablets-historia-hace-31-anos-1432967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ibm-thinkpad-4278246.jpg?tf=1200x' alt='Este youtuber ha restaurado a la perfección una de las primeras tablets de la historia de hace 31 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-barato-apple-ya-no-sera-tan-barato-iphone-4-no-sera-todos-bolsillos-1432963'>El iPhone barato de Apple ya no será tan "barato": el iPhone SE 4 no será para todos los bolsillos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-barato-apple-ya-no-sera-tan-barato-iphone-4-no-sera-todos-bolsillos-1432963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/iphone-4-lanzamiento-precio-todas-novedades-smartphone-barato-apple-3612038.jpg?tf=1200x' alt='El iPhone barato de Apple ya no será tan "barato": el iPhone SE 4 no será para todos los bolsillos' />
     </a>
 </div>
 
