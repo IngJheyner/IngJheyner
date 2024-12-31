@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/podria-ser-futuro-apple-2025-1433075'>Así podría ser el futuro de Apple en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/podria-ser-futuro-apple-2025-1433075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/podria-ser-futuro-apple-2025-4278402.jpg?tf=1200x' alt='Así podría ser el futuro de Apple en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/estos-son-grandes-fracasos-moviles-2024-1433053'>Estos son los grandes fracasos en móviles de 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/estos-son-grandes-fracasos-moviles-2024-1433053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Estos son los grandes fracasos en móviles de 2024' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107'>Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg?tf=1200x' alt='Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/frases-cortas-diferentes-felicitar-ano-nuevo-2025-familiares-amigos-1173268'>Frases cortas diferentes para felicitar el Año Nuevo 2025 por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/frases-cortas-diferentes-felicitar-ano-nuevo-2025-familiares-amigos-1173268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/feliz-ano-2025-whatsapp-4278443.jpg?tf=1200x' alt='Frases cortas diferentes para felicitar el Año Nuevo 2025 por WhatsApp' />
     </a>
 </div>
 
