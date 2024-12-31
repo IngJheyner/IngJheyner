@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-sigue-incompleto-popular-funcion-sigue-fallando-despues-casi-decada-1432991'>Windows 11 sigue incompleto: esta popular función sigue fallando después de casi una década</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-sigue-incompleto-popular-funcion-sigue-fallando-despues-casi-decada-1432991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-sigue-incompleto-popular-funcion-sigue-fallando-despues-casi-decada-4278301.jpg?tf=1200x' alt='Windows 11 sigue incompleto: esta popular función sigue fallando después de casi una década' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lg-ces-2025-monitor-5k-pantalla-flexible-nuevos-portatiles-lg-gram-ia-1433063'>LG presenta en CES 2025 un monitor 5K con pantalla flexible, y nuevos portátiles LG Gram con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lg-ces-2025-monitor-5k-pantalla-flexible-nuevos-portatiles-lg-gram-ia-1433063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/lg-presenta-ces-2025-monitor-pantalla-flexible-nuevos-portatiles-lg-gram-ia-4278371.jpg?tf=1200x' alt='LG presenta en CES 2025 un monitor 5K con pantalla flexible, y nuevos portátiles LG Gram con IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-mejora-emoji-te-pone-bandeja-nochevieja-ano-nuevo-2025-1433044'>WhatsApp mejora este emoji y te lo pone en bandeja para Nochevieja y Año Nuevo 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-mejora-emoji-te-pone-bandeja-nochevieja-ano-nuevo-2025-1433044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-da-prioridad-emoji-dia-nochebuena-ano-nuevo-2025-4278346.jpg?tf=1200x' alt='WhatsApp mejora este emoji y te lo pone en bandeja para Nochevieja y Año Nuevo 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/superman-fue-interpretado-ben-affleck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-1431213'>Superman fue interpretado por Ben Affleck antes de James Gunn, y lo hizo en una estupenda película de intriga que casi nadie recuerda</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/superman-fue-interpretado-ben-affleck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-1431213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/superman-fue-interpretado-ben-affeck-antes-james-gunn-hizo-estupenda-pelicula-intriga-casi-nadie-recuerda-4275421.jpg?tf=1200x' alt='Superman fue interpretado por Ben Affleck antes de James Gunn, y lo hizo en una estupenda película de intriga que casi nadie recuerda' />
     </a>
 </div>
 
