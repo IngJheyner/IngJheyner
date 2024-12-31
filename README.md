@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-series-nadie-habla-deberias-ver-antes-acabar-ano-1428370'>Las joyas ocultas de 2024: series de las que nadie habla que deberías ver antes de acabar el año</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/joyas-ocultas-2024-series-nadie-habla-deberias-ver-antes-acabar-ano-1428370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/joyas-ocultas-2024-series-nadie-habla-deberias-ver-antes-acabar-ano-4270514.jpg?tf=1200x' alt='Las joyas ocultas de 2024: series de las que nadie habla que deberías ver antes de acabar el año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/series-esperadas-amazon-prime-video-2025-1431680'>Las series más esperadas de Amazon Prime Video de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/series-esperadas-amazon-prime-video-2025-1431680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/smart-tv-prime-video-4276202.jpg?tf=1200x' alt='Las series más esperadas de Amazon Prime Video de 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-iniciara-2025-lanzamiento-5-nuevos-dispositivos-1432871'>Apple iniciará el 2025 con el lanzamiento de 5 nuevos dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-iniciara-2025-lanzamiento-5-nuevos-dispositivos-1432871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-4278110.jpg?tf=1200x' alt='Apple iniciará el 2025 con el lanzamiento de 5 nuevos dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/playlists-navidenas-apple-music-necesitas-1431281'>Las 8 playlists navideñas de Apple Music que necesitas para triunfar en Fin de Año</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/playlists-navidenas-apple-music-necesitas-1431281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/apple-music-navidad-4275532.jpg?tf=1200x' alt='Las 8 playlists navideñas de Apple Music que necesitas para triunfar en Fin de Año' />
     </a>
 </div>
 
