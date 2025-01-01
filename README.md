@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306'>Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos</a></h4>
+    <a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nucleos-pc-4277295.jpg?tf=1200x' alt='Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ha-logrado-ia-superar-humanos-tareas-definian-inteligencia-1432549'>Así ha logrado la IA superar a los humanos en tareas que definían nuestra inteligencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ha-logrado-ia-superar-humanos-tareas-definian-inteligencia-1432549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ha-logrado-ia-superar-humanos-tareas-definian-inteligencia-4277645.jpg?tf=1200x' alt='Así ha logrado la IA superar a los humanos en tareas que definían nuestra inteligencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-aliens-mejores-secuelas-todos-tiempos-critica-1431866'>De Star Wars a Aliens: estas son las 5 mejores secuelas de todos los tiempos, según la crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-aliens-mejores-secuelas-todos-tiempos-critica-1431866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/star-wars-aliens-estas-son-5-mejores-secuelas-todos-tiempos-critica-4276466.jpg?tf=1200x' alt='De Star Wars a Aliens: estas son las 5 mejores secuelas de todos los tiempos, según la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-1432980'>Cosas sorprendentes (muy locas) que puedes hacer en 2025 con un Flipper Zero</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-1432980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-4278267.jpg?tf=1200x' alt='Cosas sorprendentes (muy locas) que puedes hacer en 2025 con un Flipper Zero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840'>Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-4276425.jpg?tf=1200x' alt='Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-fallan-nunca-ajustes-rapidos-revivir-cualquier-windows-instante-1427900'>"No fallan nunca": Mis 5 ajustes rápidos para revivir cualquier Windows al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/no-fallan-nunca-ajustes-rapidos-revivir-cualquier-windows-instante-1427900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-fallan-nunca-5-ajustes-rapidos-revivir-cualquier-windows-instante-4269760.jpg?tf=1200x' alt='"No fallan nunca": Mis 5 ajustes rápidos para revivir cualquier Windows al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/avatar-superman-peliculas-esperadas-2025-fechas-estreno-1428240'>De Avatar a Superman, las películas más esperadas de 2025 y sus fechas de estreno</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/avatar-superman-peliculas-esperadas-2025-fechas-estreno-1428240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/david-corenswet-superman-2025-3309587.jpg?tf=1200x' alt='De Avatar a Superman, las películas más esperadas de 2025 y sus fechas de estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568'>Estas son las tendencias que seguirá Android para los móviles en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-son-tendencias-seguira-android-moviles-2025-4277655.jpg?tf=1200x' alt='Estas son las tendencias que seguirá Android para los móviles en 2025' />
     </a>
 </div>
 
