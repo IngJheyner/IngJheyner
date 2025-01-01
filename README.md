@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/nuevas-funciones-llegan-windows-11-2025-1428014'>Nuevas funciones que llegan a Windows 11 en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/nuevas-funciones-llegan-windows-11-2025-1428014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-windows-11-4269926.jpg?tf=1200x' alt='Nuevas funciones que llegan a Windows 11 en 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908'>10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ia-4278135.jpg?tf=1200x' alt='10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199986.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-avances-todo-podemos-esperar-tecnologia-ha-cambiado-mundo-1432910'>Inteligencia artificial en 2025: avances y todo lo que podemos esperar de la tecnología que ha cambiado el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-avances-todo-podemos-esperar-tecnologia-ha-cambiado-mundo-1432910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-futuro-4033287.jpg?tf=1200x' alt='Inteligencia artificial en 2025: avances y todo lo que podemos esperar de la tecnología que ha cambiado el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/podria-ser-futuro-apple-2025-1433075'>Así podría ser el futuro de Apple en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/podria-ser-futuro-apple-2025-1433075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/podria-ser-futuro-apple-2025-4278402.jpg?tf=1200x' alt='Así podría ser el futuro de Apple en 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-grok-inteligencia-artificial-no-fuese-termino-adecuado-1432861'>De ChatGPT a Grok, ¿y si "inteligencia artificial" no fuese el término adecuado?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-grok-inteligencia-artificial-no-fuese-termino-adecuado-1432861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-va-tener-inteligencia-artificial-bloc-notas-4258978.jpg?tf=1200x' alt='De ChatGPT a Grok, ¿y si "inteligencia artificial" no fuese el término adecuado?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/estos-son-grandes-fracasos-moviles-2024-1433053'>Estos son los grandes fracasos en móviles de 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/estos-son-grandes-fracasos-moviles-2024-1433053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-logra-colar-tres-iphone-moviles-vendidos-mundo-incluido-iphone-15-4259126.jpg?tf=1200x' alt='Estos son los grandes fracasos en móviles de 2024' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/hay-2-caracteristicas-roomba-combo-10-max-me-han-encantado-rodillo-adicional-suciedad-mopa-descapotable-1431880'>Hay 2 características de Roomba Combo 10 Max que me han encantado: rodillo adicional para la suciedad y mopa descapotable</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/hay-2-caracteristicas-roomba-combo-10-max-me-han-encantado-rodillo-adicional-suciedad-mopa-descapotable-1431880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/irobot-roomba-combo-10-max-4276501.jpg?tf=1200x' alt='Hay 2 características de Roomba Combo 10 Max que me han encantado: rodillo adicional para la suciedad y mopa descapotable' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/nueva-funcion-ios-18-te-ayuda-fotos-pero-puede-ser-inquietante-1433112'>La nueva función de iOS 18 te ayuda con tus fotos, pero puede ser inquietante</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/nueva-funcion-ios-18-te-ayuda-fotos-pero-puede-ser-inquietante-1433112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/privacidad-iphone-4278465.jpg?tf=1200x' alt='La nueva función de iOS 18 te ayuda con tus fotos, pero puede ser inquietante' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/6-trucos-windows-11-sacarle-maximo-partido-te-recomiendo-como-experto-tecnologia-1419930'>6 trucos de Windows 11 para sacarle el máximo partido y que te recomiendo como experto en tecnología</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/6-trucos-windows-11-sacarle-maximo-partido-te-recomiendo-como-experto-tecnologia-1419930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-administrar-memoria-virtual-windows-11-beneficios-tiene-3910605.jpg?tf=1200x' alt='6 trucos de Windows 11 para sacarle el máximo partido y que te recomiendo como experto en tecnología' />
     </a>
 </div>
 
