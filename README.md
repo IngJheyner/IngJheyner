@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-1432980'>Cosas sorprendentes (muy locas) que puedes hacer en 2025 con un Flipper Zero</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-1432980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-4278267.jpg?tf=1200x' alt='Cosas sorprendentes (muy locas) que puedes hacer en 2025 con un Flipper Zero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840'>Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-4276425.jpg?tf=1200x' alt='Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568'>Estas son las tendencias que seguirá Android para los móviles en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-son-tendencias-seguira-android-moviles-2025-4277655.jpg?tf=1200x' alt='Estas son las tendencias que seguirá Android para los móviles en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/alternativa-barata-sony-wh-1000xm5-muy-buena-pero-todo-mucho-barata-1432538'>La alternativa barata a los Sony WH-1000XM5 es muy buena, pero sobre todo mucho más barata</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/alternativa-barata-sony-wh-1000xm5-muy-buena-pero-todo-mucho-barata-1432538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sony-ult-4277593.jpg?tf=1200x' alt='La alternativa barata a los Sony WH-1000XM5 es muy buena, pero sobre todo mucho más barata' />
     </a>
 </div>
 
