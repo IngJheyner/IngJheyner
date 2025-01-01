@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568'>Estas son las tendencias que seguirá Android para los móviles en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-son-tendencias-seguira-android-moviles-2025-4277655.jpg?tf=1200x' alt='Estas son las tendencias que seguirá Android para los móviles en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/alternativa-barata-sony-wh-1000xm5-muy-buena-pero-todo-mucho-barata-1432538'>La alternativa barata a los Sony WH-1000XM5 es muy buena, pero sobre todo mucho más barata</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/alternativa-barata-sony-wh-1000xm5-muy-buena-pero-todo-mucho-barata-1432538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sony-ult-4277593.jpg?tf=1200x' alt='La alternativa barata a los Sony WH-1000XM5 es muy buena, pero sobre todo mucho más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/nuevas-funciones-llegan-android-auto-2025-1427869'>Nuevas funciones que llegan a Android Auto en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/android/nuevas-funciones-llegan-android-auto-2025-1427869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-android-auto-4269706.jpg?tf=1200x' alt='Nuevas funciones que llegan a Android Auto en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569'>La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-laptop-4277648.jpg?tf=1200x' alt='La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-waze-2025-1427858'>Nuevas funciones que llegan a Waze en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-waze-2025-1427858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/app-waze-4269689.jpg?tf=1200x' alt='Nuevas funciones que llegan a Waze en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908'>10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ia-4278135.jpg?tf=1200x' alt='10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)' />
     </a>
 </div>
 
