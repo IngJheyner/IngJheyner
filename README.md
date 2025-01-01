@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840'>Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-4276425.jpg?tf=1200x' alt='Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-fallan-nunca-ajustes-rapidos-revivir-cualquier-windows-instante-1427900'>"No fallan nunca": Mis 5 ajustes rápidos para revivir cualquier Windows al instante</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/no-fallan-nunca-ajustes-rapidos-revivir-cualquier-windows-instante-1427900' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-fallan-nunca-5-ajustes-rapidos-revivir-cualquier-windows-instante-4269760.jpg?tf=1200x' alt='"No fallan nunca": Mis 5 ajustes rápidos para revivir cualquier Windows al instante' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/alternativa-barata-sony-wh-1000xm5-muy-buena-pero-todo-mucho-barata-1432538'>La alternativa barata a los Sony WH-1000XM5 es muy buena, pero sobre todo mucho más barata</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/alternativa-barata-sony-wh-1000xm5-muy-buena-pero-todo-mucho-barata-1432538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sony-ult-4277593.jpg?tf=1200x' alt='La alternativa barata a los Sony WH-1000XM5 es muy buena, pero sobre todo mucho más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/nuevas-funciones-llegan-android-auto-2025-1427869'>Nuevas funciones que llegan a Android Auto en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/nuevas-funciones-llegan-android-auto-2025-1427869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-android-auto-4269706.jpg?tf=1200x' alt='Nuevas funciones que llegan a Android Auto en 2025' />
     </a>
 </div>
 
