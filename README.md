@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569'>La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-laptop-4277648.jpg?tf=1200x' alt='La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-waze-2025-1427858'>Nuevas funciones que llegan a Waze en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-waze-2025-1427858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/app-waze-4269689.jpg?tf=1200x' alt='Nuevas funciones que llegan a Waze en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-grok-inteligencia-artificial-no-fuese-termino-adecuado-1432861'>De ChatGPT a Grok, ¿y si "inteligencia artificial" no fuese el término adecuado?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-grok-inteligencia-artificial-no-fuese-termino-adecuado-1432861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-va-tener-inteligencia-artificial-bloc-notas-4258978.jpg?tf=1200x' alt='De ChatGPT a Grok, ¿y si "inteligencia artificial" no fuese el término adecuado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/hay-2-caracteristicas-roomba-combo-10-max-me-han-encantado-rodillo-adicional-suciedad-mopa-descapotable-1431880'>Hay 2 características de Roomba Combo 10 Max que me han encantado: rodillo adicional para la suciedad y mopa descapotable</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/hay-2-caracteristicas-roomba-combo-10-max-me-han-encantado-rodillo-adicional-suciedad-mopa-descapotable-1431880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/irobot-roomba-combo-10-max-4276501.jpg?tf=1200x' alt='Hay 2 características de Roomba Combo 10 Max que me han encantado: rodillo adicional para la suciedad y mopa descapotable' />
     </a>
 </div>
 
