@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-estrenos-cine-empezar-2025-grande-1428686'>Los 5 mejores estrenos de cine para empezar 2025 a lo grande</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-estrenos-cine-empezar-2025-grande-1428686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-mejores-estrenos-cine-empezar-2025-grande-4271088.jpg?tf=1200x' alt='Los 5 mejores estrenos de cine para empezar 2025 a lo grande' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569'>La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-laptop-4277648.jpg?tf=1200x' alt='La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-avances-todo-podemos-esperar-tecnologia-ha-cambiado-mundo-1432910'>Inteligencia artificial en 2025: avances y todo lo que podemos esperar de la tecnología que ha cambiado el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-avances-todo-podemos-esperar-tecnologia-ha-cambiado-mundo-1432910' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-futuro-4033287.jpg?tf=1200x' alt='Inteligencia artificial en 2025: avances y todo lo que podemos esperar de la tecnología que ha cambiado el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-grok-inteligencia-artificial-no-fuese-termino-adecuado-1432861'>De ChatGPT a Grok, ¿y si "inteligencia artificial" no fuese el término adecuado?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-grok-inteligencia-artificial-no-fuese-termino-adecuado-1432861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-11-va-tener-inteligencia-artificial-bloc-notas-4258978.jpg?tf=1200x' alt='De ChatGPT a Grok, ¿y si "inteligencia artificial" no fuese el término adecuado?' />
     </a>
 </div>
 
