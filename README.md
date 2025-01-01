@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/avatar-superman-peliculas-esperadas-2025-fechas-estreno-1428240'>De Avatar a Superman, las películas más esperadas de 2025 y sus fechas de estreno</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/avatar-superman-peliculas-esperadas-2025-fechas-estreno-1428240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/david-corenswet-superman-2025-3309587.jpg?tf=1200x' alt='De Avatar a Superman, las películas más esperadas de 2025 y sus fechas de estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568'>Estas son las tendencias que seguirá Android para los móviles en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/estas-son-tendencias-seguira-android-moviles-2025-1432568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/estas-son-tendencias-seguira-android-moviles-2025-4277655.jpg?tf=1200x' alt='Estas son las tendencias que seguirá Android para los móviles en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-estrenos-cine-empezar-2025-grande-1428686'>Los 5 mejores estrenos de cine para empezar 2025 a lo grande</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-estrenos-cine-empezar-2025-grande-1428686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-mejores-estrenos-cine-empezar-2025-grande-4271088.jpg?tf=1200x' alt='Los 5 mejores estrenos de cine para empezar 2025 a lo grande' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569'>La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palabra-marcara-2025-significa-agentico-inteligencia-artificial-1432569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-laptop-4277648.jpg?tf=1200x' alt='La palabra que marcará el 2025: ¿Qué significa “agéntico” en inteligencia artificial?' />
     </a>
 </div>
 
