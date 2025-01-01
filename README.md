@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nuevas-funciones-llegan-windows-11-2025-1428014'>Nuevas funciones que llegan a Windows 11 en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nuevas-funciones-llegan-windows-11-2025-1428014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-windows-11-4269926.jpg?tf=1200x' alt='Nuevas funciones que llegan a Windows 11 en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541'>Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/relojes-inteligentes-electrocardiograma-ecg-estos-son-mejores-758541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/google-pixel-watch-2-3199986.jpg?tf=1200x' alt='Relojes que hacen electrocardiogramas (ECG): estos son los mejores y más baratos que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/podria-ser-futuro-apple-2025-1433075'>Así podría ser el futuro de Apple en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/podria-ser-futuro-apple-2025-1433075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/podria-ser-futuro-apple-2025-4278402.jpg?tf=1200x' alt='Así podría ser el futuro de Apple en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/nueva-funcion-ios-18-te-ayuda-fotos-pero-puede-ser-inquietante-1433112'>La nueva función de iOS 18 te ayuda con tus fotos, pero puede ser inquietante</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/nueva-funcion-ios-18-te-ayuda-fotos-pero-puede-ser-inquietante-1433112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/privacidad-iphone-4278465.jpg?tf=1200x' alt='La nueva función de iOS 18 te ayuda con tus fotos, pero puede ser inquietante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/repartidor-amazon-abandona-80-paquetes-bosque-estaba-demasiado-cansado-estresado-hacer-todas-entregas-1433109'>Repartidor de Amazon abandona 80 paquetes en el bosque: “Estaba demasiado cansado y estresado para hacer todas las entregas”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/repartidor-amazon-abandona-80-paquetes-bosque-estaba-demasiado-cansado-estresado-hacer-todas-entregas-1433109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/paquetes-amazon-4278463.jpg?tf=1200x' alt='Repartidor de Amazon abandona 80 paquetes en el bosque: “Estaba demasiado cansado y estresado para hacer todas las entregas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107'>Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/problemas-galaxy-s22-usuarios-congelan-telefonos-salvar-datos-1433107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/samsung-galaxy-s22-analisis-opinion-2741209.jpg?tf=1200x' alt='Problemas con el Galaxy S22: usuarios congelan sus teléfonos para salvar sus datos' />
     </a>
 </div>
 
