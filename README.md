@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964'>Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-4278261.jpg?tf=1200x' alt='Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-debes-actuar-recibir-correo-fraudulento-expertos-1432393'>Spear phishing: así debes actuar al recibir un correo fraudulento, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-debes-actuar-recibir-correo-fraudulento-expertos-1432393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3210938.jpg?tf=1200x' alt='Spear phishing: así debes actuar al recibir un correo fraudulento, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306'>Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos</a></h4>
     <a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nucleos-pc-4277295.jpg?tf=1200x' alt='Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-aliens-mejores-secuelas-todos-tiempos-critica-1431866'>De Star Wars a Aliens: estas son las 5 mejores secuelas de todos los tiempos, según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-aliens-mejores-secuelas-todos-tiempos-critica-1431866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/star-wars-aliens-estas-son-5-mejores-secuelas-todos-tiempos-critica-4276466.jpg?tf=1200x' alt='De Star Wars a Aliens: estas son las 5 mejores secuelas de todos los tiempos, según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-1432980'>Cosas sorprendentes (muy locas) que puedes hacer en 2025 con un Flipper Zero</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-1432980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cosas-sorprendentes-muy-locas-puedes-hacer-2025-flipper-zero-4278267.jpg?tf=1200x' alt='Cosas sorprendentes (muy locas) que puedes hacer en 2025 con un Flipper Zero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840'>Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-1431840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-secret-level-ni-fallout-serie-fantasia-notas-perfectas-prime-video-casi-nadie-conoce-4276425.jpg?tf=1200x' alt='Ni Secret Level ni Fallout: esta es la serie de fantasía con notas perfectas de Prime Video (y casi nadie la conoce)' />
     </a>
 </div>
 
