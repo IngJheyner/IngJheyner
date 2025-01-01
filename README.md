@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/nuevas-funciones-llegan-android-auto-2025-1427869'>Nuevas funciones que llegan a Android Auto en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/nuevas-funciones-llegan-android-auto-2025-1427869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-android-auto-4269706.jpg?tf=1200x' alt='Nuevas funciones que llegan a Android Auto en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-estrenos-cine-empezar-2025-grande-1428686'>Los 5 mejores estrenos de cine para empezar 2025 a lo grande</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-estrenos-cine-empezar-2025-grande-1428686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-mejores-estrenos-cine-empezar-2025-grande-4271088.jpg?tf=1200x' alt='Los 5 mejores estrenos de cine para empezar 2025 a lo grande' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908'>10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ia-4278135.jpg?tf=1200x' alt='10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-avances-todo-podemos-esperar-tecnologia-ha-cambiado-mundo-1432910'>Inteligencia artificial en 2025: avances y todo lo que podemos esperar de la tecnología que ha cambiado el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-avances-todo-podemos-esperar-tecnologia-ha-cambiado-mundo-1432910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/inteligencia-artificial-futuro-4033287.jpg?tf=1200x' alt='Inteligencia artificial en 2025: avances y todo lo que podemos esperar de la tecnología que ha cambiado el mundo' />
     </a>
 </div>
 
