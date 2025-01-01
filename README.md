@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-waze-2025-1427858'>Nuevas funciones que llegan a Waze en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevas-funciones-llegan-waze-2025-1427858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/app-waze-4269689.jpg?tf=1200x' alt='Nuevas funciones que llegan a Waze en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908'>10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/10-aterradoras-predicciones-inteligencia-artificial-2025-algunas-te-pondran-pelos-punta-1432908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/predicciones-ia-4278135.jpg?tf=1200x' alt='10 aterradoras predicciones de la inteligencia artificial para 2025 (algunas te pondrán los pelos de punta)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/hay-2-caracteristicas-roomba-combo-10-max-me-han-encantado-rodillo-adicional-suciedad-mopa-descapotable-1431880'>Hay 2 características de Roomba Combo 10 Max que me han encantado: rodillo adicional para la suciedad y mopa descapotable</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/hay-2-caracteristicas-roomba-combo-10-max-me-han-encantado-rodillo-adicional-suciedad-mopa-descapotable-1431880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/irobot-roomba-combo-10-max-4276501.jpg?tf=1200x' alt='Hay 2 características de Roomba Combo 10 Max que me han encantado: rodillo adicional para la suciedad y mopa descapotable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/6-trucos-windows-11-sacarle-maximo-partido-te-recomiendo-como-experto-tecnologia-1419930'>6 trucos de Windows 11 para sacarle el máximo partido y que te recomiendo como experto en tecnología</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/6-trucos-windows-11-sacarle-maximo-partido-te-recomiendo-como-experto-tecnologia-1419930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-administrar-memoria-virtual-windows-11-beneficios-tiene-3910605.jpg?tf=1200x' alt='6 trucos de Windows 11 para sacarle el máximo partido y que te recomiendo como experto en tecnología' />
     </a>
 </div>
 
