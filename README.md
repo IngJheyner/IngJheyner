@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-6-ya-tiene-fecha-lanzamiento-queda-vida-ps5-1433242'>PlayStation 6 ya tiene fecha de lanzamiento: esto es lo que le queda de vida a tu PS5</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-6-ya-tiene-fecha-lanzamiento-queda-vida-ps5-1433242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mando-playstation-5-4265881.jpg?tf=1200x' alt='PlayStation 6 ya tiene fecha de lanzamiento: esto es lo que le queda de vida a tu PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-ingeniera-llevo-amd-quiebra-absoluta-imperio-tecnologico-solo-10-anos-1433233'>Así es como esta ingeniera llevó a AMD de la quiebra absoluta al imperio tecnológico en solo 10 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-ingeniera-llevo-amd-quiebra-absoluta-imperio-tecnologico-solo-10-anos-1433233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lisa-amd-4278618.jpg?tf=1200x' alt='Así es como esta ingeniera llevó a AMD de la quiebra absoluta al imperio tecnológico en solo 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/fatiga-ping-como-movil-acabando-tiempo-salud-mental-1433217'>Qué es la "fatiga del ping" y cómo el móvil está acabando con tu tiempo y salud mental</a></h4>
+    <a href='https://computerhoy.20minutos.es/fatiga-ping-como-movil-acabando-tiempo-salud-mental-1433217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4126953.jpg?tf=1200x' alt='Qué es la "fatiga del ping" y cómo el móvil está acabando con tu tiempo y salud mental' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-luto-fallece-actor-lidero-lucha-estrella-muerte-1433210'>Star Wars de luto: fallece el actor que lideró la lucha contra la Estrella de la Muerte</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-luto-fallece-actor-lidero-lucha-estrella-muerte-1433210' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/star-wars-luto-fallece-actor-lidero-lucha-estrella-muerte-4278579.jpg?tf=1200x' alt='Star Wars de luto: fallece el actor que lideró la lucha contra la Estrella de la Muerte' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/trucos-windows-11-sea-mucho-rapido-1431292'>Estos trucos de Windows 11 son infalibles: el ordenador va mucho más rápido al instante</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/trucos-windows-11-sea-mucho-rapido-1431292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/laptop-windows-11-4275560.jpg?tf=1200x' alt='Estos trucos de Windows 11 son infalibles: el ordenador va mucho más rápido al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movil-ocurre-puede-alguien-te-espiando-1425485'>Si a tu móvil le ocurre esto, puede que alguien te esté espiando</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/movil-ocurre-puede-alguien-te-espiando-1425485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Si a tu móvil le ocurre esto, puede que alguien te esté espiando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-open-apex-edition-privacidad-almacenamiento-1432829'>OnePlus Open Apex Edition es el mismo plegable de 2023, pero con más privacidad y almacenamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/oneplus-open-apex-edition-privacidad-almacenamiento-1432829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-open-apex-edition-4278045.jpg?tf=1200x' alt='OnePlus Open Apex Edition es el mismo plegable de 2023, pero con más privacidad y almacenamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-1427868'>"Ni con tu teclado": Búsquedas en Google que los expertos en seguridad evitan hacer a toda costa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-1427868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-4269725.jpg?tf=1200x' alt='"Ni con tu teclado": Búsquedas en Google que los expertos en seguridad evitan hacer a toda costa' />
     </a>
 </div>
 
