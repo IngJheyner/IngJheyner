@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/10-millones-recompensa-atrapar-hacker-chino-ataco-81000-ordenadores-todo-mundo-1433268'>Hasta 10 millones de recompensa por atrapar al hacker chino que atacó 81.000 ordenadores en todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/10-millones-recompensa-atrapar-hacker-chino-ataco-81000-ordenadores-todo-mundo-1433268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/10-millones-recompensa-atrapar-hacker-chino-ataco-81000-ordenadores-todo-mundo-4278681.jpg?tf=1200x' alt='Hasta 10 millones de recompensa por atrapar al hacker chino que atacó 81.000 ordenadores en todo el mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/windows-11-pone-pie-guerra-gamers-rompiendo-juegos-microsoft-no-da-solucion-1433312'>Windows 11 pone en pie de guerra a los gamers: está "rompiendo" juegos, y Microsoft no da una solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/windows-11-pone-pie-guerra-gamers-rompiendo-juegos-microsoft-no-da-solucion-1433312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-pone-pie-guerra-gamers-rompiendo-juegos-microsoft-no-da-solucion-4278711.jpg?tf=1200x' alt='Windows 11 pone en pie de guerra a los gamers: está "rompiendo" juegos, y Microsoft no da una solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/primeras-pruebas-filtradas-nvidia-rtx-5060-portatiles-dan-sorpresa-rendimiento-1433222'>Las primeras pruebas filtradas de Nvidia RTX 5060 en portátiles dan una sorpresa de rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/primeras-pruebas-filtradas-nvidia-rtx-5060-portatiles-dan-sorpresa-rendimiento-1433222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primeras-pruebas-filtradas-nvidia-rtx-5060-portatiles-dan-sorpresa-rendimiento-4278647.jpg?tf=1200x' alt='Las primeras pruebas filtradas de Nvidia RTX 5060 en portátiles dan una sorpresa de rendimiento' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/ni-madrid-ni-barcelona-pequena-ciudad-espanola-donde-shein-dejara-ser-solo-tienda-online-1433263'>Ni Madrid ni Barcelona, esta es la pequeña ciudad española donde Shein dejará de ser solo una tienda online</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ni-madrid-ni-barcelona-pequena-ciudad-espanola-donde-shein-dejara-ser-solo-tienda-online-1433263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shein-3648753.jpg?tf=1200x' alt='Ni Madrid ni Barcelona, esta es la pequeña ciudad española donde Shein dejará de ser solo una tienda online' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/filtra-placa-base-nintendo-switch-2-revolucion-decepcion-absoluta-1433284'>Se filtra la placa base de Nintendo Switch 2: ¿Revolución o decepción absoluta?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/filtra-placa-base-nintendo-switch-2-revolucion-decepcion-absoluta-1433284' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Se filtra la placa base de Nintendo Switch 2: ¿Revolución o decepción absoluta?' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-revelan-velocidad-real-pensamiento-humano-explican-no-hemos-sido-dominados-maquinas-1433254'>Científicos revelan la velocidad real del pensamiento humano y explican por qué no hemos sido dominados por las máquinas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-revelan-velocidad-real-pensamiento-humano-explican-no-hemos-sido-dominados-maquinas-1433254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cerebro-humano-4255617.jpg?tf=1200x' alt='Científicos revelan la velocidad real del pensamiento humano y explican por qué no hemos sido dominados por las máquinas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-steve-jobs-sam-altman-cuenta-quien-verdadero-einstein-detras-boom-ia-1433249'>Ni Bill Gates ni Steve Jobs: Sam Altman cuenta quién es el verdadero Einstein detrás del 'boom' de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-steve-jobs-sam-altman-cuenta-quien-verdadero-einstein-detras-boom-ia-1433249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-ceo-openai-3264316.jpg?tf=1200x' alt='Ni Bill Gates ni Steve Jobs: Sam Altman cuenta quién es el verdadero Einstein detrás del 'boom' de la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-negro-futuro-te-espera-te-niegas-dar-salto-windows-11-2025-1433256'>Windows 10: este es el negro futuro que te espera si te niegas a dar el salto a Windows 11 en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-negro-futuro-te-espera-te-niegas-dar-salto-windows-11-2025-1433256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-10-ciberseguridad-3881605.jpg?tf=1200x' alt='Windows 10: este es el negro futuro que te espera si te niegas a dar el salto a Windows 11 en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/movil-ahora-desconocida-cmf-movil-barato-perfecto-regalar-reyes-1433226'>Este móvil de la (por ahora) desconocida CMF es el móvil barato perfecto para regalar en Reyes</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/movil-ahora-desconocida-cmf-movil-barato-perfecto-regalar-reyes-1433226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cmf-4278605.jpg?tf=1200x' alt='Este móvil de la (por ahora) desconocida CMF es el móvil barato perfecto para regalar en Reyes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-apuesta-2025-elon-musk-1432771'>Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-apuesta-2025-elon-musk-1432771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 ' />
     </a>
 </div>
 
