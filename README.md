@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/movil-ahora-desconocida-cmf-movil-barato-perfecto-regalar-reyes-1433226'>Este móvil de la (por ahora) desconocida CMF es el móvil barato perfecto para regalar en Reyes</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/movil-ahora-desconocida-cmf-movil-barato-perfecto-regalar-reyes-1433226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cmf-4278605.jpg?tf=1200x' alt='Este móvil de la (por ahora) desconocida CMF es el móvil barato perfecto para regalar en Reyes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-oficial-1432950'>Lanzamiento Nintendo Switch 2: se filtra la fecha oficial y el primer juego de la consola </a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-oficial-1432950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-switch-2-ya-tendria-fecha-oficial-lanzamiento-no-te-va-gustar-4278197.jpg?tf=1200x' alt='Lanzamiento Nintendo Switch 2: se filtra la fecha oficial y el primer juego de la consola ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-cadenas-ni-neumaticos-especiales-xiaomi-presenta-modo-nieve-coche-electrico-1433244'>Ni cadenas ni neumáticos especiales: Xiaomi presenta el modo nieve para su coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-cadenas-ni-neumaticos-especiales-xiaomi-presenta-modo-nieve-coche-electrico-1433244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hemos-estado-dentro-coche-electrico-xiaomi-parece-nave-espacial-4261005.jpg?tf=1200x' alt='Ni cadenas ni neumáticos especiales: Xiaomi presenta el modo nieve para su coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-6-ya-tiene-fecha-lanzamiento-queda-vida-ps5-1433242'>PlayStation 6 ya tiene fecha de lanzamiento: esto es lo que le queda de vida a tu PS5</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstation-6-ya-tiene-fecha-lanzamiento-queda-vida-ps5-1433242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mando-playstation-5-4265881.jpg?tf=1200x' alt='PlayStation 6 ya tiene fecha de lanzamiento: esto es lo que le queda de vida a tu PS5' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-ingeniera-llevo-amd-quiebra-absoluta-imperio-tecnologico-solo-10-anos-1433233'>Así es como esta ingeniera llevó a AMD de la quiebra absoluta al imperio tecnológico en solo 10 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-ingeniera-llevo-amd-quiebra-absoluta-imperio-tecnologico-solo-10-anos-1433233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lisa-amd-4278618.jpg?tf=1200x' alt='Así es como esta ingeniera llevó a AMD de la quiebra absoluta al imperio tecnológico en solo 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/fatiga-ping-como-movil-acabando-tiempo-salud-mental-1433217'>Qué es la "fatiga del ping" y cómo el móvil está acabando con tu tiempo y salud mental</a></h4>
-    <a href='https://computerhoy.20minutos.es/fatiga-ping-como-movil-acabando-tiempo-salud-mental-1433217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-4126953.jpg?tf=1200x' alt='Qué es la "fatiga del ping" y cómo el móvil está acabando con tu tiempo y salud mental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-luto-fallece-actor-lidero-lucha-estrella-muerte-1433210'>Star Wars de luto: fallece el actor que lideró la lucha contra la Estrella de la Muerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-luto-fallece-actor-lidero-lucha-estrella-muerte-1433210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/star-wars-luto-fallece-actor-lidero-lucha-estrella-muerte-4278579.jpg?tf=1200x' alt='Star Wars de luto: fallece el actor que lideró la lucha contra la Estrella de la Muerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/trucos-windows-11-sea-mucho-rapido-1431292'>Estos trucos de Windows 11 son infalibles: el ordenador va mucho más rápido al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/trucos-windows-11-sea-mucho-rapido-1431292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/laptop-windows-11-4275560.jpg?tf=1200x' alt='Estos trucos de Windows 11 son infalibles: el ordenador va mucho más rápido al instante' />
     </a>
 </div>
 
