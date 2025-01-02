@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-matrix-pelicula-ciencia-ficcion-mejor-valorada-todos-tiempos-1433342'>Ni Star Wars ni Matrix, esta es la película de ciencia ficción mejor valorada de todos los tiempos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-matrix-pelicula-ciencia-ficcion-mejor-valorada-todos-tiempos-1433342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-star-wars-ni-matrix-pelicula-ciencia-ficcion-mejor-valorada-todos-tiempos-4278731.jpg?tf=1200x' alt='Ni Star Wars ni Matrix, esta es la película de ciencia ficción mejor valorada de todos los tiempos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/predicciones-2025-hicieron-siglo-xx-han-fallado-estrepitosamente-1433388'>Las predicciones para el 2025 que se hicieron en el siglo XX y que han fallado estrepitosamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/predicciones-2025-hicieron-siglo-xx-han-fallado-estrepitosamente-1433388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/predicciones-2025-hicieron-siglo-xx-han-fallado-estrepitosamente-4278909.jpg?tf=1200x' alt='Las predicciones para el 2025 que se hicieron en el siglo XX y que han fallado estrepitosamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-rompe-error-roca-marte-realiza-sorprendente-descubrimiento-ahora-tenemos-explicarlo-1433322'>La NASA rompe por error por una roca en Marte y realiza un sorprendente descubrimiento: "Ahora tenemos que explicarlo"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-rompe-error-roca-marte-realiza-sorprendente-descubrimiento-ahora-tenemos-explicarlo-1433322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rover-curiosity-nasa-3790111.jpg?tf=1200x' alt='La NASA rompe por error por una roca en Marte y realiza un sorprendente descubrimiento: "Ahora tenemos que explicarlo"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-activar-funcion-prohibida-google-android-auto-1410217'>La función prohibida de Android Auto que puedes desbloquear fácilmente en 2025 (aunque a Google no le guste)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-activar-funcion-prohibida-google-android-auto-1410217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-2025-4278758.jpg?tf=1200x' alt='La función prohibida de Android Auto que puedes desbloquear fácilmente en 2025 (aunque a Google no le guste)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-peliculas-gratis-legal-1225520'>Cómo descargar películas gratis de forma totalmente legal en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-peliculas-gratis-legal-1225520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/descargar-peliculas-gratis-2025-4278741.jpg?tf=1200x' alt='Cómo descargar películas gratis de forma totalmente legal en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-1433373'>2.500 canales ilegales por IPTV funden a negro por la "Operación Kratos" en España y Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-1433373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-4278823.jpg?tf=1200x' alt='2.500 canales ilegales por IPTV funden a negro por la "Operación Kratos" en España y Europa' />
     </a>
 </div>
 
