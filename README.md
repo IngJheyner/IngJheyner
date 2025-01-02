@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-1427868'>"Ni con tu teclado": Búsquedas en Google que los expertos en seguridad evitan hacer a toda costa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-1427868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-4269725.jpg?tf=1200x' alt='"Ni con tu teclado": Búsquedas en Google que los expertos en seguridad evitan hacer a toda costa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/atento-como-computacion-cuantica-va-cambiar-mundo-1432641'>¡Atento! Así es como la computación cuántica va a cambiar el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/atento-como-computacion-cuantica-va-cambiar-mundo-1432641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computacion-cuantica-4277756.jpg?tf=1200x' alt='¡Atento! Así es como la computación cuántica va a cambiar el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/increible-desconocida-funcion-herramienta-recortes-windows-11-1431020'>Así es la increíble y desconocida función de la herramienta Recortes de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/increible-desconocida-funcion-herramienta-recortes-windows-11-1431020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/increible-desconocida-funcion-herramienta-recortes-windows-11-4275090.jpg?tf=1200x' alt='Así es la increíble y desconocida función de la herramienta Recortes de Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964'>Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-4278261.jpg?tf=1200x' alt='Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-debes-actuar-recibir-correo-fraudulento-expertos-1432393'>Spear phishing: así debes actuar al recibir un correo fraudulento, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/spear-phishing-debes-actuar-recibir-correo-fraudulento-expertos-1432393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/phishing-3210938.jpg?tf=1200x' alt='Spear phishing: así debes actuar al recibir un correo fraudulento, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306'>Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos</a></h4>
-    <a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nucleos-pc-4277295.jpg?tf=1200x' alt='Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos' />
     </a>
 </div>
 
