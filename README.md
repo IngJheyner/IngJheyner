@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-pin-tarjeta-credito-lista-podrias-estar-riesgo-ser-victima-robo-1433444'>¿El número PIN de tu tarjeta de crédito está en esta lista? Podrías estar en riesgo de ser víctima de un robo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-pin-tarjeta-credito-lista-podrias-estar-riesgo-ser-victima-robo-1433444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tarjeta-credito-4278925.jpg?tf=1200x' alt='¿El número PIN de tu tarjeta de crédito está en esta lista? Podrías estar en riesgo de ser víctima de un robo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/expertos-revelan-capacidad-freidoras-aire-no-parece-1433443'>Expertos revelan que la capacidad de las freidoras de aire no es lo que parece</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/expertos-revelan-capacidad-freidoras-aire-no-parece-1433443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-4015948.jpg?tf=1200x' alt='Expertos revelan que la capacidad de las freidoras de aire no es lo que parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/estos-son-fondos-pantalla-ineditos-windows-11-microsoft-no-quiso-vieras-1433442'>Estos son los fondos de pantalla inéditos de Windows 11 que Microsoft no quiso que vieras</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/estos-son-fondos-pantalla-ineditos-windows-11-microsoft-no-quiso-vieras-1433442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/fondos-pantalla-ineditos-windows-11-4278923.jpg?tf=1200x' alt='Estos son los fondos de pantalla inéditos de Windows 11 que Microsoft no quiso que vieras' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-matrix-pelicula-ciencia-ficcion-mejor-valorada-todos-tiempos-1433342'>Ni Star Wars ni Matrix, esta es la película de ciencia ficción mejor valorada de todos los tiempos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-star-wars-ni-matrix-pelicula-ciencia-ficcion-mejor-valorada-todos-tiempos-1433342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-star-wars-ni-matrix-pelicula-ciencia-ficcion-mejor-valorada-todos-tiempos-4278731.jpg?tf=1200x' alt='Ni Star Wars ni Matrix, esta es la película de ciencia ficción mejor valorada de todos los tiempos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/predicciones-2025-hicieron-siglo-xx-han-fallado-estrepitosamente-1433388'>Las predicciones para el 2025 que se hicieron en el siglo XX y que han fallado estrepitosamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/predicciones-2025-hicieron-siglo-xx-han-fallado-estrepitosamente-1433388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/predicciones-2025-hicieron-siglo-xx-han-fallado-estrepitosamente-4278909.jpg?tf=1200x' alt='Las predicciones para el 2025 que se hicieron en el siglo XX y que han fallado estrepitosamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-rompe-error-roca-marte-realiza-sorprendente-descubrimiento-ahora-tenemos-explicarlo-1433322'>La NASA rompe por error por una roca en Marte y realiza un sorprendente descubrimiento: "Ahora tenemos que explicarlo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-rompe-error-roca-marte-realiza-sorprendente-descubrimiento-ahora-tenemos-explicarlo-1433322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rover-curiosity-nasa-3790111.jpg?tf=1200x' alt='La NASA rompe por error por una roca en Marte y realiza un sorprendente descubrimiento: "Ahora tenemos que explicarlo"' />
     </a>
 </div>
 
