@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/increible-desconocida-funcion-herramienta-recortes-windows-11-1431020'>Así es la increíble y desconocida función de la herramienta Recortes de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/increible-desconocida-funcion-herramienta-recortes-windows-11-1431020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/increible-desconocida-funcion-herramienta-recortes-windows-11-4275090.jpg?tf=1200x' alt='Así es la increíble y desconocida función de la herramienta Recortes de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gurus-inteligencia-artificial-habla-peligro-humanidad-seremos-como-ninos-tres-anos-1432855'>Uno de los gurús de la inteligencia artificial habla de su peligro para la humanidad: "Seremos como niños de tres años"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gurus-inteligencia-artificial-habla-peligro-humanidad-seremos-como-ninos-tres-anos-1432855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gurus-inteligencia-artificial-habla-peligro-humanidad-seremos-como-ninos-tres-anos-4278073.jpg?tf=1200x' alt='Uno de los gurús de la inteligencia artificial habla de su peligro para la humanidad: "Seremos como niños de tres años"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964'>Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-4278261.jpg?tf=1200x' alt='Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306'>Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos</a></h4>
     <a href='https://computerhoy.20minutos.es/todo-sobre-nucleos-cpu-1432306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nucleos-pc-4277295.jpg?tf=1200x' alt='Todo sobre los núcleos de CPU: qué son, cómo funcionan y sus tipos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ha-logrado-ia-superar-humanos-tareas-definian-inteligencia-1432549'>Así ha logrado la IA superar a los humanos en tareas que definían nuestra inteligencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ha-logrado-ia-superar-humanos-tareas-definian-inteligencia-1432549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ha-logrado-ia-superar-humanos-tareas-definian-inteligencia-4277645.jpg?tf=1200x' alt='Así ha logrado la IA superar a los humanos en tareas que definían nuestra inteligencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-aliens-mejores-secuelas-todos-tiempos-critica-1431866'>De Star Wars a Aliens: estas son las 5 mejores secuelas de todos los tiempos, según la crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-aliens-mejores-secuelas-todos-tiempos-critica-1431866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/star-wars-aliens-estas-son-5-mejores-secuelas-todos-tiempos-critica-4276466.jpg?tf=1200x' alt='De Star Wars a Aliens: estas son las 5 mejores secuelas de todos los tiempos, según la crítica' />
     </a>
 </div>
 
