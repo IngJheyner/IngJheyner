@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-peliculas-gratis-legal-1225520'>Cómo descargar películas gratis de forma totalmente legal en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-peliculas-gratis-legal-1225520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/descargar-peliculas-gratis-2025-4278741.jpg?tf=1200x' alt='Cómo descargar películas gratis de forma totalmente legal en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-1433373'>2.500 canales ilegales por IPTV funden a negro por la "Operación Kratos" en España y Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-1433373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-4278823.jpg?tf=1200x' alt='2.500 canales ilegales por IPTV funden a negro por la "Operación Kratos" en España y Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-peligrosa-estafa-hace-pasar-guardia-civil-1433319'>Los expertos advierten: así es la peligrosa estafa que se hace pasar por la Guardia Civil</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-peligrosa-estafa-hace-pasar-guardia-civil-1433319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/guardia-civil-3250701.jpg?tf=1200x' alt='Los expertos advierten: así es la peligrosa estafa que se hace pasar por la Guardia Civil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-muks-reacciona-impactante-video-cybertruck-explotando-frente-hotel-donald-trump-vegas-1433292'>Elon Muks reacciona al impactante vídeo de un Cybertruck explotando frente al hotel de Donald Trump en Las Vegas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-muks-reacciona-impactante-video-cybertruck-explotando-frente-hotel-donald-trump-vegas-1433292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explosion-camioneta-tesla-4278714.jpg?tf=1200x' alt='Elon Muks reacciona al impactante vídeo de un Cybertruck explotando frente al hotel de Donald Trump en Las Vegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-playstation-5-producto-tecnologico-arrasara-estas-rebajas-2025-1433259'>Ni iPhone ni PlayStation 5, este es el producto tecnológico que arrasará en estas rebajas 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-playstation-5-producto-tecnologico-arrasara-estas-rebajas-2025-1433259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/producto-tecnologico-rebajas-4278750.jpg?tf=1200x' alt='Ni iPhone ni PlayStation 5, este es el producto tecnológico que arrasará en estas rebajas 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-tenia-razon-espana-entra-lleno-lista-negra-iptv-1433258'>¿Y si Javier Tebas tenía razón? España entra de lleno en la lista negra de las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-tenia-razon-espana-entra-lleno-lista-negra-iptv-1433258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='¿Y si Javier Tebas tenía razón? España entra de lleno en la lista negra de las IPTV' />
     </a>
 </div>
 
