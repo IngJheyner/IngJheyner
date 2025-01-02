@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-activar-funcion-prohibida-google-android-auto-1410217'>La función prohibida de Android Auto que puedes desbloquear fácilmente en 2025 (aunque a Google no le guste)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-activar-funcion-prohibida-google-android-auto-1410217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-2025-4278758.jpg?tf=1200x' alt='La función prohibida de Android Auto que puedes desbloquear fácilmente en 2025 (aunque a Google no le guste)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-peliculas-gratis-legal-1225520'>Cómo descargar películas gratis de forma totalmente legal en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-peliculas-gratis-legal-1225520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/descargar-peliculas-gratis-2025-4278741.jpg?tf=1200x' alt='Cómo descargar películas gratis de forma totalmente legal en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-iphone-muy-pronto-1433299'>Apple empieza 2025 por todo lo alto con nuevas funciones que llegarán a tu iPhone muy pronto</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-iphone-muy-pronto-1433299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-ios-muy-pronto-4278702.jpg?tf=1200x' alt='Apple empieza 2025 por todo lo alto con nuevas funciones que llegarán a tu iPhone muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-muks-reacciona-impactante-video-cybertruck-explotando-frente-hotel-donald-trump-vegas-1433292'>Elon Muks reacciona al impactante vídeo de un Cybertruck explotando frente al hotel de Donald Trump en Las Vegas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-muks-reacciona-impactante-video-cybertruck-explotando-frente-hotel-donald-trump-vegas-1433292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explosion-camioneta-tesla-4278714.jpg?tf=1200x' alt='Elon Muks reacciona al impactante vídeo de un Cybertruck explotando frente al hotel de Donald Trump en Las Vegas' />
     </a>
 </div>
 
