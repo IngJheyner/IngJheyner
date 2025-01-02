@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/windows-11-pone-pie-guerra-gamers-rompiendo-juegos-microsoft-no-da-solucion-1433312'>Windows 11 pone en pie de guerra a los gamers: está "rompiendo" juegos, y Microsoft no da una solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/windows-11-pone-pie-guerra-gamers-rompiendo-juegos-microsoft-no-da-solucion-1433312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-pone-pie-guerra-gamers-rompiendo-juegos-microsoft-no-da-solucion-4278711.jpg?tf=1200x' alt='Windows 11 pone en pie de guerra a los gamers: está "rompiendo" juegos, y Microsoft no da una solución' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-muks-reacciona-impactante-video-cybertruck-explotando-frente-hotel-donald-trump-vegas-1433292'>Elon Muks reacciona al impactante vídeo de un Cybertruck explotando frente al hotel de Donald Trump en Las Vegas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-muks-reacciona-impactante-video-cybertruck-explotando-frente-hotel-donald-trump-vegas-1433292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explosion-camioneta-tesla-4278714.jpg?tf=1200x' alt='Elon Muks reacciona al impactante vídeo de un Cybertruck explotando frente al hotel de Donald Trump en Las Vegas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/ni-madrid-ni-barcelona-pequena-ciudad-espanola-donde-shein-dejara-ser-solo-tienda-online-1433263'>Ni Madrid ni Barcelona, esta es la pequeña ciudad española donde Shein dejará de ser solo una tienda online</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/ni-madrid-ni-barcelona-pequena-ciudad-espanola-donde-shein-dejara-ser-solo-tienda-online-1433263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/shein-3648753.jpg?tf=1200x' alt='Ni Madrid ni Barcelona, esta es la pequeña ciudad española donde Shein dejará de ser solo una tienda online' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-playstation-5-producto-tecnologico-arrasara-estas-rebajas-2025-1433259'>Ni iPhone ni PlayStation 5, este es el producto tecnológico que arrasará en estas rebajas 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-playstation-5-producto-tecnologico-arrasara-estas-rebajas-2025-1433259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/producto-tecnologico-rebajas-4278750.jpg?tf=1200x' alt='Ni iPhone ni PlayStation 5, este es el producto tecnológico que arrasará en estas rebajas 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-revelan-velocidad-real-pensamiento-humano-explican-no-hemos-sido-dominados-maquinas-1433254'>Científicos revelan la velocidad real del pensamiento humano y explican por qué no hemos sido dominados por las máquinas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-revelan-velocidad-real-pensamiento-humano-explican-no-hemos-sido-dominados-maquinas-1433254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/cerebro-humano-4255617.jpg?tf=1200x' alt='Científicos revelan la velocidad real del pensamiento humano y explican por qué no hemos sido dominados por las máquinas' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-iphonr-muy-pronto-1433299'>Apple empieza 2025 por todo lo alto con nuevas funciones que llegarán a tu iPhonr muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-iphonr-muy-pronto-1433299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-ios-muy-pronto-4278702.jpg?tf=1200x' alt='Apple empieza 2025 por todo lo alto con nuevas funciones que llegarán a tu iPhonr muy pronto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-negro-futuro-te-espera-te-niegas-dar-salto-windows-11-2025-1433256'>Windows 10: este es el negro futuro que te espera si te niegas a dar el salto a Windows 11 en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-negro-futuro-te-espera-te-niegas-dar-salto-windows-11-2025-1433256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-10-ciberseguridad-3881605.jpg?tf=1200x' alt='Windows 10: este es el negro futuro que te espera si te niegas a dar el salto a Windows 11 en 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-tenia-razon-espana-entra-lleno-lista-negra-iptv-1433258'>¿Y si Javier Tebas tenía razón? España entra de lleno en la lista negra de las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-tenia-razon-espana-entra-lleno-lista-negra-iptv-1433258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='¿Y si Javier Tebas tenía razón? España entra de lleno en la lista negra de las IPTV' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nueva-apuesta-2025-elon-musk-1432771'>Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nueva-apuesta-2025-elon-musk-1432771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/elon-musk-ha-convertido-primera-persona-superar-fortuna-400000-millones-4272397.jpg?tf=1200x' alt='Giro de 180 grados para Elon Musk: deja a un lado los Tesla por una nueva apuesta en 2025 ' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-invisible-ninja-waze-1430640'>Cómo activar el Modo Ninja en Waze: te hace invisible y nadie detectará tus movimientos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-invisible-ninja-waze-1430640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-activar-modo-ninja-waze-no-quieres-app-sepa-movimientos-4274479.jpg?tf=1200x' alt='Cómo activar el Modo Ninja en Waze: te hace invisible y nadie detectará tus movimientos' />
     </a>
 </div>
 
