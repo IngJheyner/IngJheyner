@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-rompe-error-roca-marte-realiza-sorprendente-descubrimiento-ahora-tenemos-explicarlo-1433322'>La NASA rompe por error por una roca en Marte y realiza un sorprendente descubrimiento: "Ahora tenemos que explicarlo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-rompe-error-roca-marte-realiza-sorprendente-descubrimiento-ahora-tenemos-explicarlo-1433322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/rover-curiosity-nasa-3790111.jpg?tf=1200x' alt='La NASA rompe por error por una roca en Marte y realiza un sorprendente descubrimiento: "Ahora tenemos que explicarlo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/busqueda-visual-mejorada-iphone-desactivar-1433112'>Esta nueva función de tu iPhone se activa por defecto y envía los datos de tus fotos a Apple, así puedes desactivarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/busqueda-visual-mejorada-iphone-desactivar-1433112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/privacidad-iphone-4278465.jpg?tf=1200x' alt='Esta nueva función de tu iPhone se activa por defecto y envía los datos de tus fotos a Apple, así puedes desactivarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-activar-funcion-prohibida-google-android-auto-1410217'>La función prohibida de Android Auto que puedes desbloquear fácilmente en 2025 (aunque a Google no le guste)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/desbloquear-activar-funcion-prohibida-google-android-auto-1410217' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-2025-4278758.jpg?tf=1200x' alt='La función prohibida de Android Auto que puedes desbloquear fácilmente en 2025 (aunque a Google no le guste)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-1433373'>2.500 canales ilegales por IPTV funden a negro por la "Operación Kratos" en España y Europa</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-1433373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/2500-canales-ilegales-iptv-funden-negro-operacion-kratos-espana-europa-4278823.jpg?tf=1200x' alt='2.500 canales ilegales por IPTV funden a negro por la "Operación Kratos" en España y Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-peligrosa-estafa-hace-pasar-guardia-civil-1433319'>Los expertos advierten: así es la peligrosa estafa que se hace pasar por la Guardia Civil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-peligrosa-estafa-hace-pasar-guardia-civil-1433319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/guardia-civil-3250701.jpg?tf=1200x' alt='Los expertos advierten: así es la peligrosa estafa que se hace pasar por la Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-iphone-muy-pronto-1433299'>Apple empieza 2025 por todo lo alto con nuevas funciones que llegarán a tu iPhone muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-iphone-muy-pronto-1433299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-empieza-2025-todo-alto-nuevas-funciones-llegaran-ios-muy-pronto-4278702.jpg?tf=1200x' alt='Apple empieza 2025 por todo lo alto con nuevas funciones que llegarán a tu iPhone muy pronto' />
     </a>
 </div>
 
