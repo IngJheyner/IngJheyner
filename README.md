@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/10-millones-recompensa-atrapar-hacker-chino-ataco-81000-ordenadores-todo-mundo-1433268'>Hasta 10 millones de recompensa por atrapar al hacker chino que atacó 81.000 ordenadores en todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/10-millones-recompensa-atrapar-hacker-chino-ataco-81000-ordenadores-todo-mundo-1433268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/10-millones-recompensa-atrapar-hacker-chino-ataco-81000-ordenadores-todo-mundo-4278681.jpg?tf=1200x' alt='Hasta 10 millones de recompensa por atrapar al hacker chino que atacó 81.000 ordenadores en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/primeras-pruebas-filtradas-nvidia-rtx-5060-portatiles-dan-sorpresa-rendimiento-1433222'>Las primeras pruebas filtradas de Nvidia RTX 5060 en portátiles dan una sorpresa de rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/primeras-pruebas-filtradas-nvidia-rtx-5060-portatiles-dan-sorpresa-rendimiento-1433222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primeras-pruebas-filtradas-nvidia-rtx-5060-portatiles-dan-sorpresa-rendimiento-4278647.jpg?tf=1200x' alt='Las primeras pruebas filtradas de Nvidia RTX 5060 en portátiles dan una sorpresa de rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/filtra-placa-base-nintendo-switch-2-revolucion-decepcion-absoluta-1433284'>Se filtra la placa base de Nintendo Switch 2: ¿Revolución o decepción absoluta?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/filtra-placa-base-nintendo-switch-2-revolucion-decepcion-absoluta-1433284' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Se filtra la placa base de Nintendo Switch 2: ¿Revolución o decepción absoluta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-steve-jobs-sam-altman-cuenta-quien-verdadero-einstein-detras-boom-ia-1433249'>Ni Bill Gates ni Steve Jobs: Sam Altman cuenta quién es el verdadero Einstein detrás del 'boom' de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-steve-jobs-sam-altman-cuenta-quien-verdadero-einstein-detras-boom-ia-1433249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/sam-altman-ceo-openai-3264316.jpg?tf=1200x' alt='Ni Bill Gates ni Steve Jobs: Sam Altman cuenta quién es el verdadero Einstein detrás del 'boom' de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/movil-ahora-desconocida-cmf-movil-barato-perfecto-regalar-reyes-1433226'>Este móvil de la (por ahora) desconocida CMF es el móvil barato perfecto para regalar en Reyes</a></h4>
     <a href='https://computerhoy.20minutos.es/android/movil-ahora-desconocida-cmf-movil-barato-perfecto-regalar-reyes-1433226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cmf-4278605.jpg?tf=1200x' alt='Este móvil de la (por ahora) desconocida CMF es el móvil barato perfecto para regalar en Reyes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-oficial-1432950'>Lanzamiento Nintendo Switch 2: se filtra la fecha oficial y el primer juego de la consola </a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-fecha-oficial-lanzamiento-oficial-1432950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-switch-2-ya-tendria-fecha-oficial-lanzamiento-no-te-va-gustar-4278197.jpg?tf=1200x' alt='Lanzamiento Nintendo Switch 2: se filtra la fecha oficial y el primer juego de la consola ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-cadenas-ni-neumaticos-especiales-xiaomi-presenta-modo-nieve-coche-electrico-1433244'>Ni cadenas ni neumáticos especiales: Xiaomi presenta el modo nieve para su coche eléctrico</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-cadenas-ni-neumaticos-especiales-xiaomi-presenta-modo-nieve-coche-electrico-1433244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/hemos-estado-dentro-coche-electrico-xiaomi-parece-nave-espacial-4261005.jpg?tf=1200x' alt='Ni cadenas ni neumáticos especiales: Xiaomi presenta el modo nieve para su coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-6-ya-tiene-fecha-lanzamiento-queda-vida-ps5-1433242'>PlayStation 6 ya tiene fecha de lanzamiento: esto es lo que le queda de vida a tu PS5</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-6-ya-tiene-fecha-lanzamiento-queda-vida-ps5-1433242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/mando-playstation-5-4265881.jpg?tf=1200x' alt='PlayStation 6 ya tiene fecha de lanzamiento: esto es lo que le queda de vida a tu PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-ingeniera-llevo-amd-quiebra-absoluta-imperio-tecnologico-solo-10-anos-1433233'>Así es como esta ingeniera llevó a AMD de la quiebra absoluta al imperio tecnológico en solo 10 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-ingeniera-llevo-amd-quiebra-absoluta-imperio-tecnologico-solo-10-anos-1433233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lisa-amd-4278618.jpg?tf=1200x' alt='Así es como esta ingeniera llevó a AMD de la quiebra absoluta al imperio tecnológico en solo 10 años' />
     </a>
 </div>
 
