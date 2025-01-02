@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/trucos-windows-11-sea-mucho-rapido-1431292'>Estos trucos de Windows 11 son infalibles: el ordenador va mucho más rápido al instante</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/trucos-windows-11-sea-mucho-rapido-1431292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/laptop-windows-11-4275560.jpg?tf=1200x' alt='Estos trucos de Windows 11 son infalibles: el ordenador va mucho más rápido al instante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movil-ocurre-puede-alguien-te-espiando-1425485'>Si a tu móvil le ocurre esto, puede que alguien te esté espiando</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/movil-ocurre-puede-alguien-te-espiando-1425485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/como-detectar-iphone-ha-sido-infectado-pegasus-herramienta-podras-saberlo-segundos-3266648.jpg?tf=1200x' alt='Si a tu móvil le ocurre esto, puede que alguien te esté espiando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-open-apex-edition-privacidad-almacenamiento-1432829'>OnePlus Open Apex Edition es el mismo plegable de 2023, pero con más privacidad y almacenamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/oneplus-open-apex-edition-privacidad-almacenamiento-1432829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-open-apex-edition-4278045.jpg?tf=1200x' alt='OnePlus Open Apex Edition es el mismo plegable de 2023, pero con más privacidad y almacenamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-1427868'>"Ni con tu teclado": Búsquedas en Google que los expertos en seguridad evitan hacer a toda costa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-1427868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-teclado-busquedas-google-expertos-seguridad-evitan-hacer-toda-costa-4269725.jpg?tf=1200x' alt='"Ni con tu teclado": Búsquedas en Google que los expertos en seguridad evitan hacer a toda costa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/atento-como-computacion-cuantica-va-cambiar-mundo-1432641'>¡Atento! Así es como la computación cuántica va a cambiar el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/atento-como-computacion-cuantica-va-cambiar-mundo-1432641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computacion-cuantica-4277756.jpg?tf=1200x' alt='¡Atento! Así es como la computación cuántica va a cambiar el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/increible-desconocida-funcion-herramienta-recortes-windows-11-1431020'>Así es la increíble y desconocida función de la herramienta Recortes de Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/increible-desconocida-funcion-herramienta-recortes-windows-11-1431020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/increible-desconocida-funcion-herramienta-recortes-windows-11-4275090.jpg?tf=1200x' alt='Así es la increíble y desconocida función de la herramienta Recortes de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gurus-inteligencia-artificial-habla-peligro-humanidad-seremos-como-ninos-tres-anos-1432855'>Uno de los gurús de la inteligencia artificial habla de su peligro para la humanidad: "Seremos como niños de tres años"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gurus-inteligencia-artificial-habla-peligro-humanidad-seremos-como-ninos-tres-anos-1432855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/gurus-inteligencia-artificial-habla-peligro-humanidad-seremos-como-ninos-tres-anos-4278073.jpg?tf=1200x' alt='Uno de los gurús de la inteligencia artificial habla de su peligro para la humanidad: "Seremos como niños de tres años"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964'>Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-1432964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-4278261.jpg?tf=1200x' alt='Los expertos en seguridad no puede ser más claros: NO respondas a este mensaje de Google' />
     </a>
 </div>
 
