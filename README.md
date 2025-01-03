@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355'>¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/seran-ultimos-abandonar-windows-10-tienen-muchos-motivos-ello-4246187.jpg?tf=1200x' alt='¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-te-costara-segundo-desactivar-funcion-evitaras-90-estafas-bancarias-1433346'>WhatsApp: te costará un segundo desactivar esta función y evitarás el 90% de las estafas bancarias</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-te-costara-segundo-desactivar-funcion-evitaras-90-estafas-bancarias-1433346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-4271428.jpg?tf=1200x' alt='WhatsApp: te costará un segundo desactivar esta función y evitarás el 90% de las estafas bancarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-brutal-camara-leica-precio-economico-1432221'>Xiaomi le pone una brutal cámara Leica de gama alta, pero este móvil es mucho más barato que sus competidores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-brutal-camara-leica-precio-economico-1432221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi le pone una brutal cámara Leica de gama alta, pero este móvil es mucho más barato que sus competidores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/maxima-alerta-estafa-paquete-amazon-no-pedido-ni-te-ocurra-hacer-1433340'>Máxima alerta sobre la estafa del paquete de Amazon no pedido: "Ni se te ocurra hacer esto"</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/maxima-alerta-estafa-paquete-amazon-no-pedido-ni-te-ocurra-hacer-1433340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Máxima alerta sobre la estafa del paquete de Amazon no pedido: "Ni se te ocurra hacer esto"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-1433344'>WhatsApp: compartir pantallazos de tus conversaciones podría meterte en un buen lío, deja de hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-1433344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-4278757.jpg?tf=1200x' alt='WhatsApp: compartir pantallazos de tus conversaciones podría meterte en un buen lío, deja de hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-chatgpt-gemini-apple-intelligence-grok-1433456'>El año de la IA: cómo nos ha cambiado la vida ChatGPT, Gemini y Apple Intelligence y lo que viene para este 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-chatgpt-gemini-apple-intelligence-grok-1433456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ano-ia-como-nos-ha-cambiado-vida-chatgpt-gemini-apple-intelligence-viene-2025-4278833.jpg?tf=1200x' alt='El año de la IA: cómo nos ha cambiado la vida ChatGPT, Gemini y Apple Intelligence y lo que viene para este 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/2025-va-ser-mejor-ano-comprar-monitor-ordenador-estos-son-motivos-1433431'>2025 va a ser el mejor año para comprar un monitor para tu ordenador y estos son los motivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/2025-va-ser-mejor-ano-comprar-monitor-ordenador-estos-son-motivos-1433431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/2025-va-ser-mejor-ano-comprar-monitor-ordenador-estos-son-motivos-4278941.jpg?tf=1200x' alt='2025 va a ser el mejor año para comprar un monitor para tu ordenador y estos son los motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-pin-tarjeta-credito-lista-podrias-estar-riesgo-ser-victima-robo-1433444'>¿El número PIN de tu tarjeta de crédito está en esta lista? Podrías estar en riesgo de ser víctima de un robo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-pin-tarjeta-credito-lista-podrias-estar-riesgo-ser-victima-robo-1433444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tarjeta-credito-4278925.jpg?tf=1200x' alt='¿El número PIN de tu tarjeta de crédito está en esta lista? Podrías estar en riesgo de ser víctima de un robo' />
     </a>
 </div>
 
