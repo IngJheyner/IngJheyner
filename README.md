@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-presa-tres-gargantas-china-ralentizar-rotacion-tierra-1433469'>Científicos de la NASA lo confirman: China tiene un arma natural tan poderosa que es capaz de ralentizar la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-presa-tres-gargantas-china-ralentizar-rotacion-tierra-1433469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-nasa-confirman-china-tiene-arma-natural-tan-poderosa-capaz-ralentizar-tierra-4278953.jpg?tf=1200x' alt='Científicos de la NASA lo confirman: China tiene un arma natural tan poderosa que es capaz de ralentizar la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/6-tendencias-inteligencia-artificial-veremos-2025-te-afectaran-dia-dia-1430914'>6 tendencias en inteligencia artificial que veremos en 2025 y te afectarán en tu día a día</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/6-tendencias-inteligencia-artificial-veremos-2025-te-afectaran-dia-dia-1430914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-2025-4275285.jpg?tf=1200x' alt='6 tendencias en inteligencia artificial que veremos en 2025 y te afectarán en tu día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355'>¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/seran-ultimos-abandonar-windows-10-tienen-muchos-motivos-ello-4246187.jpg?tf=1200x' alt='¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-brutal-camara-leica-precio-economico-1432221'>Xiaomi le pone una brutal cámara Leica de gama alta, pero este móvil es mucho más barato que sus competidores</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-brutal-camara-leica-precio-economico-1432221' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi le pone una brutal cámara Leica de gama alta, pero este móvil es mucho más barato que sus competidores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/maxima-alerta-estafa-paquete-amazon-no-pedido-ni-te-ocurra-hacer-1433340'>Máxima alerta sobre la estafa del paquete de Amazon no pedido: "Ni se te ocurra hacer esto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/maxima-alerta-estafa-paquete-amazon-no-pedido-ni-te-ocurra-hacer-1433340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Máxima alerta sobre la estafa del paquete de Amazon no pedido: "Ni se te ocurra hacer esto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-1433344'>WhatsApp: compartir pantallazos de tus conversaciones podría meterte en un buen lío, deja de hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-1433344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-4278757.jpg?tf=1200x' alt='WhatsApp: compartir pantallazos de tus conversaciones podría meterte en un buen lío, deja de hacerlo' />
     </a>
 </div>
 
