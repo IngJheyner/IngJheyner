@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-685-computer-hoy-1430885'>¡Ya está en tu quiosco el número 685 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-685-computer-hoy-1430885' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-685-4275289.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 685 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/expertos-advierten-generacion-z-estan-perdiendo-escritura-mano-1433484'>Expertos advierten a la generación Z: "Están perdiendo una habilidad que la humanidad ha tenido durante 5.500 años"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/expertos-advierten-generacion-z-estan-perdiendo-escritura-mano-1433484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-advierten-generacion-z-estan-perdiendo-habilidad-humanidad-ha-tenido-durante-5500-anos-4278982.jpg?tf=1200x' alt='Expertos advierten a la generación Z: "Están perdiendo una habilidad que la humanidad ha tenido durante 5.500 años"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-presa-tres-gargantas-china-ralentizar-rotacion-tierra-1433469'>Científicos de la NASA lo confirman: China tiene un arma natural tan poderosa que es capaz de ralentizar la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-presa-tres-gargantas-china-ralentizar-rotacion-tierra-1433469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-nasa-confirman-china-tiene-arma-natural-tan-poderosa-capaz-ralentizar-tierra-4278953.jpg?tf=1200x' alt='Científicos de la NASA lo confirman: China tiene un arma natural tan poderosa que es capaz de ralentizar la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355'>¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/seran-ultimos-abandonar-windows-10-tienen-muchos-motivos-ello-4246187.jpg?tf=1200x' alt='¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-te-costara-segundo-desactivar-funcion-evitaras-90-estafas-bancarias-1433346'>WhatsApp: te costará un segundo desactivar esta función y evitarás el 90% de las estafas bancarias</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-te-costara-segundo-desactivar-funcion-evitaras-90-estafas-bancarias-1433346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-4271428.jpg?tf=1200x' alt='WhatsApp: te costará un segundo desactivar esta función y evitarás el 90% de las estafas bancarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-brutal-camara-leica-precio-economico-1432221'>Xiaomi le pone una brutal cámara Leica de gama alta, pero este móvil es mucho más barato que sus competidores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-brutal-camara-leica-precio-economico-1432221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xiaomi-14t-series-4241917.jpg?tf=1200x' alt='Xiaomi le pone una brutal cámara Leica de gama alta, pero este móvil es mucho más barato que sus competidores' />
     </a>
 </div>
 
