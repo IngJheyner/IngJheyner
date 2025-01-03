@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/prometes-juramento-siri-ha-activado-conversacion-privada-apple-te-pagara-100-dolares-1433691'>Si prometes bajo juramento que Siri se ha activado en una conversación privada, Apple te pagará hasta 100 dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/prometes-juramento-siri-ha-activado-conversacion-privada-apple-te-pagara-100-dolares-1433691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244639.jpg?tf=1200x' alt='Si prometes bajo juramento que Siri se ha activado en una conversación privada, Apple te pagará hasta 100 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/misterioso-anillo-espacial-aterriza-aldea-kenia-1433684'>Un misterioso anillo espacial aterriza en una aldea de Kenia</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/misterioso-anillo-espacial-aterriza-aldea-kenia-1433684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/misterioso-anillo-espacial-aterriza-aldea-kenia-4279283.jpg?tf=1200x' alt='Un misterioso anillo espacial aterriza en una aldea de Kenia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/menos-desarrollador-logra-windows-11-funcione-solo-184-mb-ram-1433683'>¿Menos es más? Un desarrollador logra que Windows 11 funcione con solo 184 MB de RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/menos-desarrollador-logra-windows-11-funcione-solo-184-mb-ram-1433683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-4264692.jpg?tf=1200x' alt='¿Menos es más? Un desarrollador logra que Windows 11 funcione con solo 184 MB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/error-google-maps-convierte-pueblo-remoto-imprevisto-destino-turistico-1433682'>Error en Google Maps convierte un pueblo remoto en un imprevisto destino turístico</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/error-google-maps-convierte-pueblo-remoto-imprevisto-destino-turistico-1433682' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-error-4279281.jpg?tf=1200x' alt='Error en Google Maps convierte un pueblo remoto en un imprevisto destino turístico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-1433583'>Ni Nosferatu ni Smile 2, el thriller de terror más salvaje de los últimos tiempos es esta obra danesa de Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-1433583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-4279102.jpg?tf=1200x' alt='Ni Nosferatu ni Smile 2, el thriller de terror más salvaje de los últimos tiempos es esta obra danesa de Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-1433657'>Hacker logra reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-1433657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-4279267.jpg?tf=1200x' alt='Hacker logra reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/linux-expertos-recomiendan-migrar-pc-no-puede-actualizar-windows-11-1433664'>Linux al rescate: expertos recomiendan migrar si tu PC no puede actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/linux-expertos-recomiendan-migrar-pc-no-puede-actualizar-windows-11-1433664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-linux-4279266.jpg?tf=1200x' alt='Linux al rescate: expertos recomiendan migrar si tu PC no puede actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tiene-mejores-criticas-oppenheimer-interstellar-pero-casi-nadie-conoce-joya-ciencia-ficcion-prime-video-1433594'>Tiene mejores críticas que Oppenheimer o Interstellar, pero casi nadie conoce esta joya de la ciencia ficción de Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tiene-mejores-criticas-oppenheimer-interstellar-pero-casi-nadie-conoce-joya-ciencia-ficcion-prime-video-1433594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/man-earth-4279184.jpg?tf=1200x' alt='Tiene mejores críticas que Oppenheimer o Interstellar, pero casi nadie conoce esta joya de la ciencia ficción de Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/caro-cambiar-motor-completo-coche-baterias-coche-electrico-1433601'>Qué es más caro: ¿cambiar el motor completo de un coche o las baterías de un coche eléctrico?</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/caro-cambiar-motor-completo-coche-baterias-coche-electrico-1433601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargar-coche-electrico-4279135.jpg?tf=1200x' alt='Qué es más caro: ¿cambiar el motor completo de un coche o las baterías de un coche eléctrico?' />
     </a>
 </div>
 
