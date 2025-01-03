@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/unicas-11-peliculas-recibieron-puntuacion-perfecta-2024-seguramente-nunca-has-escuchado-hablar-1433602'>Las únicas 11 películas que recibieron la puntuación perfecta en 2024 y de las que seguramente nunca has escuchado hablar</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/unicas-11-peliculas-recibieron-puntuacion-perfecta-2024-seguramente-nunca-has-escuchado-hablar-1433602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/joven-jim-henson-trabajando-pelicula-rana-gustavo-4279169.jpg?tf=1200x' alt='Las únicas 11 películas que recibieron la puntuación perfecta en 2024 y de las que seguramente nunca has escuchado hablar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-2025-adios-cambio-huso-horario-espana-1433589'>Cambio de hora 2025: adiós al cambio de huso horario en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cambio-hora-2025-adios-cambio-huso-horario-espana-1433589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cambio-horario-espana-4279111.jpg?tf=1200x' alt='Cambio de hora 2025: adiós al cambio de huso horario en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ahora-estafadores-telegram-tendran-complicado-enganarte-1433632'>Ahora los estafadores de Telegram lo tendrán más complicado para engañarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ahora-estafadores-telegram-tendran-complicado-enganarte-1433632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-estafadores-telegram-tendran-complicado-enganarte-4279234.jpg?tf=1200x' alt='Ahora los estafadores de Telegram lo tendrán más complicado para engañarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/encuentra-coche-james-bond-contenedor-menos-150-euros-vende-1-millon-comprador-elon-musk-1433597'>Encuentra el coche de James Bond en un contenedor de menos de 150 euros y lo vende por 1 millón: ¿Su comprador? Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/encuentra-coche-james-bond-contenedor-menos-150-euros-vende-1-millon-comprador-elon-musk-1433597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/coche-james-bond-4279151.jpg?tf=1200x' alt='Encuentra el coche de James Bond en un contenedor de menos de 150 euros y lo vende por 1 millón: ¿Su comprador? Elon Musk' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/curioso-motivo-televisores-teletexto-estan-prohibidos-carceles-espanolas-1433576'>El curioso motivo por el que los televisores con Teletexto están prohibidos en las cárceles españolas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/curioso-motivo-televisores-teletexto-estan-prohibidos-carceles-espanolas-1433576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/presos-viendo-teletexto-4279123.jpg?tf=1200x' alt='El curioso motivo por el que los televisores con Teletexto están prohibidos en las cárceles españolas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-todos-fin-semana-mejores-peliculas-series-puedes-ver-dos-dias-1433564'>Apple TV+ es gratis para todos este fin de semana: las mejores películas y series que puedes ver en dos días</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-todos-fin-semana-mejores-peliculas-series-puedes-ver-dos-dias-1433564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg?tf=1200x' alt='Apple TV+ es gratis para todos este fin de semana: las mejores películas y series que puedes ver en dos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-solucionara-fin-gran-talon-aquiles-moviles-apple-1433603'>El iPhone 17 solucionará al fin el gran talón de Aquiles de los móviles de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-solucionara-fin-gran-talon-aquiles-moviles-apple-1433603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-17-solucionara-fin-gran-talon-aquiles-moviles-apple-4279156.jpg?tf=1200x' alt='El iPhone 17 solucionará al fin el gran talón de Aquiles de los móviles de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes para todos sus clientes' />
     </a>
 </div>
 
