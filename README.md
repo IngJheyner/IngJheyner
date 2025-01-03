@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-1433697'>Más pruebas de que el mayor fan de Elon Musk, Adrian Dittmann, es el propio Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-1433697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-4279293.jpg?tf=1200x' alt='Más pruebas de que el mayor fan de Elon Musk, Adrian Dittmann, es el propio Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-podria-tener-gran-inesperada-protagonista-nintendo-switch-2-1433678'>CES 2025 podría tener una gran e inesperada protagonista: Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-podria-tener-gran-inesperada-protagonista-nintendo-switch-2-1433678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-podria-tener-gran-inesperada-protagonista-nintendo-switch-2-4279290.jpg?tf=1200x' alt='CES 2025 podría tener una gran e inesperada protagonista: Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/prometes-juramento-siri-ha-activado-conversacion-privada-apple-te-pagara-100-dolares-1433691'>Si prometes bajo juramento que Siri se ha activado en una conversación privada, Apple te pagará hasta 100 dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/prometes-juramento-siri-ha-activado-conversacion-privada-apple-te-pagara-100-dolares-1433691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244639.jpg?tf=1200x' alt='Si prometes bajo juramento que Siri se ha activado en una conversación privada, Apple te pagará hasta 100 dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/menos-desarrollador-logra-windows-11-funcione-solo-184-mb-ram-1433683'>¿Menos es más? Un desarrollador logra que Windows 11 funcione con solo 184 MB de RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/menos-desarrollador-logra-windows-11-funcione-solo-184-mb-ram-1433683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-4264692.jpg?tf=1200x' alt='¿Menos es más? Un desarrollador logra que Windows 11 funcione con solo 184 MB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/error-google-maps-convierte-pueblo-remoto-imprevisto-destino-turistico-1433682'>Error en Google Maps convierte un pueblo remoto en un imprevisto destino turístico</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/error-google-maps-convierte-pueblo-remoto-imprevisto-destino-turistico-1433682' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-error-4279281.jpg?tf=1200x' alt='Error en Google Maps convierte un pueblo remoto en un imprevisto destino turístico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-1433583'>Ni Nosferatu ni Smile 2, el thriller de terror más salvaje de los últimos tiempos es esta obra danesa de Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-1433583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-4279102.jpg?tf=1200x' alt='Ni Nosferatu ni Smile 2, el thriller de terror más salvaje de los últimos tiempos es esta obra danesa de Prime Video' />
     </a>
 </div>
 
