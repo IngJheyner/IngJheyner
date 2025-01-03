@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arenero-autolimpiable-avanzado-da-sorpresa-cuesta-120-euros-menos-amazon-1429712'>El arenero autolimpiable más avanzado da la sorpresa y cuesta 120 euros menos en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/arenero-autolimpiable-avanzado-da-sorpresa-cuesta-120-euros-menos-amazon-1429712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/petkit-pura-max-2-4272903.jpg?tf=1200x' alt='El arenero autolimpiable más avanzado da la sorpresa y cuesta 120 euros menos en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-prompts-secreto-vecino-dominar-chatgpt-tener-ni-idea-1433529'>Biblioteca de prompts: el secreto de tu vecino para dominar ChatGPT sin tener ni idea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-prompts-secreto-vecino-dominar-chatgpt-tener-ni-idea-1433529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/biblioteca-prompts-anthropic-4279043.jpg?tf=1200x' alt='Biblioteca de prompts: el secreto de tu vecino para dominar ChatGPT sin tener ni idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-fechas-novedades-esperamos-mayor-feria-tecnologia-mundo-1433513'>CES 2025: fechas, novedades y qué esperamos de la mayor feria de tecnología del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-fechas-novedades-esperamos-mayor-feria-tecnologia-mundo-1433513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-4279029.jpg?tf=1200x' alt='CES 2025: fechas, novedades y qué esperamos de la mayor feria de tecnología del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/listo-cambio-2025-como-steve-jobs-teoria-vida-pueden-cambiarte-ano-1433503'>¿Listo para un cambio en 2025? Así es como Steve Jobs y su teoría de vida pueden cambiarte el año</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/listo-cambio-2025-como-steve-jobs-teoria-vida-pueden-cambiarte-ano-1433503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='¿Listo para un cambio en 2025? Así es como Steve Jobs y su teoría de vida pueden cambiarte el año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espana-punto-mira-2025-ciberataque-masivo-podria-llevar-ruina-pais-1433495'>España en el punto de mira en 2025: un ciberataque masivo podría llevar a la ruina el país</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/espana-punto-mira-2025-ciberataque-masivo-podria-llevar-ruina-pais-1433495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ciberataque-espana-4279016.jpg?tf=1200x' alt='España en el punto de mira en 2025: un ciberataque masivo podría llevar a la ruina el país' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diez-cosas-puedes-hacer-copilot-ai-microsoft-2025-ya-usan-milenials-trabajos-1433486'>Diez cosas que puedes hacer con Copilot AI de Microsoft este 2025 y que ya usan los milenials para sus trabajos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/diez-cosas-puedes-hacer-copilot-ai-microsoft-2025-ya-usan-milenials-trabajos-1433486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4256794.jpg?tf=1200x' alt='Diez cosas que puedes hacer con Copilot AI de Microsoft este 2025 y que ya usan los milenials para sus trabajos' />
     </a>
 </div>
 
