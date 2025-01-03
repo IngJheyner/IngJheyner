@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arenero-autolimpiable-avanzado-da-sorpresa-cuesta-120-euros-menos-amazon-1429712'>El arenero autolimpiable más avanzado da la sorpresa y cuesta 120 euros menos en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/arenero-autolimpiable-avanzado-da-sorpresa-cuesta-120-euros-menos-amazon-1429712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/petkit-pura-max-2-4272903.jpg?tf=1200x' alt='El arenero autolimpiable más avanzado da la sorpresa y cuesta 120 euros menos en Amazon' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/captcha-loco-tienes-eliminar-tres-enemigos-videojuego-clasico-saber-eres-humano-1433485'>El "Captcha" más loco: tienes que eliminar tres enemigos de este videojuego clásico para saber si eres humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/captcha-loco-tienes-eliminar-tres-enemigos-videojuego-clasico-saber-eres-humano-1433485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/captcha-loco-tienes-eliminar-tres-enemigos-videojuego-clasico-saber-eres-humano-4278991.jpg?tf=1200x' alt='El "Captcha" más loco: tienes que eliminar tres enemigos de este videojuego clásico para saber si eres humano' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-prompts-secreto-vecino-dominar-chatgpt-tener-ni-idea-1433529'>Biblioteca de prompts: el secreto de tu vecino para dominar ChatGPT sin tener ni idea</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-prompts-secreto-vecino-dominar-chatgpt-tener-ni-idea-1433529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/biblioteca-prompts-anthropic-4279043.jpg?tf=1200x' alt='Biblioteca de prompts: el secreto de tu vecino para dominar ChatGPT sin tener ni idea' />
+    <h4><a href='https://computerhoy.20minutos.es/ni-madre-ni-abuela-contacto-whatsapp-no-deberia-faltar-agenda-movil-1433540'>Ni tu madre ni tu abuela, este es el contacto de WhatsApp que no debería faltar en la agenda de tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ni-madre-ni-abuela-contacto-whatsapp-no-deberia-faltar-agenda-movil-1433540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcador-llamadas-whatsapp-iphone-4273347.jpg?tf=1200x' alt='Ni tu madre ni tu abuela, este es el contacto de WhatsApp que no debería faltar en la agenda de tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-fechas-novedades-esperamos-mayor-feria-tecnologia-mundo-1433513'>CES 2025: fechas, novedades y qué esperamos de la mayor feria de tecnología del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-fechas-novedades-esperamos-mayor-feria-tecnologia-mundo-1433513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-4279029.jpg?tf=1200x' alt='CES 2025: fechas, novedades y qué esperamos de la mayor feria de tecnología del mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-llamada-perdida-sigue-activo-2025-cuidado-ves-estos-prefijos-movil-1433516'>El timo de la llamada perdida sigue activo en 2025: cuidado si ves estos prefijos en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-llamada-perdida-sigue-activo-2025-cuidado-ves-estos-prefijos-movil-1433516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-4260044.jpg?tf=1200x' alt='El timo de la llamada perdida sigue activo en 2025: cuidado si ves estos prefijos en tu móvil' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/manera-rapida-limpiar-historial-whatsapp-2025-1433518'>Esta es la mejor manera (y rápida) de limpiar el historial de WhatsApp y empezar 2025 con menos chats en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/manera-rapida-limpiar-historial-whatsapp-2025-1433518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-manera-rapida-limpiar-historial-whastapp-empezar-2025-menos-chats-movil-4279007.jpg?tf=1200x' alt='Esta es la mejor manera (y rápida) de limpiar el historial de WhatsApp y empezar 2025 con menos chats en tu móvil' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/pueblo-tiene-cobertura-5g-telefonica-1433492'>¿Tu pueblo tiene cobertura 5G? Según Telefónica, sí</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/pueblo-tiene-cobertura-5g-telefonica-1433492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pueblo-tiene-cobertura-5g-telefonica-4279047.jpg?tf=1200x' alt='¿Tu pueblo tiene cobertura 5G? Según Telefónica, sí' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/listo-cambio-2025-como-steve-jobs-teoria-vida-pueden-cambiarte-ano-1433503'>¿Listo para un cambio en 2025? Así es como Steve Jobs y su teoría de vida pueden cambiarte el año</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/listo-cambio-2025-como-steve-jobs-teoria-vida-pueden-cambiarte-ano-1433503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='¿Listo para un cambio en 2025? Así es como Steve Jobs y su teoría de vida pueden cambiarte el año' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-2025-te-espera-nuevo-ano-usas-ver-futbol-gratis-1433539'>IPTV 2025: esto es lo que te espera en el nuevo año si las usas para ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/iptv-2025-te-espera-nuevo-ano-usas-ver-futbol-gratis-1433539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-2025-4279071.jpg?tf=1200x' alt='IPTV 2025: esto es lo que te espera en el nuevo año si las usas para ver el fútbol gratis' />
     </a>
 </div>
 
