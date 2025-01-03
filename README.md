@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/encuentra-coche-james-bond-contenedor-menos-150-euros-vende-1-millon-comprador-elon-musk-1433597'>Encuentra el coche de James Bond en un contenedor de menos de 150 euros y lo vende por 1 millón: ¿Su comprador? Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/encuentra-coche-james-bond-contenedor-menos-150-euros-vende-1-millon-comprador-elon-musk-1433597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/coche-james-bond-4279151.jpg?tf=1200x' alt='Encuentra el coche de James Bond en un contenedor de menos de 150 euros y lo vende por 1 millón: ¿Su comprador? Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/curioso-motivo-televisores-teletexto-estan-prohibidos-carceles-espanolas-1433576'>El curioso motivo por el que los televisores con Teletexto están prohibidos en las cárceles españolas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/curioso-motivo-televisores-teletexto-estan-prohibidos-carceles-espanolas-1433576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/presos-viendo-teletexto-4279123.jpg?tf=1200x' alt='El curioso motivo por el que los televisores con Teletexto están prohibidos en las cárceles españolas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-todos-fin-semana-mejores-peliculas-series-puedes-ver-dos-dias-1433564'>Apple TV+ es gratis para todos este fin de semana: las mejores películas y series que puedes ver en dos días</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-todos-fin-semana-mejores-peliculas-series-puedes-ver-dos-dias-1433564' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg?tf=1200x' alt='Apple TV+ es gratis para todos este fin de semana: las mejores películas y series que puedes ver en dos días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes para todos sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-especificaciones-5070-ti-5070-1432519'>La Nvidia RTX 5090 al descubierto: revelan su diseño y las especificaciones de la 5070 Ti y 5070</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-especificaciones-5070-ti-5070-1432519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-4277550.jpg?tf=1200x' alt='La Nvidia RTX 5090 al descubierto: revelan su diseño y las especificaciones de la 5070 Ti y 5070' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-dira-adios-siempre-iphone-1433593'>Giro de 180 grados en Apple, dirá adiós para siempre a los iPhone SE</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-dira-adios-siempre-iphone-1433593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-apple-dira-adios-siempre-iphone-4279114.jpg?tf=1200x' alt='Giro de 180 grados en Apple, dirá adiós para siempre a los iPhone SE' />
     </a>
 </div>
 
