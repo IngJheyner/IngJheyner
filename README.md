@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-1433583'>Ni Nosferatu ni Smile 2, el thriller de terror más salvaje de los últimos tiempos es esta obra danesa de Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-1433583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-nosferatu-ni-smile-2-thriller-terror-salvaje-ultimos-tiempos-obra-danesa-prime-video-4279102.jpg?tf=1200x' alt='Ni Nosferatu ni Smile 2, el thriller de terror más salvaje de los últimos tiempos es esta obra danesa de Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-1433657'>Hacker logra reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-1433657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-4279267.jpg?tf=1200x' alt='Hacker logra reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/linux-expertos-recomiendan-migrar-pc-no-puede-actualizar-windows-11-1433664'>Linux al rescate: expertos recomiendan migrar si tu PC no puede actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/linux-expertos-recomiendan-migrar-pc-no-puede-actualizar-windows-11-1433664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-linux-4279266.jpg?tf=1200x' alt='Linux al rescate: expertos recomiendan migrar si tu PC no puede actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tiene-mejores-criticas-oppenheimer-interstellar-pero-casi-nadie-conoce-joya-ciencia-ficcion-prime-video-1433594'>Tiene mejores críticas que Oppenheimer o Interstellar, pero casi nadie conoce esta joya de la ciencia ficción de Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/tiene-mejores-criticas-oppenheimer-interstellar-pero-casi-nadie-conoce-joya-ciencia-ficcion-prime-video-1433594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/man-earth-4279184.jpg?tf=1200x' alt='Tiene mejores críticas que Oppenheimer o Interstellar, pero casi nadie conoce esta joya de la ciencia ficción de Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/caro-cambiar-motor-completo-coche-baterias-coche-electrico-1433601'>Qué es más caro: ¿cambiar el motor completo de un coche o las baterías de un coche eléctrico?</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/caro-cambiar-motor-completo-coche-baterias-coche-electrico-1433601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargar-coche-electrico-4279135.jpg?tf=1200x' alt='Qué es más caro: ¿cambiar el motor completo de un coche o las baterías de un coche eléctrico?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/unicas-11-peliculas-recibieron-puntuacion-perfecta-2024-seguramente-nunca-has-escuchado-hablar-1433602'>Las únicas 11 películas que recibieron la puntuación perfecta en 2024 y de las que seguramente nunca has escuchado hablar</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/unicas-11-peliculas-recibieron-puntuacion-perfecta-2024-seguramente-nunca-has-escuchado-hablar-1433602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/joven-jim-henson-trabajando-pelicula-rana-gustavo-4279169.jpg?tf=1200x' alt='Las únicas 11 películas que recibieron la puntuación perfecta en 2024 y de las que seguramente nunca has escuchado hablar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cambio-hora-2025-adios-cambio-huso-horario-espana-1433589'>Cambio de hora 2025: adiós al cambio de huso horario en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cambio-hora-2025-adios-cambio-huso-horario-espana-1433589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cambio-horario-espana-4279111.jpg?tf=1200x' alt='Cambio de hora 2025: adiós al cambio de huso horario en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ahora-estafadores-telegram-tendran-complicado-enganarte-1433632'>Ahora los estafadores de Telegram lo tendrán más complicado para engañarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ahora-estafadores-telegram-tendran-complicado-enganarte-1433632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-estafadores-telegram-tendran-complicado-enganarte-4279234.jpg?tf=1200x' alt='Ahora los estafadores de Telegram lo tendrán más complicado para engañarte' />
     </a>
 </div>
 
