@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/manera-rapida-limpiar-historial-whatsapp-2025-1433518'>Esta es la mejor manera (y rápida) de limpiar el historial de WhatsApp y empezar 2025 con menos chats en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/manera-rapida-limpiar-historial-whatsapp-2025-1433518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-manera-rapida-limpiar-historial-whastapp-empezar-2025-menos-chats-movil-4279007.jpg?tf=1200x' alt='Esta es la mejor manera (y rápida) de limpiar el historial de WhatsApp y empezar 2025 con menos chats en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/listo-cambio-2025-como-steve-jobs-teoria-vida-pueden-cambiarte-ano-1433503'>¿Listo para un cambio en 2025? Así es como Steve Jobs y su teoría de vida pueden cambiarte el año</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/listo-cambio-2025-como-steve-jobs-teoria-vida-pueden-cambiarte-ano-1433503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/secreto-detras-exito-apple-sabiduria-steve-jobs-heredo-padre-4251622.jpg?tf=1200x' alt='¿Listo para un cambio en 2025? Así es como Steve Jobs y su teoría de vida pueden cambiarte el año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/espana-punto-mira-2025-ciberataque-masivo-podria-llevar-ruina-pais-1433495'>España en el punto de mira en 2025: un ciberataque masivo podría llevar a la ruina el país</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/espana-punto-mira-2025-ciberataque-masivo-podria-llevar-ruina-pais-1433495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ciberataque-espana-4279016.jpg?tf=1200x' alt='España en el punto de mira en 2025: un ciberataque masivo podría llevar a la ruina el país' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/diez-cosas-puedes-hacer-copilot-ai-microsoft-2025-ya-usan-milenials-trabajos-1433486'>Diez cosas que puedes hacer con Copilot AI de Microsoft este 2025 y que ya usan los milenials para sus trabajos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/diez-cosas-puedes-hacer-copilot-ai-microsoft-2025-ya-usan-milenials-trabajos-1433486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4256794.jpg?tf=1200x' alt='Diez cosas que puedes hacer con Copilot AI de Microsoft este 2025 y que ya usan los milenials para sus trabajos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-685-computer-hoy-1430885'>¡Ya está en tu quiosco el número 685 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-685-computer-hoy-1430885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-685-4275289.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 685 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/expertos-advierten-generacion-z-estan-perdiendo-escritura-mano-1433484'>Expertos advierten a la generación Z: "Están perdiendo una habilidad que la humanidad ha tenido durante 5.500 años"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/expertos-advierten-generacion-z-estan-perdiendo-escritura-mano-1433484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-advierten-generacion-z-estan-perdiendo-habilidad-humanidad-ha-tenido-durante-5500-anos-4278982.jpg?tf=1200x' alt='Expertos advierten a la generación Z: "Están perdiendo una habilidad que la humanidad ha tenido durante 5.500 años"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-presa-tres-gargantas-china-ralentizar-rotacion-tierra-1433469'>Científicos de la NASA lo confirman: China tiene un arma natural tan poderosa que es capaz de ralentizar la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-presa-tres-gargantas-china-ralentizar-rotacion-tierra-1433469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-nasa-confirman-china-tiene-arma-natural-tan-poderosa-capaz-ralentizar-tierra-4278953.jpg?tf=1200x' alt='Científicos de la NASA lo confirman: China tiene un arma natural tan poderosa que es capaz de ralentizar la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/6-tendencias-inteligencia-artificial-veremos-2025-te-afectaran-dia-dia-1430914'>6 tendencias en inteligencia artificial que veremos en 2025 y te afectarán en tu día a día</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/6-tendencias-inteligencia-artificial-veremos-2025-te-afectaran-dia-dia-1430914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-2025-4275285.jpg?tf=1200x' alt='6 tendencias en inteligencia artificial que veremos en 2025 y te afectarán en tu día a día' />
     </a>
 </div>
 
