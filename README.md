@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes para todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-especificaciones-5070-ti-5070-1432519'>La Nvidia RTX 5090 al descubierto: revelan su diseño y las especificaciones de la 5070 Ti y 5070</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-rtx-5090-especificaciones-5070-ti-5070-1432519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nvidia-rtx-5090-descubierto-nuevas-filtraciones-revelan-diseno-especificaciones-5070-ti-5070-4277550.jpg?tf=1200x' alt='La Nvidia RTX 5090 al descubierto: revelan su diseño y las especificaciones de la 5070 Ti y 5070' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-dira-adios-siempre-iphone-1433593'>Giro de 180 grados en Apple, dirá adiós para siempre a los iPhone SE</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-dira-adios-siempre-iphone-1433593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-apple-dira-adios-siempre-iphone-4279114.jpg?tf=1200x' alt='Giro de 180 grados en Apple, dirá adiós para siempre a los iPhone SE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-sera-potente-ps4-pro-experto-digital-foundry-tiene-claro-1433571'>¿Nintendo Switch 2 será más potente que PS4 Pro? Un experto de Digital Foundry lo tiene claro</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-sera-potente-ps4-pro-experto-digital-foundry-tiene-claro-1433571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3278554.jpg?tf=1200x' alt='¿Nintendo Switch 2 será más potente que PS4 Pro? Un experto de Digital Foundry lo tiene claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-descubren-nudos-matematicos-podrian-ser-clave-estabilizar-computadoras-cuanticas-1433506'>Investigadores descubren que los nudos matemáticos podrían ser la clave para estabilizar a las computadoras cuánticas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/investigadores-descubren-nudos-matematicos-podrian-ser-clave-estabilizar-computadoras-cuanticas-1433506' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nudo-cuantico-4279067.jpg?tf=1200x' alt='Investigadores descubren que los nudos matemáticos podrían ser la clave para estabilizar a las computadoras cuánticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-sera-gran-ano-hablar-maquina-experto-ia-explica-como-hay-utilizar-chatgpt-obtener-respuesta-quieres-1433555'>"El 2025 será un gran año de hablar a la máquina": un experto en IA explica cómo hay que utilizar ChatGPT para obtener la respuesta que quieres</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/2025-sera-gran-ano-hablar-maquina-experto-ia-explica-como-hay-utilizar-chatgpt-obtener-respuesta-quieres-1433555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/chatgpt-4256838.jpg?tf=1200x' alt='"El 2025 será un gran año de hablar a la máquina": un experto en IA explica cómo hay que utilizar ChatGPT para obtener la respuesta que quieres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/captcha-loco-tienes-eliminar-tres-enemigos-videojuego-clasico-saber-eres-humano-1433485'>El "Captcha" más loco: tienes que eliminar tres enemigos de este videojuego clásico para saber si eres humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/captcha-loco-tienes-eliminar-tres-enemigos-videojuego-clasico-saber-eres-humano-1433485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/captcha-loco-tienes-eliminar-tres-enemigos-videojuego-clasico-saber-eres-humano-4278991.jpg?tf=1200x' alt='El "Captcha" más loco: tienes que eliminar tres enemigos de este videojuego clásico para saber si eres humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ni-madre-ni-abuela-contacto-whatsapp-no-deberia-faltar-agenda-movil-1433540'>Ni tu madre ni tu abuela, este es el contacto de WhatsApp que no debería faltar en la agenda de tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ni-madre-ni-abuela-contacto-whatsapp-no-deberia-faltar-agenda-movil-1433540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/marcador-llamadas-whatsapp-iphone-4273347.jpg?tf=1200x' alt='Ni tu madre ni tu abuela, este es el contacto de WhatsApp que no debería faltar en la agenda de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-llamada-perdida-sigue-activo-2025-cuidado-ves-estos-prefijos-movil-1433516'>El timo de la llamada perdida sigue activo en 2025: cuidado si ves estos prefijos en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-llamada-perdida-sigue-activo-2025-cuidado-ves-estos-prefijos-movil-1433516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/estafa-bizum-alerta-guardia-civil-mucho-cuidado-no-caer-trampa-4260044.jpg?tf=1200x' alt='El timo de la llamada perdida sigue activo en 2025: cuidado si ves estos prefijos en tu móvil' />
     </a>
 </div>
 
