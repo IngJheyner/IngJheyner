@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/maxima-alerta-estafa-paquete-amazon-no-pedido-ni-te-ocurra-hacer-1433340'>Máxima alerta sobre la estafa del paquete de Amazon no pedido: "Ni se te ocurra hacer esto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/maxima-alerta-estafa-paquete-amazon-no-pedido-ni-te-ocurra-hacer-1433340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/amazon-4244559.jpg?tf=1200x' alt='Máxima alerta sobre la estafa del paquete de Amazon no pedido: "Ni se te ocurra hacer esto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-1433344'>WhatsApp: compartir pantallazos de tus conversaciones podría meterte en un buen lío, deja de hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-1433344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-compartir-pantallazos-conversaciones-podria-meterte-buen-lio-deja-hacerlo-4278757.jpg?tf=1200x' alt='WhatsApp: compartir pantallazos de tus conversaciones podría meterte en un buen lío, deja de hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-chatgpt-gemini-apple-intelligence-grok-1433456'>El año de la IA: cómo nos ha cambiado la vida ChatGPT, Gemini y Apple Intelligence y lo que viene para este 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-2025-chatgpt-gemini-apple-intelligence-grok-1433456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ano-ia-como-nos-ha-cambiado-vida-chatgpt-gemini-apple-intelligence-viene-2025-4278833.jpg?tf=1200x' alt='El año de la IA: cómo nos ha cambiado la vida ChatGPT, Gemini y Apple Intelligence y lo que viene para este 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/numero-pin-tarjeta-credito-lista-podrias-estar-riesgo-ser-victima-robo-1433444'>¿El número PIN de tu tarjeta de crédito está en esta lista? Podrías estar en riesgo de ser víctima de un robo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/numero-pin-tarjeta-credito-lista-podrias-estar-riesgo-ser-victima-robo-1433444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tarjeta-credito-4278925.jpg?tf=1200x' alt='¿El número PIN de tu tarjeta de crédito está en esta lista? Podrías estar en riesgo de ser víctima de un robo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/expertos-revelan-capacidad-freidoras-aire-no-parece-1433443'>Expertos revelan que la capacidad de las freidoras de aire no es lo que parece</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/expertos-revelan-capacidad-freidoras-aire-no-parece-1433443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/freidora-aire-4015948.jpg?tf=1200x' alt='Expertos revelan que la capacidad de las freidoras de aire no es lo que parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/estos-son-fondos-pantalla-ineditos-windows-11-microsoft-no-quiso-vieras-1433442'>Estos son los fondos de pantalla inéditos de Windows 11 que Microsoft no quiso que vieras</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/estos-son-fondos-pantalla-ineditos-windows-11-microsoft-no-quiso-vieras-1433442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/fondos-pantalla-ineditos-windows-11-4278923.jpg?tf=1200x' alt='Estos son los fondos de pantalla inéditos de Windows 11 que Microsoft no quiso que vieras' />
     </a>
 </div>
 
