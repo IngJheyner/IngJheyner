@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diez-cosas-puedes-hacer-copilot-ai-microsoft-2025-ya-usan-milenials-trabajos-1433486'>Diez cosas que puedes hacer con Copilot AI de Microsoft este 2025 y que ya usan los milenials para sus trabajos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/diez-cosas-puedes-hacer-copilot-ai-microsoft-2025-ya-usan-milenials-trabajos-1433486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/copilot-ai-4256794.jpg?tf=1200x' alt='Diez cosas que puedes hacer con Copilot AI de Microsoft este 2025 y que ya usan los milenials para sus trabajos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-685-computer-hoy-1430885'>¡Ya está en tu quiosco el número 685 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-685-computer-hoy-1430885' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/computer-hoy-685-4275289.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 685 de Computer Hoy!' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/6-tendencias-inteligencia-artificial-veremos-2025-te-afectaran-dia-dia-1430914'>6 tendencias en inteligencia artificial que veremos en 2025 y te afectarán en tu día a día</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/6-tendencias-inteligencia-artificial-veremos-2025-te-afectaran-dia-dia-1430914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-artificial-2025-4275285.jpg?tf=1200x' alt='6 tendencias en inteligencia artificial que veremos en 2025 y te afectarán en tu día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355'>¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pagar-utilizar-windows-10-2025-estas-son-todas-posibles-soluciones-1433355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/seran-ultimos-abandonar-windows-10-tienen-muchos-motivos-ello-4246187.jpg?tf=1200x' alt='¿Pagar por utilizar Windows 10 en 2025? Estas son todas las posibles soluciones' />
     </a>
 </div>
 
