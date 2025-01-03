@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-todos-fin-semana-mejores-peliculas-series-puedes-ver-dos-dias-1433564'>Apple TV+ es gratis para todos este fin de semana: las mejores películas y series que puedes ver en dos días</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-todos-fin-semana-mejores-peliculas-series-puedes-ver-dos-dias-1433564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/apple-tv-apple-music-apple-one-acaban-subir-precio-espana-2852457.jpg?tf=1200x' alt='Apple TV+ es gratis para todos este fin de semana: las mejores películas y series que puedes ver en dos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-solucionara-fin-gran-talon-aquiles-moviles-apple-1433603'>El iPhone 17 solucionará al fin el gran talón de Aquiles de los móviles de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-solucionara-fin-gran-talon-aquiles-moviles-apple-1433603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-17-solucionara-fin-gran-talon-aquiles-moviles-apple-4279156.jpg?tf=1200x' alt='El iPhone 17 solucionará al fin el gran talón de Aquiles de los móviles de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes para todos sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-todos-clientes-1433573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes para todos sus clientes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-dira-adios-siempre-iphone-1433593'>Giro de 180 grados en Apple, dirá adiós para siempre a los iPhone SE</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-dira-adios-siempre-iphone-1433593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-apple-dira-adios-siempre-iphone-4279114.jpg?tf=1200x' alt='Giro de 180 grados en Apple, dirá adiós para siempre a los iPhone SE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-sera-potente-ps4-pro-experto-digital-foundry-tiene-claro-1433571'>¿Nintendo Switch 2 será más potente que PS4 Pro? Un experto de Digital Foundry lo tiene claro</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-sera-potente-ps4-pro-experto-digital-foundry-tiene-claro-1433571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/nintendo-switch-2-3278554.jpg?tf=1200x' alt='¿Nintendo Switch 2 será más potente que PS4 Pro? Un experto de Digital Foundry lo tiene claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-descubren-nudos-matematicos-podrian-ser-clave-estabilizar-computadoras-cuanticas-1433506'>Investigadores descubren que los nudos matemáticos podrían ser la clave para estabilizar a las computadoras cuánticas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/investigadores-descubren-nudos-matematicos-podrian-ser-clave-estabilizar-computadoras-cuanticas-1433506' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nudo-cuantico-4279067.jpg?tf=1200x' alt='Investigadores descubren que los nudos matemáticos podrían ser la clave para estabilizar a las computadoras cuánticas' />
     </a>
 </div>
 
