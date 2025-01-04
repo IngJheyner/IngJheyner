@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-1433694'>Cómo borrar la papelera de WhatsApp para empezar 2025 libre de lo que ya no necesitas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-1433694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-4279302.jpg?tf=1200x' alt='Cómo borrar la papelera de WhatsApp para empezar 2025 libre de lo que ya no necesitas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-1433697'>Más pruebas de que el mayor fan de Elon Musk, Adrian Dittmann, es el propio Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/life/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-1433697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-4279293.jpg?tf=1200x' alt='Más pruebas de que el mayor fan de Elon Musk, Adrian Dittmann, es el propio Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/misterioso-anillo-espacial-aterriza-aldea-kenia-1433684'>Un misterioso anillo espacial aterriza en una aldea de Kenia</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/misterioso-anillo-espacial-aterriza-aldea-kenia-1433684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/misterioso-anillo-espacial-aterriza-aldea-kenia-4279283.jpg?tf=1200x' alt='Un misterioso anillo espacial aterriza en una aldea de Kenia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/menos-desarrollador-logra-windows-11-funcione-solo-184-mb-ram-1433683'>¿Menos es más? Un desarrollador logra que Windows 11 funcione con solo 184 MB de RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/menos-desarrollador-logra-windows-11-funcione-solo-184-mb-ram-1433683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/windows-tiny11-actualiza-24h2-novedades-windows-miniatura-todos-4264692.jpg?tf=1200x' alt='¿Menos es más? Un desarrollador logra que Windows 11 funcione con solo 184 MB de RAM' />
     </a>
 </div>
 
