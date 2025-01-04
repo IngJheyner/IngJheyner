@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776'>Google Chrome es cada vez más popular pero Edge es el que más crece en el último año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/navegadores-4279392.jpg?tf=1200x' alt='Google Chrome es cada vez más popular pero Edge es el que más crece en el último año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/correo-electronico-podria-no-ser-seguro-descubren-millones-servidores-cifrado-habilitado-1433775'>Tu correo electrónico podría no ser seguro: descubren millones de servidores sin cifrado habilitado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/correo-electronico-podria-no-ser-seguro-descubren-millones-servidores-cifrado-habilitado-1433775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/phishing-email-4279390.jpg?tf=1200x' alt='Tu correo electrónico podría no ser seguro: descubren millones de servidores sin cifrado habilitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623'>Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ingles-chatgpt-4279208.jpg?tf=1200x' alt='Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-nueva-serie-samsung-galaxy-s25-podria-superar-apple-intelligence-1433754'>La inteligencia artificial de la nueva serie Samsung Galaxy S25 podría superar a Apple Intelligence</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-nueva-serie-samsung-galaxy-s25-podria-superar-apple-intelligence-1433754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/galaxy-ai-4279372.jpg?tf=1200x' alt='La inteligencia artificial de la nueva serie Samsung Galaxy S25 podría superar a Apple Intelligence' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/version-airpods-acaba-recibir-ios-18-funcion-valorada-cientos-euros-1433614'>Esta versión de AirPods acaba de recibir con iOS 18 una función valorada en cientos de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/version-airpods-acaba-recibir-ios-18-funcion-valorada-cientos-euros-1433614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/airpods-4279200.jpg?tf=1200x' alt='Esta versión de AirPods acaba de recibir con iOS 18 una función valorada en cientos de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307'>Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-instalar-stremio-amazon-fire-tv-gestionar-todas-series-peliculas-solo-lugar-4268730.jpg?tf=1200x' alt='Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar' />
     </a>
 </div>
 
