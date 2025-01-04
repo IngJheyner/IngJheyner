@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-watch-macbook-pro-ya-son-pasado-apple-1433778'>Este Apple Watch y MacBook Pro ya son pasado para Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-watch-macbook-pro-ya-son-pasado-apple-1433778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-watch-macbook-pro-4279394.jpg?tf=1200x' alt='Este Apple Watch y MacBook Pro ya son pasado para Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/estas-dos-aplicaciones-windows-11-podrian-dejar-funcionar-cualquier-momento-1433777'>Estas dos aplicaciones de Windows 11 podrían dejar de funcionar en cualquier momento</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/estas-dos-aplicaciones-windows-11-podrian-dejar-funcionar-cualquier-momento-1433777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuario-enfadado-windows-11-4279393.jpg?tf=1200x' alt='Estas dos aplicaciones de Windows 11 podrían dejar de funcionar en cualquier momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776'>Google Chrome es cada vez más popular pero Edge es el que más crece en el último año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/navegadores-4279392.jpg?tf=1200x' alt='Google Chrome es cada vez más popular pero Edge es el que más crece en el último año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623'>Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ingles-chatgpt-4279208.jpg?tf=1200x' alt='Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-admite-error-suspension-masiva-cuentas-microsoft-rewards-hay-solucion-camino-1433759'>Microsoft admite su error sobre la suspensión masiva de cuentas de Microsoft Rewards: hay una solución en camino</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-admite-error-suspension-masiva-cuentas-microsoft-rewards-hay-solucion-camino-1433759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-rewards-4279377.jpg?tf=1200x' alt='Microsoft admite su error sobre la suspensión masiva de cuentas de Microsoft Rewards: hay una solución en camino' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-nueva-serie-samsung-galaxy-s25-podria-superar-apple-intelligence-1433754'>La inteligencia artificial de la nueva serie Samsung Galaxy S25 podría superar a Apple Intelligence</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-nueva-serie-samsung-galaxy-s25-podria-superar-apple-intelligence-1433754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/galaxy-ai-4279372.jpg?tf=1200x' alt='La inteligencia artificial de la nueva serie Samsung Galaxy S25 podría superar a Apple Intelligence' />
     </a>
 </div>
 
