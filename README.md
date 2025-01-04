@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-1433694'>Cómo borrar la papelera de WhatsApp para empezar 2025 libre de lo que ya no necesitas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-1433694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-4279302.jpg?tf=1200x' alt='Cómo borrar la papelera de WhatsApp para empezar 2025 libre de lo que ya no necesitas' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318'>No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-4270455.jpg?tf=1200x' alt='No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-1433697'>Más pruebas de que el mayor fan de Elon Musk, Adrian Dittmann, es el propio Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-1433697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pruebas-mayor-fan-elon-musk-adrian-dittmann-propio-elon-musk-4279293.jpg?tf=1200x' alt='Más pruebas de que el mayor fan de Elon Musk, Adrian Dittmann, es el propio Elon Musk' />
+    <h4><a href='https://computerhoy.20minutos.es/life/cae-iphone-caja-donativos-templo-no-devuelve-dios-1433707'>Se le cae el iPhone en la caja de donativos, y el templo no se lo devuelve porque "es de Dios"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cae-iphone-caja-donativos-templo-no-devuelve-dios-1433707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cae-iphone-caja-donativos-templo-no-devuelve-porque-dios-4279311.jpg?tf=1200x' alt='Se le cae el iPhone en la caja de donativos, y el templo no se lo devuelve porque "es de Dios"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-podria-tener-gran-inesperada-protagonista-nintendo-switch-2-1433678'>CES 2025 podría tener una gran e inesperada protagonista: Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-podria-tener-gran-inesperada-protagonista-nintendo-switch-2-1433678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-podria-tener-gran-inesperada-protagonista-nintendo-switch-2-4279290.jpg?tf=1200x' alt='CES 2025 podría tener una gran e inesperada protagonista: Nintendo Switch 2' />
+    <h4><a href='https://computerhoy.20minutos.es/life/tintin-popeye-varios-cuadros-salvador-dali-dominio-publico-2025-1433705'>Tintín, Popeye y varios cuadros de Salvador Dalí pasan a dominio público en 2025, pero solo en algunos países</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/tintin-popeye-varios-cuadros-salvador-dali-dominio-publico-2025-1433705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tintin-popeye-mitico-corto-disney-dominio-publico-2025-pero-solo-algunos-paises-4279305.jpg?tf=1200x' alt='Tintín, Popeye y varios cuadros de Salvador Dalí pasan a dominio público en 2025, pero solo en algunos países' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/prometes-juramento-siri-ha-activado-conversacion-privada-apple-te-pagara-100-dolares-1433691'>Si prometes bajo juramento que Siri se ha activado en una conversación privada, Apple te pagará hasta 100 dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/prometes-juramento-siri-ha-activado-conversacion-privada-apple-te-pagara-100-dolares-1433691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244639.jpg?tf=1200x' alt='Si prometes bajo juramento que Siri se ha activado en una conversación privada, Apple te pagará hasta 100 dólares' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mediatek-dimensity-8400-procesador-inteligencia-artificial-dispositivo-1432915'>MediaTek anuncia el Dimensity 8400, un procesador que dará problemas a Qualcomm en móviles de gama media</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mediatek-dimensity-8400-procesador-inteligencia-artificial-dispositivo-1432915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mediatek-dimensity-8400-4279018.jpg?tf=1200x' alt='MediaTek anuncia el Dimensity 8400, un procesador que dará problemas a Qualcomm en móviles de gama media' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/misterioso-anillo-espacial-aterriza-aldea-kenia-1433684'>Un misterioso anillo espacial aterriza en una aldea de Kenia</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/misterioso-anillo-espacial-aterriza-aldea-kenia-1433684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/misterioso-anillo-espacial-aterriza-aldea-kenia-4279283.jpg?tf=1200x' alt='Un misterioso anillo espacial aterriza en una aldea de Kenia' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/soy-reviewer-estos-son-11-trucos-salgan-fotos-perfectas-movil-1414660'>Soy reviewer y estos son mis 11 trucos para que salgan fotos perfectas con un móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/soy-reviewer-estos-son-11-trucos-salgan-fotos-perfectas-movil-1414660' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-fotos-movil-4254734.jpg?tf=1200x' alt='Soy reviewer y estos son mis 11 trucos para que salgan fotos perfectas con un móvil' />
     </a>
 </div>
 
