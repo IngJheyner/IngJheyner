@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-1431955'>5 cosas que afectan la temperatura de tu PC y provocan limitaciones a la hora de usarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-1431955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-4276682.jpg?tf=1200x' alt='5 cosas que afectan la temperatura de tu PC y provocan limitaciones a la hora de usarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-casi-duplica-requisitos-almacenamiento-ahora-necesitas-7-gb-dispositivo-1433727'>Apple Intelligence casi duplica sus requisitos de almacenamiento: ahora necesitas 7 GB por dispositivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-casi-duplica-requisitos-almacenamiento-ahora-necesitas-7-gb-dispositivo-1433727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-hay-ios-182-apple-intelligence-iphone-4257543.jpg?tf=1200x' alt='Apple Intelligence casi duplica sus requisitos de almacenamiento: ahora necesitas 7 GB por dispositivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/tcl-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-1433722'>TCL presenta en CES 2025 los televisores Mini LED con RGB puros, que superan a Samsung y LG</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/tcl-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-1433722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tcl-presenta-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-4279314.jpg?tf=1200x' alt='TCL presenta en CES 2025 los televisores Mini LED con RGB puros, que superan a Samsung y LG' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-activar-pantalla-dividida-cualquier-android-1432367'>El truco para activar la pantalla dividida en cualquier Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/truco-activar-pantalla-dividida-cualquier-android-1432367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-activar-pantalla-dividida-cualquier-android-4277374.jpg?tf=1200x' alt='El truco para activar la pantalla dividida en cualquier Android' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857'>Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberdelincuente-4278081.jpg?tf=1200x' alt='Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tienes-hora-libre-podras-hacer-todo-raspberry-pi-1432578'>Si tienes una hora libre podrás hacer todo esto con una Raspberry Pi</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tienes-hora-libre-podras-hacer-todo-raspberry-pi-1432578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/raspberry-pi-pc-4277664.jpg?tf=1200x' alt='Si tienes una hora libre podrás hacer todo esto con una Raspberry Pi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/experto-te-ensena-recuperar-cualquier-archivo-eliminado-pc-cero-gratis-1432982'>Un experto te enseña a recuperar cualquier archivo eliminado en tu PC desde cero y gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/experto-te-ensena-recuperar-cualquier-archivo-eliminado-pc-cero-gratis-1432982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-te-ensena-recuperar-cualquier-archivo-eliminado-pc-cero-gratis-4278274.jpg?tf=1200x' alt='Un experto te enseña a recuperar cualquier archivo eliminado en tu PC desde cero y gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318'>No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-4270455.jpg?tf=1200x' alt='No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad' />
     </a>
 </div>
 
