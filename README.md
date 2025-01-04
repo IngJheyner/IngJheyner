@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307'>Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-instalar-stremio-amazon-fire-tv-gestionar-todas-series-peliculas-solo-lugar-4268730.jpg?tf=1200x' alt='Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-iptv-ni-tdt-web-ver-miles-canales-tv-gratis-forma-legal-todo-mundo-habla-1433747'>Ni IPTV ni TDT, la web para ver miles de canales de TV gratis de forma legal de la que todo el mundo habla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-iptv-ni-tdt-web-ver-miles-canales-tv-gratis-forma-legal-todo-mundo-habla-1433747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-canales-television-gratis-4279360.jpg?tf=1200x' alt='Ni IPTV ni TDT, la web para ver miles de canales de TV gratis de forma legal de la que todo el mundo habla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agregame-whatsapp-peligrosa-estafa-puede-dejar-vacia-cuenta-corriente-1433739'>"Agrégame a WhatsApp", la peligrosa estafa que puede dejar vacía tu cuenta corriente</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/agregame-whatsapp-peligrosa-estafa-puede-dejar-vacia-cuenta-corriente-1433739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-4249934.jpg?tf=1200x' alt='"Agrégame a WhatsApp", la peligrosa estafa que puede dejar vacía tu cuenta corriente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540'>iPhone vs. Android: consejos para elegir el móvil perfecto en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-vs-android-consejos-elegir-movil-perfecto-4275947.jpg?tf=1200x' alt='iPhone vs. Android: consejos para elegir el móvil perfecto en 2025' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/airpods-max-tienen-duro-rival-sony-top-cuestan-mitad-1433501'>Los AirPods Max tienen un duro rival: los Sony más top, y cuestan la mitad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/airpods-max-tienen-duro-rival-sony-top-cuestan-mitad-1433501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los AirPods Max tienen un duro rival: los Sony más top, y cuestan la mitad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-1431955'>5 cosas que afectan la temperatura de tu PC y provocan limitaciones a la hora de usarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-1431955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-4276682.jpg?tf=1200x' alt='5 cosas que afectan la temperatura de tu PC y provocan limitaciones a la hora de usarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-casi-duplica-requisitos-almacenamiento-ahora-necesitas-7-gb-dispositivo-1433727'>Apple Intelligence casi duplica sus requisitos de almacenamiento: ahora necesitas 7 GB por dispositivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-casi-duplica-requisitos-almacenamiento-ahora-necesitas-7-gb-dispositivo-1433727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/novedades-hay-ios-182-apple-intelligence-iphone-4257543.jpg?tf=1200x' alt='Apple Intelligence casi duplica sus requisitos de almacenamiento: ahora necesitas 7 GB por dispositivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tcl-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-1433722'>TCL presenta en CES 2025 los televisores Mini LED con RGB puros, que superan a Samsung y LG</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tcl-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-1433722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tcl-presenta-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-4279314.jpg?tf=1200x' alt='TCL presenta en CES 2025 los televisores Mini LED con RGB puros, que superan a Samsung y LG' />
     </a>
 </div>
 
