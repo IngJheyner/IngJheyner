@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779'>Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-edge-4279395.jpg?tf=1200x' alt='Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-watch-macbook-pro-ya-son-pasado-apple-1433778'>Este Apple Watch y MacBook Pro ya son pasado para Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-watch-macbook-pro-ya-son-pasado-apple-1433778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-watch-macbook-pro-4279394.jpg?tf=1200x' alt='Este Apple Watch y MacBook Pro ya son pasado para Apple' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/correo-electronico-podria-no-ser-seguro-descubren-millones-servidores-cifrado-habilitado-1433775'>Tu correo electrónico podría no ser seguro: descubren millones de servidores sin cifrado habilitado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/correo-electronico-podria-no-ser-seguro-descubren-millones-servidores-cifrado-habilitado-1433775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/phishing-email-4279390.jpg?tf=1200x' alt='Tu correo electrónico podría no ser seguro: descubren millones de servidores sin cifrado habilitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623'>Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ingles-chatgpt-4279208.jpg?tf=1200x' alt='Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT' />
     </a>
 </div>
 
