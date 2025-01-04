@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857'>Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberdelincuente-4278081.jpg?tf=1200x' alt='Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/tienes-hora-libre-podras-hacer-todo-raspberry-pi-1432578'>Si tienes una hora libre podrás hacer todo esto con una Raspberry Pi</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tienes-hora-libre-podras-hacer-todo-raspberry-pi-1432578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/raspberry-pi-pc-4277664.jpg?tf=1200x' alt='Si tienes una hora libre podrás hacer todo esto con una Raspberry Pi' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/cae-iphone-caja-donativos-templo-no-devuelve-dios-1433707'>Se le cae el iPhone en la caja de donativos, y el templo no se lo devuelve porque "es de Dios"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cae-iphone-caja-donativos-templo-no-devuelve-dios-1433707' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cae-iphone-caja-donativos-templo-no-devuelve-porque-dios-4279311.jpg?tf=1200x' alt='Se le cae el iPhone en la caja de donativos, y el templo no se lo devuelve porque "es de Dios"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/tintin-popeye-varios-cuadros-salvador-dali-dominio-publico-2025-1433705'>Tintín, Popeye y varios cuadros de Salvador Dalí pasan a dominio público en 2025, pero solo en algunos países</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/tintin-popeye-varios-cuadros-salvador-dali-dominio-publico-2025-1433705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tintin-popeye-mitico-corto-disney-dominio-publico-2025-pero-solo-algunos-paises-4279305.jpg?tf=1200x' alt='Tintín, Popeye y varios cuadros de Salvador Dalí pasan a dominio público en 2025, pero solo en algunos países' />
     </a>
 </div>
 
