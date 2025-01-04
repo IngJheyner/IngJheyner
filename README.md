@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/version-airpods-acaba-recibir-ios-18-funcion-valorada-cientos-euros-1433614'>Esta versión de AirPods acaba de recibir con iOS 18 una función valorada en cientos de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/version-airpods-acaba-recibir-ios-18-funcion-valorada-cientos-euros-1433614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/airpods-4279200.jpg?tf=1200x' alt='Esta versión de AirPods acaba de recibir con iOS 18 una función valorada en cientos de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307'>Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-instalar-stremio-amazon-fire-tv-gestionar-todas-series-peliculas-solo-lugar-4268730.jpg?tf=1200x' alt='Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540'>iPhone vs. Android: consejos para elegir el móvil perfecto en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-vs-android-consejos-elegir-movil-perfecto-4275947.jpg?tf=1200x' alt='iPhone vs. Android: consejos para elegir el móvil perfecto en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/airpods-max-tienen-duro-rival-sony-top-cuestan-mitad-1433501'>Los AirPods Max tienen un duro rival: los Sony más top, y cuestan la mitad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/airpods-max-tienen-duro-rival-sony-top-cuestan-mitad-1433501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los AirPods Max tienen un duro rival: los Sony más top, y cuestan la mitad' />
     </a>
 </div>
 
