@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/tienes-hora-libre-podras-hacer-todo-raspberry-pi-1432578'>Si tienes una hora libre podrás hacer todo esto con una Raspberry Pi</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/tienes-hora-libre-podras-hacer-todo-raspberry-pi-1432578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/raspberry-pi-pc-4277664.jpg?tf=1200x' alt='Si tienes una hora libre podrás hacer todo esto con una Raspberry Pi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/experto-te-ensena-recuperar-cualquier-archivo-eliminado-pc-cero-gratis-1432982'>Un experto te enseña a recuperar cualquier archivo eliminado en tu PC desde cero y gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/experto-te-ensena-recuperar-cualquier-archivo-eliminado-pc-cero-gratis-1432982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/experto-te-ensena-recuperar-cualquier-archivo-eliminado-pc-cero-gratis-4278274.jpg?tf=1200x' alt='Un experto te enseña a recuperar cualquier archivo eliminado en tu PC desde cero y gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318'>No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-4270455.jpg?tf=1200x' alt='No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/tintin-popeye-varios-cuadros-salvador-dali-dominio-publico-2025-1433705'>Tintín, Popeye y varios cuadros de Salvador Dalí pasan a dominio público en 2025, pero solo en algunos países</a></h4>
     <a href='https://computerhoy.20minutos.es/life/tintin-popeye-varios-cuadros-salvador-dali-dominio-publico-2025-1433705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tintin-popeye-mitico-corto-disney-dominio-publico-2025-pero-solo-algunos-paises-4279305.jpg?tf=1200x' alt='Tintín, Popeye y varios cuadros de Salvador Dalí pasan a dominio público en 2025, pero solo en algunos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mediatek-dimensity-8400-procesador-inteligencia-artificial-dispositivo-1432915'>MediaTek anuncia el Dimensity 8400, un procesador que dará problemas a Qualcomm en móviles de gama media</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mediatek-dimensity-8400-procesador-inteligencia-artificial-dispositivo-1432915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mediatek-dimensity-8400-4279018.jpg?tf=1200x' alt='MediaTek anuncia el Dimensity 8400, un procesador que dará problemas a Qualcomm en móviles de gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/soy-reviewer-estos-son-11-trucos-salgan-fotos-perfectas-movil-1414660'>Soy reviewer y estos son mis 11 trucos para que salgan fotos perfectas con un móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/soy-reviewer-estos-son-11-trucos-salgan-fotos-perfectas-movil-1414660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/trucos-fotos-movil-4254734.jpg?tf=1200x' alt='Soy reviewer y estos son mis 11 trucos para que salgan fotos perfectas con un móvil' />
     </a>
 </div>
 
