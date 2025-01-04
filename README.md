@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623'>Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-forma-aprender-ingles-2025-chatgpt-1433623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ingles-chatgpt-4279208.jpg?tf=1200x' alt='Ni academia ni profesor particular, la mejor forma de aprender inglés en 2025 es ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-admite-error-suspension-masiva-cuentas-microsoft-rewards-hay-solucion-camino-1433759'>Microsoft admite su error sobre la suspensión masiva de cuentas de Microsoft Rewards: hay una solución en camino</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-admite-error-suspension-masiva-cuentas-microsoft-rewards-hay-solucion-camino-1433759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-rewards-4279377.jpg?tf=1200x' alt='Microsoft admite su error sobre la suspensión masiva de cuentas de Microsoft Rewards: hay una solución en camino' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-nueva-serie-samsung-galaxy-s25-podria-superar-apple-intelligence-1433754'>La inteligencia artificial de la nueva serie Samsung Galaxy S25 podría superar a Apple Intelligence</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-nueva-serie-samsung-galaxy-s25-podria-superar-apple-intelligence-1433754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/galaxy-ai-4279372.jpg?tf=1200x' alt='La inteligencia artificial de la nueva serie Samsung Galaxy S25 podría superar a Apple Intelligence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/version-airpods-acaba-recibir-ios-18-funcion-valorada-cientos-euros-1433614'>Esta versión de AirPods acaba de recibir con iOS 18 una función valorada en cientos de euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/version-airpods-acaba-recibir-ios-18-funcion-valorada-cientos-euros-1433614' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/airpods-4279200.jpg?tf=1200x' alt='Esta versión de AirPods acaba de recibir con iOS 18 una función valorada en cientos de euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307'>Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-stremio-amazon-fire-tv-1427307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-instalar-stremio-amazon-fire-tv-gestionar-todas-series-peliculas-solo-lugar-4268730.jpg?tf=1200x' alt='Cómo instalar Stremio en tu Amazon Fire TV en 2025 para gestionar todas tus series y películas desde un solo lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-iptv-ni-tdt-web-ver-miles-canales-tv-gratis-forma-legal-todo-mundo-habla-1433747'>Ni IPTV ni TDT, la web para ver miles de canales de TV gratis de forma legal de la que todo el mundo habla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-iptv-ni-tdt-web-ver-miles-canales-tv-gratis-forma-legal-todo-mundo-habla-1433747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-canales-television-gratis-4279360.jpg?tf=1200x' alt='Ni IPTV ni TDT, la web para ver miles de canales de TV gratis de forma legal de la que todo el mundo habla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agregame-whatsapp-peligrosa-estafa-puede-dejar-vacia-cuenta-corriente-1433739'>"Agrégame a WhatsApp", la peligrosa estafa que puede dejar vacía tu cuenta corriente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/agregame-whatsapp-peligrosa-estafa-puede-dejar-vacia-cuenta-corriente-1433739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/estafas-whatsapp-disparan-consejos-rapidos-sencillos-protegerte-4249934.jpg?tf=1200x' alt='"Agrégame a WhatsApp", la peligrosa estafa que puede dejar vacía tu cuenta corriente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540'>iPhone vs. Android: consejos para elegir el móvil perfecto en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-vs-android-consejos-elegir-movil-perfecto-4275947.jpg?tf=1200x' alt='iPhone vs. Android: consejos para elegir el móvil perfecto en 2025' />
     </a>
 </div>
 
