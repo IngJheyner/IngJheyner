@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-activar-pantalla-dividida-cualquier-android-1432367'>El truco para activar la pantalla dividida en cualquier Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/truco-activar-pantalla-dividida-cualquier-android-1432367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-activar-pantalla-dividida-cualquier-android-4277374.jpg?tf=1200x' alt='El truco para activar la pantalla dividida en cualquier Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857'>Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberdelincuente-4278081.jpg?tf=1200x' alt='Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318'>No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-1428318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/no-ignores-funciones-windows-debes-desactivar-proteger-privacidad-4270455.jpg?tf=1200x' alt='No ignores esto: funciones de Windows que debes desactivar para proteger tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cae-iphone-caja-donativos-templo-no-devuelve-dios-1433707'>Se le cae el iPhone en la caja de donativos, y el templo no se lo devuelve porque "es de Dios"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cae-iphone-caja-donativos-templo-no-devuelve-dios-1433707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cae-iphone-caja-donativos-templo-no-devuelve-porque-dios-4279311.jpg?tf=1200x' alt='Se le cae el iPhone en la caja de donativos, y el templo no se lo devuelve porque "es de Dios"' />
     </a>
 </div>
 
