@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540'>iPhone vs. Android: consejos para elegir el móvil perfecto en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-vs-android-consejos-elegir-movil-perfecto-1431540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-vs-android-consejos-elegir-movil-perfecto-4275947.jpg?tf=1200x' alt='iPhone vs. Android: consejos para elegir el móvil perfecto en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/airpods-max-tienen-duro-rival-sony-top-cuestan-mitad-1433501'>Los AirPods Max tienen un duro rival: los Sony más top, y cuestan la mitad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/airpods-max-tienen-duro-rival-sony-top-cuestan-mitad-1433501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/sony-wh-1000xm5-analisis-opinion-2891374.jpg?tf=1200x' alt='Los AirPods Max tienen un duro rival: los Sony más top, y cuestan la mitad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-1431955'>5 cosas que afectan la temperatura de tu PC y provocan limitaciones a la hora de usarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-1431955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-cosas-afectan-temperatura-pc-provocan-limitaciones-hora-usarlo-4276682.jpg?tf=1200x' alt='5 cosas que afectan la temperatura de tu PC y provocan limitaciones a la hora de usarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/tcl-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-1433722'>TCL presenta en CES 2025 los televisores Mini LED con RGB puros, que superan a Samsung y LG</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/tcl-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-1433722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tcl-presenta-ces-2025-televisores-mini-led-rgb-puros-superan-samsung-lg-4279314.jpg?tf=1200x' alt='TCL presenta en CES 2025 los televisores Mini LED con RGB puros, que superan a Samsung y LG' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-activar-pantalla-dividida-cualquier-android-1432367'>El truco para activar la pantalla dividida en cualquier Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/truco-activar-pantalla-dividida-cualquier-android-1432367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/truco-activar-pantalla-dividida-cualquier-android-4277374.jpg?tf=1200x' alt='El truco para activar la pantalla dividida en cualquier Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857'>Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hijo-engana-estafadores-robaron-padre-consigue-recuperar-20000-euros-1432857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ciberdelincuente-4278081.jpg?tf=1200x' alt='Un hijo engaña a los estafadores que robaron a su padre y consigue recuperar más de 20.000 euros' />
     </a>
 </div>
 
