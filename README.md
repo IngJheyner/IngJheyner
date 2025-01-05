@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-2-ni-steam-deck-consola-atari-gamestation-go-ces-2025-1433855'>Ni Nintendo Switch 2 ni Steam Deck: la nueva consola de Atari en CES 2025 revela unos controles revolucionarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-2-ni-steam-deck-consola-atari-gamestation-go-ces-2025-1433855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-nintendo-switch-2-ni-steam-deck-nueva-consola-atari-ces-2025-revela-controles-nunca-vistos-4279524.jpg?tf=1200x' alt='Ni Nintendo Switch 2 ni Steam Deck: la nueva consola de Atari en CES 2025 revela unos controles revolucionarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-1433852'>Primera imagen real de la RTX 5090 de Nvidia antes de CES 2025, es una bestia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-1433852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-confirman-datos-tecnicos-4279522.jpg?tf=1200x' alt='Primera imagen real de la RTX 5090 de Nvidia antes de CES 2025, es una bestia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-funcion-desactivar-estafas-bancarias-1433346'>WhatsApp: tardarás un segundo en desactivarlo y evitarás el 90% de las estafas bancarias</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-funcion-desactivar-estafas-bancarias-1433346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-4271428.jpg?tf=1200x' alt='WhatsApp: tardarás un segundo en desactivarlo y evitarás el 90% de las estafas bancarias' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/listas-iptv-2025-ver-futbol-gratis-1433539'>IPTV: esto es todo lo que te espera en 2025 si lo usas para ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/listas-iptv-2025-ver-futbol-gratis-1433539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-2025-4279071.jpg?tf=1200x' alt='IPTV: esto es todo lo que te espera en 2025 si lo usas para ver el fútbol gratis' />
     </a>
 </div>
 
