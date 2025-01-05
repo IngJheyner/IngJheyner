@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-waze-cual-mejor-opcion-cuando-te-estas-quedando-datos-movil-1427661'>Google Maps o Waze: ¿cuál es la mejor opción cuando te estás quedando sin datos en el móvil?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-waze-cual-mejor-opcion-cuando-te-estas-quedando-datos-movil-1427661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/app-movil-coche-4269329.jpg?tf=1200x' alt='Google Maps o Waze: ¿cuál es la mejor opción cuando te estás quedando sin datos en el móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fragmentos-texto-chrome-pronto-podras-resaltar-compartir-secciones-pdf-1433828'>Fragmentos de texto en Chrome: pronto podrás resaltar y compartir secciones de PDF</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fragmentos-texto-chrome-pronto-podras-resaltar-compartir-secciones-pdf-1433828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/navegador-chrome-4279437.jpg?tf=1200x' alt='Fragmentos de texto en Chrome: pronto podrás resaltar y compartir secciones de PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536'>7 secretos para maximizar la duración de la batería en tu iPhone con iOS</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-iphone-4275931.jpg?tf=1200x' alt='7 secretos para maximizar la duración de la batería en tu iPhone con iOS' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchos-relojes-pero-ninguno-como-primer-reloj-mide-tension-sorprende-mucho-no-tan-caro-1433784'>"He probado muchos relojes, pero ninguno como este": el primer reloj que mide la tensión sorprende mucho y no es tan caro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchos-relojes-pero-ninguno-como-primer-reloj-mide-tension-sorprende-mucho-no-tan-caro-1433784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-watch-d2-4279399.jpg?tf=1200x' alt='"He probado muchos relojes, pero ninguno como este": el primer reloj que mide la tensión sorprende mucho y no es tan caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/aviso-fin-soporte-windows-10-congela-pedirte-actualices-windows-11-1433816'>El aviso de fin de soporte de Windows 10 se congela al pedirte que actualices a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/aviso-fin-soporte-windows-10-congela-pedirte-actualices-windows-11-1433816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-fallida-windows-11-4279427.jpg?tf=1200x' alt='El aviso de fin de soporte de Windows 10 se congela al pedirte que actualices a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-1431949'>Qué son los modelos fundacionales de IA y cómo están cambiando la tecnología </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-1431949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-4276678.jpg?tf=1200x' alt='Qué son los modelos fundacionales de IA y cómo están cambiando la tecnología ' />
     </a>
 </div>
 
