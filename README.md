@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-1432376'>Así puedes hacer que Windows 11 se parezca a Windows XP si eres un nostálgico</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-1432376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-4277379.jpg?tf=1200x' alt='Así puedes hacer que Windows 11 se parezca a Windows XP si eres un nostálgico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-1432979'>Cómo eliminar aplicaciones no deseadas en Android Auto sin morir en el intento</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-1432979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-4278265.jpg?tf=1200x' alt='Cómo eliminar aplicaciones no deseadas en Android Auto sin morir en el intento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-1432576'>Códigos QR y Google Sheets: así es como puedes ordenar tu casa de forma económica</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-1432576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-4277662.jpg?tf=1200x' alt='Códigos QR y Google Sheets: así es como puedes ordenar tu casa de forma económica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767'>Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-4271242.jpg?tf=1200x' alt='Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes' />
     </a>
 </div>
 
