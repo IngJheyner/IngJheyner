@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-funcion-desactivar-estafas-bancarias-1433346'>WhatsApp: tardarás un segundo en desactivarlo y evitarás el 90% de las estafas bancarias</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-funcion-desactivar-estafas-bancarias-1433346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-4271428.jpg?tf=1200x' alt='WhatsApp: tardarás un segundo en desactivarlo y evitarás el 90% de las estafas bancarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/listas-iptv-2025-ver-futbol-gratis-1433539'>IPTV: esto es todo lo que te espera en 2025 si lo usas para ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/listas-iptv-2025-ver-futbol-gratis-1433539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-2025-4279071.jpg?tf=1200x' alt='IPTV: esto es todo lo que te espera en 2025 si lo usas para ver el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-magos-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes Magos para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-magos-todos-clientes-1433573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes Magos para todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-estafas-explica-muy-poca-gente-sabe-recuperar-parte-dinero-1433846'>Experto en estafas explica lo que muy poca gente sabe: haz esto para recuperar parte del dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-estafas-explica-muy-poca-gente-sabe-recuperar-parte-dinero-1433846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-estafas-explica-muy-poca-gente-sabe-haz-recuperar-parte-dinero-4279471.jpg?tf=1200x' alt='Experto en estafas explica lo que muy poca gente sabe: haz esto para recuperar parte del dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/stephen-hawking-tenia-razon-1995-bbc-imagino-2025-1433788'>Stephen Hawking tenía razón: en 1995 la BBC imaginó el año 2025 y esto es lo que acertó... y lo que no</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/stephen-hawking-tenia-razon-1995-bbc-imagino-2025-1433788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bbc-tenia-razon-1995-imagino-ano-2025-acerto-no-4279403.jpg?tf=1200x' alt='Stephen Hawking tenía razón: en 1995 la BBC imaginó el año 2025 y esto es lo que acertó... y lo que no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-arrasa-steam-solo-4-jugadores-usa-linux-macos-1433833'>Windows arrasa en Steam: solo un 4% de jugadores usa Linux o macOS</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-arrasa-steam-solo-4-jugadores-usa-linux-macos-1433833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-4091729.jpg?tf=1200x' alt='Windows arrasa en Steam: solo un 4% de jugadores usa Linux o macOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-waze-cual-mejor-opcion-cuando-te-estas-quedando-datos-movil-1427661'>Google Maps o Waze: ¿cuál es la mejor opción cuando te estás quedando sin datos en el móvil?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-waze-cual-mejor-opcion-cuando-te-estas-quedando-datos-movil-1427661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/app-movil-coche-4269329.jpg?tf=1200x' alt='Google Maps o Waze: ¿cuál es la mejor opción cuando te estás quedando sin datos en el móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fragmentos-texto-chrome-pronto-podras-resaltar-compartir-secciones-pdf-1433828'>Fragmentos de texto en Chrome: pronto podrás resaltar y compartir secciones de PDF</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fragmentos-texto-chrome-pronto-podras-resaltar-compartir-secciones-pdf-1433828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/navegador-chrome-4279437.jpg?tf=1200x' alt='Fragmentos de texto en Chrome: pronto podrás resaltar y compartir secciones de PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536'>7 secretos para maximizar la duración de la batería en tu iPhone con iOS</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-iphone-4275931.jpg?tf=1200x' alt='7 secretos para maximizar la duración de la batería en tu iPhone con iOS' />
     </a>
 </div>
 
