@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-1433852'>Primera imagen real de la RTX 5090 de Nvidia antes de CES 2025, es una bestia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-1433852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-confirman-datos-tecnicos-4279522.jpg?tf=1200x' alt='Primera imagen real de la RTX 5090 de Nvidia antes de CES 2025, es una bestia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-hardware-descubre-grave-problema-nueva-tarjeta-grafica-intel-arc-b580-1433851'>Experto en hardware descubre un grave problema en la nueva tarjeta gráfica Intel Arc B580</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-hardware-descubre-grave-problema-nueva-tarjeta-grafica-intel-arc-b580-1433851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-4269088.jpg?tf=1200x' alt='Experto en hardware descubre un grave problema en la nueva tarjeta gráfica Intel Arc B580' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/listas-iptv-2025-ver-futbol-gratis-1433539'>IPTV: esto es todo lo que te espera en 2025 si lo usas para ver el fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/listas-iptv-2025-ver-futbol-gratis-1433539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-2025-4279071.jpg?tf=1200x' alt='IPTV: esto es todo lo que te espera en 2025 si lo usas para ver el fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-magos-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes Magos para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-magos-todos-clientes-1433573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes Magos para todos sus clientes' />
     </a>
 </div>
 
