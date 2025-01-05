@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-hardware-descubre-grave-problema-nueva-tarjeta-grafica-intel-arc-b580-1433851'>Experto en hardware descubre un grave problema en la nueva tarjeta gráfica Intel Arc B580</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-hardware-descubre-grave-problema-nueva-tarjeta-grafica-intel-arc-b580-1433851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-4269088.jpg?tf=1200x' alt='Experto en hardware descubre un grave problema en la nueva tarjeta gráfica Intel Arc B580' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/ces-2025-samsung-google-presentan-eclipsa-audio-alternativa-gratis-dolby-atmos-1433848'>CES 2025: Samsung y Google presentan Eclipsa Audio, la alternativa gratis a Dolby Atmos que lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/ces-2025-samsung-google-presentan-eclipsa-audio-alternativa-gratis-dolby-atmos-1433848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-google-presentan-eclipsa-audio-ces-2025-alternativa-gratis-dolby-atmos-cambia-todo-4279472.jpg?tf=1200x' alt='CES 2025: Samsung y Google presentan Eclipsa Audio, la alternativa gratis a Dolby Atmos que lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-magos-todos-clientes-1433573'>DIGI adelanta el mejor regalo de Reyes Magos para todos sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/digi-adelanta-mejor-regalo-reyes-magos-todos-clientes-1433573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI adelanta el mejor regalo de Reyes Magos para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-estafas-explica-muy-poca-gente-sabe-recuperar-parte-dinero-1433846'>Experto en estafas explica lo que muy poca gente sabe: haz esto para recuperar parte del dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-estafas-explica-muy-poca-gente-sabe-recuperar-parte-dinero-1433846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-estafas-explica-muy-poca-gente-sabe-haz-recuperar-parte-dinero-4279471.jpg?tf=1200x' alt='Experto en estafas explica lo que muy poca gente sabe: haz esto para recuperar parte del dinero' />
     </a>
 </div>
 
