@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-arrasa-steam-solo-4-jugadores-usa-linux-macos-1433833'>Windows arrasa en Steam: solo un 4% de jugadores usa Linux o macOS</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-arrasa-steam-solo-4-jugadores-usa-linux-macos-1433833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-4091729.jpg?tf=1200x' alt='Windows arrasa en Steam: solo un 4% de jugadores usa Linux o macOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-maps-waze-cual-mejor-opcion-cuando-te-estas-quedando-datos-movil-1427661'>Google Maps o Waze: ¿cuál es la mejor opción cuando te estás quedando sin datos en el móvil?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-maps-waze-cual-mejor-opcion-cuando-te-estas-quedando-datos-movil-1427661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/app-movil-coche-4269329.jpg?tf=1200x' alt='Google Maps o Waze: ¿cuál es la mejor opción cuando te estás quedando sin datos en el móvil?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/lentitud-barra-superior-explorador-archivos-windows-11-24h2-desata-frustracion-usuarios-1433823'>La lentitud de la barra superior del explorador de archivos en Windows 11 24H2 desata la frustración de los usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/lentitud-barra-superior-explorador-archivos-windows-11-24h2-desata-frustracion-usuarios-1433823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='La lentitud de la barra superior del explorador de archivos en Windows 11 24H2 desata la frustración de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchos-relojes-pero-ninguno-como-primer-reloj-mide-tension-sorprende-mucho-no-tan-caro-1433784'>"He probado muchos relojes, pero ninguno como este": el primer reloj que mide la tensión sorprende mucho y no es tan caro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchos-relojes-pero-ninguno-como-primer-reloj-mide-tension-sorprende-mucho-no-tan-caro-1433784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-watch-d2-4279399.jpg?tf=1200x' alt='"He probado muchos relojes, pero ninguno como este": el primer reloj que mide la tensión sorprende mucho y no es tan caro' />
     </a>
 </div>
 
