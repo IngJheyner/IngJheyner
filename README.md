@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536'>7 secretos para maximizar la duración de la batería en tu iPhone con iOS</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-iphone-4275931.jpg?tf=1200x' alt='7 secretos para maximizar la duración de la batería en tu iPhone con iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/lentitud-barra-superior-explorador-archivos-windows-11-24h2-desata-frustracion-usuarios-1433823'>La lentitud de la barra superior del explorador de archivos en Windows 11 24H2 desata la frustración de los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/lentitud-barra-superior-explorador-archivos-windows-11-24h2-desata-frustracion-usuarios-1433823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='La lentitud de la barra superior del explorador de archivos en Windows 11 24H2 desata la frustración de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchos-relojes-pero-ninguno-como-primer-reloj-mide-tension-sorprende-mucho-no-tan-caro-1433784'>"He probado muchos relojes, pero ninguno como este": el primer reloj que mide la tensión sorprende mucho y no es tan caro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchos-relojes-pero-ninguno-como-primer-reloj-mide-tension-sorprende-mucho-no-tan-caro-1433784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-watch-d2-4279399.jpg?tf=1200x' alt='"He probado muchos relojes, pero ninguno como este": el primer reloj que mide la tensión sorprende mucho y no es tan caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/aviso-fin-soporte-windows-10-congela-pedirte-actualices-windows-11-1433816'>El aviso de fin de soporte de Windows 10 se congela al pedirte que actualices a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/aviso-fin-soporte-windows-10-congela-pedirte-actualices-windows-11-1433816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-fallida-windows-11-4279427.jpg?tf=1200x' alt='El aviso de fin de soporte de Windows 10 se congela al pedirte que actualices a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-1431949'>Qué son los modelos fundacionales de IA y cómo están cambiando la tecnología </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-1431949' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-4276678.jpg?tf=1200x' alt='Qué son los modelos fundacionales de IA y cómo están cambiando la tecnología ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-reportan-ios-182-arruina-camara-apple-sugiere-solucion-rompe-iphone-1433811'>Usuarios reportan que iOS 18.2 arruina la cámara y Apple sugiere una solución que rompe el iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/usuarios-reportan-ios-182-arruina-camara-apple-sugiere-solucion-rompe-iphone-1433811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243570.jpg?tf=1200x' alt='Usuarios reportan que iOS 18.2 arruina la cámara y Apple sugiere una solución que rompe el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-1432376'>Así puedes hacer que Windows 11 se parezca a Windows XP si eres un nostálgico</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-1432376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-4277379.jpg?tf=1200x' alt='Así puedes hacer que Windows 11 se parezca a Windows XP si eres un nostálgico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-1432979'>Cómo eliminar aplicaciones no deseadas en Android Auto sin morir en el intento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-1432979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-4278265.jpg?tf=1200x' alt='Cómo eliminar aplicaciones no deseadas en Android Auto sin morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371'>FreeBSD: ¿Qué es y en qué se diferencia de Linux?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/freebsd-diferencia-linux-4277377.jpg?tf=1200x' alt='FreeBSD: ¿Qué es y en qué se diferencia de Linux?' />
     </a>
 </div>
 
