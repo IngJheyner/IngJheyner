@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/stephen-hawking-tenia-razon-1995-bbc-imagino-2025-1433788'>Stephen Hawking tenía razón: en 1995 la BBC imaginó el año 2025 y esto es lo que acertó... y lo que no</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/stephen-hawking-tenia-razon-1995-bbc-imagino-2025-1433788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bbc-tenia-razon-1995-imagino-ano-2025-acerto-no-4279403.jpg?tf=1200x' alt='Stephen Hawking tenía razón: en 1995 la BBC imaginó el año 2025 y esto es lo que acertó... y lo que no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-arrasa-steam-solo-4-jugadores-usa-linux-macos-1433833'>Windows arrasa en Steam: solo un 4% de jugadores usa Linux o macOS</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-arrasa-steam-solo-4-jugadores-usa-linux-macos-1433833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-11-consigue-ganar-fin-windows-10-numero-usuarios-gaming-4091729.jpg?tf=1200x' alt='Windows arrasa en Steam: solo un 4% de jugadores usa Linux o macOS' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536'>7 secretos para maximizar la duración de la batería en tu iPhone con iOS</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/secretos-maximizar-duracion-bateria-dispositivo-ios-1431536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/bateria-iphone-4275931.jpg?tf=1200x' alt='7 secretos para maximizar la duración de la batería en tu iPhone con iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/lentitud-barra-superior-explorador-archivos-windows-11-24h2-desata-frustracion-usuarios-1433823'>La lentitud de la barra superior del explorador de archivos en Windows 11 24H2 desata la frustración de los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/lentitud-barra-superior-explorador-archivos-windows-11-24h2-desata-frustracion-usuarios-1433823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/4-trucos-sacar-maximo-partido-pestanas-explorador-archivos-windows-11-3295528.jpg?tf=1200x' alt='La lentitud de la barra superior del explorador de archivos en Windows 11 24H2 desata la frustración de los usuarios' />
     </a>
 </div>
 
