@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-1431949'>Qué son los modelos fundacionales de IA y cómo están cambiando la tecnología </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-1431949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/son-modelos-fundacionales-ia-como-estan-cambiando-tecnologia-4276678.jpg?tf=1200x' alt='Qué son los modelos fundacionales de IA y cómo están cambiando la tecnología ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/usuarios-reportan-ios-182-arruina-camara-apple-sugiere-solucion-rompe-iphone-1433811'>Usuarios reportan que iOS 18.2 arruina la cámara y Apple sugiere una solución que rompe el iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/usuarios-reportan-ios-182-arruina-camara-apple-sugiere-solucion-rompe-iphone-1433811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/iphone-16-16-plus-4243570.jpg?tf=1200x' alt='Usuarios reportan que iOS 18.2 arruina la cámara y Apple sugiere una solución que rompe el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-1432376'>Así puedes hacer que Windows 11 se parezca a Windows XP si eres un nostálgico</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-1432376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/puedes-hacer-windows-11-parezca-windows-xp-eres-nostalgico-4277379.jpg?tf=1200x' alt='Así puedes hacer que Windows 11 se parezca a Windows XP si eres un nostálgico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371'>FreeBSD: ¿Qué es y en qué se diferencia de Linux?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/freebsd-diferencia-linux-4277377.jpg?tf=1200x' alt='FreeBSD: ¿Qué es y en qué se diferencia de Linux?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/roborock-saros-z70-caracteristicas-informacion-precio-1430641'>Roborock Saros Z70 es el primer robot aspirador con un brazo robótico que recoge tus calcetines sucios</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/roborock-saros-z70-caracteristicas-informacion-precio-1430641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roborock-saros-z70-4279209.jpg?tf=1200x' alt='Roborock Saros Z70 es el primer robot aspirador con un brazo robótico que recoge tus calcetines sucios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-1432576'>Códigos QR y Google Sheets: así es como puedes ordenar tu casa de forma económica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-1432576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-4277662.jpg?tf=1200x' alt='Códigos QR y Google Sheets: así es como puedes ordenar tu casa de forma económica' />
     </a>
 </div>
 
