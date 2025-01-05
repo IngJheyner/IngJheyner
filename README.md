@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371'>FreeBSD: ¿Qué es y en qué se diferencia de Linux?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/freebsd-diferencia-linux-4277377.jpg?tf=1200x' alt='FreeBSD: ¿Qué es y en qué se diferencia de Linux?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/roborock-saros-z70-caracteristicas-informacion-precio-1430641'>Roborock Saros Z70 es el primer robot aspirador con un brazo robótico que recoge tus calcetines sucios</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/roborock-saros-z70-caracteristicas-informacion-precio-1430641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roborock-saros-z70-4279209.jpg?tf=1200x' alt='Roborock Saros Z70 es el primer robot aspirador con un brazo robótico que recoge tus calcetines sucios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-1432576'>Códigos QR y Google Sheets: así es como puedes ordenar tu casa de forma económica</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-1432576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/codigos-qr-google-sheets-como-puedes-ordenar-casa-forma-economica-4277662.jpg?tf=1200x' alt='Códigos QR y Google Sheets: así es como puedes ordenar tu casa de forma económica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767'>Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-4271242.jpg?tf=1200x' alt='Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-ia-microsoft-revolucionando-trabajo-1428706'>¿Qué es Copilot, la IA de Microsoft que está revolucionando el trabajo?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-ia-microsoft-revolucionando-trabajo-1428706' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='¿Qué es Copilot, la IA de Microsoft que está revolucionando el trabajo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-trucos-me-han-permitido-personalizar-mi-amazon-kindle-leer-libros-ano-1433205'>5 trucos que me han permitido personalizar mi Amazon Kindle para leer más libros este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-trucos-me-han-permitido-personalizar-mi-amazon-kindle-leer-libros-ano-1433205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257632.jpg?tf=1200x' alt='5 trucos que me han permitido personalizar mi Amazon Kindle para leer más libros este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
-    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779'>Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-edge-4279395.jpg?tf=1200x' alt='Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft' />
     </a>
 </div>
 
