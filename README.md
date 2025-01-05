@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767'>Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-4271242.jpg?tf=1200x' alt='Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-ia-microsoft-revolucionando-trabajo-1428706'>¿Qué es Copilot, la IA de Microsoft que está revolucionando el trabajo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-ia-microsoft-revolucionando-trabajo-1428706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='¿Qué es Copilot, la IA de Microsoft que está revolucionando el trabajo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-trucos-me-han-permitido-personalizar-mi-amazon-kindle-leer-libros-ano-1433205'>5 trucos que me han permitido personalizar mi Amazon Kindle para leer más libros este año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-trucos-me-han-permitido-personalizar-mi-amazon-kindle-leer-libros-ano-1433205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257632.jpg?tf=1200x' alt='5 trucos que me han permitido personalizar mi Amazon Kindle para leer más libros este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
     <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779'>Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-edge-4279395.jpg?tf=1200x' alt='Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-watch-macbook-pro-ya-son-pasado-apple-1433778'>Este Apple Watch y MacBook Pro ya son pasado para Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-watch-macbook-pro-ya-son-pasado-apple-1433778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-watch-macbook-pro-4279394.jpg?tf=1200x' alt='Este Apple Watch y MacBook Pro ya son pasado para Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/estas-dos-aplicaciones-windows-11-podrian-dejar-funcionar-cualquier-momento-1433777'>Estas dos aplicaciones de Windows 11 podrían dejar de funcionar en cualquier momento</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/estas-dos-aplicaciones-windows-11-podrian-dejar-funcionar-cualquier-momento-1433777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuario-enfadado-windows-11-4279393.jpg?tf=1200x' alt='Estas dos aplicaciones de Windows 11 podrían dejar de funcionar en cualquier momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776'>Google Chrome es cada vez más popular pero Edge es el que más crece en el último año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/navegadores-4279392.jpg?tf=1200x' alt='Google Chrome es cada vez más popular pero Edge es el que más crece en el último año' />
     </a>
 </div>
 
