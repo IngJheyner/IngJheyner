@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/ces-2025-samsung-google-presentan-eclipsa-audio-alternativa-gratis-dolby-atmos-1433848'>CES 2025: Samsung y Google presentan Eclipsa Audio, la alternativa gratis a Dolby Atmos que lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/ces-2025-samsung-google-presentan-eclipsa-audio-alternativa-gratis-dolby-atmos-1433848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-google-presentan-eclipsa-audio-ces-2025-alternativa-gratis-dolby-atmos-cambia-todo-4279472.jpg?tf=1200x' alt='CES 2025: Samsung y Google presentan Eclipsa Audio, la alternativa gratis a Dolby Atmos que lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-funcion-desactivar-estafas-bancarias-1433346'>WhatsApp: tardarás un segundo en desactivarlo y evitarás el 90% de las estafas bancarias</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-funcion-desactivar-estafas-bancarias-1433346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tan-terrible-solucionan-me-voy-descubren-cambio-whatsapp-casi-nadie-ha-dado-cuenta-4271428.jpg?tf=1200x' alt='WhatsApp: tardarás un segundo en desactivarlo y evitarás el 90% de las estafas bancarias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-estafas-explica-muy-poca-gente-sabe-recuperar-parte-dinero-1433846'>Experto en estafas explica lo que muy poca gente sabe: haz esto para recuperar parte del dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-estafas-explica-muy-poca-gente-sabe-recuperar-parte-dinero-1433846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-estafas-explica-muy-poca-gente-sabe-haz-recuperar-parte-dinero-4279471.jpg?tf=1200x' alt='Experto en estafas explica lo que muy poca gente sabe: haz esto para recuperar parte del dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/stephen-hawking-tenia-razon-1995-bbc-imagino-2025-1433788'>Stephen Hawking tenía razón: en 1995 la BBC imaginó el año 2025 y esto es lo que acertó... y lo que no</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/stephen-hawking-tenia-razon-1995-bbc-imagino-2025-1433788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bbc-tenia-razon-1995-imagino-ano-2025-acerto-no-4279403.jpg?tf=1200x' alt='Stephen Hawking tenía razón: en 1995 la BBC imaginó el año 2025 y esto es lo que acertó... y lo que no' />
     </a>
 </div>
 
