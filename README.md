@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-1432979'>Cómo eliminar aplicaciones no deseadas en Android Auto sin morir en el intento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-1432979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-eliminar-aplicaciones-no-deseadas-android-auto-morir-intento-4278265.jpg?tf=1200x' alt='Cómo eliminar aplicaciones no deseadas en Android Auto sin morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371'>FreeBSD: ¿Qué es y en qué se diferencia de Linux?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/freebsd-diferencia-linux-1432371' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/freebsd-diferencia-linux-4277377.jpg?tf=1200x' alt='FreeBSD: ¿Qué es y en qué se diferencia de Linux?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767'>Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-1428767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/cada-vez-apagas-televisor-estas-acortando-vida-util-seguramente-no-sabes-4271242.jpg?tf=1200x' alt='Cada vez que apagas así tu televisor estás acortando su vida útil, y seguramente no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-ia-microsoft-revolucionando-trabajo-1428706'>¿Qué es Copilot, la IA de Microsoft que está revolucionando el trabajo?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-ia-microsoft-revolucionando-trabajo-1428706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/microsoft-copilot-3972239.jpg?tf=1200x' alt='¿Qué es Copilot, la IA de Microsoft que está revolucionando el trabajo?' />
     </a>
 </div>
 
