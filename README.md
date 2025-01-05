@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2024</a></h4>
+    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2024' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779'>Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-edge-volvera-inteligente-estas-nuevas-funciones-prepara-microsoft-1433779' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-edge-4279395.jpg?tf=1200x' alt='Microsoft Edge se volverá más inteligente con estas nuevas funciones que prepara Microsoft' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776'>Google Chrome es cada vez más popular pero Edge es el que más crece en el último año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-cada-vez-popular-pero-edge-crece-ultimo-ano-1433776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/navegadores-4279392.jpg?tf=1200x' alt='Google Chrome es cada vez más popular pero Edge es el que más crece en el último año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/correo-electronico-podria-no-ser-seguro-descubren-millones-servidores-cifrado-habilitado-1433775'>Tu correo electrónico podría no ser seguro: descubren millones de servidores sin cifrado habilitado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/correo-electronico-podria-no-ser-seguro-descubren-millones-servidores-cifrado-habilitado-1433775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/phishing-email-4279390.jpg?tf=1200x' alt='Tu correo electrónico podría no ser seguro: descubren millones de servidores sin cifrado habilitado' />
     </a>
 </div>
 
