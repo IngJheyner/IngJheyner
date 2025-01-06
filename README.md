@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-lanza-nuevo-procesador-snapdragon-x-portatiles-mucho-baratos-1433643'>Qualcomm lanza un nuevo procesador Snapdragon X para portátiles mucho más baratos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-lanza-nuevo-procesador-snapdragon-x-portatiles-mucho-baratos-1433643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/qualcomm-snapdragon-x-4279207.jpg?tf=1200x' alt='Qualcomm lanza un nuevo procesador Snapdragon X para portátiles mucho más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-5-frases-usaron-superar-momentos-dificiles-apple-1431541'>Steve Jobs y Tim Cook: 5 frases que usaron para superar los momentos más difíciles de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-5-frases-usaron-superar-momentos-dificiles-apple-1431541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-jobs-tim-cook-5-frases-usaron-superar-momentos-dificiles-apple-4275949.jpg?tf=1200x' alt='Steve Jobs y Tim Cook: 5 frases que usaron para superar los momentos más difíciles de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/protege-movil-consejos-elegir-antivirus-perfecto-1431605'>Protege tu móvil como un pro: 3 consejos para elegir el antivirus perfecto</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/protege-movil-consejos-elegir-antivirus-perfecto-1431605' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proteger-movil-antivirus-4276032.jpg?tf=1200x' alt='Protege tu móvil como un pro: 3 consejos para elegir el antivirus perfecto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/linux-mint-vs-ubuntu-diferencian-sistemas-operativos-1432574'>Linux Mint vs. Ubuntu: ¿en qué se diferencian los sistemas operativos? </a></h4>
     <a href='https://computerhoy.20minutos.es/pc/linux-mint-vs-ubuntu-diferencian-sistemas-operativos-1432574' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/linux-mint-vs-ubuntu-diferencian-sistemas-operativos-4277661.jpg?tf=1200x' alt='Linux Mint vs. Ubuntu: ¿en qué se diferencian los sistemas operativos? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-conseguir-vuelos-baratos-utilizando-vpn-1429043'>Cómo conseguir vuelos más baratos utilizando una VPN en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-conseguir-vuelos-baratos-utilizando-vpn-1429043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-conseguir-vuelos-baratos-utilizando-vpn-4271719.jpg?tf=1200x' alt='Cómo conseguir vuelos más baratos utilizando una VPN en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-1429106'>¿Es posible aprender a programar utilizando solo la inteligencia artificial de ChatGPT?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-1429106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-4271782.jpg?tf=1200x' alt='¿Es posible aprender a programar utilizando solo la inteligencia artificial de ChatGPT?' />
     </a>
 </div>
 
