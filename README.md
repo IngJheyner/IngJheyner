@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-1433459'>Cómo activar el "modo bala" de Android Auto y hacer que vuele incluso en los móviles más antiguos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-1433459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-4278960.jpg?tf=1200x' alt='Cómo activar el "modo bala" de Android Auto y hacer que vuele incluso en los móviles más antiguos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/empieza-ces-2025-vegas-abriendo-ano-donde-ia-sera-omnipresente-1433515'>Empieza el CES 2025 en Las Vegas abriendo el año donde la IA será omnipresente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/empieza-ces-2025-vegas-abriendo-ano-donde-ia-sera-omnipresente-1433515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2024-4279118.jpg?tf=1200x' alt='Empieza el CES 2025 en Las Vegas abriendo el año donde la IA será omnipresente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ano-usando-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364'>Tras un año usando el Samsung Galaxy S24 Ultra creo que no hay vuelta atrás</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ano-usando-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267392.jpg?tf=1200x' alt='Tras un año usando el Samsung Galaxy S24 Ultra creo que no hay vuelta atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/samsung-convierte-televisiones-aparato-central-casa-gracias-vision-ai-1433641'>Samsung convierte sus televisiones en el aparato central de casa gracias a Vision AI</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/samsung-convierte-televisiones-aparato-central-casa-gracias-vision-ai-1433641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienda-samsung-4273498.jpg?tf=1200x' alt='Samsung convierte sus televisiones en el aparato central de casa gracias a Vision AI' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-2-ni-steam-deck-consola-atari-gamestation-go-ces-2025-1433855'>Ni Nintendo Switch 2 ni Steam Deck: la nueva consola de Atari en CES 2025 revela unos controles revolucionarios</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-2-ni-steam-deck-consola-atari-gamestation-go-ces-2025-1433855' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-nintendo-switch-2-ni-steam-deck-nueva-consola-atari-ces-2025-revela-controles-nunca-vistos-4279524.jpg?tf=1200x' alt='Ni Nintendo Switch 2 ni Steam Deck: la nueva consola de Atari en CES 2025 revela unos controles revolucionarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-1433852'>Primera imagen real de la RTX 5090 de Nvidia antes de CES 2025, es una bestia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-1433852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primera-imagen-real-rtx-5090-nvidia-antes-ces-2025-confirman-datos-tecnicos-4279522.jpg?tf=1200x' alt='Primera imagen real de la RTX 5090 de Nvidia antes de CES 2025, es una bestia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-hardware-descubre-grave-problema-nueva-tarjeta-grafica-intel-arc-b580-1433851'>Experto en hardware descubre un grave problema en la nueva tarjeta gráfica Intel Arc B580</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-hardware-descubre-grave-problema-nueva-tarjeta-grafica-intel-arc-b580-1433851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/intel-presenta-nuevas-tarjetas-graficas-intel-arc-b570-b580-baratas-potentes-rtx-4060-4269088.jpg?tf=1200x' alt='Experto en hardware descubre un grave problema en la nueva tarjeta gráfica Intel Arc B580' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/ces-2025-samsung-google-presentan-eclipsa-audio-alternativa-gratis-dolby-atmos-1433848'>CES 2025: Samsung y Google presentan Eclipsa Audio, la alternativa gratis a Dolby Atmos que lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/ces-2025-samsung-google-presentan-eclipsa-audio-alternativa-gratis-dolby-atmos-1433848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-google-presentan-eclipsa-audio-ces-2025-alternativa-gratis-dolby-atmos-cambia-todo-4279472.jpg?tf=1200x' alt='CES 2025: Samsung y Google presentan Eclipsa Audio, la alternativa gratis a Dolby Atmos que lo cambia todo' />
     </a>
 </div>
 
