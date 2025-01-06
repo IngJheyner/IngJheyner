@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-conseguir-vuelos-baratos-utilizando-vpn-1429043'>Cómo conseguir vuelos más baratos utilizando una VPN en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-conseguir-vuelos-baratos-utilizando-vpn-1429043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-conseguir-vuelos-baratos-utilizando-vpn-4271719.jpg?tf=1200x' alt='Cómo conseguir vuelos más baratos utilizando una VPN en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-1429106'>¿Es posible aprender a programar utilizando solo la inteligencia artificial de ChatGPT?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-1429106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-4271782.jpg?tf=1200x' alt='¿Es posible aprender a programar utilizando solo la inteligencia artificial de ChatGPT?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097'>Cómo será la inteligencia artificial en 2030, según la propia IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-2030-4271776.jpg?tf=1200x' alt='Cómo será la inteligencia artificial en 2030, según la propia IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-2013-necesidad-viajar-espacio-1433657'>Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-2013-necesidad-viajar-espacio-1433657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-4279267.jpg?tf=1200x' alt='Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
     </a>
 </div>
 
