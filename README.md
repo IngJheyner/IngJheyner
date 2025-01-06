@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097'>Cómo será la inteligencia artificial en 2030, según la propia IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-2030-4271776.jpg?tf=1200x' alt='Cómo será la inteligencia artificial en 2030, según la propia IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-2013-necesidad-viajar-espacio-1433657'>Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-2013-necesidad-viajar-espacio-1433657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-4279267.jpg?tf=1200x' alt='Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/5-trucos-rapidos-fortalecer-senal-wifi-instante-1432912'>5 trucos rápidos para fortalecer tu señal WiFi al instante</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/5-trucos-rapidos-fortalecer-senal-wifi-instante-1432912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-trucos-rapidos-fortalecer-senal-wifi-instante-4278165.jpg?tf=1200x' alt='5 trucos rápidos para fortalecer tu señal WiFi al instante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938'>Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-4278242.jpg?tf=1200x' alt='Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/llevo-siglos-utilizando-funcion-waze-me-evita-muchas-multas-sorprendentemente-nadie-conoce-1432891'>Llevo siglos utilizando esta función de Waze: me evita muchas multas y sorprendentemente nadie la conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/llevo-siglos-utilizando-funcion-waze-me-evita-muchas-multas-sorprendentemente-nadie-conoce-1432891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevo-siglos-utilizando-funcion-waze-me-evita-muchas-multas-sorprendentemente-nadie-conoce-4278122.jpg?tf=1200x' alt='Llevo siglos utilizando esta función de Waze: me evita muchas multas y sorprendentemente nadie la conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-1433459'>Cómo activar el "modo bala" de Android Auto y hacer que vuele incluso en los móviles más antiguos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-1433459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-4278960.jpg?tf=1200x' alt='Cómo activar el "modo bala" de Android Auto y hacer que vuele incluso en los móviles más antiguos' />
     </a>
 </div>
 
