@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acer-nitro-blaze-11-novedades-ces-2025-1433857'>Acer Nitro Blaze 11 es una consola portátil de 11 pulgadas para quien una Steam Deck se le queda pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acer-nitro-blaze-11-novedades-ces-2025-1433857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/acer-nitro-blaze-11-4279528.jpg?tf=1200x' alt='Acer Nitro Blaze 11 es una consola portátil de 11 pulgadas para quien una Steam Deck se le queda pequeña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/actualiza-ya-android-auto-soluciona-error-comandos-voz-nueva-actualizacion-1433964'>Actualiza ya: Android Auto soluciona el error de comandos de voz con una nueva actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/actualiza-ya-android-auto-soluciona-error-comandos-voz-nueva-actualizacion-1433964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-3911253.jpg?tf=1200x' alt='Actualiza ya: Android Auto soluciona el error de comandos de voz con una nueva actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevos-joy-cons-nintendo-switch-2-podrian-ser-solo-mandos-1433962'>Los nuevos Joy-Cons de Nintendo Switch 2 podrían ser más que solo mandos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nuevos-joy-cons-nintendo-switch-2-podrian-ser-solo-mandos-1433962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='Los nuevos Joy-Cons de Nintendo Switch 2 podrían ser más que solo mandos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-1433462'>Ni películas ni series, la desconocida función de Kodi para saber si te están estafando</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-1433462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-4278962.jpg?tf=1200x' alt='Ni películas ni series, la desconocida función de Kodi para saber si te están estafando' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/filtran-detalles-posible-raspberry-pi-5-16-gb-anuncio-inminente-1433961'>Se filtran detalles de una posible Raspberry Pi 5 con 16 GB para anuncio inminente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/filtran-detalles-posible-raspberry-pi-5-16-gb-anuncio-inminente-1433961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Se filtran detalles de una posible Raspberry Pi 5 con 16 GB para anuncio inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/consejos-elegir-tarjeta-grafica-perfecta-pc-gamer-1431621'>7 consejos para elegir la tarjeta gráfica perfecta para tu PC gamer</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/consejos-elegir-tarjeta-grafica-perfecta-pc-gamer-1431621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjeta-grafica-4276068.jpg?tf=1200x' alt='7 consejos para elegir la tarjeta gráfica perfecta para tu PC gamer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/tcl-sigue-idilio-tinta-electronica-ces-2025-tablet-nxtpaper-11-plus-moviles-tcl-60-1430756'>TCL sigue su idilio con la tinta electrónica en el CES 2025 con la tablet Nxtpaper 11 Plus y los móviles TCL 60</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/tcl-sigue-idilio-tinta-electronica-ces-2025-tablet-nxtpaper-11-plus-moviles-tcl-60-1430756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tcl-projector-a1-4276260.jpg?tf=1200x' alt='TCL sigue su idilio con la tinta electrónica en el CES 2025 con la tablet Nxtpaper 11 Plus y los móviles TCL 60' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-wifi-ni-ethernet-estas-son-mejores-formas-llevar-internet-cualquier-habitacion-casa-1431523'>Ni WiFi ni Ethernet, estas son las mejores formas de llevar internet a cualquier habitación de tu casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-wifi-ni-ethernet-estas-son-mejores-formas-llevar-internet-cualquier-habitacion-casa-1431523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-wifi-ni-ethernet-estas-son-formas-llevar-internet-cualquier-habitacion-casa-4275944.jpg?tf=1200x' alt='Ni WiFi ni Ethernet, estas son las mejores formas de llevar internet a cualquier habitación de tu casa' />
     </a>
 </div>
 
