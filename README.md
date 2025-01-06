@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/seguridad-sistemas-operativos-seguros-1432575'>Si eres un obseso por la seguridad, estos son los 4 sistemas operativos más seguros</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/seguridad-sistemas-operativos-seguros-1432575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/seguridad-sistemas-operativos-4277660.jpg?tf=1200x' alt='Si eres un obseso por la seguridad, estos son los 4 sistemas operativos más seguros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938'>Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-4278242.jpg?tf=1200x' alt='Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/empieza-ces-2025-vegas-abriendo-ano-donde-ia-sera-omnipresente-1433515'>Empieza el CES 2025 en Las Vegas abriendo el año donde la IA será omnipresente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/empieza-ces-2025-vegas-abriendo-ano-donde-ia-sera-omnipresente-1433515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2024-4279118.jpg?tf=1200x' alt='Empieza el CES 2025 en Las Vegas abriendo el año donde la IA será omnipresente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ano-usando-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364'>Tras un año usando el Samsung Galaxy S24 Ultra creo que no hay vuelta atrás</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ano-usando-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267392.jpg?tf=1200x' alt='Tras un año usando el Samsung Galaxy S24 Ultra creo que no hay vuelta atrás' />
     </a>
 </div>
 
