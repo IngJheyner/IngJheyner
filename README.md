@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/intel-prepara-fin-soporte-windows-10-nuevos-procesadores-arrow-lake-raptor-lake-1432772'>Intel se prepara para el fin del soporte de Windows 10 con nuevos procesadores Arrow Lake, Raptor Lake y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/intel-prepara-fin-soporte-windows-10-nuevos-procesadores-arrow-lake-raptor-lake-1432772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/intel-core-ultra-procesadores-4278826.jpg?tf=1200x' alt='Intel se prepara para el fin del soporte de Windows 10 con nuevos procesadores Arrow Lake, Raptor Lake y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/linux-mint-vs-ubuntu-diferencian-sistemas-operativos-1432574'>Linux Mint vs. Ubuntu: ¿en qué se diferencian los sistemas operativos? </a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/linux-mint-vs-ubuntu-diferencian-sistemas-operativos-1432574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/linux-mint-vs-ubuntu-diferencian-sistemas-operativos-4277661.jpg?tf=1200x' alt='Linux Mint vs. Ubuntu: ¿en qué se diferencian los sistemas operativos? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-conseguir-vuelos-baratos-utilizando-vpn-1429043'>Cómo conseguir vuelos más baratos utilizando una VPN en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-conseguir-vuelos-baratos-utilizando-vpn-1429043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/como-conseguir-vuelos-baratos-utilizando-vpn-4271719.jpg?tf=1200x' alt='Cómo conseguir vuelos más baratos utilizando una VPN en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-perfecto-hacer-deporte-gps-precio-brutal-amazon-1433874'>"Un reloj perfecto para hacer deporte", con GPS y a precio brutal en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reloj-perfecto-hacer-deporte-gps-precio-brutal-amazon-1433874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-3-3306230.jpg?tf=1200x' alt='"Un reloj perfecto para hacer deporte", con GPS y a precio brutal en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-peligro-responder-mensaje-google-1432964'>Los expertos en seguridad alertan: NO respondas jamás este mensaje de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-peligro-responder-mensaje-google-1432964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-4278261.jpg?tf=1200x' alt='Los expertos en seguridad alertan: NO respondas jamás este mensaje de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097'>Cómo será la inteligencia artificial en 2030, según la propia IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-2030-4271776.jpg?tf=1200x' alt='Cómo será la inteligencia artificial en 2030, según la propia IA' />
     </a>
 </div>
 
