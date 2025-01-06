@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938'>Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-4278242.jpg?tf=1200x' alt='Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/llevo-siglos-utilizando-funcion-waze-me-evita-muchas-multas-sorprendentemente-nadie-conoce-1432891'>Llevo siglos utilizando esta función de Waze: me evita muchas multas y sorprendentemente nadie la conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/llevo-siglos-utilizando-funcion-waze-me-evita-muchas-multas-sorprendentemente-nadie-conoce-1432891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/llevo-siglos-utilizando-funcion-waze-me-evita-muchas-multas-sorprendentemente-nadie-conoce-4278122.jpg?tf=1200x' alt='Llevo siglos utilizando esta función de Waze: me evita muchas multas y sorprendentemente nadie la conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-1433459'>Cómo activar el "modo bala" de Android Auto y hacer que vuele incluso en los móviles más antiguos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-1433459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-bala-android-auto-hacer-vuele-incluso-moviles-antiguos-4278960.jpg?tf=1200x' alt='Cómo activar el "modo bala" de Android Auto y hacer que vuele incluso en los móviles más antiguos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/ano-usando-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364'>Tras un año usando el Samsung Galaxy S24 Ultra creo que no hay vuelta atrás</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ano-usando-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267392.jpg?tf=1200x' alt='Tras un año usando el Samsung Galaxy S24 Ultra creo que no hay vuelta atrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/samsung-convierte-televisiones-aparato-central-casa-gracias-vision-ai-1433641'>Samsung convierte sus televisiones en el aparato central de casa gracias a Vision AI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/samsung-convierte-televisiones-aparato-central-casa-gracias-vision-ai-1433641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tienda-samsung-4273498.jpg?tf=1200x' alt='Samsung convierte sus televisiones en el aparato central de casa gracias a Vision AI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-2-ni-steam-deck-consola-atari-gamestation-go-ces-2025-1433855'>Ni Nintendo Switch 2 ni Steam Deck: la nueva consola de Atari en CES 2025 revela unos controles revolucionarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-nintendo-switch-2-ni-steam-deck-consola-atari-gamestation-go-ces-2025-1433855' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-nintendo-switch-2-ni-steam-deck-nueva-consola-atari-ces-2025-revela-controles-nunca-vistos-4279524.jpg?tf=1200x' alt='Ni Nintendo Switch 2 ni Steam Deck: la nueva consola de Atari en CES 2025 revela unos controles revolucionarios' />
     </a>
 </div>
 
