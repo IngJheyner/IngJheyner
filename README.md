@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-1433462'>Ni películas ni series, la desconocida función de Kodi para saber si te están estafando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-1433462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-4278962.jpg?tf=1200x' alt='Ni películas ni series, la desconocida función de Kodi para saber si te están estafando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/filtran-detalles-posible-raspberry-pi-5-16-gb-anuncio-inminente-1433961'>Se filtran detalles de una posible Raspberry Pi 5 con 16 GB para anuncio inminente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/filtran-detalles-posible-raspberry-pi-5-16-gb-anuncio-inminente-1433961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Se filtran detalles de una posible Raspberry Pi 5 con 16 GB para anuncio inminente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/consejos-elegir-tarjeta-grafica-perfecta-pc-gamer-1431621'>7 consejos para elegir la tarjeta gráfica perfecta para tu PC gamer</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/consejos-elegir-tarjeta-grafica-perfecta-pc-gamer-1431621' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjeta-grafica-4276068.jpg?tf=1200x' alt='7 consejos para elegir la tarjeta gráfica perfecta para tu PC gamer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/ni-wifi-ni-ethernet-estas-son-mejores-formas-llevar-internet-cualquier-habitacion-casa-1431523'>Ni WiFi ni Ethernet, estas son las mejores formas de llevar internet a cualquier habitación de tu casa</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ni-wifi-ni-ethernet-estas-son-mejores-formas-llevar-internet-cualquier-habitacion-casa-1431523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-wifi-ni-ethernet-estas-son-formas-llevar-internet-cualquier-habitacion-casa-4275944.jpg?tf=1200x' alt='Ni WiFi ni Ethernet, estas son las mejores formas de llevar internet a cualquier habitación de tu casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/como-hacer-mac-funcione-como-nuevo-trucos-mejorar-rendimiento-1431539'>Cómo hacer que tu Mac funcione como nuevo: 8 trucos para mejorar su rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/como-hacer-mac-funcione-como-nuevo-trucos-mejorar-rendimiento-1431539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/laptop-mac-4275940.jpg?tf=1200x' alt='Cómo hacer que tu Mac funcione como nuevo: 8 trucos para mejorar su rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-lanza-nuevo-procesador-snapdragon-x-portatiles-mucho-baratos-1433643'>Qualcomm lanza un nuevo procesador Snapdragon X para portátiles mucho más baratos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-lanza-nuevo-procesador-snapdragon-x-portatiles-mucho-baratos-1433643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/qualcomm-snapdragon-x-4279207.jpg?tf=1200x' alt='Qualcomm lanza un nuevo procesador Snapdragon X para portátiles mucho más baratos' />
     </a>
 </div>
 
