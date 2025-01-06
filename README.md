@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-1429106'>¿Es posible aprender a programar utilizando solo la inteligencia artificial de ChatGPT?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-1429106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/posible-aprender-programar-utilizando-solo-inteligencia-artificial-chatgpt-4271782.jpg?tf=1200x' alt='¿Es posible aprender a programar utilizando solo la inteligencia artificial de ChatGPT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reloj-perfecto-hacer-deporte-gps-precio-brutal-amazon-1433874'>"Un reloj perfecto para hacer deporte", con GPS y a precio brutal en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reloj-perfecto-hacer-deporte-gps-precio-brutal-amazon-1433874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/huawei-watch-fit-3-3306230.jpg?tf=1200x' alt='"Un reloj perfecto para hacer deporte", con GPS y a precio brutal en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-peligro-responder-mensaje-google-1432964'>Los expertos en seguridad alertan: NO respondas jamás este mensaje de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-peligro-responder-mensaje-google-1432964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/expertos-seguridad-no-puede-ser-claros-no-respondas-mensaje-google-4278261.jpg?tf=1200x' alt='Los expertos en seguridad alertan: NO respondas jamás este mensaje de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097'>Cómo será la inteligencia artificial en 2030, según la propia IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-sera-inteligencia-artificial-2030-propia-ia-1429097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/inteligencia-2030-4271776.jpg?tf=1200x' alt='Cómo será la inteligencia artificial en 2030, según la propia IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-2013-necesidad-viajar-espacio-1433657'>Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-2013-necesidad-viajar-espacio-1433657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-logra-reparar-satelite-averiado-2013-necesidad-viajar-espacio-4279267.jpg?tf=1200x' alt='Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/5-trucos-rapidos-fortalecer-senal-wifi-instante-1432912'>5 trucos rápidos para fortalecer tu señal WiFi al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/5-trucos-rapidos-fortalecer-senal-wifi-instante-1432912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/5-trucos-rapidos-fortalecer-senal-wifi-instante-4278165.jpg?tf=1200x' alt='5 trucos rápidos para fortalecer tu señal WiFi al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/seguridad-sistemas-operativos-seguros-1432575'>Si eres un obseso por la seguridad, estos son los 4 sistemas operativos más seguros</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/seguridad-sistemas-operativos-seguros-1432575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/seguridad-sistemas-operativos-4277660.jpg?tf=1200x' alt='Si eres un obseso por la seguridad, estos son los 4 sistemas operativos más seguros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938'>Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-1432938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/quien-tiene-disco-duro-tiene-tesoro-como-darle-segunda-vida-disco-hdd-antiguo-4278242.jpg?tf=1200x' alt='Quién tiene un disco duro tiene un tesoro: cómo darle una segunda vida a un disco HDD antiguo' />
     </a>
 </div>
 
