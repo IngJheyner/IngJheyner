@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/consejos-elegir-tarjeta-grafica-perfecta-pc-gamer-1431621'>7 consejos para elegir la tarjeta gráfica perfecta para tu PC gamer</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/consejos-elegir-tarjeta-grafica-perfecta-pc-gamer-1431621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tarjeta-grafica-4276068.jpg?tf=1200x' alt='7 consejos para elegir la tarjeta gráfica perfecta para tu PC gamer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/tcl-sigue-idilio-tinta-electronica-ces-2025-tablet-nxtpaper-11-plus-moviles-tcl-60-1430756'>TCL sigue su idilio con la tinta electrónica en el CES 2025 con la tablet Nxtpaper 11 Plus y los móviles TCL 60</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/tcl-sigue-idilio-tinta-electronica-ces-2025-tablet-nxtpaper-11-plus-moviles-tcl-60-1430756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/tcl-projector-a1-4276260.jpg?tf=1200x' alt='TCL sigue su idilio con la tinta electrónica en el CES 2025 con la tablet Nxtpaper 11 Plus y los móviles TCL 60' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/ni-wifi-ni-ethernet-estas-son-mejores-formas-llevar-internet-cualquier-habitacion-casa-1431523'>Ni WiFi ni Ethernet, estas son las mejores formas de llevar internet a cualquier habitación de tu casa</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ni-wifi-ni-ethernet-estas-son-mejores-formas-llevar-internet-cualquier-habitacion-casa-1431523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-wifi-ni-ethernet-estas-son-formas-llevar-internet-cualquier-habitacion-casa-4275944.jpg?tf=1200x' alt='Ni WiFi ni Ethernet, estas son las mejores formas de llevar internet a cualquier habitación de tu casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-lanza-nuevo-procesador-snapdragon-x-portatiles-mucho-baratos-1433643'>Qualcomm lanza un nuevo procesador Snapdragon X para portátiles mucho más baratos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-lanza-nuevo-procesador-snapdragon-x-portatiles-mucho-baratos-1433643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/qualcomm-snapdragon-x-4279207.jpg?tf=1200x' alt='Qualcomm lanza un nuevo procesador Snapdragon X para portátiles mucho más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-5-frases-usaron-superar-momentos-dificiles-apple-1431541'>Steve Jobs y Tim Cook: 5 frases que usaron para superar los momentos más difíciles de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tim-cook-5-frases-usaron-superar-momentos-dificiles-apple-1431541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/steve-jobs-tim-cook-5-frases-usaron-superar-momentos-dificiles-apple-4275949.jpg?tf=1200x' alt='Steve Jobs y Tim Cook: 5 frases que usaron para superar los momentos más difíciles de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/protege-movil-consejos-elegir-antivirus-perfecto-1431605'>Protege tu móvil como un pro: 3 consejos para elegir el antivirus perfecto</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/protege-movil-consejos-elegir-antivirus-perfecto-1431605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/proteger-movil-antivirus-4276032.jpg?tf=1200x' alt='Protege tu móvil como un pro: 3 consejos para elegir el antivirus perfecto' />
     </a>
 </div>
 
