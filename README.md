@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-1434149'>Las películas de terror más esperadas de 2025: así son las tres míticas sagas de los 90 que volverán este año</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-1434149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-4279877.jpg?tf=1200x' alt='Las películas de terror más esperadas de 2025: así son las tres míticas sagas de los 90 que volverán este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/codigos-secretos-waze-funciones-ocultas-1392938'>Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/codigos-secretos-waze-funciones-ocultas-1392938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-china-ralentizar-rotacion-tierra-1433469'>La NASA lo confirman: China posee un arma natural tan poderosa que es capaz de ralentizar la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-china-ralentizar-rotacion-tierra-1433469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-nasa-confirman-china-tiene-arma-natural-tan-poderosa-capaz-ralentizar-tierra-4278953.jpg?tf=1200x' alt='La NASA lo confirman: China posee un arma natural tan poderosa que es capaz de ralentizar la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-presenta-ios-1821-nuevo-llega-iphone-1434105'>Apple presenta iOS 18.2.1: esto es lo nuevo que llega a tu iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-presenta-ios-1821-nuevo-llega-iphone-1434105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Apple presenta iOS 18.2.1: esto es lo nuevo que llega a tu iPhone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/anillos-saturno-desapareceran-2025-increible-efecto-optico-1434161'>Los anillos de Saturno desaparecerán en 2025 por un increíble efecto óptico</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/anillos-saturno-desapareceran-2025-increible-efecto-optico-1434161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-saturno-4279902.jpg?tf=1200x' alt='Los anillos de Saturno desaparecerán en 2025 por un increíble efecto óptico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/novedades-asus-ces-2025-asus-zenbook-a14-1430613'>Asus Zenbook A14, el portátil más ligero y con mejor autonomía con Snapdragon X Elite y Plus</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/novedades-asus-ces-2025-asus-zenbook-a14-1430613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/asus-zenbook-a14-4274393.jpg?tf=1200x' alt='Asus Zenbook A14, el portátil más ligero y con mejor autonomía con Snapdragon X Elite y Plus' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-coladero-ya-conoce-consola-todo-lujo-detalles-1434037'>Nintendo Switch 2 es un coladero: ya se conoce la consola con todo lujo de detalles</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-coladero-ya-conoce-consola-todo-lujo-detalles-1434037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4279879.jpg?tf=1200x' alt='Nintendo Switch 2 es un coladero: ya se conoce la consola con todo lujo de detalles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-1434178'>Ni el catalizador ni las llantas, las ADAS son el nuevo objetivo de los ladrones de coches</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-1434178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-4279990.jpg?tf=1200x' alt='Ni el catalizador ni las llantas, las ADAS son el nuevo objetivo de los ladrones de coches' />
     </a>
 </div>
 
