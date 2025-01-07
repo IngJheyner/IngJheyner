@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2025 (lista actualizada)</a></h4>
+    <a href='https://computerhoy.20minutos.es/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/codigos-secretos-netflix-4279939.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2025 (lista actualizada)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-1434100'>DIGI se convierte en la peor pesadilla de los clientes de Movistar, Vodafone y Orange</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-1434100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-4279812.jpg?tf=1200x' alt='DIGI se convierte en la peor pesadilla de los clientes de Movistar, Vodafone y Orange' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/firescam-peligroso-malware-espia-notificaciones-sms-moviles-android-1434020'>FireScam, el peligroso malware que espía notificaciones, SMS y más en móviles Android</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/firescam-peligroso-malware-espia-notificaciones-sms-moviles-android-1434020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/firescam-malware-espia-notificaciones-sms-android-4279730.jpg?tf=1200x' alt='FireScam, el peligroso malware que espía notificaciones, SMS y más en móviles Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/lanzamiento-new-glenn-blue-origin-jeff-bezos-fecha-horario-como-ver-online-directo-1434086'>Lanzamiento del New Glenn de Blue Origin y Jeff Bezos: fecha, horario y cómo ver online en directo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/lanzamiento-new-glenn-blue-origin-jeff-bezos-fecha-horario-como-ver-online-directo-1434086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/new-glenn-blue-origin-jeff-bezos-4279831.jpg?tf=1200x' alt='Lanzamiento del New Glenn de Blue Origin y Jeff Bezos: fecha, horario y cómo ver online en directo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-sabe-como-hacer-superinteligencia-artificial-cree-2025-sera-clave-1434023'>Sam Altman ya sabe cómo hacer la superinteligencia artificial, y cree que 2025 será clave</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-sabe-como-hacer-superinteligencia-artificial-cree-2025-sera-clave-1434023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sam-altman-consejero-delegado-openai-4162365.jpg?tf=1200x' alt='Sam Altman ya sabe cómo hacer la superinteligencia artificial, y cree que 2025 será clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/squirrel-programacion-todo-debes-saber-canal-sustituye-disney-channel-tdt-1434087'>Squirrel: programación y todo lo que debes saber del canal que sustituye a Disney Channel en la TDT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/squirrel-programacion-todo-debes-saber-canal-sustituye-disney-channel-tdt-1434087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-channel-tdt-4279854.jpg?tf=1200x' alt='Squirrel: programación y todo lo que debes saber del canal que sustituye a Disney Channel en la TDT' />
     </a>
 </div>
 
