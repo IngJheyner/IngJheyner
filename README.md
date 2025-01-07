@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-1434258'>No solo IPTV y fútbol gratis: el escudo antipiratería se amplía a películas y series</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-1434258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-4280068.jpg?tf=1200x' alt='No solo IPTV y fútbol gratis: el escudo antipiratería se amplía a películas y series' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/pc-listo-windows-11-google-prueba-nueva-metrica-chrome-comprobarlo-1434276'>¿Tu PC está listo para Windows 11? Google prueba una nueva métrica en Chrome para comprobarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/pc-listo-windows-11-google-prueba-nueva-metrica-chrome-comprobarlo-1434276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chrome-windows-11-4280074.jpg?tf=1200x' alt='¿Tu PC está listo para Windows 11? Google prueba una nueva métrica en Chrome para comprobarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-135-beta-ya-aqui-pero-toque-spanglish-inesperado-1434270'>Android Auto 13.5 beta ya está aquí, pero con un toque de "spanglish" inesperado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-135-beta-ya-aqui-pero-toque-spanglish-inesperado-1434270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-135-4280066.jpg?tf=1200x' alt='Android Auto 13.5 beta ya está aquí, pero con un toque de "spanglish" inesperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-tiene-problema-supone-exista-agua-liquida-marte-1434131'>La NASA tiene un problema: esto es lo que supone que exista agua líquida en Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-tiene-problema-supone-exista-agua-liquida-marte-1434131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/superficie-marte-4263739.jpg?tf=1200x' alt='La NASA tiene un problema: esto es lo que supone que exista agua líquida en Marte' />
     </a>
 </div>
 
