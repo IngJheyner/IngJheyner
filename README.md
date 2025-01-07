@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-dispositivos-ha-anunciado-asus-ces-2025-rog-flow-z13-zephyrus-g14-g16-1434097'>Todos los dispositivos que ha anunciado Asus en el CES 2025: ROG Flow Z13, Zephyrus G14 y G16 y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todos-dispositivos-ha-anunciado-asus-ces-2025-rog-flow-z13-zephyrus-g14-g16-1434097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/asus-rog-flow-z13-4279824.jpg?tf=1200x' alt='Todos los dispositivos que ha anunciado Asus en el CES 2025: ROG Flow Z13, Zephyrus G14 y G16 y más' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/firescam-peligroso-malware-espia-notificaciones-sms-moviles-android-1434020'>FireScam, el peligroso malware que espía notificaciones, SMS y más en móviles Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/firescam-peligroso-malware-espia-notificaciones-sms-moviles-android-1434020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/firescam-malware-espia-notificaciones-sms-android-4279730.jpg?tf=1200x' alt='FireScam, el peligroso malware que espía notificaciones, SMS y más en móviles Android' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/razer-afina-30-ces-2025-portatil-gaming-potente-razer-blade-16-1434062'>Razer afina un 30% en el CES 2025 su portátil gaming más potente, el Razer Blade 16</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/razer-afina-30-ces-2025-portatil-gaming-potente-razer-blade-16-1434062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/razer-blade-16-2025-4279794.jpg?tf=1200x' alt='Razer afina un 30% en el CES 2025 su portátil gaming más potente, el Razer Blade 16' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-movistar-vodafone-despiden-tarjetas-sim-fisicas-1434120'>Giro de 180 grados en Movistar y Vodafone: se despiden de las tarjetas SIM físicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-movistar-vodafone-despiden-tarjetas-sim-fisicas-1434120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-movistar-vodafone-despiden-tarjetas-sim-fisicas-4279847.jpg?tf=1200x' alt='Giro de 180 grados en Movistar y Vodafone: se despiden de las tarjetas SIM físicas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/lanzamiento-new-glenn-blue-origin-jeff-bezos-fecha-horario-como-ver-online-directo-1434086'>Lanzamiento del New Glenn de Blue Origin y Jeff Bezos: fecha, horario y cómo ver online en directo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/lanzamiento-new-glenn-blue-origin-jeff-bezos-fecha-horario-como-ver-online-directo-1434086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/new-glenn-blue-origin-jeff-bezos-4279831.jpg?tf=1200x' alt='Lanzamiento del New Glenn de Blue Origin y Jeff Bezos: fecha, horario y cómo ver online en directo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nuevo-lanzamiento-starship-spacex-elon-musk-fecha-horario-como-ver-online-directo-1434049'>Nuevo lanzamiento de Starship de SpaceX y Elon Musk: fecha, horario y cómo ver online en directo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nuevo-lanzamiento-starship-spacex-elon-musk-fecha-horario-como-ver-online-directo-1434049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Nuevo lanzamiento de Starship de SpaceX y Elon Musk: fecha, horario y cómo ver online en directo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-sabe-como-hacer-superinteligencia-artificial-cree-2025-sera-clave-1434023'>Sam Altman ya sabe cómo hacer la superinteligencia artificial, y cree que 2025 será clave</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-sabe-como-hacer-superinteligencia-artificial-cree-2025-sera-clave-1434023' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/sam-altman-consejero-delegado-openai-4162365.jpg?tf=1200x' alt='Sam Altman ya sabe cómo hacer la superinteligencia artificial, y cree que 2025 será clave' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059'>HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/preparate-comprar-nuevos-cables-hdmi-22-cambia-todo-4273526.jpg?tf=1200x' alt='HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/squirrel-programacion-todo-debes-saber-canal-sustituye-disney-channel-tdt-1434087'>Squirrel: programación y todo lo que debes saber del canal que sustituye a Disney Channel en la TDT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/squirrel-programacion-todo-debes-saber-canal-sustituye-disney-channel-tdt-1434087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-channel-tdt-4279854.jpg?tf=1200x' alt='Squirrel: programación y todo lo que debes saber del canal que sustituye a Disney Channel en la TDT' />
     </a>
 </div>
 
