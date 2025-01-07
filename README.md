@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-tiene-problema-supone-exista-agua-liquida-marte-1434131'>La NASA tiene un problema: esto es lo que supone que exista agua líquida en Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-tiene-problema-supone-exista-agua-liquida-marte-1434131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/superficie-marte-4263739.jpg?tf=1200x' alt='La NASA tiene un problema: esto es lo que supone que exista agua líquida en Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-news-podria-aterrizar-espana-1434261'>Apple News podría aterrizar en España: la compañía planea expandir su servicio de noticias a nuevos países</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-news-podria-aterrizar-espana-1434261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-news-podria-aterrizar-espana-compania-planea-expandir-servicio-noticias-nuevos-paises-4280048.jpg?tf=1200x' alt='Apple News podría aterrizar en España: la compañía planea expandir su servicio de noticias a nuevos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-pirateria-alerta-ocurrira-proximos-meses-cuando-ocurre-desastre-1434207'>Experto en IPTV y piratería alerta sobre lo que ocurrirá en los próximos meses: "Cuando ocurre un desastre…" </a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/experto-iptv-pirateria-alerta-ocurrira-proximos-meses-cuando-ocurre-desastre-1434207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-pirateria-alerta-ocurrira-proximos-meses-cuando-ocurre-desastre-4280053.jpg?tf=1200x' alt='Experto en IPTV y piratería alerta sobre lo que ocurrirá en los próximos meses: "Cuando ocurre un desastre…" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-1434149'>Las películas de terror más esperadas de 2025: así son las tres míticas sagas de los 90 que volverán este año</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-1434149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-4279877.jpg?tf=1200x' alt='Las películas de terror más esperadas de 2025: así son las tres míticas sagas de los 90 que volverán este año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/codigos-secretos-waze-funciones-ocultas-1392938'>Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/codigos-secretos-waze-funciones-ocultas-1392938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-china-ralentizar-rotacion-tierra-1433469'>La NASA lo confirman: China posee un arma natural tan poderosa que es capaz de ralentizar la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-nasa-china-ralentizar-rotacion-tierra-1433469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-nasa-confirman-china-tiene-arma-natural-tan-poderosa-capaz-ralentizar-tierra-4278953.jpg?tf=1200x' alt='La NASA lo confirman: China posee un arma natural tan poderosa que es capaz de ralentizar la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-presenta-ios-1821-nuevo-llega-iphone-1434105'>Apple presenta iOS 18.2.1: esto es lo nuevo que llega a tu iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-presenta-ios-1821-nuevo-llega-iphone-1434105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Apple presenta iOS 18.2.1: esto es lo nuevo que llega a tu iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/anillos-saturno-desapareceran-2025-increible-efecto-optico-1434161'>Los anillos de Saturno desaparecerán en 2025 por un increíble efecto óptico</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/anillos-saturno-desapareceran-2025-increible-efecto-optico-1434161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-saturno-4279902.jpg?tf=1200x' alt='Los anillos de Saturno desaparecerán en 2025 por un increíble efecto óptico' />
     </a>
 </div>
 
