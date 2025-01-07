@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/pc-listo-windows-11-google-prueba-nueva-metrica-chrome-comprobarlo-1434276'>¿Tu PC está listo para Windows 11? Google prueba una nueva métrica en Chrome para comprobarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/pc-listo-windows-11-google-prueba-nueva-metrica-chrome-comprobarlo-1434276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chrome-windows-11-4280074.jpg?tf=1200x' alt='¿Tu PC está listo para Windows 11? Google prueba una nueva métrica en Chrome para comprobarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/badbox-mayor-epidemia-malware-dispositivos-android-tv-google-tv-1434138'>Badbox es ya la mayor epidemia de malware para dispositivos Android TV y Google TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/badbox-mayor-epidemia-malware-dispositivos-android-tv-google-tv-1434138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-badbox-4279845.jpg?tf=1200x' alt='Badbox es ya la mayor epidemia de malware para dispositivos Android TV y Google TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ataque-doble-clic-puede-vaciar-cuenta-bancaria-1434271'>El "ataque de doble clic" que puede vaciar tu cuenta bancaria</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ataque-doble-clic-puede-vaciar-cuenta-bancaria-1434271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-pc-portatil-4280067.jpg?tf=1200x' alt='El "ataque de doble clic" que puede vaciar tu cuenta bancaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-135-beta-ya-aqui-pero-toque-spanglish-inesperado-1434270'>Android Auto 13.5 beta ya está aquí, pero con un toque de "spanglish" inesperado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-135-beta-ya-aqui-pero-toque-spanglish-inesperado-1434270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-135-4280066.jpg?tf=1200x' alt='Android Auto 13.5 beta ya está aquí, pero con un toque de "spanglish" inesperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-tiene-problema-supone-exista-agua-liquida-marte-1434131'>La NASA tiene un problema: esto es lo que supone que exista agua líquida en Marte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-tiene-problema-supone-exista-agua-liquida-marte-1434131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/superficie-marte-4263739.jpg?tf=1200x' alt='La NASA tiene un problema: esto es lo que supone que exista agua líquida en Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-news-podria-aterrizar-espana-1434261'>Apple News podría aterrizar en España: la compañía planea expandir su servicio de noticias a nuevos países</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-news-podria-aterrizar-espana-1434261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-news-podria-aterrizar-espana-compania-planea-expandir-servicio-noticias-nuevos-paises-4280048.jpg?tf=1200x' alt='Apple News podría aterrizar en España: la compañía planea expandir su servicio de noticias a nuevos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-pirateria-alerta-ocurrira-proximos-meses-cuando-ocurre-desastre-1434207'>Experto en IPTV y piratería alerta sobre lo que ocurrirá en los próximos meses: "Cuando ocurre un desastre…" </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/experto-iptv-pirateria-alerta-ocurrira-proximos-meses-cuando-ocurre-desastre-1434207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-pirateria-alerta-ocurrira-proximos-meses-cuando-ocurre-desastre-4280053.jpg?tf=1200x' alt='Experto en IPTV y piratería alerta sobre lo que ocurrirá en los próximos meses: "Cuando ocurre un desastre…" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-1434149'>Las películas de terror más esperadas de 2025: así son las tres míticas sagas de los 90 que volverán este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-1434149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peliculas-terror-esperadas-2025-son-tres-miticas-sagas-90-volveran-ano-4279877.jpg?tf=1200x' alt='Las películas de terror más esperadas de 2025: así son las tres míticas sagas de los 90 que volverán este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/codigos-secretos-waze-funciones-ocultas-1392938'>Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/codigos-secretos-waze-funciones-ocultas-1392938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps' />
     </a>
 </div>
 
