@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trucos-raspberry-pi-exprima-todo-potencial-1431293'>Trucos para que tu Raspberry Pi exprima todo su potencial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/trucos-raspberry-pi-exprima-todo-potencial-1431293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-trucos-raspberry-pi-exprima-todo-potencial-4275561.jpg?tf=1200x' alt='Trucos para que tu Raspberry Pi exprima todo su potencial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/te-quieres-comprar-tv-2025-te-puedes-esperar-1433228'>¿Te quieres comprar una TV en 2025? Esto es lo que te puedes esperar </a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/te-quieres-comprar-tv-2025-te-puedes-esperar-1433228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-bravia-8-2024-65-pulgadas-3685116.jpg?tf=1200x' alt='¿Te quieres comprar una TV en 2025? Esto es lo que te puedes esperar ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250'>10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-4275530.jpg?tf=1200x' alt='10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-tiene-diseno-curvo-bateria-infinita-cuesta-menos-30-euros-1433339'>Esta pulsera inteligente tiene diseño curvo, batería infinita y cuesta menos de 30 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-tiene-diseno-curvo-bateria-infinita-cuesta-menos-30-euros-1433339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-band-9-4213287.jpg?tf=1200x' alt='Esta pulsera inteligente tiene diseño curvo, batería infinita y cuesta menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-1430713'>Ni Chrome ni Firefox, la razón definitiva por la que uso Vivaldi para el día a día</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-1430713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-4274572.jpg?tf=1200x' alt='Ni Chrome ni Firefox, la razón definitiva por la que uso Vivaldi para el día a día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/samsung-galaxy-book5-2025-procesadores-intel-lunar-lake-1433985'>Pese al nombre, Samsung actualiza sus portátiles Galaxy Book5 con procesadores Intel Lunar Lake</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/samsung-galaxy-book5-2025-procesadores-intel-lunar-lake-1433985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-book5-pro-galaxy-book5-360-4279672.jpg?tf=1200x' alt='Pese al nombre, Samsung actualiza sus portátiles Galaxy Book5 con procesadores Intel Lunar Lake' />
     </a>
 </div>
 
