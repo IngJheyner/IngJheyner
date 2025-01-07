@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/razer-afina-30-ces-2025-portatil-gaming-potente-razer-blade-16-1434062'>Razer afina un 30% en el CES 2025 su portátil gaming más potente, el Razer Blade 16</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/razer-afina-30-ces-2025-portatil-gaming-potente-razer-blade-16-1434062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/razer-blade-16-2025-4279794.jpg?tf=1200x' alt='Razer afina un 30% en el CES 2025 su portátil gaming más potente, el Razer Blade 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549'>Estos son los mejores móviles calidad precio de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/reportajes/tecnologia/mejores-moviles-calidad-precio-1112549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nothing-phone-2a-plus-4100056.jpg?tf=1200x' alt='Estos son los mejores móviles calidad precio de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nuevo-lanzamiento-starship-spacex-elon-musk-fecha-horario-como-ver-online-directo-1434049'>Nuevo lanzamiento de Starship de SpaceX y Elon Musk: fecha, horario y cómo ver online en directo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nuevo-lanzamiento-starship-spacex-elon-musk-fecha-horario-como-ver-online-directo-1434049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-colonizar-marte-starship-3215210.jpg?tf=1200x' alt='Nuevo lanzamiento de Starship de SpaceX y Elon Musk: fecha, horario y cómo ver online en directo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059'>HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/preparate-comprar-nuevos-cables-hdmi-22-cambia-todo-4273526.jpg?tf=1200x' alt='HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-sencilla-regla-te-hace-inteligente-demostrado-ciencia-1425018'>Steve Jobs ya lo sabía: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/steve-jobs-sencilla-regla-te-hace-inteligente-demostrado-ciencia-1425018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-dado-razon-4265262.jpg?tf=1200x' alt='Steve Jobs ya lo sabía: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amd-renueva-tarjetas-graficas-ces-2025-serie-ryzen-9000hx-procesadores-ryzen-ai-max-1434029'>AMD renueva sus tarjetas gráficas en el CES 2025 con la serie Ryzen 9000HX y los procesadores Ryzen AI Max</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amd-renueva-tarjetas-graficas-ces-2025-serie-ryzen-9000hx-procesadores-ryzen-ai-max-1434029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amd-ces-2025-4279765.jpg?tf=1200x' alt='AMD renueva sus tarjetas gráficas en el CES 2025 con la serie Ryzen 9000HX y los procesadores Ryzen AI Max' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-confirma-fecha-galaxy-unpacked-2025-sera-presentacion-galaxy-s25-1434036'>Samsung confirma la fecha del Galaxy Unpacked 2025: así será la presentación de los Galaxy S25</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-confirma-fecha-galaxy-unpacked-2025-sera-presentacion-galaxy-s25-1434036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267384.jpg?tf=1200x' alt='Samsung confirma la fecha del Galaxy Unpacked 2025: así será la presentación de los Galaxy S25' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-da-todo-ces-2025-ia-robots-nuevas-tarjetas-graficas-rtx-50-1434019'>NVIDIA lo da todo en CES 2025: IA para robots, nuevas tarjetas gráficas RTX 50 y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-da-todo-ces-2025-ia-robots-nuevas-tarjetas-graficas-rtx-50-1434019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jensen-huang-nvidia-4279737.jpg?tf=1200x' alt='NVIDIA lo da todo en CES 2025: IA para robots, nuevas tarjetas gráficas RTX 50 y más' />
     </a>
 </div>
 
