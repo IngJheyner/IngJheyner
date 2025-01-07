@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250'>10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-4275530.jpg?tf=1200x' alt='10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/como-activa-portapapeles-avanzado-windows-11-poca-gente-usa-1433463'>Así es como se activa el portapapeles avanzado de Windows 11 que poca gente usa</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/como-activa-portapapeles-avanzado-windows-11-poca-gente-usa-1433463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activa-portapapeles-avanzado-windows-11-poca-gente-usa-4278972.jpg?tf=1200x' alt='Así es como se activa el portapapeles avanzado de Windows 11 que poca gente usa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-tiene-diseno-curvo-bateria-infinita-cuesta-menos-30-euros-1433339'>Esta pulsera inteligente tiene diseño curvo, batería infinita y cuesta menos de 30 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-tiene-diseno-curvo-bateria-infinita-cuesta-menos-30-euros-1433339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-band-9-4213287.jpg?tf=1200x' alt='Esta pulsera inteligente tiene diseño curvo, batería infinita y cuesta menos de 30 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-1430713'>Ni Chrome ni Firefox, la razón definitiva por la que uso Vivaldi para el día a día</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-1430713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-4274572.jpg?tf=1200x' alt='Ni Chrome ni Firefox, la razón definitiva por la que uso Vivaldi para el día a día' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/samsung-galaxy-book5-2025-procesadores-intel-lunar-lake-1433985'>Pese al nombre, Samsung actualiza sus portátiles Galaxy Book5 con procesadores Intel Lunar Lake</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/samsung-galaxy-book5-2025-procesadores-intel-lunar-lake-1433985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-book5-pro-galaxy-book5-360-4279672.jpg?tf=1200x' alt='Pese al nombre, Samsung actualiza sus portátiles Galaxy Book5 con procesadores Intel Lunar Lake' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/como-buscar-abuelos-familiares-queridos-puede-ya-no-esten-google-maps-1433455'>Cómo buscar abuelos y familiares queridos, que puede que ya no estén, en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/como-buscar-abuelos-familiares-queridos-puede-ya-no-esten-google-maps-1433455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-buscar-abuelos-familiares-queridos-puede-ya-no-esten-google-maps-4278954.jpg?tf=1200x' alt='Cómo buscar abuelos y familiares queridos, que puede que ya no estén, en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acer-nitro-blaze-11-novedades-ces-2025-1433857'>Acer Nitro Blaze 11 es una consola portátil de 11 pulgadas para quien una Steam Deck se le queda pequeña</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acer-nitro-blaze-11-novedades-ces-2025-1433857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/acer-nitro-blaze-11-4279528.jpg?tf=1200x' alt='Acer Nitro Blaze 11 es una consola portátil de 11 pulgadas para quien una Steam Deck se le queda pequeña' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/actualiza-ya-android-auto-soluciona-error-comandos-voz-nueva-actualizacion-1433964'>Actualiza ya: Android Auto soluciona el error de comandos de voz con una nueva actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/actualiza-ya-android-auto-soluciona-error-comandos-voz-nueva-actualizacion-1433964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-3911253.jpg?tf=1200x' alt='Actualiza ya: Android Auto soluciona el error de comandos de voz con una nueva actualización' />
     </a>
 </div>
 
