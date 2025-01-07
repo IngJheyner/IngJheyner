@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-dispositivos-ha-anunciado-asus-ces-2025-rog-flow-z13-zephyrus-g14-g16-1434097'>Todos los dispositivos que ha anunciado Asus en el CES 2025: ROG Flow Z13, Zephyrus G14 y G16 y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/todos-dispositivos-ha-anunciado-asus-ces-2025-rog-flow-z13-zephyrus-g14-g16-1434097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/asus-rog-flow-z13-4279824.jpg?tf=1200x' alt='Todos los dispositivos que ha anunciado Asus en el CES 2025: ROG Flow Z13, Zephyrus G14 y G16 y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/razer-afina-30-ces-2025-portatil-gaming-potente-razer-blade-16-1434062'>Razer afina un 30% en el CES 2025 su portátil gaming más potente, el Razer Blade 16</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/razer-afina-30-ces-2025-portatil-gaming-potente-razer-blade-16-1434062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/razer-blade-16-2025-4279794.jpg?tf=1200x' alt='Razer afina un 30% en el CES 2025 su portátil gaming más potente, el Razer Blade 16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059'>HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/preparate-comprar-nuevos-cables-hdmi-22-cambia-todo-4273526.jpg?tf=1200x' alt='HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-sencilla-regla-te-hace-inteligente-demostrado-ciencia-1425018'>Steve Jobs ya lo sabía: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-sencilla-regla-te-hace-inteligente-demostrado-ciencia-1425018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-dado-razon-4265262.jpg?tf=1200x' alt='Steve Jobs ya lo sabía: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado' />
     </a>
 </div>
 
