@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-presenta-ios-1821-nuevo-llega-iphone-1434105'>Apple presenta iOS 18.2.1: esto es lo nuevo que llega a tu iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-presenta-ios-1821-nuevo-llega-iphone-1434105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/7-ajustes-imprescindibles-deberias-activar-iphone-despues-instalar-ios-18-3953855.jpg?tf=1200x' alt='Apple presenta iOS 18.2.1: esto es lo nuevo que llega a tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/anillos-saturno-desapareceran-2025-increible-efecto-optico-1434161'>Los anillos de Saturno desaparecerán en 2025 por un increíble efecto óptico</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/anillos-saturno-desapareceran-2025-increible-efecto-optico-1434161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-saturno-4279902.jpg?tf=1200x' alt='Los anillos de Saturno desaparecerán en 2025 por un increíble efecto óptico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/novedades-asus-ces-2025-asus-zenbook-a14-1430613'>Asus Zenbook A14, el portátil más ligero y con mejor autonomía con Snapdragon X Elite y Plus</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/novedades-asus-ces-2025-asus-zenbook-a14-1430613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/asus-zenbook-a14-4274393.jpg?tf=1200x' alt='Asus Zenbook A14, el portátil más ligero y con mejor autonomía con Snapdragon X Elite y Plus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-coladero-ya-conoce-consola-todo-lujo-detalles-1434037'>Nintendo Switch 2 es un coladero: ya se conoce la consola con todo lujo de detalles</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-coladero-ya-conoce-consola-todo-lujo-detalles-1434037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4279879.jpg?tf=1200x' alt='Nintendo Switch 2 es un coladero: ya se conoce la consola con todo lujo de detalles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-1434178'>Ni el catalizador ni las llantas, las ADAS son el nuevo objetivo de los ladrones de coches</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-1434178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-4279990.jpg?tf=1200x' alt='Ni el catalizador ni las llantas, las ADAS son el nuevo objetivo de los ladrones de coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/oneplus-13-1431028'>Tras un mes con el OnePlus 13 me queda clara su supremacía en relación calidad-precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/oneplus-13-1431028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13-4275237.jpg?tf=1200x' alt='Tras un mes con el OnePlus 13 me queda clara su supremacía en relación calidad-precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2025 (lista actualizada)</a></h4>
-    <a href='https://computerhoy.20minutos.es/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/codigos-secretos-netflix-4279939.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2025 (lista actualizada)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-1434100'>DIGI se convierte en la peor pesadilla de los clientes de Movistar, Vodafone y Orange</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-1434100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-4279812.jpg?tf=1200x' alt='DIGI se convierte en la peor pesadilla de los clientes de Movistar, Vodafone y Orange' />
     </a>
 </div>
 
