@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059'>HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hdmi-22-presentado-ces-2025-12k-resolucion-120-fps-llegara-mismo-ano-1434059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/preparate-comprar-nuevos-cables-hdmi-22-cambia-todo-4273526.jpg?tf=1200x' alt='HDMI 2.2 presentado en CES 2025: hasta 12K de resolución y 120 fps, llegará este mismo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-sencilla-regla-te-hace-inteligente-demostrado-ciencia-1425018'>Steve Jobs ya lo sabía: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-sencilla-regla-te-hace-inteligente-demostrado-ciencia-1425018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/steve-jobs-tenia-razon-sencilla-regla-te-hace-inteligente-ciencia-ha-dado-razon-4265262.jpg?tf=1200x' alt='Steve Jobs ya lo sabía: esta sencilla regla te hace más inteligente, la ciencia lo ha demostrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amd-renueva-tarjetas-graficas-ces-2025-serie-ryzen-9000hx-procesadores-ryzen-ai-max-1434029'>AMD renueva sus tarjetas gráficas en el CES 2025 con la serie Ryzen 9000HX y los procesadores Ryzen AI Max</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amd-renueva-tarjetas-graficas-ces-2025-serie-ryzen-9000hx-procesadores-ryzen-ai-max-1434029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amd-ces-2025-4279765.jpg?tf=1200x' alt='AMD renueva sus tarjetas gráficas en el CES 2025 con la serie Ryzen 9000HX y los procesadores Ryzen AI Max' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-confirma-fecha-galaxy-unpacked-2025-sera-presentacion-galaxy-s25-1434036'>Samsung confirma la fecha del Galaxy Unpacked 2025: así será la presentación de los Galaxy S25</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-confirma-fecha-galaxy-unpacked-2025-sera-presentacion-galaxy-s25-1434036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267384.jpg?tf=1200x' alt='Samsung confirma la fecha del Galaxy Unpacked 2025: así será la presentación de los Galaxy S25' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-da-todo-ces-2025-ia-robots-nuevas-tarjetas-graficas-rtx-50-1434019'>NVIDIA lo da todo en CES 2025: IA para robots, nuevas tarjetas gráficas RTX 50 y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-da-todo-ces-2025-ia-robots-nuevas-tarjetas-graficas-rtx-50-1434019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jensen-huang-nvidia-4279737.jpg?tf=1200x' alt='NVIDIA lo da todo en CES 2025: IA para robots, nuevas tarjetas gráficas RTX 50 y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-nvidia-rtx-5090-5080-doble-rendimiento-precio-infarto-1434018'>Nuevas NVIDIA RTX 5090 y 5080: doble de rendimiento y un precio de infarto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-nvidia-rtx-5090-5080-doble-rendimiento-precio-infarto-1434018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-rtx-5090-5080-4279725.jpg?tf=1200x' alt='Nuevas NVIDIA RTX 5090 y 5080: doble de rendimiento y un precio de infarto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trucos-raspberry-pi-exprima-todo-potencial-1431293'>Trucos para que tu Raspberry Pi exprima todo su potencial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/trucos-raspberry-pi-exprima-todo-potencial-1431293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-trucos-raspberry-pi-exprima-todo-potencial-4275561.jpg?tf=1200x' alt='Trucos para que tu Raspberry Pi exprima todo su potencial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/te-quieres-comprar-tv-2025-te-puedes-esperar-1433228'>¿Te quieres comprar una TV en 2025? Esto es lo que te puedes esperar </a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/te-quieres-comprar-tv-2025-te-puedes-esperar-1433228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/sony-bravia-8-2024-65-pulgadas-3685116.jpg?tf=1200x' alt='¿Te quieres comprar una TV en 2025? Esto es lo que te puedes esperar ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250'>10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-4275530.jpg?tf=1200x' alt='10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial' />
     </a>
 </div>
 
