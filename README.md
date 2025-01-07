@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-da-todo-ces-2025-ia-robots-nuevas-tarjetas-graficas-rtx-50-1434019'>NVIDIA lo da todo en CES 2025: IA para robots, nuevas tarjetas gráficas RTX 50 y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-da-todo-ces-2025-ia-robots-nuevas-tarjetas-graficas-rtx-50-1434019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jensen-huang-nvidia-4279737.jpg?tf=1200x' alt='NVIDIA lo da todo en CES 2025: IA para robots, nuevas tarjetas gráficas RTX 50 y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevas-nvidia-rtx-5090-5080-doble-rendimiento-precio-infarto-1434018'>Nuevas NVIDIA RTX 5090 y 5080: doble de rendimiento y un precio de infarto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevas-nvidia-rtx-5090-5080-doble-rendimiento-precio-infarto-1434018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-rtx-5090-5080-4279725.jpg?tf=1200x' alt='Nuevas NVIDIA RTX 5090 y 5080: doble de rendimiento y un precio de infarto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/trucos-raspberry-pi-exprima-todo-potencial-1431293'>Trucos para que tu Raspberry Pi exprima todo su potencial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/trucos-raspberry-pi-exprima-todo-potencial-1431293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-trucos-raspberry-pi-exprima-todo-potencial-4275561.jpg?tf=1200x' alt='Trucos para que tu Raspberry Pi exprima todo su potencial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250'>10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-1431250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/10-aplicaciones-instalar-sacarle-provecho-inteligencia-artificial-4275530.jpg?tf=1200x' alt='10 aplicaciones para instalar y sacarle provecho a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/como-activa-portapapeles-avanzado-windows-11-poca-gente-usa-1433463'>Así es como se activa el portapapeles avanzado de Windows 11 que poca gente usa</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/como-activa-portapapeles-avanzado-windows-11-poca-gente-usa-1433463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activa-portapapeles-avanzado-windows-11-poca-gente-usa-4278972.jpg?tf=1200x' alt='Así es como se activa el portapapeles avanzado de Windows 11 que poca gente usa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-tiene-diseno-curvo-bateria-infinita-cuesta-menos-30-euros-1433339'>Esta pulsera inteligente tiene diseño curvo, batería infinita y cuesta menos de 30 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-inteligente-tiene-diseno-curvo-bateria-infinita-cuesta-menos-30-euros-1433339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/honor-band-9-4213287.jpg?tf=1200x' alt='Esta pulsera inteligente tiene diseño curvo, batería infinita y cuesta menos de 30 euros' />
     </a>
 </div>
 
