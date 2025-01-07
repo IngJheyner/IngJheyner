@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-1430713'>Ni Chrome ni Firefox, la razón definitiva por la que uso Vivaldi para el día a día</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-1430713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-chrome-ni-firefox-razon-definitiva-uso-vivaldi-dia-dia-4274572.jpg?tf=1200x' alt='Ni Chrome ni Firefox, la razón definitiva por la que uso Vivaldi para el día a día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/samsung-galaxy-book5-2025-procesadores-intel-lunar-lake-1433985'>Pese al nombre, Samsung actualiza sus portátiles Galaxy Book5 con procesadores Intel Lunar Lake</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/samsung-galaxy-book5-2025-procesadores-intel-lunar-lake-1433985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-book5-pro-galaxy-book5-360-4279672.jpg?tf=1200x' alt='Pese al nombre, Samsung actualiza sus portátiles Galaxy Book5 con procesadores Intel Lunar Lake' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/como-buscar-abuelos-familiares-queridos-puede-ya-no-esten-google-maps-1433455'>Cómo buscar abuelos y familiares queridos, que puede que ya no estén, en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/como-buscar-abuelos-familiares-queridos-puede-ya-no-esten-google-maps-1433455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-buscar-abuelos-familiares-queridos-puede-ya-no-esten-google-maps-4278954.jpg?tf=1200x' alt='Cómo buscar abuelos y familiares queridos, que puede que ya no estén, en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/acer-nitro-blaze-11-novedades-ces-2025-1433857'>Acer Nitro Blaze 11 es una consola portátil de 11 pulgadas para quien una Steam Deck se le queda pequeña</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/acer-nitro-blaze-11-novedades-ces-2025-1433857' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/acer-nitro-blaze-11-4279528.jpg?tf=1200x' alt='Acer Nitro Blaze 11 es una consola portátil de 11 pulgadas para quien una Steam Deck se le queda pequeña' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/actualiza-ya-android-auto-soluciona-error-comandos-voz-nueva-actualizacion-1433964'>Actualiza ya: Android Auto soluciona el error de comandos de voz con una nueva actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/actualiza-ya-android-auto-soluciona-error-comandos-voz-nueva-actualizacion-1433964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/android-auto-3911253.jpg?tf=1200x' alt='Actualiza ya: Android Auto soluciona el error de comandos de voz con una nueva actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevos-joy-cons-nintendo-switch-2-podrian-ser-solo-mandos-1433962'>Los nuevos Joy-Cons de Nintendo Switch 2 podrían ser más que solo mandos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nuevos-joy-cons-nintendo-switch-2-podrian-ser-solo-mandos-1433962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/nintendo-switch-3907204.jpg?tf=1200x' alt='Los nuevos Joy-Cons de Nintendo Switch 2 podrían ser más que solo mandos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-1433462'>Ni películas ni series, la desconocida función de Kodi para saber si te están estafando</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-1433462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-peliculas-ni-series-desconocida-funcion-kodi-saber-te-estan-estafando-4278962.jpg?tf=1200x' alt='Ni películas ni series, la desconocida función de Kodi para saber si te están estafando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/filtran-detalles-posible-raspberry-pi-5-16-gb-anuncio-inminente-1433961'>Se filtran detalles de una posible Raspberry Pi 5 con 16 GB para anuncio inminente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/filtran-detalles-posible-raspberry-pi-5-16-gb-anuncio-inminente-1433961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/trucos-acelerar-rapida-facilmente-raspberry-pi-5-3292310.jpg?tf=1200x' alt='Se filtran detalles de una posible Raspberry Pi 5 con 16 GB para anuncio inminente' />
     </a>
 </div>
 
