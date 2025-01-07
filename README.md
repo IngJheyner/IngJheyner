@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-coladero-ya-conoce-consola-todo-lujo-detalles-1434037'>Nintendo Switch 2 es un coladero: ya se conoce la consola con todo lujo de detalles</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-coladero-ya-conoce-consola-todo-lujo-detalles-1434037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4279879.jpg?tf=1200x' alt='Nintendo Switch 2 es un coladero: ya se conoce la consola con todo lujo de detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-1434178'>Ni el catalizador ni las llantas, las ADAS son el nuevo objetivo de los ladrones de coches</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-1434178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-catalizador-ni-llantas-adas-son-nuevo-objetivo-ladrones-coches-4279990.jpg?tf=1200x' alt='Ni el catalizador ni las llantas, las ADAS son el nuevo objetivo de los ladrones de coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/oneplus-13-1431028'>Tras un mes con el OnePlus 13 me queda clara su supremacía en relación calidad-precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/oneplus-13-1431028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13-4275237.jpg?tf=1200x' alt='Tras un mes con el OnePlus 13 me queda clara su supremacía en relación calidad-precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499'>Códigos secretos de Netflix en 2025 (lista actualizada)</a></h4>
     <a href='https://computerhoy.20minutos.es/listas/entretenimiento/codigos-secretos-netflix-lista-actualizada-627499' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/codigos-secretos-netflix-4279939.jpg?tf=1200x' alt='Códigos secretos de Netflix en 2025 (lista actualizada)' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-1434100'>DIGI se convierte en la peor pesadilla de los clientes de Movistar, Vodafone y Orange</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-1434100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-convierte-peor-pesadilla-clientes-movistar-vodafone-orange-4279812.jpg?tf=1200x' alt='DIGI se convierte en la peor pesadilla de los clientes de Movistar, Vodafone y Orange' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/firescam-peligroso-malware-espia-notificaciones-sms-moviles-android-1434020'>FireScam, el peligroso malware que espía notificaciones, SMS y más en móviles Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/firescam-peligroso-malware-espia-notificaciones-sms-moviles-android-1434020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/firescam-malware-espia-notificaciones-sms-android-4279730.jpg?tf=1200x' alt='FireScam, el peligroso malware que espía notificaciones, SMS y más en móviles Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-movistar-vodafone-despiden-tarjetas-sim-fisicas-1434120'>Giro de 180 grados en Movistar y Vodafone: se despiden de las tarjetas SIM físicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/giro-180-grados-movistar-vodafone-despiden-tarjetas-sim-fisicas-1434120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-movistar-vodafone-despiden-tarjetas-sim-fisicas-4279847.jpg?tf=1200x' alt='Giro de 180 grados en Movistar y Vodafone: se despiden de las tarjetas SIM físicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/lanzamiento-new-glenn-blue-origin-jeff-bezos-fecha-horario-como-ver-online-directo-1434086'>Lanzamiento del New Glenn de Blue Origin y Jeff Bezos: fecha, horario y cómo ver online en directo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/lanzamiento-new-glenn-blue-origin-jeff-bezos-fecha-horario-como-ver-online-directo-1434086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/new-glenn-blue-origin-jeff-bezos-4279831.jpg?tf=1200x' alt='Lanzamiento del New Glenn de Blue Origin y Jeff Bezos: fecha, horario y cómo ver online en directo' />
     </a>
 </div>
 
