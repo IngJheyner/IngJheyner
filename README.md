@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ayudo-planificar-ataque-tesla-cybertruck-como-hizo-1434353'>ChatGPT ayudó a planificar el ataque con el Tesla Cybertruck: así es como lo hizo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ayudo-planificar-ataque-tesla-cybertruck-como-hizo-1434353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-tesla-4280287.jpg?tf=1200x' alt='ChatGPT ayudó a planificar el ataque con el Tesla Cybertruck: así es como lo hizo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/descubren-verdadero-uso-gran-muralla-china-pastoreo-1434358'>Ni para defenderse ni para dividir, descubren el verdadero uso de la Gran Muralla China</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/descubren-verdadero-uso-gran-muralla-china-pastoreo-1434358' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-defenderse-ni-dividir-descubren-verdadero-uso-gran-muralla-china-4280185.jpg?tf=1200x' alt='Ni para defenderse ni para dividir, descubren el verdadero uso de la Gran Muralla China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/fabricante-accesorios-filtra-replica-nintendo-switch-2-ces-2025-fecha-lanzamiento-1434333'>Fabricante de accesorios filtra una réplica de la Nintendo Switch 2 en el CES 2025 y su fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/fabricante-accesorios-filtra-replica-nintendo-switch-2-ces-2025-fecha-lanzamiento-1434333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Fabricante de accesorios filtra una réplica de la Nintendo Switch 2 en el CES 2025 y su fecha de lanzamiento' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324'>Tiembla, Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324'>Tiembla Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-4280159.jpg?tf=1200x' alt='Tiembla, Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068'>SpaceX prepara el séptimo vuelo de Starship previsto para esta semana, y Elon Musk se ha guardado dos sorpresas</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-4279779.jpg?tf=1200x' alt='SpaceX prepara el séptimo vuelo de Starship previsto para esta semana, y Elon Musk se ha guardado dos sorpresas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/steamos-todas-consolas-portatiles-1434314'>Steam sin Windows en todas las consolas portátiles: podrás instalar SteamOS donde quieras esta primavera</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/steamos-todas-consolas-portatiles-1434314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steam-windows-todas-consolas-portatiles-podras-instalar-steamos-donde-quieras-primavera-4280106.jpg?tf=1200x' alt='Steam sin Windows en todas las consolas portátiles: podrás instalar SteamOS donde quieras esta primavera' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-4280159.jpg?tf=1200x' alt='Tiembla Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025' />
     </a>
 </div>
 
