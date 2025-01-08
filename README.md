@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-prepara-recuperar-muestras-marte-ayuda-elon-musk-spacex-1434415'>La NASA se prepara para recuperar sus muestras de Marte con la ayuda de Elon Musk y SpaceX</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-prepara-recuperar-muestras-marte-ayuda-elon-musk-spacex-1434415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recreacion-artistica-vehiculos-implicados-compleja-mision-mars-sample-return-4280417.jpg?tf=1200x' alt='La NASA se prepara para recuperar sus muestras de Marte con la ayuda de Elon Musk y SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/telegram-comparte-datos-usuarios-1434498'>Ni privada ni anónima, Telegram comparte más datos de sus usuarios con la Policía que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/telegram-comparte-datos-usuarios-1434498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-telegram-4280515.jpg?tf=1200x' alt='Ni privada ni anónima, Telegram comparte más datos de sus usuarios con la Policía que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446'>Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-windows-4280470.jpg?tf=1200x' alt='Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-1434329'>Ni Starship ni New Glenn, esta ciudad será la elegida para los ensayos de MIURA 5, el primer cohete español</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-1434329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-4280288.jpg?tf=1200x' alt='Ni Starship ni New Glenn, esta ciudad será la elegida para los ensayos de MIURA 5, el primer cohete español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/finetwork-marca-digi-2025-tambien-tiene-importante-regalo-clientes-1434479'>Finetwork se marca un DIGI para 2025 y también tiene un importante regalo para sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/finetwork-marca-digi-2025-tambien-tiene-importante-regalo-clientes-1434479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/finetwork-marca-digi-2025-tambien-tiene-importante-regalo-clientes-4280527.jpg?tf=1200x' alt='Finetwork se marca un DIGI para 2025 y también tiene un importante regalo para sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-modo-ninja-1411121'>Cómo salir de un grupo de WhatsApp en modo ninja sin que nadie lo sepa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-modo-ninja-1411121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-ninja-whatsapp-4280449.jpg?tf=1200x' alt='Cómo salir de un grupo de WhatsApp en modo ninja sin que nadie lo sepa' />
     </a>
 </div>
 
