@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-modo-ninja-1411121'>Cómo salir de un grupo de WhatsApp en modo ninja sin que nadie lo sepa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-modo-ninja-1411121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-ninja-whatsapp-4280449.jpg?tf=1200x' alt='Cómo salir de un grupo de WhatsApp en modo ninja sin que nadie lo sepa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-transformar-tablet-vieja-pantalla-android-auto-coche-1408837'>Transforma esa tablet vieja tablet olvidada en una pantalla para Android Auto con este sencillo truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/truco-transformar-tablet-vieja-pantalla-android-auto-coche-1408837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tablet-vieja-convertida-android-auto-4280432.jpg?tf=1200x' alt='Transforma esa tablet vieja tablet olvidada en una pantalla para Android Auto con este sencillo truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-ha-presentado-ces-2025-superordenador-ia-diminuto-tiene-tamano-mac-mini-1434427'>Nvidia ha presentado en CES 2025 un superordenador con IA diminuto: tiene el tamaño de un Mac mini</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-ha-presentado-ces-2025-superordenador-ia-diminuto-tiene-tamano-mac-mini-1434427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/project-digits-4280479.jpg?tf=1200x' alt='Nvidia ha presentado en CES 2025 un superordenador con IA diminuto: tiene el tamaño de un Mac mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-1434412'>Samsung lanzará un plegable triple como el de Huawei antes de que acabe 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-1434412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-4280389.jpg?tf=1200x' alt='Samsung lanzará un plegable triple como el de Huawei antes de que acabe 2025' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-microsoft-office-estas-5-herramientas-100-gratis-hacen-mismo-incluso-mejor-1434425'>Adiós Microsoft Office, estas 5 herramientas 100% gratis hacen lo mismo (incluso mejor)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-microsoft-office-estas-5-herramientas-100-gratis-hacen-mismo-incluso-mejor-1434425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.jpg?tf=1200x' alt='Adiós Microsoft Office, estas 5 herramientas 100% gratis hacen lo mismo (incluso mejor)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-mirumi-robot-japones-entranable-cuyo-unico-objetivo-hacerte-feliz-1434394'>CES 2025: Mirumi, el robot japonés más entrañable cuyo único objetivo es hacerte feliz</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-mirumi-robot-japones-entranable-cuyo-unico-objetivo-hacerte-feliz-1434394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-ha-presentado-robot-japones-sorprendente-feria-no-como-te-esperabas-4280331.jpg?tf=1200x' alt='CES 2025: Mirumi, el robot japonés más entrañable cuyo único objetivo es hacerte feliz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-vs-rtx-5070-cual-mejor-opcion-comprar-2025-1434418'>Nvidia GeForce RTX 4090 vs RTX 5070: ¿cuál es la mejor opción para comprar este 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-vs-rtx-5070-cual-mejor-opcion-comprar-2025-1434418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5070-4280382.jpg?tf=1200x' alt='Nvidia GeForce RTX 4090 vs RTX 5070: ¿cuál es la mejor opción para comprar este 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/movistar-plus-ve-tan-mal-ultimos-dias-1434414'>¿Por qué Movistar Plus+ se ve tan mal en los últimos días?</a></h4>
-    <a href='https://computerhoy.20minutos.es/movistar-plus-ve-tan-mal-ultimos-dias-1434414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='¿Por qué Movistar Plus+ se ve tan mal en los últimos días?' />
     </a>
 </div>
 
