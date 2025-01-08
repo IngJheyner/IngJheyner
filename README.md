@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324'>Tiembla, Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-4280159.jpg?tf=1200x' alt='Tiembla, Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068'>SpaceX prepara el séptimo vuelo de Starship previsto para esta semana, y Elon Musk se ha guardado dos sorpresas</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-4279779.jpg?tf=1200x' alt='SpaceX prepara el séptimo vuelo de Starship previsto para esta semana, y Elon Musk se ha guardado dos sorpresas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/steamos-todas-consolas-portatiles-1434314'>Steam sin Windows en todas las consolas portátiles: podrás instalar SteamOS donde quieras esta primavera</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/steamos-todas-consolas-portatiles-1434314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steam-windows-todas-consolas-portatiles-podras-instalar-steamos-donde-quieras-primavera-4280106.jpg?tf=1200x' alt='Steam sin Windows en todas las consolas portátiles: podrás instalar SteamOS donde quieras esta primavera' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/listas-iptv-como-usarlas-correctamente-evitar-caer-estafas-1433395'>Listas IPTV: cómo usarlas correctamente para evitar caer en estafas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/listas-iptv-como-usarlas-correctamente-evitar-caer-estafas-1433395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/francia-suma-lucha-servicios-iptv-piratas-bloquea-webs-ilegales-laliga-3312240.jpg?tf=1200x' alt='Listas IPTV: cómo usarlas correctamente para evitar caer en estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cientificos-avisan-desastre-espacial-inminente-sindrome-kessler-acerca-ser-amenaza-real-1434208'>Los científicos avisan de un desastre espacial inminente: el "Síndrome de Kessler" se acerca a ser una amenaza real</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cientificos-avisan-desastre-espacial-inminente-sindrome-kessler-acerca-ser-amenaza-real-1434208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/objetos-orbitan-tierra-4279977.jpg?tf=1200x' alt='Los científicos avisan de un desastre espacial inminente: el "Síndrome de Kessler" se acerca a ser una amenaza real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/competidores-solo-pueden-ponerse-pilas-reloj-deportivo-huawei-smartwatch-ahora-rebajadisimo-1434235'>"Sus competidores solo pueden ponerse las pilas": este reloj deportivo de Huawei es smartwatch y ahora está rebajadísimo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/competidores-solo-pueden-ponerse-pilas-reloj-deportivo-huawei-smartwatch-ahora-rebajadisimo-1434235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-watch-gt-5-pro-4280011.jpg?tf=1200x' alt='"Sus competidores solo pueden ponerse las pilas": este reloj deportivo de Huawei es smartwatch y ahora está rebajadísimo' />
     </a>
 </div>
 
