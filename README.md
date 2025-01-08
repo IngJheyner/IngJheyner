@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446'>Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-windows-4280470.jpg?tf=1200x' alt='Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-apple-desproposito-absoluto-ultima-victima-ha-sido-rafa-nadal-1434450'>La IA de Apple es un despropósito absoluto: su última víctima ha sido Rafa Nadal</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-apple-desproposito-absoluto-ultima-victima-ha-sido-rafa-nadal-1434450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-apple-desproposito-absoluto-ultima-victima-ha-sido-rafa-nadal-4280426.jpg?tf=1200x' alt='La IA de Apple es un despropósito absoluto: su última víctima ha sido Rafa Nadal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-1434329'>Ni Starship ni New Glenn, esta ciudad será la elegida para los ensayos de MIURA 5, el primer cohete español</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-1434329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-4280288.jpg?tf=1200x' alt='Ni Starship ni New Glenn, esta ciudad será la elegida para los ensayos de MIURA 5, el primer cohete español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/finetwork-marca-digi-2025-tambien-tiene-importante-regalo-clientes-1434479'>Finetwork se marca un DIGI para 2025 y también tiene un importante regalo para sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/finetwork-marca-digi-2025-tambien-tiene-importante-regalo-clientes-1434479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/finetwork-marca-digi-2025-tambien-tiene-importante-regalo-clientes-4280527.jpg?tf=1200x' alt='Finetwork se marca un DIGI para 2025 y también tiene un importante regalo para sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-modo-ninja-1411121'>Cómo salir de un grupo de WhatsApp en modo ninja sin que nadie lo sepa</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-salir-grupo-whatsapp-modo-ninja-1411121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-ninja-whatsapp-4280449.jpg?tf=1200x' alt='Cómo salir de un grupo de WhatsApp en modo ninja sin que nadie lo sepa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-transformar-tablet-vieja-pantalla-android-auto-coche-1408837'>Transforma esa tablet vieja tablet olvidada en una pantalla para Android Auto con este sencillo truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/truco-transformar-tablet-vieja-pantalla-android-auto-coche-1408837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tablet-vieja-convertida-android-auto-4280432.jpg?tf=1200x' alt='Transforma esa tablet vieja tablet olvidada en una pantalla para Android Auto con este sencillo truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-ha-presentado-ces-2025-superordenador-ia-diminuto-tiene-tamano-mac-mini-1434427'>Nvidia ha presentado en CES 2025 un superordenador con IA diminuto: tiene el tamaño de un Mac mini</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-ha-presentado-ces-2025-superordenador-ia-diminuto-tiene-tamano-mac-mini-1434427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/project-digits-4280479.jpg?tf=1200x' alt='Nvidia ha presentado en CES 2025 un superordenador con IA diminuto: tiene el tamaño de un Mac mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-1434412'>Samsung lanzará un plegable triple como el de Huawei antes de que acabe 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-1434412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-4280389.jpg?tf=1200x' alt='Samsung lanzará un plegable triple como el de Huawei antes de que acabe 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-microsoft-office-estas-5-herramientas-100-gratis-hacen-mismo-incluso-mejor-1434425'>Adiós Microsoft Office, estas 5 herramientas 100% gratis hacen lo mismo (incluso mejor)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-microsoft-office-estas-5-herramientas-100-gratis-hacen-mismo-incluso-mejor-1434425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.jpg?tf=1200x' alt='Adiós Microsoft Office, estas 5 herramientas 100% gratis hacen lo mismo (incluso mejor)' />
     </a>
 </div>
 
