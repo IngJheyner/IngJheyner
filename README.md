@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sustituyo-90-empleados-ia-ano-despues-ya-conocemos-resultados-1434464'>Sustituyó al 90% de sus empleados por la IA: un año después ya conocemos los resultados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sustituyo-90-empleados-ia-ano-despues-ya-conocemos-resultados-1434464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sustituyo-90-empleados-ia-zasca-ha-llevado-ha-retumbado-todo-mundo-4280466.jpg?tf=1200x' alt='Sustituyó al 90% de sus empleados por la IA: un año después ya conocemos los resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ver-futbol-gratis-iptv-amazon-fire-tv-tiene-dias-contados-1434504'>Ver el fútbol gratis por IPTV en un Amazon Fire TV tiene los días contados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ver-futbol-gratis-iptv-amazon-fire-tv-tiene-dias-contados-1434504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-amazon-fire-tv-tiene-dias-contados-4280601.jpg?tf=1200x' alt='Ver el fútbol gratis por IPTV en un Amazon Fire TV tiene los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-prepara-recuperar-muestras-marte-ayuda-elon-musk-spacex-1434415'>La NASA se prepara para recuperar sus muestras de Marte con la ayuda de Elon Musk y SpaceX</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-prepara-recuperar-muestras-marte-ayuda-elon-musk-spacex-1434415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recreacion-artistica-vehiculos-implicados-compleja-mision-mars-sample-return-4280417.jpg?tf=1200x' alt='La NASA se prepara para recuperar sus muestras de Marte con la ayuda de Elon Musk y SpaceX' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446'>Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-windows-4280470.jpg?tf=1200x' alt='Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-apple-desproposito-absoluto-ultima-victima-ha-sido-rafa-nadal-1434450'>La IA de Apple es un despropósito absoluto: su última víctima ha sido Rafa Nadal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-apple-desproposito-absoluto-ultima-victima-ha-sido-rafa-nadal-1434450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-apple-desproposito-absoluto-ultima-victima-ha-sido-rafa-nadal-4280426.jpg?tf=1200x' alt='La IA de Apple es un despropósito absoluto: su última víctima ha sido Rafa Nadal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-1434329'>Ni Starship ni New Glenn, esta ciudad será la elegida para los ensayos de MIURA 5, el primer cohete español</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-1434329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-starship-ni-new-glenn-ciudad-sera-elegida-ensayos-miura-5-primer-cohete-espanol-4280288.jpg?tf=1200x' alt='Ni Starship ni New Glenn, esta ciudad será la elegida para los ensayos de MIURA 5, el primer cohete español' />
     </a>
 </div>
 
