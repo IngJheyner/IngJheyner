@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-crece-como-espuma-pero-tropieza-quejas-clientes-1434401'>DIGI crece como la espuma pero tropieza con las quejas de sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/digi-crece-como-espuma-pero-tropieza-quejas-clientes-1434401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-crece-como-espuma-pero-tropieza-quejas-clientes-4280363.jpg?tf=1200x' alt='DIGI crece como la espuma pero tropieza con las quejas de sus clientes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desata-guerra-union-europa-lista-x-starlink-echen-freno-1434404'>Elon Musk desata una guerra en la Unión Europa, lista para que X y Starlink echen el freno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desata-guerra-union-europa-lista-x-starlink-echen-freno-1434404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4266830.jpg?tf=1200x' alt='Elon Musk desata una guerra en la Unión Europa, lista para que X y Starlink echen el freno' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/gran-compra-no-tienes-tiempo-limpiar-roomba-completa-hunde-precio-mitad-1434370'>"Una gran compra si no tienes tiempo para limpiar": la Roomba más completa hunde su precio a la mitad</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/gran-compra-no-tienes-tiempo-limpiar-roomba-completa-hunde-precio-mitad-1434370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232712.jpg?tf=1200x' alt='"Una gran compra si no tienes tiempo para limpiar": la Roomba más completa hunde su precio a la mitad' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-auto-prepara-soportar-motos-gemini-estrena-como-sustituto-asistente-google-1434398'>Android Auto se prepara para soportar motos y Gemini se estrena como sustituto del Asistente de Google </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/android-auto-prepara-soportar-motos-gemini-estrena-como-sustituto-asistente-google-1434398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-android-auto-4269706.jpg?tf=1200x' alt='Android Auto se prepara para soportar motos y Gemini se estrena como sustituto del Asistente de Google ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/duelo-titanes-nueva-estrategia-microsoft-pasa-plagio-google-no-van-permitir-1434380'>Duelo de titanes: la nueva estrategia de Microsoft pasa por el plagio a Google y no lo van a permitir</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/duelo-titanes-nueva-estrategia-microsoft-pasa-plagio-google-no-van-permitir-1434380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-google-4280330.jpg?tf=1200x' alt='Duelo de titanes: la nueva estrategia de Microsoft pasa por el plagio a Google y no lo van a permitir' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-regiones-espana-peligro-inhabitables-1428628'>La NASA alerta: estas son las regiones de España en riesgo de ser inhabitables en muy pocos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-regiones-espana-peligro-inhabitables-1428628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='La NASA alerta: estas son las regiones de España en riesgo de ser inhabitables en muy pocos años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lg-sorprende-ces-2025-anuncia-primer-televisor-oled-inalambrico-mundo-1434355'>LG sorprende en el CES 2025 y anuncia el primer televisor OLED inalámbrico del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lg-sorprende-ces-2025-anuncia-primer-televisor-oled-inalambrico-mundo-1434355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-television-inalambrico-lg-4280323.jpg?tf=1200x' alt='LG sorprende en el CES 2025 y anuncia el primer televisor OLED inalámbrico del mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/squirrel-nuevo-canal-tdt-1434087'>Squirrel: el nuevo canal de la TDT que sustituye a Disney Channel ofrecerá 10 películas al día gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/squirrel-nuevo-canal-tdt-1434087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-channel-tdt-4279854.jpg?tf=1200x' alt='Squirrel: el nuevo canal de la TDT que sustituye a Disney Channel ofrecerá 10 películas al día gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-jeff-bezos-lanzamiento-sera-caro-starship-spacex-new-glenn-blue-origin-1434360'>Elon Musk contra Jeff Bezos, qué lanzamiento será más caro: ¿Starship de SpaceX o New Glenn de Blue Origin?</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-jeff-bezos-lanzamiento-sera-caro-starship-spacex-new-glenn-blue-origin-1434360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-jeff-bezos-4280316.jpg?tf=1200x' alt='Elon Musk contra Jeff Bezos, qué lanzamiento será más caro: ¿Starship de SpaceX o New Glenn de Blue Origin?' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/mark-gurman-lanza-piscina-anuncia-cuando-saldra-iphone-4-apple-1434387'>Mark Gurman se lanza a la piscina y anuncia cuándo saldrá el iPhone SE 4 de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/mark-gurman-lanza-piscina-anuncia-cuando-saldra-iphone-4-apple-1434387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-4-apple-gurman-4280369.jpg?tf=1200x' alt='Mark Gurman se lanza a la piscina y anuncia cuándo saldrá el iPhone SE 4 de Apple' />
     </a>
 </div>
 
