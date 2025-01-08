@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-1434541'>Es el mejor lenguaje de programación para aprender en 2025, y lo mejor de todo es que puedes hacerlo gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-1434541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-4280664.jpg?tf=1200x' alt='Es el mejor lenguaje de programación para aprender en 2025, y lo mejor de todo es que puedes hacerlo gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469'>Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gemini-android-4280478.jpg?tf=1200x' alt='Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/habito-cargar-movil-podria-costarte-caro-estas-usando-cargador-adecuado-1434558'>Este hábito al cargar el móvil podría costarte caro: ¿Estás usando el cargador adecuado?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/habito-cargar-movil-podria-costarte-caro-estas-usando-cargador-adecuado-1434558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-movil-4280628.jpg?tf=1200x' alt='Este hábito al cargar el móvil podría costarte caro: ¿Estás usando el cargador adecuado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/getty-images-shutterstock-fusion-bancos-imagenes-amenaza-ia-1434553'>Getty Images y Shutterstock, los dos grandes bancos de imágenes, se fusionan para luchar contra la amenaza de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/getty-images-shutterstock-fusion-bancos-imagenes-amenaza-ia-1434553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/getty-images-shutterstock-dos-grandes-bancos-imagenes-fusionan-luchar-amenaza-ia-4280593.jpg?tf=1200x' alt='Getty Images y Shutterstock, los dos grandes bancos de imágenes, se fusionan para luchar contra la amenaza de la IA' />
     </a>
 </div>
 
