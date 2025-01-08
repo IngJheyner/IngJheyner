@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sustituyo-90-empleados-ia-ano-despues-ya-conocemos-resultados-1434464'>Sustituyó al 90% de sus empleados por la IA: un año después ya conocemos los resultados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sustituyo-90-empleados-ia-ano-despues-ya-conocemos-resultados-1434464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sustituyo-90-empleados-ia-zasca-ha-llevado-ha-retumbado-todo-mundo-4280466.jpg?tf=1200x' alt='Sustituyó al 90% de sus empleados por la IA: un año después ya conocemos los resultados' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469'>Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gemini-android-4280478.jpg?tf=1200x' alt='Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ver-futbol-gratis-iptv-amazon-fire-tv-tiene-dias-contados-1434504'>Ver el fútbol gratis por IPTV en un Amazon Fire TV tiene los días contados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ver-futbol-gratis-iptv-amazon-fire-tv-tiene-dias-contados-1434504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-amazon-fire-tv-tiene-dias-contados-4280601.jpg?tf=1200x' alt='Ver el fútbol gratis por IPTV en un Amazon Fire TV tiene los días contados' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/navegadores-juegos-incluso-youtube-podrian-llegar-muy-pronto-android-auto-1434561'>Navegadores, juegos e incluso YouTube podrían llegar muy pronto a Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/navegadores-juegos-incluso-youtube-podrian-llegar-muy-pronto-android-auto-1434561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-android-auto-4148124.jpg?tf=1200x' alt='Navegadores, juegos e incluso YouTube podrían llegar muy pronto a Android Auto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-prepara-recuperar-muestras-marte-ayuda-elon-musk-spacex-1434415'>La NASA se prepara para recuperar sus muestras de Marte con la ayuda de Elon Musk y SpaceX</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-prepara-recuperar-muestras-marte-ayuda-elon-musk-spacex-1434415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recreacion-artistica-vehiculos-implicados-compleja-mision-mars-sample-return-4280417.jpg?tf=1200x' alt='La NASA se prepara para recuperar sus muestras de Marte con la ayuda de Elon Musk y SpaceX' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-confia-cambio-masivo-windows-11-antes-fin-soporte-windows-10-1434559'>Microsoft confía en un cambio masivo a Windows 11 antes del fin de soporte de Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-confia-cambio-masivo-windows-11-antes-fin-soporte-windows-10-1434559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4280636.jpg?tf=1200x' alt='Microsoft confía en un cambio masivo a Windows 11 antes del fin de soporte de Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/telegram-comparte-datos-usuarios-1434498'>Ni privada ni anónima, Telegram comparte más datos de sus usuarios con la Policía que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/telegram-comparte-datos-usuarios-1434498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-telegram-4280515.jpg?tf=1200x' alt='Ni privada ni anónima, Telegram comparte más datos de sus usuarios con la Policía que nunca' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/habito-cargar-movil-podria-costarte-caro-estas-usando-cargador-adecuado-1434558'>Este hábito al cargar el móvil podría costarte caro: ¿Estás usando el cargador adecuado?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/habito-cargar-movil-podria-costarte-caro-estas-usando-cargador-adecuado-1434558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-movil-4280628.jpg?tf=1200x' alt='Este hábito al cargar el móvil podría costarte caro: ¿Estás usando el cargador adecuado?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446'>Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-agresiva-recurre-ia-obligarte-abandonar-windows-10-1434446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-windows-4280470.jpg?tf=1200x' alt='Microsoft se pone agresiva y recurre a la IA para obligarte a abandonar Windows 10' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/getty-images-shutterstock-fusion-bancos-imagenes-amenaza-ia-1434553'>Getty Images y Shutterstock, los dos grandes bancos de imágenes, se fusionan para luchar contra la amenaza de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/getty-images-shutterstock-fusion-bancos-imagenes-amenaza-ia-1434553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/getty-images-shutterstock-dos-grandes-bancos-imagenes-fusionan-luchar-amenaza-ia-4280593.jpg?tf=1200x' alt='Getty Images y Shutterstock, los dos grandes bancos de imágenes, se fusionan para luchar contra la amenaza de la IA' />
     </a>
 </div>
 
