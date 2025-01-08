@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/estafa-whatsapp-hola-podemos-hablar-momento-1434186'>La última estafa de WhatsApp: Hola, ¿podemos hablar un momento?</a></h4>
+    <a href='https://computerhoy.20minutos.es/estafa-whatsapp-hola-podemos-hablar-momento-1434186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-whatsapp-4279945.jpg?tf=1200x' alt='La última estafa de WhatsApp: Hola, ¿podemos hablar un momento?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-tuvo-aprender-diferencia-gestionar-liderar-eran-estupidos-1434127'>Hasta Steve Jobs tuvo que aprender la diferencia entre gestionar y liderar: "Eran unos estúpidos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-tuvo-aprender-diferencia-gestionar-liderar-eran-estupidos-1434127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steve-jobs-tuvo-aprender-diferencia-gestionar-liderar-eran-estupidos-4279878.jpg?tf=1200x' alt='Hasta Steve Jobs tuvo que aprender la diferencia entre gestionar y liderar: "Eran unos estúpidos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-baterias-ordenadores-portatiles-1434277'>Crea su propio sistema de energía para casa utilizando baterías de ordenadores portátiles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-baterias-ordenadores-portatiles-1434277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/crea-propio-sistema-energia-casa-utilizando-baterias-ordenadores-portatiles-4280107.jpg?tf=1200x' alt='Crea su propio sistema de energía para casa utilizando baterías de ordenadores portátiles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-1434258'>No solo IPTV y fútbol gratis: el escudo antipiratería se amplía a películas y series</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-1434258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-4280068.jpg?tf=1200x' alt='No solo IPTV y fútbol gratis: el escudo antipiratería se amplía a películas y series' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/pc-listo-windows-11-google-prueba-nueva-metrica-chrome-comprobarlo-1434276'>¿Tu PC está listo para Windows 11? Google prueba una nueva métrica en Chrome para comprobarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/pc-listo-windows-11-google-prueba-nueva-metrica-chrome-comprobarlo-1434276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chrome-windows-11-4280074.jpg?tf=1200x' alt='¿Tu PC está listo para Windows 11? Google prueba una nueva métrica en Chrome para comprobarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/badbox-mayor-epidemia-malware-dispositivos-android-tv-google-tv-1434138'>Badbox es ya la mayor epidemia de malware para dispositivos Android TV y Google TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/badbox-mayor-epidemia-malware-dispositivos-android-tv-google-tv-1434138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-badbox-4279845.jpg?tf=1200x' alt='Badbox es ya la mayor epidemia de malware para dispositivos Android TV y Google TV' />
     </a>
 </div>
 
