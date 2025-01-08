@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ayudo-planificar-ataque-tesla-cybertruck-como-hizo-1434353'>ChatGPT ayudó a planificar el ataque con el Tesla Cybertruck: así es como lo hizo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ayudo-planificar-ataque-tesla-cybertruck-como-hizo-1434353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-tesla-4280287.jpg?tf=1200x' alt='ChatGPT ayudó a planificar el ataque con el Tesla Cybertruck: así es como lo hizo' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-crece-como-espuma-pero-tropieza-quejas-clientes-1434401'>DIGI crece como la espuma pero tropieza con las quejas de sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/digi-crece-como-espuma-pero-tropieza-quejas-clientes-1434401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-crece-como-espuma-pero-tropieza-quejas-clientes-4280363.jpg?tf=1200x' alt='DIGI crece como la espuma pero tropieza con las quejas de sus clientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/descubren-verdadero-uso-gran-muralla-china-pastoreo-1434358'>Ni para defenderse ni para dividir, descubren el verdadero uso de la Gran Muralla China</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/descubren-verdadero-uso-gran-muralla-china-pastoreo-1434358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-defenderse-ni-dividir-descubren-verdadero-uso-gran-muralla-china-4280185.jpg?tf=1200x' alt='Ni para defenderse ni para dividir, descubren el verdadero uso de la Gran Muralla China' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/gran-compra-no-tienes-tiempo-limpiar-roomba-completa-hunde-precio-mitad-1434370'>"Una gran compra si no tienes tiempo para limpiar": la Roomba más completa hunde su precio a la mitad</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/gran-compra-no-tienes-tiempo-limpiar-roomba-completa-hunde-precio-mitad-1434370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/irobot-roomba-combo-j9-analisis-opinion-3232712.jpg?tf=1200x' alt='"Una gran compra si no tienes tiempo para limpiar": la Roomba más completa hunde su precio a la mitad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/fabricante-accesorios-filtra-replica-nintendo-switch-2-ces-2025-fecha-lanzamiento-1434333'>Fabricante de accesorios filtra una réplica de la Nintendo Switch 2 en el CES 2025 y su fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/fabricante-accesorios-filtra-replica-nintendo-switch-2-ces-2025-fecha-lanzamiento-1434333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Fabricante de accesorios filtra una réplica de la Nintendo Switch 2 en el CES 2025 y su fecha de lanzamiento' />
+    <h4><a href='https://computerhoy.20minutos.es/google/duelo-titanes-nueva-estrategia-microsoft-pasa-plagio-google-no-van-permitir-1434380'>Duelo de titanes: la nueva estrategia de Microsoft pasa por el plagio a Google y no lo van a permitir</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/duelo-titanes-nueva-estrategia-microsoft-pasa-plagio-google-no-van-permitir-1434380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-google-4280330.jpg?tf=1200x' alt='Duelo de titanes: la nueva estrategia de Microsoft pasa por el plagio a Google y no lo van a permitir' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/papelera-whatsapp-eliminar-archivos-1433694'>Dónde está la papelera de WhatsApp para borrar lo que no necesitas y liberar espacio en móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/papelera-whatsapp-eliminar-archivos-1433694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-4279302.jpg?tf=1200x' alt='Dónde está la papelera de WhatsApp para borrar lo que no necesitas y liberar espacio en móvil' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lg-sorprende-ces-2025-anuncia-primer-televisor-oled-inalambrico-mundo-1434355'>LG sorprende en el CES 2025 y anuncia el primer televisor OLED inalámbrico del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lg-sorprende-ces-2025-anuncia-primer-televisor-oled-inalambrico-mundo-1434355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-television-inalambrico-lg-4280323.jpg?tf=1200x' alt='LG sorprende en el CES 2025 y anuncia el primer televisor OLED inalámbrico del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324'>Tiembla Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-4280159.jpg?tf=1200x' alt='Tiembla Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-jeff-bezos-lanzamiento-sera-caro-starship-spacex-new-glenn-blue-origin-1434360'>Elon Musk contra Jeff Bezos, qué lanzamiento será más caro: ¿Starship de SpaceX o New Glenn de Blue Origin?</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-jeff-bezos-lanzamiento-sera-caro-starship-spacex-new-glenn-blue-origin-1434360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-jeff-bezos-4280316.jpg?tf=1200x' alt='Elon Musk contra Jeff Bezos, qué lanzamiento será más caro: ¿Starship de SpaceX o New Glenn de Blue Origin?' />
     </a>
 </div>
 
