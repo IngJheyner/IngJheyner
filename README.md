@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-baterias-ordenadores-portatiles-1434277'>Crea su propio sistema de energía para casa utilizando baterías de ordenadores portátiles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-baterias-ordenadores-portatiles-1434277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/crea-propio-sistema-energia-casa-utilizando-baterias-ordenadores-portatiles-4280107.jpg?tf=1200x' alt='Crea su propio sistema de energía para casa utilizando baterías de ordenadores portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/displayport-21b-respuesta-vesa-hdmi-22-termina-pesadilla-cables-cortos-1434290'>DisplayPort 2.1b es la respuesta de VESA a HDMI 2.2, termina con la pesadilla de los cables cortos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/displayport-21b-respuesta-vesa-hdmi-22-termina-pesadilla-cables-cortos-1434290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vesa-responde-hdmi-22-displayport-21b-termina-pesadilla-cables-cortos-4280085.jpg?tf=1200x' alt='DisplayPort 2.1b es la respuesta de VESA a HDMI 2.2, termina con la pesadilla de los cables cortos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/badbox-mayor-epidemia-malware-dispositivos-android-tv-google-tv-1434138'>Badbox es ya la mayor epidemia de malware para dispositivos Android TV y Google TV</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/badbox-mayor-epidemia-malware-dispositivos-android-tv-google-tv-1434138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-badbox-4279845.jpg?tf=1200x' alt='Badbox es ya la mayor epidemia de malware para dispositivos Android TV y Google TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ataque-doble-clic-puede-vaciar-cuenta-bancaria-1434271'>El "ataque de doble clic" que puede vaciar tu cuenta bancaria</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ataque-doble-clic-puede-vaciar-cuenta-bancaria-1434271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-pc-portatil-4280067.jpg?tf=1200x' alt='El "ataque de doble clic" que puede vaciar tu cuenta bancaria' />
     </a>
 </div>
 
