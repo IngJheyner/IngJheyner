@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/fabricante-accesorios-filtra-replica-nintendo-switch-2-ces-2025-fecha-lanzamiento-1434333'>Fabricante de accesorios filtra una réplica de la Nintendo Switch 2 en el CES 2025 y su fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/fabricante-accesorios-filtra-replica-nintendo-switch-2-ces-2025-fecha-lanzamiento-1434333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nintendo-cansa-filtraciones-podria-adelantar-lanzamiento-switch-2-4277027.jpg?tf=1200x' alt='Fabricante de accesorios filtra una réplica de la Nintendo Switch 2 en el CES 2025 y su fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/papelera-whatsapp-eliminar-archivos-1433694'>Dónde está la papelera de WhatsApp para borrar lo que no necesitas y liberar espacio en móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/papelera-whatsapp-eliminar-archivos-1433694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-borrar-papelera-whatsapp-empezar-2025-libre-ya-no-necesitas-4279302.jpg?tf=1200x' alt='Dónde está la papelera de WhatsApp para borrar lo que no necesitas y liberar espacio en móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324'>Tiembla, Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-1434324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-tesla-coche-electrico-sony-revela-precio-fecha-lanzamiento-ces-2025-4280159.jpg?tf=1200x' alt='Tiembla, Tesla: el coche eléctrico de Sony revela su precio y fecha de lanzamiento en CES 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/steamos-todas-consolas-portatiles-1434314'>Steam sin Windows en todas las consolas portátiles: podrás instalar SteamOS donde quieras esta primavera</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/steamos-todas-consolas-portatiles-1434314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steam-windows-todas-consolas-portatiles-podras-instalar-steamos-donde-quieras-primavera-4280106.jpg?tf=1200x' alt='Steam sin Windows en todas las consolas portátiles: podrás instalar SteamOS donde quieras esta primavera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-oneplus-13-ademas-precio-fiabilidad-largo-plazo-1433289'>Lo que más me ha gustado OnePlus 13 es, además del precio, su fiabilidad a largo plazo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-oneplus-13-ademas-precio-fiabilidad-largo-plazo-1433289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13-4275255.jpg?tf=1200x' alt='Lo que más me ha gustado OnePlus 13 es, además del precio, su fiabilidad a largo plazo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/listas-iptv-como-usarlas-correctamente-evitar-caer-estafas-1433395'>Listas IPTV: cómo usarlas correctamente para evitar caer en estafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/listas-iptv-como-usarlas-correctamente-evitar-caer-estafas-1433395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/francia-suma-lucha-servicios-iptv-piratas-bloquea-webs-ilegales-laliga-3312240.jpg?tf=1200x' alt='Listas IPTV: cómo usarlas correctamente para evitar caer en estafas' />
     </a>
 </div>
 
