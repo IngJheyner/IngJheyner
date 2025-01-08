@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/displayport-21b-respuesta-vesa-hdmi-22-termina-pesadilla-cables-cortos-1434290'>DisplayPort 2.1b es la respuesta de VESA a HDMI 2.2, termina con la pesadilla de los cables cortos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/displayport-21b-respuesta-vesa-hdmi-22-termina-pesadilla-cables-cortos-1434290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vesa-responde-hdmi-22-displayport-21b-termina-pesadilla-cables-cortos-4280085.jpg?tf=1200x' alt='DisplayPort 2.1b es la respuesta de VESA a HDMI 2.2, termina con la pesadilla de los cables cortos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-1434258'>No solo IPTV y fútbol gratis: el escudo antipiratería se amplía a películas y series</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-1434258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-solo-iptv-futbol-gratis-escudo-antipirateria-amplia-peliculas-series-4280068.jpg?tf=1200x' alt='No solo IPTV y fútbol gratis: el escudo antipiratería se amplía a películas y series' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ataque-doble-clic-puede-vaciar-cuenta-bancaria-1434271'>El "ataque de doble clic" que puede vaciar tu cuenta bancaria</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ataque-doble-clic-puede-vaciar-cuenta-bancaria-1434271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-pc-portatil-4280067.jpg?tf=1200x' alt='El "ataque de doble clic" que puede vaciar tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-135-beta-ya-aqui-pero-toque-spanglish-inesperado-1434270'>Android Auto 13.5 beta ya está aquí, pero con un toque de "spanglish" inesperado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-135-beta-ya-aqui-pero-toque-spanglish-inesperado-1434270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-135-4280066.jpg?tf=1200x' alt='Android Auto 13.5 beta ya está aquí, pero con un toque de "spanglish" inesperado' />
     </a>
 </div>
 
