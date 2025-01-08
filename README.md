@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-1434412'>Samsung lanzará un plegable triple como el de Huawei antes de que acabe 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-1434412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-lanzara-plegable-triple-como-huawei-antes-acabe-2025-4280389.jpg?tf=1200x' alt='Samsung lanzará un plegable triple como el de Huawei antes de que acabe 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-microsoft-office-estas-5-herramientas-100-gratis-hacen-mismo-incluso-mejor-1434425'>Adiós Microsoft Office, estas 5 herramientas 100% gratis hacen lo mismo (incluso mejor)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-microsoft-office-estas-5-herramientas-100-gratis-hacen-mismo-incluso-mejor-1434425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/microsoft-lanza-actualizacion-trampa-office-solo-busca-informacion-2948992.jpg?tf=1200x' alt='Adiós Microsoft Office, estas 5 herramientas 100% gratis hacen lo mismo (incluso mejor)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-mirumi-robot-japones-entranable-cuyo-unico-objetivo-hacerte-feliz-1434394'>CES 2025: Mirumi, el robot japonés más entrañable cuyo único objetivo es hacerte feliz</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-mirumi-robot-japones-entranable-cuyo-unico-objetivo-hacerte-feliz-1434394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-ha-presentado-robot-japones-sorprendente-feria-no-como-te-esperabas-4280331.jpg?tf=1200x' alt='CES 2025: Mirumi, el robot japonés más entrañable cuyo único objetivo es hacerte feliz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/movistar-plus-ve-tan-mal-ultimos-dias-1434414'>¿Por qué Movistar Plus+ se ve tan mal en los últimos días?</a></h4>
     <a href='https://computerhoy.20minutos.es/movistar-plus-ve-tan-mal-ultimos-dias-1434414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='¿Por qué Movistar Plus+ se ve tan mal en los últimos días?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenovo-thinkbook-plus-gen-6-rollable-ces-2025-1434299'>Creía que era un truco más, pero este portátil de Lenovo con pantalla enrollable puede ser una de sus mejores ideas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lenovo-thinkbook-plus-gen-6-rollable-ces-2025-1434299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lenovo-thinkbook-plus-gen-6-rollable-4280115.jpg?tf=1200x' alt='Creía que era un truco más, pero este portátil de Lenovo con pantalla enrollable puede ser una de sus mejores ideas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desata-guerra-union-europa-lista-x-starlink-echen-freno-1434404'>Elon Musk desata una guerra en la Unión Europa, lista para que X y Starlink echen el freno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desata-guerra-union-europa-lista-x-starlink-echen-freno-1434404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4266830.jpg?tf=1200x' alt='Elon Musk desata una guerra en la Unión Europa, lista para que X y Starlink echen el freno' />
     </a>
 </div>
 
