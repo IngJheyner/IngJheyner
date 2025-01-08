@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-mirumi-robot-japones-entranable-cuyo-unico-objetivo-hacerte-feliz-1434394'>CES 2025: Mirumi, el robot japonés más entrañable cuyo único objetivo es hacerte feliz</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ces-2025-mirumi-robot-japones-entranable-cuyo-unico-objetivo-hacerte-feliz-1434394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ces-2025-ha-presentado-robot-japones-sorprendente-feria-no-como-te-esperabas-4280331.jpg?tf=1200x' alt='CES 2025: Mirumi, el robot japonés más entrañable cuyo único objetivo es hacerte feliz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-vs-rtx-5070-cual-mejor-opcion-comprar-2025-1434418'>Nvidia GeForce RTX 4090 vs RTX 5070: ¿cuál es la mejor opción para comprar este 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-vs-rtx-5070-cual-mejor-opcion-comprar-2025-1434418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5070-4280382.jpg?tf=1200x' alt='Nvidia GeForce RTX 4090 vs RTX 5070: ¿cuál es la mejor opción para comprar este 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/movistar-plus-ve-tan-mal-ultimos-dias-1434414'>¿Por qué Movistar Plus+ se ve tan mal en los últimos días?</a></h4>
+    <a href='https://computerhoy.20minutos.es/movistar-plus-ve-tan-mal-ultimos-dias-1434414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='¿Por qué Movistar Plus+ se ve tan mal en los últimos días?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenovo-thinkbook-plus-gen-6-rollable-ces-2025-1434299'>Creía que era un truco más, pero este portátil de Lenovo con pantalla enrollable puede ser una de sus mejores ideas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lenovo-thinkbook-plus-gen-6-rollable-ces-2025-1434299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lenovo-thinkbook-plus-gen-6-rollable-4280115.jpg?tf=1200x' alt='Creía que era un truco más, pero este portátil de Lenovo con pantalla enrollable puede ser una de sus mejores ideas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desata-guerra-union-europa-lista-x-starlink-echen-freno-1434404'>Elon Musk desata una guerra en la Unión Europa, lista para que X y Starlink echen el freno</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-desata-guerra-union-europa-lista-x-starlink-echen-freno-1434404' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4266830.jpg?tf=1200x' alt='Elon Musk desata una guerra en la Unión Europa, lista para que X y Starlink echen el freno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-auto-prepara-soportar-motos-gemini-estrena-como-sustituto-asistente-google-1434398'>Android Auto se prepara para soportar motos y Gemini se estrena como sustituto del Asistente de Google </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/android-auto-prepara-soportar-motos-gemini-estrena-como-sustituto-asistente-google-1434398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/novedades-android-auto-4269706.jpg?tf=1200x' alt='Android Auto se prepara para soportar motos y Gemini se estrena como sustituto del Asistente de Google ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-regiones-espana-peligro-inhabitables-1428628'>La NASA alerta: estas son las regiones de España en riesgo de ser inhabitables en muy pocos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-regiones-espana-peligro-inhabitables-1428628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/nasa-estas-son-regiones-espana-riesgo-convertirse-inhabitables-muy-pocos-anos-4270958.jpg?tf=1200x' alt='La NASA alerta: estas son las regiones de España en riesgo de ser inhabitables en muy pocos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/squirrel-nuevo-canal-tdt-1434087'>Squirrel: el nuevo canal de la TDT que sustituye a Disney Channel ofrecerá 10 películas al día gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/squirrel-nuevo-canal-tdt-1434087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-channel-tdt-4279854.jpg?tf=1200x' alt='Squirrel: el nuevo canal de la TDT que sustituye a Disney Channel ofrecerá 10 películas al día gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/mark-gurman-lanza-piscina-anuncia-cuando-saldra-iphone-4-apple-1434387'>Mark Gurman se lanza a la piscina y anuncia cuándo saldrá el iPhone SE 4 de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/mark-gurman-lanza-piscina-anuncia-cuando-saldra-iphone-4-apple-1434387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-4-apple-gurman-4280369.jpg?tf=1200x' alt='Mark Gurman se lanza a la piscina y anuncia cuándo saldrá el iPhone SE 4 de Apple' />
     </a>
 </div>
 
