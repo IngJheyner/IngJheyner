@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-conductores-uber-cabify-1434477'>Ni Waze ni Google Maps, esta es la app de navegación preferida de los conductores de Uber y Cabify</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-conductores-uber-cabify-1434477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aplicacion-uber-4280575.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta es la app de navegación preferida de los conductores de Uber y Cabify' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/absoluta-delicia-pantalla-diseno-top-cmf-watch-pro-2-hunde-precio-oferta-1434494'>"Una absoluta delicia" en su pantalla y diseño top: el CMF Watch Pro 2 hunde su precio en esta oferta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/absoluta-delicia-pantalla-diseno-top-cmf-watch-pro-2-hunde-precio-oferta-1434494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cmf-watch-2-pro-3861710.jpg?tf=1200x' alt='"Una absoluta delicia" en su pantalla y diseño top: el CMF Watch Pro 2 hunde su precio en esta oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/como-seremos-humanos-dentro-50000-anos-podria-tecnologia-cambiar-evolucion-expertos-1434436'>¿Cómo seremos los humanos dentro de 50.000 años? Así podría la tecnología cambiar la evolución, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/como-seremos-humanos-dentro-50000-anos-podria-tecnologia-cambiar-evolucion-expertos-1434436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-seremos-humanos-dentro-50000-anos-podria-tecnologia-cambiar-evolucion-expertos-4280400.jpg?tf=1200x' alt='¿Cómo seremos los humanos dentro de 50.000 años? Así podría la tecnología cambiar la evolución, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/expertos-confirman-windows-10-sufrira-situacion-peligrosa-windows-7-1434213'>Expertos confirman que Windows 10 sufrirá “una situación más peligrosa que la de Windows 7”</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/expertos-confirman-windows-10-sufrira-situacion-peligrosa-windows-7-1434213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-soporte-4279997.jpg?tf=1200x' alt='Expertos confirman que Windows 10 sufrirá “una situación más peligrosa que la de Windows 7”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-qr-android-guia-funcion-google-1434424'>Cómo compartir un QR en Android: guía de la nueva función que acaba de lanzar Google</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-qr-android-guia-funcion-google-1434424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/qr-android-4280445.jpg?tf=1200x' alt='Cómo compartir un QR en Android: guía de la nueva función que acaba de lanzar Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-futbol-gratis-novedades-enero-2025-1434595'>Fútbol gratis en Pluto TV, entre sus novedades de enero de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-futbol-gratis-novedades-enero-2025-1434595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/futbol-gratis-pluto-tv-novedades-enero-4280679.jpg?tf=1200x' alt='Fútbol gratis en Pluto TV, entre sus novedades de enero de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-1434541'>Es el mejor lenguaje de programación para aprender en 2025, y lo mejor de todo es que puedes hacerlo gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-1434541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-4280664.jpg?tf=1200x' alt='Es el mejor lenguaje de programación para aprender en 2025, y lo mejor de todo es que puedes hacerlo gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469'>Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gemini-android-4280478.jpg?tf=1200x' alt='Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF' />
     </a>
 </div>
 
