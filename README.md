@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-futbol-gratis-novedades-enero-2025-1434595'>Fútbol gratis en Pluto TV, entre sus novedades de enero de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-futbol-gratis-novedades-enero-2025-1434595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/futbol-gratis-pluto-tv-novedades-enero-4280679.jpg?tf=1200x' alt='Fútbol gratis en Pluto TV, entre sus novedades de enero de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-1434541'>Es el mejor lenguaje de programación para aprender en 2025, y lo mejor de todo es que puedes hacerlo gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-1434541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-lenguaje-programacion-aprender-2025-mejor-todo-puedes-hacerlo-gratis-4280664.jpg?tf=1200x' alt='Es el mejor lenguaje de programación para aprender en 2025, y lo mejor de todo es que puedes hacerlo gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-confia-cambio-masivo-windows-11-antes-fin-soporte-windows-10-1434559'>Microsoft confía en un cambio masivo a Windows 11 antes del fin de soporte de Windows 10</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-confia-cambio-masivo-windows-11-antes-fin-soporte-windows-10-1434559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4280636.jpg?tf=1200x' alt='Microsoft confía en un cambio masivo a Windows 11 antes del fin de soporte de Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/habito-cargar-movil-podria-costarte-caro-estas-usando-cargador-adecuado-1434558'>Este hábito al cargar el móvil podría costarte caro: ¿Estás usando el cargador adecuado?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/habito-cargar-movil-podria-costarte-caro-estas-usando-cargador-adecuado-1434558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-movil-4280628.jpg?tf=1200x' alt='Este hábito al cargar el móvil podría costarte caro: ¿Estás usando el cargador adecuado?' />
     </a>
 </div>
 
