@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679'>Esta app gratis te avisa de los radares invisibles para Waze o Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-gratis-te-avisa-radares-invisibles-4280907.jpg?tf=1200x' alt='Esta app gratis te avisa de los radares invisibles para Waze o Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/como-ver-squirrel-nuevo-canal-gratis-tdt-toda-espana-1434657'>Cómo ver Squirrel el nuevo canal gratis de la TDT en toda España</a></h4>
+    <a href='https://computerhoy.20minutos.es/como-ver-squirrel-nuevo-canal-gratis-tdt-toda-espana-1434657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/squirrel-canal-disney-channel-4280778.jpg?tf=1200x' alt='Cómo ver Squirrel el nuevo canal gratis de la TDT en toda España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-hemos-agotado-conocimiento-humano-entrenar-ia-1434698'>Elon Musk asegura que hemos agotado el conocimiento humano para entrenar a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-hemos-agotado-conocimiento-humano-entrenar-ia-1434698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4280870.jpg?tf=1200x' alt='Elon Musk asegura que hemos agotado el conocimiento humano para entrenar a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cargar-movil-2-segundos-invento-visto-ces-2025-supera-todo-conocido-1434663'>Cargar el móvil en 2 segundos: este invento visto en CES  2025 supera todo lo conocido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cargar-movil-2-segundos-invento-visto-ces-2025-supera-todo-conocido-1434663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/swippitt-4280829.jpg?tf=1200x' alt='Cargar el móvil en 2 segundos: este invento visto en CES  2025 supera todo lo conocido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-poco-x7-pro-edicion-especial-iron-man-amantes-marvel-1434393'>Xiaomi lanza el POCO X7 Pro, con una edición especial de Iron Man para los amantes de Marvel</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-poco-x7-pro-edicion-especial-iron-man-amantes-marvel-1434393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-poco-x7-pro-iron-man-edition-4280391.jpg?tf=1200x' alt='Xiaomi lanza el POCO X7 Pro, con una edición especial de Iron Man para los amantes de Marvel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-definitivo-modelo-tiene-dosificador-jabon-ia-1434638'>¿El robot aspirador definitivo? Este modelo tiene hasta dosificador de jabón, y con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-definitivo-modelo-tiene-dosificador-jabon-ia-1434638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/conga-20090-proai-infinitysoap-cutspa-4280764.jpg?tf=1200x' alt='¿El robot aspirador definitivo? Este modelo tiene hasta dosificador de jabón, y con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-inteligente-barato-nada-tiene-enviar-apple-watch-1434681'>Amazfit Active 2: el reloj inteligente barato que nada tiene que enviar al Apple Watch</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-inteligente-barato-nada-tiene-enviar-apple-watch-1434681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazfit-active-2-rejoj-inteligente-barato-nada-tiene-enviar-apple-watch-4280823.jpg?tf=1200x' alt='Amazfit Active 2: el reloj inteligente barato que nada tiene que enviar al Apple Watch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-secretos-detalle-nueva-consola-nintendo-1434686'>Nintendo Switch 2 sin secretos: así es al detalle la nueva consola de Nintendo </a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-secretos-detalle-nueva-consola-nintendo-1434686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4280834.jpg?tf=1200x' alt='Nintendo Switch 2 sin secretos: así es al detalle la nueva consola de Nintendo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-siri-ni-alexa-grok-ia-rebelde-elon-musk-invade-tesla-1434628'>Ni Siri ni Alexa: Grok, la IA rebelde de Elon Musk, invade los Tesla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-siri-ni-alexa-grok-ia-rebelde-elon-musk-invade-tesla-1434628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/grok-4280786.jpg?tf=1200x' alt='Ni Siri ni Alexa: Grok, la IA rebelde de Elon Musk, invade los Tesla' />
     </a>
 </div>
 
