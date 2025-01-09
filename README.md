@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/crea-caos-absoluto-situar-aldi-falso-google-maps-1434859'>Crea el caos absoluto al situar un Aldi falso en Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/crea-caos-absoluto-situar-aldi-falso-google-maps-1434859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aldi-4281123.jpg?tf=1200x' alt='Crea el caos absoluto al situar un Aldi falso en Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-desarrolla-rifle-robotico-centinela-chatgpt-openai-controla-como-toro-mecanico-1434854'>Ingeniero desarrolla un rifle robótico centinela con ChatGPT de OpenAI y lo controla como un toro mecánico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-desarrolla-rifle-robotico-centinela-chatgpt-openai-controla-como-toro-mecanico-1434854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ingeniero-desarrolla-rifle-robotico-centinela-chatgpt-openai-controla-como-toro-mecanico-4281116.jpg?tf=1200x' alt='Ingeniero desarrolla un rifle robótico centinela con ChatGPT de OpenAI y lo controla como un toro mecánico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849'>Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-google-maps-policia-4281112.jpg?tf=1200x' alt='Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/vlc-player-ya-subtitula-videos-100-idiomas-tiempo-real-usando-ia-1434837'>VLC Player ya subtitula vídeos a 100 idiomas en tiempo real usando IA, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/vlc-player-ya-subtitula-videos-100-idiomas-tiempo-real-usando-ia-1434837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vlc-player-ya-subtitula-videos-100-idiomas-tiempo-real-usando-ia-cambia-todo-4281034.jpg?tf=1200x' alt='VLC Player ya subtitula vídeos a 100 idiomas en tiempo real usando IA, lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-12-tendras-pasar-windows-11-te-guste-no-1434801'>Adiós Windows 12, tendrás que pasar por Windows 11, te guste o no</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-windows-12-tendras-pasar-windows-11-te-guste-no-1434801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-windows-12-tendras-pasar-windows-11-te-guste-no-4281059.jpg?tf=1200x' alt='Adiós Windows 12, tendrás que pasar por Windows 11, te guste o no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688'>NVIDIA afirma que su IA es tan potente que necesita tener su propia ley</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-4280875.jpg?tf=1200x' alt='NVIDIA afirma que su IA es tan potente que necesita tener su propia ley' />
     </a>
 </div>
 
