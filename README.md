@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722'>Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-lemon8-4280912.jpg?tf=1200x' alt='Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/raspberry-pi-5-16-gb-precio-caracteristicas-oficiales-1434703'>Raspberry Pi 5 de 16 GB ya es oficial: precio y características oficiales</a></h4>
     <a href='https://computerhoy.20minutos.es/raspberry-pi-5-16-gb-precio-caracteristicas-oficiales-1434703' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/raspberry-pi-5-16-ram-4280886.jpg?tf=1200x' alt='Raspberry Pi 5 de 16 GB ya es oficial: precio y características oficiales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-hemos-agotado-conocimiento-humano-entrenar-ia-1434698'>Elon Musk asegura que hemos agotado el conocimiento humano para entrenar a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-hemos-agotado-conocimiento-humano-entrenar-ia-1434698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4280870.jpg?tf=1200x' alt='Elon Musk asegura que hemos agotado el conocimiento humano para entrenar a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cargar-movil-2-segundos-invento-visto-ces-2025-supera-todo-conocido-1434663'>Cargar el móvil en 2 segundos: este invento visto en CES  2025 supera todo lo conocido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cargar-movil-2-segundos-invento-visto-ces-2025-supera-todo-conocido-1434663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/swippitt-4280829.jpg?tf=1200x' alt='Cargar el móvil en 2 segundos: este invento visto en CES  2025 supera todo lo conocido' />
     </a>
 </div>
 
