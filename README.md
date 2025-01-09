@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-consola-portatil-xbox-pc-windows-1434611'>Adiós a Xbox: Microsoft confirma que su consola portátil será un PC con Windows, y saldrá este año</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-consola-portatil-xbox-pc-windows-1434611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-xbox-microsoft-confirma-consola-portatil-sera-pc-windows-4280722.jpg?tf=1200x' alt='Adiós a Xbox: Microsoft confirma que su consola portátil será un PC con Windows, y saldrá este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-google-ia-smart-tv-2025-1433986'>Desde acabar con la barrera del idioma a una IA que de verdad te entienda, las apuestas de Samsung y Google en las Smart TV de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-google-ia-smart-tv-2025-1433986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-vision-ai-4280109.jpg?tf=1200x' alt='Desde acabar con la barrera del idioma a una IA que de verdad te entienda, las apuestas de Samsung y Google en las Smart TV de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-hay-redes-sociales-todo-son-plataformas-tiktok-quiere-parecerse-netflix-instagram-1431229'>Ya no hay 'redes sociales', todo son 'plataformas': por qué TikTok quiere parecerse más a Netflix que a Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-hay-redes-sociales-todo-son-plataformas-tiktok-quiere-parecerse-netflix-instagram-1431229' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-tiktok-plataforma-video-streaming-4275459.jpg?tf=1200x' alt='Ya no hay 'redes sociales', todo son 'plataformas': por qué TikTok quiere parecerse más a Netflix que a Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-conductores-uber-cabify-1434477'>Ni Waze ni Google Maps, esta es la app de navegación preferida de los conductores de Uber y Cabify</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-conductores-uber-cabify-1434477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aplicacion-uber-4280575.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta es la app de navegación preferida de los conductores de Uber y Cabify' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/absoluta-delicia-pantalla-diseno-top-cmf-watch-pro-2-hunde-precio-oferta-1434494'>"Una absoluta delicia" en su pantalla y diseño top: el CMF Watch Pro 2 hunde su precio en esta oferta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/absoluta-delicia-pantalla-diseno-top-cmf-watch-pro-2-hunde-precio-oferta-1434494' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cmf-watch-2-pro-3861710.jpg?tf=1200x' alt='"Una absoluta delicia" en su pantalla y diseño top: el CMF Watch Pro 2 hunde su precio en esta oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/como-seremos-humanos-dentro-50000-anos-podria-tecnologia-cambiar-evolucion-expertos-1434436'>¿Cómo seremos los humanos dentro de 50.000 años? Así podría la tecnología cambiar la evolución, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/como-seremos-humanos-dentro-50000-anos-podria-tecnologia-cambiar-evolucion-expertos-1434436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-seremos-humanos-dentro-50000-anos-podria-tecnologia-cambiar-evolucion-expertos-4280400.jpg?tf=1200x' alt='¿Cómo seremos los humanos dentro de 50.000 años? Así podría la tecnología cambiar la evolución, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-confirman-windows-10-sufrira-situacion-peligrosa-windows-7-1434213'>Expertos confirman que Windows 10 sufrirá “una situación más peligrosa que la de Windows 7”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/expertos-confirman-windows-10-sufrira-situacion-peligrosa-windows-7-1434213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-soporte-4279997.jpg?tf=1200x' alt='Expertos confirman que Windows 10 sufrirá “una situación más peligrosa que la de Windows 7”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-qr-android-guia-funcion-google-1434424'>Cómo compartir un QR en Android: guía de la nueva función que acaba de lanzar Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-qr-android-guia-funcion-google-1434424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/qr-android-4280445.jpg?tf=1200x' alt='Cómo compartir un QR en Android: guía de la nueva función que acaba de lanzar Google' />
     </a>
 </div>
 
