@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-confirman-windows-10-sufrira-situacion-peligrosa-windows-7-1434213'>Expertos confirman que Windows 10 sufrirá “una situación más peligrosa que la de Windows 7”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/expertos-confirman-windows-10-sufrira-situacion-peligrosa-windows-7-1434213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-soporte-4279997.jpg?tf=1200x' alt='Expertos confirman que Windows 10 sufrirá “una situación más peligrosa que la de Windows 7”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-qr-android-guia-funcion-google-1434424'>Cómo compartir un QR en Android: guía de la nueva función que acaba de lanzar Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-qr-android-guia-funcion-google-1434424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/qr-android-4280445.jpg?tf=1200x' alt='Cómo compartir un QR en Android: guía de la nueva función que acaba de lanzar Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-futbol-gratis-novedades-enero-2025-1434595'>Fútbol gratis en Pluto TV, entre sus novedades de enero de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/pluto-tv-futbol-gratis-novedades-enero-2025-1434595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/futbol-gratis-pluto-tv-novedades-enero-4280679.jpg?tf=1200x' alt='Fútbol gratis en Pluto TV, entre sus novedades de enero de 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469'>Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fin-llega-funciones-esperadas-gemini-android-ya-puedes-preguntar-pdf-1434469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gemini-android-4280478.jpg?tf=1200x' alt='Por fin llega una de las funciones más esperadas de Gemini a Android: ya le puedes preguntar sobre un PDF' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/navegadores-juegos-incluso-youtube-podrian-llegar-muy-pronto-android-auto-1434561'>Navegadores, juegos e incluso YouTube podrían llegar muy pronto a Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/navegadores-juegos-incluso-youtube-podrian-llegar-muy-pronto-android-auto-1434561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-android-auto-4148124.jpg?tf=1200x' alt='Navegadores, juegos e incluso YouTube podrían llegar muy pronto a Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-confia-cambio-masivo-windows-11-antes-fin-soporte-windows-10-1434559'>Microsoft confía en un cambio masivo a Windows 11 antes del fin de soporte de Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-confia-cambio-masivo-windows-11-antes-fin-soporte-windows-10-1434559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4280636.jpg?tf=1200x' alt='Microsoft confía en un cambio masivo a Windows 11 antes del fin de soporte de Windows 10' />
     </a>
 </div>
 
