@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-poco-x7-pro-edicion-especial-iron-man-amantes-marvel-1434393'>Xiaomi lanza el POCO X7 Pro, con una edición especial de Iron Man para los amantes de Marvel</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-poco-x7-pro-edicion-especial-iron-man-amantes-marvel-1434393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-poco-x7-pro-iron-man-edition-4280391.jpg?tf=1200x' alt='Xiaomi lanza el POCO X7 Pro, con una edición especial de Iron Man para los amantes de Marvel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-definitivo-modelo-tiene-dosificador-jabon-ia-1434638'>¿El robot aspirador definitivo? Este modelo tiene hasta dosificador de jabón, y con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-definitivo-modelo-tiene-dosificador-jabon-ia-1434638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/conga-20090-proai-infinitysoap-cutspa-4280764.jpg?tf=1200x' alt='¿El robot aspirador definitivo? Este modelo tiene hasta dosificador de jabón, y con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-inteligente-barato-nada-tiene-enviar-apple-watch-1434681'>Amazfit Active 2: el reloj inteligente barato que nada tiene que enviar al Apple Watch</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-inteligente-barato-nada-tiene-enviar-apple-watch-1434681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazfit-active-2-rejoj-inteligente-barato-nada-tiene-enviar-apple-watch-4280823.jpg?tf=1200x' alt='Amazfit Active 2: el reloj inteligente barato que nada tiene que enviar al Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-secretos-detalle-nueva-consola-nintendo-1434686'>Nintendo Switch 2 sin secretos: así es al detalle la nueva consola de Nintendo </a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-secretos-detalle-nueva-consola-nintendo-1434686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4280834.jpg?tf=1200x' alt='Nintendo Switch 2 sin secretos: así es al detalle la nueva consola de Nintendo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-siri-ni-alexa-grok-ia-rebelde-elon-musk-invade-tesla-1434628'>Ni Siri ni Alexa: Grok, la IA rebelde de Elon Musk, invade los Tesla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-siri-ni-alexa-grok-ia-rebelde-elon-musk-invade-tesla-1434628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/grok-4280786.jpg?tf=1200x' alt='Ni Siri ni Alexa: Grok, la IA rebelde de Elon Musk, invade los Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tercer-check-azul-whatsapp-acabara-problemas-preocupantes-1434624'>El tercer check azul de WhatsApp acabará con uno de sus problemas más preocupantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tercer-check-azul-whatsapp-acabara-problemas-preocupantes-1434624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/triple-check-azul-whatsapp-4280804.jpg?tf=1200x' alt='El tercer check azul de WhatsApp acabará con uno de sus problemas más preocupantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-viajar-espacio-1433657'>Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-viajar-espacio-1433657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-manejando-satelite-distancia-tierra-4280788.jpg?tf=1200x' alt='Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ia-google-cuando-vas-volante-1434650'>Android Auto: así funciona la IA de Google cuando vas al volante</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ia-google-cuando-vas-volante-1434650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-135-4280066.jpg?tf=1200x' alt='Android Auto: así funciona la IA de Google cuando vas al volante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/prueba-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364'>Tras un año con el Samsung Galaxy S24 Ultra lo tengo claro: no hay vuelta atrás</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/prueba-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267388.jpg?tf=1200x' alt='Tras un año con el Samsung Galaxy S24 Ultra lo tengo claro: no hay vuelta atrás' />
     </a>
 </div>
 
