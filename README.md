@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-12-tendras-pasar-windows-11-te-guste-no-1434801'>Adiós Windows 12, tendrás que pasar por Windows 11, te guste o no</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-windows-12-tendras-pasar-windows-11-te-guste-no-1434801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-windows-12-tendras-pasar-windows-11-te-guste-no-4281059.jpg?tf=1200x' alt='Adiós Windows 12, tendrás que pasar por Windows 11, te guste o no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688'>NVIDIA afirma que su IA es tan potente que necesita tener su propia ley</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-4280875.jpg?tf=1200x' alt='NVIDIA afirma que su IA es tan potente que necesita tener su propia ley' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/ver-supercopa-espana-gratis-madrid-barcelona-1434641'>Ver la Supercopa de España gratis por IPTV: este es el punto débil que te hace vulnerable</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ver-supercopa-espana-gratis-madrid-barcelona-1434641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modric-jugando-real-madrid-4280929.jpg?tf=1200x' alt='Ver la Supercopa de España gratis por IPTV: este es el punto débil que te hace vulnerable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-promete-siri-no-comparte-datos-anunciantes-1434709'>Apple promete que Siri no comparte tus datos con anunciantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-promete-siri-no-comparte-datos-anunciantes-1434709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/siri-4280894.jpg?tf=1200x' alt='Apple promete que Siri no comparte tus datos con anunciantes' />
     </a>
 </div>
 
