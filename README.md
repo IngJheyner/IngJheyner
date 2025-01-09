@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ver-supercopa-gratis-iptv-punto-debil-te-hace-vulnerable-1434641'>Ver la Supercopa gratis por IPTV: este es el punto débil que te hace vulnerable</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ver-supercopa-gratis-iptv-punto-debil-te-hace-vulnerable-1434641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/multas-usuarios-ver-futbol-pirata-4250968.jpg?tf=1200x' alt='Ver la Supercopa gratis por IPTV: este es el punto débil que te hace vulnerable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1434630'>Samsung Galaxy S25: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1434630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3269057.jpg?tf=1200x' alt='Samsung Galaxy S25: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-google-ia-smart-tv-2025-1433986'>Desde acabar con la barrera del idioma a una IA que de verdad te entienda, las apuestas de Samsung y Google en las Smart TV de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-google-ia-smart-tv-2025-1433986' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-vision-ai-4280109.jpg?tf=1200x' alt='Desde acabar con la barrera del idioma a una IA que de verdad te entienda, las apuestas de Samsung y Google en las Smart TV de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-hay-redes-sociales-todo-son-plataformas-tiktok-quiere-parecerse-netflix-instagram-1431229'>Ya no hay 'redes sociales', todo son 'plataformas': por qué TikTok quiere parecerse más a Netflix que a Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-hay-redes-sociales-todo-son-plataformas-tiktok-quiere-parecerse-netflix-instagram-1431229' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-tiktok-plataforma-video-streaming-4275459.jpg?tf=1200x' alt='Ya no hay 'redes sociales', todo son 'plataformas': por qué TikTok quiere parecerse más a Netflix que a Instagram' />
     </a>
 </div>
 
