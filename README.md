@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ver-supercopa-gratis-iptv-punto-debil-te-hace-vulnerable-1434641'>Ver la Supercopa gratis por IPTV: este es el punto débil que te hace vulnerable</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ver-supercopa-gratis-iptv-punto-debil-te-hace-vulnerable-1434641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/multas-usuarios-ver-futbol-pirata-4250968.jpg?tf=1200x' alt='Ver la Supercopa gratis por IPTV: este es el punto débil que te hace vulnerable' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-siri-ni-alexa-grok-ia-rebelde-elon-musk-invade-tesla-1434628'>Ni Siri ni Alexa: Grok, la IA rebelde de Elon Musk, invade los Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-siri-ni-alexa-grok-ia-rebelde-elon-musk-invade-tesla-1434628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/grok-4280786.jpg?tf=1200x' alt='Ni Siri ni Alexa: Grok, la IA rebelde de Elon Musk, invade los Tesla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1434630'>Samsung Galaxy S25: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1434630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3269057.jpg?tf=1200x' alt='Samsung Galaxy S25: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/tercer-check-azul-whatsapp-acabara-problemas-preocupantes-1434624'>El tercer check azul de WhatsApp acabará con uno de sus problemas más preocupantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tercer-check-azul-whatsapp-acabara-problemas-preocupantes-1434624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/triple-check-azul-whatsapp-4280804.jpg?tf=1200x' alt='El tercer check azul de WhatsApp acabará con uno de sus problemas más preocupantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-gratis-sam-altman-dice-pierden-dinero-chatgpt-pro-1434623'>¿Adiós a ChatGPT gratis?: Sam Altman dice que pierden dinero con ChatGPT Pro, que cuesta 200 dólares al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-gratis-sam-altman-dice-pierden-dinero-chatgpt-pro-1434623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-chatgpt-gratis-sam-altman-dice-pierden-dinero-chatgpt-pro-cuesta-200-dolares-mes-4280739.jpg?tf=1200x' alt='¿Adiós a ChatGPT gratis?: Sam Altman dice que pierden dinero con ChatGPT Pro, que cuesta 200 dólares al mes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-viajar-espacio-1433657'>Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hacker-repara-satelite-averiado-viajar-espacio-1433657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-manejando-satelite-distancia-tierra-4280788.jpg?tf=1200x' alt='Hacker consigue reparar un satélite averiado desde 2013 sin necesidad de viajar al espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-consola-portatil-xbox-pc-windows-1434611'>Adiós a Xbox: Microsoft confirma que su consola portátil será un PC con Windows, y saldrá este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/microsoft-consola-portatil-xbox-pc-windows-1434611' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-xbox-microsoft-confirma-consola-portatil-sera-pc-windows-4280722.jpg?tf=1200x' alt='Adiós a Xbox: Microsoft confirma que su consola portátil será un PC con Windows, y saldrá este año' />
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ia-google-cuando-vas-volante-1434650'>Android Auto: así funciona la IA de Google cuando vas al volante</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ia-google-cuando-vas-volante-1434650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-135-4280066.jpg?tf=1200x' alt='Android Auto: así funciona la IA de Google cuando vas al volante' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-google-ia-smart-tv-2025-1433986'>Desde acabar con la barrera del idioma a una IA que de verdad te entienda, las apuestas de Samsung y Google en las Smart TV de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-google-ia-smart-tv-2025-1433986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-vision-ai-4280109.jpg?tf=1200x' alt='Desde acabar con la barrera del idioma a una IA que de verdad te entienda, las apuestas de Samsung y Google en las Smart TV de 2025' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/prueba-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364'>Tras un año con el Samsung Galaxy S24 Ultra lo tengo claro: no hay vuelta atrás</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/prueba-samsung-galaxy-s24-ultra-creo-no-hay-vuelta-atras-1433364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267388.jpg?tf=1200x' alt='Tras un año con el Samsung Galaxy S24 Ultra lo tengo claro: no hay vuelta atrás' />
     </a>
 </div>
 
