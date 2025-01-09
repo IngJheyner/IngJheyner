@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1434630'>Samsung Galaxy S25: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-caracteristicas-precio-fecha-lanzamiento-todo-sabe-ahora-1434630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/samsung-galaxy-s24-ultra-3269057.jpg?tf=1200x' alt='Samsung Galaxy S25: características, precio, fecha de lanzamiento y todo lo que se sabe hasta ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-gratis-sam-altman-dice-pierden-dinero-chatgpt-pro-1434623'>¿Adiós a ChatGPT gratis?: Sam Altman dice que pierden dinero con ChatGPT Pro, que cuesta 200 dólares al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-gratis-sam-altman-dice-pierden-dinero-chatgpt-pro-1434623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-chatgpt-gratis-sam-altman-dice-pierden-dinero-chatgpt-pro-cuesta-200-dolares-mes-4280739.jpg?tf=1200x' alt='¿Adiós a ChatGPT gratis?: Sam Altman dice que pierden dinero con ChatGPT Pro, que cuesta 200 dólares al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-consola-portatil-xbox-pc-windows-1434611'>Adiós a Xbox: Microsoft confirma que su consola portátil será un PC con Windows, y saldrá este año</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-consola-portatil-xbox-pc-windows-1434611' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-xbox-microsoft-confirma-consola-portatil-sera-pc-windows-4280722.jpg?tf=1200x' alt='Adiós a Xbox: Microsoft confirma que su consola portátil será un PC con Windows, y saldrá este año' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-hay-redes-sociales-todo-son-plataformas-tiktok-quiere-parecerse-netflix-instagram-1431229'>Ya no hay 'redes sociales', todo son 'plataformas': por qué TikTok quiere parecerse más a Netflix que a Instagram</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-hay-redes-sociales-todo-son-plataformas-tiktok-quiere-parecerse-netflix-instagram-1431229' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/netflix-tiktok-plataforma-video-streaming-4275459.jpg?tf=1200x' alt='Ya no hay 'redes sociales', todo son 'plataformas': por qué TikTok quiere parecerse más a Netflix que a Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-conductores-uber-cabify-1434477'>Ni Waze ni Google Maps, esta es la app de navegación preferida de los conductores de Uber y Cabify</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-conductores-uber-cabify-1434477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aplicacion-uber-4280575.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta es la app de navegación preferida de los conductores de Uber y Cabify' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/absoluta-delicia-pantalla-diseno-top-cmf-watch-pro-2-hunde-precio-oferta-1434494'>"Una absoluta delicia" en su pantalla y diseño top: el CMF Watch Pro 2 hunde su precio en esta oferta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/absoluta-delicia-pantalla-diseno-top-cmf-watch-pro-2-hunde-precio-oferta-1434494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cmf-watch-2-pro-3861710.jpg?tf=1200x' alt='"Una absoluta delicia" en su pantalla y diseño top: el CMF Watch Pro 2 hunde su precio en esta oferta' />
     </a>
 </div>
 
