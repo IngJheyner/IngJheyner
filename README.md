@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-1434785'>Google elimina 200 páginas web de IPTV y streaming ilegal por violar las sanciones de la UE</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-1434785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-4281015.jpg?tf=1200x' alt='Google elimina 200 páginas web de IPTV y streaming ilegal por violar las sanciones de la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-crisis-cerca-fracaso-revolucion-tecnologica-prometida-1434717'>Apple Vision Pro en crisis: más cerca del fracaso que de la revolución tecnológica prometida</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-vision-pro-crisis-cerca-fracaso-revolucion-tecnologica-prometida-1434717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/apple-vision-pro-3275560.jpg?tf=1200x' alt='Apple Vision Pro en crisis: más cerca del fracaso que de la revolución tecnológica prometida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/ver-supercopa-espana-gratis-madrid-barcelona-1434641'>Ver la Supercopa de España gratis por IPTV: este es el punto débil que te hace vulnerable</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ver-supercopa-espana-gratis-madrid-barcelona-1434641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modric-jugando-real-madrid-4280929.jpg?tf=1200x' alt='Ver la Supercopa de España gratis por IPTV: este es el punto débil que te hace vulnerable' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722'>Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-lemon8-4280912.jpg?tf=1200x' alt='Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/raspberry-pi-5-16-gb-precio-caracteristicas-oficiales-1434703'>Raspberry Pi 5 de 16 GB ya es oficial: precio y características oficiales</a></h4>
-    <a href='https://computerhoy.20minutos.es/raspberry-pi-5-16-gb-precio-caracteristicas-oficiales-1434703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/raspberry-pi-5-16-ram-4280886.jpg?tf=1200x' alt='Raspberry Pi 5 de 16 GB ya es oficial: precio y características oficiales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679'>Esta app gratis te avisa de los radares invisibles para Waze o Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-gratis-te-avisa-radares-invisibles-4280907.jpg?tf=1200x' alt='Esta app gratis te avisa de los radares invisibles para Waze o Google Maps' />
     </a>
 </div>
 
