@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688'>NVIDIA afirma que su IA es tan potente que necesita tener su propia ley</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-4280875.jpg?tf=1200x' alt='NVIDIA afirma que su IA es tan potente que necesita tener su propia ley' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-1434785'>Google elimina 200 páginas web de IPTV y streaming ilegal por violar las sanciones de la UE</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-1434785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-4281015.jpg?tf=1200x' alt='Google elimina 200 páginas web de IPTV y streaming ilegal por violar las sanciones de la UE' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-promete-siri-no-comparte-datos-anunciantes-1434709'>Apple promete que Siri no comparte tus datos con anunciantes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-promete-siri-no-comparte-datos-anunciantes-1434709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/siri-4280894.jpg?tf=1200x' alt='Apple promete que Siri no comparte tus datos con anunciantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722'>Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-lemon8-4280912.jpg?tf=1200x' alt='Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo' />
     </a>
 </div>
 
