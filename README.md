@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/raspberry-pi-5-16-gb-precio-caracteristicas-oficiales-1434703'>Raspberry Pi 5 de 16 GB ya es oficial: precio y características oficiales</a></h4>
+    <a href='https://computerhoy.20minutos.es/raspberry-pi-5-16-gb-precio-caracteristicas-oficiales-1434703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/raspberry-pi-5-16-ram-4280886.jpg?tf=1200x' alt='Raspberry Pi 5 de 16 GB ya es oficial: precio y características oficiales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679'>Esta app gratis te avisa de los radares invisibles para Waze o Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-gratis-te-avisa-radares-invisibles-4280907.jpg?tf=1200x' alt='Esta app gratis te avisa de los radares invisibles para Waze o Google Maps' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cargar-movil-2-segundos-invento-visto-ces-2025-supera-todo-conocido-1434663'>Cargar el móvil en 2 segundos: este invento visto en CES  2025 supera todo lo conocido</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cargar-movil-2-segundos-invento-visto-ces-2025-supera-todo-conocido-1434663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/swippitt-4280829.jpg?tf=1200x' alt='Cargar el móvil en 2 segundos: este invento visto en CES  2025 supera todo lo conocido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-poco-x7-pro-edicion-especial-iron-man-amantes-marvel-1434393'>Xiaomi lanza el POCO X7 Pro, con una edición especial de Iron Man para los amantes de Marvel</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-poco-x7-pro-edicion-especial-iron-man-amantes-marvel-1434393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-poco-x7-pro-iron-man-edition-4280391.jpg?tf=1200x' alt='Xiaomi lanza el POCO X7 Pro, con una edición especial de Iron Man para los amantes de Marvel' />
     </a>
 </div>
 
