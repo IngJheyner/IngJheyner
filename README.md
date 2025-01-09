@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849'>Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-google-maps-policia-4281112.jpg?tf=1200x' alt='Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/comprar-nintendo-switch-2-podria-no-ser-tarea-facil-analistas-1434845'>Comprar una Nintendo Switch 2 podría no ser tarea fácil, según los analistas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/comprar-nintendo-switch-2-podria-no-ser-tarea-facil-analistas-1434845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4201069.jpg?tf=1200x' alt='Comprar una Nintendo Switch 2 podría no ser tarea fácil, según los analistas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688'>NVIDIA afirma que su IA es tan potente que necesita tener su propia ley</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-1434688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-afirma-ia-tan-potente-necesita-tener-propia-ley-4280875.jpg?tf=1200x' alt='NVIDIA afirma que su IA es tan potente que necesita tener su propia ley' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-1434785'>Google elimina 200 páginas web de IPTV y streaming ilegal por violar las sanciones de la UE</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-1434785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-4281015.jpg?tf=1200x' alt='Google elimina 200 páginas web de IPTV y streaming ilegal por violar las sanciones de la UE' />
     </a>
 </div>
 
