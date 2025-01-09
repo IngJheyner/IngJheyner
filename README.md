@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ver-supercopa-espana-gratis-madrid-barcelona-1434641'>Ver la Supercopa de España gratis por IPTV: este es el punto débil que te hace vulnerable</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ver-supercopa-espana-gratis-madrid-barcelona-1434641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modric-jugando-real-madrid-4280929.jpg?tf=1200x' alt='Ver la Supercopa de España gratis por IPTV: este es el punto débil que te hace vulnerable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-promete-siri-no-comparte-datos-anunciantes-1434709'>Apple promete que Siri no comparte tus datos con anunciantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-promete-siri-no-comparte-datos-anunciantes-1434709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/siri-4280894.jpg?tf=1200x' alt='Apple promete que Siri no comparte tus datos con anunciantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722'>Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lemon8-alternativa-tiktok-final-terminan-prohibiendolo-1434722' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-lemon8-4280912.jpg?tf=1200x' alt='Lemon8, la alternativa a TikTok si al final terminan prohibiéndolo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679'>Esta app gratis te avisa de los radares invisibles para Waze o Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/app-gratis-te-avisa-radares-invisibles-waze-google-maps-1434679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-gratis-te-avisa-radares-invisibles-4280907.jpg?tf=1200x' alt='Esta app gratis te avisa de los radares invisibles para Waze o Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/como-ver-squirrel-nuevo-canal-gratis-tdt-toda-espana-1434657'>Cómo ver Squirrel el nuevo canal gratis de la TDT en toda España</a></h4>
-    <a href='https://computerhoy.20minutos.es/como-ver-squirrel-nuevo-canal-gratis-tdt-toda-espana-1434657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/squirrel-canal-disney-channel-4280778.jpg?tf=1200x' alt='Cómo ver Squirrel el nuevo canal gratis de la TDT en toda España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-hemos-agotado-conocimiento-humano-entrenar-ia-1434698'>Elon Musk asegura que hemos agotado el conocimiento humano para entrenar a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-hemos-agotado-conocimiento-humano-entrenar-ia-1434698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4280870.jpg?tf=1200x' alt='Elon Musk asegura que hemos agotado el conocimiento humano para entrenar a la IA' />
     </a>
 </div>
 
