@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-aliexpress-vende-smartwatch-barato-menos-100-euros-1434881'>Samsung la lía en AliExpress: vende su smartwatch más barato por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-aliexpress-vende-smartwatch-barato-menos-100-euros-1434881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-watch-fe-4281156.jpg?tf=1200x' alt='Samsung la lía en AliExpress: vende su smartwatch más barato por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/daily-listen-nueva-ia-google-convierte-feed-discover-podcast-audio-1434880'>Adiós a leer noticias: Daily Listen en la nueva IA de Google que convierte tu feed de Discover en un podcast</a></h4>
     <a href='https://computerhoy.20minutos.es/google/daily-listen-nueva-ia-google-convierte-feed-discover-podcast-audio-1434880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-leer-noticias-daily-listen-nueva-ia-google-convierte-feed-noticias-podcast-4281149.jpg?tf=1200x' alt='Adiós a leer noticias: Daily Listen en la nueva IA de Google que convierte tu feed de Discover en un podcast' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abre-puertas-phi-4-ia-avanzada-ahora-accesible-todos-1434738'>Microsoft abre las puertas de Phi-4, su IA más avanzada, ahora es accesible para todos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abre-puertas-phi-4-ia-avanzada-ahora-accesible-todos-1434738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-libera-phi-4-4280940.jpg?tf=1200x' alt='Microsoft abre las puertas de Phi-4, su IA más avanzada, ahora es accesible para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737'>DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-tarjeta-grafica-4280941.jpg?tf=1200x' alt='DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA' />
     </a>
 </div>
 
