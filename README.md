@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-comparte-imagenes-aurora-vista-espacio-tan-increibles-piensan-ia-1434999'>La NASA comparte imágenes de una aurora vista desde el espacio tan increíbles que piensan que es IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-comparte-imagenes-aurora-vista-espacio-tan-increibles-piensan-ia-1434999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aurora-espacio-4281373.jpg?tf=1200x' alt='La NASA comparte imágenes de una aurora vista desde el espacio tan increíbles que piensan que es IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lista-salvar-marcas-coches-tradicionales-1000-millones-1434990'>Tesla lista para salvar a las marcas de coches tradicionales, eso sí, a cambio de 1.000 millones</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-lista-salvar-marcas-coches-tradicionales-1000-millones-1434990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-tesla-4281289.jpg?tf=1200x' alt='Tesla lista para salvar a las marcas de coches tradicionales, eso sí, a cambio de 1.000 millones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479'>He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277646.jpg?tf=1200x' alt='He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/adios-bizum-podras-enviar-dinero-instante-madre-solo-cuenta-banco-1434944'>Adiós Bizum, podrás enviar dinero al instante a tu madre solo con la cuenta del banco</a></h4>
-    <a href='https://computerhoy.20minutos.es/adios-bizum-podras-enviar-dinero-instante-madre-solo-cuenta-banco-1434944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-bizum-4281257.jpg?tf=1200x' alt='Adiós Bizum, podrás enviar dinero al instante a tu madre solo con la cuenta del banco' />
     </a>
 </div>
 
