@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-1435126'>WhatsApp cambia por completo: adiós Comunidades, hola chatbots de IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-1435126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-4281527.jpg?tf=1200x' alt='WhatsApp cambia por completo: adiós Comunidades, hola chatbots de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-1435118'>¿Fin de Firefox? Google, Microsoft y Linux se alían para potenciar Chrome y Edge</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-1435118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-4281499.jpg?tf=1200x' alt='¿Fin de Firefox? Google, Microsoft y Linux se alían para potenciar Chrome y Edge' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109'>¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-telefonica-4281508.jpg?tf=1200x' alt='¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/piratear-windows-11-antiguo-empleado-microsoft-dice-compania-no-importa-porque-eres-producto-1435106'>¿Piratear Windows 11? Un antiguo empleado de Microsoft dice que a la compañía no le importa porque "tú eres el producto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/piratear-windows-11-antiguo-empleado-microsoft-dice-compania-no-importa-porque-eres-producto-1435106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281503.jpg?tf=1200x' alt='¿Piratear Windows 11? Un antiguo empleado de Microsoft dice que a la compañía no le importa porque "tú eres el producto"' />
     </a>
 </div>
 
