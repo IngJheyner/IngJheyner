@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/disney-plus-ces-2025-hdr10-plus-1434863'>Disney+ anuncia en CES 2025 una gran novedad para los televisores sin Dolby Vision, mejora la calidad de imagen</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829'>Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-4281130.jpg?tf=1200x' alt='Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/disney-plus-ces-2025-hdr10-plus-1434863'>Disney+ anuncia en CES 2025 una gran novedad para los televisores 4K sin Dolby Vision, mejora la calidad de imagen</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/disney-plus-ces-2025-hdr10-plus-1434863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-anuncia-ces-2025-gran-novedad-usuarios-televisores-dolby-vision-4281124.jpg?tf=1200x' alt='Disney+ anuncia en CES 2025 una gran novedad para los televisores sin Dolby Vision, mejora la calidad de imagen' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-anuncia-ces-2025-gran-novedad-usuarios-televisores-dolby-vision-4281124.jpg?tf=1200x' alt='Disney+ anuncia en CES 2025 una gran novedad para los televisores 4K sin Dolby Vision, mejora la calidad de imagen' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849'>Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-google-maps-policia-4281112.jpg?tf=1200x' alt='Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/comprar-nintendo-switch-2-podria-no-ser-tarea-facil-analistas-1434845'>Comprar una Nintendo Switch 2 podría no ser tarea fácil, según los analistas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/comprar-nintendo-switch-2-podria-no-ser-tarea-facil-analistas-1434845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/nintendo-switch-4201069.jpg?tf=1200x' alt='Comprar una Nintendo Switch 2 podría no ser tarea fácil, según los analistas' />
     </a>
 </div>
 
