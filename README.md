@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737'>DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-tarjeta-grafica-4280941.jpg?tf=1200x' alt='DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/alternativa-gratis-play-store-llega-espana-funciones-google-quiere-copiar-1434739'>La alternativa gratis a Play Store llega a España con funciones que Google quiere copiar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/alternativa-gratis-play-store-llega-espana-funciones-google-quiere-copiar-1434739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alternativa-gratis-play-store-llega-espana-funciones-google-quiere-copiar-4280955.jpg?tf=1200x' alt='La alternativa gratis a Play Store llega a España con funciones que Google quiere copiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864'>El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-4281137.jpg?tf=1200x' alt='El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829'>Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-4281130.jpg?tf=1200x' alt='Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/disney-plus-ces-2025-hdr10-plus-1434863'>Disney+ anuncia en CES 2025 una gran novedad para los televisores 4K sin Dolby Vision, mejora la calidad de imagen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/disney-plus-ces-2025-hdr10-plus-1434863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-anuncia-ces-2025-gran-novedad-usuarios-televisores-dolby-vision-4281124.jpg?tf=1200x' alt='Disney+ anuncia en CES 2025 una gran novedad para los televisores 4K sin Dolby Vision, mejora la calidad de imagen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/crea-caos-absoluto-situar-aldi-falso-google-maps-1434859'>Crea el caos absoluto al situar un Aldi falso en Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/crea-caos-absoluto-situar-aldi-falso-google-maps-1434859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aldi-4281123.jpg?tf=1200x' alt='Crea el caos absoluto al situar un Aldi falso en Google Maps' />
     </a>
 </div>
 
