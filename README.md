@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/x-lanza-etiquetas-identificar-cuentas-parodia-1435078'>X lanza etiquetas para identificar a las cuentas de parodia</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/x-lanza-etiquetas-identificar-cuentas-parodia-1435078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parodias-twitter-4281472.jpg?tf=1200x' alt='X lanza etiquetas para identificar a las cuentas de parodia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/son-fake-frames-tarjetas-nvidia-son-odiados-gamers-1435054'>¿Qué son los fake frames en las tarjetas de Nvidia y por qué son odiados por los gamers?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/son-fake-frames-tarjetas-nvidia-son-odiados-gamers-1435054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/indiana-jones-juego-4281426.jpg?tf=1200x' alt='¿Qué son los fake frames en las tarjetas de Nvidia y por qué son odiados por los gamers?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-comparte-imagenes-aurora-vista-espacio-tan-increibles-piensan-ia-1434999'>La NASA comparte imágenes de una aurora vista desde el espacio tan increíbles que piensan que es IA</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-comparte-imagenes-aurora-vista-espacio-tan-increibles-piensan-ia-1434999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aurora-espacio-4281373.jpg?tf=1200x' alt='La NASA comparte imágenes de una aurora vista desde el espacio tan increíbles que piensan que es IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lista-salvar-marcas-coches-tradicionales-1000-millones-1434990'>Tesla lista para salvar a las marcas de coches tradicionales, eso sí, a cambio de 1.000 millones</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-lista-salvar-marcas-coches-tradicionales-1000-millones-1434990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-tesla-4281289.jpg?tf=1200x' alt='Tesla lista para salvar a las marcas de coches tradicionales, eso sí, a cambio de 1.000 millones' />
     </a>
 </div>
 
