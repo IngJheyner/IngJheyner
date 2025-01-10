@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109'>¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-telefonica-4281508.jpg?tf=1200x' alt='¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/piratear-windows-11-antiguo-empleado-microsoft-dice-compania-no-importa-porque-eres-producto-1435106'>¿Piratear Windows 11? Un antiguo empleado de Microsoft dice que a la compañía no le importa porque "tú eres el producto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/piratear-windows-11-antiguo-empleado-microsoft-dice-compania-no-importa-porque-eres-producto-1435106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281503.jpg?tf=1200x' alt='¿Piratear Windows 11? Un antiguo empleado de Microsoft dice que a la compañía no le importa porque "tú eres el producto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-sube-nivel-estas-novedades-arrancar-2025-1435088'>WhatsApp sube el nivel con estas novedades para arrancar 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-sube-nivel-estas-novedades-arrancar-2025-1435088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-sube-nivel-estas-novedades-arrancar-2025-4281498.jpg?tf=1200x' alt='WhatsApp sube el nivel con estas novedades para arrancar 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-advierte-fin-fact-checking-meta-regalo-ciberdelincuentes-1435083'>Experto en ciberseguridad advierte: el fin del fact-checking en Meta es un regalo para los ciberdelincuentes</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-advierte-fin-fact-checking-meta-regalo-ciberdelincuentes-1435083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-fact-checking-4281489.jpg?tf=1200x' alt='Experto en ciberseguridad advierte: el fin del fact-checking en Meta es un regalo para los ciberdelincuentes' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-1435061'>DIGI es ya la pesadilla de las grandes telecos en España: hasta un 75% de ahorro en tu factura</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-1435061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-4281482.jpg?tf=1200x' alt='DIGI es ya la pesadilla de las grandes telecos en España: hasta un 75% de ahorro en tu factura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/x-lanza-etiquetas-identificar-cuentas-parodia-1435078'>X lanza etiquetas para identificar a las cuentas de parodia</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/x-lanza-etiquetas-identificar-cuentas-parodia-1435078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parodias-twitter-4281472.jpg?tf=1200x' alt='X lanza etiquetas para identificar a las cuentas de parodia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/son-fake-frames-tarjetas-nvidia-son-odiados-gamers-1435054'>¿Qué son los fake frames en las tarjetas de Nvidia y por qué son odiados por los gamers?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/son-fake-frames-tarjetas-nvidia-son-odiados-gamers-1435054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/indiana-jones-juego-4281426.jpg?tf=1200x' alt='¿Qué son los fake frames en las tarjetas de Nvidia y por qué son odiados por los gamers?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/afectaran-filtraciones-fecha-lanzamiento-nintendo-switch-2-exempleada-nintendo-tiene-claro-1435037'>¿Afectarán las filtraciones a la fecha de lanzamiento de Nintendo Switch 2? Una exempleada de Nintendo lo tiene claro</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/afectaran-filtraciones-fecha-lanzamiento-nintendo-switch-2-exempleada-nintendo-tiene-claro-1435037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/afectaran-filtraciones-fecha-lanzamiento-nintendo-switch-2-exempleada-nintendo-tiene-claro-4281434.jpg?tf=1200x' alt='¿Afectarán las filtraciones a la fecha de lanzamiento de Nintendo Switch 2? Una exempleada de Nintendo lo tiene claro' />
     </a>
 </div>
 
