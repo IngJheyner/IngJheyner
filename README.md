@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayores-polemicas-sam-altman-extrano-despido-openai-acusaciones-acoso-hermana-1434924'>Las mayores polémicas de Sam Altman: de su extraño despido de OpenAI a las acusaciones de acoso de su hermana</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mayores-polemicas-sam-altman-extrano-despido-openai-acusaciones-acoso-hermana-1434924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-openai-3227242.jpg?tf=1200x' alt='Las mayores polémicas de Sam Altman: de su extraño despido de OpenAI a las acusaciones de acoso de su hermana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-serie-redmi-note-14-seguir-dominando-gama-media-base-diseno-curvo-bateria-ia-1434769'>Xiaomi lanza la serie Redmi Note 14 para seguir dominando la gama media a base de diseño curvo, más batería e IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-serie-redmi-note-14-seguir-dominando-gama-media-base-diseno-curvo-bateria-ia-1434769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4281068.jpg?tf=1200x' alt='Xiaomi lanza la serie Redmi Note 14 para seguir dominando la gama media a base de diseño curvo, más batería e IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-redmi-note-14-pro-5g-movil-quiere-ser-mejor-gama-media-ano-pero-logra-1434417'>He probado el Redmi Note 14 Pro+ 5G, el móvil que quiere ser la mejor gama media del año, ¿pero lo logra?</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-redmi-note-14-pro-5g-movil-quiere-ser-mejor-gama-media-ano-pero-logra-1434417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4280632.jpg?tf=1200x' alt='He probado el Redmi Note 14 Pro+ 5G, el móvil que quiere ser la mejor gama media del año, ¿pero lo logra?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ni-nuevo-ni-segunda-mano-generacion-z-ha-encontrado-opcion-definitiva-comprarse-iphone-1434927'>Ni nuevo ni de segunda mano: la Generación Z ha encontrado la opción definitiva para comprarse un iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ni-nuevo-ni-segunda-mano-generacion-z-ha-encontrado-opcion-definitiva-comprarse-iphone-1434927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='Ni nuevo ni de segunda mano: la Generación Z ha encontrado la opción definitiva para comprarse un iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/filtracion-revela-samsung-galaxy-s25-llegan-europa-precios-te-dejaran-helado-1434913'>Una filtración revela que los Samsung Galaxy S25 llegan a Europa con precios que te dejarán helado</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/filtracion-revela-samsung-galaxy-s25-llegan-europa-precios-te-dejaran-helado-1434913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267402.jpg?tf=1200x' alt='Una filtración revela que los Samsung Galaxy S25 llegan a Europa con precios que te dejarán helado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-auto-135-ya-disponible-descargar-novedades-mejoras-como-actualizar-ahora-mismo-1434901'>Android Auto 13.5 ya disponible para descargar: novedades, mejoras y cómo actualizar ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/android-auto-135-ya-disponible-descargar-novedades-mejoras-como-actualizar-ahora-mismo-1434901' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-135-4281203.jpg?tf=1200x' alt='Android Auto 13.5 ya disponible para descargar: novedades, mejoras y cómo actualizar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/usa-ia-analizar-imagenes-lidar-descubre-villa-romana-enterrada-leon-1434900'>Usa la IA para analizar imágenes aéreas y descubre una inmensa villa romana enterrada en León</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/usa-ia-analizar-imagenes-lidar-descubre-villa-romana-enterrada-leon-1434900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usa-ia-analizar-imagenes-aereas-descubre-inmensa-villa-romana-enterrada-leon-4281162.jpg?tf=1200x' alt='Usa la IA para analizar imágenes aéreas y descubre una inmensa villa romana enterrada en León' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-microsoft-financian-investidura-trump-millon-dolares-pero-motivo-1434890'>Google y Microsoft financian la investidura de Trump con un millón de dólares, pero ¿de dónde nace este repentino amor?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-microsoft-financian-investidura-trump-millon-dolares-pero-motivo-1434890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/trump-4269039.jpg?tf=1200x' alt='Google y Microsoft financian la investidura de Trump con un millón de dólares, pero ¿de dónde nace este repentino amor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-aliexpress-vende-smartwatch-barato-menos-100-euros-1434881'>Samsung la lía en AliExpress: vende su smartwatch más barato por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-lia-aliexpress-vende-smartwatch-barato-menos-100-euros-1434881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-watch-fe-4281156.jpg?tf=1200x' alt='Samsung la lía en AliExpress: vende su smartwatch más barato por menos de 100 euros' />
     </a>
 </div>
 
