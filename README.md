@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/daily-listen-nueva-ia-google-convierte-feed-discover-podcast-audio-1434880'>Adiós a leer noticias: Daily Listen en la nueva IA de Google que convierte tu feed de Discover en un podcast</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/daily-listen-nueva-ia-google-convierte-feed-discover-podcast-audio-1434880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-leer-noticias-daily-listen-nueva-ia-google-convierte-feed-noticias-podcast-4281149.jpg?tf=1200x' alt='Adiós a leer noticias: Daily Listen en la nueva IA de Google que convierte tu feed de Discover en un podcast' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steamos-mejor-ha-pasado-consolas-portatiles-lenovo-legion-go-s-claro-ejemplo-1434512'>SteamOS es lo mejor que le ha pasado a las consolas portátiles y Lenovo Legion Go S es un claro ejemplo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steamos-mejor-ha-pasado-consolas-portatiles-lenovo-legion-go-s-claro-ejemplo-1434512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lenovo-legion-go-s-4280532.jpg?tf=1200x' alt='SteamOS es lo mejor que le ha pasado a las consolas portátiles y Lenovo Legion Go S es un claro ejemplo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/experto-oxford-afirma-pulpo-sera-sustituto-ser-humano-tierra-1434784'>Experto de Oxford afirma que el pulpo será el sustituto del ser humano en la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/experto-oxford-afirma-pulpo-sera-sustituto-ser-humano-tierra-1434784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/humano-como-pulpo-tierra-4280992.jpg?tf=1200x' alt='Experto de Oxford afirma que el pulpo será el sustituto del ser humano en la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737'>DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-tarjeta-grafica-4280941.jpg?tf=1200x' alt='DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/alternativa-gratis-play-store-llega-espana-funciones-google-quiere-copiar-1434739'>La alternativa gratis a Play Store llega a España con funciones que Google quiere copiar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/alternativa-gratis-play-store-llega-espana-funciones-google-quiere-copiar-1434739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alternativa-gratis-play-store-llega-espana-funciones-google-quiere-copiar-4280955.jpg?tf=1200x' alt='La alternativa gratis a Play Store llega a España con funciones que Google quiere copiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864'>El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-4281137.jpg?tf=1200x' alt='El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"' />
     </a>
 </div>
 
