@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864'>El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-4281137.jpg?tf=1200x' alt='El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/dell-dice-adios-ordenadores-xps-inspiron-precision-latitude-1434868'>Giro de 180 grados en Dell: dice adiós a sus ordenadores XPS, Inspiron, Latitude y Precision, el fin de una era</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/dell-dice-adios-ordenadores-xps-inspiron-precision-latitude-1434868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946808.jpg?tf=1200x' alt='Giro de 180 grados en Dell: dice adiós a sus ordenadores XPS, Inspiron, Latitude y Precision, el fin de una era' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829'>Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-4281130.jpg?tf=1200x' alt='Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/crea-caos-absoluto-situar-aldi-falso-google-maps-1434859'>Crea el caos absoluto al situar un Aldi falso en Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/crea-caos-absoluto-situar-aldi-falso-google-maps-1434859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aldi-4281123.jpg?tf=1200x' alt='Crea el caos absoluto al situar un Aldi falso en Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-desarrolla-rifle-robotico-centinela-chatgpt-openai-controla-como-toro-mecanico-1434854'>Ingeniero desarrolla un rifle robótico centinela con ChatGPT de OpenAI y lo controla como un toro mecánico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ingeniero-desarrolla-rifle-robotico-centinela-chatgpt-openai-controla-como-toro-mecanico-1434854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ingeniero-desarrolla-rifle-robotico-centinela-chatgpt-openai-controla-como-toro-mecanico-4281116.jpg?tf=1200x' alt='Ingeniero desarrolla un rifle robótico centinela con ChatGPT de OpenAI y lo controla como un toro mecánico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849'>Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/agentes-policia-terminan-prisioneros-confiar-google-maps-durante-redada-fallida-1434849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-google-maps-policia-4281112.jpg?tf=1200x' alt='Agentes de policía terminan prisioneros por confiar en Google Maps durante una redada fallida' />
     </a>
 </div>
 
