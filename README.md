@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-revolucion-robots-humanoides-30-mil-millones-unidades-mundo-1435029'>Elon Musk prevé una revolución de robots humanoides: 30 mil millones de unidades en el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-revolucion-robots-humanoides-30-mil-millones-unidades-mundo-1435029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-optimus-elon-musk-4281381.jpg?tf=1200x' alt='Elon Musk prevé una revolución de robots humanoides: 30 mil millones de unidades en el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-comparte-imagenes-aurora-vista-espacio-tan-increibles-piensan-ia-1434999'>La NASA comparte imágenes de una aurora vista desde el espacio tan increíbles que piensan que es IA</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-comparte-imagenes-aurora-vista-espacio-tan-increibles-piensan-ia-1434999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aurora-espacio-4281373.jpg?tf=1200x' alt='La NASA comparte imágenes de una aurora vista desde el espacio tan increíbles que piensan que es IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-avisa-elon-musk-no-puede-permitir-multimillonarios-tecnologicos-dominen-opinion-publica-1434985'>España avisa a Elon Musk: no se puede permitir que los "multimillonarios tecnológicos" dominen la opinión pública</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/espana-avisa-elon-musk-no-puede-permitir-multimillonarios-tecnologicos-dominen-opinion-publica-1434985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='España avisa a Elon Musk: no se puede permitir que los "multimillonarios tecnológicos" dominen la opinión pública' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479'>He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277646.jpg?tf=1200x' alt='He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento' />
     </a>
 </div>
 
