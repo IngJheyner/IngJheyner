@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-advierte-fin-fact-checking-meta-regalo-ciberdelincuentes-1435083'>Experto en ciberseguridad advierte: el fin del fact-checking en Meta es un regalo para los ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-advierte-fin-fact-checking-meta-regalo-ciberdelincuentes-1435083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-fact-checking-4281489.jpg?tf=1200x' alt='Experto en ciberseguridad advierte: el fin del fact-checking en Meta es un regalo para los ciberdelincuentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-1435061'>DIGI es ya la pesadilla de las grandes telecos en España: hasta un 75% de ahorro en tu factura</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-1435061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-4281482.jpg?tf=1200x' alt='DIGI es ya la pesadilla de las grandes telecos en España: hasta un 75% de ahorro en tu factura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/afectaran-filtraciones-fecha-lanzamiento-nintendo-switch-2-exempleada-nintendo-tiene-claro-1435037'>¿Afectarán las filtraciones a la fecha de lanzamiento de Nintendo Switch 2? Una exempleada de Nintendo lo tiene claro</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/afectaran-filtraciones-fecha-lanzamiento-nintendo-switch-2-exempleada-nintendo-tiene-claro-1435037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/afectaran-filtraciones-fecha-lanzamiento-nintendo-switch-2-exempleada-nintendo-tiene-claro-4281434.jpg?tf=1200x' alt='¿Afectarán las filtraciones a la fecha de lanzamiento de Nintendo Switch 2? Una exempleada de Nintendo lo tiene claro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-revolucion-robots-humanoides-30-mil-millones-unidades-mundo-1435029'>Elon Musk prevé una revolución de robots humanoides: 30 mil millones de unidades en el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-preve-revolucion-robots-humanoides-30-mil-millones-unidades-mundo-1435029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-optimus-elon-musk-4281381.jpg?tf=1200x' alt='Elon Musk prevé una revolución de robots humanoides: 30 mil millones de unidades en el mundo' />
     </a>
 </div>
 
