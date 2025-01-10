@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sabe-chatgpt-ti-criminologa-analiza-recoleccion-datos-posibles-usos-1434950'>¿Qué sabe ChatGPT de ti? Una criminóloga analiza la recolección de datos y sus posibles usos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sabe-chatgpt-ti-criminologa-analiza-recoleccion-datos-posibles-usos-1434950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-openai-3290501.jpg?tf=1200x' alt='¿Qué sabe ChatGPT de ti? Una criminóloga analiza la recolección de datos y sus posibles usos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-tiene-rival-pantalla-color-acceso-ebiblio-precio-mucho-1434883'>El Kindle Colorsoft tiene rival: pantalla a color, acceso a eBiblio y un precio mucho más bajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-tiene-rival-pantalla-color-acceso-ebiblio-precio-mucho-1434883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pocketbook-verse-pro-color-4281169.jpg?tf=1200x' alt='El Kindle Colorsoft tiene rival: pantalla a color, acceso a eBiblio y un precio mucho más bajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-o3-openai-creativo-menos-racional-1434928'>Así es el nuevo O3 de OpenAI: más creativo y menos racional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-o3-openai-creativo-menos-racional-1434928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-4260624.jpg?tf=1200x' alt='Así es el nuevo O3 de OpenAI: más creativo y menos racional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayores-polemicas-sam-altman-extrano-despido-openai-acusaciones-acoso-hermana-1434924'>Las mayores polémicas de Sam Altman: de su extraño despido de OpenAI a las acusaciones de acoso de su hermana</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mayores-polemicas-sam-altman-extrano-despido-openai-acusaciones-acoso-hermana-1434924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-openai-3227242.jpg?tf=1200x' alt='Las mayores polémicas de Sam Altman: de su extraño despido de OpenAI a las acusaciones de acoso de su hermana' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-serie-redmi-note-14-seguir-dominando-gama-media-base-diseno-curvo-bateria-ia-1434769'>Xiaomi lanza la serie Redmi Note 14 para seguir dominando la gama media a base de diseño curvo, más batería e IA</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-serie-redmi-note-14-seguir-dominando-gama-media-base-diseno-curvo-bateria-ia-1434769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4281068.jpg?tf=1200x' alt='Xiaomi lanza la serie Redmi Note 14 para seguir dominando la gama media a base de diseño curvo, más batería e IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-redmi-note-14-pro-5g-movil-quiere-ser-mejor-gama-media-ano-pero-logra-1434417'>He probado el Redmi Note 14 Pro+ 5G, el móvil que quiere ser la mejor gama media del año, ¿pero lo logra?</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-redmi-note-14-pro-5g-movil-quiere-ser-mejor-gama-media-ano-pero-logra-1434417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4280632.jpg?tf=1200x' alt='He probado el Redmi Note 14 Pro+ 5G, el móvil que quiere ser la mejor gama media del año, ¿pero lo logra?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ni-nuevo-ni-segunda-mano-generacion-z-ha-encontrado-opcion-definitiva-comprarse-iphone-1434927'>Ni nuevo ni de segunda mano: la Generación Z ha encontrado la opción definitiva para comprarse un iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ni-nuevo-ni-segunda-mano-generacion-z-ha-encontrado-opcion-definitiva-comprarse-iphone-1434927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/cuando-sale-iphone-15-3117592.jpg?tf=1200x' alt='Ni nuevo ni de segunda mano: la Generación Z ha encontrado la opción definitiva para comprarse un iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/filtracion-revela-samsung-galaxy-s25-llegan-europa-precios-te-dejaran-helado-1434913'>Una filtración revela que los Samsung Galaxy S25 llegan a Europa con precios que te dejarán helado</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/filtracion-revela-samsung-galaxy-s25-llegan-europa-precios-te-dejaran-helado-1434913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/samsung-galaxy-s24-ultra-3267402.jpg?tf=1200x' alt='Una filtración revela que los Samsung Galaxy S25 llegan a Europa con precios que te dejarán helado' />
     </a>
 </div>
 
