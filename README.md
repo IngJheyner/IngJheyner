@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/experto-oxford-afirma-pulpo-sera-sustituto-ser-humano-tierra-1434784'>Experto de Oxford afirma que el pulpo será el sustituto del ser humano en la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/experto-oxford-afirma-pulpo-sera-sustituto-ser-humano-tierra-1434784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/humano-como-pulpo-tierra-4280992.jpg?tf=1200x' alt='Experto de Oxford afirma que el pulpo será el sustituto del ser humano en la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abre-puertas-phi-4-ia-avanzada-ahora-accesible-todos-1434738'>Microsoft abre las puertas de Phi-4, su IA más avanzada, ahora es accesible para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abre-puertas-phi-4-ia-avanzada-ahora-accesible-todos-1434738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-libera-phi-4-4280940.jpg?tf=1200x' alt='Microsoft abre las puertas de Phi-4, su IA más avanzada, ahora es accesible para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737'>DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/dlss-4-no-sera-solo-rtx-5000-llegara-graficas-nvidia-1434737' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-tarjeta-grafica-4280941.jpg?tf=1200x' alt='DLSS 4 no será solo para las RTX 5000, llegará a más gráficas de NVIDIA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864'>El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-1434864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-elon-musk-preocupa-expertos-mayores-problemas-eticos-4281137.jpg?tf=1200x' alt='El Cybertruck de Elon Musk preocupa a los expertos: "Es uno de los mayores problemas éticos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/dell-dice-adios-ordenadores-xps-inspiron-precision-latitude-1434868'>Giro de 180 grados en Dell: dice adiós a sus ordenadores XPS, Inspiron, Latitude y Precision, el fin de una era</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/dell-dice-adios-ordenadores-xps-inspiron-precision-latitude-1434868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/dell-xps-13-plus-9320-analisis-opinion-2946808.jpg?tf=1200x' alt='Giro de 180 grados en Dell: dice adiós a sus ordenadores XPS, Inspiron, Latitude y Precision, el fin de una era' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829'>Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-1434829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-kindle-consiguen-liberarlo-reconozca-cualquier-tipo-archivo-4281130.jpg?tf=1200x' alt='Amazon Kindle: consiguen liberarlo para que reconozca cualquier tipo de archivo' />
     </a>
 </div>
 
