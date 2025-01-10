@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479'>He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277646.jpg?tf=1200x' alt='He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/adios-bizum-podras-enviar-dinero-instante-madre-solo-cuenta-banco-1434944'>Adiós Bizum, podrás enviar dinero al instante a tu madre solo con la cuenta del banco</a></h4>
+    <a href='https://computerhoy.20minutos.es/adios-bizum-podras-enviar-dinero-instante-madre-solo-cuenta-banco-1434944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-bizum-4281257.jpg?tf=1200x' alt='Adiós Bizum, podrás enviar dinero al instante a tu madre solo con la cuenta del banco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/talkie-ai-inteligencia-artificial-podras-crear-famoso-hablar-1434932'>Talkie AI, la inteligencia artificial con la que podrás crear un famoso para hablar con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/talkie-ai-inteligencia-artificial-podras-crear-famoso-hablar-1434932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/talkie-ai-4281230.jpg?tf=1200x' alt='Talkie AI, la inteligencia artificial con la que podrás crear un famoso para hablar con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-home-presenta-ultima-actualizacion-cambia-todo-alternativa-definitiva-wifi-tradicional-1434975'>Google Home presenta su última actualización que lo cambia todo: la alternativa definitiva al WiFi tradicional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-home-presenta-ultima-actualizacion-cambia-todo-alternativa-definitiva-wifi-tradicional-1434975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-home-actualizacion-4281290.jpg?tf=1200x' alt='Google Home presenta su última actualización que lo cambia todo: la alternativa definitiva al WiFi tradicional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sabe-chatgpt-ti-criminologa-analiza-recoleccion-datos-posibles-usos-1434950'>¿Qué sabe ChatGPT de ti? Una criminóloga analiza la recolección de datos y sus posibles usos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sabe-chatgpt-ti-criminologa-analiza-recoleccion-datos-posibles-usos-1434950' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-openai-3290501.jpg?tf=1200x' alt='¿Qué sabe ChatGPT de ti? Una criminóloga analiza la recolección de datos y sus posibles usos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-tiene-rival-pantalla-color-acceso-ebiblio-precio-mucho-1434883'>El Kindle Colorsoft tiene rival: pantalla a color, acceso a eBiblio y un precio mucho más bajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/kindle-colorsoft-tiene-rival-pantalla-color-acceso-ebiblio-precio-mucho-1434883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pocketbook-verse-pro-color-4281169.jpg?tf=1200x' alt='El Kindle Colorsoft tiene rival: pantalla a color, acceso a eBiblio y un precio mucho más bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-o3-openai-creativo-menos-racional-1434928'>Así es el nuevo O3 de OpenAI: más creativo y menos racional</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-o3-openai-creativo-menos-racional-1434928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ia-estancada-nuevo-modelo-openai-apunta-profunda-desaceleracion-4260624.jpg?tf=1200x' alt='Así es el nuevo O3 de OpenAI: más creativo y menos racional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayores-polemicas-sam-altman-extrano-despido-openai-acusaciones-acoso-hermana-1434924'>Las mayores polémicas de Sam Altman: de su extraño despido de OpenAI a las acusaciones de acoso de su hermana</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mayores-polemicas-sam-altman-extrano-despido-openai-acusaciones-acoso-hermana-1434924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-openai-3227242.jpg?tf=1200x' alt='Las mayores polémicas de Sam Altman: de su extraño despido de OpenAI a las acusaciones de acoso de su hermana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-serie-redmi-note-14-seguir-dominando-gama-media-base-diseno-curvo-bateria-ia-1434769'>Xiaomi lanza la serie Redmi Note 14 para seguir dominando la gama media a base de diseño curvo, más batería e IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-lanza-serie-redmi-note-14-seguir-dominando-gama-media-base-diseno-curvo-bateria-ia-1434769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4281068.jpg?tf=1200x' alt='Xiaomi lanza la serie Redmi Note 14 para seguir dominando la gama media a base de diseño curvo, más batería e IA' />
     </a>
 </div>
 
