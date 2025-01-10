@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lista-salvar-marcas-coches-tradicionales-1000-millones-1434990'>Tesla lista para salvar a las marcas de coches tradicionales, eso sí, a cambio de 1.000 millones</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-lista-salvar-marcas-coches-tradicionales-1000-millones-1434990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cybertruck-tesla-4281289.jpg?tf=1200x' alt='Tesla lista para salvar a las marcas de coches tradicionales, eso sí, a cambio de 1.000 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/giro-180-grados-medicina-cientificos-han-desarrollado-sistema-ver-imagenes-moleculas-escala-atomica-1435000'>Giro de 180 grados para la medicina: científicos han desarrollado un sistema para ver imágenes de moléculas a escala atómica</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/giro-180-grados-medicina-cientificos-han-desarrollado-sistema-ver-imagenes-moleculas-escala-atomica-1435000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/imagen-ia-4281331.jpg?tf=1200x' alt='Giro de 180 grados para la medicina: científicos han desarrollado un sistema para ver imágenes de moléculas a escala atómica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-avisa-elon-musk-no-puede-permitir-multimillonarios-tecnologicos-dominen-opinion-publica-1434985'>España avisa a Elon Musk: no se puede permitir que los "multimillonarios tecnológicos" dominen la opinión pública</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/espana-avisa-elon-musk-no-puede-permitir-multimillonarios-tecnologicos-dominen-opinion-publica-1434985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/elon-musk-sentado-junto-logos-twitter-x-3205070.jpg?tf=1200x' alt='España avisa a Elon Musk: no se puede permitir que los "multimillonarios tecnológicos" dominen la opinión pública' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479'>He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-oneplus-13r-movil-notable-todo-pero-sobresale-rendimiento-1432479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277646.jpg?tf=1200x' alt='He probado el OnePlus 13R y es un móvil notable en todo, pero sobresale en rendimiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/adios-bizum-podras-enviar-dinero-instante-madre-solo-cuenta-banco-1434944'>Adiós Bizum, podrás enviar dinero al instante a tu madre solo con la cuenta del banco</a></h4>
     <a href='https://computerhoy.20minutos.es/adios-bizum-podras-enviar-dinero-instante-madre-solo-cuenta-banco-1434944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-bizum-4281257.jpg?tf=1200x' alt='Adiós Bizum, podrás enviar dinero al instante a tu madre solo con la cuenta del banco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/talkie-ai-inteligencia-artificial-podras-crear-famoso-hablar-1434932'>Talkie AI, la inteligencia artificial con la que podrás crear un famoso para hablar con él</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/talkie-ai-inteligencia-artificial-podras-crear-famoso-hablar-1434932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/talkie-ai-4281230.jpg?tf=1200x' alt='Talkie AI, la inteligencia artificial con la que podrás crear un famoso para hablar con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-home-presenta-ultima-actualizacion-cambia-todo-alternativa-definitiva-wifi-tradicional-1434975'>Google Home presenta su última actualización que lo cambia todo: la alternativa definitiva al WiFi tradicional</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-home-presenta-ultima-actualizacion-cambia-todo-alternativa-definitiva-wifi-tradicional-1434975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-home-actualizacion-4281290.jpg?tf=1200x' alt='Google Home presenta su última actualización que lo cambia todo: la alternativa definitiva al WiFi tradicional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sabe-chatgpt-ti-criminologa-analiza-recoleccion-datos-posibles-usos-1434950'>¿Qué sabe ChatGPT de ti? Una criminóloga analiza la recolección de datos y sus posibles usos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sabe-chatgpt-ti-criminologa-analiza-recoleccion-datos-posibles-usos-1434950' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/chatgpt-openai-3290501.jpg?tf=1200x' alt='¿Qué sabe ChatGPT de ti? Una criminóloga analiza la recolección de datos y sus posibles usos' />
     </a>
 </div>
 
