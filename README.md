@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-1435118'>¿Fin de Firefox? Google, Microsoft y Linux se alían para potenciar Chrome y Edge</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-1435118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-4281499.jpg?tf=1200x' alt='¿Fin de Firefox? Google, Microsoft y Linux se alían para potenciar Chrome y Edge' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/error-iphone-podria-hacerte-perder-trabajo-sufrir-problemas-salud-alarmas-no-suenan-1435114'>El error de iPhone que podría hacerte perder tu trabajo o sufrir problemas de salud: las alarmas no suenan</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/error-iphone-podria-hacerte-perder-trabajo-sufrir-problemas-salud-alarmas-no-suenan-1435114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-iphone-4281516.jpg?tf=1200x' alt='El error de iPhone que podría hacerte perder tu trabajo o sufrir problemas de salud: las alarmas no suenan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-puede-clonar-mente-ia-imita-pensamientos-solo-2-horas-conversacion-1435112'>Google puede clonar tu mente: IA que imita tus pensamientos con solo 2 horas de conversación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-puede-clonar-mente-ia-imita-pensamientos-solo-2-horas-conversacion-1435112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/robot-vs-humano-4281515.jpg?tf=1200x' alt='Google puede clonar tu mente: IA que imita tus pensamientos con solo 2 horas de conversación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109'>¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-telefonica-4281508.jpg?tf=1200x' alt='¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/piratear-windows-11-antiguo-empleado-microsoft-dice-compania-no-importa-porque-eres-producto-1435106'>¿Piratear Windows 11? Un antiguo empleado de Microsoft dice que a la compañía no le importa porque "tú eres el producto"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/piratear-windows-11-antiguo-empleado-microsoft-dice-compania-no-importa-porque-eres-producto-1435106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281503.jpg?tf=1200x' alt='¿Piratear Windows 11? Un antiguo empleado de Microsoft dice que a la compañía no le importa porque "tú eres el producto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-sube-nivel-estas-novedades-arrancar-2025-1435088'>WhatsApp sube el nivel con estas novedades para arrancar 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-sube-nivel-estas-novedades-arrancar-2025-1435088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-sube-nivel-estas-novedades-arrancar-2025-4281498.jpg?tf=1200x' alt='WhatsApp sube el nivel con estas novedades para arrancar 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-advierte-fin-fact-checking-meta-regalo-ciberdelincuentes-1435083'>Experto en ciberseguridad advierte: el fin del fact-checking en Meta es un regalo para los ciberdelincuentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-advierte-fin-fact-checking-meta-regalo-ciberdelincuentes-1435083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-fact-checking-4281489.jpg?tf=1200x' alt='Experto en ciberseguridad advierte: el fin del fact-checking en Meta es un regalo para los ciberdelincuentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-1435061'>DIGI es ya la pesadilla de las grandes telecos en España: hasta un 75% de ahorro en tu factura</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-1435061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-ya-pesadilla-grandes-telecos-espana-75-ahorro-factura-4281482.jpg?tf=1200x' alt='DIGI es ya la pesadilla de las grandes telecos en España: hasta un 75% de ahorro en tu factura' />
     </a>
 </div>
 
