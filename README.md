@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598'>Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/unidad-usb-4280712.jpg?tf=1200x' alt='Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-supervivencia-extrema-movil-android-alargar-ese-ultimo-1-bateria-maximo-1434592'>Cómo activar el modo supervivencia extrema en tu móvil Android para alargar ese último 1% de batería al máximo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-supervivencia-extrema-movil-android-alargar-ese-ultimo-1-bateria-maximo-1434592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-supervivencia-extrema-movil-android-alargar-ese-ultimo-1-bateria-maximo-4280709.jpg?tf=1200x' alt='Cómo activar el modo supervivencia extrema en tu móvil Android para alargar ese último 1% de batería al máximo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/ni-salon-ni-auriculares-futuro-dolby-atmos-vision-coches-1434565'>Ni tu salón ni tus auriculares, el futuro de Dolby Atmos y Vision está en los coches</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/ni-salon-ni-auriculares-futuro-dolby-atmos-vision-coches-1434565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/li-auto-mega-dolby-4280654.jpg?tf=1200x' alt='Ni tu salón ni tus auriculares, el futuro de Dolby Atmos y Vision está en los coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/gracias-google-me-he-formado-como-analista-ciberseguridad-puedes-acceder-estos-cursos-1428958'>Gracias a Google me he formado como analista en ciberseguridad: así puedes acceder a estos cursos</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/gracias-google-me-he-formado-como-analista-ciberseguridad-puedes-acceder-estos-cursos-1428958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/curso-certificado-google-4271585.jpg?tf=1200x' alt='Gracias a Google me he formado como analista en ciberseguridad: así puedes acceder a estos cursos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-1434600'>Ni WhatsApp ni absolutamente nada, estos móviles dejarán de funcionar a partir de 2025 y no podrás evitarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-1434600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-4280724.jpg?tf=1200x' alt='Ni WhatsApp ni absolutamente nada, estos móviles dejarán de funcionar a partir de 2025 y no podrás evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cambio-climatico-avanza-nasa-union-europea-confirman-2024-ha-sido-ano-caluroso-historia-1435133'>El cambio climático avanza: la NASA y la Unión Europea confirman que 2024 ha sido el año más caluroso de la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cambio-climatico-avanza-nasa-union-europea-confirman-2024-ha-sido-ano-caluroso-historia-1435133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cambio-climatico-avanza-nasa-confirma-2024-ha-sido-ano-caluroso-historia-4281533.jpg?tf=1200x' alt='El cambio climático avanza: la NASA y la Unión Europea confirman que 2024 ha sido el año más caluroso de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-1435126'>WhatsApp cambia por completo: adiós Comunidades, hola chatbots de IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-1435126' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-4281527.jpg?tf=1200x' alt='WhatsApp cambia por completo: adiós Comunidades, hola chatbots de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-1435118'>¿Fin de Firefox? Google, Microsoft y Linux se alían para potenciar Chrome y Edge</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-1435118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/fin-firefox-google-microsoft-linux-alian-potenciar-chrome-edge-4281499.jpg?tf=1200x' alt='¿Fin de Firefox? Google, Microsoft y Linux se alían para potenciar Chrome y Edge' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/error-iphone-podria-hacerte-perder-trabajo-sufrir-problemas-salud-alarmas-no-suenan-1435114'>El error de iPhone que podría hacerte perder tu trabajo o sufrir problemas de salud: las alarmas no suenan</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/error-iphone-podria-hacerte-perder-trabajo-sufrir-problemas-salud-alarmas-no-suenan-1435114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-iphone-4281516.jpg?tf=1200x' alt='El error de iPhone que podría hacerte perder tu trabajo o sufrir problemas de salud: las alarmas no suenan' />
     </a>
 </div>
 
