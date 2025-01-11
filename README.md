@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-animacion-todos-tiempos-ya-prime-video-tiene-mejores-criticas-her-terminator-2-1434478'>La mejor película de animación de todos los tiempos ya está en Prime Video: tiene mejores críticas que Her o Terminator 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-animacion-todos-tiempos-ya-prime-video-tiene-mejores-criticas-her-terminator-2-1434478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiene-mejores-criticas-her-terminator-2-pelicula-animacion-mejor-valorada-todos-tiempos-ya-prime-video-4280481.jpg?tf=1200x' alt='La mejor película de animación de todos los tiempos ya está en Prime Video: tiene mejores críticas que Her o Terminator 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-llegaria-lanzamiento-pantalla-oled-1434965'>Nintendo Switch 2 llegaría de lanzamiento con pantalla OLED</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-llegaria-lanzamiento-pantalla-oled-1434965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/posible-diseno-nintendo-switch-2-dock-basado-filtraciones-4276689.jpg?tf=1200x' alt='Nintendo Switch 2 llegaría de lanzamiento con pantalla OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/memorias-usb-mal-uso-1416200'>Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/memorias-usb-mal-uso-1416200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/codigos-trucos-secretos-waze-funciones-ocultas-1392938'>Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/codigos-trucos-secretos-waze-funciones-ocultas-1392938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-1434783'>Un Amazon Fire TV es capaz de resucitar a un muerto y puedo demostrarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-1434783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-4281143.jpg?tf=1200x' alt='Un Amazon Fire TV es capaz de resucitar a un muerto y puedo demostrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-nintendo-siembra-panico-x-twitter-nueva-pista-switch-2-1434980'>Giro de 180 grados: Nintendo siembra el pánico en X (Twitter) con una nueva pista de la Switch 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-nintendo-siembra-panico-x-twitter-nueva-pista-switch-2-1434980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-nintendo-siembra-panico-x-twitter-nueva-pista-switch-2-4281285.jpg?tf=1200x' alt='Giro de 180 grados: Nintendo siembra el pánico en X (Twitter) con una nueva pista de la Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/audios-whatsapp-detienen-acercar-movil-oido-no-error-1434797'>Los audios de WhatsApp se detienen al acercar el móvil al oído y no es un error</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/audios-whatsapp-detienen-acercar-movil-oido-no-error-1434797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audios-whatsapp-4281056.jpg?tf=1200x' alt='Los audios de WhatsApp se detienen al acercar el móvil al oído y no es un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/prohiben-buscar-800-millones-bitcoins-perdidos-vertedero-1435137'>Adiós a ser millonario: prohíben a un británico seguir buscando los 800 millones en bitcoins que perdió en un vertedero</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/prohiben-buscar-800-millones-bitcoins-perdidos-vertedero-1435137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-ser-millonario-prohiben-britanico-seguir-buscando-800-millones-bitcoins-perdio-basurero-4281542.jpg?tf=1200x' alt='Adiós a ser millonario: prohíben a un británico seguir buscando los 800 millones en bitcoins que perdió en un vertedero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303'>La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-4280151.jpg?tf=1200x' alt='La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España' />
     </a>
 </div>
 
