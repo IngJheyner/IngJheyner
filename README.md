@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/audios-whatsapp-detienen-acercar-movil-oido-no-error-1434797'>Los audios de WhatsApp se detienen al acercar el móvil al oído y no es un error</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/audios-whatsapp-detienen-acercar-movil-oido-no-error-1434797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audios-whatsapp-4281056.jpg?tf=1200x' alt='Los audios de WhatsApp se detienen al acercar el móvil al oído y no es un error' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/prohiben-buscar-800-millones-bitcoins-perdidos-vertedero-1435137'>Adiós a ser millonario: prohíben a un británico seguir buscando los 800 millones en bitcoins que perdió en un vertedero</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/prohiben-buscar-800-millones-bitcoins-perdidos-vertedero-1435137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-ser-millonario-prohiben-britanico-seguir-buscando-800-millones-bitcoins-perdio-basurero-4281542.jpg?tf=1200x' alt='Adiós a ser millonario: prohíben a un británico seguir buscando los 800 millones en bitcoins que perdió en un vertedero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303'>La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-4280151.jpg?tf=1200x' alt='La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598'>Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/unidad-usb-4280712.jpg?tf=1200x' alt='Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-supervivencia-extrema-movil-android-alargar-ese-ultimo-1-bateria-maximo-1434592'>Cómo activar el modo supervivencia extrema en tu móvil Android para alargar ese último 1% de batería al máximo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-supervivencia-extrema-movil-android-alargar-ese-ultimo-1-bateria-maximo-1434592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-supervivencia-extrema-movil-android-alargar-ese-ultimo-1-bateria-maximo-4280709.jpg?tf=1200x' alt='Cómo activar el modo supervivencia extrema en tu móvil Android para alargar ese último 1% de batería al máximo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/ni-salon-ni-auriculares-futuro-dolby-atmos-vision-coches-1434565'>Ni tu salón ni tus auriculares, el futuro de Dolby Atmos y Vision está en los coches</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/ni-salon-ni-auriculares-futuro-dolby-atmos-vision-coches-1434565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/li-auto-mega-dolby-4280654.jpg?tf=1200x' alt='Ni tu salón ni tus auriculares, el futuro de Dolby Atmos y Vision está en los coches' />
     </a>
 </div>
 
