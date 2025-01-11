@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191'>¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nokia-xr20-2966158.jpg?tf=1200x' alt='¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/traileres-adaptados-estilo-netflix-piensa-avances-personalizados-cada-usuario-1435185'>Tráileres adaptados a tu estilo: Netflix piensa en avances personalizados para cada usuario</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/traileres-adaptados-estilo-netflix-piensa-avances-personalizados-cada-usuario-1435185' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-viendo-netflix-portatil-4281599.jpg?tf=1200x' alt='Tráileres adaptados a tu estilo: Netflix piensa en avances personalizados para cada usuario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-compra-extraordinaria-xiaomi-barata-smartwatch-1435101'>Esta pulsera "es una compra extraordinaria", de Xiaomi y más barata que un smartwatch</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-compra-extraordinaria-xiaomi-barata-smartwatch-1435101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-smart-band-9-pro-4281496.jpg?tf=1200x' alt='Esta pulsera "es una compra extraordinaria", de Xiaomi y más barata que un smartwatch' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-1434897'>ChatGPT o1 "hace trampa" en un juego de ajedrez para ganar a un oponente más fuerte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-1434897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-4281218.jpg?tf=1200x' alt='ChatGPT o1 "hace trampa" en un juego de ajedrez para ganar a un oponente más fuerte' />
     </a>
 </div>
 
