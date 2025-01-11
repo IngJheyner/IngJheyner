@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-drive-ahora-rapido-nunca-1435209'>Google Drive ahora es más rápido que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-drive-ahora-rapido-nunca-1435209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-3492607.jpg?tf=1200x' alt='Google Drive ahora es más rápido que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/vodafone-creara-tres-nuevas-filiales-2025-competir-digi-1434982'>Vodafone creará tres nuevas filiales en 2025 para competir con DIGI</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/vodafone-creara-tres-nuevas-filiales-2025-competir-digi-1434982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vodafone-tres-nuevas-filiales-2025-competir-digi-4281306.jpg?tf=1200x' alt='Vodafone creará tres nuevas filiales en 2025 para competir con DIGI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206'>Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/atajo-teclado-windows-4281622.jpg?tf=1200x' alt='Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198'>El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-macos-4281613.jpg?tf=1200x' alt='El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/android-15-estos-son-primeros-moviles-motorola-recibir-actualizacion-1434933'>Android 15: estos son los primeros móviles de Motorola en recibir la actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/android-15-estos-son-primeros-moviles-motorola-recibir-actualizacion-1434933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-15-estos-son-primeros-moviles-motorola-recibir-actualizacion-4281263.jpg?tf=1200x' alt='Android 15: estos son los primeros móviles de Motorola en recibir la actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191'>¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nokia-xr20-2966158.jpg?tf=1200x' alt='¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca' />
     </a>
 </div>
 
