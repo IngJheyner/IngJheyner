@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198'>El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-macos-4281613.jpg?tf=1200x' alt='El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/android-15-estos-son-primeros-moviles-motorola-recibir-actualizacion-1434933'>Android 15: estos son los primeros móviles de Motorola en recibir la actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/android-15-estos-son-primeros-moviles-motorola-recibir-actualizacion-1434933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-15-estos-son-primeros-moviles-motorola-recibir-actualizacion-4281263.jpg?tf=1200x' alt='Android 15: estos son los primeros móviles de Motorola en recibir la actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191'>¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nokia-xr20-2966158.jpg?tf=1200x' alt='¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459'>Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-reposo-ps5-4280498.jpg?tf=1200x' alt='Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-no-ayudando-vender-iphone-analista-ming-chi-kuo-1435181'>Apple Intelligence no está ayudando a vender más iPhone, según el analista Ming-Chi Kuo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-no-ayudando-vender-iphone-analista-ming-chi-kuo-1435181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4281594.jpg?tf=1200x' alt='Apple Intelligence no está ayudando a vender más iPhone, según el analista Ming-Chi Kuo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-compra-extraordinaria-xiaomi-barata-smartwatch-1435101'>Esta pulsera "es una compra extraordinaria", de Xiaomi y más barata que un smartwatch</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-compra-extraordinaria-xiaomi-barata-smartwatch-1435101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-smart-band-9-pro-4281496.jpg?tf=1200x' alt='Esta pulsera "es una compra extraordinaria", de Xiaomi y más barata que un smartwatch' />
     </a>
 </div>
 
