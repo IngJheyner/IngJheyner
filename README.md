@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cambio-climatico-avanza-nasa-union-europea-confirman-2024-ha-sido-ano-caluroso-historia-1435133'>El cambio climático avanza: la NASA y la Unión Europea confirman que 2024 ha sido el año más caluroso de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cambio-climatico-avanza-nasa-union-europea-confirman-2024-ha-sido-ano-caluroso-historia-1435133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cambio-climatico-avanza-nasa-confirma-2024-ha-sido-ano-caluroso-historia-4281533.jpg?tf=1200x' alt='El cambio climático avanza: la NASA y la Unión Europea confirman que 2024 ha sido el año más caluroso de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-1435126'>WhatsApp cambia por completo: adiós Comunidades, hola chatbots de IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-1435126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-cambia-completo-adios-comunidades-hola-chatbots-ia-4281527.jpg?tf=1200x' alt='WhatsApp cambia por completo: adiós Comunidades, hola chatbots de IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-puede-clonar-mente-ia-imita-pensamientos-solo-2-horas-conversacion-1435112'>Google puede clonar tu mente: IA que imita tus pensamientos con solo 2 horas de conversación</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-puede-clonar-mente-ia-imita-pensamientos-solo-2-horas-conversacion-1435112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/robot-vs-humano-4281515.jpg?tf=1200x' alt='Google puede clonar tu mente: IA que imita tus pensamientos con solo 2 horas de conversación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109'>¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llama-ibai-llanos-pidiendote-dinero-cuidado-estafa-ia-1435109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-telefonica-4281508.jpg?tf=1200x' alt='¿Te llama Ibai Llanos pidiéndote dinero? ¡Cuidado, es una estafa con IA!' />
     </a>
 </div>
 
