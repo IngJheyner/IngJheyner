@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-music-prepara-forma-creativa-compartir-canciones-amigos-1435211'>YouTube Music prepara una forma creativa de compartir canciones con tus amigos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-music-prepara-forma-creativa-compartir-canciones-amigos-1435211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-music-coge-mejor-spotify-playlists-generadas-ia-4147636.jpg?tf=1200x' alt='YouTube Music prepara una forma creativa de compartir canciones con tus amigos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-drive-ahora-rapido-nunca-1435209'>Google Drive ahora es más rápido que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-drive-ahora-rapido-nunca-1435209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-drive-te-enviara-newsletter-propios-archivos-aunque-podras-evitarlo-3492607.jpg?tf=1200x' alt='Google Drive ahora es más rápido que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-1435008'>Esta cuna inteligente presentada en el CES 2025 promete dormir a los bebés y liberar a los padres</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-1435008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-4281332.jpg?tf=1200x' alt='Esta cuna inteligente presentada en el CES 2025 promete dormir a los bebés y liberar a los padres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198'>El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-macos-4281613.jpg?tf=1200x' alt='El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple' />
     </a>
 </div>
 
