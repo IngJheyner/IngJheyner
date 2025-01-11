@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/adios-emisiones-etiqueta-0-viejo-coche-genial-invento-1434583'>Adiós a las emisiones y etiqueta 0 al instante para tu viejo coche con este genial invento</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/adios-emisiones-etiqueta-0-viejo-coche-genial-invento-1434583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/coche-etiqueta-0-4280663.jpg?tf=1200x' alt='Adiós a las emisiones y etiqueta 0 al instante para tu viejo coche con este genial invento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/no-esperes-pronto-iphone-plegable-todavia-estaria-fase-planificacion-1435168'>No esperes pronto el iPhone plegable: todavía estaría en fase de planificación</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/no-esperes-pronto-iphone-plegable-todavia-estaria-fase-planificacion-1435168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg?tf=1200x' alt='No esperes pronto el iPhone plegable: todavía estaría en fase de planificación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nueva-consola-nintendo-sera-game-boy-hecha-lego-1434893'>La nueva consola de Nintendo será una Game Boy… ¡hecha por LEGO!</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nueva-consola-nintendo-sera-game-boy-hecha-lego-1434893' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-consola-nintendo-sera-game-boy-hecha-lego-4281170.jpg?tf=1200x' alt='La nueva consola de Nintendo será una Game Boy… ¡hecha por LEGO!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-estandar-usb-cambian-nombres-nomenclatura-1435162'>Giro de 180 grados en el estándar USB: cambian los nombres para que la gente no se vuelva loca</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-estandar-usb-cambian-nombres-nomenclatura-1435162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-estandar-usb-cambian-nombres-gente-no-vuelva-loca-4281552.jpg?tf=1200x' alt='Giro de 180 grados en el estándar USB: cambian los nombres para que la gente no se vuelva loca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-animacion-todos-tiempos-ya-prime-video-tiene-mejores-criticas-her-terminator-2-1434478'>La mejor película de animación de todos los tiempos ya está en Prime Video: tiene mejores críticas que Her o Terminator 2</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-animacion-todos-tiempos-ya-prime-video-tiene-mejores-criticas-her-terminator-2-1434478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiene-mejores-criticas-her-terminator-2-pelicula-animacion-mejor-valorada-todos-tiempos-ya-prime-video-4280481.jpg?tf=1200x' alt='La mejor película de animación de todos los tiempos ya está en Prime Video: tiene mejores críticas que Her o Terminator 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-llegaria-lanzamiento-pantalla-oled-1434965'>Nintendo Switch 2 llegaría de lanzamiento con pantalla OLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-llegaria-lanzamiento-pantalla-oled-1434965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/posible-diseno-nintendo-switch-2-dock-basado-filtraciones-4276689.jpg?tf=1200x' alt='Nintendo Switch 2 llegaría de lanzamiento con pantalla OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/memorias-usb-mal-uso-1416200'>Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/memorias-usb-mal-uso-1416200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/unidad-usb-arranque-windows-11-3277080.jpg?tf=1200x' alt='Has estado utilizando mal las memorias USB toda la vida, y seguramente no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/codigos-trucos-secretos-waze-funciones-ocultas-1392938'>Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/codigos-trucos-secretos-waze-funciones-ocultas-1392938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/waze-3889151.jpg?tf=1200x' alt='Desde que conseguí desbloquear las funciones ocultas de Waze, le da mil vueltas a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-1434783'>Un Amazon Fire TV es capaz de resucitar a un muerto y puedo demostrarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-1434783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-4281143.jpg?tf=1200x' alt='Un Amazon Fire TV es capaz de resucitar a un muerto y puedo demostrarlo' />
     </a>
 </div>
 
