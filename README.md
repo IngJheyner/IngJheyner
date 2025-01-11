@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-windows-11-sea-sistema-operativo-inteligencia-artificial-confiable-mundo-1435213'>Microsoft quiere que Windows 11 sea el sistema operativo de inteligencia artificial más confiable del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-windows-11-sea-sistema-operativo-inteligencia-artificial-confiable-mundo-1435213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='Microsoft quiere que Windows 11 sea el sistema operativo de inteligencia artificial más confiable del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-music-prepara-forma-creativa-compartir-canciones-amigos-1435211'>YouTube Music prepara una forma creativa de compartir canciones con tus amigos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-music-prepara-forma-creativa-compartir-canciones-amigos-1435211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/youtube-music-coge-mejor-spotify-playlists-generadas-ia-4147636.jpg?tf=1200x' alt='YouTube Music prepara una forma creativa de compartir canciones con tus amigos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206'>Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/atajo-teclado-windows-4281622.jpg?tf=1200x' alt='Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-1435008'>Esta cuna inteligente presentada en el CES 2025 promete dormir a los bebés y liberar a los padres</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-1435008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-4281332.jpg?tf=1200x' alt='Esta cuna inteligente presentada en el CES 2025 promete dormir a los bebés y liberar a los padres' />
     </a>
 </div>
 
