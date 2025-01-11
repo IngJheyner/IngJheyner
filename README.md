@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206'>Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/atajo-teclado-windows-4281622.jpg?tf=1200x' alt='Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-1435008'>Esta cuna inteligente presentada en el CES 2025 promete dormir a los bebés y liberar a los padres</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-1435008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuna-inteligente-presentada-ces-2025-promete-dormir-bebes-liberar-padres-4281332.jpg?tf=1200x' alt='Esta cuna inteligente presentada en el CES 2025 promete dormir a los bebés y liberar a los padres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198'>El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/malware-silencioso-macos-amenaza-100-millones-usuarios-apple-1435198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-macos-4281613.jpg?tf=1200x' alt='El malware silencioso para macOS que amenaza a 100 millones de usuarios de Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191'>¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-nokia-hmd-retira-web-venta-todos-telefonos-inteligentes-marca-1435191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/nokia-xr20-2966158.jpg?tf=1200x' alt='¿Adiós Nokia? HMD retira de su web la venta de todos los teléfonos inteligentes de la marca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/traileres-adaptados-estilo-netflix-piensa-avances-personalizados-cada-usuario-1435185'>Tráileres adaptados a tu estilo: Netflix piensa en avances personalizados para cada usuario</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/traileres-adaptados-estilo-netflix-piensa-avances-personalizados-cada-usuario-1435185' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-viendo-netflix-portatil-4281599.jpg?tf=1200x' alt='Tráileres adaptados a tu estilo: Netflix piensa en avances personalizados para cada usuario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459'>Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-reposo-ps5-4280498.jpg?tf=1200x' alt='Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?' />
     </a>
 </div>
 
