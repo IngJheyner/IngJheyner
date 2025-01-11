@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303'>La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-4280151.jpg?tf=1200x' alt='La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-gran-paron-salto-definitivo-ia-elon-musk-vs-expectativas-sam-altman-1434156'>2025: ¿El año del gran parón o el salto definitivo de la IA? Elon Musk vs. las expectativas de Sam Altman</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-gran-paron-salto-definitivo-ia-elon-musk-vs-expectativas-sam-altman-1434156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-vs-expectativas-sam-altman-4281300.jpg?tf=1200x' alt='2025: ¿El año del gran parón o el salto definitivo de la IA? Elon Musk vs. las expectativas de Sam Altman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598'>Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/unidad-usb-4280712.jpg?tf=1200x' alt='Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/ni-salon-ni-auriculares-futuro-dolby-atmos-vision-coches-1434565'>Ni tu salón ni tus auriculares, el futuro de Dolby Atmos y Vision está en los coches</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/ni-salon-ni-auriculares-futuro-dolby-atmos-vision-coches-1434565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/li-auto-mega-dolby-4280654.jpg?tf=1200x' alt='Ni tu salón ni tus auriculares, el futuro de Dolby Atmos y Vision está en los coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/gracias-google-me-he-formado-como-analista-ciberseguridad-puedes-acceder-estos-cursos-1428958'>Gracias a Google me he formado como analista en ciberseguridad: así puedes acceder a estos cursos</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/gracias-google-me-he-formado-como-analista-ciberseguridad-puedes-acceder-estos-cursos-1428958' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/curso-certificado-google-4271585.jpg?tf=1200x' alt='Gracias a Google me he formado como analista en ciberseguridad: así puedes acceder a estos cursos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-1434600'>Ni WhatsApp ni absolutamente nada, estos móviles dejarán de funcionar a partir de 2025 y no podrás evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-1434600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-4280724.jpg?tf=1200x' alt='Ni WhatsApp ni absolutamente nada, estos móviles dejarán de funcionar a partir de 2025 y no podrás evitarlo' />
     </a>
 </div>
 
