@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-1434600'>Ni WhatsApp ni absolutamente nada, estos móviles dejarán de funcionar a partir de 2025 y no podrás evitarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-1434600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-whatsapp-ni-absolutamente-nada-estos-moviles-dejaran-funcionar-partir-2025-no-podras-evitarlo-4280724.jpg?tf=1200x' alt='Ni WhatsApp ni absolutamente nada, estos móviles dejarán de funcionar a partir de 2025 y no podrás evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cambio-climatico-avanza-nasa-union-europea-confirman-2024-ha-sido-ano-caluroso-historia-1435133'>El cambio climático avanza: la NASA y la Unión Europea confirman que 2024 ha sido el año más caluroso de la historia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cambio-climatico-avanza-nasa-union-europea-confirman-2024-ha-sido-ano-caluroso-historia-1435133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cambio-climatico-avanza-nasa-confirma-2024-ha-sido-ano-caluroso-historia-4281533.jpg?tf=1200x' alt='El cambio climático avanza: la NASA y la Unión Europea confirman que 2024 ha sido el año más caluroso de la historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/error-iphone-podria-hacerte-perder-trabajo-sufrir-problemas-salud-alarmas-no-suenan-1435114'>El error de iPhone que podría hacerte perder tu trabajo o sufrir problemas de salud: las alarmas no suenan</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/error-iphone-podria-hacerte-perder-trabajo-sufrir-problemas-salud-alarmas-no-suenan-1435114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-iphone-4281516.jpg?tf=1200x' alt='El error de iPhone que podría hacerte perder tu trabajo o sufrir problemas de salud: las alarmas no suenan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-puede-clonar-mente-ia-imita-pensamientos-solo-2-horas-conversacion-1435112'>Google puede clonar tu mente: IA que imita tus pensamientos con solo 2 horas de conversación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-puede-clonar-mente-ia-imita-pensamientos-solo-2-horas-conversacion-1435112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/robot-vs-humano-4281515.jpg?tf=1200x' alt='Google puede clonar tu mente: IA que imita tus pensamientos con solo 2 horas de conversación' />
     </a>
 </div>
 
