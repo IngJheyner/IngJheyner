@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/adios-emisiones-etiqueta-0-viejo-coche-genial-invento-1434583'>Adiós a las emisiones y etiqueta 0 al instante para tu viejo coche con este genial invento</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/adios-emisiones-etiqueta-0-viejo-coche-genial-invento-1434583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/coche-etiqueta-0-4280663.jpg?tf=1200x' alt='Adiós a las emisiones y etiqueta 0 al instante para tu viejo coche con este genial invento' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459'>Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-reposo-ps5-4280498.jpg?tf=1200x' alt='Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/no-esperes-pronto-iphone-plegable-todavia-estaria-fase-planificacion-1435168'>No esperes pronto el iPhone plegable: todavía estaría en fase de planificación</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/no-esperes-pronto-iphone-plegable-todavia-estaria-fase-planificacion-1435168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/iphone-plegable-2240433.jpg?tf=1200x' alt='No esperes pronto el iPhone plegable: todavía estaría en fase de planificación' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-no-ayudando-vender-iphone-analista-ming-chi-kuo-1435181'>Apple Intelligence no está ayudando a vender más iPhone, según el analista Ming-Chi Kuo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-no-ayudando-vender-iphone-analista-ming-chi-kuo-1435181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4281594.jpg?tf=1200x' alt='Apple Intelligence no está ayudando a vender más iPhone, según el analista Ming-Chi Kuo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nueva-consola-nintendo-sera-game-boy-hecha-lego-1434893'>La nueva consola de Nintendo será una Game Boy… ¡hecha por LEGO!</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nueva-consola-nintendo-sera-game-boy-hecha-lego-1434893' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-consola-nintendo-sera-game-boy-hecha-lego-4281170.jpg?tf=1200x' alt='La nueva consola de Nintendo será una Game Boy… ¡hecha por LEGO!' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-compra-extraordinaria-xiaomi-barata-smartwatch-1435101'>Esta pulsera "es una compra extraordinaria", de Xiaomi y más barata que un smartwatch</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-compra-extraordinaria-xiaomi-barata-smartwatch-1435101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-smart-band-9-pro-4281496.jpg?tf=1200x' alt='Esta pulsera "es una compra extraordinaria", de Xiaomi y más barata que un smartwatch' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-estandar-usb-cambian-nombres-nomenclatura-1435162'>Giro de 180 grados en el estándar USB: cambian los nombres para que la gente no se vuelva loca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-estandar-usb-cambian-nombres-nomenclatura-1435162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-estandar-usb-cambian-nombres-gente-no-vuelva-loca-4281552.jpg?tf=1200x' alt='Giro de 180 grados en el estándar USB: cambian los nombres para que la gente no se vuelva loca' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-1434897'>ChatGPT o1 "hace trampa" en un juego de ajedrez para ganar a un oponente más fuerte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-1434897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-4281218.jpg?tf=1200x' alt='ChatGPT o1 "hace trampa" en un juego de ajedrez para ganar a un oponente más fuerte' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-animacion-todos-tiempos-ya-prime-video-tiene-mejores-criticas-her-terminator-2-1434478'>La mejor película de animación de todos los tiempos ya está en Prime Video: tiene mejores críticas que Her o Terminator 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-animacion-todos-tiempos-ya-prime-video-tiene-mejores-criticas-her-terminator-2-1434478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiene-mejores-criticas-her-terminator-2-pelicula-animacion-mejor-valorada-todos-tiempos-ya-prime-video-4280481.jpg?tf=1200x' alt='La mejor película de animación de todos los tiempos ya está en Prime Video: tiene mejores críticas que Her o Terminator 2' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-1435172'>Microsoft va a imponerte esta nueva aplicación en Windows 10 aunque no te guste</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-1435172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='Microsoft va a imponerte esta nueva aplicación en Windows 10 aunque no te guste' />
     </a>
 </div>
 
