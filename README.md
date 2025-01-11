@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/traileres-adaptados-estilo-netflix-piensa-avances-personalizados-cada-usuario-1435185'>Tráileres adaptados a tu estilo: Netflix piensa en avances personalizados para cada usuario</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/traileres-adaptados-estilo-netflix-piensa-avances-personalizados-cada-usuario-1435185' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-viendo-netflix-portatil-4281599.jpg?tf=1200x' alt='Tráileres adaptados a tu estilo: Netflix piensa en avances personalizados para cada usuario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459'>Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/mejor-dejar-ps5-reposo-apagarla-despues-jugar-1434459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-reposo-ps5-4280498.jpg?tf=1200x' alt='Qué es mejor: ¿dejar la PS5 en reposo o apagarla después de jugar?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-1434897'>ChatGPT o1 "hace trampa" en un juego de ajedrez para ganar a un oponente más fuerte</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-1434897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-o1-hace-trampa-juego-ajedrez-ganar-oponente-fuerte-4281218.jpg?tf=1200x' alt='ChatGPT o1 "hace trampa" en un juego de ajedrez para ganar a un oponente más fuerte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-1435172'>Microsoft va a imponerte esta nueva aplicación en Windows 10 aunque no te guste</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-1435172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='Microsoft va a imponerte esta nueva aplicación en Windows 10 aunque no te guste' />
     </a>
 </div>
 
