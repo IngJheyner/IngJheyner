@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-1434783'>Un Amazon Fire TV es capaz de resucitar a un muerto y puedo demostrarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-1434783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-fire-tv-capaz-resucitar-muerto-puedo-demostrarlo-4281143.jpg?tf=1200x' alt='Un Amazon Fire TV es capaz de resucitar a un muerto y puedo demostrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-nintendo-siembra-panico-x-twitter-nueva-pista-switch-2-1434980'>Giro de 180 grados: Nintendo siembra el pánico en X (Twitter) con una nueva pista de la Switch 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-nintendo-siembra-panico-x-twitter-nueva-pista-switch-2-1434980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-nintendo-siembra-panico-x-twitter-nueva-pista-switch-2-4281285.jpg?tf=1200x' alt='Giro de 180 grados: Nintendo siembra el pánico en X (Twitter) con una nueva pista de la Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/audios-whatsapp-detienen-acercar-movil-oido-no-error-1434797'>Los audios de WhatsApp se detienen al acercar el móvil al oído y no es un error</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/audios-whatsapp-detienen-acercar-movil-oido-no-error-1434797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audios-whatsapp-4281056.jpg?tf=1200x' alt='Los audios de WhatsApp se detienen al acercar el móvil al oído y no es un error' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303'>La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-1434303' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-waze-google-maps-dgt-quiere-eliminar-toda-costa-espana-4280151.jpg?tf=1200x' alt='La función de Waze y Google Maps que la DGT quiere eliminar a toda costa en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-gran-paron-salto-definitivo-ia-elon-musk-vs-expectativas-sam-altman-1434156'>2025: ¿El año del gran parón o el salto definitivo de la IA? Elon Musk vs. las expectativas de Sam Altman</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-gran-paron-salto-definitivo-ia-elon-musk-vs-expectativas-sam-altman-1434156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-vs-expectativas-sam-altman-4281300.jpg?tf=1200x' alt='2025: ¿El año del gran parón o el salto definitivo de la IA? Elon Musk vs. las expectativas de Sam Altman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598'>Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/formas-creativas-reutilizar-viejas-memorias-usb-1434598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/unidad-usb-4280712.jpg?tf=1200x' alt='Formas creativas para reutilizar las viejas memorias USB que tienes olvidadas en el cajón' />
     </a>
 </div>
 
