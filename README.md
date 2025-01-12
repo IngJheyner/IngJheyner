@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870'>Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-sigue-manteniendo-teletexto-cuando-desaparecera-4281146.jpg?tf=1200x' alt='Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/renueva-windows-11-microsoft-lanza-texturas-fluidas-nueva-coleccion-fondos-pantalla-2025-1435255'>¡Renueva tu Windows 11! Microsoft lanza "Texturas Fluidas", su nueva colección de fondos de pantalla para 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/renueva-windows-11-microsoft-lanza-texturas-fluidas-nueva-coleccion-fondos-pantalla-2025-1435255' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/paquete-texturas-fluidas-windows-11-4281722.jpg?tf=1200x' alt='¡Renueva tu Windows 11! Microsoft lanza "Texturas Fluidas", su nueva colección de fondos de pantalla para 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/wake-lan-tal-vez-te-interese-activarlo-pc-windows-1434872'>Qué es Wake-on-LAN y por qué tal vez te interese activarlo en tu PC con Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/wake-lan-tal-vez-te-interese-activarlo-pc-windows-1434872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/wake-lan-tal-vez-te-interese-activarlo-pc-windows-4281148.jpg?tf=1200x' alt='Qué es Wake-on-LAN y por qué tal vez te interese activarlo en tu PC con Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/dentro-10-anos-nadie-comprara-televisores-dispositivo-destinado-sustituirlos-1434249'>Dentro de 10 años nadie comprará televisores: este es el dispositivo destinado a sustituirlos</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/dentro-10-anos-nadie-comprara-televisores-dispositivo-destinado-sustituirlos-1434249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/metas-quest-3-pantalla-virtual-4280054.jpg?tf=1200x' alt='Dentro de 10 años nadie comprará televisores: este es el dispositivo destinado a sustituirlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recomienda-libro-clave-importantes-jamas-escritos-ia-1434150'>Bill Gates recomienda este libro clave: "Uno de los más importantes jamás escritos sobre IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recomienda-libro-clave-importantes-jamas-escritos-ia-1434150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4279971.jpg?tf=1200x' alt='Bill Gates recomienda este libro clave: "Uno de los más importantes jamás escritos sobre IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-corrige-error-seguridad-windows-11-dos-anos-1435246'>Microsoft corrige un error de seguridad en Windows 11 tras más de dos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-corrige-error-seguridad-windows-11-dos-anos-1435246' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/microsoft-defender-2054423.jpg?tf=1200x' alt='Microsoft corrige un error de seguridad en Windows 11 tras más de dos años' />
     </a>
 </div>
 
