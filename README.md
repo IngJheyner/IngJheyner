@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-prime-cierra-prueba-primero-paga-despues-1435280'>Adiós a una de las ventajas de Amazon Prime, a partir del 31 de enero</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-prime-cierra-prueba-primero-paga-despues-1435280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-ventajas-amazon-prime-partir-31-enero-4281804.jpg?tf=1200x' alt='Adiós a una de las ventajas de Amazon Prime, a partir del 31 de enero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264'>Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281731.jpg?tf=1200x' alt='Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/renueva-windows-11-microsoft-lanza-texturas-fluidas-nueva-coleccion-fondos-pantalla-2025-1435255'>¡Renueva tu Windows 11! Microsoft lanza "Texturas Fluidas", su nueva colección de fondos de pantalla para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/renueva-windows-11-microsoft-lanza-texturas-fluidas-nueva-coleccion-fondos-pantalla-2025-1435255' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/paquete-texturas-fluidas-windows-11-4281722.jpg?tf=1200x' alt='¡Renueva tu Windows 11! Microsoft lanza "Texturas Fluidas", su nueva colección de fondos de pantalla para 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/wake-lan-tal-vez-te-interese-activarlo-pc-windows-1434872'>Qué es Wake-on-LAN y por qué tal vez te interese activarlo en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/wake-lan-tal-vez-te-interese-activarlo-pc-windows-1434872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/wake-lan-tal-vez-te-interese-activarlo-pc-windows-4281148.jpg?tf=1200x' alt='Qué es Wake-on-LAN y por qué tal vez te interese activarlo en tu PC con Windows' />
     </a>
 </div>
 
