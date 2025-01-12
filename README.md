@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/boton-whatsapp-instagram-otras-redes-jamas-deberias-pulsar-expertos-seguridad-1434596'>El botón de WhatsApp, Instagram y otras redes que jamás deberías pulsar según los expertos en seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/boton-whatsapp-instagram-otras-redes-jamas-deberias-pulsar-expertos-seguridad-1434596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/boton-whatsapp-instagram-otras-redes-jamas-deberias-pulsar-expertos-seguridad-4280720.jpg?tf=1200x' alt='El botón de WhatsApp, Instagram y otras redes que jamás deberías pulsar según los expertos en seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-windows-11-sea-sistema-operativo-inteligencia-artificial-confiable-mundo-1435213'>Microsoft quiere que Windows 11 sea el sistema operativo de inteligencia artificial más confiable del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-windows-11-sea-sistema-operativo-inteligencia-artificial-confiable-mundo-1435213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='Microsoft quiere que Windows 11 sea el sistema operativo de inteligencia artificial más confiable del mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/vodafone-creara-tres-nuevas-filiales-2025-competir-digi-1434982'>Vodafone creará tres nuevas filiales en 2025 para competir con DIGI</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/vodafone-creara-tres-nuevas-filiales-2025-competir-digi-1434982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vodafone-tres-nuevas-filiales-2025-competir-digi-4281306.jpg?tf=1200x' alt='Vodafone creará tres nuevas filiales en 2025 para competir con DIGI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206'>Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-te-aprendas-atajo-teclado-partir-ahora-windows-11-1435206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/atajo-teclado-windows-4281622.jpg?tf=1200x' alt='Microsoft quiere que te aprendas este atajo de teclado a partir de ahora en Windows 11' />
     </a>
 </div>
 
