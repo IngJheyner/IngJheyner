@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-openai-estan-pagando-miles-euros-creadores-youtube-tiktok-videos-sin-usar-1435282'>Por qué Google y OpenAI están pagando miles de euros a creadores de YouTube y TikTok por vídeos sin usar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-openai-estan-pagando-miles-euros-creadores-youtube-tiktok-videos-sin-usar-1435282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-openai-estan-pagando-miles-euros-creadores-youtube-tiktok-videos-usar-4281808.jpg?tf=1200x' alt='Por qué Google y OpenAI están pagando miles de euros a creadores de YouTube y TikTok por vídeos sin usar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-prime-cierra-prueba-primero-paga-despues-1435280'>Adiós a una de las ventajas de Amazon Prime, a partir del 31 de enero</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-prime-cierra-prueba-primero-paga-despues-1435280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-ventajas-amazon-prime-partir-31-enero-4281804.jpg?tf=1200x' alt='Adiós a una de las ventajas de Amazon Prime, a partir del 31 de enero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870'>Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-sigue-manteniendo-teletexto-cuando-desaparecera-4281146.jpg?tf=1200x' alt='Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/renueva-windows-11-microsoft-lanza-texturas-fluidas-nueva-coleccion-fondos-pantalla-2025-1435255'>¡Renueva tu Windows 11! Microsoft lanza "Texturas Fluidas", su nueva colección de fondos de pantalla para 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/renueva-windows-11-microsoft-lanza-texturas-fluidas-nueva-coleccion-fondos-pantalla-2025-1435255' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/paquete-texturas-fluidas-windows-11-4281722.jpg?tf=1200x' alt='¡Renueva tu Windows 11! Microsoft lanza "Texturas Fluidas", su nueva colección de fondos de pantalla para 2025' />
     </a>
 </div>
 
