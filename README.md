@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-son-fire-tv-educados-son-tan-peligrosos-1434260'>IPTV: qué son los Fire TV “educados” y por qué son tan peligrosos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/iptv-son-fire-tv-educados-son-tan-peligrosos-1434260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/contenido-pirata-fire-tv-4280097.jpg?tf=1200x' alt='IPTV: qué son los Fire TV “educados” y por qué son tan peligrosos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/primera-vespa-voladora-vale-menos-coche-tesla-1435223'>La primera Vespa voladora vale menos que un coche Tesla, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/primera-vespa-voladora-vale-menos-coche-tesla-1435223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primera-vespa-voladora-vale-menos-coche-tesla-cambia-todo-4281682.jpg?tf=1200x' alt='La primera Vespa voladora vale menos que un coche Tesla, lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-desvela-truco-infalible-no-hackeen-contrasenas-no-saberselas-1434300'>Experto en seguridad desvela el truco infalible para que no hackeen tus contraseñas: "No sabérselas" </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-desvela-truco-infalible-no-hackeen-contrasenas-no-saberselas-1434300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-seguridad-desvela-truco-infalible-no-hackeen-contrasenas-no-saberselas-4280136.jpg?tf=1200x' alt='Experto en seguridad desvela el truco infalible para que no hackeen tus contraseñas: "No sabérselas" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-coche-electrico-ni-robotaxi-negocio-oculto-tesla-hace-sonreir-elon-musk-1430527'>Ni coche eléctrico ni robotaxi: este es el negocio oculto de Tesla que hace sonreír a Elon Musk </a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-coche-electrico-ni-robotaxi-negocio-oculto-tesla-hace-sonreir-elon-musk-1430527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-tesla-4279062.jpg?tf=1200x' alt='Ni coche eléctrico ni robotaxi: este es el negocio oculto de Tesla que hace sonreír a Elon Musk ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-infalible-regla-5-minutos-evitar-estafas-siempre-deberias-aplicar-1434575'>WhatsApp: la infalible regla de los 5 minutos para evitar estafas que siempre deberías aplicar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-infalible-regla-5-minutos-evitar-estafas-siempre-deberias-aplicar-1434575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-infalible-regla-5-minutos-evitar-estafas-siempre-deberias-aplicar-4280681.jpg?tf=1200x' alt='WhatsApp: la infalible regla de los 5 minutos para evitar estafas que siempre deberías aplicar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-chatbot-ia-elon-musk-generando-tanta-polemica-1432931'>¿Qué es Grok y por qué el chatbot de IA de Elon Musk está generando tanta polémica?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/grok-chatbot-ia-elon-musk-generando-tanta-polemica-1432931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='¿Qué es Grok y por qué el chatbot de IA de Elon Musk está generando tanta polémica?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-gmail-ni-outlook-mejor-app-quieres-tener-bandeja-entrada-limpia-posible-1431203'>Ni Gmail ni Outlook: esta es la mejor app si quieres tener tu bandeja de entrada lo más limpia posible</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-gmail-ni-outlook-mejor-app-quieres-tener-bandeja-entrada-limpia-posible-1431203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/thunderbird-correo-electronico-4275426.jpg?tf=1200x' alt='Ni Gmail ni Outlook: esta es la mejor app si quieres tener tu bandeja de entrada lo más limpia posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/boton-whatsapp-instagram-otras-redes-jamas-deberias-pulsar-expertos-seguridad-1434596'>El botón de WhatsApp, Instagram y otras redes que jamás deberías pulsar según los expertos en seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/boton-whatsapp-instagram-otras-redes-jamas-deberias-pulsar-expertos-seguridad-1434596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/boton-whatsapp-instagram-otras-redes-jamas-deberias-pulsar-expertos-seguridad-4280720.jpg?tf=1200x' alt='El botón de WhatsApp, Instagram y otras redes que jamás deberías pulsar según los expertos en seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-windows-11-sea-sistema-operativo-inteligencia-artificial-confiable-mundo-1435213'>Microsoft quiere que Windows 11 sea el sistema operativo de inteligencia artificial más confiable del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-windows-11-sea-sistema-operativo-inteligencia-artificial-confiable-mundo-1435213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='Microsoft quiere que Windows 11 sea el sistema operativo de inteligencia artificial más confiable del mundo' />
     </a>
 </div>
 
