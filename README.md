@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-bee-ai-nuevo-wearable-ia-escucha-todo-dices-24-horas-dia-1435290'>Este nuevo wearable con IA escucha todo lo que dices, las 24 horas del día</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-bee-ai-nuevo-wearable-ia-escucha-todo-dices-24-horas-dia-1435290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevo-wearable-ia-graba-todo-dices-24-horas-dia-4281840.jpg?tf=1200x' alt='Este nuevo wearable con IA escucha todo lo que dices, las 24 horas del día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-futbolista-espanol-chatgpt-comete-error-ia-1435285'>El mejor futbolista español es del F.C. Barcelona, según ChatGPT, pero comete un error que muestra la debilidad de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejor-futbolista-espanol-chatgpt-comete-error-ia-1435285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-futbolista-espanol-historia-fc-barcelona-chatgpt-pero-comete-error-muestra-debilidad-ia-4281813.jpg?tf=1200x' alt='El mejor futbolista español es del F.C. Barcelona, según ChatGPT, pero comete un error que muestra la debilidad de la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264'>Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281731.jpg?tf=1200x' alt='Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-android-auto-mala-noticia-google-maps-1435260'>La última actualización para Android Auto es una mala noticia para Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-android-auto-mala-noticia-google-maps-1435260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='La última actualización para Android Auto es una mala noticia para Google Maps' />
     </a>
 </div>
 
