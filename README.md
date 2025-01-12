@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/valoro-mucho-mi-seguridad-eso-reinicio-mi-movil-todos-dias-tambien-deberias-hacerlo-1433700'>Valoro mucho mi seguridad, por eso, reinicio mi móvil todos los días, y tú también deberías hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/valoro-mucho-mi-seguridad-eso-reinicio-mi-movil-todos-dias-tambien-deberias-hacerlo-1433700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/valoro-mucho-mi-seguridad-eso-reinicio-mi-movil-todos-dias-tambien-deberias-hacerlo-4279307.jpg?tf=1200x' alt='Valoro mucho mi seguridad, por eso, reinicio mi móvil todos los días, y tú también deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/iptv-son-fire-tv-educados-son-tan-peligrosos-1434260'>IPTV: qué son los Fire TV “educados” y por qué son tan peligrosos</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/iptv-son-fire-tv-educados-son-tan-peligrosos-1434260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/contenido-pirata-fire-tv-4280097.jpg?tf=1200x' alt='IPTV: qué son los Fire TV “educados” y por qué son tan peligrosos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/ni-coche-electrico-ni-robotaxi-negocio-oculto-tesla-hace-sonreir-elon-musk-1430527'>Ni coche eléctrico ni robotaxi: este es el negocio oculto de Tesla que hace sonreír a Elon Musk </a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ni-coche-electrico-ni-robotaxi-negocio-oculto-tesla-hace-sonreir-elon-musk-1430527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-tesla-4279062.jpg?tf=1200x' alt='Ni coche eléctrico ni robotaxi: este es el negocio oculto de Tesla que hace sonreír a Elon Musk ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-infalible-regla-5-minutos-evitar-estafas-siempre-deberias-aplicar-1434575'>WhatsApp: la infalible regla de los 5 minutos para evitar estafas que siempre deberías aplicar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-infalible-regla-5-minutos-evitar-estafas-siempre-deberias-aplicar-1434575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-infalible-regla-5-minutos-evitar-estafas-siempre-deberias-aplicar-4280681.jpg?tf=1200x' alt='WhatsApp: la infalible regla de los 5 minutos para evitar estafas que siempre deberías aplicar' />
     </a>
 </div>
 
