@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264'>Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281731.jpg?tf=1200x' alt='Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-android-auto-mala-noticia-google-maps-1435260'>La última actualización para Android Auto es una mala noticia para Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-android-auto-mala-noticia-google-maps-1435260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='La última actualización para Android Auto es una mala noticia para Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870'>Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-sigue-manteniendo-teletexto-cuando-desaparecera-4281146.jpg?tf=1200x' alt='Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/wake-lan-tal-vez-te-interese-activarlo-pc-windows-1434872'>Qué es Wake-on-LAN y por qué tal vez te interese activarlo en tu PC con Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/wake-lan-tal-vez-te-interese-activarlo-pc-windows-1434872' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/wake-lan-tal-vez-te-interese-activarlo-pc-windows-4281148.jpg?tf=1200x' alt='Qué es Wake-on-LAN y por qué tal vez te interese activarlo en tu PC con Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-modo-compacto-chrome-google-no-quiere-1435248'>Olvídate del modo compacto para Chrome, Google no lo quiere</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-modo-compacto-chrome-google-no-quiere-1435248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chrome-4281718.jpg?tf=1200x' alt='Olvídate del modo compacto para Chrome, Google no lo quiere' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/dentro-10-anos-nadie-comprara-televisores-dispositivo-destinado-sustituirlos-1434249'>Dentro de 10 años nadie comprará televisores: este es el dispositivo destinado a sustituirlos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/dentro-10-anos-nadie-comprara-televisores-dispositivo-destinado-sustituirlos-1434249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/metas-quest-3-pantalla-virtual-4280054.jpg?tf=1200x' alt='Dentro de 10 años nadie comprará televisores: este es el dispositivo destinado a sustituirlos' />
     </a>
 </div>
 
