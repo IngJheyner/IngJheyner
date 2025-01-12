@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-futbolista-espanol-chatgpt-comete-error-ia-1435285'>El mejor futbolista español es del F.C. Barcelona, según ChatGPT, pero comete un error que muestra la debilidad de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-futbolista-espanol-chatgpt-comete-error-ia-1435285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-futbolista-espanol-historia-fc-barcelona-chatgpt-pero-comete-error-muestra-debilidad-ia-4281813.jpg?tf=1200x' alt='El mejor futbolista español es del F.C. Barcelona, según ChatGPT, pero comete un error que muestra la debilidad de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-openai-estan-pagando-miles-euros-creadores-youtube-tiktok-videos-sin-usar-1435282'>Por qué Google y OpenAI están pagando miles de euros a creadores de YouTube y TikTok por vídeos sin usar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-openai-estan-pagando-miles-euros-creadores-youtube-tiktok-videos-sin-usar-1435282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-openai-estan-pagando-miles-euros-creadores-youtube-tiktok-videos-usar-4281808.jpg?tf=1200x' alt='Por qué Google y OpenAI están pagando miles de euros a creadores de YouTube y TikTok por vídeos sin usar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-android-auto-mala-noticia-google-maps-1435260'>La última actualización para Android Auto es una mala noticia para Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ultima-actualizacion-android-auto-mala-noticia-google-maps-1435260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/aviso-importante-usas-android-auto-no-instales-mejor-espera-3224952.jpg?tf=1200x' alt='La última actualización para Android Auto es una mala noticia para Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870'>Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/espana-sigue-manteniendo-teletexto-cuando-desaparecera-1434870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-sigue-manteniendo-teletexto-cuando-desaparecera-4281146.jpg?tf=1200x' alt='Por qué en España se sigue manteniendo el Teletexto y cuándo desaparecerá' />
     </a>
 </div>
 
