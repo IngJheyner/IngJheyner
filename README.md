@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/nintendo-switch-2-fabricante-filtro-consola-dice-ahora-invento-todo-1435400'>Nintendo Switch 2: el fabricante que filtró la consola dice ahora que se lo inventó todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/nintendo-switch-2-fabricante-filtro-consola-dice-ahora-invento-todo-1435400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4281987.jpg?tf=1200x' alt='Nintendo Switch 2: el fabricante que filtró la consola dice ahora que se lo inventó todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-podria-ir-yugular-honor-movil-plegable-delgado-mundo-1435323'>OnePlus podría ir a la yugular de Honor con el móvil plegable más delgado del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/oneplus-podria-ir-yugular-honor-movil-plegable-delgado-mundo-1435323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-open-apex-edition-4278051.jpg?tf=1200x' alt='OnePlus podría ir a la yugular de Honor con el móvil plegable más delgado del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-no-queme-1435387'>Ni en reposo ni apagado, el electrodoméstico que debes desenchufar para que no se queme</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-no-queme-1435387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/casa-llamas-4281982.jpg?tf=1200x' alt='Ni en reposo ni apagado, el electrodoméstico que debes desenchufar para que no se queme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ni-rojo-ni-morado-dorado-color-seguro-whatsapp-1435381'>Ni rojo ni morado o dorado, este es el color más seguro para tu WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/ni-rojo-ni-morado-dorado-color-seguro-whatsapp-1435381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-dorado-peligros-4281970.jpg?tf=1200x' alt='Ni rojo ni morado o dorado, este es el color más seguro para tu WhatsApp' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/zoltan-teszari-misterioso-fundador-digi-hombre-rostro-vive-oculto-bosque-1435368'>Zoltán Teszári, el misterioso fundador de DIGI: el hombre sin rostro que vive oculto en un bosque</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/zoltan-teszari-misterioso-fundador-digi-hombre-rostro-vive-oculto-bosque-1435368' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/zoltan-teszari-misterioso-fundador-digi-4281944.jpg?tf=1200x' alt='Zoltán Teszári, el misterioso fundador de DIGI: el hombre sin rostro que vive oculto en un bosque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cohete-new-glenn-blue-origin-jeff-bezos-no-volara-hoy-problema-tecnico-1435344'>El cohete New Glenn de Blue Origin y Jeff Bezos no volará hoy por un problema técnico</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cohete-new-glenn-blue-origin-jeff-bezos-no-volara-hoy-problema-tecnico-1435344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/blue-origin-suspende-lanzamiento-new-glenn-problema-subsistema-vehiculo-4281926.jpg?tf=1200x' alt='El cohete New Glenn de Blue Origin y Jeff Bezos no volará hoy por un problema técnico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-pasara-pc-14-octubre-decides-no-actualizar-windows-11-1435355'>Windows 10: qué le pasará a tu PC el 14 de octubre si decides no actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-pasara-pc-14-octubre-decides-no-actualizar-windows-11-1435355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-fin-soporte-4281939.jpg?tf=1200x' alt='Windows 10: qué le pasará a tu PC el 14 de octubre si decides no actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347'>Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número</a></h4>
-    <a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estafas-4266210.jpg?tf=1200x' alt='Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número' />
     </a>
 </div>
 
