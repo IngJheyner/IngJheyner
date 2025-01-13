@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-tarifas-2025-vas-pagar-eres-cliente-1435434'>DIGI confirma sus tarifas para 2025: esto es lo que vas a pagar si eres cliente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-tarifas-2025-vas-pagar-eres-cliente-1435434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-4282074.jpg?tf=1200x' alt='DIGI confirma sus tarifas para 2025: esto es lo que vas a pagar si eres cliente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ni-jazztel-ni-orange-digi-mantiene-corona-como-red-fibra-rapida-espana-1435407'>Ni Jazztel ni Orange: DIGI mantiene su corona como la red de fibra más rápida de España</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ni-jazztel-ni-orange-digi-mantiene-corona-como-red-fibra-rapida-espana-1435407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-velocidad-4281995.jpg?tf=1200x' alt='Ni Jazztel ni Orange: DIGI mantiene su corona como la red de fibra más rápida de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/nintendo-switch-2-fabricante-filtro-consola-dice-ahora-invento-todo-1435400'>Nintendo Switch 2: el fabricante que filtró la consola dice ahora que se lo inventó todo</a></h4>
     <a href='https://computerhoy.20minutos.es/nintendo-switch-2-fabricante-filtro-consola-dice-ahora-invento-todo-1435400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4281987.jpg?tf=1200x' alt='Nintendo Switch 2: el fabricante que filtró la consola dice ahora que se lo inventó todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-no-queme-1435387'>Ni en reposo ni apagado, el electrodoméstico que debes desenchufar para que no se queme</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-no-queme-1435387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/casa-llamas-4281982.jpg?tf=1200x' alt='Ni en reposo ni apagado, el electrodoméstico que debes desenchufar para que no se queme' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ni-rojo-ni-morado-dorado-color-seguro-whatsapp-1435381'>Ni rojo ni morado o dorado, este es el color más seguro para tu WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/ni-rojo-ni-morado-dorado-color-seguro-whatsapp-1435381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-dorado-peligros-4281970.jpg?tf=1200x' alt='Ni rojo ni morado o dorado, este es el color más seguro para tu WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zoltan-teszari-misterioso-fundador-digi-hombre-rostro-vive-oculto-bosque-1435368'>Zoltán Teszári, el misterioso fundador de DIGI: el hombre sin rostro que vive oculto en un bosque</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/zoltan-teszari-misterioso-fundador-digi-hombre-rostro-vive-oculto-bosque-1435368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/zoltan-teszari-misterioso-fundador-digi-4281944.jpg?tf=1200x' alt='Zoltán Teszári, el misterioso fundador de DIGI: el hombre sin rostro que vive oculto en un bosque' />
     </a>
 </div>
 
