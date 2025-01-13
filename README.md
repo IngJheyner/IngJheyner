@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/ni-nasa-ni-spacex-china-avanza-marte-estado-actual-mision-tripulada-1435335'>Ni NASA ni SpaceX: China avanza hacia Marte, y este es el estado actual de su misión tripulada </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/ni-nasa-ni-spacex-china-avanza-marte-estado-actual-mision-tripulada-1435335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-marte-4281938.jpg?tf=1200x' alt='Ni NASA ni SpaceX: China avanza hacia Marte, y este es el estado actual de su misión tripulada ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448'>Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-4282076.jpg?tf=1200x' alt='Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-1435500'>Cómo eliminar la nueva versión de Outlook para Windows que todo el mundo odia</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-1435500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-4282245.jpg?tf=1200x' alt='Cómo eliminar la nueva versión de Outlook para Windows que todo el mundo odia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-seres-humanos-fecha-singularidad-ia-1399601'>Los científicos estiman que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-seres-humanos-fecha-singularidad-ia-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/singularidad-ser-humano-4282193.jpg?tf=1200x' alt='Los científicos estiman que el ser humano alcanzará la singularidad en solo 21 años' />
     </a>
 </div>
 
