@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448'>Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-4282076.jpg?tf=1200x' alt='Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-durante-dos-anos-como-isla-fantasma-aparece-esfuma-dejar-rastro-1435396'>La NASA observa durante dos años como una isla fantasma aparece y se esfuma sin dejar rastro</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-durante-dos-anos-como-isla-fantasma-aparece-esfuma-dejar-rastro-1435396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/isla-4281990.jpg?tf=1200x' alt='La NASA observa durante dos años como una isla fantasma aparece y se esfuma sin dejar rastro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-1435369'>Ni El juego del calamar ni Shogun: Netflix tiene la serie asiática que todo el mundo adora</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-1435369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-4281940.jpg?tf=1200x' alt='Ni El juego del calamar ni Shogun: Netflix tiene la serie asiática que todo el mundo adora' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-seres-humanos-fecha-singularidad-ia-1399601'>Los científicos estiman que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-seres-humanos-fecha-singularidad-ia-1399601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/singularidad-ser-humano-4282193.jpg?tf=1200x' alt='Los científicos estiman que el ser humano alcanzará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-acaba-estrategias-union-europea-seguridad-gestion-datos-1435442'>Elon Musk acaba con las estrategias de la Unión Europea en seguridad y gestión de datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-acaba-estrategias-union-europea-seguridad-gestion-datos-1435442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-acaba-estrategias-union-europea-seguridad-gestion-datos-4282072.jpg?tf=1200x' alt='Elon Musk acaba con las estrategias de la Unión Europea en seguridad y gestión de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-presentacion-16-enero-2025-1435528'>Nintendo Switch 2 se presentará esta semana, ¡cancela tus citas!</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-presentacion-16-enero-2025-1435528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-presentara-semana-cancela-citas-4282202.jpg?tf=1200x' alt='Nintendo Switch 2 se presentará esta semana, ¡cancela tus citas!' />
     </a>
 </div>
 
