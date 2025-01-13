@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/no-me-decido-oneplus-13r-me-gusta-ser-bestia-potencia-zoom-ia-1434135'>No me decido sobre si el OnePlus 13R me gusta más por ser una bestia en potencia o por su zoom con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/no-me-decido-oneplus-13r-me-gusta-ser-bestia-potencia-zoom-ia-1434135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277647.jpg?tf=1200x' alt='No me decido sobre si el OnePlus 13R me gusta más por ser una bestia en potencia o por su zoom con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/6-formas-tecnologia-ha-cambiado-como-hacemos-deporte-1430346'>6 formas en las que la tecnología ha cambiado cómo hacemos deporte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/6-formas-tecnologia-ha-cambiado-como-hacemos-deporte-1430346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/deporte-tecnologia-4273910.jpg?tf=1200x' alt='6 formas en las que la tecnología ha cambiado cómo hacemos deporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853'>ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-4281126.jpg?tf=1200x' alt='ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-expertos-seguridad-confirman-app-estafadores-1434588'>Ni WhatsApp ni Telegram, expertos en seguridad confirman que esta app es el nuevo objetivo de los estafadores</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-expertos-seguridad-confirman-app-estafadores-1434588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-discord-4280708.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, expertos en seguridad confirman que esta app es el nuevo objetivo de los estafadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-1434580'>Este es mi truco para saber si una llamada es SPAM antes de cogerla y bloquear el número sin contestar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mi-truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-1434580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mi-truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-4280701.jpg?tf=1200x' alt='Este es mi truco para saber si una llamada es SPAM antes de cogerla y bloquear el número sin contestar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/mejor-momento-ver-marte-simple-vista-puedes-encontrarlo-1435296'>Este es el mejor momento en dos años para ver Marte a simple vista: así puedes encontrarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/mejor-momento-ver-marte-simple-vista-puedes-encontrarlo-1435296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-momento-dos-anos-ver-marte-simple-vista-puedes-encontrarlo-4281848.jpg?tf=1200x' alt='Este es el mejor momento en dos años para ver Marte a simple vista: así puedes encontrarlo' />
     </a>
 </div>
 
