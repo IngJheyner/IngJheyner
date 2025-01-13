@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/mejor-momento-ver-marte-simple-vista-puedes-encontrarlo-1435296'>Este es el mejor momento en dos años para ver Marte a simple vista: así puedes encontrarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/mejor-momento-ver-marte-simple-vista-puedes-encontrarlo-1435296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-momento-dos-anos-ver-marte-simple-vista-puedes-encontrarlo-4281848.jpg?tf=1200x' alt='Este es el mejor momento en dos años para ver Marte a simple vista: así puedes encontrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-bee-ai-nuevo-wearable-ia-escucha-todo-dices-24-horas-dia-1435290'>Este nuevo wearable con IA escucha todo lo que dices, las 24 horas del día</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-bee-ai-nuevo-wearable-ia-escucha-todo-dices-24-horas-dia-1435290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevo-wearable-ia-graba-todo-dices-24-horas-dia-4281840.jpg?tf=1200x' alt='Este nuevo wearable con IA escucha todo lo que dices, las 24 horas del día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-prime-cierra-prueba-primero-paga-despues-1435280'>Adiós a una de las ventajas de Amazon Prime, a partir del 31 de enero</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-prime-cierra-prueba-primero-paga-despues-1435280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-ventajas-amazon-prime-partir-31-enero-4281804.jpg?tf=1200x' alt='Adiós a una de las ventajas de Amazon Prime, a partir del 31 de enero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264'>Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-comienza-eliminar-acciones-sugeridas-windows-11-1435264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4281731.jpg?tf=1200x' alt='Microsoft comienza a eliminar las "acciones sugeridas" de Windows 11' />
     </a>
 </div>
 
