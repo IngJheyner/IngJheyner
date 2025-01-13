@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347'>Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número</a></h4>
+    <a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estafas-4266210.jpg?tf=1200x' alt='Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-suelta-bomba-garmin-fenix-8-tiene-rebaja-ambiciosa-ahora-dos-tamanos-1435309'>Amazon suelta la bomba: el Garmin Fenix 8 tiene la rebaja más ambiciosa hasta ahora, y en sus dos tamaños</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-suelta-bomba-garmin-fenix-8-tiene-rebaja-ambiciosa-ahora-dos-tamanos-1435309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4246172.jpg?tf=1200x' alt='Amazon suelta la bomba: el Garmin Fenix 8 tiene la rebaja más ambiciosa hasta ahora, y en sus dos tamaños' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853'>ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-4281126.jpg?tf=1200x' alt='ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mi-movil-comenzo-hacer-cosas-raras-sorpresa-me-encontre-abrir-aplicacion-banco-1434295'>Mi móvil comenzó a hacer cosas raras, la sorpresa me la encontré al abrir la aplicación del banco</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/mi-movil-comenzo-hacer-cosas-raras-sorpresa-me-encontre-abrir-aplicacion-banco-1434295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mi-movil-comenzo-hacer-cosas-raras-sorpresa-me-encontre-abrir-aplicacion-banco-4280125.jpg?tf=1200x' alt='Mi móvil comenzó a hacer cosas raras, la sorpresa me la encontré al abrir la aplicación del banco' />
     </a>
 </div>
 
