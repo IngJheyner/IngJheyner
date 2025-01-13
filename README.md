@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-tarifas-2025-vas-pagar-eres-cliente-1435434'>DIGI confirma sus tarifas para 2025: esto es lo que vas a pagar si eres cliente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-tarifas-2025-vas-pagar-eres-cliente-1435434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-4282074.jpg?tf=1200x' alt='DIGI confirma sus tarifas para 2025: esto es lo que vas a pagar si eres cliente' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405'>Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-jazztel-ni-orange-digi-mantiene-corona-como-red-fibra-rapida-espana-1435407'>Ni Jazztel ni Orange: DIGI mantiene su corona como la red de fibra más rápida de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-jazztel-ni-orange-digi-mantiene-corona-como-red-fibra-rapida-espana-1435407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-velocidad-4281995.jpg?tf=1200x' alt='Ni Jazztel ni Orange: DIGI mantiene su corona como la red de fibra más rápida de España' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-air-iphone-delgado-historia-llegaria-septiembre-1435424'>El iPhone Air, el iPhone más delgado de la historia, llegaría en septiembre</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-air-iphone-delgado-historia-llegaria-septiembre-1435424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-air-4282060.jpg?tf=1200x' alt='El iPhone Air, el iPhone más delgado de la historia, llegaría en septiembre' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/nintendo-switch-2-fabricante-filtro-consola-dice-ahora-invento-todo-1435400'>Nintendo Switch 2: el fabricante que filtró la consola dice ahora que se lo inventó todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/nintendo-switch-2-fabricante-filtro-consola-dice-ahora-invento-todo-1435400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4281987.jpg?tf=1200x' alt='Nintendo Switch 2: el fabricante que filtró la consola dice ahora que se lo inventó todo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-iphone-16e-filtradas-caracteristicas-precio-fecha-lanzamiento-1435416'>iPhone SE o iPhone 16E: filtradas sus características, precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-iphone-16e-filtradas-caracteristicas-precio-fecha-lanzamiento-1435416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='iPhone SE o iPhone 16E: filtradas sus características, precio y fecha de lanzamiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/oneplus-podria-ir-yugular-honor-movil-plegable-delgado-mundo-1435323'>OnePlus podría ir a la yugular de Honor con el móvil plegable más delgado del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/oneplus-podria-ir-yugular-honor-movil-plegable-delgado-mundo-1435323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-open-apex-edition-4278051.jpg?tf=1200x' alt='OnePlus podría ir a la yugular de Honor con el móvil plegable más delgado del mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/extrano-error-waze-afectando-muchos-usuarios-usar-reportes-trafico-1435436'>Un extraño error de Waze está afectando a muchos usuarios al usar los reportes de tráfico</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/extrano-error-waze-afectando-muchos-usuarios-usar-reportes-trafico-1435436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-waze-4282031.jpg?tf=1200x' alt='Un extraño error de Waze está afectando a muchos usuarios al usar los reportes de tráfico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-no-queme-1435387'>Ni en reposo ni apagado, el electrodoméstico que debes desenchufar para que no se queme</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-no-queme-1435387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/casa-llamas-4281982.jpg?tf=1200x' alt='Ni en reposo ni apagado, el electrodoméstico que debes desenchufar para que no se queme' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-dos-estafas-estan-haciendo-estragos-2025-1435349'>WhatsApp: las dos estafas que están haciendo estragos en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-dos-estafas-estan-haciendo-estragos-2025-1435349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-dos-estafas-estan-haciendo-estragos-2025-4281899.jpg?tf=1200x' alt='WhatsApp: las dos estafas que están haciendo estragos en 2025' />
     </a>
 </div>
 
