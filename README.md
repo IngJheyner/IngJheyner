@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-1435439'>Adiós a las llamadas Spam: el sencillo truco de la Policía para acabar con ellas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-1435439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-4282052.jpg?tf=1200x' alt='Adiós a las llamadas Spam: el sencillo truco de la Policía para acabar con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/consiguen-jugar-tetris-pdf-ahora-tambien-puedes-hacerlo-1435474'>Consiguen jugar al Tetris en un PDF, y ahora tú también puedes hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/consiguen-jugar-tetris-pdf-ahora-tambien-puedes-hacerlo-1435474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/consiguen-jugar-tetris-pdf-ahora-tambien-puedes-hacerlo-4282155.jpg?tf=1200x' alt='Consiguen jugar al Tetris en un PDF, y ahora tú también puedes hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precio-tarifas-estas-son-mejores-alternativas-digi-lowi-1435443'>Movistar sube el precio de sus tarifas, estas son las mejores alternativas: DIGI, Lowi y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precio-tarifas-estas-son-mejores-alternativas-digi-lowi-1435443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='Movistar sube el precio de sus tarifas, estas son las mejores alternativas: DIGI, Lowi y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405'>Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-air-iphone-delgado-historia-llegaria-septiembre-1435424'>El iPhone Air, el iPhone más delgado de la historia, llegaría en septiembre</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-air-iphone-delgado-historia-llegaria-septiembre-1435424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-air-4282060.jpg?tf=1200x' alt='El iPhone Air, el iPhone más delgado de la historia, llegaría en septiembre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-iphone-16e-filtradas-caracteristicas-precio-fecha-lanzamiento-1435416'>iPhone SE o iPhone 16E: filtradas sus características, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-iphone-16e-filtradas-caracteristicas-precio-fecha-lanzamiento-1435416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='iPhone SE o iPhone 16E: filtradas sus características, precio y fecha de lanzamiento' />
     </a>
 </div>
 
