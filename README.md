@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cohete-new-glenn-blue-origin-jeff-bezos-no-volara-hoy-problema-tecnico-1435344'>El cohete New Glenn de Blue Origin y Jeff Bezos no volará hoy por un problema técnico</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cohete-new-glenn-blue-origin-jeff-bezos-no-volara-hoy-problema-tecnico-1435344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/blue-origin-suspende-lanzamiento-new-glenn-problema-subsistema-vehiculo-4281926.jpg?tf=1200x' alt='El cohete New Glenn de Blue Origin y Jeff Bezos no volará hoy por un problema técnico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-pasara-pc-14-octubre-decides-no-actualizar-windows-11-1435355'>Windows 10: qué le pasará a tu PC el 14 de octubre si decides no actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-pasara-pc-14-octubre-decides-no-actualizar-windows-11-1435355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-fin-soporte-4281939.jpg?tf=1200x' alt='Windows 10: qué le pasará a tu PC el 14 de octubre si decides no actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347'>Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número</a></h4>
     <a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estafas-4266210.jpg?tf=1200x' alt='Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/no-me-decido-oneplus-13r-me-gusta-ser-bestia-potencia-zoom-ia-1434135'>No me decido sobre si el OnePlus 13R me gusta más por ser una bestia en potencia o por su zoom con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/no-me-decido-oneplus-13r-me-gusta-ser-bestia-potencia-zoom-ia-1434135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277647.jpg?tf=1200x' alt='No me decido sobre si el OnePlus 13R me gusta más por ser una bestia en potencia o por su zoom con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/6-formas-tecnologia-ha-cambiado-como-hacemos-deporte-1430346'>6 formas en las que la tecnología ha cambiado cómo hacemos deporte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/6-formas-tecnologia-ha-cambiado-como-hacemos-deporte-1430346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/deporte-tecnologia-4273910.jpg?tf=1200x' alt='6 formas en las que la tecnología ha cambiado cómo hacemos deporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853'>ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-4281126.jpg?tf=1200x' alt='ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra' />
     </a>
 </div>
 
