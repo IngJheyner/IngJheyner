@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-pone-facil-nunca-actualizar-windows-11-1435565'>Microsoft te pone más fácil que nunca actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-te-pone-facil-nunca-actualizar-windows-11-1435565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft te pone más fácil que nunca actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-arranca-ano-nuevos-canales-gratis-conoce-novedades-1435564'>TDTChannels arranca el año con nuevos canales gratis: conoce sus novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-arranca-ano-nuevos-canales-gratis-conoce-novedades-1435564' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels arranca el año con nuevos canales gratis: conoce sus novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-avisa-voice-hacking-peligrosa-tecnica-clona-voz-estafas-telefonicas-1435562'>La Policía Nacional avisa sobre el “voice hacking”: la peligrosa técnica que clona tu voz para estafas telefónicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-avisa-voice-hacking-peligrosa-tecnica-clona-voz-estafas-telefonicas-1435562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-voz-4282289.jpg?tf=1200x' alt='La Policía Nacional avisa sobre el “voice hacking”: la peligrosa técnica que clona tu voz para estafas telefónicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/ni-nasa-ni-spacex-china-avanza-marte-estado-actual-mision-tripulada-1435335'>Ni NASA ni SpaceX: China avanza hacia Marte, y este es el estado actual de su misión tripulada </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/ni-nasa-ni-spacex-china-avanza-marte-estado-actual-mision-tripulada-1435335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-marte-4281938.jpg?tf=1200x' alt='Ni NASA ni SpaceX: China avanza hacia Marte, y este es el estado actual de su misión tripulada ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448'>Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-4282076.jpg?tf=1200x' alt='Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-durante-dos-anos-como-isla-fantasma-aparece-esfuma-dejar-rastro-1435396'>La NASA observa durante dos años como una isla fantasma aparece y se esfuma sin dejar rastro</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-observa-durante-dos-anos-como-isla-fantasma-aparece-esfuma-dejar-rastro-1435396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/isla-4281990.jpg?tf=1200x' alt='La NASA observa durante dos años como una isla fantasma aparece y se esfuma sin dejar rastro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-1435369'>Ni El juego del calamar ni Shogun: Netflix tiene la serie asiática que todo el mundo adora</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-1435369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-4281940.jpg?tf=1200x' alt='Ni El juego del calamar ni Shogun: Netflix tiene la serie asiática que todo el mundo adora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-1435500'>Cómo eliminar la nueva versión de Outlook para Windows que todo el mundo odia</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-1435500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-4282245.jpg?tf=1200x' alt='Cómo eliminar la nueva versión de Outlook para Windows que todo el mundo odia' />
     </a>
 </div>
 
