@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/adios-guias-ia-google-te-ofrece-pistas-juego-solo-tocar-pantalla-1435577'>Adiós a las guías: la IA de Google te ofrece pistas sobre un juego, con solo tocar la pantalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/adios-guias-ia-google-te-ofrece-pistas-juego-solo-tocar-pantalla-1435577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-guias-ia-google-te-ofrece-pistas-juego-solo-tocar-pantalla-4282284.jpg?tf=1200x' alt='Adiós a las guías: la IA de Google te ofrece pistas sobre un juego, con solo tocar la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-pone-facil-nunca-actualizar-windows-11-1435565'>Microsoft te pone más fácil que nunca actualizar a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-te-pone-facil-nunca-actualizar-windows-11-1435565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft te pone más fácil que nunca actualizar a Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/ni-nasa-ni-spacex-china-avanza-marte-estado-actual-mision-tripulada-1435335'>Ni NASA ni SpaceX: China avanza hacia Marte, y este es el estado actual de su misión tripulada </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/ni-nasa-ni-spacex-china-avanza-marte-estado-actual-mision-tripulada-1435335' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-marte-4281938.jpg?tf=1200x' alt='Ni NASA ni SpaceX: China avanza hacia Marte, y este es el estado actual de su misión tripulada ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448'>Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-1435448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-grok-ni-copilot-cosas-ia-incapaz-dibujar-bien-sucede-4282076.jpg?tf=1200x' alt='Ni Grok ni Copilot: cosas que la IA es incapaz de dibujar bien, y por qué sucede' />
     </a>
 </div>
 
