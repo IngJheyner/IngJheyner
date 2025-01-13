@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-presentacion-16-enero-2025-1435528'>Nintendo Switch 2 se presentará esta semana, ¡cancela tus citas!</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-presentacion-16-enero-2025-1435528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-presentara-semana-cancela-citas-4282202.jpg?tf=1200x' alt='Nintendo Switch 2 se presentará esta semana, ¡cancela tus citas!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/truco-seguir-viendo-gratis-disney-channel-espana-smart-tv-1435376'>El truco para seguir viendo gratis Disney Channel España en tu Smart TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/truco-seguir-viendo-gratis-disney-channel-espana-smart-tv-1435376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-channel-4281977.jpg?tf=1200x' alt='El truco para seguir viendo gratis Disney Channel España en tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/camara-telefono-movil-espia-alertas-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/camara-telefono-movil-espia-alertas-1268008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/elon-musk-tenia-razon-meta-problemas-revelarse-robo-contenidos-ilegalmente-entrenar-ia-1435131'>Elon Musk tenía razón: Meta en problemas tras revelarse que "robó" contenidos ilegalmente para entrenar su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/elon-musk-tenia-razon-meta-problemas-revelarse-robo-contenidos-ilegalmente-entrenar-ia-1435131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-tenia-razon-meta-problemas-revelarse-robo-contenidos-ilegalmente-entrenar-ia-4281539.jpg?tf=1200x' alt='Elon Musk tenía razón: Meta en problemas tras revelarse que "robó" contenidos ilegalmente para entrenar su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-1435439'>Adiós a las llamadas Spam: el sencillo truco de la Policía para acabar con ellas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-1435439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-4282052.jpg?tf=1200x' alt='Adiós a las llamadas Spam: el sencillo truco de la Policía para acabar con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/consiguen-jugar-tetris-pdf-ahora-tambien-puedes-hacerlo-1435474'>Consiguen jugar al Tetris en un PDF, y ahora tú también puedes hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/consiguen-jugar-tetris-pdf-ahora-tambien-puedes-hacerlo-1435474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/consiguen-jugar-tetris-pdf-ahora-tambien-puedes-hacerlo-4282155.jpg?tf=1200x' alt='Consiguen jugar al Tetris en un PDF, y ahora tú también puedes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precio-tarifas-estas-son-mejores-alternativas-digi-lowi-1435443'>Movistar sube el precio de sus tarifas, estas son las mejores alternativas: DIGI, Lowi y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precio-tarifas-estas-son-mejores-alternativas-digi-lowi-1435443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='Movistar sube el precio de sus tarifas, estas son las mejores alternativas: DIGI, Lowi y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-movil-1402112'>Adiós a las estafas por WhatsApp: desactiva esta función ya de la aplicación (viene activada por defecto)</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-movil-1402112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/desactiva-funcion-whatsapp-estafas-4282130.jpg?tf=1200x' alt='Adiós a las estafas por WhatsApp: desactiva esta función ya de la aplicación (viene activada por defecto)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405'>Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no' />
     </a>
 </div>
 
