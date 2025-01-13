@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853'>ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-tan-listo-como-piensas-sencillo-ejemplo-demuestra-1434853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-4281126.jpg?tf=1200x' alt='ChatGPT no es tan listo como piensas: este sencillo ejemplo lo demuestra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mi-movil-comenzo-hacer-cosas-raras-sorpresa-me-encontre-abrir-aplicacion-banco-1434295'>Mi móvil comenzó a hacer cosas raras, la sorpresa me la encontré al abrir la aplicación del banco</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/mi-movil-comenzo-hacer-cosas-raras-sorpresa-me-encontre-abrir-aplicacion-banco-1434295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mi-movil-comenzo-hacer-cosas-raras-sorpresa-me-encontre-abrir-aplicacion-banco-4280125.jpg?tf=1200x' alt='Mi móvil comenzó a hacer cosas raras, la sorpresa me la encontré al abrir la aplicación del banco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-expertos-seguridad-confirman-app-estafadores-1434588'>Ni WhatsApp ni Telegram, expertos en seguridad confirman que esta app es el nuevo objetivo de los estafadores</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-whatsapp-ni-telegram-expertos-seguridad-confirman-app-estafadores-1434588' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-discord-4280708.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, expertos en seguridad confirman que esta app es el nuevo objetivo de los estafadores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/mejor-momento-ver-marte-simple-vista-puedes-encontrarlo-1435296'>Este es el mejor momento en dos años para ver Marte a simple vista: así puedes encontrarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/mejor-momento-ver-marte-simple-vista-puedes-encontrarlo-1435296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-momento-dos-anos-ver-marte-simple-vista-puedes-encontrarlo-4281848.jpg?tf=1200x' alt='Este es el mejor momento en dos años para ver Marte a simple vista: así puedes encontrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pulsera-bee-ai-nuevo-wearable-ia-escucha-todo-dices-24-horas-dia-1435290'>Este nuevo wearable con IA escucha todo lo que dices, las 24 horas del día</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pulsera-bee-ai-nuevo-wearable-ia-escucha-todo-dices-24-horas-dia-1435290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevo-wearable-ia-graba-todo-dices-24-horas-dia-4281840.jpg?tf=1200x' alt='Este nuevo wearable con IA escucha todo lo que dices, las 24 horas del día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejor-futbolista-espanol-chatgpt-comete-error-ia-1435285'>El mejor futbolista español es del F.C. Barcelona, según ChatGPT, pero comete un error que muestra la debilidad de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejor-futbolista-espanol-chatgpt-comete-error-ia-1435285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mejor-futbolista-espanol-historia-fc-barcelona-chatgpt-pero-comete-error-muestra-debilidad-ia-4281813.jpg?tf=1200x' alt='El mejor futbolista español es del F.C. Barcelona, según ChatGPT, pero comete un error que muestra la debilidad de la IA' />
     </a>
 </div>
 
