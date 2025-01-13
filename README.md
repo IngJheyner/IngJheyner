@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precio-tarifas-estas-son-mejores-alternativas-digi-lowi-1435443'>Movistar sube el precio de sus tarifas, estas son las mejores alternativas: DIGI, Lowi y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-sube-precio-tarifas-estas-son-mejores-alternativas-digi-lowi-1435443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/movistar-4265982.jpg?tf=1200x' alt='Movistar sube el precio de sus tarifas, estas son las mejores alternativas: DIGI, Lowi y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-movil-1402112'>Adiós a las estafas por WhatsApp: desactiva esta función ya de la aplicación (viene activada por defecto)</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-desactivar-evitar-muchas-estafas-movil-1402112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/desactiva-funcion-whatsapp-estafas-4282130.jpg?tf=1200x' alt='Adiós a las estafas por WhatsApp: desactiva esta función ya de la aplicación (viene activada por defecto)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405'>Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tienes-windows-10-microsoft-te-instalara-aplicacion-te-guste-no-1435405' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/final-soporte-windows-10-4259451.jpg?tf=1200x' alt='Si tienes Windows 10 Microsoft te instalará esta aplicación, te guste o no' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-iphone-16e-filtradas-caracteristicas-precio-fecha-lanzamiento-1435416'>iPhone SE o iPhone 16E: filtradas sus características, precio y fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iphone-iphone-16e-filtradas-caracteristicas-precio-fecha-lanzamiento-1435416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='iPhone SE o iPhone 16E: filtradas sus características, precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/extrano-error-waze-afectando-muchos-usuarios-usar-reportes-trafico-1435436'>Un extraño error de Waze está afectando a muchos usuarios al usar los reportes de tráfico</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/extrano-error-waze-afectando-muchos-usuarios-usar-reportes-trafico-1435436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-waze-4282031.jpg?tf=1200x' alt='Un extraño error de Waze está afectando a muchos usuarios al usar los reportes de tráfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-dos-estafas-estan-haciendo-estragos-2025-1435349'>WhatsApp: las dos estafas que están haciendo estragos en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-dos-estafas-estan-haciendo-estragos-2025-1435349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-dos-estafas-estan-haciendo-estragos-2025-4281899.jpg?tf=1200x' alt='WhatsApp: las dos estafas que están haciendo estragos en 2025' />
     </a>
 </div>
 
