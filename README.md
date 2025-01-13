@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ni-rojo-ni-morado-dorado-color-seguro-whatsapp-1435381'>Ni rojo ni morado o dorado, este es el color más seguro para tu WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/ni-rojo-ni-morado-dorado-color-seguro-whatsapp-1435381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-dorado-peligros-4281970.jpg?tf=1200x' alt='Ni rojo ni morado o dorado, este es el color más seguro para tu WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/zoltan-teszari-misterioso-fundador-digi-hombre-rostro-vive-oculto-bosque-1435368'>Zoltán Teszári, el misterioso fundador de DIGI: el hombre sin rostro que vive oculto en un bosque</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/zoltan-teszari-misterioso-fundador-digi-hombre-rostro-vive-oculto-bosque-1435368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/zoltan-teszari-misterioso-fundador-digi-4281944.jpg?tf=1200x' alt='Zoltán Teszári, el misterioso fundador de DIGI: el hombre sin rostro que vive oculto en un bosque' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/cohete-new-glenn-blue-origin-jeff-bezos-no-volara-hoy-problema-tecnico-1435344'>El cohete New Glenn de Blue Origin y Jeff Bezos no volará hoy por un problema técnico</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/cohete-new-glenn-blue-origin-jeff-bezos-no-volara-hoy-problema-tecnico-1435344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/blue-origin-suspende-lanzamiento-new-glenn-problema-subsistema-vehiculo-4281926.jpg?tf=1200x' alt='El cohete New Glenn de Blue Origin y Jeff Bezos no volará hoy por un problema técnico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347'>Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número</a></h4>
     <a href='https://computerhoy.20minutos.es/ni-leerlo-ni-guardarlo-correo-whatsapp-pueden-clonarte-numero-1435347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/whatsapp-estafas-4266210.jpg?tf=1200x' alt='Ni leerlo ni guardarlo, con este correo de WhatsApp pueden clonarte el número' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-suelta-bomba-garmin-fenix-8-tiene-rebaja-ambiciosa-ahora-dos-tamanos-1435309'>Amazon suelta la bomba: el Garmin Fenix 8 tiene la rebaja más ambiciosa hasta ahora, y en sus dos tamaños</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-suelta-bomba-garmin-fenix-8-tiene-rebaja-ambiciosa-ahora-dos-tamanos-1435309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/garmin-fenix-8-4246172.jpg?tf=1200x' alt='Amazon suelta la bomba: el Garmin Fenix 8 tiene la rebaja más ambiciosa hasta ahora, y en sus dos tamaños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/no-me-decido-oneplus-13r-me-gusta-ser-bestia-potencia-zoom-ia-1434135'>No me decido sobre si el OnePlus 13R me gusta más por ser una bestia en potencia o por su zoom con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/no-me-decido-oneplus-13r-me-gusta-ser-bestia-potencia-zoom-ia-1434135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/oneplus-13r-4277647.jpg?tf=1200x' alt='No me decido sobre si el OnePlus 13R me gusta más por ser una bestia en potencia o por su zoom con IA' />
     </a>
 </div>
 
