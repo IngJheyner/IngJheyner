@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-1435369'>Ni El juego del calamar ni Shogun: Netflix tiene la serie asiática que todo el mundo adora</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-1435369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-juego-calamar-ni-shogun-netflix-tiene-serie-asiatica-todo-mundo-adora-4281940.jpg?tf=1200x' alt='Ni El juego del calamar ni Shogun: Netflix tiene la serie asiática que todo el mundo adora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-1435500'>Cómo eliminar la nueva versión de Outlook para Windows que todo el mundo odia</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-1435500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-eliminar-nueva-version-outlook-windows-todo-mundo-odia-4282245.jpg?tf=1200x' alt='Cómo eliminar la nueva versión de Outlook para Windows que todo el mundo odia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-seres-humanos-fecha-singularidad-ia-1399601'>Los científicos estiman que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-seres-humanos-fecha-singularidad-ia-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/singularidad-ser-humano-4282193.jpg?tf=1200x' alt='Los científicos estiman que el ser humano alcanzará la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-acaba-estrategias-union-europea-seguridad-gestion-datos-1435442'>Elon Musk acaba con las estrategias de la Unión Europea en seguridad y gestión de datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-acaba-estrategias-union-europea-seguridad-gestion-datos-1435442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-acaba-estrategias-union-europea-seguridad-gestion-datos-4282072.jpg?tf=1200x' alt='Elon Musk acaba con las estrategias de la Unión Europea en seguridad y gestión de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-presentacion-16-enero-2025-1435528'>Nintendo Switch 2 se presentará esta semana, ¡cancela tus citas!</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-presentacion-16-enero-2025-1435528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-presentara-semana-cancela-citas-4282202.jpg?tf=1200x' alt='Nintendo Switch 2 se presentará esta semana, ¡cancela tus citas!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/truco-seguir-viendo-gratis-disney-channel-espana-smart-tv-1435376'>El truco para seguir viendo gratis Disney Channel España en tu Smart TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/truco-seguir-viendo-gratis-disney-channel-espana-smart-tv-1435376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/disney-channel-4281977.jpg?tf=1200x' alt='El truco para seguir viendo gratis Disney Channel España en tu Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/camara-telefono-movil-espia-alertas-1268008'>Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/camara-telefono-movil-espia-alertas-1268008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/espiar-movil-3686040.jpg?tf=1200x' alt='Así es el espionaje a través de la cámara del teléfono móvil: 4 señales que podrían avisarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/elon-musk-tenia-razon-meta-problemas-revelarse-robo-contenidos-ilegalmente-entrenar-ia-1435131'>Elon Musk tenía razón: Meta en problemas tras revelarse que "robó" contenidos ilegalmente para entrenar su IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/elon-musk-tenia-razon-meta-problemas-revelarse-robo-contenidos-ilegalmente-entrenar-ia-1435131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-tenia-razon-meta-problemas-revelarse-robo-contenidos-ilegalmente-entrenar-ia-4281539.jpg?tf=1200x' alt='Elon Musk tenía razón: Meta en problemas tras revelarse que "robó" contenidos ilegalmente para entrenar su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-1435439'>Adiós a las llamadas Spam: el sencillo truco de la Policía para acabar con ellas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-1435439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-llamadas-spam-sencillo-truco-policia-acabar-ellas-4282052.jpg?tf=1200x' alt='Adiós a las llamadas Spam: el sencillo truco de la Policía para acabar con ellas' />
     </a>
 </div>
 
