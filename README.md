@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-ver-10000-canales-gratis-iptv-movil-android-1435440'>Así es como puedes ver más de 10.000 canales gratis de IPTV en tu móvil Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-ver-10000-canales-gratis-iptv-movil-android-1435440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-iptv-4282157.jpg?tf=1200x' alt='Así es como puedes ver más de 10.000 canales gratis de IPTV en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aria-lyrica-robots-compania-ia-puedes-poner-cara-quieras-1435591'>Aria y Lyrica son los primeros robots de compañía con IA, a los que puedes poner la cara que quieras</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aria-lyrica-robots-compania-ia-puedes-poner-cara-quieras-1435591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1736812355234-4282332.jpg?tf=1200x' alt='Aria y Lyrica son los primeros robots de compañía con IA, a los que puedes poner la cara que quieras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/estafas-llegan-waze-google-maps-como-puedes-evitarlas-1435459'>Las estafas llegan a Waze y Google Maps: así es como puedes evitarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/estafas-llegan-waze-google-maps-como-puedes-evitarlas-1435459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-google-maps-waze-4282110.jpg?tf=1200x' alt='Las estafas llegan a Waze y Google Maps: así es como puedes evitarlas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/adios-guias-ia-google-te-ofrece-pistas-juego-solo-tocar-pantalla-1435577'>Adiós a las guías: la IA de Google te ofrece pistas sobre un juego, con solo tocar la pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/adios-guias-ia-google-te-ofrece-pistas-juego-solo-tocar-pantalla-1435577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-guias-ia-google-te-ofrece-pistas-juego-solo-tocar-pantalla-4282284.jpg?tf=1200x' alt='Adiós a las guías: la IA de Google te ofrece pistas sobre un juego, con solo tocar la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-pone-facil-nunca-actualizar-windows-11-1435565'>Microsoft te pone más fácil que nunca actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-te-pone-facil-nunca-actualizar-windows-11-1435565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/actualizacion-windows-11-4201065.jpg?tf=1200x' alt='Microsoft te pone más fácil que nunca actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-arranca-ano-nuevos-canales-gratis-conoce-novedades-1435564'>TDTChannels arranca el año con nuevos canales gratis: conoce sus novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-arranca-ano-nuevos-canales-gratis-conoce-novedades-1435564' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels arranca el año con nuevos canales gratis: conoce sus novedades' />
     </a>
 </div>
 
