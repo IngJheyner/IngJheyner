@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-chatgpt-riesgo-ia-puede-volverse-impredecible-1435716'>Uno de los creadores de ChatGPT, sobre el riesgo de la IA: "Puede volverse impredecible"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/creadores-chatgpt-riesgo-ia-puede-volverse-impredecible-1435716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/creadores-chatgpt-riesgo-ia-puede-volverse-impredecible-4282559.jpg?tf=1200x' alt='Uno de los creadores de ChatGPT, sobre el riesgo de la IA: "Puede volverse impredecible"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-1435639'>WhatsApp trabaja en ofrecer amigos virtuales, por si te sientes solo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-1435639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-4282398.jpg?tf=1200x' alt='WhatsApp trabaja en ofrecer amigos virtuales, por si te sientes solo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704'>Lectores de ebooks compatibles con eBiblio: estos son los mejores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kobo-libra-colour-4250413.jpg?tf=1200x' alt='Lectores de ebooks compatibles con eBiblio: estos son los mejores' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-fotos-temporales-veces-quieras-1435794'>WhatsApp: cómo ver las fotos temporales las veces que quieras</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-fotos-temporales-veces-quieras-1435794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-como-ver-fotos-temporales-veces-quieras-4282767.jpg?tf=1200x' alt='WhatsApp: cómo ver las fotos temporales las veces que quieras' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-conseguir-router-wifi-6-fibra-digi-1435738'>Cómo conseguir un router WiFi 6 con la fibra de DIGI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-conseguir-router-wifi-6-fibra-digi-1435738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-desvela-truco-mejorar-cobertura-red-movil-funciona-4260776.jpg?tf=1200x' alt='Cómo conseguir un router WiFi 6 con la fibra de DIGI' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/tipos-diferencias-hdmi-smart-tv-1258014'>Este HDMI de tu televisor es diferente al resto y seguramente lo estés utilizando mal</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/tipos-diferencias-hdmi-smart-tv-1258014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hdmi-equivocado-4282614.jpg?tf=1200x' alt='Este HDMI de tu televisor es diferente al resto y seguramente lo estés utilizando mal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-hace-pasar-familiares-amigos-1435665'>La Policía advierte: así es la estafa que se hace pasar por familiares y amigos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-hace-pasar-familiares-amigos-1435665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-advierte-estafa-hace-pasar-familiares-amigos-4282409.jpg?tf=1200x' alt='La Policía advierte: así es la estafa que se hace pasar por familiares y amigos' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ubicacion-apps-populares-como-candy-crush-microsoft-365-1435820'>Tu ubicación al descubierto: apps populares como Candy Crush y Microsoft 365, en jaque</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ubicacion-apps-populares-como-candy-crush-microsoft-365-1435820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ubicacion-hackeada-4282755.jpg?tf=1200x' alt='Tu ubicación al descubierto: apps populares como Candy Crush y Microsoft 365, en jaque' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tecnica-matematica-consigue-abrir-caja-negra-toma-decisiones-ia-1435759'>Una técnica matemática consigue abrir la caja negra de la toma de decisiones de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tecnica-matematica-consigue-abrir-caja-negra-toma-decisiones-ia-1435759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tecnica-matematica-consigue-abrir-caja-negra-toma-decisiones-ia-4282660.jpg?tf=1200x' alt='Una técnica matemática consigue abrir la caja negra de la toma de decisiones de la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-switch-2-producto-nintendo-todo-mundo-quiere-pone-venta-marzo-1435761'>Olvídate de Switch 2, el producto de Nintendo que todo el mundo quiere se pone a la venta en marzo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-switch-2-producto-nintendo-todo-mundo-quiere-pone-venta-marzo-1435761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/despertador-nintendo-4282623.jpg?tf=1200x' alt='Olvídate de Switch 2, el producto de Nintendo que todo el mundo quiere se pone a la venta en marzo' />
     </a>
 </div>
 
