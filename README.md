@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/medicos-ponen-prueba-chatgpt-sanitario-madrid-resultado-te-sorprendera-1435662'>Médicos ponen a prueba al ChatGPT sanitario de Madrid y el resultado te sorprenderá</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/medicos-ponen-prueba-chatgpt-sanitario-madrid-resultado-te-sorprendera-1435662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/imagen-ia-medico-4282492.jpg?tf=1200x' alt='Médicos ponen a prueba al ChatGPT sanitario de Madrid y el resultado te sorprenderá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/muy-pronto-tendras-volver-sintonizar-tdt-tendras-premio-ello-1435740'>Muy pronto tendrás que volver a sintonizar tu TDT y tendrás un "premio" por ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/muy-pronto-tendras-volver-sintonizar-tdt-tendras-premio-ello-1435740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/muy-pronto-tendras-volver-sintonizar-tdt-tendras-premio-ello-4282590.jpg?tf=1200x' alt='Muy pronto tendrás que volver a sintonizar tu TDT y tendrás un "premio" por ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-peligroso-ataque-phishing-afecta-usuarios-iphone-1435727'>Expertos alertan de un peligroso ataque de phishing que afecta a los usuarios de iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-peligroso-ataque-phishing-afecta-usuarios-iphone-1435727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-alertan-peligroso-ataque-phishing-afecta-usuarios-iphone-4282585.jpg?tf=1200x' alt='Expertos alertan de un peligroso ataque de phishing que afecta a los usuarios de iPhone' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/problema-matematico-viral-dos-soluciones-diferentes-1235616'>El problema matemático viral que tiene una solución diferente dependiendo de dónde vivas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/problema-matematico-viral-dos-soluciones-diferentes-1235616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/operacion-matematica-viral-4282591.jpg?tf=1200x' alt='El problema matemático viral que tiene una solución diferente dependiendo de dónde vivas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/olvidate-flecha-azul-waze-nuevos-iconos-android-auto-1435619'>Olvídate de la flecha azul de Waze con los nuevos iconos para Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/olvidate-flecha-azul-waze-nuevos-iconos-android-auto-1435619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4282424.jpg?tf=1200x' alt='Olvídate de la flecha azul de Waze con los nuevos iconos para Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-detectan-fallo-seguridad-muy-grave-moviles-samsung-galaxy-1435725'>Expertos detectan un fallo de seguridad muy grave en los móviles Samsung Galaxy</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-detectan-fallo-seguridad-muy-grave-moviles-samsung-galaxy-1435725' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-samsung-4282588.jpg?tf=1200x' alt='Expertos detectan un fallo de seguridad muy grave en los móviles Samsung Galaxy' />
     </a>
 </div>
 
