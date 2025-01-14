@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ni-tanques-ni-misiles-ucrania-presenta-arma-definitiva-inteligencia-artificial-1435606'>Ni tanques ni misiles, Ucrania presenta el arma definitiva con inteligencia artificial </a></h4>
+    <a href='https://computerhoy.20minutos.es/ni-tanques-ni-misiles-ucrania-presenta-arma-definitiva-inteligencia-artificial-1435606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dronzp-4282367.jpg?tf=1200x' alt='Ni tanques ni misiles, Ucrania presenta el arma definitiva con inteligencia artificial ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-4g-moviles-luna-1435608'>Ni SpaceX ni la NASA: Nokia va a instalar la primera red 4G de móviles en la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-4g-moviles-luna-1435608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-moviles-luna-4282351.jpg?tf=1200x' alt='Ni SpaceX ni la NASA: Nokia va a instalar la primera red 4G de móviles en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-1435540'>"Desde el iPhone de Steve Jobs, llevan 20 años sin inventar nada", Mark Zuckerberg no se corta con Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-1435540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-4282294.jpg?tf=1200x' alt='"Desde el iPhone de Steve Jobs, llevan 20 años sin inventar nada", Mark Zuckerberg no se corta con Apple' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gastarse-1000-euros-robot-aspirador-ya-no-idea-tan-loca-1434959'>Gastarse más de 1.000 euros en un robot aspirador ya no es una idea tan loca</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gastarse-1000-euros-robot-aspirador-ya-no-idea-tan-loca-1434959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roborock-durante-ces-2025-4282024.jpg?tf=1200x' alt='Gastarse más de 1.000 euros en un robot aspirador ya no es una idea tan loca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-ver-10000-canales-gratis-iptv-movil-android-1435440'>Así es como puedes ver más de 10.000 canales gratis de IPTV en tu móvil Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-puedes-ver-10000-canales-gratis-iptv-movil-android-1435440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-iptv-4282157.jpg?tf=1200x' alt='Así es como puedes ver más de 10.000 canales gratis de IPTV en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aria-lyrica-robots-compania-ia-puedes-poner-cara-quieras-1435591'>Aria y Lyrica son los primeros robots de compañía con IA, a los que puedes poner la cara que quieras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aria-lyrica-robots-compania-ia-puedes-poner-cara-quieras-1435591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1736812355234-4282332.jpg?tf=1200x' alt='Aria y Lyrica son los primeros robots de compañía con IA, a los que puedes poner la cara que quieras' />
     </a>
 </div>
 
