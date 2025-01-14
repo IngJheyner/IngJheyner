@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/falso-brad-pitt-creado-ia-estafa-mujer-830000-euros-divorcio-angelina-jolie-1435654'>El falso Brad Pitt creado con IA le estafa a una mujer 830.000 euros por su divorcio con Angelina Jolie</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/falso-brad-pitt-creado-ia-estafa-mujer-830000-euros-divorcio-angelina-jolie-1435654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/falso-brad-pitt-creado-ia-estafa-mujer-francesa-gran-suma-dinero-divorcio-angelina-jolie-4282406.jpg?tf=1200x' alt='El falso Brad Pitt creado con IA le estafa a una mujer 830.000 euros por su divorcio con Angelina Jolie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-trenes-ave-hympulso-sera-sustituto-partir-2025-espana-1435749'>Adiós a los trenes del AVE: Hympulso será su sustituto a partir de 2025 en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-trenes-ave-hympulso-sera-sustituto-partir-2025-espana-1435749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/locomotora-fch2rail-estacion-canfranc-4282607.jpg?tf=1200x' alt='Adiós a los trenes del AVE: Hympulso será su sustituto a partir de 2025 en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-1435639'>WhatsApp trabaja en ofrecer amigos virtuales, por si te sientes solo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-1435639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-4282398.jpg?tf=1200x' alt='WhatsApp trabaja en ofrecer amigos virtuales, por si te sientes solo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/tipos-diferencias-hdmi-smart-tv-1258014'>Este HDMI de tu televisor es diferente al resto y seguramente lo estés utilizando mal</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/tipos-diferencias-hdmi-smart-tv-1258014' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hdmi-equivocado-4282614.jpg?tf=1200x' alt='Este HDMI de tu televisor es diferente al resto y seguramente lo estés utilizando mal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ubicacion-apps-populares-como-candy-crush-microsoft-365-1435820'>Tu ubicación al descubierto: apps populares como Candy Crush y Microsoft 365, en jaque</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ubicacion-apps-populares-como-candy-crush-microsoft-365-1435820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ubicacion-hackeada-4282755.jpg?tf=1200x' alt='Tu ubicación al descubierto: apps populares como Candy Crush y Microsoft 365, en jaque' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/olvidate-switch-2-producto-nintendo-todo-mundo-quiere-pone-venta-marzo-1435761'>Olvídate de Switch 2, el producto de Nintendo que todo el mundo quiere se pone a la venta en marzo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/olvidate-switch-2-producto-nintendo-todo-mundo-quiere-pone-venta-marzo-1435761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/despertador-nintendo-4282623.jpg?tf=1200x' alt='Olvídate de Switch 2, el producto de Nintendo que todo el mundo quiere se pone a la venta en marzo' />
     </a>
 </div>
 
