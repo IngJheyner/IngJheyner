@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/falso-brad-pitt-creado-ia-estafa-mujer-830000-euros-divorcio-angelina-jolie-1435654'>El falso Brad Pitt creado con IA le estafa a una mujer 830.000 euros por su divorcio con Angelina Jolie</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/falso-brad-pitt-creado-ia-estafa-mujer-830000-euros-divorcio-angelina-jolie-1435654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/falso-brad-pitt-creado-ia-estafa-mujer-francesa-gran-suma-dinero-divorcio-angelina-jolie-4282406.jpg?tf=1200x' alt='El falso Brad Pitt creado con IA le estafa a una mujer 830.000 euros por su divorcio con Angelina Jolie' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852'>DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dazn-pone-patas-arriba-futbol-tarifa-menores-26-anos-cambia-todo-4282777.jpg?tf=1200x' alt='DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-trenes-ave-hympulso-sera-sustituto-partir-2025-espana-1435749'>Adiós a los trenes del AVE: Hympulso será su sustituto a partir de 2025 en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-trenes-ave-hympulso-sera-sustituto-partir-2025-espana-1435749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/locomotora-fch2rail-estacion-canfranc-4282607.jpg?tf=1200x' alt='Adiós a los trenes del AVE: Hympulso será su sustituto a partir de 2025 en España' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/juego-serpiente-nokia-ahora-qr-solo-56-bytes-pero-curioso-error-1435848'>El juego de la serpiente de Nokia ahora cabe en un QR de solo 56 bytes, pero con un curioso error</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/juego-serpiente-nokia-ahora-qr-solo-56-bytes-pero-curioso-error-1435848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nokia-3310-4282797.jpg?tf=1200x' alt='El juego de la serpiente de Nokia ahora cabe en un QR de solo 56 bytes, pero con un curioso error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-1435639'>WhatsApp trabaja en ofrecer amigos virtuales, por si te sientes solo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-1435639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-4282398.jpg?tf=1200x' alt='WhatsApp trabaja en ofrecer amigos virtuales, por si te sientes solo' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-1435769'>Prime Video tiene la película de terror que arrasa en la plataforma y recuerda a los clásicos de los 90</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-1435769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-4282618.jpg?tf=1200x' alt='Prime Video tiene la película de terror que arrasa en la plataforma y recuerda a los clásicos de los 90' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-fotos-temporales-veces-quieras-1435794'>WhatsApp: cómo ver las fotos temporales las veces que quieras</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-como-ver-fotos-temporales-veces-quieras-1435794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-como-ver-fotos-temporales-veces-quieras-4282767.jpg?tf=1200x' alt='WhatsApp: cómo ver las fotos temporales las veces que quieras' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16-mantiene-apple-como-mayor-fabricante-telefonos-mundo-1435846'>El iPhone 16 mantiene a Apple como el mayor fabricante de teléfonos del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/iphone-16-mantiene-apple-como-mayor-fabricante-telefonos-mundo-1435846' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonos-moviles-4282790.jpg?tf=1200x' alt='El iPhone 16 mantiene a Apple como el mayor fabricante de teléfonos del mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tipos-diferencias-hdmi-smart-tv-1258014'>Este HDMI de tu televisor es diferente al resto y seguramente lo estés utilizando mal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tipos-diferencias-hdmi-smart-tv-1258014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hdmi-equivocado-4282614.jpg?tf=1200x' alt='Este HDMI de tu televisor es diferente al resto y seguramente lo estés utilizando mal' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/elimina-estas-apps-bancarias-llenas-malware-antes-sea-demasiado-tarde-1435844'>Elimina estas apps bancarias llenas de malware antes de que sea demasiado tarde</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/elimina-estas-apps-bancarias-llenas-malware-antes-sea-demasiado-tarde-1435844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-bancario-4282786.jpg?tf=1200x' alt='Elimina estas apps bancarias llenas de malware antes de que sea demasiado tarde' />
     </a>
 </div>
 
