@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creadores-chatgpt-riesgo-ia-puede-volverse-impredecible-1435716'>Uno de los creadores de ChatGPT, sobre el riesgo de la IA: "Puede volverse impredecible"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/creadores-chatgpt-riesgo-ia-puede-volverse-impredecible-1435716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/creadores-chatgpt-riesgo-ia-puede-volverse-impredecible-4282559.jpg?tf=1200x' alt='Uno de los creadores de ChatGPT, sobre el riesgo de la IA: "Puede volverse impredecible"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704'>Lectores de ebooks compatibles con eBiblio: estos son los mejores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lectores-ebooks-compatibles-ebiblio-estos-son-mejores-1344704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/kobo-libra-colour-4250413.jpg?tf=1200x' alt='Lectores de ebooks compatibles con eBiblio: estos son los mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-conseguir-router-wifi-6-fibra-digi-1435738'>Cómo conseguir un router WiFi 6 con la fibra de DIGI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-conseguir-router-wifi-6-fibra-digi-1435738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/digi-desvela-truco-mejorar-cobertura-red-movil-funciona-4260776.jpg?tf=1200x' alt='Cómo conseguir un router WiFi 6 con la fibra de DIGI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-hace-pasar-familiares-amigos-1435665'>La Policía advierte: así es la estafa que se hace pasar por familiares y amigos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-hace-pasar-familiares-amigos-1435665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-advierte-estafa-hace-pasar-familiares-amigos-4282409.jpg?tf=1200x' alt='La Policía advierte: así es la estafa que se hace pasar por familiares y amigos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tecnica-matematica-consigue-abrir-caja-negra-toma-decisiones-ia-1435759'>Una técnica matemática consigue abrir la caja negra de la toma de decisiones de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tecnica-matematica-consigue-abrir-caja-negra-toma-decisiones-ia-1435759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tecnica-matematica-consigue-abrir-caja-negra-toma-decisiones-ia-4282660.jpg?tf=1200x' alt='Una técnica matemática consigue abrir la caja negra de la toma de decisiones de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-envia-aspiradora-luna-1435679'>La NASA envía una aspiradora a la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-envia-aspiradora-luna-1435679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-luna-4282520.jpg?tf=1200x' alt='La NASA envía una aspiradora a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/medicos-ponen-prueba-chatgpt-sanitario-madrid-resultado-te-sorprendera-1435662'>Médicos ponen a prueba al ChatGPT sanitario de Madrid y el resultado te sorprenderá</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/medicos-ponen-prueba-chatgpt-sanitario-madrid-resultado-te-sorprendera-1435662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/imagen-ia-medico-4282492.jpg?tf=1200x' alt='Médicos ponen a prueba al ChatGPT sanitario de Madrid y el resultado te sorprenderá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/muy-pronto-tendras-volver-sintonizar-tdt-tendras-premio-ello-1435740'>Muy pronto tendrás que volver a sintonizar tu TDT y tendrás un "premio" por ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/muy-pronto-tendras-volver-sintonizar-tdt-tendras-premio-ello-1435740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/muy-pronto-tendras-volver-sintonizar-tdt-tendras-premio-ello-4282590.jpg?tf=1200x' alt='Muy pronto tendrás que volver a sintonizar tu TDT y tendrás un "premio" por ello' />
     </a>
 </div>
 
