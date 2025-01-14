@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-peligroso-ataque-phishing-afecta-usuarios-iphone-1435727'>Expertos alertan de un peligroso ataque de phishing que afecta a los usuarios de iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-peligroso-ataque-phishing-afecta-usuarios-iphone-1435727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-alertan-peligroso-ataque-phishing-afecta-usuarios-iphone-4282585.jpg?tf=1200x' alt='Expertos alertan de un peligroso ataque de phishing que afecta a los usuarios de iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-deberias-contestar-numeros-prefijo-358-whatsapp-1435693'>Por qué no deberías contestar a números con el prefijo +358 en WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-deberias-contestar-numeros-prefijo-358-whatsapp-1435693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-deberias-contestar-numeros-prefijo-358-whatsapp-4282554.jpg?tf=1200x' alt='Por qué no deberías contestar a números con el prefijo +358 en WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/problema-matematico-viral-dos-soluciones-diferentes-1235616'>El problema matemático viral que tiene una solución diferente dependiendo de dónde vivas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/problema-matematico-viral-dos-soluciones-diferentes-1235616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/operacion-matematica-viral-4282591.jpg?tf=1200x' alt='El problema matemático viral que tiene una solución diferente dependiendo de dónde vivas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/olvidate-flecha-azul-waze-nuevos-iconos-android-auto-1435619'>Olvídate de la flecha azul de Waze con los nuevos iconos para Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/olvidate-flecha-azul-waze-nuevos-iconos-android-auto-1435619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4282424.jpg?tf=1200x' alt='Olvídate de la flecha azul de Waze con los nuevos iconos para Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-detectan-fallo-seguridad-muy-grave-moviles-samsung-galaxy-1435725'>Expertos detectan un fallo de seguridad muy grave en los móviles Samsung Galaxy</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-detectan-fallo-seguridad-muy-grave-moviles-samsung-galaxy-1435725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-samsung-4282588.jpg?tf=1200x' alt='Expertos detectan un fallo de seguridad muy grave en los móviles Samsung Galaxy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-anade-nuevo-widget-meta-ai-sirve-como-funciona-1435669'>WhatsApp añade un nuevo Widget para Meta AI: para qué sirve y cómo funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-anade-nuevo-widget-meta-ai-sirve-como-funciona-1435669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-4282398.jpg?tf=1200x' alt='WhatsApp añade un nuevo Widget para Meta AI: para qué sirve y cómo funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/meta-ha-bloqueado-pixelfed-alternativa-libre-gratis-instagram-1435705'>Meta ha bloqueado PixelFed, la alternativa libre y gratis de Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/meta-ha-bloqueado-pixelfed-alternativa-libre-gratis-instagram-1435705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-ha-bloqueado-pixelfed-4282460.jpg?tf=1200x' alt='Meta ha bloqueado PixelFed, la alternativa libre y gratis de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/xiaohongshu-rednote-red-social-china-ha-explotado-algunos-paises-1435655'>Qué es Xiaohongshu (RedNote), la red social china que ha explotado en algunos países</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/xiaohongshu-rednote-red-social-china-ha-explotado-algunos-paises-1435655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaohongshu-rednote-4282425.jpg?tf=1200x' alt='Qué es Xiaohongshu (RedNote), la red social china que ha explotado en algunos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-explica-estratosferico-precio-rtx-5090-jugadores-quieren-mejor-1435645'>El CEO de Nvidia explica el estratosférico precio de la RTX 5090: "Los jugadores quieren lo mejor"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-explica-estratosferico-precio-rtx-5090-jugadores-quieren-mejor-1435645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ceo-nvidia-4282404.jpg?tf=1200x' alt='El CEO de Nvidia explica el estratosférico precio de la RTX 5090: "Los jugadores quieren lo mejor"' />
     </a>
 </div>
 
