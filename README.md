@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-anade-nuevo-widget-meta-ai-sirve-como-funciona-1435669'>WhatsApp añade un nuevo Widget para Meta AI: para qué sirve y cómo funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-anade-nuevo-widget-meta-ai-sirve-como-funciona-1435669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-trabaja-ofrecer-amigos-virtuales-te-sientes-solo-4282398.jpg?tf=1200x' alt='WhatsApp añade un nuevo Widget para Meta AI: para qué sirve y cómo funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/meta-ha-bloqueado-pixelfed-alternativa-libre-gratis-instagram-1435705'>Meta ha bloqueado PixelFed, la alternativa libre y gratis de Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/meta-ha-bloqueado-pixelfed-alternativa-libre-gratis-instagram-1435705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-ha-bloqueado-pixelfed-4282460.jpg?tf=1200x' alt='Meta ha bloqueado PixelFed, la alternativa libre y gratis de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/xiaohongshu-rednote-red-social-china-ha-explotado-algunos-paises-1435655'>Qué es Xiaohongshu (RedNote), la red social china que ha explotado en algunos países</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/xiaohongshu-rednote-red-social-china-ha-explotado-algunos-paises-1435655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaohongshu-rednote-4282425.jpg?tf=1200x' alt='Qué es Xiaohongshu (RedNote), la red social china que ha explotado en algunos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-explica-estratosferico-precio-rtx-5090-jugadores-quieren-mejor-1435645'>El CEO de Nvidia explica el estratosférico precio de la RTX 5090: "Los jugadores quieren lo mejor"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-explica-estratosferico-precio-rtx-5090-jugadores-quieren-mejor-1435645' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ceo-nvidia-4282404.jpg?tf=1200x' alt='El CEO de Nvidia explica el estratosférico precio de la RTX 5090: "Los jugadores quieren lo mejor"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-1435607'>Blue Origin vuelve a retrasar el despegue de New Glenn: ya tiene nueva fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-1435607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-4282375.jpg?tf=1200x' alt='Blue Origin vuelve a retrasar el despegue de New Glenn: ya tiene nueva fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-salvador-tiktok-venta-forzada-app-eeuu-pone-patas-arriba-redes-sociales-1435620'>Elon Musk, ¿salvador de TikTok? La venta forzada de la app en EEUU pone patas arriba las redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/elon-musk-salvador-tiktok-venta-forzada-app-eeuu-pone-patas-arriba-redes-sociales-1435620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-salvador-tiktok-4282380.jpg?tf=1200x' alt='Elon Musk, ¿salvador de TikTok? La venta forzada de la app en EEUU pone patas arriba las redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ni-tanques-ni-misiles-ucrania-presenta-arma-definitiva-inteligencia-artificial-1435606'>Ni tanques ni misiles, Ucrania presenta el arma definitiva con inteligencia artificial </a></h4>
-    <a href='https://computerhoy.20minutos.es/ni-tanques-ni-misiles-ucrania-presenta-arma-definitiva-inteligencia-artificial-1435606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dronzp-4282367.jpg?tf=1200x' alt='Ni tanques ni misiles, Ucrania presenta el arma definitiva con inteligencia artificial ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-4g-moviles-luna-1435608'>Ni SpaceX ni la NASA: Nokia va a instalar la primera red 4G de móviles en la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-4g-moviles-luna-1435608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-moviles-luna-4282351.jpg?tf=1200x' alt='Ni SpaceX ni la NASA: Nokia va a instalar la primera red 4G de móviles en la Luna' />
     </a>
 </div>
 
