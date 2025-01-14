@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867'>Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parece-broma-pero-no-consiguen-doom-funcione-pdf-4282816.jpg?tf=1200x' alt='Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852'>DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dazn-pone-patas-arriba-futbol-tarifa-menores-26-anos-cambia-todo-4282777.jpg?tf=1200x' alt='DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16-mantiene-apple-como-mayor-fabricante-telefonos-mundo-1435846'>El iPhone 16 mantiene a Apple como el mayor fabricante de teléfonos del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/iphone-16-mantiene-apple-como-mayor-fabricante-telefonos-mundo-1435846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonos-moviles-4282790.jpg?tf=1200x' alt='El iPhone 16 mantiene a Apple como el mayor fabricante de teléfonos del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/elimina-estas-apps-bancarias-llenas-malware-antes-sea-demasiado-tarde-1435844'>Elimina estas apps bancarias llenas de malware antes de que sea demasiado tarde</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/elimina-estas-apps-bancarias-llenas-malware-antes-sea-demasiado-tarde-1435844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-bancario-4282786.jpg?tf=1200x' alt='Elimina estas apps bancarias llenas de malware antes de que sea demasiado tarde' />
     </a>
 </div>
 
