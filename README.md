@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-explica-estratosferico-precio-rtx-5090-jugadores-quieren-mejor-1435645'>El CEO de Nvidia explica el estratosférico precio de la RTX 5090: "Los jugadores quieren lo mejor"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-nvidia-explica-estratosferico-precio-rtx-5090-jugadores-quieren-mejor-1435645' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ceo-nvidia-4282404.jpg?tf=1200x' alt='El CEO de Nvidia explica el estratosférico precio de la RTX 5090: "Los jugadores quieren lo mejor"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-1435607'>Blue Origin vuelve a retrasar el despegue de New Glenn: ya tiene nueva fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-1435607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-4282375.jpg?tf=1200x' alt='Blue Origin vuelve a retrasar el despegue de New Glenn: ya tiene nueva fecha de lanzamiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-4g-moviles-luna-1435608'>Ni SpaceX ni la NASA: Nokia va a instalar la primera red 4G de móviles en la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-4g-moviles-luna-1435608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-spacex-ni-nasa-nokia-va-instalar-primera-red-moviles-luna-4282351.jpg?tf=1200x' alt='Ni SpaceX ni la NASA: Nokia va a instalar la primera red 4G de móviles en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-1435540'>"Desde el iPhone de Steve Jobs, llevan 20 años sin inventar nada", Mark Zuckerberg no se corta con Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-1435540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-4282294.jpg?tf=1200x' alt='"Desde el iPhone de Steve Jobs, llevan 20 años sin inventar nada", Mark Zuckerberg no se corta con Apple' />
     </a>
 </div>
 
