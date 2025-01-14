@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-1435607'>Blue Origin vuelve a retrasar el despegue de New Glenn: ya tiene nueva fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-1435607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/blue-origin-vuelve-retrasar-despegue-new-glenn-ya-tiene-nueva-fecha-lanzamiento-4282375.jpg?tf=1200x' alt='Blue Origin vuelve a retrasar el despegue de New Glenn: ya tiene nueva fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/elon-musk-salvador-tiktok-venta-forzada-app-eeuu-pone-patas-arriba-redes-sociales-1435620'>Elon Musk, ¿salvador de TikTok? La venta forzada de la app en EEUU pone patas arriba las redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/elon-musk-salvador-tiktok-venta-forzada-app-eeuu-pone-patas-arriba-redes-sociales-1435620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-salvador-tiktok-4282380.jpg?tf=1200x' alt='Elon Musk, ¿salvador de TikTok? La venta forzada de la app en EEUU pone patas arriba las redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ni-tanques-ni-misiles-ucrania-presenta-arma-definitiva-inteligencia-artificial-1435606'>Ni tanques ni misiles, Ucrania presenta el arma definitiva con inteligencia artificial </a></h4>
     <a href='https://computerhoy.20minutos.es/ni-tanques-ni-misiles-ucrania-presenta-arma-definitiva-inteligencia-artificial-1435606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dronzp-4282367.jpg?tf=1200x' alt='Ni tanques ni misiles, Ucrania presenta el arma definitiva con inteligencia artificial ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-1435540'>"Desde el iPhone de Steve Jobs, llevan 20 años sin inventar nada", Mark Zuckerberg no se corta con Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-1435540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-steve-jobs-llevan-20-anos-inventar-nada-mark-zuckerberg-no-corta-apple-4282294.jpg?tf=1200x' alt='"Desde el iPhone de Steve Jobs, llevan 20 años sin inventar nada", Mark Zuckerberg no se corta con Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-smartwatch-deporte-ces-2025-1435438'>Amazfit Active 2 me ha parecido un smartwatch que  dará problemas a Apple, Garmin y Huawei</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-smartwatch-deporte-ces-2025-1435438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazfit-active-2-4282108.jpg?tf=1200x' alt='Amazfit Active 2 me ha parecido un smartwatch que  dará problemas a Apple, Garmin y Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gastarse-1000-euros-robot-aspirador-ya-no-idea-tan-loca-1434959'>Gastarse más de 1.000 euros en un robot aspirador ya no es una idea tan loca</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gastarse-1000-euros-robot-aspirador-ya-no-idea-tan-loca-1434959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roborock-durante-ces-2025-4282024.jpg?tf=1200x' alt='Gastarse más de 1.000 euros en un robot aspirador ya no es una idea tan loca' />
     </a>
 </div>
 
