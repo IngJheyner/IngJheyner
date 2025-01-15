@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-mando-distancia-ni-alexa-podras-controlar-dispositivos-solo-apuntar-dedo-1436054'>Ni mando a distancia ni Alexa: así podrás controlar tus dispositivos con solo apuntar con el dedo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-mando-distancia-ni-alexa-podras-controlar-dispositivos-solo-apuntar-dedo-1436054' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extraterrestre-tv-4283103.jpg?tf=1200x' alt='Ni mando a distancia ni Alexa: así podrás controlar tus dispositivos con solo apuntar con el dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-iphone-17-filtraciones-apuntan-mejora-radical-apartado-1436013'>Giro de 180 grados para el iPhone 17: las filtraciones apuntan a una mejora radical en este apartado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-iphone-17-filtraciones-apuntan-mejora-radical-apartado-1436013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-iphone-17-filtraciones-apuntan-mejora-radical-apartado-4283036.jpg?tf=1200x' alt='Giro de 180 grados para el iPhone 17: las filtraciones apuntan a una mejora radical en este apartado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-empieza-fuerte-2025-anadiendo-nuevas-funciones-crear-stickers-mucho-1436043'>WhatsApp empieza fuerte el 2025 añadiendo nuevas funciones para crear stickers y mucho más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-empieza-fuerte-2025-anadiendo-nuevas-funciones-crear-stickers-mucho-1436043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-novedades-4283064.jpg?tf=1200x' alt='WhatsApp empieza fuerte el 2025 añadiendo nuevas funciones para crear stickers y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/purga-mark-zuckerberg-ha-comenzado-miles-empleados-meta-calle-rendimiento-1436035'>La purga de Mark Zuckerberg ha comenzado: miles de empleados de Meta a la calle por "bajo rendimiento"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/purga-mark-zuckerberg-ha-comenzado-miles-empleados-meta-calle-rendimiento-1436035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_0.jpg?tf=1200x' alt='La purga de Mark Zuckerberg ha comenzado: miles de empleados de Meta a la calle por "bajo rendimiento"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/experto-afirma-whatsapp-telegram-usar-mensajeria-decentralizada-evitar-hackeos-1436020'>Experto afirma que WhatsApp y Telegram deberían usar la mensajería descentralizada para evitar hackeos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/experto-afirma-whatsapp-telegram-usar-mensajeria-decentralizada-evitar-hackeos-1436020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telegram-whatsapp-hackeados-4283050.jpg?tf=1200x' alt='Experto afirma que WhatsApp y Telegram deberían usar la mensajería descentralizada para evitar hackeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-quinto-estado-materia-podria-cambiarlo-todo-1435910'>Científicos descubren el quinto estado de la materia que podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-quinto-estado-materia-podria-cambiarlo-todo-1435910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-encuentran-quinto-estado-materia-4282972.jpg?tf=1200x' alt='Científicos descubren el quinto estado de la materia que podría cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-actualizas-windows-11-te-quedaras-word-excel-powerpoint-estas-advertido-1435987'>Si no actualizas a Windows 11 te quedarás sin Word, Excel y PowerPoint, estás advertido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-actualizas-windows-11-te-quedaras-word-excel-powerpoint-estas-advertido-1435987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4283029.jpg?tf=1200x' alt='Si no actualizas a Windows 11 te quedarás sin Word, Excel y PowerPoint, estás advertido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dji-flip-dron-plegable-ligero-compacto-seguro-ideal-principiantes-1436021'>DJI Flip, el dron plegable más ligero, compacto y seguro ideal para principiantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dji-flip-dron-plegable-ligero-compacto-seguro-ideal-principiantes-1436021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dji-flip-4283086.jpg?tf=1200x' alt='DJI Flip, el dron plegable más ligero, compacto y seguro ideal para principiantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ni-linkedin-ni-infojobs-puedes-encontrar-empleo-2025-chatgpt-nomada-digital-1436016'>Ni LinkedIn ni InfoJobs: así puedes encontrar empleo en 2025 con ChatGPT, según un nómada digital</a></h4>
-    <a href='https://computerhoy.20minutos.es/ni-linkedin-ni-infojobs-puedes-encontrar-empleo-2025-chatgpt-nomada-digital-1436016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Ni LinkedIn ni InfoJobs: así puedes encontrar empleo en 2025 con ChatGPT, según un nómada digital' />
     </a>
 </div>
 
