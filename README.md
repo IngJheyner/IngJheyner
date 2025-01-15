@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-1435978'>Hackean el puerto USB-C del iPhone y estas son las graves consecuencias para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-1435978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-4282996.jpg?tf=1200x' alt='Hackean el puerto USB-C del iPhone y estas son las graves consecuencias para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recibe-tres-ciberataques-dia-cero-windows-11-1436082'>Microsoft recibe tres ciberataques de Día Cero en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-recibe-tres-ciberataques-dia-cero-windows-11-1436082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ataque-dia-cero-4283128.jpg?tf=1200x' alt='Microsoft recibe tres ciberataques de Día Cero en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/brillo-jamas-visto-movil-gama-media-revienta-precio-tiene-pantallon-como-ningun-otro-1435891'>"Un brillo jamás visto": este móvil gama media revienta su precio y tiene un pantallón como ningún otro</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/brillo-jamas-visto-movil-gama-media-revienta-precio-tiene-pantallon-como-ningun-otro-1435891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548648.jpg?tf=1200x' alt='"Un brillo jamás visto": este móvil gama media revienta su precio y tiene un pantallón como ningún otro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/camara-nasa-llevara-luna-tambien-puedes-comprar-1435993'>Esta es la cámara que la NASA llevará a la Luna y que tú también puedes comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/camara-nasa-llevara-luna-tambien-puedes-comprar-1435993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/camara-nasa-llevara-luna-tambien-puedes-comprar-4283012.jpg?tf=1200x' alt='Esta es la cámara que la NASA llevará a la Luna y que tú también puedes comprar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-1436070'>La NASA aclara qué sucede exactamente si un astronauta muere en el espacio</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-1436070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-4283182.jpg?tf=1200x' alt='La NASA aclara qué sucede exactamente si un astronauta muere en el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-telefonica-han-vuelto-sufrir-hackeo-1436027'>Cuidado si eres cliente de Telefónica: han vuelto a sufrir un hackeo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-telefonica-han-vuelto-sufrir-hackeo-1436027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonica-4283137.jpg?tf=1200x' alt='Cuidado si eres cliente de Telefónica: han vuelto a sufrir un hackeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/orden-cargar-enchufe-bateria-movil-1295238'>El orden si afecta, y mucho: qué debes conectar primero al cargar, el enchufe o el cable al móvil </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/orden-cargar-enchufe-bateria-movil-1295238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargar-movil-4283047.jpg?tf=1200x' alt='El orden si afecta, y mucho: qué debes conectar primero al cargar, el enchufe o el cable al móvil ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-mando-distancia-ni-alexa-podras-controlar-dispositivos-solo-apuntar-dedo-1436054'>Ni mando a distancia ni Alexa: así podrás controlar tus dispositivos con solo apuntar con el dedo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-mando-distancia-ni-alexa-podras-controlar-dispositivos-solo-apuntar-dedo-1436054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extraterrestre-tv-4283103.jpg?tf=1200x' alt='Ni mando a distancia ni Alexa: así podrás controlar tus dispositivos con solo apuntar con el dedo' />
     </a>
 </div>
 
