@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/llegan-huawei-freebuds-pro-4-auriculares-sonido-premium-100-db-cancelacion-1430491'>Llegan los Huawei Freebuds Pro 4, sus auriculares con sonido más premium y hasta 100 dB de cancelación</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/llegan-huawei-freebuds-pro-4-auriculares-sonido-premium-100-db-cancelacion-1430491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-freebuds-pro-4-4274745.jpg?tf=1200x' alt='Llegan los Huawei Freebuds Pro 4, sus auriculares con sonido más premium y hasta 100 dB de cancelación' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068'>Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dreame-x50-ultra-complete-4274622.jpg?tf=1200x' alt='Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/honor-apuesta-rendimiento-snapdragon-8-elite-camaras-nuevo-magic-7-pro-1430445'>Honor apuesta por rendimiento con Snapdragon 8 Elite y cámaras con el nuevo Magic 7 Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/honor-apuesta-rendimiento-snapdragon-8-elite-camaras-nuevo-magic-7-pro-1430445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honor-magic-7-pro-4274144.jpg?tf=1200x' alt='Honor apuesta por rendimiento con Snapdragon 8 Elite y cámaras con el nuevo Magic 7 Pro' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914'>Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-4282901.jpg?tf=1200x' alt='Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-llamas-1435387'>Este es el electrodoméstico que debes desenchufar tras su uso para que no se queme</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-llamas-1435387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/electrodomestico-llamas-apagar-4282942.jpg?tf=1200x' alt='Este es el electrodoméstico que debes desenchufar tras su uso para que no se queme' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-1434580'>Este es mi truco para saber si una llamada es SPAM antes de cogerla y bloquear el número sin contestar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-1434580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-detectar-llamadas-spam-4282963.jpg?tf=1200x' alt='Este es mi truco para saber si una llamada es SPAM antes de cogerla y bloquear el número sin contestar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-taxistas-1434477'>Ni Waze ni Google Maps, esta es la app de navegación preferida de los taxistas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-taxistas-1434477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta es la app de navegación preferida de los taxistas' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068'>SpaceX ya tiene nueva fecha para el séptimo vuelo de Starship</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-4279779.jpg?tf=1200x' alt='SpaceX ya tiene nueva fecha para el séptimo vuelo de Starship' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamo-soporte-tecnico-estafa-vacia-cuenta-banco-minutos-1435909'>"Le llamo de soporte técnico": así es la estafa que vacía tu cuenta del banco en minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/llamo-soporte-tecnico-estafa-vacia-cuenta-banco-minutos-1435909' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-llamada-4282899.jpg?tf=1200x' alt='"Le llamo de soporte técnico": así es la estafa que vacía tu cuenta del banco en minutos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-650-baterias-ordenadores-portatiles-1434277'>Este aficionado ha usado más de 650 baterías de portátiles para electrificar su casa desde 2016</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-650-baterias-ordenadores-portatiles-1434277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/baterias-portatiles-electricidad-casa-4282947.jpg?tf=1200x' alt='Este aficionado ha usado más de 650 baterías de portátiles para electrificar su casa desde 2016' />
     </a>
 </div>
 
