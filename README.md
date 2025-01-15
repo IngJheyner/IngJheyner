@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/camara-nasa-llevara-luna-tambien-puedes-comprar-1435993'>Esta es la cámara que la NASA llevará a la Luna y que tú también puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/camara-nasa-llevara-luna-tambien-puedes-comprar-1435993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/camara-nasa-llevara-luna-tambien-puedes-comprar-4283012.jpg?tf=1200x' alt='Esta es la cámara que la NASA llevará a la Luna y que tú también puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-1436070'>La NASA aclara qué sucede exactamente si un astronauta muere en el espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-1436070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-4283182.jpg?tf=1200x' alt='La NASA aclara qué sucede exactamente si un astronauta muere en el espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-telefonica-han-vuelto-sufrir-hackeo-1436027'>Cuidado si eres cliente de Telefónica: han vuelto a sufrir un hackeo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-telefonica-han-vuelto-sufrir-hackeo-1436027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonica-4283137.jpg?tf=1200x' alt='Cuidado si eres cliente de Telefónica: han vuelto a sufrir un hackeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/orden-cargar-enchufe-bateria-movil-1295238'>El orden si afecta, y mucho: qué debes conectar primero al cargar, el enchufe o el cable al móvil </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/orden-cargar-enchufe-bateria-movil-1295238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargar-movil-4283047.jpg?tf=1200x' alt='El orden si afecta, y mucho: qué debes conectar primero al cargar, el enchufe o el cable al móvil ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-mando-distancia-ni-alexa-podras-controlar-dispositivos-solo-apuntar-dedo-1436054'>Ni mando a distancia ni Alexa: así podrás controlar tus dispositivos con solo apuntar con el dedo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-mando-distancia-ni-alexa-podras-controlar-dispositivos-solo-apuntar-dedo-1436054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extraterrestre-tv-4283103.jpg?tf=1200x' alt='Ni mando a distancia ni Alexa: así podrás controlar tus dispositivos con solo apuntar con el dedo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-iphone-17-filtraciones-apuntan-mejora-radical-apartado-1436013'>Giro de 180 grados para el iPhone 17: las filtraciones apuntan a una mejora radical en este apartado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-iphone-17-filtraciones-apuntan-mejora-radical-apartado-1436013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-iphone-17-filtraciones-apuntan-mejora-radical-apartado-4283036.jpg?tf=1200x' alt='Giro de 180 grados para el iPhone 17: las filtraciones apuntan a una mejora radical en este apartado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-empieza-fuerte-2025-anadiendo-nuevas-funciones-crear-stickers-mucho-1436043'>WhatsApp empieza fuerte el 2025 añadiendo nuevas funciones para crear stickers y mucho más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-empieza-fuerte-2025-anadiendo-nuevas-funciones-crear-stickers-mucho-1436043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-novedades-4283064.jpg?tf=1200x' alt='WhatsApp empieza fuerte el 2025 añadiendo nuevas funciones para crear stickers y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/purga-mark-zuckerberg-ha-comenzado-miles-empleados-meta-calle-rendimiento-1436035'>La purga de Mark Zuckerberg ha comenzado: miles de empleados de Meta a la calle por "bajo rendimiento"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/purga-mark-zuckerberg-ha-comenzado-miles-empleados-meta-calle-rendimiento-1436035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/03/mark-zuckerberg_0.jpg?tf=1200x' alt='La purga de Mark Zuckerberg ha comenzado: miles de empleados de Meta a la calle por "bajo rendimiento"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/experto-afirma-whatsapp-telegram-usar-mensajeria-decentralizada-evitar-hackeos-1436020'>Experto afirma que WhatsApp y Telegram deberían usar la mensajería descentralizada para evitar hackeos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/experto-afirma-whatsapp-telegram-usar-mensajeria-decentralizada-evitar-hackeos-1436020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telegram-whatsapp-hackeados-4283050.jpg?tf=1200x' alt='Experto afirma que WhatsApp y Telegram deberían usar la mensajería descentralizada para evitar hackeos' />
     </a>
 </div>
 
