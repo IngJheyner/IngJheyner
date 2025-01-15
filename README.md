@@ -50,25 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068'>Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dreame-x50-ultra-complete-4274622.jpg?tf=1200x' alt='Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914'>Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-4282901.jpg?tf=1200x' alt='Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-1434580'>Este es mi truco para saber si una llamada es SPAM antes de cogerla y bloquear el número sin contestar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/truco-saber-llamada-spam-antes-cogerla-bloquear-numero-contestar-1434580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-detectar-llamadas-spam-4282963.jpg?tf=1200x' alt='Este es mi truco para saber si una llamada es SPAM antes de cogerla y bloquear el número sin contestar' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004'>Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia' />
     </a>
 </div>
 
@@ -82,9 +66,25 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-650-baterias-ordenadores-portatiles-1434277'>Este aficionado ha usado más de 650 baterías de portátiles para electrificar su casa desde 2016</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crea-propio-sistema-energia-casa-utilizando-650-baterias-ordenadores-portatiles-1434277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/baterias-portatiles-electricidad-casa-4282947.jpg?tf=1200x' alt='Este aficionado ha usado más de 650 baterías de portátiles para electrificar su casa desde 2016' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/astronauta-nasa-podria-haber-capturado-mejor-fotografia-espacio-jamas-tomada-1435971'>Astronauta de la NASA podría haber capturado la mejor fotografía desde el espacio jamás tomada</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/astronauta-nasa-podria-haber-capturado-mejor-fotografia-espacio-jamas-tomada-1435971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/astronauta-nasa-espacio-4283026.jpg?tf=1200x' alt='Astronauta de la NASA podría haber capturado la mejor fotografía desde el espacio jamás tomada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068'>Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dreame-x50-ultra-complete-4274622.jpg?tf=1200x' alt='Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914'>Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-4282901.jpg?tf=1200x' alt='Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares' />
     </a>
 </div>
 
