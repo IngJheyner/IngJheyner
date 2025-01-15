@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-avion-transporte-elon-musk-permitira-viajar-cualquier-parte-mundo-30-minutos-1436042'>Adiós al avión, el transporte de Elon Musk que permitirá viajar a cualquier parte del mundo en 30 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-avion-transporte-elon-musk-permitira-viajar-cualquier-parte-mundo-30-minutos-1436042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-starship-esa-3217650.jpg?tf=1200x' alt='Adiós al avión, el transporte de Elon Musk que permitirá viajar a cualquier parte del mundo en 30 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/tienes-geforce-rtx-40-recibiras-pequeno-regalo-nvidia-1436017'>Si tienes una GeForce RTX 40 recibirás un pequeño regalo de NVIDIA</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/tienes-geforce-rtx-40-recibiras-pequeno-regalo-nvidia-1436017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/regalo-nvidia-4283039.jpg?tf=1200x' alt='Si tienes una GeForce RTX 40 recibirás un pequeño regalo de NVIDIA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-programar-recordatorios-tareas-pendientes-1436098'>ChatGPT ahora puede programar recordatorios y tareas pendientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-programar-recordatorios-tareas-pendientes-1436098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-ahora-puede-programar-recordatorios-tareas-pendientes-4283219.jpg?tf=1200x' alt='ChatGPT ahora puede programar recordatorios y tareas pendientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-1435978'>Hackean el puerto USB-C del iPhone y estas son las graves consecuencias para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-1435978' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-4282996.jpg?tf=1200x' alt='Hackean el puerto USB-C del iPhone y estas son las graves consecuencias para ti' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recibe-tres-ciberataques-dia-cero-windows-11-1436082'>Microsoft recibe tres ciberataques de Día Cero en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-recibe-tres-ciberataques-dia-cero-windows-11-1436082' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ataque-dia-cero-4283128.jpg?tf=1200x' alt='Microsoft recibe tres ciberataques de Día Cero en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/brillo-jamas-visto-movil-gama-media-revienta-precio-tiene-pantallon-como-ningun-otro-1435891'>"Un brillo jamás visto": este móvil gama media revienta su precio y tiene un pantallón como ningún otro</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/brillo-jamas-visto-movil-gama-media-revienta-precio-tiene-pantallon-como-ningun-otro-1435891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/realme-gt-6t-3548648.jpg?tf=1200x' alt='"Un brillo jamás visto": este móvil gama media revienta su precio y tiene un pantallón como ningún otro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/camara-nasa-llevara-luna-tambien-puedes-comprar-1435993'>Esta es la cámara que la NASA llevará a la Luna y que tú también puedes comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/camara-nasa-llevara-luna-tambien-puedes-comprar-1435993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/camara-nasa-llevara-luna-tambien-puedes-comprar-4283012.jpg?tf=1200x' alt='Esta es la cámara que la NASA llevará a la Luna y que tú también puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-1436070'>La NASA aclara qué sucede exactamente si un astronauta muere en el espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-1436070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-aclara-sucede-exactamente-astronauta-muere-espacio-4283182.jpg?tf=1200x' alt='La NASA aclara qué sucede exactamente si un astronauta muere en el espacio' />
     </a>
 </div>
 
