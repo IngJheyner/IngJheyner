@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/amazon-xiaomi-lian-venden-cascos-bluetooth-apenas-10-euros-1435886'>Amazon y Xiaomi la lían: venden unos cascos bluetooth por apenas 13 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/amazon-xiaomi-lian-venden-cascos-bluetooth-apenas-10-euros-1435886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-redmi-buds-6-play-4282874.jpg?tf=1200x' alt='Amazon y Xiaomi la lían: venden unos cascos bluetooth por apenas 13 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/pasara-tiktok-eeuu-finalmente-prohibe-1435728'>Qué pasará con TikTok si EEUU finalmente lo prohíbe en unos días</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/pasara-tiktok-eeuu-finalmente-prohibe-1435728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-eeuu-4282630.jpg?tf=1200x' alt='Qué pasará con TikTok si EEUU finalmente lo prohíbe en unos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mejores-alternativas-windows-10-antes-llegue-fin-soporte-1435333'>Mejores alternativas a Windows 10 antes de que llegue el fin del soporte</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mejores-alternativas-windows-10-antes-llegue-fin-soporte-1435333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-soporte-4279997.jpg?tf=1200x' alt='Mejores alternativas a Windows 10 antes de que llegue el fin del soporte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754'>Así es como pueden hackear tu WhatsApp en menos de 30 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-hackear-4282595.jpg?tf=1200x' alt='Así es como pueden hackear tu WhatsApp en menos de 30 minutos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634'>El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mujer-dolor-cabeza-uso-movil-noche-4282752.jpg?tf=1200x' alt='El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-mil-trucos-acabar-llamadas-spam-estos-son-verdaderamente-funcionan-1435698'>He probado mil trucos para acabar con las llamadas SPAM y estos son los que verdaderamente funcionan</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-mil-trucos-acabar-llamadas-spam-estos-son-verdaderamente-funcionan-1435698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamada-spam-4282543.jpg?tf=1200x' alt='He probado mil trucos para acabar con las llamadas SPAM y estos son los que verdaderamente funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-1435877'>Creían que esta calavera era la hermana de Cleopatra, pero se han llevado un chasco</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-1435877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-4282845.jpg?tf=1200x' alt='Creían que esta calavera era la hermana de Cleopatra, pero se han llevado un chasco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867'>Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF, así puedes probarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parece-broma-pero-no-consiguen-doom-funcione-pdf-4282816.jpg?tf=1200x' alt='Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF, así puedes probarlo' />
     </a>
 </div>
 
