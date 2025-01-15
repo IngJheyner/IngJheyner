@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754'>Así es como pueden hackear tu WhatsApp en menos de 30 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-hackear-4282595.jpg?tf=1200x' alt='Así es como pueden hackear tu WhatsApp en menos de 30 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634'>El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mujer-dolor-cabeza-uso-movil-noche-4282752.jpg?tf=1200x' alt='El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867'>Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF, así puedes probarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parece-broma-pero-no-consiguen-doom-funcione-pdf-4282816.jpg?tf=1200x' alt='Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF, así puedes probarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852'>DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dazn-pone-patas-arriba-futbol-tarifa-menores-26-anos-cambia-todo-4282777.jpg?tf=1200x' alt='DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo' />
     </a>
 </div>
 
