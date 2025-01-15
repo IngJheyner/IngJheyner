@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-avion-transporte-elon-musk-permitira-viajar-cualquier-parte-mundo-30-minutos-1436042'>Adiós al avión, el transporte de Elon Musk que permitirá viajar a cualquier parte del mundo en 30 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-avion-transporte-elon-musk-permitira-viajar-cualquier-parte-mundo-30-minutos-1436042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/elon-musk-spacex-starship-esa-3217650.jpg?tf=1200x' alt='Adiós al avión, el transporte de Elon Musk que permitirá viajar a cualquier parte del mundo en 30 minutos' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154'>WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/tienes-geforce-rtx-40-recibiras-pequeno-regalo-nvidia-1436017'>Si tienes una GeForce RTX 40 recibirás un pequeño regalo de NVIDIA</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/tienes-geforce-rtx-40-recibiras-pequeno-regalo-nvidia-1436017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/regalo-nvidia-4283039.jpg?tf=1200x' alt='Si tienes una GeForce RTX 40 recibirás un pequeño regalo de NVIDIA' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-alerta-nuevas-multas-falsas-dgt-no-caigas-estafa-sms-1436149'>Policía alerta sobre nuevas multas falsas de la DGT: ¡No caigas en la estafa del SMS!</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-alerta-nuevas-multas-falsas-dgt-no-caigas-estafa-sms-1436149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-estafa-3814174.jpg?tf=1200x' alt='Policía alerta sobre nuevas multas falsas de la DGT: ¡No caigas en la estafa del SMS!' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-programar-recordatorios-tareas-pendientes-1436098'>ChatGPT ahora puede programar recordatorios y tareas pendientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-programar-recordatorios-tareas-pendientes-1436098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-ahora-puede-programar-recordatorios-tareas-pendientes-4283219.jpg?tf=1200x' alt='ChatGPT ahora puede programar recordatorios y tareas pendientes' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-desvela-algunos-primeros-trabajos-llego-trabajar-1-dolar-hora-antes-liderar-apple-1436148'>Tim Cook desvela algunos de sus primeros trabajos: llegó a trabajar por 1 dólar la hora antes de liderar Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-desvela-algunos-primeros-trabajos-llego-trabajar-1-dolar-hora-antes-liderar-apple-1436148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Tim Cook desvela algunos de sus primeros trabajos: llegó a trabajar por 1 dólar la hora antes de liderar Apple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-1435978'>Hackean el puerto USB-C del iPhone y estas son las graves consecuencias para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-1435978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hackean-puerto-usb-c-iphone-estas-son-graves-consecuencias-ti-4282996.jpg?tf=1200x' alt='Hackean el puerto USB-C del iPhone y estas son las graves consecuencias para ti' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/extrano-cometa-podria-ser-visible-primera-vez-160000-anos-1436090'>Un extraño cometa podría ser visible por primera vez en 160.000 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/extrano-cometa-podria-ser-visible-primera-vez-160000-anos-1436090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cometa-tierra-4283151.jpg?tf=1200x' alt='Un extraño cometa podría ser visible por primera vez en 160.000 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recibe-tres-ciberataques-dia-cero-windows-11-1436082'>Microsoft recibe tres ciberataques de Día Cero en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-recibe-tres-ciberataques-dia-cero-windows-11-1436082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ataque-dia-cero-4283128.jpg?tf=1200x' alt='Microsoft recibe tres ciberataques de Día Cero en Windows 11' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-barra-tareas-luce-sorprendente-concepto-windows-25-1436146'>¿Un Windows sin barra de tareas? Así luce el sorprendente concepto de Windows 25</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-barra-tareas-luce-sorprendente-concepto-windows-25-1436146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/concepto-windows-25-4283259.jpg?tf=1200x' alt='¿Un Windows sin barra de tareas? Así luce el sorprendente concepto de Windows 25' />
     </a>
 </div>
 
