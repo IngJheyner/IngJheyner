@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-regadios-1435896'>Bill Gates tenía razón: la IA consigue ahorrar un 10% de agua, según los regantes españoles</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-regadios-1435896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-campo-4282881.jpg?tf=1200x' alt='Bill Gates tenía razón: la IA consigue ahorrar un 10% de agua, según los regantes españoles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/amazon-xiaomi-lian-venden-cascos-bluetooth-apenas-10-euros-1435886'>Amazon y Xiaomi la lían: venden unos cascos bluetooth por apenas 13 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/amazon-xiaomi-lian-venden-cascos-bluetooth-apenas-10-euros-1435886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-redmi-buds-6-play-4282874.jpg?tf=1200x' alt='Amazon y Xiaomi la lían: venden unos cascos bluetooth por apenas 13 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754'>Así es como pueden hackear tu WhatsApp en menos de 30 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-hackear-4282595.jpg?tf=1200x' alt='Así es como pueden hackear tu WhatsApp en menos de 30 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634'>El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mujer-dolor-cabeza-uso-movil-noche-4282752.jpg?tf=1200x' alt='El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos' />
     </a>
 </div>
 
