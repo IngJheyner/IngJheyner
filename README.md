@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004'>Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-alerta-sepe-te-roban-datos-1436028'>La peligrosa estafa de la que alerta el SEPE: te roban los datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-alerta-sepe-te-roban-datos-1436028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peligrosa-estafa-alerta-sepe-te-roban-datos-4283046.jpg?tf=1200x' alt='La peligrosa estafa de la que alerta el SEPE: te roban los datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-acabando-tradicional-generosidad-espanola-cada-vez-somos-tacanos-1436008'>Bizum está acabando con tradicional generosidad española, cada vez somos más tacaños</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/bizum-acabando-tradicional-generosidad-espanola-cada-vez-somos-tacanos-1436008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bizum-tacanos-4283037.jpg?tf=1200x' alt='Bizum está acabando con tradicional generosidad española, cada vez somos más tacaños' />
     </a>
 </div>
 
@@ -66,25 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004'>Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/astronauta-nasa-podria-haber-capturado-mejor-fotografia-espacio-jamas-tomada-1435971'>Astronauta de la NASA podría haber capturado la mejor fotografía desde el espacio jamás tomada</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/astronauta-nasa-podria-haber-capturado-mejor-fotografia-espacio-jamas-tomada-1435971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/astronauta-nasa-espacio-4283026.jpg?tf=1200x' alt='Astronauta de la NASA podría haber capturado la mejor fotografía desde el espacio jamás tomada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068'>Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/dreame-x50-ultra-complete-caracteristicas-informacion-precio-1428068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/dreame-x50-ultra-complete-4274622.jpg?tf=1200x' alt='Dreame X50 Ultra Complete es un robot aspirador con patas para superar escalones y se autolimpia a fondo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914'>Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-1435914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-demandado-no-revelar-participacion-twitter-evitar-pago-150-millones-dolares-4282901.jpg?tf=1200x' alt='Elon Musk demandado por no revelar su participación en Twitter y evitar el pago de 150 millones de dólares' />
     </a>
 </div>
 
