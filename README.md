@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634'>El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/vamping-multiplica-duermes-movil-estos-son-dos-sintomas-tener-cuenta-medicos-1435634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mujer-dolor-cabeza-uso-movil-noche-4282752.jpg?tf=1200x' alt='El "vamping" se multiplica si duermes con el móvil: estos son los dos síntomas a tener en cuenta según los médicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-mil-trucos-acabar-llamadas-spam-estos-son-verdaderamente-funcionan-1435698'>He probado mil trucos para acabar con las llamadas SPAM y estos son los que verdaderamente funcionan</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-mil-trucos-acabar-llamadas-spam-estos-son-verdaderamente-funcionan-1435698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamada-spam-4282543.jpg?tf=1200x' alt='He probado mil trucos para acabar con las llamadas SPAM y estos son los que verdaderamente funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-1435877'>Creían que esta calavera era la hermana de Cleopatra, pero se han llevado un chasco</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-1435877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-4282845.jpg?tf=1200x' alt='Creían que esta calavera era la hermana de Cleopatra, pero se han llevado un chasco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852'>DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-iptv-tarifa-jovenes-cambia-todo-1435852' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dazn-pone-patas-arriba-futbol-tarifa-menores-26-anos-cambia-todo-4282777.jpg?tf=1200x' alt='DAZN pone patas arriba el fútbol y va a por las IPTV con su tarifa casi gratis para menores de 26 años, lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/juego-serpiente-nokia-ahora-qr-solo-56-bytes-pero-curioso-error-1435848'>El juego de la serpiente de Nokia ahora cabe en un QR de solo 56 bytes, pero con un curioso error</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/juego-serpiente-nokia-ahora-qr-solo-56-bytes-pero-curioso-error-1435848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nokia-3310-4282797.jpg?tf=1200x' alt='El juego de la serpiente de Nokia ahora cabe en un QR de solo 56 bytes, pero con un curioso error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-1435769'>Prime Video tiene la película de terror que arrasa en la plataforma y recuerda a los clásicos de los 90</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-1435769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-4282618.jpg?tf=1200x' alt='Prime Video tiene la película de terror que arrasa en la plataforma y recuerda a los clásicos de los 90' />
     </a>
 </div>
 
