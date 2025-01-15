@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-1436130'>Amazon prepara un trasplante de cerebro para Alexa gracias a la IA generativa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-1436130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-4283260.jpg?tf=1200x' alt='Amazon prepara un trasplante de cerebro para Alexa gracias a la IA generativa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154'>WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/extrano-cometa-podria-ser-visible-primera-vez-160000-anos-1436090'>Un extraño cometa podría ser visible por primera vez en 160.000 años</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/extrano-cometa-podria-ser-visible-primera-vez-160000-anos-1436090' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cometa-tierra-4283151.jpg?tf=1200x' alt='Un extraño cometa podría ser visible por primera vez en 160.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-barra-tareas-luce-sorprendente-concepto-windows-25-1436146'>¿Un Windows sin barra de tareas? Así luce el sorprendente concepto de Windows 25</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-barra-tareas-luce-sorprendente-concepto-windows-25-1436146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/concepto-windows-25-4283259.jpg?tf=1200x' alt='¿Un Windows sin barra de tareas? Así luce el sorprendente concepto de Windows 25' />
     </a>
 </div>
 
