@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166'>Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-estafa-eres-o2-te-ofrecen-cambiarte-router-tarjeta-sim-mejor-4283277.jpg?tf=1200x' alt='Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-1436130'>Amazon prepara un trasplante de cerebro para Alexa gracias a la IA generativa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-1436130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-4283260.jpg?tf=1200x' alt='Amazon prepara un trasplante de cerebro para Alexa gracias a la IA generativa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-desvela-algunos-primeros-trabajos-llego-trabajar-1-dolar-hora-antes-liderar-apple-1436148'>Tim Cook desvela algunos de sus primeros trabajos: llegó a trabajar por 1 dólar la hora antes de liderar Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-desvela-algunos-primeros-trabajos-llego-trabajar-1-dolar-hora-antes-liderar-apple-1436148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Tim Cook desvela algunos de sus primeros trabajos: llegó a trabajar por 1 dólar la hora antes de liderar Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/extrano-cometa-podria-ser-visible-primera-vez-160000-anos-1436090'>Un extraño cometa podría ser visible por primera vez en 160.000 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/extrano-cometa-podria-ser-visible-primera-vez-160000-anos-1436090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cometa-tierra-4283151.jpg?tf=1200x' alt='Un extraño cometa podría ser visible por primera vez en 160.000 años' />
     </a>
 </div>
 
