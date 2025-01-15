@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamo-soporte-tecnico-estafa-vacia-cuenta-banco-minutos-1435909'>"Le llamo de soporte técnico": así es la estafa que vacía tu cuenta del banco en minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/llamo-soporte-tecnico-estafa-vacia-cuenta-banco-minutos-1435909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-llamada-4282899.jpg?tf=1200x' alt='"Le llamo de soporte técnico": así es la estafa que vacía tu cuenta del banco en minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-regadios-1435896'>Bill Gates tenía razón: la IA consigue ahorrar un 10% de agua, según los regantes españoles</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-regadios-1435896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-campo-4282881.jpg?tf=1200x' alt='Bill Gates tenía razón: la IA consigue ahorrar un 10% de agua, según los regantes españoles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/mejores-alternativas-windows-10-antes-llegue-fin-soporte-1435333'>Mejores alternativas a Windows 10 antes de que llegue el fin del soporte</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mejores-alternativas-windows-10-antes-llegue-fin-soporte-1435333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-soporte-4279997.jpg?tf=1200x' alt='Mejores alternativas a Windows 10 antes de que llegue el fin del soporte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754'>Así es como pueden hackear tu WhatsApp en menos de 30 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/como-pueden-hackear-whatsapp-menos-30-minutos-1435754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-hackear-4282595.jpg?tf=1200x' alt='Así es como pueden hackear tu WhatsApp en menos de 30 minutos' />
     </a>
 </div>
 
