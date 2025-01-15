@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867'>Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-1435877'>Creían que esta calavera era la hermana de Cleopatra, pero se han llevado un chasco</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-1435877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/creian-calavera-era-hermana-cleopatra-pero-han-llevado-chasco-4282845.jpg?tf=1200x' alt='Creían que esta calavera era la hermana de Cleopatra, pero se han llevado un chasco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867'>Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF, así puedes probarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/consiguen-doom-funcione-pdf-1435867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parece-broma-pero-no-consiguen-doom-funcione-pdf-4282816.jpg?tf=1200x' alt='Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/parece-broma-pero-no-consiguen-doom-funcione-pdf-4282816.jpg?tf=1200x' alt='Parece una broma, pero no lo es: consiguen que Doom funcione en un PDF, así puedes probarlo' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-1435769'>Prime Video tiene la película de terror que arrasa en la plataforma y recuerda a los clásicos de los 90</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-1435769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/prime-video-tiene-pelicula-terror-arrasa-plataforma-recuerda-clasicos-90-4282618.jpg?tf=1200x' alt='Prime Video tiene la película de terror que arrasa en la plataforma y recuerda a los clásicos de los 90' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16-mantiene-apple-como-mayor-fabricante-telefonos-mundo-1435846'>El iPhone 16 mantiene a Apple como el mayor fabricante de teléfonos del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/iphone-16-mantiene-apple-como-mayor-fabricante-telefonos-mundo-1435846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonos-moviles-4282790.jpg?tf=1200x' alt='El iPhone 16 mantiene a Apple como el mayor fabricante de teléfonos del mundo' />
     </a>
 </div>
 
