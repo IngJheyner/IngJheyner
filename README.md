@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-alerta-sepe-te-roban-datos-1436028'>La peligrosa estafa de la que alerta el SEPE: te roban los datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-alerta-sepe-te-roban-datos-1436028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peligrosa-estafa-alerta-sepe-te-roban-datos-4283046.jpg?tf=1200x' alt='La peligrosa estafa de la que alerta el SEPE: te roban los datos' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/experto-afirma-whatsapp-telegram-usar-mensajeria-decentralizada-evitar-hackeos-1436020'>Experto afirma que WhatsApp y Telegram deberían usar la mensajería descentralizada para evitar hackeos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/experto-afirma-whatsapp-telegram-usar-mensajeria-decentralizada-evitar-hackeos-1436020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telegram-whatsapp-hackeados-4283050.jpg?tf=1200x' alt='Experto afirma que WhatsApp y Telegram deberían usar la mensajería descentralizada para evitar hackeos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-acabando-tradicional-generosidad-espanola-cada-vez-somos-tacanos-1436008'>Bizum está acabando con tradicional generosidad española, cada vez somos más tacaños</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bizum-acabando-tradicional-generosidad-espanola-cada-vez-somos-tacanos-1436008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bizum-tacanos-4283037.jpg?tf=1200x' alt='Bizum está acabando con tradicional generosidad española, cada vez somos más tacaños' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-quinto-estado-materia-podria-cambiarlo-todo-1435910'>Científicos descubren el quinto estado de la materia que podría cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-descubren-quinto-estado-materia-podria-cambiarlo-todo-1435910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientificos-encuentran-quinto-estado-materia-4282972.jpg?tf=1200x' alt='Científicos descubren el quinto estado de la materia que podría cambiarlo todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068'>SpaceX ya tiene nueva fecha para el séptimo vuelo de Starship</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-1434068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-prepara-septimo-vuelo-starship-previsto-semana-elon-musk-ha-guardado-dos-sorpresas-4279779.jpg?tf=1200x' alt='SpaceX ya tiene nueva fecha para el séptimo vuelo de Starship' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-actualizas-windows-11-te-quedaras-word-excel-powerpoint-estas-advertido-1435987'>Si no actualizas a Windows 11 te quedarás sin Word, Excel y PowerPoint, estás advertido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-actualizas-windows-11-te-quedaras-word-excel-powerpoint-estas-advertido-1435987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4283029.jpg?tf=1200x' alt='Si no actualizas a Windows 11 te quedarás sin Word, Excel y PowerPoint, estás advertido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004'>Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-sube-sueldo-18-pero-no-ceo-mejor-pagado-mundo-mucha-diferencia-1436004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Tim Cook se sube el sueldo un 18%, pero no es el CEO mejor pagado del mundo con mucha diferencia' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dji-flip-dron-plegable-ligero-compacto-seguro-ideal-principiantes-1436021'>DJI Flip, el dron plegable más ligero, compacto y seguro ideal para principiantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dji-flip-dron-plegable-ligero-compacto-seguro-ideal-principiantes-1436021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dji-flip-4283086.jpg?tf=1200x' alt='DJI Flip, el dron plegable más ligero, compacto y seguro ideal para principiantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/astronauta-nasa-podria-haber-capturado-mejor-fotografia-espacio-jamas-tomada-1435971'>Astronauta de la NASA podría haber capturado la mejor fotografía desde el espacio jamás tomada</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/astronauta-nasa-podria-haber-capturado-mejor-fotografia-espacio-jamas-tomada-1435971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/astronauta-nasa-espacio-4283026.jpg?tf=1200x' alt='Astronauta de la NASA podría haber capturado la mejor fotografía desde el espacio jamás tomada' />
+    <h4><a href='https://computerhoy.20minutos.es/ni-linkedin-ni-infojobs-puedes-encontrar-empleo-2025-chatgpt-nomada-digital-1436016'>Ni LinkedIn ni InfoJobs: así puedes encontrar empleo en 2025 con ChatGPT, según un nómada digital</a></h4>
+    <a href='https://computerhoy.20minutos.es/ni-linkedin-ni-infojobs-puedes-encontrar-empleo-2025-chatgpt-nomada-digital-1436016' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/chatgpt-ayuda-trabajo-3598559.jpg?tf=1200x' alt='Ni LinkedIn ni InfoJobs: así puedes encontrar empleo en 2025 con ChatGPT, según un nómada digital' />
     </a>
 </div>
 
