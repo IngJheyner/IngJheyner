@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/llegan-huawei-freebuds-pro-4-auriculares-sonido-premium-100-db-cancelacion-1430491'>Llegan los Huawei Freebuds Pro 4, sus auriculares con sonido más premium y hasta 100 dB de cancelación</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/llegan-huawei-freebuds-pro-4-auriculares-sonido-premium-100-db-cancelacion-1430491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-freebuds-pro-4-4274745.jpg?tf=1200x' alt='Llegan los Huawei Freebuds Pro 4, sus auriculares con sonido más premium y hasta 100 dB de cancelación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/honor-apuesta-rendimiento-snapdragon-8-elite-camaras-nuevo-magic-7-pro-1430445'>Honor apuesta por rendimiento con Snapdragon 8 Elite y cámaras con el nuevo Magic 7 Pro</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/honor-apuesta-rendimiento-snapdragon-8-elite-camaras-nuevo-magic-7-pro-1430445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honor-magic-7-pro-4274144.jpg?tf=1200x' alt='Honor apuesta por rendimiento con Snapdragon 8 Elite y cámaras con el nuevo Magic 7 Pro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-llamas-1435387'>Este es el electrodoméstico que debes desenchufar tras su uso para que no se queme</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-reposo-ni-apagado-electrodomestico-debes-desenchufar-llamas-1435387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/electrodomestico-llamas-apagar-4282942.jpg?tf=1200x' alt='Este es el electrodoméstico que debes desenchufar tras su uso para que no se queme' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-taxistas-1434477'>Ni Waze ni Google Maps, esta es la app de navegación preferida de los taxistas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-waze-ni-google-maps-app-navegacion-preferida-taxistas-1434477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/06/apple-maps_2.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta es la app de navegación preferida de los taxistas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamo-soporte-tecnico-estafa-vacia-cuenta-banco-minutos-1435909'>"Le llamo de soporte técnico": así es la estafa que vacía tu cuenta del banco en minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/llamo-soporte-tecnico-estafa-vacia-cuenta-banco-minutos-1435909' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-llamada-4282899.jpg?tf=1200x' alt='"Le llamo de soporte técnico": así es la estafa que vacía tu cuenta del banco en minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-regadios-1435896'>Bill Gates tenía razón: la IA consigue ahorrar un 10% de agua, según los regantes españoles</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-regadios-1435896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-tenia-razon-ia-consigue-ahorrar-10-agua-campo-4282881.jpg?tf=1200x' alt='Bill Gates tenía razón: la IA consigue ahorrar un 10% de agua, según los regantes españoles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/amazon-xiaomi-lian-venden-cascos-bluetooth-apenas-10-euros-1435886'>Amazon y Xiaomi la lían: venden unos cascos bluetooth por apenas 13 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/amazon-xiaomi-lian-venden-cascos-bluetooth-apenas-10-euros-1435886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-redmi-buds-6-play-4282874.jpg?tf=1200x' alt='Amazon y Xiaomi la lían: venden unos cascos bluetooth por apenas 13 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/pasara-tiktok-eeuu-finalmente-prohibe-1435728'>Qué pasará con TikTok si EEUU finalmente lo prohíbe en unos días</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/pasara-tiktok-eeuu-finalmente-prohibe-1435728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-eeuu-4282630.jpg?tf=1200x' alt='Qué pasará con TikTok si EEUU finalmente lo prohíbe en unos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mejores-alternativas-windows-10-antes-llegue-fin-soporte-1435333'>Mejores alternativas a Windows 10 antes de que llegue el fin del soporte</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mejores-alternativas-windows-10-antes-llegue-fin-soporte-1435333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-10-soporte-4279997.jpg?tf=1200x' alt='Mejores alternativas a Windows 10 antes de que llegue el fin del soporte' />
     </a>
 </div>
 
