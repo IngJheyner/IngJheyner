@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203'>Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-4283388.jpg?tf=1200x' alt='Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-google-baja-cuota-mercado-primera-vez-15-anos-1436305'>Palo a Google, baja su cuota de mercado… ¡Por primera vez en 15 años!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/palo-google-baja-cuota-mercado-primera-vez-15-anos-1436305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-4281015.jpg?tf=1200x' alt='Palo a Google, baja su cuota de mercado… ¡Por primera vez en 15 años!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-retoma-tactica-miedo-abandones-windows-10-ver-todas-1436252'>Microsoft retoma la táctica del miedo para que abandones Windows 10 de una ver por todas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-retoma-tactica-miedo-abandones-windows-10-ver-todas-1436252' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-10-microsoft-4243258.jpg?tf=1200x' alt='Microsoft retoma la táctica del miedo para que abandones Windows 10 de una ver por todas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-quedaran-acceso-1-febrero-2025-1436250'>Adiós WhatsApp, lista de móviles que se quedarán sin acceso desde el 1 de febrero de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-quedaran-acceso-1-febrero-2025-1436250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='Adiós WhatsApp, lista de móviles que se quedarán sin acceso desde el 1 de febrero de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-1436263'>Así es la nueva estafa que llega en forma de paquete: cuidado con lo que hay en su interior</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-1436263' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-4283412.jpg?tf=1200x' alt='Así es la nueva estafa que llega en forma de paquete: cuidado con lo que hay en su interior' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-ya-oficial-trailer-fecha-lanzamiento-primer-juego-todos-detalles-1436322'>¡Nintendo Switch 2 ya es oficial!: tráiler con fecha de lanzamiento, primer juego y todos los detalles</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-ya-oficial-trailer-fecha-lanzamiento-primer-juego-todos-detalles-1436322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4283512.jpg?tf=1200x' alt='¡Nintendo Switch 2 ya es oficial!: tráiler con fecha de lanzamiento, primer juego y todos los detalles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-gracias-ia-tratamiento-enfermedad-farmaceuticas-tiraron-toalla-1436240'>Crean gracias a la IA un tratamiento para una enfermedad con la que las farmacéuticas tiraron la toalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/crean-gracias-ia-tratamiento-enfermedad-farmaceuticas-tiraron-toalla-1436240' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-medicina-4283404.jpg?tf=1200x' alt='Crean gracias a la IA un tratamiento para una enfermedad con la que las farmacéuticas tiraron la toalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/iptv-espanol-popular-mundo-cambia-nombre-realiza-curiosa-peticion-estados-unidos-1436231'>La IPTV en español más popular del mundo cambia de nombre y realiza una curiosa petición en Estados Unidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/iptv-espanol-popular-mundo-cambia-nombre-realiza-curiosa-peticion-estados-unidos-1436231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='La IPTV en español más popular del mundo cambia de nombre y realiza una curiosa petición en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112'>Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/desactiva-funcion-whatsapp-estafas-4282130.jpg?tf=1200x' alt='Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto' />
     </a>
 </div>
 
