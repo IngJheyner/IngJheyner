@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-1436448'>Elon Musk entierra el hacha de guerra y felicita a Jeff Bezos por poner en órbita el cohete New Glenn</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-1436448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-entierra-hacha-guerra-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-4283714.jpg?tf=1200x' alt='Elon Musk entierra el hacha de guerra y felicita a Jeff Bezos por poner en órbita el cohete New Glenn' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429'>Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-gamer-4283717.jpg?tf=1200x' alt='Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-145-euros-termina-siendo-estafa-estrategica-1436398'>Una Nvidia GeForce RTX 4090 por 145 euros termina siendo una estafa estratégica</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-145-euros-termina-siendo-estafa-estrategica-1436398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-geforce-rtx-4090-4283676.jpg?tf=1200x' alt='Una Nvidia GeForce RTX 4090 por 145 euros termina siendo una estafa estratégica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/uso-excesivo-ia-podria-estar-afectando-capacidad-reflexionar-pensar-estudio-1436426'>El uso excesivo de IA podría estar afectando a nuestra capacidad de reflexionar y pensar, según un estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/uso-excesivo-ia-podria-estar-afectando-capacidad-reflexionar-pensar-estudio-1436426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-4283708.jpg?tf=1200x' alt='El uso excesivo de IA podría estar afectando a nuestra capacidad de reflexionar y pensar, según un estudio' />
     </a>
 </div>
 
