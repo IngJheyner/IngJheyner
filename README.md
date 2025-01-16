@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-1436263'>Así es la nueva estafa que llega en forma de paquete: cuidado con lo que hay en su interior</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-1436263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-4283412.jpg?tf=1200x' alt='Así es la nueva estafa que llega en forma de paquete: cuidado con lo que hay en su interior' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-ya-oficial-trailer-fecha-lanzamiento-primer-juego-todos-detalles-1436322'>¡Nintendo Switch 2 ya es oficial!: tráiler con fecha de lanzamiento, primer juego y todos los detalles</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-ya-oficial-trailer-fecha-lanzamiento-primer-juego-todos-detalles-1436322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-4283512.jpg?tf=1200x' alt='¡Nintendo Switch 2 ya es oficial!: tráiler con fecha de lanzamiento, primer juego y todos los detalles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-gracias-ia-tratamiento-enfermedad-farmaceuticas-tiraron-toalla-1436240'>Crean gracias a la IA un tratamiento para una enfermedad con la que las farmacéuticas tiraron la toalla</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/crean-gracias-ia-tratamiento-enfermedad-farmaceuticas-tiraron-toalla-1436240' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-medicina-4283404.jpg?tf=1200x' alt='Crean gracias a la IA un tratamiento para una enfermedad con la que las farmacéuticas tiraron la toalla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112'>Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/desactiva-funcion-whatsapp-estafas-4282130.jpg?tf=1200x' alt='Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/fin-traductores-humanos-meta-lanza-ia-traduce-101-idiomas-tiempo-real-1436217'>¿Es el fin de los traductores humanos? Meta lanza una IA que traduce 101 idiomas en tiempo real</a></h4>
-    <a href='https://computerhoy.20minutos.es/fin-traductores-humanos-meta-lanza-ia-traduce-101-idiomas-tiempo-real-1436217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-meta-traduccion-4283384.jpg?tf=1200x' alt='¿Es el fin de los traductores humanos? Meta lanza una IA que traduce 101 idiomas en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227'>Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-filtraciones-4283386.jpg?tf=1200x' alt='Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte' />
     </a>
 </div>
 
