@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-gracias-ia-tratamiento-enfermedad-farmaceuticas-tiraron-toalla-1436240'>Crean gracias a la IA un tratamiento para una enfermedad con la que las farmacéuticas tiraron la toalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/crean-gracias-ia-tratamiento-enfermedad-farmaceuticas-tiraron-toalla-1436240' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-medicina-4283404.jpg?tf=1200x' alt='Crean gracias a la IA un tratamiento para una enfermedad con la que las farmacéuticas tiraron la toalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/iptv-espanol-popular-mundo-cambia-nombre-realiza-curiosa-peticion-estados-unidos-1436231'>La IPTV en español más popular del mundo cambia de nombre y realiza una curiosa petición en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/iptv-espanol-popular-mundo-cambia-nombre-realiza-curiosa-peticion-estados-unidos-1436231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='La IPTV en español más popular del mundo cambia de nombre y realiza una curiosa petición en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112'>Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/desactiva-funcion-whatsapp-estafas-4282130.jpg?tf=1200x' alt='Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227'>Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte</a></h4>
     <a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-filtraciones-4283386.jpg?tf=1200x' alt='Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-piratas-videojuego-legal-nuevo-truco-copyright-ver-deporte-1436207'>De las IPTV piratas al "videojuego legal": este es el nuevo truco contra el copyright para ver deporte </a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/iptv-piratas-videojuego-legal-nuevo-truco-copyright-ver-deporte-1436207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-3d-4283335.jpg?tf=1200x' alt='De las IPTV piratas al "videojuego legal": este es el nuevo truco contra el copyright para ver deporte ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205'>Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/crean-gato-schrodinger-dentro-ordenador-cuantico-vivo-muerto-mismo-tiempo-4283324.jpg?tf=1200x' alt='Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo' />
     </a>
 </div>
 
