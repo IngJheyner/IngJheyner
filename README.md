@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puedes-crea-propios-stickers-cara-whatsapp-nueva-herramienta-1436213'>Así puedes crea tus propios stickers con tu cara en WhatsApp con la nueva herramienta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/puedes-crea-propios-stickers-cara-whatsapp-nueva-herramienta-1436213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4283422.jpg?tf=1200x' alt='Así puedes crea tus propios stickers con tu cara en WhatsApp con la nueva herramienta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-obsesionado-idea-no-tiene-solucion-cuarto-iphone-1436327'>Apple está obsesionado con una idea para la que no tiene solución: el cuarto iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-obsesionado-idea-no-tiene-solucion-cuarto-iphone-1436327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-obsesionado-idea-no-tiene-solucion-cuarto-iphone-4283513.jpg?tf=1200x' alt='Apple está obsesionado con una idea para la que no tiene solución: el cuarto iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/omen-max-16-portatil-gaming-potente-hp-rtx-5090-1436354'>OMEN MAX 16: el portátil gaming más potente de HP con una RTX 5090</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/omen-max-16-portatil-gaming-potente-hp-rtx-5090-1436354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hp-omen-16-5080-4283553.jpg?tf=1200x' alt='OMEN MAX 16: el portátil gaming más potente de HP con una RTX 5090' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-intensifica-despidos-no-solo-afecta-empleados-rendimiento-1436262'>Microsoft intensifica los despidos, y no solo afecta a empleados con bajo rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-intensifica-despidos-no-solo-afecta-empleados-rendimiento-1436262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-4283430.jpg?tf=1200x' alt='Microsoft intensifica los despidos, y no solo afecta a empleados con bajo rendimiento' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-1436379'>Hallazgo sorprendente en Windows 10: expertos recomiendan actualizar ahora mismo, "no esperes"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-1436379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-4283660.jpg?tf=1200x' alt='Hallazgo sorprendente en Windows 10: expertos recomiendan actualizar ahora mismo, "no esperes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/puerta-casa-llaves-peligro-1312236'>Si tu puerta de casa tiene este tipo de llaves, es como si la dejaras abierta</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/puerta-casa-llaves-peligro-1312236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si tu puerta de casa tiene este tipo de llaves, es como si la dejaras abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/productos-menos-vendidos-apple-pero-siguen-apostando-1436290'>Este es uno de los productos menos vendidos de Apple, pero siguen apostando por él</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/productos-menos-vendidos-apple-pero-siguen-apostando-1436290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/productos-menos-vendidos-apple-pero-siguen-apostando-4283475.jpg?tf=1200x' alt='Este es uno de los productos menos vendidos de Apple, pero siguen apostando por él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-evento-madrid-fechas-como-conseguir-invitacion-gratis-1436393'>Nintendo Switch 2 podrá probarse en Madrid: fechas y cómo conseguir tu invitación gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-evento-madrid-fechas-como-conseguir-invitacion-gratis-1436393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-podra-probarse-madrid-fechas-como-conseguir-invitacion-gratis-4283630.jpg?tf=1200x' alt='Nintendo Switch 2 podrá probarse en Madrid: fechas y cómo conseguir tu invitación gratis' />
     </a>
 </div>
 
