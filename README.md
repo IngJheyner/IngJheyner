@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-modificar-mapa-tierra-uniendo-dos-continentes-londres-nueva-york-70-minutos-1436272'>Elon Musk quiere modificar el mapa de la Tierra uniendo dos continentes: de Londres a Nueva York en 70 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-modificar-mapa-tierra-uniendo-dos-continentes-londres-nueva-york-70-minutos-1436272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283449.jpg?tf=1200x' alt='Elon Musk quiere modificar el mapa de la Tierra uniendo dos continentes: de Londres a Nueva York en 70 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-funciona-spoofing-nueva-estafa-suplanta-identidad-roba-datos-bancarios-1436356'>Expertos alertan: así funciona el spoofing, la nueva estafa que suplanta tu identidad y roba tus datos bancarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-funciona-spoofing-nueva-estafa-suplanta-identidad-roba-datos-bancarios-1436356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-alertan-funciona-spoofing-nueva-estafa-suplanta-identidad-roba-datos-bancarios-4283617.jpg?tf=1200x' alt='Expertos alertan: así funciona el spoofing, la nueva estafa que suplanta tu identidad y roba tus datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-hace-saltar-alarmas-detectan-posible-agujero-negro-sistema-solar-1436311'>La NASA hace saltar las alarmas: detectan un posible agujero negro en el sistema solar</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-hace-saltar-alarmas-detectan-posible-agujero-negro-sistema-solar-1436311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aguero-negro-4283474.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: detectan un posible agujero negro en el sistema solar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203'>Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-4283388.jpg?tf=1200x' alt='Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-google-baja-cuota-mercado-primera-vez-15-anos-1436305'>Palo a Google, baja su cuota de mercado… ¡Por primera vez en 15 años!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palo-google-baja-cuota-mercado-primera-vez-15-anos-1436305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-elimina-200-paginas-web-iptv-streaming-ilegal-violar-sanciones-ue-4281015.jpg?tf=1200x' alt='Palo a Google, baja su cuota de mercado… ¡Por primera vez en 15 años!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-retoma-tactica-miedo-abandones-windows-10-ver-todas-1436252'>Microsoft retoma la táctica del miedo para que abandones Windows 10 de una ver por todas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-retoma-tactica-miedo-abandones-windows-10-ver-todas-1436252' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-10-microsoft-4243258.jpg?tf=1200x' alt='Microsoft retoma la táctica del miedo para que abandones Windows 10 de una ver por todas' />
     </a>
 </div>
 
