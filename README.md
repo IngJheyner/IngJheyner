@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puedes-crea-propios-stickers-cara-whatsapp-nueva-herramienta-1436213'>Así puedes crea tus propios stickers con tu cara en WhatsApp con la nueva herramienta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/puedes-crea-propios-stickers-cara-whatsapp-nueva-herramienta-1436213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4283422.jpg?tf=1200x' alt='Así puedes crea tus propios stickers con tu cara en WhatsApp con la nueva herramienta' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-1436326'>No solo Los Goonies: esta mítica saga de los 80 también volverá en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-1436326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-4283506.jpg?tf=1200x' alt='No solo Los Goonies: esta mítica saga de los 80 también volverá en 2025' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-obsesionado-idea-no-tiene-solucion-cuarto-iphone-1436327'>Apple está obsesionado con una idea para la que no tiene solución: el cuarto iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-obsesionado-idea-no-tiene-solucion-cuarto-iphone-1436327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-obsesionado-idea-no-tiene-solucion-cuarto-iphone-4283513.jpg?tf=1200x' alt='Apple está obsesionado con una idea para la que no tiene solución: el cuarto iPhone' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/futuro-television-samsung-openai-crean-ai-tv-chatgpt-dall-1436428'>¿El futuro de la televisión? Samsung y OpenAI crean una “AI TV” con ChatGPT, DALL-E y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/futuro-television-samsung-openai-crean-ai-tv-chatgpt-dall-1436428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-tv-4283711.jpg?tf=1200x' alt='¿El futuro de la televisión? Samsung y OpenAI crean una “AI TV” con ChatGPT, DALL-E y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/omen-max-16-portatil-gaming-potente-hp-rtx-5090-1436354'>OMEN MAX 16: el portátil gaming más potente de HP con una RTX 5090</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/omen-max-16-portatil-gaming-potente-hp-rtx-5090-1436354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hp-omen-16-5080-4283553.jpg?tf=1200x' alt='OMEN MAX 16: el portátil gaming más potente de HP con una RTX 5090' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-145-euros-termina-siendo-estafa-estrategica-1436398'>Una Nvidia GeForce RTX 4090 por 145 euros termina siendo una estafa estratégica</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-145-euros-termina-siendo-estafa-estrategica-1436398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-geforce-rtx-4090-4283676.jpg?tf=1200x' alt='Una Nvidia GeForce RTX 4090 por 145 euros termina siendo una estafa estratégica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-intensifica-despidos-no-solo-afecta-empleados-rendimiento-1436262'>Microsoft intensifica los despidos, y no solo afecta a empleados con bajo rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-intensifica-despidos-no-solo-afecta-empleados-rendimiento-1436262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-4283430.jpg?tf=1200x' alt='Microsoft intensifica los despidos, y no solo afecta a empleados con bajo rendimiento' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/uso-excesivo-ia-podria-estar-afectando-capacidad-reflexionar-pensar-estudio-1436426'>El uso excesivo de IA podría estar afectando a nuestra capacidad de reflexionar y pensar, según un estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/uso-excesivo-ia-podria-estar-afectando-capacidad-reflexionar-pensar-estudio-1436426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-4283708.jpg?tf=1200x' alt='El uso excesivo de IA podría estar afectando a nuestra capacidad de reflexionar y pensar, según un estudio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-1436379'>Hallazgo sorprendente en Windows 10: expertos recomiendan actualizar ahora mismo, "no esperes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-1436379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-4283660.jpg?tf=1200x' alt='Hallazgo sorprendente en Windows 10: expertos recomiendan actualizar ahora mismo, "no esperes"' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/problemas-android-auto-google-lanza-parche-solucionar-fallo-popular-aplicacion-1436425'>¿Problemas con Android Auto? Google lanza un parche para solucionar un fallo en esta popular aplicación</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/problemas-android-auto-google-lanza-parche-solucionar-fallo-popular-aplicacion-1436425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4260682.jpg?tf=1200x' alt='¿Problemas con Android Auto? Google lanza un parche para solucionar un fallo en esta popular aplicación' />
     </a>
 </div>
 
