@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-modificar-mapa-tierra-uniendo-dos-continentes-londres-nueva-york-70-minutos-1436272'>Elon Musk quiere modificar el mapa de la Tierra uniendo dos continentes: de Londres a Nueva York en 70 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-modificar-mapa-tierra-uniendo-dos-continentes-londres-nueva-york-70-minutos-1436272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283449.jpg?tf=1200x' alt='Elon Musk quiere modificar el mapa de la Tierra uniendo dos continentes: de Londres a Nueva York en 70 minutos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-intensifica-despidos-no-solo-afecta-empleados-rendimiento-1436262'>Microsoft intensifica los despidos, y no solo afecta a empleados con bajo rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-intensifica-despidos-no-solo-afecta-empleados-rendimiento-1436262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-4283430.jpg?tf=1200x' alt='Microsoft intensifica los despidos, y no solo afecta a empleados con bajo rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-funciona-spoofing-nueva-estafa-suplanta-identidad-roba-datos-bancarios-1436356'>Expertos alertan: así funciona el spoofing, la nueva estafa que suplanta tu identidad y roba tus datos bancarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-funciona-spoofing-nueva-estafa-suplanta-identidad-roba-datos-bancarios-1436356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-alertan-funciona-spoofing-nueva-estafa-suplanta-identidad-roba-datos-bancarios-4283617.jpg?tf=1200x' alt='Expertos alertan: así funciona el spoofing, la nueva estafa que suplanta tu identidad y roba tus datos bancarios' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-1436379'>Hallazgo sorprendente en Windows 10: expertos recomiendan actualizar ahora mismo, "no esperes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-1436379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-4283660.jpg?tf=1200x' alt='Hallazgo sorprendente en Windows 10: expertos recomiendan actualizar ahora mismo, "no esperes"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-hace-saltar-alarmas-detectan-posible-agujero-negro-sistema-solar-1436311'>La NASA hace saltar las alarmas: detectan un posible agujero negro en el sistema solar</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-hace-saltar-alarmas-detectan-posible-agujero-negro-sistema-solar-1436311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aguero-negro-4283474.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: detectan un posible agujero negro en el sistema solar' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/puerta-casa-llaves-peligro-1312236'>Si tu puerta de casa tiene este tipo de llaves, es como si la dejaras abierta</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/puerta-casa-llaves-peligro-1312236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/llaves-casa-3188208.jpg?tf=1200x' alt='Si tu puerta de casa tiene este tipo de llaves, es como si la dejaras abierta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-trabaja-alternativa-android-auto-cientos-aplicaciones-coches-1436289'>Google trabaja en la alternativa a Android Auto con cientos de aplicaciones para los coches</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-trabaja-alternativa-android-auto-cientos-aplicaciones-coches-1436289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-trabaja-alternativa-android-auto-cientos-aplicaciones-coches-4283454.jpg?tf=1200x' alt='Google trabaja en la alternativa a Android Auto con cientos de aplicaciones para los coches' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/productos-menos-vendidos-apple-pero-siguen-apostando-1436290'>Este es uno de los productos menos vendidos de Apple, pero siguen apostando por él</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/productos-menos-vendidos-apple-pero-siguen-apostando-1436290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/productos-menos-vendidos-apple-pero-siguen-apostando-4283475.jpg?tf=1200x' alt='Este es uno de los productos menos vendidos de Apple, pero siguen apostando por él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203'>Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-4283388.jpg?tf=1200x' alt='Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-evento-madrid-fechas-como-conseguir-invitacion-gratis-1436393'>Nintendo Switch 2 podrá probarse en Madrid: fechas y cómo conseguir tu invitación gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-evento-madrid-fechas-como-conseguir-invitacion-gratis-1436393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-podra-probarse-madrid-fechas-como-conseguir-invitacion-gratis-4283630.jpg?tf=1200x' alt='Nintendo Switch 2 podrá probarse en Madrid: fechas y cómo conseguir tu invitación gratis' />
     </a>
 </div>
 
