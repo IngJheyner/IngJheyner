@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-llena-cargos-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-llena-cargos-1435955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-revela-mejor-habilidad-manejar-ia-sera-importante-usar-inteligencia-1435944'>Sam Altman revela la mejor habilidad para manejar la IA: "Será más importante que usar la inteligencia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-revela-mejor-habilidad-manejar-ia-sera-importante-usar-inteligencia-1435944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sam-altman-consejero-delegado-openai-hablo-importancia-mantener-concentracion-reciente-entrevista-podcast-4257652.jpg?tf=1200x' alt='Sam Altman revela la mejor habilidad para manejar la IA: "Será más importante que usar la inteligencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166'>Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-estafa-eres-o2-te-ofrecen-cambiarte-router-tarjeta-sim-mejor-4283277.jpg?tf=1200x' alt='Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154'>WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-alerta-nuevas-multas-falsas-dgt-no-caigas-estafa-sms-1436149'>Policía alerta sobre nuevas multas falsas de la DGT: ¡No caigas en la estafa del SMS!</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-alerta-nuevas-multas-falsas-dgt-no-caigas-estafa-sms-1436149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/dgt-estafa-3814174.jpg?tf=1200x' alt='Policía alerta sobre nuevas multas falsas de la DGT: ¡No caigas en la estafa del SMS!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-desvela-algunos-primeros-trabajos-llego-trabajar-1-dolar-hora-antes-liderar-apple-1436148'>Tim Cook desvela algunos de sus primeros trabajos: llegó a trabajar por 1 dólar la hora antes de liderar Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-desvela-algunos-primeros-trabajos-llego-trabajar-1-dolar-hora-antes-liderar-apple-1436148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/tim-cook-3546991.jpg?tf=1200x' alt='Tim Cook desvela algunos de sus primeros trabajos: llegó a trabajar por 1 dólar la hora antes de liderar Apple' />
     </a>
 </div>
 
