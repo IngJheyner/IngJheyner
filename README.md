@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429'>Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-gamer-4283717.jpg?tf=1200x' alt='Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-1436326'>No solo Los Goonies: esta mítica saga de los 80 también volverá en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-1436326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-4283506.jpg?tf=1200x' alt='No solo Los Goonies: esta mítica saga de los 80 también volverá en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/uso-excesivo-ia-podria-estar-afectando-capacidad-reflexionar-pensar-estudio-1436426'>El uso excesivo de IA podría estar afectando a nuestra capacidad de reflexionar y pensar, según un estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/uso-excesivo-ia-podria-estar-afectando-capacidad-reflexionar-pensar-estudio-1436426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-4283708.jpg?tf=1200x' alt='El uso excesivo de IA podría estar afectando a nuestra capacidad de reflexionar y pensar, según un estudio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/problemas-android-auto-google-lanza-parche-solucionar-fallo-popular-aplicacion-1436425'>¿Problemas con Android Auto? Google lanza un parche para solucionar un fallo en esta popular aplicación</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/problemas-android-auto-google-lanza-parche-solucionar-fallo-popular-aplicacion-1436425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4260682.jpg?tf=1200x' alt='¿Problemas con Android Auto? Google lanza un parche para solucionar un fallo en esta popular aplicación' />
     </a>
 </div>
 
