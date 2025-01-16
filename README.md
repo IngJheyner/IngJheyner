@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205'>Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/crean-gato-schrodinger-dentro-ordenador-cuantico-vivo-muerto-mismo-tiempo-4283324.jpg?tf=1200x' alt='Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hackeo-telefonica-datos-clientes-1436027'>Palo a Telefónica: hacker abre una brecha de seguridad y publica 2,3 GB de datos de sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hackeo-telefonica-datos-clientes-1436027' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonica-4283137.jpg?tf=1200x' alt='Palo a Telefónica: hacker abre una brecha de seguridad y publica 2,3 GB de datos de sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/new-glenn-despega-espacio-blue-origin-jeff-bezos-rompen-reinado-spacex-elon-musk-1436201'>El New Glenn despega al espacio: Blue Origin y Jeff Bezos rompen con el reinado de SpaceX y Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/new-glenn-despega-espacio-blue-origin-jeff-bezos-rompen-reinado-spacex-elon-musk-1436201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/new-glenn-blue-origin-jeff-bezos-4279831.jpg?tf=1200x' alt='El New Glenn despega al espacio: Blue Origin y Jeff Bezos rompen con el reinado de SpaceX y Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-1436193'>Esta es Sama, la primera azafata digital creada con IA, que ya trabaja para Qatar Airways</a></h4>
     <a href='https://computerhoy.20minutos.es/life/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-1436193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-4283320.jpg?tf=1200x' alt='Esta es Sama, la primera azafata digital creada con IA, que ya trabaja para Qatar Airways' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/problemas-ventas-moviles-plegables-1436053'>¿Qué pasa con los móviles plegables? De salvación de la gama premium a los primeros indicios de flaqueo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/problemas-ventas-moviles-plegables-1436053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755666.jpg?tf=1200x' alt='¿Qué pasa con los móviles plegables? De salvación de la gama premium a los primeros indicios de flaqueo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ia-capaz-crear-app-necesidad-saber-programacion-totalmente-gratis-cuestion-minutos-1434388'>Esta IA es capaz de crear una app sin necesidad de saber programación, totalmente gratis y en cuestión de minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ia-capaz-crear-app-necesidad-saber-programacion-totalmente-gratis-cuestion-minutos-1434388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/calculadora-cientifica-python-codigo-vs-code-cursor-4280543.jpg?tf=1200x' alt='Esta IA es capaz de crear una app sin necesidad de saber programación, totalmente gratis y en cuestión de minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-explica-emuladores-son-ilegales-1436180'>Nintendo habla sobre los emuladores y explica cuándo son ilegales, y cuándo no</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-explica-emuladores-son-ilegales-1436180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-habla-emuladores-dice-cuando-son-legales-cuando-no-4283299.jpg?tf=1200x' alt='Nintendo habla sobre los emuladores y explica cuándo son ilegales, y cuándo no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-mata-inteligencia-artificial-anuncia-tecnologia-sustituira-1436007'>Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-mata-inteligencia-artificial-anuncia-tecnologia-sustituira-1436007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283042.jpg?tf=1200x' alt='Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá' />
     </a>
 </div>
 
