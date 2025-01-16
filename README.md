@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-hace-saltar-alarmas-detectan-posible-agujero-negro-sistema-solar-1436311'>La NASA hace saltar las alarmas: detectan un posible agujero negro en el sistema solar</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-hace-saltar-alarmas-detectan-posible-agujero-negro-sistema-solar-1436311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aguero-negro-4283474.jpg?tf=1200x' alt='La NASA hace saltar las alarmas: detectan un posible agujero negro en el sistema solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-trabaja-alternativa-android-auto-cientos-aplicaciones-coches-1436289'>Google trabaja en la alternativa a Android Auto con cientos de aplicaciones para los coches</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-trabaja-alternativa-android-auto-cientos-aplicaciones-coches-1436289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-trabaja-alternativa-android-auto-cientos-aplicaciones-coches-4283454.jpg?tf=1200x' alt='Google trabaja en la alternativa a Android Auto con cientos de aplicaciones para los coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203'>Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-1436203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-hay-forma-oficial-legal-mismo-puedas-arreglar-xbox-4283388.jpg?tf=1200x' alt='Ahora hay una forma oficial y legal para que tú mismo puedas arreglar tu Xbox' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-retoma-tactica-miedo-abandones-windows-10-ver-todas-1436252'>Microsoft retoma la táctica del miedo para que abandones Windows 10 de una ver por todas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-retoma-tactica-miedo-abandones-windows-10-ver-todas-1436252' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/windows-10-microsoft-4243258.jpg?tf=1200x' alt='Microsoft retoma la táctica del miedo para que abandones Windows 10 de una ver por todas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-quedaran-acceso-1-febrero-2025-1436250'>Adiós WhatsApp, lista de móviles que se quedarán sin acceso desde el 1 de febrero de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-quedaran-acceso-1-febrero-2025-1436250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='Adiós WhatsApp, lista de móviles que se quedarán sin acceso desde el 1 de febrero de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-1436263'>Así es la nueva estafa que llega en forma de paquete: cuidado con lo que hay en su interior</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-1436263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-estafa-llega-forma-paquete-cuidado-hay-interior-4283412.jpg?tf=1200x' alt='Así es la nueva estafa que llega en forma de paquete: cuidado con lo que hay en su interior' />
     </a>
 </div>
 
