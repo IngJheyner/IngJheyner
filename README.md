@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227'>Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-filtraciones-4283386.jpg?tf=1200x' alt='Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-piratas-videojuego-legal-nuevo-truco-copyright-ver-deporte-1436207'>De las IPTV piratas al "videojuego legal": este es el nuevo truco contra el copyright para ver deporte </a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/iptv-piratas-videojuego-legal-nuevo-truco-copyright-ver-deporte-1436207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-3d-4283335.jpg?tf=1200x' alt='De las IPTV piratas al "videojuego legal": este es el nuevo truco contra el copyright para ver deporte ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205'>Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/crean-gato-schrodinger-dentro-ordenador-cuantico-vivo-muerto-mismo-tiempo-4283324.jpg?tf=1200x' alt='Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/new-glenn-despega-espacio-blue-origin-jeff-bezos-rompen-reinado-spacex-elon-musk-1436201'>El New Glenn despega al espacio: Blue Origin y Jeff Bezos rompen con el reinado de SpaceX y Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/new-glenn-despega-espacio-blue-origin-jeff-bezos-rompen-reinado-spacex-elon-musk-1436201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/new-glenn-blue-origin-jeff-bezos-4279831.jpg?tf=1200x' alt='El New Glenn despega al espacio: Blue Origin y Jeff Bezos rompen con el reinado de SpaceX y Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-1436193'>Esta es Sama, la primera azafata digital creada con IA, que ya trabaja para Qatar Airways</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-1436193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-4283320.jpg?tf=1200x' alt='Esta es Sama, la primera azafata digital creada con IA, que ya trabaja para Qatar Airways' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/problemas-ventas-moviles-plegables-1436053'>¿Qué pasa con los móviles plegables? De salvación de la gama premium a los primeros indicios de flaqueo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/problemas-ventas-moviles-plegables-1436053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755666.jpg?tf=1200x' alt='¿Qué pasa con los móviles plegables? De salvación de la gama premium a los primeros indicios de flaqueo' />
     </a>
 </div>
 
