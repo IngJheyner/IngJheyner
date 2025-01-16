@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-explica-emuladores-son-ilegales-1436180'>Nintendo habla sobre los emuladores y explica cuándo son ilegales, y cuándo no</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-explica-emuladores-son-ilegales-1436180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-habla-emuladores-dice-cuando-son-legales-cuando-no-4283299.jpg?tf=1200x' alt='Nintendo habla sobre los emuladores y explica cuándo son ilegales, y cuándo no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-mata-inteligencia-artificial-anuncia-tecnologia-sustituira-1436007'>Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-mata-inteligencia-artificial-anuncia-tecnologia-sustituira-1436007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283042.jpg?tf=1200x' alt='Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-llena-cargos-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-llena-cargos-1435955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166'>Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-estafa-eres-o2-te-ofrecen-cambiarte-router-tarjeta-sim-mejor-4283277.jpg?tf=1200x' alt='Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-1436130'>Amazon prepara un trasplante de cerebro para Alexa gracias a la IA generativa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-1436130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/amazon-prepara-trasplante-cerebro-alexa-gracias-ia-generativa-4283260.jpg?tf=1200x' alt='Amazon prepara un trasplante de cerebro para Alexa gracias a la IA generativa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154'>WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-silencia-muchos-usuarios-android-solucion-1436154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='WhatsApp silencia a muchos usuarios de Android y de momento solo hay una solución' />
     </a>
 </div>
 
