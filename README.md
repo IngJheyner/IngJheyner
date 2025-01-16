@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-1436193'>Esta es Sama, la primera azafata digital creada con IA, que ya trabaja para Qatar Airways</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-1436193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sama-primera-azafata-digital-creada-ia-ya-trabaja-qatar-airways-4283320.jpg?tf=1200x' alt='Esta es Sama, la primera azafata digital creada con IA, que ya trabaja para Qatar Airways' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/problemas-ventas-moviles-plegables-1436053'>¿Qué pasa con los móviles plegables? De salvación de la gama premium a los primeros indicios de flaqueo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/problemas-ventas-moviles-plegables-1436053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/samsung-galaxy-z-fold-6-3755666.jpg?tf=1200x' alt='¿Qué pasa con los móviles plegables? De salvación de la gama premium a los primeros indicios de flaqueo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ia-capaz-crear-app-necesidad-saber-programacion-totalmente-gratis-cuestion-minutos-1434388'>Esta IA es capaz de crear una app sin necesidad de saber programación, totalmente gratis y en cuestión de minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ia-capaz-crear-app-necesidad-saber-programacion-totalmente-gratis-cuestion-minutos-1434388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/calculadora-cientifica-python-codigo-vs-code-cursor-4280543.jpg?tf=1200x' alt='Esta IA es capaz de crear una app sin necesidad de saber programación, totalmente gratis y en cuestión de minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-explica-emuladores-son-ilegales-1436180'>Nintendo habla sobre los emuladores y explica cuándo son ilegales, y cuándo no</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-explica-emuladores-son-ilegales-1436180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-habla-emuladores-dice-cuando-son-legales-cuando-no-4283299.jpg?tf=1200x' alt='Nintendo habla sobre los emuladores y explica cuándo son ilegales, y cuándo no' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-mata-inteligencia-artificial-anuncia-tecnologia-sustituira-1436007'>Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-mata-inteligencia-artificial-anuncia-tecnologia-sustituira-1436007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283042.jpg?tf=1200x' alt='Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-llena-cargos-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-llena-cargos-1435955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-revela-mejor-habilidad-manejar-ia-sera-importante-usar-inteligencia-1435944'>Sam Altman revela la mejor habilidad para manejar la IA: "Será más importante que usar la inteligencia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-revela-mejor-habilidad-manejar-ia-sera-importante-usar-inteligencia-1435944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/sam-altman-consejero-delegado-openai-hablo-importancia-mantener-concentracion-reciente-entrevista-podcast-4257652.jpg?tf=1200x' alt='Sam Altman revela la mejor habilidad para manejar la IA: "Será más importante que usar la inteligencia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166'>Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-o2-movistar-cambiar-router-tarjeta-sim-1436166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-estafa-eres-o2-te-ofrecen-cambiarte-router-tarjeta-sim-mejor-4283277.jpg?tf=1200x' alt='Cuidado con esta estafa si eres de O2 o Movistar: te ofrecen cambiarte el router y la tarjeta SIM' />
     </a>
 </div>
 
