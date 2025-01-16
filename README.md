@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112'>Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-evitar-estafas-movil-1402112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/desactiva-funcion-whatsapp-estafas-4282130.jpg?tf=1200x' alt='Adiós a las estafas por WhatsApp: desactiva ahora mismo esta función que viene activada por defecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/fin-traductores-humanos-meta-lanza-ia-traduce-101-idiomas-tiempo-real-1436217'>¿Es el fin de los traductores humanos? Meta lanza una IA que traduce 101 idiomas en tiempo real</a></h4>
+    <a href='https://computerhoy.20minutos.es/fin-traductores-humanos-meta-lanza-ia-traduce-101-idiomas-tiempo-real-1436217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-meta-traduccion-4283384.jpg?tf=1200x' alt='¿Es el fin de los traductores humanos? Meta lanza una IA que traduce 101 idiomas en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227'>Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte</a></h4>
     <a href='https://computerhoy.20minutos.es/palo-nintendo-switch-2-desvelan-cual-seria-potencia-real-podria-defraudarte-1436227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-filtraciones-4283386.jpg?tf=1200x' alt='Palo a Nintendo Switch 2: desvelan cuál sería la potencia real y podría defraudarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205'>Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-gato-schrodinger-chip-cuantico-vivo-muerto-mismo-tiempo-1436205' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/crean-gato-schrodinger-dentro-ordenador-cuantico-vivo-muerto-mismo-tiempo-4283324.jpg?tf=1200x' alt='Crean un gato de Schrödinger en un chip cuántico, está vivo y muerto al mismo tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hackeo-telefonica-datos-clientes-1436027'>Palo a Telefónica: hacker abre una brecha de seguridad y publica 2,3 GB de datos de sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hackeo-telefonica-datos-clientes-1436027' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/telefonica-4283137.jpg?tf=1200x' alt='Palo a Telefónica: hacker abre una brecha de seguridad y publica 2,3 GB de datos de sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/new-glenn-despega-espacio-blue-origin-jeff-bezos-rompen-reinado-spacex-elon-musk-1436201'>El New Glenn despega al espacio: Blue Origin y Jeff Bezos rompen con el reinado de SpaceX y Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/new-glenn-despega-espacio-blue-origin-jeff-bezos-rompen-reinado-spacex-elon-musk-1436201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/new-glenn-blue-origin-jeff-bezos-4279831.jpg?tf=1200x' alt='El New Glenn despega al espacio: Blue Origin y Jeff Bezos rompen con el reinado de SpaceX y Elon Musk' />
     </a>
 </div>
 
