@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-1435955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quieres-conseguir-gpu-nvidia-barata-corre-porque-serie-rtx-50-hara-desaparezcan-ya-1436503'>Si quieres conseguir una GPU de Nvidia barata corre porque la serie RTX 50 hará que desaparezcan ya</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/quieres-conseguir-gpu-nvidia-barata-corre-porque-serie-rtx-50-hara-desaparezcan-ya-1436503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gpu-nvidia-4283874.jpg?tf=1200x' alt='Si quieres conseguir una GPU de Nvidia barata corre porque la serie RTX 50 hará que desaparezcan ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/analisis/honor-magic-7-pro-1435330'>He analizado el Honor Magic 7 Pro y tiene la mejor cámara que he visto en años</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/honor-magic-7-pro-1435330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282034.jpg?tf=1200x' alt='He analizado el Honor Magic 7 Pro y tiene la mejor cámara que he visto en años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-elon-musk-ni-mrbeast-enemigo-numero-twitch-tambien-quiere-comprar-tiktok-1436490'>Ni Elon Musk ni MrBeast, el enemigo número uno de Twitch, también quiere comprar TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-elon-musk-ni-mrbeast-enemigo-numero-twitch-tambien-quiere-comprar-tiktok-1436490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/compra-tiktok-4283828.jpg?tf=1200x' alt='Ni Elon Musk ni MrBeast, el enemigo número uno de Twitch, también quiere comprar TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/spacex-falla-lanzamiento-nave-espacial-starship-explota-plena-mision-1436481'>SpaceX falla en el lanzamiento de su nave espacial Starship y explota en plena misión</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/spacex-falla-lanzamiento-nave-espacial-starship-explota-plena-mision-1436481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-starship-4283820.jpg?tf=1200x' alt='SpaceX falla en el lanzamiento de su nave espacial Starship y explota en plena misión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/multimillonario-gasta-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-1436479'>El multimillonario que se gasta una fortuna en rejuvenecer, descubre que el tratamiento le hacía envejecer más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/multimillonario-gasta-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-1436479' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/multimillonario-gasto-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-4283810.jpg?tf=1200x' alt='El multimillonario que se gasta una fortuna en rejuvenecer, descubre que el tratamiento le hacía envejecer más rápido' />
     </a>
 </div>
 
