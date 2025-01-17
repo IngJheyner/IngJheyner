@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-revela-imagen-andromeda-ha-tardado-10-anos-hacerse-realidad-1436658'>La NASA revela una imagen de Andrómeda que ha tardado 10 años en hacerse realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-revela-imagen-andromeda-ha-tardado-10-anos-hacerse-realidad-1436658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/andromeda-nasa-4284088.jpg?tf=1200x' alt='La NASA revela una imagen de Andrómeda que ha tardado 10 años en hacerse realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/cuidado-te-agregan-grupo-desconocido-whatsapp-estafa-ha-comenzado-1436568'>Cuidado si te agregan a un grupo desconocido de WhatsApp, la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/cuidado-te-agregan-grupo-desconocido-whatsapp-estafa-ha-comenzado-1436568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-te-agregan-grupo-desconocido-whatsapp-estafa-ha-comenzado-4283976.jpg?tf=1200x' alt='Cuidado si te agregan a un grupo desconocido de WhatsApp, la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebelion-waze-dgt-como-app-navegacion-cambiando-trafico-planificacion-ciudades-1436588'>La rebelión de Waze contra la DGT: cómo la app de navegación está cambiando el tráfico y la planificación de las ciudades</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/rebelion-waze-dgt-como-app-navegacion-cambiando-trafico-planificacion-ciudades-1436588' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4284000.jpg?tf=1200x' alt='La rebelión de Waze contra la DGT: cómo la app de navegación está cambiando el tráfico y la planificación de las ciudades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-xbox-series-xs-ps5-cual-comprar-2025-1436635'>Nintendo Switch 2 vs Xbox Series X|S vs PS5: ¿cuál comprar este 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-xbox-series-xs-ps5-cual-comprar-2025-1436635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-vs-xbox-series-xs-vs-ps5-4284045.jpg?tf=1200x' alt='Nintendo Switch 2 vs Xbox Series X|S vs PS5: ¿cuál comprar este 2025?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-1436489'>Google dice que no cumplirá la ley europea que obliga a luchar contra la desinformación</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-1436489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-4283879.jpg?tf=1200x' alt='Google dice que no cumplirá la ley europea que obliga a luchar contra la desinformación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-deporte-ni-dormir-sencillo-habito-diario-ha-ayudado-bill-gates-convertirse-multimillonario-1436623'>Ni deporte ni dormir, el sencillo hábito diario que ha ayudado a Bill Gates a convertirse en multimillonario</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-deporte-ni-dormir-sencillo-habito-diario-ha-ayudado-bill-gates-convertirse-multimillonario-1436623' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-deporte-ni-dormir-sencillo-habito-diario-ha-ayudado-bill-gates-convertirse-multimillonario-4284070.jpg?tf=1200x' alt='Ni deporte ni dormir, el sencillo hábito diario que ha ayudado a Bill Gates a convertirse en multimillonario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/cambio-radical-nintendo-switch-2-ha-pasado-desapercibido-todo-mundo-1436597'>Este es el cambio más radical de Nintendo Switch 2 y ha pasado desapercibido para todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/cambio-radical-nintendo-switch-2-ha-pasado-desapercibido-todo-mundo-1436597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/novedades-nintendo-switch-2-4284017.jpg?tf=1200x' alt='Este es el cambio más radical de Nintendo Switch 2 y ha pasado desapercibido para todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/palo-waze-nueva-app-detectar-radares-favorita-conductores-1436547'>Palo a Waze, esta es la nueva app para detectar radares favorita de los conductores</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/palo-waze-nueva-app-detectar-radares-favorita-conductores-1436547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-waze-app-detectar-radares-favorita-conductores-4283920.jpg?tf=1200x' alt='Palo a Waze, esta es la nueva app para detectar radares favorita de los conductores' />
     </a>
 </div>
 
