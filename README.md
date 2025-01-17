@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-1436676'>Waze prepara la función definitiva para aplastar a Google Maps, lo cambiará todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-1436676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-4284148.jpg?tf=1200x' alt='Waze prepara la función definitiva para aplastar a Google Maps, lo cambiará todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600'>Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-accesos-no-autorizados-nueva-funcion-windows-11-protege-archivos-como-nunca-antes-1436681'>¡Adiós accesos no autorizados! La nueva función de Windows 11 protege tus archivos como nunca antes</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-accesos-no-autorizados-nueva-funcion-windows-11-protege-archivos-como-nunca-antes-1436681' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='¡Adiós accesos no autorizados! La nueva función de Windows 11 protege tus archivos como nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-nvidia-tan-importante-geforce-rtx-40-50-1436666'>¿Qué es DLSS 4 de Nvidia y por qué es tan importante para las GeForce RTX 40 y 50?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/dlss-4-nvidia-tan-importante-geforce-rtx-40-50-1436666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-nvidia-4284105.jpg?tf=1200x' alt='¿Qué es DLSS 4 de Nvidia y por qué es tan importante para las GeForce RTX 40 y 50?' />
     </a>
 </div>
 
