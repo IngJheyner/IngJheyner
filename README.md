@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-elon-musk-ni-mrbeast-enemigo-numero-twitch-tambien-quiere-comprar-tiktok-1436490'>Ni Elon Musk ni MrBeast, el enemigo número uno de Twitch, también quiere comprar TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-elon-musk-ni-mrbeast-enemigo-numero-twitch-tambien-quiere-comprar-tiktok-1436490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/compra-tiktok-4283828.jpg?tf=1200x' alt='Ni Elon Musk ni MrBeast, el enemigo número uno de Twitch, también quiere comprar TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/spacex-falla-lanzamiento-nave-espacial-starship-explota-plena-mision-1436481'>SpaceX falla en el lanzamiento de su nave espacial Starship y explota en plena misión</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/spacex-falla-lanzamiento-nave-espacial-starship-explota-plena-mision-1436481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-starship-4283820.jpg?tf=1200x' alt='SpaceX falla en el lanzamiento de su nave espacial Starship y explota en plena misión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329'>La NASA envía un ordenador resistente a la radiación a la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-luna-imagen-ia-4283536.jpg?tf=1200x' alt='La NASA envía un ordenador resistente a la radiación a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casio-presenta-calculadora-solar-comfy-60-aniversario-1436464'>Casio presenta una calculadora solar para celebrar el 60 aniversario de su primer modelo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/casio-presenta-calculadora-solar-comfy-60-aniversario-1436464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737071424954-4283785.jpg?tf=1200x' alt='Casio presenta una calculadora solar para celebrar el 60 aniversario de su primer modelo' />
     </a>
 </div>
 
