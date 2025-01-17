@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/spacex-falla-lanzamiento-nave-espacial-starship-explota-plena-mision-1436481'>SpaceX falla en el lanzamiento de su nave espacial Starship y explota en plena misión</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/spacex-falla-lanzamiento-nave-espacial-starship-explota-plena-mision-1436481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spacex-starship-4283820.jpg?tf=1200x' alt='SpaceX falla en el lanzamiento de su nave espacial Starship y explota en plena misión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/multimillonario-gasta-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-1436479'>El multimillonario que se gasta una fortuna en rejuvenecer, descubre que el tratamiento le hacía envejecer más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/multimillonario-gasta-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-1436479' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/multimillonario-gasto-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-4283810.jpg?tf=1200x' alt='El multimillonario que se gasta una fortuna en rejuvenecer, descubre que el tratamiento le hacía envejecer más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/fin-soporte-windows-10-mejores-portatiles-recomendados-1436211'>Se acaba soporte Windows 10 y estos son los mejores portátiles que hemos probado y te recomendamos</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/fin-soporte-windows-10-mejores-portatiles-recomendados-1436211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569663.jpg?tf=1200x' alt='Se acaba soporte Windows 10 y estos son los mejores portátiles que hemos probado y te recomendamos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/casio-presenta-calculadora-solar-comfy-60-aniversario-1436464'>Casio presenta una calculadora solar para celebrar el 60 aniversario de su primer modelo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/casio-presenta-calculadora-solar-comfy-60-aniversario-1436464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737071424954-4283785.jpg?tf=1200x' alt='Casio presenta una calculadora solar para celebrar el 60 aniversario de su primer modelo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-millennials-ni-generacion-z-betas-hijos-inteligencia-artificial-generativa-ya-estan-aqui-1436285'>Ni millennials ni generación Z, Betas: los hijos de la inteligencia artificial generativa ya están aquí</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-millennials-ni-generacion-z-betas-hijos-inteligencia-artificial-generativa-ya-estan-aqui-1436285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bebe-ia-4283463.jpg?tf=1200x' alt='Ni millennials ni generación Z, Betas: los hijos de la inteligencia artificial generativa ya están aquí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261'>Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
     </a>
 </div>
 
