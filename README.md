@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/starlink-ya-operativo-estos-son-moviles-recibiran-red-satelital-elon-musk-1436522'>Starlink ya está en operativo: estos son los móviles que recibirán la red satelital de Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/starlink-ya-operativo-estos-son-moviles-recibiran-red-satelital-elon-musk-1436522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-conectado-starlink-4283919.jpg?tf=1200x' alt='Starlink ya está en operativo: estos son los móviles que recibirán la red satelital de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-bizum-muy-pronto-podras-hacer-pagos-directos-contactos-salir-whatsapp-1436554'>Adiós Bizum, muy pronto podrás hacer pagos directos a tus contactos sin salir de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-bizum-muy-pronto-podras-hacer-pagos-directos-contactos-salir-whatsapp-1436554' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/silbo-money-app-4283938.jpg?tf=1200x' alt='Adiós Bizum, muy pronto podrás hacer pagos directos a tus contactos sin salir de WhatsApp' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-1436562'>Hallazgo inesperado en Windows: dos actualizaciones pueden convertir tu PC en un pisapapeles</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-1436562' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-4283944.jpg?tf=1200x' alt='Hallazgo inesperado en Windows: dos actualizaciones pueden convertir tu PC en un pisapapeles' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cansado-musica-todo-volumen-vecinos-inventa-dispositivo-apagarla-1436534'>Cansado de la música a todo volumen de sus vecinos, inventa un dispositivo para apagarla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cansado-musica-todo-volumen-vecinos-inventa-dispositivo-apagarla-1436534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-enfado-4283899.jpg?tf=1200x' alt='Cansado de la música a todo volumen de sus vecinos, inventa un dispositivo para apagarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/guardia-civil-ensena-funcion-infravalorada-google-maps-seras-localizable-aunque-no-haya-cobertura-1436520'>Guardia Civil enseña la función más infravalorada de Google Maps: "serás localizable aunque no haya cobertura"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/guardia-civil-ensena-funcion-infravalorada-google-maps-seras-localizable-aunque-no-haya-cobertura-1436520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/guardia-civil-funcion-google-maps-4283888.jpg?tf=1200x' alt='Guardia Civil enseña la función más infravalorada de Google Maps: "serás localizable aunque no haya cobertura"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-revela-secreto-dulce-igual-iphone-nace-apple-park-1436513'>Tim Cook revela su secreto más dulce y, al igual que el iPhone, nace en el Apple Park</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-revela-secreto-dulce-igual-iphone-nace-apple-park-1436513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tim-cook-arbol-iphone-4283881.jpg?tf=1200x' alt='Tim Cook revela su secreto más dulce y, al igual que el iPhone, nace en el Apple Park' />
     </a>
 </div>
 
