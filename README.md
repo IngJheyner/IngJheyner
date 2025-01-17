@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/starlink-ya-operativo-estos-son-moviles-recibiran-red-satelital-elon-musk-1436522'>Starlink ya está en operativo: estos son los móviles que recibirán la red satelital de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/starlink-ya-operativo-estos-son-moviles-recibiran-red-satelital-elon-musk-1436522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-conectado-starlink-4283919.jpg?tf=1200x' alt='Starlink ya está en operativo: estos son los móviles que recibirán la red satelital de Elon Musk' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/libre-primer-iphone-100-pantalla-apple-ya-sabe-como-integrar-face-id-pantalla-1436569'>Vía libre para el primer iPhone 100% pantalla: Apple ya sabe cómo integrar Face ID en la pantalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/libre-primer-iphone-100-pantalla-apple-ya-sabe-como-integrar-face-id-pantalla-1436569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-pantalla-completa-4283987.jpg?tf=1200x' alt='Vía libre para el primer iPhone 100% pantalla: Apple ya sabe cómo integrar Face ID en la pantalla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-bizum-muy-pronto-podras-hacer-pagos-directos-contactos-salir-whatsapp-1436554'>Adiós Bizum, muy pronto podrás hacer pagos directos a tus contactos sin salir de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-bizum-muy-pronto-podras-hacer-pagos-directos-contactos-salir-whatsapp-1436554' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/silbo-money-app-4283938.jpg?tf=1200x' alt='Adiós Bizum, muy pronto podrás hacer pagos directos a tus contactos sin salir de WhatsApp' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafa-whatsapp-hijo-apuros-ha-enganado-20-familias-malaga-1436497'>Así es la estafa de WhatsApp del "hijo en apuros" que ha engañado a más de 20 familias en Málaga</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estafa-whatsapp-hijo-apuros-ha-enganado-20-familias-malaga-1436497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-4283889.jpg?tf=1200x' alt='Así es la estafa de WhatsApp del "hijo en apuros" que ha engañado a más de 20 familias en Málaga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-1436562'>Hallazgo inesperado en Windows: dos actualizaciones pueden convertir tu PC en un pisapapeles</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-1436562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-4283944.jpg?tf=1200x' alt='Hallazgo inesperado en Windows: dos actualizaciones pueden convertir tu PC en un pisapapeles' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mapas-copiloto-inteligente-han-cambiado-funciones-waze-significan-ti-1436561'>De mapas a copiloto inteligente: así han cambiado las funciones de Waze y lo que significan para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mapas-copiloto-inteligente-han-cambiado-funciones-waze-significan-ti-1436561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4283967.jpg?tf=1200x' alt='De mapas a copiloto inteligente: así han cambiado las funciones de Waze y lo que significan para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cual-sera-futuro-tiktok-espana-europa-finalmente-prohibe-estados-unidos-1436549'>¿Cuál será el futuro de TikTok en España y Europa si finalmente se prohíbe en Estados Unidos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cual-sera-futuro-tiktok-espana-europa-finalmente-prohibe-estados-unidos-1436549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-espana-europa-4283918.jpg?tf=1200x' alt='¿Cuál será el futuro de TikTok en España y Europa si finalmente se prohíbe en Estados Unidos?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-tiene-nuevo-ceo-salida-george-zhao-viene-huawei-1436493'>Honor tiene un nuevo CEO tras la salida de George Zhao y viene de Huawei</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/honor-tiene-nuevo-ceo-salida-george-zhao-viene-huawei-1436493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/george-zhao-ceo-global-honor-3220856.jpg?tf=1200x' alt='Honor tiene un nuevo CEO tras la salida de George Zhao y viene de Huawei' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cansado-musica-todo-volumen-vecinos-inventa-dispositivo-apagarla-1436534'>Cansado de la música a todo volumen de sus vecinos, inventa un dispositivo para apagarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cansado-musica-todo-volumen-vecinos-inventa-dispositivo-apagarla-1436534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-enfado-4283899.jpg?tf=1200x' alt='Cansado de la música a todo volumen de sus vecinos, inventa un dispositivo para apagarla' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-16-ni-samsung-galaxy-s24-movil-prefiere-generacion-z-1436540'>Ni iPhone 16 ni Samsung Galaxy S24: este es el móvil que prefiere la generación Z</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-16-ni-samsung-galaxy-s24-movil-prefiere-generacion-z-1436540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/moviles-4283941.jpg?tf=1200x' alt='Ni iPhone 16 ni Samsung Galaxy S24: este es el móvil que prefiere la generación Z' />
     </a>
 </div>
 
