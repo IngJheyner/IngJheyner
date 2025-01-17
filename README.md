@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/honor-magic-7-pro-1435330'>He analizado el Honor Magic 7 Pro y tiene la mejor cámara que he visto en años</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/honor-magic-7-pro-1435330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282034.jpg?tf=1200x' alt='He analizado el Honor Magic 7 Pro y tiene la mejor cámara que he visto en años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-tiene-nuevo-ceo-salida-george-zhao-viene-huawei-1436493'>Honor tiene un nuevo CEO tras la salida de George Zhao y viene de Huawei</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/honor-tiene-nuevo-ceo-salida-george-zhao-viene-huawei-1436493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/george-zhao-ceo-global-honor-3220856.jpg?tf=1200x' alt='Honor tiene un nuevo CEO tras la salida de George Zhao y viene de Huawei' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-elon-musk-ni-mrbeast-enemigo-numero-twitch-tambien-quiere-comprar-tiktok-1436490'>Ni Elon Musk ni MrBeast, el enemigo número uno de Twitch, también quiere comprar TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-elon-musk-ni-mrbeast-enemigo-numero-twitch-tambien-quiere-comprar-tiktok-1436490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/compra-tiktok-4283828.jpg?tf=1200x' alt='Ni Elon Musk ni MrBeast, el enemigo número uno de Twitch, también quiere comprar TikTok' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/multimillonario-gasta-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-1436479'>El multimillonario que se gasta una fortuna en rejuvenecer, descubre que el tratamiento le hacía envejecer más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/multimillonario-gasta-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-1436479' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/multimillonario-gasto-fortuna-rejuvenecer-descubre-tratamiento-envejecer-rapido-4283810.jpg?tf=1200x' alt='El multimillonario que se gasta una fortuna en rejuvenecer, descubre que el tratamiento le hacía envejecer más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/fin-soporte-windows-10-mejores-portatiles-recomendados-1436211'>Se acaba soporte Windows 10 y estos son los mejores portátiles que hemos probado y te recomendamos</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/fin-soporte-windows-10-mejores-portatiles-recomendados-1436211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569663.jpg?tf=1200x' alt='Se acaba soporte Windows 10 y estos son los mejores portátiles que hemos probado y te recomendamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329'>La NASA envía un ordenador resistente a la radiación a la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-luna-imagen-ia-4283536.jpg?tf=1200x' alt='La NASA envía un ordenador resistente a la radiación a la Luna' />
     </a>
 </div>
 
