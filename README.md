@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600'>Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/advierten-radio-fm-podria-desaparecer-coches-no-impulsa-tecnologia-dab-1436684'>Advierten que la radio FM podría desaparecer de los coches si no se impulsa la tecnología DAB+</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/advierten-radio-fm-podria-desaparecer-coches-no-impulsa-tecnologia-dab-1436684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/radio-coche-4284133.jpg?tf=1200x' alt='Advierten que la radio FM podría desaparecer de los coches si no se impulsa la tecnología DAB+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/viaja-tiempo-google-maps-te-revela-historia-cualquier-lugar-1436683'>Viaja en el tiempo: el Google Maps que te revela la historia de cualquier lugar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/viaja-tiempo-google-maps-te-revela-historia-cualquier-lugar-1436683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/oldmapsonline-4284131.jpg?tf=1200x' alt='Viaja en el tiempo: el Google Maps que te revela la historia de cualquier lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-accesos-no-autorizados-nueva-funcion-windows-11-protege-archivos-como-nunca-antes-1436681'>¡Adiós accesos no autorizados! La nueva función de Windows 11 protege tus archivos como nunca antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-accesos-no-autorizados-nueva-funcion-windows-11-protege-archivos-como-nunca-antes-1436681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='¡Adiós accesos no autorizados! La nueva función de Windows 11 protege tus archivos como nunca antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-nvidia-tan-importante-geforce-rtx-40-50-1436666'>¿Qué es DLSS 4 de Nvidia y por qué es tan importante para las GeForce RTX 40 y 50?</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/dlss-4-nvidia-tan-importante-geforce-rtx-40-50-1436666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-nvidia-4284105.jpg?tf=1200x' alt='¿Qué es DLSS 4 de Nvidia y por qué es tan importante para las GeForce RTX 40 y 50?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-ciencia-ficcion-espanola-inspirada-blade-runner-puedes-ver-completamente-gratis-1435485'>La película de ciencia ficción española inspirada en Blade Runner que puedes ver completamente gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-ciencia-ficcion-espanola-inspirada-blade-runner-puedes-ver-completamente-gratis-1435485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pelicula-ciencia-ficcion-espanola-inspirada-blade-runner-puedes-ver-completamente-gratis-4282136.jpg?tf=1200x' alt='La película de ciencia ficción española inspirada en Blade Runner que puedes ver completamente gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-revela-como-ve-polvo-interestelar-james-webb-1436642'>La NASA revela cómo se ve el polvo interestelar desde el James Webb</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-revela-como-ve-polvo-interestelar-james-webb-1436642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-revela-como-ve-polvo-interestelar-james-webb-4284112.jpg?tf=1200x' alt='La NASA revela cómo se ve el polvo interestelar desde el James Webb' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/hideki-kamiya-maldice-filtradores-nintendo-switch-2-1436669'>Hideki Kamiya maldice a los filtradores de la Nintendo Switch 2: "Ojalá tengáis caca en la suela del zapato para siempre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/hideki-kamiya-maldice-filtradores-nintendo-switch-2-1436669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hideki-kamiya-2570457.jpg?tf=1200x' alt='Hideki Kamiya maldice a los filtradores de la Nintendo Switch 2: "Ojalá tengáis caca en la suela del zapato para siempre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-integrar-whatsapp-dispositivos-inteligentes-sacale-maximo-partido-1436595'>Cómo integrar WhatsApp con dispositivos inteligentes: sácale el máximo partido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-integrar-whatsapp-dispositivos-inteligentes-sacale-maximo-partido-1436595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4284007.jpg?tf=1200x' alt='Cómo integrar WhatsApp con dispositivos inteligentes: sácale el máximo partido' />
     </a>
 </div>
 
