@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329'>La NASA envía un ordenador resistente a la radiación a la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-luna-imagen-ia-4283536.jpg?tf=1200x' alt='La NASA envía un ordenador resistente a la radiación a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casio-presenta-calculadora-solar-comfy-60-aniversario-1436464'>Casio presenta una calculadora solar para celebrar el 60 aniversario de su primer modelo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/casio-presenta-calculadora-solar-comfy-60-aniversario-1436464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737071424954-4283785.jpg?tf=1200x' alt='Casio presenta una calculadora solar para celebrar el 60 aniversario de su primer modelo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-millennials-ni-generacion-z-betas-hijos-inteligencia-artificial-generativa-ya-estan-aqui-1436285'>Ni millennials ni generación Z, Betas: los hijos de la inteligencia artificial generativa ya están aquí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-millennials-ni-generacion-z-betas-hijos-inteligencia-artificial-generativa-ya-estan-aqui-1436285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bebe-ia-4283463.jpg?tf=1200x' alt='Ni millennials ni generación Z, Betas: los hijos de la inteligencia artificial generativa ya están aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261'>Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/bill-gates-fue-culpable-cofundador-android-explica-mayor-fracaso-microsoft-1436239'>"Bill Gates fue el culpable": el cofundador de Android explica el mayor fracaso de Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/android/bill-gates-fue-culpable-cofundador-android-explica-mayor-fracaso-microsoft-1436239' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bill-gates-anos-como-estudiante-3200768.jpg?tf=1200x' alt='"Bill Gates fue el culpable": el cofundador de Android explica el mayor fracaso de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/david-lynch-creador-twin-peaks-fallece-78-anos-edad-1436456'>David Lynch, el creador de Twin Peaks, fallece a los 78 años de edad</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/david-lynch-creador-twin-peaks-fallece-78-anos-edad-1436456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/david-lynch-2844443.jpg?tf=1200x' alt='David Lynch, el creador de Twin Peaks, fallece a los 78 años de edad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-1436448'>Elon Musk entierra el hacha de guerra y felicita a Jeff Bezos por poner en órbita el cohete New Glenn</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-1436448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-entierra-hacha-guerra-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-4283714.jpg?tf=1200x' alt='Elon Musk entierra el hacha de guerra y felicita a Jeff Bezos por poner en órbita el cohete New Glenn' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429'>Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-gamer-4283717.jpg?tf=1200x' alt='Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?' />
     </a>
 </div>
 
