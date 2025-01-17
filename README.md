@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/david-lynch-creador-twin-peaks-fallece-78-anos-edad-1436456'>David Lynch, el creador de Twin Peaks, fallece a los 78 años de edad</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/david-lynch-creador-twin-peaks-fallece-78-anos-edad-1436456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/david-lynch-2844443.jpg?tf=1200x' alt='David Lynch, el creador de Twin Peaks, fallece a los 78 años de edad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-1436448'>Elon Musk entierra el hacha de guerra y felicita a Jeff Bezos por poner en órbita el cohete New Glenn</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-1436448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-entierra-hacha-guerra-felicita-jeff-bezos-poner-orbita-cohete-new-glenn-4283714.jpg?tf=1200x' alt='Elon Musk entierra el hacha de guerra y felicita a Jeff Bezos por poner en órbita el cohete New Glenn' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/futuro-television-samsung-openai-crean-ai-tv-chatgpt-dall-1436428'>¿El futuro de la televisión? Samsung y OpenAI crean una “AI TV” con ChatGPT, DALL-E y más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/futuro-television-samsung-openai-crean-ai-tv-chatgpt-dall-1436428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-tv-4283711.jpg?tf=1200x' alt='¿El futuro de la televisión? Samsung y OpenAI crean una “AI TV” con ChatGPT, DALL-E y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-145-euros-termina-siendo-estafa-estrategica-1436398'>Una Nvidia GeForce RTX 4090 por 145 euros termina siendo una estafa estratégica</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-4090-145-euros-termina-siendo-estafa-estrategica-1436398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-geforce-rtx-4090-4283676.jpg?tf=1200x' alt='Una Nvidia GeForce RTX 4090 por 145 euros termina siendo una estafa estratégica' />
     </a>
 </div>
 
