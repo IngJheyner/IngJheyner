@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-xbox-series-xs-ps5-cual-comprar-2025-1436635'>Nintendo Switch 2 vs Xbox Series X|S vs PS5: ¿cuál comprar este 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-xbox-series-xs-ps5-cual-comprar-2025-1436635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-vs-xbox-series-xs-vs-ps5-4284045.jpg?tf=1200x' alt='Nintendo Switch 2 vs Xbox Series X|S vs PS5: ¿cuál comprar este 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-1436489'>Google dice que no cumplirá la ley europea que obliga a luchar contra la desinformación</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-1436489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-4283879.jpg?tf=1200x' alt='Google dice que no cumplirá la ley europea que obliga a luchar contra la desinformación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-deporte-ni-dormir-sencillo-habito-diario-ha-ayudado-bill-gates-convertirse-multimillonario-1436623'>Ni deporte ni dormir, el sencillo hábito diario que ha ayudado a Bill Gates a convertirse en multimillonario</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-deporte-ni-dormir-sencillo-habito-diario-ha-ayudado-bill-gates-convertirse-multimillonario-1436623' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-deporte-ni-dormir-sencillo-habito-diario-ha-ayudado-bill-gates-convertirse-multimillonario-4284070.jpg?tf=1200x' alt='Ni deporte ni dormir, el sencillo hábito diario que ha ayudado a Bill Gates a convertirse en multimillonario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/cambio-radical-nintendo-switch-2-ha-pasado-desapercibido-todo-mundo-1436597'>Este es el cambio más radical de Nintendo Switch 2 y ha pasado desapercibido para todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/cambio-radical-nintendo-switch-2-ha-pasado-desapercibido-todo-mundo-1436597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/novedades-nintendo-switch-2-4284017.jpg?tf=1200x' alt='Este es el cambio más radical de Nintendo Switch 2 y ha pasado desapercibido para todo el mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/palo-waze-nueva-app-detectar-radares-favorita-conductores-1436547'>Palo a Waze, esta es la nueva app para detectar radares favorita de los conductores</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/palo-waze-nueva-app-detectar-radares-favorita-conductores-1436547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-waze-app-detectar-radares-favorita-conductores-4283920.jpg?tf=1200x' alt='Palo a Waze, esta es la nueva app para detectar radares favorita de los conductores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/libre-primer-iphone-100-pantalla-apple-ya-sabe-como-integrar-face-id-pantalla-1436569'>Vía libre para el primer iPhone 100% pantalla: Apple ya sabe cómo integrar Face ID en la pantalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/libre-primer-iphone-100-pantalla-apple-ya-sabe-como-integrar-face-id-pantalla-1436569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-pantalla-completa-4283987.jpg?tf=1200x' alt='Vía libre para el primer iPhone 100% pantalla: Apple ya sabe cómo integrar Face ID en la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafa-whatsapp-hijo-apuros-ha-enganado-20-familias-malaga-1436497'>Así es la estafa de WhatsApp del "hijo en apuros" que ha engañado a más de 20 familias en Málaga</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estafa-whatsapp-hijo-apuros-ha-enganado-20-familias-malaga-1436497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-4283889.jpg?tf=1200x' alt='Así es la estafa de WhatsApp del "hijo en apuros" que ha engañado a más de 20 familias en Málaga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mapas-copiloto-inteligente-han-cambiado-funciones-waze-significan-ti-1436561'>De mapas a copiloto inteligente: así han cambiado las funciones de Waze y lo que significan para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mapas-copiloto-inteligente-han-cambiado-funciones-waze-significan-ti-1436561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4283967.jpg?tf=1200x' alt='De mapas a copiloto inteligente: así han cambiado las funciones de Waze y lo que significan para ti' />
     </a>
 </div>
 
