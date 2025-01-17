@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/fin-soporte-windows-10-mejores-portatiles-recomendados-1436211'>Se acaba soporte Windows 10 y estos son los mejores portátiles que hemos probado y te recomendamos</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/fin-soporte-windows-10-mejores-portatiles-recomendados-1436211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/huawei-matebook-14-2024-3569663.jpg?tf=1200x' alt='Se acaba soporte Windows 10 y estos son los mejores portátiles que hemos probado y te recomendamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329'>La NASA envía un ordenador resistente a la radiación a la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-envia-ordenador-resistente-radiacion-luna-1436329' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-luna-imagen-ia-4283536.jpg?tf=1200x' alt='La NASA envía un ordenador resistente a la radiación a la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261'>Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/bill-gates-fue-culpable-cofundador-android-explica-mayor-fracaso-microsoft-1436239'>"Bill Gates fue el culpable": el cofundador de Android explica el mayor fracaso de Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/bill-gates-fue-culpable-cofundador-android-explica-mayor-fracaso-microsoft-1436239' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bill-gates-anos-como-estudiante-3200768.jpg?tf=1200x' alt='"Bill Gates fue el culpable": el cofundador de Android explica el mayor fracaso de Microsoft' />
     </a>
 </div>
 
