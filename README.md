@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-revela-imagen-andromeda-ha-tardado-10-anos-hacerse-realidad-1436658'>La NASA revela una imagen de Andrómeda que ha tardado 10 años en hacerse realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-revela-imagen-andromeda-ha-tardado-10-anos-hacerse-realidad-1436658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/andromeda-nasa-4284088.jpg?tf=1200x' alt='La NASA revela una imagen de Andrómeda que ha tardado 10 años en hacerse realidad' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/dlss-4-nvidia-tan-importante-geforce-rtx-40-50-1436666'>¿Qué es DLSS 4 de Nvidia y por qué es tan importante para las GeForce RTX 40 y 50?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/dlss-4-nvidia-tan-importante-geforce-rtx-40-50-1436666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlss-4-nvidia-4284105.jpg?tf=1200x' alt='¿Qué es DLSS 4 de Nvidia y por qué es tan importante para las GeForce RTX 40 y 50?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/cuidado-te-agregan-grupo-desconocido-whatsapp-estafa-ha-comenzado-1436568'>Cuidado si te agregan a un grupo desconocido de WhatsApp, la estafa ha comenzado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/cuidado-te-agregan-grupo-desconocido-whatsapp-estafa-ha-comenzado-1436568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-te-agregan-grupo-desconocido-whatsapp-estafa-ha-comenzado-4283976.jpg?tf=1200x' alt='Cuidado si te agregan a un grupo desconocido de WhatsApp, la estafa ha comenzado' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-ciencia-ficcion-espanola-inspirada-blade-runner-puedes-ver-completamente-gratis-1435485'>La película de ciencia ficción española inspirada en Blade Runner que puedes ver completamente gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-ciencia-ficcion-espanola-inspirada-blade-runner-puedes-ver-completamente-gratis-1435485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pelicula-ciencia-ficcion-espanola-inspirada-blade-runner-puedes-ver-completamente-gratis-4282136.jpg?tf=1200x' alt='La película de ciencia ficción española inspirada en Blade Runner que puedes ver completamente gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebelion-waze-dgt-como-app-navegacion-cambiando-trafico-planificacion-ciudades-1436588'>La rebelión de Waze contra la DGT: cómo la app de navegación está cambiando el tráfico y la planificación de las ciudades</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/rebelion-waze-dgt-como-app-navegacion-cambiando-trafico-planificacion-ciudades-1436588' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4284000.jpg?tf=1200x' alt='La rebelión de Waze contra la DGT: cómo la app de navegación está cambiando el tráfico y la planificación de las ciudades' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-revela-como-ve-polvo-interestelar-james-webb-1436642'>La NASA revela cómo se ve el polvo interestelar desde el James Webb</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-revela-como-ve-polvo-interestelar-james-webb-1436642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-revela-como-ve-polvo-interestelar-james-webb-4284112.jpg?tf=1200x' alt='La NASA revela cómo se ve el polvo interestelar desde el James Webb' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-xbox-series-xs-ps5-cual-comprar-2025-1436635'>Nintendo Switch 2 vs Xbox Series X|S vs PS5: ¿cuál comprar este 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-xbox-series-xs-ps5-cual-comprar-2025-1436635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-vs-xbox-series-xs-vs-ps5-4284045.jpg?tf=1200x' alt='Nintendo Switch 2 vs Xbox Series X|S vs PS5: ¿cuál comprar este 2025?' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/hideki-kamiya-maldice-filtradores-nintendo-switch-2-1436669'>Hideki Kamiya maldice a los filtradores de la Nintendo Switch 2: "Ojalá tengáis caca en la suela del zapato para siempre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/hideki-kamiya-maldice-filtradores-nintendo-switch-2-1436669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/hideki-kamiya-2570457.jpg?tf=1200x' alt='Hideki Kamiya maldice a los filtradores de la Nintendo Switch 2: "Ojalá tengáis caca en la suela del zapato para siempre"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-1436489'>Google dice que no cumplirá la ley europea que obliga a luchar contra la desinformación</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-1436489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-dice-no-cumplira-ley-europea-obliga-luchar-desinformacion-4283879.jpg?tf=1200x' alt='Google dice que no cumplirá la ley europea que obliga a luchar contra la desinformación' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-integrar-whatsapp-dispositivos-inteligentes-sacale-maximo-partido-1436595'>Cómo integrar WhatsApp con dispositivos inteligentes: sácale el máximo partido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-integrar-whatsapp-dispositivos-inteligentes-sacale-maximo-partido-1436595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4284007.jpg?tf=1200x' alt='Cómo integrar WhatsApp con dispositivos inteligentes: sácale el máximo partido' />
     </a>
 </div>
 
