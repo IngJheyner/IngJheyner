@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/cambio-radical-nintendo-switch-2-ha-pasado-desapercibido-todo-mundo-1436597'>Este es el cambio más radical de Nintendo Switch 2 y ha pasado desapercibido para todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/cambio-radical-nintendo-switch-2-ha-pasado-desapercibido-todo-mundo-1436597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/novedades-nintendo-switch-2-4284017.jpg?tf=1200x' alt='Este es el cambio más radical de Nintendo Switch 2 y ha pasado desapercibido para todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/palo-waze-nueva-app-detectar-radares-favorita-conductores-1436547'>Palo a Waze, esta es la nueva app para detectar radares favorita de los conductores</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/palo-waze-nueva-app-detectar-radares-favorita-conductores-1436547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-waze-app-detectar-radares-favorita-conductores-4283920.jpg?tf=1200x' alt='Palo a Waze, esta es la nueva app para detectar radares favorita de los conductores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/libre-primer-iphone-100-pantalla-apple-ya-sabe-como-integrar-face-id-pantalla-1436569'>Vía libre para el primer iPhone 100% pantalla: Apple ya sabe cómo integrar Face ID en la pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/libre-primer-iphone-100-pantalla-apple-ya-sabe-como-integrar-face-id-pantalla-1436569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-pantalla-completa-4283987.jpg?tf=1200x' alt='Vía libre para el primer iPhone 100% pantalla: Apple ya sabe cómo integrar Face ID en la pantalla' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mapas-copiloto-inteligente-han-cambiado-funciones-waze-significan-ti-1436561'>De mapas a copiloto inteligente: así han cambiado las funciones de Waze y lo que significan para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mapas-copiloto-inteligente-han-cambiado-funciones-waze-significan-ti-1436561' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-4283967.jpg?tf=1200x' alt='De mapas a copiloto inteligente: así han cambiado las funciones de Waze y lo que significan para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-tiene-nuevo-ceo-salida-george-zhao-viene-huawei-1436493'>Honor tiene un nuevo CEO tras la salida de George Zhao y viene de Huawei</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/honor-tiene-nuevo-ceo-salida-george-zhao-viene-huawei-1436493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/george-zhao-ceo-global-honor-3220856.jpg?tf=1200x' alt='Honor tiene un nuevo CEO tras la salida de George Zhao y viene de Huawei' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-16-ni-samsung-galaxy-s24-movil-prefiere-generacion-z-1436540'>Ni iPhone 16 ni Samsung Galaxy S24: este es el móvil que prefiere la generación Z</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-16-ni-samsung-galaxy-s24-movil-prefiere-generacion-z-1436540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/moviles-4283941.jpg?tf=1200x' alt='Ni iPhone 16 ni Samsung Galaxy S24: este es el móvil que prefiere la generación Z' />
     </a>
 </div>
 
