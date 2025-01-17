@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261'>Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-razon-tim-cook-llegada-ia-antes-valoraba-mucho-trabajo-ahora-ya-no-1436261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/sam-altman-cree-superinteligencia-artificial-llegara-pronto-pero-no-sera-como-prometio-4269840.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook con la llegada de la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/bill-gates-fue-culpable-cofundador-android-explica-mayor-fracaso-microsoft-1436239'>"Bill Gates fue el culpable": el cofundador de Android explica el mayor fracaso de Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/bill-gates-fue-culpable-cofundador-android-explica-mayor-fracaso-microsoft-1436239' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/bill-gates-anos-como-estudiante-3200768.jpg?tf=1200x' alt='"Bill Gates fue el culpable": el cofundador de Android explica el mayor fracaso de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/david-lynch-creador-twin-peaks-fallece-78-anos-edad-1436456'>David Lynch, el creador de Twin Peaks, fallece a los 78 años de edad</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/david-lynch-creador-twin-peaks-fallece-78-anos-edad-1436456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/david-lynch-2844443.jpg?tf=1200x' alt='David Lynch, el creador de Twin Peaks, fallece a los 78 años de edad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429'>Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/pc-gaming-auge-mientras-consolas-sufren-gamers-eligen-pc-consola-1436429' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-gamer-4283717.jpg?tf=1200x' alt='Los PC gaming en auge mientras las consolas sufren: ¿por qué los gamers eligen PC sobre consola?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-1436326'>No solo Los Goonies: esta mítica saga de los 80 también volverá en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-1436326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-solo-goonies-mitica-saga-80-tambien-volvera-2025-4283506.jpg?tf=1200x' alt='No solo Los Goonies: esta mítica saga de los 80 también volverá en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/futuro-television-samsung-openai-crean-ai-tv-chatgpt-dall-1436428'>¿El futuro de la televisión? Samsung y OpenAI crean una “AI TV” con ChatGPT, DALL-E y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/futuro-television-samsung-openai-crean-ai-tv-chatgpt-dall-1436428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-tv-4283711.jpg?tf=1200x' alt='¿El futuro de la televisión? Samsung y OpenAI crean una “AI TV” con ChatGPT, DALL-E y más' />
     </a>
 </div>
 
