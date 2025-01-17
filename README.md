@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-1436562'>Hallazgo inesperado en Windows: dos actualizaciones pueden convertir tu PC en un pisapapeles</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-1436562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-windows-dos-actualizaciones-pueden-convertir-pc-pisapapeles-4283944.jpg?tf=1200x' alt='Hallazgo inesperado en Windows: dos actualizaciones pueden convertir tu PC en un pisapapeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cual-sera-futuro-tiktok-espana-europa-finalmente-prohibe-estados-unidos-1436549'>¿Cuál será el futuro de TikTok en España y Europa si finalmente se prohíbe en Estados Unidos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cual-sera-futuro-tiktok-espana-europa-finalmente-prohibe-estados-unidos-1436549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-espana-europa-4283918.jpg?tf=1200x' alt='¿Cuál será el futuro de TikTok en España y Europa si finalmente se prohíbe en Estados Unidos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cansado-musica-todo-volumen-vecinos-inventa-dispositivo-apagarla-1436534'>Cansado de la música a todo volumen de sus vecinos, inventa un dispositivo para apagarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cansado-musica-todo-volumen-vecinos-inventa-dispositivo-apagarla-1436534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-enfado-4283899.jpg?tf=1200x' alt='Cansado de la música a todo volumen de sus vecinos, inventa un dispositivo para apagarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/guardia-civil-ensena-funcion-infravalorada-google-maps-seras-localizable-aunque-no-haya-cobertura-1436520'>Guardia Civil enseña la función más infravalorada de Google Maps: "serás localizable aunque no haya cobertura"</a></h4>
     <a href='https://computerhoy.20minutos.es/google/guardia-civil-ensena-funcion-infravalorada-google-maps-seras-localizable-aunque-no-haya-cobertura-1436520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/guardia-civil-funcion-google-maps-4283888.jpg?tf=1200x' alt='Guardia Civil enseña la función más infravalorada de Google Maps: "serás localizable aunque no haya cobertura"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-revela-secreto-dulce-igual-iphone-nace-apple-park-1436513'>Tim Cook revela su secreto más dulce y, al igual que el iPhone, nace en el Apple Park</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-revela-secreto-dulce-igual-iphone-nace-apple-park-1436513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tim-cook-arbol-iphone-4283881.jpg?tf=1200x' alt='Tim Cook revela su secreto más dulce y, al igual que el iPhone, nace en el Apple Park' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-toda-espana-pierdes-conexion-movil-cuenta-banco-1435955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quieres-conseguir-gpu-nvidia-barata-corre-porque-serie-rtx-50-hara-desaparezcan-ya-1436503'>Si quieres conseguir una GPU de Nvidia barata corre porque la serie RTX 50 hará que desaparezcan ya</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/quieres-conseguir-gpu-nvidia-barata-corre-porque-serie-rtx-50-hara-desaparezcan-ya-1436503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gpu-nvidia-4283874.jpg?tf=1200x' alt='Si quieres conseguir una GPU de Nvidia barata corre porque la serie RTX 50 hará que desaparezcan ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/honor-magic-7-pro-1435330'>He analizado el Honor Magic 7 Pro y tiene la mejor cámara que he visto en años</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/honor-magic-7-pro-1435330' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282034.jpg?tf=1200x' alt='He analizado el Honor Magic 7 Pro y tiene la mejor cámara que he visto en años' />
     </a>
 </div>
 
