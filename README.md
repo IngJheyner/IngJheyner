@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-tan-peligrosa-humanidad-1436697'>¿Qué es la singularidad tecnológica y por qué es tan peligrosa para la humanidad? </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-tan-peligrosa-humanidad-1436697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/singularidad-tecnologica-tan-peligrosa-humanidad-4284167.jpg?tf=1200x' alt='¿Qué es la singularidad tecnológica y por qué es tan peligrosa para la humanidad? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709'>Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-recula-office-funcionando-windows-10-despues-2025-4284154.jpg?tf=1200x' alt='Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/advierten-radio-fm-podria-desaparecer-coches-no-impulsa-tecnologia-dab-1436684'>Advierten que la radio FM podría desaparecer de los coches si no se impulsa la tecnología DAB+</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/advierten-radio-fm-podria-desaparecer-coches-no-impulsa-tecnologia-dab-1436684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/radio-coche-4284133.jpg?tf=1200x' alt='Advierten que la radio FM podría desaparecer de los coches si no se impulsa la tecnología DAB+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/viaja-tiempo-google-maps-te-revela-historia-cualquier-lugar-1436683'>Viaja en el tiempo: el Google Maps que te revela la historia de cualquier lugar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/viaja-tiempo-google-maps-te-revela-historia-cualquier-lugar-1436683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/oldmapsonline-4284131.jpg?tf=1200x' alt='Viaja en el tiempo: el Google Maps que te revela la historia de cualquier lugar' />
     </a>
 </div>
 
