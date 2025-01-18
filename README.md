@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-1435119'>Estas son las apps que no deberías tener en la pantalla de inicio del móvil, según una experta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-1435119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-4281532.jpg?tf=1200x' alt='Estas son las apps que no deberías tener en la pantalla de inicio del móvil, según una experta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115'>Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/webs-administraciones-publicas-espanolas-4283246.jpg?tf=1200x' alt='Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113'>Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-1436172'>Cómo saber quién te escribe por WhatsApp sin necesidad de mirar a la pantalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-1436172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-4283303.jpg?tf=1200x' alt='Cómo saber quién te escribe por WhatsApp sin necesidad de mirar a la pantalla' />
     </a>
 </div>
 
