@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791'>Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audio-chrome-4284315.jpg?tf=1200x' alt='Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777'>GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/longevidad-ia-4284263.jpg?tf=1200x' alt='GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-desbloqueada-usuarios-problemas-juegos-ubisoft-ya-pueden-instalar-windows-11-24h2-1436774'>¡Actualización desbloqueada!: usuarios con problemas con juegos de Ubisoft ya pueden instalar Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizacion-desbloqueada-usuarios-problemas-juegos-ubisoft-ya-pueden-instalar-windows-11-24h2-1436774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-windows-11-pc-gaming-4284253.jpg?tf=1200x' alt='¡Actualización desbloqueada!: usuarios con problemas con juegos de Ubisoft ya pueden instalar Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012'>Las 5 películas de ciencia ficción más esperadas de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-peliculas-ciencia-ficcion-esperadas-2025-4281330.jpg?tf=1200x' alt='Las 5 películas de ciencia ficción más esperadas de 2025' />
     </a>
 </div>
 
