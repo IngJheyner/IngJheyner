@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/veterano-electricista-alerta-dispositivos-nunca-debes-conectar-regleta-1435868'>Un veterano electricista alerta de los 7 dispositivos que nunca debes conectar a una regleta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/veterano-electricista-alerta-dispositivos-nunca-debes-conectar-regleta-1435868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/veterano-electricista-alerta-7-dispositivos-nunca-debes-conectar-regleta-4282852.jpg?tf=1200x' alt='Un veterano electricista alerta de los 7 dispositivos que nunca debes conectar a una regleta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-1435119'>Estas son las apps que no deberías tener en la pantalla de inicio del móvil, según una experta</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-1435119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-4281532.jpg?tf=1200x' alt='Estas son las apps que no deberías tener en la pantalla de inicio del móvil, según una experta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-1436437'>Hallazgo inesperado en WhatsApp: descubren los significados ocultos de las marcas de verificación</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-1436437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-4283783.jpg?tf=1200x' alt='Hallazgo inesperado en WhatsApp: descubren los significados ocultos de las marcas de verificación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113'>Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA' />
     </a>
 </div>
 
