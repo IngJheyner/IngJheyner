@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122'>¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-descargado-4283227.jpg?tf=1200x' alt='¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/fin-windows-11-incluira-esperado-indicador-porcentaje-bateria-barra-tareas-1436759'>¡Por fin! Windows 11 incluirá el esperado indicador de porcentaje de batería en su barra de tareas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/fin-windows-11-incluira-esperado-indicador-porcentaje-bateria-barra-tareas-1436759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-windows-11-4243066.jpg?tf=1200x' alt='¡Por fin! Windows 11 incluirá el esperado indicador de porcentaje de batería en su barra de tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161'>WhatsApp: cómo saber quién ha estado viendo tus estados</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-como-saber-quien-ha-estado-viendo-estados-4283298.jpg?tf=1200x' alt='WhatsApp: cómo saber quién ha estado viendo tus estados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-mastodontica-megacentral-electrica-europa-1426278'>Ya sabemos el lugar de España seleccionado para construir una mastodóntica central eléctrica, la más grande de Europa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-mastodontica-megacentral-electrica-europa-1426278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/central-hidroelectrica-espana-4273066.jpg?tf=1200x' alt='Ya sabemos el lugar de España seleccionado para construir una mastodóntica central eléctrica, la más grande de Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/purificadores-aire-cuales-son-mejores-respirar-mejor-casa-1436580'>Purificadores de aire: cuáles son los mejores para respirar mejor en casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/purificadores-aire-cuales-son-mejores-respirar-mejor-casa-1436580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rowenta-intense-pure-air-connect-xl-4283962.jpg?tf=1200x' alt='Purificadores de aire: cuáles son los mejores para respirar mejor en casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-canales-iptv-android-tv-box-forma-legal-1435826'>Cómo ver canales de IPTV en tu Android TV Box de forma legal</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-canales-iptv-android-tv-box-forma-legal-1435826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-tv-box-iptv-4282776.jpg?tf=1200x' alt='Cómo ver canales de IPTV en tu Android TV Box de forma legal' />
     </a>
 </div>
 
