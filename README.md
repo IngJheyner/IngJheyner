@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ahora-puedes-controlar-chromebook-mover-ni-solo-dedo-1436796'>Ahora puedes controlar tu Chromebook sin mover ni un solo dedo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ahora-puedes-controlar-chromebook-mover-ni-solo-dedo-1436796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg?tf=1200x' alt='Ahora puedes controlar tu Chromebook sin mover ni un solo dedo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/microsoft-paint-renueva-estas-funciones-ia-ya-estan-disponibles-todos-windows-11-1436795'>Microsoft Paint se renueva: estas funciones de IA ya están disponibles para todos en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/microsoft-paint-renueva-estas-funciones-ia-ya-estan-disponibles-todos-windows-11-1436795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-paint-4284320.jpg?tf=1200x' alt='Microsoft Paint se renueva: estas funciones de IA ya están disponibles para todos en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777'>GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/longevidad-ia-4284263.jpg?tf=1200x' alt='GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313'>Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ryu-sobakasu-no-hime-4283478.jpg?tf=1200x' alt='Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora' />
     </a>
 </div>
 
