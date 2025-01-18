@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115'>Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/webs-administraciones-publicas-espanolas-4283246.jpg?tf=1200x' alt='Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/abuela-materna-paterna-modelo-ia-resuelve-eterno-debate-cual-importante-nietos-1436720'>¿Abuela materna o paterna? Un modelo de IA resuelve el eterno debate de cuál es la "más importante" para los nietos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/abuela-materna-paterna-modelo-ia-resuelve-eterno-debate-cual-importante-nietos-1436720' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/abuela-materna-paterna-ia-resuelve-eterno-debate-cual-importante-nietos-4284174.jpg?tf=1200x' alt='¿Abuela materna o paterna? Un modelo de IA resuelve el eterno debate de cuál es la "más importante" para los nietos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-1436437'>Hallazgo inesperado en WhatsApp: descubren los significados ocultos de las marcas de verificación</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-1436437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-4283783.jpg?tf=1200x' alt='Hallazgo inesperado en WhatsApp: descubren los significados ocultos de las marcas de verificación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113'>Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-1436172'>Cómo saber quién te escribe por WhatsApp sin necesidad de mirar a la pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-1436172' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-4283303.jpg?tf=1200x' alt='Cómo saber quién te escribe por WhatsApp sin necesidad de mirar a la pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/redes-sociales-codigo-abierto-abren-paso-instagram-tiktok-1435718'>Las redes sociales de código abierto se abren paso contra Instagram y TikTok</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/redes-sociales-codigo-abierto-abren-paso-instagram-tiktok-1435718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redes-sociales-codigo-abierto-4282564.jpg?tf=1200x' alt='Las redes sociales de código abierto se abren paso contra Instagram y TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-telegram-estas-apps-mensajes-seran-completamente-privados-1434133'>Ni WhatsApp ni Telegram, con estas apps tus mensajes serán completamente privados</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-telegram-estas-apps-mensajes-seran-completamente-privados-1434133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-telegram-apps-mensajeria-instantanea-privadas-seguras-ciberseguridad-4279901.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, con estas apps tus mensajes serán completamente privados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-1435128'>Adiós a las regletas en 2025, el alargador viral que querrás tener a toda costa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-1435128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-4281536.jpg?tf=1200x' alt='Adiós a las regletas en 2025, el alargador viral que querrás tener a toda costa' />
     </a>
 </div>
 
