@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777'>GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/longevidad-ia-4284263.jpg?tf=1200x' alt='GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313'>Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ryu-sobakasu-no-hime-4283478.jpg?tf=1200x' alt='Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012'>Las 5 películas de ciencia ficción más esperadas de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-peliculas-ciencia-ficcion-esperadas-2025-4281330.jpg?tf=1200x' alt='Las 5 películas de ciencia ficción más esperadas de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-critica-outlook-tiene-vulnerabilidad-puede-infectarte-solo-abrir-correo-1436766'>Alerta crítica: Outlook tiene una vulnerabilidad que puede infectarte con solo abrir un correo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-critica-outlook-tiene-vulnerabilidad-puede-infectarte-solo-abrir-correo-1436766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-outlook-4284243.jpg?tf=1200x' alt='Alerta crítica: Outlook tiene una vulnerabilidad que puede infectarte con solo abrir un correo' />
     </a>
 </div>
 
