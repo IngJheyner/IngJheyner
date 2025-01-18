@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113'>Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-solo-estas-tres-profesiones-sobreviviran-impacto-ia-1436113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates: Solo estas tres profesiones sobrevivirán al impacto de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-1436172'>Cómo saber quién te escribe por WhatsApp sin necesidad de mirar a la pantalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-1436172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-saber-quien-te-escribe-whatsapp-necesidad-mirar-pantalla-4283303.jpg?tf=1200x' alt='Cómo saber quién te escribe por WhatsApp sin necesidad de mirar a la pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/redes-sociales-codigo-abierto-abren-paso-instagram-tiktok-1435718'>Las redes sociales de código abierto se abren paso contra Instagram y TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/redes-sociales-codigo-abierto-abren-paso-instagram-tiktok-1435718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redes-sociales-codigo-abierto-4282564.jpg?tf=1200x' alt='Las redes sociales de código abierto se abren paso contra Instagram y TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-telegram-estas-apps-mensajes-seran-completamente-privados-1434133'>Ni WhatsApp ni Telegram, con estas apps tus mensajes serán completamente privados</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-whatsapp-ni-telegram-estas-apps-mensajes-seran-completamente-privados-1434133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-telegram-apps-mensajeria-instantanea-privadas-seguras-ciberseguridad-4279901.jpg?tf=1200x' alt='Ni WhatsApp ni Telegram, con estas apps tus mensajes serán completamente privados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-1435128'>Adiós a las regletas en 2025, el alargador viral que querrás tener a toda costa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-1435128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-4281536.jpg?tf=1200x' alt='Adiós a las regletas en 2025, el alargador viral que querrás tener a toda costa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/air-fryer-freidora-aire-freidora-aceite-3076992.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/explosion-cohete-starship-spacex-problema-aerolineas-1436714'>La explosión del cohete Starship de SpaceX revela un gran problema para las aerolíneas</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/explosion-cohete-starship-spacex-problema-aerolineas-1436714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explosion-cohete-starship-spacex-revela-gran-problema-aviacion-comercial-4284166.jpg?tf=1200x' alt='La explosión del cohete Starship de SpaceX revela un gran problema para las aerolíneas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-tan-peligrosa-humanidad-1436697'>¿Qué es la singularidad tecnológica y por qué es tan peligrosa para la humanidad? </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-tan-peligrosa-humanidad-1436697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/singularidad-tecnologica-tan-peligrosa-humanidad-4284167.jpg?tf=1200x' alt='¿Qué es la singularidad tecnológica y por qué es tan peligrosa para la humanidad? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709'>Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-recula-office-funcionando-windows-10-despues-2025-4284154.jpg?tf=1200x' alt='Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025' />
     </a>
 </div>
 
