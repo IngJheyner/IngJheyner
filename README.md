@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-1435128'>Adiós a las regletas en 2025, el alargador viral que querrás tener a toda costa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-1435128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-regletas-2025-alargador-viral-querras-tener-toda-costa-4281536.jpg?tf=1200x' alt='Adiós a las regletas en 2025, el alargador viral que querrás tener a toda costa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813'>Las mejores freidoras sin aceite que puedes comprar este año</a></h4>
+    <a href='https://computerhoy.20minutos.es/listas/tecnologia/freidoras-sin-aceite-cual-comprar-509813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/air-fryer-freidora-aire-freidora-aceite-3076992.jpg?tf=1200x' alt='Las mejores freidoras sin aceite que puedes comprar este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/explosion-cohete-starship-spacex-problema-aerolineas-1436714'>La explosión del cohete Starship de SpaceX revela un gran problema para las aerolíneas</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/explosion-cohete-starship-spacex-problema-aerolineas-1436714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explosion-cohete-starship-spacex-revela-gran-problema-aviacion-comercial-4284166.jpg?tf=1200x' alt='La explosión del cohete Starship de SpaceX revela un gran problema para las aerolíneas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709'>Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-recula-office-funcionando-windows-10-despues-2025-4284154.jpg?tf=1200x' alt='Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-1436676'>Waze prepara la función definitiva para aplastar a Google Maps, lo cambiará todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-1436676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-4284148.jpg?tf=1200x' alt='Waze prepara la función definitiva para aplastar a Google Maps, lo cambiará todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600'>Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil' />
     </a>
 </div>
 
