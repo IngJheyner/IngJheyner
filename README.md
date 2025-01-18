@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709'>Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-recula-office-funcionando-windows-10-despues-2025-1436709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-recula-office-funcionando-windows-10-despues-2025-4284154.jpg?tf=1200x' alt='Microsoft recula: Office seguirá funcionando en Windows 10 después de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-1436676'>Waze prepara la función definitiva para aplastar a Google Maps, lo cambiará todo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-1436676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-prepara-funcion-definitiva-aplastar-google-maps-cambiara-todo-4284148.jpg?tf=1200x' alt='Waze prepara la función definitiva para aplastar a Google Maps, lo cambiará todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/viaja-tiempo-google-maps-te-revela-historia-cualquier-lugar-1436683'>Viaja en el tiempo: el Google Maps que te revela la historia de cualquier lugar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/viaja-tiempo-google-maps-te-revela-historia-cualquier-lugar-1436683' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/oldmapsonline-4284131.jpg?tf=1200x' alt='Viaja en el tiempo: el Google Maps que te revela la historia de cualquier lugar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-accesos-no-autorizados-nueva-funcion-windows-11-protege-archivos-como-nunca-antes-1436681'>¡Adiós accesos no autorizados! La nueva función de Windows 11 protege tus archivos como nunca antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-accesos-no-autorizados-nueva-funcion-windows-11-protege-archivos-como-nunca-antes-1436681' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/como-hacer-pc-windows-sea-seguro-instalar-nada-3297157.jpg?tf=1200x' alt='¡Adiós accesos no autorizados! La nueva función de Windows 11 protege tus archivos como nunca antes' />
     </a>
 </div>
 
