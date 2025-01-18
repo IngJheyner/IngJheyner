@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161'>WhatsApp: cómo saber quién ha estado viendo tus estados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-como-saber-quien-ha-estado-viendo-estados-4283298.jpg?tf=1200x' alt='WhatsApp: cómo saber quién ha estado viendo tus estados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-diseno-clasico-seria-nueva-interfaz-camara-ios-19-filtracion-1436752'>Adiós al diseño clásico: así sería la nueva interfaz de Cámara en iOS 19 según una filtración</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-diseno-clasico-seria-nueva-interfaz-camara-ios-19-filtracion-1436752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/seria-nueva-interfaz-camara-ios-19-4284235.jpg?tf=1200x' alt='Adiós al diseño clásico: así sería la nueva interfaz de Cámara en iOS 19 según una filtración' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-mastodontica-megacentral-electrica-europa-1426278'>Ya sabemos el lugar de España seleccionado para construir una mastodóntica central eléctrica, la más grande de Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-mastodontica-megacentral-electrica-europa-1426278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/central-hidroelectrica-espana-4273066.jpg?tf=1200x' alt='Ya sabemos el lugar de España seleccionado para construir una mastodóntica central eléctrica, la más grande de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/purificadores-aire-cuales-son-mejores-respirar-mejor-casa-1436580'>Purificadores de aire: cuáles son los mejores para respirar mejor en casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/purificadores-aire-cuales-son-mejores-respirar-mejor-casa-1436580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rowenta-intense-pure-air-connect-xl-4283962.jpg?tf=1200x' alt='Purificadores de aire: cuáles son los mejores para respirar mejor en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-canales-iptv-android-tv-box-forma-legal-1435826'>Cómo ver canales de IPTV en tu Android TV Box de forma legal</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-canales-iptv-android-tv-box-forma-legal-1435826' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-tv-box-iptv-4282776.jpg?tf=1200x' alt='Cómo ver canales de IPTV en tu Android TV Box de forma legal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-incluye-busqueda-ia-encuentra-todo-pc-solo-describirlo-1436744'>Windows 11 ahora incluye búsqueda con IA: encuentra todo en tu PC con solo describirlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-incluye-busqueda-ia-encuentra-todo-pc-solo-describirlo-1436744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-ahora-incluye-busqueda-ia-4284212.jpg?tf=1200x' alt='Windows 11 ahora incluye búsqueda con IA: encuentra todo en tu PC con solo describirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/veterano-electricista-alerta-dispositivos-nunca-debes-conectar-regleta-1435868'>Un veterano electricista alerta de los 7 dispositivos que nunca debes conectar a una regleta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/veterano-electricista-alerta-dispositivos-nunca-debes-conectar-regleta-1435868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/veterano-electricista-alerta-7-dispositivos-nunca-debes-conectar-regleta-4282852.jpg?tf=1200x' alt='Un veterano electricista alerta de los 7 dispositivos que nunca debes conectar a una regleta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-1435119'>Estas son las apps que no deberías tener en la pantalla de inicio del móvil, según una experta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-1435119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estas-son-apps-no-deberias-tener-pantalla-inicio-movil-experta-4281532.jpg?tf=1200x' alt='Estas son las apps que no deberías tener en la pantalla de inicio del móvil, según una experta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115'>Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/webs-administraciones-publicas-espanolas-4283246.jpg?tf=1200x' alt='Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90' />
     </a>
 </div>
 
