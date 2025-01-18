@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/microsoft-paint-renueva-estas-funciones-ia-ya-estan-disponibles-todos-windows-11-1436795'>Microsoft Paint se renueva: estas funciones de IA ya están disponibles para todos en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/microsoft-paint-renueva-estas-funciones-ia-ya-estan-disponibles-todos-windows-11-1436795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-paint-4284320.jpg?tf=1200x' alt='Microsoft Paint se renueva: estas funciones de IA ya están disponibles para todos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estrellas-google-play-store-ocultara-resenas-estas-aplicaciones-concretas-1436792'>Adiós a las estrellas: Google Play Store ocultará reseñas en estas aplicaciones concretas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-estrellas-google-play-store-ocultara-resenas-estas-aplicaciones-concretas-1436792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Adiós a las estrellas: Google Play Store ocultará reseñas en estas aplicaciones concretas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791'>Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audio-chrome-4284315.jpg?tf=1200x' alt='Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313'>Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ryu-sobakasu-no-hime-4283478.jpg?tf=1200x' alt='Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-1436462'>Cuesta menos de 200 euros y te hará ahorrar en calefacción el resto de tu vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-1436462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-4283795.jpg?tf=1200x' alt='Cuesta menos de 200 euros y te hará ahorrar en calefacción el resto de tu vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-desbloqueada-usuarios-problemas-juegos-ubisoft-ya-pueden-instalar-windows-11-24h2-1436774'>¡Actualización desbloqueada!: usuarios con problemas con juegos de Ubisoft ya pueden instalar Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizacion-desbloqueada-usuarios-problemas-juegos-ubisoft-ya-pueden-instalar-windows-11-24h2-1436774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-windows-11-pc-gaming-4284253.jpg?tf=1200x' alt='¡Actualización desbloqueada!: usuarios con problemas con juegos de Ubisoft ya pueden instalar Windows 11 24H2' />
     </a>
 </div>
 
