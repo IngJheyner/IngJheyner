@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-canales-iptv-android-tv-box-forma-legal-1435826'>Cómo ver canales de IPTV en tu Android TV Box de forma legal</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-canales-iptv-android-tv-box-forma-legal-1435826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-tv-box-iptv-4282776.jpg?tf=1200x' alt='Cómo ver canales de IPTV en tu Android TV Box de forma legal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-incluye-busqueda-ia-encuentra-todo-pc-solo-describirlo-1436744'>Windows 11 ahora incluye búsqueda con IA: encuentra todo en tu PC con solo describirlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-incluye-busqueda-ia-encuentra-todo-pc-solo-describirlo-1436744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-ahora-incluye-busqueda-ia-4284212.jpg?tf=1200x' alt='Windows 11 ahora incluye búsqueda con IA: encuentra todo en tu PC con solo describirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/veterano-electricista-alerta-dispositivos-nunca-debes-conectar-regleta-1435868'>Un veterano electricista alerta de los 7 dispositivos que nunca debes conectar a una regleta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/veterano-electricista-alerta-dispositivos-nunca-debes-conectar-regleta-1435868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/veterano-electricista-alerta-7-dispositivos-nunca-debes-conectar-regleta-4282852.jpg?tf=1200x' alt='Un veterano electricista alerta de los 7 dispositivos que nunca debes conectar a una regleta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115'>Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/visitar-webs-administraciones-publicas-espanolas-2025-experiencia-usuario-digna-90-1436115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/webs-administraciones-publicas-espanolas-4283246.jpg?tf=1200x' alt='Visitar las webs de las Administraciones Públicas españolas en 2025, una experiencia de usuario digna de los 90' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/abuela-materna-paterna-modelo-ia-resuelve-eterno-debate-cual-importante-nietos-1436720'>¿Abuela materna o paterna? Un modelo de IA resuelve el eterno debate de cuál es la "más importante" para los nietos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/abuela-materna-paterna-modelo-ia-resuelve-eterno-debate-cual-importante-nietos-1436720' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/abuela-materna-paterna-ia-resuelve-eterno-debate-cual-importante-nietos-4284174.jpg?tf=1200x' alt='¿Abuela materna o paterna? Un modelo de IA resuelve el eterno debate de cuál es la "más importante" para los nietos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-1436437'>Hallazgo inesperado en WhatsApp: descubren los significados ocultos de las marcas de verificación</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-1436437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-whatsapp-descubren-significados-ocultos-marcas-verificacion-4283783.jpg?tf=1200x' alt='Hallazgo inesperado en WhatsApp: descubren los significados ocultos de las marcas de verificación' />
     </a>
 </div>
 
