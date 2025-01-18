@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012'>Las 5 películas de ciencia ficción más esperadas de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-peliculas-ciencia-ficcion-esperadas-2025-4281330.jpg?tf=1200x' alt='Las 5 películas de ciencia ficción más esperadas de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-critica-outlook-tiene-vulnerabilidad-puede-infectarte-solo-abrir-correo-1436766'>Alerta crítica: Outlook tiene una vulnerabilidad que puede infectarte con solo abrir un correo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-critica-outlook-tiene-vulnerabilidad-puede-infectarte-solo-abrir-correo-1436766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-outlook-4284243.jpg?tf=1200x' alt='Alerta crítica: Outlook tiene una vulnerabilidad que puede infectarte con solo abrir un correo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122'>¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-descargado-4283227.jpg?tf=1200x' alt='¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161'>WhatsApp: cómo saber quién ha estado viendo tus estados</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-como-saber-quien-ha-estado-viendo-estados-4283298.jpg?tf=1200x' alt='WhatsApp: cómo saber quién ha estado viendo tus estados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-diseno-clasico-seria-nueva-interfaz-camara-ios-19-filtracion-1436752'>Adiós al diseño clásico: así sería la nueva interfaz de Cámara en iOS 19 según una filtración</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-diseno-clasico-seria-nueva-interfaz-camara-ios-19-filtracion-1436752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/seria-nueva-interfaz-camara-ios-19-4284235.jpg?tf=1200x' alt='Adiós al diseño clásico: así sería la nueva interfaz de Cámara en iOS 19 según una filtración' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-mastodontica-megacentral-electrica-europa-1426278'>Ya sabemos el lugar de España seleccionado para construir una mastodóntica central eléctrica, la más grande de Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lugar-espana-mastodontica-megacentral-electrica-europa-1426278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/central-hidroelectrica-espana-4273066.jpg?tf=1200x' alt='Ya sabemos el lugar de España seleccionado para construir una mastodóntica central eléctrica, la más grande de Europa' />
     </a>
 </div>
 
