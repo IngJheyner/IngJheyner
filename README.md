@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-1436462'>Cuesta menos de 200 euros y te hará ahorrar en calefacción el resto de tu vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-1436462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-4283795.jpg?tf=1200x' alt='Cuesta menos de 200 euros y te hará ahorrar en calefacción el resto de tu vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/actualizacion-desbloqueada-usuarios-problemas-juegos-ubisoft-ya-pueden-instalar-windows-11-24h2-1436774'>¡Actualización desbloqueada!: usuarios con problemas con juegos de Ubisoft ya pueden instalar Windows 11 24H2</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/actualizacion-desbloqueada-usuarios-problemas-juegos-ubisoft-ya-pueden-instalar-windows-11-24h2-1436774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-windows-11-pc-gaming-4284253.jpg?tf=1200x' alt='¡Actualización desbloqueada!: usuarios con problemas con juegos de Ubisoft ya pueden instalar Windows 11 24H2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012'>Las 5 películas de ciencia ficción más esperadas de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-esperadas-2025-1435012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-peliculas-ciencia-ficcion-esperadas-2025-4281330.jpg?tf=1200x' alt='Las 5 películas de ciencia ficción más esperadas de 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122'>¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-descargado-4283227.jpg?tf=1200x' alt='¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/fin-windows-11-incluira-esperado-indicador-porcentaje-bateria-barra-tareas-1436759'>¡Por fin! Windows 11 incluirá el esperado indicador de porcentaje de batería en su barra de tareas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/fin-windows-11-incluira-esperado-indicador-porcentaje-bateria-barra-tareas-1436759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bateria-windows-11-4243066.jpg?tf=1200x' alt='¡Por fin! Windows 11 incluirá el esperado indicador de porcentaje de batería en su barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161'>WhatsApp: cómo saber quién ha estado viendo tus estados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-saber-quien-ha-estado-viendo-estados-1436161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-como-saber-quien-ha-estado-viendo-estados-4283298.jpg?tf=1200x' alt='WhatsApp: cómo saber quién ha estado viendo tus estados' />
     </a>
 </div>
 
