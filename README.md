@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/explosion-cohete-starship-spacex-problema-aerolineas-1436714'>La explosión del cohete Starship de SpaceX revela un gran problema para las aerolíneas</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/explosion-cohete-starship-spacex-problema-aerolineas-1436714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explosion-cohete-starship-spacex-revela-gran-problema-aviacion-comercial-4284166.jpg?tf=1200x' alt='La explosión del cohete Starship de SpaceX revela un gran problema para las aerolíneas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-tan-peligrosa-humanidad-1436697'>¿Qué es la singularidad tecnológica y por qué es tan peligrosa para la humanidad? </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-tan-peligrosa-humanidad-1436697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/singularidad-tecnologica-tan-peligrosa-humanidad-4284167.jpg?tf=1200x' alt='¿Qué es la singularidad tecnológica y por qué es tan peligrosa para la humanidad? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600'>Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-tarjetas-hoteles-google-wallet-permite-abrir-habitaciones-movil-1436600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/google-wallet-3136938.jpg?tf=1200x' alt='Adiós a las tarjetas de los hoteles, Google Wallet permite abrir las habitaciones con el móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/advierten-radio-fm-podria-desaparecer-coches-no-impulsa-tecnologia-dab-1436684'>Advierten que la radio FM podría desaparecer de los coches si no se impulsa la tecnología DAB+</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/advierten-radio-fm-podria-desaparecer-coches-no-impulsa-tecnologia-dab-1436684' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/radio-coche-4284133.jpg?tf=1200x' alt='Advierten que la radio FM podría desaparecer de los coches si no se impulsa la tecnología DAB+' />
     </a>
 </div>
 
