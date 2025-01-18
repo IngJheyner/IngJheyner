@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313'>Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/prime-video-emotiva-pelicula-animacion-japonesa-no-todo-mundo-conoce-critica-adora-1436313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ryu-sobakasu-no-hime-4283478.jpg?tf=1200x' alt='Está en Prime Video: la emotiva película de animación japonesa que no todo el mundo conoce y la crítica adora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-1436462'>Cuesta menos de 200 euros y te hará ahorrar en calefacción el resto de tu vida</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-1436462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuesta-menos-200-euros-te-hara-ahorrar-calefaccion-resto-vida-4283795.jpg?tf=1200x' alt='Cuesta menos de 200 euros y te hará ahorrar en calefacción el resto de tu vida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-critica-outlook-tiene-vulnerabilidad-puede-infectarte-solo-abrir-correo-1436766'>Alerta crítica: Outlook tiene una vulnerabilidad que puede infectarte con solo abrir un correo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-critica-outlook-tiene-vulnerabilidad-puede-infectarte-solo-abrir-correo-1436766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/malware-outlook-4284243.jpg?tf=1200x' alt='Alerta crítica: Outlook tiene una vulnerabilidad que puede infectarte con solo abrir un correo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122'>¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/bateria-iphone-agota-muy-rapido-realidad-debes-conocer-1436122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-descargado-4283227.jpg?tf=1200x' alt='¿La batería de tu iPhone se agota muy rápido? No te fustigues, esta es la realidad que debes conocer' />
     </a>
 </div>
 
