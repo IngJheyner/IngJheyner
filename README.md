@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-descubren-no-siempre-te-lleva-ruta-rapida-1436458'>Hallazgo inesperado en Waze: descubren por qué no siempre te lleva por la ruta más rápida</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-descubren-no-siempre-te-lleva-ruta-rapida-1436458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-waze-descubren-no-siempre-te-lleva-ruta-rapida-4283790.jpg?tf=1200x' alt='Hallazgo inesperado en Waze: descubren por qué no siempre te lleva por la ruta más rápida' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883'>Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizar-windows-11-windows-10-instalacion-limpia-mejor-4282866.jpg?tf=1200x' alt='Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ahora-puedes-controlar-chromebook-mover-ni-solo-dedo-1436796'>Ahora puedes controlar tu Chromebook sin mover ni un solo dedo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ahora-puedes-controlar-chromebook-mover-ni-solo-dedo-1436796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg?tf=1200x' alt='Ahora puedes controlar tu Chromebook sin mover ni un solo dedo' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-1435876'>Cómo bloquear y desbloquear la pantalla de tu móvil Android sin apretar ningún botón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-1435876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-4282858.jpg?tf=1200x' alt='Cómo bloquear y desbloquear la pantalla de tu móvil Android sin apretar ningún botón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/microsoft-paint-renueva-estas-funciones-ia-ya-estan-disponibles-todos-windows-11-1436795'>Microsoft Paint se renueva: estas funciones de IA ya están disponibles para todos en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/microsoft-paint-renueva-estas-funciones-ia-ya-estan-disponibles-todos-windows-11-1436795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-paint-4284320.jpg?tf=1200x' alt='Microsoft Paint se renueva: estas funciones de IA ya están disponibles para todos en Windows 11' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/primera-vez-historia-graban-video-audio-impacto-meteorito-1436806'>Por primera vez en la historia graban un vídeo con audio del impacto de un meteorito, el sonido estremece</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/primera-vez-historia-graban-video-audio-impacto-meteorito-1436806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primera-vez-graba-video-impacto-meteorito-casa-sonido-estremece-4284181.jpg?tf=1200x' alt='Por primera vez en la historia graban un vídeo con audio del impacto de un meteorito, el sonido estremece' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-estrellas-google-play-store-ocultara-resenas-estas-aplicaciones-concretas-1436792'>Adiós a las estrellas: Google Play Store ocultará reseñas en estas aplicaciones concretas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-estrellas-google-play-store-ocultara-resenas-estas-aplicaciones-concretas-1436792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/google-play-store-3478871.jpg?tf=1200x' alt='Adiós a las estrellas: Google Play Store ocultará reseñas en estas aplicaciones concretas' />
+    <h4><a href='https://computerhoy.20minutos.es/trucos-waze-confirman-has-usado-app-mal-todo-tiempo-1435484'>7 trucos de Waze que confirman que has usado la app mal todo este tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/trucos-waze-confirman-has-usado-app-mal-todo-tiempo-1435484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rutas-waze-4282152.jpg?tf=1200x' alt='7 trucos de Waze que confirman que has usado la app mal todo este tiempo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791'>Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audio-chrome-4284315.jpg?tf=1200x' alt='Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-novedades-trae-cohete-espanol-quiere-competir-spacex-elon-musk-1432930'>¿Qué es Miura 5 y qué novedades trae el cohete español que quiere competir con SpaceX de Elon Musk?</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/miura-5-novedades-trae-cohete-espanol-quiere-competir-spacex-elon-musk-1432930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-miura-5-3678512.jpg?tf=1200x' alt='¿Qué es Miura 5 y qué novedades trae el cohete español que quiere competir con SpaceX de Elon Musk?' />
     </a>
 </div>
 
