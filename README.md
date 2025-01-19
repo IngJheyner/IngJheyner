@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligrosa-estafa-pueden-controlar-movil-1434981'>La Policía Nacional advierte sobre esta peligrosa estafa: "Pueden controlar tu móvil"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligrosa-estafa-pueden-controlar-movil-1434981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-4283464.jpg?tf=1200x' alt='La Policía Nacional advierte sobre esta peligrosa estafa: "Pueden controlar tu móvil"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-podra-resumirnos-todos-archivos-adjuntos-gracias-copilot-1436844'>Outlook podrá resumirnos todos los archivos adjuntos gracias a Copilot</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/outlook-podra-resumirnos-todos-archivos-adjuntos-gracias-copilot-1436844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/outlook-copilot-4284369.jpg?tf=1200x' alt='Outlook podrá resumirnos todos los archivos adjuntos gracias a Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181'>Cómo convertir documentos de texto a docx sin usar Microsoft Word</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-convertir-documentos-texto-docx-usar-microsoft-word-4283311.jpg?tf=1200x' alt='Cómo convertir documentos de texto a docx sin usar Microsoft Word' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851'>Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-4282842.jpg?tf=1200x' alt='Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lista-todas-aplicaciones-acaba-eliminar-tienda-estados-unidos-hay-mucho-tiktok-marvel-snap-1436838'>Apple lista todas las aplicaciones que acaba de eliminar de su tienda en Estados Unidos: hay mucho más que TikTok y Marvel Snap</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-lista-todas-aplicaciones-acaba-eliminar-tienda-estados-unidos-hay-mucho-tiktok-marvel-snap-1436838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-app-store-4284366.jpg?tf=1200x' alt='Apple lista todas las aplicaciones que acaba de eliminar de su tienda en Estados Unidos: hay mucho más que TikTok y Marvel Snap' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/te-acuerdas-vine-elon-musk-quiere-traerlo-vuelta-competir-tiktok-1436834'>¿Te acuerdas de Vine? Elon Musk quiere traerlo de vuelta para competir con TikTok</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/te-acuerdas-vine-elon-musk-quiere-traerlo-vuelta-competir-tiktok-1436834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vine-4284363.jpg?tf=1200x' alt='¿Te acuerdas de Vine? Elon Musk quiere traerlo de vuelta para competir con TikTok' />
     </a>
 </div>
 
