@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181'>Cómo convertir documentos de texto a docx sin usar Microsoft Word</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-convertir-documentos-texto-docx-usar-microsoft-word-4283311.jpg?tf=1200x' alt='Cómo convertir documentos de texto a docx sin usar Microsoft Word' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-modernizar-edge-encajarlo-windows-11-1436841'>Microsoft quiere modernizar Edge para "encajarlo" con Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-modernizar-edge-encajarlo-windows-11-1436841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/edge-phoenix-4284367.jpg?tf=1200x' alt='Microsoft quiere modernizar Edge para "encajarlo" con Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851'>Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-4282842.jpg?tf=1200x' alt='Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/te-acuerdas-vine-elon-musk-quiere-traerlo-vuelta-competir-tiktok-1436834'>¿Te acuerdas de Vine? Elon Musk quiere traerlo de vuelta para competir con TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/te-acuerdas-vine-elon-musk-quiere-traerlo-vuelta-competir-tiktok-1436834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vine-4284363.jpg?tf=1200x' alt='¿Te acuerdas de Vine? Elon Musk quiere traerlo de vuelta para competir con TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/magis-tv-iptv-espanol-popular-mundo-cambia-nombre-flujo-1436231'>La IPTV en español que arrasa en todo el mundo cambia de nombre y realiza una curiosa petición en Estados Unidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/magis-tv-iptv-espanol-popular-mundo-cambia-nombre-flujo-1436231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-4216886.jpg?tf=1200x' alt='La IPTV en español que arrasa en todo el mundo cambia de nombre y realiza una curiosa petición en Estados Unidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-1435105'>Experta en ciberseguridad explica por qué tiendas como IKEA te pide el código postal y por qué no deberías darlo nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-1435105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-4281520.jpg?tf=1200x' alt='Experta en ciberseguridad explica por qué tiendas como IKEA te pide el código postal y por qué no deberías darlo nunca' />
     </a>
 </div>
 
