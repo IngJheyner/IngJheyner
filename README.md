@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-1435105'>Experta en ciberseguridad explica por qué tiendas como IKEA te pide el código postal y por qué no deberías darlo nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-1435105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-4281520.jpg?tf=1200x' alt='Experta en ciberseguridad explica por qué tiendas como IKEA te pide el código postal y por qué no deberías darlo nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-smartphones-bill-gates-predice-tecnologia-podria-reemplazar-moviles-1436084'>Adiós a los smartphones: Bill Gates predice la tecnología que podría reemplazar a los móviles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-smartphones-bill-gates-predice-tecnologia-podria-reemplazar-moviles-1436084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4283174.jpg?tf=1200x' alt='Adiós a los smartphones: Bill Gates predice la tecnología que podría reemplazar a los móviles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883'>Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizar-windows-11-windows-10-instalacion-limpia-mejor-4282866.jpg?tf=1200x' alt='Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-1435876'>Cómo bloquear y desbloquear la pantalla de tu móvil Android sin apretar ningún botón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-1435876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-4282858.jpg?tf=1200x' alt='Cómo bloquear y desbloquear la pantalla de tu móvil Android sin apretar ningún botón' />
     </a>
 </div>
 
