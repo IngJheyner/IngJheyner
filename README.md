@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851'>Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-4282842.jpg?tf=1200x' alt='Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lista-todas-aplicaciones-acaba-eliminar-tienda-estados-unidos-hay-mucho-tiktok-marvel-snap-1436838'>Apple lista todas las aplicaciones que acaba de eliminar de su tienda en Estados Unidos: hay mucho más que TikTok y Marvel Snap</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lista-todas-aplicaciones-acaba-eliminar-tienda-estados-unidos-hay-mucho-tiktok-marvel-snap-1436838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-app-store-4284366.jpg?tf=1200x' alt='Apple lista todas las aplicaciones que acaba de eliminar de su tienda en Estados Unidos: hay mucho más que TikTok y Marvel Snap' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/te-acuerdas-vine-elon-musk-quiere-traerlo-vuelta-competir-tiktok-1436834'>¿Te acuerdas de Vine? Elon Musk quiere traerlo de vuelta para competir con TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/te-acuerdas-vine-elon-musk-quiere-traerlo-vuelta-competir-tiktok-1436834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vine-4284363.jpg?tf=1200x' alt='¿Te acuerdas de Vine? Elon Musk quiere traerlo de vuelta para competir con TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/magis-tv-iptv-espanol-popular-mundo-cambia-nombre-flujo-1436231'>La IPTV en español que arrasa en todo el mundo cambia de nombre y realiza una curiosa petición en Estados Unidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/magis-tv-iptv-espanol-popular-mundo-cambia-nombre-flujo-1436231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/magis-tv-punto-mira-guerra-total-nivel-mundial-pirateria-iptv-4216886.jpg?tf=1200x' alt='La IPTV en español que arrasa en todo el mundo cambia de nombre y realiza una curiosa petición en Estados Unidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-1435105'>Experta en ciberseguridad explica por qué tiendas como IKEA te pide el código postal y por qué no deberías darlo nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-1435105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experta-ciberseguridad-explica-tiendas-como-ikea-te-pide-codigo-postal-no-deberias-darlo-nunca-4281520.jpg?tf=1200x' alt='Experta en ciberseguridad explica por qué tiendas como IKEA te pide el código postal y por qué no deberías darlo nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-smartphones-bill-gates-predice-tecnologia-podria-reemplazar-moviles-1436084'>Adiós a los smartphones: Bill Gates predice la tecnología que podría reemplazar a los móviles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-smartphones-bill-gates-predice-tecnologia-podria-reemplazar-moviles-1436084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4283174.jpg?tf=1200x' alt='Adiós a los smartphones: Bill Gates predice la tecnología que podría reemplazar a los móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/tiktok-bloqueado-eeuu-1436810'>EEUU bloquea TikTok, pero Trump podría ser su única salvación</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/tiktok-bloqueado-eeuu-1436810' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mensaje-bloqueo-eeuu-tiktok-4284342.jpg?tf=1200x' alt='EEUU bloquea TikTok, pero Trump podría ser su única salvación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sherlock-holmes-ni-conan-ia-nuevo-detective-siglo-xxi-angel-demonio-1436124'>Ni Sherlock Holmes ni Conan: la IA, nuevo detective del siglo XXI, ¿ángel o demonio?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-sherlock-holmes-ni-conan-ia-nuevo-detective-siglo-xxi-angel-demonio-1436124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-nuevo-detective-siglo-xxi-4283236.jpg?tf=1200x' alt='Ni Sherlock Holmes ni Conan: la IA, nuevo detective del siglo XXI, ¿ángel o demonio?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883'>Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizar-windows-11-windows-10-instalacion-limpia-mejor-4282866.jpg?tf=1200x' alt='Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?' />
     </a>
 </div>
 
