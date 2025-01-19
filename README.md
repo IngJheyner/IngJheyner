@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882'>TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-da-orden-4284493.jpg?tf=1200x' alt='TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pcie-70-cuatro-veces-mas-ancho-banda-alimentar-inteligencia-artificial-1436880'>Ya está aquí PCIe 7.0, cuatro veces más ancho de banda para alimentar a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pcie-70-cuatro-veces-mas-ancho-banda-alimentar-inteligencia-artificial-1436880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-has-comprado-pc-pcie-50-ya-aqui-pcie-70-cuatro-veces-ancho-banda-alimentar-ia-4284477.jpg?tf=1200x' alt='Ya está aquí PCIe 7.0, cuatro veces más ancho de banda para alimentar a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/pudo-salvar-vida-mi-padre-tim-cook-desvela-predileccion-producto-apple-1436299'>"Pudo salvar la vida de mi padre": Tim Cook desvela su predilección por este producto de Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/pudo-salvar-vida-mi-padre-tim-cook-desvela-predileccion-producto-apple-1436299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tim-cook-apple-4283465.jpg?tf=1200x' alt='"Pudo salvar la vida de mi padre": Tim Cook desvela su predilección por este producto de Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001'>Netflix resucitará esta saga de fantasía para competir con El señor de los anillos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/netflix-resucitara-saga-fantasia-nivel-senor-anillos-4281316.jpg?tf=1200x' alt='Netflix resucitará esta saga de fantasía para competir con El señor de los anillos' />
     </a>
 </div>
 
