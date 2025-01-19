@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-smartphones-bill-gates-predice-tecnologia-podria-reemplazar-moviles-1436084'>Adiós a los smartphones: Bill Gates predice la tecnología que podría reemplazar a los móviles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-smartphones-bill-gates-predice-tecnologia-podria-reemplazar-moviles-1436084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4283174.jpg?tf=1200x' alt='Adiós a los smartphones: Bill Gates predice la tecnología que podría reemplazar a los móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/tiktok-bloqueado-eeuu-1436810'>EEUU bloquea TikTok, pero Trump podría ser su única salvación</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/tiktok-bloqueado-eeuu-1436810' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mensaje-bloqueo-eeuu-tiktok-4284342.jpg?tf=1200x' alt='EEUU bloquea TikTok, pero Trump podría ser su única salvación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sherlock-holmes-ni-conan-ia-nuevo-detective-siglo-xxi-angel-demonio-1436124'>Ni Sherlock Holmes ni Conan: la IA, nuevo detective del siglo XXI, ¿ángel o demonio?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-sherlock-holmes-ni-conan-ia-nuevo-detective-siglo-xxi-angel-demonio-1436124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-nuevo-detective-siglo-xxi-4283236.jpg?tf=1200x' alt='Ni Sherlock Holmes ni Conan: la IA, nuevo detective del siglo XXI, ¿ángel o demonio?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-1435876'>Cómo bloquear y desbloquear la pantalla de tu móvil Android sin apretar ningún botón</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-1435876' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-bloquear-desbloquear-pantalla-movil-android-apretar-ningun-boton-4282858.jpg?tf=1200x' alt='Cómo bloquear y desbloquear la pantalla de tu móvil Android sin apretar ningún botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/primera-vez-historia-graban-video-audio-impacto-meteorito-1436806'>Por primera vez en la historia graban un vídeo con audio del impacto de un meteorito, el sonido estremece</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/primera-vez-historia-graban-video-audio-impacto-meteorito-1436806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primera-vez-graba-video-impacto-meteorito-casa-sonido-estremece-4284181.jpg?tf=1200x' alt='Por primera vez en la historia graban un vídeo con audio del impacto de un meteorito, el sonido estremece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/trucos-waze-confirman-has-usado-app-mal-todo-tiempo-1435484'>7 trucos de Waze que confirman que has usado la app mal todo este tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/trucos-waze-confirman-has-usado-app-mal-todo-tiempo-1435484' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rutas-waze-4282152.jpg?tf=1200x' alt='7 trucos de Waze que confirman que has usado la app mal todo este tiempo' />
     </a>
 </div>
 
