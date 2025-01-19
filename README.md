@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001'>Netflix resucitará esta saga de fantasía para competir con El señor de los anillos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/netflix-resucitara-saga-fantasia-nivel-senor-anillos-4281316.jpg?tf=1200x' alt='Netflix resucitará esta saga de fantasía para competir con El señor de los anillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-hara-uso-ia-hacer-notificaciones-permisos-navegador-sean-menos-molestas-1436845'>Chrome hará uso de IA para hacer que las notificaciones de permisos en el navegador sean menos molestas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-hara-uso-ia-hacer-notificaciones-permisos-navegador-sean-menos-molestas-1436845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='Chrome hará uso de IA para hacer que las notificaciones de permisos en el navegador sean menos molestas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligrosa-estafa-pueden-controlar-movil-1434981'>La Policía Nacional advierte sobre esta peligrosa estafa: "Pueden controlar tu móvil"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligrosa-estafa-pueden-controlar-movil-1434981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-4283464.jpg?tf=1200x' alt='La Policía Nacional advierte sobre esta peligrosa estafa: "Pueden controlar tu móvil"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181'>Cómo convertir documentos de texto a docx sin usar Microsoft Word</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-convertir-documentos-texto-docx-usar-microsoft-word-4283311.jpg?tf=1200x' alt='Cómo convertir documentos de texto a docx sin usar Microsoft Word' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-modernizar-edge-encajarlo-windows-11-1436841'>Microsoft quiere modernizar Edge para "encajarlo" con Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-modernizar-edge-encajarlo-windows-11-1436841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/edge-phoenix-4284367.jpg?tf=1200x' alt='Microsoft quiere modernizar Edge para "encajarlo" con Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851'>Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-1435851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-netflix-he-conseguido-vuelva-recomendarme-cosas-me-interesen-4282842.jpg?tf=1200x' alt='Giro de 180 grados en Netflix, así he conseguido que vuelva a recomendarme cosas que me interesen' />
     </a>
 </div>
 
