@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sherlock-holmes-ni-conan-ia-nuevo-detective-siglo-xxi-angel-demonio-1436124'>Ni Sherlock Holmes ni Conan: la IA, nuevo detective del siglo XXI, ¿ángel o demonio?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-sherlock-holmes-ni-conan-ia-nuevo-detective-siglo-xxi-angel-demonio-1436124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-nuevo-detective-siglo-xxi-4283236.jpg?tf=1200x' alt='Ni Sherlock Holmes ni Conan: la IA, nuevo detective del siglo XXI, ¿ángel o demonio?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883'>Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-windows-10-instalacion-limpia-mejor-1435883' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizar-windows-11-windows-10-instalacion-limpia-mejor-4282866.jpg?tf=1200x' alt='Actualizar a Windows 11: desde Windows 10 o instalación limpia, ¿qué es mejor?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/trucos-waze-confirman-has-usado-app-mal-todo-tiempo-1435484'>7 trucos de Waze que confirman que has usado la app mal todo este tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/trucos-waze-confirman-has-usado-app-mal-todo-tiempo-1435484' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rutas-waze-4282152.jpg?tf=1200x' alt='7 trucos de Waze que confirman que has usado la app mal todo este tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-novedades-trae-cohete-espanol-quiere-competir-spacex-elon-musk-1432930'>¿Qué es Miura 5 y qué novedades trae el cohete español que quiere competir con SpaceX de Elon Musk?</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/miura-5-novedades-trae-cohete-espanol-quiere-competir-spacex-elon-musk-1432930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/cohete-miura-5-3678512.jpg?tf=1200x' alt='¿Qué es Miura 5 y qué novedades trae el cohete español que quiere competir con SpaceX de Elon Musk?' />
     </a>
 </div>
 
