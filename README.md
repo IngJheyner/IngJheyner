@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873'>Primero TikTok, ahora Elon Musk podría comprar Intel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primero-tiktok-ahora-elon-musk-interesado-comprar-intel-4284467.jpg?tf=1200x' alt='Primero TikTok, ahora Elon Musk podría comprar Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/descubren-boeing-737-abandonado-google-maps-puedes-visitar-1436177'>Descubren un Boeing 737 abandonado en Google Maps que puedes visitar</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/descubren-boeing-737-abandonado-google-maps-puedes-visitar-1436177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/descubren-boeing-737-abandonado-google-maps-puedes-visitar-4283307.jpg?tf=1200x' alt='Descubren un Boeing 737 abandonado en Google Maps que puedes visitar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-hara-uso-ia-hacer-notificaciones-permisos-navegador-sean-menos-molestas-1436845'>Chrome hará uso de IA para hacer que las notificaciones de permisos en el navegador sean menos molestas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-hara-uso-ia-hacer-notificaciones-permisos-navegador-sean-menos-molestas-1436845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='Chrome hará uso de IA para hacer que las notificaciones de permisos en el navegador sean menos molestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligrosa-estafa-pueden-controlar-movil-1434981'>La Policía Nacional advierte sobre esta peligrosa estafa: "Pueden controlar tu móvil"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligrosa-estafa-pueden-controlar-movil-1434981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-4283464.jpg?tf=1200x' alt='La Policía Nacional advierte sobre esta peligrosa estafa: "Pueden controlar tu móvil"' />
     </a>
 </div>
 
