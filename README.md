@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/pudo-salvar-vida-mi-padre-tim-cook-desvela-predileccion-producto-apple-1436299'>"Pudo salvar la vida de mi padre": Tim Cook desvela su predilección por este producto de Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/pudo-salvar-vida-mi-padre-tim-cook-desvela-predileccion-producto-apple-1436299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tim-cook-apple-4283465.jpg?tf=1200x' alt='"Pudo salvar la vida de mi padre": Tim Cook desvela su predilección por este producto de Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001'>Netflix resucitará esta saga de fantasía para competir con El señor de los anillos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/netflix-resucitara-saga-fantasia-nivel-senor-anillos-4281316.jpg?tf=1200x' alt='Netflix resucitará esta saga de fantasía para competir con El señor de los anillos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/outlook-podra-resumirnos-todos-archivos-adjuntos-gracias-copilot-1436844'>Outlook podrá resumirnos todos los archivos adjuntos gracias a Copilot</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/outlook-podra-resumirnos-todos-archivos-adjuntos-gracias-copilot-1436844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/outlook-copilot-4284369.jpg?tf=1200x' alt='Outlook podrá resumirnos todos los archivos adjuntos gracias a Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181'>Cómo convertir documentos de texto a docx sin usar Microsoft Word</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-convertir-documentos-texto-docx-usar-microsoft-word-1436181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-convertir-documentos-texto-docx-usar-microsoft-word-4283311.jpg?tf=1200x' alt='Cómo convertir documentos de texto a docx sin usar Microsoft Word' />
     </a>
 </div>
 
