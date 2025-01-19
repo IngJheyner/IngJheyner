@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-1436890'>Palo a Amazon: se estrellan cuatro drones de reparto y detiene el servicio Prime Air</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-1436890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-4284498.jpg?tf=1200x' alt='Palo a Amazon: se estrellan cuatro drones de reparto y detiene el servicio Prime Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882'>TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-da-orden-4284493.jpg?tf=1200x' alt='TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/descubren-boeing-737-abandonado-google-maps-puedes-visitar-1436177'>Descubren un Boeing 737 abandonado en Google Maps que puedes visitar</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/descubren-boeing-737-abandonado-google-maps-puedes-visitar-1436177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/descubren-boeing-737-abandonado-google-maps-puedes-visitar-4283307.jpg?tf=1200x' alt='Descubren un Boeing 737 abandonado en Google Maps que puedes visitar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/pudo-salvar-vida-mi-padre-tim-cook-desvela-predileccion-producto-apple-1436299'>"Pudo salvar la vida de mi padre": Tim Cook desvela su predilección por este producto de Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/pudo-salvar-vida-mi-padre-tim-cook-desvela-predileccion-producto-apple-1436299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tim-cook-apple-4283465.jpg?tf=1200x' alt='"Pudo salvar la vida de mi padre": Tim Cook desvela su predilección por este producto de Apple' />
     </a>
 </div>
 
