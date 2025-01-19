@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-descubren-no-siempre-te-lleva-ruta-rapida-1436458'>Hallazgo inesperado en Waze: descubren por qué no siempre te lleva por la ruta más rápida</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-descubren-no-siempre-te-lleva-ruta-rapida-1436458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-waze-descubren-no-siempre-te-lleva-ruta-rapida-4283790.jpg?tf=1200x' alt='Hallazgo inesperado en Waze: descubren por qué no siempre te lleva por la ruta más rápida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ahora-puedes-controlar-chromebook-mover-ni-solo-dedo-1436796'>Ahora puedes controlar tu Chromebook sin mover ni un solo dedo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ahora-puedes-controlar-chromebook-mover-ni-solo-dedo-1436796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/07/chromebook-2760827.jpg?tf=1200x' alt='Ahora puedes controlar tu Chromebook sin mover ni un solo dedo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791'>Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/control-total-sonido-chrome-prueba-atenuacion-audio-personalizada-mejorar-experiencia-escucha-1436791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/audio-chrome-4284315.jpg?tf=1200x' alt='Control total sobre el sonido: Chrome prueba con atenuación de audio personalizada para mejorar tu experiencia de escucha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777'>GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4b-micro-modelo-openai-podria-prolongar-vida-seres-humanos-10-anos-1436777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/longevidad-ia-4284263.jpg?tf=1200x' alt='GPT-4b micro: el modelo de OpenAI que podría prolongar la vida de los seres humanos 10 años' />
     </a>
 </div>
 
