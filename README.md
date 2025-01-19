@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pcie-70-cuatro-veces-mas-ancho-banda-alimentar-inteligencia-artificial-1436880'>Ya está aquí PCIe 7.0, cuatro veces más ancho de banda para alimentar a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pcie-70-cuatro-veces-mas-ancho-banda-alimentar-inteligencia-artificial-1436880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-has-comprado-pc-pcie-50-ya-aqui-pcie-70-cuatro-veces-ancho-banda-alimentar-ia-4284477.jpg?tf=1200x' alt='Ya está aquí PCIe 7.0, cuatro veces más ancho de banda para alimentar a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873'>Primero TikTok, ahora Elon Musk podría comprar Intel</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primero-tiktok-ahora-elon-musk-interesado-comprar-intel-4284467.jpg?tf=1200x' alt='Primero TikTok, ahora Elon Musk podría comprar Intel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001'>Netflix resucitará esta saga de fantasía para competir con El señor de los anillos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-resucitara-saga-fantasia-competir-senor-anillos-1435001' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/netflix-resucitara-saga-fantasia-nivel-senor-anillos-4281316.jpg?tf=1200x' alt='Netflix resucitará esta saga de fantasía para competir con El señor de los anillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-hara-uso-ia-hacer-notificaciones-permisos-navegador-sean-menos-molestas-1436845'>Chrome hará uso de IA para hacer que las notificaciones de permisos en el navegador sean menos molestas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-hara-uso-ia-hacer-notificaciones-permisos-navegador-sean-menos-molestas-1436845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/google-chrome-ia-3386891.jpg?tf=1200x' alt='Chrome hará uso de IA para hacer que las notificaciones de permisos en el navegador sean menos molestas' />
     </a>
 </div>
 
