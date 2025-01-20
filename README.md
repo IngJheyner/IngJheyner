@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-listo-nuevo-despegue-ultima-explosion-starship-1436996'>SpaceX listo para un nuevo despegue tras la última explosión del Starship</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/spacex-listo-nuevo-despegue-ultima-explosion-starship-1436996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ilustracion-capsula-crew-dragon-separandose-lanzador-4284814.jpg?tf=1200x' alt='SpaceX listo para un nuevo despegue tras la última explosión del Starship' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-ya-disponible-cuatro-provincias-100-canales-solo-7-euros-mes-1436974'>Digi TV ya está disponible en cuatro provincias más: 100 canales por solo 7 euros al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-ya-disponible-cuatro-provincias-100-canales-solo-7-euros-mes-1436974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-4268890.jpg?tf=1200x' alt='Digi TV ya está disponible en cuatro provincias más: 100 canales por solo 7 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Jarro de agua fría para los clientes de Movistar Plus: adiós a cientos de series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4284789.jpg?tf=1200x' alt='Jarro de agua fría para los clientes de Movistar Plus: adiós a cientos de series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-1436991'>Digi declara la guerra a Movistar y Vodafone aumentando el listado de móviles compatibles con eSIM</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-1436991' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-4284803.jpg?tf=1200x' alt='Digi declara la guerra a Movistar y Vodafone aumentando el listado de móviles compatibles con eSIM' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-actualizar-ni-abrir-app-estos-televisores-quedaran-netflix-partir-febrero-2025-1436982'>Ni actualizar ni abrir la app, estos televisores se quedarán sin Netflix a partir de febrero de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-actualizar-ni-abrir-app-estos-televisores-quedaran-netflix-partir-febrero-2025-1436982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-4265767.jpg?tf=1200x' alt='Ni actualizar ni abrir la app, estos televisores se quedarán sin Netflix a partir de febrero de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-polemica-retrocompatibilidad-nintendo-switch-2-1436986'>Nintendo matiza la polémica sobre la retrocompatibilidad de Nintendo Switch 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-polemica-retrocompatibilidad-nintendo-switch-2-1436986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/retrocompatibilidad-nintendo-switch-2-4284774.jpg?tf=1200x' alt='Nintendo matiza la polémica sobre la retrocompatibilidad de Nintendo Switch 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-smartphone-caro-apple-pese-ser-peor-algunos-modelos-iphone-16-1436981'>El iPhone 17 Air será el smartphone más caro de Apple, pese a ser peor que algunos modelos del iPhone 16</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-smartphone-caro-apple-pese-ser-peor-algunos-modelos-iphone-16-1436981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-17-air-4284775.jpg?tf=1200x' alt='El iPhone 17 Air será el smartphone más caro de Apple, pese a ser peor que algunos modelos del iPhone 16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/alineacion-planetaria-2025-cuando-empieza-como-ver-fenomeno-no-repetira-450-anos-1436980'>Alineación planetaria 2025: cuándo empieza y cómo ver un fenómeno que no se repetirá en 450 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/alineacion-planetaria-2025-cuando-empieza-como-ver-fenomeno-no-repetira-450-anos-1436980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alineacion-planetaria-2025-4284770.jpg?tf=1200x' alt='Alineación planetaria 2025: cuándo empieza y cómo ver un fenómeno que no se repetirá en 450 años' />
     </a>
 </div>
 
