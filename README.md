@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397'>La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-4283730.jpg?tf=1200x' alt='La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/blue-monday-dia-deprimente-falso-1436903'>Según la psicología el Blue Monday, el día más deprimente del año, es un simple engaño</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/blue-monday-dia-deprimente-falso-1436903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/psicologia-blue-monday-dia-deprimente-ano-simple-engano-4284516.jpg?tf=1200x' alt='Según la psicología el Blue Monday, el día más deprimente del año, es un simple engaño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/impresoras-baratas-casa-estas-son-mejores-puedes-comprar-1436878'>Impresoras baratas para casa: estas son las mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/impresoras-baratas-casa-estas-son-mejores-puedes-comprar-1436878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/impresora-4284478.jpg?tf=1200x' alt='Impresoras baratas para casa: estas son las mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/espana-juega-futuro-coche-electrico-normativa-cafe-multas-millonarias-mucha-supervivencia-1434157'>España se juega su futuro con el coche eléctrico: normativa CAFE, multas millonarias y mucha supervivencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/espana-juega-futuro-coche-electrico-normativa-cafe-multas-millonarias-mucha-supervivencia-1434157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-coche-electrico-4283845.jpg?tf=1200x' alt='España se juega su futuro con el coche eléctrico: normativa CAFE, multas millonarias y mucha supervivencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-1435828'>Tres ajustes del iPhone que duplican la duración de la batería confirmados por Apple</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-1435828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-4282798.jpg?tf=1200x' alt='Tres ajustes del iPhone que duplican la duración de la batería confirmados por Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/5-formas-acelerar-transferencia-archivos-windows-11-1436466'>5 formas de acelerar la transferencia de archivos en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/5-formas-acelerar-transferencia-archivos-windows-11-1436466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-formas-acelerar-transferencia-archivos-windows-11-4283800.jpg?tf=1200x' alt='5 formas de acelerar la transferencia de archivos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-microsoft-365-office-ahora-llama-microsoft-365-copilot-1436894'>Adiós a Microsoft 365 Office, ahora se llama Microsoft 365 Copilot</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-microsoft-365-office-ahora-llama-microsoft-365-copilot-1436894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-microsoft-365-ahora-llama-microsoft-365-copilot-4284506.jpg?tf=1200x' alt='Adiós a Microsoft 365 Office, ahora se llama Microsoft 365 Copilot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-1436890'>Palo a Amazon: se estrellan cuatro drones de reparto y detiene el servicio Prime Air</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-1436890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-4284498.jpg?tf=1200x' alt='Palo a Amazon: se estrellan cuatro drones de reparto y detiene el servicio Prime Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882'>TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-da-orden-4284493.jpg?tf=1200x' alt='TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden' />
     </a>
 </div>
 
