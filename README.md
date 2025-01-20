@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-lia-coche-electrico-ha-justificado-1436951'>Ángel Gaitán la lía con su coche eléctrico: así lo ha justificado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-lia-coche-electrico-ha-justificado-1436951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/angel-gaitan-lia-coche-electrico-4284656.jpg?tf=1200x' alt='Ángel Gaitán la lía con su coche eléctrico: así lo ha justificado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-sepas-tesla-son-gran-hermano-ruedas-1436934'>Lo que Elon Musk no quiere que sepas sobre sus Tesla: son un Gran Hermano con ruedas</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-sepas-tesla-son-gran-hermano-ruedas-1436934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-vigilancia-4284634.jpg?tf=1200x' alt='Lo que Elon Musk no quiere que sepas sobre sus Tesla: son un Gran Hermano con ruedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-x-punto-mira-ue-pese-regreso-donald-trump-deber-1436947'>Apple, Google, Meta y X en el punto de mira de la UE pese al regreso de Donald Trump: "Es nuestro deber"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-x-punto-mira-ue-pese-regreso-donald-trump-deber-1436947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='Apple, Google, Meta y X en el punto de mira de la UE pese al regreso de Donald Trump: "Es nuestro deber"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587'>Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282266.jpg?tf=1200x' alt='Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/analizar-huawei-freebuds-pro-4-me-he-vuelto-adicto-anc-infinidad-funciones-1434974'>Tras analizar los Huawei FreeBuds Pro 4 me he vuelto adicto a su ANC y su infinidad de funciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/analizar-huawei-freebuds-pro-4-me-he-vuelto-adicto-anc-infinidad-funciones-1434974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-freebuds-pro-4-4281293.jpg?tf=1200x' alt='Tras analizar los Huawei FreeBuds Pro 4 me he vuelto adicto a su ANC y su infinidad de funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397'>La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-4283730.jpg?tf=1200x' alt='La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo' />
     </a>
 </div>
 
