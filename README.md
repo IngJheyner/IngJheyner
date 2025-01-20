@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-thermomix-victimas-nueva-estafa-1437021'>Usuarios de Thermomix víctimas de un nueva estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-thermomix-victimas-nueva-estafa-1437021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuarios-thermomix-victimas-nueva-estafa-4284823.jpg?tf=1200x' alt='Usuarios de Thermomix víctimas de un nueva estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bluesky-lanza-particular-clon-tiktok-puedes-verlo-1437030'>Bluesky lanza su particular clon de TikTok y así puedes verlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bluesky-lanza-particular-clon-tiktok-puedes-verlo-1437030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bluesky-4284849.jpg?tf=1200x' alt='Bluesky lanza su particular clon de TikTok y así puedes verlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/hallazgo-inesperado-iptv-piracy-shield-confirma-problema-futbol-no-pirateria-1437062'>Hallazgo inesperado en las IPTV: Piracy Shield confirma que el problema del fútbol no es la piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/hallazgo-inesperado-iptv-piracy-shield-confirma-problema-futbol-no-pirateria-1437062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-iptv-piracy-shield-confirma-problema-futbol-no-pirateria-4284943.jpg?tf=1200x' alt='Hallazgo inesperado en las IPTV: Piracy Shield confirma que el problema del fútbol no es la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-capta-tiempo-real-desintegracion-express-planeta-absolutamente-cataclismica-1436958'>La NASA capta en tiempo real la desintegración express de un planeta: "Es absolutamente cataclísmica"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-capta-tiempo-real-desintegracion-express-planeta-absolutamente-cataclismica-1436958' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-desintegrandose-4284761.jpg?tf=1200x' alt='La NASA capta en tiempo real la desintegración express de un planeta: "Es absolutamente cataclísmica"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/instagram-lanzara-clon-capcut-aplicacion-editar-video-tiktok-1436925'>Instagram lanzará un clon de CapCut, la aplicación para editar vídeo de TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/instagram-lanzara-clon-capcut-aplicacion-editar-video-tiktok-1436925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/edits-4284665.jpg?tf=1200x' alt='Instagram lanzará un clon de CapCut, la aplicación para editar vídeo de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/hallazgo-inesperado-elon-musk-admite-hace-trampas-diablo-4-path-exile-2-1437036'>Hallazgo inesperado sobre Elon Musk: admite que hace trampas en Diablo 4 y Path of Exile 2</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/hallazgo-inesperado-elon-musk-admite-hace-trampas-diablo-4-path-exile-2-1437036' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/diablo-4-path-exile-2-4284830.jpg?tf=1200x' alt='Hallazgo inesperado sobre Elon Musk: admite que hace trampas en Diablo 4 y Path of Exile 2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-listo-nuevo-despegue-ultima-explosion-starship-1436996'>SpaceX listo para un nuevo despegue tras la última explosión del Starship</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/spacex-listo-nuevo-despegue-ultima-explosion-starship-1436996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ilustracion-capsula-crew-dragon-separandose-lanzador-4284814.jpg?tf=1200x' alt='SpaceX listo para un nuevo despegue tras la última explosión del Starship' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-ya-disponible-cuatro-provincias-100-canales-solo-7-euros-mes-1436974'>Digi TV ya está disponible en cuatro provincias más: 100 canales por solo 7 euros al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-ya-disponible-cuatro-provincias-100-canales-solo-7-euros-mes-1436974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/digi-tv-4268890.jpg?tf=1200x' alt='Digi TV ya está disponible en cuatro provincias más: 100 canales por solo 7 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Jarro de agua fría para los clientes de Movistar Plus: adiós a cientos de series y películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4284789.jpg?tf=1200x' alt='Jarro de agua fría para los clientes de Movistar Plus: adiós a cientos de series y películas' />
     </a>
 </div>
 
