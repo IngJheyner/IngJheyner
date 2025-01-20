@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/muerte-resurreccion-tiktok-gracias-trump-podria-ocurrir-app-estos-dias-1436919'>Tras la muerte y resurrección de TikTok gracias a Trump, ¿qué podría ocurrir con la app en estos días?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/muerte-resurreccion-tiktok-gracias-trump-podria-ocurrir-app-estos-dias-1436919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-donald-trump-4284578.jpg?tf=1200x' alt='Tras la muerte y resurrección de TikTok gracias a Trump, ¿qué podría ocurrir con la app en estos días?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587'>Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282266.jpg?tf=1200x' alt='Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/blue-monday-dia-deprimente-falso-1436903'>Según la psicología el Blue Monday, el día más deprimente del año, es un simple engaño</a></h4>
     <a href='https://computerhoy.20minutos.es/life/blue-monday-dia-deprimente-falso-1436903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/psicologia-blue-monday-dia-deprimente-ano-simple-engano-4284516.jpg?tf=1200x' alt='Según la psicología el Blue Monday, el día más deprimente del año, es un simple engaño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/impresoras-baratas-casa-estas-son-mejores-puedes-comprar-1436878'>Impresoras baratas para casa: estas son las mejores que puedes comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/impresoras-baratas-casa-estas-son-mejores-puedes-comprar-1436878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/impresora-4284478.jpg?tf=1200x' alt='Impresoras baratas para casa: estas son las mejores que puedes comprar' />
     </a>
 </div>
 
