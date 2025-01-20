@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-1436991'>Digi declara la guerra a Movistar y Vodafone aumentando el listado de móviles compatibles con eSIM</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-1436991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-4284803.jpg?tf=1200x' alt='Digi declara la guerra a Movistar y Vodafone aumentando el listado de móviles compatibles con eSIM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-actualizar-ni-abrir-app-estos-televisores-quedaran-netflix-partir-febrero-2025-1436982'>Ni actualizar ni abrir la app, estos televisores se quedarán sin Netflix a partir de febrero de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-actualizar-ni-abrir-app-estos-televisores-quedaran-netflix-partir-febrero-2025-1436982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-4265767.jpg?tf=1200x' alt='Ni actualizar ni abrir la app, estos televisores se quedarán sin Netflix a partir de febrero de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-polemica-retrocompatibilidad-nintendo-switch-2-1436986'>Nintendo matiza la polémica sobre la retrocompatibilidad de Nintendo Switch 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-polemica-retrocompatibilidad-nintendo-switch-2-1436986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/retrocompatibilidad-nintendo-switch-2-4284774.jpg?tf=1200x' alt='Nintendo matiza la polémica sobre la retrocompatibilidad de Nintendo Switch 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-smartphone-caro-apple-pese-ser-peor-algunos-modelos-iphone-16-1436981'>El iPhone 17 Air será el smartphone más caro de Apple, pese a ser peor que algunos modelos del iPhone 16</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-smartphone-caro-apple-pese-ser-peor-algunos-modelos-iphone-16-1436981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-17-air-4284775.jpg?tf=1200x' alt='El iPhone 17 Air será el smartphone más caro de Apple, pese a ser peor que algunos modelos del iPhone 16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/alineacion-planetaria-2025-cuando-empieza-como-ver-fenomeno-no-repetira-450-anos-1436980'>Alineación planetaria 2025: cuándo empieza y cómo ver un fenómeno que no se repetirá en 450 años</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/alineacion-planetaria-2025-cuando-empieza-como-ver-fenomeno-no-repetira-450-anos-1436980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alineacion-planetaria-2025-4284770.jpg?tf=1200x' alt='Alineación planetaria 2025: cuándo empieza y cómo ver un fenómeno que no se repetirá en 450 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/motivo-peligro-usar-movil-mientras-carga-1405608'>Esta es la razón (y no otra) por la que no debes usar tu móvil mientras se carga</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/motivo-peligro-usar-movil-mientras-carga-1405608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-movil-mientras-carga-4197721.jpg?tf=1200x' alt='Esta es la razón (y no otra) por la que no debes usar tu móvil mientras se carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/alerta-eres-movistar-usas-iptv-confirma-colaboracion-bidireccional-laliga-1436957'>Alerta si eres de Movistar y usas IPTV: se confirma la colaboración bidireccional con LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/alerta-eres-movistar-usas-iptv-confirma-colaboracion-bidireccional-laliga-1436957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-iptv-laliga-4284767.jpg?tf=1200x' alt='Alerta si eres de Movistar y usas IPTV: se confirma la colaboración bidireccional con LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/revolut-ya-nunca-te-llamara-telefono-solo-app-evitar-estafas-suplantacion-1436978'>Revolut ya nunca te llamará por teléfono, solo por su app, para evitar estafas por suplantación</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/revolut-ya-nunca-te-llamara-telefono-solo-app-evitar-estafas-suplantacion-1436978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-seguras-revolut-4284778.jpg?tf=1200x' alt='Revolut ya nunca te llamará por teléfono, solo por su app, para evitar estafas por suplantación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-regla-5-minutos-evitar-estafas-1434575'>WhatsApp: la regla de los 5 minutos para evitar estafas que no debes olvidar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-regla-5-minutos-evitar-estafas-1434575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/regla-5-minutos-whatsapp-evitar-estafas-4284765.jpg?tf=1200x' alt='WhatsApp: la regla de los 5 minutos para evitar estafas que no debes olvidar' />
     </a>
 </div>
 
