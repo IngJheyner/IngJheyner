@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-microsoft-365-office-ahora-llama-microsoft-365-copilot-1436894'>Adiós a Microsoft 365 Office, ahora se llama Microsoft 365 Copilot</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-microsoft-365-office-ahora-llama-microsoft-365-copilot-1436894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-microsoft-365-ahora-llama-microsoft-365-copilot-4284506.jpg?tf=1200x' alt='Adiós a Microsoft 365 Office, ahora se llama Microsoft 365 Copilot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-1436890'>Palo a Amazon: se estrellan cuatro drones de reparto y detiene el servicio Prime Air</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-1436890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-amazon-estrellan-cuatro-drones-reparto-detiene-servicio-prime-air-4284498.jpg?tf=1200x' alt='Palo a Amazon: se estrellan cuatro drones de reparto y detiene el servicio Prime Air' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873'>Primero TikTok, ahora Elon Musk podría comprar Intel</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primero-tiktok-ahora-elon-musk-interesado-comprar-intel-4284467.jpg?tf=1200x' alt='Primero TikTok, ahora Elon Musk podría comprar Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/descubren-boeing-737-abandonado-google-maps-puedes-visitar-1436177'>Descubren un Boeing 737 abandonado en Google Maps que puedes visitar</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/descubren-boeing-737-abandonado-google-maps-puedes-visitar-1436177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/descubren-boeing-737-abandonado-google-maps-puedes-visitar-4283307.jpg?tf=1200x' alt='Descubren un Boeing 737 abandonado en Google Maps que puedes visitar' />
     </a>
 </div>
 
