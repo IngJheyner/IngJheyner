@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-1435828'>Tres ajustes del iPhone que duplican la duración de la batería confirmados por Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-1435828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-4282798.jpg?tf=1200x' alt='Tres ajustes del iPhone que duplican la duración de la batería confirmados por Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/5-formas-acelerar-transferencia-archivos-windows-11-1436466'>5 formas de acelerar la transferencia de archivos en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/5-formas-acelerar-transferencia-archivos-windows-11-1436466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-formas-acelerar-transferencia-archivos-windows-11-4283800.jpg?tf=1200x' alt='5 formas de acelerar la transferencia de archivos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-microsoft-365-office-ahora-llama-microsoft-365-copilot-1436894'>Adiós a Microsoft 365 Office, ahora se llama Microsoft 365 Copilot</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-microsoft-365-office-ahora-llama-microsoft-365-copilot-1436894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-microsoft-365-ahora-llama-microsoft-365-copilot-4284506.jpg?tf=1200x' alt='Adiós a Microsoft 365 Office, ahora se llama Microsoft 365 Copilot' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882'>TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-1436882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-da-orden-4284493.jpg?tf=1200x' alt='TikTok vuelve a Estados Unidos apenas medio día después de cerrar: Donald Trump da la orden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pcie-70-cuatro-veces-mas-ancho-banda-alimentar-inteligencia-artificial-1436880'>Ya está aquí PCIe 7.0, cuatro veces más ancho de banda para alimentar a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pcie-70-cuatro-veces-mas-ancho-banda-alimentar-inteligencia-artificial-1436880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-has-comprado-pc-pcie-50-ya-aqui-pcie-70-cuatro-veces-ancho-banda-alimentar-ia-4284477.jpg?tf=1200x' alt='Ya está aquí PCIe 7.0, cuatro veces más ancho de banda para alimentar a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873'>Primero TikTok, ahora Elon Musk podría comprar Intel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primero-tiktok-ahora-elon-musk-podria-comprar-intel-1436873' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primero-tiktok-ahora-elon-musk-interesado-comprar-intel-4284467.jpg?tf=1200x' alt='Primero TikTok, ahora Elon Musk podría comprar Intel' />
     </a>
 </div>
 
