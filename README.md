@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/alerta-eres-movistar-usas-iptv-confirma-colaboracion-bidireccional-laliga-1436957'>Alerta si eres de Movistar y usas IPTV: se confirma la colaboración bidireccional con LaLiga</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/alerta-eres-movistar-usas-iptv-confirma-colaboracion-bidireccional-laliga-1436957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-iptv-laliga-4284767.jpg?tf=1200x' alt='Alerta si eres de Movistar y usas IPTV: se confirma la colaboración bidireccional con LaLiga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/revolut-ya-nunca-te-llamara-telefono-solo-app-evitar-estafas-suplantacion-1436978'>Revolut ya nunca te llamará por teléfono, solo por su app, para evitar estafas por suplantación</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/revolut-ya-nunca-te-llamara-telefono-solo-app-evitar-estafas-suplantacion-1436978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-seguras-revolut-4284778.jpg?tf=1200x' alt='Revolut ya nunca te llamará por teléfono, solo por su app, para evitar estafas por suplantación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-regla-5-minutos-evitar-estafas-1434575'>WhatsApp: la regla de los 5 minutos para evitar estafas que no debes olvidar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-regla-5-minutos-evitar-estafas-1434575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/regla-5-minutos-whatsapp-evitar-estafas-4284765.jpg?tf=1200x' alt='WhatsApp: la regla de los 5 minutos para evitar estafas que no debes olvidar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-lia-coche-electrico-ha-justificado-1436951'>Ángel Gaitán la lía con su coche eléctrico: así lo ha justificado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-lia-coche-electrico-ha-justificado-1436951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/angel-gaitan-lia-coche-electrico-4284656.jpg?tf=1200x' alt='Ángel Gaitán la lía con su coche eléctrico: así lo ha justificado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-sepas-tesla-son-gran-hermano-ruedas-1436934'>Lo que Elon Musk no quiere que sepas sobre sus Tesla: son un Gran Hermano con ruedas</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-sepas-tesla-son-gran-hermano-ruedas-1436934' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-vigilancia-4284634.jpg?tf=1200x' alt='Lo que Elon Musk no quiere que sepas sobre sus Tesla: son un Gran Hermano con ruedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-x-punto-mira-ue-pese-regreso-donald-trump-deber-1436947'>Apple, Google, Meta y X en el punto de mira de la UE pese al regreso de Donald Trump: "Es nuestro deber"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-x-punto-mira-ue-pese-regreso-donald-trump-deber-1436947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='Apple, Google, Meta y X en el punto de mira de la UE pese al regreso de Donald Trump: "Es nuestro deber"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/muerte-resurreccion-tiktok-gracias-trump-podria-ocurrir-app-estos-dias-1436919'>Tras la muerte y resurrección de TikTok gracias a Trump, ¿qué podría ocurrir con la app en estos días?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/muerte-resurreccion-tiktok-gracias-trump-podria-ocurrir-app-estos-dias-1436919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-donald-trump-4284578.jpg?tf=1200x' alt='Tras la muerte y resurrección de TikTok gracias a Trump, ¿qué podría ocurrir con la app en estos días?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587'>Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282266.jpg?tf=1200x' alt='Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA' />
     </a>
 </div>
 
