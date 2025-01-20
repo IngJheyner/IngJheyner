@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132'>Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pokemon-go-4285044.jpg?tf=1200x' alt='Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-fijarte-identificar-cajeros-automaticos-pirateados-bancos-1437130'>En esto tienes que fijarte para identificar cajeros automáticos pirateados de los bancos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-fijarte-identificar-cajeros-automaticos-pirateados-bancos-1437130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cajero-bancario-4285038.jpg?tf=1200x' alt='En esto tienes que fijarte para identificar cajeros automáticos pirateados de los bancos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-sorprende-nuevo-cambio-meses-despedida-1437128'>Windows 10 sorprende con un nuevo cambio, ¡a meses de su despedida!</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-sorprende-nuevo-cambio-meses-despedida-1437128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/calendario-windows-10-4285034.jpg?tf=1200x' alt='Windows 10 sorprende con un nuevo cambio, ¡a meses de su despedida!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-advierte-mensaje-sms-caixabank-estafa-1437123'>La Agencia de Ciberseguridad advierte sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-advierte-mensaje-sms-caixabank-estafa-1437123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recibes-mensaje-caixabank-donde-pone-cuidado-estafa-4284994.jpg?tf=1200x' alt='La Agencia de Ciberseguridad advierte sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/flipmods-combo-extension-convierte-flipper-zero-herramienta-hacking-definitiva-1437088'>FlipMods Combo, la extensión que convierte Flipper Zero en la herramienta de hacking definitiva</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/flipmods-combo-extension-convierte-flipper-zero-herramienta-hacking-definitiva-1437088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/flipmods-combo-extension-convierte-flipper-zero-herramienta-hacking-definitiva-4285009.jpg?tf=1200x' alt='FlipMods Combo, la extensión que convierte Flipper Zero en la herramienta de hacking definitiva' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-uso-relojes-inteligentes-debido-peligroso-quimico-1436932'>Expertos advierten del uso de relojes inteligentes debido a un peligroso químico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-uso-relojes-inteligentes-debido-peligroso-quimico-1436932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-advierten-uso-relojes-inteligentes-debido-quimico-peligroso-4284643.jpg?tf=1200x' alt='Expertos advierten del uso de relojes inteligentes debido a un peligroso químico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-thermomix-victimas-nueva-estafa-1437021'>Usuarios de Thermomix víctimas de un nueva estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-thermomix-victimas-nueva-estafa-1437021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuarios-thermomix-victimas-nueva-estafa-4284823.jpg?tf=1200x' alt='Usuarios de Thermomix víctimas de un nueva estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bluesky-lanza-particular-clon-tiktok-puedes-verlo-1437030'>Bluesky lanza su particular clon de TikTok y así puedes verlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bluesky-lanza-particular-clon-tiktok-puedes-verlo-1437030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bluesky-4284849.jpg?tf=1200x' alt='Bluesky lanza su particular clon de TikTok y así puedes verlo' />
     </a>
 </div>
 
