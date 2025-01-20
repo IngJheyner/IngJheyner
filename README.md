@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/instagram-lanzara-clon-capcut-aplicacion-editar-video-tiktok-1436925'>Instagram lanzará un clon de CapCut, la aplicación para editar vídeo de TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/instagram-lanzara-clon-capcut-aplicacion-editar-video-tiktok-1436925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/edits-4284665.jpg?tf=1200x' alt='Instagram lanzará un clon de CapCut, la aplicación para editar vídeo de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/hallazgo-inesperado-elon-musk-admite-hace-trampas-diablo-4-path-exile-2-1437036'>Hallazgo inesperado sobre Elon Musk: admite que hace trampas en Diablo 4 y Path of Exile 2</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/hallazgo-inesperado-elon-musk-admite-hace-trampas-diablo-4-path-exile-2-1437036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/diablo-4-path-exile-2-4284830.jpg?tf=1200x' alt='Hallazgo inesperado sobre Elon Musk: admite que hace trampas en Diablo 4 y Path of Exile 2' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/spacex-listo-nuevo-despegue-ultima-explosion-starship-1436996'>SpaceX listo para un nuevo despegue tras la última explosión del Starship</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/spacex-listo-nuevo-despegue-ultima-explosion-starship-1436996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ilustracion-capsula-crew-dragon-separandose-lanzador-4284814.jpg?tf=1200x' alt='SpaceX listo para un nuevo despegue tras la última explosión del Starship' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Jarro de agua fría para los clientes de Movistar Plus: adiós a cientos de series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4284789.jpg?tf=1200x' alt='Jarro de agua fría para los clientes de Movistar Plus: adiós a cientos de series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-1436991'>Digi declara la guerra a Movistar y Vodafone aumentando el listado de móviles compatibles con eSIM</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-1436991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-declara-guerra-movistar-vodafone-aumentando-listado-moviles-compatibles-esim-4284803.jpg?tf=1200x' alt='Digi declara la guerra a Movistar y Vodafone aumentando el listado de móviles compatibles con eSIM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-actualizar-ni-abrir-app-estos-televisores-quedaran-netflix-partir-febrero-2025-1436982'>Ni actualizar ni abrir la app, estos televisores se quedarán sin Netflix a partir de febrero de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-actualizar-ni-abrir-app-estos-televisores-quedaran-netflix-partir-febrero-2025-1436982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/netflix-4265767.jpg?tf=1200x' alt='Ni actualizar ni abrir la app, estos televisores se quedarán sin Netflix a partir de febrero de 2025' />
     </a>
 </div>
 
