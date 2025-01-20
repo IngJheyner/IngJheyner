@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-uso-relojes-inteligentes-debido-peligroso-quimico-1436932'>Expertos advierten del uso de relojes inteligentes debido a un peligroso químico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-uso-relojes-inteligentes-debido-peligroso-quimico-1436932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-advierten-uso-relojes-inteligentes-debido-quimico-peligroso-4284643.jpg?tf=1200x' alt='Expertos advierten del uso de relojes inteligentes debido a un peligroso químico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-thermomix-victimas-nueva-estafa-1437021'>Usuarios de Thermomix víctimas de un nueva estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-thermomix-victimas-nueva-estafa-1437021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuarios-thermomix-victimas-nueva-estafa-4284823.jpg?tf=1200x' alt='Usuarios de Thermomix víctimas de un nueva estafa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-capta-tiempo-real-desintegracion-express-planeta-absolutamente-cataclismica-1436958'>La NASA capta en tiempo real la desintegración express de un planeta: "Es absolutamente cataclísmica"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-capta-tiempo-real-desintegracion-express-planeta-absolutamente-cataclismica-1436958' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-desintegrandose-4284761.jpg?tf=1200x' alt='La NASA capta en tiempo real la desintegración express de un planeta: "Es absolutamente cataclísmica"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/instagram-lanzara-clon-capcut-aplicacion-editar-video-tiktok-1436925'>Instagram lanzará un clon de CapCut, la aplicación para editar vídeo de TikTok</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/instagram-lanzara-clon-capcut-aplicacion-editar-video-tiktok-1436925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/edits-4284665.jpg?tf=1200x' alt='Instagram lanzará un clon de CapCut, la aplicación para editar vídeo de TikTok' />
     </a>
 </div>
 
