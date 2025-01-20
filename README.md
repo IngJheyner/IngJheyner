@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/doom-en-microsoft-word-1437137'>Ya puedes jugar a Doom en Microsoft Word, pero no deberías hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/doom-en-microsoft-word-1437137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ya-puedes-jugar-doom-microsoft-word-pero-no-deberias-hacerlo-4285028.jpg?tf=1200x' alt='Ya puedes jugar a Doom en Microsoft Word, pero no deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132'>Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pokemon-go-4285044.jpg?tf=1200x' alt='Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-advierte-mensaje-sms-caixabank-estafa-1437123'>La Agencia de Ciberseguridad advierte sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-advierte-mensaje-sms-caixabank-estafa-1437123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recibes-mensaje-caixabank-donde-pone-cuidado-estafa-4284994.jpg?tf=1200x' alt='La Agencia de Ciberseguridad advierte sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/flipmods-combo-extension-convierte-flipper-zero-herramienta-hacking-definitiva-1437088'>FlipMods Combo, la extensión que convierte Flipper Zero en la herramienta de hacking definitiva</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/flipmods-combo-extension-convierte-flipper-zero-herramienta-hacking-definitiva-1437088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/flipmods-combo-extension-convierte-flipper-zero-herramienta-hacking-definitiva-4285009.jpg?tf=1200x' alt='FlipMods Combo, la extensión que convierte Flipper Zero en la herramienta de hacking definitiva' />
     </a>
 </div>
 
