@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587'>Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/me-gusta-honor-magic-7-pro-gama-alta-perfecto-alla-ia-1436587' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/honor-magic-7-pro-4282266.jpg?tf=1200x' alt='Lo que más me gusta del Honor Magic 7 Pro es que es un gama alta perfecto más allá de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/analizar-huawei-freebuds-pro-4-me-he-vuelto-adicto-anc-infinidad-funciones-1434974'>Tras analizar los Huawei FreeBuds Pro 4 me he vuelto adicto a su ANC y su infinidad de funciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/analizar-huawei-freebuds-pro-4-me-he-vuelto-adicto-anc-infinidad-funciones-1434974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-freebuds-pro-4-4281293.jpg?tf=1200x' alt='Tras analizar los Huawei FreeBuds Pro 4 me he vuelto adicto a su ANC y su infinidad de funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397'>La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-4283730.jpg?tf=1200x' alt='La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/impresoras-baratas-casa-estas-son-mejores-puedes-comprar-1436878'>Impresoras baratas para casa: estas son las mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/impresoras-baratas-casa-estas-son-mejores-puedes-comprar-1436878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/impresora-4284478.jpg?tf=1200x' alt='Impresoras baratas para casa: estas son las mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/espana-juega-futuro-coche-electrico-normativa-cafe-multas-millonarias-mucha-supervivencia-1434157'>España se juega su futuro con el coche eléctrico: normativa CAFE, multas millonarias y mucha supervivencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/espana-juega-futuro-coche-electrico-normativa-cafe-multas-millonarias-mucha-supervivencia-1434157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-coche-electrico-4283845.jpg?tf=1200x' alt='España se juega su futuro con el coche eléctrico: normativa CAFE, multas millonarias y mucha supervivencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-1435828'>Tres ajustes del iPhone que duplican la duración de la batería confirmados por Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-1435828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tres-ajustes-iphone-duplican-duracion-bateria-confirmados-apple-4282798.jpg?tf=1200x' alt='Tres ajustes del iPhone que duplican la duración de la batería confirmados por Apple' />
     </a>
 </div>
 
