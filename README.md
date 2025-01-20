@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-x-punto-mira-ue-pese-regreso-donald-trump-deber-1436947'>Apple, Google, Meta y X en el punto de mira de la UE pese al regreso de Donald Trump: "Es nuestro deber"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-x-punto-mira-ue-pese-regreso-donald-trump-deber-1436947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/union-europea-publica-primera-ley-inteligencia-artificial-mundo-implica-3245190.jpg?tf=1200x' alt='Apple, Google, Meta y X en el punto de mira de la UE pese al regreso de Donald Trump: "Es nuestro deber"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/muerte-resurreccion-tiktok-gracias-trump-podria-ocurrir-app-estos-dias-1436919'>Tras la muerte y resurrección de TikTok gracias a Trump, ¿qué podría ocurrir con la app en estos días?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/muerte-resurreccion-tiktok-gracias-trump-podria-ocurrir-app-estos-dias-1436919' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-donald-trump-4284578.jpg?tf=1200x' alt='Tras la muerte y resurrección de TikTok gracias a Trump, ¿qué podría ocurrir con la app en estos días?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397'>La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-1436397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/funcion-infravalorada-whatsapp-modo-transparente-zen-desconectar-mundo-4283730.jpg?tf=1200x' alt='La función más infravalorada de WhatsApp, el modo transparente o ZEN para desconectar del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/blue-monday-dia-deprimente-falso-1436903'>Según la psicología el Blue Monday, el día más deprimente del año, es un simple engaño</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/blue-monday-dia-deprimente-falso-1436903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/psicologia-blue-monday-dia-deprimente-ano-simple-engano-4284516.jpg?tf=1200x' alt='Según la psicología el Blue Monday, el día más deprimente del año, es un simple engaño' />
     </a>
 </div>
 
