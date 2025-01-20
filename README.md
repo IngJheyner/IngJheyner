@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/alineacion-planetaria-2025-cuando-empieza-como-ver-fenomeno-no-repetira-450-anos-1436980'>Alineación planetaria 2025: cuándo empieza y cómo ver un fenómeno que no se repetirá en 450 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/alineacion-planetaria-2025-cuando-empieza-como-ver-fenomeno-no-repetira-450-anos-1436980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alineacion-planetaria-2025-4284770.jpg?tf=1200x' alt='Alineación planetaria 2025: cuándo empieza y cómo ver un fenómeno que no se repetirá en 450 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/motivo-peligro-usar-movil-mientras-carga-1405608'>Esta es la razón (y no otra) por la que no debes usar tu móvil mientras se carga</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/motivo-peligro-usar-movil-mientras-carga-1405608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/usar-movil-mientras-carga-4197721.jpg?tf=1200x' alt='Esta es la razón (y no otra) por la que no debes usar tu móvil mientras se carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/alerta-eres-movistar-usas-iptv-confirma-colaboracion-bidireccional-laliga-1436957'>Alerta si eres de Movistar y usas IPTV: se confirma la colaboración bidireccional con LaLiga</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/alerta-eres-movistar-usas-iptv-confirma-colaboracion-bidireccional-laliga-1436957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-iptv-laliga-4284767.jpg?tf=1200x' alt='Alerta si eres de Movistar y usas IPTV: se confirma la colaboración bidireccional con LaLiga' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-regla-5-minutos-evitar-estafas-1434575'>WhatsApp: la regla de los 5 minutos para evitar estafas que no debes olvidar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-regla-5-minutos-evitar-estafas-1434575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/regla-5-minutos-whatsapp-evitar-estafas-4284765.jpg?tf=1200x' alt='WhatsApp: la regla de los 5 minutos para evitar estafas que no debes olvidar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-lia-coche-electrico-ha-justificado-1436951'>Ángel Gaitán la lía con su coche eléctrico: así lo ha justificado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-lia-coche-electrico-ha-justificado-1436951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/angel-gaitan-lia-coche-electrico-4284656.jpg?tf=1200x' alt='Ángel Gaitán la lía con su coche eléctrico: así lo ha justificado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-sepas-tesla-son-gran-hermano-ruedas-1436934'>Lo que Elon Musk no quiere que sepas sobre sus Tesla: son un Gran Hermano con ruedas</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-sepas-tesla-son-gran-hermano-ruedas-1436934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-vigilancia-4284634.jpg?tf=1200x' alt='Lo que Elon Musk no quiere que sepas sobre sus Tesla: son un Gran Hermano con ruedas' />
     </a>
 </div>
 
