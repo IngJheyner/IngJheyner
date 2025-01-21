@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-como-ver-silo-separacion-pagar-euro-durante-tres-meses-1437267'>Apple TV+ gratis: cómo ver Silo o Separación sin pagar un euro durante tres meses</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-como-ver-silo-separacion-pagar-euro-durante-tres-meses-1437267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-tv-4285267.jpg?tf=1200x' alt='Apple TV+ gratis: cómo ver Silo o Separación sin pagar un euro durante tres meses' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/psiquiatras-chatgpt-opciones-peligros-dejar-salud-mental-manos-ia-1437274'>Psiquiatras por ChatGPT: opciones y peligros de dejar tu salud mental en manos de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/psiquiatras-chatgpt-opciones-peligros-dejar-salud-mental-manos-ia-1437274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/psiquiatras-chatgpt-4285245.jpg?tf=1200x' alt='Psiquiatras por ChatGPT: opciones y peligros de dejar tu salud mental en manos de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tim-cook-ia-valor-trabajo-1436261'>Sam Altman da la razón a Tim Cook sobre la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tim-cook-ia-valor-trabajo-1436261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook sobre la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adolescente-italiano-15-anos-hackea-notas-altera-rutas-petroleros-mediterraneo-1437268'>Adolescente italiano de 15 años hackea sus notas y altera rutas de petroleros en el Mediterráneo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/adolescente-italiano-15-anos-hackea-notas-altera-rutas-petroleros-mediterraneo-1437268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/buque-petrolero-3228794.jpg?tf=1200x' alt='Adolescente italiano de 15 años hackea sus notas y altera rutas de petroleros en el Mediterráneo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-predice-pasara-cuando-ia-supere-inteligencia-humana-sera-posible-automatizar-cualquier-tarea-cualquier-trabajo-1437242'>Experto predice qué pasará cuando la IA supere la inteligencia humana: "Será posible automatizar cualquier tarea, cualquier trabajo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-predice-pasara-cuando-ia-supere-inteligencia-humana-sera-posible-automatizar-cualquier-tarea-cualquier-trabajo-1437242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-ia-entrevista-4285185.jpg?tf=1200x' alt='Experto predice qué pasará cuando la IA supere la inteligencia humana: "Será posible automatizar cualquier tarea, cualquier trabajo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-coche-electrico-cargador-1436951'>Ángel Gaitán la lía ocupando tres plazas para aparcar su coche eléctrico y así lo justifica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-coche-electrico-cargador-1436951' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/angel-gaitan-lia-coche-electrico-4284656.jpg?tf=1200x' alt='Ángel Gaitán la lía ocupando tres plazas para aparcar su coche eléctrico y así lo justifica' />
     </a>
 </div>
 
