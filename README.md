@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-ya-tiene-propio-chatgpt-llama-alia-funciona-1437199'>España ya tiene su propio ChatGPT: se llama ALIA y así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/espana-ya-tiene-propio-chatgpt-llama-alia-funciona-1437199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-ia-alia-4285143.jpg?tf=1200x' alt='España ya tiene su propio ChatGPT: se llama ALIA y así funciona' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-predice-pasara-cuando-ia-supere-inteligencia-humana-sera-posible-automatizar-cualquier-tarea-cualquier-trabajo-1437242'>Experto predice qué pasará cuando la IA supere la inteligencia humana: "Será posible automatizar cualquier tarea, cualquier trabajo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-predice-pasara-cuando-ia-supere-inteligencia-humana-sera-posible-automatizar-cualquier-tarea-cualquier-trabajo-1437242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-ia-entrevista-4285185.jpg?tf=1200x' alt='Experto predice qué pasará cuando la IA supere la inteligencia humana: "Será posible automatizar cualquier tarea, cualquier trabajo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estos-son-datos-meta-puede-facilitar-ti-orden-judicial-como-fiscal-general-1437180'>WhatsApp: estos son los datos que Meta puede facilitar sobre ti por una orden judicial como la del fiscal general</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estos-son-datos-meta-puede-facilitar-ti-orden-judicial-como-fiscal-general-1437180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-leyes-4285122.jpg?tf=1200x' alt='WhatsApp: estos son los datos que Meta puede facilitar sobre ti por una orden judicial como la del fiscal general' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-coche-electrico-cargador-1436951'>Ángel Gaitán la lía ocupando tres plazas para aparcar su coche eléctrico y así lo justifica</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-coche-electrico-cargador-1436951' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/angel-gaitan-lia-coche-electrico-4284656.jpg?tf=1200x' alt='Ángel Gaitán la lía ocupando tres plazas para aparcar su coche eléctrico y así lo justifica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adrien-brody-podria-perder-oscar-brutalist-culpa-inteligencia-artificial-1437179'>Adrien Brody podría perder el Óscar en The Brutalist, por culpa de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/adrien-brody-podria-perder-oscar-brutalist-culpa-inteligencia-artificial-1437179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/brutalist-galeria-imagenes-4284667.jpg?tf=1200x' alt='Adrien Brody podría perder el Óscar en The Brutalist, por culpa de la inteligencia artificial' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-barato-movil-portatil-cuesta-menos-200-euros-no-error-1437212'>Windows 11 más barato que un móvil: este portátil cuesta menos de 200 euros, y no es un error</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-barato-movil-portatil-cuesta-menos-200-euros-no-error-1437212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/teclast-f16-pro-4285145.jpg?tf=1200x' alt='Windows 11 más barato que un móvil: este portátil cuesta menos de 200 euros, y no es un error' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hemos-alcanzado-singularidad-ia-openai-ha-logrado-igualar-razonamiento-humano-arc-agi-1437178'>¿Hemos alcanzado la singularidad? La IA de OpenAI ha logrado igualar el razonamiento humano en ARC-AGI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hemos-alcanzado-singularidad-ia-openai-ha-logrado-igualar-razonamiento-humano-arc-agi-1437178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-3649867.jpg?tf=1200x' alt='¿Hemos alcanzado la singularidad? La IA de OpenAI ha logrado igualar el razonamiento humano en ARC-AGI' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-llega-opcion-agregar-musica-estados-1437181'>Giro de 180 grados en WhatsApp, llega la opción de agregar música a tus estados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-llega-opcion-agregar-musica-estados-1437181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estados-whatsapp-4285134.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp, llega la opción de agregar música a tus estados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158'>Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg?tf=1200x' alt='Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/aunque-donald-trump-visto-bueno-tiktok-ni-apple-google-atreven-ponerla-tiendas-1437211'>Aunque Donald Trump dé el visto bueno a TikTok, ni Apple o Google se atreven a ponerla en sus tiendas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/aunque-donald-trump-visto-bueno-tiktok-ni-apple-google-atreven-ponerla-tiendas-1437211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/donald-trump-tiktok-4285150.jpg?tf=1200x' alt='Aunque Donald Trump dé el visto bueno a TikTok, ni Apple o Google se atreven a ponerla en sus tiendas' />
     </a>
 </div>
 
