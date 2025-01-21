@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-1437275'>Giro de 180 grados en Instagram: estos son todos los cambios que ha realizado en apenas un mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-1437275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-4285243.jpg?tf=1200x' alt='Giro de 180 grados en Instagram: estos son todos los cambios que ha realizado en apenas un mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/palo-adios-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Palo a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/palo-adios-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-4285208.jpg?tf=1200x' alt='Palo a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265'>Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4285228.jpg?tf=1200x' alt='Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-1437200'>Kodi lanza una mastodóntica actualización tras un largo tiempo sin grandes cambios</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-1437200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-4285166.jpg?tf=1200x' alt='Kodi lanza una mastodóntica actualización tras un largo tiempo sin grandes cambios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-como-ver-silo-separacion-pagar-euro-durante-tres-meses-1437267'>Apple TV+ gratis: cómo ver Silo o Separación sin pagar un euro durante tres meses</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-como-ver-silo-separacion-pagar-euro-durante-tres-meses-1437267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-tv-4285267.jpg?tf=1200x' alt='Apple TV+ gratis: cómo ver Silo o Separación sin pagar un euro durante tres meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/psiquiatras-chatgpt-opciones-peligros-dejar-salud-mental-manos-ia-1437274'>Psiquiatras por ChatGPT: opciones y peligros de dejar tu salud mental en manos de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/psiquiatras-chatgpt-opciones-peligros-dejar-salud-mental-manos-ia-1437274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/psiquiatras-chatgpt-4285245.jpg?tf=1200x' alt='Psiquiatras por ChatGPT: opciones y peligros de dejar tu salud mental en manos de la IA' />
     </a>
 </div>
 
