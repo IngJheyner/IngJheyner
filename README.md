@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/youtuber-crea-xbox-360-portatil-presupuesto-limitado-piezas-recicladas-1437398'>Un youtuber crea una Xbox 360 portátil con un presupuesto limitado y con piezas recicladas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/youtuber-crea-xbox-360-portatil-presupuesto-limitado-piezas-recicladas-1437398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xbox-360-portatil-4285469.jpg?tf=1200x' alt='Un youtuber crea una Xbox 360 portátil con un presupuesto limitado y con piezas recicladas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-instax-wide-evo-camara-instantanea-hibrida-1437389'>Fujifilm Instax WIDE Evo, la revolucionaria cámara instantánea híbrida que permite editar imágenes antes de imprimir</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-instax-wide-evo-camara-instantanea-hibrida-1437389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737485530044-4285422.jpg?tf=1200x' alt='Fujifilm Instax WIDE Evo, la revolucionaria cámara instantánea híbrida que permite editar imágenes antes de imprimir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-lanza-mega-actualizacion-iphone-deberias-instalar-ahora-mismo-1437287'>Waze lanza una mega actualización para iPhone que deberías instalar ahora mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-lanza-mega-actualizacion-iphone-deberias-instalar-ahora-mismo-1437287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-lanza-mega-actualizacion-iphone-deberias-instalar-ahora-mismo-4285281.jpg?tf=1200x' alt='Waze lanza una mega actualización para iPhone que deberías instalar ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-4-nuevos-rumores-apuntan-sera-android-killer-menos-600-euros-1437218'>iPhone SE 4: nuevos rumores apuntan a que será un Android killer por menos de 600 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iphone-4-nuevos-rumores-apuntan-sera-android-killer-menos-600-euros-1437218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-4-4285168.jpg?tf=1200x' alt='iPhone SE 4: nuevos rumores apuntan a que será un Android killer por menos de 600 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337'>Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-investigada-supuesto-uso-minerales-sangre-iphone-4285411.jpg?tf=1200x' alt='Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-porsche-hombre-tiene-elegir-coche-salvar-incendio-no-duda-segundo-1437080'>¿Tesla o Porsche? Un hombre tiene que elegir qué coche salvar de un incendio y no duda un segundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-porsche-hombre-tiene-elegir-coche-salvar-incendio-no-duda-segundo-1437080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-porshe-4284980.jpg?tf=1200x' alt='¿Tesla o Porsche? Un hombre tiene que elegir qué coche salvar de un incendio y no duda un segundo' />
     </a>
 </div>
 
