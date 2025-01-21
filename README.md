@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-ya-tiene-propio-chatgpt-llama-alia-funciona-1437199'>España ya tiene su propio ChatGPT: se llama ALIA y así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/espana-ya-tiene-propio-chatgpt-llama-alia-funciona-1437199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-ia-alia-4285143.jpg?tf=1200x' alt='España ya tiene su propio ChatGPT: se llama ALIA y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estos-son-datos-meta-puede-facilitar-ti-orden-judicial-como-fiscal-general-1437180'>WhatsApp: estos son los datos que Meta puede facilitar sobre ti por una orden judicial como la del fiscal general</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estos-son-datos-meta-puede-facilitar-ti-orden-judicial-como-fiscal-general-1437180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-leyes-4285122.jpg?tf=1200x' alt='WhatsApp: estos son los datos que Meta puede facilitar sobre ti por una orden judicial como la del fiscal general' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adrien-brody-podria-perder-oscar-brutalist-culpa-inteligencia-artificial-1437179'>Adrien Brody podría perder el Óscar en The Brutalist, por culpa de la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/adrien-brody-podria-perder-oscar-brutalist-culpa-inteligencia-artificial-1437179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/brutalist-galeria-imagenes-4284667.jpg?tf=1200x' alt='Adrien Brody podría perder el Óscar en The Brutalist, por culpa de la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158'>Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg?tf=1200x' alt='Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-estan-punto-muy-raro-probar-modelo-creo-han-mejorado-tanto-ya-ni-noto-1435002'>Los auriculares están en un punto muy raro: tras probar este modelo creo que han mejorado tanto que ya ni lo noto</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/auriculares-estan-punto-muy-raro-probar-modelo-creo-han-mejorado-tanto-ya-ni-noto-1435002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-freebuds-pro-4-4284046.jpg?tf=1200x' alt='Los auriculares están en un punto muy raro: tras probar este modelo creo que han mejorado tanto que ya ni lo noto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-x50-ultra-complete-1436928'>He probado el robot aspirador Dreame X50 Ultra Complete, que limpia a fondo y además salta obstáculos</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/dreame-x50-ultra-complete-1436928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284897.jpg?tf=1200x' alt='He probado el robot aspirador Dreame X50 Ultra Complete, que limpia a fondo y además salta obstáculos' />
     </a>
 </div>
 
