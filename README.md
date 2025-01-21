@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-1436717'>Qué son los "códigos de interrogación" del iPhone y todo lo que puedes hacer con ellos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-1436717' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-4284178.jpg?tf=1200x' alt='Qué son los "códigos de interrogación" del iPhone y todo lo que puedes hacer con ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-1437037'>Cuidado si utilizas WhatsApp en el extranjero: ¿son gratis las llamadas?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-1437037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-4284844.jpg?tf=1200x' alt='Cuidado si utilizas WhatsApp en el extranjero: ¿son gratis las llamadas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/tierra-cambia-color-cientificos-investigan-planeta-azul-deberia-cambiar-nombre-1437019'>La Tierra cambia de color: científicos investigan por qué el "Planeta Azul" debería cambiar de nombre</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/tierra-cambia-color-cientificos-investigan-planeta-azul-deberia-cambiar-nombre-1437019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-tierra-4284835.jpg?tf=1200x' alt='La Tierra cambia de color: científicos investigan por qué el "Planeta Azul" debería cambiar de nombre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149'>Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/arriesga-comprar-ps4-usada-5-euros-sorpresa-increible-4285051.jpg?tf=1200x' alt='Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/doom-en-microsoft-word-1437137'>Ya puedes jugar a Doom en Microsoft Word, pero no deberías hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/doom-en-microsoft-word-1437137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ya-puedes-jugar-doom-microsoft-word-pero-no-deberias-hacerlo-4285028.jpg?tf=1200x' alt='Ya puedes jugar a Doom en Microsoft Word, pero no deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132'>Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pokemon-go-4285044.jpg?tf=1200x' alt='Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España' />
     </a>
 </div>
 
