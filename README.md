@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-4-nuevos-rumores-apuntan-sera-android-killer-menos-600-euros-1437218'>iPhone SE 4: nuevos rumores apuntan a que será un Android killer por menos de 600 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-4-nuevos-rumores-apuntan-sera-android-killer-menos-600-euros-1437218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-4-4285168.jpg?tf=1200x' alt='iPhone SE 4: nuevos rumores apuntan a que será un Android killer por menos de 600 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337'>Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-investigada-supuesto-uso-minerales-sangre-iphone-4285411.jpg?tf=1200x' alt='Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-porsche-hombre-tiene-elegir-coche-salvar-incendio-no-duda-segundo-1437080'>¿Tesla o Porsche? Un hombre tiene que elegir qué coche salvar de un incendio y no duda un segundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-porsche-hombre-tiene-elegir-coche-salvar-incendio-no-duda-segundo-1437080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-porshe-4284980.jpg?tf=1200x' alt='¿Tesla o Porsche? Un hombre tiene que elegir qué coche salvar de un incendio y no duda un segundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277'>Giro de 180 grados en Movistar Plus: los nuevos canales llegan con una importante limitación</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus: los nuevos canales llegan con una importante limitación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-1437174'>Hallazgo inesperado en los coches eléctricos: las baterías cuánticas están a punto de revolucionarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-1437174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-4285123.jpg?tf=1200x' alt='Hallazgo inesperado en los coches eléctricos: las baterías cuánticas están a punto de revolucionarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-truco-viral-aprobar-cualquier-examen-estudiando-mitad-hacer-trampas-1437317'>ChatGPT: el truco viral para aprobar cualquier examen estudiando la mitad y sin hacer trampas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-truco-viral-aprobar-cualquier-examen-estudiando-mitad-hacer-trampas-1437317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-truco-viral-aprobar-cualquier-examen-estudiando-mitad-hacer-trampas-4285353.jpg?tf=1200x' alt='ChatGPT: el truco viral para aprobar cualquier examen estudiando la mitad y sin hacer trampas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-1437275'>Giro de 180 grados en Instagram: estos son todos los cambios que ha realizado en apenas un mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-1437275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-4285243.jpg?tf=1200x' alt='Giro de 180 grados en Instagram: estos son todos los cambios que ha realizado en apenas un mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/palo-adios-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Palo a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/palo-adios-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-4285208.jpg?tf=1200x' alt='Palo a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
     </a>
 </div>
 
