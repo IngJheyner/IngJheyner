@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149'>Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/arriesga-comprar-ps4-usada-5-euros-sorpresa-increible-4285051.jpg?tf=1200x' alt='Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/doom-en-microsoft-word-1437137'>Ya puedes jugar a Doom en Microsoft Word, pero no deberías hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/doom-en-microsoft-word-1437137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ya-puedes-jugar-doom-microsoft-word-pero-no-deberias-hacerlo-4285028.jpg?tf=1200x' alt='Ya puedes jugar a Doom en Microsoft Word, pero no deberías hacerlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-sorprende-nuevo-cambio-meses-despedida-1437128'>Windows 10 sorprende con un nuevo cambio, ¡a meses de su despedida!</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-10-sorprende-nuevo-cambio-meses-despedida-1437128' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/calendario-windows-10-4285034.jpg?tf=1200x' alt='Windows 10 sorprende con un nuevo cambio, ¡a meses de su despedida!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-advierte-mensaje-sms-caixabank-estafa-1437123'>La Agencia de Ciberseguridad advierte sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-advierte-mensaje-sms-caixabank-estafa-1437123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recibes-mensaje-caixabank-donde-pone-cuidado-estafa-4284994.jpg?tf=1200x' alt='La Agencia de Ciberseguridad advierte sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa' />
     </a>
 </div>
 
