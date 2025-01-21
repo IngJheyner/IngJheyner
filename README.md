@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-1437367'>Frío, lluvias y nieve: estas son las apps que debes tener en tu móvil ante la ola de frío</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-1437367' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-friofrio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-4285480.jpg?tf=1200x' alt='Frío, lluvias y nieve: estas son las apps que debes tener en tu móvil ante la ola de frío' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelo-chino-deepseek-r1-supera-openai-o1-benchmarks-clave-ia-1437400'>El modelo chino DeepSeek-R1 supera a OpenAI o1 en benchmarks clave de IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/modelo-chino-deepseek-r1-supera-openai-o1-benchmarks-clave-ia-1437400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-4285473.jpg?tf=1200x' alt='El modelo chino DeepSeek-R1 supera a OpenAI o1 en benchmarks clave de IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enviar-correos-outlook-clasico-fallo-ultima-version-deja-fuera-juego-1437399'>¿No puedes enviar correos en Outlook clásico?: un fallo en la última versión lo deja fuera de juego</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enviar-correos-outlook-clasico-fallo-ultima-version-deja-fuera-juego-1437399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-outlook-4285471.jpg?tf=1200x' alt='¿No puedes enviar correos en Outlook clásico?: un fallo en la última versión lo deja fuera de juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/youtuber-crea-xbox-360-portatil-presupuesto-limitado-piezas-recicladas-1437398'>Un youtuber crea una Xbox 360 portátil con un presupuesto limitado y con piezas recicladas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/youtuber-crea-xbox-360-portatil-presupuesto-limitado-piezas-recicladas-1437398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xbox-360-portatil-4285469.jpg?tf=1200x' alt='Un youtuber crea una Xbox 360 portátil con un presupuesto limitado y con piezas recicladas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-instax-wide-evo-camara-instantanea-hibrida-1437389'>Fujifilm Instax WIDE Evo, la revolucionaria cámara instantánea híbrida que permite editar imágenes antes de imprimir</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-instax-wide-evo-camara-instantanea-hibrida-1437389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737485530044-4285422.jpg?tf=1200x' alt='Fujifilm Instax WIDE Evo, la revolucionaria cámara instantánea híbrida que permite editar imágenes antes de imprimir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-lanza-mega-actualizacion-iphone-deberias-instalar-ahora-mismo-1437287'>Waze lanza una mega actualización para iPhone que deberías instalar ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-lanza-mega-actualizacion-iphone-deberias-instalar-ahora-mismo-1437287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-lanza-mega-actualizacion-iphone-deberias-instalar-ahora-mismo-4285281.jpg?tf=1200x' alt='Waze lanza una mega actualización para iPhone que deberías instalar ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/casa-suenos-podria-estar-amazon-3-dormitorios-terraza-menos-12000-euros-1437307'>La casa de tus sueños podría estar en Amazon: 3 dormitorios y terraza por menos de 12.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/casa-suenos-podria-estar-amazon-3-dormitorios-terraza-menos-12000-euros-1437307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/casa-prefabricada-4285315.jpg?tf=1200x' alt='La casa de tus sueños podría estar en Amazon: 3 dormitorios y terraza por menos de 12.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iphone-4-nuevos-rumores-apuntan-sera-android-killer-menos-600-euros-1437218'>iPhone SE 4: nuevos rumores apuntan a que será un Android killer por menos de 600 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iphone-4-nuevos-rumores-apuntan-sera-android-killer-menos-600-euros-1437218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-4-4285168.jpg?tf=1200x' alt='iPhone SE 4: nuevos rumores apuntan a que será un Android killer por menos de 600 euros' />
     </a>
 </div>
 
