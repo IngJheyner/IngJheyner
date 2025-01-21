@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tim-cook-ia-valor-trabajo-1436261'>Sam Altman da la razón a Tim Cook sobre la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tim-cook-ia-valor-trabajo-1436261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook sobre la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/alerta-roja-iptv-encarcelado-compartir-suscripcion-legal-propia-casa-1437261'>Alerta roja IPTV: encarcelado por compartir su suscripción legal desde su propia casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/alerta-roja-iptv-encarcelado-compartir-suscripcion-legal-propia-casa-1437261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-roja-iptv-4285232.jpg?tf=1200x' alt='Alerta roja IPTV: encarcelado por compartir su suscripción legal desde su propia casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adolescente-italiano-15-anos-hackea-notas-altera-rutas-petroleros-mediterraneo-1437268'>Adolescente italiano de 15 años hackea sus notas y altera rutas de petroleros en el Mediterráneo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adolescente-italiano-15-anos-hackea-notas-altera-rutas-petroleros-mediterraneo-1437268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/buque-petrolero-3228794.jpg?tf=1200x' alt='Adolescente italiano de 15 años hackea sus notas y altera rutas de petroleros en el Mediterráneo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-predice-pasara-cuando-ia-supere-inteligencia-humana-sera-posible-automatizar-cualquier-tarea-cualquier-trabajo-1437242'>Experto predice qué pasará cuando la IA supere la inteligencia humana: "Será posible automatizar cualquier tarea, cualquier trabajo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-predice-pasara-cuando-ia-supere-inteligencia-humana-sera-posible-automatizar-cualquier-tarea-cualquier-trabajo-1437242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-ia-entrevista-4285185.jpg?tf=1200x' alt='Experto predice qué pasará cuando la IA supere la inteligencia humana: "Será posible automatizar cualquier tarea, cualquier trabajo"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-coche-electrico-cargador-1436951'>Ángel Gaitán la lía ocupando tres plazas para aparcar su coche eléctrico y así lo justifica</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/angel-gaitan-coche-electrico-cargador-1436951' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/angel-gaitan-lia-coche-electrico-4284656.jpg?tf=1200x' alt='Ángel Gaitán la lía ocupando tres plazas para aparcar su coche eléctrico y así lo justifica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-barato-movil-portatil-cuesta-menos-200-euros-no-error-1437212'>Windows 11 más barato que un móvil: este portátil cuesta menos de 200 euros, y no es un error</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-barato-movil-portatil-cuesta-menos-200-euros-no-error-1437212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/teclast-f16-pro-4285145.jpg?tf=1200x' alt='Windows 11 más barato que un móvil: este portátil cuesta menos de 200 euros, y no es un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-llega-opcion-agregar-musica-estados-1437181'>Giro de 180 grados en WhatsApp, llega la opción de agregar música a tus estados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-whatsapp-llega-opcion-agregar-musica-estados-1437181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estados-whatsapp-4285134.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp, llega la opción de agregar música a tus estados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/aunque-donald-trump-visto-bueno-tiktok-ni-apple-google-atreven-ponerla-tiendas-1437211'>Aunque Donald Trump dé el visto bueno a TikTok, ni Apple o Google se atreven a ponerla en sus tiendas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/aunque-donald-trump-visto-bueno-tiktok-ni-apple-google-atreven-ponerla-tiendas-1437211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/donald-trump-tiktok-4285150.jpg?tf=1200x' alt='Aunque Donald Trump dé el visto bueno a TikTok, ni Apple o Google se atreven a ponerla en sus tiendas' />
     </a>
 </div>
 
