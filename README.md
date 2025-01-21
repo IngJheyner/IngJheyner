@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-1437174'>Hallazgo inesperado en los coches eléctricos: las baterías cuánticas están a punto de revolucionarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-1437174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-4285123.jpg?tf=1200x' alt='Hallazgo inesperado en los coches eléctricos: las baterías cuánticas están a punto de revolucionarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-truco-viral-aprobar-cualquier-examen-estudiando-mitad-hacer-trampas-1437317'>ChatGPT: el truco viral para aprobar cualquier examen estudiando la mitad y sin hacer trampas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-truco-viral-aprobar-cualquier-examen-estudiando-mitad-hacer-trampas-1437317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-truco-viral-aprobar-cualquier-examen-estudiando-mitad-hacer-trampas-4285353.jpg?tf=1200x' alt='ChatGPT: el truco viral para aprobar cualquier examen estudiando la mitad y sin hacer trampas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-1437275'>Giro de 180 grados en Instagram: estos son todos los cambios que ha realizado en apenas un mes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-1437275' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-instagram-estos-son-todos-cambios-ha-realizado-apenas-mes-4285243.jpg?tf=1200x' alt='Giro de 180 grados en Instagram: estos son todos los cambios que ha realizado en apenas un mes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265'>Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4285228.jpg?tf=1200x' alt='Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ios-19-tiene-preparado-iphone-primeras-novedades-reveladas-1437204'>Lo que iOS 19 tiene preparado para tu iPhone: primeras novedades reveladas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ios-19-tiene-preparado-iphone-primeras-novedades-reveladas-1437204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/representacion-conceptual-actualizaciones-apple-intelligence-proximo-lanzamiento-4285157.jpg?tf=1200x' alt='Lo que iOS 19 tiene preparado para tu iPhone: primeras novedades reveladas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-1437200'>Kodi lanza una mastodóntica actualización tras un largo tiempo sin grandes cambios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-1437200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-4285166.jpg?tf=1200x' alt='Kodi lanza una mastodóntica actualización tras un largo tiempo sin grandes cambios' />
     </a>
 </div>
 
