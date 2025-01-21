@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/tierra-cambia-color-cientificos-investigan-planeta-azul-deberia-cambiar-nombre-1437019'>La Tierra cambia de color: científicos investigan por qué el "Planeta Azul" debería cambiar de nombre</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/tierra-cambia-color-cientificos-investigan-planeta-azul-deberia-cambiar-nombre-1437019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-tierra-4284835.jpg?tf=1200x' alt='La Tierra cambia de color: científicos investigan por qué el "Planeta Azul" debería cambiar de nombre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-pulsacion-larga-reaccionar-mensaje-whatsapp-funcion-sustituye-1437014'>Adiós a la pulsación larga para reaccionar a un mensaje de WhatsApp: esta es la función que la sustituye</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-pulsacion-larga-reaccionar-mensaje-whatsapp-funcion-sustituye-1437014' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevas-funciones-whatsapp-4284808.jpg?tf=1200x' alt='Adiós a la pulsación larga para reaccionar a un mensaje de WhatsApp: esta es la función que la sustituye' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149'>Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/arriesga-comprar-ps4-usada-5-euros-sorpresa-increible-4285051.jpg?tf=1200x' alt='Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132'>Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/mapas-pokemon-go-superan-google-maps-salvan-familia-espana-1437132' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pokemon-go-4285044.jpg?tf=1200x' alt='Los mapas de Pokémon Go superan a Google Maps y salvan a una familia en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-fijarte-identificar-cajeros-automaticos-pirateados-bancos-1437130'>En esto tienes que fijarte para identificar cajeros automáticos pirateados de los bancos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/tienes-fijarte-identificar-cajeros-automaticos-pirateados-bancos-1437130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cajero-bancario-4285038.jpg?tf=1200x' alt='En esto tienes que fijarte para identificar cajeros automáticos pirateados de los bancos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-sorprende-nuevo-cambio-meses-despedida-1437128'>Windows 10 sorprende con un nuevo cambio, ¡a meses de su despedida!</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-sorprende-nuevo-cambio-meses-despedida-1437128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/calendario-windows-10-4285034.jpg?tf=1200x' alt='Windows 10 sorprende con un nuevo cambio, ¡a meses de su despedida!' />
     </a>
 </div>
 
