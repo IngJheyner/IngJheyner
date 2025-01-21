@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158'>Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg?tf=1200x' alt='Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-estan-punto-muy-raro-probar-modelo-creo-han-mejorado-tanto-ya-ni-noto-1435002'>Los auriculares están en un punto muy raro: tras probar este modelo creo que han mejorado tanto que ya ni lo noto</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/auriculares-estan-punto-muy-raro-probar-modelo-creo-han-mejorado-tanto-ya-ni-noto-1435002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-freebuds-pro-4-4284046.jpg?tf=1200x' alt='Los auriculares están en un punto muy raro: tras probar este modelo creo que han mejorado tanto que ya ni lo noto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-x50-ultra-complete-1436928'>He probado el robot aspirador Dreame X50 Ultra Complete, que limpia a fondo y además salta obstáculos</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/dreame-x50-ultra-complete-1436928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284897.jpg?tf=1200x' alt='He probado el robot aspirador Dreame X50 Ultra Complete, que limpia a fondo y además salta obstáculos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-1436717'>Qué son los "códigos de interrogación" del iPhone y todo lo que puedes hacer con ellos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-1436717' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-4284178.jpg?tf=1200x' alt='Qué son los "códigos de interrogación" del iPhone y todo lo que puedes hacer con ellos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-1437037'>Cuidado si utilizas WhatsApp en el extranjero: ¿son gratis las llamadas?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-1437037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-4284844.jpg?tf=1200x' alt='Cuidado si utilizas WhatsApp en el extranjero: ¿son gratis las llamadas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/tierra-cambia-color-cientificos-investigan-planeta-azul-deberia-cambiar-nombre-1437019'>La Tierra cambia de color: científicos investigan por qué el "Planeta Azul" debería cambiar de nombre</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/tierra-cambia-color-cientificos-investigan-planeta-azul-deberia-cambiar-nombre-1437019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/planeta-tierra-4284835.jpg?tf=1200x' alt='La Tierra cambia de color: científicos investigan por qué el "Planeta Azul" debería cambiar de nombre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-pulsacion-larga-reaccionar-mensaje-whatsapp-funcion-sustituye-1437014'>Adiós a la pulsación larga para reaccionar a un mensaje de WhatsApp: esta es la función que la sustituye</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-pulsacion-larga-reaccionar-mensaje-whatsapp-funcion-sustituye-1437014' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevas-funciones-whatsapp-4284808.jpg?tf=1200x' alt='Adiós a la pulsación larga para reaccionar a un mensaje de WhatsApp: esta es la función que la sustituye' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149'>Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ps4-usada-5-euros-sorpresa-increible-1437149' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/arriesga-comprar-ps4-usada-5-euros-sorpresa-increible-4285051.jpg?tf=1200x' alt='Se arriesga a comprar una PS4 usada por 5 euros y la sorpresa es increíble' />
     </a>
 </div>
 
