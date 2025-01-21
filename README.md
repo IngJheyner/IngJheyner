@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adrien-brody-podria-perder-oscar-brutalist-culpa-inteligencia-artificial-1437179'>Adrien Brody podría perder el Óscar en The Brutalist, por culpa de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/adrien-brody-podria-perder-oscar-brutalist-culpa-inteligencia-artificial-1437179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/brutalist-galeria-imagenes-4284667.jpg?tf=1200x' alt='Adrien Brody podría perder el Óscar en The Brutalist, por culpa de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hemos-alcanzado-singularidad-ia-openai-ha-logrado-igualar-razonamiento-humano-arc-agi-1437178'>¿Hemos alcanzado la singularidad? La IA de OpenAI ha logrado igualar el razonamiento humano en ARC-AGI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hemos-alcanzado-singularidad-ia-openai-ha-logrado-igualar-razonamiento-humano-arc-agi-1437178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-3649867.jpg?tf=1200x' alt='¿Hemos alcanzado la singularidad? La IA de OpenAI ha logrado igualar el razonamiento humano en ARC-AGI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158'>Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-oculto-pelicula-ciencia-ficcion-vista-historia-no-mires-arriba-1437158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/12/no-mires-arriba-2566953.jpg?tf=1200x' alt='Netflix ocultó que es la película de ciencia ficción más vista de su historia: su director culpa a los críticos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/dreame-x50-ultra-complete-1436928'>He probado el robot aspirador Dreame X50 Ultra Complete, que limpia a fondo y además salta obstáculos</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/dreame-x50-ultra-complete-1436928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284897.jpg?tf=1200x' alt='He probado el robot aspirador Dreame X50 Ultra Complete, que limpia a fondo y además salta obstáculos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-1436717'>Qué son los "códigos de interrogación" del iPhone y todo lo que puedes hacer con ellos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-1436717' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/son-codigos-interrogacion-iphone-todo-puedes-hacer-ellos-4284178.jpg?tf=1200x' alt='Qué son los "códigos de interrogación" del iPhone y todo lo que puedes hacer con ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-1437037'>Cuidado si utilizas WhatsApp en el extranjero: ¿son gratis las llamadas?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-1437037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuidado-utilizas-whatsapp-extranjero-son-gratis-llamadas-4284844.jpg?tf=1200x' alt='Cuidado si utilizas WhatsApp en el extranjero: ¿son gratis las llamadas?' />
     </a>
 </div>
 
