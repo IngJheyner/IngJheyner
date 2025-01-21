@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265'>Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4285228.jpg?tf=1200x' alt='Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ios-19-tiene-preparado-iphone-primeras-novedades-reveladas-1437204'>Lo que iOS 19 tiene preparado para tu iPhone: primeras novedades reveladas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ios-19-tiene-preparado-iphone-primeras-novedades-reveladas-1437204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/representacion-conceptual-actualizaciones-apple-intelligence-proximo-lanzamiento-4285157.jpg?tf=1200x' alt='Lo que iOS 19 tiene preparado para tu iPhone: primeras novedades reveladas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-1437200'>Kodi lanza una mastodóntica actualización tras un largo tiempo sin grandes cambios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-1437200' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/kodi-lanza-mastodontica-actualizacion-largo-tiempo-grandes-cambios-4285166.jpg?tf=1200x' alt='Kodi lanza una mastodóntica actualización tras un largo tiempo sin grandes cambios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-como-ver-silo-separacion-pagar-euro-durante-tres-meses-1437267'>Apple TV+ gratis: cómo ver Silo o Separación sin pagar un euro durante tres meses</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-gratis-como-ver-silo-separacion-pagar-euro-durante-tres-meses-1437267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-tv-4285267.jpg?tf=1200x' alt='Apple TV+ gratis: cómo ver Silo o Separación sin pagar un euro durante tres meses' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/psiquiatras-chatgpt-opciones-peligros-dejar-salud-mental-manos-ia-1437274'>Psiquiatras por ChatGPT: opciones y peligros de dejar tu salud mental en manos de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/psiquiatras-chatgpt-opciones-peligros-dejar-salud-mental-manos-ia-1437274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/psiquiatras-chatgpt-4285245.jpg?tf=1200x' alt='Psiquiatras por ChatGPT: opciones y peligros de dejar tu salud mental en manos de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tim-cook-ia-valor-trabajo-1436261'>Sam Altman da la razón a Tim Cook sobre la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tim-cook-ia-valor-trabajo-1436261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/02/quien-sam-altman-hombre-detras-openai-herramientas-como-chatgpt-dalle-2-2956636.jpg?tf=1200x' alt='Sam Altman da la razón a Tim Cook sobre la IA: "Antes se valoraba mucho en el trabajo, ahora ya no"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alerta-roja-iptv-encarcelado-compartir-suscripcion-legal-propia-casa-1437261'>Alerta roja IPTV: encarcelado por compartir su suscripción legal desde su propia casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/alerta-roja-iptv-encarcelado-compartir-suscripcion-legal-propia-casa-1437261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-roja-iptv-4285232.jpg?tf=1200x' alt='Alerta roja IPTV: encarcelado por compartir su suscripción legal desde su propia casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adolescente-italiano-15-anos-hackea-notas-altera-rutas-petroleros-mediterraneo-1437268'>Adolescente italiano de 15 años hackea sus notas y altera rutas de petroleros en el Mediterráneo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adolescente-italiano-15-anos-hackea-notas-altera-rutas-petroleros-mediterraneo-1437268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/buque-petrolero-3228794.jpg?tf=1200x' alt='Adolescente italiano de 15 años hackea sus notas y altera rutas de petroleros en el Mediterráneo' />
     </a>
 </div>
 
