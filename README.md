@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277'>Giro de 180 grados en Movistar Plus: los nuevos canales llegan con una importante limitación</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus: los nuevos canales llegan con una importante limitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-1437174'>Hallazgo inesperado en los coches eléctricos: las baterías cuánticas están a punto de revolucionarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-1437174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-coches-electricos-baterias-cuanticas-estan-punto-revolucionarlo-todo-4285123.jpg?tf=1200x' alt='Hallazgo inesperado en los coches eléctricos: las baterías cuánticas están a punto de revolucionarlo todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/palo-adios-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Palo a las IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/palo-adios-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-4285208.jpg?tf=1200x' alt='Palo a las IPTV: descubren un nuevo método para transmitir fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265'>Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/precio-nintendo-switch-2-analistas-expertos-todo-mundo-coinciden-cifra-1437265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4285228.jpg?tf=1200x' alt='Precio de Nintendo Switch 2: analistas y expertos de todo el mundo coinciden en una cifra' />
     </a>
 </div>
 
