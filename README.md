@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-s25-ultimas-filtraciones-novedades-horario-como-ver-directo-galaxy-unpacked-2025-1437466'>Samsung Galaxy S25: últimas filtraciones, novedades, horario y cómo ver en directo el Galaxy Unpacked 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-s25-ultimas-filtraciones-novedades-horario-como-ver-directo-galaxy-unpacked-2025-1437466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevos-galaxy-s25-4285577.jpg?tf=1200x' alt='Samsung Galaxy S25: últimas filtraciones, novedades, horario y cómo ver en directo el Galaxy Unpacked 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-quien-stargate-faraonico-proyecto-donald-trump-tomar-control-inteligencia-artificial-1437462'>Quién es quién en Stargate: el faraónico proyecto de Donald Trump para tomar el control de la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/quien-quien-stargate-faraonico-proyecto-donald-trump-tomar-control-inteligencia-artificial-1437462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/stargate-donald-trump-4285572.jpg?tf=1200x' alt='Quién es quién en Stargate: el faraónico proyecto de Donald Trump para tomar el control de la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/stargate-megaproyecto-ia-donald-trump-sam-altman-500000-millones-cambiara-todo-1437452'>Stargate, el megaproyecto con la IA de Donald Trump y Sam Altman de 500.000 millones que lo cambiará todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/stargate-megaproyecto-ia-donald-trump-sam-altman-500000-millones-cambiara-todo-1437452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/proyecto-ia-trump-sam-altman-4285551.jpg?tf=1200x' alt='Stargate, el megaproyecto con la IA de Donald Trump y Sam Altman de 500.000 millones que lo cambiará todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337'>Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-investigada-supuesto-uso-minerales-sangre-iphone-4285411.jpg?tf=1200x' alt='Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-no-tiene-ser-caro-amazon-ha-rebajado-forerunner-pantalla-amoled-precio-ganga-1437188'>Un Garmin no tiene que ser caro: Amazon ha rebajado un Forerunner con pantalla AMOLED a precio de ganga</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-no-tiene-ser-caro-amazon-ha-rebajado-forerunner-pantalla-amoled-precio-ganga-1437188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-forerunner-165-3386715.jpg?tf=1200x' alt='Un Garmin no tiene que ser caro: Amazon ha rebajado un Forerunner con pantalla AMOLED a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-redmi-note-14-pro-parece-gama-alta-100-diseno-1434973'>Lo que más me gusta del Redmi Note 14 Pro+ es que parece un gama alta al 100% por diseño</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/me-gusta-redmi-note-14-pro-parece-gama-alta-100-diseno-1434973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4281081.jpg?tf=1200x' alt='Lo que más me gusta del Redmi Note 14 Pro+ es que parece un gama alta al 100% por diseño' />
     </a>
 </div>
 
