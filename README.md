@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/estos-dos-animales-no-volveran-tierra-firme-punto-no-retorno-evolutivo-1437443'>Estos dos animales no volverán a tierra firme: han alcanzado el punto de no retorno evolutivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/estos-dos-animales-no-volveran-tierra-firme-punto-no-retorno-evolutivo-1437443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estos-dos-animales-no-volveran-tierra-firme-han-alcanzado-punto-no-retorno-evolutivo-4285545.jpg?tf=1200x' alt='Estos dos animales no volverán a tierra firme: han alcanzado el punto de no retorno evolutivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337'>Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-investigada-supuesto-uso-minerales-sangre-iphone-4285411.jpg?tf=1200x' alt='Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-steam-deck-preguntas-debes-hacerte-antes-comprar-consola-portatil-1437227'>¿Nintendo Switch 2 o Steam Deck? Preguntas que debes hacerte antes de comprar una consola portátil</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-steam-deck-preguntas-debes-hacerte-antes-comprar-consola-portatil-1437227' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/switch-2-vs-steam-deck-4285176.jpg?tf=1200x' alt='¿Nintendo Switch 2 o Steam Deck? Preguntas que debes hacerte antes de comprar una consola portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/extrabajador-microsoft-aclara-fallos-molestos-windows-39-anos-copiar-archivo-1437057'>Extrabajador de Microsoft aclara uno de los fallos más molestos de Windows: “39 años para copiar un archivo”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/extrabajador-microsoft-aclara-fallos-molestos-windows-39-anos-copiar-archivo-1437057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/problema-windows-4284871.jpg?tf=1200x' alt='Extrabajador de Microsoft aclara uno de los fallos más molestos de Windows: “39 años para copiar un archivo”' />
     </a>
 </div>
 
