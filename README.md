@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-1437552'>Giro de 180 grados en Windows 10: algunos juegos dejarán de funcionar a partir de abril</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-1437552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-4285702.jpg?tf=1200x' alt='Giro de 180 grados en Windows 10: algunos juegos dejarán de funcionar a partir de abril' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/actualizacion-ios-183-iphone-novedades-cuando-podras-descargarla-1437593'>Actualización iOS 18.3 para iPhone: novedades y cuándo podrás descargarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/actualizacion-ios-183-iphone-novedades-cuando-podras-descargarla-1437593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-ios-183-iphone-novedades-cuando-podras-descargarla-4285793.jpg?tf=1200x' alt='Actualización iOS 18.3 para iPhone: novedades y cuándo podrás descargarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-fino-iphone-6-apple-ya-sabe-como-hacer-no-caliente-1437500'>El iPhone 17 Air será más fino que el iPhone 6 y Apple ya sabe cómo hacer que no se caliente</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-fino-iphone-6-apple-ya-sabe-como-hacer-no-caliente-1437500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-17-air-sera-fino-iphone-6-apple-ya-sabe-como-hacer-no-caliente-4285629.jpg?tf=1200x' alt='El iPhone 17 Air será más fino que el iPhone 6 y Apple ya sabe cómo hacer que no se caliente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/caixabank-responde-iphone-16-gratis-banco-santander-regala-smart-tv-samsung-cumpliendo-sencillo-requisito-1437538'>CaixaBank responde al iPhone 16 gratis de Banco Santander y regala un Smart TV de Samsung cumpliendo un sencillo requisito</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/caixabank-responde-iphone-16-gratis-banco-santander-regala-smart-tv-samsung-cumpliendo-sencillo-requisito-1437538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/caixabank-responde-iphone-16-gratis-banco-santander-regala-smart-tv-samsung-cumpliendo-sencillo-requisito-4285661.jpg?tf=1200x' alt='CaixaBank responde al iPhone 16 gratis de Banco Santander y regala un Smart TV de Samsung cumpliendo un sencillo requisito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-aunque-tendras-estar-rapido-1437523'>Movistar Plus+ estrena nuevo canal gratis para todos, aunque tendrás que estar rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-aunque-tendras-estar-rapido-1437523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285674.jpg?tf=1200x' alt='Movistar Plus+ estrena nuevo canal gratis para todos, aunque tendrás que estar rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537'>Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-vehiculo-autonomo-4285735.jpg?tf=1200x' alt='Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"' />
     </a>
 </div>
 
