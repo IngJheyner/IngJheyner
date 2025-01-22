@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-fino-iphone-6-apple-ya-sabe-como-hacer-no-caliente-1437500'>El iPhone 17 Air será más fino que el iPhone 6 y Apple ya sabe cómo hacer que no se caliente</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-sera-fino-iphone-6-apple-ya-sabe-como-hacer-no-caliente-1437500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-17-air-sera-fino-iphone-6-apple-ya-sabe-como-hacer-no-caliente-4285629.jpg?tf=1200x' alt='El iPhone 17 Air será más fino que el iPhone 6 y Apple ya sabe cómo hacer que no se caliente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alemania-pendrive-memoria-usb-indestructible-1387127'>Alemania ha creado un pendrive indestructible que dura más de 200 años: el problema es que no cabe casi nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alemania-pendrive-memoria-usb-indestructible-1387127' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pendrive-indestructible-dura-200-anos-4285731.jpg?tf=1200x' alt='Alemania ha creado un pendrive indestructible que dura más de 200 años: el problema es que no cabe casi nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537'>Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-vehiculo-autonomo-4285735.jpg?tf=1200x' alt='Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-crecera-doble-movistar-vodafone-2025-pero-pagara-muy-caro-1437540'>Digi crecerá el doble que Movistar y Vodafone en 2025, pero lo pagará muy caro</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-crecera-doble-movistar-vodafone-2025-pero-pagara-muy-caro-1437540' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-crecera-doble-movistar-vodafone-4285696.jpg?tf=1200x' alt='Digi crecerá el doble que Movistar y Vodafone en 2025, pero lo pagará muy caro' />
     </a>
 </div>
 
