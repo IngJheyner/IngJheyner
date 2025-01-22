@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-modifica-sistema-inicio-sesion-seguro-1437669'>Microsoft modifica su sistema de inicio de sesión: ¿es esto seguro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-modifica-sistema-inicio-sesion-seguro-1437669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/persona-enfadada-usar-portatil-sistema-microsoft-4285895.jpg?tf=1200x' alt='Microsoft modifica su sistema de inicio de sesión: ¿es esto seguro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/pc-windows-11-ahora-super-router-actualizacion-revoluciona-wifi-1437667'>¡Tu PC con Windows 11 ahora es un súper router! La actualización que revoluciona el WiFi</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/pc-windows-11-ahora-super-router-actualizacion-revoluciona-wifi-1437667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/wifi-pc-4285884.jpg?tf=1200x' alt='¡Tu PC con Windows 11 ahora es un súper router! La actualización que revoluciona el WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-encuentra-forma-hacer-linux-sea-rapido-seguro-1437617'>Linus Torvalds encuentra la forma de hacer que Linux sea más rápido y seguro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-encuentra-forma-hacer-linux-sea-rapido-seguro-1437617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/linus-torvalds-encuentra-forma-hacer-linux-sea-rapido-seguro-4285878.jpg?tf=1200x' alt='Linus Torvalds encuentra la forma de hacer que Linux sea más rápido y seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-elimina-silenciosamente-funcion-clave-word-te-encanta-1437663'>Microsoft elimina silenciosamente una función clave de Word que te encanta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-elimina-silenciosamente-funcion-clave-word-te-encanta-1437663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-word-4285883.jpg?tf=1200x' alt='Microsoft elimina silenciosamente una función clave de Word que te encanta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bicicleta-electrica-radios-peligro-normal-haya-sido-autentico-fracaso-1437563'>Esta bicicleta eléctrica sin radios es un peligro, normal que haya sido un auténtico fracaso</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bicicleta-electrica-radios-peligro-normal-haya-sido-autentico-fracaso-1437563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reevo-hubless-bicicleta-electrica-4285713.jpg?tf=1200x' alt='Esta bicicleta eléctrica sin radios es un peligro, normal que haya sido un auténtico fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-inteligencia-artificial-multimodal-1437535'>Los nuevos Samsung Galaxy S25 abrazan la inteligencia artificial multimodal</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-inteligencia-artificial-multimodal-1437535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevos-samsung-galaxy-s25-abrazan-inteligencia-artificial-multimodal-4285581.jpg?tf=1200x' alt='Los nuevos Samsung Galaxy S25 abrazan la inteligencia artificial multimodal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-ultra-primeras-impresiones-1435994'>He probado el Samsung Galaxy S25 Ultra y mejora todo lo que le faltó al del año pasado</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-ultra-primeras-impresiones-1435994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-diferentes-colores-4285246.jpg?tf=1200x' alt='He probado el Samsung Galaxy S25 Ultra y mejora todo lo que le faltó al del año pasado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-1437552'>Giro de 180 grados en Windows 10: algunos juegos dejarán de funcionar a partir de abril</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-1437552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-4285702.jpg?tf=1200x' alt='Giro de 180 grados en Windows 10: algunos juegos dejarán de funcionar a partir de abril' />
     </a>
 </div>
 
