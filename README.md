@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-como-identificar-prefijos-protegerte-timo-llamada-perdida-1437515'>Estafa del Wangiri: cómo identificar prefijos para protegerte del timo de la llamada perdida</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-como-identificar-prefijos-protegerte-timo-llamada-perdida-1437515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='Estafa del Wangiri: cómo identificar prefijos para protegerte del timo de la llamada perdida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/netflix-vuelve-subir-precios-algunos-paises-aunque-espana-salva-ahora-1437482'>Netflix vuelve a subir los precios en algunos países, aunque España se salva (por ahora)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/netflix-vuelve-subir-precios-algunos-paises-aunque-espana-salva-ahora-1437482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/netflix-vuelve-subir-precios-algunos-paises-aunque-espana-salva-ahora-4285582.jpg?tf=1200x' alt='Netflix vuelve a subir los precios en algunos países, aunque España se salva (por ahora)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/sorpresa-amazon-google-pixel-grande-potente-330-euros-barato-1437513'>Sorpresa en Amazon: el Google Pixel más grande y potente es 250 euros más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/sorpresa-amazon-google-pixel-grande-potente-330-euros-barato-1437513' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4007275.jpg?tf=1200x' alt='Sorpresa en Amazon: el Google Pixel más grande y potente es 250 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-cierto-apple-no-ha-innovado-nada-iphone-steve-jobs-1437502'>Mark Zuckerberg: ¿Es cierto que Apple no ha innovado nada desde el iPhone de Steve Jobs?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-cierto-apple-no-ha-innovado-nada-iphone-steve-jobs-1437502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mark-zuckerberg-apple-4285622.jpg?tf=1200x' alt='Mark Zuckerberg: ¿Es cierto que Apple no ha innovado nada desde el iPhone de Steve Jobs?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-general-agi-1365946'>Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-general-agi-1365946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-gpt-5-3590817.jpg?tf=1200x' alt='Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows-10-todavia-no-ha-muerto-microsoft-sigue-lanzando-actualizaciones-mejoras-1437494'>Windows 10 todavía no ha muerto: ¿Por qué Microsoft sigue lanzando actualizaciones y mejoras?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows-10-todavia-no-ha-muerto-microsoft-sigue-lanzando-actualizaciones-mejoras-1437494' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-4269427.jpg?tf=1200x' alt='Windows 10 todavía no ha muerto: ¿Por qué Microsoft sigue lanzando actualizaciones y mejoras?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-pierdes-conexion-movil-cuenta-banco-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-pierdes-conexion-movil-cuenta-banco-1435955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/magis-tv-mastodontica-iptv-espanol-divide-dos-causar-caos-1437503'>Magis TV, la mastodóntica IPTV en español, se divide en dos para causar el caos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/magis-tv-mastodontica-iptv-espanol-divide-dos-causar-caos-1437503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/magis-tv-4285606.jpg?tf=1200x' alt='Magis TV, la mastodóntica IPTV en español, se divide en dos para causar el caos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-deja-ser-independiente-instagram-facebook-significa-ti-1437480'>WhatsApp deja de ser independiente de Instagram y Facebook: ¿qué significa esto para ti?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-deja-ser-independiente-instagram-facebook-significa-ti-1437480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='WhatsApp deja de ser independiente de Instagram y Facebook: ¿qué significa esto para ti?' />
     </a>
 </div>
 
