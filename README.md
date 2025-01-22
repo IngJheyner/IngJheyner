@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537'>Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-vehiculo-autonomo-4285735.jpg?tf=1200x' alt='Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/digi-crecera-doble-movistar-vodafone-2025-pero-pagara-muy-caro-1437540'>Digi crecerá el doble que Movistar y Vodafone en 2025, pero lo pagará muy caro</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/digi-crecera-doble-movistar-vodafone-2025-pero-pagara-muy-caro-1437540' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-crecera-doble-movistar-vodafone-4285696.jpg?tf=1200x' alt='Digi crecerá el doble que Movistar y Vodafone en 2025, pero lo pagará muy caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-como-identificar-prefijos-protegerte-timo-llamada-perdida-1437515'>Estafa del Wangiri: cómo identificar prefijos para protegerte del timo de la llamada perdida</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-como-identificar-prefijos-protegerte-timo-llamada-perdida-1437515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='Estafa del Wangiri: cómo identificar prefijos para protegerte del timo de la llamada perdida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/sorpresa-amazon-google-pixel-grande-potente-330-euros-barato-1437513'>Sorpresa en Amazon: el Google Pixel más grande y potente es 250 euros más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/android/sorpresa-amazon-google-pixel-grande-potente-330-euros-barato-1437513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4007275.jpg?tf=1200x' alt='Sorpresa en Amazon: el Google Pixel más grande y potente es 250 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-cierto-apple-no-ha-innovado-nada-iphone-steve-jobs-1437502'>Mark Zuckerberg: ¿Es cierto que Apple no ha innovado nada desde el iPhone de Steve Jobs?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mark-zuckerberg-cierto-apple-no-ha-innovado-nada-iphone-steve-jobs-1437502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mark-zuckerberg-apple-4285622.jpg?tf=1200x' alt='Mark Zuckerberg: ¿Es cierto que Apple no ha innovado nada desde el iPhone de Steve Jobs?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-general-agi-1365946'>Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-general-agi-1365946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-gpt-5-3590817.jpg?tf=1200x' alt='Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas' />
     </a>
 </div>
 
