@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ia-unica-habilidad-debes-desarrollar-tener-exito-1437231'>Sam Altman: "Con la IA, esta es la única habilidad que debes desarrollar para tener éxito"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ia-unica-habilidad-debes-desarrollar-tener-exito-1437231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4285231.jpg?tf=1200x' alt='Sam Altman: "Con la IA, esta es la única habilidad que debes desarrollar para tener éxito"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ajustes-iphone-debes-desactivar-aumentar-seguridad-rendimiento-1437248'>5 ajustes del iPhone que debes desactivar para aumentar la seguridad y el rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ajustes-iphone-debes-desactivar-aumentar-seguridad-rendimiento-1437248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-ajustes-iphone-debes-desactivar-aumentar-seguridad-rendimiento-4285201.jpg?tf=1200x' alt='5 ajustes del iPhone que debes desactivar para aumentar la seguridad y el rendimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/xiaomi-winplay-convierte-tablet-movil-android-steam-deck-jugar-juegos-steam-1437430'>Xiaomi WinPlay convierte una tablet o móvil Android en una Steam Deck para jugar a juegos de Steam</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/xiaomi-winplay-convierte-tablet-movil-android-steam-deck-jugar-juegos-steam-1437430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-lia-winplay-emulador-juegos-pc-android-perdida-rendimiento-4285505.jpg?tf=1200x' alt='Xiaomi WinPlay convierte una tablet o móvil Android en una Steam Deck para jugar a juegos de Steam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-1437367'>Frío, lluvias y nieve: estas son las apps que debes tener en tu móvil ante la ola de frío</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-1437367' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-friofrio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-4285480.jpg?tf=1200x' alt='Frío, lluvias y nieve: estas son las apps que debes tener en tu móvil ante la ola de frío' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelo-chino-deepseek-r1-supera-openai-o1-benchmarks-clave-ia-1437400'>El modelo chino DeepSeek-R1 supera a OpenAI o1 en benchmarks clave de IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/modelo-chino-deepseek-r1-supera-openai-o1-benchmarks-clave-ia-1437400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-4285473.jpg?tf=1200x' alt='El modelo chino DeepSeek-R1 supera a OpenAI o1 en benchmarks clave de IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enviar-correos-outlook-clasico-fallo-ultima-version-deja-fuera-juego-1437399'>¿No puedes enviar correos en Outlook clásico?: un fallo en la última versión lo deja fuera de juego</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enviar-correos-outlook-clasico-fallo-ultima-version-deja-fuera-juego-1437399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-outlook-4285471.jpg?tf=1200x' alt='¿No puedes enviar correos en Outlook clásico?: un fallo en la última versión lo deja fuera de juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/youtuber-crea-xbox-360-portatil-presupuesto-limitado-piezas-recicladas-1437398'>Un youtuber crea una Xbox 360 portátil con un presupuesto limitado y con piezas recicladas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/youtuber-crea-xbox-360-portatil-presupuesto-limitado-piezas-recicladas-1437398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xbox-360-portatil-4285469.jpg?tf=1200x' alt='Un youtuber crea una Xbox 360 portátil con un presupuesto limitado y con piezas recicladas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-instax-wide-evo-camara-instantanea-hibrida-1437389'>Fujifilm Instax WIDE Evo, la revolucionaria cámara instantánea híbrida que permite editar imágenes antes de imprimir</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fujifilm-instax-wide-evo-camara-instantanea-hibrida-1437389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737485530044-4285422.jpg?tf=1200x' alt='Fujifilm Instax WIDE Evo, la revolucionaria cámara instantánea híbrida que permite editar imágenes antes de imprimir' />
     </a>
 </div>
 
