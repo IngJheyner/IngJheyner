@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/stargate-megaproyecto-ia-donald-trump-sam-altman-500000-millones-cambiara-todo-1437452'>Stargate, el megaproyecto con la IA de Donald Trump y Sam Altman de 500.000 millones que lo cambiará todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/stargate-megaproyecto-ia-donald-trump-sam-altman-500000-millones-cambiara-todo-1437452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/proyecto-ia-trump-sam-altman-4285551.jpg?tf=1200x' alt='Stargate, el megaproyecto con la IA de Donald Trump y Sam Altman de 500.000 millones que lo cambiará todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/estos-dos-animales-no-volveran-tierra-firme-punto-no-retorno-evolutivo-1437443'>Estos dos animales no volverán a tierra firme: han alcanzado el punto de no retorno evolutivo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/estos-dos-animales-no-volveran-tierra-firme-punto-no-retorno-evolutivo-1437443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estos-dos-animales-no-volveran-tierra-firme-han-alcanzado-punto-no-retorno-evolutivo-4285545.jpg?tf=1200x' alt='Estos dos animales no volverán a tierra firme: han alcanzado el punto de no retorno evolutivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-redmi-note-14-pro-parece-gama-alta-100-diseno-1434973'>Lo que más me gusta del Redmi Note 14 Pro+ es que parece un gama alta al 100% por diseño</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/me-gusta-redmi-note-14-pro-parece-gama-alta-100-diseno-1434973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4281081.jpg?tf=1200x' alt='Lo que más me gusta del Redmi Note 14 Pro+ es que parece un gama alta al 100% por diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-steam-deck-preguntas-debes-hacerte-antes-comprar-consola-portatil-1437227'>¿Nintendo Switch 2 o Steam Deck? Preguntas que debes hacerte antes de comprar una consola portátil</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-steam-deck-preguntas-debes-hacerte-antes-comprar-consola-portatil-1437227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/switch-2-vs-steam-deck-4285176.jpg?tf=1200x' alt='¿Nintendo Switch 2 o Steam Deck? Preguntas que debes hacerte antes de comprar una consola portátil' />
     </a>
 </div>
 
