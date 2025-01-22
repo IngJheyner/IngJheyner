@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alemania-pendrive-memoria-usb-indestructible-1387127'>Alemania ha creado un pendrive indestructible que dura más de 200 años: el problema es que no cabe casi nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alemania-pendrive-memoria-usb-indestructible-1387127' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pendrive-indestructible-dura-200-anos-4285731.jpg?tf=1200x' alt='Alemania ha creado un pendrive indestructible que dura más de 200 años: el problema es que no cabe casi nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/caixabank-responde-iphone-16-gratis-banco-santander-regala-smart-tv-samsung-cumpliendo-sencillo-requisito-1437538'>CaixaBank responde al iPhone 16 gratis de Banco Santander y regala un Smart TV de Samsung cumpliendo un sencillo requisito</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/caixabank-responde-iphone-16-gratis-banco-santander-regala-smart-tv-samsung-cumpliendo-sencillo-requisito-1437538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/caixabank-responde-iphone-16-gratis-banco-santander-regala-smart-tv-samsung-cumpliendo-sencillo-requisito-4285661.jpg?tf=1200x' alt='CaixaBank responde al iPhone 16 gratis de Banco Santander y regala un Smart TV de Samsung cumpliendo un sencillo requisito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-aunque-tendras-estar-rapido-1437523'>Movistar Plus+ estrena nuevo canal gratis para todos, aunque tendrás que estar rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-aunque-tendras-estar-rapido-1437523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285674.jpg?tf=1200x' alt='Movistar Plus+ estrena nuevo canal gratis para todos, aunque tendrás que estar rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537'>Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-anuncia-inminente-cambio-reglas-habra-carril-solo-humanos-1437537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-vehiculo-autonomo-4285735.jpg?tf=1200x' alt='Bill Gates anuncia un inminente cambio de reglas: "Habrá un carril solo para los humanos"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-crecera-doble-movistar-vodafone-2025-pero-pagara-muy-caro-1437540'>Digi crecerá el doble que Movistar y Vodafone en 2025, pero lo pagará muy caro</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-crecera-doble-movistar-vodafone-2025-pero-pagara-muy-caro-1437540' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-crecera-doble-movistar-vodafone-4285696.jpg?tf=1200x' alt='Digi crecerá el doble que Movistar y Vodafone en 2025, pero lo pagará muy caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-como-identificar-prefijos-protegerte-timo-llamada-perdida-1437515'>Estafa del Wangiri: cómo identificar prefijos para protegerte del timo de la llamada perdida</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-como-identificar-prefijos-protegerte-timo-llamada-perdida-1437515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/estafa-movil-3641674.jpg?tf=1200x' alt='Estafa del Wangiri: cómo identificar prefijos para protegerte del timo de la llamada perdida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/netflix-vuelve-subir-precios-algunos-paises-aunque-espana-salva-ahora-1437482'>Netflix vuelve a subir los precios en algunos países, aunque España se salva (por ahora)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/netflix-vuelve-subir-precios-algunos-paises-aunque-espana-salva-ahora-1437482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/netflix-vuelve-subir-precios-algunos-paises-aunque-espana-salva-ahora-4285582.jpg?tf=1200x' alt='Netflix vuelve a subir los precios en algunos países, aunque España se salva (por ahora)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/sorpresa-amazon-google-pixel-grande-potente-330-euros-barato-1437513'>Sorpresa en Amazon: el Google Pixel más grande y potente es 250 euros más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/sorpresa-amazon-google-pixel-grande-potente-330-euros-barato-1437513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4007275.jpg?tf=1200x' alt='Sorpresa en Amazon: el Google Pixel más grande y potente es 250 euros más barato' />
     </a>
 </div>
 
