@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/bicicleta-electrica-radios-peligro-normal-haya-sido-autentico-fracaso-1437563'>Esta bicicleta eléctrica sin radios es un peligro, normal que haya sido un auténtico fracaso</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bicicleta-electrica-radios-peligro-normal-haya-sido-autentico-fracaso-1437563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reevo-hubless-bicicleta-electrica-4285713.jpg?tf=1200x' alt='Esta bicicleta eléctrica sin radios es un peligro, normal que haya sido un auténtico fracaso' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-1437552'>Giro de 180 grados en Windows 10: algunos juegos dejarán de funcionar a partir de abril</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-1437552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-windows-10-algunos-juegos-dejaran-funcionar-partir-abril-4285702.jpg?tf=1200x' alt='Giro de 180 grados en Windows 10: algunos juegos dejarán de funcionar a partir de abril' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/actualizacion-ios-183-iphone-novedades-cuando-podras-descargarla-1437593'>Actualización iOS 18.3 para iPhone: novedades y cuándo podrás descargarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/actualizacion-ios-183-iphone-novedades-cuando-podras-descargarla-1437593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-ios-183-iphone-novedades-cuando-podras-descargarla-4285793.jpg?tf=1200x' alt='Actualización iOS 18.3 para iPhone: novedades y cuándo podrás descargarla' />
     </a>
 </div>
 
