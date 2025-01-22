@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337'>Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-investigada-supuesto-uso-minerales-sangre-iphone-1437337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-investigada-supuesto-uso-minerales-sangre-iphone-4285411.jpg?tf=1200x' alt='Apple investigada por el supuesto uso de "minerales de sangre" para sus iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-no-tiene-ser-caro-amazon-ha-rebajado-forerunner-pantalla-amoled-precio-ganga-1437188'>Un Garmin no tiene que ser caro: Amazon ha rebajado un Forerunner con pantalla AMOLED a precio de ganga</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-no-tiene-ser-caro-amazon-ha-rebajado-forerunner-pantalla-amoled-precio-ganga-1437188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/garmin-forerunner-165-3386715.jpg?tf=1200x' alt='Un Garmin no tiene que ser caro: Amazon ha rebajado un Forerunner con pantalla AMOLED a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/me-gusta-redmi-note-14-pro-parece-gama-alta-100-diseno-1434973'>Lo que más me gusta del Redmi Note 14 Pro+ es que parece un gama alta al 100% por diseño</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/me-gusta-redmi-note-14-pro-parece-gama-alta-100-diseno-1434973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-note-14-pro-4281081.jpg?tf=1200x' alt='Lo que más me gusta del Redmi Note 14 Pro+ es que parece un gama alta al 100% por diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-steam-deck-preguntas-debes-hacerte-antes-comprar-consola-portatil-1437227'>¿Nintendo Switch 2 o Steam Deck? Preguntas que debes hacerte antes de comprar una consola portátil</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-steam-deck-preguntas-debes-hacerte-antes-comprar-consola-portatil-1437227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/switch-2-vs-steam-deck-4285176.jpg?tf=1200x' alt='¿Nintendo Switch 2 o Steam Deck? Preguntas que debes hacerte antes de comprar una consola portátil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/extrabajador-microsoft-aclara-fallos-molestos-windows-39-anos-copiar-archivo-1437057'>Extrabajador de Microsoft aclara uno de los fallos más molestos de Windows: “39 años para copiar un archivo”</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/extrabajador-microsoft-aclara-fallos-molestos-windows-39-anos-copiar-archivo-1437057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/problema-windows-4284871.jpg?tf=1200x' alt='Extrabajador de Microsoft aclara uno de los fallos más molestos de Windows: “39 años para copiar un archivo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/nokia-tuvo-mano-acabar-iphone-pero-decidio-no-era-amenaza-1437276'>Nokia tuvo en su mano acabar con el iPhone, pero decidió que no era una amenaza</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/nokia-tuvo-mano-acabar-iphone-pero-decidio-no-era-amenaza-1437276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/novia-vs-iphone-4285277.jpg?tf=1200x' alt='Nokia tuvo en su mano acabar con el iPhone, pero decidió que no era una amenaza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ia-unica-habilidad-debes-desarrollar-tener-exito-1437231'>Sam Altman: "Con la IA, esta es la única habilidad que debes desarrollar para tener éxito"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ia-unica-habilidad-debes-desarrollar-tener-exito-1437231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4285231.jpg?tf=1200x' alt='Sam Altman: "Con la IA, esta es la única habilidad que debes desarrollar para tener éxito"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ajustes-iphone-debes-desactivar-aumentar-seguridad-rendimiento-1437248'>5 ajustes del iPhone que debes desactivar para aumentar la seguridad y el rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ajustes-iphone-debes-desactivar-aumentar-seguridad-rendimiento-1437248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/5-ajustes-iphone-debes-desactivar-aumentar-seguridad-rendimiento-4285201.jpg?tf=1200x' alt='5 ajustes del iPhone que debes desactivar para aumentar la seguridad y el rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/xiaomi-winplay-convierte-tablet-movil-android-steam-deck-jugar-juegos-steam-1437430'>Xiaomi WinPlay convierte una tablet o móvil Android en una Steam Deck para jugar a juegos de Steam</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/xiaomi-winplay-convierte-tablet-movil-android-steam-deck-jugar-juegos-steam-1437430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-lia-winplay-emulador-juegos-pc-android-perdida-rendimiento-4285505.jpg?tf=1200x' alt='Xiaomi WinPlay convierte una tablet o móvil Android en una Steam Deck para jugar a juegos de Steam' />
     </a>
 </div>
 
