@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-general-agi-1365946'>Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-general-agi-1365946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/inteligencia-artificial-gpt-5-3590817.jpg?tf=1200x' alt='Qué es la inteligencia artificial general (AGI) y cuándo llegará a nuestras vidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows-10-todavia-no-ha-muerto-microsoft-sigue-lanzando-actualizaciones-mejoras-1437494'>Windows 10 todavía no ha muerto: ¿Por qué Microsoft sigue lanzando actualizaciones y mejoras?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows-10-todavia-no-ha-muerto-microsoft-sigue-lanzando-actualizaciones-mejoras-1437494' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-10-4269427.jpg?tf=1200x' alt='Windows 10 todavía no ha muerto: ¿Por qué Microsoft sigue lanzando actualizaciones y mejoras?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-pierdes-conexion-movil-cuenta-banco-1435955'>Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-pierdes-conexion-movil-cuenta-banco-1435955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta roja de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-deja-ser-independiente-instagram-facebook-significa-ti-1437480'>WhatsApp deja de ser independiente de Instagram y Facebook: ¿qué significa esto para ti?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-deja-ser-independiente-instagram-facebook-significa-ti-1437480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='WhatsApp deja de ser independiente de Instagram y Facebook: ¿qué significa esto para ti?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-s25-ultimas-filtraciones-novedades-horario-como-ver-directo-galaxy-unpacked-2025-1437466'>Samsung Galaxy S25: últimas filtraciones, novedades, horario y cómo ver en directo el Galaxy Unpacked 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-galaxy-s25-ultimas-filtraciones-novedades-horario-como-ver-directo-galaxy-unpacked-2025-1437466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevos-galaxy-s25-4285577.jpg?tf=1200x' alt='Samsung Galaxy S25: últimas filtraciones, novedades, horario y cómo ver en directo el Galaxy Unpacked 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-quien-stargate-faraonico-proyecto-donald-trump-tomar-control-inteligencia-artificial-1437462'>Quién es quién en Stargate: el faraónico proyecto de Donald Trump para tomar el control de la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/quien-quien-stargate-faraonico-proyecto-donald-trump-tomar-control-inteligencia-artificial-1437462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/stargate-donald-trump-4285572.jpg?tf=1200x' alt='Quién es quién en Stargate: el faraónico proyecto de Donald Trump para tomar el control de la inteligencia artificial' />
     </a>
 </div>
 
