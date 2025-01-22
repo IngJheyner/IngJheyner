@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/extrabajador-microsoft-aclara-fallos-molestos-windows-39-anos-copiar-archivo-1437057'>Extrabajador de Microsoft aclara uno de los fallos más molestos de Windows: “39 años para copiar un archivo”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/extrabajador-microsoft-aclara-fallos-molestos-windows-39-anos-copiar-archivo-1437057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/problema-windows-4284871.jpg?tf=1200x' alt='Extrabajador de Microsoft aclara uno de los fallos más molestos de Windows: “39 años para copiar un archivo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/nokia-tuvo-mano-acabar-iphone-pero-decidio-no-era-amenaza-1437276'>Nokia tuvo en su mano acabar con el iPhone, pero decidió que no era una amenaza</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/nokia-tuvo-mano-acabar-iphone-pero-decidio-no-era-amenaza-1437276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/novia-vs-iphone-4285277.jpg?tf=1200x' alt='Nokia tuvo en su mano acabar con el iPhone, pero decidió que no era una amenaza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ia-unica-habilidad-debes-desarrollar-tener-exito-1437231'>Sam Altman: "Con la IA, esta es la única habilidad que debes desarrollar para tener éxito"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ia-unica-habilidad-debes-desarrollar-tener-exito-1437231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4285231.jpg?tf=1200x' alt='Sam Altman: "Con la IA, esta es la única habilidad que debes desarrollar para tener éxito"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/xiaomi-winplay-convierte-tablet-movil-android-steam-deck-jugar-juegos-steam-1437430'>Xiaomi WinPlay convierte una tablet o móvil Android en una Steam Deck para jugar a juegos de Steam</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/xiaomi-winplay-convierte-tablet-movil-android-steam-deck-jugar-juegos-steam-1437430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-lia-winplay-emulador-juegos-pc-android-perdida-rendimiento-4285505.jpg?tf=1200x' alt='Xiaomi WinPlay convierte una tablet o móvil Android en una Steam Deck para jugar a juegos de Steam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-1437367'>Frío, lluvias y nieve: estas son las apps que debes tener en tu móvil ante la ola de frío</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-1437367' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/frio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-friofrio-lluvias-nieve-estas-son-apps-debes-tener-movil-ola-frio-4285480.jpg?tf=1200x' alt='Frío, lluvias y nieve: estas son las apps que debes tener en tu móvil ante la ola de frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelo-chino-deepseek-r1-supera-openai-o1-benchmarks-clave-ia-1437400'>El modelo chino DeepSeek-R1 supera a OpenAI o1 en benchmarks clave de IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/modelo-chino-deepseek-r1-supera-openai-o1-benchmarks-clave-ia-1437400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-4285473.jpg?tf=1200x' alt='El modelo chino DeepSeek-R1 supera a OpenAI o1 en benchmarks clave de IA' />
     </a>
 </div>
 
