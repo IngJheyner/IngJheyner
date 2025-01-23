@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-estafa-mensaje-sms-caixabank-1437123'>Expertos en ciberseguridad alertan sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-estafa-mensaje-sms-caixabank-1437123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recibes-mensaje-caixabank-donde-pone-cuidado-estafa-4284994.jpg?tf=1200x' alt='Expertos en ciberseguridad alertan sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ordenadores-windows-10-podran-actualizar-windows-11-24h2-1437782'>¿Qué ordenadores con Windows 10 podrán actualizar a Windows 11 24H2?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ordenadores-windows-10-podran-actualizar-windows-11-24h2-1437782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-4283660.jpg?tf=1200x' alt='¿Qué ordenadores con Windows 10 podrán actualizar a Windows 11 24H2?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-hito-fotografia-canon-logra-crear-sensor-410-megapixeles-1437779'>Nuevo hito en la fotografía: Canon logra crear un sensor de 410 megapíxeles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-hito-fotografia-canon-logra-crear-sensor-410-megapixeles-1437779' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevo-hito-fotografia-canon-logra-crear-sensor-410-megapixeles-4286049.jpg?tf=1200x' alt='Nuevo hito en la fotografía: Canon logra crear un sensor de 410 megapíxeles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-intelligence-llega-ios-183-activa-automaticamente-iphone-compatibles-1437750'>Apple Intelligence llega a iOS 18.3: se activa automáticamente en los iPhone compatibles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-intelligence-llega-ios-183-activa-automaticamente-iphone-compatibles-1437750' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4286020.jpg?tf=1200x' alt='Apple Intelligence llega a iOS 18.3: se activa automáticamente en los iPhone compatibles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-vs-android-project-moohan-apuesta-samsung-google-compite-vision-pro-1437772'>Apple vs. Android: así es Project Moohan, la apuesta de Samsung y Google que compite con las Vision Pro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-vs-android-project-moohan-apuesta-samsung-google-compite-vision-pro-1437772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/project-moohan-gafas-samsung-4286037.jpg?tf=1200x' alt='Apple vs. Android: así es Project Moohan, la apuesta de Samsung y Google que compite con las Vision Pro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-sobreviviran-ia-1436113'>Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-sobreviviran-ia-1436113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-lidera-proyecto-giga-water-loop-pero-sirve-mega-estructura-futurista-1437749'>Elon Musk lidera el proyecto Giga Water Loop, pero ¿qué es y para qué sirve esta mega estructura futurista?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-lidera-proyecto-giga-water-loop-pero-sirve-mega-estructura-futurista-1437749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giga-water-loop-elon-musk-4286008.jpg?tf=1200x' alt='Elon Musk lidera el proyecto Giga Water Loop, pero ¿qué es y para qué sirve esta mega estructura futurista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/adios-test-turing-evaluar-agi-funciona-prueba-francois-chollet-1437745'>Adiós al Test de Turing para evaluar la AGI: así funciona la prueba de François Chollet</a></h4>
-    <a href='https://computerhoy.20minutos.es/adios-test-turing-evaluar-agi-funciona-prueba-francois-chollet-1437745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/francois-chollet-agi-4285993.jpg?tf=1200x' alt='Adiós al Test de Turing para evaluar la AGI: así funciona la prueba de François Chollet' />
     </a>
 </div>
 
