@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-1437944'>Día grande para las IPTV: las tecnológicas quieren acabar con el escudo europeo antipiratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-1437944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dia-grande-iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-4286343.jpg?tf=1200x' alt='Día grande para las IPTV: las tecnológicas quieren acabar con el escudo europeo antipiratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/bloquear-automaticamente-llamadas-spam-iphone-tocar-nada-1437930'>Ya puedes bloquear automáticamente las llamadas SPAM en iPhone sin tocar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/bloquear-automaticamente-llamadas-spam-iphone-tocar-nada-1437930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spam-iphone-4286321.jpg?tf=1200x' alt='Ya puedes bloquear automáticamente las llamadas SPAM en iPhone sin tocar nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-clave-exito-saber-utilizar-sencilla-palabra-no-1437895'>Elon Musk: la clave del éxito es saber utilizar una sencilla palabra: "NO"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-clave-exito-saber-utilizar-sencilla-palabra-no-1437895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-clave-exito-saber-utilizar-sencilla-palabra-no-4286325.jpg?tf=1200x' alt='Elon Musk: la clave del éxito es saber utilizar una sencilla palabra: "NO"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/increible-historia-como-kindle-perdido-encontro-nuevo-hogar-1437937'>La increíble historia de cómo un Kindle perdido encontró un nuevo hogar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/increible-historia-como-kindle-perdido-encontro-nuevo-hogar-1437937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/kindle-4286327.jpg?tf=1200x' alt='La increíble historia de cómo un Kindle perdido encontró un nuevo hogar' />
     </a>
 </div>
 
