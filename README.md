@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-movistar-plus-1424778'>Giro de 180 grados: canceladores en serie, el nuevo enemigo de Netflix, MAX, Prime Video o Movistar Plus+</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-movistar-plus-1424778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/canceladores-serie-netflix-hbo-max-prime-video-disney-apple-tv-4286028.jpg?tf=1200x' alt='Giro de 180 grados: canceladores en serie, el nuevo enemigo de Netflix, MAX, Prime Video o Movistar Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/instagram-cabrea-usuarios-eliminando-previo-aviso-funciones-utilizadas-1437809'>Instagram cabrea a los usuarios eliminando sin previo aviso una de las funciones más utilizadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/instagram-cabrea-usuarios-eliminando-previo-aviso-funciones-utilizadas-1437809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/instagram-cabrea-usuarios-eliminando-previo-aviso-funciones-utilizadas-4286098.jpg?tf=1200x' alt='Instagram cabrea a los usuarios eliminando sin previo aviso una de las funciones más utilizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/palo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Palo a los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/palo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-triste-porque-movistar-plus-ha-perdido-series-peliculas-4286114.jpg?tf=1200x' alt='Palo a los clientes de Movistar Plus+: adiós a cientos de series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646'>Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/partes-nintendo-switch-2-4285936.jpg?tf=1200x' alt='Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/chatgpt-vs-alia-diferencias-chatbot-openai-ia-publica-espanola-1437820'>ChatGPT vs. ALIA: diferencias entre el chatbot de OpenAI y la IA pública española</a></h4>
     <a href='https://computerhoy.20minutos.es/chatgpt-vs-alia-diferencias-chatbot-openai-ia-publica-espanola-1437820' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-vs-alia-4286112.jpg?tf=1200x' alt='ChatGPT vs. ALIA: diferencias entre el chatbot de OpenAI y la IA pública española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alta-tension-stargate-elon-musk-sam-altman-hacen-peligrar-proyecto-gusta-meterse-peleas-1437791'>Alta tensión en Stargate, Elon Musk y Sam Altman hacen peligrar el proyecto: "le gusta meterse en peleas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alta-tension-stargate-elon-musk-sam-altman-hacen-peligrar-proyecto-gusta-meterse-peleas-1437791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-sam-altman-4286067.jpg?tf=1200x' alt='Alta tensión en Stargate, Elon Musk y Sam Altman hacen peligrar el proyecto: "le gusta meterse en peleas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-estafa-mensaje-sms-caixabank-1437123'>Expertos en ciberseguridad alertan sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-estafa-mensaje-sms-caixabank-1437123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recibes-mensaje-caixabank-donde-pone-cuidado-estafa-4284994.jpg?tf=1200x' alt='Expertos en ciberseguridad alertan sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ordenadores-windows-10-podran-actualizar-windows-11-24h2-1437782'>¿Qué ordenadores con Windows 10 podrán actualizar a Windows 11 24H2?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ordenadores-windows-10-podran-actualizar-windows-11-24h2-1437782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-4283660.jpg?tf=1200x' alt='¿Qué ordenadores con Windows 10 podrán actualizar a Windows 11 24H2?' />
     </a>
 </div>
 
