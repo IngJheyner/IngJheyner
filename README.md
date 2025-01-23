@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646'>Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/partes-nintendo-switch-2-4285936.jpg?tf=1200x' alt='Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/chatgpt-vs-alia-diferencias-chatbot-openai-ia-publica-espanola-1437820'>ChatGPT vs. ALIA: diferencias entre el chatbot de OpenAI y la IA pública española</a></h4>
+    <a href='https://computerhoy.20minutos.es/chatgpt-vs-alia-diferencias-chatbot-openai-ia-publica-espanola-1437820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-vs-alia-4286112.jpg?tf=1200x' alt='ChatGPT vs. ALIA: diferencias entre el chatbot de OpenAI y la IA pública española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alta-tension-stargate-elon-musk-sam-altman-hacen-peligrar-proyecto-gusta-meterse-peleas-1437791'>Alta tensión en Stargate, Elon Musk y Sam Altman hacen peligrar el proyecto: "le gusta meterse en peleas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alta-tension-stargate-elon-musk-sam-altman-hacen-peligrar-proyecto-gusta-meterse-peleas-1437791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-sam-altman-4286067.jpg?tf=1200x' alt='Alta tensión en Stargate, Elon Musk y Sam Altman hacen peligrar el proyecto: "le gusta meterse en peleas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-estafa-mensaje-sms-caixabank-1437123'>Expertos en ciberseguridad alertan sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/agencia-ciberseguridad-estafa-mensaje-sms-caixabank-1437123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/recibes-mensaje-caixabank-donde-pone-cuidado-estafa-4284994.jpg?tf=1200x' alt='Expertos en ciberseguridad alertan sobre un mensaje SMS de CaixaBank en donde pone esto, es una estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/ordenadores-windows-10-podran-actualizar-windows-11-24h2-1437782'>¿Qué ordenadores con Windows 10 podrán actualizar a Windows 11 24H2?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/ordenadores-windows-10-podran-actualizar-windows-11-24h2-1437782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-sorprendente-windows-10-expertos-recomiendan-actualizar-ahora-mismo-no-esperes-4283660.jpg?tf=1200x' alt='¿Qué ordenadores con Windows 10 podrán actualizar a Windows 11 24H2?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevo-hito-fotografia-canon-logra-crear-sensor-410-megapixeles-1437779'>Nuevo hito en la fotografía: Canon logra crear un sensor de 410 megapíxeles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevo-hito-fotografia-canon-logra-crear-sensor-410-megapixeles-1437779' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nuevo-hito-fotografia-canon-logra-crear-sensor-410-megapixeles-4286049.jpg?tf=1200x' alt='Nuevo hito en la fotografía: Canon logra crear un sensor de 410 megapíxeles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-intelligence-llega-ios-183-activa-automaticamente-iphone-compatibles-1437750'>Apple Intelligence llega a iOS 18.3: se activa automáticamente en los iPhone compatibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-intelligence-llega-ios-183-activa-automaticamente-iphone-compatibles-1437750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4286020.jpg?tf=1200x' alt='Apple Intelligence llega a iOS 18.3: se activa automáticamente en los iPhone compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-vs-android-project-moohan-apuesta-samsung-google-compite-vision-pro-1437772'>Apple vs. Android: así es Project Moohan, la apuesta de Samsung y Google que compite con las Vision Pro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-vs-android-project-moohan-apuesta-samsung-google-compite-vision-pro-1437772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/project-moohan-gafas-samsung-4286037.jpg?tf=1200x' alt='Apple vs. Android: así es Project Moohan, la apuesta de Samsung y Google que compite con las Vision Pro' />
     </a>
 </div>
 
