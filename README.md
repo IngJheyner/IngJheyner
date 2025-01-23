@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/sorprendente-descubrimiento-nasa-groenlandia-obsesiona-donald-trump-1437870'>El sorprendente descubrimiento de la NASA en Groenlandia que obsesiona a Donald Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/sorprendente-descubrimiento-nasa-groenlandia-obsesiona-donald-trump-1437870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ciudad-nuclear-groenlandia-4286192.jpg?tf=1200x' alt='El sorprendente descubrimiento de la NASA en Groenlandia que obsesiona a Donald Trump' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-air-google-pixel-primera-imagen-filtrada-nuevo-iphone-vuelve-dejar-evidencia-apple-1437800'>iPhone 17 Air o Google Pixel: la primera imagen filtrada del nuevo iPhone vuelve a dejar en evidencia a Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-air-google-pixel-primera-imagen-filtrada-nuevo-iphone-vuelve-dejar-evidencia-apple-1437800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-pixel-9-iphone-4286093.jpg?tf=1200x' alt='iPhone 17 Air o Google Pixel: la primera imagen filtrada del nuevo iPhone vuelve a dejar en evidencia a Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nintendo-obliga-hacker-entregar-30-sueldo-vida-1437768'>Nintendo obliga a un hacker a entregar hasta el 30% de su sueldo de por vida</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nintendo-obliga-hacker-entregar-30-sueldo-vida-1437768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-4286059.jpg?tf=1200x' alt='Nintendo obliga a un hacker a entregar hasta el 30% de su sueldo de por vida' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/movistar-plus-desmarca-estreno-dos-series-policiacas-daran-mucho-hablar-1437847'>Movistar Plus+ se desmarca con el estreno de dos series policiacas que darán mucho que hablar</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/movistar-plus-desmarca-estreno-dos-series-policiacas-daran-mucho-hablar-1437847' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/serie-rebus-movistar-4286103.jpg?tf=1200x' alt='Movistar Plus+ se desmarca con el estreno de dos series policiacas que darán mucho que hablar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-regresa-google-version-ultravitaminada-acabar-iptv-1437868'>TDTChannels regresa a Google con una versión ultravitaminada para acabar con las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-regresa-google-version-ultravitaminada-acabar-iptv-1437868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tdtchannels-regresa-google-version-ultravitaminada-acabar-iptv-4286214.jpg?tf=1200x' alt='TDTChannels regresa a Google con una versión ultravitaminada para acabar con las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-robos-coches-ciudad-ha-empezado-regalar-airtags-ciudadanos-1437793'>Adiós a los robos de coches: esta ciudad ha empezado a regalar AirTags a los ciudadanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-robos-coches-ciudad-ha-empezado-regalar-airtags-ciudadanos-1437793' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-robos-coches-ciudad-ha-empezado-regalar-airtags-ciudadanos-4286074.jpg?tf=1200x' alt='Adiós a los robos de coches: esta ciudad ha empezado a regalar AirTags a los ciudadanos' />
     </a>
 </div>
 
