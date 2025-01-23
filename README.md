@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/amazon-quiere-agotar-roomba-aspira-friega-deja-mitad-precio-1437685'>Amazon quiere agotar la Roomba que aspira y friega: la deja a mitad de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/amazon-quiere-agotar-roomba-aspira-friega-deja-mitad-precio-1437685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/irobot-roomba-combo-2-essential-4285916.jpg?tf=1200x' alt='Amazon quiere agotar la Roomba que aspira y friega: la deja a mitad de precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/palo-netflix-disney-80-television-ve-espana-tdt-1437712'>Palo a Netflix y Disney+: el 80% de la televisión que se ve en España es en la TDT</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/palo-netflix-disney-80-television-ve-espana-tdt-1437712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-netflix-disney-80-television-ve-espana-tdt-4285949.jpg?tf=1200x' alt='Palo a Netflix y Disney+: el 80% de la televisión que se ve en España es en la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477'>"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4285628.jpg?tf=1200x' alt='"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-confirma-punto-debil-movil-no-ni-wifi-ni-bluetooth-cajon-1437566'>Experto en ciberseguridad confirma que el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-confirma-punto-debil-movil-no-ni-wifi-ni-bluetooth-cajon-1437566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cable-usb-c-4285740.jpg?tf=1200x' alt='Experto en ciberseguridad confirma que el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558'>ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-4285737.jpg?tf=1200x' alt='ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció' />
     </a>
 </div>
 
