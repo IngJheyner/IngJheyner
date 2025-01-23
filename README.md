@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ultimamente-tan-mal-1437665'>¿Por qué Android Auto funciona últimamente tan mal?</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ultimamente-tan-mal-1437665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-funciona-ultimamente-tan-mal-4285924.jpg?tf=1200x' alt='¿Por qué Android Auto funciona últimamente tan mal?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-modifica-sistema-inicio-sesion-seguro-1437669'>Microsoft modifica su sistema de inicio de sesión: ¿es esto seguro?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-modifica-sistema-inicio-sesion-seguro-1437669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/persona-enfadada-usar-portatil-sistema-microsoft-4285895.jpg?tf=1200x' alt='Microsoft modifica su sistema de inicio de sesión: ¿es esto seguro?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-elimina-silenciosamente-funcion-clave-word-te-encanta-1437663'>Microsoft elimina silenciosamente una función clave de Word que te encanta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-elimina-silenciosamente-funcion-clave-word-te-encanta-1437663' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-word-4285883.jpg?tf=1200x' alt='Microsoft elimina silenciosamente una función clave de Word que te encanta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
     </a>
 </div>
 
