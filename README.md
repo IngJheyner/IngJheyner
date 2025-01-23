@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699'>Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-invierte-1000-millones-antrophic-mayor-rival-openai-4285939.jpg?tf=1200x' alt='Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/samsung-galaxy-25-actualizaciones-android-15-1437694'>Samsung Galaxy 25 estrena todas estas actualizaciones de Android 15</a></h4>
     <a href='https://computerhoy.20minutos.es/android/samsung-galaxy-25-actualizaciones-android-15-1437694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4285247.jpg?tf=1200x' alt='Samsung Galaxy 25 estrena todas estas actualizaciones de Android 15' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/pc-windows-11-ahora-super-router-actualizacion-revoluciona-wifi-1437667'>¡Tu PC con Windows 11 ahora es un súper router! La actualización que revoluciona el WiFi</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/pc-windows-11-ahora-super-router-actualizacion-revoluciona-wifi-1437667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/wifi-pc-4285884.jpg?tf=1200x' alt='¡Tu PC con Windows 11 ahora es un súper router! La actualización que revoluciona el WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-encuentra-forma-hacer-linux-sea-rapido-seguro-1437617'>Linus Torvalds encuentra la forma de hacer que Linux sea más rápido y seguro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linus-torvalds-encuentra-forma-hacer-linux-sea-rapido-seguro-1437617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/linus-torvalds-encuentra-forma-hacer-linux-sea-rapido-seguro-4285878.jpg?tf=1200x' alt='Linus Torvalds encuentra la forma de hacer que Linux sea más rápido y seguro' />
     </a>
 </div>
 
