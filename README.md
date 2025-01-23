@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-sobreviviran-ia-1436113'>Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-sobreviviran-ia-1436113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-lidera-proyecto-giga-water-loop-pero-sirve-mega-estructura-futurista-1437749'>Elon Musk lidera el proyecto Giga Water Loop, pero ¿qué es y para qué sirve esta mega estructura futurista?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-lidera-proyecto-giga-water-loop-pero-sirve-mega-estructura-futurista-1437749' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giga-water-loop-elon-musk-4286008.jpg?tf=1200x' alt='Elon Musk lidera el proyecto Giga Water Loop, pero ¿qué es y para qué sirve esta mega estructura futurista?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/adios-test-turing-evaluar-agi-funciona-prueba-francois-chollet-1437745'>Adiós al Test de Turing para evaluar la AGI: así funciona la prueba de François Chollet</a></h4>
     <a href='https://computerhoy.20minutos.es/adios-test-turing-evaluar-agi-funciona-prueba-francois-chollet-1437745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/francois-chollet-agi-4285993.jpg?tf=1200x' alt='Adiós al Test de Turing para evaluar la AGI: así funciona la prueba de François Chollet' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/amazon-quiere-agotar-roomba-aspira-friega-deja-mitad-precio-1437685'>Amazon quiere agotar la Roomba que aspira y friega: la deja a mitad de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/amazon-quiere-agotar-roomba-aspira-friega-deja-mitad-precio-1437685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/irobot-roomba-combo-2-essential-4285916.jpg?tf=1200x' alt='Amazon quiere agotar la Roomba que aspira y friega: la deja a mitad de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/palo-netflix-disney-80-television-ve-espana-tdt-1437712'>Palo a Netflix y Disney+: el 80% de la televisión que se ve en España es en la TDT</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/palo-netflix-disney-80-television-ve-espana-tdt-1437712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/palo-netflix-disney-80-television-ve-espana-tdt-4285949.jpg?tf=1200x' alt='Palo a Netflix y Disney+: el 80% de la televisión que se ve en España es en la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
     </a>
 </div>
 
