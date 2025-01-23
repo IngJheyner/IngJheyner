@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936'>Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peor-hora-dia-cargar-movil-todo-mundo-usa-4286354.jpg?tf=1200x' alt='Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-1437944'>Día grande para las IPTV: las tecnológicas quieren acabar con el escudo europeo antipiratería</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-1437944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dia-grande-iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-4286343.jpg?tf=1200x' alt='Día grande para las IPTV: las tecnológicas quieren acabar con el escudo europeo antipiratería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-falso-gestor-te-despluma-cuenta-banco-sms-1437938'>La policía advierte sobre la "estafa del falso gestor": te despluma la cuenta del banco con un SMS</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-falso-gestor-te-despluma-cuenta-banco-sms-1437938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-bancaria-4286329.jpg?tf=1200x' alt='La policía advierte sobre la "estafa del falso gestor": te despluma la cuenta del banco con un SMS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-clave-exito-saber-utilizar-sencilla-palabra-no-1437895'>Elon Musk: la clave del éxito es saber utilizar una sencilla palabra: "NO"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-clave-exito-saber-utilizar-sencilla-palabra-no-1437895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-clave-exito-saber-utilizar-sencilla-palabra-no-4286325.jpg?tf=1200x' alt='Elon Musk: la clave del éxito es saber utilizar una sencilla palabra: "NO"' />
     </a>
 </div>
 
