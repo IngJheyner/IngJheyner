@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/adios-test-turing-evaluar-agi-funciona-prueba-francois-chollet-1437745'>Adiós al Test de Turing para evaluar la AGI: así funciona la prueba de François Chollet</a></h4>
+    <a href='https://computerhoy.20minutos.es/adios-test-turing-evaluar-agi-funciona-prueba-francois-chollet-1437745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/francois-chollet-agi-4285993.jpg?tf=1200x' alt='Adiós al Test de Turing para evaluar la AGI: así funciona la prueba de François Chollet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/gta-vi-podria-costar-100-euros-adios-formato-fisico-aranceles-donald-trump-1437738'>GTA VI podría costar 100 euros y adiós al formato físico: los aranceles de Donald Trump, la excusa perfecta para la industria</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/gta-vi-podria-costar-100-euros-adios-formato-fisico-aranceles-donald-trump-1437738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-6-lucia-3243066.jpg?tf=1200x' alt='GTA VI podría costar 100 euros y adiós al formato físico: los aranceles de Donald Trump, la excusa perfecta para la industria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/amazon-quiere-agotar-roomba-aspira-friega-deja-mitad-precio-1437685'>Amazon quiere agotar la Roomba que aspira y friega: la deja a mitad de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/amazon-quiere-agotar-roomba-aspira-friega-deja-mitad-precio-1437685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/irobot-roomba-combo-2-essential-4285916.jpg?tf=1200x' alt='Amazon quiere agotar la Roomba que aspira y friega: la deja a mitad de precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-x200-pro-movil-sobresaliente-buscas-rey-fotografia-1435481'>He probado el Vivo X200 Pro, un móvil más que sobresaliente si buscas al rey de la fotografía</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-x200-pro-movil-sobresaliente-buscas-rey-fotografia-1435481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vivo-x200-pro-4284951.jpg?tf=1200x' alt='He probado el Vivo X200 Pro, un móvil más que sobresaliente si buscas al rey de la fotografía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477'>"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4285628.jpg?tf=1200x' alt='"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible' />
     </a>
 </div>
 
