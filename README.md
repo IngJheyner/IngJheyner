@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477'>"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4285628.jpg?tf=1200x' alt='"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-confirma-punto-debil-movil-no-ni-wifi-ni-bluetooth-cajon-1437566'>Experto en ciberseguridad confirma que el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-confirma-punto-debil-movil-no-ni-wifi-ni-bluetooth-cajon-1437566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cable-usb-c-4285740.jpg?tf=1200x' alt='Experto en ciberseguridad confirma que el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558'>ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-4285737.jpg?tf=1200x' alt='ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699'>Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-invierte-1000-millones-antrophic-mayor-rival-openai-4285939.jpg?tf=1200x' alt='Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/samsung-galaxy-25-actualizaciones-android-15-1437694'>Samsung Galaxy 25 estrena todas estas actualizaciones de Android 15</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/samsung-galaxy-25-actualizaciones-android-15-1437694' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4285247.jpg?tf=1200x' alt='Samsung Galaxy 25 estrena todas estas actualizaciones de Android 15' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ultimamente-tan-mal-1437665'>¿Por qué Android Auto funciona últimamente tan mal?</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ultimamente-tan-mal-1437665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-funciona-ultimamente-tan-mal-4285924.jpg?tf=1200x' alt='¿Por qué Android Auto funciona últimamente tan mal?' />
     </a>
 </div>
 
