@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/buenas-noticias-windows-10-actualizacion-gratis-siempre-1437913'>Buenas noticias si todavía usas Windows 10: la actualización será gratis para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/buenas-noticias-windows-10-actualizacion-gratis-siempre-1437913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-gratis-4286250.jpg?tf=1200x' alt='Buenas noticias si todavía usas Windows 10: la actualización será gratis para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jarro-agua-fria-clientes-digi-descubren-punto-debil-1437828'>Jarro de agua fría para los clientes de DIGI: descubren su punto débil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jarro-agua-fria-clientes-digi-descubren-punto-debil-1437828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-4286132.jpg?tf=1200x' alt='Jarro de agua fría para los clientes de DIGI: descubren su punto débil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/sorprendente-descubrimiento-nasa-groenlandia-obsesiona-donald-trump-1437870'>El sorprendente descubrimiento de la NASA en Groenlandia que obsesiona a Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/sorprendente-descubrimiento-nasa-groenlandia-obsesiona-donald-trump-1437870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ciudad-nuclear-groenlandia-4286192.jpg?tf=1200x' alt='El sorprendente descubrimiento de la NASA en Groenlandia que obsesiona a Donald Trump' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nintendo-obliga-hacker-entregar-30-sueldo-vida-1437768'>Nintendo obliga a un hacker a entregar hasta el 30% de su sueldo de por vida</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nintendo-obliga-hacker-entregar-30-sueldo-vida-1437768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-4286059.jpg?tf=1200x' alt='Nintendo obliga a un hacker a entregar hasta el 30% de su sueldo de por vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/google-aprieta-rebaja-cascos-avanzados-ya-rozan-200-euros-1437758'>Google aprieta y rebaja sus cascos más avanzados: ya rozan los 200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/google-aprieta-rebaja-cascos-avanzados-ya-rozan-200-euros-1437758' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-pixel-buds-pro-2-4286006.jpg?tf=1200x' alt='Google aprieta y rebaja sus cascos más avanzados: ya rozan los 200 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/movistar-plus-desmarca-estreno-dos-series-policiacas-daran-mucho-hablar-1437847'>Movistar Plus+ se desmarca con el estreno de dos series policiacas que darán mucho que hablar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/movistar-plus-desmarca-estreno-dos-series-policiacas-daran-mucho-hablar-1437847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/serie-rebus-movistar-4286103.jpg?tf=1200x' alt='Movistar Plus+ se desmarca con el estreno de dos series policiacas que darán mucho que hablar' />
     </a>
 </div>
 
