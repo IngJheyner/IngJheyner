@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558'>ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-4285737.jpg?tf=1200x' alt='ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-desvela-beneficios-dormir-postura-astronauta-acabar-insomnio-1437505'>La NASA desvela los beneficios de dormir en la postura del astronauta para acabar con el insomnio </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-desvela-beneficios-dormir-postura-astronauta-acabar-insomnio-1437505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/astronauta-4285650.jpg?tf=1200x' alt='La NASA desvela los beneficios de dormir en la postura del astronauta para acabar con el insomnio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699'>Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-invierte-1000-millones-antrophic-mayor-rival-openai-4285939.jpg?tf=1200x' alt='Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ultimamente-tan-mal-1437665'>¿Por qué Android Auto funciona últimamente tan mal?</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-auto-funciona-ultimamente-tan-mal-1437665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-funciona-ultimamente-tan-mal-4285924.jpg?tf=1200x' alt='¿Por qué Android Auto funciona últimamente tan mal?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-modifica-sistema-inicio-sesion-seguro-1437669'>Microsoft modifica su sistema de inicio de sesión: ¿es esto seguro?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-modifica-sistema-inicio-sesion-seguro-1437669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/persona-enfadada-usar-portatil-sistema-microsoft-4285895.jpg?tf=1200x' alt='Microsoft modifica su sistema de inicio de sesión: ¿es esto seguro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/pc-windows-11-ahora-super-router-actualizacion-revoluciona-wifi-1437667'>¡Tu PC con Windows 11 ahora es un súper router! La actualización que revoluciona el WiFi</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/pc-windows-11-ahora-super-router-actualizacion-revoluciona-wifi-1437667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/wifi-pc-4285884.jpg?tf=1200x' alt='¡Tu PC con Windows 11 ahora es un súper router! La actualización que revoluciona el WiFi' />
     </a>
 </div>
 
