@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/reddit-guerra-x-elon-musk-han-empezado-prohibir-enlaces-1437725'>Reddit está en guerra contra el X de Elon Musk y han empezado a prohibir sus enlaces</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/reddit-guerra-x-elon-musk-han-empezado-prohibir-enlaces-1437725' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reddit-guerra-contar-x-elon-musk-han-empezado-prohibir-enlaces-4285995.jpg?tf=1200x' alt='Reddit está en guerra contra el X de Elon Musk y han empezado a prohibir sus enlaces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-movistar-plus-1424778'>Giro de 180 grados: canceladores en serie, el nuevo enemigo de Netflix, MAX, Prime Video o Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/canceladores-series-asi-mayor-enemigo-netflix-max-prime-video-movistar-plus-1424778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/canceladores-serie-netflix-hbo-max-prime-video-disney-apple-tv-4286028.jpg?tf=1200x' alt='Giro de 180 grados: canceladores en serie, el nuevo enemigo de Netflix, MAX, Prime Video o Movistar Plus+' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646'>Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/partes-nintendo-switch-2-4285936.jpg?tf=1200x' alt='Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/chatgpt-vs-alia-diferencias-chatbot-openai-ia-publica-espanola-1437820'>ChatGPT vs. ALIA: diferencias entre el chatbot de OpenAI y la IA pública española</a></h4>
-    <a href='https://computerhoy.20minutos.es/chatgpt-vs-alia-diferencias-chatbot-openai-ia-publica-espanola-1437820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-vs-alia-4286112.jpg?tf=1200x' alt='ChatGPT vs. ALIA: diferencias entre el chatbot de OpenAI y la IA pública española' />
     </a>
 </div>
 
