@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006'>Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-primera-funda-oficial-magnetica-1436006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-funda-magsafe-4285244.jpg?tf=1200x' alt='Los Samsung Galaxy S25 incorporan carga inalámbrica magnética MagSafe gracias a esta funda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-x200-pro-movil-sobresaliente-buscas-rey-fotografia-1435481'>He probado el Vivo X200 Pro, un móvil más que sobresaliente si buscas al rey de la fotografía</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-vivo-x200-pro-movil-sobresaliente-buscas-rey-fotografia-1435481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vivo-x200-pro-4284951.jpg?tf=1200x' alt='He probado el Vivo X200 Pro, un móvil más que sobresaliente si buscas al rey de la fotografía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477'>"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/todos-tendremos-bill-gates-senala-cual-dispositivo-futuro-pronto-sera-imprescindible-1437477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4285628.jpg?tf=1200x' alt='"Todos tendremos uno": Bill Gates señala cuál es el dispositivo del futuro que pronto será imprescindible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558'>ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-1437558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-creo-empresa-100-euros-ayuda-ia-gano-mucho-dinero-luego-desaparecio-4285737.jpg?tf=1200x' alt='ChatGPT: creó una empresa con 100 euros y la ayuda de la IA, ganó mucho dinero y luego desapareció' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-desvela-beneficios-dormir-postura-astronauta-acabar-insomnio-1437505'>La NASA desvela los beneficios de dormir en la postura del astronauta para acabar con el insomnio </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-desvela-beneficios-dormir-postura-astronauta-acabar-insomnio-1437505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/astronauta-4285650.jpg?tf=1200x' alt='La NASA desvela los beneficios de dormir en la postura del astronauta para acabar con el insomnio ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699'>Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-invierte-1000-millones-antrophic-mayor-rival-openai-1437699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-invierte-1000-millones-antrophic-mayor-rival-openai-4285939.jpg?tf=1200x' alt='Google invierte 1.000 millones en Antrophic, el mayor rival de OpenAI' />
     </a>
 </div>
 
