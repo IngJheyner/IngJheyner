@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-robos-coches-ciudad-ha-empezado-regalar-airtags-ciudadanos-1437793'>Adiós a los robos de coches: esta ciudad ha empezado a regalar AirTags a los ciudadanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-robos-coches-ciudad-ha-empezado-regalar-airtags-ciudadanos-1437793' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-robos-coches-ciudad-ha-empezado-regalar-airtags-ciudadanos-4286074.jpg?tf=1200x' alt='Adiós a los robos de coches: esta ciudad ha empezado a regalar AirTags a los ciudadanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/reddit-guerra-x-elon-musk-han-empezado-prohibir-enlaces-1437725'>Reddit está en guerra contra el X de Elon Musk y han empezado a prohibir sus enlaces</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/reddit-guerra-x-elon-musk-han-empezado-prohibir-enlaces-1437725' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reddit-guerra-contar-x-elon-musk-han-empezado-prohibir-enlaces-4285995.jpg?tf=1200x' alt='Reddit está en guerra contra el X de Elon Musk y han empezado a prohibir sus enlaces' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/palo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Palo a los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/palo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-triste-porque-movistar-plus-ha-perdido-series-peliculas-4286114.jpg?tf=1200x' alt='Palo a los clientes de Movistar Plus+: adiós a cientos de series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646'>Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-no-copia-primera-consola-estas-son-todas-novedades-no-has-visto-1437646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/partes-nintendo-switch-2-4285936.jpg?tf=1200x' alt='Nintendo Switch 2 no es una copia de la primera consola: estas son todas las novedades que no has visto' />
     </a>
 </div>
 
