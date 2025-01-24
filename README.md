@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289'>El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284906.jpg?tf=1200x' alt='El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/canon-eos-r5-mark-ii-1435466'>La Canon EOS R5 Mark II es la cámara más profesional que he probado y apta para aficionados, si pagas más de 4.000 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/canon-eos-r5-mark-ii-1435466' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/canon-eos-r5-mark-ii-4283181.jpg?tf=1200x' alt='La Canon EOS R5 Mark II es la cámara más profesional que he probado y apta para aficionados, si pagas más de 4.000 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-1437691'>Empresa de seguridad contrata a un hacker norcoreano pensando que era un simple ingeniero</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-1437691' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-4285935.jpg?tf=1200x' alt='Empresa de seguridad contrata a un hacker norcoreano pensando que era un simple ingeniero' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-estas-6-aplicaciones-movil-podrian-poner-peligro-datos-cuenta-bancaria-1437796'>Cuidado con estas 6 aplicaciones de tu móvil, podrían poner en peligro tus datos y tu cuenta bancaria</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-estas-6-aplicaciones-movil-podrian-poner-peligro-datos-cuenta-bancaria-1437796' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/moviles-4286084.jpg?tf=1200x' alt='Cuidado con estas 6 aplicaciones de tu móvil, podrían poner en peligro tus datos y tu cuenta bancaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-fanboys-estalla-fuera-control-otra-vez-1437806'>Sam Altman se cansa de los fanboys y estalla: "está fuera de control, otra vez"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-fanboys-estalla-fuera-control-otra-vez-1437806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4286116.jpg?tf=1200x' alt='Sam Altman se cansa de los fanboys y estalla: "está fuera de control, otra vez"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-desagradable-decision-bill-gates-cuando-pidieron-llevara-algo-interesante-colegio-1437848'>La sorprendente (y desagradable) decisión de Bill Gates cuando le pidieron que llevara "algo interesante" al colegio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-desagradable-decision-bill-gates-cuando-pidieron-llevara-algo-interesante-colegio-1437848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4286163.jpg?tf=1200x' alt='La sorprendente (y desagradable) decisión de Bill Gates cuando le pidieron que llevara "algo interesante" al colegio' />
     </a>
 </div>
 
