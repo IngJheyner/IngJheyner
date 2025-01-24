@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/apps-peligro-pantalla-inicio-movil-experta-1435119'>Revisa tu móvil: estas son las apps que no deberías tener en la pantalla de inicio, según una experta en seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/apps-peligro-pantalla-inicio-movil-experta-1435119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peligro-apps-pantalla-inicio-movil-4286591.jpg?tf=1200x' alt='Revisa tu móvil: estas son las apps que no deberías tener en la pantalla de inicio, según una experta en seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/jugando-microsoft-windows-10-ultimos-movimientos-desconciertan-usuarios-1438046'>¿A qué está jugando Microsoft con Windows 10? Los últimos movimientos desconciertan a los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/jugando-microsoft-windows-10-ultimos-movimientos-desconciertan-usuarios-1438046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='¿A qué está jugando Microsoft con Windows 10? Los últimos movimientos desconciertan a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-no-compatibles-febrero-2025-1436250'>WhatsApp no funciona: dejará de funcionar en estos móviles a partir del 1 de febrero de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-no-compatibles-febrero-2025-1436250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='WhatsApp no funciona: dejará de funcionar en estos móviles a partir del 1 de febrero de 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-operator-sueno-ia-hace-sola-tareas-decirle-nada-hace-realidad-1438042'>OpenAI lanza Operator: el sueño de una IA que hace sola nuestras tareas sin decirle nada se hace realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-operator-sueno-ia-hace-sola-tareas-decirle-nada-hace-realidad-1438042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-lanza-operator-4286507.jpg?tf=1200x' alt='OpenAI lanza Operator: el sueño de una IA que hace sola nuestras tareas sin decirle nada se hace realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-va-todas-reloj-inteligente-vendido-rebajadisimo-aliexpress-1437922'>Xiaomi va a por todas: su reloj inteligente más vendido está rebajadísimo en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-va-todas-reloj-inteligente-vendido-rebajadisimo-aliexpress-1437922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-watch-5-lite-4286277.jpg?tf=1200x' alt='Xiaomi va a por todas: su reloj inteligente más vendido está rebajadísimo en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lanza-nuevo-model-juniper-espana-precio-novedades-1438033'>Tesla lanza el nuevo Model Y Juniper en España: este es su precio y novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-lanza-nuevo-model-juniper-espana-precio-novedades-1438033' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-lanza-nuevo-model-juniper-espana-precio-novedades-4286474.jpg?tf=1200x' alt='Tesla lanza el nuevo Model Y Juniper en España: este es su precio y novedades' />
     </a>
 </div>
 
