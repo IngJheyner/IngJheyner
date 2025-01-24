@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-1437691'>Empresa de seguridad contrata a un hacker norcoreano pensando que era un simple ingeniero</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-1437691' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-4285935.jpg?tf=1200x' alt='Empresa de seguridad contrata a un hacker norcoreano pensando que era un simple ingeniero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-1437834'>Movistar Plus+ ha realizado un cambio muy importante, pero seguramente no te has dado cuenta de ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-1437834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-4286126.jpg?tf=1200x' alt='Movistar Plus+ ha realizado un cambio muy importante, pero seguramente no te has dado cuenta de ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-estas-6-aplicaciones-movil-podrian-poner-peligro-datos-cuenta-bancaria-1437796'>Cuidado con estas 6 aplicaciones de tu móvil, podrían poner en peligro tus datos y tu cuenta bancaria</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-estas-6-aplicaciones-movil-podrian-poner-peligro-datos-cuenta-bancaria-1437796' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/moviles-4286084.jpg?tf=1200x' alt='Cuidado con estas 6 aplicaciones de tu móvil, podrían poner en peligro tus datos y tu cuenta bancaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-fanboys-estalla-fuera-control-otra-vez-1437806'>Sam Altman se cansa de los fanboys y estalla: "está fuera de control, otra vez"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-fanboys-estalla-fuera-control-otra-vez-1437806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4286116.jpg?tf=1200x' alt='Sam Altman se cansa de los fanboys y estalla: "está fuera de control, otra vez"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-desagradable-decision-bill-gates-cuando-pidieron-llevara-algo-interesante-colegio-1437848'>La sorprendente (y desagradable) decisión de Bill Gates cuando le pidieron que llevara "algo interesante" al colegio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-desagradable-decision-bill-gates-cuando-pidieron-llevara-algo-interesante-colegio-1437848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4286163.jpg?tf=1200x' alt='La sorprendente (y desagradable) decisión de Bill Gates cuando le pidieron que llevara "algo interesante" al colegio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/ranking-marcas-valiosas-mundo-2025-donde-quedan-zara-mercadona-1437972'>Ranking de las marcas más valiosas del mundo en 2025: ¿Dónde quedan Zara y Mercadona?</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/ranking-marcas-valiosas-mundo-2025-donde-quedan-zara-mercadona-1437972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ranking-marcas-valiosas-mundo-2025-tambien-espana-4286378.jpg?tf=1200x' alt='Ranking de las marcas más valiosas del mundo en 2025: ¿Dónde quedan Zara y Mercadona?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-1437964'>Android 16 estrena su primera beta pública, con más IA y mejor soporte para tablets y plegables</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-1437964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-4286350.jpg?tf=1200x' alt='Android 16 estrena su primera beta pública, con más IA y mejor soporte para tablets y plegables' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936'>Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peor-hora-dia-cargar-movil-todo-mundo-usa-4286354.jpg?tf=1200x' alt='Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa' />
     </a>
 </div>
 
