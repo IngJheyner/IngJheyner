@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-1438081'>"Evita muchas estafas": La tecla del cajero automático que siempre debes pulsar después de sacar dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-1438081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-4286546.jpg?tf=1200x' alt='"Evita muchas estafas": La tecla del cajero automático que siempre debes pulsar después de sacar dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075'>Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4286568.jpg?tf=1200x' alt='Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-1438058'>iOS 18.3 habría filtrado sin querer hasta tres nuevos productos de Apple y el iPhone SE 4 sería uno de ellos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-1438058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-4286525.jpg?tf=1200x' alt='iOS 18.3 habría filtrado sin querer hasta tres nuevos productos de Apple y el iPhone SE 4 sería uno de ellos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-1438100'>Vuelco radical para Huawei: España no usará su tecnología 5G</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-1438100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-4286572.jpg?tf=1200x' alt='Vuelco radical para Huawei: España no usará su tecnología 5G' />
     </a>
 </div>
 
