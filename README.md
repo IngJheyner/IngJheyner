@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179'>Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-4286735.jpg?tf=1200x' alt='Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-juega-ser-dios-simula-500-millones-anos-evolucion-segundos-1438193'>¡La IA ya juega a ser Dios! Simula 500 millones de años de evolución en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-juega-ser-dios-simula-500-millones-anos-evolucion-segundos-1438193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/evolucion-humana-4286729.jpg?tf=1200x' alt='¡La IA ya juega a ser Dios! Simula 500 millones de años de evolución en segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-hace-pasar-banco-vaciar-cuenta-avisa-banco-espana-1438187'>TrickMo, el virus que se hace pasar por tu banco para vaciar tu cuenta, avisa el Banco de España</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-hace-pasar-banco-vaciar-cuenta-avisa-banco-espana-1438187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-tarjeta-bancaria-4286714.jpg?tf=1200x' alt='TrickMo, el virus que se hace pasar por tu banco para vaciar tu cuenta, avisa el Banco de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-agua-ni-zumos-bebida-saludable-cuerpo-humano-ciencia-1438094'>Ni agua ni zumos, esta es la bebida más saludable para el cuerpo humano, según la ciencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ni-agua-ni-zumos-bebida-saludable-cuerpo-humano-ciencia-1438094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hidratacion-4286586.jpg?tf=1200x' alt='Ni agua ni zumos, esta es la bebida más saludable para el cuerpo humano, según la ciencia' />
     </a>
 </div>
 
