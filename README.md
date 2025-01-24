@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafa-no-devolucion-timo-te-afecta-solo-comprar-internet-aunque-no-hayas-hecho-nada-1438029'>La estafa de la no devolución, el timo que te afecta solo por comprar en internet, aunque no hayas hecho nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estafa-no-devolucion-timo-te-afecta-solo-comprar-internet-aunque-no-hayas-hecho-nada-1438029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-no-devolucion-4286505.jpg?tf=1200x' alt='La estafa de la no devolución, el timo que te afecta solo por comprar en internet, aunque no hayas hecho nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/whatsapp-integra-instagram-facebook-centro-cuentas-meta-malo-1438114'>WhatsApp se integra con Instagram y Facebook en el Centro de Cuentas de Meta: ¿es tan malo para ti como parece?</a></h4>
+    <a href='https://computerhoy.20minutos.es/whatsapp-integra-instagram-facebook-centro-cuentas-meta-malo-1438114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-instagram-facebook-4286637.jpg?tf=1200x' alt='WhatsApp se integra con Instagram y Facebook en el Centro de Cuentas de Meta: ¿es tan malo para ti como parece?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/vuelco-usuarios-ven-futbol-gratis-iptv-desvelan-cuatro-formas-pueden-rastrearte-multarte-1438140'>Vuelco para usuarios que ven fútbol gratis por IPTV: desvelan cuatro formas en que pueden rastrearte y multarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/vuelco-usuarios-ven-futbol-gratis-iptv-desvelan-cuatro-formas-pueden-rastrearte-multarte-1438140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-usuarios-ven-futbol-gratis-iptv-desvelan-cuatro-formas-pueden-rastrearte-multarte-4286677.jpg?tf=1200x' alt='Vuelco para usuarios que ven fútbol gratis por IPTV: desvelan cuatro formas en que pueden rastrearte y multarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-1438081'>"Evita muchas estafas": La tecla del cajero automático que siempre debes pulsar después de sacar dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-1438081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-4286546.jpg?tf=1200x' alt='"Evita muchas estafas": La tecla del cajero automático que siempre debes pulsar después de sacar dinero' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075'>Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4286568.jpg?tf=1200x' alt='Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-microsoft-tiene-fondos-necesarios-apostar-fuerte-stargate-1438017'>Elon Musk asegura que Microsoft tiene los fondos necesarios para apostar fuerte por Stargate</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-microsoft-tiene-fondos-necesarios-apostar-fuerte-stargate-1438017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-donald-trump-4286464.jpg?tf=1200x' alt='Elon Musk asegura que Microsoft tiene los fondos necesarios para apostar fuerte por Stargate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/waze-estrena-funcion-manos-libres-gracias-ia-funciona-1438108'>Waze estrena función manos libres gracias a la IA y así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/waze-estrena-funcion-manos-libres-gracias-ia-funciona-1438108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-waze-4286600.jpg?tf=1200x' alt='Waze estrena función manos libres gracias a la IA y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-1438058'>iOS 18.3 habría filtrado sin querer hasta tres nuevos productos de Apple y el iPhone SE 4 sería uno de ellos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-1438058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-4286525.jpg?tf=1200x' alt='iOS 18.3 habría filtrado sin querer hasta tres nuevos productos de Apple y el iPhone SE 4 sería uno de ellos' />
     </a>
 </div>
 
