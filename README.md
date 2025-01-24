@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-agua-ni-zumos-bebida-saludable-cuerpo-humano-ciencia-1438094'>Ni agua ni zumos, esta es la bebida más saludable para el cuerpo humano, según la ciencia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ni-agua-ni-zumos-bebida-saludable-cuerpo-humano-ciencia-1438094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hidratacion-4286586.jpg?tf=1200x' alt='Ni agua ni zumos, esta es la bebida más saludable para el cuerpo humano, según la ciencia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nintendo-confirma-emuladores-nintendo-switch-legales-1438141'>Nintendo confirma: “los emuladores de Nintendo Switch son legales”, pero hasta cierto punto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nintendo-confirma-emuladores-nintendo-switch-legales-1438141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/emulador-nintendo-switch-4286690.jpg?tf=1200x' alt='Nintendo confirma: “los emuladores de Nintendo Switch son legales”, pero hasta cierto punto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-peliculas-nominadas-oscar-2025-ya-puedes-ver-plataforma-streaming-1438044'>Movistar Plus+: películas nominadas a los Oscar 2025 que ya puedes ver en su plataforma de streaming</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-peliculas-nominadas-oscar-2025-ya-puedes-ver-plataforma-streaming-1438044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4286531.jpg?tf=1200x' alt='Movistar Plus+: películas nominadas a los Oscar 2025 que ya puedes ver en su plataforma de streaming' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/apple-samsung-nueva-guerra-moviles-ultradelgados-1438073'>Apple y Samsung entran en una nueva guerra que podría terminar en tragedia: los móviles ultradelgados</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/apple-samsung-nueva-guerra-moviles-ultradelgados-1438073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-iphone-4286565.jpg?tf=1200x' alt='Apple y Samsung entran en una nueva guerra que podría terminar en tragedia: los móviles ultradelgados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafa-no-devolucion-timo-te-afecta-solo-comprar-internet-aunque-no-hayas-hecho-nada-1438029'>La estafa de la no devolución, el timo que te afecta solo por comprar en internet, aunque no hayas hecho nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estafa-no-devolucion-timo-te-afecta-solo-comprar-internet-aunque-no-hayas-hecho-nada-1438029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-no-devolucion-4286505.jpg?tf=1200x' alt='La estafa de la no devolución, el timo que te afecta solo por comprar en internet, aunque no hayas hecho nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/whatsapp-integra-instagram-facebook-centro-cuentas-meta-malo-1438114'>WhatsApp se integra con Instagram y Facebook en el Centro de Cuentas de Meta: ¿es tan malo para ti como parece?</a></h4>
-    <a href='https://computerhoy.20minutos.es/whatsapp-integra-instagram-facebook-centro-cuentas-meta-malo-1438114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-instagram-facebook-4286637.jpg?tf=1200x' alt='WhatsApp se integra con Instagram y Facebook en el Centro de Cuentas de Meta: ¿es tan malo para ti como parece?' />
     </a>
 </div>
 
