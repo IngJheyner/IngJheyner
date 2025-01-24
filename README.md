@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-juega-ser-dios-simula-500-millones-anos-evolucion-segundos-1438193'>¡La IA ya juega a ser Dios! Simula 500 millones de años de evolución en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-juega-ser-dios-simula-500-millones-anos-evolucion-segundos-1438193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/evolucion-humana-4286729.jpg?tf=1200x' alt='¡La IA ya juega a ser Dios! Simula 500 millones de años de evolución en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/locura-total-venden-iphones-tiktok-instalado-miles-euros-1438192'>¡Locura total! Venden iPhones con TikTok instalado por miles de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/locura-total-venden-iphones-tiktok-instalado-miles-euros-1438192' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-4286722.jpg?tf=1200x' alt='¡Locura total! Venden iPhones con TikTok instalado por miles de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/receta-exito-tim-cook-dos-cosas-humanidad-odia-profundamente-1438171'>La receta del éxito de Tim Cook se compone de dos cosas que casi toda la humanidad odia profundamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/receta-exito-tim-cook-dos-cosas-humanidad-odia-profundamente-1438171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/exito-tim-cook-apple-4286703.jpg?tf=1200x' alt='La receta del éxito de Tim Cook se compone de dos cosas que casi toda la humanidad odia profundamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-hace-pasar-banco-vaciar-cuenta-avisa-banco-espana-1438187'>TrickMo, el virus que se hace pasar por tu banco para vaciar tu cuenta, avisa el Banco de España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-hace-pasar-banco-vaciar-cuenta-avisa-banco-espana-1438187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-tarjeta-bancaria-4286714.jpg?tf=1200x' alt='TrickMo, el virus que se hace pasar por tu banco para vaciar tu cuenta, avisa el Banco de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-agua-ni-zumos-bebida-saludable-cuerpo-humano-ciencia-1438094'>Ni agua ni zumos, esta es la bebida más saludable para el cuerpo humano, según la ciencia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/ni-agua-ni-zumos-bebida-saludable-cuerpo-humano-ciencia-1438094' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hidratacion-4286586.jpg?tf=1200x' alt='Ni agua ni zumos, esta es la bebida más saludable para el cuerpo humano, según la ciencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nintendo-confirma-emuladores-nintendo-switch-legales-1438141'>Nintendo confirma: “los emuladores de Nintendo Switch son legales”, pero hasta cierto punto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nintendo-confirma-emuladores-nintendo-switch-legales-1438141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/emulador-nintendo-switch-4286690.jpg?tf=1200x' alt='Nintendo confirma: “los emuladores de Nintendo Switch son legales”, pero hasta cierto punto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-peliculas-nominadas-oscar-2025-ya-puedes-ver-plataforma-streaming-1438044'>Movistar Plus+: películas nominadas a los Oscar 2025 que ya puedes ver en su plataforma de streaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-peliculas-nominadas-oscar-2025-ya-puedes-ver-plataforma-streaming-1438044' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4286531.jpg?tf=1200x' alt='Movistar Plus+: películas nominadas a los Oscar 2025 que ya puedes ver en su plataforma de streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/truco-neurocientificos-aprender-cualquier-habilidad-nueva-rapido-menos-esfuerzo-1438163'>El truco de los neurocientíficos para aprender cualquier habilidad nueva más rápido y con menos esfuerzo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/truco-neurocientificos-aprender-cualquier-habilidad-nueva-rapido-menos-esfuerzo-1438163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-tecnica-escanear-cerebro-tiene-parar-milimetro-neuronas-ocupa-14-petabytes-3311211.jpg?tf=1200x' alt='El truco de los neurocientíficos para aprender cualquier habilidad nueva más rápido y con menos esfuerzo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/apple-samsung-nueva-guerra-moviles-ultradelgados-1438073'>Apple y Samsung entran en una nueva guerra que podría terminar en tragedia: los móviles ultradelgados</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/apple-samsung-nueva-guerra-moviles-ultradelgados-1438073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-iphone-4286565.jpg?tf=1200x' alt='Apple y Samsung entran en una nueva guerra que podría terminar en tragedia: los móviles ultradelgados' />
     </a>
 </div>
 
