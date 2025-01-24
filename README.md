@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-1437964'>Android 16 estrena su primera beta pública, con más IA y mejor soporte para tablets y plegables</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-1437964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-4286350.jpg?tf=1200x' alt='Android 16 estrena su primera beta pública, con más IA y mejor soporte para tablets y plegables' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936'>Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peor-hora-dia-cargar-movil-todo-mundo-usa-4286354.jpg?tf=1200x' alt='Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-regala-ano-avanzada-inteligencia-artificial-perplexity-pro-todos-clientes-1437939'>Movistar regala un año de la avanzada inteligencia artificial Perplexity Pro a todos sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/movistar-regala-ano-avanzada-inteligencia-artificial-perplexity-pro-todos-clientes-1437939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-regala-ano-avanzada-inteligencia-artificial-perplexity-pro-todos-clientes-4286332.jpg?tf=1200x' alt='Movistar regala un año de la avanzada inteligencia artificial Perplexity Pro a todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-falso-gestor-te-despluma-cuenta-banco-sms-1437938'>La policía advierte sobre la "estafa del falso gestor": te despluma la cuenta del banco con un SMS</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-estafa-falso-gestor-te-despluma-cuenta-banco-sms-1437938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-bancaria-4286329.jpg?tf=1200x' alt='La policía advierte sobre la "estafa del falso gestor": te despluma la cuenta del banco con un SMS' />
     </a>
 </div>
 
