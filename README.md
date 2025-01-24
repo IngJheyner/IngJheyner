@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075'>Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4286568.jpg?tf=1200x' alt='Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-microsoft-tiene-fondos-necesarios-apostar-fuerte-stargate-1438017'>Elon Musk asegura que Microsoft tiene los fondos necesarios para apostar fuerte por Stargate</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-microsoft-tiene-fondos-necesarios-apostar-fuerte-stargate-1438017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-donald-trump-4286464.jpg?tf=1200x' alt='Elon Musk asegura que Microsoft tiene los fondos necesarios para apostar fuerte por Stargate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/waze-estrena-funcion-manos-libres-gracias-ia-funciona-1438108'>Waze estrena función manos libres gracias a la IA y así funciona</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/waze-estrena-funcion-manos-libres-gracias-ia-funciona-1438108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-waze-4286600.jpg?tf=1200x' alt='Waze estrena función manos libres gracias a la IA y así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-1438100'>Vuelco radical para Huawei: España no usará su tecnología 5G</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-1438100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-4286572.jpg?tf=1200x' alt='Vuelco radical para Huawei: España no usará su tecnología 5G' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jarro-agua-fria-nvidia-lanzamiento-rtx-5090-podria-convertirse-peor-historia-1437998'>Jarro de agua fría para NVIDIA: el lanzamiento de la RTX 5090 podría convertirse en el peor de su historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/jarro-agua-fria-nvidia-lanzamiento-rtx-5090-podria-convertirse-peor-historia-1437998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-nvidia-lanzamiento-rtx-5090-podria-convertirse-peor-historia-4286426.jpg?tf=1200x' alt='Jarro de agua fría para NVIDIA: el lanzamiento de la RTX 5090 podría convertirse en el peor de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/apps-peligro-pantalla-inicio-movil-experta-1435119'>Revisa tu móvil: estas son las apps que no deberías tener en la pantalla de inicio, según una experta en seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/apps-peligro-pantalla-inicio-movil-experta-1435119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peligro-apps-pantalla-inicio-movil-4286591.jpg?tf=1200x' alt='Revisa tu móvil: estas son las apps que no deberías tener en la pantalla de inicio, según una experta en seguridad' />
     </a>
 </div>
 
