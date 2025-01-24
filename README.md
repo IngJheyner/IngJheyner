@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-fanboys-estalla-fuera-control-otra-vez-1437806'>Sam Altman se cansa de los fanboys y estalla: "está fuera de control, otra vez"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cansa-fanboys-estalla-fuera-control-otra-vez-1437806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4286116.jpg?tf=1200x' alt='Sam Altman se cansa de los fanboys y estalla: "está fuera de control, otra vez"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-desagradable-decision-bill-gates-cuando-pidieron-llevara-algo-interesante-colegio-1437848'>La sorprendente (y desagradable) decisión de Bill Gates cuando le pidieron que llevara "algo interesante" al colegio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sorprendente-desagradable-decision-bill-gates-cuando-pidieron-llevara-algo-interesante-colegio-1437848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4286163.jpg?tf=1200x' alt='La sorprendente (y desagradable) decisión de Bill Gates cuando le pidieron que llevara "algo interesante" al colegio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/ranking-marcas-valiosas-mundo-2025-donde-quedan-zara-mercadona-1437972'>Ranking de las marcas más valiosas del mundo en 2025: ¿Dónde quedan Zara y Mercadona?</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/ranking-marcas-valiosas-mundo-2025-donde-quedan-zara-mercadona-1437972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ranking-marcas-valiosas-mundo-2025-tambien-espana-4286378.jpg?tf=1200x' alt='Ranking de las marcas más valiosas del mundo en 2025: ¿Dónde quedan Zara y Mercadona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-1437964'>Android 16 estrena su primera beta pública, con más IA y mejor soporte para tablets y plegables</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-1437964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-16-estrena-primera-beta-publica-ia-mejor-soporte-tablets-plegables-4286350.jpg?tf=1200x' alt='Android 16 estrena su primera beta pública, con más IA y mejor soporte para tablets y plegables' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936'>Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/peor-hora-dia-cargar-movil-todo-mundo-usa-1437936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peor-hora-dia-cargar-movil-todo-mundo-usa-4286354.jpg?tf=1200x' alt='Esta es la peor hora del día para cargar el móvil y la que todo el mundo usa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-1437944'>Día grande para las IPTV: las tecnológicas quieren acabar con el escudo europeo antipiratería</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-1437944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dia-grande-iptv-tecnologicas-quieren-acabar-escudo-europeo-antipirateria-4286343.jpg?tf=1200x' alt='Día grande para las IPTV: las tecnológicas quieren acabar con el escudo europeo antipiratería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/bloquear-automaticamente-llamadas-spam-iphone-tocar-nada-1437930'>Ya puedes bloquear automáticamente las llamadas SPAM en iPhone sin tocar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/bloquear-automaticamente-llamadas-spam-iphone-tocar-nada-1437930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spam-iphone-4286321.jpg?tf=1200x' alt='Ya puedes bloquear automáticamente las llamadas SPAM en iPhone sin tocar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-regala-ano-avanzada-inteligencia-artificial-perplexity-pro-todos-clientes-1437939'>Movistar regala un año de la avanzada inteligencia artificial Perplexity Pro a todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-regala-ano-avanzada-inteligencia-artificial-perplexity-pro-todos-clientes-1437939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-regala-ano-avanzada-inteligencia-artificial-perplexity-pro-todos-clientes-4286332.jpg?tf=1200x' alt='Movistar regala un año de la avanzada inteligencia artificial Perplexity Pro a todos sus clientes' />
     </a>
 </div>
 
