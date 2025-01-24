@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ia-inmobilaria-alerta-tres-ciudades-donde-va-subir-precio-vivienda-proximas-semanas-1437994'>Una IA inmobiliaria alerta de las tres ciudades donde va a subir el precio de la vivienda en las próximas semanas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ia-inmobilaria-alerta-tres-ciudades-donde-va-subir-precio-vivienda-proximas-semanas-1437994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-inmobilaria-4286415.jpg?tf=1200x' alt='Una IA inmobiliaria alerta de las tres ciudades donde va a subir el precio de la vivienda en las próximas semanas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/magis-tv-flujo-tv-diferencias-peligros-listas-iptv-espanol-1437996'>Magis TV o Flujo TV: diferencias y peligros de las IPTV en español más utilizadas del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/magis-tv-flujo-tv-diferencias-peligros-listas-iptv-espanol-1437996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/magis-tv-flujo-tv-diferencias-peligros-iptv-espanol-utilizadas-mundo-4286387.jpg?tf=1200x' alt='Magis TV o Flujo TV: diferencias y peligros de las IPTV en español más utilizadas del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/generador-solar-top-ventas-bluetti-hunde-precio-roza-300-euros-amazon-1437774'>El generador solar top ventas de Bluetti hunde su precio: roza los 300 euros en Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/generador-solar-top-ventas-bluetti-hunde-precio-roza-300-euros-amazon-1437774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac50b-4155009.jpg?tf=1200x' alt='El generador solar top ventas de Bluetti hunde su precio: roza los 300 euros en Amazon' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/canon-eos-r5-mark-ii-1435466'>La Canon EOS R5 Mark II es la cámara más profesional que he probado y apta para aficionados, si pagas más de 4.000 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/canon-eos-r5-mark-ii-1435466' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/canon-eos-r5-mark-ii-4283181.jpg?tf=1200x' alt='La Canon EOS R5 Mark II es la cámara más profesional que he probado y apta para aficionados, si pagas más de 4.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-1437691'>Empresa de seguridad contrata a un hacker norcoreano pensando que era un simple ingeniero</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-1437691' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/empresa-seguridad-contrata-hacker-norcoreano-pensando-era-simple-ingeniero-4285935.jpg?tf=1200x' alt='Empresa de seguridad contrata a un hacker norcoreano pensando que era un simple ingeniero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-1437834'>Movistar Plus+ ha realizado un cambio muy importante, pero seguramente no te has dado cuenta de ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-1437834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-4286126.jpg?tf=1200x' alt='Movistar Plus+ ha realizado un cambio muy importante, pero seguramente no te has dado cuenta de ello' />
     </a>
 </div>
 
