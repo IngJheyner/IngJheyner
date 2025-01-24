@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-como-funciona-puedes-hacer-inteligencia-artificial-gratis-movistar-todos-clientes-1438011'>Qué es Perplexity AI, cómo funciona y qué puedes hacer con la inteligencia artificial gratis de Movistar para todos sus clientes </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-como-funciona-puedes-hacer-inteligencia-artificial-gratis-movistar-todos-clientes-1438011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/perplexity-ai-movistar-4286461.jpg?tf=1200x' alt='Qué es Perplexity AI, cómo funciona y qué puedes hacer con la inteligencia artificial gratis de Movistar para todos sus clientes ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/noticias/life/soldados-estadounidenses-bandera-uniforme-428099'>¿Por qué los soldados estadounidenses llevan la bandera al revés en los uniformes?</a></h4>
+    <a href='https://computerhoy.20minutos.es/noticias/life/soldados-estadounidenses-bandera-uniforme-428099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bandera-estados-unidos-uniforme-soldado-estadounidense-4286465.jpg?tf=1200x' alt='¿Por qué los soldados estadounidenses llevan la bandera al revés en los uniformes?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ponemos-prueba-ia-inmobiliaria-encontrar-piso-estos-son-estramboticos-resultados-1438004'>Ponemos a prueba una IA inmobiliaria para encontrar piso y estos son los estrambóticos resultados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ponemos-prueba-ia-inmobiliaria-encontrar-piso-estos-son-estramboticos-resultados-1438004' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-inmobiliaria-fotocasa-4286427.jpg?tf=1200x' alt='Ponemos a prueba una IA inmobiliaria para encontrar piso y estos son los estrambóticos resultados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/magis-tv-flujo-tv-diferencias-peligros-listas-iptv-espanol-1437996'>Magis TV o Flujo TV: diferencias y peligros de las IPTV en español más utilizadas del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/magis-tv-flujo-tv-diferencias-peligros-listas-iptv-espanol-1437996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/magis-tv-flujo-tv-diferencias-peligros-iptv-espanol-utilizadas-mundo-4286387.jpg?tf=1200x' alt='Magis TV o Flujo TV: diferencias y peligros de las IPTV en español más utilizadas del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/generador-solar-top-ventas-bluetti-hunde-precio-roza-300-euros-amazon-1437774'>El generador solar top ventas de Bluetti hunde su precio: roza los 300 euros en Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/generador-solar-top-ventas-bluetti-hunde-precio-roza-300-euros-amazon-1437774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac50b-4155009.jpg?tf=1200x' alt='El generador solar top ventas de Bluetti hunde su precio: roza los 300 euros en Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289'>El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284906.jpg?tf=1200x' alt='El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica' />
     </a>
 </div>
 
