@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-no-compatibles-febrero-2025-1436250'>WhatsApp no funciona: dejará de funcionar en estos móviles a partir del 1 de febrero de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-no-compatibles-febrero-2025-1436250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='WhatsApp no funciona: dejará de funcionar en estos móviles a partir del 1 de febrero de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/sorprendente-dato-senala-clientes-digi-son-acaparadores-1438045'>El sorprendente dato que señala a los clientes de Digi: "son unos acaparadores"</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/sorprendente-dato-senala-clientes-digi-son-acaparadores-1438045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cliente-digi-movil-4286544.jpg?tf=1200x' alt='El sorprendente dato que señala a los clientes de Digi: "son unos acaparadores"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-operator-sueno-ia-hace-sola-tareas-decirle-nada-hace-realidad-1438042'>OpenAI lanza Operator: el sueño de una IA que hace sola nuestras tareas sin decirle nada se hace realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-operator-sueno-ia-hace-sola-tareas-decirle-nada-hace-realidad-1438042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-lanza-operator-4286507.jpg?tf=1200x' alt='OpenAI lanza Operator: el sueño de una IA que hace sola nuestras tareas sin decirle nada se hace realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-va-todas-reloj-inteligente-vendido-rebajadisimo-aliexpress-1437922'>Xiaomi va a por todas: su reloj inteligente más vendido está rebajadísimo en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-va-todas-reloj-inteligente-vendido-rebajadisimo-aliexpress-1437922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-watch-5-lite-4286277.jpg?tf=1200x' alt='Xiaomi va a por todas: su reloj inteligente más vendido está rebajadísimo en AliExpress' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-lanza-nuevo-model-juniper-espana-precio-novedades-1438033'>Tesla lanza el nuevo Model Y Juniper en España: este es su precio y novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-lanza-nuevo-model-juniper-espana-precio-novedades-1438033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-lanza-nuevo-model-juniper-espana-precio-novedades-4286474.jpg?tf=1200x' alt='Tesla lanza el nuevo Model Y Juniper en España: este es su precio y novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-aun-tiene-pesadillas-megareconocido-personaje-trabajo-inicios-era-maton-oficina-1438028'>Bill Gates aún tiene pesadillas con un megareconocido personaje con el que trabajó en sus inicios: "Era el matón de la oficina"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-aun-tiene-pesadillas-megareconocido-personaje-trabajo-inicios-era-maton-oficina-1438028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4283174.jpg?tf=1200x' alt='Bill Gates aún tiene pesadillas con un megareconocido personaje con el que trabajó en sus inicios: "Era el matón de la oficina"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-como-funciona-puedes-hacer-inteligencia-artificial-gratis-movistar-todos-clientes-1438011'>Qué es Perplexity AI, cómo funciona y qué puedes hacer con la inteligencia artificial gratis de Movistar para todos sus clientes </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-como-funciona-puedes-hacer-inteligencia-artificial-gratis-movistar-todos-clientes-1438011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/perplexity-ai-movistar-4286461.jpg?tf=1200x' alt='Qué es Perplexity AI, cómo funciona y qué puedes hacer con la inteligencia artificial gratis de Movistar para todos sus clientes ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/life/soldados-estadounidenses-bandera-uniforme-428099'>¿Por qué los soldados estadounidenses llevan la bandera al revés en los uniformes?</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/life/soldados-estadounidenses-bandera-uniforme-428099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bandera-estados-unidos-uniforme-soldado-estadounidense-4286465.jpg?tf=1200x' alt='¿Por qué los soldados estadounidenses llevan la bandera al revés en los uniformes?' />
     </a>
 </div>
 
