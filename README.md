@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/generador-solar-top-ventas-bluetti-hunde-precio-roza-300-euros-amazon-1437774'>El generador solar top ventas de Bluetti hunde su precio: roza los 300 euros en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/generador-solar-top-ventas-bluetti-hunde-precio-roza-300-euros-amazon-1437774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/bluetti-ac50b-4155009.jpg?tf=1200x' alt='El generador solar top ventas de Bluetti hunde su precio: roza los 300 euros en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289'>El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284906.jpg?tf=1200x' alt='El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-1437834'>Movistar Plus+ ha realizado un cambio muy importante, pero seguramente no te has dado cuenta de ello</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-1437834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-ha-realizado-cambio-muy-importante-pero-seguramente-no-te-has-dado-cuenta-ello-4286126.jpg?tf=1200x' alt='Movistar Plus+ ha realizado un cambio muy importante, pero seguramente no te has dado cuenta de ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-estas-6-aplicaciones-movil-podrian-poner-peligro-datos-cuenta-bancaria-1437796'>Cuidado con estas 6 aplicaciones de tu móvil, podrían poner en peligro tus datos y tu cuenta bancaria</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-estas-6-aplicaciones-movil-podrian-poner-peligro-datos-cuenta-bancaria-1437796' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/moviles-4286084.jpg?tf=1200x' alt='Cuidado con estas 6 aplicaciones de tu móvil, podrían poner en peligro tus datos y tu cuenta bancaria' />
     </a>
 </div>
 
