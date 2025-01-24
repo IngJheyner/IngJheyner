@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ponemos-prueba-ia-inmobiliaria-encontrar-piso-estos-son-estramboticos-resultados-1438004'>Ponemos a prueba una IA inmobiliaria para encontrar piso y estos son los estrambóticos resultados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ponemos-prueba-ia-inmobiliaria-encontrar-piso-estos-son-estramboticos-resultados-1438004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-inmobiliaria-fotocasa-4286427.jpg?tf=1200x' alt='Ponemos a prueba una IA inmobiliaria para encontrar piso y estos son los estrambóticos resultados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ia-inmobilaria-alerta-tres-ciudades-donde-va-subir-precio-vivienda-proximas-semanas-1437994'>Una IA inmobiliaria alerta de las tres ciudades donde va a subir el precio de la vivienda en las próximas semanas</a></h4>
     <a href='https://computerhoy.20minutos.es/ia-inmobilaria-alerta-tres-ciudades-donde-va-subir-precio-vivienda-proximas-semanas-1437994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-inmobilaria-4286415.jpg?tf=1200x' alt='Una IA inmobiliaria alerta de las tres ciudades donde va a subir el precio de la vivienda en las próximas semanas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289'>El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/robot-aspirador-dreame-x50-ultra-complete-podra-saltar-pero-limpie-fondo-solo-mejor-caracteristica-1437289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dreame-x50-ultra-complete-4284906.jpg?tf=1200x' alt='El robot aspirador Dreame X50 Ultra Complete podrá saltar, pero que se limpie a fondo por sí solo es su mejor característica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/canon-eos-r5-mark-ii-1435466'>La Canon EOS R5 Mark II es la cámara más profesional que he probado y apta para aficionados, si pagas más de 4.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/canon-eos-r5-mark-ii-1435466' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/canon-eos-r5-mark-ii-4283181.jpg?tf=1200x' alt='La Canon EOS R5 Mark II es la cámara más profesional que he probado y apta para aficionados, si pagas más de 4.000 euros' />
     </a>
 </div>
 
