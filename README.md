@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/waze-estrena-funcion-manos-libres-gracias-ia-funciona-1438108'>Waze estrena función manos libres gracias a la IA y así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/waze-estrena-funcion-manos-libres-gracias-ia-funciona-1438108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-waze-4286600.jpg?tf=1200x' alt='Waze estrena función manos libres gracias a la IA y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-1438058'>iOS 18.3 habría filtrado sin querer hasta tres nuevos productos de Apple y el iPhone SE 4 sería uno de ellos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-1438058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ios-183-habria-filtrado-querer-tres-nuevos-productos-apple-iphone-4-seria-ellos-4286525.jpg?tf=1200x' alt='iOS 18.3 habría filtrado sin querer hasta tres nuevos productos de Apple y el iPhone SE 4 sería uno de ellos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-1438100'>Vuelco radical para Huawei: España no usará su tecnología 5G</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-1438100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-radical-huawei-espana-no-usara-tecnologia-5g-4286572.jpg?tf=1200x' alt='Vuelco radical para Huawei: España no usará su tecnología 5G' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jarro-agua-fria-nvidia-lanzamiento-rtx-5090-podria-convertirse-peor-historia-1437998'>Jarro de agua fría para NVIDIA: el lanzamiento de la RTX 5090 podría convertirse en el peor de su historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jarro-agua-fria-nvidia-lanzamiento-rtx-5090-podria-convertirse-peor-historia-1437998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-nvidia-lanzamiento-rtx-5090-podria-convertirse-peor-historia-4286426.jpg?tf=1200x' alt='Jarro de agua fría para NVIDIA: el lanzamiento de la RTX 5090 podría convertirse en el peor de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/apps-peligro-pantalla-inicio-movil-experta-1435119'>Revisa tu móvil: estas son las apps que no deberías tener en la pantalla de inicio, según una experta en seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/apps-peligro-pantalla-inicio-movil-experta-1435119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/peligro-apps-pantalla-inicio-movil-4286591.jpg?tf=1200x' alt='Revisa tu móvil: estas son las apps que no deberías tener en la pantalla de inicio, según una experta en seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/jugando-microsoft-windows-10-ultimos-movimientos-desconciertan-usuarios-1438046'>¿A qué está jugando Microsoft con Windows 10? Los últimos movimientos desconciertan a los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/jugando-microsoft-windows-10-ultimos-movimientos-desconciertan-usuarios-1438046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='¿A qué está jugando Microsoft con Windows 10? Los últimos movimientos desconciertan a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-no-compatibles-febrero-2025-1436250'>WhatsApp no funciona: dejará de funcionar en estos móviles a partir del 1 de febrero de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/adios-whatsapp-lista-moviles-no-compatibles-febrero-2025-1436250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/whatsapp-no-funciona-4270138.jpg?tf=1200x' alt='WhatsApp no funciona: dejará de funcionar en estos móviles a partir del 1 de febrero de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/sorprendente-dato-senala-clientes-digi-son-acaparadores-1438045'>El sorprendente dato que señala a los clientes de Digi: "son unos acaparadores"</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/sorprendente-dato-senala-clientes-digi-son-acaparadores-1438045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cliente-digi-movil-4286544.jpg?tf=1200x' alt='El sorprendente dato que señala a los clientes de Digi: "son unos acaparadores"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-operator-sueno-ia-hace-sola-tareas-decirle-nada-hace-realidad-1438042'>OpenAI lanza Operator: el sueño de una IA que hace sola nuestras tareas sin decirle nada se hace realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-operator-sueno-ia-hace-sola-tareas-decirle-nada-hace-realidad-1438042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-lanza-operator-4286507.jpg?tf=1200x' alt='OpenAI lanza Operator: el sueño de una IA que hace sola nuestras tareas sin decirle nada se hace realidad' />
     </a>
 </div>
 
