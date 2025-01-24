@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-peliculas-nominadas-oscar-2025-ya-puedes-ver-plataforma-streaming-1438044'>Movistar Plus+: películas nominadas a los Oscar 2025 que ya puedes ver en su plataforma de streaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-peliculas-nominadas-oscar-2025-ya-puedes-ver-plataforma-streaming-1438044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4286531.jpg?tf=1200x' alt='Movistar Plus+: películas nominadas a los Oscar 2025 que ya puedes ver en su plataforma de streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/truco-neurocientificos-aprender-cualquier-habilidad-nueva-rapido-menos-esfuerzo-1438163'>El truco de los neurocientíficos para aprender cualquier habilidad nueva más rápido y con menos esfuerzo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/truco-neurocientificos-aprender-cualquier-habilidad-nueva-rapido-menos-esfuerzo-1438163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nueva-tecnica-escanear-cerebro-tiene-parar-milimetro-neuronas-ocupa-14-petabytes-3311211.jpg?tf=1200x' alt='El truco de los neurocientíficos para aprender cualquier habilidad nueva más rápido y con menos esfuerzo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/apple-samsung-nueva-guerra-moviles-ultradelgados-1438073'>Apple y Samsung entran en una nueva guerra que podría terminar en tragedia: los móviles ultradelgados</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/apple-samsung-nueva-guerra-moviles-ultradelgados-1438073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-iphone-4286565.jpg?tf=1200x' alt='Apple y Samsung entran en una nueva guerra que podría terminar en tragedia: los móviles ultradelgados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estafa-no-devolucion-timo-te-afecta-solo-comprar-internet-aunque-no-hayas-hecho-nada-1438029'>La estafa de la no devolución, el timo que te afecta solo por comprar en internet, aunque no hayas hecho nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estafa-no-devolucion-timo-te-afecta-solo-comprar-internet-aunque-no-hayas-hecho-nada-1438029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-no-devolucion-4286505.jpg?tf=1200x' alt='La estafa de la no devolución, el timo que te afecta solo por comprar en internet, aunque no hayas hecho nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/whatsapp-integra-instagram-facebook-centro-cuentas-meta-malo-1438114'>WhatsApp se integra con Instagram y Facebook en el Centro de Cuentas de Meta: ¿es tan malo para ti como parece?</a></h4>
     <a href='https://computerhoy.20minutos.es/whatsapp-integra-instagram-facebook-centro-cuentas-meta-malo-1438114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-instagram-facebook-4286637.jpg?tf=1200x' alt='WhatsApp se integra con Instagram y Facebook en el Centro de Cuentas de Meta: ¿es tan malo para ti como parece?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/vuelco-usuarios-ven-futbol-gratis-iptv-desvelan-cuatro-formas-pueden-rastrearte-multarte-1438140'>Vuelco para usuarios que ven fútbol gratis por IPTV: desvelan cuatro formas en que pueden rastrearte y multarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/vuelco-usuarios-ven-futbol-gratis-iptv-desvelan-cuatro-formas-pueden-rastrearte-multarte-1438140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-usuarios-ven-futbol-gratis-iptv-desvelan-cuatro-formas-pueden-rastrearte-multarte-4286677.jpg?tf=1200x' alt='Vuelco para usuarios que ven fútbol gratis por IPTV: desvelan cuatro formas en que pueden rastrearte y multarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-1438081'>"Evita muchas estafas": La tecla del cajero automático que siempre debes pulsar después de sacar dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-1438081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/evita-muchas-estafas-tecla-cajero-automatico-siempre-debes-pulsar-despues-sacar-dinero-4286546.jpg?tf=1200x' alt='"Evita muchas estafas": La tecla del cajero automático que siempre debes pulsar después de sacar dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075'>Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/llamadas-prefijo-621-buscan-debes-hacer-te-llaman-1438075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4286568.jpg?tf=1200x' alt='Llamadas de un prefijo 621: esto es lo que buscan y lo que debes hacer si te llaman' />
     </a>
 </div>
 
