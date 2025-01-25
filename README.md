@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/espana-suma-club-europeo-reciclaje-botellas-fianza-partir-2026-funciona-1434155'>España se suma al club europeo del reciclaje: botellas con fianza a partir de 2026, así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/espana-suma-club-europeo-reciclaje-botellas-fianza-partir-2026-funciona-1434155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reciclaje-plastico-4281301.jpg?tf=1200x' alt='España se suma al club europeo del reciclaje: botellas con fianza a partir de 2026, así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-cada-vez-pesado-he-cambiado-sencilla-app-gratis-me-planteo-no-volver-1437428'>Google Maps cada vez es más pesado: he cambiado a esta sencilla app gratis y me planteo no volver</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-cada-vez-pesado-he-cambiado-sencilla-app-gratis-me-planteo-no-volver-1437428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-cada-vez-pesado-he-cambiado-sencilla-app-gratis-me-planteo-no-volver-4285529.jpg?tf=1200x' alt='Google Maps cada vez es más pesado: he cambiado a esta sencilla app gratis y me planteo no volver' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-x200-pro-me-ha-parecido-mejores-alta-gama-secreto-fotografia-precio-1437098'>El Vivo X200 Pro me ha parecido uno de los mejores en la alta gama, y el secreto está en su fotografía y precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/vivo-x200-pro-me-ha-parecido-mejores-alta-gama-secreto-fotografia-precio-1437098' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vivo-x200-pro-4284953.jpg?tf=1200x' alt='El Vivo X200 Pro me ha parecido uno de los mejores en la alta gama, y el secreto está en su fotografía y precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchisimas-herramientas-ia-generativa-tengo-clara-favorita-1428678'>He probado muchísimas herramientas de IA generativa y tengo una clara favorita</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchisimas-herramientas-ia-generativa-tengo-clara-favorita-1428678' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magic-studio-inteligencia-artificial-generativa-herramienta-aplicacion-4271650.jpg?tf=1200x' alt='He probado muchísimas herramientas de IA generativa y tengo una clara favorita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/policia-encuentra-forma-enganar-usuarios-waze-llenaron-ciudad-azul-1437597'>La policía encuentra la forma de engañar a los usuarios de Waze: llenaron la ciudad de azul</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/policia-encuentra-forma-enganar-usuarios-waze-llenaron-ciudad-azul-1437597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-waze-4285772.jpg?tf=1200x' alt='La policía encuentra la forma de engañar a los usuarios de Waze: llenaron la ciudad de azul' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raton-explota-mouse-incendio-tragedia-1438219'>¡Tu ratón también puede explotar! Un viejo mouse se incendia y casi provoca una tragedia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/raton-explota-mouse-incendio-tragedia-1438219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/raton-tambien-puede-explotar-viejo-mouse-incendia-casi-provoca-tragedia-4286769.jpg?tf=1200x' alt='¡Tu ratón también puede explotar! Un viejo mouse se incendia y casi provoca una tragedia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-espanola-polemica-1438209'>Experto analiza ALIA, la nueva IA pública española: "De ser cierto, es la mayor vendida de humo de la historia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-espanola-polemica-1438209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-analiza-alia-nueva-ia-publica-espanola-ser-cierto-mayor-vendida-humo-historia-4286737.jpg?tf=1200x' alt='Experto analiza ALIA, la nueva IA pública española: "De ser cierto, es la mayor vendida de humo de la historia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ahora-nunca-muchos-mejor-serie-historia-abandonara-netflix-15-dias-1438201'>Ahora o nunca: para muchos es la mejor serie de la historia y abandonará Netflix en 15 días</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ahora-nunca-muchos-mejor-serie-historia-abandonara-netflix-15-dias-1438201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-nunca-muchos-mejor-serie-historia-abandonara-netflix-15-dias-4286746.jpg?tf=1200x' alt='Ahora o nunca: para muchos es la mejor serie de la historia y abandonará Netflix en 15 días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179'>Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-4286735.jpg?tf=1200x' alt='Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo' />
     </a>
 </div>
 
