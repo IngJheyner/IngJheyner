@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-reinicios-automaticos-windows-11-actualizacion-1433680'>Cómo desactivar los reinicios automáticos en Windows 11 tras una actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-reinicios-automaticos-windows-11-actualizacion-1433680' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reiniciar-ordenador-windows-11-4279282.jpg?tf=1200x' alt='Cómo desactivar los reinicios automáticos en Windows 11 tras una actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-sube-nivel-seguridad-android-llega-identity-check-estos-moviles-funciona-1438272'>Google sube el nivel de seguridad en Android: llega Identity Check a estos móviles y así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-sube-nivel-seguridad-android-llega-identity-check-estos-moviles-funciona-1438272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/seguridad-android-4286836.jpg?tf=1200x' alt='Google sube el nivel de seguridad en Android: llega Identity Check a estos móviles y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413'>El truco de Google Maps para evitar que la aplicación pueda rastrearte</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-google-maps-evitar-aplicacion-pueda-rastrearte-4282001.jpg?tf=1200x' alt='El truco de Google Maps para evitar que la aplicación pueda rastrearte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-decepcionaria-antes-salir-dynamic-island-seguiria-igual-ahora-1438260'>El iPhone 17 decepcionaría antes de salir: Dynamic Island seguiría igual que ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-17-decepcionaria-antes-salir-dynamic-island-seguiria-igual-ahora-1438260' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='El iPhone 17 decepcionaría antes de salir: Dynamic Island seguiría igual que ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-fin-pone-color-icono-bateria-ya-no-te-quedaras-carga-despiste-1438259'>Windows 11 por fin pone color al icono de batería: ya no te quedarás sin carga por un despiste</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-fin-pone-color-icono-bateria-ya-no-te-quedaras-carga-despiste-1438259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-portatil-windows-icono-bateria-4286815.jpg?tf=1200x' alt='Windows 11 por fin pone color al icono de batería: ya no te quedarás sin carga por un despiste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716'>¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlna-deberias-usarlo-ahora-mismo-smart-tv-4284173.jpg?tf=1200x' alt='¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?' />
     </a>
 </div>
 
