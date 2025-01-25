@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/policia-encuentra-forma-enganar-usuarios-waze-llenaron-ciudad-azul-1437597'>La policía encuentra la forma de engañar a los usuarios de Waze: llenaron la ciudad de azul</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/policia-encuentra-forma-enganar-usuarios-waze-llenaron-ciudad-azul-1437597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-waze-4285772.jpg?tf=1200x' alt='La policía encuentra la forma de engañar a los usuarios de Waze: llenaron la ciudad de azul' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/raton-explota-mouse-incendio-tragedia-1438219'>¡Tu ratón también puede explotar! Un viejo mouse se incendia y casi provoca una tragedia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/raton-explota-mouse-incendio-tragedia-1438219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/raton-tambien-puede-explotar-viejo-mouse-incendia-casi-provoca-tragedia-4286769.jpg?tf=1200x' alt='¡Tu ratón también puede explotar! Un viejo mouse se incendia y casi provoca una tragedia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-espanola-polemica-1438209'>Experto analiza ALIA, la nueva IA pública española: "De ser cierto, es la mayor vendida de humo de la historia"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-espanola-polemica-1438209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-analiza-alia-nueva-ia-publica-espanola-ser-cierto-mayor-vendida-humo-historia-4286737.jpg?tf=1200x' alt='Experto analiza ALIA, la nueva IA pública española: "De ser cierto, es la mayor vendida de humo de la historia"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179'>Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-4286735.jpg?tf=1200x' alt='Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-juega-ser-dios-simula-500-millones-anos-evolucion-segundos-1438193'>¡La IA ya juega a ser Dios! Simula 500 millones de años de evolución en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-juega-ser-dios-simula-500-millones-anos-evolucion-segundos-1438193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/evolucion-humana-4286729.jpg?tf=1200x' alt='¡La IA ya juega a ser Dios! Simula 500 millones de años de evolución en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/locura-total-venden-iphones-tiktok-instalado-miles-euros-1438192'>¡Locura total! Venden iPhones con TikTok instalado por miles de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/locura-total-venden-iphones-tiktok-instalado-miles-euros-1438192' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-4286722.jpg?tf=1200x' alt='¡Locura total! Venden iPhones con TikTok instalado por miles de euros' />
     </a>
 </div>
 
