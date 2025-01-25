@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-siempre-forma-compartir-archivos-windows-11-sera-facil-1438280'>Microsoft cambia para siempre la forma de compartir archivos en Windows 11: será así de fácil</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-siempre-forma-compartir-archivos-windows-11-sera-facil-1438280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explorador-archivos-windows-11-4286843.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de compartir archivos en Windows 11: será así de fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/has-usado-mal-movil-xiaomi-todo-tiempo-activa-estas-5-funciones-1437326'>Has usado mal tu móvil Xiaomi todo este tiempo: activa estas 5 funciones</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/has-usado-mal-movil-xiaomi-todo-tiempo-activa-estas-5-funciones-1437326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sistema-operativo-xiaomi-4285337.jpg?tf=1200x' alt='Has usado mal tu móvil Xiaomi todo este tiempo: activa estas 5 funciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/google-sube-nivel-seguridad-android-llega-identity-check-estos-moviles-funciona-1438272'>Google sube el nivel de seguridad en Android: llega Identity Check a estos móviles y así funciona</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-sube-nivel-seguridad-android-llega-identity-check-estos-moviles-funciona-1438272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/seguridad-android-4286836.jpg?tf=1200x' alt='Google sube el nivel de seguridad en Android: llega Identity Check a estos móviles y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413'>El truco de Google Maps para evitar que la aplicación pueda rastrearte</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-google-maps-evitar-aplicacion-pueda-rastrearte-4282001.jpg?tf=1200x' alt='El truco de Google Maps para evitar que la aplicación pueda rastrearte' />
     </a>
 </div>
 
