@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-no-deberias-preguntarle-nunca-inteligencia-artificial-1437373'>8 cosas que no deberías preguntarle nunca a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-no-deberias-preguntarle-nunca-inteligencia-artificial-1437373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-4285436.jpg?tf=1200x' alt='8 cosas que no deberías preguntarle nunca a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/cargas-movil-mientras-juegas-podria-llegar-explotar-1436692'>Si cargas el móvil mientras juegas: ¿podría llegar a explotar?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/cargas-movil-mientras-juegas-podria-llegar-explotar-1436692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-movil-explota-4284161.jpg?tf=1200x' alt='Si cargas el móvil mientras juegas: ¿podría llegar a explotar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-inteligencia-artificial-sustituto-1436007'>Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-inteligencia-artificial-sustituto-1436007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283042.jpg?tf=1200x' alt='Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/me-ha-cambiado-vida-habia-tirado-toalla-llamadas-spam-descubri-app-gratis-1436711'>"Me ha cambiado la vida": Había tirado la toalla con las llamadas SPAM, hasta que descubrí esta app gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/me-ha-cambiado-vida-habia-tirado-toalla-llamadas-spam-descubri-app-gratis-1436711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/me-ha-cambiado-vida-habia-tirado-toalla-llamadas-spam-descubri-app-gratis-4284172.jpg?tf=1200x' alt='"Me ha cambiado la vida": Había tirado la toalla con las llamadas SPAM, hasta que descubrí esta app gratis' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-1437152'>Expertos en seguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-1437152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-4285093.jpg?tf=1200x' alt='Expertos en seguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebaja-sorpresa-tienen-nuevos-samsung-galaxy-s25-ultra-estreno-1438062'>Así es la rebaja sorpresa que tienen los nuevos Samsung Galaxy S25 Ultra en su estreno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/rebaja-sorpresa-tienen-nuevos-samsung-galaxy-s25-ultra-estreno-1438062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4285247.jpg?tf=1200x' alt='Así es la rebaja sorpresa que tienen los nuevos Samsung Galaxy S25 Ultra en su estreno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-multas-dgt-como-activar-modo-maxima-concentracion-android-auto-1437117'>Adiós a las multas de la DGT: cómo activar el modo máxima concentración de Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-multas-dgt-como-activar-modo-maxima-concentracion-android-auto-1437117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-multas-dgt-como-activar-modo-maxima-concentracion-android-auto-4285050.jpg?tf=1200x' alt='Adiós a las multas de la DGT: cómo activar el modo máxima concentración de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/espana-suma-club-europeo-reciclaje-botellas-fianza-partir-2026-funciona-1434155'>España se suma al club europeo del reciclaje: botellas con fianza a partir de 2026, así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/espana-suma-club-europeo-reciclaje-botellas-fianza-partir-2026-funciona-1434155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reciclaje-plastico-4281301.jpg?tf=1200x' alt='España se suma al club europeo del reciclaje: botellas con fianza a partir de 2026, así funciona' />
     </a>
 </div>
 
