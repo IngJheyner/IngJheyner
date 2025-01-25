@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-espanola-polemica-1438209'>Experto analiza ALIA, la nueva IA pública española: "De ser cierto, es la mayor vendida de humo de la historia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-espanola-polemica-1438209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-analiza-alia-nueva-ia-publica-espanola-ser-cierto-mayor-vendida-humo-historia-4286737.jpg?tf=1200x' alt='Experto analiza ALIA, la nueva IA pública española: "De ser cierto, es la mayor vendida de humo de la historia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ahora-nunca-muchos-mejor-serie-historia-abandonara-netflix-15-dias-1438201'>Ahora o nunca: para muchos es la mejor serie de la historia y abandonará Netflix en 15 días</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ahora-nunca-muchos-mejor-serie-historia-abandonara-netflix-15-dias-1438201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ahora-nunca-muchos-mejor-serie-historia-abandonara-netflix-15-dias-4286746.jpg?tf=1200x' alt='Ahora o nunca: para muchos es la mejor serie de la historia y abandonará Netflix en 15 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179'>Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-1438179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cientos-apps-amazon-fire-tv-dejaran-funcionar-no-podras-hacer-nada-evitarlo-4286735.jpg?tf=1200x' alt='Cientos de apps de tu Amazon Fire TV dejarán de funcionar, y no podrás hacer nada para evitarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/locura-total-venden-iphones-tiktok-instalado-miles-euros-1438192'>¡Locura total! Venden iPhones con TikTok instalado por miles de euros</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/locura-total-venden-iphones-tiktok-instalado-miles-euros-1438192' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-4286722.jpg?tf=1200x' alt='¡Locura total! Venden iPhones con TikTok instalado por miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/receta-exito-tim-cook-dos-cosas-humanidad-odia-profundamente-1438171'>La receta del éxito de Tim Cook se compone de dos cosas que casi toda la humanidad odia profundamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/receta-exito-tim-cook-dos-cosas-humanidad-odia-profundamente-1438171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/exito-tim-cook-apple-4286703.jpg?tf=1200x' alt='La receta del éxito de Tim Cook se compone de dos cosas que casi toda la humanidad odia profundamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-hace-pasar-banco-vaciar-cuenta-avisa-banco-espana-1438187'>TrickMo, el virus que se hace pasar por tu banco para vaciar tu cuenta, avisa el Banco de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-hace-pasar-banco-vaciar-cuenta-avisa-banco-espana-1438187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-tarjeta-bancaria-4286714.jpg?tf=1200x' alt='TrickMo, el virus que se hace pasar por tu banco para vaciar tu cuenta, avisa el Banco de España' />
     </a>
 </div>
 
