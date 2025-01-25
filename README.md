@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413'>El truco de Google Maps para evitar que la aplicación pueda rastrearte</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-google-maps-evitar-aplicacion-pueda-rastrearte-4282001.jpg?tf=1200x' alt='El truco de Google Maps para evitar que la aplicación pueda rastrearte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520'>Cómo saber si estás consumiendo contenido ilegal de IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/legalidad-iptv-4282223.jpg?tf=1200x' alt='Cómo saber si estás consumiendo contenido ilegal de IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716'>¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlna-deberias-usarlo-ahora-mismo-smart-tv-4284173.jpg?tf=1200x' alt='¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/threads-llena-anuncios-meta-empieza-probar-publicidad-no-gustando-1438251'>Threads se llena de anuncios: Meta empieza a probar publicidad y no está gustando</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/threads-llena-anuncios-meta-empieza-probar-publicidad-no-gustando-1438251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/publicidad-threads-4286806.jpg?tf=1200x' alt='Threads se llena de anuncios: Meta empieza a probar publicidad y no está gustando' />
     </a>
 </div>
 
