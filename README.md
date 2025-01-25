@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716'>¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlna-deberias-usarlo-ahora-mismo-smart-tv-4284173.jpg?tf=1200x' alt='¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/threads-llena-anuncios-meta-empieza-probar-publicidad-no-gustando-1438251'>Threads se llena de anuncios: Meta empieza a probar publicidad y no está gustando</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/threads-llena-anuncios-meta-empieza-probar-publicidad-no-gustando-1438251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/publicidad-threads-4286806.jpg?tf=1200x' alt='Threads se llena de anuncios: Meta empieza a probar publicidad y no está gustando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-no-deberias-preguntarle-nunca-inteligencia-artificial-1437373'>8 cosas que no deberías preguntarle nunca a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cosas-no-deberias-preguntarle-nunca-inteligencia-artificial-1437373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-4285436.jpg?tf=1200x' alt='8 cosas que no deberías preguntarle nunca a la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-inteligencia-artificial-sustituto-1436007'>Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-inteligencia-artificial-sustituto-1436007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283042.jpg?tf=1200x' alt='Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/me-ha-cambiado-vida-habia-tirado-toalla-llamadas-spam-descubri-app-gratis-1436711'>"Me ha cambiado la vida": Había tirado la toalla con las llamadas SPAM, hasta que descubrí esta app gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/me-ha-cambiado-vida-habia-tirado-toalla-llamadas-spam-descubri-app-gratis-1436711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/me-ha-cambiado-vida-habia-tirado-toalla-llamadas-spam-descubri-app-gratis-4284172.jpg?tf=1200x' alt='"Me ha cambiado la vida": Había tirado la toalla con las llamadas SPAM, hasta que descubrí esta app gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-1437152'>Expertos en seguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-1437152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-4285093.jpg?tf=1200x' alt='Expertos en seguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"' />
     </a>
 </div>
 
