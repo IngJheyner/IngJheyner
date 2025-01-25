@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-fulmina-pagina-oficial-descargar-temas-windows-11-10-puede-hacer-ahora-1438298'>Microsoft fulmina la página oficial para descargar temas de Windows 11 y 10: ¿qué se puede hacer ahora?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-fulmina-pagina-oficial-descargar-temas-windows-11-10-puede-hacer-ahora-1438298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/temas-windows-microsoft-store-4286903.jpg?tf=1200x' alt='Microsoft fulmina la página oficial para descargar temas de Windows 11 y 10: ¿qué se puede hacer ahora?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-tiktok-elon-musk-estrena-nuevo-video-vertical-x-todo-mundo-1438297'>Adiós TikTok: Elon Musk estrena el nuevo vídeo vertical de X en todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-tiktok-elon-musk-estrena-nuevo-video-vertical-x-todo-mundo-1438297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-x-4286902.jpg?tf=1200x' alt='Adiós TikTok: Elon Musk estrena el nuevo vídeo vertical de X en todo el mundo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-anuncia-solucion-problemas-importantes-android-auto-1438294'>Google anuncia una solución para uno de los problemas más importantes de Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-anuncia-solucion-problemas-importantes-android-auto-1438294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='Google anuncia una solución para uno de los problemas más importantes de Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-freidoras-aire-cual-comprar-necesidades-1436302'>Mejores freidoras de aire: cuál comprar según tus necesidades</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-freidoras-aire-cual-comprar-necesidades-1436302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ninja-foodi-af300eu-4283647.jpg?tf=1200x' alt='Mejores freidoras de aire: cuál comprar según tus necesidades' />
     </a>
 </div>
 
