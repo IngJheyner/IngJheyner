@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/vaciar-papelera-oculta-whatsapp-legalmente-sirve-1437970'>Vaciar la papelera oculta de WhatsApp: ¿legalmente sirve para algo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/vaciar-papelera-oculta-whatsapp-legalmente-sirve-1437970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/papelera-whatsapp-4286373.jpg?tf=1200x' alt='Vaciar la papelera oculta de WhatsApp: ¿legalmente sirve para algo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-anuncia-solucion-problemas-importantes-android-auto-1438294'>Google anuncia una solución para uno de los problemas más importantes de Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-anuncia-solucion-problemas-importantes-android-auto-1438294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/android-auto-sonido-3307961.jpg?tf=1200x' alt='Google anuncia una solución para uno de los problemas más importantes de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-freidoras-aire-cual-comprar-necesidades-1436302'>Mejores freidoras de aire: cuál comprar según tus necesidades</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-freidoras-aire-cual-comprar-necesidades-1436302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ninja-foodi-af300eu-4283647.jpg?tf=1200x' alt='Mejores freidoras de aire: cuál comprar según tus necesidades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-siempre-forma-compartir-archivos-windows-11-sera-facil-1438280'>Microsoft cambia para siempre la forma de compartir archivos en Windows 11: será así de fácil</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-siempre-forma-compartir-archivos-windows-11-sera-facil-1438280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explorador-archivos-windows-11-4286843.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de compartir archivos en Windows 11: será así de fácil' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/has-usado-mal-movil-xiaomi-todo-tiempo-activa-estas-5-funciones-1437326'>Has usado mal tu móvil Xiaomi todo este tiempo: activa estas 5 funciones</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/has-usado-mal-movil-xiaomi-todo-tiempo-activa-estas-5-funciones-1437326' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sistema-operativo-xiaomi-4285337.jpg?tf=1200x' alt='Has usado mal tu móvil Xiaomi todo este tiempo: activa estas 5 funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/lenta-adopcion-ios-18-mala-noticia-apple-ia-no-logra-acelerar-cambio-version-1438277'>La lenta adopción de iOS 18 es una mala noticia para Apple: la IA no logra acelerar el cambio de versión</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/lenta-adopcion-ios-18-mala-noticia-apple-ia-no-logra-acelerar-cambio-version-1438277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4281594.jpg?tf=1200x' alt='La lenta adopción de iOS 18 es una mala noticia para Apple: la IA no logra acelerar el cambio de versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-reinicios-automaticos-windows-11-actualizacion-1433680'>Cómo desactivar los reinicios automáticos en Windows 11 tras una actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-reinicios-automaticos-windows-11-actualizacion-1433680' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reiniciar-ordenador-windows-11-4279282.jpg?tf=1200x' alt='Cómo desactivar los reinicios automáticos en Windows 11 tras una actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-sube-nivel-seguridad-android-llega-identity-check-estos-moviles-funciona-1438272'>Google sube el nivel de seguridad en Android: llega Identity Check a estos móviles y así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-sube-nivel-seguridad-android-llega-identity-check-estos-moviles-funciona-1438272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/seguridad-android-4286836.jpg?tf=1200x' alt='Google sube el nivel de seguridad en Android: llega Identity Check a estos móviles y así funciona' />
     </a>
 </div>
 
