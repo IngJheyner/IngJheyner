@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520'>Cómo saber si estás consumiendo contenido ilegal de IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/legalidad-iptv-4282223.jpg?tf=1200x' alt='Cómo saber si estás consumiendo contenido ilegal de IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-decepcionaria-antes-salir-dynamic-island-seguiria-igual-ahora-1438260'>El iPhone 17 decepcionaría antes de salir: Dynamic Island seguiría igual que ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-17-decepcionaria-antes-salir-dynamic-island-seguiria-igual-ahora-1438260' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='El iPhone 17 decepcionaría antes de salir: Dynamic Island seguiría igual que ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-fin-pone-color-icono-bateria-ya-no-te-quedaras-carga-despiste-1438259'>Windows 11 por fin pone color al icono de batería: ya no te quedarás sin carga por un despiste</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-fin-pone-color-icono-bateria-ya-no-te-quedaras-carga-despiste-1438259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-portatil-windows-icono-bateria-4286815.jpg?tf=1200x' alt='Windows 11 por fin pone color al icono de batería: ya no te quedarás sin carga por un despiste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716'>¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dlna-deberias-usarlo-ahora-mismo-smart-tv-1436716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dlna-deberias-usarlo-ahora-mismo-smart-tv-4284173.jpg?tf=1200x' alt='¿Qué es DLNA y por qué deberías usarlo ahora mismo en tu Smart TV?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/threads-llena-anuncios-meta-empieza-probar-publicidad-no-gustando-1438251'>Threads se llena de anuncios: Meta empieza a probar publicidad y no está gustando</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/threads-llena-anuncios-meta-empieza-probar-publicidad-no-gustando-1438251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/publicidad-threads-4286806.jpg?tf=1200x' alt='Threads se llena de anuncios: Meta empieza a probar publicidad y no está gustando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cosas-no-deberias-preguntarle-nunca-inteligencia-artificial-1437373'>8 cosas que no deberías preguntarle nunca a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cosas-no-deberias-preguntarle-nunca-inteligencia-artificial-1437373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-4285436.jpg?tf=1200x' alt='8 cosas que no deberías preguntarle nunca a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/cargas-movil-mientras-juegas-podria-llegar-explotar-1436692'>Si cargas el móvil mientras juegas: ¿podría llegar a explotar?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/cargas-movil-mientras-juegas-podria-llegar-explotar-1436692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-movil-explota-4284161.jpg?tf=1200x' alt='Si cargas el móvil mientras juegas: ¿podría llegar a explotar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-inteligencia-artificial-sustituto-1436007'>Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-inteligencia-artificial-sustituto-1436007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4283042.jpg?tf=1200x' alt='Elon Musk "mata" a la inteligencia artificial y anuncia la tecnología que la sustituirá' />
     </a>
 </div>
 
