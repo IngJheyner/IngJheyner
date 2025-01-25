@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-tiktok-elon-musk-estrena-nuevo-video-vertical-x-todo-mundo-1438297'>Adiós TikTok: Elon Musk estrena el nuevo vídeo vertical de X en todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-tiktok-elon-musk-estrena-nuevo-video-vertical-x-todo-mundo-1438297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-x-4286902.jpg?tf=1200x' alt='Adiós TikTok: Elon Musk estrena el nuevo vídeo vertical de X en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-convertir-copilot-proximo-terapeuta-basado-ia-1438296'>Microsoft quiere convertir a Copilot en tu próximo terapeuta basado en IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-convertir-copilot-proximo-terapeuta-basado-ia-1438296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/robot-ia-4286886.jpg?tf=1200x' alt='Microsoft quiere convertir a Copilot en tu próximo terapeuta basado en IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-freidoras-aire-cual-comprar-necesidades-1436302'>Mejores freidoras de aire: cuál comprar según tus necesidades</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejores-freidoras-aire-cual-comprar-necesidades-1436302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ninja-foodi-af300eu-4283647.jpg?tf=1200x' alt='Mejores freidoras de aire: cuál comprar según tus necesidades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-siempre-forma-compartir-archivos-windows-11-sera-facil-1438280'>Microsoft cambia para siempre la forma de compartir archivos en Windows 11: será así de fácil</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-siempre-forma-compartir-archivos-windows-11-sera-facil-1438280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/explorador-archivos-windows-11-4286843.jpg?tf=1200x' alt='Microsoft cambia para siempre la forma de compartir archivos en Windows 11: será así de fácil' />
     </a>
 </div>
 
