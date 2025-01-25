@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-1437152'>Expertos en seguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-1437152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-seguridad-todo-mundo-alertan-9-meses-comenzara-pesadilla-4285093.jpg?tf=1200x' alt='Expertos en seguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/rebaja-sorpresa-tienen-nuevos-samsung-galaxy-s25-ultra-estreno-1438062'>Así es la rebaja sorpresa que tienen los nuevos Samsung Galaxy S25 Ultra en su estreno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/rebaja-sorpresa-tienen-nuevos-samsung-galaxy-s25-ultra-estreno-1438062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4285247.jpg?tf=1200x' alt='Así es la rebaja sorpresa que tienen los nuevos Samsung Galaxy S25 Ultra en su estreno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/adios-multas-dgt-como-activar-modo-maxima-concentracion-android-auto-1437117'>Adiós a las multas de la DGT: cómo activar el modo máxima concentración de Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/adios-multas-dgt-como-activar-modo-maxima-concentracion-android-auto-1437117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-multas-dgt-como-activar-modo-maxima-concentracion-android-auto-4285050.jpg?tf=1200x' alt='Adiós a las multas de la DGT: cómo activar el modo máxima concentración de Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/industria/espana-suma-club-europeo-reciclaje-botellas-fianza-partir-2026-funciona-1434155'>España se suma al club europeo del reciclaje: botellas con fianza a partir de 2026, así funciona</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/espana-suma-club-europeo-reciclaje-botellas-fianza-partir-2026-funciona-1434155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reciclaje-plastico-4281301.jpg?tf=1200x' alt='España se suma al club europeo del reciclaje: botellas con fianza a partir de 2026, así funciona' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-cada-vez-pesado-he-cambiado-sencilla-app-gratis-me-planteo-no-volver-1437428'>Google Maps cada vez es más pesado: he cambiado a esta sencilla app gratis y me planteo no volver</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-cada-vez-pesado-he-cambiado-sencilla-app-gratis-me-planteo-no-volver-1437428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-cada-vez-pesado-he-cambiado-sencilla-app-gratis-me-planteo-no-volver-4285529.jpg?tf=1200x' alt='Google Maps cada vez es más pesado: he cambiado a esta sencilla app gratis y me planteo no volver' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-x200-pro-me-ha-parecido-mejores-alta-gama-secreto-fotografia-precio-1437098'>El Vivo X200 Pro me ha parecido uno de los mejores en la alta gama, y el secreto está en su fotografía y precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vivo-x200-pro-me-ha-parecido-mejores-alta-gama-secreto-fotografia-precio-1437098' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vivo-x200-pro-4284953.jpg?tf=1200x' alt='El Vivo X200 Pro me ha parecido uno de los mejores en la alta gama, y el secreto está en su fotografía y precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchisimas-herramientas-ia-generativa-tengo-clara-favorita-1428678'>He probado muchísimas herramientas de IA generativa y tengo una clara favorita</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchisimas-herramientas-ia-generativa-tengo-clara-favorita-1428678' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/magic-studio-inteligencia-artificial-generativa-herramienta-aplicacion-4271650.jpg?tf=1200x' alt='He probado muchísimas herramientas de IA generativa y tengo una clara favorita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/policia-encuentra-forma-enganar-usuarios-waze-llenaron-ciudad-azul-1437597'>La policía encuentra la forma de engañar a los usuarios de Waze: llenaron la ciudad de azul</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/policia-encuentra-forma-enganar-usuarios-waze-llenaron-ciudad-azul-1437597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-waze-4285772.jpg?tf=1200x' alt='La policía encuentra la forma de engañar a los usuarios de Waze: llenaron la ciudad de azul' />
     </a>
 </div>
 
