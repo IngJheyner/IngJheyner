@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/lenta-adopcion-ios-18-mala-noticia-apple-ia-no-logra-acelerar-cambio-version-1438277'>La lenta adopción de iOS 18 es una mala noticia para Apple: la IA no logra acelerar el cambio de versión</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/lenta-adopcion-ios-18-mala-noticia-apple-ia-no-logra-acelerar-cambio-version-1438277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4281594.jpg?tf=1200x' alt='La lenta adopción de iOS 18 es una mala noticia para Apple: la IA no logra acelerar el cambio de versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-reinicios-automaticos-windows-11-actualizacion-1433680'>Cómo desactivar los reinicios automáticos en Windows 11 tras una actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-desactivar-reinicios-automaticos-windows-11-actualizacion-1433680' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reiniciar-ordenador-windows-11-4279282.jpg?tf=1200x' alt='Cómo desactivar los reinicios automáticos en Windows 11 tras una actualización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520'>Cómo saber si estás consumiendo contenido ilegal de IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/legalidad-iptv-4282223.jpg?tf=1200x' alt='Cómo saber si estás consumiendo contenido ilegal de IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-17-decepcionaria-antes-salir-dynamic-island-seguiria-igual-ahora-1438260'>El iPhone 17 decepcionaría antes de salir: Dynamic Island seguiría igual que ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-17-decepcionaria-antes-salir-dynamic-island-seguiria-igual-ahora-1438260' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/trucos-dynamic-island-2873373.jpg?tf=1200x' alt='El iPhone 17 decepcionaría antes de salir: Dynamic Island seguiría igual que ahora' />
     </a>
 </div>
 
