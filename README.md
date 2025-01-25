@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/has-usado-mal-movil-xiaomi-todo-tiempo-activa-estas-5-funciones-1437326'>Has usado mal tu móvil Xiaomi todo este tiempo: activa estas 5 funciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/has-usado-mal-movil-xiaomi-todo-tiempo-activa-estas-5-funciones-1437326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sistema-operativo-xiaomi-4285337.jpg?tf=1200x' alt='Has usado mal tu móvil Xiaomi todo este tiempo: activa estas 5 funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/lenta-adopcion-ios-18-mala-noticia-apple-ia-no-logra-acelerar-cambio-version-1438277'>La lenta adopción de iOS 18 es una mala noticia para Apple: la IA no logra acelerar el cambio de versión</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/lenta-adopcion-ios-18-mala-noticia-apple-ia-no-logra-acelerar-cambio-version-1438277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4281594.jpg?tf=1200x' alt='La lenta adopción de iOS 18 es una mala noticia para Apple: la IA no logra acelerar el cambio de versión' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413'>El truco de Google Maps para evitar que la aplicación pueda rastrearte</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/truco-google-maps-evitar-aplicacion-pueda-rastrearte-1435413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-google-maps-evitar-aplicacion-pueda-rastrearte-4282001.jpg?tf=1200x' alt='El truco de Google Maps para evitar que la aplicación pueda rastrearte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520'>Cómo saber si estás consumiendo contenido ilegal de IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/como-saber-estas-consumiendo-contenido-ilegal-iptv-1435520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/legalidad-iptv-4282223.jpg?tf=1200x' alt='Cómo saber si estás consumiendo contenido ilegal de IPTV' />
     </a>
 </div>
 
