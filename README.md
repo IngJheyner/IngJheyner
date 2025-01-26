@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373'>Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/asus%20rog%20strix.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-1437969'>Google Maps: el modo escondido para no saltarte un radar o incidencia de tráfico</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-1437969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-4286376.jpg?tf=1200x' alt='Google Maps: el modo escondido para no saltarte un radar o incidencia de tráfico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427'>Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steamos-laptop-4283793.jpg?tf=1200x' alt='Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-error-ultimas-actualizaciones-windows-10-pero-no-tienen-prisa-arreglarlo-1438346'>Microsoft reconoce un error en las últimas actualizaciones de Windows 10, pero no tienen prisa en arreglarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-error-ultimas-actualizaciones-windows-10-pero-no-tienen-prisa-arreglarlo-1438346' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='Microsoft reconoce un error en las últimas actualizaciones de Windows 10, pero no tienen prisa en arreglarlo' />
     </a>
 </div>
 
