@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-1437143'>Ni contestar, colgar o dejar que suenen: este es el método más efectivo para acabar con las llamadas SPAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-1437143' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-4285076.jpg?tf=1200x' alt='Ni contestar, colgar o dejar que suenen: este es el método más efectivo para acabar con las llamadas SPAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-funciones-ocultas-google-maps-no-quiere-conozcas-1437138'>Hallazgo inesperado en Waze: las funciones ocultas que Google Maps no quiere que conozcas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-funciones-ocultas-google-maps-no-quiere-conozcas-1437138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-waze-funciones-ocultas-google-maps-no-quiere-conozcas-4285064.jpg?tf=1200x' alt='Hallazgo inesperado en Waze: las funciones ocultas que Google Maps no quiere que conozcas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/ventiladores-pc-noctua-radiadores-ahorrar-calefaccion-1438308'>Hallazgo inesperado con los ventiladores de PC Noctua: ponlos en los radiadores para ahorrar calefacción</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/ventiladores-pc-noctua-radiadores-ahorrar-calefaccion-1438308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-ventiladores-pc-noctua-ponlos-radiadores-mejorar-calefaccion-4286911.jpg?tf=1200x' alt='Hallazgo inesperado con los ventiladores de PC Noctua: ponlos en los radiadores para ahorrar calefacción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/repentino-amor-tecnoligarcas-como-google-apple-microsoft-trump-estrategia-pura-dura-1437293'>El repentino "amor" de los tecnoligarcas como Google, Apple o Microsoft hacia Trump: ¿Estrategia pura y dura?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/repentino-amor-tecnoligarcas-como-google-apple-microsoft-trump-estrategia-pura-dura-1437293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-apple-microsoft-trump-4286139.jpg?tf=1200x' alt='El repentino "amor" de los tecnoligarcas como Google, Apple o Microsoft hacia Trump: ¿Estrategia pura y dura?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-he-conseguido-desesperada-recuperar-mensajes-fotos-eliminadas-error-1437411'>WhatsApp: así he conseguido, a la desesperada, recuperar mensajes y fotos eliminadas por error </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-he-conseguido-desesperada-recuperar-mensajes-fotos-eliminadas-error-1437411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-he-conseguido-desesperada-recuperar-mensajes-fotos-eliminadas-error-4285513.jpg?tf=1200x' alt='WhatsApp: así he conseguido, a la desesperada, recuperar mensajes y fotos eliminadas por error ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/stargate-faraonico-proyecto-ia-trump-competir-china-1437641'>¿Qué es Stargate, el faraónico proyecto de IA de Trump para competir con China?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/stargate-faraonico-proyecto-ia-trump-competir-china-1437641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1737727981377-4286607.jpg?tf=1200x' alt='¿Qué es Stargate, el faraónico proyecto de IA de Trump para competir con China?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/como-configurar-movil-correctamente-usen-varias-personas-1433645'>Cómo configurar un móvil correctamente para que lo usen varias personas</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/como-configurar-movil-correctamente-usen-varias-personas-1433645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usar-movil-varios-usuarios-familia-4279236.jpg?tf=1200x' alt='Cómo configurar un móvil correctamente para que lo usen varias personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/demasiados-espanoles-cometen-error-cargar-estas-destrozando-movil-1437632'>Demasiados españoles cometen este error al cargar: estás destrozando tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/demasiados-espanoles-cometen-error-cargar-estas-destrozando-movil-1437632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-cargar-movil-espana-4286056.jpg?tf=1200x' alt='Demasiados españoles cometen este error al cargar: estás destrozando tu móvil' />
     </a>
 </div>
 
