@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578'>Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-4282321.jpg?tf=1200x' alt='Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-1437143'>Ni contestar, colgar o dejar que suenen: este es el método más efectivo para acabar con las llamadas SPAM</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-1437143' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-4285076.jpg?tf=1200x' alt='Ni contestar, colgar o dejar que suenen: este es el método más efectivo para acabar con las llamadas SPAM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/repentino-amor-tecnoligarcas-como-google-apple-microsoft-trump-estrategia-pura-dura-1437293'>El repentino "amor" de los tecnoligarcas como Google, Apple o Microsoft hacia Trump: ¿Estrategia pura y dura?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/repentino-amor-tecnoligarcas-como-google-apple-microsoft-trump-estrategia-pura-dura-1437293' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-apple-microsoft-trump-4286139.jpg?tf=1200x' alt='El repentino "amor" de los tecnoligarcas como Google, Apple o Microsoft hacia Trump: ¿Estrategia pura y dura?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-he-conseguido-desesperada-recuperar-mensajes-fotos-eliminadas-error-1437411'>WhatsApp: así he conseguido, a la desesperada, recuperar mensajes y fotos eliminadas por error </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-he-conseguido-desesperada-recuperar-mensajes-fotos-eliminadas-error-1437411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-he-conseguido-desesperada-recuperar-mensajes-fotos-eliminadas-error-4285513.jpg?tf=1200x' alt='WhatsApp: así he conseguido, a la desesperada, recuperar mensajes y fotos eliminadas por error ' />
     </a>
 </div>
 
