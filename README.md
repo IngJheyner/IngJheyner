@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-1437969'>Google Maps: el modo escondido para no saltarte un radar o incidencia de tráfico</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-1437969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-4286376.jpg?tf=1200x' alt='Google Maps: el modo escondido para no saltarte un radar o incidencia de tráfico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-alia-sony-crear-smart-band-9-pro-playstation-1438372'>Xiaomi se alía con Sony para crear un dispositivo PlayStation que nadie esperaba</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-alia-sony-crear-smart-band-9-pro-playstation-1438372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-alia-sony-crear-dispositivo-playstation-nadie-esperaba-4286979.jpg?tf=1200x' alt='Xiaomi se alía con Sony para crear un dispositivo PlayStation que nadie esperaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147'>Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-4285085.jpg?tf=1200x' alt='Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-error-ultimas-actualizaciones-windows-10-pero-no-tienen-prisa-arreglarlo-1438346'>Microsoft reconoce un error en las últimas actualizaciones de Windows 10, pero no tienen prisa en arreglarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-error-ultimas-actualizaciones-windows-10-pero-no-tienen-prisa-arreglarlo-1438346' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='Microsoft reconoce un error en las últimas actualizaciones de Windows 10, pero no tienen prisa en arreglarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/controla-seguridad-pc-firewall-windows-11-1433702'>Controla la seguridad de tu PC con el firewall en Windows 11: Así puedes configurarlo paso a paso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/controla-seguridad-pc-firewall-windows-11-1433702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/firewall-windows-11-4279361.jpg?tf=1200x' alt='Controla la seguridad de tu PC con el firewall en Windows 11: Así puedes configurarlo paso a paso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-copia-funcion-microsoft-edge-1438345'>Google Chrome "copia" esta función de Microsoft Edge</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-copia-funcion-microsoft-edge-1438345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-chrome-microsoft-edge-4286942.jpg?tf=1200x' alt='Google Chrome "copia" esta función de Microsoft Edge' />
     </a>
 </div>
 
