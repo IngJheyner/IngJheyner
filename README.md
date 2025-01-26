@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/controla-seguridad-pc-firewall-windows-11-1433702'>Controla la seguridad de tu PC con el firewall en Windows 11: Así puedes configurarlo paso a paso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/controla-seguridad-pc-firewall-windows-11-1433702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/firewall-windows-11-4279361.jpg?tf=1200x' alt='Controla la seguridad de tu PC con el firewall en Windows 11: Así puedes configurarlo paso a paso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-copia-funcion-microsoft-edge-1438345'>Google Chrome "copia" esta función de Microsoft Edge</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-copia-funcion-microsoft-edge-1438345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-chrome-microsoft-edge-4286942.jpg?tf=1200x' alt='Google Chrome "copia" esta función de Microsoft Edge' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589'>Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-4282344.jpg?tf=1200x' alt='Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/reloj-amazfit-planta-cara-garmin-gps-menos-100-euros-1438315'>Así es el reloj Amazfit que le planta cara a los Garmin: con GPS y por menos de 100 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/reloj-amazfit-planta-cara-garmin-gps-menos-100-euros-1438315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='Así es el reloj Amazfit que le planta cara a los Garmin: con GPS y por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/culpa-microsoft-mayoria-usuarios-no-dudarian-actualizar-windows-11-pcs-fueran-compatibles-1438337'>¿Culpa de Microsoft? La mayoría de los usuarios no dudarían en actualizar a Windows 11 si sus PCs fueran compatibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/culpa-microsoft-mayoria-usuarios-no-dudarian-actualizar-windows-11-pcs-fueran-compatibles-1438337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4251487.jpg?tf=1200x' alt='¿Culpa de Microsoft? La mayoría de los usuarios no dudarían en actualizar a Windows 11 si sus PCs fueran compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/direccion-correo-electronico-respaldo-deberias-tener-1435582'>Qué es una dirección de correo electrónico de respaldo y por qué deberías tener una</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/direccion-correo-electronico-respaldo-deberias-tener-1435582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/direccion-correo-electronico-respaldo-deberias-tener-4282338.jpg?tf=1200x' alt='Qué es una dirección de correo electrónico de respaldo y por qué deberías tener una' />
     </a>
 </div>
 
