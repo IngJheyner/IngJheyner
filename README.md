@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-conexion-movil-dinero-banco-1435955'>Alarma de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-conexion-movil-dinero-banco-1435955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alarma de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578'>Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-4282321.jpg?tf=1200x' alt='Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/ventiladores-pc-noctua-radiadores-ahorrar-calefaccion-1438308'>Hallazgo inesperado con los ventiladores de PC Noctua: ponlos en los radiadores para ahorrar calefacción</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/ventiladores-pc-noctua-radiadores-ahorrar-calefaccion-1438308' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-ventiladores-pc-noctua-ponlos-radiadores-mejorar-calefaccion-4286911.jpg?tf=1200x' alt='Hallazgo inesperado con los ventiladores de PC Noctua: ponlos en los radiadores para ahorrar calefacción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/repentino-amor-tecnoligarcas-como-google-apple-microsoft-trump-estrategia-pura-dura-1437293'>El repentino "amor" de los tecnoligarcas como Google, Apple o Microsoft hacia Trump: ¿Estrategia pura y dura?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/repentino-amor-tecnoligarcas-como-google-apple-microsoft-trump-estrategia-pura-dura-1437293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-apple-microsoft-trump-4286139.jpg?tf=1200x' alt='El repentino "amor" de los tecnoligarcas como Google, Apple o Microsoft hacia Trump: ¿Estrategia pura y dura?' />
     </a>
 </div>
 
