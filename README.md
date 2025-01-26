@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147'>Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-4285085.jpg?tf=1200x' alt='Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427'>Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steamos-laptop-4283793.jpg?tf=1200x' alt='Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-copia-funcion-microsoft-edge-1438345'>Google Chrome "copia" esta función de Microsoft Edge</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-chrome-copia-funcion-microsoft-edge-1438345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-chrome-microsoft-edge-4286942.jpg?tf=1200x' alt='Google Chrome "copia" esta función de Microsoft Edge' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589'>Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-4282344.jpg?tf=1200x' alt='Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows' />
     </a>
 </div>
 
