@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589'>Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-4282344.jpg?tf=1200x' alt='Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-correo-calendario-microsoft-ya-obliga-usar-nuevo-outlook-windows-11-1438342'>¡Adiós a Correo y Calendario! Microsoft ya obliga a usar el nuevo Outlook en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-correo-calendario-microsoft-ya-obliga-usar-nuevo-outlook-windows-11-1438342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-outlook-4285471.jpg?tf=1200x' alt='¡Adiós a Correo y Calendario! Microsoft ya obliga a usar el nuevo Outlook en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/reloj-amazfit-planta-cara-garmin-gps-menos-100-euros-1438315'>Así es el reloj Amazfit que le planta cara a los Garmin: con GPS y por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/reloj-amazfit-planta-cara-garmin-gps-menos-100-euros-1438315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='Así es el reloj Amazfit que le planta cara a los Garmin: con GPS y por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/culpa-microsoft-mayoria-usuarios-no-dudarian-actualizar-windows-11-pcs-fueran-compatibles-1438337'>¿Culpa de Microsoft? La mayoría de los usuarios no dudarían en actualizar a Windows 11 si sus PCs fueran compatibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/culpa-microsoft-mayoria-usuarios-no-dudarian-actualizar-windows-11-pcs-fueran-compatibles-1438337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/windows-11-actualizacion-4251487.jpg?tf=1200x' alt='¿Culpa de Microsoft? La mayoría de los usuarios no dudarían en actualizar a Windows 11 si sus PCs fueran compatibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/direccion-correo-electronico-respaldo-deberias-tener-1435582'>Qué es una dirección de correo electrónico de respaldo y por qué deberías tener una</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/direccion-correo-electronico-respaldo-deberias-tener-1435582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/direccion-correo-electronico-respaldo-deberias-tener-4282338.jpg?tf=1200x' alt='Qué es una dirección de correo electrónico de respaldo y por qué deberías tener una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277'>Vuelco en Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Vuelco en Movistar Plus+: los nuevos canales llegan con una importante limitación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/oracle-microsoft-quieren-quedarse-tiktok-seria-nuevo-acuerdo-compra-1438335'>Oracle y Microsoft quieren quedarse con TikTok: así sería el nuevo acuerdo de compra</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/oracle-microsoft-quieren-quedarse-tiktok-seria-nuevo-acuerdo-compra-1438335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/oracle-microsoft-quieren-quedarse-tiktok-4286937.jpg?tf=1200x' alt='Oracle y Microsoft quieren quedarse con TikTok: así sería el nuevo acuerdo de compra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-conexion-movil-dinero-banco-1435955'>Alarma de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-conexion-movil-dinero-banco-1435955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alarma de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578'>Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-4282321.jpg?tf=1200x' alt='Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"' />
     </a>
 </div>
 
