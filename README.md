@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pistolas-fantasma-multiplican-estados-unidos-otro-asesinato-arma-impresa-3d-1438379'>Las pistolas fantasma se multiplican en Estados Unidos: otro asesinato con una arma impresa en 3D</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pistolas-fantasma-multiplican-estados-unidos-otro-asesinato-arma-impresa-3d-1438379' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pistolas-fantasma-multiplican-estados-unidos-primer-muerto-arma-impresa-3d-4287039.jpg?tf=1200x' alt='Las pistolas fantasma se multiplican en Estados Unidos: otro asesinato con una arma impresa en 3D' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373'>Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/asus%20rog%20strix.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147'>Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-4285085.jpg?tf=1200x' alt='Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427'>Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steamos-laptop-4283793.jpg?tf=1200x' alt='Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?' />
     </a>
 </div>
 
