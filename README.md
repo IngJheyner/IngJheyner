@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/direccion-correo-electronico-respaldo-deberias-tener-1435582'>Qué es una dirección de correo electrónico de respaldo y por qué deberías tener una</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/direccion-correo-electronico-respaldo-deberias-tener-1435582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/direccion-correo-electronico-respaldo-deberias-tener-4282338.jpg?tf=1200x' alt='Qué es una dirección de correo electrónico de respaldo y por qué deberías tener una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277'>Vuelco en Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-movistar-plus-nuevos-canales-llegan-importante-limitacion-1437277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Vuelco en Movistar Plus+: los nuevos canales llegan con una importante limitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/oracle-microsoft-quieren-quedarse-tiktok-seria-nuevo-acuerdo-compra-1438335'>Oracle y Microsoft quieren quedarse con TikTok: así sería el nuevo acuerdo de compra</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/oracle-microsoft-quieren-quedarse-tiktok-seria-nuevo-acuerdo-compra-1438335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/oracle-microsoft-quieren-quedarse-tiktok-4286937.jpg?tf=1200x' alt='Oracle y Microsoft quieren quedarse con TikTok: así sería el nuevo acuerdo de compra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-conexion-movil-dinero-banco-1435955'>Alarma de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-roja-estafa-guardia-civil-conexion-movil-dinero-banco-1435955' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alarma de la Guardia Civil en toda España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578'>Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-1435578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-activar-modo-infalible-chatgpt-no-equivoca-nunca-4282321.jpg?tf=1200x' alt='Cómo activar el modo infalible de ChatGPT: "No se equivoca nunca"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-1437143'>Ni contestar, colgar o dejar que suenen: este es el método más efectivo para acabar con las llamadas SPAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-1437143' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-contestar-colgar-dejar-suenen-metodo-efectivo-acabar-llamadas-spam-4285076.jpg?tf=1200x' alt='Ni contestar, colgar o dejar que suenen: este es el método más efectivo para acabar con las llamadas SPAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-funciones-ocultas-google-maps-no-quiere-conozcas-1437138'>Hallazgo inesperado en Waze: las funciones ocultas que Google Maps no quiere que conozcas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/hallazgo-inesperado-waze-funciones-ocultas-google-maps-no-quiere-conozcas-1437138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-waze-funciones-ocultas-google-maps-no-quiere-conozcas-4285064.jpg?tf=1200x' alt='Hallazgo inesperado en Waze: las funciones ocultas que Google Maps no quiere que conozcas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/ventiladores-pc-noctua-radiadores-ahorrar-calefaccion-1438308'>Hallazgo inesperado con los ventiladores de PC Noctua: ponlos en los radiadores para ahorrar calefacción</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/ventiladores-pc-noctua-radiadores-ahorrar-calefaccion-1438308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-ventiladores-pc-noctua-ponlos-radiadores-mejorar-calefaccion-4286911.jpg?tf=1200x' alt='Hallazgo inesperado con los ventiladores de PC Noctua: ponlos en los radiadores para ahorrar calefacción' />
     </a>
 </div>
 
