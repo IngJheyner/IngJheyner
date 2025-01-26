@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427'>Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-steamos-pc-cero-merece-pena-1436427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steamos-laptop-4283793.jpg?tf=1200x' alt='Cómo instalar SteamOS en un PC desde cero: ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-error-ultimas-actualizaciones-windows-10-pero-no-tienen-prisa-arreglarlo-1438346'>Microsoft reconoce un error en las últimas actualizaciones de Windows 10, pero no tienen prisa en arreglarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-reconoce-error-ultimas-actualizaciones-windows-10-pero-no-tienen-prisa-arreglarlo-1438346' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-va-imponerte-nueva-aplicacion-windows-10-aunque-no-te-guste-4281577.jpg?tf=1200x' alt='Microsoft reconoce un error en las últimas actualizaciones de Windows 10, pero no tienen prisa en arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/controla-seguridad-pc-firewall-windows-11-1433702'>Controla la seguridad de tu PC con el firewall en Windows 11: Así puedes configurarlo paso a paso</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/controla-seguridad-pc-firewall-windows-11-1433702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/firewall-windows-11-4279361.jpg?tf=1200x' alt='Controla la seguridad de tu PC con el firewall en Windows 11: Así puedes configurarlo paso a paso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589'>Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-1435589' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-crear-cuotas-espacio-disco-duro-cada-usuario-windows-4282344.jpg?tf=1200x' alt='Cómo crear cuotas de espacio en el disco duro para cada usuario en Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-correo-calendario-microsoft-ya-obliga-usar-nuevo-outlook-windows-11-1438342'>¡Adiós a Correo y Calendario! Microsoft ya obliga a usar el nuevo Outlook en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-correo-calendario-microsoft-ya-obliga-usar-nuevo-outlook-windows-11-1438342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-outlook-4285471.jpg?tf=1200x' alt='¡Adiós a Correo y Calendario! Microsoft ya obliga a usar el nuevo Outlook en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/reloj-amazfit-planta-cara-garmin-gps-menos-100-euros-1438315'>Así es el reloj Amazfit que le planta cara a los Garmin: con GPS y por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/reloj-amazfit-planta-cara-garmin-gps-menos-100-euros-1438315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/amazfit-cheetah-square-3205164.jpg?tf=1200x' alt='Así es el reloj Amazfit que le planta cara a los Garmin: con GPS y por menos de 100 euros' />
     </a>
 </div>
 
