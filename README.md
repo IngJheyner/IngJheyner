@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-veces-responde-chino-ruso-sorprendente-razon-1438484'>¿Por qué ChatGPT a veces responde en chino o ruso? Esta es la sorprendente razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-veces-responde-chino-ruso-sorprendente-razon-1438484' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-veces-responde-chino-ruso-sorprendente-razon-4287155.jpg?tf=1200x' alt='¿Por qué ChatGPT a veces responde en chino o ruso? Esta es la sorprendente razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/comprar-iphone-16-ahora-iphone-4-unas-semanas-esperar-iphone-17-1438516'>¿Comprar un iPhone 16 ahora, un iPhone SE 4 en unas semanas o esperar al iPhone 17?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/comprar-iphone-16-ahora-iphone-4-unas-semanas-esperar-iphone-17-1438516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dudad-iphone-apple-4287215.jpg?tf=1200x' alt='¿Comprar un iPhone 16 ahora, un iPhone SE 4 en unas semanas o esperar al iPhone 17?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-donde-viene-poniendo-problemas-chatgpt-1438463'>¿Qué es DeepSeek, de dónde viene y por qué está poniendo en problemas a ChatGPT?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-donde-viene-poniendo-problemas-chatgpt-1438463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4287179.jpg?tf=1200x' alt='¿Qué es DeepSeek, de dónde viene y por qué está poniendo en problemas a ChatGPT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/movistar-piedad-usuarios-iptv-mayores-amenazas-ingresos-1438459'>Movistar sin piedad a por los usuarios de IPTV: "Una de las mayores amenazas para nuestros ingresos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/movistar-piedad-usuarios-iptv-mayores-amenazas-ingresos-1438459' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-4275267.jpg?tf=1200x' alt='Movistar sin piedad a por los usuarios de IPTV: "Una de las mayores amenazas para nuestros ingresos"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/donald-trump-decidira-futuro-tiktok-eeuu-plazo-30-dias-1438490'>Donald Trump decidirá el futuro de TikTok en EE.UU. en un plazo de 30 días  </a></h4>
     <a href='https://computerhoy.20minutos.es/apps/donald-trump-decidira-futuro-tiktok-eeuu-plazo-30-dias-1438490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/donald-trump-tiktok-4287188.jpg?tf=1200x' alt='Donald Trump decidirá el futuro de TikTok en EE.UU. en un plazo de 30 días  ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/bizum-pay-vs-apple-pay-ni-tarjetas-ni-efectivo-empieza-gran-batalla-pago-movil-espana-1438449'>Bizum Pay vs. Apple Pay: ni tarjetas ni efectivo, empieza la gran batalla por el pago móvil en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/bizum-pay-vs-apple-pay-ni-tarjetas-ni-efectivo-empieza-gran-batalla-pago-movil-espana-1438449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bizum-pay-vs-apple-pay-4287143.jpg?tf=1200x' alt='Bizum Pay vs. Apple Pay: ni tarjetas ni efectivo, empieza la gran batalla por el pago móvil en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-aviso-banco-espana-1438187'>Esta es la nueva y peligrosa estafa que tiene en jaque al Banco de España: así funciona TrickMo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-aviso-banco-espana-1438187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-tarjeta-bancaria-4286714.jpg?tf=1200x' alt='Esta es la nueva y peligrosa estafa que tiene en jaque al Banco de España: así funciona TrickMo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-x-universidad-sevilla-ahora-ayuntamiento-barcelona-abandonan-twitter-pero-estampida-1438443'>Adiós a X: la Universidad de Sevilla y ahora el Ayuntamiento de Barcelona abandonan Twitter, pero ¿por qué esta estampida?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-x-universidad-sevilla-ahora-ayuntamiento-barcelona-abandonan-twitter-pero-estampida-1438443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estampida-x-4287130.jpg?tf=1200x' alt='Adiós a X: la Universidad de Sevilla y ahora el Ayuntamiento de Barcelona abandonan Twitter, pero ¿por qué esta estampida?' />
     </a>
 </div>
 
