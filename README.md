@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-retrasa-lanzamiento-satelite-espanol-fallos-cohete-1438427'>Elon Musk retrasa el lanzamiento del satélite español por fallos en su cohete </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-retrasa-lanzamiento-satelite-espanol-fallos-cohete-1438427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/despegue-cohete-falcon-9-empresa-space-x-4287138.jpg?tf=1200x' alt='Elon Musk retrasa el lanzamiento del satélite español por fallos en su cohete ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/vuelco-google-maps-sencillo-truco-permite-anadirle-mejor-funcion-waze-1438553'>Vuelco en Google Maps: este sencillo truco permite añadirle la mejor función de Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/vuelco-google-maps-sencillo-truco-permite-anadirle-mejor-funcion-waze-1438553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-google-maps-sencillo-truco-permite-anadirle-mejor-funcion-waze-4287341.jpg?tf=1200x' alt='Vuelco en Google Maps: este sencillo truco permite añadirle la mejor función de Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476'>Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4287192.jpg?tf=1200x' alt='Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-bill-gates-probabilidades-nueva-pandemia-solo-4-anos-son-muy-altas-no-estamos-preparados-1438497'>Estas son para Bill Gates las probabilidades de una nueva pandemia en solo 4 años: "Son muy altas y no estamos preparados"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-bill-gates-probabilidades-nueva-pandemia-solo-4-anos-son-muy-altas-no-estamos-preparados-1438497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-predice-futuras-pandemias-4287208.jpg?tf=1200x' alt='Estas son para Bill Gates las probabilidades de una nueva pandemia en solo 4 años: "Son muy altas y no estamos preparados"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-seguridad-pide-desactivar-funcion-whatsapp-inmediato-activa-defecto-te-puede-llenar-movil-virus-1438524'>Experta en seguridad pide desactivar esta función de WhatsApp de inmediato: "Se activa por defecto y te puede llenar el móvil de virus"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-seguridad-pide-desactivar-funcion-whatsapp-inmediato-activa-defecto-te-puede-llenar-movil-virus-1438524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4287229.jpg?tf=1200x' alt='Experta en seguridad pide desactivar esta función de WhatsApp de inmediato: "Se activa por defecto y te puede llenar el móvil de virus"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-fechas-todo-debes-saber-estar-preparado-1438517'>Apagón de la TDT en 2025: fechas y todo lo que debes saber para estar preparado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-fechas-todo-debes-saber-estar-preparado-1438517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/jarro-agua-fria-tdt-espana-hay-esperar-termine-guerra-4269768.jpg?tf=1200x' alt='Apagón de la TDT en 2025: fechas y todo lo que debes saber para estar preparado' />
     </a>
 </div>
 
