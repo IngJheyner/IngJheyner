@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-blu-ray-sony-anuncia-deja-fabricar-formatos-fisicos-ocurrira-juegos-ps5-1438523'>Giro de 180 grados con el Blu-ray, Sony anuncia que deja de fabricar formatos físicos: ¿qué ocurrirá con los juegos de PS5?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-blu-ray-sony-anuncia-deja-fabricar-formatos-fisicos-ocurrira-juegos-ps5-1438523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-3630495.jpg?tf=1200x' alt='Giro de 180 grados con el Blu-ray, Sony anuncia que deja de fabricar formatos físicos: ¿qué ocurrirá con los juegos de PS5?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/movil-barato-vendido-xiaomi-tiene-5g-aliexpress-rebaja-muy-debajo-amazon-1438470'>El móvil barato más vendido de Xiaomi tiene 5G y AliExpress lo rebaja muy por debajo de Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/movil-barato-vendido-xiaomi-tiene-5g-aliexpress-rebaja-muy-debajo-amazon-1438470' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-14-4287144.jpg?tf=1200x' alt='El móvil barato más vendido de Xiaomi tiene 5G y AliExpress lo rebaja muy por debajo de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-retrasa-lanzamiento-satelite-espanol-fallos-cohete-1438427'>Elon Musk retrasa el lanzamiento del satélite español por fallos en su cohete </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-retrasa-lanzamiento-satelite-espanol-fallos-cohete-1438427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/despegue-cohete-falcon-9-empresa-space-x-4287138.jpg?tf=1200x' alt='Elon Musk retrasa el lanzamiento del satélite español por fallos en su cohete ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476'>Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4287192.jpg?tf=1200x' alt='Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-pirateria-desastre-1434207'>Experto en IPTV y piratería alerta sobre lo que ocurrirá en los próximos meses: "Cuando ocurre un desastre…" </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/experto-iptv-pirateria-desastre-1434207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-4287263.jpg?tf=1200x' alt='Experto en IPTV y piratería alerta sobre lo que ocurrirá en los próximos meses: "Cuando ocurre un desastre…" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-bill-gates-probabilidades-nueva-pandemia-solo-4-anos-son-muy-altas-no-estamos-preparados-1438497'>Estas son para Bill Gates las probabilidades de una nueva pandemia en solo 4 años: "Son muy altas y no estamos preparados"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-bill-gates-probabilidades-nueva-pandemia-solo-4-anos-son-muy-altas-no-estamos-preparados-1438497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-predice-futuras-pandemias-4287208.jpg?tf=1200x' alt='Estas son para Bill Gates las probabilidades de una nueva pandemia en solo 4 años: "Son muy altas y no estamos preparados"' />
     </a>
 </div>
 
