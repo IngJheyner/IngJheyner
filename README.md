@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543'>El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-4287261.jpg?tf=1200x' alt='El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/no-espam-app-gratis-bloquea-numeros-llamadas-spam-espana-1438577'>NO ESpam, la app gratis que bloquea los números y llamadas SPAM más utilizados en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/no-espam-app-gratis-bloquea-numeros-llamadas-spam-espana-1438577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-noespam-4287383.jpg?tf=1200x' alt='NO ESpam, la app gratis que bloquea los números y llamadas SPAM más utilizados en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/jarro-agua-fria-nintendo-switch-2-ps5-desarrolladores-creando-juegos-pc-1438602'>Jarro de agua fría para Nintendo Switch 2 y PS5: el 80% de los desarrolladores está creando juegos para PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/jarro-agua-fria-nintendo-switch-2-ps5-desarrolladores-creando-juegos-pc-1438602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-nintendo-switch-2-ps5-80-desarrolladores-creando-juegos-pc-4287075.jpg?tf=1200x' alt='Jarro de agua fría para Nintendo Switch 2 y PS5: el 80% de los desarrolladores está creando juegos para PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-consiguen-secuestrar-rid-windows-crear-cuenta-administrador-oculta-1438575'>Hackers consiguen secuestrar el RID de Windows para crear una cuenta de administrador oculta</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/hackers-consiguen-secuestrar-rid-windows-crear-cuenta-administrador-oculta-1438575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hackers-consiguen-secuestrar-rid-windows-crear-cuenta-administrador-oculta-4287382.jpg?tf=1200x' alt='Hackers consiguen secuestrar el RID de Windows para crear una cuenta de administrador oculta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-fin-tendra-mejores-funciones-disponible-android-1438555'>WhatsApp para iPhone por fin tendrá una de las mejores funciones disponible en Android</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-fin-tendra-mejores-funciones-disponible-android-1438555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-funcion-whatsapp-iphone-4287305.jpg?tf=1200x' alt='WhatsApp para iPhone por fin tendrá una de las mejores funciones disponible en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/vuelco-programacion-movistar-plus-anade-tres-nuevos-canales-gratis-elimina-1438572'>Vuelco a la programación de Movistar Plus+: añade tres nuevos canales gratis y elimina uno</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/vuelco-programacion-movistar-plus-anade-tres-nuevos-canales-gratis-elimina-1438572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg?tf=1200x' alt='Vuelco a la programación de Movistar Plus+: añade tres nuevos canales gratis y elimina uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-llamada-spam-desconocidas-bloquear-numero-1434580'>Vuelco a las llamadas SPAM: este es mi truco para saber si es una estafa antes de cogerla y bloquear el número sin contestar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/truco-llamada-spam-desconocidas-bloquear-numero-1434580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-detectar-llamadas-spam-4282963.jpg?tf=1200x' alt='Vuelco a las llamadas SPAM: este es mi truco para saber si es una estafa antes de cogerla y bloquear el número sin contestar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-blu-ray-sony-anuncia-deja-fabricar-formatos-fisicos-ocurrira-juegos-ps5-1438523'>Giro de 180 grados con el Blu-ray, Sony anuncia que deja de fabricar formatos físicos: ¿qué ocurrirá con los juegos de PS5?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-blu-ray-sony-anuncia-deja-fabricar-formatos-fisicos-ocurrira-juegos-ps5-1438523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-3630495.jpg?tf=1200x' alt='Giro de 180 grados con el Blu-ray, Sony anuncia que deja de fabricar formatos físicos: ¿qué ocurrirá con los juegos de PS5?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/movil-barato-vendido-xiaomi-tiene-5g-aliexpress-rebaja-muy-debajo-amazon-1438470'>El móvil barato más vendido de Xiaomi tiene 5G y AliExpress lo rebaja muy por debajo de Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/movil-barato-vendido-xiaomi-tiene-5g-aliexpress-rebaja-muy-debajo-amazon-1438470' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-14-4287144.jpg?tf=1200x' alt='El móvil barato más vendido de Xiaomi tiene 5G y AliExpress lo rebaja muy por debajo de Amazon' />
     </a>
 </div>
 
