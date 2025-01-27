@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-fin-tendra-mejores-funciones-disponible-android-1438555'>WhatsApp para iPhone por fin tendrá una de las mejores funciones disponible en Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-fin-tendra-mejores-funciones-disponible-android-1438555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-funcion-whatsapp-iphone-4287305.jpg?tf=1200x' alt='WhatsApp para iPhone por fin tendrá una de las mejores funciones disponible en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/vuelco-programacion-movistar-plus-anade-tres-nuevos-canales-gratis-elimina-1438572'>Vuelco a la programación de Movistar Plus+: añade tres nuevos canales gratis y elimina uno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/vuelco-programacion-movistar-plus-anade-tres-nuevos-canales-gratis-elimina-1438572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg?tf=1200x' alt='Vuelco a la programación de Movistar Plus+: añade tres nuevos canales gratis y elimina uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-llamada-spam-desconocidas-bloquear-numero-1434580'>Vuelco a las llamadas SPAM: este es mi truco para saber si es una estafa antes de cogerla y bloquear el número sin contestar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-llamada-spam-desconocidas-bloquear-numero-1434580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-detectar-llamadas-spam-4282963.jpg?tf=1200x' alt='Vuelco a las llamadas SPAM: este es mi truco para saber si es una estafa antes de cogerla y bloquear el número sin contestar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-blu-ray-sony-anuncia-deja-fabricar-formatos-fisicos-ocurrira-juegos-ps5-1438523'>Giro de 180 grados con el Blu-ray, Sony anuncia que deja de fabricar formatos físicos: ¿qué ocurrirá con los juegos de PS5?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-blu-ray-sony-anuncia-deja-fabricar-formatos-fisicos-ocurrira-juegos-ps5-1438523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/sony-despide-250-trabajadores-fabrica-blu-ray-discos-fisicos-peligro-3630495.jpg?tf=1200x' alt='Giro de 180 grados con el Blu-ray, Sony anuncia que deja de fabricar formatos físicos: ¿qué ocurrirá con los juegos de PS5?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/movil-barato-vendido-xiaomi-tiene-5g-aliexpress-rebaja-muy-debajo-amazon-1438470'>El móvil barato más vendido de Xiaomi tiene 5G y AliExpress lo rebaja muy por debajo de Amazon</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/movil-barato-vendido-xiaomi-tiene-5g-aliexpress-rebaja-muy-debajo-amazon-1438470' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-14-4287144.jpg?tf=1200x' alt='El móvil barato más vendido de Xiaomi tiene 5G y AliExpress lo rebaja muy por debajo de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-retrasa-lanzamiento-satelite-espanol-fallos-cohete-1438427'>Elon Musk retrasa el lanzamiento del satélite español por fallos en su cohete </a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-retrasa-lanzamiento-satelite-espanol-fallos-cohete-1438427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/despegue-cohete-falcon-9-empresa-space-x-4287138.jpg?tf=1200x' alt='Elon Musk retrasa el lanzamiento del satélite español por fallos en su cohete ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/vuelco-google-maps-sencillo-truco-permite-anadirle-mejor-funcion-waze-1438553'>Vuelco en Google Maps: este sencillo truco permite añadirle la mejor función de Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/vuelco-google-maps-sencillo-truco-permite-anadirle-mejor-funcion-waze-1438553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-google-maps-sencillo-truco-permite-anadirle-mejor-funcion-waze-4287341.jpg?tf=1200x' alt='Vuelco en Google Maps: este sencillo truco permite añadirle la mejor función de Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476'>Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4287192.jpg?tf=1200x' alt='Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años' />
     </a>
 </div>
 
