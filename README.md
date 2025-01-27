@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/mi-abuela-no-sabia-cambiar-pilas-compro-20-game-boys-increible-hallazgo-usuario-reddit-1438626'>"Mi abuela no sabía cambiar las pilas y compró 20 Game Boys": el increíble hallazgo de un usuario de Reddit</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/mi-abuela-no-sabia-cambiar-pilas-compro-20-game-boys-increible-hallazgo-usuario-reddit-1438626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/increible-hallazgo-usuario-reddit-4287430.jpg?tf=1200x' alt='"Mi abuela no sabía cambiar las pilas y compró 20 Game Boys": el increíble hallazgo de un usuario de Reddit' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-volvio-pero-no-mismo-usuarios-notan-cambios-extranos-app-eeuu-1438625'>TikTok volvió… pero no es el mismo: usuarios notan cambios extraños en la app en EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiktok-volvio-pero-no-mismo-usuarios-notan-cambios-extranos-app-eeuu-1438625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-4287429.jpg?tf=1200x' alt='TikTok volvió… pero no es el mismo: usuarios notan cambios extraños en la app en EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cambio-radical-google-maps-android-auto-136-actualiza-responsabilidad-1438624'>Cambio radical de Google Maps en Android Auto 13.6: actualiza bajo tu responsabilidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cambio-radical-google-maps-android-auto-136-actualiza-responsabilidad-1438624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Cambio radical de Google Maps en Android Auto 13.6: actualiza bajo tu responsabilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543'>El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-4287261.jpg?tf=1200x' alt='El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/no-espam-app-gratis-bloquea-numeros-llamadas-spam-espana-1438577'>NO ESpam, la app gratis que bloquea los números y llamadas SPAM más utilizados en España</a></h4>
     <a href='https://computerhoy.20minutos.es/no-espam-app-gratis-bloquea-numeros-llamadas-spam-espana-1438577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-noespam-4287383.jpg?tf=1200x' alt='NO ESpam, la app gratis que bloquea los números y llamadas SPAM más utilizados en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/jarro-agua-fria-nintendo-switch-2-ps5-desarrolladores-creando-juegos-pc-1438602'>Jarro de agua fría para Nintendo Switch 2 y PS5: el 80% de los desarrolladores está creando juegos para PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/jarro-agua-fria-nintendo-switch-2-ps5-desarrolladores-creando-juegos-pc-1438602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-nintendo-switch-2-ps5-80-desarrolladores-creando-juegos-pc-4287075.jpg?tf=1200x' alt='Jarro de agua fría para Nintendo Switch 2 y PS5: el 80% de los desarrolladores está creando juegos para PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-consiguen-secuestrar-rid-windows-crear-cuenta-administrador-oculta-1438575'>Hackers consiguen secuestrar el RID de Windows para crear una cuenta de administrador oculta</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hackers-consiguen-secuestrar-rid-windows-crear-cuenta-administrador-oculta-1438575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hackers-consiguen-secuestrar-rid-windows-crear-cuenta-administrador-oculta-4287382.jpg?tf=1200x' alt='Hackers consiguen secuestrar el RID de Windows para crear una cuenta de administrador oculta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-fin-tendra-mejores-funciones-disponible-android-1438555'>WhatsApp para iPhone por fin tendrá una de las mejores funciones disponible en Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-iphone-fin-tendra-mejores-funciones-disponible-android-1438555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nueva-funcion-whatsapp-iphone-4287305.jpg?tf=1200x' alt='WhatsApp para iPhone por fin tendrá una de las mejores funciones disponible en Android' />
     </a>
 </div>
 
