@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/crees-estas-cargando-rapido-movil-pero-no-estas-haciendo-bien-estos-motivos-1437207'>Crees que estás cargando rápido tu móvil, pero no lo estás haciendo bien por estos motivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/crees-estas-cargando-rapido-movil-pero-no-estas-haciendo-bien-estos-motivos-1437207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/carga-erronea-usb-c-4286473.jpg?tf=1200x' alt='Crees que estás cargando rápido tu móvil, pero no lo estás haciendo bien por estos motivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nadie-pidio-moviles-delgados-sino-mejor-bateria-pero-aqui-estan-samsung-galaxy-s25-edge-iphone-17-air-1437551'>Nadie pidió móviles más delgados sino mejor batería... pero aquí están el Samsung Galaxy S25 Edge y el iPhone 17 Air</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nadie-pidio-moviles-delgados-sino-mejor-bateria-pero-aqui-estan-samsung-galaxy-s25-edge-iphone-17-air-1437551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-edge-moviles-delgados-4286506.jpg?tf=1200x' alt='Nadie pidió móviles más delgados sino mejor batería... pero aquí están el Samsung Galaxy S25 Edge y el iPhone 17 Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-1437971'>Policía Nacional alerta: si te llama por WhatsApp un "conocido", la estafa ha comenzado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-1437971' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-4286379.jpg?tf=1200x' alt='Policía Nacional alerta: si te llama por WhatsApp un "conocido", la estafa ha comenzado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/portatiles-chinos-windows-estos-son-mejores-puedes-comprar-1436811'>Portátiles chinos con Windows: estos son los mejores que puedes comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/portatiles-chinos-windows-estos-son-mejores-puedes-comprar-1436811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='Portátiles chinos con Windows: estos son los mejores que puedes comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-12-2025-fecha-lanzamiento-beta-requisitos-todo-ya-sabe-1433704'>Windows 12 en 2025: fecha de lanzamiento, beta, requisitos y todo lo que ya se sabe</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-12-2025-fecha-lanzamiento-beta-requisitos-todo-ya-sabe-1433704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Windows 12 en 2025: fecha de lanzamiento, beta, requisitos y todo lo que ya se sabe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-1435557'>Ni bloquear ni rechazar, la frase infalible para cortar las llamadas SPAM de raíz</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-1435557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-4282315.jpg?tf=1200x' alt='Ni bloquear ni rechazar, la frase infalible para cortar las llamadas SPAM de raíz' />
     </a>
 </div>
 
