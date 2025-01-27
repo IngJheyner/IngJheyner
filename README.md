@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-12-2025-fecha-lanzamiento-beta-requisitos-todo-ya-sabe-1433704'>Windows 12 en 2025: fecha de lanzamiento, beta, requisitos y todo lo que ya se sabe</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-12-2025-fecha-lanzamiento-beta-requisitos-todo-ya-sabe-1433704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Windows 12 en 2025: fecha de lanzamiento, beta, requisitos y todo lo que ya se sabe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-1435557'>Ni bloquear ni rechazar, la frase infalible para cortar las llamadas SPAM de raíz</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-1435557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-4282315.jpg?tf=1200x' alt='Ni bloquear ni rechazar, la frase infalible para cortar las llamadas SPAM de raíz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2018-cn41-pierde-nombre-coche-tesla-astronomos-enfadados-1438387'>El asteroide 2018 CN41 pierde su nombre porque resultó ser el coche de Tesla: los astrónomos se han enfadado mucho</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/asteroide-2018-cn41-pierde-nombre-coche-tesla-astronomos-enfadados-1438387' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/asteroide-2018-cn41-pierde-nombre-porque-resulto-ser-coche-tesla-astronomos-han-enfadado-mucho-4287063.jpg?tf=1200x' alt='El asteroide 2018 CN41 pierde su nombre porque resultó ser el coche de Tesla: los astrónomos se han enfadado mucho' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373'>Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/asus%20rog%20strix.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-1437969'>Google Maps: el modo escondido para no saltarte un radar o incidencia de tráfico</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-1437969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-maps-modo-escondido-no-saltarte-radar-incidencia-trafico-4286376.jpg?tf=1200x' alt='Google Maps: el modo escondido para no saltarte un radar o incidencia de tráfico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-alia-sony-crear-smart-band-9-pro-playstation-1438372'>Xiaomi se alía con Sony para crear un dispositivo PlayStation que nadie esperaba</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-alia-sony-crear-smart-band-9-pro-playstation-1438372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-alia-sony-crear-dispositivo-playstation-nadie-esperaba-4286979.jpg?tf=1200x' alt='Xiaomi se alía con Sony para crear un dispositivo PlayStation que nadie esperaba' />
     </a>
 </div>
 
