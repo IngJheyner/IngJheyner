@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-aviso-banco-espana-1438187'>Esta es la nueva y peligrosa estafa que tiene en jaque al Banco de España: así funciona TrickMo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-aviso-banco-espana-1438187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-tarjeta-bancaria-4286714.jpg?tf=1200x' alt='Esta es la nueva y peligrosa estafa que tiene en jaque al Banco de España: así funciona TrickMo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-x-universidad-sevilla-ahora-ayuntamiento-barcelona-abandonan-twitter-pero-estampida-1438443'>Adiós a X: la Universidad de Sevilla y ahora el Ayuntamiento de Barcelona abandonan Twitter, pero ¿por qué esta estampida?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-x-universidad-sevilla-ahora-ayuntamiento-barcelona-abandonan-twitter-pero-estampida-1438443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estampida-x-4287130.jpg?tf=1200x' alt='Adiós a X: la Universidad de Sevilla y ahora el Ayuntamiento de Barcelona abandonan Twitter, pero ¿por qué esta estampida?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-openai-10-cosas-impresionantes-puedes-hacer-nuevo-agente-ia-1438417'>Operator de OpenAI: 10 cosas impresionantes que puedes hacer con el nuevo agente de IA </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/operator-openai-10-cosas-impresionantes-puedes-hacer-nuevo-agente-ia-1438417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/operator-openai-4287105.jpg?tf=1200x' alt='Operator de OpenAI: 10 cosas impresionantes que puedes hacer con el nuevo agente de IA ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/crees-estas-cargando-rapido-movil-pero-no-estas-haciendo-bien-estos-motivos-1437207'>Crees que estás cargando rápido tu móvil, pero no lo estás haciendo bien por estos motivos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/crees-estas-cargando-rapido-movil-pero-no-estas-haciendo-bien-estos-motivos-1437207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/carga-erronea-usb-c-4286473.jpg?tf=1200x' alt='Crees que estás cargando rápido tu móvil, pero no lo estás haciendo bien por estos motivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nadie-pidio-moviles-delgados-sino-mejor-bateria-pero-aqui-estan-samsung-galaxy-s25-edge-iphone-17-air-1437551'>Nadie pidió móviles más delgados sino mejor batería... pero aquí están el Samsung Galaxy S25 Edge y el iPhone 17 Air</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nadie-pidio-moviles-delgados-sino-mejor-bateria-pero-aqui-estan-samsung-galaxy-s25-edge-iphone-17-air-1437551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-edge-moviles-delgados-4286506.jpg?tf=1200x' alt='Nadie pidió móviles más delgados sino mejor batería... pero aquí están el Samsung Galaxy S25 Edge y el iPhone 17 Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-1437971'>Policía Nacional alerta: si te llama por WhatsApp un "conocido", la estafa ha comenzado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-1437971' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-4286379.jpg?tf=1200x' alt='Policía Nacional alerta: si te llama por WhatsApp un "conocido", la estafa ha comenzado' />
     </a>
 </div>
 
