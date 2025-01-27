@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2018-cn41-pierde-nombre-coche-tesla-astronomos-enfadados-1438387'>El asteroide 2018 CN41 pierde su nombre porque resultó ser el coche de Tesla: los astrónomos se han enfadado mucho</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/asteroide-2018-cn41-pierde-nombre-coche-tesla-astronomos-enfadados-1438387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/asteroide-2018-cn41-pierde-nombre-porque-resulto-ser-coche-tesla-astronomos-han-enfadado-mucho-4287063.jpg?tf=1200x' alt='El asteroide 2018 CN41 pierde su nombre porque resultó ser el coche de Tesla: los astrónomos se han enfadado mucho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pistolas-fantasma-multiplican-estados-unidos-otro-asesinato-arma-impresa-3d-1438379'>Las pistolas fantasma se multiplican en Estados Unidos: otro asesinato con una arma impresa en 3D</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pistolas-fantasma-multiplican-estados-unidos-otro-asesinato-arma-impresa-3d-1438379' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pistolas-fantasma-multiplican-estados-unidos-primer-muerto-arma-impresa-3d-4287039.jpg?tf=1200x' alt='Las pistolas fantasma se multiplican en Estados Unidos: otro asesinato con una arma impresa en 3D' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-alia-sony-crear-smart-band-9-pro-playstation-1438372'>Xiaomi se alía con Sony para crear un dispositivo PlayStation que nadie esperaba</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-alia-sony-crear-smart-band-9-pro-playstation-1438372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-alia-sony-crear-dispositivo-playstation-nadie-esperaba-4286979.jpg?tf=1200x' alt='Xiaomi se alía con Sony para crear un dispositivo PlayStation que nadie esperaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147'>Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-1437147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extensiones-gratis-chrome-anaden-nuevas-funciones-google-maps-4285085.jpg?tf=1200x' alt='Extensiones gratis de Chrome que añaden nuevas funciones a Google Maps' />
     </a>
 </div>
 
