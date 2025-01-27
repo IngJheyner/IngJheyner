@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/donald-trump-decidira-futuro-tiktok-eeuu-plazo-30-dias-1438490'>Donald Trump decidirá el futuro de TikTok en EE.UU. en un plazo de 30 días  </a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/donald-trump-decidira-futuro-tiktok-eeuu-plazo-30-dias-1438490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/donald-trump-tiktok-4287188.jpg?tf=1200x' alt='Donald Trump decidirá el futuro de TikTok en EE.UU. en un plazo de 30 días  ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/bizum-pay-vs-apple-pay-ni-tarjetas-ni-efectivo-empieza-gran-batalla-pago-movil-espana-1438449'>Bizum Pay vs. Apple Pay: ni tarjetas ni efectivo, empieza la gran batalla por el pago móvil en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/bizum-pay-vs-apple-pay-ni-tarjetas-ni-efectivo-empieza-gran-batalla-pago-movil-espana-1438449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bizum-pay-vs-apple-pay-4287143.jpg?tf=1200x' alt='Bizum Pay vs. Apple Pay: ni tarjetas ni efectivo, empieza la gran batalla por el pago móvil en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-aviso-banco-espana-1438187'>Esta es la nueva y peligrosa estafa que tiene en jaque al Banco de España: así funciona TrickMo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/trickmo-virus-aviso-banco-espana-1438187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-tarjeta-bancaria-4286714.jpg?tf=1200x' alt='Esta es la nueva y peligrosa estafa que tiene en jaque al Banco de España: así funciona TrickMo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-openai-10-cosas-impresionantes-puedes-hacer-nuevo-agente-ia-1438417'>Operator de OpenAI: 10 cosas impresionantes que puedes hacer con el nuevo agente de IA </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/operator-openai-10-cosas-impresionantes-puedes-hacer-nuevo-agente-ia-1438417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/operator-openai-4287105.jpg?tf=1200x' alt='Operator de OpenAI: 10 cosas impresionantes que puedes hacer con el nuevo agente de IA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/diferencias-chatgpt-operator-nuevo-agente-ia-openai-1438412'>Diferencias entre ChatGPT y Operator, el nuevo agente de IA de OpenAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/diferencias-chatgpt-operator-nuevo-agente-ia-openai-1438412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-operator-4287094.jpg?tf=1200x' alt='Diferencias entre ChatGPT y Operator, el nuevo agente de IA de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/crees-estas-cargando-rapido-movil-pero-no-estas-haciendo-bien-estos-motivos-1437207'>Crees que estás cargando rápido tu móvil, pero no lo estás haciendo bien por estos motivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/crees-estas-cargando-rapido-movil-pero-no-estas-haciendo-bien-estos-motivos-1437207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/carga-erronea-usb-c-4286473.jpg?tf=1200x' alt='Crees que estás cargando rápido tu móvil, pero no lo estás haciendo bien por estos motivos' />
     </a>
 </div>
 
