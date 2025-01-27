@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/movistar-piedad-usuarios-iptv-mayores-amenazas-ingresos-1438459'>Movistar sin piedad a por los usuarios de IPTV: "Una de las mayores amenazas para nuestros ingresos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/movistar-piedad-usuarios-iptv-mayores-amenazas-ingresos-1438459' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/movistar-responde-cabreo-usuarios-eliminar-14-canales-golpe-4275267.jpg?tf=1200x' alt='Movistar sin piedad a por los usuarios de IPTV: "Una de las mayores amenazas para nuestros ingresos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/donald-trump-decidira-futuro-tiktok-eeuu-plazo-30-dias-1438490'>Donald Trump decidirá el futuro de TikTok en EE.UU. en un plazo de 30 días  </a></h4>
     <a href='https://computerhoy.20minutos.es/apps/donald-trump-decidira-futuro-tiktok-eeuu-plazo-30-dias-1438490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/donald-trump-tiktok-4287188.jpg?tf=1200x' alt='Donald Trump decidirá el futuro de TikTok en EE.UU. en un plazo de 30 días  ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-x-universidad-sevilla-ahora-ayuntamiento-barcelona-abandonan-twitter-pero-estampida-1438443'>Adiós a X: la Universidad de Sevilla y ahora el Ayuntamiento de Barcelona abandonan Twitter, pero ¿por qué esta estampida?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-x-universidad-sevilla-ahora-ayuntamiento-barcelona-abandonan-twitter-pero-estampida-1438443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estampida-x-4287130.jpg?tf=1200x' alt='Adiós a X: la Universidad de Sevilla y ahora el Ayuntamiento de Barcelona abandonan Twitter, pero ¿por qué esta estampida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-openai-10-cosas-impresionantes-puedes-hacer-nuevo-agente-ia-1438417'>Operator de OpenAI: 10 cosas impresionantes que puedes hacer con el nuevo agente de IA </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/operator-openai-10-cosas-impresionantes-puedes-hacer-nuevo-agente-ia-1438417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/operator-openai-4287105.jpg?tf=1200x' alt='Operator de OpenAI: 10 cosas impresionantes que puedes hacer con el nuevo agente de IA ' />
     </a>
 </div>
 
