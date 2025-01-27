@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-1438634'>iOS 18.3 ya se puede descargar, pierde funciones por los fallos de Apple Intelligence</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-1438634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-4287449.jpg?tf=1200x' alt='iOS 18.3 ya se puede descargar, pierde funciones por los fallos de Apple Intelligence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/mi-abuela-no-sabia-cambiar-pilas-compro-20-game-boys-increible-hallazgo-usuario-reddit-1438626'>"Mi abuela no sabía cambiar las pilas y compró 20 Game Boys": el increíble hallazgo de un usuario de Reddit</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/mi-abuela-no-sabia-cambiar-pilas-compro-20-game-boys-increible-hallazgo-usuario-reddit-1438626' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/increible-hallazgo-usuario-reddit-4287430.jpg?tf=1200x' alt='"Mi abuela no sabía cambiar las pilas y compró 20 Game Boys": el increíble hallazgo de un usuario de Reddit' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543'>El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-4287261.jpg?tf=1200x' alt='El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/no-espam-app-gratis-bloquea-numeros-llamadas-spam-espana-1438577'>NO ESpam, la app gratis que bloquea los números y llamadas SPAM más utilizados en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/no-espam-app-gratis-bloquea-numeros-llamadas-spam-espana-1438577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/app-noespam-4287383.jpg?tf=1200x' alt='NO ESpam, la app gratis que bloquea los números y llamadas SPAM más utilizados en España' />
     </a>
 </div>
 
