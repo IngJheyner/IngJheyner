@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-1437971'>Policía Nacional alerta: si te llama por WhatsApp un "conocido", la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-1437971' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-alerta-te-llama-whatsapp-conocido-estafa-ha-comenzado-4286379.jpg?tf=1200x' alt='Policía Nacional alerta: si te llama por WhatsApp un "conocido", la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/he-probado-todas-formas-mejorar-duracion-bateria-mi-android-estas-son-unicas-funcionan-1437696'>He probado todas las formas para mejorar la duración de la batería de mi Android y estas son las únicas que funcionan</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/he-probado-todas-formas-mejorar-duracion-bateria-mi-android-estas-son-unicas-funcionan-1437696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/he-probado-todas-formas-mejorar-duracion-bateria-mi-android-estas-son-unicas-funcionan-4285940.jpg?tf=1200x' alt='He probado todas las formas para mejorar la duración de la batería de mi Android y estas son las únicas que funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/portatiles-chinos-windows-estos-son-mejores-puedes-comprar-1436811'>Portátiles chinos con Windows: estos son los mejores que puedes comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/portatiles-chinos-windows-estos-son-mejores-puedes-comprar-1436811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/chuwi-gemibook-pro-2893138.jpg?tf=1200x' alt='Portátiles chinos con Windows: estos son los mejores que puedes comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-12-2025-fecha-lanzamiento-beta-requisitos-todo-ya-sabe-1433704'>Windows 12 en 2025: fecha de lanzamiento, beta, requisitos y todo lo que ya se sabe</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-12-2025-fecha-lanzamiento-beta-requisitos-todo-ya-sabe-1433704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/posible-ya-hayamos-visto-windows-12-nadie-ha-dado-cuenta-3268647.jpg?tf=1200x' alt='Windows 12 en 2025: fecha de lanzamiento, beta, requisitos y todo lo que ya se sabe' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-1435557'>Ni bloquear ni rechazar, la frase infalible para cortar las llamadas SPAM de raíz</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-1435557' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-4282315.jpg?tf=1200x' alt='Ni bloquear ni rechazar, la frase infalible para cortar las llamadas SPAM de raíz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2018-cn41-pierde-nombre-coche-tesla-astronomos-enfadados-1438387'>El asteroide 2018 CN41 pierde su nombre porque resultó ser el coche de Tesla: los astrónomos se han enfadado mucho</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/asteroide-2018-cn41-pierde-nombre-coche-tesla-astronomos-enfadados-1438387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/asteroide-2018-cn41-pierde-nombre-porque-resulto-ser-coche-tesla-astronomos-han-enfadado-mucho-4287063.jpg?tf=1200x' alt='El asteroide 2018 CN41 pierde su nombre porque resultó ser el coche de Tesla: los astrónomos se han enfadado mucho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pistolas-fantasma-multiplican-estados-unidos-otro-asesinato-arma-impresa-3d-1438379'>Las pistolas fantasma se multiplican en Estados Unidos: otro asesinato con una arma impresa en 3D</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pistolas-fantasma-multiplican-estados-unidos-otro-asesinato-arma-impresa-3d-1438379' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pistolas-fantasma-multiplican-estados-unidos-primer-muerto-arma-impresa-3d-4287039.jpg?tf=1200x' alt='Las pistolas fantasma se multiplican en Estados Unidos: otro asesinato con una arma impresa en 3D' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373'>Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/jarro-agua-fria-usuarios-miticas-tarjetas-gtx-nvidia-deja-actualizar-drivers-1438373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/02/asus%20rog%20strix.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de las míticas tarjetas GTX: Nvidia deja de actualizar los drivers' />
     </a>
 </div>
 
