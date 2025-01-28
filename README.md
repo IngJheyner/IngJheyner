@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783'>Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-4287705.jpg?tf=1200x' alt='Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/descubren-rastros-internet-explorer-windows-11-anos-despues-eliminacion-1438869'>Descubren rastros de Internet Explorer en Windows 11 años después de su eliminación</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/descubren-rastros-internet-explorer-windows-11-anos-despues-eliminacion-1438869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/internet-explorer-11-2857897.jpg?tf=1200x' alt='Descubren rastros de Internet Explorer en Windows 11 años después de su eliminación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-replantean-origen-dinosaurios-sorprendente-hallazgo-1438867'>Científicos se replantean el origen de los dinosaurios tras un sorprendente hallazgo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-replantean-origen-dinosaurios-sorprendente-hallazgo-1438867' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dinosaurios-4287869.jpg?tf=1200x' alt='Científicos se replantean el origen de los dinosaurios tras un sorprendente hallazgo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/error-error-cargar-smartphone-espana-1437632'>Demasiados españoles cometen este error al cargar el móvil: "Lo están destrozando lentamente"</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/error-error-cargar-smartphone-espana-1437632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-cargar-movil-espana-4286056.jpg?tf=1200x' alt='Demasiados españoles cometen este error al cargar el móvil: "Lo están destrozando lentamente"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/locura-nasa-quiere-resolver-antiguo-misterio-disparando-dos-cohetes-aurora-boreal-1438789'>Locura en la NASA: quiere resolver un antiguo misterio disparando dos cohetes contra una aurora boreal</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/locura-nasa-quiere-resolver-antiguo-misterio-disparando-dos-cohetes-aurora-boreal-1438789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aurora-boreal-4287744.jpg?tf=1200x' alt='Locura en la NASA: quiere resolver un antiguo misterio disparando dos cohetes contra una aurora boreal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-son-airpods-pero-estos-auriculares-cuestan-menos-30-euros-tienen-cancelacion-ruido-1438739'>No son los AirPods, pero estos auriculares cuestan menos de 30 euros y hasta tienen cancelación de ruido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-son-airpods-pero-estos-auriculares-cuestan-menos-30-euros-tienen-cancelacion-ruido-1438739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cmf-nothing-buds-4287611.jpg?tf=1200x' alt='No son los AirPods, pero estos auriculares cuestan menos de 30 euros y hasta tienen cancelación de ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-pega-bombazo-amazon-mejores-relojes-cuesta-60-euros-menos-tiene-pantalla-amoled-1438400'>Garmin pega el bombazo en Amazon: uno de sus mejores relojes cuesta 60 euros menos y tiene pantalla AMOLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-pega-bombazo-amazon-mejores-relojes-cuesta-60-euros-menos-tiene-pantalla-amoled-1438400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-vivoactive-5-3303528.jpg?tf=1200x' alt='Garmin pega el bombazo en Amazon: uno de sus mejores relojes cuesta 60 euros menos y tiene pantalla AMOLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/modo-oculto-mando-movistar-plus-casi-nadie-conoce-pocos-utilizan-1438811'>El modo oculto del mando de Movistar Plus+ que casi nadie conoce y pocos utilizan</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/modo-oculto-mando-movistar-plus-casi-nadie-conoce-pocos-utilizan-1438811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-oculto-mando-movistar-plus-casi-nadie-conoce-pocos-utilizan-4287831.jpg?tf=1200x' alt='El modo oculto del mando de Movistar Plus+ que casi nadie conoce y pocos utilizan' />
     </a>
 </div>
 
