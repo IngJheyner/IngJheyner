@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-perder-580000-millones-nvidia-microsoft-tesla-hunden-bolsa-1438643'>Vuelco a la IA: DeepSeek hace perder 580.000 millones a Nvidia mientras Microsoft y Tesla se hunden en Bolsa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-perder-580000-millones-nvidia-microsoft-tesla-hunden-bolsa-1438643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-ia-deepseek-hace-perder-500000-millones-nvidia-mientras-microsoft-tesla-hunden-bolsa-4287456.jpg?tf=1200x' alt='Vuelco a la IA: DeepSeek hace perder 580.000 millones a Nvidia mientras Microsoft y Tesla se hunden en Bolsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-1438634'>iOS 18.3 ya se puede descargar, pierde funciones por los fallos de Apple Intelligence</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-1438634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-4287449.jpg?tf=1200x' alt='iOS 18.3 ya se puede descargar, pierde funciones por los fallos de Apple Intelligence' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/cambio-radical-google-maps-android-auto-136-actualiza-responsabilidad-1438624'>Cambio radical de Google Maps en Android Auto 13.6: actualiza bajo tu responsabilidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cambio-radical-google-maps-android-auto-136-actualiza-responsabilidad-1438624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/como-guardar-donde-he-aparcado-android-auto-tocar-movil-3246104.jpg?tf=1200x' alt='Cambio radical de Google Maps en Android Auto 13.6: actualiza bajo tu responsabilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543'>El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-1438543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/thriller-christopher-nolan-no-gano-ningun-oscar-pocos-conocen-puedes-ver-filmin-4287261.jpg?tf=1200x' alt='El thriller de Christopher Nolan que no ganó ningún Oscar, pocos conocen y puedes ver en Filmin' />
     </a>
 </div>
 
