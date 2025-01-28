@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-1438797'>Movistar Plus+: la desconocida película de terror inspirada en Stephen King y Lovecraft, considerada de culto que no te debes perder</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-1438797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-4287720.jpg?tf=1200x' alt='Movistar Plus+: la desconocida película de terror inspirada en Stephen King y Lovecraft, considerada de culto que no te debes perder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-1438845'>Adiós a la excusa del "no había cobertura", SpaceX de Elon Musk ya llega a cualquier rincón del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-1438845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-4287871.jpg?tf=1200x' alt='Adiós a la excusa del "no había cobertura", SpaceX de Elon Musk ya llega a cualquier rincón del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783'>Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-4287705.jpg?tf=1200x' alt='Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-replantean-origen-dinosaurios-sorprendente-hallazgo-1438867'>Científicos se replantean el origen de los dinosaurios tras un sorprendente hallazgo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-replantean-origen-dinosaurios-sorprendente-hallazgo-1438867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dinosaurios-4287869.jpg?tf=1200x' alt='Científicos se replantean el origen de los dinosaurios tras un sorprendente hallazgo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/error-error-cargar-smartphone-espana-1437632'>Demasiados españoles cometen este error al cargar el móvil: "Lo están destrozando lentamente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/error-error-cargar-smartphone-espana-1437632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-cargar-movil-espana-4286056.jpg?tf=1200x' alt='Demasiados españoles cometen este error al cargar el móvil: "Lo están destrozando lentamente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/locura-nasa-quiere-resolver-antiguo-misterio-disparando-dos-cohetes-aurora-boreal-1438789'>Locura en la NASA: quiere resolver un antiguo misterio disparando dos cohetes contra una aurora boreal</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/locura-nasa-quiere-resolver-antiguo-misterio-disparando-dos-cohetes-aurora-boreal-1438789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aurora-boreal-4287744.jpg?tf=1200x' alt='Locura en la NASA: quiere resolver un antiguo misterio disparando dos cohetes contra una aurora boreal' />
     </a>
 </div>
 
