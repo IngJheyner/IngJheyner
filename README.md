@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-gobierno-espana-1438209'>"De ser cierto, es la mayor vendida de humo de la historia": Experto analiza ALIA, la nueva IA pública española</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-gobierno-espana-1438209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alia-ia-gobierno-espana-4287684.jpg?tf=1200x' alt='"De ser cierto, es la mayor vendida de humo de la historia": Experto analiza ALIA, la nueva IA pública española' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Mazazo para todos los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-triste-porque-movistar-plus-ha-perdido-series-peliculas-4286114.jpg?tf=1200x' alt='Mazazo para todos los clientes de Movistar Plus+: adiós a cientos de series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/boicoteando-microsoft-usuarios-windows-10-1438795'>¿Está boicoteando Microsoft a los usuarios de Windows 10?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/boicoteando-microsoft-usuarios-windows-10-1438795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-usb-ordenador-4015519.jpg?tf=1200x' alt='¿Está boicoteando Microsoft a los usuarios de Windows 10?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/piedra-oro-meteorito-cientificos-1427622'>Guarda una piedra indestructible durante años deseando que sea oro: en realidad es muchísimo más valiosa</a></h4>
     <a href='https://computerhoy.20minutos.es/life/piedra-oro-meteorito-cientificos-1427622' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extrana-piedra-parece-oro-mujer-asombrada-4287613.jpg?tf=1200x' alt='Guarda una piedra indestructible durante años deseando que sea oro: en realidad es muchísimo más valiosa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-usa-nombre-shein-amazon-solo-necesitan-llamada-hacen-todos-datos-1438665'>La estafa telefónica que usa el nombre de Shein o Amazon: solo necesitan una llamada y se hacen con todos tus datos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-usa-nombre-shein-amazon-solo-necesitan-llamada-hacen-todos-datos-1438665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-amazon-shein-4287724.jpg?tf=1200x' alt='La estafa telefónica que usa el nombre de Shein o Amazon: solo necesitan una llamada y se hacen con todos tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/giro-180-grados-computacion-cuantica-logran-entrelazar-moleculas-ultrafrias-precision-nunca-antes-vista-1438754'>Giro de 180 grados en la computación cuántica: logran entrelazar moléculas ultrafrías con una precisión nunca antes vista</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/giro-180-grados-computacion-cuantica-logran-entrelazar-moleculas-ultrafrias-precision-nunca-antes-vista-1438754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/entrelazamiento-cuantico-4287683.jpg?tf=1200x' alt='Giro de 180 grados en la computación cuántica: logran entrelazar moléculas ultrafrías con una precisión nunca antes vista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/continua-polemica-alia-chatgpt-gobierno-espana-descubren-casi-no-sabe-hablar-espanol-1438792'>Continúa la polémica con ALIA, el ChatGPT del Gobierno de España: descubren que casi no sabe hablar español</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/continua-polemica-alia-chatgpt-gobierno-espana-descubren-casi-no-sabe-hablar-espanol-1438792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alia-espana-4287712.jpg?tf=1200x' alt='Continúa la polémica con ALIA, el ChatGPT del Gobierno de España: descubren que casi no sabe hablar español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-puedes-descargar-ios-183-iphone-estas-son-novedades-importantes-1438724'>Ya puedes descargar iOS 18.3 en tu iPhone: estas son sus novedades más importantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-puedes-descargar-ios-183-iphone-estas-son-novedades-importantes-1438724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4281594.jpg?tf=1200x' alt='Ya puedes descargar iOS 18.3 en tu iPhone: estas son sus novedades más importantes' />
     </a>
 </div>
 
