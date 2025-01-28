@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-keylogging-1437566'>Ni el WiFi ni el Bluetooth, el punto débil de tu móvil está en tu cajón, según los expertos en seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-keylogging-1437566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-cajon-rodeado-cables-senal-peligro-4287607.jpg?tf=1200x' alt='Ni el WiFi ni el Bluetooth, el punto débil de tu móvil está en tu cajón, según los expertos en seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-saltar-alarmas-openai-meta-supera-todos-infima-parte-precio-1438707'>DeepSeek hace saltar las alarmas en OpenAI y Meta: supera a todos por una ínfima parte de su precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-saltar-alarmas-openai-meta-supera-todos-infima-parte-precio-1438707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-meta-4287575.jpg?tf=1200x' alt='DeepSeek hace saltar las alarmas en OpenAI y Meta: supera a todos por una ínfima parte de su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-rinde-deepseek-gran-rival-chatgpt-impresionante-1438696'>Sam Altman se rinde ante DeepSeek, el gran rival de ChatGPT: "Es impresionante"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-rinde-deepseek-gran-rival-chatgpt-impresionante-1438696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-deepseek-4287544.jpg?tf=1200x' alt='Sam Altman se rinde ante DeepSeek, el gran rival de ChatGPT: "Es impresionante"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/portatil-chino-superventas-windows-11-supera-todos-precio-1438397'>Así es el portátil chino superventas con Windows 11 que supera a todos por su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/portatil-chino-superventas-windows-11-supera-todos-precio-1438397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='Así es el portátil chino superventas con Windows 11 que supera a todos por su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/mision-qkd-geo-espana-satelite-clave-cuantica-1438656'>España se blinda ante la amenaza cuántica y desarrolla un satélite inmune a los espías</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/mision-qkd-geo-espana-satelite-clave-cuantica-1438656' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-blinda-amenaza-cuantica-desarrolla-satelite-inmune-espias-4287474.jpg?tf=1200x' alt='España se blinda ante la amenaza cuántica y desarrolla un satélite inmune a los espías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/experto-nasa-desvela-superalimento-astronautas-doble-proteinas-filete-1438531'>Experto de la NASA desvela el superalimento de los astronautas: "Más del doble de proteínas que un filete"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/experto-nasa-desvela-superalimento-astronautas-doble-proteinas-filete-1438531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-nasa-desvela-super-alimento-astronautas-cualquiera-puede-comer-doble-proteinas-filete-4287234.jpg?tf=1200x' alt='Experto de la NASA desvela el superalimento de los astronautas: "Más del doble de proteínas que un filete"' />
     </a>
 </div>
 
