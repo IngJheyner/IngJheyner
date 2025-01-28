@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/portatil-chino-superventas-windows-11-supera-todos-precio-1438397'>Así es el portátil chino superventas con Windows 11 que supera a todos por su precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/portatil-chino-superventas-windows-11-supera-todos-precio-1438397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='Así es el portátil chino superventas con Windows 11 que supera a todos por su precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/mision-qkd-geo-espana-satelite-clave-cuantica-1438656'>España se blinda ante la amenaza cuántica y desarrolla un satélite inmune a los espías</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/mision-qkd-geo-espana-satelite-clave-cuantica-1438656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-blinda-amenaza-cuantica-desarrolla-satelite-inmune-espias-4287474.jpg?tf=1200x' alt='España se blinda ante la amenaza cuántica y desarrolla un satélite inmune a los espías' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-evitar-estafas-haz-numeros-desconocidos-1438453'>El truco de la Policía Nacional para evitar estafas: haz esto con los números desconocidos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-evitar-estafas-haz-numeros-desconocidos-1438453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-policia-nacional-4287329.jpg?tf=1200x' alt='El truco de la Policía Nacional para evitar estafas: haz esto con los números desconocidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/huawei-mate-x6-1437865'>He probado el Huawei Mate X6, una maravilla de móvil plegable ultradelgado con grandes unas cámaras excelentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/huawei-mate-x6-1437865' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-mate-x6-4286144.jpg?tf=1200x' alt='He probado el Huawei Mate X6, una maravilla de móvil plegable ultradelgado con grandes unas cámaras excelentes' />
     </a>
 </div>
 
