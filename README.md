@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelco-youtube-llegan-anuncios-hora-no-pueden-saltar-1438744'>Vuelco en Youtube: llegan los anuncios de una hora que no se pueden saltar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vuelco-youtube-llegan-anuncios-hora-no-pueden-saltar-1438744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/youtube-4287664.jpg?tf=1200x' alt='Vuelco en Youtube: llegan los anuncios de una hora que no se pueden saltar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-manos-microsoft-trump-confirma-rifan-empresas-muy-alto-perfil-1438731'>TikTok en manos de Microsoft: Trump confirma que se la rifan "empresas de muy alto perfil"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiktok-manos-microsoft-trump-confirma-rifan-empresas-muy-alto-perfil-1438731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiktok-vuelve-estados-unidos-apenas-medio-dia-despues-cerrar-donald-trump-da-orden-4284493.jpg?tf=1200x' alt='TikTok en manos de Microsoft: Trump confirma que se la rifan "empresas de muy alto perfil"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-cambiar-forma-cargar-bateria-funciona-nuevo-sistema-partir-ahora-1438681'>Windows 11 cambiar la forma de cargar la batería: así funciona el nuevo sistema a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-cambiar-forma-cargar-bateria-funciona-nuevo-sistema-partir-ahora-1438681' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-4287602.jpg?tf=1200x' alt='Windows 11 cambiar la forma de cargar la batería: así funciona el nuevo sistema a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-liang-wenfeng-sam-altman-chino-ha-puesto-aprieto-openai-nvidia-deepseek-1438716'>Quién es Liang Wenfeng, el Sam Altman chino que ha puesto en un aprieto a OpenAI y Nvidia con DeepSeek</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/quien-liang-wenfeng-sam-altman-chino-ha-puesto-aprieto-openai-nvidia-deepseek-1438716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/liang-wenfeng-deepseek-4287605.jpg?tf=1200x' alt='Quién es Liang Wenfeng, el Sam Altman chino que ha puesto en un aprieto a OpenAI y Nvidia con DeepSeek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-keylogging-1437566'>Ni el WiFi ni el Bluetooth, el punto débil de tu móvil está en tu cajón, según los expertos en seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-keylogging-1437566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-cajon-rodeado-cables-senal-peligro-4287607.jpg?tf=1200x' alt='Ni el WiFi ni el Bluetooth, el punto débil de tu móvil está en tu cajón, según los expertos en seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-saltar-alarmas-openai-meta-supera-todos-infima-parte-precio-1438707'>DeepSeek hace saltar las alarmas en OpenAI y Meta: supera a todos por una ínfima parte de su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-saltar-alarmas-openai-meta-supera-todos-infima-parte-precio-1438707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-meta-4287575.jpg?tf=1200x' alt='DeepSeek hace saltar las alarmas en OpenAI y Meta: supera a todos por una ínfima parte de su precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-rinde-deepseek-gran-rival-chatgpt-impresionante-1438696'>Sam Altman se rinde ante DeepSeek, el gran rival de ChatGPT: "Es impresionante"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-rinde-deepseek-gran-rival-chatgpt-impresionante-1438696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-deepseek-4287544.jpg?tf=1200x' alt='Sam Altman se rinde ante DeepSeek, el gran rival de ChatGPT: "Es impresionante"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/deepseek-chatgpt-chino-revolucionando-ia-10-cosas-debes-saber-antes-usarlo-1438685'>DeepSeek, el ChatGPT chino que está revolucionando la IA: 10 cosas que debes saber antes de usarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/deepseek-chatgpt-chino-revolucionando-ia-10-cosas-debes-saber-antes-usarlo-1438685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-chatgpt-chino-4287533.jpg?tf=1200x' alt='DeepSeek, el ChatGPT chino que está revolucionando la IA: 10 cosas que debes saber antes de usarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/portatil-chino-superventas-windows-11-supera-todos-precio-1438397'>Así es el portátil chino superventas con Windows 11 que supera a todos por su precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/portatil-chino-superventas-windows-11-supera-todos-precio-1438397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/teclast-f16-pro-4257502.jpg?tf=1200x' alt='Así es el portátil chino superventas con Windows 11 que supera a todos por su precio' />
     </a>
 </div>
 
