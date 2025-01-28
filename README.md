@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-evitar-estafas-haz-numeros-desconocidos-1438453'>El truco de la Policía Nacional para evitar estafas: haz esto con los números desconocidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-evitar-estafas-haz-numeros-desconocidos-1438453' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-policia-nacional-4287329.jpg?tf=1200x' alt='El truco de la Policía Nacional para evitar estafas: haz esto con los números desconocidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/huawei-mate-x6-1437865'>He probado el Huawei Mate X6, una maravilla de móvil plegable ultradelgado con grandes unas cámaras excelentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/huawei-mate-x6-1437865' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-mate-x6-4286144.jpg?tf=1200x' alt='He probado el Huawei Mate X6, una maravilla de móvil plegable ultradelgado con grandes unas cámaras excelentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-3-carreras-tecnologicas-lideraran-mercado-2025-expertos-inteligencia-artificial-1438455'>Estas 3 carreras tecnológicas liderarán el mercado en 2025, según expertos y la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-3-carreras-tecnologicas-lideraran-mercado-2025-expertos-inteligencia-artificial-1438455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/carreras-tecnologicas-4287158.jpg?tf=1200x' alt='Estas 3 carreras tecnológicas liderarán el mercado en 2025, según expertos y la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelco-sam-altman-inteligencia-artificial-ia-requerira-cambios-sociedad-1438513'>Vuelco de Sam Altman con la inteligencia artificial: "La IA requerirá cambios en la sociedad"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/vuelco-sam-altman-inteligencia-artificial-ia-requerira-cambios-sociedad-1438513' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4287223.jpg?tf=1200x' alt='Vuelco de Sam Altman con la inteligencia artificial: "La IA requerirá cambios en la sociedad"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/webcams-routers-wifi-peligro-expertos-ciberseguridad-ataque-masivo-nivel-mundial-1438533'>Webcams y routers WiFi en peligro: expertos en ciberseguridad descubren un ataque masivo a nivel mundial</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/webcams-routers-wifi-peligro-expertos-ciberseguridad-ataque-masivo-nivel-mundial-1438533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ciberdelincuente-hackeando-4287271.jpg?tf=1200x' alt='Webcams y routers WiFi en peligro: expertos en ciberseguridad descubren un ataque masivo a nivel mundial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-perder-580000-millones-nvidia-microsoft-tesla-hunden-bolsa-1438643'>Vuelco a la IA: DeepSeek hace perder 580.000 millones a Nvidia mientras Microsoft y Tesla se hunden en Bolsa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-hace-perder-580000-millones-nvidia-microsoft-tesla-hunden-bolsa-1438643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-ia-deepseek-hace-perder-500000-millones-nvidia-mientras-microsoft-tesla-hunden-bolsa-4287456.jpg?tf=1200x' alt='Vuelco a la IA: DeepSeek hace perder 580.000 millones a Nvidia mientras Microsoft y Tesla se hunden en Bolsa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-1438634'>iOS 18.3 ya se puede descargar, pierde funciones por los fallos de Apple Intelligence</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-1438634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ios-183-ya-puede-descargar-pierde-funciones-fallos-apple-intelligence-4287449.jpg?tf=1200x' alt='iOS 18.3 ya se puede descargar, pierde funciones por los fallos de Apple Intelligence' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/mi-abuela-no-sabia-cambiar-pilas-compro-20-game-boys-increible-hallazgo-usuario-reddit-1438626'>"Mi abuela no sabía cambiar las pilas y compró 20 Game Boys": el increíble hallazgo de un usuario de Reddit</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/mi-abuela-no-sabia-cambiar-pilas-compro-20-game-boys-increible-hallazgo-usuario-reddit-1438626' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/increible-hallazgo-usuario-reddit-4287430.jpg?tf=1200x' alt='"Mi abuela no sabía cambiar las pilas y compró 20 Game Boys": el increíble hallazgo de un usuario de Reddit' />
     </a>
 </div>
 
