@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-elon-musk-pegan-itv-cada-cuatro-no-pasan-1438784'>Los Tesla de Elon Musk se la pegan en la ITV: “Uno de cada cuatro no la pasan”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-elon-musk-pegan-itv-cada-cuatro-no-pasan-1438784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-model-3-no-pasa-itv-4287739.jpg?tf=1200x' alt='Los Tesla de Elon Musk se la pegan en la ITV: “Uno de cada cuatro no la pasan”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476'>Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-logo-4287817.jpg?tf=1200x' alt='Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-gobierno-espana-1438209'>"De ser cierto, es la mayor vendida de humo de la historia": Experto analiza ALIA, la nueva IA pública española</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-gobierno-espana-1438209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alia-ia-gobierno-espana-4287684.jpg?tf=1200x' alt='"De ser cierto, es la mayor vendida de humo de la historia": Experto analiza ALIA, la nueva IA pública española' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/boicoteando-microsoft-usuarios-windows-10-1438795'>¿Está boicoteando Microsoft a los usuarios de Windows 10?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/boicoteando-microsoft-usuarios-windows-10-1438795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-usb-ordenador-4015519.jpg?tf=1200x' alt='¿Está boicoteando Microsoft a los usuarios de Windows 10?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/piedra-oro-meteorito-cientificos-1427622'>Guarda una piedra indestructible durante años deseando que sea oro: en realidad es muchísimo más valiosa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/piedra-oro-meteorito-cientificos-1427622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/extrana-piedra-parece-oro-mujer-asombrada-4287613.jpg?tf=1200x' alt='Guarda una piedra indestructible durante años deseando que sea oro: en realidad es muchísimo más valiosa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-usa-nombre-shein-amazon-solo-necesitan-llamada-hacen-todos-datos-1438665'>La estafa telefónica que usa el nombre de Shein o Amazon: solo necesitan una llamada y se hacen con todos tus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-usa-nombre-shein-amazon-solo-necesitan-llamada-hacen-todos-datos-1438665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-amazon-shein-4287724.jpg?tf=1200x' alt='La estafa telefónica que usa el nombre de Shein o Amazon: solo necesitan una llamada y se hacen con todos tus datos' />
     </a>
 </div>
 
