@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-elon-musk-pegan-itv-cada-cuatro-no-pasan-1438784'>Los Tesla de Elon Musk se la pegan en la ITV: “Uno de cada cuatro no la pasan”</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-elon-musk-pegan-itv-cada-cuatro-no-pasan-1438784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesla-model-3-no-pasa-itv-4287739.jpg?tf=1200x' alt='Los Tesla de Elon Musk se la pegan en la ITV: “Uno de cada cuatro no la pasan”' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/error-error-cargar-smartphone-espana-1437632'>Demasiados españoles cometen este error al cargar el móvil: "Lo están destrozando lentamente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/error-error-cargar-smartphone-espana-1437632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-cargar-movil-espana-4286056.jpg?tf=1200x' alt='Demasiados españoles cometen este error al cargar el móvil: "Lo están destrozando lentamente"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476'>Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sonrie-exito-apuesta-arriesgada-anos-1438476' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-logo-4287817.jpg?tf=1200x' alt='Movistar Plus+ sonríe por el éxito de su apuesta más arriesgada en años' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/locura-nasa-quiere-resolver-antiguo-misterio-disparando-dos-cohetes-aurora-boreal-1438789'>Locura en la NASA: quiere resolver un antiguo misterio disparando dos cohetes contra una aurora boreal</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/locura-nasa-quiere-resolver-antiguo-misterio-disparando-dos-cohetes-aurora-boreal-1438789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/aurora-boreal-4287744.jpg?tf=1200x' alt='Locura en la NASA: quiere resolver un antiguo misterio disparando dos cohetes contra una aurora boreal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-gobierno-espana-1438209'>"De ser cierto, es la mayor vendida de humo de la historia": Experto analiza ALIA, la nueva IA pública española</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-analiza-alia-nueva-ia-publica-gobierno-espana-1438209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alia-ia-gobierno-espana-4287684.jpg?tf=1200x' alt='"De ser cierto, es la mayor vendida de humo de la historia": Experto analiza ALIA, la nueva IA pública española' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-son-airpods-pero-estos-auriculares-cuestan-menos-30-euros-tienen-cancelacion-ruido-1438739'>No son los AirPods, pero estos auriculares cuestan menos de 30 euros y hasta tienen cancelación de ruido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-son-airpods-pero-estos-auriculares-cuestan-menos-30-euros-tienen-cancelacion-ruido-1438739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cmf-nothing-buds-4287611.jpg?tf=1200x' alt='No son los AirPods, pero estos auriculares cuestan menos de 30 euros y hasta tienen cancelación de ruido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990'>Mazazo para todos los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-adios-cientos-series-peliculas-1436990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hombre-triste-porque-movistar-plus-ha-perdido-series-peliculas-4286114.jpg?tf=1200x' alt='Mazazo para todos los clientes de Movistar Plus+: adiós a cientos de series y películas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/garmin-pega-bombazo-amazon-mejores-relojes-cuesta-60-euros-menos-tiene-pantalla-amoled-1438400'>Garmin pega el bombazo en Amazon: uno de sus mejores relojes cuesta 60 euros menos y tiene pantalla AMOLED</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/garmin-pega-bombazo-amazon-mejores-relojes-cuesta-60-euros-menos-tiene-pantalla-amoled-1438400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/garmin-vivoactive-5-3303528.jpg?tf=1200x' alt='Garmin pega el bombazo en Amazon: uno de sus mejores relojes cuesta 60 euros menos y tiene pantalla AMOLED' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/boicoteando-microsoft-usuarios-windows-10-1438795'>¿Está boicoteando Microsoft a los usuarios de Windows 10?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/boicoteando-microsoft-usuarios-windows-10-1438795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/usar-usb-ordenador-4015519.jpg?tf=1200x' alt='¿Está boicoteando Microsoft a los usuarios de Windows 10?' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/modo-oculto-mando-movistar-plus-casi-nadie-conoce-pocos-utilizan-1438811'>El modo oculto del mando de Movistar Plus+ que casi nadie conoce y pocos utilizan</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/modo-oculto-mando-movistar-plus-casi-nadie-conoce-pocos-utilizan-1438811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-oculto-mando-movistar-plus-casi-nadie-conoce-pocos-utilizan-4287831.jpg?tf=1200x' alt='El modo oculto del mando de Movistar Plus+ que casi nadie conoce y pocos utilizan' />
     </a>
 </div>
 
