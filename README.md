@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-clientes-movistar-orange-2025-digi-frota-manos-1438878'>Mazazo para los clientes de Movistar y Orange en 2025: DIGI se frota las manos</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mazazo-clientes-movistar-orange-2025-digi-frota-manos-1438878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mazazo-clientes-movistar-orange-2025-digi-frota-manos-4287924.jpg?tf=1200x' alt='Mazazo para los clientes de Movistar y Orange en 2025: DIGI se frota las manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894'>Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roban-iphone-madrid-presenta-20-policias-marruecos-4287515.jpg?tf=1200x' alt='Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783'>Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-4287705.jpg?tf=1200x' alt='Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/descubren-rastros-internet-explorer-windows-11-anos-despues-eliminacion-1438869'>Descubren rastros de Internet Explorer en Windows 11 años después de su eliminación</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/descubren-rastros-internet-explorer-windows-11-anos-despues-eliminacion-1438869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/internet-explorer-11-2857897.jpg?tf=1200x' alt='Descubren rastros de Internet Explorer en Windows 11 años después de su eliminación' />
     </a>
 </div>
 
