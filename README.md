@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/mision-qkd-geo-espana-satelite-clave-cuantica-1438656'>España se blinda ante la amenaza cuántica y desarrolla un satélite inmune a los espías</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/mision-qkd-geo-espana-satelite-clave-cuantica-1438656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/espana-blinda-amenaza-cuantica-desarrolla-satelite-inmune-espias-4287474.jpg?tf=1200x' alt='España se blinda ante la amenaza cuántica y desarrolla un satélite inmune a los espías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/experto-nasa-desvela-superalimento-astronautas-doble-proteinas-filete-1438531'>Experto de la NASA desvela el superalimento de los astronautas: "Más del doble de proteínas que un filete"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/experto-nasa-desvela-superalimento-astronautas-doble-proteinas-filete-1438531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-nasa-desvela-super-alimento-astronautas-cualquiera-puede-comer-doble-proteinas-filete-4287234.jpg?tf=1200x' alt='Experto de la NASA desvela el superalimento de los astronautas: "Más del doble de proteínas que un filete"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-canon-eos-r5-mark-ii-encontrar-camara-tan-top-diseno-tan-compacto-1436307'>Lo que más me ha gustado de la Canon EOS R5 Mark II es encontrar una cámara tan top en un diseño tan compacto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/me-ha-gustado-canon-eos-r5-mark-ii-encontrar-camara-tan-top-diseno-tan-compacto-1436307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/canon-eos-r5-mark-ii-4283522.jpg?tf=1200x' alt='Lo que más me ha gustado de la Canon EOS R5 Mark II es encontrar una cámara tan top en un diseño tan compacto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-evitar-estafas-haz-numeros-desconocidos-1438453'>El truco de la Policía Nacional para evitar estafas: haz esto con los números desconocidos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-policia-nacional-evitar-estafas-haz-numeros-desconocidos-1438453' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-policia-nacional-4287329.jpg?tf=1200x' alt='El truco de la Policía Nacional para evitar estafas: haz esto con los números desconocidos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/huawei-mate-x6-1437865'>He probado el Huawei Mate X6, una maravilla de móvil plegable ultradelgado con grandes unas cámaras excelentes</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/huawei-mate-x6-1437865' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/huawei-mate-x6-4286144.jpg?tf=1200x' alt='He probado el Huawei Mate X6, una maravilla de móvil plegable ultradelgado con grandes unas cámaras excelentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-3-carreras-tecnologicas-lideraran-mercado-2025-expertos-inteligencia-artificial-1438455'>Estas 3 carreras tecnológicas liderarán el mercado en 2025, según expertos y la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-3-carreras-tecnologicas-lideraran-mercado-2025-expertos-inteligencia-artificial-1438455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/carreras-tecnologicas-4287158.jpg?tf=1200x' alt='Estas 3 carreras tecnológicas liderarán el mercado en 2025, según expertos y la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelco-sam-altman-inteligencia-artificial-ia-requerira-cambios-sociedad-1438513'>Vuelco de Sam Altman con la inteligencia artificial: "La IA requerirá cambios en la sociedad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vuelco-sam-altman-inteligencia-artificial-ia-requerira-cambios-sociedad-1438513' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-4287223.jpg?tf=1200x' alt='Vuelco de Sam Altman con la inteligencia artificial: "La IA requerirá cambios en la sociedad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/webcams-routers-wifi-peligro-expertos-ciberseguridad-ataque-masivo-nivel-mundial-1438533'>Webcams y routers WiFi en peligro: expertos en ciberseguridad descubren un ataque masivo a nivel mundial</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/webcams-routers-wifi-peligro-expertos-ciberseguridad-ataque-masivo-nivel-mundial-1438533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ciberdelincuente-hackeando-4287271.jpg?tf=1200x' alt='Webcams y routers WiFi en peligro: expertos en ciberseguridad descubren un ataque masivo a nivel mundial' />
     </a>
 </div>
 
