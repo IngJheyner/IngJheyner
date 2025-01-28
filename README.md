@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894'>Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roban-iphone-madrid-presenta-20-policias-marruecos-4287515.jpg?tf=1200x' alt='Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-1438797'>Movistar Plus+: la desconocida película de terror inspirada en Stephen King y Lovecraft, considerada de culto que no te debes perder</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-1438797' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-4287720.jpg?tf=1200x' alt='Movistar Plus+: la desconocida película de terror inspirada en Stephen King y Lovecraft, considerada de culto que no te debes perder' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/descubren-rastros-internet-explorer-windows-11-anos-despues-eliminacion-1438869'>Descubren rastros de Internet Explorer en Windows 11 años después de su eliminación</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/descubren-rastros-internet-explorer-windows-11-anos-despues-eliminacion-1438869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/internet-explorer-11-2857897.jpg?tf=1200x' alt='Descubren rastros de Internet Explorer en Windows 11 años después de su eliminación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-replantean-origen-dinosaurios-sorprendente-hallazgo-1438867'>Científicos se replantean el origen de los dinosaurios tras un sorprendente hallazgo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-replantean-origen-dinosaurios-sorprendente-hallazgo-1438867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dinosaurios-4287869.jpg?tf=1200x' alt='Científicos se replantean el origen de los dinosaurios tras un sorprendente hallazgo' />
     </a>
 </div>
 
