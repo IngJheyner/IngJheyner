@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdtchannels-quiere-te-olvides-iptv-dos-nuevos-canales-gratis-importantes-novedades-1439177'>TDTChannels quiere que te olvides de IPTV: dos nuevos canales gratis, e importantes novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tdtchannels-quiere-te-olvides-iptv-dos-nuevos-canales-gratis-importantes-novedades-1439177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tdtchannels-quiere-te-olvides-iptv-anade-dos-nuevos-canales-gratis-importantes-novedades-4288345.jpg?tf=1200x' alt='TDTChannels quiere que te olvides de IPTV: dos nuevos canales gratis, e importantes novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167'>Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/god-war-ragnarok-2869647.jpg?tf=1200x' alt='Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-lanza-oferta-final-acabar-iptv-precio-ver-futbol-anos-1439158'>Movistar Plus+ lanza la oferta final para acabar con las IPTV: el precio más bajo por ver el fútbol en años</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-lanza-oferta-final-acabar-iptv-precio-ver-futbol-anos-1439158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-futbol-4288326.jpg?tf=1200x' alt='Movistar Plus+ lanza la oferta final para acabar con las IPTV: el precio más bajo por ver el fútbol en años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-1439115'>Alerta máxima IPTV: primer país europeo en confiscar casas y coches en una operación sin precedentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-1439115' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-4288319.jpg?tf=1200x' alt='Alerta máxima IPTV: primer país europeo en confiscar casas y coches en una operación sin precedentes' />
     </a>
 </div>
 
