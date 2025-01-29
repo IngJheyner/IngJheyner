@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-ceo-google-advierte-ia-no-creo-gente-aprecie-rapido-va-suceder-1438989'>El ex CEO de Google advierte sobre la IA: "No creo que la gente aprecie lo rápido que esto va a suceder"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ex-ceo-google-advierte-ia-no-creo-gente-aprecie-rapido-va-suceder-1438989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/eric-schmidt-4288072.jpg?tf=1200x' alt='El ex CEO de Google advierte sobre la IA: "No creo que la gente aprecie lo rápido que esto va a suceder"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-lenguaje-programacion-futuro-ingles-1429006'>Para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-lenguaje-programacion-futuro-ingles-1429006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-4271672.jpg?tf=1200x' alt='Para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-windows-1437152'>Expertos en ciberseguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-windows-1437152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pesadilla-windows-10-4288074.jpg?tf=1200x' alt='Expertos en ciberseguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-vaticano-mucho-alla-alcance-control-humano-1438959'>La inteligencia artificial llega al Vaticano: "Mucho más allá del alcance del control humano"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-vaticano-mucho-alla-alcance-control-humano-1438959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-llega-vaticano-4287999.jpg?tf=1200x' alt='La inteligencia artificial llega al Vaticano: "Mucho más allá del alcance del control humano"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/mazazo-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Mazazo para las listas IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/mazazo-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-4288071.jpg?tf=1200x' alt='Mazazo para las listas IPTV: descubren un nuevo método para transmitir fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-canario-ni-juego-calamar-verdad-modos-esteticos-whatsapp-no-existen-iphone-1438999'>Ni canario, ni Juego del Calamar, la verdad de los modos estéticos de WhatsApp y por qué no existen en iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-canario-ni-juego-calamar-verdad-modos-esteticos-whatsapp-no-existen-iphone-1438999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modos-esteticos-whatsapp-4288063.jpg?tf=1200x' alt='Ni canario, ni Juego del Calamar, la verdad de los modos estéticos de WhatsApp y por qué no existen en iPhone' />
     </a>
 </div>
 
