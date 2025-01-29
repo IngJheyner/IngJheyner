@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligros-ocultos-aceptar-llamada-spam-aunque-no-caigas-estafa-1438769'>Peligros ocultos de aceptar una llamada SPAM aunque no caigas en la estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/peligros-ocultos-aceptar-llamada-spam-aunque-no-caigas-estafa-1438769' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4287711.jpg?tf=1200x' alt='Peligros ocultos de aceptar una llamada SPAM aunque no caigas en la estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/curioso-trabajo-bill-gates-sigue-haciendo-microsoft-me-ayuda-mantenerme-actualizado-1438804'>El curioso trabajo que Bill Gates sigue haciendo para Microsoft: “Me ayuda a mantenerme actualizado”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/curioso-trabajo-bill-gates-sigue-haciendo-microsoft-me-ayuda-mantenerme-actualizado-1438804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-microsoft-4287740.jpg?tf=1200x' alt='El curioso trabajo que Bill Gates sigue haciendo para Microsoft: “Me ayuda a mantenerme actualizado”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/podras-tener-varias-cuentas-whatsapp-iphone-como-funciona-beneficios-tiene-1438809'>Podrás tener varias cuentas de WhatsApp en un iPhone: cómo funciona y qué beneficios tiene</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/podras-tener-varias-cuentas-whatsapp-iphone-como-funciona-beneficios-tiene-1438809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuentas-whatsapp-4287767.jpg?tf=1200x' alt='Podrás tener varias cuentas de WhatsApp en un iPhone: cómo funciona y qué beneficios tiene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907'>Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inversor-silicon-valley-asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-4287922.jpg?tf=1200x' alt='Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-clientes-movistar-orange-2025-digi-frota-manos-1438878'>Mazazo para los clientes de Movistar y Orange en 2025: DIGI se frota las manos</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mazazo-clientes-movistar-orange-2025-digi-frota-manos-1438878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mazazo-clientes-movistar-orange-2025-digi-frota-manos-4287924.jpg?tf=1200x' alt='Mazazo para los clientes de Movistar y Orange en 2025: DIGI se frota las manos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894'>Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roban-iphone-madrid-presenta-20-policias-marruecos-4287515.jpg?tf=1200x' alt='Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos' />
     </a>
 </div>
 
