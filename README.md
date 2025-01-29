@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-admite-error-ha-marcado-durante-toda-vida-fue-miserable-1439034'>Bill Gates admite el error que le ha marcado durante toda su vida: "Fue miserable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-admite-error-ha-marcado-durante-toda-vida-fue-miserable-1439034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/divorcio-bill-gates-4288122.jpg?tf=1200x' alt='Bill Gates admite el error que le ha marcado durante toda su vida: "Fue miserable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/boom-supersonic-alza-vuelo-primer-avion-supersonico-comercial-epoca-concorde-1439052'>Boom Supersonic alza el vuelo, el primer avión supersónico comercial desde la época del Concorde</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/boom-supersonic-alza-vuelo-primer-avion-supersonico-comercial-epoca-concorde-1439052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xb-1-boom-supersonic-rompe-barrera-sonido-4288158.jpg?tf=1200x' alt='Boom Supersonic alza el vuelo, el primer avión supersónico comercial desde la época del Concorde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944'>Si ves este mensaje en tu iPhone, podrían estar intentando robarte</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ves-mensaje-iphone-podrian-estar-intentando-robarte-4287985.jpg?tf=1200x' alt='Si ves este mensaje en tu iPhone, podrían estar intentando robarte' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-1439005'>Este satélite 100% español se lanzará esta noche con un cohete de Elon Musk: "Nos dará soberanía estratégica"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-1439005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-4288070.jpg?tf=1200x' alt='Este satélite 100% español se lanzará esta noche con un cohete de Elon Musk: "Nos dará soberanía estratégica"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-util-funcion-word-culpa-ia-1439053'>Microsoft elimina esta útil función de Word por culpa de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-util-funcion-word-culpa-ia-1439053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-elimina-util-funcion-word-culpa-ia-4288117.jpg?tf=1200x' alt='Microsoft elimina esta útil función de Word por culpa de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-1439085'>Giro de 180 grados en WhatsApp: cómo crear tus propios modos estéticos personalizados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-1439085' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-4288256.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp: cómo crear tus propios modos estéticos personalizados' />
     </a>
 </div>
 
