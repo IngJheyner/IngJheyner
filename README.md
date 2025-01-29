@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167'>Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/god-war-ragnarok-2869647.jpg?tf=1200x' alt='Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/vulnerabilidad-chips-apple-permite-hackers-acceder-correo-ubicacion-iphone-1439163'>Vulnerabilidad en chips de Apple permite a hackers acceder al correo y a la ubicación del iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/vulnerabilidad-chips-apple-permite-hackers-acceder-correo-ubicacion-iphone-1439163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vulnerabilidad-apple-4288335.jpg?tf=1200x' alt='Vulnerabilidad en chips de Apple permite a hackers acceder al correo y a la ubicación del iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161'>Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-4288332.jpg?tf=1200x' alt='Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-1439115'>Alerta máxima IPTV: primer país europeo en confiscar casas y coches en una operación sin precedentes</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-1439115' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-4288319.jpg?tf=1200x' alt='Alerta máxima IPTV: primer país europeo en confiscar casas y coches en una operación sin precedentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-menosprecio-ia-baratas-como-deepseek-inutil-competir-1439107'>Sam Altman menospreció las “IA baratas” como DeepSeek: “Es totalmente inútil competir con nosotros”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-menosprecio-ia-baratas-como-deepseek-inutil-competir-1439107' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-openia-4288259.jpg?tf=1200x' alt='Sam Altman menospreció las “IA baratas” como DeepSeek: “Es totalmente inútil competir con nosotros”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-trampa-pc-rompe-todo-1439095'>La última actualización de Windows es una auténtica trampa para tu PC: lo rompe casi todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-trampa-pc-rompe-todo-1439095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-windows-11-4288224.jpg?tf=1200x' alt='La última actualización de Windows es una auténtica trampa para tu PC: lo rompe casi todo' />
     </a>
 </div>
 
