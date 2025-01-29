@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-vaticano-mucho-alla-alcance-control-humano-1438959'>La inteligencia artificial llega al Vaticano: "Mucho más allá del alcance del control humano"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-vaticano-mucho-alla-alcance-control-humano-1438959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-llega-vaticano-4287999.jpg?tf=1200x' alt='La inteligencia artificial llega al Vaticano: "Mucho más allá del alcance del control humano"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/mazazo-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Mazazo para las listas IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/mazazo-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-4288071.jpg?tf=1200x' alt='Mazazo para las listas IPTV: descubren un nuevo método para transmitir fútbol gratis' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-1438969'>La estafa que atemoriza a los expertos: abres un PDF y roban todos tus datos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-1438969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-4288021.jpg?tf=1200x' alt='La estafa que atemoriza a los expertos: abres un PDF y roban todos tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-vs-deepseek-diferencias-similitudes-precio-cual-mejor-chatbot-ia-ti-1438988'>ChatGPT vs. DeepSeek: diferencias, similitudes, precio y cuál es el mejor chatbot de IA para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-vs-deepseek-diferencias-similitudes-precio-cual-mejor-chatbot-ia-ti-1438988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-vs-deepseek-4288051.jpg?tf=1200x' alt='ChatGPT vs. DeepSeek: diferencias, similitudes, precio y cuál es el mejor chatbot de IA para ti' />
     </a>
 </div>
 
