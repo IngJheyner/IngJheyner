@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/gente-acampada-comprar-rtx-5090-va-ser-peor-pandemia-criptomonedas-1438977'>Gente acampada para comprar una RTX 5090: "Va a ser peor que con la pandemia y las criptomonedas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/gente-acampada-comprar-rtx-5090-va-ser-peor-pandemia-criptomonedas-1438977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gente-acampada-comprar-rtx-5090-peor-pandemia-criptomonedas-4287968.jpg?tf=1200x' alt='Gente acampada para comprar una RTX 5090: "Va a ser peor que con la pandemia y las criptomonedas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-prueba-deepseek-chatgpt-gemini-compania-tienen-grave-problema-1438966'>Experto en IA prueba DeepSeek y sí, ChatGPT, Gemini y compañía tienen un grave problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-prueba-deepseek-chatgpt-gemini-compania-tienen-grave-problema-1438966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/prueba-deepseek-4288034.jpg?tf=1200x' alt='Experto en IA prueba DeepSeek y sí, ChatGPT, Gemini y compañía tienen un grave problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-gov-agencias-gubernamentales-medio-huracan-deepseek-como-funciona-1438939'>OpenAI lanza ChatGPT Gov para agencias gubernamentales en medio del huracán DeepSeek: ¿Cómo funciona?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-gov-agencias-gubernamentales-medio-huracan-deepseek-como-funciona-1438939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-lanza-chatgpt-gov-4287992.jpg?tf=1200x' alt='OpenAI lanza ChatGPT Gov para agencias gubernamentales en medio del huracán DeepSeek: ¿Cómo funciona?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406'>8 aplicaciones de código abierto para apoyar el software libre</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apps-codigo-abierto-open-source-software-libre-4282100.jpg?tf=1200x' alt='8 aplicaciones de código abierto para apoyar el software libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/puede-movil-costar-menos-200-euros-ser-ultrarresistente-he-probado-realme-c75-aun-no-doy-credito-1438584'>¿Puede un móvil costar menos de 200 euros y ser ultrarresistente? He probado el Realme C75 y aún no doy crédito</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/puede-movil-costar-menos-200-euros-ser-ultrarresistente-he-probado-realme-c75-aun-no-doy-credito-1438584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/realme-c75-4287782.jpg?tf=1200x' alt='¿Puede un móvil costar menos de 200 euros y ser ultrarresistente? He probado el Realme C75 y aún no doy crédito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-1438922'>El Reloj de Juicio final, a 89 segundos del fin del mundo: la IA rebelde y las armas nucleares, nuevas amenazas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-1438922' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-4287940.jpg?tf=1200x' alt='El Reloj de Juicio final, a 89 segundos del fin del mundo: la IA rebelde y las armas nucleares, nuevas amenazas' />
     </a>
 </div>
 
