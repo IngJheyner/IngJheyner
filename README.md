@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899'>Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406'>8 aplicaciones de código abierto para apoyar el software libre</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apps-codigo-abierto-open-source-software-libre-4282100.jpg?tf=1200x' alt='8 aplicaciones de código abierto para apoyar el software libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/puede-movil-costar-menos-200-euros-ser-ultrarresistente-he-probado-realme-c75-aun-no-doy-credito-1438584'>¿Puede un móvil costar menos de 200 euros y ser ultrarresistente? He probado el Realme C75 y aún no doy crédito</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/puede-movil-costar-menos-200-euros-ser-ultrarresistente-he-probado-realme-c75-aun-no-doy-credito-1438584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/realme-c75-4287782.jpg?tf=1200x' alt='¿Puede un móvil costar menos de 200 euros y ser ultrarresistente? He probado el Realme C75 y aún no doy crédito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-1438922'>El Reloj de Juicio final, a 89 segundos del fin del mundo: la IA rebelde y las armas nucleares, nuevas amenazas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-1438922' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-4287940.jpg?tf=1200x' alt='El Reloj de Juicio final, a 89 segundos del fin del mundo: la IA rebelde y las armas nucleares, nuevas amenazas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligros-ocultos-aceptar-llamada-spam-aunque-no-caigas-estafa-1438769'>Peligros ocultos de aceptar una llamada SPAM aunque no caigas en la estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/peligros-ocultos-aceptar-llamada-spam-aunque-no-caigas-estafa-1438769' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4287711.jpg?tf=1200x' alt='Peligros ocultos de aceptar una llamada SPAM aunque no caigas en la estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/curioso-trabajo-bill-gates-sigue-haciendo-microsoft-me-ayuda-mantenerme-actualizado-1438804'>El curioso trabajo que Bill Gates sigue haciendo para Microsoft: “Me ayuda a mantenerme actualizado”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/curioso-trabajo-bill-gates-sigue-haciendo-microsoft-me-ayuda-mantenerme-actualizado-1438804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-microsoft-4287740.jpg?tf=1200x' alt='El curioso trabajo que Bill Gates sigue haciendo para Microsoft: “Me ayuda a mantenerme actualizado”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/podras-tener-varias-cuentas-whatsapp-iphone-como-funciona-beneficios-tiene-1438809'>Podrás tener varias cuentas de WhatsApp en un iPhone: cómo funciona y qué beneficios tiene</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/podras-tener-varias-cuentas-whatsapp-iphone-como-funciona-beneficios-tiene-1438809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuentas-whatsapp-4287767.jpg?tf=1200x' alt='Podrás tener varias cuentas de WhatsApp en un iPhone: cómo funciona y qué beneficios tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dice-ley-llamadas-spam-cuando-son-legales-cuando-no-1438771'>Esto dice la ley de las llamadas SPAM: ¿cuándo son legales y cuando no?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/dice-ley-llamadas-spam-cuando-son-legales-cuando-no-1438771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dice-ley-llamadas-spam-cuando-son-legales-cuando-no-4287680.jpg?tf=1200x' alt='Esto dice la ley de las llamadas SPAM: ¿cuándo son legales y cuando no?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907'>Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inversor-silicon-valley-asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-4287922.jpg?tf=1200x' alt='Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"' />
     </a>
 </div>
 
