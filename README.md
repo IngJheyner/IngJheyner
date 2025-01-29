@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161'>Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-4288332.jpg?tf=1200x' alt='Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-lanza-oferta-final-acabar-iptv-precio-ver-futbol-anos-1439158'>Movistar Plus+ lanza la oferta final para acabar con las IPTV: el precio más bajo por ver el fútbol en años</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-lanza-oferta-final-acabar-iptv-precio-ver-futbol-anos-1439158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-futbol-4288326.jpg?tf=1200x' alt='Movistar Plus+ lanza la oferta final para acabar con las IPTV: el precio más bajo por ver el fútbol en años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-1439115'>Alerta máxima IPTV: primer país europeo en confiscar casas y coches en una operación sin precedentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-1439115' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-iptv-primer-pais-europeo-confiscar-casas-coches-operacion-precedentes-4288319.jpg?tf=1200x' alt='Alerta máxima IPTV: primer país europeo en confiscar casas y coches en una operación sin precedentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-menosprecio-ia-baratas-como-deepseek-inutil-competir-1439107'>Sam Altman menospreció las “IA baratas” como DeepSeek: “Es totalmente inútil competir con nosotros”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-menosprecio-ia-baratas-como-deepseek-inutil-competir-1439107' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-openia-4288259.jpg?tf=1200x' alt='Sam Altman menospreció las “IA baratas” como DeepSeek: “Es totalmente inútil competir con nosotros”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-trampa-pc-rompe-todo-1439095'>La última actualización de Windows es una auténtica trampa para tu PC: lo rompe casi todo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-trampa-pc-rompe-todo-1439095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-windows-11-4288224.jpg?tf=1200x' alt='La última actualización de Windows es una auténtica trampa para tu PC: lo rompe casi todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-admite-error-ha-marcado-durante-toda-vida-fue-miserable-1439034'>Bill Gates admite el error que le ha marcado durante toda su vida: "Fue miserable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-admite-error-ha-marcado-durante-toda-vida-fue-miserable-1439034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/divorcio-bill-gates-4288122.jpg?tf=1200x' alt='Bill Gates admite el error que le ha marcado durante toda su vida: "Fue miserable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/boom-supersonic-alza-vuelo-primer-avion-supersonico-comercial-epoca-concorde-1439052'>Boom Supersonic alza el vuelo, el primer avión supersónico comercial desde la época del Concorde</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/boom-supersonic-alza-vuelo-primer-avion-supersonico-comercial-epoca-concorde-1439052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xb-1-boom-supersonic-rompe-barrera-sonido-4288158.jpg?tf=1200x' alt='Boom Supersonic alza el vuelo, el primer avión supersónico comercial desde la época del Concorde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944'>Si ves este mensaje en tu iPhone, podrían estar intentando robarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ves-mensaje-iphone-podrian-estar-intentando-robarte-4287985.jpg?tf=1200x' alt='Si ves este mensaje en tu iPhone, podrían estar intentando robarte' />
     </a>
 </div>
 
