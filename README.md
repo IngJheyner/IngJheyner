@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/podras-tener-varias-cuentas-whatsapp-iphone-como-funciona-beneficios-tiene-1438809'>Podrás tener varias cuentas de WhatsApp en un iPhone: cómo funciona y qué beneficios tiene</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/podras-tener-varias-cuentas-whatsapp-iphone-como-funciona-beneficios-tiene-1438809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cuentas-whatsapp-4287767.jpg?tf=1200x' alt='Podrás tener varias cuentas de WhatsApp en un iPhone: cómo funciona y qué beneficios tiene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dice-ley-llamadas-spam-cuando-son-legales-cuando-no-1438771'>Esto dice la ley de las llamadas SPAM: ¿cuándo son legales y cuando no?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/dice-ley-llamadas-spam-cuando-son-legales-cuando-no-1438771' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/dice-ley-llamadas-spam-cuando-son-legales-cuando-no-4287680.jpg?tf=1200x' alt='Esto dice la ley de las llamadas SPAM: ¿cuándo son legales y cuando no?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907'>Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inversor-silicon-valley-asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-4287922.jpg?tf=1200x' alt='Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894'>Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/roban-iphone-madrid-presenta-20-policias-marruecos-1438894' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/roban-iphone-madrid-presenta-20-policias-marruecos-4287515.jpg?tf=1200x' alt='Le roban el iPhone en Madrid y se presenta con 20 policías en Marruecos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-1438797'>Movistar Plus+: la desconocida película de terror inspirada en Stephen King y Lovecraft, considerada de culto que no te debes perder</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-1438797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-desconocida-pelicula-terror-inspirada-stephen-king-lovecraft-considerada-culto-no-te-debes-perder-4287720.jpg?tf=1200x' alt='Movistar Plus+: la desconocida película de terror inspirada en Stephen King y Lovecraft, considerada de culto que no te debes perder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-1438845'>Adiós a la excusa del "no había cobertura", SpaceX de Elon Musk ya llega a cualquier rincón del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-1438845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-4287871.jpg?tf=1200x' alt='Adiós a la excusa del "no había cobertura", SpaceX de Elon Musk ya llega a cualquier rincón del mundo' />
     </a>
 </div>
 
