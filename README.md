@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-menosprecio-ia-baratas-como-deepseek-inutil-competir-1439107'>Sam Altman menospreció las “IA baratas” como DeepSeek: “Es totalmente inútil competir con nosotros”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-menosprecio-ia-baratas-como-deepseek-inutil-competir-1439107' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-openia-4288259.jpg?tf=1200x' alt='Sam Altman menospreció las “IA baratas” como DeepSeek: “Es totalmente inútil competir con nosotros”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-trampa-pc-rompe-todo-1439095'>La última actualización de Windows es una auténtica trampa para tu PC: lo rompe casi todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-trampa-pc-rompe-todo-1439095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-windows-11-4288224.jpg?tf=1200x' alt='La última actualización de Windows es una auténtica trampa para tu PC: lo rompe casi todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-admite-error-ha-marcado-durante-toda-vida-fue-miserable-1439034'>Bill Gates admite el error que le ha marcado durante toda su vida: "Fue miserable"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-admite-error-ha-marcado-durante-toda-vida-fue-miserable-1439034' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/divorcio-bill-gates-4288122.jpg?tf=1200x' alt='Bill Gates admite el error que le ha marcado durante toda su vida: "Fue miserable"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944'>Si ves este mensaje en tu iPhone, podrían estar intentando robarte</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ves-mensaje-iphone-podrian-estar-intentando-robarte-4287985.jpg?tf=1200x' alt='Si ves este mensaje en tu iPhone, podrían estar intentando robarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-da-campanada-rebaja-ya-iphone-16-plus-cuesta-109-euros-menos-1439063'>Amazon da la campanada y rebaja ya el iPhone 16 Plus: cuesta 109 euros menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-da-campanada-rebaja-ya-iphone-16-plus-cuesta-109-euros-menos-1439063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-16-plus-4288152.jpg?tf=1200x' alt='Amazon da la campanada y rebaja ya el iPhone 16 Plus: cuesta 109 euros menos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-1439005'>Este satélite 100% español se lanzará esta noche con un cohete de Elon Musk: "Nos dará soberanía estratégica"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-1439005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-4288070.jpg?tf=1200x' alt='Este satélite 100% español se lanzará esta noche con un cohete de Elon Musk: "Nos dará soberanía estratégica"' />
     </a>
 </div>
 
