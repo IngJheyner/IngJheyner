@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-windows-1437152'>Expertos en ciberseguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-windows-1437152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pesadilla-windows-10-4288074.jpg?tf=1200x' alt='Expertos en ciberseguridad de todo el mundo alertan: "En 9 meses comenzará la pesadilla"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-entreno-deepseek-ia-funcionar-hardware-pequeno-eficiente-1438828'>¿Cómo entrenó DeepSeek su IA para funcionar en un hardware más pequeño y eficiente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-entreno-deepseek-ia-funcionar-hardware-pequeno-eficiente-1438828' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-deepseek-4287820.jpg?tf=1200x' alt='¿Cómo entrenó DeepSeek su IA para funcionar en un hardware más pequeño y eficiente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-vaticano-mucho-alla-alcance-control-humano-1438959'>La inteligencia artificial llega al Vaticano: "Mucho más allá del alcance del control humano"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-vaticano-mucho-alla-alcance-control-humano-1438959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-llega-vaticano-4287999.jpg?tf=1200x' alt='La inteligencia artificial llega al Vaticano: "Mucho más allá del alcance del control humano"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-canario-ni-juego-calamar-verdad-modos-esteticos-whatsapp-no-existen-iphone-1438999'>Ni canario, ni Juego del Calamar, la verdad de los modos estéticos de WhatsApp y por qué no existen en iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-canario-ni-juego-calamar-verdad-modos-esteticos-whatsapp-no-existen-iphone-1438999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modos-esteticos-whatsapp-4288063.jpg?tf=1200x' alt='Ni canario, ni Juego del Calamar, la verdad de los modos estéticos de WhatsApp y por qué no existen en iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-ia-1436113'>Bill Gates no tiene dudas: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-ia-1436113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates no tiene dudas: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-1438969'>La estafa que atemoriza a los expertos: abres un PDF y roban todos tus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-1438969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-4288021.jpg?tf=1200x' alt='La estafa que atemoriza a los expertos: abres un PDF y roban todos tus datos' />
     </a>
 </div>
 
