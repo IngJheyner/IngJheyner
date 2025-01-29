@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/reacciona-deepseek-preguntas-comprometidas-como-funciona-censura-china-1438981'>Así reacciona DeepSeek ante preguntas comprometidas: "¿Cómo funciona la censura en China?"</a></h4>
-    <a href='https://computerhoy.20minutos.es/reacciona-deepseek-preguntas-comprometidas-como-funciona-censura-china-1438981' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-4288049.jpg?tf=1200x' alt='Así reacciona DeepSeek ante preguntas comprometidas: "¿Cómo funciona la censura en China?"' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/mazazo-iptv-futbol-gratis-cuadernos-jupyter-1425548'>Mazazo para las listas IPTV: descubren un nuevo método para transmitir fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/mazazo-iptv-futbol-gratis-cuadernos-jupyter-1425548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ver-futbol-gratis-iptv-4288071.jpg?tf=1200x' alt='Mazazo para las listas IPTV: descubren un nuevo método para transmitir fútbol gratis' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/gente-acampada-comprar-rtx-5090-va-ser-peor-pandemia-criptomonedas-1438977'>Gente acampada para comprar una RTX 5090: "Va a ser peor que con la pandemia y las criptomonedas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/gente-acampada-comprar-rtx-5090-va-ser-peor-pandemia-criptomonedas-1438977' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gente-acampada-comprar-rtx-5090-peor-pandemia-criptomonedas-4287968.jpg?tf=1200x' alt='Gente acampada para comprar una RTX 5090: "Va a ser peor que con la pandemia y las criptomonedas"' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-canario-ni-juego-calamar-verdad-modos-esteticos-whatsapp-no-existen-iphone-1438999'>Ni canario, ni Juego del Calamar, la verdad de los modos estéticos de WhatsApp y por qué no existen en iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-canario-ni-juego-calamar-verdad-modos-esteticos-whatsapp-no-existen-iphone-1438999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modos-esteticos-whatsapp-4288063.jpg?tf=1200x' alt='Ni canario, ni Juego del Calamar, la verdad de los modos estéticos de WhatsApp y por qué no existen en iPhone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-prueba-deepseek-chatgpt-gemini-compania-tienen-grave-problema-1438966'>Experto en IA prueba DeepSeek y sí, ChatGPT, Gemini y compañía tienen un grave problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-prueba-deepseek-chatgpt-gemini-compania-tienen-grave-problema-1438966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/prueba-deepseek-4288034.jpg?tf=1200x' alt='Experto en IA prueba DeepSeek y sí, ChatGPT, Gemini y compañía tienen un grave problema' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-ia-1436113'>Bill Gates no tiene dudas: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-ia-1436113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates no tiene dudas: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-gov-agencias-gubernamentales-medio-huracan-deepseek-como-funciona-1438939'>OpenAI lanza ChatGPT Gov para agencias gubernamentales en medio del huracán DeepSeek: ¿Cómo funciona?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-gov-agencias-gubernamentales-medio-huracan-deepseek-como-funciona-1438939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-lanza-chatgpt-gov-4287992.jpg?tf=1200x' alt='OpenAI lanza ChatGPT Gov para agencias gubernamentales en medio del huracán DeepSeek: ¿Cómo funciona?' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-1438969'>La estafa que atemoriza a los expertos: abres un PDF y roban todos tus datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-1438969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-4288021.jpg?tf=1200x' alt='La estafa que atemoriza a los expertos: abres un PDF y roban todos tus datos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899'>Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-vs-deepseek-diferencias-similitudes-precio-cual-mejor-chatbot-ia-ti-1438988'>ChatGPT vs. DeepSeek: diferencias, similitudes, precio y cuál es el mejor chatbot de IA para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-vs-deepseek-diferencias-similitudes-precio-cual-mejor-chatbot-ia-ti-1438988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-vs-deepseek-4288051.jpg?tf=1200x' alt='ChatGPT vs. DeepSeek: diferencias, similitudes, precio y cuál es el mejor chatbot de IA para ti' />
     </a>
 </div>
 
