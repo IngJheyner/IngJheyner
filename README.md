@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-gov-agencias-gubernamentales-medio-huracan-deepseek-como-funciona-1438939'>OpenAI lanza ChatGPT Gov para agencias gubernamentales en medio del huracán DeepSeek: ¿Cómo funciona?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-lanza-chatgpt-gov-agencias-gubernamentales-medio-huracan-deepseek-como-funciona-1438939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-lanza-chatgpt-gov-4287992.jpg?tf=1200x' alt='OpenAI lanza ChatGPT Gov para agencias gubernamentales en medio del huracán DeepSeek: ¿Cómo funciona?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899'>Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-1438922'>El Reloj de Juicio final, a 89 segundos del fin del mundo: la IA rebelde y las armas nucleares, nuevas amenazas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-1438922' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reloj-juicio-final-89-segundos-fin-mundo-ia-rebelde-armas-nucleares-nuevas-amenazas-4287940.jpg?tf=1200x' alt='El Reloj de Juicio final, a 89 segundos del fin del mundo: la IA rebelde y las armas nucleares, nuevas amenazas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligros-ocultos-aceptar-llamada-spam-aunque-no-caigas-estafa-1438769'>Peligros ocultos de aceptar una llamada SPAM aunque no caigas en la estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/peligros-ocultos-aceptar-llamada-spam-aunque-no-caigas-estafa-1438769' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4287711.jpg?tf=1200x' alt='Peligros ocultos de aceptar una llamada SPAM aunque no caigas en la estafa' />
     </a>
 </div>
 
