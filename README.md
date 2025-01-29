@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-util-funcion-word-culpa-ia-1439053'>Microsoft elimina esta útil función de Word por culpa de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-util-funcion-word-culpa-ia-1439053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-elimina-util-funcion-word-culpa-ia-4288117.jpg?tf=1200x' alt='Microsoft elimina esta útil función de Word por culpa de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-1439085'>Giro de 180 grados en WhatsApp: cómo crear tus propios modos estéticos personalizados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-1439085' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-4288256.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp: cómo crear tus propios modos estéticos personalizados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/guerra-deepseek-chatgpt-ya-tiene-claro-inesperado-ganador-apple-1438978'>La guerra entre DeepSeek y ChatGPT ya tiene un claro e inesperado ganador: Apple</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/guerra-deepseek-chatgpt-ya-tiene-claro-inesperado-ganador-apple-1438978' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/guerra-deepseek-chatgpt-ya-tiene-claro-inesperado-ganador-apple-4288046.jpg?tf=1200x' alt='La guerra entre DeepSeek y ChatGPT ya tiene un claro e inesperado ganador: Apple' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-faltan-muchas-series-peliculas-prometidas-1438954'>Jarro de agua fría para los clientes de Movistar Plus+: "Faltan muchas series y películas prometidas"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-faltan-muchas-series-peliculas-prometidas-1438954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4288153.jpg?tf=1200x' alt='Jarro de agua fría para los clientes de Movistar Plus+: "Faltan muchas series y películas prometidas"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/ni-champions-ni-laliga-hoy-juega-partido-importante-historia-iptv-1439007'>Ni Champions ni LaLiga, hoy se juega el "partido" más importante de la historia de las IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ni-champions-ni-laliga-hoy-juega-partido-importante-historia-iptv-1439007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-champions-4288084.jpg?tf=1200x' alt='Ni Champions ni LaLiga, hoy se juega el "partido" más importante de la historia de las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/xiaomi-hyperos-21-ya-disponible-todos-como-descargar-novedades-moviles-compatibles-1439031'>Xiaomi HyperOS 2.1 ya disponible para todos: cómo descargar, novedades y móviles compatibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/xiaomi-hyperos-21-ya-disponible-todos-como-descargar-novedades-moviles-compatibles-1439031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/xiaomi-hyperos-21-ya-disponible-todos-como-descargar-novedades-moviles-compatibles-4288095.jpg?tf=1200x' alt='Xiaomi HyperOS 2.1 ya disponible para todos: cómo descargar, novedades y móviles compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-ceo-google-advierte-ia-no-creo-gente-aprecie-rapido-va-suceder-1438989'>El ex CEO de Google advierte sobre la IA: "No creo que la gente aprecie lo rápido que esto va a suceder"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ex-ceo-google-advierte-ia-no-creo-gente-aprecie-rapido-va-suceder-1438989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/eric-schmidt-4288072.jpg?tf=1200x' alt='El ex CEO de Google advierte sobre la IA: "No creo que la gente aprecie lo rápido que esto va a suceder"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-lenguaje-programacion-futuro-ingles-1429006'>Para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-lenguaje-programacion-futuro-ingles-1429006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-python-ni-javascript-expertos-lenguaje-programacion-futuro-seguramente-ya-dominas-4271672.jpg?tf=1200x' alt='Para los expertos este es el lenguaje de programación del futuro (y seguramente ya lo dominas)' />
     </a>
 </div>
 
