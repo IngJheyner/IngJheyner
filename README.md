@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/reacciona-deepseek-preguntas-comprometidas-como-funciona-censura-china-1438981'>Así reacciona DeepSeek ante preguntas comprometidas: "¿Cómo funciona la censura en China?"</a></h4>
+    <a href='https://computerhoy.20minutos.es/reacciona-deepseek-preguntas-comprometidas-como-funciona-censura-china-1438981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-4288049.jpg?tf=1200x' alt='Así reacciona DeepSeek ante preguntas comprometidas: "¿Cómo funciona la censura en China?"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/gente-acampada-comprar-rtx-5090-va-ser-peor-pandemia-criptomonedas-1438977'>Gente acampada para comprar una RTX 5090: "Va a ser peor que con la pandemia y las criptomonedas"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/gente-acampada-comprar-rtx-5090-va-ser-peor-pandemia-criptomonedas-1438977' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gente-acampada-comprar-rtx-5090-peor-pandemia-criptomonedas-4287968.jpg?tf=1200x' alt='Gente acampada para comprar una RTX 5090: "Va a ser peor que con la pandemia y las criptomonedas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899'>Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tablet-cuesta-menos-movil-menos-100-euros-perfecta-series-peliculas-1438899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/redmi-pad-87-87-4g-xiaomi-4005782.jpg?tf=1200x' alt='Esta tablet cuesta menos que un móvil: por menos de 100 euros es perfecta para series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406'>8 aplicaciones de código abierto para apoyar el software libre</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apps-codigo-abierto-open-source-software-libre-4282100.jpg?tf=1200x' alt='8 aplicaciones de código abierto para apoyar el software libre' />
     </a>
 </div>
 
