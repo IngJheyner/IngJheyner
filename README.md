@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907'>Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-1438907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inversor-silicon-valley-asesor-donald-trump-tiene-claro-deepseek-momento-sputnik-ia-4287922.jpg?tf=1200x' alt='Inversor de Silicon Valley y asesor de Donald Trump lo tiene claro: DeepSeek es el "momento Sputnik de la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-clientes-movistar-orange-2025-digi-frota-manos-1438878'>Mazazo para los clientes de Movistar y Orange en 2025: DIGI se frota las manos</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/mazazo-clientes-movistar-orange-2025-digi-frota-manos-1438878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mazazo-clientes-movistar-orange-2025-digi-frota-manos-4287924.jpg?tf=1200x' alt='Mazazo para los clientes de Movistar y Orange en 2025: DIGI se frota las manos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-1438845'>Adiós a la excusa del "no había cobertura", SpaceX de Elon Musk ya llega a cualquier rincón del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-1438845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/adios-excusa-no-habia-cobertura-spacex-elon-musk-ya-llega-cualquier-rincon-mundo-4287871.jpg?tf=1200x' alt='Adiós a la excusa del "no había cobertura", SpaceX de Elon Musk ya llega a cualquier rincón del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783'>Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-1438783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/solo-tienes-tres-dias-verlo-prime-video-thriller-suspense-atracos-lleva-protagonistas-limite-4287705.jpg?tf=1200x' alt='Solo tienes tres días para verlo en Prime Video: el thriller de suspense y atracos que lleva a sus protagonistas al límite' />
     </a>
 </div>
 
