@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944'>Si ves este mensaje en tu iPhone, podrían estar intentando robarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ves-mensaje-iphone-podrian-estar-intentando-robarte-1438944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ves-mensaje-iphone-podrian-estar-intentando-robarte-4287985.jpg?tf=1200x' alt='Si ves este mensaje en tu iPhone, podrían estar intentando robarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-da-campanada-rebaja-ya-iphone-16-plus-cuesta-109-euros-menos-1439063'>Amazon da la campanada y rebaja ya el iPhone 16 Plus: cuesta 109 euros menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-da-campanada-rebaja-ya-iphone-16-plus-cuesta-109-euros-menos-1439063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iphone-16-plus-4288152.jpg?tf=1200x' alt='Amazon da la campanada y rebaja ya el iPhone 16 Plus: cuesta 109 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-1439005'>Este satélite 100% español se lanzará esta noche con un cohete de Elon Musk: "Nos dará soberanía estratégica"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-1439005' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/satelite-100-espanol-lanzara-noche-cohete-elon-musk-nos-dara-soberania-estrategica-4288070.jpg?tf=1200x' alt='Este satélite 100% español se lanzará esta noche con un cohete de Elon Musk: "Nos dará soberanía estratégica"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-util-funcion-word-culpa-ia-1439053'>Microsoft elimina esta útil función de Word por culpa de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-util-funcion-word-culpa-ia-1439053' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-elimina-util-funcion-word-culpa-ia-4288117.jpg?tf=1200x' alt='Microsoft elimina esta útil función de Word por culpa de la IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-1439085'>Giro de 180 grados en WhatsApp: cómo crear tus propios modos estéticos personalizados</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-1439085' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-whatsapp-como-crear-propios-modos-esteticos-personalizados-4288256.jpg?tf=1200x' alt='Giro de 180 grados en WhatsApp: cómo crear tus propios modos estéticos personalizados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/guerra-deepseek-chatgpt-ya-tiene-claro-inesperado-ganador-apple-1438978'>La guerra entre DeepSeek y ChatGPT ya tiene un claro e inesperado ganador: Apple</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/guerra-deepseek-chatgpt-ya-tiene-claro-inesperado-ganador-apple-1438978' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/guerra-deepseek-chatgpt-ya-tiene-claro-inesperado-ganador-apple-4288046.jpg?tf=1200x' alt='La guerra entre DeepSeek y ChatGPT ya tiene un claro e inesperado ganador: Apple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-faltan-muchas-series-peliculas-prometidas-1438954'>Jarro de agua fría para los clientes de Movistar Plus+: "Faltan muchas series y películas prometidas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/jarro-agua-fria-clientes-movistar-plus-faltan-muchas-series-peliculas-prometidas-1438954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4288153.jpg?tf=1200x' alt='Jarro de agua fría para los clientes de Movistar Plus+: "Faltan muchas series y películas prometidas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-champions-ni-laliga-hoy-juega-partido-importante-historia-iptv-1439007'>Ni Champions ni LaLiga, hoy se juega el "partido" más importante de la historia de las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-champions-ni-laliga-hoy-juega-partido-importante-historia-iptv-1439007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-champions-4288084.jpg?tf=1200x' alt='Ni Champions ni LaLiga, hoy se juega el "partido" más importante de la historia de las IPTV' />
     </a>
 </div>
 
