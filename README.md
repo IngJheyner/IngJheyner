@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nordvpn-ya-puede-enganar-webs-bloquean-vpn-nordwhisper-1439191'>Vuelco a las VPN: NordVPN ya puede engañar a las webs y servicios que bloquean las VPN</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nordvpn-ya-puede-enganar-webs-bloquean-vpn-nordwhisper-1439191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-vpn-nordvpn-ya-puede-enganar-webs-bloquean-vpn-4288360.jpg?tf=1200x' alt='Vuelco a las VPN: NordVPN ya puede engañar a las webs y servicios que bloquean las VPN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdtchannels-quiere-te-olvides-iptv-dos-nuevos-canales-gratis-importantes-novedades-1439177'>TDTChannels quiere que te olvides de IPTV: dos nuevos canales gratis, e importantes novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/tdtchannels-quiere-te-olvides-iptv-dos-nuevos-canales-gratis-importantes-novedades-1439177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tdtchannels-quiere-te-olvides-iptv-anade-dos-nuevos-canales-gratis-importantes-novedades-4288345.jpg?tf=1200x' alt='TDTChannels quiere que te olvides de IPTV: dos nuevos canales gratis, e importantes novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161'>Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-4288332.jpg?tf=1200x' alt='Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-lanza-oferta-final-acabar-iptv-precio-ver-futbol-anos-1439158'>Movistar Plus+ lanza la oferta final para acabar con las IPTV: el precio más bajo por ver el fútbol en años</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-lanza-oferta-final-acabar-iptv-precio-ver-futbol-anos-1439158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-futbol-4288326.jpg?tf=1200x' alt='Movistar Plus+ lanza la oferta final para acabar con las IPTV: el precio más bajo por ver el fútbol en años' />
     </a>
 </div>
 
