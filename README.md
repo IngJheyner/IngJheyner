@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315'>Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5090-unboxing-4284487.jpg?tf=1200x' alt='Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abraza-deepseek-ia-china-integra-windows-11-azure-github-1439304'>Microsoft abraza a DeepSeek: la IA china se integra en Windows 11, Azure y GitHub</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abraza-deepseek-ia-china-integra-windows-11-azure-github-1439304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4287179.jpg?tf=1200x' alt='Microsoft abraza a DeepSeek: la IA china se integra en Windows 11, Azure y GitHub' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251'>Netflix confirma al fin una característica que los usuarios de iPhone y iPad estaban demandando</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/netflix-movil-2143481.jpg?tf=1200x' alt='Netflix confirma al fin una característica que los usuarios de iPhone y iPad estaban demandando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-1439261'>La NASA en alerta por unas imágenes captadas por James Webb que muestran tres puntos rojos sin explicación</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-1439261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-4288495.jpg?tf=1200x' alt='La NASA en alerta por unas imágenes captadas por James Webb que muestran tres puntos rojos sin explicación' />
     </a>
 </div>
 
