@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202'>Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-4288384.jpg?tf=1200x' alt='Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/hacer-fotos-nocturnas-movil-ha-vuelto-lio-motivo-marcas-deberian-aclararse-1434078'>Hacer fotos nocturnas con el móvil se ha vuelto un lío por este motivo (y las marcas deberían aclararse)</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/hacer-fotos-nocturnas-movil-ha-vuelto-lio-motivo-marcas-deberian-aclararse-1434078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-noche-4285655.jpg?tf=1200x' alt='Hacer fotos nocturnas con el móvil se ha vuelto un lío por este motivo (y las marcas deberían aclararse)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818'>He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium, pero mejora diseño y cámaras</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288129.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium, pero mejora diseño y cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049'>Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/timo-grua-google-maps-waze-4288239.jpg?tf=1200x' alt='Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/reinforcement-learning-ia-clave-exito-deepseek-1439065'>¿Qué es el "reinforcement learning" en IA y por qué es la clave del éxito de DeepSeek?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/reinforcement-learning-ia-clave-exito-deepseek-1439065' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4288203.jpg?tf=1200x' alt='¿Qué es el "reinforcement learning" en IA y por qué es la clave del éxito de DeepSeek?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-deepseek-windows-mac-linux-funcione-incluso-conexion-internet-1439040'>Cómo instalar DeepSeek en Windows, Mac o Linux para que funcione incluso sin conexión a Internet</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-deepseek-windows-mac-linux-funcione-incluso-conexion-internet-1439040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-internet-4288125.jpg?tf=1200x' alt='Cómo instalar DeepSeek en Windows, Mac o Linux para que funcione incluso sin conexión a Internet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-amazon-portatil-chino-barato-cuela-top-ventas-16gb-ram-1438928'>Giro radical en Amazon: así es el portátil chino barato que se cuela en el top ventas con 16GB de RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-amazon-portatil-chino-barato-cuela-top-ventas-16gb-ram-1438928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pinstone-4287971.jpg?tf=1200x' alt='Giro radical en Amazon: así es el portátil chino barato que se cuela en el top ventas con 16GB de RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-airpods-apple-1438915'>¿Cómo se actualizan los AirPods? Apple resuelve al fin el gran misterio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-airpods-apple-1438915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/airpods-apple-4287949.jpg?tf=1200x' alt='¿Cómo se actualizan los AirPods? Apple resuelve al fin el gran misterio' />
     </a>
 </div>
 
