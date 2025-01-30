@@ -66,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818'>He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium, pero mejora diseño y cámaras</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818'>He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium que mejora diseño y cámaras</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288129.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium, pero mejora diseño y cámaras' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288129.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium que mejora diseño y cámaras' />
     </a>
 </div>
 
