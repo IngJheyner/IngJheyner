@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247'>Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pagos-x-4288496.jpg?tf=1200x' alt='Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-rompe-idea-mejor-ia-gracias-mayor-zancadilla-eeuu-china-1439222'>DeepSeek rompe la idea de "más es mejor" en IA gracias a la mayor zancadilla de EEUU a China</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-rompe-idea-mejor-ia-gracias-mayor-zancadilla-eeuu-china-1439222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-eeuu-4288441.jpg?tf=1200x' alt='DeepSeek rompe la idea de "más es mejor" en IA gracias a la mayor zancadilla de EEUU a China' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/hacer-fotos-nocturnas-movil-ha-vuelto-lio-motivo-marcas-deberian-aclararse-1434078'>Hacer fotos nocturnas con el móvil se ha vuelto un lío por este motivo (y las marcas deberían aclararse)</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/hacer-fotos-nocturnas-movil-ha-vuelto-lio-motivo-marcas-deberian-aclararse-1434078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-noche-4285655.jpg?tf=1200x' alt='Hacer fotos nocturnas con el móvil se ha vuelto un lío por este motivo (y las marcas deberían aclararse)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818'>He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium que mejora diseño y cámaras</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288129.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium que mejora diseño y cámaras' />
     </a>
 </div>
 
