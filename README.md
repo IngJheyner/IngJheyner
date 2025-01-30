@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cine-espanol-declara-guerra-pirateria-exigen-bloqueo-masivo-webs-direcciones-ip-1439341'>El cine español declara la guerra a la piratería: exigen el bloqueo masivo de webs y direcciones IP</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cine-espanol-declara-guerra-pirateria-exigen-bloqueo-masivo-webs-direcciones-ip-1439341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/contenido-pirata-4288641.jpg?tf=1200x' alt='El cine español declara la guerra a la piratería: exigen el bloqueo masivo de webs y direcciones IP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/empresas-espanolas-reloj-72-horas-sobrevivir-guillotina-ley-inteligencia-artificial-1439350'>Empresas españolas contra reloj: 72 horas para sobrevivir a la "guillotina" de la Ley de Inteligencia Artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/empresas-espanolas-reloj-72-horas-sobrevivir-guillotina-ley-inteligencia-artificial-1439350' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/empresas-espanolas-reloj-72-horas-sobrevivir-guillotina-ley-inteligencia-artificial-4288696.jpg?tf=1200x' alt='Empresas españolas contra reloj: 72 horas para sobrevivir a la "guillotina" de la Ley de Inteligencia Artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-saca-quicio-openai-destilacion-modelos-capaz-crear-ia-como-churros-1439322'>DeepSeek saca de quicio a OpenAI: su "destilación de modelos" es capaz de "crear IA como churros"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-saca-quicio-openai-destilacion-modelos-capaz-crear-ia-como-churros-1439322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-openia-4288585.jpg?tf=1200x' alt='DeepSeek saca de quicio a OpenAI: su "destilación de modelos" es capaz de "crear IA como churros"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315'>Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5090-unboxing-4284487.jpg?tf=1200x' alt='Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abraza-deepseek-ia-china-integra-windows-11-azure-github-1439304'>Microsoft abraza a DeepSeek: la IA china se integra en Windows 11, Azure y GitHub</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abraza-deepseek-ia-china-integra-windows-11-azure-github-1439304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4287179.jpg?tf=1200x' alt='Microsoft abraza a DeepSeek: la IA china se integra en Windows 11, Azure y GitHub' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-1439271'>Trump resucita la "Guerra de las Galaxias": da el visto bueno para crear un láser espacial antimisiles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-1439271' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-4288539.jpg?tf=1200x' alt='Trump resucita la "Guerra de las Galaxias": da el visto bueno para crear un láser espacial antimisiles' />
     </a>
 </div>
 
