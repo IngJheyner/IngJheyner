@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-airpods-apple-1438915'>¿Cómo se actualizan los AirPods? Apple resuelve al fin el gran misterio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-airpods-apple-1438915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/airpods-apple-4287949.jpg?tf=1200x' alt='¿Cómo se actualizan los AirPods? Apple resuelve al fin el gran misterio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-1439029'>Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062 de inmediato"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-1439029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-4288083.jpg?tf=1200x' alt='Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062 de inmediato"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nordvpn-ya-puede-enganar-webs-bloquean-vpn-nordwhisper-1439191'>Vuelco a las VPN: NordVPN ya puede engañar a las webs y servicios que bloquean las VPN</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nordvpn-ya-puede-enganar-webs-bloquean-vpn-nordwhisper-1439191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-vpn-nordvpn-ya-puede-enganar-webs-bloquean-vpn-4288360.jpg?tf=1200x' alt='Vuelco a las VPN: NordVPN ya puede engañar a las webs y servicios que bloquean las VPN' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167'>Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/god-war-ragnarok-2869647.jpg?tf=1200x' alt='Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/vulnerabilidad-chips-apple-permite-hackers-acceder-correo-ubicacion-iphone-1439163'>Vulnerabilidad en chips de Apple permite a hackers acceder al correo y a la ubicación del iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/vulnerabilidad-chips-apple-permite-hackers-acceder-correo-ubicacion-iphone-1439163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vulnerabilidad-apple-4288335.jpg?tf=1200x' alt='Vulnerabilidad en chips de Apple permite a hackers acceder al correo y a la ubicación del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161'>Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-lia-otra-vez-boton-volante-deja-funcionar-nadie-sabe-1439161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-4288332.jpg?tf=1200x' alt='Android Auto la lía otra vez: el botón del volante deja de funcionar y nadie sabe por qué' />
     </a>
 </div>
 
