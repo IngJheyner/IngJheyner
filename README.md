@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408'>Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-4288776.jpg?tf=1200x' alt='Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417'>Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-24h2-pc-windows-11-4288765.jpg?tf=1200x' alt='Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-ocupa-7gb-iphone-puedes-liberarlos-1439414'>Apple Intelligence ocupa hasta 7GB en tu iPhone: así puedes liberarlos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-ocupa-7gb-iphone-puedes-liberarlos-1439414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4286020.jpg?tf=1200x' alt='Apple Intelligence ocupa hasta 7GB en tu iPhone: así puedes liberarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-1439380'>Alerta de ciberseguridad: más de 10.000 sitios WordPress distribuyen malware en Windows y macOS</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-1439380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-4288732.jpg?tf=1200x' alt='Alerta de ciberseguridad: más de 10.000 sitios WordPress distribuyen malware en Windows y macOS' />
     </a>
 </div>
 
