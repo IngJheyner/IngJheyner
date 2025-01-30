@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049'>Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/timo-grua-google-maps-waze-4288239.jpg?tf=1200x' alt='Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reinforcement-learning-ia-clave-exito-deepseek-1439065'>¿Qué es el "reinforcement learning" en IA y por qué es la clave del éxito de DeepSeek?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reinforcement-learning-ia-clave-exito-deepseek-1439065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4288203.jpg?tf=1200x' alt='¿Qué es el "reinforcement learning" en IA y por qué es la clave del éxito de DeepSeek?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-deepseek-windows-mac-linux-funcione-incluso-conexion-internet-1439040'>Cómo instalar DeepSeek en Windows, Mac o Linux para que funcione incluso sin conexión a Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-deepseek-windows-mac-linux-funcione-incluso-conexion-internet-1439040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-internet-4288125.jpg?tf=1200x' alt='Cómo instalar DeepSeek en Windows, Mac o Linux para que funcione incluso sin conexión a Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-amazon-portatil-chino-barato-cuela-top-ventas-16gb-ram-1438928'>Giro radical en Amazon: así es el portátil chino barato que se cuela en el top ventas con 16GB de RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-amazon-portatil-chino-barato-cuela-top-ventas-16gb-ram-1438928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pinstone-4287971.jpg?tf=1200x' alt='Giro radical en Amazon: así es el portátil chino barato que se cuela en el top ventas con 16GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-airpods-apple-1438915'>¿Cómo se actualizan los AirPods? Apple resuelve al fin el gran misterio</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-actualizar-airpods-apple-1438915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/airpods-apple-4287949.jpg?tf=1200x' alt='¿Cómo se actualizan los AirPods? Apple resuelve al fin el gran misterio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-1439029'>Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062 de inmediato"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-1439029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-4288083.jpg?tf=1200x' alt='Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062 de inmediato"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nordvpn-ya-puede-enganar-webs-bloquean-vpn-nordwhisper-1439191'>Vuelco a las VPN: NordVPN ya puede engañar a las webs y servicios que bloquean las VPN</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nordvpn-ya-puede-enganar-webs-bloquean-vpn-nordwhisper-1439191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-vpn-nordvpn-ya-puede-enganar-webs-bloquean-vpn-4288360.jpg?tf=1200x' alt='Vuelco a las VPN: NordVPN ya puede engañar a las webs y servicios que bloquean las VPN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdtchannels-quiere-te-olvides-iptv-dos-nuevos-canales-gratis-importantes-novedades-1439177'>TDTChannels quiere que te olvides de IPTV: dos nuevos canales gratis, e importantes novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tdtchannels-quiere-te-olvides-iptv-dos-nuevos-canales-gratis-importantes-novedades-1439177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tdtchannels-quiere-te-olvides-iptv-anade-dos-nuevos-canales-gratis-importantes-novedades-4288345.jpg?tf=1200x' alt='TDTChannels quiere que te olvides de IPTV: dos nuevos canales gratis, e importantes novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167'>Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-usar-cuenta-psn-sony-pc-no-sera-obligatorio-ofrecera-premios-1439167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/god-war-ragnarok-2869647.jpg?tf=1200x' alt='Cambio radical en PlayStation: usar una cuenta PSN de Sony en PC no será obligatorio, ofrecerá premios si la usas' />
     </a>
 </div>
 
