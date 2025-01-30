@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-1439380'>Alerta de ciberseguridad: más de 10.000 sitios WordPress distribuyen malware en Windows y macOS</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-1439380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-4288732.jpg?tf=1200x' alt='Alerta de ciberseguridad: más de 10.000 sitios WordPress distribuyen malware en Windows y macOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/cine-espanol-declara-guerra-pirateria-exigen-bloqueo-masivo-webs-direcciones-ip-1439341'>El cine español declara la guerra a la piratería: exigen el bloqueo masivo de webs y direcciones IP</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/cine-espanol-declara-guerra-pirateria-exigen-bloqueo-masivo-webs-direcciones-ip-1439341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/contenido-pirata-4288641.jpg?tf=1200x' alt='El cine español declara la guerra a la piratería: exigen el bloqueo masivo de webs y direcciones IP' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-1439290'>Tiembla Excel: la inteligencia artificial de Google puede hacer análisis de datos más complejos en Sheets</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-1439290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-4288546.jpg?tf=1200x' alt='Tiembla Excel: la inteligencia artificial de Google puede hacer análisis de datos más complejos en Sheets' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315'>Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5090-unboxing-4284487.jpg?tf=1200x' alt='Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080' />
     </a>
 </div>
 
