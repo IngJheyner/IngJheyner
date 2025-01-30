@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-rompe-idea-mejor-ia-gracias-mayor-zancadilla-eeuu-china-1439222'>DeepSeek rompe la idea de "más es mejor" en IA gracias a la mayor zancadilla de EEUU a China</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-rompe-idea-mejor-ia-gracias-mayor-zancadilla-eeuu-china-1439222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-eeuu-4288441.jpg?tf=1200x' alt='DeepSeek rompe la idea de "más es mejor" en IA gracias a la mayor zancadilla de EEUU a China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216'>Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-francia-espana-4288419.jpg?tf=1200x' alt='Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818'>He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium que mejora diseño y cámaras</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-ultra-1438818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288129.jpg?tf=1200x' alt='He analizado el Samsung Galaxy S25 Ultra y es otro año más el rey de la gama premium que mejora diseño y cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049'>Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/timo-grua-google-maps-waze-4288239.jpg?tf=1200x' alt='Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa' />
     </a>
 </div>
 
