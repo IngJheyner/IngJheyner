@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mwc-2025-barcelona-lista-pulverizar-records-desata-tsunami-tecnologico-como-nunca-antes-visto-1439262'>MWC 2025: Barcelona lista para pulverizar récords, desata un tsunami tecnológico como nunca antes visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mwc-2025-barcelona-lista-pulverizar-records-desata-tsunami-tecnologico-como-nunca-antes-visto-1439262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg?tf=1200x' alt='MWC 2025: Barcelona lista para pulverizar récords, desata un tsunami tecnológico como nunca antes visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-1439238'>¿Te preocupa el precio del iPhone 17? Agárrate porque se podría disparar por culpa de Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-1439238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='¿Te preocupa el precio del iPhone 17? Agárrate porque se podría disparar por culpa de Trump' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216'>Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-francia-espana-4288419.jpg?tf=1200x' alt='Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202'>Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-4288384.jpg?tf=1200x' alt='Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios' />
     </a>
 </div>
 
