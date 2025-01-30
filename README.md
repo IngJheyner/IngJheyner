@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417'>Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-24h2-pc-windows-11-4288765.jpg?tf=1200x' alt='Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-arrasa-espana-app-mas-descargada-superando-chatgpt-1439416'>DeepSeek arrasa en España: ya es la app más descargada, superando a ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-arrasa-espana-app-mas-descargada-superando-chatgpt-1439416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek arrasa en España: ya es la app más descargada, superando a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grave-fallo-seguridad-deepseek-expuso-millon-registros-proteccion-1439415'>Grave fallo de seguridad en DeepSeek expuso más de un millón de registros sin protección</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/grave-fallo-seguridad-deepseek-expuso-millon-registros-proteccion-1439415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-fallo-seguridad-4288763.jpg?tf=1200x' alt='Grave fallo de seguridad en DeepSeek expuso más de un millón de registros sin protección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-ocupa-7gb-iphone-puedes-liberarlos-1439414'>Apple Intelligence ocupa hasta 7GB en tu iPhone: así puedes liberarlos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-ocupa-7gb-iphone-puedes-liberarlos-1439414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4286020.jpg?tf=1200x' alt='Apple Intelligence ocupa hasta 7GB en tu iPhone: así puedes liberarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-1439380'>Alerta de ciberseguridad: más de 10.000 sitios WordPress distribuyen malware en Windows y macOS</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-1439380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-ciberseguridad-10000-sitios-wordpress-distribuyen-malware-windows-macos-4288732.jpg?tf=1200x' alt='Alerta de ciberseguridad: más de 10.000 sitios WordPress distribuyen malware en Windows y macOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cine-espanol-declara-guerra-pirateria-exigen-bloqueo-masivo-webs-direcciones-ip-1439341'>El cine español declara la guerra a la piratería: exigen el bloqueo masivo de webs y direcciones IP</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cine-espanol-declara-guerra-pirateria-exigen-bloqueo-masivo-webs-direcciones-ip-1439341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/contenido-pirata-4288641.jpg?tf=1200x' alt='El cine español declara la guerra a la piratería: exigen el bloqueo masivo de webs y direcciones IP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/empresas-espanolas-reloj-72-horas-sobrevivir-guillotina-ley-inteligencia-artificial-1439350'>Empresas españolas contra reloj: 72 horas para sobrevivir a la "guillotina" de la Ley de Inteligencia Artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/empresas-espanolas-reloj-72-horas-sobrevivir-guillotina-ley-inteligencia-artificial-1439350' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/empresas-espanolas-reloj-72-horas-sobrevivir-guillotina-ley-inteligencia-artificial-4288696.jpg?tf=1200x' alt='Empresas españolas contra reloj: 72 horas para sobrevivir a la "guillotina" de la Ley de Inteligencia Artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-saca-quicio-openai-destilacion-modelos-capaz-crear-ia-como-churros-1439322'>DeepSeek saca de quicio a OpenAI: su "destilación de modelos" es capaz de "crear IA como churros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-saca-quicio-openai-destilacion-modelos-capaz-crear-ia-como-churros-1439322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-openia-4288585.jpg?tf=1200x' alt='DeepSeek saca de quicio a OpenAI: su "destilación de modelos" es capaz de "crear IA como churros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-1439290'>Tiembla Excel: la inteligencia artificial de Google puede hacer análisis de datos más complejos en Sheets</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-1439290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-4288546.jpg?tf=1200x' alt='Tiembla Excel: la inteligencia artificial de Google puede hacer análisis de datos más complejos en Sheets' />
     </a>
 </div>
 
