@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216'>Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-francia-espana-4288419.jpg?tf=1200x' alt='Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202'>Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-4288384.jpg?tf=1200x' alt='Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049'>Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-convierten-aliados-inesperados-estafadores-funciona-timo-grua-1439049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/timo-grua-google-maps-waze-4288239.jpg?tf=1200x' alt='Google Maps y Waze se convierten en aliados inesperados de los estafadores: así funciona el timo de la grúa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reinforcement-learning-ia-clave-exito-deepseek-1439065'>¿Qué es el "reinforcement learning" en IA y por qué es la clave del éxito de DeepSeek?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reinforcement-learning-ia-clave-exito-deepseek-1439065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4288203.jpg?tf=1200x' alt='¿Qué es el "reinforcement learning" en IA y por qué es la clave del éxito de DeepSeek?' />
     </a>
 </div>
 
