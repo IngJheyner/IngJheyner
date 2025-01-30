@@ -50,9 +50,33 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251'>Netflix confirma al fin una característica que los usuarios de iPhone e iPad estaban demandando</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abraza-deepseek-ia-china-integra-windows-11-azure-github-1439304'>Microsoft abraza a DeepSeek: la IA china se integra en Windows 11, Azure y GitHub</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-abraza-deepseek-ia-china-integra-windows-11-azure-github-1439304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-4287179.jpg?tf=1200x' alt='Microsoft abraza a DeepSeek: la IA china se integra en Windows 11, Azure y GitHub' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-1439271'>Trump resucita la "Guerra de las Galaxias": da el visto bueno para crear un láser espacial antimisiles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-1439271' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-4288539.jpg?tf=1200x' alt='Trump resucita la "Guerra de las Galaxias": da el visto bueno para crear un láser espacial antimisiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-asegura-deepseek-plagio-modelos-entrenamiento-tiene-pruebas-demostrarlo-1439230'>OpenAI asegura que DeepSeek plagió sus modelos de entrenamiento y tiene pruebas para demostrarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-asegura-deepseek-plagio-modelos-entrenamiento-tiene-pruebas-demostrarlo-1439230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-asegura-deepseek-plagio-modelos-entrenamiento-tiene-pruebas-demostrarlo-4288421.jpg?tf=1200x' alt='OpenAI asegura que DeepSeek plagió sus modelos de entrenamiento y tiene pruebas para demostrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251'>Netflix confirma al fin una característica que los usuarios de iPhone y iPad estaban demandando</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/netflix-movil-2143481.jpg?tf=1200x' alt='Netflix confirma al fin una característica que los usuarios de iPhone e iPad estaban demandando' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/netflix-movil-2143481.jpg?tf=1200x' alt='Netflix confirma al fin una característica que los usuarios de iPhone y iPad estaban demandando' />
     </a>
 </div>
 
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-1439261'>La NASA en alerta por unas imágenes captadas por James Webb que muestran tres puntos rojos sin explicación</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-1439261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-4288495.jpg?tf=1200x' alt='La NASA en alerta por unas imágenes captadas por James Webb que muestran tres puntos rojos sin explicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mwc-2025-barcelona-lista-pulverizar-records-desata-tsunami-tecnologico-como-nunca-antes-visto-1439262'>MWC 2025: Barcelona lista para pulverizar récords, desata un tsunami tecnológico como nunca antes visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mwc-2025-barcelona-lista-pulverizar-records-desata-tsunami-tecnologico-como-nunca-antes-visto-1439262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg?tf=1200x' alt='MWC 2025: Barcelona lista para pulverizar récords, desata un tsunami tecnológico como nunca antes visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-1439238'>¿Te preocupa el precio del iPhone 17? Agárrate porque se podría disparar por culpa de Trump</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-1439238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='¿Te preocupa el precio del iPhone 17? Agárrate porque se podría disparar por culpa de Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247'>Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pagos-x-4288496.jpg?tf=1200x' alt='Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025' />
     </a>
 </div>
 
