@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-saca-quicio-openai-destilacion-modelos-capaz-crear-ia-como-churros-1439322'>DeepSeek saca de quicio a OpenAI: su "destilación de modelos" es capaz de "crear IA como churros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-saca-quicio-openai-destilacion-modelos-capaz-crear-ia-como-churros-1439322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/sam-altman-openia-4288585.jpg?tf=1200x' alt='DeepSeek saca de quicio a OpenAI: su "destilación de modelos" es capaz de "crear IA como churros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-1439290'>Tiembla Excel: la inteligencia artificial de Google puede hacer análisis de datos más complejos en Sheets</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-1439290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tiembla-excel-inteligencia-artificial-google-puede-hacer-analisis-datos-complejos-sheets-4288546.jpg?tf=1200x' alt='Tiembla Excel: la inteligencia artificial de Google puede hacer análisis de datos más complejos en Sheets' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315'>Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/malas-noticias-fans-nvidia-sera-muy-dificil-comprar-rtx-5090-5080-1439315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5090-unboxing-4284487.jpg?tf=1200x' alt='Malas noticias para los fans de Nvidia: será muy difícil comprar una RTX 5090 o 5080' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-1439271'>Trump resucita la "Guerra de las Galaxias": da el visto bueno para crear un láser espacial antimisiles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-1439271' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/trump-resucita-guerra-galaxias-da-visto-bueno-crear-laser-espacial-antimisiles-4288539.jpg?tf=1200x' alt='Trump resucita la "Guerra de las Galaxias": da el visto bueno para crear un láser espacial antimisiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-asegura-deepseek-plagio-modelos-entrenamiento-tiene-pruebas-demostrarlo-1439230'>OpenAI asegura que DeepSeek plagió sus modelos de entrenamiento y tiene pruebas para demostrarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-asegura-deepseek-plagio-modelos-entrenamiento-tiene-pruebas-demostrarlo-1439230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/openai-asegura-deepseek-plagio-modelos-entrenamiento-tiene-pruebas-demostrarlo-4288421.jpg?tf=1200x' alt='OpenAI asegura que DeepSeek plagió sus modelos de entrenamiento y tiene pruebas para demostrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251'>Netflix confirma al fin una característica que los usuarios de iPhone y iPad estaban demandando</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/netflix-movil-2143481.jpg?tf=1200x' alt='Netflix confirma al fin una característica que los usuarios de iPhone y iPad estaban demandando' />
     </a>
 </div>
 
