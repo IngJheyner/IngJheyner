@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251'>Netflix confirma al fin una característica que los usuarios de iPhone e iPad estaban demandando</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-confirma-fin-caracteristica-usuarios-iphone-ipad-estaban-demandando-1439251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/11/netflix-movil-2143481.jpg?tf=1200x' alt='Netflix confirma al fin una característica que los usuarios de iPhone e iPad estaban demandando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-1439261'>La NASA en alerta por unas imágenes captadas por James Webb que muestran tres puntos rojos sin explicación</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-1439261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nasa-alerta-unas-imagenes-captadas-james-webb-muestran-tres-puntos-rojos-explicacion-4288495.jpg?tf=1200x' alt='La NASA en alerta por unas imágenes captadas por James Webb que muestran tres puntos rojos sin explicación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mwc-2025-barcelona-lista-pulverizar-records-desata-tsunami-tecnologico-como-nunca-antes-visto-1439262'>MWC 2025: Barcelona lista para pulverizar récords, desata un tsunami tecnológico como nunca antes visto</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mwc-2025-barcelona-lista-pulverizar-records-desata-tsunami-tecnologico-como-nunca-antes-visto-1439262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/mobile-world-congress-2285739.jpg?tf=1200x' alt='MWC 2025: Barcelona lista para pulverizar récords, desata un tsunami tecnológico como nunca antes visto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247'>Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pagos-x-4288496.jpg?tf=1200x' alt='Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-rompe-idea-mejor-ia-gracias-mayor-zancadilla-eeuu-china-1439222'>DeepSeek rompe la idea de "más es mejor" en IA gracias a la mayor zancadilla de EEUU a China</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-rompe-idea-mejor-ia-gracias-mayor-zancadilla-eeuu-china-1439222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-eeuu-4288441.jpg?tf=1200x' alt='DeepSeek rompe la idea de "más es mejor" en IA gracias a la mayor zancadilla de EEUU a China' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216'>Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-francia-ni-espana-salvan-efecto-lucie-amenaza-alia-chatgpt-espanol-1439216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-francia-espana-4288419.jpg?tf=1200x' alt='Ni Francia ni España se salvan y el "efecto Lucie" amenaza a ALIA, el ChatGPT español' />
     </a>
 </div>
 
