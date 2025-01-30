@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-1439238'>¿Te preocupa el precio del iPhone 17? Agárrate porque se podría disparar por culpa de Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-1439238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='¿Te preocupa el precio del iPhone 17? Agárrate porque se podría disparar por culpa de Trump' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247'>Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/x-money-idea-elon-musk-competir-bizum-paypal-llega-2025-1439247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pagos-x-4288496.jpg?tf=1200x' alt='Qué es X Money, la idea de Elon Musk para competir con Bizum y PayPal que llega en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202'>Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-1439202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cajeros-caixabank-alian-bizum-estrenan-funcion-encantara-usuarios-4288384.jpg?tf=1200x' alt='Los cajeros de CaixaBank se alían con Bizum y estrenan una función que encantará a sus usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/hacer-fotos-nocturnas-movil-ha-vuelto-lio-motivo-marcas-deberian-aclararse-1434078'>Hacer fotos nocturnas con el móvil se ha vuelto un lío por este motivo (y las marcas deberían aclararse)</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/hacer-fotos-nocturnas-movil-ha-vuelto-lio-motivo-marcas-deberian-aclararse-1434078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-noche-4285655.jpg?tf=1200x' alt='Hacer fotos nocturnas con el móvil se ha vuelto un lío por este motivo (y las marcas deberían aclararse)' />
     </a>
 </div>
 
