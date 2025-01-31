@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454'>El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1738302698295-4288833.jpg?tf=1200x' alt='El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-huawei-mate-x6-pasa-delgadez-pero-tambien-camaras-1439265'>Lo mejor del Huawei Mate X6 pasa por su delgadez, pero también por sus cámaras</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/mejor-huawei-mate-x6-pasa-delgadez-pero-tambien-camaras-1439265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/diseno-huawei-mate-x6-4287035.jpg?tf=1200x' alt='Lo mejor del Huawei Mate X6 pasa por su delgadez, pero también por sus cámaras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-poco-x7-pro-1438431'>He probado el POCO X7 Pro y puede ser el móvil que más recomendaré este año</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-poco-x7-pro-1438431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/poco-x7-pro-4287629.jpg?tf=1200x' alt='He probado el POCO X7 Pro y puede ser el móvil que más recomendaré este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-1439294'>"No podrá utilizar su tarjeta": la peligrosa estafa bancaria de la que advierten los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-1439294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-4288549.jpg?tf=1200x' alt='"No podrá utilizar su tarjeta": la peligrosa estafa bancaria de la que advierten los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226'>Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-4288425.jpg?tf=1200x' alt='Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-cibercrimen-alertan-estafa-seguridad-social-no-llega-sms-sino-papel-1439452'>Expertos en cibercrimen alertan sobre una estafa de la Seguridad Social que no llega por SMS, sino en papel</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-cibercrimen-alertan-estafa-seguridad-social-no-llega-sms-sino-papel-1439452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-cibercrimen-alertan-estafa-seguridad-social-no-llega-sms-sino-papel-4288823.jpg?tf=1200x' alt='Expertos en cibercrimen alertan sobre una estafa de la Seguridad Social que no llega por SMS, sino en papel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/rtx-5070-ti-rtx-5070-nvidia-especificaciones-completas-precio-fecha-lanzamiento-1439445'>RTX 5070 Ti y RTX 5070 de Nvidia ya están aquí: especificaciones completas, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/rtx-5070-ti-rtx-5070-nvidia-especificaciones-completas-precio-fecha-lanzamiento-1439445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5070-ti-rtx-5070-ya-estan-aqui-caracteristicas-completas-precio-fecha-lanzamiento-4288777.jpg?tf=1200x' alt='RTX 5070 Ti y RTX 5070 de Nvidia ya están aquí: especificaciones completas, precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408'>Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-4288776.jpg?tf=1200x' alt='Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025' />
     </a>
 </div>
 
