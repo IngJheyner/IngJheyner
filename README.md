@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-mayor-error-mi-vida-me-arrepiento-1439449'>Bill Gates lo confiesa: "Es el mayor error de mi vida, del que más me arrepiento"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-mayor-error-mi-vida-me-arrepiento-1439449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-confiesa-mayor-error-me-arrepiento-4288826.jpg?tf=1200x' alt='Bill Gates lo confiesa: "Es el mayor error de mi vida, del que más me arrepiento"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-pueden-estafarte-escanear-codigos-qr-1439534'>La Policía Nacional advierte: así pueden estafarte al escanear códigos QR</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-pueden-estafarte-escanear-codigos-qr-1439534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-advierte-pueden-estafarte-escanear-codigos-qr-4288961.jpg?tf=1200x' alt='La Policía Nacional advierte: así pueden estafarte al escanear códigos QR' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-version-low-cost-investigadores-recrean-solo-30-dolares-1439441'>DeepSeek en versión low-cost: investigadores la recrean por solo 30 dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-version-low-cost-investigadores-recrean-solo-30-dolares-1439441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-precio-4288824.jpg?tf=1200x' alt='DeepSeek en versión low-cost: investigadores la recrean por solo 30 dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-1439451'>Alerta estafa: así funciona el engaño del "mecánico solidario" que vacía tus bolsillos en tiempo récord</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-1439451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-4288831.jpg?tf=1200x' alt='Alerta estafa: así funciona el engaño del "mecánico solidario" que vacía tus bolsillos en tiempo récord' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/logran-primera-videollamada-espacial-cobertura-telefono-movil-1439469'>Logran la primera videollamada espacial sin cobertura con un teléfono móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/logran-primera-videollamada-espacial-cobertura-telefono-movil-1439469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/logran-primera-videollamada-espacial-cobertura-telefono-movil-4288848.jpg?tf=1200x' alt='Logran la primera videollamada espacial sin cobertura con un teléfono móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-1439552'>Apple bate récord de beneficios pero vende muchos menos iPhone: ¿cómo es posible?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-1439552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-4288973.jpg?tf=1200x' alt='Apple bate récord de beneficios pero vende muchos menos iPhone: ¿cómo es posible?' />
     </a>
 </div>
 
