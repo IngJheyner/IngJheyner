@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelo-razonamiento-o1-openai-ya-gratuito-copilot-puedes-activarlo-1439632'>El modelo de razonamiento o1 de OpenAI ya es gratuito en Copilot: así puedes activarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/modelo-razonamiento-o1-openai-ya-gratuito-copilot-puedes-activarlo-1439632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/think-deeper-copilot-4289110.jpg?tf=1200x' alt='El modelo de razonamiento o1 de OpenAI ya es gratuito en Copilot: así puedes activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-tiene-ojos-openai-incorpora-modo-live-camera-rompe-ciencia-ficcion-1439528'>ChatGPT ya tiene ojos: OpenAI incorpora el modo Live camera que rompe con la ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-tiene-ojos-openai-incorpora-modo-live-camera-rompe-ciencia-ficcion-1439528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ojos-chatgpt-4288939.jpg?tf=1200x' alt='ChatGPT ya tiene ojos: OpenAI incorpora el modo Live camera que rompe con la ciencia ficción' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-madrid-ni-valencia-estas-ciudades-seran-inhabitables-2050-bulbo-humedo-expertos-nasa-1439563'>Ni en Madrid ni en Valencia, estás ciudades serán inhabitables en 2050 por el "bulbo húmedo", según expertos de la NASA</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/ni-madrid-ni-valencia-estas-ciudades-seran-inhabitables-2050-bulbo-humedo-expertos-nasa-1439563' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/haz-imagen-mapa-espana-afectado-calor-cambio-climatico-algunas-zonas-rojas-4288994.jpg?tf=1200x' alt='Ni en Madrid ni en Valencia, estás ciudades serán inhabitables en 2050 por el "bulbo húmedo", según expertos de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-windows-antes-llamaba-interface-manager-1439575'>Microsoft no se construyó en un día: Windows antes se llamaba “Interface Manager”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-windows-antes-llamaba-interface-manager-1439575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-retro-interface-manager-4289004.jpg?tf=1200x' alt='Microsoft no se construyó en un día: Windows antes se llamaba “Interface Manager”' />
     </a>
 </div>
 
