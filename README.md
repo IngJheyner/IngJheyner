@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-descubren-fallo-critico-funcion-ver-vez-1439635'>Alerta en WhatsApp: descubren fallo crítico en la función “Ver una vez”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-descubren-fallo-critico-funcion-ver-vez-1439635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4289116.jpg?tf=1200x' alt='Alerta en WhatsApp: descubren fallo crítico en la función “Ver una vez”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/1500-revistas-documentos-desarrollo-videojuegos-disponibles-descargar-gratis-1439634'>Más de 1.500 revistas y documentos de desarrollo de videojuegos disponibles para descargar gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/1500-revistas-documentos-desarrollo-videojuegos-disponibles-descargar-gratis-1439634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cartuchos-videojuegos-4289112.jpg?tf=1200x' alt='Más de 1.500 revistas y documentos de desarrollo de videojuegos disponibles para descargar gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pierde-mejores-funciones-ultima-actualizacion-nadie-entiende-motivo-1439619'>Amazon Fire TV pierde una de sus mejores funciones con la última actualización y nadie entiende el motivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pierde-mejores-funciones-ultima-actualizacion-nadie-entiende-motivo-1439619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-3635517.jpg?tf=1200x' alt='Amazon Fire TV pierde una de sus mejores funciones con la última actualización y nadie entiende el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelo-razonamiento-o1-openai-ya-gratuito-copilot-puedes-activarlo-1439632'>El modelo de razonamiento o1 de OpenAI ya es gratuito en Copilot: así puedes activarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/modelo-razonamiento-o1-openai-ya-gratuito-copilot-puedes-activarlo-1439632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/think-deeper-copilot-4289110.jpg?tf=1200x' alt='El modelo de razonamiento o1 de OpenAI ya es gratuito en Copilot: así puedes activarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-tiene-ojos-openai-incorpora-modo-live-camera-rompe-ciencia-ficcion-1439528'>ChatGPT ya tiene ojos: OpenAI incorpora el modo Live camera que rompe con la ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-tiene-ojos-openai-incorpora-modo-live-camera-rompe-ciencia-ficcion-1439528' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ojos-chatgpt-4288939.jpg?tf=1200x' alt='ChatGPT ya tiene ojos: OpenAI incorpora el modo Live camera que rompe con la ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/integrar-deepseek-google-chrome-mozilla-firefox-otros-navegadores-1439592'>Así puedes integrar DeepSeek con Google Chrome, Mozilla Firefox y otros navegadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/integrar-deepseek-google-chrome-mozilla-firefox-otros-navegadores-1439592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-navegadores-4289030.jpg?tf=1200x' alt='Así puedes integrar DeepSeek con Google Chrome, Mozilla Firefox y otros navegadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-anade-dos-profesiones-lista-negra-ia-no-necesitaremos-1439604'>Elon Musk añade dos profesiones más a la lista negra de la IA: "No los necesitaremos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-anade-dos-profesiones-lista-negra-ia-no-necesitaremos-1439604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-anade-dos-profesiones-lista-negra-ia-no-necesitaremos-4289094.jpg?tf=1200x' alt='Elon Musk añade dos profesiones más a la lista negra de la IA: "No los necesitaremos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-madrid-ni-valencia-estas-ciudades-seran-inhabitables-2050-bulbo-humedo-expertos-nasa-1439563'>Ni en Madrid ni en Valencia, estás ciudades serán inhabitables en 2050 por el "bulbo húmedo", según expertos de la NASA</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ni-madrid-ni-valencia-estas-ciudades-seran-inhabitables-2050-bulbo-humedo-expertos-nasa-1439563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/haz-imagen-mapa-espana-afectado-calor-cambio-climatico-algunas-zonas-rojas-4288994.jpg?tf=1200x' alt='Ni en Madrid ni en Valencia, estás ciudades serán inhabitables en 2050 por el "bulbo húmedo", según expertos de la NASA' />
     </a>
 </div>
 
