@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-version-low-cost-investigadores-recrean-solo-30-dolares-1439441'>DeepSeek en versión low-cost: investigadores la recrean por solo 30 dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-version-low-cost-investigadores-recrean-solo-30-dolares-1439441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-precio-4288824.jpg?tf=1200x' alt='DeepSeek en versión low-cost: investigadores la recrean por solo 30 dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/google-maps-enfurece-conductores-android-auto-waze-ya-frota-manos-1439498'>Google Maps enfurece a los conductores con Android Auto y Waze ya se frota las manos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/google-maps-enfurece-conductores-android-auto-waze-ya-frota-manos-1439498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/hombre-utilizando-android-auto-3271663.jpg?tf=1200x' alt='Google Maps enfurece a los conductores con Android Auto y Waze ya se frota las manos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-1439451'>Alerta estafa: así funciona el engaño del "mecánico solidario" que vacía tus bolsillos en tiempo récord</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-1439451' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-4288831.jpg?tf=1200x' alt='Alerta estafa: así funciona el engaño del "mecánico solidario" que vacía tus bolsillos en tiempo récord' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-1439552'>Apple bate récord de beneficios pero vende muchos menos iPhone: ¿cómo es posible?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-1439552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-4288973.jpg?tf=1200x' alt='Apple bate récord de beneficios pero vende muchos menos iPhone: ¿cómo es posible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-enfada-usuarios-faltan-funciones-esenciales-tiene-movistar-plus-1439522'>DIGI TV enfada a los usuarios: le faltan funciones esenciales que sí tiene Movistar Plus+ </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-enfada-usuarios-faltan-funciones-esenciales-tiene-movistar-plus-1439522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-tv-enfada-usuarios-faltan-funciones-esenciales-tiene-movistar-plus-4288940.jpg?tf=1200x' alt='DIGI TV enfada a los usuarios: le faltan funciones esenciales que sí tiene Movistar Plus+ ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-1439507'>Apple ha escondido una función en iOS 18.3 para iPhone inspirándose en Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-1439507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-4288919.jpg?tf=1200x' alt='Apple ha escondido una función en iOS 18.3 para iPhone inspirándose en Google' />
     </a>
 </div>
 
