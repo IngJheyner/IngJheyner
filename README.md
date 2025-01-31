@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/rtx-5070-ti-rtx-5070-nvidia-especificaciones-completas-precio-fecha-lanzamiento-1439445'>RTX 5070 Ti y RTX 5070 de Nvidia ya están aquí: especificaciones completas, precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/rtx-5070-ti-rtx-5070-nvidia-especificaciones-completas-precio-fecha-lanzamiento-1439445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5070-ti-rtx-5070-ya-estan-aqui-caracteristicas-completas-precio-fecha-lanzamiento-4288777.jpg?tf=1200x' alt='RTX 5070 Ti y RTX 5070 de Nvidia ya están aquí: especificaciones completas, precio y fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408'>Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-4288776.jpg?tf=1200x' alt='Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grave-fallo-seguridad-deepseek-expuso-millon-registros-proteccion-1439415'>Grave fallo de seguridad en DeepSeek expuso más de un millón de registros sin protección</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/grave-fallo-seguridad-deepseek-expuso-millon-registros-proteccion-1439415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-fallo-seguridad-4288763.jpg?tf=1200x' alt='Grave fallo de seguridad en DeepSeek expuso más de un millón de registros sin protección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-intelligence-ocupa-7gb-iphone-puedes-liberarlos-1439414'>Apple Intelligence ocupa hasta 7GB en tu iPhone: así puedes liberarlos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-intelligence-ocupa-7gb-iphone-puedes-liberarlos-1439414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-intelligence-4286020.jpg?tf=1200x' alt='Apple Intelligence ocupa hasta 7GB en tu iPhone: así puedes liberarlos' />
     </a>
 </div>
 
