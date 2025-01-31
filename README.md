@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-deepseek-convierte-arma-secreta-todo-programador-querra-tener-2025-1439468'>Adiós ChatGPT: DeepSeek se convierte en el arma secreta que todo programador querrá tener en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-deepseek-convierte-arma-secreta-todo-programador-querra-tener-2025-1439468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-programadores-4288865.jpg?tf=1200x' alt='Adiós ChatGPT: DeepSeek se convierte en el arma secreta que todo programador querrá tener en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-pdf-roban-datos-1438969'>"Es solo un PDF, no pasa nada": La técnica que atemoriza a los expertos abres un archivo y la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-pdf-roban-datos-1438969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-4288021.jpg?tf=1200x' alt='"Es solo un PDF, no pasa nada": La técnica que atemoriza a los expertos abres un archivo y la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-687-computer-hoy-1437752'>¡Ya está en tu quiosco el número 687 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-687-computer-hoy-1437752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/computer-hoy-687-4286509.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 687 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454'>El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1738302698295-4288833.jpg?tf=1200x' alt='El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-huawei-mate-x6-pasa-delgadez-pero-tambien-camaras-1439265'>Lo mejor del Huawei Mate X6 pasa por su delgadez, pero también por sus cámaras</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/mejor-huawei-mate-x6-pasa-delgadez-pero-tambien-camaras-1439265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/diseno-huawei-mate-x6-4287035.jpg?tf=1200x' alt='Lo mejor del Huawei Mate X6 pasa por su delgadez, pero también por sus cámaras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-poco-x7-pro-1438431'>He probado el POCO X7 Pro y puede ser el móvil que más recomendaré este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-poco-x7-pro-1438431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/poco-x7-pro-4287629.jpg?tf=1200x' alt='He probado el POCO X7 Pro y puede ser el móvil que más recomendaré este año' />
     </a>
 </div>
 
