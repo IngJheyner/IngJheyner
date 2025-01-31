@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226'>Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-4288425.jpg?tf=1200x' alt='Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-cibercrimen-alertan-estafa-seguridad-social-no-llega-sms-sino-papel-1439452'>Expertos en cibercrimen alertan sobre una estafa de la Seguridad Social que no llega por SMS, sino en papel</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-cibercrimen-alertan-estafa-seguridad-social-no-llega-sms-sino-papel-1439452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/expertos-cibercrimen-alertan-estafa-seguridad-social-no-llega-sms-sino-papel-4288823.jpg?tf=1200x' alt='Expertos en cibercrimen alertan sobre una estafa de la Seguridad Social que no llega por SMS, sino en papel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/rtx-5070-ti-rtx-5070-nvidia-especificaciones-completas-precio-fecha-lanzamiento-1439445'>RTX 5070 Ti y RTX 5070 de Nvidia ya están aquí: especificaciones completas, precio y fecha de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/rtx-5070-ti-rtx-5070-nvidia-especificaciones-completas-precio-fecha-lanzamiento-1439445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rtx-5070-ti-rtx-5070-ya-estan-aqui-caracteristicas-completas-precio-fecha-lanzamiento-4288777.jpg?tf=1200x' alt='RTX 5070 Ti y RTX 5070 de Nvidia ya están aquí: especificaciones completas, precio y fecha de lanzamiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417'>Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-24h2-pc-windows-11-4288765.jpg?tf=1200x' alt='Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-arrasa-espana-app-mas-descargada-superando-chatgpt-1439416'>DeepSeek arrasa en España: ya es la app más descargada, superando a ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-arrasa-espana-app-mas-descargada-superando-chatgpt-1439416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek arrasa en España: ya es la app más descargada, superando a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/grave-fallo-seguridad-deepseek-expuso-millon-registros-proteccion-1439415'>Grave fallo de seguridad en DeepSeek expuso más de un millón de registros sin protección</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/grave-fallo-seguridad-deepseek-expuso-millon-registros-proteccion-1439415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-fallo-seguridad-4288763.jpg?tf=1200x' alt='Grave fallo de seguridad en DeepSeek expuso más de un millón de registros sin protección' />
     </a>
 </div>
 
