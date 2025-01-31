@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/certificacion-gremio-escritores--inteligencia-artificial-1439489'>"Este libro ha sido escrito por un humano": la nueva certificación del Gremio de Escritores para competir con la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/certificacion-gremio-escritores--inteligencia-artificial-1439489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/libro-ha-sido-escrito-humano-nueva-certificacion-gremio-escritores-competir-ia-4288864.jpg?tf=1200x' alt='"Este libro ha sido escrito por un humano": la nueva certificación del Gremio de Escritores para competir con la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-deepseek-convierte-arma-secreta-todo-programador-querra-tener-2025-1439468'>Adiós ChatGPT: DeepSeek se convierte en el arma secreta que todo programador querrá tener en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-deepseek-convierte-arma-secreta-todo-programador-querra-tener-2025-1439468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-programadores-4288865.jpg?tf=1200x' alt='Adiós ChatGPT: DeepSeek se convierte en el arma secreta que todo programador querrá tener en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-apenas-20-euros-mini-pc-planta-cara-raspberry-pi-precio-increible-1438689'>Linux por apenas 20 euros: este Mini PC planta cara a Raspberry Pi con un precio increíble</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linux-apenas-20-euros-mini-pc-planta-cara-raspberry-pi-precio-increible-1438689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='Linux por apenas 20 euros: este Mini PC planta cara a Raspberry Pi con un precio increíble' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454'>El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1738302698295-4288833.jpg?tf=1200x' alt='El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión' />
     </a>
 </div>
 
