@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-funciona-rapido-tarjetas-radeon-amd-rtx-4090-nvidia-1439647'>Vuelco a la IA: DeepSeek funciona más rápido en las tarjetas Radeon de AMD que en la RTX 4090 de Nvidia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-funciona-rapido-tarjetas-radeon-amd-rtx-4090-nvidia-1439647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-ia-deepseek-funciona-rapido-tarjetas-radeon-amd-rtx-4090-nvidia-4289103.jpg?tf=1200x' alt='Vuelco a la IA: DeepSeek funciona más rápido en las tarjetas Radeon de AMD que en la RTX 4090 de Nvidia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/radares-futuristas-llegan-espana-parecen-tesla-cybertruck-pero-reparten-multas-1439633'>Los radares más futuristas llegan a España: parecen un Tesla Cybertruck pero reparten multas</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/radares-futuristas-llegan-espana-parecen-tesla-cybertruck-pero-reparten-multas-1439633' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/radares-futuristas-llegan-espana-parecen-tesla-cybertruck-pero-reparten-multas-4289140.jpg?tf=1200x' alt='Los radares más futuristas llegan a España: parecen un Tesla Cybertruck pero reparten multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-descubren-fallo-critico-funcion-ver-vez-1439635'>Alerta en WhatsApp: descubren fallo crítico en la función “Ver una vez”</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-descubren-fallo-critico-funcion-ver-vez-1439635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4289116.jpg?tf=1200x' alt='Alerta en WhatsApp: descubren fallo crítico en la función “Ver una vez”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pierde-mejores-funciones-ultima-actualizacion-nadie-entiende-motivo-1439619'>Amazon Fire TV pierde una de sus mejores funciones con la última actualización y nadie entiende el motivo</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pierde-mejores-funciones-ultima-actualizacion-nadie-entiende-motivo-1439619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-3635517.jpg?tf=1200x' alt='Amazon Fire TV pierde una de sus mejores funciones con la última actualización y nadie entiende el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/modelo-razonamiento-o1-openai-ya-gratuito-copilot-puedes-activarlo-1439632'>El modelo de razonamiento o1 de OpenAI ya es gratuito en Copilot: así puedes activarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/modelo-razonamiento-o1-openai-ya-gratuito-copilot-puedes-activarlo-1439632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/think-deeper-copilot-4289110.jpg?tf=1200x' alt='El modelo de razonamiento o1 de OpenAI ya es gratuito en Copilot: así puedes activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-tiene-ojos-openai-incorpora-modo-live-camera-rompe-ciencia-ficcion-1439528'>ChatGPT ya tiene ojos: OpenAI incorpora el modo Live camera que rompe con la ciencia ficción</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ya-tiene-ojos-openai-incorpora-modo-live-camera-rompe-ciencia-ficcion-1439528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ojos-chatgpt-4288939.jpg?tf=1200x' alt='ChatGPT ya tiene ojos: OpenAI incorpora el modo Live camera que rompe con la ciencia ficción' />
     </a>
 </div>
 
