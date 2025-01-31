@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-687-computer-hoy-1437752'>¡Ya está en tu quiosco el número 687 de Computer Hoy!</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-687-computer-hoy-1437752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/computer-hoy-687-4286509.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 687 de Computer Hoy!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-apenas-20-euros-mini-pc-planta-cara-raspberry-pi-precio-increible-1438689'>Linux por apenas 20 euros: este Mini PC planta cara a Raspberry Pi con un precio increíble</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-apenas-20-euros-mini-pc-planta-cara-raspberry-pi-precio-increible-1438689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='Linux por apenas 20 euros: este Mini PC planta cara a Raspberry Pi con un precio increíble' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454'>El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/bozal-gamers-impide-te-oigan-gritar-mascara-ombra-1439454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/verticalimage1738302698295-4288833.jpg?tf=1200x' alt='El bozal para gamers que impide que te oigan gritar, ya tiene una segunda versión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-poco-x7-pro-1438431'>He probado el POCO X7 Pro y puede ser el móvil que más recomendaré este año</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/xiaomi-poco-x7-pro-1438431' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/poco-x7-pro-4287629.jpg?tf=1200x' alt='He probado el POCO X7 Pro y puede ser el móvil que más recomendaré este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-1439294'>"No podrá utilizar su tarjeta": la peligrosa estafa bancaria de la que advierten los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-1439294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-4288549.jpg?tf=1200x' alt='"No podrá utilizar su tarjeta": la peligrosa estafa bancaria de la que advierten los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226'>Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-4288425.jpg?tf=1200x' alt='Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre' />
     </a>
 </div>
 
