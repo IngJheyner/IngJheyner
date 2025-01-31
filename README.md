@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-1439294'>"No podrá utilizar su tarjeta": la peligrosa estafa bancaria de la que advierten los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-1439294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/no-podra-utilizar-tarjeta-peligrosa-estafa-bancaria-advierten-expertos-4288549.jpg?tf=1200x' alt='"No podrá utilizar su tarjeta": la peligrosa estafa bancaria de la que advierten los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226'>Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-1439226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/giro-180-grados-truco-android-auto-cambiara-google-maps-siempre-4288425.jpg?tf=1200x' alt='Giro de 180 grados: el truco de Android Auto que cambiará Google Maps para siempre' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408'>Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-1439408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/meta-acelera-deepseek-nuevos-chatbots-agentes-ia-llama-4-2025-4288776.jpg?tf=1200x' alt='Meta acelera ante DeepSeek: nuevos chatbots, agentes de IA y LLaMA 4 en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417'>Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-soluciona-fallo-auto-hdr-congelaba-juegos-windows-11-1439417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-24h2-pc-windows-11-4288765.jpg?tf=1200x' alt='Microsoft soluciona el fallo de Auto HDR que congelaba juegos en Windows 11' />
     </a>
 </div>
 
