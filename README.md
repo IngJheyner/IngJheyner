@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-madrid-ni-valencia-estas-ciudades-seran-inhabitables-2050-bulbo-humedo-expertos-nasa-1439563'>Ni en Madrid ni en Valencia, estás ciudades serán inhabitables en 2050 por el "bulbo húmedo", según expertos de la NASA</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ni-madrid-ni-valencia-estas-ciudades-seran-inhabitables-2050-bulbo-humedo-expertos-nasa-1439563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/haz-imagen-mapa-espana-afectado-calor-cambio-climatico-algunas-zonas-rojas-4288994.jpg?tf=1200x' alt='Ni en Madrid ni en Valencia, estás ciudades serán inhabitables en 2050 por el "bulbo húmedo", según expertos de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-windows-antes-llamaba-interface-manager-1439575'>Microsoft no se construyó en un día: Windows antes se llamaba “Interface Manager”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-windows-antes-llamaba-interface-manager-1439575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/pc-retro-interface-manager-4289004.jpg?tf=1200x' alt='Microsoft no se construyó en un día: Windows antes se llamaba “Interface Manager”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-cuenta-whatsapp-usuario-espana-haciendose-pasar-familiar-1439555'>Hackean la cuenta de WhatsApp de un usuario en España haciéndose pasar por un familiar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackean-cuenta-whatsapp-usuario-espana-haciendose-pasar-familiar-1439555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hacker-whatsapp-4288978.jpg?tf=1200x' alt='Hackean la cuenta de WhatsApp de un usuario en España haciéndose pasar por un familiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-imitacion-ni-competencia-realmente-distingue-deepseek-otros-modelos-ia-1439471'>Ni imitación ni competencia: esto es lo que realmente distingue a DeepSeek de otros modelos de IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-imitacion-ni-competencia-realmente-distingue-deepseek-otros-modelos-ia-1439471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-imitacion-ni-competencia-realmente-distingue-deepseek-otros-modelos-ia-4288893.jpg?tf=1200x' alt='Ni imitación ni competencia: esto es lo que realmente distingue a DeepSeek de otros modelos de IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-activa-modo-3-1-todos-clientes-como-te-afecta-1439551'>Movistar Plus+ activa el "modo 3 por 1" para todos sus clientes y así es cómo te afecta</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-activa-modo-3-1-todos-clientes-como-te-afecta-1439551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/03/movistar-plus-1898185.jpg?tf=1200x' alt='Movistar Plus+ activa el "modo 3 por 1" para todos sus clientes y así es cómo te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-1439580'>Primer país del mundo en activar la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-1439580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-4289053.jpg?tf=1200x' alt='Primer país del mundo en activar la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-mayor-error-mi-vida-me-arrepiento-1439449'>Bill Gates lo confiesa: "Es el mayor error de mi vida, del que más me arrepiento"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-mayor-error-mi-vida-me-arrepiento-1439449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-confiesa-mayor-error-me-arrepiento-4288826.jpg?tf=1200x' alt='Bill Gates lo confiesa: "Es el mayor error de mi vida, del que más me arrepiento"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-pueden-estafarte-escanear-codigos-qr-1439534'>La Policía Nacional advierte: así pueden estafarte al escanear códigos QR</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-pueden-estafarte-escanear-codigos-qr-1439534' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-advierte-pueden-estafarte-escanear-codigos-qr-4288961.jpg?tf=1200x' alt='La Policía Nacional advierte: así pueden estafarte al escanear códigos QR' />
     </a>
 </div>
 
