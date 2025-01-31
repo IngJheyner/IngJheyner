@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-inteligencia-artificial-1436113'>Bill Gates no se corta: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-inteligencia-artificial-1436113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates no se corta: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bloquear-rechazar-frase-acabar-llamadas-spam-raiz-1435557'>Ni rechazar ni bloquear, la frase infalible para acabar con las llamadas SPAM de raíz</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bloquear-rechazar-frase-acabar-llamadas-spam-raiz-1435557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-4282315.jpg?tf=1200x' alt='Ni rechazar ni bloquear, la frase infalible para acabar con las llamadas SPAM de raíz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-legales-3-am-chatgpt-abogado-made-spain-listo-preguntas-1439493'>¿Problemas legales a las 3 am? Este ChatGPT abogado "made in Spain" está listo para tus preguntas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/problemas-legales-3-am-chatgpt-abogado-made-spain-listo-preguntas-1439493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-abogado-4288899.jpg?tf=1200x' alt='¿Problemas legales a las 3 am? Este ChatGPT abogado "made in Spain" está listo para tus preguntas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ue-hace-examen-conciencia-coche-electrico-flexibilidad-ayudas-fin-burocracia-competir-china-eeuu-1439477'>La UE hace examen de conciencia con el coche eléctrico: flexibilidad, ayudas y fin de la burocracia para competir con China y EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ue-hace-examen-conciencia-coche-electrico-flexibilidad-ayudas-fin-burocracia-competir-china-eeuu-1439477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ursula-von-der-leyen-mantiene-fin-motor-combustion-2035-pero-confia-combustibles-sinteticos-3760871.jpg?tf=1200x' alt='La UE hace examen de conciencia con el coche eléctrico: flexibilidad, ayudas y fin de la burocracia para competir con China y EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/certificacion-gremio-escritores--inteligencia-artificial-1439489'>"Este libro ha sido escrito por un humano": la nueva certificación del Gremio de Escritores para competir con la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/certificacion-gremio-escritores--inteligencia-artificial-1439489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/libro-ha-sido-escrito-humano-nueva-certificacion-gremio-escritores-competir-ia-4288864.jpg?tf=1200x' alt='"Este libro ha sido escrito por un humano": la nueva certificación del Gremio de Escritores para competir con la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-deepseek-convierte-arma-secreta-todo-programador-querra-tener-2025-1439468'>Adiós ChatGPT: DeepSeek se convierte en el arma secreta que todo programador querrá tener en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-chatgpt-deepseek-convierte-arma-secreta-todo-programador-querra-tener-2025-1439468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-programadores-4288865.jpg?tf=1200x' alt='Adiós ChatGPT: DeepSeek se convierte en el arma secreta que todo programador querrá tener en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-pdf-roban-datos-1438969'>"Es solo un PDF, no pasa nada": La técnica que atemoriza a los expertos abres un archivo y la estafa ha comenzado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-pdf-roban-datos-1438969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafa-atemoriza-expertos-abres-pdf-roban-todos-datos-4288021.jpg?tf=1200x' alt='"Es solo un PDF, no pasa nada": La técnica que atemoriza a los expertos abres un archivo y la estafa ha comenzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-687-computer-hoy-1437752'>¡Ya está en tu quiosco el número 687 de Computer Hoy!</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-687-computer-hoy-1437752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/computer-hoy-687-4286509.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 687 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-apenas-20-euros-mini-pc-planta-cara-raspberry-pi-precio-increible-1438689'>Linux por apenas 20 euros: este Mini PC planta cara a Raspberry Pi con un precio increíble</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-apenas-20-euros-mini-pc-planta-cara-raspberry-pi-precio-increible-1438689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='Linux por apenas 20 euros: este Mini PC planta cara a Raspberry Pi con un precio increíble' />
     </a>
 </div>
 
