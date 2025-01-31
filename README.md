@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/modo-super-dios-windows-1401917'>Modo Super Dios de Windows: qué es, cómo funciona y todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/modo-super-dios-windows-1401917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-super-dios-windows-4288935.jpg?tf=1200x' alt='Modo Super Dios de Windows: qué es, cómo funciona y todo lo que puedes hacer con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-google-maps-deberian-ponerse-temblar-llegan-apps-navegacion-locales-eficientes-precisas-1439514'>Waze y Google Maps deberían ponerse a temblar: llegan las apps de navegación locales, más eficientes y precisas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-google-maps-deberian-ponerse-temblar-llegan-apps-navegacion-locales-eficientes-precisas-1439514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-google-maps-4288937.jpg?tf=1200x' alt='Waze y Google Maps deberían ponerse a temblar: llegan las apps de navegación locales, más eficientes y precisas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/significado-codigos-numeros-secretos-whatsapp-1323578'>7642, 9080 o 700: He descifrado el significado de los números secretos de WhatsApp y ya no me siento tan perdido</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/significado-codigos-numeros-secretos-whatsapp-1323578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desciframos-todos-codigos-secretos-whatsapp-telegram-tiktok-3202174.jpg?tf=1200x' alt='7642, 9080 o 700: He descifrado el significado de los números secretos de WhatsApp y ya no me siento tan perdido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/paraiso-iptv-arrasan-suecia-autoridades-admiten-no-tienen-intencion-hacer-nada-evitarlo-1439515'>El paraíso IPTV: arrasan en Suecia y las autoridades admiten que no tienen intención de hacer nada para evitarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/paraiso-iptv-arrasan-suecia-autoridades-admiten-no-tienen-intencion-hacer-nada-evitarlo-1439515' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/paraiso-iptv-4288920.jpg?tf=1200x' alt='El paraíso IPTV: arrasan en Suecia y las autoridades admiten que no tienen intención de hacer nada para evitarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-problemas-1434207'>Experto en IPTV alerta sobre los próximos meses: "Cuando ocurre un desastre…" </a></h4>
     <a href='https://computerhoy.20minutos.es/internet/experto-iptv-problemas-1434207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-4287263.jpg?tf=1200x' alt='Experto en IPTV alerta sobre los próximos meses: "Cuando ocurre un desastre…" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-x-ni-spacex-negocio-lucrativo-elon-musk-vender-contaminacion-1439499'>Ni X ni SpaceX, este es el negocio más lucrativo de Elon Musk: "Vender contaminación"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-x-ni-spacex-negocio-lucrativo-elon-musk-vender-contaminacion-1439499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-negocio-4288916.jpg?tf=1200x' alt='Ni X ni SpaceX, este es el negocio más lucrativo de Elon Musk: "Vender contaminación"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-inteligencia-artificial-1436113'>Bill Gates no se corta: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-trabajos-sobreviviran-inteligencia-artificial-1436113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates no se corta: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bloquear-rechazar-frase-acabar-llamadas-spam-raiz-1435557'>Ni rechazar ni bloquear, la frase infalible para acabar con las llamadas SPAM de raíz</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bloquear-rechazar-frase-acabar-llamadas-spam-raiz-1435557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ni-bloquear-ni-rechazar-frase-infalible-cortar-llamadas-spam-raiz-4282315.jpg?tf=1200x' alt='Ni rechazar ni bloquear, la frase infalible para acabar con las llamadas SPAM de raíz' />
     </a>
 </div>
 
