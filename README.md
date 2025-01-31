@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-1439507'>Apple ha escondido una función en iOS 18.3 para iPhone inspirándose en Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-1439507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-4288919.jpg?tf=1200x' alt='Apple ha escondido una función en iOS 18.3 para iPhone inspirándose en Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-te-pueden-despedir-trabajo-foto-inapropiada-perfil-1439518'>WhatsApp: ¿Te pueden despedir de tu trabajo por una foto "inapropiada" en tu perfil?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-te-pueden-despedir-trabajo-foto-inapropiada-perfil-1439518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-despido-4288945.jpg?tf=1200x' alt='WhatsApp: ¿Te pueden despedir de tu trabajo por una foto "inapropiada" en tu perfil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/modo-super-dios-windows-1401917'>Modo Super Dios de Windows: qué es, cómo funciona y todo lo que puedes hacer con él</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/modo-super-dios-windows-1401917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-super-dios-windows-4288935.jpg?tf=1200x' alt='Modo Super Dios de Windows: qué es, cómo funciona y todo lo que puedes hacer con él' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/significado-codigos-numeros-secretos-whatsapp-1323578'>7642, 9080 o 700: He descifrado el significado de los números secretos de WhatsApp y ya no me siento tan perdido</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/significado-codigos-numeros-secretos-whatsapp-1323578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desciframos-todos-codigos-secretos-whatsapp-telegram-tiktok-3202174.jpg?tf=1200x' alt='7642, 9080 o 700: He descifrado el significado de los números secretos de WhatsApp y ya no me siento tan perdido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/paraiso-iptv-arrasan-suecia-autoridades-admiten-no-tienen-intencion-hacer-nada-evitarlo-1439515'>El paraíso IPTV: arrasan en Suecia y las autoridades admiten que no tienen intención de hacer nada para evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/paraiso-iptv-arrasan-suecia-autoridades-admiten-no-tienen-intencion-hacer-nada-evitarlo-1439515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/paraiso-iptv-4288920.jpg?tf=1200x' alt='El paraíso IPTV: arrasan en Suecia y las autoridades admiten que no tienen intención de hacer nada para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-problemas-1434207'>Experto en IPTV alerta sobre los próximos meses: "Cuando ocurre un desastre…" </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/experto-iptv-problemas-1434207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-4287263.jpg?tf=1200x' alt='Experto en IPTV alerta sobre los próximos meses: "Cuando ocurre un desastre…" ' />
     </a>
 </div>
 
