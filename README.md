@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-1439451'>Alerta estafa: así funciona el engaño del "mecánico solidario" que vacía tus bolsillos en tiempo récord</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-1439451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-estafa-funciona-engano-mecanico-solidario-vacia-bolsillos-tiempo-record-4288831.jpg?tf=1200x' alt='Alerta estafa: así funciona el engaño del "mecánico solidario" que vacía tus bolsillos en tiempo récord' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/logran-primera-videollamada-espacial-cobertura-telefono-movil-1439469'>Logran la primera videollamada espacial sin cobertura con un teléfono móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/logran-primera-videollamada-espacial-cobertura-telefono-movil-1439469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/logran-primera-videollamada-espacial-cobertura-telefono-movil-4288848.jpg?tf=1200x' alt='Logran la primera videollamada espacial sin cobertura con un teléfono móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-1439552'>Apple bate récord de beneficios pero vende muchos menos iPhone: ¿cómo es posible?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-1439552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-bate-record-beneficios-pero-vende-muchos-menos-iphone-como-posible-4288973.jpg?tf=1200x' alt='Apple bate récord de beneficios pero vende muchos menos iPhone: ¿cómo es posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-enfada-usuarios-faltan-funciones-esenciales-tiene-movistar-plus-1439522'>DIGI TV enfada a los usuarios: le faltan funciones esenciales que sí tiene Movistar Plus+ </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/digi-tv-enfada-usuarios-faltan-funciones-esenciales-tiene-movistar-plus-1439522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-tv-enfada-usuarios-faltan-funciones-esenciales-tiene-movistar-plus-4288940.jpg?tf=1200x' alt='DIGI TV enfada a los usuarios: le faltan funciones esenciales que sí tiene Movistar Plus+ ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-1439507'>Apple ha escondido una función en iOS 18.3 para iPhone inspirándose en Google</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-1439507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apple-ha-escondido-funcion-ios-183-iphone-inspirandose-google-4288919.jpg?tf=1200x' alt='Apple ha escondido una función en iOS 18.3 para iPhone inspirándose en Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-te-pueden-despedir-trabajo-foto-inapropiada-perfil-1439518'>WhatsApp: ¿Te pueden despedir de tu trabajo por una foto "inapropiada" en tu perfil?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-te-pueden-despedir-trabajo-foto-inapropiada-perfil-1439518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-despido-4288945.jpg?tf=1200x' alt='WhatsApp: ¿Te pueden despedir de tu trabajo por una foto "inapropiada" en tu perfil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/modo-super-dios-windows-1401917'>Modo Super Dios de Windows: qué es, cómo funciona y todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/modo-super-dios-windows-1401917' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/modo-super-dios-windows-4288935.jpg?tf=1200x' alt='Modo Super Dios de Windows: qué es, cómo funciona y todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-google-maps-deberian-ponerse-temblar-llegan-apps-navegacion-locales-eficientes-precisas-1439514'>Waze y Google Maps deberían ponerse a temblar: llegan las apps de navegación locales, más eficientes y precisas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-google-maps-deberian-ponerse-temblar-llegan-apps-navegacion-locales-eficientes-precisas-1439514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/waze-google-maps-4288937.jpg?tf=1200x' alt='Waze y Google Maps deberían ponerse a temblar: llegan las apps de navegación locales, más eficientes y precisas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/significado-codigos-numeros-secretos-whatsapp-1323578'>7642, 9080 o 700: He descifrado el significado de los números secretos de WhatsApp y ya no me siento tan perdido</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/significado-codigos-numeros-secretos-whatsapp-1323578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/desciframos-todos-codigos-secretos-whatsapp-telegram-tiktok-3202174.jpg?tf=1200x' alt='7642, 9080 o 700: He descifrado el significado de los números secretos de WhatsApp y ya no me siento tan perdido' />
     </a>
 </div>
 
