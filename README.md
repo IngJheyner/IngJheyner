@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-codigo-error-0xc00001-windows-11-1435869'>Cómo solucionar el código de error 0xc00001 de Windows 11 </a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-codigo-error-0xc00001-windows-11-1435869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-0xc00001-4282843.jpg?tf=1200x' alt='Cómo solucionar el código de error 0xc00001 de Windows 11 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-records-alcanza-mayor-cuota-mercado-fecha-1439705'>Windows 11 rompe récords y alcanza su mayor cuota de mercado hasta la fecha</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-records-alcanza-mayor-cuota-mercado-fecha-1439705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/actualizacion-windows-4289218.jpg?tf=1200x' alt='Windows 11 rompe récords y alcanza su mayor cuota de mercado hasta la fecha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-anade-paso-extra-seguridad-iniciar-sesion-adios-simple-soy-yo-1439702'>Google añade un paso extra de seguridad para iniciar sesión: adiós al simple “Sí, soy yo”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-anade-paso-extra-seguridad-iniciar-sesion-adios-simple-soy-yo-1439702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-google-4289214.jpg?tf=1200x' alt='Google añade un paso extra de seguridad para iniciar sesión: adiós al simple “Sí, soy yo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/chatgtp-no-funciona-alternativas-gratis-chatbot-openia-1438265'>ChatGTP no funciona: alternativas gratis al chatbot de OpenIA cuando está caído en todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chatgtp-no-funciona-alternativas-gratis-chatbot-openia-1438265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-no-funciona-4286854.jpg?tf=1200x' alt='ChatGTP no funciona: alternativas gratis al chatbot de OpenIA cuando está caído en todo el mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-1437700'>Distribuciones de Linux más ligeras que ocupan menos cantidad de memoria RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-1437700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-4285945.jpg?tf=1200x' alt='Distribuciones de Linux más ligeras que ocupan menos cantidad de memoria RAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-retira-defender-vpn-baja-demanda-adios-windows-11-macos-ios-android-1439693'>Microsoft retira Defender VPN por baja demanda: adiós en Windows 11, macOS, iOS y Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-retira-defender-vpn-baja-demanda-adios-windows-11-macos-ios-android-1439693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-defender-vpn-4289205.jpg?tf=1200x' alt='Microsoft retira Defender VPN por baja demanda: adiós en Windows 11, macOS, iOS y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-contraataca-deepseek-gpt-o3-mini-gratis-todos-1439692'>OpenAI contraataca a DeepSeek: lanza o3-mini, la IA que razona, gratis para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-contraataca-deepseek-gpt-o3-mini-gratis-todos-1439692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/open-contraataca-deepseek-lanza-gpt-o3-mini-gratis-todos-4289183.jpg?tf=1200x' alt='OpenAI contraataca a DeepSeek: lanza o3-mini, la IA que razona, gratis para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/grande-potente-ia-pixel-9-pro-xl-mejor-movil-google-amazon-vende-400-euros-menos-1439625'>Grande, potente y con IA: el Pixel 9 Pro XL es el mejor móvil de Google y Amazon lo vende por 400 euros menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/grande-potente-ia-pixel-9-pro-xl-mejor-movil-google-amazon-vende-400-euros-menos-1439625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4005442.jpg?tf=1200x' alt='Grande, potente y con IA: el Pixel 9 Pro XL es el mejor móvil de Google y Amazon lo vende por 400 euros menos' />
     </a>
 </div>
 
