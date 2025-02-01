@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/android-ahora-seguro-gracias-ia-google-bloqueo-236-millones-aplicaciones-2024-1439719'>Android ahora es más seguro gracias a la IA: Google bloqueó 2,36 millones de aplicaciones en 2024 </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/android-ahora-seguro-gracias-ia-google-bloqueo-236-millones-aplicaciones-2024-1439719' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-privacidad-android-4289239.jpg?tf=1200x' alt='Android ahora es más seguro gracias a la IA: Google bloqueó 2,36 millones de aplicaciones en 2024 ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-jugar-juegos-android-pc-emuladores-1437153'>Cómo descargar y jugar juegos de Android en PC sin emuladores</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-jugar-juegos-android-pc-emuladores-1437153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-play-juegos-4285097.jpg?tf=1200x' alt='Cómo descargar y jugar juegos de Android en PC sin emuladores' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-records-alcanza-mayor-cuota-mercado-fecha-1439705'>Windows 11 rompe récords y alcanza su mayor cuota de mercado hasta la fecha</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-records-alcanza-mayor-cuota-mercado-fecha-1439705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/actualizacion-windows-4289218.jpg?tf=1200x' alt='Windows 11 rompe récords y alcanza su mayor cuota de mercado hasta la fecha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-anade-paso-extra-seguridad-iniciar-sesion-adios-simple-soy-yo-1439702'>Google añade un paso extra de seguridad para iniciar sesión: adiós al simple “Sí, soy yo”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-anade-paso-extra-seguridad-iniciar-sesion-adios-simple-soy-yo-1439702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-google-4289214.jpg?tf=1200x' alt='Google añade un paso extra de seguridad para iniciar sesión: adiós al simple “Sí, soy yo”' />
     </a>
 </div>
 
