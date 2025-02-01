@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-cerca-nunca-apple-punto-dar-paso-definitivo-1439713'>El iPhone plegable está más cerca que nunca: Apple a punto de dar el paso definitivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-cerca-nunca-apple-punto-dar-paso-definitivo-1439713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable está más cerca que nunca: Apple a punto de dar el paso definitivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-codigo-error-0xc00001-windows-11-1435869'>Cómo solucionar el código de error 0xc00001 de Windows 11 </a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-codigo-error-0xc00001-windows-11-1435869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-0xc00001-4282843.jpg?tf=1200x' alt='Cómo solucionar el código de error 0xc00001 de Windows 11 ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/chatgtp-no-funciona-alternativas-gratis-chatbot-openia-1438265'>ChatGTP no funciona: alternativas gratis al chatbot de OpenIA cuando está caído en todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chatgtp-no-funciona-alternativas-gratis-chatbot-openia-1438265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-no-funciona-4286854.jpg?tf=1200x' alt='ChatGTP no funciona: alternativas gratis al chatbot de OpenIA cuando está caído en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-1437700'>Distribuciones de Linux más ligeras que ocupan menos cantidad de memoria RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-1437700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-4285945.jpg?tf=1200x' alt='Distribuciones de Linux más ligeras que ocupan menos cantidad de memoria RAM' />
     </a>
 </div>
 
