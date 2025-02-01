@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-1438902'>Jarro de agua fría para los usuarios de Waze: una de sus funciones más potentes tiene los días contados</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-1438902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-4287939.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de Waze: una de sus funciones más potentes tiene los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/truco-whatsapp-ocultar-bloquear-chats-carpeta-secreta-1438600'>El truco de WhatsApp para ocultar y bloquear chats en una carpeta secreta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/truco-whatsapp-ocultar-bloquear-chats-carpeta-secreta-1438600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-whatsapp-ocultar-bloquear-chats-carpeta-secreta-4287445.jpg?tf=1200x' alt='El truco de WhatsApp para ocultar y bloquear chats en una carpeta secreta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-portatil-viejo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo gratis en este viejo portátil y ahora parece recién comprado</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-portatil-viejo-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo gratis en este viejo portátil y ahora parece recién comprado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/bizum-fenomeno-me-debes-50-centimos-nos-estamos-volviendo-tacanos-experta-psicologa-responde-1439101'>Bizum y el fenómeno "me debes 50 céntimos": ¿Nos estamos volviendo unos tacaños? Una experta psicóloga responde</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/bizum-fenomeno-me-debes-50-centimos-nos-estamos-volviendo-tacanos-experta-psicologa-responde-1439101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bizum-tacano-4288726.jpg?tf=1200x' alt='Bizum y el fenómeno "me debes 50 céntimos": ¿Nos estamos volviendo unos tacaños? Una experta psicóloga responde' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/truco-veterano-electricista-cuadro-electrico-casa-ayuda-solucionar-rapidamente-90-averias-1438647'>El truco de un veterano electricista para el cuadro eléctrico de casa que ayuda a solucionar rápidamente el 90% de las averías</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-veterano-electricista-cuadro-electrico-casa-ayuda-solucionar-rapidamente-90-averias-1438647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-veterano-electricista-cuadro-electrico-casa-ayuda-solucionar-rapidamente-90-averias-4287472.jpg?tf=1200x' alt='El truco de un veterano electricista para el cuadro eléctrico de casa que ayuda a solucionar rápidamente el 90% de las averías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/5-usos-doy-deepseek-chatgpt-merecen-pena-1438738'>5 usos que le doy a DeepSeek o ChatGPT que merecen la pena</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/5-usos-doy-deepseek-chatgpt-merecen-pena-1438738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-ya-entiende-video-real-siete-meses-despues-openai-presentara-4272963.jpg?tf=1200x' alt='5 usos que le doy a DeepSeek o ChatGPT que merecen la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-linux-distro-podras-jugar-videojuegos-problemas-1436582'>Giro de 180 grados en Linux: con esta distro podrás jugar a videojuegos sin problemas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-linux-distro-podras-jugar-videojuegos-problemas-1436582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gardua-linux-dr460nized-escritorio-kde-plasma-4284029.jpg?tf=1200x' alt='Giro de 180 grados en Linux: con esta distro podrás jugar a videojuegos sin problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tesoro-iphone-olvidarlo-perderlo-podria-arruinarte-literalmente-vida-1438212'>Es el tesoro de tu iPhone: olvidarlo o perderlo podría arruinarte literalmente la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tesoro-iphone-olvidarlo-perderlo-podria-arruinarte-literalmente-vida-1438212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesoro-iphone-olvidarlo-perderlo-podria-arruinarte-literalmente-vida-4286754.jpg?tf=1200x' alt='Es el tesoro de tu iPhone: olvidarlo o perderlo podría arruinarte literalmente la vida' />
     </a>
 </div>
 
