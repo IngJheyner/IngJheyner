@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-1437700'>Distribuciones de Linux más ligeras que ocupan menos cantidad de memoria RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-1437700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/distribuciones-linux-ligeras-ocupan-menos-cantidad-memoria-ram-4285945.jpg?tf=1200x' alt='Distribuciones de Linux más ligeras que ocupan menos cantidad de memoria RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-retira-defender-vpn-baja-demanda-adios-windows-11-macos-ios-android-1439693'>Microsoft retira Defender VPN por baja demanda: adiós en Windows 11, macOS, iOS y Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-retira-defender-vpn-baja-demanda-adios-windows-11-macos-ios-android-1439693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-defender-vpn-4289205.jpg?tf=1200x' alt='Microsoft retira Defender VPN por baja demanda: adiós en Windows 11, macOS, iOS y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-contraataca-deepseek-gpt-o3-mini-gratis-todos-1439692'>OpenAI contraataca a DeepSeek: lanza o3-mini, la IA que razona, gratis para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-contraataca-deepseek-gpt-o3-mini-gratis-todos-1439692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/open-contraataca-deepseek-lanza-gpt-o3-mini-gratis-todos-4289183.jpg?tf=1200x' alt='OpenAI contraataca a DeepSeek: lanza o3-mini, la IA que razona, gratis para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/grande-potente-ia-pixel-9-pro-xl-mejor-movil-google-amazon-vende-400-euros-menos-1439625'>Grande, potente y con IA: el Pixel 9 Pro XL es el mejor móvil de Google y Amazon lo vende por 400 euros menos</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/grande-potente-ia-pixel-9-pro-xl-mejor-movil-google-amazon-vende-400-euros-menos-1439625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4005442.jpg?tf=1200x' alt='Grande, potente y con IA: el Pixel 9 Pro XL es el mejor móvil de Google y Amazon lo vende por 400 euros menos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/chatgpt-microsoft-copilot-cual-mejor-opcion-eres-usuario-windows-1438642'>ChatGPT o Microsoft Copilot: cuál es mejor opción si eres usuario de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chatgpt-microsoft-copilot-cual-mejor-opcion-eres-usuario-windows-1438642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-microsoft-copilot-cual-mejor-opcion-eres-usuario-windows-4287469.jpg?tf=1200x' alt='ChatGPT o Microsoft Copilot: cuál es mejor opción si eres usuario de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-cancela-proyecto-gafas-ar-deja-camino-libre-meta-1439686'>Apple cancela su proyecto de gafas AR y deja el camino libre para Meta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-cancela-proyecto-gafas-ar-deja-camino-libre-meta-1439686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Apple cancela su proyecto de gafas AR y deja el camino libre para Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/sencillo-ajuste-oculto-windows-mejora-rendimiento-cualquier-pc-instante-1438211'>Este sencillo ajuste oculto de Windows mejora el rendimiento de cualquier PC al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/sencillo-ajuste-oculto-windows-mejora-rendimiento-cualquier-pc-instante-1438211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rendimeinto-windows-4286766.jpg?tf=1200x' alt='Este sencillo ajuste oculto de Windows mejora el rendimiento de cualquier PC al instante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-1438635'>Demasiados españoles cometen este error con sus portátiles viejos, están en un cajón en lugar de haciendo esto</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-1438635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-4287455.jpg?tf=1200x' alt='Demasiados españoles cometen este error con sus portátiles viejos, están en un cajón en lugar de haciendo esto' />
     </a>
 </div>
 
