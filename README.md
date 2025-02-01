@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/bombazo-amazon-garmin-fenix-230-euros-barato-va-agotar-1439672'>Bombazo de Amazon: el Garmin Fenix E es 230 euros más barato y se va a agotar</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/bombazo-amazon-garmin-fenix-230-euros-barato-va-agotar-1439672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/garmin-fenix-4289188.jpg?tf=1200x' alt='Bombazo de Amazon: el Garmin Fenix E es 230 euros más barato y se va a agotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-patenta-robot-domestico-mueve-solo-te-chiva-hijo-no-ha-hecho-deberes-1439734'>Google patenta un robot doméstico que se mueve solo y te chiva si tu hijo no ha hecho los deberes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-patenta-robot-domestico-mueve-solo-te-chiva-hijo-no-ha-hecho-deberes-1439734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-hogar-4289302.jpg?tf=1200x' alt='Google patenta un robot doméstico que se mueve solo y te chiva si tu hijo no ha hecho los deberes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-sustos-pc-microsoft-edge-bloqueara-scarewares-antes-caigas-trampa-1439730'>Adiós a los sustos en tu PC: Microsoft Edge bloqueará los scarewares antes de que caigas en la trampa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-sustos-pc-microsoft-edge-bloqueara-scarewares-antes-caigas-trampa-1439730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/navegador-edge-4289300.jpg?tf=1200x' alt='Adiós a los sustos en tu PC: Microsoft Edge bloqueará los scarewares antes de que caigas en la trampa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/menos-lios-pelis-max-redisena-interfaz-encontrar-contenido-rapido-1439728'>Menos líos y más pelis: Max rediseña su interfaz para encontrar contenido más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/menos-lios-pelis-max-redisena-interfaz-encontrar-contenido-rapido-1439728' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/max-4289289.jpg?tf=1200x' alt='Menos líos y más pelis: Max rediseña su interfaz para encontrar contenido más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/android-ahora-seguro-gracias-ia-google-bloqueo-236-millones-aplicaciones-2024-1439719'>Android ahora es más seguro gracias a la IA: Google bloqueó 2,36 millones de aplicaciones en 2024 </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/android-ahora-seguro-gracias-ia-google-bloqueo-236-millones-aplicaciones-2024-1439719' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-privacidad-android-4289239.jpg?tf=1200x' alt='Android ahora es más seguro gracias a la IA: Google bloqueó 2,36 millones de aplicaciones en 2024 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-jugar-juegos-android-pc-emuladores-1437153'>Cómo descargar y jugar juegos de Android en PC sin emuladores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-descargar-jugar-juegos-android-pc-emuladores-1437153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/google-play-juegos-4285097.jpg?tf=1200x' alt='Cómo descargar y jugar juegos de Android en PC sin emuladores' />
     </a>
 </div>
 
