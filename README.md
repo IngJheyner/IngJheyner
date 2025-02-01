@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-entregues-movil-estafa-parece-inofensiva-pero-vacia-cuentas-segundos-1439735'>No entregues tú móvil: la estafa que parece inofensiva pero vacía cuentas en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-entregues-movil-estafa-parece-inofensiva-pero-vacia-cuentas-segundos-1439735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-bancaria-4289303.jpg?tf=1200x' alt='No entregues tú móvil: la estafa que parece inofensiva pero vacía cuentas en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/bombazo-amazon-garmin-fenix-230-euros-barato-va-agotar-1439672'>Bombazo de Amazon: el Garmin Fenix E es 230 euros más barato y se va a agotar</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/bombazo-amazon-garmin-fenix-230-euros-barato-va-agotar-1439672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/garmin-fenix-4289188.jpg?tf=1200x' alt='Bombazo de Amazon: el Garmin Fenix E es 230 euros más barato y se va a agotar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/cargador-iphone-dana-tan-rapido-hacer-cuidarlo-1437425'>Por qué el cargador del iPhone se daña tan rápido y qué hacer para cuidarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/cargador-iphone-dana-tan-rapido-hacer-cuidarlo-1437425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-iphone-deteriorado-4285517.jpg?tf=1200x' alt='Por qué el cargador del iPhone se daña tan rápido y qué hacer para cuidarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/menos-lios-pelis-max-redisena-interfaz-encontrar-contenido-rapido-1439728'>Menos líos y más pelis: Max rediseña su interfaz para encontrar contenido más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/menos-lios-pelis-max-redisena-interfaz-encontrar-contenido-rapido-1439728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/max-4289289.jpg?tf=1200x' alt='Menos líos y más pelis: Max rediseña su interfaz para encontrar contenido más rápido' />
     </a>
 </div>
 
