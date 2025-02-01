@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-1438635'>Demasiados españoles cometen este error con sus portátiles viejos, están en un cajón en lugar de haciendo esto</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-1438635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-4287455.jpg?tf=1200x' alt='Demasiados españoles cometen este error con sus portátiles viejos, están en un cajón en lugar de haciendo esto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/lanzamiento-rtx-5090--japon-invaden-guarderia-poder-comprar-1439663'>Locura en el lanzamiento de la RTX 5090 en Japón: invaden una guardería para poder comprarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/lanzamiento-rtx-5090--japon-invaden-guarderia-poder-comprar-1439663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/locura-lanzamiento-rtx-5090-invaden-guarderia-poder-comprar-4289163.jpg?tf=1200x' alt='Locura en el lanzamiento de la RTX 5090 en Japón: invaden una guardería para poder comprarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alia-chatgpt-espanol-pone-patas-arriba-ia-nacimiento-estrella-agujero-negro-1439100'>ALIA, el ChatGPT español pone patas arriba la IA: ¿El nacimiento de una estrella o de un agujero negro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alia-chatgpt-espanol-pone-patas-arriba-ia-nacimiento-estrella-agujero-negro-1439100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alia-chatgpt-espanol-4288962.jpg?tf=1200x' alt='ALIA, el ChatGPT español pone patas arriba la IA: ¿El nacimiento de una estrella o de un agujero negro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-1438902'>Jarro de agua fría para los usuarios de Waze: una de sus funciones más potentes tiene los días contados</a></h4>
     <a href='https://computerhoy.20minutos.es/google/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-1438902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-4287939.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de Waze: una de sus funciones más potentes tiene los días contados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/truco-whatsapp-ocultar-bloquear-chats-carpeta-secreta-1438600'>El truco de WhatsApp para ocultar y bloquear chats en una carpeta secreta</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/truco-whatsapp-ocultar-bloquear-chats-carpeta-secreta-1438600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-whatsapp-ocultar-bloquear-chats-carpeta-secreta-4287445.jpg?tf=1200x' alt='El truco de WhatsApp para ocultar y bloquear chats en una carpeta secreta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-portatil-viejo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo gratis en este viejo portátil y ahora parece recién comprado</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-portatil-viejo-chromeos-flex-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-windows-ni-linux-4263713.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo gratis en este viejo portátil y ahora parece recién comprado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bizum-fenomeno-me-debes-50-centimos-nos-estamos-volviendo-tacanos-experta-psicologa-responde-1439101'>Bizum y el fenómeno "me debes 50 céntimos": ¿Nos estamos volviendo unos tacaños? Una experta psicóloga responde</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bizum-fenomeno-me-debes-50-centimos-nos-estamos-volviendo-tacanos-experta-psicologa-responde-1439101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bizum-tacano-4288726.jpg?tf=1200x' alt='Bizum y el fenómeno "me debes 50 céntimos": ¿Nos estamos volviendo unos tacaños? Una experta psicóloga responde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/truco-veterano-electricista-cuadro-electrico-casa-ayuda-solucionar-rapidamente-90-averias-1438647'>El truco de un veterano electricista para el cuadro eléctrico de casa que ayuda a solucionar rápidamente el 90% de las averías</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/truco-veterano-electricista-cuadro-electrico-casa-ayuda-solucionar-rapidamente-90-averias-1438647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/truco-veterano-electricista-cuadro-electrico-casa-ayuda-solucionar-rapidamente-90-averias-4287472.jpg?tf=1200x' alt='El truco de un veterano electricista para el cuadro eléctrico de casa que ayuda a solucionar rápidamente el 90% de las averías' />
     </a>
 </div>
 
