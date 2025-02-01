@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/grande-potente-ia-pixel-9-pro-xl-mejor-movil-google-amazon-vende-400-euros-menos-1439625'>Grande, potente y con IA: el Pixel 9 Pro XL es el mejor móvil de Google y Amazon lo vende por 400 euros menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/grande-potente-ia-pixel-9-pro-xl-mejor-movil-google-amazon-vende-400-euros-menos-1439625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4005442.jpg?tf=1200x' alt='Grande, potente y con IA: el Pixel 9 Pro XL es el mejor móvil de Google y Amazon lo vende por 400 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/chatgpt-microsoft-copilot-cual-mejor-opcion-eres-usuario-windows-1438642'>ChatGPT o Microsoft Copilot: cuál es mejor opción si eres usuario de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/chatgpt-microsoft-copilot-cual-mejor-opcion-eres-usuario-windows-1438642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/chatgpt-microsoft-copilot-cual-mejor-opcion-eres-usuario-windows-4287469.jpg?tf=1200x' alt='ChatGPT o Microsoft Copilot: cuál es mejor opción si eres usuario de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-cancela-proyecto-gafas-ar-deja-camino-libre-meta-1439686'>Apple cancela su proyecto de gafas AR y deja el camino libre para Meta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-cancela-proyecto-gafas-ar-deja-camino-libre-meta-1439686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/gafas-realidad-aumentada-apple-fracasan-tendran-esperar-indefinidamente-2931416.jpg?tf=1200x' alt='Apple cancela su proyecto de gafas AR y deja el camino libre para Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/sencillo-ajuste-oculto-windows-mejora-rendimiento-cualquier-pc-instante-1438211'>Este sencillo ajuste oculto de Windows mejora el rendimiento de cualquier PC al instante</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/sencillo-ajuste-oculto-windows-mejora-rendimiento-cualquier-pc-instante-1438211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/rendimeinto-windows-4286766.jpg?tf=1200x' alt='Este sencillo ajuste oculto de Windows mejora el rendimiento de cualquier PC al instante' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-1438635'>Demasiados españoles cometen este error con sus portátiles viejos, están en un cajón en lugar de haciendo esto</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-1438635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/demasiados-espanoles-cometen-error-portatiles-viejos-estan-cajon-lugar-haciendo-4287455.jpg?tf=1200x' alt='Demasiados españoles cometen este error con sus portátiles viejos, están en un cajón en lugar de haciendo esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/lanzamiento-rtx-5090--japon-invaden-guarderia-poder-comprar-1439663'>Locura en el lanzamiento de la RTX 5090 en Japón: invaden una guardería para poder comprarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/lanzamiento-rtx-5090--japon-invaden-guarderia-poder-comprar-1439663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/locura-lanzamiento-rtx-5090-invaden-guarderia-poder-comprar-4289163.jpg?tf=1200x' alt='Locura en el lanzamiento de la RTX 5090 en Japón: invaden una guardería para poder comprarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alia-chatgpt-espanol-pone-patas-arriba-ia-nacimiento-estrella-agujero-negro-1439100'>ALIA, el ChatGPT español pone patas arriba la IA: ¿El nacimiento de una estrella o de un agujero negro?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alia-chatgpt-espanol-pone-patas-arriba-ia-nacimiento-estrella-agujero-negro-1439100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alia-chatgpt-espanol-4288962.jpg?tf=1200x' alt='ALIA, el ChatGPT español pone patas arriba la IA: ¿El nacimiento de una estrella o de un agujero negro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-1438902'>Jarro de agua fría para los usuarios de Waze: una de sus funciones más potentes tiene los días contados</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-1438902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/jarro-agua-fria-usuarios-waze-funciones-potentes-tiene-dias-contados-4287939.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de Waze: una de sus funciones más potentes tiene los días contados' />
     </a>
 </div>
 
