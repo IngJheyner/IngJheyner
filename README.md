@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tesoro-iphone-olvidarlo-perderlo-podria-arruinarte-literalmente-vida-1438212'>Es el tesoro de tu iPhone: olvidarlo o perderlo podría arruinarte literalmente la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tesoro-iphone-olvidarlo-perderlo-podria-arruinarte-literalmente-vida-1438212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tesoro-iphone-olvidarlo-perderlo-podria-arruinarte-literalmente-vida-4286754.jpg?tf=1200x' alt='Es el tesoro de tu iPhone: olvidarlo o perderlo podría arruinarte literalmente la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/significa-nuevo-simbolo-z-google-maps-como-utilizarlo-ahorrarte-dinero-multas-1439565'>Qué significa el nuevo símbolo Z de Google Maps y cómo utilizarlo para ahorrarte dinero en multas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/significa-nuevo-simbolo-z-google-maps-como-utilizarlo-ahorrarte-dinero-multas-1439565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/significa-nuevo-simbolo-z-google-maps-como-utilizarlo-ahorrarte-dinero-multas-4288995.jpg?tf=1200x' alt='Qué significa el nuevo símbolo Z de Google Maps y cómo utilizarlo para ahorrarte dinero en multas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/sims-sims-2-vuelven-tiendas-celebrar-25-aniversario-sims-1439656'>Los Sims y Los Sims 2 vuelven a las tiendas para celebrar el 25 Aniversario de Los Sims</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sims-sims-2-vuelven-tiendas-celebrar-25-aniversario-sims-1439656' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1738381504264-4289155.jpg?tf=1200x' alt='Los Sims y Los Sims 2 vuelven a las tiendas para celebrar el 25 Aniversario de Los Sims' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/radares-futuristas-llegan-espana-parecen-tesla-cybertruck-pero-reparten-multas-1439633'>Los radares más futuristas llegan a España: parecen un Tesla Cybertruck pero reparten multas</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/radares-futuristas-llegan-espana-parecen-tesla-cybertruck-pero-reparten-multas-1439633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/radares-futuristas-llegan-espana-parecen-tesla-cybertruck-pero-reparten-multas-4289140.jpg?tf=1200x' alt='Los radares más futuristas llegan a España: parecen un Tesla Cybertruck pero reparten multas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-descubren-fallo-critico-funcion-ver-vez-1439635'>Alerta en WhatsApp: descubren fallo crítico en la función “Ver una vez”</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-descubren-fallo-critico-funcion-ver-vez-1439635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-4289116.jpg?tf=1200x' alt='Alerta en WhatsApp: descubren fallo crítico en la función “Ver una vez”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/1500-revistas-documentos-desarrollo-videojuegos-disponibles-descargar-gratis-1439634'>Más de 1.500 revistas y documentos de desarrollo de videojuegos disponibles para descargar gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/1500-revistas-documentos-desarrollo-videojuegos-disponibles-descargar-gratis-1439634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cartuchos-videojuegos-4289112.jpg?tf=1200x' alt='Más de 1.500 revistas y documentos de desarrollo de videojuegos disponibles para descargar gratis' />
     </a>
 </div>
 
