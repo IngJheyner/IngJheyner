@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/cargador-iphone-dana-tan-rapido-hacer-cuidarlo-1437425'>Por qué el cargador del iPhone se daña tan rápido y qué hacer para cuidarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/cargador-iphone-dana-tan-rapido-hacer-cuidarlo-1437425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-iphone-deteriorado-4285517.jpg?tf=1200x' alt='Por qué el cargador del iPhone se daña tan rápido y qué hacer para cuidarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/menos-lios-pelis-max-redisena-interfaz-encontrar-contenido-rapido-1439728'>Menos líos y más pelis: Max rediseña su interfaz para encontrar contenido más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/menos-lios-pelis-max-redisena-interfaz-encontrar-contenido-rapido-1439728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/max-4289289.jpg?tf=1200x' alt='Menos líos y más pelis: Max rediseña su interfaz para encontrar contenido más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/android-ahora-seguro-gracias-ia-google-bloqueo-236-millones-aplicaciones-2024-1439719'>Android ahora es más seguro gracias a la IA: Google bloqueó 2,36 millones de aplicaciones en 2024 </a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/android-ahora-seguro-gracias-ia-google-bloqueo-236-millones-aplicaciones-2024-1439719' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-privacidad-android-4289239.jpg?tf=1200x' alt='Android ahora es más seguro gracias a la IA: Google bloqueó 2,36 millones de aplicaciones en 2024 ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-cerca-nunca-apple-punto-dar-paso-definitivo-1439713'>El iPhone plegable está más cerca que nunca: Apple a punto de dar el paso definitivo</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-cerca-nunca-apple-punto-dar-paso-definitivo-1439713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable está más cerca que nunca: Apple a punto de dar el paso definitivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-codigo-error-0xc00001-windows-11-1435869'>Cómo solucionar el código de error 0xc00001 de Windows 11 </a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-solucionar-codigo-error-0xc00001-windows-11-1435869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/error-0xc00001-4282843.jpg?tf=1200x' alt='Cómo solucionar el código de error 0xc00001 de Windows 11 ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-records-alcanza-mayor-cuota-mercado-fecha-1439705'>Windows 11 rompe récords y alcanza su mayor cuota de mercado hasta la fecha</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-records-alcanza-mayor-cuota-mercado-fecha-1439705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/actualizacion-windows-4289218.jpg?tf=1200x' alt='Windows 11 rompe récords y alcanza su mayor cuota de mercado hasta la fecha' />
     </a>
 </div>
 
