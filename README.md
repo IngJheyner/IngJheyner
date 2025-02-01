@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sims-sims-2-vuelven-tiendas-celebrar-25-aniversario-sims-1439656'>Los Sims y Los Sims 2 vuelven a las tiendas para celebrar el 25 Aniversario de Los Sims</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sims-sims-2-vuelven-tiendas-celebrar-25-aniversario-sims-1439656' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1738381504264-4289155.jpg?tf=1200x' alt='Los Sims y Los Sims 2 vuelven a las tiendas para celebrar el 25 Aniversario de Los Sims' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-funciona-rapido-tarjetas-radeon-amd-rtx-4090-nvidia-1439647'>Vuelco a la IA: DeepSeek funciona más rápido en las tarjetas Radeon de AMD que en la RTX 4090 de Nvidia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-funciona-rapido-tarjetas-radeon-amd-rtx-4090-nvidia-1439647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/vuelco-ia-deepseek-funciona-rapido-tarjetas-radeon-amd-rtx-4090-nvidia-4289103.jpg?tf=1200x' alt='Vuelco a la IA: DeepSeek funciona más rápido en las tarjetas Radeon de AMD que en la RTX 4090 de Nvidia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/1500-revistas-documentos-desarrollo-videojuegos-disponibles-descargar-gratis-1439634'>Más de 1.500 revistas y documentos de desarrollo de videojuegos disponibles para descargar gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/1500-revistas-documentos-desarrollo-videojuegos-disponibles-descargar-gratis-1439634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cartuchos-videojuegos-4289112.jpg?tf=1200x' alt='Más de 1.500 revistas y documentos de desarrollo de videojuegos disponibles para descargar gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pierde-mejores-funciones-ultima-actualizacion-nadie-entiende-motivo-1439619'>Amazon Fire TV pierde una de sus mejores funciones con la última actualización y nadie entiende el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pierde-mejores-funciones-ultima-actualizacion-nadie-entiende-motivo-1439619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/menu-oculto-amazon-fire-tv-controla-dispositivos-inteligentes-forma-sencilla-3635517.jpg?tf=1200x' alt='Amazon Fire TV pierde una de sus mejores funciones con la última actualización y nadie entiende el motivo' />
     </a>
 </div>
 
