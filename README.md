@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775'>Cómo instalar Windows 11 en tu Android: ¿es posible?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-android-4282691.jpg?tf=1200x' alt='Cómo instalar Windows 11 en tu Android: ¿es posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-intenta-convencerte-perder-funciones-windows-algo-bueno-no-fin-oportunidad-1439784'>Microsoft intenta convencerte de que perder funciones en Windows es algo bueno: "No es el fin, es una oportunidad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-intenta-convencerte-perder-funciones-windows-algo-bueno-no-fin-oportunidad-1439784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4289354.jpg?tf=1200x' alt='Microsoft intenta convencerte de que perder funciones en Windows es algo bueno: "No es el fin, es una oportunidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-1437962'>Conectar un Apple Watch a un móvil Android: funciones disponibles y limitaciones, ¿merece la pena?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-1437962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-4286372.jpg?tf=1200x' alt='Conectar un Apple Watch a un móvil Android: funciones disponibles y limitaciones, ¿merece la pena?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/doctor-ia-microsoft-trabaja-asistente-apoyara-medicos-consultas-1439776'>¿Doctor IA? Microsoft trabaja en un asistente que apoyará a los médicos en consultas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/doctor-ia-microsoft-trabaja-asistente-apoyara-medicos-consultas-1439776' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/doctor-ia-microsoft-4289345.jpg?tf=1200x' alt='¿Doctor IA? Microsoft trabaja en un asistente que apoyará a los médicos en consultas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/cuantos-nucleos-necesitas-procesador-pc-jugar-2025-1437698'>¿Cuántos núcleos necesitas en tu procesador de PC para jugar este 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/cuantos-nucleos-necesitas-procesador-pc-jugar-2025-1437698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/procesador-nucleos-4285938.jpg?tf=1200x' alt='¿Cuántos núcleos necesitas en tu procesador de PC para jugar este 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-existe-como-funciona-como-descargarlo-1437689'>Microsoft Linux existe: qué es, cómo funciona y cómo descargarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-existe-como-funciona-como-descargarlo-1437689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-linux-existe-como-funciona-como-descargarlo-4285927.jpg?tf=1200x' alt='Microsoft Linux existe: qué es, cómo funciona y cómo descargarlo' />
     </a>
 </div>
 
