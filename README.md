@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-estrenara-boton-ia-resolver-dudas-traducciones-1439770'>El traductor de Google estrenará un botón de IA para resolver dudas sobre sus traducciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/traductor-google-estrenara-boton-ia-resolver-dudas-traducciones-1439770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/traductor-google-ia-4289340.jpg?tf=1200x' alt='El traductor de Google estrenará un botón de IA para resolver dudas sobre sus traducciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-alto-consumo-cpu-windows-perder-rendimiento-1438603'>Cómo reducir un alto consumo de CPU en Windows sin perder rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-alto-consumo-cpu-windows-perder-rendimiento-1438603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cpu-intel-i5-4287458.jpg?tf=1200x' alt='Cómo reducir un alto consumo de CPU en Windows sin perder rendimiento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/salta-pais-otro-sofa-vpn-ultrarrapida-cuesta-apenas-3-euros-1439667'>Salta de un país a otro desde tu sofá: esta VPN es ultrarrápida y cuesta apenas 3 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/salta-pais-otro-sofa-vpn-ultrarrapida-cuesta-apenas-3-euros-1439667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Salta de un país a otro desde tu sofá: esta VPN es ultrarrápida y cuesta apenas 3 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-descubri-como-ver-canales-tv-gratis-iptv-coche-ya-no-me-importa-esperar-1438911'>Android Auto: desde que descubrí cómo ver canales de TV gratis por IPTV en el coche ya no me importa esperar</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-descubri-como-ver-canales-tv-gratis-iptv-coche-ya-no-me-importa-esperar-1438911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-descubri-como-ver-canales-tv-gratis-iptv-coche-ya-no-me-importa-esperar-4287945.jpg?tf=1200x' alt='Android Auto: desde que descubrí cómo ver canales de TV gratis por IPTV en el coche ya no me importa esperar' />
     </a>
 </div>
 
