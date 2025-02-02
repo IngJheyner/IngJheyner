@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/agobiado-tantos-mensajes-pense-abandonar-whatsapp-descubri-modo-invisible-todo-ha-cambiado-1439173'>Agobiado por tantos mensajes, pensé en abandonar WhatsApp, hasta que descubrí el modo invisible y todo ha cambiado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/agobiado-tantos-mensajes-pense-abandonar-whatsapp-descubri-modo-invisible-todo-ha-cambiado-1439173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/agobiado-tantos-mensajes-pense-abandonar-whatsapp-descubri-modo-invisible-todo-ha-cambiado-4288362.jpg?tf=1200x' alt='Agobiado por tantos mensajes, pensé en abandonar WhatsApp, hasta que descubrí el modo invisible y todo ha cambiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-1438916'>Demasiados españoles cometen este error con sus contraseñas: "Es como dejar la puerta con las llaves puestas"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-1438916' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-4287963.jpg?tf=1200x' alt='Demasiados españoles cometen este error con sus contraseñas: "Es como dejar la puerta con las llaves puestas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/digi-cero-heroe-como-recien-llegado-espana-ha-provocado-revuelo-movistar-vodafone-1437292'>DIGI, de cero a héroe: cómo un "recién llegado" a España ha provocado un revuelo en Movistar y Vodafone</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/digi-cero-heroe-como-recien-llegado-espana-ha-provocado-revuelo-movistar-vodafone-1437292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-telecos-4287792.jpg?tf=1200x' alt='DIGI, de cero a héroe: cómo un "recién llegado" a España ha provocado un revuelo en Movistar y Vodafone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-1438639'>Hallazgo inesperado en Android: cómo activar el modo dios de tu móvil y esto es todo lo que puedes hacer con él</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-1438639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-4287461.jpg?tf=1200x' alt='Hallazgo inesperado en Android: cómo activar el modo dios de tu móvil y esto es todo lo que puedes hacer con él' />
     </a>
 </div>
 
