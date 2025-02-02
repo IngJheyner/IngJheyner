@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-test-te-permite-conocer-instante-movil-te-espia-me-he-llevado-sorpresa-1438208'>He probado el test que te permite conocer al instante si tu móvil te espía, y me he llevado una sorpresa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-test-te-permite-conocer-instante-movil-te-espia-me-he-llevado-sorpresa-1438208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-espia-conversaciones-4288111.jpg?tf=1200x' alt='He probado el test que te permite conocer al instante si tu móvil te espía, y me he llevado una sorpresa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-entregues-movil-estafa-parece-inofensiva-pero-vacia-cuentas-segundos-1439735'>No entregues tú móvil: la estafa que parece inofensiva pero vacía cuentas en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/no-entregues-movil-estafa-parece-inofensiva-pero-vacia-cuentas-segundos-1439735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-bancaria-4289303.jpg?tf=1200x' alt='No entregues tú móvil: la estafa que parece inofensiva pero vacía cuentas en segundos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-sustos-pc-microsoft-edge-bloqueara-scarewares-antes-caigas-trampa-1439730'>Adiós a los sustos en tu PC: Microsoft Edge bloqueará los scarewares antes de que caigas en la trampa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-sustos-pc-microsoft-edge-bloqueara-scarewares-antes-caigas-trampa-1439730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/navegador-edge-4289300.jpg?tf=1200x' alt='Adiós a los sustos en tu PC: Microsoft Edge bloqueará los scarewares antes de que caigas en la trampa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/cargador-iphone-dana-tan-rapido-hacer-cuidarlo-1437425'>Por qué el cargador del iPhone se daña tan rápido y qué hacer para cuidarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/cargador-iphone-dana-tan-rapido-hacer-cuidarlo-1437425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cargador-iphone-deteriorado-4285517.jpg?tf=1200x' alt='Por qué el cargador del iPhone se daña tan rápido y qué hacer para cuidarlo' />
     </a>
 </div>
 
