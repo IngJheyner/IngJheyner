@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973'>Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-4286384.jpg?tf=1200x' alt='Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-prohibe-ia-riesgo-inaceptable-grok-deepseek-peligro-1439808'>Qué significa que la UE haya prohibido hoy las IA con un "riesgo inaceptable": ¿Están Grok y DeepSeek en peligro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ue-prohibe-ia-riesgo-inaceptable-grok-deepseek-peligro-1439808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-ue-haya-prohibido-hoy-ia-riesgo-inaceptable-estan-grok-deepseek-peligro-4289422.jpg?tf=1200x' alt='Qué significa que la UE haya prohibido hoy las IA con un "riesgo inaceptable": ¿Están Grok y DeepSeek en peligro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-aliexpress-rebaja-reloj-huawei-rival-garmin-nunca-antes-1438413'>Giro radical de AliExpress: rebaja el reloj Huawei rival a los Garmin más que nunca antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-aliexpress-rebaja-reloj-huawei-rival-garmin-nunca-antes-1438413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-gt-5-4273698.jpg?tf=1200x' alt='Giro radical de AliExpress: rebaja el reloj Huawei rival a los Garmin más que nunca antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426'>Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-acceder-directiva-seguridad-local-windows-11-sirve-4285525.jpg?tf=1200x' alt='Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775'>Cómo instalar Windows 11 en tu Android: ¿es posible?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-android-4282691.jpg?tf=1200x' alt='Cómo instalar Windows 11 en tu Android: ¿es posible?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-intenta-convencerte-perder-funciones-windows-algo-bueno-no-fin-oportunidad-1439784'>Microsoft intenta convencerte de que perder funciones en Windows es algo bueno: "No es el fin, es una oportunidad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-intenta-convencerte-perder-funciones-windows-algo-bueno-no-fin-oportunidad-1439784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4289354.jpg?tf=1200x' alt='Microsoft intenta convencerte de que perder funciones en Windows es algo bueno: "No es el fin, es una oportunidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-1437962'>Conectar un Apple Watch a un móvil Android: funciones disponibles y limitaciones, ¿merece la pena?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-1437962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-4286372.jpg?tf=1200x' alt='Conectar un Apple Watch a un móvil Android: funciones disponibles y limitaciones, ¿merece la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/menos-luz-comodidad-android-16-prepara-funcion-forzar-modo-oscuro-1439781'>Menos luz, más comodidad: Android 16 prepara una función para forzar el modo oscuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/menos-luz-comodidad-android-16-prepara-funcion-forzar-modo-oscuro-1439781' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/forzar-tema-oscuro-android-16-4289351.jpg?tf=1200x' alt='Menos luz, más comodidad: Android 16 prepara una función para forzar el modo oscuro' />
     </a>
 </div>
 
