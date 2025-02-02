@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-1438916'>Demasiados españoles cometen este error con sus contraseñas: "Es como dejar la puerta con las llaves puestas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-1438916' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-4287963.jpg?tf=1200x' alt='Demasiados españoles cometen este error con sus contraseñas: "Es como dejar la puerta con las llaves puestas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/salta-pais-otro-sofa-vpn-ultrarrapida-cuesta-apenas-3-euros-1439667'>Salta de un país a otro desde tu sofá: esta VPN es ultrarrápida y cuesta apenas 3 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/salta-pais-otro-sofa-vpn-ultrarrapida-cuesta-apenas-3-euros-1439667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Salta de un país a otro desde tu sofá: esta VPN es ultrarrápida y cuesta apenas 3 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-descubri-como-ver-canales-tv-gratis-iptv-coche-ya-no-me-importa-esperar-1438911'>Android Auto: desde que descubrí cómo ver canales de TV gratis por IPTV en el coche ya no me importa esperar</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-descubri-como-ver-canales-tv-gratis-iptv-coche-ya-no-me-importa-esperar-1438911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/android-auto-descubri-como-ver-canales-tv-gratis-iptv-coche-ya-no-me-importa-esperar-4287945.jpg?tf=1200x' alt='Android Auto: desde que descubrí cómo ver canales de TV gratis por IPTV en el coche ya no me importa esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/industria/digi-cero-heroe-como-recien-llegado-espana-ha-provocado-revuelo-movistar-vodafone-1437292'>DIGI, de cero a héroe: cómo un "recién llegado" a España ha provocado un revuelo en Movistar y Vodafone</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/digi-cero-heroe-como-recien-llegado-espana-ha-provocado-revuelo-movistar-vodafone-1437292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-telecos-4287792.jpg?tf=1200x' alt='DIGI, de cero a héroe: cómo un "recién llegado" a España ha provocado un revuelo en Movistar y Vodafone' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-1438639'>Hallazgo inesperado en Android: cómo activar el modo dios de tu móvil y esto es todo lo que puedes hacer con él</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-1438639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-4287461.jpg?tf=1200x' alt='Hallazgo inesperado en Android: cómo activar el modo dios de tu móvil y esto es todo lo que puedes hacer con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-considera-mejor-alternativa-sistemas-operativos-como-windows-1432923'>¿Qué es Linux y por qué se considera la mejor alternativa a sistemas operativos como Windows?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-considera-mejor-alternativa-sistemas-operativos-como-windows-1432923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-4269019.jpg?tf=1200x' alt='¿Qué es Linux y por qué se considera la mejor alternativa a sistemas operativos como Windows?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-van-perfeccionarse-ano-como-ia-te-va-enganar-te-des-cuenta-1434166'>Estafas que van a perfeccionarse este año o cómo la IA te va a engañar sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-van-perfeccionarse-ano-como-ia-te-va-enganar-te-des-cuenta-1434166' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-ciberseguridad-2025-4279975.jpg?tf=1200x' alt='Estafas que van a perfeccionarse este año o cómo la IA te va a engañar sin que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/primer-producto-vendio-microsoft-cinta-papel-perforado-cambia-todo-1439747'>El primer producto que vendió Microsoft: una cinta de papel perforado que lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/primer-producto-vendio-microsoft-cinta-papel-perforado-cambia-todo-1439747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-primer-producto-vendio-microsoft-cinta-papel-muy-especial-4289320.jpg?tf=1200x' alt='El primer producto que vendió Microsoft: una cinta de papel perforado que lo cambia todo' />
     </a>
 </div>
 
