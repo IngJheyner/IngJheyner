@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-test-te-permite-conocer-instante-movil-te-espia-me-he-llevado-sorpresa-1438208'>He probado el test que te permite conocer al instante si tu móvil te espía, y me he llevado una sorpresa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/he-probado-test-te-permite-conocer-instante-movil-te-espia-me-he-llevado-sorpresa-1438208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-espia-conversaciones-4288111.jpg?tf=1200x' alt='He probado el test que te permite conocer al instante si tu móvil te espía, y me he llevado una sorpresa' />
+    <h4><a href='https://computerhoy.20minutos.es/industria/digi-cero-heroe-como-recien-llegado-espana-ha-provocado-revuelo-movistar-vodafone-1437292'>DIGI, de cero a héroe: cómo un "recién llegado" a España ha provocado un revuelo en Movistar y Vodafone</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/digi-cero-heroe-como-recien-llegado-espana-ha-provocado-revuelo-movistar-vodafone-1437292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-telecos-4287792.jpg?tf=1200x' alt='DIGI, de cero a héroe: cómo un "recién llegado" a España ha provocado un revuelo en Movistar y Vodafone' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/no-entregues-movil-estafa-parece-inofensiva-pero-vacia-cuentas-segundos-1439735'>No entregues tú móvil: la estafa que parece inofensiva pero vacía cuentas en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/no-entregues-movil-estafa-parece-inofensiva-pero-vacia-cuentas-segundos-1439735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-bancaria-4289303.jpg?tf=1200x' alt='No entregues tú móvil: la estafa que parece inofensiva pero vacía cuentas en segundos' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-1438639'>Hallazgo inesperado en Android: cómo activar el modo dios de tu móvil y esto es todo lo que puedes hacer con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-1438639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/hallazgo-inesperado-android-como-activar-modo-dios-movil-todo-puedes-hacer-4287461.jpg?tf=1200x' alt='Hallazgo inesperado en Android: cómo activar el modo dios de tu móvil y esto es todo lo que puedes hacer con él' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/bombazo-amazon-garmin-fenix-230-euros-barato-va-agotar-1439672'>Bombazo de Amazon: el Garmin Fenix E es 230 euros más barato y se va a agotar</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/bombazo-amazon-garmin-fenix-230-euros-barato-va-agotar-1439672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/garmin-fenix-4289188.jpg?tf=1200x' alt='Bombazo de Amazon: el Garmin Fenix E es 230 euros más barato y se va a agotar' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-considera-mejor-alternativa-sistemas-operativos-como-windows-1432923'>¿Qué es Linux y por qué se considera la mejor alternativa a sistemas operativos como Windows?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-considera-mejor-alternativa-sistemas-operativos-como-windows-1432923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/ni-ubuntu-ni-debian-nueva-reina-distribuciones-linux-expertos-4269019.jpg?tf=1200x' alt='¿Qué es Linux y por qué se considera la mejor alternativa a sistemas operativos como Windows?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-patenta-robot-domestico-mueve-solo-te-chiva-hijo-no-ha-hecho-deberes-1439734'>Google patenta un robot doméstico que se mueve solo y te chiva si tu hijo no ha hecho los deberes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-patenta-robot-domestico-mueve-solo-te-chiva-hijo-no-ha-hecho-deberes-1439734' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-hogar-4289302.jpg?tf=1200x' alt='Google patenta un robot doméstico que se mueve solo y te chiva si tu hijo no ha hecho los deberes' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-van-perfeccionarse-ano-como-ia-te-va-enganar-te-des-cuenta-1434166'>Estafas que van a perfeccionarse este año o cómo la IA te va a engañar sin que te des cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafas-van-perfeccionarse-ano-como-ia-te-va-enganar-te-des-cuenta-1434166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-ciberseguridad-2025-4279975.jpg?tf=1200x' alt='Estafas que van a perfeccionarse este año o cómo la IA te va a engañar sin que te des cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-sustos-pc-microsoft-edge-bloqueara-scarewares-antes-caigas-trampa-1439730'>Adiós a los sustos en tu PC: Microsoft Edge bloqueará los scarewares antes de que caigas en la trampa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-sustos-pc-microsoft-edge-bloqueara-scarewares-antes-caigas-trampa-1439730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/navegador-edge-4289300.jpg?tf=1200x' alt='Adiós a los sustos en tu PC: Microsoft Edge bloqueará los scarewares antes de que caigas en la trampa' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/primer-producto-vendio-microsoft-cinta-papel-perforado-cambia-todo-1439747'>El primer producto que vendió Microsoft: una cinta de papel perforado que lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/primer-producto-vendio-microsoft-cinta-papel-perforado-cambia-todo-1439747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-primer-producto-vendio-microsoft-cinta-papel-muy-especial-4289320.jpg?tf=1200x' alt='El primer producto que vendió Microsoft: una cinta de papel perforado que lo cambia todo' />
     </a>
 </div>
 
