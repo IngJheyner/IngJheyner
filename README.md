@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tendra-indemnizar-usuarios-apple-watch-1439817'>Apple tendrá que indemnizar a los usuarios del Apple Watch</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-tendra-indemnizar-usuarios-apple-watch-1439817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-tendra-indemnizar-usuarios-apple-watch-4289521.jpg?tf=1200x' alt='Apple tendrá que indemnizar a los usuarios del Apple Watch' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-rtx-5090-rtx-5080-fueron-compradas-bots-1439815'>Palo a los gamers: casi todas las tarjetas RTX 5090 y RTX 5080 fueron compradas por bots</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/tarjetas-rtx-5090-rtx-5080-fueron-compradas-bots-1439815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-gamers-casi-todas-tarjetas-rtx-5090-rtx-5080-fueron-compradas-bots-4289519.jpg?tf=1200x' alt='Palo a los gamers: casi todas las tarjetas RTX 5090 y RTX 5080 fueron compradas por bots' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-prohibe-ia-riesgo-inaceptable-grok-deepseek-peligro-1439808'>Qué significa que la UE haya prohibido hoy las IA con un "riesgo inaceptable": ¿Están Grok y DeepSeek en peligro?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ue-prohibe-ia-riesgo-inaceptable-grok-deepseek-peligro-1439808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-ue-haya-prohibido-hoy-ia-riesgo-inaceptable-estan-grok-deepseek-peligro-4289422.jpg?tf=1200x' alt='Qué significa que la UE haya prohibido hoy las IA con un "riesgo inaceptable": ¿Están Grok y DeepSeek en peligro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-aliexpress-rebaja-reloj-huawei-rival-garmin-nunca-antes-1438413'>Giro radical de AliExpress: rebaja el reloj Huawei rival a los Garmin más que nunca antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-aliexpress-rebaja-reloj-huawei-rival-garmin-nunca-antes-1438413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-gt-5-4273698.jpg?tf=1200x' alt='Giro radical de AliExpress: rebaja el reloj Huawei rival a los Garmin más que nunca antes' />
     </a>
 </div>
 
