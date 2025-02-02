@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sony-no-abandona-discos-blu-ray-discos-grabables-verbatim-rescate-1439811'>Sony no abandona los discos Blu-ray, y los discos grabables no han muerto: Verbatim acude al rescate</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sony-no-abandona-discos-blu-ray-discos-grabables-verbatim-rescate-1439811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sony-no-abandona-discos-blu-ray-discos-grabables-no-han-muerto-verbatim-acude-rescate-4289495.jpg?tf=1200x' alt='Sony no abandona los discos Blu-ray, y los discos grabables no han muerto: Verbatim acude al rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973'>Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-4286384.jpg?tf=1200x' alt='Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426'>Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-acceder-directiva-seguridad-local-windows-11-sirve-4285525.jpg?tf=1200x' alt='Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775'>Cómo instalar Windows 11 en tu Android: ¿es posible?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-android-4282691.jpg?tf=1200x' alt='Cómo instalar Windows 11 en tu Android: ¿es posible?' />
     </a>
 </div>
 
