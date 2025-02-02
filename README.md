@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426'>Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-acceder-directiva-seguridad-local-windows-11-sirve-4285525.jpg?tf=1200x' alt='Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775'>Cómo instalar Windows 11 en tu Android: ¿es posible?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-instalar-windows-11-android-posible-1435775' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-android-4282691.jpg?tf=1200x' alt='Cómo instalar Windows 11 en tu Android: ¿es posible?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/menos-luz-comodidad-android-16-prepara-funcion-forzar-modo-oscuro-1439781'>Menos luz, más comodidad: Android 16 prepara una función para forzar el modo oscuro</a></h4>
     <a href='https://computerhoy.20minutos.es/android/menos-luz-comodidad-android-16-prepara-funcion-forzar-modo-oscuro-1439781' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/forzar-tema-oscuro-android-16-4289351.jpg?tf=1200x' alt='Menos luz, más comodidad: Android 16 prepara una función para forzar el modo oscuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/doctor-ia-microsoft-trabaja-asistente-apoyara-medicos-consultas-1439776'>¿Doctor IA? Microsoft trabaja en un asistente que apoyará a los médicos en consultas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/doctor-ia-microsoft-trabaja-asistente-apoyara-medicos-consultas-1439776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/doctor-ia-microsoft-4289345.jpg?tf=1200x' alt='¿Doctor IA? Microsoft trabaja en un asistente que apoyará a los médicos en consultas' />
     </a>
 </div>
 
