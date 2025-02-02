@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-1437962'>Conectar un Apple Watch a un móvil Android: funciones disponibles y limitaciones, ¿merece la pena?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-1437962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/conectar-apple-watch-movil-android-funciones-disponibles-limitaciones-merece-pena-4286372.jpg?tf=1200x' alt='Conectar un Apple Watch a un móvil Android: funciones disponibles y limitaciones, ¿merece la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/menos-luz-comodidad-android-16-prepara-funcion-forzar-modo-oscuro-1439781'>Menos luz, más comodidad: Android 16 prepara una función para forzar el modo oscuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/menos-luz-comodidad-android-16-prepara-funcion-forzar-modo-oscuro-1439781' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/forzar-tema-oscuro-android-16-4289351.jpg?tf=1200x' alt='Menos luz, más comodidad: Android 16 prepara una función para forzar el modo oscuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/doctor-ia-microsoft-trabaja-asistente-apoyara-medicos-consultas-1439776'>¿Doctor IA? Microsoft trabaja en un asistente que apoyará a los médicos en consultas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/doctor-ia-microsoft-trabaja-asistente-apoyara-medicos-consultas-1439776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/doctor-ia-microsoft-4289345.jpg?tf=1200x' alt='¿Doctor IA? Microsoft trabaja en un asistente que apoyará a los médicos en consultas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/cuantos-nucleos-necesitas-procesador-pc-jugar-2025-1437698'>¿Cuántos núcleos necesitas en tu procesador de PC para jugar este 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/cuantos-nucleos-necesitas-procesador-pc-jugar-2025-1437698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/procesador-nucleos-4285938.jpg?tf=1200x' alt='¿Cuántos núcleos necesitas en tu procesador de PC para jugar este 2025?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-existe-como-funciona-como-descargarlo-1437689'>Microsoft Linux existe: qué es, cómo funciona y cómo descargarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-existe-como-funciona-como-descargarlo-1437689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-linux-existe-como-funciona-como-descargarlo-4285927.jpg?tf=1200x' alt='Microsoft Linux existe: qué es, cómo funciona y cómo descargarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-dejan-mil-pestanas-abiertas-chrome-ios-te-ayudara-recordatorios-1439773'>¿Eres de los que dejan mil pestañas abiertas? Chrome en iOS te ayudará con recordatorios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/eres-dejan-mil-pestanas-abiertas-chrome-ios-te-ayudara-recordatorios-1439773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='¿Eres de los que dejan mil pestañas abiertas? Chrome en iOS te ayudará con recordatorios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-estrenara-boton-ia-resolver-dudas-traducciones-1439770'>El traductor de Google estrenará un botón de IA para resolver dudas sobre sus traducciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/traductor-google-estrenara-boton-ia-resolver-dudas-traducciones-1439770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/traductor-google-ia-4289340.jpg?tf=1200x' alt='El traductor de Google estrenará un botón de IA para resolver dudas sobre sus traducciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-alto-consumo-cpu-windows-perder-rendimiento-1438603'>Cómo reducir un alto consumo de CPU en Windows sin perder rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-alto-consumo-cpu-windows-perder-rendimiento-1438603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cpu-intel-i5-4287458.jpg?tf=1200x' alt='Cómo reducir un alto consumo de CPU en Windows sin perder rendimiento' />
     </a>
 </div>
 
