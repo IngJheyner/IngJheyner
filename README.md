@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/tarjetas-rtx-5090-rtx-5080-fueron-compradas-bots-1439815'>Palo a los gamers: casi todas las tarjetas RTX 5090 y RTX 5080 fueron compradas por bots</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/tarjetas-rtx-5090-rtx-5080-fueron-compradas-bots-1439815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-gamers-casi-todas-tarjetas-rtx-5090-rtx-5080-fueron-compradas-bots-4289519.jpg?tf=1200x' alt='Palo a los gamers: casi todas las tarjetas RTX 5090 y RTX 5080 fueron compradas por bots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sony-no-abandona-discos-blu-ray-discos-grabables-verbatim-rescate-1439811'>Sony no abandona los discos Blu-ray, y los discos grabables no han muerto: Verbatim acude al rescate</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sony-no-abandona-discos-blu-ray-discos-grabables-verbatim-rescate-1439811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sony-no-abandona-discos-blu-ray-discos-grabables-no-han-muerto-verbatim-acude-rescate-4289495.jpg?tf=1200x' alt='Sony no abandona los discos Blu-ray, y los discos grabables no han muerto: Verbatim acude al rescate' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-aliexpress-rebaja-reloj-huawei-rival-garmin-nunca-antes-1438413'>Giro radical de AliExpress: rebaja el reloj Huawei rival a los Garmin más que nunca antes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-radical-aliexpress-rebaja-reloj-huawei-rival-garmin-nunca-antes-1438413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/huawei-watch-gt-5-4273698.jpg?tf=1200x' alt='Giro radical de AliExpress: rebaja el reloj Huawei rival a los Garmin más que nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426'>Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-directiva-seguridad-local-windows-11-sirve-1437426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-acceder-directiva-seguridad-local-windows-11-sirve-4285525.jpg?tf=1200x' alt='Cómo acceder a la directiva de seguridad local en Windows 11 y para qué sirve' />
     </a>
 </div>
 
