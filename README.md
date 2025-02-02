@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/cuantos-nucleos-necesitas-procesador-pc-jugar-2025-1437698'>¿Cuántos núcleos necesitas en tu procesador de PC para jugar este 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/cuantos-nucleos-necesitas-procesador-pc-jugar-2025-1437698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/procesador-nucleos-4285938.jpg?tf=1200x' alt='¿Cuántos núcleos necesitas en tu procesador de PC para jugar este 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-existe-como-funciona-como-descargarlo-1437689'>Microsoft Linux existe: qué es, cómo funciona y cómo descargarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-existe-como-funciona-como-descargarlo-1437689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-linux-existe-como-funciona-como-descargarlo-4285927.jpg?tf=1200x' alt='Microsoft Linux existe: qué es, cómo funciona y cómo descargarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-dejan-mil-pestanas-abiertas-chrome-ios-te-ayudara-recordatorios-1439773'>¿Eres de los que dejan mil pestañas abiertas? Chrome en iOS te ayudará con recordatorios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/eres-dejan-mil-pestanas-abiertas-chrome-ios-te-ayudara-recordatorios-1439773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/truco-google-chrome-te-permite-tener-100-pestanas-abiertas-bien-organizadas-3283250.jpg?tf=1200x' alt='¿Eres de los que dejan mil pestañas abiertas? Chrome en iOS te ayudará con recordatorios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-estrenara-boton-ia-resolver-dudas-traducciones-1439770'>El traductor de Google estrenará un botón de IA para resolver dudas sobre sus traducciones</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/traductor-google-estrenara-boton-ia-resolver-dudas-traducciones-1439770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/traductor-google-ia-4289340.jpg?tf=1200x' alt='El traductor de Google estrenará un botón de IA para resolver dudas sobre sus traducciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-alto-consumo-cpu-windows-perder-rendimiento-1438603'>Cómo reducir un alto consumo de CPU en Windows sin perder rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-reducir-alto-consumo-cpu-windows-perder-rendimiento-1438603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/cpu-intel-i5-4287458.jpg?tf=1200x' alt='Cómo reducir un alto consumo de CPU en Windows sin perder rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/agobiado-tantos-mensajes-pense-abandonar-whatsapp-descubri-modo-invisible-todo-ha-cambiado-1439173'>Agobiado por tantos mensajes, pensé en abandonar WhatsApp, hasta que descubrí el modo invisible y todo ha cambiado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/agobiado-tantos-mensajes-pense-abandonar-whatsapp-descubri-modo-invisible-todo-ha-cambiado-1439173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/agobiado-tantos-mensajes-pense-abandonar-whatsapp-descubri-modo-invisible-todo-ha-cambiado-4288362.jpg?tf=1200x' alt='Agobiado por tantos mensajes, pensé en abandonar WhatsApp, hasta que descubrí el modo invisible y todo ha cambiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-1438916'>Demasiados españoles cometen este error con sus contraseñas: "Es como dejar la puerta con las llaves puestas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-1438916' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/demasiados-espanoles-cometen-error-contrasenas-como-dejar-puerta-llaves-puestas-4287963.jpg?tf=1200x' alt='Demasiados españoles cometen este error con sus contraseñas: "Es como dejar la puerta con las llaves puestas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/salta-pais-otro-sofa-vpn-ultrarrapida-cuesta-apenas-3-euros-1439667'>Salta de un país a otro desde tu sofá: esta VPN es ultrarrápida y cuesta apenas 3 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/salta-pais-otro-sofa-vpn-ultrarrapida-cuesta-apenas-3-euros-1439667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/nordvpn-3499104.jpg?tf=1200x' alt='Salta de un país a otro desde tu sofá: esta VPN es ultrarrápida y cuesta apenas 3 euros' />
     </a>
 </div>
 
