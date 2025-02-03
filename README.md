@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sincera-elon-musk-no-corta-espero-reflexione-1439906'>Bill Gates se sincera sobre Elon Musk y no se corta: "Espero que reflexione"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sincera-elon-musk-no-corta-espero-reflexione-1439906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gates-elon-musk-4289632.jpg?tf=1200x' alt='Bill Gates se sincera sobre Elon Musk y no se corta: "Espero que reflexione"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/5-respuestas-misma-pregunta-significa-i-iphone-ipad-ipod-apple-1440002'>5 respuestas para una misma pregunta: ¿Qué significa la "i" de los iPhone, iPad o iPod de Apple?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/5-respuestas-misma-pregunta-significa-i-iphone-ipad-ipod-apple-1440002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-respuestas-misma-pregunta-significa-i-iphone-ipad-ipod-apple-4289827.jpg?tf=1200x' alt='5 respuestas para una misma pregunta: ¿Qué significa la "i" de los iPhone, iPad o iPod de Apple?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-1439899'>DeepSeek no se salva de las estafas: cuidado con su sitio web fraudulento</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-1439899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-4289601.jpg?tf=1200x' alt='DeepSeek no se salva de las estafas: cuidado con su sitio web fraudulento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/digi-regalo-tarifa-2025-1433573'>DIGI tiene un regalo para todos sus clientes que podrán disfrutar durante todo un año</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/digi-regalo-tarifa-2025-1433573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI tiene un regalo para todos sus clientes que podrán disfrutar durante todo un año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-ia-encargue-llamadas-telefonicas-peor-pesadilla-millennials-1439925'>Google quiere que la IA se encargue de las llamadas telefónicas, la peor pesadilla de los millennials</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-ia-encargue-llamadas-telefonicas-peor-pesadilla-millennials-1439925' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/joven-entrega-movil-ia-4289672.jpg?tf=1200x' alt='Google quiere que la IA se encargue de las llamadas telefónicas, la peor pesadilla de los millennials' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-estrena-funcion-transformara-llamadas-siempre-1439884'>WhatsApp estrena una función que transformará tus llamadas para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-estrena-funcion-transformara-llamadas-siempre-1439884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-llamadas-4289606.jpg?tf=1200x' alt='WhatsApp estrena una función que transformará tus llamadas para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/test-movil-espia-1438208'>Este test te permite conocer al instante si tu móvil te espía (yo me he llevado una sorpresa)</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/test-movil-espia-1438208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-espia-conversaciones-4288111.jpg?tf=1200x' alt='Este test te permite conocer al instante si tu móvil te espía (yo me he llevado una sorpresa)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-advierte-paragon-nuevo-software-espia-israeli-hackea-telefono-tocarlo-1439957'>WhatsApp advierte de Paragon: un nuevo software espía israelí que hackea tu teléfono sin tocarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-advierte-paragon-nuevo-software-espia-israeli-hackea-telefono-tocarlo-1439957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graphite-whatsapp-4289735.jpg?tf=1200x' alt='WhatsApp advierte de Paragon: un nuevo software espía israelí que hackea tu teléfono sin tocarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-calle-te-des-ni-cuenta-1439862'>La peligrosa estafa que se ha vuelto viral: te roban la tarjeta en la calle sin que te des ni cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-calle-te-des-ni-cuenta-1439862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-te-des-ni-cuenta-4289563.jpg?tf=1200x' alt='La peligrosa estafa que se ha vuelto viral: te roban la tarjeta en la calle sin que te des ni cuenta' />
     </a>
 </div>
 
