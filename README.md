@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-1439580'>Activan la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-1439580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-4289053.jpg?tf=1200x' alt='Activan la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/test-movil-espia-1438208'>Este test te permite conocer al instante si tu móvil te espía (yo me he llevado una sorpresa)</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/test-movil-espia-1438208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-espia-conversaciones-4288111.jpg?tf=1200x' alt='Este test te permite conocer al instante si tu móvil te espía (yo me he llevado una sorpresa)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-espana-correo-llama-062-1439029'>"Si te llega este correo llama al 062": Alerta máxima de la Guardia Civil en toda España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-espana-correo-llama-062-1439029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-4288083.jpg?tf=1200x' alt='"Si te llega este correo llama al 062": Alerta máxima de la Guardia Civil en toda España' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-advierte-paragon-nuevo-software-espia-israeli-hackea-telefono-tocarlo-1439957'>WhatsApp advierte de Paragon: un nuevo software espía israelí que hackea tu teléfono sin tocarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-advierte-paragon-nuevo-software-espia-israeli-hackea-telefono-tocarlo-1439957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graphite-whatsapp-4289735.jpg?tf=1200x' alt='WhatsApp advierte de Paragon: un nuevo software espía israelí que hackea tu teléfono sin tocarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-utilizar-o3-mini-ia-razona-openai-gratis-pc-windows-1439935'>Cómo utilizar o3-mini, la IA de que razona de OpenAI gratis, en tu PC con Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-utilizar-o3-mini-ia-razona-openai-gratis-pc-windows-1439935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-utilizar-o3-mini-4289666.jpg?tf=1200x' alt='Cómo utilizar o3-mini, la IA de que razona de OpenAI gratis, en tu PC con Windows' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-calle-te-des-ni-cuenta-1439862'>La peligrosa estafa que se ha vuelto viral: te roban la tarjeta en la calle sin que te des ni cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-calle-te-des-ni-cuenta-1439862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-te-des-ni-cuenta-4289563.jpg?tf=1200x' alt='La peligrosa estafa que se ha vuelto viral: te roban la tarjeta en la calle sin que te des ni cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-desvelan-cuatro-formas-puedes-ser-cazado-multado-ver-futbol-gratis-1439919'>IPTV: desvelan las cuatro formas por las que puedes ser cazado y multado por ver el fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/iptv-desvelan-cuatro-formas-puedes-ser-cazado-multado-ver-futbol-gratis-1439919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-policia-4289645.jpg?tf=1200x' alt='IPTV: desvelan las cuatro formas por las que puedes ser cazado y multado por ver el fútbol gratis' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-revivir-ipod-jugada-maestra-impulsar-otro-servicios-1439883'>Giro de 180 grados: Apple podría revivir el iPod en una jugada maestra para impulsar otro de sus servicios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-revivir-ipod-jugada-maestra-impulsar-otro-servicios-1439883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-apple-podria-revivir-ipod-jugada-maestra-impulsar-otro-servicios-4289600.jpg?tf=1200x' alt='Giro de 180 grados: Apple podría revivir el iPod en una jugada maestra para impulsar otro de sus servicios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-modo-3-1-canales-television-1439551'>Movistar Plus+ ofrece un "3 por 1" a todos sus clientes y así es cómo te afecta</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-modo-3-1-canales-television-1439551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-portada-web-4289726.jpg?tf=1200x' alt='Movistar Plus+ ofrece un "3 por 1" a todos sus clientes y así es cómo te afecta' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-advierten-grave-error-comenten-mayoria-usuarios-windows-veces-mejor-llegar-ultimo-1439946'>Expertos advierten del grave error que comenten la mayoría de usuarios de Windows: "A veces es mejor llegar el último"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/expertos-advierten-grave-error-comenten-mayoria-usuarios-windows-veces-mejor-llegar-ultimo-1439946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4289354.jpg?tf=1200x' alt='Expertos advierten del grave error que comenten la mayoría de usuarios de Windows: "A veces es mejor llegar el último"' />
     </a>
 </div>
 
