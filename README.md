@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/chatgpt-podria-ser-clave-vida-humana-sea-prolongada-10-anos-1437571'>ChatGPT podría ser la clave para que la vida humana sea prolongada 10 años más</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/chatgpt-podria-ser-clave-vida-humana-sea-prolongada-10-anos-1437571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-medicina-4285745.jpg?tf=1200x' alt='ChatGPT podría ser la clave para que la vida humana sea prolongada 10 años más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-4k-tres-nuevos-canales-tv3-1439824'>Adiós a la TDT HD: ya hay previstos tres nuevos canales TDT 4K, uno será para una cadena autonómica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-4k-tres-nuevos-canales-tv3-1439824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-tdt-hd-ya-hay-previstos-tres-nuevos-canales-tdt-4k-ha-confirmado-hoy-4289525.jpg?tf=1200x' alt='Adiós a la TDT HD: ya hay previstos tres nuevos canales TDT 4K, uno será para una cadena autonómica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sony-no-abandona-discos-blu-ray-discos-grabables-verbatim-rescate-1439811'>Sony no abandona los discos Blu-ray, y los discos grabables no han muerto: Verbatim acude al rescate</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sony-no-abandona-discos-blu-ray-discos-grabables-verbatim-rescate-1439811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sony-no-abandona-discos-blu-ray-discos-grabables-no-han-muerto-verbatim-acude-rescate-4289495.jpg?tf=1200x' alt='Sony no abandona los discos Blu-ray, y los discos grabables no han muerto: Verbatim acude al rescate' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973'>Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-4286384.jpg?tf=1200x' alt='Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor' />
     </a>
 </div>
 
