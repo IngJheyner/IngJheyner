@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-ia-encargue-llamadas-telefonicas-peor-pesadilla-millennials-1439925'>Google quiere que la IA se encargue de las llamadas telefónicas, la peor pesadilla de los millennials</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-ia-encargue-llamadas-telefonicas-peor-pesadilla-millennials-1439925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/joven-entrega-movil-ia-4289672.jpg?tf=1200x' alt='Google quiere que la IA se encargue de las llamadas telefónicas, la peor pesadilla de los millennials' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-estrena-funcion-transformara-llamadas-siempre-1439884'>WhatsApp estrena una función que transformará tus llamadas para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-estrena-funcion-transformara-llamadas-siempre-1439884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-llamadas-4289606.jpg?tf=1200x' alt='WhatsApp estrena una función que transformará tus llamadas para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/test-movil-espia-1438208'>Este test te permite conocer al instante si tu móvil te espía (yo me he llevado una sorpresa)</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/test-movil-espia-1438208' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movil-espia-conversaciones-4288111.jpg?tf=1200x' alt='Este test te permite conocer al instante si tu móvil te espía (yo me he llevado una sorpresa)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-calle-te-des-ni-cuenta-1439862'>La peligrosa estafa que se ha vuelto viral: te roban la tarjeta en la calle sin que te des ni cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-calle-te-des-ni-cuenta-1439862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/peligrosa-estafa-ha-vuelto-viral-te-roban-tarjeta-te-des-ni-cuenta-4289563.jpg?tf=1200x' alt='La peligrosa estafa que se ha vuelto viral: te roban la tarjeta en la calle sin que te des ni cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-revivir-ipod-jugada-maestra-impulsar-otro-servicios-1439883'>Giro de 180 grados: Apple podría revivir el iPod en una jugada maestra para impulsar otro de sus servicios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-revivir-ipod-jugada-maestra-impulsar-otro-servicios-1439883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-apple-podria-revivir-ipod-jugada-maestra-impulsar-otro-servicios-4289600.jpg?tf=1200x' alt='Giro de 180 grados: Apple podría revivir el iPod en una jugada maestra para impulsar otro de sus servicios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-advierten-grave-error-comenten-mayoria-usuarios-windows-veces-mejor-llegar-ultimo-1439946'>Expertos advierten del grave error que comenten la mayoría de usuarios de Windows: "A veces es mejor llegar el último"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/expertos-advierten-grave-error-comenten-mayoria-usuarios-windows-veces-mejor-llegar-ultimo-1439946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4289354.jpg?tf=1200x' alt='Expertos advierten del grave error que comenten la mayoría de usuarios de Windows: "A veces es mejor llegar el último"' />
     </a>
 </div>
 
