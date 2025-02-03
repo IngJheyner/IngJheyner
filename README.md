@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-listas-canales-iptv-jellyfin-1435559'>Cómo ver listas de canales IPTV con Jellyfin</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-listas-canales-iptv-jellyfin-1435559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-jellyfin-4282309.jpg?tf=1200x' alt='Cómo ver listas de canales IPTV con Jellyfin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/hallazgo-inesperado-comarca-espanola-encuentran-grandes-reservas-litio-rubidio-podrian-cambiarlo-todo-1440034'>Hallazgo inesperado en esta comarca española: encuentran grandes reservas de litio y rubidio que podrían cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/hallazgo-inesperado-comarca-espanola-encuentran-grandes-reservas-litio-rubidio-podrian-cambiarlo-todo-1440034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-comarca-espanola-encuentran-grandes-reservas-litio-rubidio-podrian-cambiarlo-todo-4289861.jpg?tf=1200x' alt='Hallazgo inesperado en esta comarca española: encuentran grandes reservas de litio y rubidio que podrían cambiarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-1439921'>Un algoritmo chino puede aumentar 800 veces el rendimiento de los microchips</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-1439921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-4289628.jpg?tf=1200x' alt='Un algoritmo chino puede aumentar 800 veces el rendimiento de los microchips' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/genial-opcion-movistar-plus-casi-nadie-conoce-prueba-luego-decide-1439979'>La genial opción de Movistar Plus+ que casi nadie conoce: prueba y luego decide</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/genial-opcion-movistar-plus-casi-nadie-conoce-prueba-luego-decide-1439979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/persona-muy-contenta-logo-movistar-plus-4289826.jpg?tf=1200x' alt='La genial opción de Movistar Plus+ que casi nadie conoce: prueba y luego decide' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-1439963'>Vuelco total de Movistar Plus+ que reacciona a lo bestia ante la fuga de clientes a las IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-1439963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-4289704.jpg?tf=1200x' alt='Vuelco total de Movistar Plus+ que reacciona a lo bestia ante la fuga de clientes a las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lista-stop-publicidad-alternativa-lista-robinson-tambien-bloquea-redes-sociales-1439965'>Lista STOP Publicidad: la alternativa a la Lista Robinson que también bloquea redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/lista-stop-publicidad-alternativa-lista-robinson-tambien-bloquea-redes-sociales-1439965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/lista-stop-publicidad-alternativa-lista-robinson-tambien-bloquea-redes-sociales-4289729.jpg?tf=1200x' alt='Lista STOP Publicidad: la alternativa a la Lista Robinson que también bloquea redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sincera-elon-musk-no-corta-espero-reflexione-1439906'>Bill Gates se sincera sobre Elon Musk y no se corta: "Espero que reflexione"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sincera-elon-musk-no-corta-espero-reflexione-1439906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gates-elon-musk-4289632.jpg?tf=1200x' alt='Bill Gates se sincera sobre Elon Musk y no se corta: "Espero que reflexione"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/5-respuestas-misma-pregunta-significa-i-iphone-ipad-ipod-apple-1440002'>5 respuestas para una misma pregunta: ¿Qué significa la "i" de los iPhone, iPad o iPod de Apple?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/5-respuestas-misma-pregunta-significa-i-iphone-ipad-ipod-apple-1440002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-respuestas-misma-pregunta-significa-i-iphone-ipad-ipod-apple-4289827.jpg?tf=1200x' alt='5 respuestas para una misma pregunta: ¿Qué significa la "i" de los iPhone, iPad o iPod de Apple?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-1439899'>DeepSeek no se salva de las estafas: cuidado con su sitio web fraudulento</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-1439899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-4289601.jpg?tf=1200x' alt='DeepSeek no se salva de las estafas: cuidado con su sitio web fraudulento' />
     </a>
 </div>
 
