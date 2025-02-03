@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-modo-3-1-canales-television-1439551'>Movistar Plus+ ofrece un "3 por 1" a todos sus clientes y así es cómo te afecta</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-modo-3-1-canales-television-1439551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-portada-web-4289726.jpg?tf=1200x' alt='Movistar Plus+ ofrece un "3 por 1" a todos sus clientes y así es cómo te afecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-tienen-claro-sustituira-deepseek-chatgpt-como-chatbot-referencia-1439913'>Los expertos en IA lo tienen claro: ¿Sustituirá DeepSeek a ChatGPT como chatbot de referencia?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-tienen-claro-sustituira-deepseek-chatgpt-como-chatbot-referencia-1439913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-chatgpt-4289615.jpg?tf=1200x' alt='Los expertos en IA lo tienen claro: ¿Sustituirá DeepSeek a ChatGPT como chatbot de referencia?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-desata-bestia-chatgpt-nuevo-superpoder-muchos-estaban-esperando-1439875'>OpenAI desata la bestia de ChatGPT: este es el nuevo superpoder que muchos estaban esperando</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-desata-bestia-chatgpt-nuevo-superpoder-muchos-estaban-esperando-1439875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/openai-chatgpt-4289579.jpg?tf=1200x' alt='OpenAI desata la bestia de ChatGPT: este es el nuevo superpoder que muchos estaban esperando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-plan-maestro-gobierno-llegada-tdt-4k-1439868'>Apagón de la TDT en 2025: así es el plan maestro del Gobierno para la llegada de la TDT 4K</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-plan-maestro-gobierno-llegada-tdt-4k-1439868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tdt-canales-llorar-4266607.jpg?tf=1200x' alt='Apagón de la TDT en 2025: así es el plan maestro del Gobierno para la llegada de la TDT 4K' />
     </a>
 </div>
 
