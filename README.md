@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-tienen-claro-sustituira-deepseek-chatgpt-como-chatbot-referencia-1439913'>Los expertos en IA lo tienen claro: ¿Sustituirá DeepSeek a ChatGPT como chatbot de referencia?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-tienen-claro-sustituira-deepseek-chatgpt-como-chatbot-referencia-1439913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-chatgpt-4289615.jpg?tf=1200x' alt='Los expertos en IA lo tienen claro: ¿Sustituirá DeepSeek a ChatGPT como chatbot de referencia?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/desarrollador-openai-lanza-sos-ritmo-avanza-inteligencia-artificial-aterrador-1439907'>Desarrollador de OpenAI lanza un SOS: el ritmo al que avanza la inteligencia artificial es "aterrador"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/desarrollador-openai-lanza-sos-ritmo-avanza-inteligencia-artificial-aterrador-1439907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desarrollador-openai-4289612.jpg?tf=1200x' alt='Desarrollador de OpenAI lanza un SOS: el ritmo al que avanza la inteligencia artificial es "aterrador"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/35-millones-razones-temer-ue-ley-ia-estas-son-multas-haran-temblar-openai-deepseek-1439896'>35 millones de razones para temer a la UE y su Ley de IA: estas son las multas que harán temblar a OpenAI o DeepSeek</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/35-millones-razones-temer-ue-ley-ia-estas-son-multas-haran-temblar-openai-deepseek-1439896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-3851476.jpg?tf=1200x' alt='35 millones de razones para temer a la UE y su Ley de IA: estas son las multas que harán temblar a OpenAI o DeepSeek' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-plan-maestro-gobierno-llegada-tdt-4k-1439868'>Apagón de la TDT en 2025: así es el plan maestro del Gobierno para la llegada de la TDT 4K</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-plan-maestro-gobierno-llegada-tdt-4k-1439868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tdt-canales-llorar-4266607.jpg?tf=1200x' alt='Apagón de la TDT en 2025: así es el plan maestro del Gobierno para la llegada de la TDT 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-vende-fregona-electrica-has-leido-bien-aspira-solidos-liquidos-1439253'>Dyson vende una fregona eléctrica, y sí, has leído bien: aspira sólidos y líquidos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-vende-fregona-electrica-has-leido-bien-aspira-solidos-liquidos-1439253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dyson-wash-g1-3311302.jpg?tf=1200x' alt='Dyson vende una fregona eléctrica, y sí, has leído bien: aspira sólidos y líquidos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817'>He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/realme-c75-4287790.jpg?tf=1200x' alt='He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día' />
     </a>
 </div>
 
