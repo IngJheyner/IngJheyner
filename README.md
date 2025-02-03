@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817'>He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/realme-c75-4287790.jpg?tf=1200x' alt='He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-plus-1439056'>He probado el Samsung Galaxy S25+ y prácticamente no tiene nada que envidiar al modelo Ultra</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-plus-1439056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-4288653.jpg?tf=1200x' alt='He probado el Samsung Galaxy S25+ y prácticamente no tiene nada que envidiar al modelo Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-contactos-vip-whatsapp-permisos-especiales-exclusivos-1439190'>Cómo crear contactos VIP en WhatsApp con permisos especiales y exclusivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-contactos-vip-whatsapp-permisos-especiales-exclusivos-1439190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/trucos-whatsapp-4288373.jpg?tf=1200x' alt='Cómo crear contactos VIP en WhatsApp con permisos especiales y exclusivos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/cosas-interesantes-puedes-hacer-grok-ia-x-1437103'>9 cosas interesantes que puedes hacer con Grok (la IA de X)</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cosas-interesantes-puedes-hacer-grok-ia-x-1437103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-x-4285089.jpg?tf=1200x' alt='9 cosas interesantes que puedes hacer con Grok (la IA de X)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mensajes-whatsapp-paginas-falsas-senales-inequivocas-estafa-vaciarte-cuenta-1438216'>Mensajes de WhatsApp y páginas falsas: señales inequívocas de estafa para vaciarte la cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/mensajes-whatsapp-paginas-falsas-senales-inequivocas-estafa-vaciarte-cuenta-1438216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mensajes-whatsapp-paginas-falsas-senales-inequivocas-estafa-vaciarte-cuenta-4286767.jpg?tf=1200x' alt='Mensajes de WhatsApp y páginas falsas: señales inequívocas de estafa para vaciarte la cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/chatgpt-podria-ser-clave-vida-humana-sea-prolongada-10-anos-1437571'>ChatGPT podría ser la clave para que la vida humana sea prolongada 10 años más</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/chatgpt-podria-ser-clave-vida-humana-sea-prolongada-10-anos-1437571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-medicina-4285745.jpg?tf=1200x' alt='ChatGPT podría ser la clave para que la vida humana sea prolongada 10 años más' />
     </a>
 </div>
 
