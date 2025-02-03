@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-vende-fregona-electrica-has-leido-bien-aspira-solidos-liquidos-1439253'>Dyson vende una fregona eléctrica, y sí, has leído bien: aspira sólidos y líquidos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dyson-vende-fregona-electrica-has-leido-bien-aspira-solidos-liquidos-1439253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dyson-wash-g1-3311302.jpg?tf=1200x' alt='Dyson vende una fregona eléctrica, y sí, has leído bien: aspira sólidos y líquidos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817'>He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/realme-c75-4287790.jpg?tf=1200x' alt='He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/10-reglas-oro-policia-nacional-acabar-llamadas-spam-1437424'>Las 10 reglas de oro de la Policía Nacional para acabar con las llamadas SPAM</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/10-reglas-oro-policia-nacional-acabar-llamadas-spam-1437424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-llamadas-spam-4288123.jpg?tf=1200x' alt='Las 10 reglas de oro de la Policía Nacional para acabar con las llamadas SPAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cosas-interesantes-puedes-hacer-grok-ia-x-1437103'>9 cosas interesantes que puedes hacer con Grok (la IA de X)</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cosas-interesantes-puedes-hacer-grok-ia-x-1437103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-x-4285089.jpg?tf=1200x' alt='9 cosas interesantes que puedes hacer con Grok (la IA de X)' />
     </a>
 </div>
 
