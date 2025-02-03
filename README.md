@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-4k-tres-nuevos-canales-tv3-1439824'>Adiós a la TDT HD: ya hay previstos tres nuevos canales TDT 4K, uno será para una cadena autonómica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-4k-tres-nuevos-canales-tv3-1439824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-tdt-hd-ya-hay-previstos-tres-nuevos-canales-tdt-4k-ha-confirmado-hoy-4289525.jpg?tf=1200x' alt='Adiós a la TDT HD: ya hay previstos tres nuevos canales TDT 4K, uno será para una cadena autonómica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-tendra-indemnizar-usuarios-apple-watch-1439817'>Apple tendrá que indemnizar a los usuarios del Apple Watch</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-tendra-indemnizar-usuarios-apple-watch-1439817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-tendra-indemnizar-usuarios-apple-watch-4289521.jpg?tf=1200x' alt='Apple tendrá que indemnizar a los usuarios del Apple Watch' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973'>Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-1437973' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/configuracion-oculta-windows-hara-videos-reproduzcan-mucho-mejor-4286384.jpg?tf=1200x' alt='Esta configuración oculta de Windows hará que los vídeos se reproduzcan mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-prohibe-ia-riesgo-inaceptable-grok-deepseek-peligro-1439808'>Qué significa que la UE haya prohibido hoy las IA con un "riesgo inaceptable": ¿Están Grok y DeepSeek en peligro?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ue-prohibe-ia-riesgo-inaceptable-grok-deepseek-peligro-1439808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-ue-haya-prohibido-hoy-ia-riesgo-inaceptable-estan-grok-deepseek-peligro-4289422.jpg?tf=1200x' alt='Qué significa que la UE haya prohibido hoy las IA con un "riesgo inaceptable": ¿Están Grok y DeepSeek en peligro?' />
     </a>
 </div>
 
