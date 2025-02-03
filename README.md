@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-inspirar-hotel-basado-saga-convertirse-unas-tristes-oficinas-1439953'>Star Wars: de inspirar un hotel basado en la saga, a convertirse en unas tristes oficinas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-inspirar-hotel-basado-saga-convertirse-unas-tristes-oficinas-1439953' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/star-wars-inspirar-hotel-basado-saga-convertirse-unas-tristes-oficinas-4289667.jpg?tf=1200x' alt='Star Wars: de inspirar un hotel basado en la saga, a convertirse en unas tristes oficinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-expectativas-iphone-17-innovacion-1440011'>Tim Cook sube las expectativas con el iPhone 17: “Está lleno de innovación”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-expectativas-iphone-17-innovacion-1440011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tim-cook-iphone-17-4289797.jpg?tf=1200x' alt='Tim Cook sube las expectativas con el iPhone 17: “Está lleno de innovación”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-listas-canales-iptv-jellyfin-1435559'>Cómo ver listas de canales IPTV con Jellyfin</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-listas-canales-iptv-jellyfin-1435559' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-jellyfin-4282309.jpg?tf=1200x' alt='Cómo ver listas de canales IPTV con Jellyfin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-1439921'>Un algoritmo chino puede aumentar 800 veces el rendimiento de los microchips</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-1439921' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-4289628.jpg?tf=1200x' alt='Un algoritmo chino puede aumentar 800 veces el rendimiento de los microchips' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/genial-opcion-movistar-plus-casi-nadie-conoce-prueba-luego-decide-1439979'>La genial opción de Movistar Plus+ que casi nadie conoce: prueba y luego decide</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/genial-opcion-movistar-plus-casi-nadie-conoce-prueba-luego-decide-1439979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/persona-muy-contenta-logo-movistar-plus-4289826.jpg?tf=1200x' alt='La genial opción de Movistar Plus+ que casi nadie conoce: prueba y luego decide' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-1439963'>Vuelco total de Movistar Plus+ que reacciona a lo bestia ante la fuga de clientes a las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-1439963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-4289704.jpg?tf=1200x' alt='Vuelco total de Movistar Plus+ que reacciona a lo bestia ante la fuga de clientes a las IPTV' />
     </a>
 </div>
 
