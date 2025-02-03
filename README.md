@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/35-millones-razones-temer-ue-ley-ia-estas-son-multas-haran-temblar-openai-deepseek-1439896'>35 millones de razones para temer a la UE y su Ley de IA: estas son las multas que harán temblar a OpenAI o DeepSeek</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/35-millones-razones-temer-ue-ley-ia-estas-son-multas-haran-temblar-openai-deepseek-1439896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-3851476.jpg?tf=1200x' alt='35 millones de razones para temer a la UE y su Ley de IA: estas son las multas que harán temblar a OpenAI o DeepSeek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-desata-bestia-chatgpt-nuevo-superpoder-muchos-estaban-esperando-1439875'>OpenAI desata la bestia de ChatGPT: este es el nuevo superpoder que muchos estaban esperando</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-desata-bestia-chatgpt-nuevo-superpoder-muchos-estaban-esperando-1439875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/openai-chatgpt-4289579.jpg?tf=1200x' alt='OpenAI desata la bestia de ChatGPT: este es el nuevo superpoder que muchos estaban esperando' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817'>He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/he-ahogado-congelado-realme-c75-pero-sigue-funcionando-como-primer-dia-1438817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/realme-c75-4287790.jpg?tf=1200x' alt='He ahogado y congelado el Realme C75, pero sigue funcionando como el primer día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-plus-1439056'>He probado el Samsung Galaxy S25+ y prácticamente no tiene nada que envidiar al modelo Ultra</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/samsung-galaxy-s25-plus-1439056' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-4288653.jpg?tf=1200x' alt='He probado el Samsung Galaxy S25+ y prácticamente no tiene nada que envidiar al modelo Ultra' />
     </a>
 </div>
 
