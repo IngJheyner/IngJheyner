@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-inspirar-hotel-basado-saga-convertirse-unas-tristes-oficinas-1439953'>Star Wars: de inspirar un hotel basado en la saga, a convertirse en unas tristes oficinas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/star-wars-inspirar-hotel-basado-saga-convertirse-unas-tristes-oficinas-1439953' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/star-wars-inspirar-hotel-basado-saga-convertirse-unas-tristes-oficinas-4289667.jpg?tf=1200x' alt='Star Wars: de inspirar un hotel basado en la saga, a convertirse en unas tristes oficinas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-reportan-rtx-5090-5090d-inservibles-instalar-nuevos-drivers-nvidia-1440087'>Usuarios reportan RTX 5090 y 5090D inservibles tras instalar nuevos drivers de NVIDIA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-reportan-rtx-5090-5090d-inservibles-instalar-nuevos-drivers-nvidia-1440087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-rtx-5090-5080-4279725.jpg?tf=1200x' alt='Usuarios reportan RTX 5090 y 5090D inservibles tras instalar nuevos drivers de NVIDIA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-expectativas-iphone-17-innovacion-1440011'>Tim Cook sube las expectativas con el iPhone 17: “Está lleno de innovación”</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-expectativas-iphone-17-innovacion-1440011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tim-cook-iphone-17-4289797.jpg?tf=1200x' alt='Tim Cook sube las expectativas con el iPhone 17: “Está lleno de innovación”' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/pc-windows-10-seguira-funcionando-2025-microsoft-aclara-dudas-soporte-extendido-1440086'>¿Tu PC con Windows 10 seguirá funcionando tras 2025? Microsoft aclara dudas sobre el soporte extendido</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/pc-windows-10-seguira-funcionando-2025-microsoft-aclara-dudas-soporte-extendido-1440086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='¿Tu PC con Windows 10 seguirá funcionando tras 2025? Microsoft aclara dudas sobre el soporte extendido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ver-listas-canales-iptv-jellyfin-1435559'>Cómo ver listas de canales IPTV con Jellyfin</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ver-listas-canales-iptv-jellyfin-1435559' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/iptv-jellyfin-4282309.jpg?tf=1200x' alt='Cómo ver listas de canales IPTV con Jellyfin' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-ocu-alerta-riesgos-privacidad-seguridad-1440081'>Giro de 180 grados con DeepSeek: la OCU alerta sobre sus riesgos para la privacidad y seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-ocu-alerta-riesgos-privacidad-seguridad-1440081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-deepseek-ocu-alerta-riesgos-privacidad-seguridad-4289873.jpg?tf=1200x' alt='Giro de 180 grados con DeepSeek: la OCU alerta sobre sus riesgos para la privacidad y seguridad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/hallazgo-inesperado-comarca-espanola-encuentran-grandes-reservas-litio-rubidio-podrian-cambiarlo-todo-1440034'>Hallazgo inesperado en esta comarca española: encuentran grandes reservas de litio y rubidio que podrían cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/hallazgo-inesperado-comarca-espanola-encuentran-grandes-reservas-litio-rubidio-podrian-cambiarlo-todo-1440034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-comarca-espanola-encuentran-grandes-reservas-litio-rubidio-podrian-cambiarlo-todo-4289861.jpg?tf=1200x' alt='Hallazgo inesperado en esta comarca española: encuentran grandes reservas de litio y rubidio que podrían cambiarlo todo' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-reglas-archivos-ver-vez-ya-no-estan-limitados-movil-principal-1440080'>WhatsApp cambia las reglas: los archivos de "ver una vez" ya no están limitados a tu móvil principal</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-reglas-archivos-ver-vez-ya-no-estan-limitados-movil-principal-1440080' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='WhatsApp cambia las reglas: los archivos de "ver una vez" ya no están limitados a tu móvil principal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-1439921'>Un algoritmo chino puede aumentar 800 veces el rendimiento de los microchips</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-1439921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/algoritmo-chino-puede-aumentar-800-veces-rendimiento-microchips-4289628.jpg?tf=1200x' alt='Un algoritmo chino puede aumentar 800 veces el rendimiento de los microchips' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-parecia-imposible-openai-ha-estado-lado-equivocado-historia-1440021'>Sam Altman admite lo que parecía imposible: "OpenAI ha estado en el lado equivocado de la historia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-parecia-imposible-openai-ha-estado-lado-equivocado-historia-1440021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-ceo-openai-3237178.jpg?tf=1200x' alt='Sam Altman admite lo que parecía imposible: "OpenAI ha estado en el lado equivocado de la historia"' />
     </a>
 </div>
 
