@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-plan-maestro-gobierno-llegada-tdt-4k-1439868'>Apagón de la TDT en 2025: así es el plan maestro del Gobierno para la llegada de la TDT 4K</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-plan-maestro-gobierno-llegada-tdt-4k-1439868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/tdt-canales-llorar-4266607.jpg?tf=1200x' alt='Apagón de la TDT en 2025: así es el plan maestro del Gobierno para la llegada de la TDT 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dyson-vende-fregona-electrica-has-leido-bien-aspira-solidos-liquidos-1439253'>Dyson vende una fregona eléctrica, y sí, has leído bien: aspira sólidos y líquidos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dyson-vende-fregona-electrica-has-leido-bien-aspira-solidos-liquidos-1439253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/dyson-wash-g1-3311302.jpg?tf=1200x' alt='Dyson vende una fregona eléctrica, y sí, has leído bien: aspira sólidos y líquidos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-contactos-vip-whatsapp-permisos-especiales-exclusivos-1439190'>Cómo crear contactos VIP en WhatsApp con permisos especiales y exclusivos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-contactos-vip-whatsapp-permisos-especiales-exclusivos-1439190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/trucos-whatsapp-4288373.jpg?tf=1200x' alt='Cómo crear contactos VIP en WhatsApp con permisos especiales y exclusivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/10-reglas-oro-policia-nacional-acabar-llamadas-spam-1437424'>Las 10 reglas de oro de la Policía Nacional para acabar con las llamadas SPAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/10-reglas-oro-policia-nacional-acabar-llamadas-spam-1437424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-llamadas-spam-4288123.jpg?tf=1200x' alt='Las 10 reglas de oro de la Policía Nacional para acabar con las llamadas SPAM' />
     </a>
 </div>
 
