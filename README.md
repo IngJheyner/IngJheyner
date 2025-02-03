@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-1439963'>Vuelco total de Movistar Plus+ que reacciona a lo bestia ante la fuga de clientes a las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-1439963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-4289704.jpg?tf=1200x' alt='Vuelco total de Movistar Plus+ que reacciona a lo bestia ante la fuga de clientes a las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/lista-stop-publicidad-alternativa-lista-robinson-tambien-bloquea-redes-sociales-1439965'>Lista STOP Publicidad: la alternativa a la Lista Robinson que también bloquea redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/lista-stop-publicidad-alternativa-lista-robinson-tambien-bloquea-redes-sociales-1439965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/lista-stop-publicidad-alternativa-lista-robinson-tambien-bloquea-redes-sociales-4289729.jpg?tf=1200x' alt='Lista STOP Publicidad: la alternativa a la Lista Robinson que también bloquea redes sociales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sincera-elon-musk-no-corta-espero-reflexione-1439906'>Bill Gates se sincera sobre Elon Musk y no se corta: "Espero que reflexione"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sincera-elon-musk-no-corta-espero-reflexione-1439906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gates-elon-musk-4289632.jpg?tf=1200x' alt='Bill Gates se sincera sobre Elon Musk y no se corta: "Espero que reflexione"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-1439899'>DeepSeek no se salva de las estafas: cuidado con su sitio web fraudulento</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-1439899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-no-salva-estafas-cuidado-sitio-web-fraudulento-4289601.jpg?tf=1200x' alt='DeepSeek no se salva de las estafas: cuidado con su sitio web fraudulento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/digi-regalo-tarifa-2025-1433573'>DIGI tiene un regalo para todos sus clientes que podrán disfrutar durante todo un año</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/digi-regalo-tarifa-2025-1433573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/digi-adelanta-mejor-regalo-reyes-todos-clientes-4279094.jpg?tf=1200x' alt='DIGI tiene un regalo para todos sus clientes que podrán disfrutar durante todo un año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-ia-encargue-llamadas-telefonicas-peor-pesadilla-millennials-1439925'>Google quiere que la IA se encargue de las llamadas telefónicas, la peor pesadilla de los millennials</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-ia-encargue-llamadas-telefonicas-peor-pesadilla-millennials-1439925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/joven-entrega-movil-ia-4289672.jpg?tf=1200x' alt='Google quiere que la IA se encargue de las llamadas telefónicas, la peor pesadilla de los millennials' />
     </a>
 </div>
 
