@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-1439580'>Activan la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-1439580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-4289053.jpg?tf=1200x' alt='Activan la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-espana-correo-llama-062-1439029'>"Si te llega este correo llama al 062": Alerta máxima de la Guardia Civil en toda España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-guardia-civil-espana-correo-llama-062-1439029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-4288083.jpg?tf=1200x' alt='"Si te llega este correo llama al 062": Alerta máxima de la Guardia Civil en toda España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-utilizar-o3-mini-ia-razona-openai-gratis-pc-windows-1439935'>Cómo utilizar o3-mini, la IA de que razona de OpenAI gratis, en tu PC con Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-utilizar-o3-mini-ia-razona-openai-gratis-pc-windows-1439935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-utilizar-o3-mini-4289666.jpg?tf=1200x' alt='Cómo utilizar o3-mini, la IA de que razona de OpenAI gratis, en tu PC con Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-desvelan-cuatro-formas-puedes-ser-cazado-multado-ver-futbol-gratis-1439919'>IPTV: desvelan las cuatro formas por las que puedes ser cazado y multado por ver el fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/iptv-desvelan-cuatro-formas-puedes-ser-cazado-multado-ver-futbol-gratis-1439919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-policia-4289645.jpg?tf=1200x' alt='IPTV: desvelan las cuatro formas por las que puedes ser cazado y multado por ver el fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-modo-3-1-canales-television-1439551'>Movistar Plus+ ofrece un "3 por 1" a todos sus clientes y así es cómo te afecta</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-modo-3-1-canales-television-1439551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-portada-web-4289726.jpg?tf=1200x' alt='Movistar Plus+ ofrece un "3 por 1" a todos sus clientes y así es cómo te afecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-tienen-claro-sustituira-deepseek-chatgpt-como-chatbot-referencia-1439913'>Los expertos en IA lo tienen claro: ¿Sustituirá DeepSeek a ChatGPT como chatbot de referencia?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-tienen-claro-sustituira-deepseek-chatgpt-como-chatbot-referencia-1439913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-chatgpt-4289615.jpg?tf=1200x' alt='Los expertos en IA lo tienen claro: ¿Sustituirá DeepSeek a ChatGPT como chatbot de referencia?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/desarrollador-openai-lanza-sos-ritmo-avanza-inteligencia-artificial-aterrador-1439907'>Desarrollador de OpenAI lanza un SOS: el ritmo al que avanza la inteligencia artificial es "aterrador"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/desarrollador-openai-lanza-sos-ritmo-avanza-inteligencia-artificial-aterrador-1439907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desarrollador-openai-4289612.jpg?tf=1200x' alt='Desarrollador de OpenAI lanza un SOS: el ritmo al que avanza la inteligencia artificial es "aterrador"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/35-millones-razones-temer-ue-ley-ia-estas-son-multas-haran-temblar-openai-deepseek-1439896'>35 millones de razones para temer a la UE y su Ley de IA: estas son las multas que harán temblar a OpenAI o DeepSeek</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/35-millones-razones-temer-ue-ley-ia-estas-son-multas-haran-temblar-openai-deepseek-1439896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/entra-vigor-ley-inteligencia-artificial-ue-implica-usuarios-empresas-3851476.jpg?tf=1200x' alt='35 millones de razones para temer a la UE y su Ley de IA: estas son las multas que harán temblar a OpenAI o DeepSeek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-desata-bestia-chatgpt-nuevo-superpoder-muchos-estaban-esperando-1439875'>OpenAI desata la bestia de ChatGPT: este es el nuevo superpoder que muchos estaban esperando</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-desata-bestia-chatgpt-nuevo-superpoder-muchos-estaban-esperando-1439875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/openai-chatgpt-4289579.jpg?tf=1200x' alt='OpenAI desata la bestia de ChatGPT: este es el nuevo superpoder que muchos estaban esperando' />
     </a>
 </div>
 
