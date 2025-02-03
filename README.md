@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-contactos-vip-whatsapp-permisos-especiales-exclusivos-1439190'>Cómo crear contactos VIP en WhatsApp con permisos especiales y exclusivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-contactos-vip-whatsapp-permisos-especiales-exclusivos-1439190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/trucos-whatsapp-4288373.jpg?tf=1200x' alt='Cómo crear contactos VIP en WhatsApp con permisos especiales y exclusivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/10-reglas-oro-policia-nacional-acabar-llamadas-spam-1437424'>Las 10 reglas de oro de la Policía Nacional para acabar con las llamadas SPAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/10-reglas-oro-policia-nacional-acabar-llamadas-spam-1437424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/policia-nacional-llamadas-spam-4288123.jpg?tf=1200x' alt='Las 10 reglas de oro de la Policía Nacional para acabar con las llamadas SPAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/cosas-interesantes-puedes-hacer-grok-ia-x-1437103'>9 cosas interesantes que puedes hacer con Grok (la IA de X)</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cosas-interesantes-puedes-hacer-grok-ia-x-1437103' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-x-4285089.jpg?tf=1200x' alt='9 cosas interesantes que puedes hacer con Grok (la IA de X)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/chatgpt-podria-ser-clave-vida-humana-sea-prolongada-10-anos-1437571'>ChatGPT podría ser la clave para que la vida humana sea prolongada 10 años más</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/chatgpt-podria-ser-clave-vida-humana-sea-prolongada-10-anos-1437571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/inteligencia-artificial-medicina-4285745.jpg?tf=1200x' alt='ChatGPT podría ser la clave para que la vida humana sea prolongada 10 años más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-4k-tres-nuevos-canales-tv3-1439824'>Adiós a la TDT HD: ya hay previstos tres nuevos canales TDT 4K, uno será para una cadena autonómica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-4k-tres-nuevos-canales-tv3-1439824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-tdt-hd-ya-hay-previstos-tres-nuevos-canales-tdt-4k-ha-confirmado-hoy-4289525.jpg?tf=1200x' alt='Adiós a la TDT HD: ya hay previstos tres nuevos canales TDT 4K, uno será para una cadena autonómica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tendra-indemnizar-usuarios-apple-watch-1439817'>Apple tendrá que indemnizar a los usuarios del Apple Watch</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-tendra-indemnizar-usuarios-apple-watch-1439817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-tendra-indemnizar-usuarios-apple-watch-4289521.jpg?tf=1200x' alt='Apple tendrá que indemnizar a los usuarios del Apple Watch' />
     </a>
 </div>
 
