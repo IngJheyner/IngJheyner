@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061'>La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-4289907.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-reportan-rtx-5090-5090d-inservibles-instalar-nuevos-drivers-nvidia-1440087'>Usuarios reportan RTX 5090 y 5090D inservibles tras instalar nuevos drivers de NVIDIA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-reportan-rtx-5090-5090d-inservibles-instalar-nuevos-drivers-nvidia-1440087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-rtx-5090-5080-4279725.jpg?tf=1200x' alt='Usuarios reportan RTX 5090 y 5090D inservibles tras instalar nuevos drivers de NVIDIA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-reglas-archivos-ver-vez-ya-no-estan-limitados-movil-principal-1440080'>WhatsApp cambia las reglas: los archivos de "ver una vez" ya no están limitados a tu móvil principal</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-reglas-archivos-ver-vez-ya-no-estan-limitados-movil-principal-1440080' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='WhatsApp cambia las reglas: los archivos de "ver una vez" ya no están limitados a tu móvil principal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-parecia-imposible-openai-ha-estado-lado-equivocado-historia-1440021'>Sam Altman admite lo que parecía imposible: "OpenAI ha estado en el lado equivocado de la historia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-parecia-imposible-openai-ha-estado-lado-equivocado-historia-1440021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/sam-altman-ceo-openai-3237178.jpg?tf=1200x' alt='Sam Altman admite lo que parecía imposible: "OpenAI ha estado en el lado equivocado de la historia"' />
     </a>
 </div>
 
