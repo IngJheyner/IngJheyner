@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/usar-deepseekmotor-busqueda-principal-windows-11-1439972'>Así puedes usar DeepSeek como motor de búsqueda principal en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/usar-deepseekmotor-busqueda-principal-windows-11-1439972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-deepseek-4289739.jpg?tf=1200x' alt='Así puedes usar DeepSeek como motor de búsqueda principal en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/he-probado-samsung-galaxy-s24-ultra-galaxy-s25-ultra-creo-te-merece-pena-1439809'>He probado los Samsung Galaxy S24 Ultra y Galaxy S25 Ultra y este es el que creo te merece la pena</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/he-probado-samsung-galaxy-s24-ultra-galaxy-s25-ultra-creo-te-merece-pena-1439809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-ultra-vs-galaxy-s24-ultra-4289564.jpg?tf=1200x' alt='He probado los Samsung Galaxy S24 Ultra y Galaxy S25 Ultra y este es el que creo te merece la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-mayor-prueba-ia-codigo-abierto-aun-posible-1439542'>DeepSeek es la mayor prueba de que una IA de código abierto aún es posible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-mayor-prueba-ia-codigo-abierto-aun-posible-1439542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-eeuu-4288441.jpg?tf=1200x' alt='DeepSeek es la mayor prueba de que una IA de código abierto aún es posible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/cerrar-aplicaciones-iphone-unico-momento-deberias-hacerlo-todos-expertos-1439970'>Cerrar aplicaciones en el iPhone: este es el único momento en el que deberías hacerlo, según todos los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/cerrar-aplicaciones-iphone-unico-momento-deberias-hacerlo-todos-expertos-1439970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-4289761.jpg?tf=1200x' alt='Cerrar aplicaciones en el iPhone: este es el único momento en el que deberías hacerlo, según todos los expertos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-6-cifras-bloquear-mensajes-whatsapp-conversaciones-privadas-1439982'>El truco de las 6 cifras para bloquear tus mensajes de WhatsApp y conversaciones privadas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/truco-6-cifras-bloquear-mensajes-whatsapp-conversaciones-privadas-1439982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verificacion-dos-pasos-whatsapp-4289807.jpg?tf=1200x' alt='El truco de las 6 cifras para bloquear tus mensajes de WhatsApp y conversaciones privadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-maps-tiene-funcion-oculta-android-auto-mejorar-indicaciones-puedes-activarla-1439942'>Google Maps tiene una función oculta en Android Auto para mejorar tus indicaciones: así puedes activarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-maps-tiene-funcion-oculta-android-auto-mejorar-indicaciones-puedes-activarla-1439942' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-4289702.jpg?tf=1200x' alt='Google Maps tiene una función oculta en Android Auto para mejorar tus indicaciones: así puedes activarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-1439980'>Bill Gates desvela por qué separó su camino del de Steve Jobs: "Parecía demasiado arriesgado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-1439980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-4289758.jpg?tf=1200x' alt='Bill Gates desvela por qué separó su camino del de Steve Jobs: "Parecía demasiado arriesgado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-1439947'>Cuidado si recibes una llamada de Google, podrían robar todo tu dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-1439947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-4289689.jpg?tf=1200x' alt='Cuidado si recibes una llamada de Google, podrían robar todo tu dinero' />
     </a>
 </div>
 
