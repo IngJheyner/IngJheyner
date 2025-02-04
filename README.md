@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178'>Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-4290035.jpg?tf=1200x' alt='Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nvidia-ha-conseguido-cualquier-microfono-pc-parezca-profesional-gracias-ia-1440231'>NVIDIA ha conseguido que cualquier micrófono para PC parezca profesional gracias a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nvidia-ha-conseguido-cualquier-microfono-pc-parezca-profesional-gracias-ia-1440231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nvidia-ha-conseguido-cualquier-microfono-pc-parezca-profesional-gracias-ia-4290113.jpg?tf=1200x' alt='NVIDIA ha conseguido que cualquier micrófono para PC parezca profesional gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canal-ahora-exclusivo-todos-clientes-puedes-verlo-pagar-nada-1440238'>Movistar Plus+ regala un canal hasta ahora exclusivo a todos sus clientes: así puedes verlo sin pagar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canal-ahora-exclusivo-todos-clientes-puedes-verlo-pagar-nada-1440238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canales-movistar-plus-4290150.jpg?tf=1200x' alt='Movistar Plus+ regala un canal hasta ahora exclusivo a todos sus clientes: así puedes verlo sin pagar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-galaxy-sam-altman-jony-ive-ya-trabajan-movil-futuro-atendera-peticiones-completas-1440183'>Ni iPhone ni Galaxy, Sam Altman y Jony Ive ya trabajan en el móvil del futuro: "Atenderá peticiones completas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-galaxy-sam-altman-jony-ive-ya-trabajan-movil-futuro-atendera-peticiones-completas-1440183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-iphone-ni-galaxy-sam-altman-jony-ive-ya-trabajan-movil-futuro-atendera-peticiones-completas-4290055.jpg?tf=1200x' alt='Ni iPhone ni Galaxy, Sam Altman y Jony Ive ya trabajan en el móvil del futuro: "Atenderá peticiones completas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-1440201'>Android Auto: la avalancha de quejas hace que Google Maps vuelva a ser como antes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-1440201' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-4290093.jpg?tf=1200x' alt='Android Auto: la avalancha de quejas hace que Google Maps vuelva a ser como antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-cargador-movil-luz-1401042'>¿Qué ocurre si conectas un pendrive USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-cargador-movil-luz-1401042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-usb-conectada-cargador-movil-4290111.jpg?tf=1200x' alt='¿Qué ocurre si conectas un pendrive USB al cargador del móvil y lo enchufas a la corriente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-agentes-ia-como-deep-research-openai-son-tan-revolucionarios-1440210'>Qué son los agentes de IA como Deep Research de OpenAI y por qué son tan revolucionarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/son-agentes-ia-como-deep-research-openai-son-tan-revolucionarios-1440210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/agentes-ia-4290083.jpg?tf=1200x' alt='Qué son los agentes de IA como Deep Research de OpenAI y por qué son tan revolucionarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/contrabandistas-inteligencia-artificial-nuevo-perfil-empleado-arrasa-oficinas-1440196'>Contrabandistas de la inteligencia artificial, el nuevo perfil de empleado que arrasa en las oficinas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/contrabandistas-inteligencia-artificial-nuevo-perfil-empleado-arrasa-oficinas-1440196' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contrabandistas-inteligencia-artificial-4290062.jpg?tf=1200x' alt='Contrabandistas de la inteligencia artificial, el nuevo perfil de empleado que arrasa en las oficinas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sony-discos-blu-ray-discos-grabables-verbatim-rescate-1439811'>Verbatim al rescate: Sony no abandona los discos Blu-ray y los discos grabables no han muerto </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sony-discos-blu-ray-discos-grabables-verbatim-rescate-1439811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sony-no-abandona-discos-blu-ray-discos-grabables-no-han-muerto-verbatim-acude-rescate-4289495.jpg?tf=1200x' alt='Verbatim al rescate: Sony no abandona los discos Blu-ray y los discos grabables no han muerto ' />
     </a>
 </div>
 
