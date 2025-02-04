@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-influencers-tiktok-tienen-truco-definitivo-hijos-ia-va-creando-cuentos-adaptados-ellos-1440144'>Estos influencers de TikTok tienen el truco definitivo para sus hijos: la IA "va creando cuentos adaptados a ellos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-influencers-tiktok-tienen-truco-definitivo-hijos-ia-va-creando-cuentos-adaptados-ellos-1440144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/influencers-tiktok-ia-4289992.jpg?tf=1200x' alt='Estos influencers de TikTok tienen el truco definitivo para sus hijos: la IA "va creando cuentos adaptados a ellos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133'>El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho</a></h4>
     <a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-4289960.jpg?tf=1200x' alt='El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/he-probado-samsung-galaxy-s24-ultra-galaxy-s25-ultra-creo-te-merece-pena-1439809'>He probado los Samsung Galaxy S24 Ultra y Galaxy S25 Ultra y este es el que creo te merece la pena</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/he-probado-samsung-galaxy-s24-ultra-galaxy-s25-ultra-creo-te-merece-pena-1439809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-ultra-vs-galaxy-s24-ultra-4289564.jpg?tf=1200x' alt='He probado los Samsung Galaxy S24 Ultra y Galaxy S25 Ultra y este es el que creo te merece la pena' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-mayor-prueba-ia-codigo-abierto-aun-posible-1439542'>DeepSeek es la mayor prueba de que una IA de código abierto aún es posible</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-mayor-prueba-ia-codigo-abierto-aun-posible-1439542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-eeuu-4288441.jpg?tf=1200x' alt='DeepSeek es la mayor prueba de que una IA de código abierto aún es posible' />
     </a>
 </div>
 
