@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-1440141'>Giro de 180 grados: Apple lanzará una aplicación totalmente nueva para los iPhone la semana que viene</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-1440141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-4290029.jpg?tf=1200x' alt='Giro de 180 grados: Apple lanzará una aplicación totalmente nueva para los iPhone la semana que viene' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/dos-apagones-tdt-2025-tendras-cambiar-televisor-1440191'>Los dos apagones de la TDT en 2025: ¿Tendrás que cambiar de televisor?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/dos-apagones-tdt-2025-tendras-cambiar-televisor-1440191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apagon-tdt-2025-4290052.jpg?tf=1200x' alt='Los dos apagones de la TDT en 2025: ¿Tendrás que cambiar de televisor?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-clientes-movistar-plus-adios-series-peliculas-1436990'>Vuelco para todos los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-clientes-movistar-plus-adios-series-peliculas-1436990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290068.jpg?tf=1200x' alt='Vuelco para todos los clientes de Movistar Plus+: adiós a cientos de series y películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/magis-tv-iptv-celebran-ultimas-noticias-lucha-antipirateria-hacen-fuertes-caos-1440179'>Magis TV y las IPTV celebran las últimas noticias en la lucha antipiratería y se hacen fuertes en el caos</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/magis-tv-iptv-celebran-ultimas-noticias-lucha-antipirateria-hacen-fuertes-caos-1440179' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='Magis TV y las IPTV celebran las últimas noticias en la lucha antipiratería y se hacen fuertes en el caos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169'>Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-espana-4290034.jpg?tf=1200x' alt='Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-declara-guerra-cancer-tratamientos-medida-predicciones-exactas-1440158'>La inteligencia artificial le declara la guerra al cáncer: tratamientos a medida y predicciones exactas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-declara-guerra-cancer-tratamientos-medida-predicciones-exactas-1440158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-3092148.jpg?tf=1200x' alt='La inteligencia artificial le declara la guerra al cáncer: tratamientos a medida y predicciones exactas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-influencers-tiktok-tienen-truco-definitivo-hijos-ia-va-creando-cuentos-adaptados-ellos-1440144'>Estos influencers de TikTok tienen el truco definitivo para sus hijos: la IA "va creando cuentos adaptados a ellos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-influencers-tiktok-tienen-truco-definitivo-hijos-ia-va-creando-cuentos-adaptados-ellos-1440144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/influencers-tiktok-ia-4289992.jpg?tf=1200x' alt='Estos influencers de TikTok tienen el truco definitivo para sus hijos: la IA "va creando cuentos adaptados a ellos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133'>El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-4289960.jpg?tf=1200x' alt='El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho' />
     </a>
 </div>
 
