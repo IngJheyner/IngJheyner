@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161'>SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Weeb no puede"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilustracion-sonda-espacial-spherex-4290066.jpg?tf=1200x' alt='SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Weeb no puede"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-calendario-programar-eventos-chats-privados-1440258'>WhatsApp quiere ser tu calendario y te permitirá programar eventos en chats privados</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-calendario-programar-eventos-chats-privados-1440258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/calendario-whatsapp-4290144.jpg?tf=1200x' alt='WhatsApp quiere ser tu calendario y te permitirá programar eventos en chats privados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178'>Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales</a></h4>
     <a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-4290035.jpg?tf=1200x' alt='Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canal-ahora-exclusivo-todos-clientes-puedes-verlo-pagar-nada-1440238'>Movistar Plus+ regala un canal hasta ahora exclusivo a todos sus clientes: así puedes verlo sin pagar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canal-ahora-exclusivo-todos-clientes-puedes-verlo-pagar-nada-1440238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canales-movistar-plus-4290150.jpg?tf=1200x' alt='Movistar Plus+ regala un canal hasta ahora exclusivo a todos sus clientes: así puedes verlo sin pagar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-galaxy-sam-altman-jony-ive-ya-trabajan-movil-futuro-atendera-peticiones-completas-1440183'>Ni iPhone ni Galaxy, Sam Altman y Jony Ive ya trabajan en el móvil del futuro: "Atenderá peticiones completas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-iphone-ni-galaxy-sam-altman-jony-ive-ya-trabajan-movil-futuro-atendera-peticiones-completas-1440183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-iphone-ni-galaxy-sam-altman-jony-ive-ya-trabajan-movil-futuro-atendera-peticiones-completas-4290055.jpg?tf=1200x' alt='Ni iPhone ni Galaxy, Sam Altman y Jony Ive ya trabajan en el móvil del futuro: "Atenderá peticiones completas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-1440201'>Android Auto: la avalancha de quejas hace que Google Maps vuelva a ser como antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-1440201' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-4290093.jpg?tf=1200x' alt='Android Auto: la avalancha de quejas hace que Google Maps vuelva a ser como antes' />
     </a>
 </div>
 
