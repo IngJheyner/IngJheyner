@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/no-todos-windows-10-quedaran-obsoletos-hay-dos-versiones-seguiran-funcionando-7-anos-1439943'>No todos los Windows 10 se quedarán obsoletos, hay dos versiones que seguirán funcionando 7 años más</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/no-todos-windows-10-quedaran-obsoletos-hay-dos-versiones-seguiran-funcionando-7-anos-1439943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-sistema-operativo-4289708.jpg?tf=1200x' alt='No todos los Windows 10 se quedarán obsoletos, hay dos versiones que seguirán funcionando 7 años más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelve-clippy-microsoft-pone-prueba-regreso-iconico-odiado-asistente-office-1440335'>¿Vuelve Clippy? Microsoft pone a prueba el regreso del icónico (y odiado) asistente de Office</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vuelve-clippy-microsoft-pone-prueba-regreso-iconico-odiado-asistente-office-1440335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clippy-microsoft-2407379.jpg?tf=1200x' alt='¿Vuelve Clippy? Microsoft pone a prueba el regreso del icónico (y odiado) asistente de Office' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/locura-total-consiguen-ejecutar-distro-linux-documento-pdf-1440263'>¡Locura total! Consiguen ejecutar una distro de Linux en un documento PDF</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/locura-total-consiguen-ejecutar-distro-linux-documento-pdf-1440263' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/linux-4290226.jpg?tf=1200x' alt='¡Locura total! Consiguen ejecutar una distro de Linux en un documento PDF' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-1440251'>Sam Altman, tras los pasos de Elon Musk: OpenAI quiere robots humanoides que funcionen con IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-1440251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-4290152.jpg?tf=1200x' alt='Sam Altman, tras los pasos de Elon Musk: OpenAI quiere robots humanoides que funcionen con IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-solucion-oficial-oculta-instalarlo-ordenadores-no-compatibles-1440223'>Giro de 180 grados en Windows 11, descubre una solución “oficial” oculta para instalarlo en ordenadores no compatibles</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-solucion-oficial-oculta-instalarlo-ordenadores-no-compatibles-1440223' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/revisando-windows-11-4289938.jpg?tf=1200x' alt='Giro de 180 grados en Windows 11, descubre una solución “oficial” oculta para instalarlo en ordenadores no compatibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-como-saber-tienes-decodificador-bueno-funciones-adicionales-1440297'>DIGI TV: cómo saber si tienes el decodificador "bueno" con funciones adicionales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/digi-tv-como-saber-tienes-decodificador-bueno-funciones-adicionales-1440297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-como-saber-tienes-decodificador-bueno-funciones-adicionales-4290308.jpg?tf=1200x' alt='DIGI TV: cómo saber si tienes el decodificador "bueno" con funciones adicionales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-elimina-puerta-atras-importante-funcion-fire-tv-aunque-hay-solucion-1440281'>Amazon elimina por la puerta de atrás una importante función del Fire TV, aunque hay una solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-elimina-puerta-atras-importante-funcion-fire-tv-aunque-hay-solucion-1440281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-reciben-busqueda-ia-mejor-novedad-anos-3411952.jpg?tf=1200x' alt='Amazon elimina por la puerta de atrás una importante función del Fire TV, aunque hay una solución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/kobo-deja-ko-amazon-vende-169-euros-lector-ebooks-color-acceso-bibliotecas-1440172'>Kobo deja KO a Amazon y vende por 169 euros un lector de ebooks a color con acceso a bibliotecas</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/kobo-deja-ko-amazon-vende-169-euros-lector-ebooks-color-acceso-bibliotecas-1440172' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kobo-clara-colour-4271392.jpg?tf=1200x' alt='Kobo deja KO a Amazon y vende por 169 euros un lector de ebooks a color con acceso a bibliotecas' />
     </a>
 </div>
 
