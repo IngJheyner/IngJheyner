@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169'>Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-espana-4290034.jpg?tf=1200x' alt='Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-declara-guerra-cancer-tratamientos-medida-predicciones-exactas-1440158'>La inteligencia artificial le declara la guerra al cáncer: tratamientos a medida y predicciones exactas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-declara-guerra-cancer-tratamientos-medida-predicciones-exactas-1440158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/celulas-t-asesinas-podrian-ser-clave-curar-pacientes-cancer-3092148.jpg?tf=1200x' alt='La inteligencia artificial le declara la guerra al cáncer: tratamientos a medida y predicciones exactas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-influencers-tiktok-tienen-truco-definitivo-hijos-ia-va-creando-cuentos-adaptados-ellos-1440144'>Estos influencers de TikTok tienen el truco definitivo para sus hijos: la IA "va creando cuentos adaptados a ellos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estos-influencers-tiktok-tienen-truco-definitivo-hijos-ia-va-creando-cuentos-adaptados-ellos-1440144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/influencers-tiktok-ia-4289992.jpg?tf=1200x' alt='Estos influencers de TikTok tienen el truco definitivo para sus hijos: la IA "va creando cuentos adaptados a ellos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-tiene-arma-secreta-como-ninguna-otra-2-euros-puedes-conectar-toda-familia-1439274'>Esta VPN tiene un arma secreta como ninguna otra: por 2 euros puedes conectar a toda tu familia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/vpn-tiene-arma-secreta-como-ninguna-otra-2-euros-puedes-conectar-toda-familia-1439274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN tiene un arma secreta como ninguna otra: por 2 euros puedes conectar a toda tu familia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/usar-deepseekmotor-busqueda-principal-windows-11-1439972'>Así puedes usar DeepSeek como motor de búsqueda principal en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/usar-deepseekmotor-busqueda-principal-windows-11-1439972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-deepseek-4289739.jpg?tf=1200x' alt='Así puedes usar DeepSeek como motor de búsqueda principal en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/he-probado-samsung-galaxy-s24-ultra-galaxy-s25-ultra-creo-te-merece-pena-1439809'>He probado los Samsung Galaxy S24 Ultra y Galaxy S25 Ultra y este es el que creo te merece la pena</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/he-probado-samsung-galaxy-s24-ultra-galaxy-s25-ultra-creo-te-merece-pena-1439809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-ultra-vs-galaxy-s24-ultra-4289564.jpg?tf=1200x' alt='He probado los Samsung Galaxy S24 Ultra y Galaxy S25 Ultra y este es el que creo te merece la pena' />
     </a>
 </div>
 
