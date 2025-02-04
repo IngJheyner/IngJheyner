@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161'>SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Weeb no puede"</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-vpn-gratis-microsoft-sera-eliminada-365-mismo-mes-1440217'>Adiós a la VPN gratis de Microsoft que será eliminada de 365 este mismo mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-vpn-gratis-microsoft-sera-eliminada-365-mismo-mes-1440217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vpn-microsoft-4290138.jpg?tf=1200x' alt='Adiós a la VPN gratis de Microsoft que será eliminada de 365 este mismo mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-javier-tebas-carga-google-x-cloudflare-son-facilitadores-pirateria-1440275'>LaLiga de Javier Tebas carga contra Google, X y Cloudflare: "Son facilitadores de la piratería"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/laliga-javier-tebas-carga-google-x-cloudflare-son-facilitadores-pirateria-1440275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-javier-tebas-carga-google-x-cloudflare-son-facilitadores-pirateria-4290234.jpg?tf=1200x' alt='LaLiga de Javier Tebas carga contra Google, X y Cloudflare: "Son facilitadores de la piratería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161'>SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Webb no puede"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilustracion-sonda-espacial-spherex-4290066.jpg?tf=1200x' alt='SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Weeb no puede"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilustracion-sonda-espacial-spherex-4290066.jpg?tf=1200x' alt='SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Webb no puede"' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178'>Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales</a></h4>
     <a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-4290035.jpg?tf=1200x' alt='Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nvidia-ha-conseguido-cualquier-microfono-pc-parezca-profesional-gracias-ia-1440231'>NVIDIA ha conseguido que cualquier micrófono para PC parezca profesional gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nvidia-ha-conseguido-cualquier-microfono-pc-parezca-profesional-gracias-ia-1440231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nvidia-ha-conseguido-cualquier-microfono-pc-parezca-profesional-gracias-ia-4290113.jpg?tf=1200x' alt='NVIDIA ha conseguido que cualquier micrófono para PC parezca profesional gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canal-ahora-exclusivo-todos-clientes-puedes-verlo-pagar-nada-1440238'>Movistar Plus+ regala un canal hasta ahora exclusivo a todos sus clientes: así puedes verlo sin pagar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canal-ahora-exclusivo-todos-clientes-puedes-verlo-pagar-nada-1440238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canales-movistar-plus-4290150.jpg?tf=1200x' alt='Movistar Plus+ regala un canal hasta ahora exclusivo a todos sus clientes: así puedes verlo sin pagar nada' />
     </a>
 </div>
 
