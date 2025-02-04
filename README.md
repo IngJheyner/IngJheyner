@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openeurollm-ia-codigo-abierto-union-europea-competir-deepseek-chatgpt-1440364'>Europa despierta y presenta OpenEuroLLM, la IA de código abierto para competir con DeepSeek y ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openeurollm-ia-codigo-abierto-union-europea-competir-deepseek-chatgpt-1440364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/europa-despierta-presenta-openeurollm-ia-codigo-abierto-competir-deepseek-chatgpt-4290324.jpg?tf=1200x' alt='Europa despierta y presenta OpenEuroLLM, la IA de código abierto para competir con DeepSeek y ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-mejor-windows-historia-transferencia-datos-1440313'>Hallazgo inesperado en Windows 11: el mejor Windows de la historia en transferencia de datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-mejor-windows-historia-transferencia-datos-1440313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/carpetas-windows-11-4290307.jpg?tf=1200x' alt='Hallazgo inesperado en Windows 11: el mejor Windows de la historia en transferencia de datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/razon-windows-10-sigue-siendo-usado-muchos-jugadores-1440226'>Esta es la razón por la que Windows 10 sigue siendo usado por muchos jugadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/razon-windows-10-sigue-siendo-usado-muchos-jugadores-1440226' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/call-duty-windows-10-4290106.jpg?tf=1200x' alt='Esta es la razón por la que Windows 10 sigue siendo usado por muchos jugadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254'>Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-4290153.jpg?tf=1200x' alt='Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-1440327'>Técnicos expertos resuelven la gran duda: qué ahorra más, ¿apagar la caldera por la noche o dejarla encendida?</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-1440327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-4290341.jpg?tf=1200x' alt='Técnicos expertos resuelven la gran duda: qué ahorra más, ¿apagar la caldera por la noche o dejarla encendida?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/palo-descomunal-coche-electrico-pais-europeo-permitira-coches-combustion-menos-2048-1440288'>Palo descomunal al coche eléctrico, este país europeo permitirá los coches de combustión hasta al menos 2048</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/palo-descomunal-coche-electrico-pais-europeo-permitira-coches-combustion-menos-2048-1440288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coches-combustion-4290247.jpg?tf=1200x' alt='Palo descomunal al coche eléctrico, este país europeo permitirá los coches de combustión hasta al menos 2048' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/chatgpt-whatsapp-ahora-acepta-imagenes-notas-voz-responder-memes-quejas-1440345'>ChatGPT en WhatsApp ahora acepta imágenes y notas de voz para responder a tus memes y quejas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/chatgpt-whatsapp-ahora-acepta-imagenes-notas-voz-responder-memes-quejas-1440345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-whatsapp-4290334.jpg?tf=1200x' alt='ChatGPT en WhatsApp ahora acepta imágenes y notas de voz para responder a tus memes y quejas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-piensa-gestos-tipo-minority-report-controlar-dispositivos-galaxy-ring-1440342'>Samsung piensa en gestos tipo Minority Report para controlar dispositivos con el Galaxy Ring</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-piensa-gestos-tipo-minority-report-controlar-dispositivos-galaxy-ring-1440342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/minority-report-2832275.jpg?tf=1200x' alt='Samsung piensa en gestos tipo Minority Report para controlar dispositivos con el Galaxy Ring' />
     </a>
 </div>
 
