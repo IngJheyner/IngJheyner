@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/cerrar-aplicaciones-iphone-unico-momento-deberias-hacerlo-todos-expertos-1439970'>Cerrar aplicaciones en el iPhone: este es el único momento en el que deberías hacerlo, según todos los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/cerrar-aplicaciones-iphone-unico-momento-deberias-hacerlo-todos-expertos-1439970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-4289761.jpg?tf=1200x' alt='Cerrar aplicaciones en el iPhone: este es el único momento en el que deberías hacerlo, según todos los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-6-cifras-bloquear-mensajes-whatsapp-conversaciones-privadas-1439982'>El truco de las 6 cifras para bloquear tus mensajes de WhatsApp y conversaciones privadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/truco-6-cifras-bloquear-mensajes-whatsapp-conversaciones-privadas-1439982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verificacion-dos-pasos-whatsapp-4289807.jpg?tf=1200x' alt='El truco de las 6 cifras para bloquear tus mensajes de WhatsApp y conversaciones privadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-maps-tiene-funcion-oculta-android-auto-mejorar-indicaciones-puedes-activarla-1439942'>Google Maps tiene una función oculta en Android Auto para mejorar tus indicaciones: así puedes activarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-maps-tiene-funcion-oculta-android-auto-mejorar-indicaciones-puedes-activarla-1439942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-4289702.jpg?tf=1200x' alt='Google Maps tiene una función oculta en Android Auto para mejorar tus indicaciones: así puedes activarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-1439980'>Bill Gates desvela por qué separó su camino del de Steve Jobs: "Parecía demasiado arriesgado"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-1439980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-4289758.jpg?tf=1200x' alt='Bill Gates desvela por qué separó su camino del de Steve Jobs: "Parecía demasiado arriesgado"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-1439947'>Cuidado si recibes una llamada de Google, podrían robar todo tu dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-1439947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-4289689.jpg?tf=1200x' alt='Cuidado si recibes una llamada de Google, podrían robar todo tu dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/super-mario-supermercado-vencio-nintendo-1440117'>Super Mario, el supermercado que venció a Nintendo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/super-mario-supermercado-vencio-nintendo-1440117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/super-mario-supermercado-vencio-nintendo-4289944.jpg?tf=1200x' alt='Super Mario, el supermercado que venció a Nintendo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tenia-razon-deepseek-costo-250-veces-1440111'>Sam Altman tenía razón: aseguran que DeepSeek nos ha engañado, entrenarla costó 250 veces más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tenia-razon-deepseek-costo-250-veces-1440111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-tenia-razon-aseguran-deepseek-nos-ha-enganado-entrenarla-costo-400-veces-4289920.jpg?tf=1200x' alt='Sam Altman tenía razón: aseguran que DeepSeek nos ha engañado, entrenarla costó 250 veces más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061'>La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-4289907.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos' />
     </a>
 </div>
 
