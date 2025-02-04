@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/contrabandistas-inteligencia-artificial-nuevo-perfil-empleado-arrasa-oficinas-1440196'>Contrabandistas de la inteligencia artificial, el nuevo perfil de empleado que arrasa en las oficinas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/contrabandistas-inteligencia-artificial-nuevo-perfil-empleado-arrasa-oficinas-1440196' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contrabandistas-inteligencia-artificial-4290062.jpg?tf=1200x' alt='Contrabandistas de la inteligencia artificial, el nuevo perfil de empleado que arrasa en las oficinas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sony-discos-blu-ray-discos-grabables-verbatim-rescate-1439811'>Verbatim al rescate: Sony no abandona los discos Blu-ray y los discos grabables no han muerto </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sony-discos-blu-ray-discos-grabables-verbatim-rescate-1439811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sony-no-abandona-discos-blu-ray-discos-grabables-no-han-muerto-verbatim-acude-rescate-4289495.jpg?tf=1200x' alt='Verbatim al rescate: Sony no abandona los discos Blu-ray y los discos grabables no han muerto ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-1440141'>Giro de 180 grados: Apple lanzará una aplicación totalmente nueva para los iPhone la semana que viene</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-1440141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-4290029.jpg?tf=1200x' alt='Giro de 180 grados: Apple lanzará una aplicación totalmente nueva para los iPhone la semana que viene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-clientes-movistar-plus-adios-series-peliculas-1436990'>Vuelco para todos los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-clientes-movistar-plus-adios-series-peliculas-1436990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290068.jpg?tf=1200x' alt='Vuelco para todos los clientes de Movistar Plus+: adiós a cientos de series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/magis-tv-iptv-celebran-ultimas-noticias-lucha-antipirateria-hacen-fuertes-caos-1440179'>Magis TV y las IPTV celebran las últimas noticias en la lucha antipiratería y se hacen fuertes en el caos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/magis-tv-iptv-celebran-ultimas-noticias-lucha-antipirateria-hacen-fuertes-caos-1440179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='Magis TV y las IPTV celebran las últimas noticias en la lucha antipiratería y se hacen fuertes en el caos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169'>Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-espana-4290034.jpg?tf=1200x' alt='Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"' />
     </a>
 </div>
 
