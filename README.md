@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/magis-tv-iptv-celebran-ultimas-noticias-lucha-antipirateria-hacen-fuertes-caos-1440179'>Magis TV y las IPTV celebran las últimas noticias en la lucha antipiratería y se hacen fuertes en el caos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/magis-tv-iptv-celebran-ultimas-noticias-lucha-antipirateria-hacen-fuertes-caos-1440179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/magis-tv-app-3310008.jpg?tf=1200x' alt='Magis TV y las IPTV celebran las últimas noticias en la lucha antipiratería y se hacen fuertes en el caos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169'>Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-dependiendo-donde-viven-siesta-casi-deporte-nacional-ruido-va-adn-1440169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-espana-4290034.jpg?tf=1200x' alt='Esto es lo que opina DeepSeek de los españoles dependiendo de donde viven: "La siesta es casi un deporte nacional y el ruido va en su ADN"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133'>El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho</a></h4>
     <a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-4289960.jpg?tf=1200x' alt='El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-tiene-arma-secreta-como-ninguna-otra-2-euros-puedes-conectar-toda-familia-1439274'>Esta VPN tiene un arma secreta como ninguna otra: por 2 euros puedes conectar a toda tu familia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-tiene-arma-secreta-como-ninguna-otra-2-euros-puedes-conectar-toda-familia-1439274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN tiene un arma secreta como ninguna otra: por 2 euros puedes conectar a toda tu familia' />
     </a>
 </div>
 
