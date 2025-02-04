@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/no-todos-windows-10-quedaran-obsoletos-hay-dos-versiones-seguiran-funcionando-7-anos-1439943'>No todos los Windows 10 se quedarán obsoletos, hay dos versiones que seguirán funcionando 7 años más</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/no-todos-windows-10-quedaran-obsoletos-hay-dos-versiones-seguiran-funcionando-7-anos-1439943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-sistema-operativo-4289708.jpg?tf=1200x' alt='No todos los Windows 10 se quedarán obsoletos, hay dos versiones que seguirán funcionando 7 años más' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254'>Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-4290153.jpg?tf=1200x' alt='Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelve-clippy-microsoft-pone-prueba-regreso-iconico-odiado-asistente-office-1440335'>¿Vuelve Clippy? Microsoft pone a prueba el regreso del icónico (y odiado) asistente de Office</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vuelve-clippy-microsoft-pone-prueba-regreso-iconico-odiado-asistente-office-1440335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/clippy-microsoft-2407379.jpg?tf=1200x' alt='¿Vuelve Clippy? Microsoft pone a prueba el regreso del icónico (y odiado) asistente de Office' />
+    <h4><a href='https://computerhoy.20minutos.es/hogar/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-1440327'>Técnicos expertos resuelven la gran duda: qué ahorra más, ¿apagar la caldera por la noche o dejarla encendida?</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-1440327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-4290341.jpg?tf=1200x' alt='Técnicos expertos resuelven la gran duda: qué ahorra más, ¿apagar la caldera por la noche o dejarla encendida?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/locura-total-consiguen-ejecutar-distro-linux-documento-pdf-1440263'>¡Locura total! Consiguen ejecutar una distro de Linux en un documento PDF</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/locura-total-consiguen-ejecutar-distro-linux-documento-pdf-1440263' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/linux-4290226.jpg?tf=1200x' alt='¡Locura total! Consiguen ejecutar una distro de Linux en un documento PDF' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/palo-descomunal-coche-electrico-pais-europeo-permitira-coches-combustion-menos-2048-1440288'>Palo descomunal al coche eléctrico, este país europeo permitirá los coches de combustión hasta al menos 2048</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/palo-descomunal-coche-electrico-pais-europeo-permitira-coches-combustion-menos-2048-1440288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coches-combustion-4290247.jpg?tf=1200x' alt='Palo descomunal al coche eléctrico, este país europeo permitirá los coches de combustión hasta al menos 2048' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-1440251'>Sam Altman, tras los pasos de Elon Musk: OpenAI quiere robots humanoides que funcionen con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-1440251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-4290152.jpg?tf=1200x' alt='Sam Altman, tras los pasos de Elon Musk: OpenAI quiere robots humanoides que funcionen con IA' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/chatgpt-whatsapp-ahora-acepta-imagenes-notas-voz-responder-memes-quejas-1440345'>ChatGPT en WhatsApp ahora acepta imágenes y notas de voz para responder a tus memes y quejas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/chatgpt-whatsapp-ahora-acepta-imagenes-notas-voz-responder-memes-quejas-1440345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-whatsapp-4290334.jpg?tf=1200x' alt='ChatGPT en WhatsApp ahora acepta imágenes y notas de voz para responder a tus memes y quejas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-solucion-oficial-oculta-instalarlo-ordenadores-no-compatibles-1440223'>Giro de 180 grados en Windows 11, descubre una solución “oficial” oculta para instalarlo en ordenadores no compatibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-solucion-oficial-oculta-instalarlo-ordenadores-no-compatibles-1440223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/revisando-windows-11-4289938.jpg?tf=1200x' alt='Giro de 180 grados en Windows 11, descubre una solución “oficial” oculta para instalarlo en ordenadores no compatibles' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-piensa-gestos-tipo-minority-report-controlar-dispositivos-galaxy-ring-1440342'>Samsung piensa en gestos tipo Minority Report para controlar dispositivos con el Galaxy Ring</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-piensa-gestos-tipo-minority-report-controlar-dispositivos-galaxy-ring-1440342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/10/minority-report-2832275.jpg?tf=1200x' alt='Samsung piensa en gestos tipo Minority Report para controlar dispositivos con el Galaxy Ring' />
     </a>
 </div>
 
