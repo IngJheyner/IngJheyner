@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-1440201'>Android Auto: la avalancha de quejas hace que Google Maps vuelva a ser como antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-1440201' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-avalancha-quejas-hace-google-maps-vuelva-ser-como-antes-4290093.jpg?tf=1200x' alt='Android Auto: la avalancha de quejas hace que Google Maps vuelva a ser como antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-cargador-movil-luz-1401042'>¿Qué ocurre si conectas un pendrive USB al cargador del móvil y lo enchufas a la corriente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/peligro-memoria-pendrive-usb-cargador-movil-luz-1401042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-usb-conectada-cargador-movil-4290111.jpg?tf=1200x' alt='¿Qué ocurre si conectas un pendrive USB al cargador del móvil y lo enchufas a la corriente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/son-agentes-ia-como-deep-research-openai-son-tan-revolucionarios-1440210'>Qué son los agentes de IA como Deep Research de OpenAI y por qué son tan revolucionarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/son-agentes-ia-como-deep-research-openai-son-tan-revolucionarios-1440210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/agentes-ia-4290083.jpg?tf=1200x' alt='Qué son los agentes de IA como Deep Research de OpenAI y por qué son tan revolucionarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/contrabandistas-inteligencia-artificial-nuevo-perfil-empleado-arrasa-oficinas-1440196'>Contrabandistas de la inteligencia artificial, el nuevo perfil de empleado que arrasa en las oficinas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/contrabandistas-inteligencia-artificial-nuevo-perfil-empleado-arrasa-oficinas-1440196' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contrabandistas-inteligencia-artificial-4290062.jpg?tf=1200x' alt='Contrabandistas de la inteligencia artificial, el nuevo perfil de empleado que arrasa en las oficinas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sony-discos-blu-ray-discos-grabables-verbatim-rescate-1439811'>Verbatim al rescate: Sony no abandona los discos Blu-ray y los discos grabables no han muerto </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sony-discos-blu-ray-discos-grabables-verbatim-rescate-1439811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sony-no-abandona-discos-blu-ray-discos-grabables-no-han-muerto-verbatim-acude-rescate-4289495.jpg?tf=1200x' alt='Verbatim al rescate: Sony no abandona los discos Blu-ray y los discos grabables no han muerto ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-1440141'>Giro de 180 grados: Apple lanzará una aplicación totalmente nueva para los iPhone la semana que viene</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-1440141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-apple-lanzara-aplicacion-totalmente-nueva-iphone-semana-viene-4290029.jpg?tf=1200x' alt='Giro de 180 grados: Apple lanzará una aplicación totalmente nueva para los iPhone la semana que viene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/dos-apagones-tdt-2025-tendras-cambiar-televisor-1440191'>Los dos apagones de la TDT en 2025: ¿Tendrás que cambiar de televisor?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/dos-apagones-tdt-2025-tendras-cambiar-televisor-1440191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apagon-tdt-2025-4290052.jpg?tf=1200x' alt='Los dos apagones de la TDT en 2025: ¿Tendrás que cambiar de televisor?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-clientes-movistar-plus-adios-series-peliculas-1436990'>Vuelco para todos los clientes de Movistar Plus+: adiós a cientos de series y películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelco-clientes-movistar-plus-adios-series-peliculas-1436990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290068.jpg?tf=1200x' alt='Vuelco para todos los clientes de Movistar Plus+: adiós a cientos de series y películas' />
     </a>
 </div>
 
