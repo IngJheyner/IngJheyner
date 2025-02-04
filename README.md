@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-vpn-gratis-microsoft-sera-eliminada-365-mismo-mes-1440217'>Adiós a la VPN gratis de Microsoft que será eliminada de 365 este mismo mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-vpn-gratis-microsoft-sera-eliminada-365-mismo-mes-1440217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vpn-microsoft-4290138.jpg?tf=1200x' alt='Adiós a la VPN gratis de Microsoft que será eliminada de 365 este mismo mes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-1440251'>Sam Altman, tras los pasos de Elon Musk: OpenAI quiere robots humanoides que funcionen con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-1440251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-pasos-elon-musk-openai-quiere-robots-humanoides-funcionen-ia-4290152.jpg?tf=1200x' alt='Sam Altman, tras los pasos de Elon Musk: OpenAI quiere robots humanoides que funcionen con IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-javier-tebas-carga-google-x-cloudflare-son-facilitadores-pirateria-1440275'>LaLiga de Javier Tebas carga contra Google, X y Cloudflare: "Son facilitadores de la piratería"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/laliga-javier-tebas-carga-google-x-cloudflare-son-facilitadores-pirateria-1440275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-javier-tebas-carga-google-x-cloudflare-son-facilitadores-pirateria-4290234.jpg?tf=1200x' alt='LaLiga de Javier Tebas carga contra Google, X y Cloudflare: "Son facilitadores de la piratería"' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-solucion-oficial-oculta-instalarlo-ordenadores-no-compatibles-1440223'>Giro de 180 grados en Windows 11, descubre una solución “oficial” oculta para instalarlo en ordenadores no compatibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-solucion-oficial-oculta-instalarlo-ordenadores-no-compatibles-1440223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/revisando-windows-11-4289938.jpg?tf=1200x' alt='Giro de 180 grados en Windows 11, descubre una solución “oficial” oculta para instalarlo en ordenadores no compatibles' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161'>SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Webb no puede"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/spherex-nuevo-telescopio-nasa-puede-hacer-james-weeb-no-puede-1440161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilustracion-sonda-espacial-spherex-4290066.jpg?tf=1200x' alt='SPHEREx, el nuevo telescopio de la NASA: "Puede hacer lo que el James Webb no puede"' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-como-saber-tienes-decodificador-bueno-funciones-adicionales-1440297'>DIGI TV: cómo saber si tienes el decodificador "bueno" con funciones adicionales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/digi-tv-como-saber-tienes-decodificador-bueno-funciones-adicionales-1440297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-como-saber-tienes-decodificador-bueno-funciones-adicionales-4290308.jpg?tf=1200x' alt='DIGI TV: cómo saber si tienes el decodificador "bueno" con funciones adicionales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-calendario-programar-eventos-chats-privados-1440258'>WhatsApp quiere ser tu calendario y te permitirá programar eventos en chats privados</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-calendario-programar-eventos-chats-privados-1440258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/calendario-whatsapp-4290144.jpg?tf=1200x' alt='WhatsApp quiere ser tu calendario y te permitirá programar eventos en chats privados' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-elimina-puerta-atras-importante-funcion-fire-tv-aunque-hay-solucion-1440281'>Amazon elimina por la puerta de atrás una importante función del Fire TV, aunque hay una solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-elimina-puerta-atras-importante-funcion-fire-tv-aunque-hay-solucion-1440281' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-reciben-busqueda-ia-mejor-novedad-anos-3411952.jpg?tf=1200x' alt='Amazon elimina por la puerta de atrás una importante función del Fire TV, aunque hay una solución' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178'>Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-1440178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-guardia-civil-toda-espana-estafa-siembra-hace-estragos-centros-comerciales-4290035.jpg?tf=1200x' alt='Alerta de la Guardia Civil en toda España por la estafa de la siembra que hace estragos en los centros comerciales' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/kobo-deja-ko-amazon-vende-169-euros-lector-ebooks-color-acceso-bibliotecas-1440172'>Kobo deja KO a Amazon y vende por 169 euros un lector de ebooks a color con acceso a bibliotecas</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/kobo-deja-ko-amazon-vende-169-euros-lector-ebooks-color-acceso-bibliotecas-1440172' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/kobo-clara-colour-4271392.jpg?tf=1200x' alt='Kobo deja KO a Amazon y vende por 169 euros un lector de ebooks a color con acceso a bibliotecas' />
     </a>
 </div>
 
