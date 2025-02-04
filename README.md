@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-1439980'>Bill Gates desvela por qué separó su camino del de Steve Jobs: "Parecía demasiado arriesgado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-1439980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-desvela-separo-camino-steve-jobs-parecia-demasiado-arriesgado-4289758.jpg?tf=1200x' alt='Bill Gates desvela por qué separó su camino del de Steve Jobs: "Parecía demasiado arriesgado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-1439947'>Cuidado si recibes una llamada de Google, podrían robar todo tu dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-1439947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-recibes-llamada-google-podrian-robar-todo-dinero-4289689.jpg?tf=1200x' alt='Cuidado si recibes una llamada de Google, podrían robar todo tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/super-mario-supermercado-vencio-nintendo-1440117'>Super Mario, el supermercado que venció a Nintendo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/super-mario-supermercado-vencio-nintendo-1440117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/super-mario-supermercado-vencio-nintendo-4289944.jpg?tf=1200x' alt='Super Mario, el supermercado que venció a Nintendo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tenia-razon-deepseek-costo-250-veces-1440111'>Sam Altman tenía razón: aseguran que DeepSeek nos ha engañado, entrenarla costó 250 veces más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tenia-razon-deepseek-costo-250-veces-1440111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-tenia-razon-aseguran-deepseek-nos-ha-enganado-entrenarla-costo-400-veces-4289920.jpg?tf=1200x' alt='Sam Altman tenía razón: aseguran que DeepSeek nos ha engañado, entrenarla costó 250 veces más' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061'>La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-4289907.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/usuarios-reportan-rtx-5090-5090d-inservibles-instalar-nuevos-drivers-nvidia-1440087'>Usuarios reportan RTX 5090 y 5090D inservibles tras instalar nuevos drivers de NVIDIA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/usuarios-reportan-rtx-5090-5090d-inservibles-instalar-nuevos-drivers-nvidia-1440087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nvidia-rtx-5090-5080-4279725.jpg?tf=1200x' alt='Usuarios reportan RTX 5090 y 5090D inservibles tras instalar nuevos drivers de NVIDIA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/pc-windows-10-seguira-funcionando-2025-microsoft-aclara-dudas-soporte-extendido-1440086'>¿Tu PC con Windows 10 seguirá funcionando tras 2025? Microsoft aclara dudas sobre el soporte extendido</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/pc-windows-10-seguira-funcionando-2025-microsoft-aclara-dudas-soporte-extendido-1440086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/10-razones-peso-actualizar-windows-11-abandonar-windows-10-3619001.jpg?tf=1200x' alt='¿Tu PC con Windows 10 seguirá funcionando tras 2025? Microsoft aclara dudas sobre el soporte extendido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-ocu-alerta-riesgos-privacidad-seguridad-1440081'>Giro de 180 grados con DeepSeek: la OCU alerta sobre sus riesgos para la privacidad y seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-ocu-alerta-riesgos-privacidad-seguridad-1440081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-deepseek-ocu-alerta-riesgos-privacidad-seguridad-4289873.jpg?tf=1200x' alt='Giro de 180 grados con DeepSeek: la OCU alerta sobre sus riesgos para la privacidad y seguridad' />
     </a>
 </div>
 
