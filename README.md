@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tenia-razon-deepseek-costo-250-veces-1440111'>Sam Altman tenía razón: aseguran que DeepSeek nos ha engañado, entrenarla costó 250 veces más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tenia-razon-deepseek-costo-250-veces-1440111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-tenia-razon-aseguran-deepseek-nos-ha-enganado-entrenarla-costo-400-veces-4289920.jpg?tf=1200x' alt='Sam Altman tenía razón: aseguran que DeepSeek nos ha engañado, entrenarla costó 250 veces más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061'>La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-1440061' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcion-whatsapp-debes-desactivar-evitar-puedan-acceder-movil-otros-dispositivos-4289907.jpg?tf=1200x' alt='La función de WhatsApp que debes desactivar para evitar que puedan acceder a tu móvil desde otros dispositivos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-ocu-alerta-riesgos-privacidad-seguridad-1440081'>Giro de 180 grados con DeepSeek: la OCU alerta sobre sus riesgos para la privacidad y seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-ocu-alerta-riesgos-privacidad-seguridad-1440081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-deepseek-ocu-alerta-riesgos-privacidad-seguridad-4289873.jpg?tf=1200x' alt='Giro de 180 grados con DeepSeek: la OCU alerta sobre sus riesgos para la privacidad y seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-reglas-archivos-ver-vez-ya-no-estan-limitados-movil-principal-1440080'>WhatsApp cambia las reglas: los archivos de "ver una vez" ya no están limitados a tu móvil principal</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-reglas-archivos-ver-vez-ya-no-estan-limitados-movil-principal-1440080' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/funcion-enviar-mensajes-audio-whatsapp-manos-sorprendentemente-casi-nadie-conoce-3204522.jpg?tf=1200x' alt='WhatsApp cambia las reglas: los archivos de "ver una vez" ya no están limitados a tu móvil principal' />
     </a>
 </div>
 
