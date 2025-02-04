@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133'>El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-1440133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hallazgo-inesperado-desactivar-ia-buscador-google-cabreate-mucho-4289960.jpg?tf=1200x' alt='El hallazgo inesperado para desactivar la IA en el buscador de Google: cabréate mucho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-tiene-arma-secreta-como-ninguna-otra-2-euros-puedes-conectar-toda-familia-1439274'>Esta VPN tiene un arma secreta como ninguna otra: por 2 euros puedes conectar a toda tu familia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-tiene-arma-secreta-como-ninguna-otra-2-euros-puedes-conectar-toda-familia-1439274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/surfshark-vpn-3275121.jpg?tf=1200x' alt='Esta VPN tiene un arma secreta como ninguna otra: por 2 euros puedes conectar a toda tu familia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/usar-deepseekmotor-busqueda-principal-windows-11-1439972'>Así puedes usar DeepSeek como motor de búsqueda principal en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/usar-deepseekmotor-busqueda-principal-windows-11-1439972' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-deepseek-4289739.jpg?tf=1200x' alt='Así puedes usar DeepSeek como motor de búsqueda principal en Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-mayor-prueba-ia-codigo-abierto-aun-posible-1439542'>DeepSeek es la mayor prueba de que una IA de código abierto aún es posible</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-mayor-prueba-ia-codigo-abierto-aun-posible-1439542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-eeuu-4288441.jpg?tf=1200x' alt='DeepSeek es la mayor prueba de que una IA de código abierto aún es posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/cerrar-aplicaciones-iphone-unico-momento-deberias-hacerlo-todos-expertos-1439970'>Cerrar aplicaciones en el iPhone: este es el único momento en el que deberías hacerlo, según todos los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/cerrar-aplicaciones-iphone-unico-momento-deberias-hacerlo-todos-expertos-1439970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-4289761.jpg?tf=1200x' alt='Cerrar aplicaciones en el iPhone: este es el único momento en el que deberías hacerlo, según todos los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/truco-6-cifras-bloquear-mensajes-whatsapp-conversaciones-privadas-1439982'>El truco de las 6 cifras para bloquear tus mensajes de WhatsApp y conversaciones privadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/truco-6-cifras-bloquear-mensajes-whatsapp-conversaciones-privadas-1439982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verificacion-dos-pasos-whatsapp-4289807.jpg?tf=1200x' alt='El truco de las 6 cifras para bloquear tus mensajes de WhatsApp y conversaciones privadas' />
     </a>
 </div>
 
