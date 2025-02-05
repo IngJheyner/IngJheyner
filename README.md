@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/alerta-seguridad-google-corrige-gran-vulnerabilidad-android-recomienda-actualizar-cuanto-antes-1440423'>Alerta de seguridad: Google corrige una gran vulnerabilidad en Android y recomienda actualizar cuanto antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/alerta-seguridad-google-corrige-gran-vulnerabilidad-android-recomienda-actualizar-cuanto-antes-1440423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallo-seguridad-android-4290497.jpg?tf=1200x' alt='Alerta de seguridad: Google corrige una gran vulnerabilidad en Android y recomienda actualizar cuanto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-incumple-gran-promesa-iptv-nadie-borrara-nada-movil-1440440'>Javier Tebas incumple su gran promesa contra las IPTV: nadie borrará nada de tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-incumple-gran-promesa-iptv-nadie-borrara-nada-movil-1440440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-iptv-espana-4266712.jpg?tf=1200x' alt='Javier Tebas incumple su gran promesa contra las IPTV: nadie borrará nada de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estalla-guerra-civil-linux-acusaciones-sabotaje-desarrolladores-kernel-1440433'>Estalla la Guerra Civil en Linux: acusaciones de sabotaje entre los desarrolladores del kernel</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estalla-guerra-civil-linux-acusaciones-sabotaje-desarrolladores-kernel-1440433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estalla-guerra-civil-linux-4290469.jpg?tf=1200x' alt='Estalla la Guerra Civil en Linux: acusaciones de sabotaje entre los desarrolladores del kernel' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295'>Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-samsung-galaxy-s25-ultra-sigue-siendo-formato-ahora-todavia-1439269'>Lo mejor del Samsung Galaxy S25 Ultra sigue siendo su formato (ahora todavía más)</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/mejor-samsung-galaxy-s25-ultra-sigue-siendo-formato-ahora-todavia-1439269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288146.jpg?tf=1200x' alt='Lo mejor del Samsung Galaxy S25 Ultra sigue siendo su formato (ahora todavía más)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/no-hay-quien-recuerde-nombre-pero-technics-eah-az100-tienen-sonido-premium-no-puedo-olvidar-1438445'>No hay quien recuerde su nombre, pero los Technics EAH-AZ100 tienen un sonido premium que no puedo olvidar</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/no-hay-quien-recuerde-nombre-pero-technics-eah-az100-tienen-sonido-premium-no-puedo-olvidar-1438445' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/technics-eah-az100-4288740.jpg?tf=1200x' alt='No hay quien recuerde su nombre, pero los Technics EAH-AZ100 tienen un sonido premium que no puedo olvidar' />
     </a>
 </div>
 
