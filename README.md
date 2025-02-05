@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/significa-asteroide-2024-yr4-tenga-posibilidades-chocar-tierra-2032-1440390'>Que significa que el asteroide 2024 YR4 tenga un 1,5% de posibilidades de chocar contra la Tierra en 2032</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/significa-asteroide-2024-yr4-tenga-posibilidades-chocar-tierra-2032-1440390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-asteroide-2024-yr4-tenga-15-posibilidades-chocar-tierra-2032-4290403.jpg?tf=1200x' alt='Que significa que el asteroide 2024 YR4 tenga un 1,5% de posibilidades de chocar contra la Tierra en 2032' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-1440381'>Windows 11 revoluciona la configuración con una nueva página de inicio en su última actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-1440381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-4290383.jpg?tf=1200x' alt='Windows 11 revoluciona la configuración con una nueva página de inicio en su última actualización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/razon-windows-10-sigue-siendo-usado-muchos-jugadores-1440226'>Esta es la razón por la que Windows 10 sigue siendo usado por muchos jugadores</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/razon-windows-10-sigue-siendo-usado-muchos-jugadores-1440226' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/call-duty-windows-10-4290106.jpg?tf=1200x' alt='Esta es la razón por la que Windows 10 sigue siendo usado por muchos jugadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254'>Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-4290153.jpg?tf=1200x' alt='Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años' />
     </a>
 </div>
 
