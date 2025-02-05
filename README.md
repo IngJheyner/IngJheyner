@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-obligada-tomar-decision-hubiera-horrorizado-steve-jobs-1440582'>Apple obligada a tomar una decisión que hubiera horrorizado a Steve Jobs</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-obligada-tomar-decision-hubiera-horrorizado-steve-jobs-1440582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-obligada-tomar-decision-hubiera-horrorizado-steve-jobs-4290759.jpg?tf=1200x' alt='Apple obligada a tomar una decisión que hubiera horrorizado a Steve Jobs' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-1440123'>El thriller de culto con Roman Polanski que puedes ver totalmente gratis por tiempo limitado </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-1440123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-4289963.jpg?tf=1200x' alt='El thriller de culto con Roman Polanski que puedes ver totalmente gratis por tiempo limitado ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/marvel-niega-haber-usado-ia-poster-cuatro-fantasticos-1440550'>Marvel niega haber usado IA en el póster de Los Cuatro Fantásticos, pero nadie se lo cree</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/marvel-niega-haber-usado-ia-poster-cuatro-fantasticos-1440550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-4-fantasticos-4290655.jpg?tf=1200x' alt='Marvel niega haber usado IA en el póster de Los Cuatro Fantásticos, pero nadie se lo cree' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-confetti-como-funciona-nueva-app-gratis-iphone-todo-mundo-habla-1440500'>Qué es Apple Confetti y cómo funciona la nueva app gratis para iPhone de la que todo el mundo habla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-confetti-como-funciona-nueva-app-gratis-iphone-todo-mundo-habla-1440500' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-confetti-4290579.jpg?tf=1200x' alt='Qué es Apple Confetti y cómo funciona la nueva app gratis para iPhone de la que todo el mundo habla' />
     </a>
 </div>
 
