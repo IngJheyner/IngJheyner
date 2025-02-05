@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-redisena-logotipo-esconde-mensaje-clave-futuro-1440457'>Giro de 180 grados en OpenAI, rediseña su logotipo y esconde un mensaje clave sobre su futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-redisena-logotipo-esconde-mensaje-clave-futuro-1440457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rediseno-imagen-openai-4290520.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI, rediseña su logotipo y esconde un mensaje clave sobre su futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevo-ordenador-nasa-auronplay-no-te-vamos-dar-rtx-5090-1440532'>Así es el nuevo ordenador de la NASA de AuronPlay: "No te vamos a dar una RTX 5090"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nuevo-ordenador-nasa-auronplay-no-te-vamos-dar-rtx-5090-1440532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/auronplay-4252920.jpg?tf=1200x' alt='Así es el nuevo ordenador de la NASA de AuronPlay: "No te vamos a dar una RTX 5090"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/blue-origin-jezz-bezos-imita-gravedad-luna-experimentos-nasa-1440519'>Blue Origin de Jezz Bezos imita la gravedad de la Luna para los experimentos de la NASA</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/blue-origin-jezz-bezos-imita-gravedad-luna-experimentos-nasa-1440519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/new-shepard-blue-origin-4290617.jpg?tf=1200x' alt='Blue Origin de Jezz Bezos imita la gravedad de la Luna para los experimentos de la NASA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/exjefe-sony-descarta-playstation-6-digital-dificil-prescindir-discos-1440507'>Exjefe de Sony descarta que PlayStation 6 sea solo digital: “Sería difícil prescindir de los discos”</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/exjefe-sony-descarta-playstation-6-digital-dificil-prescindir-discos-1440507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/consola-playstation-6-4290560.jpg?tf=1200x' alt='Exjefe de Sony descarta que PlayStation 6 sea solo digital: “Sería difícil prescindir de los discos”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-soporte-windows-10-1437152'>Activada la cuenta atrás: "En 9 meses comenzará la pesadilla" según los expertos en ciberseguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-soporte-windows-10-1437152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-convertira-pesadilla-4290559.jpg?tf=1200x' alt='Activada la cuenta atrás: "En 9 meses comenzará la pesadilla" según los expertos en ciberseguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-verlo-genial-anuncio-ray-ban-meta-intermedio-super-bowl-1440458'>Tienes que verlo: el genial anuncio de las Ray-Ban Meta para el intermedio de la Super Bowl</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-verlo-genial-anuncio-ray-ban-meta-intermedio-super-bowl-1440458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tienes-verlo-genial-anuncio-ray-ban-meta-intermedio-super-bowl-4290516.jpg?tf=1200x' alt='Tienes que verlo: el genial anuncio de las Ray-Ban Meta para el intermedio de la Super Bowl' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/canal-tdt-obligara-resintonizar-miles-televisores-espana-1440495'>Este canal de la TDT obligará a resintonizar miles de televisores en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/canal-tdt-obligara-resintonizar-miles-televisores-espana-1440495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tdt-resintonizar-4290558.jpg?tf=1200x' alt='Este canal de la TDT obligará a resintonizar miles de televisores en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/netflix-cancela-lanzamiento-varios-juegos-alinearse-intereses-usuarios-1440514'>Netflix cancela en lanzamiento de varios juegos para alinearse con los intereses de los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/netflix-cancela-lanzamiento-varios-juegos-alinearse-intereses-usuarios-1440514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tales-shire-lord-rings-game-4290573.jpg?tf=1200x' alt='Netflix cancela en lanzamiento de varios juegos para alinearse con los intereses de los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/no-tienes-contacto-whatsapp-agenda-estas-perdiendo-tiempo-1440493'>Si no tienes este contacto de WhatsApp en tu agenda, estás perdiendo el tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/no-tienes-contacto-whatsapp-agenda-estas-perdiendo-tiempo-1440493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='Si no tienes este contacto de WhatsApp en tu agenda, estás perdiendo el tiempo' />
     </a>
 </div>
 
