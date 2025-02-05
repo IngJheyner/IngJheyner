@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-samsung-galaxy-s25-ultra-sigue-siendo-formato-ahora-todavia-1439269'>Lo mejor del Samsung Galaxy S25 Ultra sigue siendo su formato (ahora todavía más)</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/mejor-samsung-galaxy-s25-ultra-sigue-siendo-formato-ahora-todavia-1439269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288146.jpg?tf=1200x' alt='Lo mejor del Samsung Galaxy S25 Ultra sigue siendo su formato (ahora todavía más)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/no-hay-quien-recuerde-nombre-pero-technics-eah-az100-tienen-sonido-premium-no-puedo-olvidar-1438445'>No hay quien recuerde su nombre, pero los Technics EAH-AZ100 tienen un sonido premium que no puedo olvidar</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/no-hay-quien-recuerde-nombre-pero-technics-eah-az100-tienen-sonido-premium-no-puedo-olvidar-1438445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/technics-eah-az100-4288740.jpg?tf=1200x' alt='No hay quien recuerde su nombre, pero los Technics EAH-AZ100 tienen un sonido premium que no puedo olvidar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-cristasol-ni-kh7-ingrediente-magico-dejar-pantalla-smart-tv-como-nueva-cocina-1440302'>Ni Cristasol ni KH7, el ingrediente mágico para dejar la pantalla de tu Smart TV como nueva está en tu cocina</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-cristasol-ni-kh7-ingrediente-magico-dejar-pantalla-smart-tv-como-nueva-cocina-1440302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/limpiando-televisor-4290261.jpg?tf=1200x' alt='Ni Cristasol ni KH7, el ingrediente mágico para dejar la pantalla de tu Smart TV como nueva está en tu cocina' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-nueva-ia-openai-lograra-pocos-minutos-persona-tardaria-horas-1440147'>Sam Altman sobre la nueva IA de OpenAI: "Logrará en pocos minutos lo que una persona tardaría horas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-nueva-ia-openai-lograra-pocos-minutos-persona-tardaria-horas-1440147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-consejero-delegado-openai-3867885.jpg?tf=1200x' alt='Sam Altman sobre la nueva IA de OpenAI: "Logrará en pocos minutos lo que una persona tardaría horas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/valve-podria-lanzar-consola-pc-amd-rdna-4-ps5-pro-xbox-1440395'>Tras el éxito de Steam Deck, Valve podría lanzar una consola de PC más potente que PS5 Pro y Xbox</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/valve-podria-lanzar-consola-pc-amd-rdna-4-ps5-pro-xbox-1440395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exito-steam-deck-valve-podria-lanzar-consola-pc-potente-ps5-pro-xbox-4290418.jpg?tf=1200x' alt='Tras el éxito de Steam Deck, Valve podría lanzar una consola de PC más potente que PS5 Pro y Xbox' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/odias-cuando-macbook-encienda-abrir-tapa-apple-acaba-revelar-solucion-1440265'>¿Odias cuando tu MacBook se encienda al abrir la tapa? Apple acaba de revelar la solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/odias-cuando-macbook-encienda-abrir-tapa-apple-acaba-revelar-solucion-1440265' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/abrir-macbook-4290168.jpg?tf=1200x' alt='¿Odias cuando tu MacBook se encienda al abrir la tapa? Apple acaba de revelar la solución' />
     </a>
 </div>
 
