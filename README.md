@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-1440123'>El thriller de culto con Roman Polanski que puedes ver totalmente gratis por tiempo limitado </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-1440123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-4289963.jpg?tf=1200x' alt='El thriller de culto con Roman Polanski que puedes ver totalmente gratis por tiempo limitado ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/todo-sabe-galaxy-g-fold-plegable-triple-samsung-1440580'>Todo lo que se sabe sobre Galaxy G Fold, el plegable triple de Samsung</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/todo-sabe-galaxy-g-fold-plegable-triple-samsung-1440580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/huawei-mate-xt-ultimate-4290699.jpg?tf=1200x' alt='Todo lo que se sabe sobre Galaxy G Fold, el plegable triple de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-supermercado-te-puede-vaciar-cuentas-momento-1440490'>La Guardia Civil advierte: así es la estafa del supermercado que te puede vaciar las cuentas en un momento</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-supermercado-te-puede-vaciar-cuentas-momento-1440490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-advierte-estafa-supermercado-te-puede-vaciar-cuentas-momento-4290536.jpg?tf=1200x' alt='La Guardia Civil advierte: así es la estafa del supermercado que te puede vaciar las cuentas en un momento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/marvel-niega-haber-usado-ia-poster-cuatro-fantasticos-1440550'>Marvel niega haber usado IA en el póster de Los Cuatro Fantásticos, pero nadie se lo cree</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/marvel-niega-haber-usado-ia-poster-cuatro-fantasticos-1440550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-4-fantasticos-4290655.jpg?tf=1200x' alt='Marvel niega haber usado IA en el póster de Los Cuatro Fantásticos, pero nadie se lo cree' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-confetti-como-funciona-nueva-app-gratis-iphone-todo-mundo-habla-1440500'>Qué es Apple Confetti y cómo funciona la nueva app gratis para iPhone de la que todo el mundo habla</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-confetti-como-funciona-nueva-app-gratis-iphone-todo-mundo-habla-1440500' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-confetti-4290579.jpg?tf=1200x' alt='Qué es Apple Confetti y cómo funciona la nueva app gratis para iPhone de la que todo el mundo habla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-topicos-1440169'>DeepSeek sin pelos en la lengua sobre los españoles: "Para los madrileños, España termina en la M-30"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-topicos-1440169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-espana-4290034.jpg?tf=1200x' alt='DeepSeek sin pelos en la lengua sobre los españoles: "Para los madrileños, España termina en la M-30"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-1440561'>Cae uno de los grupos de WhatsApp de avisos de radares y controles de la Guardia más grandes de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-1440561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-4290722.jpg?tf=1200x' alt='Cae uno de los grupos de WhatsApp de avisos de radares y controles de la Guardia más grandes de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/mision-blue-ghost-nasa-muestra-como-impresionante-ve-tierra-camino-luna-1440520'>La misión Blue Ghost de la NASA muestra cómo de impresionante se ve la Tierra de camino a la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/mision-blue-ghost-nasa-muestra-como-impresionante-ve-tierra-camino-luna-1440520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mision-blue-ghost-nasa-muestra-como-impresionante-ve-tierra-camino-luna-4290577.jpg?tf=1200x' alt='La misión Blue Ghost de la NASA muestra cómo de impresionante se ve la Tierra de camino a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/experto-nutricion-recomienda-producto-mercadona-menos-2-euros-1440571'>Experto en nutrición recomienda un producto delicioso de Mercadona, que cuesta menos de 2 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/experto-nutricion-recomienda-producto-mercadona-menos-2-euros-1440571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-nutricion-recomienda-producto-delicioso-mercadona-cuesta-menos-2-euros-4290631.jpg?tf=1200x' alt='Experto en nutrición recomienda un producto delicioso de Mercadona, que cuesta menos de 2 euros' />
     </a>
 </div>
 
