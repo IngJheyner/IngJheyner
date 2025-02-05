@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/palo-waze-google-maps-android-copia-mejores-herramientas-ya-disponible-todos-usuarios-1440512'>Palo a Waze: Google Maps para Android copia una de sus mejores herramientas y ya está disponible para todos los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/palo-waze-google-maps-android-copia-mejores-herramientas-ya-disponible-todos-usuarios-1440512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-waze-google-maps-android-copia-mejores-herramientas-ya-disponible-todos-usuarios-4290565.jpg?tf=1200x' alt='Palo a Waze: Google Maps para Android copia una de sus mejores herramientas y ya está disponible para todos los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-anuncia-evento-especial-26-febrero-alexa-ia-1440628'>Amazon anuncia un evento especial el 26 de febrero, esto es lo que presentará</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-anuncia-evento-especial-26-febrero-alexa-ia-1440628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-anuncia-evento-especial-26-febrero-presentara-4290754.jpg?tf=1200x' alt='Amazon anuncia un evento especial el 26 de febrero, esto es lo que presentará' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-mejores-peliculas-animacion-japonesa-todos-tiempos-poca-gente-conoce-1439067'>Movistar Plus+ tiene una de las mejores películas de animación japonesa de todos los tiempos, y poca gente la conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-mejores-peliculas-animacion-japonesa-todos-tiempos-poca-gente-conoce-1439067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-tiene-mejores-peliculas-animacion-japonesa-todos-tiempos-poca-gente-conoce-4288154.jpg?tf=1200x' alt='Movistar Plus+ tiene una de las mejores películas de animación japonesa de todos los tiempos, y poca gente la conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-obligada-tomar-decision-hubiera-horrorizado-steve-jobs-1440582'>Apple obligada a tomar una decisión que hubiera horrorizado a Steve Jobs</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-obligada-tomar-decision-hubiera-horrorizado-steve-jobs-1440582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-obligada-tomar-decision-hubiera-horrorizado-steve-jobs-4290759.jpg?tf=1200x' alt='Apple obligada a tomar una decisión que hubiera horrorizado a Steve Jobs' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-1440123'>El thriller de culto con Roman Polanski que puedes ver totalmente gratis por tiempo limitado </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-1440123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thriller-culto-roman-polanski-puedes-ver-totalmente-gratis-tiempo-limitado-4289963.jpg?tf=1200x' alt='El thriller de culto con Roman Polanski que puedes ver totalmente gratis por tiempo limitado ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/todo-sabe-galaxy-g-fold-plegable-triple-samsung-1440580'>Todo lo que se sabe sobre Galaxy G Fold, el plegable triple de Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/todo-sabe-galaxy-g-fold-plegable-triple-samsung-1440580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/huawei-mate-xt-ultimate-4290699.jpg?tf=1200x' alt='Todo lo que se sabe sobre Galaxy G Fold, el plegable triple de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-supermercado-te-puede-vaciar-cuentas-momento-1440490'>La Guardia Civil advierte: así es la estafa del supermercado que te puede vaciar las cuentas en un momento</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-supermercado-te-puede-vaciar-cuentas-momento-1440490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-advierte-estafa-supermercado-te-puede-vaciar-cuentas-momento-4290536.jpg?tf=1200x' alt='La Guardia Civil advierte: así es la estafa del supermercado que te puede vaciar las cuentas en un momento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/marvel-niega-haber-usado-ia-poster-cuatro-fantasticos-1440550'>Marvel niega haber usado IA en el póster de Los Cuatro Fantásticos, pero nadie se lo cree</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/marvel-niega-haber-usado-ia-poster-cuatro-fantasticos-1440550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-4-fantasticos-4290655.jpg?tf=1200x' alt='Marvel niega haber usado IA en el póster de Los Cuatro Fantásticos, pero nadie se lo cree' />
     </a>
 </div>
 
