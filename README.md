@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-abre-caja-pandora-elimina-promesa-no-utilizar-ia-armas-vigilancia-1440416'>Google abre la caja de Pandora y elimina su promesa de no utilizar IA para armas y vigilancia</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-abre-caja-pandora-elimina-promesa-no-utilizar-ia-armas-vigilancia-1440416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-abre-caja-pandora-4290451.jpg?tf=1200x' alt='Google abre la caja de Pandora y elimina su promesa de no utilizar IA para armas y vigilancia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295'>Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ni-cristasol-ni-kh7-ingrediente-magico-dejar-pantalla-smart-tv-como-nueva-cocina-1440302'>Ni Cristasol ni KH7, el ingrediente mágico para dejar la pantalla de tu Smart TV como nueva está en tu cocina</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-cristasol-ni-kh7-ingrediente-magico-dejar-pantalla-smart-tv-como-nueva-cocina-1440302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/limpiando-televisor-4290261.jpg?tf=1200x' alt='Ni Cristasol ni KH7, el ingrediente mágico para dejar la pantalla de tu Smart TV como nueva está en tu cocina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-expertos-seguridad-deepseek-increiblemente-vulnerable-ataques-1440243'>Mazazo de los expertos en seguridad a DeepSeek: "Es increíblemente vulnerable a los ataques"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-expertos-seguridad-deepseek-increiblemente-vulnerable-ataques-1440243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-4290155.jpg?tf=1200x' alt='Mazazo de los expertos en seguridad a DeepSeek: "Es increíblemente vulnerable a los ataques"' />
     </a>
 </div>
 
