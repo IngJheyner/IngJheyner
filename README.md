@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295'>Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/mejor-samsung-galaxy-s25-ultra-sigue-siendo-formato-ahora-todavia-1439269'>Lo mejor del Samsung Galaxy S25 Ultra sigue siendo su formato (ahora todavía más)</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/mejor-samsung-galaxy-s25-ultra-sigue-siendo-formato-ahora-todavia-1439269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-ultra-4288146.jpg?tf=1200x' alt='Lo mejor del Samsung Galaxy S25 Ultra sigue siendo su formato (ahora todavía más)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-expertos-seguridad-deepseek-increiblemente-vulnerable-ataques-1440243'>Mazazo de los expertos en seguridad a DeepSeek: "Es increíblemente vulnerable a los ataques"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-expertos-seguridad-deepseek-increiblemente-vulnerable-ataques-1440243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-4290155.jpg?tf=1200x' alt='Mazazo de los expertos en seguridad a DeepSeek: "Es increíblemente vulnerable a los ataques"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-nueva-ia-openai-lograra-pocos-minutos-persona-tardaria-horas-1440147'>Sam Altman sobre la nueva IA de OpenAI: "Logrará en pocos minutos lo que una persona tardaría horas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-nueva-ia-openai-lograra-pocos-minutos-persona-tardaria-horas-1440147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-consejero-delegado-openai-3867885.jpg?tf=1200x' alt='Sam Altman sobre la nueva IA de OpenAI: "Logrará en pocos minutos lo que una persona tardaría horas"' />
     </a>
 </div>
 
