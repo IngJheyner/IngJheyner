@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-guardia-civil-espana-correo-062-1439029'>Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062" </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-guardia-civil-espana-correo-062-1439029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-4288083.jpg?tf=1200x' alt='Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nadie-quiere-abandonar-barco-windows-10-windows-11-genera-tanto-rechazo-1440474'>Nadie quiere abandonar el barco de Windows 10: ¿Por qué Windows 11 genera tanto rechazo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nadie-quiere-abandonar-barco-windows-10-windows-11-genera-tanto-rechazo-1440474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-4274189.jpg?tf=1200x' alt='Nadie quiere abandonar el barco de Windows 10: ¿Por qué Windows 11 genera tanto rechazo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-mayor-miedo-nintendo-cara-lanzamiento-consola-1440411'>Nintendo Switch 2: este es el mayor miedo de Nintendo de cara al lanzamiento de la consola</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-mayor-miedo-nintendo-cara-lanzamiento-consola-1440411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/switch-2-4286707.jpg?tf=1200x' alt='Nintendo Switch 2: este es el mayor miedo de Nintendo de cara al lanzamiento de la consola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/canal-movistar-plus-ve-mucho-mejor-resto-1440460'>¿Por qué este canal de Movistar Plus+ se ve mucho mejor que el resto?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/canal-movistar-plus-ve-mucho-mejor-resto-1440460' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290500.jpg?tf=1200x' alt='¿Por qué este canal de Movistar Plus+ se ve mucho mejor que el resto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/alerta-seguridad-google-corrige-gran-vulnerabilidad-android-recomienda-actualizar-cuanto-antes-1440423'>Alerta de seguridad: Google corrige una gran vulnerabilidad en Android y recomienda actualizar cuanto antes</a></h4>
     <a href='https://computerhoy.20minutos.es/android/alerta-seguridad-google-corrige-gran-vulnerabilidad-android-recomienda-actualizar-cuanto-antes-1440423' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallo-seguridad-android-4290497.jpg?tf=1200x' alt='Alerta de seguridad: Google corrige una gran vulnerabilidad en Android y recomienda actualizar cuanto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/javier-tebas-incumple-gran-promesa-iptv-nadie-borrara-nada-movil-1440440'>Javier Tebas incumple su gran promesa contra las IPTV: nadie borrará nada de tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/javier-tebas-incumple-gran-promesa-iptv-nadie-borrara-nada-movil-1440440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-iptv-espana-4266712.jpg?tf=1200x' alt='Javier Tebas incumple su gran promesa contra las IPTV: nadie borrará nada de tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estalla-guerra-civil-linux-acusaciones-sabotaje-desarrolladores-kernel-1440433'>Estalla la Guerra Civil en Linux: acusaciones de sabotaje entre los desarrolladores del kernel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estalla-guerra-civil-linux-acusaciones-sabotaje-desarrolladores-kernel-1440433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estalla-guerra-civil-linux-4290469.jpg?tf=1200x' alt='Estalla la Guerra Civil en Linux: acusaciones de sabotaje entre los desarrolladores del kernel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-abre-caja-pandora-elimina-promesa-no-utilizar-ia-armas-vigilancia-1440416'>Google abre la caja de Pandora y elimina su promesa de no utilizar IA para armas y vigilancia</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-abre-caja-pandora-elimina-promesa-no-utilizar-ia-armas-vigilancia-1440416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-abre-caja-pandora-4290451.jpg?tf=1200x' alt='Google abre la caja de Pandora y elimina su promesa de no utilizar IA para armas y vigilancia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295'>Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-no-memorizo-contrasenas-herramienta-hace-mi-ademas-me-genera-claves-seguras-1439295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordpass-3407953.jpg?tf=1200x' alt='Ya no memorizo contraseñas: esta herramienta lo hace por mí y además me genera claves seguras' />
     </a>
 </div>
 
