@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/movistar-contraataca-digi-tarifa-fibra-optica-sorprendente-cambia-todo-1440478'>Movistar contraataca a DIGI con una tarifa de fibra óptica sorprendente, lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/movistar-contraataca-digi-tarifa-fibra-optica-sorprendente-cambia-todo-1440478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-digi-4290543.jpg?tf=1200x' alt='Movistar contraataca a DIGI con una tarifa de fibra óptica sorprendente, lo cambia todo' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-confetti-como-funciona-nueva-app-gratis-iphone-todo-mundo-habla-1440500'>Qué es Apple Confetti y cómo funciona la nueva app gratis para iPhone de la que todo el mundo habla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-confetti-como-funciona-nueva-app-gratis-iphone-todo-mundo-habla-1440500' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-confetti-4290579.jpg?tf=1200x' alt='Qué es Apple Confetti y cómo funciona la nueva app gratis para iPhone de la que todo el mundo habla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reacciona-amenaza-deepseek-anticipa-gpt-5-ya-listo-yo-1440504'>Sam Altman reacciona a la amenaza DeepSeek y anticipa GPT-5: "Ya está, es más listo que yo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reacciona-amenaza-deepseek-anticipa-gpt-5-ya-listo-yo-1440504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Sam Altman reacciona a la amenaza DeepSeek y anticipa GPT-5: "Ya está, es más listo que yo"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-topicos-1440169'>DeepSeek sin pelos en la lengua sobre los españoles: "Para los madrileños, España termina en la M-30"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/opina-deepseek-espanoles-topicos-1440169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-espana-4290034.jpg?tf=1200x' alt='DeepSeek sin pelos en la lengua sobre los españoles: "Para los madrileños, España termina en la M-30"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-redisena-logotipo-esconde-mensaje-clave-futuro-1440457'>Giro de 180 grados en OpenAI, rediseña su logotipo y esconde un mensaje clave sobre su futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-redisena-logotipo-esconde-mensaje-clave-futuro-1440457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rediseno-imagen-openai-4290520.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI, rediseña su logotipo y esconde un mensaje clave sobre su futuro' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-1440561'>Cae uno de los grupos de WhatsApp de avisos de radares y controles de la Guardia más grandes de España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-1440561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-4290722.jpg?tf=1200x' alt='Cae uno de los grupos de WhatsApp de avisos de radares y controles de la Guardia más grandes de España' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevo-ordenador-nasa-auronplay-no-te-vamos-dar-rtx-5090-1440532'>Así es el nuevo ordenador de la NASA de AuronPlay: "No te vamos a dar una RTX 5090"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nuevo-ordenador-nasa-auronplay-no-te-vamos-dar-rtx-5090-1440532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/auronplay-4252920.jpg?tf=1200x' alt='Así es el nuevo ordenador de la NASA de AuronPlay: "No te vamos a dar una RTX 5090"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/mision-blue-ghost-nasa-muestra-como-impresionante-ve-tierra-camino-luna-1440520'>La misión Blue Ghost de la NASA muestra cómo de impresionante se ve la Tierra de camino a la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/mision-blue-ghost-nasa-muestra-como-impresionante-ve-tierra-camino-luna-1440520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mision-blue-ghost-nasa-muestra-como-impresionante-ve-tierra-camino-luna-4290577.jpg?tf=1200x' alt='La misión Blue Ghost de la NASA muestra cómo de impresionante se ve la Tierra de camino a la Luna' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/blue-origin-jezz-bezos-imita-gravedad-luna-experimentos-nasa-1440519'>Blue Origin de Jezz Bezos imita la gravedad de la Luna para los experimentos de la NASA</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/blue-origin-jezz-bezos-imita-gravedad-luna-experimentos-nasa-1440519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/new-shepard-blue-origin-4290617.jpg?tf=1200x' alt='Blue Origin de Jezz Bezos imita la gravedad de la Luna para los experimentos de la NASA' />
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/experto-nutricion-recomienda-producto-mercadona-menos-2-euros-1440571'>Experto en nutrición recomienda un producto delicioso de Mercadona, que cuesta menos de 2 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/experto-nutricion-recomienda-producto-mercadona-menos-2-euros-1440571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-nutricion-recomienda-producto-delicioso-mercadona-cuesta-menos-2-euros-4290631.jpg?tf=1200x' alt='Experto en nutrición recomienda un producto delicioso de Mercadona, que cuesta menos de 2 euros' />
     </a>
 </div>
 
