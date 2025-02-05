@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-1440381'>Windows 11 revoluciona la configuración con una nueva página de inicio en su última actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-1440381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-4290383.jpg?tf=1200x' alt='Windows 11 revoluciona la configuración con una nueva página de inicio en su última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openeurollm-ia-codigo-abierto-union-europea-competir-deepseek-chatgpt-1440364'>Europa despierta y presenta OpenEuroLLM, la IA de código abierto para competir con DeepSeek y ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openeurollm-ia-codigo-abierto-union-europea-competir-deepseek-chatgpt-1440364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/europa-despierta-presenta-openeurollm-ia-codigo-abierto-competir-deepseek-chatgpt-4290324.jpg?tf=1200x' alt='Europa despierta y presenta OpenEuroLLM, la IA de código abierto para competir con DeepSeek y ChatGPT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254'>Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-1440254' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-considera-inteligente-prohibir-acceso-redes-sociales-menores-16-anos-4290153.jpg?tf=1200x' alt='Bill Gates considera "inteligente" prohibir el acceso a las redes sociales a los menores de 16 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-1440327'>Técnicos expertos resuelven la gran duda: qué ahorra más, ¿apagar la caldera por la noche o dejarla encendida?</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-1440327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tecnicos-expertos-resuelven-gran-duda-ahorra-apagar-caldera-noche-dejarla-encendida-4290341.jpg?tf=1200x' alt='Técnicos expertos resuelven la gran duda: qué ahorra más, ¿apagar la caldera por la noche o dejarla encendida?' />
     </a>
 </div>
 
