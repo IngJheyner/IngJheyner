@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-nueva-ia-openai-lograra-pocos-minutos-persona-tardaria-horas-1440147'>Sam Altman sobre la nueva IA de OpenAI: "Logrará en pocos minutos lo que una persona tardaría horas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-nueva-ia-openai-lograra-pocos-minutos-persona-tardaria-horas-1440147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-consejero-delegado-openai-3867885.jpg?tf=1200x' alt='Sam Altman sobre la nueva IA de OpenAI: "Logrará en pocos minutos lo que una persona tardaría horas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/valve-podria-lanzar-consola-pc-amd-rdna-4-ps5-pro-xbox-1440395'>Tras el éxito de Steam Deck, Valve podría lanzar una consola de PC más potente que PS5 Pro y Xbox</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/valve-podria-lanzar-consola-pc-amd-rdna-4-ps5-pro-xbox-1440395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exito-steam-deck-valve-podria-lanzar-consola-pc-potente-ps5-pro-xbox-4290418.jpg?tf=1200x' alt='Tras el éxito de Steam Deck, Valve podría lanzar una consola de PC más potente que PS5 Pro y Xbox' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/odias-cuando-macbook-encienda-abrir-tapa-apple-acaba-revelar-solucion-1440265'>¿Odias cuando tu MacBook se encienda al abrir la tapa? Apple acaba de revelar la solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/odias-cuando-macbook-encienda-abrir-tapa-apple-acaba-revelar-solucion-1440265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/abrir-macbook-4290168.jpg?tf=1200x' alt='¿Odias cuando tu MacBook se encienda al abrir la tapa? Apple acaba de revelar la solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/significa-asteroide-2024-yr4-tenga-posibilidades-chocar-tierra-2032-1440390'>Que significa que el asteroide 2024 YR4 tenga un 1,5% de posibilidades de chocar contra la Tierra en 2032</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/significa-asteroide-2024-yr4-tenga-posibilidades-chocar-tierra-2032-1440390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-asteroide-2024-yr4-tenga-15-posibilidades-chocar-tierra-2032-4290403.jpg?tf=1200x' alt='Que significa que el asteroide 2024 YR4 tenga un 1,5% de posibilidades de chocar contra la Tierra en 2032' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-1440381'>Windows 11 revoluciona la configuración con una nueva página de inicio en su última actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-1440381' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-revoluciona-configuracion-nueva-pagina-inicio-ultima-actualizacion-4290383.jpg?tf=1200x' alt='Windows 11 revoluciona la configuración con una nueva página de inicio en su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openeurollm-ia-codigo-abierto-union-europea-competir-deepseek-chatgpt-1440364'>Europa despierta y presenta OpenEuroLLM, la IA de código abierto para competir con DeepSeek y ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openeurollm-ia-codigo-abierto-union-europea-competir-deepseek-chatgpt-1440364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/europa-despierta-presenta-openeurollm-ia-codigo-abierto-competir-deepseek-chatgpt-4290324.jpg?tf=1200x' alt='Europa despierta y presenta OpenEuroLLM, la IA de código abierto para competir con DeepSeek y ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-mejor-windows-historia-transferencia-datos-1440313'>Hallazgo inesperado en Windows 11: el mejor Windows de la historia en transferencia de datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-mejor-windows-historia-transferencia-datos-1440313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/carpetas-windows-11-4290307.jpg?tf=1200x' alt='Hallazgo inesperado en Windows 11: el mejor Windows de la historia en transferencia de datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/razon-windows-10-sigue-siendo-usado-muchos-jugadores-1440226'>Esta es la razón por la que Windows 10 sigue siendo usado por muchos jugadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/razon-windows-10-sigue-siendo-usado-muchos-jugadores-1440226' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/call-duty-windows-10-4290106.jpg?tf=1200x' alt='Esta es la razón por la que Windows 10 sigue siendo usado por muchos jugadores' />
     </a>
 </div>
 
