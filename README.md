@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/netflix-cancela-lanzamiento-varios-juegos-alinearse-intereses-usuarios-1440514'>Netflix cancela en lanzamiento de varios juegos para alinearse con los intereses de los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/netflix-cancela-lanzamiento-varios-juegos-alinearse-intereses-usuarios-1440514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tales-shire-lord-rings-game-4290573.jpg?tf=1200x' alt='Netflix cancela en lanzamiento de varios juegos para alinearse con los intereses de los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/no-tienes-contacto-whatsapp-agenda-estas-perdiendo-tiempo-1440493'>Si no tienes este contacto de WhatsApp en tu agenda, estás perdiendo el tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/no-tienes-contacto-whatsapp-agenda-estas-perdiendo-tiempo-1440493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/whatsapp-silencia-muchos-usuarios-android-momento-solo-hay-solucion-4283253.jpg?tf=1200x' alt='Si no tienes este contacto de WhatsApp en tu agenda, estás perdiendo el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-guardia-civil-espana-correo-062-1439029'>Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062" </a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-guardia-civil-espana-correo-062-1439029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alerta-maxima-guardia-civil-toda-espana-te-llega-correo-llama-062-inmediato-4288083.jpg?tf=1200x' alt='Alerta máxima de la Guardia Civil en toda España: "Si te llega este correo llama al 062" ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-mayor-miedo-nintendo-cara-lanzamiento-consola-1440411'>Nintendo Switch 2: este es el mayor miedo de Nintendo de cara al lanzamiento de la consola</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-mayor-miedo-nintendo-cara-lanzamiento-consola-1440411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/switch-2-4286707.jpg?tf=1200x' alt='Nintendo Switch 2: este es el mayor miedo de Nintendo de cara al lanzamiento de la consola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/canal-movistar-plus-ve-mucho-mejor-resto-1440460'>¿Por qué este canal de Movistar Plus+ se ve mucho mejor que el resto?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/canal-movistar-plus-ve-mucho-mejor-resto-1440460' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290500.jpg?tf=1200x' alt='¿Por qué este canal de Movistar Plus+ se ve mucho mejor que el resto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/alerta-seguridad-google-corrige-gran-vulnerabilidad-android-recomienda-actualizar-cuanto-antes-1440423'>Alerta de seguridad: Google corrige una gran vulnerabilidad en Android y recomienda actualizar cuanto antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/alerta-seguridad-google-corrige-gran-vulnerabilidad-android-recomienda-actualizar-cuanto-antes-1440423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallo-seguridad-android-4290497.jpg?tf=1200x' alt='Alerta de seguridad: Google corrige una gran vulnerabilidad en Android y recomienda actualizar cuanto antes' />
     </a>
 </div>
 
