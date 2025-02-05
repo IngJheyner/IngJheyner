@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620'>ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-4290794.jpg?tf=1200x' alt='ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/real-falso-bytedance-sorprende-modelo-deepfake-casi-indistinguible-realidad-1440636'>¿Real o falso? ByteDance sorprende con un modelo deepfake casi indistinguible de la realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/real-falso-bytedance-sorprende-modelo-deepfake-casi-indistinguible-realidad-1440636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/omnihuman-1-4290792.jpg?tf=1200x' alt='¿Real o falso? ByteDance sorprende con un modelo deepfake casi indistinguible de la realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-rompe-records-ia-deep-research-superando-examen-desafiante-mundo-1440634'>OpenAI rompe récords con su IA Deep Research, superando "el examen más desafiante del mundo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-rompe-records-ia-deep-research-superando-examen-desafiante-mundo-1440634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/capacidad-razonamiento-ia-4290788.jpg?tf=1200x' alt='OpenAI rompe récords con su IA Deep Research, superando "el examen más desafiante del mundo"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/criptos/bill-gates-advierte-peligro-gente-inteligente-ha-enganado-misma-son-inutiles-1440541'>Bill Gates advierte del peligro: "La gente inteligente se ha engañado a sí misma, son inútiles”</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/bill-gates-advierte-peligro-gente-inteligente-ha-enganado-misma-son-inutiles-1440541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-advierte-peligro-gente-inteligente-ha-enganado-misma-son-inutiles-4290630.jpg?tf=1200x' alt='Bill Gates advierte del peligro: "La gente inteligente se ha engañado a sí misma, son inútiles”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/palo-waze-google-maps-android-copia-mejores-herramientas-ya-disponible-todos-usuarios-1440512'>Palo a Waze: Google Maps para Android copia una de sus mejores herramientas y ya está disponible para todos los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/palo-waze-google-maps-android-copia-mejores-herramientas-ya-disponible-todos-usuarios-1440512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-waze-google-maps-android-copia-mejores-herramientas-ya-disponible-todos-usuarios-4290565.jpg?tf=1200x' alt='Palo a Waze: Google Maps para Android copia una de sus mejores herramientas y ya está disponible para todos los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-anuncia-evento-especial-26-febrero-alexa-ia-1440628'>Amazon anuncia un evento especial el 26 de febrero, esto es lo que presentará</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-anuncia-evento-especial-26-febrero-alexa-ia-1440628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-anuncia-evento-especial-26-febrero-presentara-4290754.jpg?tf=1200x' alt='Amazon anuncia un evento especial el 26 de febrero, esto es lo que presentará' />
     </a>
 </div>
 
