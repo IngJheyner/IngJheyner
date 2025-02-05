@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/movistar-contraataca-digi-tarifa-fibra-optica-sorprendente-cambia-todo-1440478'>Movistar contraataca a DIGI con una tarifa de fibra óptica sorprendente, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/movistar-contraataca-digi-tarifa-fibra-optica-sorprendente-cambia-todo-1440478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-digi-4290543.jpg?tf=1200x' alt='Movistar contraataca a DIGI con una tarifa de fibra óptica sorprendente, lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reacciona-amenaza-deepseek-anticipa-gpt-5-ya-listo-yo-1440504'>Sam Altman reacciona a la amenaza DeepSeek y anticipa GPT-5: "Ya está, es más listo que yo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reacciona-amenaza-deepseek-anticipa-gpt-5-ya-listo-yo-1440504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Sam Altman reacciona a la amenaza DeepSeek y anticipa GPT-5: "Ya está, es más listo que yo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-redisena-logotipo-esconde-mensaje-clave-futuro-1440457'>Giro de 180 grados en OpenAI, rediseña su logotipo y esconde un mensaje clave sobre su futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-openai-redisena-logotipo-esconde-mensaje-clave-futuro-1440457' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rediseno-imagen-openai-4290520.jpg?tf=1200x' alt='Giro de 180 grados en OpenAI, rediseña su logotipo y esconde un mensaje clave sobre su futuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/blue-origin-jezz-bezos-imita-gravedad-luna-experimentos-nasa-1440519'>Blue Origin de Jezz Bezos imita la gravedad de la Luna para los experimentos de la NASA</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/blue-origin-jezz-bezos-imita-gravedad-luna-experimentos-nasa-1440519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/new-shepard-blue-origin-4290617.jpg?tf=1200x' alt='Blue Origin de Jezz Bezos imita la gravedad de la Luna para los experimentos de la NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/exjefe-sony-descarta-playstation-6-digital-dificil-prescindir-discos-1440507'>Exjefe de Sony descarta que PlayStation 6 sea solo digital: “Sería difícil prescindir de los discos”</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/exjefe-sony-descarta-playstation-6-digital-dificil-prescindir-discos-1440507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/consola-playstation-6-4290560.jpg?tf=1200x' alt='Exjefe de Sony descarta que PlayStation 6 sea solo digital: “Sería difícil prescindir de los discos”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-soporte-windows-10-1437152'>Activada la cuenta atrás: "En 9 meses comenzará la pesadilla" según los expertos en ciberseguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-pesadilla-soporte-windows-10-1437152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-convertira-pesadilla-4290559.jpg?tf=1200x' alt='Activada la cuenta atrás: "En 9 meses comenzará la pesadilla" según los expertos en ciberseguridad' />
     </a>
 </div>
 
