@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estalla-guerra-civil-linux-acusaciones-sabotaje-desarrolladores-kernel-1440433'>Estalla la Guerra Civil en Linux: acusaciones de sabotaje entre los desarrolladores del kernel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estalla-guerra-civil-linux-acusaciones-sabotaje-desarrolladores-kernel-1440433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estalla-guerra-civil-linux-4290469.jpg?tf=1200x' alt='Estalla la Guerra Civil en Linux: acusaciones de sabotaje entre los desarrolladores del kernel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-abre-caja-pandora-elimina-promesa-no-utilizar-ia-armas-vigilancia-1440416'>Google abre la caja de Pandora y elimina su promesa de no utilizar IA para armas y vigilancia</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-abre-caja-pandora-elimina-promesa-no-utilizar-ia-armas-vigilancia-1440416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-abre-caja-pandora-4290451.jpg?tf=1200x' alt='Google abre la caja de Pandora y elimina su promesa de no utilizar IA para armas y vigilancia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/no-hay-quien-recuerde-nombre-pero-technics-eah-az100-tienen-sonido-premium-no-puedo-olvidar-1438445'>No hay quien recuerde su nombre, pero los Technics EAH-AZ100 tienen un sonido premium que no puedo olvidar</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/no-hay-quien-recuerde-nombre-pero-technics-eah-az100-tienen-sonido-premium-no-puedo-olvidar-1438445' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/technics-eah-az100-4288740.jpg?tf=1200x' alt='No hay quien recuerde su nombre, pero los Technics EAH-AZ100 tienen un sonido premium que no puedo olvidar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-cristasol-ni-kh7-ingrediente-magico-dejar-pantalla-smart-tv-como-nueva-cocina-1440302'>Ni Cristasol ni KH7, el ingrediente mágico para dejar la pantalla de tu Smart TV como nueva está en tu cocina</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-cristasol-ni-kh7-ingrediente-magico-dejar-pantalla-smart-tv-como-nueva-cocina-1440302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/limpiando-televisor-4290261.jpg?tf=1200x' alt='Ni Cristasol ni KH7, el ingrediente mágico para dejar la pantalla de tu Smart TV como nueva está en tu cocina' />
     </a>
 </div>
 
