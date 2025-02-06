@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/whale-phishing-nueva-estafa-cazar-peces-gordos-1440704'>Qué es el 'whale phishing', la nueva estafa para cazar "peces gordos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/whale-phishing-nueva-estafa-cazar-peces-gordos-1440704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ballena-phishing-4290858.jpg?tf=1200x' alt='Qué es el 'whale phishing', la nueva estafa para cazar "peces gordos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-tablet-leer-comics-tambien-sirve-como-cuaderno-1440558'>Esta es la mejor tablet para leer cómics y también sirve como cuaderno</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/mejor-tablet-leer-comics-tambien-sirve-como-cuaderno-1440558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boox-tablet-note-air4-c-4290662.jpg?tf=1200x' alt='Esta es la mejor tablet para leer cómics y también sirve como cuaderno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/editas-videos-no-quieres-perder-calidad-samsung-galaxy-s25-ofrece-modo-muy-top-1439861'>Si editas tus vídeos y no quieres perder calidad, el Samsung Galaxy S25+ ofrece un modo muy top</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/editas-videos-no-quieres-perder-calidad-samsung-galaxy-s25-ofrece-modo-muy-top-1439861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-4288679.jpg?tf=1200x' alt='Si editas tus vídeos y no quieres perder calidad, el Samsung Galaxy S25+ ofrece un modo muy top' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/actualiza-software-tesla-convierte-arte-magia-seat-panda-1440535'>Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/actualiza-software-tesla-convierte-arte-magia-seat-panda-1440535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-tesla-model-3-4290633.jpg?tf=1200x' alt='Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda' />
     </a>
 </div>
 
