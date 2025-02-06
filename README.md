@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/bill-gates-confia-empresa-espanola-fabricar-minirreactores-nucleares-1440775'>Bill Gates confía en esta empresa española para fabricar sus minirreactores nucleares</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/bill-gates-confia-empresa-espanola-fabricar-minirreactores-nucleares-1440775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-bandera-espana-4291031.jpg?tf=1200x' alt='Bill Gates confía en esta empresa española para fabricar sus minirreactores nucleares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estafa-videollamada-te-roban-cuenta-segundos-1440692'>WhatsApp: la estafa de la videollamada con la que te roban la cuenta en segundos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estafa-videollamada-te-roban-cuenta-segundos-1440692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-estafa-videollamada-te-roban-cuenta-segundos-4290849.jpg?tf=1200x' alt='WhatsApp: la estafa de la videollamada con la que te roban la cuenta en segundos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-futbol-gratis-futuro-1434207'>Experto en IPTV alerta sobre lo que se avecina: "Cuando ocurre un desastre…" </a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/experto-iptv-futbol-gratis-futuro-1434207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-4287263.jpg?tf=1200x' alt='Experto en IPTV alerta sobre lo que se avecina: "Cuando ocurre un desastre…" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277'>Mazaso a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Mazaso a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-perplexity-revela-secretos-ia-como-wikipedia-google-tuviesen-hijo-juntos-1440782'>El CEO de Perplexity revela los secretos de su IA:  "Es como si Wikipedia y Google tuviesen un hijo juntos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ceo-perplexity-revela-secretos-ia-como-wikipedia-google-tuviesen-hijo-juntos-1440782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ceo-perplexity-4291000.jpg?tf=1200x' alt='El CEO de Perplexity revela los secretos de su IA:  "Es como si Wikipedia y Google tuviesen un hijo juntos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-pirateria-1439580'>Primer país en activar la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-pirateria-1439580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-4289053.jpg?tf=1200x' alt='Primer país en activar la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/quien-natohub-hacker-espanol-solo-18-anos-ha-puesto-jaque-guardia-civil-incluso-otan-1440788'>Quién es Natohub, el hacker español de solo 18 años que ha puesto en jaque a la Guardia Civil e incluso a la OTAN</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/quien-natohub-hacker-espanol-solo-18-anos-ha-puesto-jaque-guardia-civil-incluso-otan-1440788' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-espanol-natohub-4291007.jpg?tf=1200x' alt='Quién es Natohub, el hacker español de solo 18 años que ha puesto en jaque a la Guardia Civil e incluso a la OTAN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/vuelvan-windows-10-inmediato-curiosa-advertencia-microsoft-vuelve-locos-usuarios-1440772'>"Vuelvan a Windows 10 de inmediato", la curiosa advertencia de Microsoft que vuelve locos a los usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/vuelvan-windows-10-inmediato-curiosa-advertencia-microsoft-vuelve-locos-usuarios-1440772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4290937.jpg?tf=1200x' alt='"Vuelvan a Windows 10 de inmediato", la curiosa advertencia de Microsoft que vuelve locos a los usuarios' />
     </a>
 </div>
 
