@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-nunca-1440529'>Bill Gates predijo que la IA podía tomar el control, y ese momento podría estar más cerca que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-nunca-1440529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-4290608.jpg?tf=1200x' alt='Bill Gates predijo que la IA podía tomar el control, y ese momento podría estar más cerca que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/presentacion-oficial-nintendo-switch-2-juegos-ya-tiene-fecha-hora-1440668'>La presentación oficial de Nintendo Switch 2 y sus juegos ya tiene fecha y hora</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/presentacion-oficial-nintendo-switch-2-juegos-ya-tiene-fecha-hora-1440668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/presentacion-oficial-nintendo-switch-2-juegos-ya-tiene-fecha-hora-4290827.jpg?tf=1200x' alt='La presentación oficial de Nintendo Switch 2 y sus juegos ya tiene fecha y hora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/galaxy-lista-samsung-termina-soporte-estos-moviles-2025-1440417'>¿Tu Galaxy está en la lista? Samsung termina el soporte para estos móviles en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/galaxy-lista-samsung-termina-soporte-estos-moviles-2025-1440417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/galaxy-lista-samsung-termina-soporte-varios-moviles-2025-4290473.jpg?tf=1200x' alt='¿Tu Galaxy está en la lista? Samsung termina el soporte para estos móviles en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-ia-entiende-lenguaje-perro-adios-1440658'>Crean una IA que entiende a tu perro: adiós a no saber por qué está ladrando</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-ia-entiende-lenguaje-perro-adios-1440658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/crean-ia-entiende-perro-adios-no-saber-ladrando-4290786.jpg?tf=1200x' alt='Crean una IA que entiende a tu perro: adiós a no saber por qué está ladrando' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620'>ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-4290794.jpg?tf=1200x' alt='ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/real-falso-bytedance-sorprende-modelo-deepfake-casi-indistinguible-realidad-1440636'>¿Real o falso? ByteDance sorprende con un modelo deepfake casi indistinguible de la realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/real-falso-bytedance-sorprende-modelo-deepfake-casi-indistinguible-realidad-1440636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/omnihuman-1-4290792.jpg?tf=1200x' alt='¿Real o falso? ByteDance sorprende con un modelo deepfake casi indistinguible de la realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-rompe-records-ia-deep-research-superando-examen-desafiante-mundo-1440634'>OpenAI rompe récords con su IA Deep Research, superando "el examen más desafiante del mundo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-rompe-records-ia-deep-research-superando-examen-desafiante-mundo-1440634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/capacidad-razonamiento-ia-4290788.jpg?tf=1200x' alt='OpenAI rompe récords con su IA Deep Research, superando "el examen más desafiante del mundo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-te-llama-amenaza-arrestarte-cuelga-inmediato-estafa-1440633'>Si la "policía" te llama y amenaza con arrestarte, cuelga de inmediato: es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-te-llama-amenaza-arrestarte-cuelga-inmediato-estafa-1440633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-telefonica-falso-policia-4290787.jpg?tf=1200x' alt='Si la "policía" te llama y amenaza con arrestarte, cuelga de inmediato: es una estafa' />
     </a>
 </div>
 
