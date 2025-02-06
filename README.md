@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-estafas-advierten-dia-hoy-no-somos-conscientes-ello-1440757'>Expertos en estafas advierten: "A día de hoy no somos conscientes de ello"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-estafas-advierten-dia-hoy-no-somos-conscientes-ello-1440757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciberseguridad-4099270.jpg?tf=1200x' alt='Expertos en estafas advierten: "A día de hoy no somos conscientes de ello"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-ya-tiene-tiktok-rumores-compra-parte-microsoft-disparan-1440730'>Bill Gates ya tiene TikTok y los rumores de compra por parte de Microsoft se disparan</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-ya-tiene-tiktok-rumores-compra-parte-microsoft-disparan-1440730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-ya-tiene-tiktok-4290900.jpg?tf=1200x' alt='Bill Gates ya tiene TikTok y los rumores de compra por parte de Microsoft se disparan' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-tablet-leer-comics-tambien-sirve-como-cuaderno-1440558'>Esta es la mejor tablet para leer cómics y también sirve como cuaderno</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/mejor-tablet-leer-comics-tambien-sirve-como-cuaderno-1440558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boox-tablet-note-air4-c-4290662.jpg?tf=1200x' alt='Esta es la mejor tablet para leer cómics y también sirve como cuaderno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/asus-zenbook-a14-1440153'>He probado el Asus Zenbook A14, un portátil de solo 980 gramos que te dará más de dos días de batería</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/asus-zenbook-a14-1440153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290272.jpg?tf=1200x' alt='He probado el Asus Zenbook A14, un portátil de solo 980 gramos que te dará más de dos días de batería' />
     </a>
 </div>
 
