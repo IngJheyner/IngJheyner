@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-ia-entiende-lenguaje-perro-adios-1440658'>Crean una IA que entiende a tu perro: adiós a no saber por qué está ladrando</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crean-ia-entiende-lenguaje-perro-adios-1440658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/crean-ia-entiende-perro-adios-no-saber-ladrando-4290786.jpg?tf=1200x' alt='Crean una IA que entiende a tu perro: adiós a no saber por qué está ladrando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620'>ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-4290794.jpg?tf=1200x' alt='ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-te-llama-amenaza-arrestarte-cuelga-inmediato-estafa-1440633'>Si la "policía" te llama y amenaza con arrestarte, cuelga de inmediato: es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-te-llama-amenaza-arrestarte-cuelga-inmediato-estafa-1440633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-telefonica-falso-policia-4290787.jpg?tf=1200x' alt='Si la "policía" te llama y amenaza con arrestarte, cuelga de inmediato: es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/bill-gates-advierte-peligro-gente-inteligente-ha-enganado-misma-son-inutiles-1440541'>Bill Gates advierte del peligro: "La gente inteligente se ha engañado a sí misma, son inútiles”</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/bill-gates-advierte-peligro-gente-inteligente-ha-enganado-misma-son-inutiles-1440541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-advierte-peligro-gente-inteligente-ha-enganado-misma-son-inutiles-4290630.jpg?tf=1200x' alt='Bill Gates advierte del peligro: "La gente inteligente se ha engañado a sí misma, son inútiles”' />
     </a>
 </div>
 
