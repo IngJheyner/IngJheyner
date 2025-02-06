@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277'>Mazaso a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Mazaso a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-perplexity-revela-secretos-ia-como-wikipedia-google-tuviesen-hijo-juntos-1440782'>El CEO de Perplexity revela los secretos de su IA:  "Es como si Wikipedia y Google tuviesen un hijo juntos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-perplexity-revela-secretos-ia-como-wikipedia-google-tuviesen-hijo-juntos-1440782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ceo-perplexity-4291000.jpg?tf=1200x' alt='El CEO de Perplexity revela los secretos de su IA:  "Es como si Wikipedia y Google tuviesen un hijo juntos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-pirateria-1439580'>Primer país en activar la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/activar-operacion-jaula-iptv-pirateria-1439580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/primer-pais-mundo-activar-operacion-jaula-iptv-hay-atacar-problema-origen-4289053.jpg?tf=1200x' alt='Primer país en activar la operación jaula contra las IPTV: "Hay que atacar el problema desde su origen"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/quien-natohub-hacker-espanol-solo-18-anos-ha-puesto-jaque-guardia-civil-incluso-otan-1440788'>Quién es Natohub, el hacker español de solo 18 años que ha puesto en jaque a la Guardia Civil e incluso a la OTAN</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/quien-natohub-hacker-espanol-solo-18-anos-ha-puesto-jaque-guardia-civil-incluso-otan-1440788' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-espanol-natohub-4291007.jpg?tf=1200x' alt='Quién es Natohub, el hacker español de solo 18 años que ha puesto en jaque a la Guardia Civil e incluso a la OTAN' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/vuelvan-windows-10-inmediato-curiosa-advertencia-microsoft-vuelve-locos-usuarios-1440772'>"Vuelvan a Windows 10 de inmediato", la curiosa advertencia de Microsoft que vuelve locos a los usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/vuelvan-windows-10-inmediato-curiosa-advertencia-microsoft-vuelve-locos-usuarios-1440772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4290937.jpg?tf=1200x' alt='"Vuelvan a Windows 10 de inmediato", la curiosa advertencia de Microsoft que vuelve locos a los usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-saca-guillotina-ia-apple-no-libra-no-cumplen-estos-requisitos-estan-prohibidas-1440765'>Europa saca la guillotina con la IA y Apple no se libra: si no cumplen estos requisitos están prohibidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/europa-saca-guillotina-ia-apple-no-libra-no-cumplen-estos-requisitos-estan-prohibidas-1440765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-guillotina-ue-4290933.jpg?tf=1200x' alt='Europa saca la guillotina con la IA y Apple no se libra: si no cumplen estos requisitos están prohibidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-aumentan-probabilidades-impacto-onu-ya-prepara-armageddon-1440744'>Asteroide 2024 YR4: aumentan las probabilidades de impacto y la ONU ya prepara su "Armageddon"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-aumentan-probabilidades-impacto-onu-ya-prepara-armageddon-1440744' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/impacto-asteroide-tierra-4290925.jpg?tf=1200x' alt='Asteroide 2024 YR4: aumentan las probabilidades de impacto y la ONU ya prepara su "Armageddon"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-estafas-advierten-dia-hoy-no-somos-conscientes-ello-1440757'>Expertos en estafas advierten: "A día de hoy no somos conscientes de ello"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-estafas-advierten-dia-hoy-no-somos-conscientes-ello-1440757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciberseguridad-4099270.jpg?tf=1200x' alt='Expertos en estafas advierten: "A día de hoy no somos conscientes de ello"' />
     </a>
 </div>
 
