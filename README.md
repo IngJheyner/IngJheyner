@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/proxima-pelicula-stephen-king-tan-brutal-muchos-canales-tv-han-prohibido-trailer-1440673'>La próxima película de Stephen King es tan brutal que muchos canales de TV han prohibido su tráiler</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/proxima-pelicula-stephen-king-tan-brutal-muchos-canales-tv-han-prohibido-trailer-1440673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/proxima-pelicula-stephen-king-tan-brutal-muchos-canales-han-prohibido-trailer-4290833.jpg?tf=1200x' alt='La próxima película de Stephen King es tan brutal que muchos canales de TV han prohibido su tráiler' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-alexa-sera-mayor-actualizacion-10-anos-1440911'>La inteligencia artificial llega a Alexa: así será la mayor actualización en 10 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-llega-alexa-sera-mayor-actualizacion-10-anos-1440911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alexa-4291223.jpg?tf=1200x' alt='La inteligencia artificial llega a Alexa: así será la mayor actualización en 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/solucion-disponible-google-arregla-error-bloqueaba-musica-android-auto-1440910'>Solución disponible: Google arregla el error que bloqueaba la música en Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/solucion-disponible-google-arregla-error-bloqueaba-musica-android-auto-1440910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/configuraciones-defecto-android-auto-deberias-cambiar-ahora-mismo-4247528.jpg?tf=1200x' alt='Solución disponible: Google arregla el error que bloqueaba la música en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-confiesa-mayor-error-ha-cometido-vida-no-ha-podido-cumplir-promesas-tesla-1440693'>Elon Musk confiesa el mayor error que ha cometido en su vida: no ha podido cumplir sus promesas con Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-confiesa-mayor-error-ha-cometido-vida-no-ha-podido-cumplir-promesas-tesla-1440693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-confiesa-mayor-error-ha-cometido-vida-no-ha-podido-cumplir-promesas-tesla-4290865.jpg?tf=1200x' alt='Elon Musk confiesa el mayor error que ha cometido en su vida: no ha podido cumplir sus promesas con Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-nuevo-exito-pelicula-ya-top-30-paises-pero-divide-publico-1440401'>Netflix tiene su nuevo éxito: la película que ya es "top" en más de 30 países, pero divide al público</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-nuevo-exito-pelicula-ya-top-30-paises-pero-divide-publico-1440401' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-nuevo-exito-pelicula-ya-top-30-paises-pero-divide-publico-4290430.jpg?tf=1200x' alt='Netflix tiene su nuevo éxito: la película que ya es "top" en más de 30 países, pero divide al público' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-saber-digi-tv-disponible-zona-canales-puedes-ver-solo-7-euros-mes-1440809'>Cómo saber si DIGI TV está disponible en tu zona y qué canales puedes ver por solo 7 euros al mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-saber-digi-tv-disponible-zona-canales-puedes-ver-solo-7-euros-mes-1440809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-4291054.jpg?tf=1200x' alt='Cómo saber si DIGI TV está disponible en tu zona y qué canales puedes ver por solo 7 euros al mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-importante-victoria-lucha-pirateria-podria-cambiarlo-todo-1440878'>Mazazo a las IPTV, importante victoria en la lucha contra la piratería que podría cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-importante-victoria-lucha-pirateria-podria-cambiarlo-todo-1440878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mazazo-iptv-importante-victoria-lucha-pirateria-podria-cambiarlo-todo-4291198.jpg?tf=1200x' alt='Mazazo a las IPTV, importante victoria en la lucha contra la piratería que podría cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/estafas-sms-metodos-clave-identificarlas-1440751'>Estafas por SMS: los dos métodos clave para identificarlas en el acto</a></h4>
-    <a href='https://computerhoy.20minutos.es/estafas-sms-metodos-clave-identificarlas-1440751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-evitar-estafas-mensajes-sms-4290936.jpg?tf=1200x' alt='Estafas por SMS: los dos métodos clave para identificarlas en el acto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/iphone-whatsapp-actualiza-inmediatamente-funcion-rota-pone-peligro-privacidad-1440821'>Si tienes un iPhone y usas WhatsApp actualiza inmediatamente: esta función está rota y pone en peligro tu privacidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/iphone-whatsapp-actualiza-inmediatamente-funcion-rota-pone-peligro-privacidad-1440821' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/visualizacion-unica-foto-whatsapp-4291140.jpg?tf=1200x' alt='Si tienes un iPhone y usas WhatsApp actualiza inmediatamente: esta función está rota y pone en peligro tu privacidad' />
     </a>
 </div>
 
