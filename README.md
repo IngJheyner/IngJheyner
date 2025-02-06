@@ -74,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277'>Mazaso a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277'>Mazazo a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Mazaso a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Mazazo a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación' />
     </a>
 </div>
 
