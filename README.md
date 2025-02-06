@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/quien-natohub-hacker-espanol-solo-18-anos-ha-puesto-jaque-guardia-civil-incluso-otan-1440788'>Quién es Natohub, el hacker español de solo 18 años que ha puesto en jaque a la Guardia Civil e incluso a la OTAN</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/quien-natohub-hacker-espanol-solo-18-anos-ha-puesto-jaque-guardia-civil-incluso-otan-1440788' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-espanol-natohub-4291007.jpg?tf=1200x' alt='Quién es Natohub, el hacker español de solo 18 años que ha puesto en jaque a la Guardia Civil e incluso a la OTAN' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/vuelvan-windows-10-inmediato-curiosa-advertencia-microsoft-vuelve-locos-usuarios-1440772'>"Vuelvan a Windows 10 de inmediato", la curiosa advertencia de Microsoft que vuelve locos a los usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/vuelvan-windows-10-inmediato-curiosa-advertencia-microsoft-vuelve-locos-usuarios-1440772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4290937.jpg?tf=1200x' alt='"Vuelvan a Windows 10 de inmediato", la curiosa advertencia de Microsoft que vuelve locos a los usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-saca-guillotina-ia-apple-no-libra-no-cumplen-estos-requisitos-estan-prohibidas-1440765'>Europa saca la guillotina con la IA y Apple no se libra: si no cumplen estos requisitos están prohibidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/europa-saca-guillotina-ia-apple-no-libra-no-cumplen-estos-requisitos-estan-prohibidas-1440765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-guillotina-ue-4290933.jpg?tf=1200x' alt='Europa saca la guillotina con la IA y Apple no se libra: si no cumplen estos requisitos están prohibidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-aumentan-probabilidades-impacto-onu-ya-prepara-armageddon-1440744'>Asteroide 2024 YR4: aumentan las probabilidades de impacto y la ONU ya prepara su "Armageddon"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-aumentan-probabilidades-impacto-onu-ya-prepara-armageddon-1440744' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/impacto-asteroide-tierra-4290925.jpg?tf=1200x' alt='Asteroide 2024 YR4: aumentan las probabilidades de impacto y la ONU ya prepara su "Armageddon"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-estafas-advierten-dia-hoy-no-somos-conscientes-ello-1440757'>Expertos en estafas advierten: "A día de hoy no somos conscientes de ello"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-estafas-advierten-dia-hoy-no-somos-conscientes-ello-1440757' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/ciberseguridad-4099270.jpg?tf=1200x' alt='Expertos en estafas advierten: "A día de hoy no somos conscientes de ello"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-ya-tiene-tiktok-rumores-compra-parte-microsoft-disparan-1440730'>Bill Gates ya tiene TikTok y los rumores de compra por parte de Microsoft se disparan</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-ya-tiene-tiktok-rumores-compra-parte-microsoft-disparan-1440730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-ya-tiene-tiktok-4290900.jpg?tf=1200x' alt='Bill Gates ya tiene TikTok y los rumores de compra por parte de Microsoft se disparan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-interactuar-chatgpt-whatsapp-imagenes-notas-voz-1440718'>Cómo interactuar con ChatGPT en WhatsApp con imágenes y notas de voz</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-interactuar-chatgpt-whatsapp-imagenes-notas-voz-1440718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-whatsapp-4290898.jpg?tf=1200x' alt='Cómo interactuar con ChatGPT en WhatsApp con imágenes y notas de voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/whale-phishing-nueva-estafa-cazar-peces-gordos-1440704'>Qué es el 'whale phishing', la nueva estafa para cazar "peces gordos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/whale-phishing-nueva-estafa-cazar-peces-gordos-1440704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ballena-phishing-4290858.jpg?tf=1200x' alt='Qué es el 'whale phishing', la nueva estafa para cazar "peces gordos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-tablet-leer-comics-tambien-sirve-como-cuaderno-1440558'>Esta es la mejor tablet para leer cómics y también sirve como cuaderno</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/mejor-tablet-leer-comics-tambien-sirve-como-cuaderno-1440558' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boox-tablet-note-air4-c-4290662.jpg?tf=1200x' alt='Esta es la mejor tablet para leer cómics y también sirve como cuaderno' />
     </a>
 </div>
 
