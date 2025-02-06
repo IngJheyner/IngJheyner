@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-nuevo-exito-pelicula-ya-top-30-paises-pero-divide-publico-1440401'>Netflix tiene su nuevo éxito: la película que ya es "top" en más de 30 países, pero divide al público</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-nuevo-exito-pelicula-ya-top-30-paises-pero-divide-publico-1440401' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-nuevo-exito-pelicula-ya-top-30-paises-pero-divide-publico-4290430.jpg?tf=1200x' alt='Netflix tiene su nuevo éxito: la película que ya es "top" en más de 30 países, pero divide al público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-saber-digi-tv-disponible-zona-canales-puedes-ver-solo-7-euros-mes-1440809'>Cómo saber si DIGI TV está disponible en tu zona y qué canales puedes ver por solo 7 euros al mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-saber-digi-tv-disponible-zona-canales-puedes-ver-solo-7-euros-mes-1440809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-4291054.jpg?tf=1200x' alt='Cómo saber si DIGI TV está disponible en tu zona y qué canales puedes ver por solo 7 euros al mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-importante-victoria-lucha-pirateria-podria-cambiarlo-todo-1440878'>Mazazo a las IPTV, importante victoria en la lucha contra la piratería que podría cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-importante-victoria-lucha-pirateria-podria-cambiarlo-todo-1440878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mazazo-iptv-importante-victoria-lucha-pirateria-podria-cambiarlo-todo-4291198.jpg?tf=1200x' alt='Mazazo a las IPTV, importante victoria en la lucha contra la piratería que podría cambiarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/estafas-sms-metodos-clave-identificarlas-1440751'>Estafas por SMS: los dos métodos clave para identificarlas en el acto</a></h4>
     <a href='https://computerhoy.20minutos.es/estafas-sms-metodos-clave-identificarlas-1440751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-evitar-estafas-mensajes-sms-4290936.jpg?tf=1200x' alt='Estafas por SMS: los dos métodos clave para identificarlas en el acto' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/iphone-whatsapp-actualiza-inmediatamente-funcion-rota-pone-peligro-privacidad-1440821'>Si tienes un iPhone y usas WhatsApp actualiza inmediatamente: esta función está rota y pone en peligro tu privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/iphone-whatsapp-actualiza-inmediatamente-funcion-rota-pone-peligro-privacidad-1440821' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/visualizacion-unica-foto-whatsapp-4291140.jpg?tf=1200x' alt='Si tienes un iPhone y usas WhatsApp actualiza inmediatamente: esta función está rota y pone en peligro tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pedian-dineral-arreglar-mac-no-corto-pelo-escribio-tim-cook-cambio-todo-1440764'>Le pedían un dineral por arreglar su Mac, no se cortó un pelo y escribió a Tim Cook que lo cambió todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pedian-dineral-arreglar-mac-no-corto-pelo-escribio-tim-cook-cambio-todo-1440764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tim-cook-4290994.jpg?tf=1200x' alt='Le pedían un dineral por arreglar su Mac, no se cortó un pelo y escribió a Tim Cook que lo cambió todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/warner-bros-subiendo-peliculas-completas-youtube-son-gratis-algunas-son-taquillazos-1440847'>Warner Bros. está subiendo películas completas a YouTube: son gratis y algunas son taquillazos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/warner-bros-subiendo-peliculas-completas-youtube-son-gratis-algunas-son-taquillazos-1440847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/warner-bros-subiendo-peliculas-completas-youtube-son-gratis-algunas-son-taquillazos-4291169.jpg?tf=1200x' alt='Warner Bros. está subiendo películas completas a YouTube: son gratis y algunas son taquillazos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ingeniero-espacial-muda-vivir-mar-demostrar-podria-ser-alternativa-ser-humano-1440804'>Ingeniero espacial se muda a vivir bajo el mar para demostrar que podría ser una alternativa para el ser humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ingeniero-espacial-muda-vivir-mar-demostrar-podria-ser-alternativa-ser-humano-1440804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ingeniero-espacial-muda-vivir-mar-demostrar-podria-ser-alternativa-ser-humano-4291010.jpg?tf=1200x' alt='Ingeniero espacial se muda a vivir bajo el mar para demostrar que podría ser una alternativa para el ser humano' />
     </a>
 </div>
 
