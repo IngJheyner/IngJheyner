@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-ya-tiene-tiktok-rumores-compra-parte-microsoft-disparan-1440730'>Bill Gates ya tiene TikTok y los rumores de compra por parte de Microsoft se disparan</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-ya-tiene-tiktok-rumores-compra-parte-microsoft-disparan-1440730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-ya-tiene-tiktok-4290900.jpg?tf=1200x' alt='Bill Gates ya tiene TikTok y los rumores de compra por parte de Microsoft se disparan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-interactuar-chatgpt-whatsapp-imagenes-notas-voz-1440718'>Cómo interactuar con ChatGPT en WhatsApp con imágenes y notas de voz</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-interactuar-chatgpt-whatsapp-imagenes-notas-voz-1440718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-whatsapp-4290898.jpg?tf=1200x' alt='Cómo interactuar con ChatGPT en WhatsApp con imágenes y notas de voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/whale-phishing-nueva-estafa-cazar-peces-gordos-1440704'>Qué es el 'whale phishing', la nueva estafa para cazar "peces gordos"</a></h4>
     <a href='https://computerhoy.20minutos.es/whale-phishing-nueva-estafa-cazar-peces-gordos-1440704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ballena-phishing-4290858.jpg?tf=1200x' alt='Qué es el 'whale phishing', la nueva estafa para cazar "peces gordos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/asus-zenbook-a14-1440153'>He probado el Asus Zenbook A14, un portátil de solo 980 gramos que te dará más de dos días de batería</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/asus-zenbook-a14-1440153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290272.jpg?tf=1200x' alt='He probado el Asus Zenbook A14, un portátil de solo 980 gramos que te dará más de dos días de batería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/lg-televisor-transparente-cables-existe-ya-puedes-hacerte-aunque-prepara-cartera-1440677'>Este televisor transparente sin cables existe y ya puedes hacerte con uno, aunque prepara la cartera</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/lg-televisor-transparente-cables-existe-ya-puedes-hacerte-aunque-prepara-cartera-1440677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/televisor-transparente-cables-existe-ya-puedes-hacerte-aunque-prepara-cartera-4290832.jpg?tf=1200x' alt='Este televisor transparente sin cables existe y ya puedes hacerte con uno, aunque prepara la cartera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/editas-videos-no-quieres-perder-calidad-samsung-galaxy-s25-ofrece-modo-muy-top-1439861'>Si editas tus vídeos y no quieres perder calidad, el Samsung Galaxy S25+ ofrece un modo muy top</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/editas-videos-no-quieres-perder-calidad-samsung-galaxy-s25-ofrece-modo-muy-top-1439861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-4288679.jpg?tf=1200x' alt='Si editas tus vídeos y no quieres perder calidad, el Samsung Galaxy S25+ ofrece un modo muy top' />
     </a>
 </div>
 
