@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/actualiza-software-tesla-convierte-arte-magia-seat-panda-1440535'>Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/actualiza-software-tesla-convierte-arte-magia-seat-panda-1440535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-tesla-model-3-4290633.jpg?tf=1200x' alt='Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-modo-invitado-youtube-amazon-fire-tv-smart-tv-1440537'>Cómo recuperar el modo invitado de YouTube en los Amazon Fire TV y Smart TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-modo-invitado-youtube-amazon-fire-tv-smart-tv-1440537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-invitado-youtube-4290609.jpg?tf=1200x' alt='Cómo recuperar el modo invitado de YouTube en los Amazon Fire TV y Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-nunca-1440529'>Bill Gates predijo que la IA podía tomar el control, y ese momento podría estar más cerca que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-nunca-1440529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-4290608.jpg?tf=1200x' alt='Bill Gates predijo que la IA podía tomar el control, y ese momento podría estar más cerca que nunca' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/galaxy-lista-samsung-termina-soporte-estos-moviles-2025-1440417'>¿Tu Galaxy está en la lista? Samsung termina el soporte para estos móviles en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/galaxy-lista-samsung-termina-soporte-estos-moviles-2025-1440417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/galaxy-lista-samsung-termina-soporte-varios-moviles-2025-4290473.jpg?tf=1200x' alt='¿Tu Galaxy está en la lista? Samsung termina el soporte para estos móviles en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-ia-entiende-lenguaje-perro-adios-1440658'>Crean una IA que entiende a tu perro: adiós a no saber por qué está ladrando</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crean-ia-entiende-lenguaje-perro-adios-1440658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/crean-ia-entiende-perro-adios-no-saber-ladrando-4290786.jpg?tf=1200x' alt='Crean una IA que entiende a tu perro: adiós a no saber por qué está ladrando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620'>ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-1440620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-genial-truco-viral-profesor-cazar-alumnos-han-utilizado-ia-4290794.jpg?tf=1200x' alt='ChatGPT: el genial truco viral de un profesor para cazar a los alumnos que han utilizado la IA' />
     </a>
 </div>
 
