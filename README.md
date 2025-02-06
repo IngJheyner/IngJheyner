@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/bill-gates-confia-empresa-espanola-fabricar-minirreactores-nucleares-1440775'>Bill Gates confía en esta empresa española para fabricar sus minirreactores nucleares</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/bill-gates-confia-empresa-espanola-fabricar-minirreactores-nucleares-1440775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-bandera-espana-4291031.jpg?tf=1200x' alt='Bill Gates confía en esta empresa española para fabricar sus minirreactores nucleares' />
+    <h4><a href='https://computerhoy.20minutos.es/estafas-sms-metodos-clave-identificarlas-1440751'>Estafas por SMS: los dos métodos clave para identificarlas en el acto</a></h4>
+    <a href='https://computerhoy.20minutos.es/estafas-sms-metodos-clave-identificarlas-1440751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-evitar-estafas-mensajes-sms-4290936.jpg?tf=1200x' alt='Estafas por SMS: los dos métodos clave para identificarlas en el acto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estafa-videollamada-te-roban-cuenta-segundos-1440692'>WhatsApp: la estafa de la videollamada con la que te roban la cuenta en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-estafa-videollamada-te-roban-cuenta-segundos-1440692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-estafa-videollamada-te-roban-cuenta-segundos-4290849.jpg?tf=1200x' alt='WhatsApp: la estafa de la videollamada con la que te roban la cuenta en segundos' />
+    <h4><a href='https://computerhoy.20minutos.es/iphone-whatsapp-actualiza-inmediatamente-funcion-rota-pone-peligro-privacidad-1440821'>Si tienes un iPhone y usas WhatsApp actualiza inmediatamente: esta función está rota y pone en peligro tu privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/iphone-whatsapp-actualiza-inmediatamente-funcion-rota-pone-peligro-privacidad-1440821' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/visualizacion-unica-foto-whatsapp-4291140.jpg?tf=1200x' alt='Si tienes un iPhone y usas WhatsApp actualiza inmediatamente: esta función está rota y pone en peligro tu privacidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/experto-iptv-futbol-gratis-futuro-1434207'>Experto en IPTV alerta sobre lo que se avecina: "Cuando ocurre un desastre…" </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/experto-iptv-futbol-gratis-futuro-1434207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/experto-iptv-4287263.jpg?tf=1200x' alt='Experto en IPTV alerta sobre lo que se avecina: "Cuando ocurre un desastre…" ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pedian-dineral-arreglar-mac-no-corto-pelo-escribio-tim-cook-cambio-todo-1440764'>Le pedían un dineral por arreglar su Mac, no se cortó un pelo y escribió a Tim Cook que lo cambió todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pedian-dineral-arreglar-mac-no-corto-pelo-escribio-tim-cook-cambio-todo-1440764' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tim-cook-4290994.jpg?tf=1200x' alt='Le pedían un dineral por arreglar su Mac, no se cortó un pelo y escribió a Tim Cook que lo cambió todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277'>Mazazo a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mazazo-clientes-movistar-plus-nuevos-canales-1437277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-plus-4285275.jpg?tf=1200x' alt='Mazazo a los clientes de Movistar Plus+: los nuevos canales llegan con una importante limitación' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/warner-bros-subiendo-peliculas-completas-youtube-son-gratis-algunas-son-taquillazos-1440847'>Warner Bros. está subiendo películas completas a YouTube: son gratis y algunas son taquillazos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/warner-bros-subiendo-peliculas-completas-youtube-son-gratis-algunas-son-taquillazos-1440847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/warner-bros-subiendo-peliculas-completas-youtube-son-gratis-algunas-son-taquillazos-4291169.jpg?tf=1200x' alt='Warner Bros. está subiendo películas completas a YouTube: son gratis y algunas son taquillazos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-perplexity-revela-secretos-ia-como-wikipedia-google-tuviesen-hijo-juntos-1440782'>El CEO de Perplexity revela los secretos de su IA:  "Es como si Wikipedia y Google tuviesen un hijo juntos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-perplexity-revela-secretos-ia-como-wikipedia-google-tuviesen-hijo-juntos-1440782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ceo-perplexity-4291000.jpg?tf=1200x' alt='El CEO de Perplexity revela los secretos de su IA:  "Es como si Wikipedia y Google tuviesen un hijo juntos"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ingeniero-espacial-muda-vivir-mar-demostrar-podria-ser-alternativa-ser-humano-1440804'>Ingeniero espacial se muda a vivir bajo el mar para demostrar que podría ser una alternativa para el ser humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ingeniero-espacial-muda-vivir-mar-demostrar-podria-ser-alternativa-ser-humano-1440804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ingeniero-espacial-muda-vivir-mar-demostrar-podria-ser-alternativa-ser-humano-4291010.jpg?tf=1200x' alt='Ingeniero espacial se muda a vivir bajo el mar para demostrar que podría ser una alternativa para el ser humano' />
     </a>
 </div>
 
