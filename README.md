@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/asus-zenbook-a14-1440153'>He probado el Asus Zenbook A14, un portátil de solo 980 gramos que te dará más de dos días de batería</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/asus-zenbook-a14-1440153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290272.jpg?tf=1200x' alt='He probado el Asus Zenbook A14, un portátil de solo 980 gramos que te dará más de dos días de batería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/lg-televisor-transparente-cables-existe-ya-puedes-hacerte-aunque-prepara-cartera-1440677'>Este televisor transparente sin cables existe y ya puedes hacerte con uno, aunque prepara la cartera</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/lg-televisor-transparente-cables-existe-ya-puedes-hacerte-aunque-prepara-cartera-1440677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/televisor-transparente-cables-existe-ya-puedes-hacerte-aunque-prepara-cartera-4290832.jpg?tf=1200x' alt='Este televisor transparente sin cables existe y ya puedes hacerte con uno, aunque prepara la cartera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/editas-videos-no-quieres-perder-calidad-samsung-galaxy-s25-ofrece-modo-muy-top-1439861'>Si editas tus vídeos y no quieres perder calidad, el Samsung Galaxy S25+ ofrece un modo muy top</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/editas-videos-no-quieres-perder-calidad-samsung-galaxy-s25-ofrece-modo-muy-top-1439861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/samsung-galaxy-s25-4288679.jpg?tf=1200x' alt='Si editas tus vídeos y no quieres perder calidad, el Samsung Galaxy S25+ ofrece un modo muy top' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/actualiza-software-tesla-convierte-arte-magia-seat-panda-1440535'>Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/actualiza-software-tesla-convierte-arte-magia-seat-panda-1440535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-tesla-model-3-4290633.jpg?tf=1200x' alt='Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-modo-invitado-youtube-amazon-fire-tv-smart-tv-1440537'>Cómo recuperar el modo invitado de YouTube en los Amazon Fire TV y Smart TV</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-recuperar-modo-invitado-youtube-amazon-fire-tv-smart-tv-1440537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-invitado-youtube-4290609.jpg?tf=1200x' alt='Cómo recuperar el modo invitado de YouTube en los Amazon Fire TV y Smart TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-nunca-1440529'>Bill Gates predijo que la IA podía tomar el control, y ese momento podría estar más cerca que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-nunca-1440529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-predijo-ia-podia-tomar-control-ese-momento-podria-estar-cerca-4290608.jpg?tf=1200x' alt='Bill Gates predijo que la IA podía tomar el control, y ese momento podría estar más cerca que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/presentacion-oficial-nintendo-switch-2-juegos-ya-tiene-fecha-hora-1440668'>La presentación oficial de Nintendo Switch 2 y sus juegos ya tiene fecha y hora</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/presentacion-oficial-nintendo-switch-2-juegos-ya-tiene-fecha-hora-1440668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/presentacion-oficial-nintendo-switch-2-juegos-ya-tiene-fecha-hora-4290827.jpg?tf=1200x' alt='La presentación oficial de Nintendo Switch 2 y sus juegos ya tiene fecha y hora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/galaxy-lista-samsung-termina-soporte-estos-moviles-2025-1440417'>¿Tu Galaxy está en la lista? Samsung termina el soporte para estos móviles en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/galaxy-lista-samsung-termina-soporte-estos-moviles-2025-1440417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/galaxy-lista-samsung-termina-soporte-varios-moviles-2025-4290473.jpg?tf=1200x' alt='¿Tu Galaxy está en la lista? Samsung termina el soporte para estos móviles en 2025' />
     </a>
 </div>
 
