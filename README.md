@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/packard-bell-fabricante-ordenadores-competia-hp-dell-1440948'>Qué fue de Packard Bell, el fabricante de ordenadores que competía con HP y Dell</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/packard-bell-fabricante-ordenadores-competia-hp-dell-1440948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fue-packard-bell-fabricante-ordenadores-competia-hp-dell-4291277.jpg?tf=1200x' alt='Qué fue de Packard Bell, el fabricante de ordenadores que competía con HP y Dell' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/zenfone-12-ultra-buque-insignia-asus-snapdragon-8-elite-lleva-ia-nuevo-nivel-1440932'>Zenfone 12 Ultra, el buque insignia de Asus con Snapdragon 8 Elite que lleva la IA a un nuevo nivel</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/zenfone-12-ultra-buque-insignia-asus-snapdragon-8-elite-lleva-ia-nuevo-nivel-1440932' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/zenfone-12-ultra-buque-insignia-asus-lleva-ia-nuevo-nivel-4291245.jpg?tf=1200x' alt='Zenfone 12 Ultra, el buque insignia de Asus con Snapdragon 8 Elite que lleva la IA a un nuevo nivel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/adios-apple-watch-pesadilla-anillos-consume-usuarios-no-saludable-1440895'>Adiós al Apple Watch, la "pesadilla de los anillos" consume a sus usuarios: "No es saludable"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/adios-apple-watch-pesadilla-anillos-consume-usuarios-no-saludable-1440895' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-apple-watch-pesadilla-anillos-consume-usuarios-no-saludable-4291221.jpg?tf=1200x' alt='Adiós al Apple Watch, la "pesadilla de los anillos" consume a sus usuarios: "No es saludable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/proxima-pelicula-stephen-king-tan-brutal-muchos-canales-tv-han-prohibido-trailer-1440673'>La próxima película de Stephen King es tan brutal que muchos canales de TV han prohibido su tráiler</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/proxima-pelicula-stephen-king-tan-brutal-muchos-canales-tv-han-prohibido-trailer-1440673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/proxima-pelicula-stephen-king-tan-brutal-muchos-canales-han-prohibido-trailer-4290833.jpg?tf=1200x' alt='La próxima película de Stephen King es tan brutal que muchos canales de TV han prohibido su tráiler' />
     </a>
 </div>
 
