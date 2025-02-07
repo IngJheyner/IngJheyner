@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-1441170'>Ni DeepSeek ni ChatGPT: Le Chat de Mistral es la nueva IA generativa que quiere poner a Europa en el mapa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-1441170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-4291645.jpg?tf=1200x' alt='Ni DeepSeek ni ChatGPT: Le Chat de Mistral es la nueva IA generativa que quiere poner a Europa en el mapa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ciberdeck-raspberry-pi-parece-sacado-blade-runner-completamente-funcional-1441168'>Este ciberdeck Raspberry Pi parece sacado de Blade Runner y es completamente funcional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ciberdeck-raspberry-pi-parece-sacado-blade-runner-completamente-funcional-1441168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vertical-runner-4291668.jpg?tf=1200x' alt='Este ciberdeck Raspberry Pi parece sacado de Blade Runner y es completamente funcional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/libreoffice-252-ya-aqui-rapido-compatible-nuevas-funciones-1441164'>LibreOffice 25.2 ya está aquí: más rápido, más compatible y con nuevas funciones</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/libreoffice-252-ya-aqui-rapido-compatible-nuevas-funciones-1441164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libreoffice-4291659.jpg?tf=1200x' alt='LibreOffice 25.2 ya está aquí: más rápido, más compatible y con nuevas funciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952'>Sorprendentemente The Big Bang Theory hace historia 6 años después de su final</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reparto-big-bang-theory-4291013.jpg?tf=1200x' alt='Sorprendentemente The Big Bang Theory hace historia 6 años después de su final' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/baten-record-instalacion-windows-10-solo-104-segundos-lejos-ser-espectacular-problema-1441151'>Baten el récord de instalación de Windows 10: solo 104 segundos, y lejos de ser espectacular, es un problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/baten-record-instalacion-windows-10-solo-104-segundos-lejos-ser-espectacular-problema-1441151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-portatil-4291624.jpg?tf=1200x' alt='Baten el récord de instalación de Windows 10: solo 104 segundos, y lejos de ser espectacular, es un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965'>La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-4291305.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos' />
     </a>
 </div>
 
