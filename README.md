@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-1440995'>El esperado iPhone SE 4 ya tendría fecha de lanzamiento y será inminente</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-1440995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-4291351.jpg?tf=1200x' alt='El esperado iPhone SE 4 ya tendría fecha de lanzamiento y será inminente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/mastodontico-problema-microsoft-windows-10-quedando-tiempo-resolverlo-1440986'>El mastodóntico problema de Microsoft con Windows 10: se está quedando sin tiempo para resolverlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/mastodontico-problema-microsoft-windows-10-quedando-tiempo-resolverlo-1440986' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-windows-10-4291346.jpg?tf=1200x' alt='El mastodóntico problema de Microsoft con Windows 10: se está quedando sin tiempo para resolverlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996'>La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pantalla-color-paper-samsung-no-consume-nada-durante-semanas-cambia-todo-4291303.jpg?tf=1200x' alt='La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970'>Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cuenta-todo-ciudad-futurista-grande-barcelona-100-sostenible-2028-1440962'>Bill Gates lo cuenta todo sobre su ciudad futurista: más grande que Barcelona y 100% sostenible para 2028</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cuenta-todo-ciudad-futurista-grande-barcelona-100-sostenible-2028-1440962' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-ciudad-4291301.jpg?tf=1200x' alt='Bill Gates lo cuenta todo sobre su ciudad futurista: más grande que Barcelona y 100% sostenible para 2028' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sentencia-intel-1440959'>Bill Gates sentencia a Intel: "Estoy conmocionado, se ha quedado atrás"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sentencia-intel-1440959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-sentencia-intel-estoy-conmocionado-ha-quedado-atras-4291271.jpg?tf=1200x' alt='Bill Gates sentencia a Intel: "Estoy conmocionado, se ha quedado atrás"' />
     </a>
 </div>
 
