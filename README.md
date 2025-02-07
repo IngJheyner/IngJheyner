@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-clara-clave-exito-generacion-z-no-quiere-ni-escuchar-hablar-ella-1440766'>Steve Jobs tenía clara la clave del éxito, y la generación Z no quiere ni escuchar hablar de ella</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-clara-clave-exito-generacion-z-no-quiere-ni-escuchar-hablar-ella-1440766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/steve-jobs.jpg?tf=1200x' alt='Steve Jobs tenía clara la clave del éxito, y la generación Z no quiere ni escuchar hablar de ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estos-son-nuevos-canales-4k-llegaran-tdt-cuando-podras-sintonizarlos-televisor-1440820'>Estos son los nuevos canales 4K que llegarán a la TDT y cuándo podrás sintonizarlos en tu televisor</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/estos-son-nuevos-canales-4k-llegaran-tdt-cuando-podras-sintonizarlos-televisor-1440820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tdt-4k-4291087.jpg?tf=1200x' alt='Estos son los nuevos canales 4K que llegarán a la TDT y cuándo podrás sintonizarlos en tu televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/son-listas-whatsapp-como-usarlas-organizar-chats-1440761'>¿Qué son las listas de WhatsApp y cómo usarlas para organizar los chats?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/son-listas-whatsapp-como-usarlas-organizar-chats-1440761' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-listas-whatsapp-como-usarlas-organizar-chats-4290929.jpg?tf=1200x' alt='¿Qué son las listas de WhatsApp y cómo usarlas para organizar los chats?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-guardia-civil-estas-son-estafas-pueden-aprovechar-compartes-dni-1440715'>Alerta de la Guardia Civil: estas son las estafas que se pueden aprovechar si compartes tu DNI</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alerta-guardia-civil-estas-son-estafas-pueden-aprovechar-compartes-dni-1440715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafas-dni-4290901.jpg?tf=1200x' alt='Alerta de la Guardia Civil: estas son las estafas que se pueden aprovechar si compartes tu DNI' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-1440813'>Bill Gates advierte sobre el futuro y la convivencia de la IA con las personas: "Vaya, esto da un poco de miedo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-1440813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-4291049.jpg?tf=1200x' alt='Bill Gates advierte sobre el futuro y la convivencia de la IA con las personas: "Vaya, esto da un poco de miedo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/packard-bell-fabricante-ordenadores-competia-hp-dell-1440948'>Qué fue de Packard Bell, el fabricante de ordenadores que competía con HP y Dell</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/packard-bell-fabricante-ordenadores-competia-hp-dell-1440948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fue-packard-bell-fabricante-ordenadores-competia-hp-dell-4291277.jpg?tf=1200x' alt='Qué fue de Packard Bell, el fabricante de ordenadores que competía con HP y Dell' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/zenfone-12-ultra-buque-insignia-asus-snapdragon-8-elite-lleva-ia-nuevo-nivel-1440932'>Zenfone 12 Ultra, el buque insignia de Asus con Snapdragon 8 Elite que lleva la IA a un nuevo nivel</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/zenfone-12-ultra-buque-insignia-asus-snapdragon-8-elite-lleva-ia-nuevo-nivel-1440932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/zenfone-12-ultra-buque-insignia-asus-lleva-ia-nuevo-nivel-4291245.jpg?tf=1200x' alt='Zenfone 12 Ultra, el buque insignia de Asus con Snapdragon 8 Elite que lleva la IA a un nuevo nivel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/diferencias-wlan-wi-fi-no-son-mismo-1440890'>Diferencias entre WLAN y Wi-Fi: no son lo mismo y es muy importante que lo sepas</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/diferencias-wlan-wi-fi-no-son-mismo-1440890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wlan-wi-fi-4291209.jpg?tf=1200x' alt='Diferencias entre WLAN y Wi-Fi: no son lo mismo y es muy importante que lo sepas' />
     </a>
 </div>
 
