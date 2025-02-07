@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996'>La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pantalla-color-paper-samsung-no-consume-nada-durante-semanas-cambia-todo-4291303.jpg?tf=1200x' alt='La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/maria-primeras-ia-made-spain-ninos-europa-integrada-reloj-inteligente-1440974'>Así es MarÍA, una de las primeras IA "Made in Spain" para niños de Europa integrada en un reloj inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/maria-primeras-ia-made-spain-ninos-europa-integrada-reloj-inteligente-1440974' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/relojes-ninos-4291332.jpg?tf=1200x' alt='Así es MarÍA, una de las primeras IA "Made in Spain" para niños de Europa integrada en un reloj inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970'>Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sentencia-intel-1440959'>Bill Gates sentencia a Intel: "Estoy conmocionado, se ha quedado atrás"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sentencia-intel-1440959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-sentencia-intel-estoy-conmocionado-ha-quedado-atras-4291271.jpg?tf=1200x' alt='Bill Gates sentencia a Intel: "Estoy conmocionado, se ha quedado atrás"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/importante-interior-estos-auriculares-no-conoces-me-han-demostrado-diseno-no-todo-1437845'>Lo importante es el interior: estos auriculares que no conoces me han demostrado que el diseño no lo es todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/importante-interior-estos-auriculares-no-conoces-me-han-demostrado-diseno-no-todo-1437845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/technics-eah-az100-4288744.jpg?tf=1200x' alt='Lo importante es el interior: estos auriculares que no conoces me han demostrado que el diseño no lo es todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-1440954'>El modo incógnito de Chrome en Windows 11 y 10 se vuelve más privado que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-1440954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-4291295.jpg?tf=1200x' alt='El modo incógnito de Chrome en Windows 11 y 10 se vuelve más privado que nunca' />
     </a>
 </div>
 
