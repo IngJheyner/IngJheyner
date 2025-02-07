@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/libreoffice-252-ya-aqui-rapido-compatible-nuevas-funciones-1441164'>LibreOffice 25.2 ya está aquí: más rápido, más compatible y con nuevas funciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/libreoffice-252-ya-aqui-rapido-compatible-nuevas-funciones-1441164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libreoffice-4291659.jpg?tf=1200x' alt='LibreOffice 25.2 ya está aquí: más rápido, más compatible y con nuevas funciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-1441163'>Este adaptador HDMI de Apple tiene más RAM que el PC medio de 1993… y alguien lo usó para jugar a Doom</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-1441163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-4291657.jpg?tf=1200x' alt='Este adaptador HDMI de Apple tiene más RAM que el PC medio de 1993… y alguien lo usó para jugar a Doom' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952'>Sorprendentemente The Big Bang Theory hace historia 6 años después de su final</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reparto-big-bang-theory-4291013.jpg?tf=1200x' alt='Sorprendentemente The Big Bang Theory hace historia 6 años después de su final' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965'>La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-4291305.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-remake-mejores-peliculas-terror-ultimos-tiempos-casi-tan-bueno-como-original-1440955'>Netflix tiene el remake de una de las mejores películas de terror de los últimos tiempos, y es casi tan bueno como la original</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-remake-mejores-peliculas-terror-ultimos-tiempos-casi-tan-bueno-como-original-1440955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-remake-mejores-peliculas-terror-ultimos-tiempos-casi-tan-bueno-como-original-4291297.jpg?tf=1200x' alt='Netflix tiene el remake de una de las mejores películas de terror de los últimos tiempos, y es casi tan bueno como la original' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/surrealista-intento-robo-tesla-espana-50-martillazos-no-logro-abrirlo-1441032'>El surrealista intento de robo de un Tesla en España: 50 martillazos y no logró abrirlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/surrealista-intento-robo-tesla-espana-50-martillazos-no-logro-abrirlo-1441032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robo-tesla-4291451.jpg?tf=1200x' alt='El surrealista intento de robo de un Tesla en España: 50 martillazos y no logró abrirlo' />
     </a>
 </div>
 
