@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-guardia-civil-estas-son-estafas-pueden-aprovechar-compartes-dni-1440715'>Alerta de la Guardia Civil: estas son las estafas que se pueden aprovechar si compartes tu DNI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-guardia-civil-estas-son-estafas-pueden-aprovechar-compartes-dni-1440715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafas-dni-4290901.jpg?tf=1200x' alt='Alerta de la Guardia Civil: estas son las estafas que se pueden aprovechar si compartes tu DNI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-1440813'>Bill Gates advierte sobre el futuro y la convivencia de la IA con las personas: "Vaya, esto da un poco de miedo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-1440813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-4291049.jpg?tf=1200x' alt='Bill Gates advierte sobre el futuro y la convivencia de la IA con las personas: "Vaya, esto da un poco de miedo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/packard-bell-fabricante-ordenadores-competia-hp-dell-1440948'>Qué fue de Packard Bell, el fabricante de ordenadores que competía con HP y Dell</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/packard-bell-fabricante-ordenadores-competia-hp-dell-1440948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fue-packard-bell-fabricante-ordenadores-competia-hp-dell-4291277.jpg?tf=1200x' alt='Qué fue de Packard Bell, el fabricante de ordenadores que competía con HP y Dell' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/diferencias-wlan-wi-fi-no-son-mismo-1440890'>Diferencias entre WLAN y Wi-Fi: no son lo mismo y es muy importante que lo sepas</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/diferencias-wlan-wi-fi-no-son-mismo-1440890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wlan-wi-fi-4291209.jpg?tf=1200x' alt='Diferencias entre WLAN y Wi-Fi: no son lo mismo y es muy importante que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ocu-presenta-demanda-colectiva-apple-abuso-mercado-sobreprecio-1440915'>La OCU presenta demanda colectiva contra Apple por abuso de mercado y sobreprecio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ocu-presenta-demanda-colectiva-apple-abuso-mercado-sobreprecio-1440915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/demanda-apple-4291231.jpg?tf=1200x' alt='La OCU presenta demanda colectiva contra Apple por abuso de mercado y sobreprecio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-apple-watch-pesadilla-anillos-consume-usuarios-no-saludable-1440895'>Adiós al Apple Watch, la "pesadilla de los anillos" consume a sus usuarios: "No es saludable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-apple-watch-pesadilla-anillos-consume-usuarios-no-saludable-1440895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-apple-watch-pesadilla-anillos-consume-usuarios-no-saludable-4291221.jpg?tf=1200x' alt='Adiós al Apple Watch, la "pesadilla de los anillos" consume a sus usuarios: "No es saludable"' />
     </a>
 </div>
 
