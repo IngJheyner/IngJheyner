@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965'>La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-4291305.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-remake-mejores-peliculas-terror-ultimos-tiempos-casi-tan-bueno-como-original-1440955'>Netflix tiene el remake de una de las mejores películas de terror de los últimos tiempos, y es casi tan bueno como la original</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-remake-mejores-peliculas-terror-ultimos-tiempos-casi-tan-bueno-como-original-1440955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-remake-mejores-peliculas-terror-ultimos-tiempos-casi-tan-bueno-como-original-4291297.jpg?tf=1200x' alt='Netflix tiene el remake de una de las mejores películas de terror de los últimos tiempos, y es casi tan bueno como la original' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/surrealista-intento-robo-tesla-espana-50-martillazos-no-logro-abrirlo-1441032'>El surrealista intento de robo de un Tesla en España: 50 martillazos y no logró abrirlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/surrealista-intento-robo-tesla-espana-50-martillazos-no-logro-abrirlo-1441032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robo-tesla-4291451.jpg?tf=1200x' alt='El surrealista intento de robo de un Tesla en España: 50 martillazos y no logró abrirlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-kindle-amazon-da-sorpresa-65-euros-barato-1440939'>El mejor Kindle de Amazon da la sorpresa: es 65 euros más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/mejor-kindle-amazon-da-sorpresa-65-euros-barato-1440939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kindle-scribe-3250855.jpg?tf=1200x' alt='El mejor Kindle de Amazon da la sorpresa: es 65 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-bennu-podria-impactar-tierra-desencadenar-epoca-glacial-cuatro-anos-1441020'>El asteroide "Bennu" podría impactar contra la Tierra y desencadenar un época glacial de hasta cuatro años</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/asteroide-bennu-podria-impactar-tierra-desencadenar-epoca-glacial-cuatro-anos-1441020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-bennu-4291395.jpg?tf=1200x' alt='El asteroide "Bennu" podría impactar contra la Tierra y desencadenar un época glacial de hasta cuatro años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dos-mayores-expertos-mundiales-ia-hacen-saltar-alarmas-podriamos-estar-problemas-1441066'>Dos de los mayores expertos mundiales de la IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dos-mayores-expertos-mundiales-ia-hacen-saltar-alarmas-podriamos-estar-problemas-1441066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4291492.jpg?tf=1200x' alt='Dos de los mayores expertos mundiales de la IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
     </a>
 </div>
 
