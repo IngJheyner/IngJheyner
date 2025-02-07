@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cuenta-todo-ciudad-futurista-grande-barcelona-100-sostenible-2028-1440962'>Bill Gates lo cuenta todo sobre su ciudad futurista: más grande que Barcelona y 100% sostenible para 2028</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cuenta-todo-ciudad-futurista-grande-barcelona-100-sostenible-2028-1440962' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-ciudad-4291301.jpg?tf=1200x' alt='Bill Gates lo cuenta todo sobre su ciudad futurista: más grande que Barcelona y 100% sostenible para 2028' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sentencia-intel-1440959'>Bill Gates sentencia a Intel: "Estoy conmocionado, se ha quedado atrás"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-sentencia-intel-1440959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-sentencia-intel-estoy-conmocionado-ha-quedado-atras-4291271.jpg?tf=1200x' alt='Bill Gates sentencia a Intel: "Estoy conmocionado, se ha quedado atrás"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/importante-interior-estos-auriculares-no-conoces-me-han-demostrado-diseno-no-todo-1437845'>Lo importante es el interior: estos auriculares que no conoces me han demostrado que el diseño no lo es todo</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/importante-interior-estos-auriculares-no-conoces-me-han-demostrado-diseno-no-todo-1437845' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/technics-eah-az100-4288744.jpg?tf=1200x' alt='Lo importante es el interior: estos auriculares que no conoces me han demostrado que el diseño no lo es todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/motivo-moviles-ya-no-venden-cargador-gratis-espana-1440282'>Este es el motivo por el que los móviles ya no se venden con cargador gratis en España</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/motivo-moviles-ya-no-venden-cargador-gratis-espana-1440282' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adaptadores-cargadores-moviles-4290613.jpg?tf=1200x' alt='Este es el motivo por el que los móviles ya no se venden con cargador gratis en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/instalado-windows-11-cumplir-requisitos-oficialmente-enemigo-microsoft-1440842'>Si has instalado Windows 11 sin cumplir los requisitos, eres oficialmente enemigo de Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/instalado-windows-11-cumplir-requisitos-oficialmente-enemigo-microsoft-1440842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-actualizando-windows-11-4291095.jpg?tf=1200x' alt='Si has instalado Windows 11 sin cumplir los requisitos, eres oficialmente enemigo de Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-clara-clave-exito-generacion-z-no-quiere-ni-escuchar-hablar-ella-1440766'>Steve Jobs tenía clara la clave del éxito, y la generación Z no quiere ni escuchar hablar de ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-clara-clave-exito-generacion-z-no-quiere-ni-escuchar-hablar-ella-1440766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/steve-jobs.jpg?tf=1200x' alt='Steve Jobs tenía clara la clave del éxito, y la generación Z no quiere ni escuchar hablar de ella' />
     </a>
 </div>
 
