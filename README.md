@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970'>Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cuenta-todo-ciudad-futurista-grande-barcelona-100-sostenible-2028-1440962'>Bill Gates lo cuenta todo sobre su ciudad futurista: más grande que Barcelona y 100% sostenible para 2028</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-cuenta-todo-ciudad-futurista-grande-barcelona-100-sostenible-2028-1440962' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-ciudad-4291301.jpg?tf=1200x' alt='Bill Gates lo cuenta todo sobre su ciudad futurista: más grande que Barcelona y 100% sostenible para 2028' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-1440954'>El modo incógnito de Chrome en Windows 11 y 10 se vuelve más privado que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-1440954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-4291295.jpg?tf=1200x' alt='El modo incógnito de Chrome en Windows 11 y 10 se vuelve más privado que nunca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/motivo-moviles-ya-no-venden-cargador-gratis-espana-1440282'>Este es el motivo por el que los móviles ya no se venden con cargador gratis en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/motivo-moviles-ya-no-venden-cargador-gratis-espana-1440282' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adaptadores-cargadores-moviles-4290613.jpg?tf=1200x' alt='Este es el motivo por el que los móviles ya no se venden con cargador gratis en España' />
     </a>
 </div>
 
