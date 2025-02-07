@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/importante-interior-estos-auriculares-no-conoces-me-han-demostrado-diseno-no-todo-1437845'>Lo importante es el interior: estos auriculares que no conoces me han demostrado que el diseño no lo es todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/importante-interior-estos-auriculares-no-conoces-me-han-demostrado-diseno-no-todo-1437845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/technics-eah-az100-4288744.jpg?tf=1200x' alt='Lo importante es el interior: estos auriculares que no conoces me han demostrado que el diseño no lo es todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-1440954'>El modo incógnito de Chrome en Windows 11 y 10 se vuelve más privado que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-1440954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-incognito-chrome-windows-11-10-vuelve-privado-nunca-4291295.jpg?tf=1200x' alt='El modo incógnito de Chrome en Windows 11 y 10 se vuelve más privado que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/motivo-moviles-ya-no-venden-cargador-gratis-espana-1440282'>Este es el motivo por el que los móviles ya no se venden con cargador gratis en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/motivo-moviles-ya-no-venden-cargador-gratis-espana-1440282' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adaptadores-cargadores-moviles-4290613.jpg?tf=1200x' alt='Este es el motivo por el que los móviles ya no se venden con cargador gratis en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/instalado-windows-11-cumplir-requisitos-oficialmente-enemigo-microsoft-1440842'>Si has instalado Windows 11 sin cumplir los requisitos, eres oficialmente enemigo de Microsoft</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/instalado-windows-11-cumplir-requisitos-oficialmente-enemigo-microsoft-1440842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-actualizando-windows-11-4291095.jpg?tf=1200x' alt='Si has instalado Windows 11 sin cumplir los requisitos, eres oficialmente enemigo de Microsoft' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-clara-clave-exito-generacion-z-no-quiere-ni-escuchar-hablar-ella-1440766'>Steve Jobs tenía clara la clave del éxito, y la generación Z no quiere ni escuchar hablar de ella</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-clara-clave-exito-generacion-z-no-quiere-ni-escuchar-hablar-ella-1440766' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/05/steve-jobs.jpg?tf=1200x' alt='Steve Jobs tenía clara la clave del éxito, y la generación Z no quiere ni escuchar hablar de ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estos-son-nuevos-canales-4k-llegaran-tdt-cuando-podras-sintonizarlos-televisor-1440820'>Estos son los nuevos canales 4K que llegarán a la TDT y cuándo podrás sintonizarlos en tu televisor</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/estos-son-nuevos-canales-4k-llegaran-tdt-cuando-podras-sintonizarlos-televisor-1440820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tdt-4k-4291087.jpg?tf=1200x' alt='Estos son los nuevos canales 4K que llegarán a la TDT y cuándo podrás sintonizarlos en tu televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/son-listas-whatsapp-como-usarlas-organizar-chats-1440761'>¿Qué son las listas de WhatsApp y cómo usarlas para organizar los chats?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/son-listas-whatsapp-como-usarlas-organizar-chats-1440761' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-listas-whatsapp-como-usarlas-organizar-chats-4290929.jpg?tf=1200x' alt='¿Qué son las listas de WhatsApp y cómo usarlas para organizar los chats?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-guardia-civil-estas-son-estafas-pueden-aprovechar-compartes-dni-1440715'>Alerta de la Guardia Civil: estas son las estafas que se pueden aprovechar si compartes tu DNI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-guardia-civil-estas-son-estafas-pueden-aprovechar-compartes-dni-1440715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafas-dni-4290901.jpg?tf=1200x' alt='Alerta de la Guardia Civil: estas son las estafas que se pueden aprovechar si compartes tu DNI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-1440813'>Bill Gates advierte sobre el futuro y la convivencia de la IA con las personas: "Vaya, esto da un poco de miedo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-1440813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-advierte-futuro-convivencia-ia-personas-vaya-da-poco-miedo-4291049.jpg?tf=1200x' alt='Bill Gates advierte sobre el futuro y la convivencia de la IA con las personas: "Vaya, esto da un poco de miedo"' />
     </a>
 </div>
 
