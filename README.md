@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-estados-whatsapp-nuevas-funciones-cambiaran-todo-1441023'>Adiós a los estados de WhatsApp, llegan nuevas funciones que lo cambiarán todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-estados-whatsapp-nuevas-funciones-cambiaran-todo-1441023' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estados-whatsapp-4291380.jpg?tf=1200x' alt='Adiós a los estados de WhatsApp, llegan nuevas funciones que lo cambiarán todo' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/movistar-plus-supera-misma-nuevo-record-historico-1441073'>Movistar Plus+ se supera a sí misma con un nuevo récord histórico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/movistar-plus-supera-misma-nuevo-record-historico-1441073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/programas-movistar-plus-4291487.jpg?tf=1200x' alt='Movistar Plus+ se supera a sí misma con un nuevo récord histórico' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/desaparece-grupo-whatsapp-avisos-radares-controles-guardia-grandes-1440561'>Desaparece uno de los grupos de WhatsApp de avisos de radares y controles de la Guardia más importantes de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/desaparece-grupo-whatsapp-avisos-radares-controles-guardia-grandes-1440561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cae-grupos-whatsapp-avisos-radares-controles-guardia-grandes-espana-4290722.jpg?tf=1200x' alt='Desaparece uno de los grupos de WhatsApp de avisos de radares y controles de la Guardia más importantes de España' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-quiere-hacer-historia-sera-primera-retransmision-twitch-espacio-1441071'>La NASA quiere hacer historia: así será la primera retransmisión de Twitch desde el espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-quiere-hacer-historia-sera-primera-retransmision-twitch-espacio-1441071' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ilustracion-paneles-solares-irosa-nasa-eei-2359199.jpg?tf=1200x' alt='La NASA quiere hacer historia: así será la primera retransmisión de Twitch desde el espacio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-cada-vez-cerca-estas-son-todas-novedades-traera-iphone-1440968'>iOS 18.4 está cada vez más cerca: estas son todas las novedades que traerá a tu iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-184-cada-vez-cerca-estas-son-todas-novedades-traera-iphone-1440968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-184-cada-vez-cerca-estas-son-todas-novedades-traera-iphone-4291363.jpg?tf=1200x' alt='iOS 18.4 está cada vez más cerca: estas son todas las novedades que traerá a tu iPhone' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/windows-rejuvenece-funcion-te-permitira-personalizar-pantalla-como-nunca-antes-1441025'>Windows rejuvenece con una función que te permitirá personalizar la pantalla como nunca antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/windows-rejuvenece-funcion-te-permitira-personalizar-pantalla-como-nunca-antes-1441025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-rejuvenece-funcion-te-permitira-personalizar-pantalla-como-nunca-antes-4291432.jpg?tf=1200x' alt='Windows rejuvenece con una función que te permitirá personalizar la pantalla como nunca antes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-tenia-razon-tesla-dojo-supercomputadora-ia-desafia-nvidia-google-1441034'>Elon Musk tenía razón: así es Tesla Dojo, la supercomputadora de IA que desafía a Nvidia y Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-tenia-razon-tesla-dojo-supercomputadora-ia-desafia-nvidia-google-1441034' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-dojo-4291422.jpg?tf=1200x' alt='Elon Musk tenía razón: así es Tesla Dojo, la supercomputadora de IA que desafía a Nvidia y Google' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-decepcion-cancelacion-multiple-1441059'>Giro de 180 grados en Netflix: decepción ante esta cancelación múltiple</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-decepcion-cancelacion-multiple-1441059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-games-4290770.jpg?tf=1200x' alt='Giro de 180 grados en Netflix: decepción ante esta cancelación múltiple' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-google-busqueda-chatgpt-search-ya-libre-no-requiere-cuenta-hacer-busquedas-1441047'>Mazazo a Google, la búsqueda de ChatGPT Search ya es libre y no requiere cuenta para hacer búsquedas </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-google-busqueda-chatgpt-search-ya-libre-no-requiere-cuenta-hacer-busquedas-1441047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-openai-4291426.jpg?tf=1200x' alt='Mazazo a Google, la búsqueda de ChatGPT Search ya es libre y no requiere cuenta para hacer búsquedas ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/barcelona-ya-tiene-primer-ordenador-cuantico-100-europeo-1440993'>Barcelona ya tiene el primer ordenador cuántico 100% europeo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/barcelona-ya-tiene-primer-ordenador-cuantico-100-europeo-1440993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/barcelona-supercomputing-center-4291378.jpg?tf=1200x' alt='Barcelona ya tiene el primer ordenador cuántico 100% europeo' />
     </a>
 </div>
 
