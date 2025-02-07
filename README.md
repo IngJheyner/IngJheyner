@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-cada-vez-cerca-estas-son-todas-novedades-traera-iphone-1440968'>iOS 18.4 está cada vez más cerca: estas son todas las novedades que traerá a tu iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-184-cada-vez-cerca-estas-son-todas-novedades-traera-iphone-1440968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-184-cada-vez-cerca-estas-son-todas-novedades-traera-iphone-4291363.jpg?tf=1200x' alt='iOS 18.4 está cada vez más cerca: estas son todas las novedades que traerá a tu iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-tenia-razon-tesla-dojo-supercomputadora-ia-desafia-nvidia-google-1441034'>Elon Musk tenía razón: así es Tesla Dojo, la supercomputadora de IA que desafía a Nvidia y Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-tenia-razon-tesla-dojo-supercomputadora-ia-desafia-nvidia-google-1441034' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-dojo-4291422.jpg?tf=1200x' alt='Elon Musk tenía razón: así es Tesla Dojo, la supercomputadora de IA que desafía a Nvidia y Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-google-busqueda-chatgpt-search-ya-libre-no-requiere-cuenta-hacer-busquedas-1441047'>Mazazo a Google, la búsqueda de ChatGPT Search ya es libre y no requiere cuenta para hacer búsquedas </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-google-busqueda-chatgpt-search-ya-libre-no-requiere-cuenta-hacer-busquedas-1441047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-openai-4291426.jpg?tf=1200x' alt='Mazazo a Google, la búsqueda de ChatGPT Search ya es libre y no requiere cuenta para hacer búsquedas ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-1440995'>El esperado iPhone SE 4 ya tendría fecha de lanzamiento y será inminente</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-1440995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-4291351.jpg?tf=1200x' alt='El esperado iPhone SE 4 ya tendría fecha de lanzamiento y será inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/mastodontico-problema-microsoft-windows-10-quedando-tiempo-resolverlo-1440986'>El mastodóntico problema de Microsoft con Windows 10: se está quedando sin tiempo para resolverlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/mastodontico-problema-microsoft-windows-10-quedando-tiempo-resolverlo-1440986' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-windows-10-4291346.jpg?tf=1200x' alt='El mastodóntico problema de Microsoft con Windows 10: se está quedando sin tiempo para resolverlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996'>La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pantalla-color-paper-samsung-no-consume-nada-durante-semanas-cambia-todo-4291303.jpg?tf=1200x' alt='La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo' />
     </a>
 </div>
 
