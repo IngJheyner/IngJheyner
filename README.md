@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-da-bienvenida-alexa-hogar-conoce-robot-humanoide-encarga-limpieza-ti-1440977'>España da la bienvenida a la "Alexa" del hogar: conoce el robot humanoide que se encarga de la limpieza por ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/espana-da-bienvenida-alexa-hogar-conoce-robot-humanoide-encarga-limpieza-ti-1440977' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-unitree-g1-4291341.jpg?tf=1200x' alt='España da la bienvenida a la "Alexa" del hogar: conoce el robot humanoide que se encarga de la limpieza por ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/real-madrid-atletico-madrid-ver-derbi-iptv-magis-tv-trampa-deberias-evitar-1441084'>Real Madrid - Atlético de Madrid, ver el derbi por IPTV o Magis TV: una trampa que deberías evitar</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/real-madrid-atletico-madrid-ver-derbi-iptv-magis-tv-trampa-deberias-evitar-1441084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/haz-imagen-aficionado-real-madrid-otro-atletico-madrid-sofa-mirando-cara-preocupacion-ordenador-situado-frente-ellos-4291479.jpg?tf=1200x' alt='Real Madrid - Atlético de Madrid, ver el derbi por IPTV o Magis TV: una trampa que deberías evitar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-prohibida-cada-vez-paises-bloquearla-espana-1441064'>DeepSeek prohibida: cada vez más países se plantean bloquearla y España podría ser el siguiente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-prohibida-cada-vez-paises-bloquearla-espana-1441064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueo-deepseek-4291472.jpg?tf=1200x' alt='DeepSeek prohibida: cada vez más países se plantean bloquearla y España podría ser el siguiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/movistar-plus-supera-misma-nuevo-record-historico-1441073'>Movistar Plus+ se supera a sí misma con un nuevo récord histórico</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/movistar-plus-supera-misma-nuevo-record-historico-1441073' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/programas-movistar-plus-4291487.jpg?tf=1200x' alt='Movistar Plus+ se supera a sí misma con un nuevo récord histórico' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-quiere-hacer-historia-sera-primera-retransmision-twitch-espacio-1441071'>La NASA quiere hacer historia: así será la primera retransmisión de Twitch desde el espacio</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-quiere-hacer-historia-sera-primera-retransmision-twitch-espacio-1441071' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ilustracion-paneles-solares-irosa-nasa-eei-2359199.jpg?tf=1200x' alt='La NASA quiere hacer historia: así será la primera retransmisión de Twitch desde el espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/windows-rejuvenece-funcion-te-permitira-personalizar-pantalla-como-nunca-antes-1441025'>Windows rejuvenece con una función que te permitirá personalizar la pantalla como nunca antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/windows-rejuvenece-funcion-te-permitira-personalizar-pantalla-como-nunca-antes-1441025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-rejuvenece-funcion-te-permitira-personalizar-pantalla-como-nunca-antes-4291432.jpg?tf=1200x' alt='Windows rejuvenece con una función que te permitirá personalizar la pantalla como nunca antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-decepcion-cancelacion-multiple-1441059'>Giro de 180 grados en Netflix: decepción ante esta cancelación múltiple</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-netflix-decepcion-cancelacion-multiple-1441059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-games-4290770.jpg?tf=1200x' alt='Giro de 180 grados en Netflix: decepción ante esta cancelación múltiple' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/barcelona-ya-tiene-primer-ordenador-cuantico-100-europeo-1440993'>Barcelona ya tiene el primer ordenador cuántico 100% europeo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/barcelona-ya-tiene-primer-ordenador-cuantico-100-europeo-1440993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/barcelona-supercomputing-center-4291378.jpg?tf=1200x' alt='Barcelona ya tiene el primer ordenador cuántico 100% europeo' />
     </a>
 </div>
 
