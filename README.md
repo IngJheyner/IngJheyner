@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-google-busqueda-chatgpt-search-ya-libre-no-requiere-cuenta-hacer-busquedas-1441047'>Mazazo a Google, la búsqueda de ChatGPT Search ya es libre y no requiere cuenta para hacer búsquedas </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-google-busqueda-chatgpt-search-ya-libre-no-requiere-cuenta-hacer-busquedas-1441047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-openai-4291426.jpg?tf=1200x' alt='Mazazo a Google, la búsqueda de ChatGPT Search ya es libre y no requiere cuenta para hacer búsquedas ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-o3-o1-mini-o3-mini-gpt-4o-diferencias-versiones-significa-cada-1441010'>ChatGPT: o1, o3, o1 mini, o3 mini y GPT 4o, diferencias entre sus versiones y qué significa cada una</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-o1-o3-o1-mini-o3-mini-gpt-4o-diferencias-versiones-significa-cada-1441010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-dudas-4291397.jpg?tf=1200x' alt='ChatGPT: o1, o3, o1 mini, o3 mini y GPT 4o, diferencias entre sus versiones y qué significa cada una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-1440995'>El esperado iPhone SE 4 ya tendría fecha de lanzamiento y será inminente</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-1440995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/esperado-iphone-4-ya-tendria-fecha-lanzamiento-sera-inminente-4291351.jpg?tf=1200x' alt='El esperado iPhone SE 4 ya tendría fecha de lanzamiento y será inminente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996'>La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/pantalla-samsung-color-e-paper-tinta-electronica-1440996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pantalla-color-paper-samsung-no-consume-nada-durante-semanas-cambia-todo-4291303.jpg?tf=1200x' alt='La pantalla a color E-Paper de Samsung que no consume nada durante semanas, lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/maria-primeras-ia-made-spain-ninos-europa-integrada-reloj-inteligente-1440974'>Así es MarÍA, una de las primeras IA "Made in Spain" para niños de Europa integrada en un reloj inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/maria-primeras-ia-made-spain-ninos-europa-integrada-reloj-inteligente-1440974' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/relojes-ninos-4291332.jpg?tf=1200x' alt='Así es MarÍA, una de las primeras IA "Made in Spain" para niños de Europa integrada en un reloj inteligente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970'>Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-alerta-uso-ia-superar-muerte-ser-querido-usarla-trampa-1440970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/cerebro-calavera-3460581.jpg?tf=1200x' alt='Experto alerta sobre el uso de la IA para superar la muerte de un ser querido: "Usarla es una trampa"' />
     </a>
 </div>
 
