@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952'>Sorprendentemente The Big Bang Theory hace historia 6 años después de su final</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reparto-big-bang-theory-4291013.jpg?tf=1200x' alt='Sorprendentemente The Big Bang Theory hace historia 6 años después de su final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/baten-record-instalacion-windows-10-solo-104-segundos-lejos-ser-espectacular-problema-1441151'>Baten el récord de instalación de Windows 10: solo 104 segundos, y lejos de ser espectacular, es un problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/baten-record-instalacion-windows-10-solo-104-segundos-lejos-ser-espectacular-problema-1441151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-portatil-4291624.jpg?tf=1200x' alt='Baten el récord de instalación de Windows 10: solo 104 segundos, y lejos de ser espectacular, es un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965'>La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-1440965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-alerta-peligrosa-estafa-te-ofrecen-empleo-robarte-datos-4291305.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una peligrosa estafa: te ofrecen empleo para robarte tus datos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/surrealista-intento-robo-tesla-espana-50-martillazos-no-logro-abrirlo-1441032'>El surrealista intento de robo de un Tesla en España: 50 martillazos y no logró abrirlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/surrealista-intento-robo-tesla-espana-50-martillazos-no-logro-abrirlo-1441032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robo-tesla-4291451.jpg?tf=1200x' alt='El surrealista intento de robo de un Tesla en España: 50 martillazos y no logró abrirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mayores-expertos-robotica-espana-calcula-cuanto-duraria-bateria-version-real-robocop-1441089'>Uno de los mayores expertos en robótica de España calcula cuánto le duraría la batería a una versión real de Robocop</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mayores-expertos-robotica-espana-calcula-cuanto-duraria-bateria-version-real-robocop-1441089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mayores-expertos-robotica-espana-calcula-cuanto-duraria-bateria-version-real-robocop-4291494.jpg?tf=1200x' alt='Uno de los mayores expertos en robótica de España calcula cuánto le duraría la batería a una versión real de Robocop' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-kindle-amazon-da-sorpresa-65-euros-barato-1440939'>El mejor Kindle de Amazon da la sorpresa: es 65 euros más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/mejor-kindle-amazon-da-sorpresa-65-euros-barato-1440939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kindle-scribe-3250855.jpg?tf=1200x' alt='El mejor Kindle de Amazon da la sorpresa: es 65 euros más barato' />
     </a>
 </div>
 
