@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-1439188'>Desde que tengo ChatGPT en WhatsApp no he vuelto a hablar con Siri en mi iPhone, y tú también deberías hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-1439188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-4288381.jpg?tf=1200x' alt='Desde que tengo ChatGPT en WhatsApp no he vuelto a hablar con Siri en mi iPhone, y tú también deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/fallas-servicios-playstation-network-lleva-caido-medio-dia-afectando-millones-jugadores-ps5-1441249'>Fallas en los servicios: PlayStation Network lleva caído más de medio día afectando a millones de jugadores de PS5</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/fallas-servicios-playstation-network-lleva-caido-medio-dia-afectando-millones-jugadores-ps5-1441249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/error-playstation-network-4291797.jpg?tf=1200x' alt='Fallas en los servicios: PlayStation Network lleva caído más de medio día afectando a millones de jugadores de PS5' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195'>Así puedes usar Telegram para enviar mensajes ocultos (spoilers)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spoiler-telegram-4288382.jpg?tf=1200x' alt='Así puedes usar Telegram para enviar mensajes ocultos (spoilers)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-16-te-ayudara-no-perder-nocion-tiempo-viajes-te-avisara-cambios-zona-horaria-1441232'>Android 16 te ayudará a no perder la noción del tiempo en tus viajes: te avisará sobre cambios de zona horaria</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-16-te-ayudara-no-perder-nocion-tiempo-viajes-te-avisara-cambios-zona-horaria-1441232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-cambio-zona-horaria-4291774.jpg?tf=1200x' alt='Android 16 te ayudará a no perder la noción del tiempo en tus viajes: te avisará sobre cambios de zona horaria' />
     </a>
 </div>
 
