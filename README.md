@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-1441177'>Adiós a la privacidad en Apple: una orden secreta del Reino Unido obliga a desencriptar los iPhone de todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-1441177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-todo-mundo-4291676.jpg?tf=1200x' alt='Adiós a la privacidad en Apple: una orden secreta del Reino Unido obliga a desencriptar los iPhone de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-1441170'>Ni DeepSeek ni ChatGPT: Le Chat de Mistral es la nueva IA generativa que quiere poner a Europa en el mapa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-1441170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-4291645.jpg?tf=1200x' alt='Ni DeepSeek ni ChatGPT: Le Chat de Mistral es la nueva IA generativa que quiere poner a Europa en el mapa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-1441163'>Este adaptador HDMI de Apple tiene más RAM que el PC medio de 1993… y alguien lo usó para jugar a Doom</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-1441163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-4291657.jpg?tf=1200x' alt='Este adaptador HDMI de Apple tiene más RAM que el PC medio de 1993… y alguien lo usó para jugar a Doom' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952'>Sorprendentemente The Big Bang Theory hace historia 6 años después de su final</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/sorprendentemente-big-bang-theory-hace-historia-6-anos-despues-final-1440952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reparto-big-bang-theory-4291013.jpg?tf=1200x' alt='Sorprendentemente The Big Bang Theory hace historia 6 años después de su final' />
     </a>
 </div>
 
