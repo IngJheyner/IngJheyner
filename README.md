@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-1439182'>El test de la felicidad de Steve Jobs: responde a estas 6 preguntas y descubre si eres verdaderamente feliz</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-1439182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-4288367.jpg?tf=1200x' alt='El test de la felicidad de Steve Jobs: responde a estas 6 preguntas y descubre si eres verdaderamente feliz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/emojis-solo-clic-windows-11-prueba-nuevo-boton-barra-tareas-1441266'>¿Emojis con un solo clic? Windows 11 prueba un nuevo botón en la barra de tareas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/emojis-solo-clic-windows-11-prueba-nuevo-boton-barra-tareas-1441266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/emojis-windows-11-4291870.jpg?tf=1200x' alt='¿Emojis con un solo clic? Windows 11 prueba un nuevo botón en la barra de tareas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/ticwatch-google-mejor-smartwatch-precio-risa-amazon-1441221'>Ticwatch, a por Google: su mejor smartwatch está a precio de risa en Amazon </a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/ticwatch-google-mejor-smartwatch-precio-risa-amazon-1441221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ticwatch-atlas-4291762.jpg?tf=1200x' alt='Ticwatch, a por Google: su mejor smartwatch está a precio de risa en Amazon ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-1440397'>Movistar Plus+ tiene una de las adaptaciones menos conocidas de Stephen King, pero él mismo escribió el guion</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-1440397' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-4290424.jpg?tf=1200x' alt='Movistar Plus+ tiene una de las adaptaciones menos conocidas de Stephen King, pero él mismo escribió el guion' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-esquiva-prohibicion-google-play-store-ee-uu-lanza-apk-oficial-1441245'>TikTok "esquiva" la prohibición de la Google Play Store en EE. UU. y lanza su APK oficial</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tiktok-esquiva-prohibicion-google-play-store-ee-uu-lanza-apk-oficial-1441245' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tiktok-estados-unidos-4291792.jpg?tf=1200x' alt='TikTok "esquiva" la prohibición de la Google Play Store en EE. UU. y lanza su APK oficial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-1439188'>Desde que tengo ChatGPT en WhatsApp no he vuelto a hablar con Siri en mi iPhone, y tú también deberías hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-1439188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-4288381.jpg?tf=1200x' alt='Desde que tengo ChatGPT en WhatsApp no he vuelto a hablar con Siri en mi iPhone, y tú también deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/fallas-servicios-playstation-network-lleva-caido-medio-dia-afectando-millones-jugadores-ps5-1441249'>Fallas en los servicios: PlayStation Network lleva caído más de medio día afectando a millones de jugadores de PS5</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/fallas-servicios-playstation-network-lleva-caido-medio-dia-afectando-millones-jugadores-ps5-1441249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/error-playstation-network-4291797.jpg?tf=1200x' alt='Fallas en los servicios: PlayStation Network lleva caído más de medio día afectando a millones de jugadores de PS5' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427'>Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-4288821.jpg?tf=1200x' alt='Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas' />
     </a>
 </div>
 
