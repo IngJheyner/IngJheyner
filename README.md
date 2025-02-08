@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195'>Así puedes usar Telegram para enviar mensajes ocultos (spoilers)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spoiler-telegram-4288382.jpg?tf=1200x' alt='Así puedes usar Telegram para enviar mensajes ocultos (spoilers)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-te-ayudara-no-perder-nocion-tiempo-viajes-te-avisara-cambios-zona-horaria-1441232'>Android 16 te ayudará a no perder la noción del tiempo en tus viajes: te avisará sobre cambios de zona horaria</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-te-ayudara-no-perder-nocion-tiempo-viajes-te-avisara-cambios-zona-horaria-1441232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-cambio-zona-horaria-4291774.jpg?tf=1200x' alt='Android 16 te ayudará a no perder la noción del tiempo en tus viajes: te avisará sobre cambios de zona horaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652'>Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-4289147.jpg?tf=1200x' alt='Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817'>Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-4291042.jpg?tf=1200x' alt='Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/utilizo-viejas-memorias-usb-tiradas-cajon-mi-portatil-sea-mucho-seguro-1440110'>Así utilizo las viejas memorias USB tiradas en el cajón para que mi portátil sea mucho más seguro</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/utilizo-viejas-memorias-usb-tiradas-cajon-mi-portatil-sea-mucho-seguro-1440110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/utilizo-viejas-memorias-usb-tiradas-cajon-mi-portatil-sea-mucho-seguro-4289945.jpg?tf=1200x' alt='Así utilizo las viejas memorias USB tiradas en el cajón para que mi portátil sea mucho más seguro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/version-oficial-windows-11-compacta-instalar-1438862'>Esta es la versión oficial de Windows 11 más compacta que puedes instalar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/version-oficial-windows-11-compacta-instalar-1438862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-enterprise-ltsc-4287872.jpg?tf=1200x' alt='Esta es la versión oficial de Windows 11 más compacta que puedes instalar' />
     </a>
 </div>
 
