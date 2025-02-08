@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-1440397'>Movistar Plus+ tiene una de las adaptaciones menos conocidas de Stephen King, pero él mismo escribió el guion</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-1440397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-4290424.jpg?tf=1200x' alt='Movistar Plus+ tiene una de las adaptaciones menos conocidas de Stephen King, pero él mismo escribió el guion' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tiktok-esquiva-prohibicion-google-play-store-ee-uu-lanza-apk-oficial-1441245'>TikTok "esquiva" la prohibición de la Google Play Store en EE. UU. y lanza su APK oficial</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tiktok-esquiva-prohibicion-google-play-store-ee-uu-lanza-apk-oficial-1441245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tiktok-estados-unidos-4291792.jpg?tf=1200x' alt='TikTok "esquiva" la prohibición de la Google Play Store en EE. UU. y lanza su APK oficial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-1439188'>Desde que tengo ChatGPT en WhatsApp no he vuelto a hablar con Siri en mi iPhone, y tú también deberías hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-1439188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/tengo-chatgpt-whatsapp-no-he-vuelto-hablar-siri-mi-iphone-tambien-deberias-hacerlo-4288381.jpg?tf=1200x' alt='Desde que tengo ChatGPT en WhatsApp no he vuelto a hablar con Siri en mi iPhone, y tú también deberías hacerlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427'>Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-4288821.jpg?tf=1200x' alt='Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mensajes-google-integrara-whatsapp-podras-hacer-videollamadas-rapido-1441236'>Mensajes de Google integrará WhatsApp: así podrás hacer videollamadas más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mensajes-google-integrara-whatsapp-podras-hacer-videollamadas-rapido-1441236' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mensajes-google-integrara-whatsapp-4291780.jpg?tf=1200x' alt='Mensajes de Google integrará WhatsApp: así podrás hacer videollamadas más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195'>Así puedes usar Telegram para enviar mensajes ocultos (spoilers)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spoiler-telegram-4288382.jpg?tf=1200x' alt='Así puedes usar Telegram para enviar mensajes ocultos (spoilers)' />
     </a>
 </div>
 
