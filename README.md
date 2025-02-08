@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-1439653'>No tengo dudas, cuando caduque Windows 10, esto es lo que instalaré: es gratis, de Google y más sencillo que Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-1439653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-4289162.jpg?tf=1200x' alt='No tengo dudas, cuando caduque Windows 10, esto es lo que instalaré: es gratis, de Google y más sencillo que Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-jobs-bill-gates-solo-tomando-drogas-podras-mejorar-aspecto-windows-1441086'>Steve Jobs a Bill Gates: "Solo tomando drogas podrás mejorar este aspecto de Windows"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/steve-jobs-bill-gates-solo-tomando-drogas-podras-mejorar-aspecto-windows-1441086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-steve-jobs-4291513.jpg?tf=1200x' alt='Steve Jobs a Bill Gates: "Solo tomando drogas podrás mejorar este aspecto de Windows"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-1441177'>Adiós a la privacidad en Apple: una orden secreta del Reino Unido obliga a desencriptar los iPhone de todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-1441177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-todo-mundo-4291676.jpg?tf=1200x' alt='Adiós a la privacidad en Apple: una orden secreta del Reino Unido obliga a desencriptar los iPhone de todo el mundo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ciberdeck-raspberry-pi-parece-sacado-blade-runner-completamente-funcional-1441168'>Este ciberdeck Raspberry Pi parece sacado de Blade Runner y es completamente funcional</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ciberdeck-raspberry-pi-parece-sacado-blade-runner-completamente-funcional-1441168' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vertical-runner-4291668.jpg?tf=1200x' alt='Este ciberdeck Raspberry Pi parece sacado de Blade Runner y es completamente funcional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/libreoffice-252-ya-aqui-rapido-compatible-nuevas-funciones-1441164'>LibreOffice 25.2 ya está aquí: más rápido, más compatible y con nuevas funciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/libreoffice-252-ya-aqui-rapido-compatible-nuevas-funciones-1441164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libreoffice-4291659.jpg?tf=1200x' alt='LibreOffice 25.2 ya está aquí: más rápido, más compatible y con nuevas funciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-1441163'>Este adaptador HDMI de Apple tiene más RAM que el PC medio de 1993… y alguien lo usó para jugar a Doom</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-1441163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adaptador-hdmi-apple-tiene-ram-pc-medio-1993-alguien-uso-jugar-doom-4291657.jpg?tf=1200x' alt='Este adaptador HDMI de Apple tiene más RAM que el PC medio de 1993… y alguien lo usó para jugar a Doom' />
     </a>
 </div>
 
