@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/llamadas-silenciosas-robollamadas-esconde-detras-ellas-riesgos-tienen-seguridad-1439170'>Llamadas silenciosas o robollamadas: qué se esconde detrás de ellas y qué riesgos tienen para tu seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/llamadas-silenciosas-robollamadas-esconde-detras-ellas-riesgos-tienen-seguridad-1439170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-llamadas-4288355.jpg?tf=1200x' alt='Llamadas silenciosas o robollamadas: qué se esconde detrás de ellas y qué riesgos tienen para tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/experto-ciberseguridad-como-verificar-seguridad-extensiones-chrome-antes-instalarlas-1439450'>Experto en ciberseguridad desvela cómo verificar la seguridad de las extensiones de Chrome antes de instalarlas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/experto-ciberseguridad-como-verificar-seguridad-extensiones-chrome-antes-instalarlas-1439450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-chrome-4288825.jpg?tf=1200x' alt='Experto en ciberseguridad desvela cómo verificar la seguridad de las extensiones de Chrome antes de instalarlas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-1440380'>10 cosas que no sabías que tu iPhone podría hacer: te quedarás con la boca abierta</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-1440380' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-4290413.jpg?tf=1200x' alt='10 cosas que no sabías que tu iPhone podría hacer: te quedarás con la boca abierta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/-meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-1441184'>Palo a Meta: se bajó mediante Torrent docenas de millones de libros pirateados, para entrenar a su IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/-meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-1441184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-4291684.jpg?tf=1200x' alt='Palo a Meta: se bajó mediante Torrent docenas de millones de libros pirateados, para entrenar a su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-comercial-ha-comenzado-deepseek-engana-eeuu-invirtiendo-tantos-millones-dolares-made-china-pasara-factura-1440218'>La guerra comercial ha comenzado con DeepSeek: ¿Engaña EEUU invirtiendo tantos millones de dólares o el 'made in China' pasará factura?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/guerra-comercial-ha-comenzado-deepseek-engana-eeuu-invirtiendo-tantos-millones-dolares-made-china-pasara-factura-1440218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estados-unidos-china-4291070.jpg?tf=1200x' alt='La guerra comercial ha comenzado con DeepSeek: ¿Engaña EEUU invirtiendo tantos millones de dólares o el 'made in China' pasará factura?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-1439651'>Llevo años buscando un sustituto gratis de Excel que esté a la altura: ya lo he encontrado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-1439651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-4289936.jpg?tf=1200x' alt='Llevo años buscando un sustituto gratis de Excel que esté a la altura: ya lo he encontrado' />
     </a>
 </div>
 
