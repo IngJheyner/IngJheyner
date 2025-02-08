@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652'>Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-4289147.jpg?tf=1200x' alt='Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alphageometry2-ia-google-resuelve-problemas-matematicos-mejor-mayoria-humanos-1441225'>AlphaGeometry2: la IA de Google que resuelve problemas matemáticos mejor que la mayoría de los humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alphageometry2-ia-google-resuelve-problemas-matematicos-mejor-mayoria-humanos-1441225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-google-4291764.jpg?tf=1200x' alt='AlphaGeometry2: la IA de Google que resuelve problemas matemáticos mejor que la mayoría de los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817'>Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-4291042.jpg?tf=1200x' alt='Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/version-oficial-windows-11-compacta-instalar-1438862'>Esta es la versión oficial de Windows 11 más compacta que puedes instalar</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/version-oficial-windows-11-compacta-instalar-1438862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-enterprise-ltsc-4287872.jpg?tf=1200x' alt='Esta es la versión oficial de Windows 11 más compacta que puedes instalar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/menos-caos-claridad-google-maps-prueba-cambio-mapas-1441213'>Menos caos, más claridad: Google Maps prueba este cambio en los mapas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/menos-caos-claridad-google-maps-prueba-cambio-mapas-1441213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-4291738.jpg?tf=1200x' alt='Menos caos, más claridad: Google Maps prueba este cambio en los mapas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/llamadas-silenciosas-robollamadas-esconde-detras-ellas-riesgos-tienen-seguridad-1439170'>Llamadas silenciosas o robollamadas: qué se esconde detrás de ellas y qué riesgos tienen para tu seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/llamadas-silenciosas-robollamadas-esconde-detras-ellas-riesgos-tienen-seguridad-1439170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-llamadas-4288355.jpg?tf=1200x' alt='Llamadas silenciosas o robollamadas: qué se esconde detrás de ellas y qué riesgos tienen para tu seguridad' />
     </a>
 </div>
 
