@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427'>Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-4288821.jpg?tf=1200x' alt='Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mensajes-google-integrara-whatsapp-podras-hacer-videollamadas-rapido-1441236'>Mensajes de Google integrará WhatsApp: así podrás hacer videollamadas más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mensajes-google-integrara-whatsapp-podras-hacer-videollamadas-rapido-1441236' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mensajes-google-integrara-whatsapp-4291780.jpg?tf=1200x' alt='Mensajes de Google integrará WhatsApp: así podrás hacer videollamadas más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195'>Así puedes usar Telegram para enviar mensajes ocultos (spoilers)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/puedes-usar-telegram-enviar-mensajes-ocultos-spoilers-1439195' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/spoiler-telegram-4288382.jpg?tf=1200x' alt='Así puedes usar Telegram para enviar mensajes ocultos (spoilers)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652'>Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-4289147.jpg?tf=1200x' alt='Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alphageometry2-ia-google-resuelve-problemas-matematicos-mejor-mayoria-humanos-1441225'>AlphaGeometry2: la IA de Google que resuelve problemas matemáticos mejor que la mayoría de los humanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alphageometry2-ia-google-resuelve-problemas-matematicos-mejor-mayoria-humanos-1441225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-google-4291764.jpg?tf=1200x' alt='AlphaGeometry2: la IA de Google que resuelve problemas matemáticos mejor que la mayoría de los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817'>Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-4291042.jpg?tf=1200x' alt='Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión' />
     </a>
 </div>
 
