@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817'>Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-1440817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-iptv-ni-magis-tv-como-ver-directo-derbi-real-madrid-atletico-madrid-online-television-4291042.jpg?tf=1200x' alt='Ni IPTV ni Magis TV: cómo ver en directo el derbi Real Madrid - Atlético de Madrid online o por televisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/utilizo-viejas-memorias-usb-tiradas-cajon-mi-portatil-sea-mucho-seguro-1440110'>Así utilizo las viejas memorias USB tiradas en el cajón para que mi portátil sea mucho más seguro</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/utilizo-viejas-memorias-usb-tiradas-cajon-mi-portatil-sea-mucho-seguro-1440110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/utilizo-viejas-memorias-usb-tiradas-cajon-mi-portatil-sea-mucho-seguro-4289945.jpg?tf=1200x' alt='Así utilizo las viejas memorias USB tiradas en el cajón para que mi portátil sea mucho más seguro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/version-oficial-windows-11-compacta-instalar-1438862'>Esta es la versión oficial de Windows 11 más compacta que puedes instalar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/version-oficial-windows-11-compacta-instalar-1438862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/windows-11-enterprise-ltsc-4287872.jpg?tf=1200x' alt='Esta es la versión oficial de Windows 11 más compacta que puedes instalar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/menos-caos-claridad-google-maps-prueba-cambio-mapas-1441213'>Menos caos, más claridad: Google Maps prueba este cambio en los mapas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/menos-caos-claridad-google-maps-prueba-cambio-mapas-1441213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-4291738.jpg?tf=1200x' alt='Menos caos, más claridad: Google Maps prueba este cambio en los mapas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/llamadas-silenciosas-robollamadas-esconde-detras-ellas-riesgos-tienen-seguridad-1439170'>Llamadas silenciosas o robollamadas: qué se esconde detrás de ellas y qué riesgos tienen para tu seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/llamadas-silenciosas-robollamadas-esconde-detras-ellas-riesgos-tienen-seguridad-1439170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/estafas-llamadas-4288355.jpg?tf=1200x' alt='Llamadas silenciosas o robollamadas: qué se esconde detrás de ellas y qué riesgos tienen para tu seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/experto-ciberseguridad-como-verificar-seguridad-extensiones-chrome-antes-instalarlas-1439450'>Experto en ciberseguridad desvela cómo verificar la seguridad de las extensiones de Chrome antes de instalarlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/experto-ciberseguridad-como-verificar-seguridad-extensiones-chrome-antes-instalarlas-1439450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-chrome-4288825.jpg?tf=1200x' alt='Experto en ciberseguridad desvela cómo verificar la seguridad de las extensiones de Chrome antes de instalarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-1440380'>10 cosas que no sabías que tu iPhone podría hacer: te quedarás con la boca abierta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-1440380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-4290413.jpg?tf=1200x' alt='10 cosas que no sabías que tu iPhone podría hacer: te quedarás con la boca abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/como-saber-regleta-conectas-movil-ordenador-tv-realmente-segura-1440642'>Cómo saber si la regleta a la que conectas tu móvil, ordenador o TV es realmente segura</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/como-saber-regleta-conectas-movil-ordenador-tv-realmente-segura-1440642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-regleta-conectas-movil-ordenador-tv-realmente-segura-4290811.jpg?tf=1200x' alt='Cómo saber si la regleta a la que conectas tu móvil, ordenador o TV es realmente segura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/-meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-1441184'>Palo a Meta: se bajó mediante Torrent docenas de millones de libros pirateados, para entrenar a su IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/-meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-1441184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-4291684.jpg?tf=1200x' alt='Palo a Meta: se bajó mediante Torrent docenas de millones de libros pirateados, para entrenar a su IA' />
     </a>
 </div>
 
