@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-1441270'>Microsoft Store prueba una función que puede cambiarlo todo: instala juegos por partes</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-1441270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-4291877.jpg?tf=1200x' alt='Microsoft Store prueba una función que puede cambiarlo todo: instala juegos por partes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cansado-desorden-google-fotos-habra-nueva-opcion-ocultar-imagenes-whatsapp-otras-aplicaciones-1441268'>¿Cansado del desorden en Google Fotos? Habrá una nueva opción para ocultar imágenes de WhatsApp y otras aplicaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cansado-desorden-google-fotos-habra-nueva-opcion-ocultar-imagenes-whatsapp-otras-aplicaciones-1441268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-fotos-4291874.jpg?tf=1200x' alt='¿Cansado del desorden en Google Fotos? Habrá una nueva opción para ocultar imágenes de WhatsApp y otras aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/conquistar-ios-ia-grok-elon-musk-ahora-prepara-llegada-android-1441267'>Tras conquistar iOS, la IA Grok de Elon Musk ahora se prepara para su llegada a Android</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/conquistar-ios-ia-grok-elon-musk-ahora-prepara-llegada-android-1441267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-android-4291872.jpg?tf=1200x' alt='Tras conquistar iOS, la IA Grok de Elon Musk ahora se prepara para su llegada a Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/emojis-solo-clic-windows-11-prueba-nuevo-boton-barra-tareas-1441266'>¿Emojis con un solo clic? Windows 11 prueba un nuevo botón en la barra de tareas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/emojis-solo-clic-windows-11-prueba-nuevo-boton-barra-tareas-1441266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/emojis-windows-11-4291870.jpg?tf=1200x' alt='¿Emojis con un solo clic? Windows 11 prueba un nuevo botón en la barra de tareas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/ticwatch-google-mejor-smartwatch-precio-risa-amazon-1441221'>Ticwatch, a por Google: su mejor smartwatch está a precio de risa en Amazon </a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/ticwatch-google-mejor-smartwatch-precio-risa-amazon-1441221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ticwatch-atlas-4291762.jpg?tf=1200x' alt='Ticwatch, a por Google: su mejor smartwatch está a precio de risa en Amazon ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-1440397'>Movistar Plus+ tiene una de las adaptaciones menos conocidas de Stephen King, pero él mismo escribió el guion</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-1440397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-tiene-adaptaciones-menos-conocidas-stephen-king-pero-mismo-escribio-guion-4290424.jpg?tf=1200x' alt='Movistar Plus+ tiene una de las adaptaciones menos conocidas de Stephen King, pero él mismo escribió el guion' />
     </a>
 </div>
 
