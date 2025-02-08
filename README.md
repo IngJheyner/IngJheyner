@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/fallas-servicios-playstation-network-lleva-caido-medio-dia-afectando-millones-jugadores-ps5-1441249'>Fallas en los servicios: PlayStation Network lleva caído más de medio día afectando a millones de jugadores de PS5</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/fallas-servicios-playstation-network-lleva-caido-medio-dia-afectando-millones-jugadores-ps5-1441249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/error-playstation-network-4291797.jpg?tf=1200x' alt='Fallas en los servicios: PlayStation Network lleva caído más de medio día afectando a millones de jugadores de PS5' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427'>Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-1439427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/numero-magico-resuelve-mayor-problema-fisica-moderna-estabilidad-redes-cuanticas-4288821.jpg?tf=1200x' alt='Este número mágico resuelve el mayor problema de la física moderna: la estabilidad de las redes cuánticas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/android-16-te-ayudara-no-perder-nocion-tiempo-viajes-te-avisara-cambios-zona-horaria-1441232'>Android 16 te ayudará a no perder la noción del tiempo en tus viajes: te avisará sobre cambios de zona horaria</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-16-te-ayudara-no-perder-nocion-tiempo-viajes-te-avisara-cambios-zona-horaria-1441232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-cambio-zona-horaria-4291774.jpg?tf=1200x' alt='Android 16 te ayudará a no perder la noción del tiempo en tus viajes: te avisará sobre cambios de zona horaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652'>Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-1439652' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-mastodontica-cifra-profesor-harvard-podria-haber-ganado-casi-mata-4289147.jpg?tf=1200x' alt='Bill Gates, la mastodóntica cifra que su profesor de Harvard, podría haber ganado con él: "Casi se mata"' />
     </a>
 </div>
 
