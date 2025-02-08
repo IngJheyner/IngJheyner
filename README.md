@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-1440380'>10 cosas que no sabías que tu iPhone podría hacer: te quedarás con la boca abierta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-1440380' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-cosas-no-sabias-iphone-podria-hacer-te-quedaras-boca-abierta-4290413.jpg?tf=1200x' alt='10 cosas que no sabías que tu iPhone podría hacer: te quedarás con la boca abierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/como-saber-regleta-conectas-movil-ordenador-tv-realmente-segura-1440642'>Cómo saber si la regleta a la que conectas tu móvil, ordenador o TV es realmente segura</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/como-saber-regleta-conectas-movil-ordenador-tv-realmente-segura-1440642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-regleta-conectas-movil-ordenador-tv-realmente-segura-4290811.jpg?tf=1200x' alt='Cómo saber si la regleta a la que conectas tu móvil, ordenador o TV es realmente segura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/-meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-1441184'>Palo a Meta: se bajó mediante Torrent docenas de millones de libros pirateados, para entrenar a su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/-meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-1441184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meta-mediante-torrent-docenas-millones-libros-pirateados-entrenar-ia-4291684.jpg?tf=1200x' alt='Palo a Meta: se bajó mediante Torrent docenas de millones de libros pirateados, para entrenar a su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-comercial-ha-comenzado-deepseek-engana-eeuu-invirtiendo-tantos-millones-dolares-made-china-pasara-factura-1440218'>La guerra comercial ha comenzado con DeepSeek: ¿Engaña EEUU invirtiendo tantos millones de dólares o el 'made in China' pasará factura?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/guerra-comercial-ha-comenzado-deepseek-engana-eeuu-invirtiendo-tantos-millones-dolares-made-china-pasara-factura-1440218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estados-unidos-china-4291070.jpg?tf=1200x' alt='La guerra comercial ha comenzado con DeepSeek: ¿Engaña EEUU invirtiendo tantos millones de dólares o el 'made in China' pasará factura?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-1439651'>Llevo años buscando un sustituto gratis de Excel que esté a la altura: ya lo he encontrado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-1439651' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-4289936.jpg?tf=1200x' alt='Llevo años buscando un sustituto gratis de Excel que esté a la altura: ya lo he encontrado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-movil-mejor-calidad-precio-he-probado-ultimamente-1438446'>Ni Redmi Note ni Galaxy A, este es el móvil con mejor calidad precio que he probado últimamente</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-movil-mejor-calidad-precio-he-probado-ultimamente-1438446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/poco-x7-pro-4287760.jpg?tf=1200x' alt='Ni Redmi Note ni Galaxy A, este es el móvil con mejor calidad precio que he probado últimamente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ningun-experto-ciberseguridad-te-recomendara-magistv-no-deberias-usarla-ningun-concepto-1440176'>Ningún experto en ciberseguridad te recomendará MagisTV, y no deberías usarla bajo ningún concepto</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ningun-experto-ciberseguridad-te-recomendara-magistv-no-deberias-usarla-ningun-concepto-1440176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/magis-tv-software-malicioso-espia-peligros-riesgos-ciberseguridad-4290208.jpg?tf=1200x' alt='Ningún experto en ciberseguridad te recomendará MagisTV, y no deberías usarla bajo ningún concepto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-1439653'>No tengo dudas, cuando caduque Windows 10, esto es lo que instalaré: es gratis, de Google y más sencillo que Linux</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-1439653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-4289162.jpg?tf=1200x' alt='No tengo dudas, cuando caduque Windows 10, esto es lo que instalaré: es gratis, de Google y más sencillo que Linux' />
     </a>
 </div>
 
