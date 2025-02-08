@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-comercial-ha-comenzado-deepseek-engana-eeuu-invirtiendo-tantos-millones-dolares-made-china-pasara-factura-1440218'>La guerra comercial ha comenzado con DeepSeek: ¿Engaña EEUU invirtiendo tantos millones de dólares o el 'made in China' pasará factura?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/guerra-comercial-ha-comenzado-deepseek-engana-eeuu-invirtiendo-tantos-millones-dolares-made-china-pasara-factura-1440218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estados-unidos-china-4291070.jpg?tf=1200x' alt='La guerra comercial ha comenzado con DeepSeek: ¿Engaña EEUU invirtiendo tantos millones de dólares o el 'made in China' pasará factura?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-1439651'>Llevo años buscando un sustituto gratis de Excel que esté a la altura: ya lo he encontrado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-1439651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llevo-anos-buscando-sustituto-gratis-excel-altura-ya-he-encontrado-4289936.jpg?tf=1200x' alt='Llevo años buscando un sustituto gratis de Excel que esté a la altura: ya lo he encontrado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-movil-mejor-calidad-precio-he-probado-ultimamente-1438446'>Ni Redmi Note ni Galaxy A, este es el móvil con mejor calidad precio que he probado últimamente</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-redmi-note-ni-galaxy-movil-mejor-calidad-precio-he-probado-ultimamente-1438446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/poco-x7-pro-4287760.jpg?tf=1200x' alt='Ni Redmi Note ni Galaxy A, este es el móvil con mejor calidad precio que he probado últimamente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ningun-experto-ciberseguridad-te-recomendara-magistv-no-deberias-usarla-ningun-concepto-1440176'>Ningún experto en ciberseguridad te recomendará MagisTV, y no deberías usarla bajo ningún concepto</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ningun-experto-ciberseguridad-te-recomendara-magistv-no-deberias-usarla-ningun-concepto-1440176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/magis-tv-software-malicioso-espia-peligros-riesgos-ciberseguridad-4290208.jpg?tf=1200x' alt='Ningún experto en ciberseguridad te recomendará MagisTV, y no deberías usarla bajo ningún concepto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-1439653'>No tengo dudas, cuando caduque Windows 10, esto es lo que instalaré: es gratis, de Google y más sencillo que Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/google/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-1439653' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-tengo-dudas-cuando-caduque-windows-10-instalare-gratis-google-sencillo-linux-4289162.jpg?tf=1200x' alt='No tengo dudas, cuando caduque Windows 10, esto es lo que instalaré: es gratis, de Google y más sencillo que Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-jobs-bill-gates-solo-tomando-drogas-podras-mejorar-aspecto-windows-1441086'>Steve Jobs a Bill Gates: "Solo tomando drogas podrás mejorar este aspecto de Windows"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/steve-jobs-bill-gates-solo-tomando-drogas-podras-mejorar-aspecto-windows-1441086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-steve-jobs-4291513.jpg?tf=1200x' alt='Steve Jobs a Bill Gates: "Solo tomando drogas podrás mejorar este aspecto de Windows"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-1441177'>Adiós a la privacidad en Apple: una orden secreta del Reino Unido obliga a desencriptar los iPhone de todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-1441177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-privacidad-apple-orden-secreta-reino-unido-obliga-desencriptar-iphone-todo-mundo-4291676.jpg?tf=1200x' alt='Adiós a la privacidad en Apple: una orden secreta del Reino Unido obliga a desencriptar los iPhone de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-1441170'>Ni DeepSeek ni ChatGPT: Le Chat de Mistral es la nueva IA generativa que quiere poner a Europa en el mapa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-1441170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-deepseek-ni-chatgpt-chat-mistral-nueva-ia-generativa-quiere-poner-europa-mapa-4291645.jpg?tf=1200x' alt='Ni DeepSeek ni ChatGPT: Le Chat de Mistral es la nueva IA generativa que quiere poner a Europa en el mapa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ciberdeck-raspberry-pi-parece-sacado-blade-runner-completamente-funcional-1441168'>Este ciberdeck Raspberry Pi parece sacado de Blade Runner y es completamente funcional</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ciberdeck-raspberry-pi-parece-sacado-blade-runner-completamente-funcional-1441168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vertical-runner-4291668.jpg?tf=1200x' alt='Este ciberdeck Raspberry Pi parece sacado de Blade Runner y es completamente funcional' />
     </a>
 </div>
 
