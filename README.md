@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650'>Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spam-llamadas-4289149.jpg?tf=1200x' alt='Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-pone-fin-actualizaciones-eternas-windows-11-1441315'>Microsoft le pone fin a las actualizaciones eternas en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-pone-fin-actualizaciones-eternas-windows-11-1441315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizaciones-windows-4262722.jpg?tf=1200x' alt='Microsoft le pone fin a las actualizaciones eternas en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-podria-darte-control-google-podria-permitir-reasignar-atajos-teclado-gusto-1441311'>Android 16 podría darte más control: Google podría permitir reasignar atajos de teclado a tu gusto</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-podria-darte-control-google-podria-permitir-reasignar-atajos-teclado-gusto-1441311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-4291916.jpg?tf=1200x' alt='Android 16 podría darte más control: Google podría permitir reasignar atajos de teclado a tu gusto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306'>Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-space-x-4288558.jpg?tf=1200x' alt='Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-nuevos-fondos-pantalla-envolventes-windows-11-10-puedes-descargarlos-gratis-1441307'>Microsoft lanza nuevos fondos de pantalla “envolventes” para Windows 11 y 10: así puedes descargarlos gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-nuevos-fondos-pantalla-envolventes-windows-11-10-puedes-descargarlos-gratis-1441307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-fondos-4291914.jpg?tf=1200x' alt='Microsoft lanza nuevos fondos de pantalla “envolventes” para Windows 11 y 10: así puedes descargarlos gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-1440095'>Todos mis amigos tenían la contraseña de mi WiFi: he encontrado una solución sin quedar como un mal anfitrión</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-1440095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-4289927.jpg?tf=1200x' alt='Todos mis amigos tenían la contraseña de mi WiFi: he encontrado una solución sin quedar como un mal anfitrión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/acabaron-enganos-google-fotos-marcara-digitalmente-imagenes-generadas-ia-1441299'>Se acabaron los engaños: Google Fotos marcará digitalmente las imágenes generadas con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/acabaron-enganos-google-fotos-marcara-digitalmente-imagenes-generadas-ia-1441299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-4264325.jpg?tf=1200x' alt='Se acabaron los engaños: Google Fotos marcará digitalmente las imágenes generadas con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655'>Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claves-producto-windows-11-4289158.jpg?tf=1200x' alt='Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas' />
     </a>
 </div>
 
