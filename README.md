@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332'>Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/seagate-barracuda-3554234.jpg?tf=1200x' alt='Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-veloz-he-probado-rebajada-incluye-gestor-contrasenas-drive-1440690'>La VPN más veloz que he probado, rebajada: incluye gestor de contraseñas y Drive</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-veloz-he-probado-rebajada-incluye-gestor-contrasenas-drive-1440690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='La VPN más veloz que he probado, rebajada: incluye gestor de contraseñas y Drive' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913'>Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-4287951.jpg?tf=1200x' alt='Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-pone-fin-actualizaciones-eternas-windows-11-1441315'>Microsoft le pone fin a las actualizaciones eternas en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-pone-fin-actualizaciones-eternas-windows-11-1441315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizaciones-windows-4262722.jpg?tf=1200x' alt='Microsoft le pone fin a las actualizaciones eternas en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-16-podria-darte-control-google-podria-permitir-reasignar-atajos-teclado-gusto-1441311'>Android 16 podría darte más control: Google podría permitir reasignar atajos de teclado a tu gusto</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-16-podria-darte-control-google-podria-permitir-reasignar-atajos-teclado-gusto-1441311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-4291916.jpg?tf=1200x' alt='Android 16 podría darte más control: Google podría permitir reasignar atajos de teclado a tu gusto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306'>Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-space-x-4288558.jpg?tf=1200x' alt='Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX' />
     </a>
 </div>
 
