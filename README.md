@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306'>Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-space-x-4288558.jpg?tf=1200x' alt='Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-nuevos-fondos-pantalla-envolventes-windows-11-10-puedes-descargarlos-gratis-1441307'>Microsoft lanza nuevos fondos de pantalla “envolventes” para Windows 11 y 10: así puedes descargarlos gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-nuevos-fondos-pantalla-envolventes-windows-11-10-puedes-descargarlos-gratis-1441307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-fondos-4291914.jpg?tf=1200x' alt='Microsoft lanza nuevos fondos de pantalla “envolventes” para Windows 11 y 10: así puedes descargarlos gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-1440095'>Todos mis amigos tenían la contraseña de mi WiFi: he encontrado una solución sin quedar como un mal anfitrión</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-1440095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-4289927.jpg?tf=1200x' alt='Todos mis amigos tenían la contraseña de mi WiFi: he encontrado una solución sin quedar como un mal anfitrión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655'>Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claves-producto-windows-11-4289158.jpg?tf=1200x' alt='Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-10-menos-steam-windows-11-impone-gamers-1441297'>Adiós Windows 10… al menos en Steam: Windows 11 se impone entre los gamers</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-windows-10-menos-steam-windows-11-impone-gamers-1441297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pro-gamer-4291905.jpg?tf=1200x' alt='Adiós Windows 10… al menos en Steam: Windows 11 se impone entre los gamers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116'>Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/instalar-sistema-operativo-alternativo-windows-10-4289948.jpg?tf=1200x' alt='Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada' />
     </a>
 </div>
 
