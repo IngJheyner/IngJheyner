@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662'>El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-4290824.jpg?tf=1200x' alt='El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-instalado-ia-perplexity-como-buscador-mi-navegador-ya-no-volvere-utilizar-google-nunca-1440659'>He instalado la IA de Perplexity como buscador de mi navegador y ya no volveré a utilizar Google nunca más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/he-instalado-ia-perplexity-como-buscador-mi-navegador-ya-no-volvere-utilizar-google-nunca-1440659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-instalado-ia-perplexity-como-buscador-mi-navegador-ya-no-volvere-utilizar-google-nunca-4290819.jpg?tf=1200x' alt='He instalado la IA de Perplexity como buscador de mi navegador y ya no volveré a utilizar Google nunca más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291'>2025, el año en que los agentes de IA tomarán: es necesario "que preparen a las personas para los empleos del futuro"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-empresas-4286581.jpg?tf=1200x' alt='2025, el año en que los agentes de IA tomarán: es necesario "que preparen a las personas para los empleos del futuro"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-1439194'>Esta versión de Linux ligera y fácil de usar puede ser la salvación de ese PC con Windows 10 que no puedes actualizar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-1439194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-4288388.jpg?tf=1200x' alt='Esta versión de Linux ligera y fácil de usar puede ser la salvación de ese PC con Windows 10 que no puedes actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/agente-ia-promete-ser-nueva-revolucion-chatgpt-1437097'>¿Qué es un agente de IA y por qué promete ser la nueva revolución tras ChatGPT?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/agente-ia-promete-ser-nueva-revolucion-chatgpt-1437097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/agentes-ia-4290083.jpg?tf=1200x' alt='¿Qué es un agente de IA y por qué promete ser la nueva revolución tras ChatGPT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-ultra-slim-s800d-barra-sonido-1440412'>He probado la barra de sonido Samsung Ultra Slim S800D con un diseño compacto, pero con un audio muy potente</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/samsung-ultra-slim-s800d-barra-sonido-1440412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-s800d-4290542.jpg?tf=1200x' alt='He probado la barra de sonido Samsung Ultra Slim S800D con un diseño compacto, pero con un audio muy potente' />
     </a>
 </div>
 
