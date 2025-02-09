@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655'>Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claves-producto-windows-11-4289158.jpg?tf=1200x' alt='Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-windows-10-menos-steam-windows-11-impone-gamers-1441297'>Adiós Windows 10… al menos en Steam: Windows 11 se impone entre los gamers</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-windows-10-menos-steam-windows-11-impone-gamers-1441297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pro-gamer-4291905.jpg?tf=1200x' alt='Adiós Windows 10… al menos en Steam: Windows 11 se impone entre los gamers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116'>Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/instalar-sistema-operativo-alternativo-windows-10-4289948.jpg?tf=1200x' alt='Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662'>El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-4290824.jpg?tf=1200x' alt='El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-instalado-ia-perplexity-como-buscador-mi-navegador-ya-no-volvere-utilizar-google-nunca-1440659'>He instalado la IA de Perplexity como buscador de mi navegador y ya no volveré a utilizar Google nunca más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/he-instalado-ia-perplexity-como-buscador-mi-navegador-ya-no-volvere-utilizar-google-nunca-1440659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-instalado-ia-perplexity-como-buscador-mi-navegador-ya-no-volvere-utilizar-google-nunca-4290819.jpg?tf=1200x' alt='He instalado la IA de Perplexity como buscador de mi navegador y ya no volveré a utilizar Google nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291'>2025, el año en que los agentes de IA tomarán las riendas: es necesario "que preparen a las personas para los empleos del futuro"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-empresas-4286581.jpg?tf=1200x' alt='2025, el año en que los agentes de IA tomarán las riendas: es necesario "que preparen a las personas para los empleos del futuro"' />
     </a>
 </div>
 
