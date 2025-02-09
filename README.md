@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913'>Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-4287951.jpg?tf=1200x' alt='Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650'>Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spam-llamadas-4289149.jpg?tf=1200x' alt='Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306'>Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-libros-llevaron-amar-espacio-fundar-spacex-1439306' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-space-x-4288558.jpg?tf=1200x' alt='Elon Musk: los 5 libros que le llevaron a amar el espacio y fundar SpaceX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-nuevos-fondos-pantalla-envolventes-windows-11-10-puedes-descargarlos-gratis-1441307'>Microsoft lanza nuevos fondos de pantalla “envolventes” para Windows 11 y 10: así puedes descargarlos gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-nuevos-fondos-pantalla-envolventes-windows-11-10-puedes-descargarlos-gratis-1441307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-fondos-4291914.jpg?tf=1200x' alt='Microsoft lanza nuevos fondos de pantalla “envolventes” para Windows 11 y 10: así puedes descargarlos gratis' />
     </a>
 </div>
 
