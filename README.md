@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/gran-secreto-esconden-puertos-usb-smart-tv-1439712'>Este es el gran secreto que esconden los puertos USB de tu Smart TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/gran-secreto-esconden-puertos-usb-smart-tv-1439712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puertos-usb-smart-tv-4289216.jpg?tf=1200x' alt='Este es el gran secreto que esconden los puertos USB de tu Smart TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-1441270'>Microsoft Store prueba una función que puede cambiarlo todo: instala juegos por partes</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-1441270' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-4291877.jpg?tf=1200x' alt='Microsoft Store prueba una función que puede cambiarlo todo: instala juegos por partes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-1439182'>El test de la felicidad de Steve Jobs: responde a estas 6 preguntas y descubre si eres verdaderamente feliz</a></h4>
     <a href='https://computerhoy.20minutos.es/life/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-1439182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-4288367.jpg?tf=1200x' alt='El test de la felicidad de Steve Jobs: responde a estas 6 preguntas y descubre si eres verdaderamente feliz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/emojis-solo-clic-windows-11-prueba-nuevo-boton-barra-tareas-1441266'>¿Emojis con un solo clic? Windows 11 prueba un nuevo botón en la barra de tareas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/emojis-solo-clic-windows-11-prueba-nuevo-boton-barra-tareas-1441266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/emojis-windows-11-4291870.jpg?tf=1200x' alt='¿Emojis con un solo clic? Windows 11 prueba un nuevo botón en la barra de tareas' />
     </a>
 </div>
 
