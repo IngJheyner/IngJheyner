@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-1440664'>Un estudiante se cansó de perder sus memorias USB con archivos importantes: ahora es multimillonario</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-1440664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-4290828.jpg?tf=1200x' alt='Un estudiante se cansó de perder sus memorias USB con archivos importantes: ahora es multimillonario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662'>El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-4290824.jpg?tf=1200x' alt='El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-1441278'>Castores construyen en dos días una presa que el gobierno llevaba 7 años planificando</a></h4>
     <a href='https://computerhoy.20minutos.es/life/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-1441278' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-4291889.jpg?tf=1200x' alt='Castores construyen en dos días una presa que el gobierno llevaba 7 años planificando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-1439194'>Esta versión de Linux ligera y fácil de usar puede ser la salvación de ese PC con Windows 10 que no puedes actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-1439194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-4288388.jpg?tf=1200x' alt='Esta versión de Linux ligera y fácil de usar puede ser la salvación de ese PC con Windows 10 que no puedes actualizar' />
     </a>
 </div>
 
