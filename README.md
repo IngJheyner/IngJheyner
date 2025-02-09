@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/gran-secreto-esconden-puertos-usb-smart-tv-1439712'>Este es el gran secreto que esconden los puertos USB de tu Smart TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/gran-secreto-esconden-puertos-usb-smart-tv-1439712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puertos-usb-smart-tv-4289216.jpg?tf=1200x' alt='Este es el gran secreto que esconden los puertos USB de tu Smart TV' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291'>2025, el año en que los agentes de IA tomarán: es necesario "que preparen a las personas para los empleos del futuro"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-empresas-4286581.jpg?tf=1200x' alt='2025, el año en que los agentes de IA tomarán: es necesario "que preparen a las personas para los empleos del futuro"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-1441270'>Microsoft Store prueba una función que puede cambiarlo todo: instala juegos por partes</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-1441270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-store-prueba-funcion-puede-cambiarlo-todo-instala-juegos-partes-4291877.jpg?tf=1200x' alt='Microsoft Store prueba una función que puede cambiarlo todo: instala juegos por partes' />
+    <h4><a href='https://computerhoy.20minutos.es/life/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-1441278'>Castores construyen en dos días una presa que el gobierno llevaba 7 años planificando</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-1441278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-4291889.jpg?tf=1200x' alt='Castores construyen en dos días una presa que el gobierno llevaba 7 años planificando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cansado-desorden-google-fotos-habra-nueva-opcion-ocultar-imagenes-whatsapp-otras-aplicaciones-1441268'>¿Cansado del desorden en Google Fotos? Habrá una nueva opción para ocultar imágenes de WhatsApp y otras aplicaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cansado-desorden-google-fotos-habra-nueva-opcion-ocultar-imagenes-whatsapp-otras-aplicaciones-1441268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-fotos-4291874.jpg?tf=1200x' alt='¿Cansado del desorden en Google Fotos? Habrá una nueva opción para ocultar imágenes de WhatsApp y otras aplicaciones' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-1439194'>Esta versión de Linux ligera y fácil de usar puede ser la salvación de ese PC con Windows 10 que no puedes actualizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-1439194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/version-linux-ligera-facil-usar-puede-ser-salvacion-ese-pc-windows-10-no-puedes-actualizar-4288388.jpg?tf=1200x' alt='Esta versión de Linux ligera y fácil de usar puede ser la salvación de ese PC con Windows 10 que no puedes actualizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/conquistar-ios-ia-grok-elon-musk-ahora-prepara-llegada-android-1441267'>Tras conquistar iOS, la IA Grok de Elon Musk ahora se prepara para su llegada a Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/conquistar-ios-ia-grok-elon-musk-ahora-prepara-llegada-android-1441267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-android-4291872.jpg?tf=1200x' alt='Tras conquistar iOS, la IA Grok de Elon Musk ahora se prepara para su llegada a Android' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/agente-ia-promete-ser-nueva-revolucion-chatgpt-1437097'>¿Qué es un agente de IA y por qué promete ser la nueva revolución tras ChatGPT?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/agente-ia-promete-ser-nueva-revolucion-chatgpt-1437097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/agentes-ia-4290083.jpg?tf=1200x' alt='¿Qué es un agente de IA y por qué promete ser la nueva revolución tras ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-1439182'>El test de la felicidad de Steve Jobs: responde a estas 6 preguntas y descubre si eres verdaderamente feliz</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-1439182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/test-felicidad-steve-jobs-responde-estas-6-preguntas-descubre-eres-verdaderamente-feliz-4288367.jpg?tf=1200x' alt='El test de la felicidad de Steve Jobs: responde a estas 6 preguntas y descubre si eres verdaderamente feliz' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/samsung-ultra-slim-s800d-barra-sonido-1440412'>He probado la barra de sonido Samsung Ultra Slim S800D con un diseño compacto, pero con un audio muy potente</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/samsung-ultra-slim-s800d-barra-sonido-1440412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-s800d-4290542.jpg?tf=1200x' alt='He probado la barra de sonido Samsung Ultra Slim S800D con un diseño compacto, pero con un audio muy potente' />
     </a>
 </div>
 
