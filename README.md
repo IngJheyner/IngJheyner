@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339'>Ni gafas ni móvil: Meta prueba en España un "sombrero" para teclear con la mente</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-network-no-funciona-sony-te-hace-regalo-disculparse-1441341'>PlayStation Network no funciona: Sony te hace este regalo para disculparse</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-network-no-funciona-sony-te-hace-regalo-disculparse-1441341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/no-funciona-playstation-network.jpg?tf=1200x' alt='PlayStation Network no funciona: Sony te hace este regalo para disculparse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339'>Ni gafas ni móvil: Meta prueba en España un casco para leer el pensamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-4292002.jpg?tf=1200x' alt='Ni gafas ni móvil: Meta prueba en España un "sombrero" para teclear con la mente' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-4292002.jpg?tf=1200x' alt='Ni gafas ni móvil: Meta prueba en España un casco para leer el pensamiento' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332'>Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/seagate-barracuda-3554234.jpg?tf=1200x' alt='Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-veloz-he-probado-rebajada-incluye-gestor-contrasenas-drive-1440690'>La VPN más veloz que he probado, rebajada: incluye gestor de contraseñas y Drive</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-veloz-he-probado-rebajada-incluye-gestor-contrasenas-drive-1440690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='La VPN más veloz que he probado, rebajada: incluye gestor de contraseñas y Drive' />
     </a>
 </div>
 
