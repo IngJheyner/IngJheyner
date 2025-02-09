@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-1440095'>Todos mis amigos tenían la contraseña de mi WiFi: he encontrado una solución sin quedar como un mal anfitrión</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-1440095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/todos-amigos-tenian-contrasena-mi-wifi-he-encontrado-solucion-quedar-como-mal-anfitrion-4289927.jpg?tf=1200x' alt='Todos mis amigos tenían la contraseña de mi WiFi: he encontrado una solución sin quedar como un mal anfitrión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/acabaron-enganos-google-fotos-marcara-digitalmente-imagenes-generadas-ia-1441299'>Se acabaron los engaños: Google Fotos marcará digitalmente las imágenes generadas con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/acabaron-enganos-google-fotos-marcara-digitalmente-imagenes-generadas-ia-1441299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-fotos-puedes-encontrar-imagenes-antiguas-instante-viajar-pasado-4264325.jpg?tf=1200x' alt='Se acabaron los engaños: Google Fotos marcará digitalmente las imágenes generadas con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655'>Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/claves-genericas-como-activar-windows-11-gratis-1439655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claves-producto-windows-11-4289158.jpg?tf=1200x' alt='Qué son las claves genéricas y cómo activar Windows 11 gratis con ellas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116'>Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/instalar-sistema-operativo-alternativo-windows-10-4289948.jpg?tf=1200x' alt='Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-1440664'>Un estudiante se cansó de perder sus memorias USB con archivos importantes: ahora es multimillonario</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-1440664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-4290828.jpg?tf=1200x' alt='Un estudiante se cansó de perder sus memorias USB con archivos importantes: ahora es multimillonario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662'>El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-1440662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-bluetooth-coches-radios-antiguas-pantalla-ni-android-auto-4290824.jpg?tf=1200x' alt='El truco del Bluetooth para coches con radios antiguas sin pantalla ni Android Auto' />
     </a>
 </div>
 
