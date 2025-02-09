@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116'>Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/fin-windows-10-probar-alternativas-pc-instalar-nada-1440116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/instalar-sistema-operativo-alternativo-windows-10-4289948.jpg?tf=1200x' alt='Prepárate para el fin de Windows 10: cómo probar alternativas para tu PC sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-1440664'>Un estudiante se cansó de perder sus memorias USB con archivos importantes: ahora es multimillonario</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-1440664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estudiante-canso-perder-memorias-usb-archivos-importantes-ahora-multimillonario-4290828.jpg?tf=1200x' alt='Un estudiante se cansó de perder sus memorias USB con archivos importantes: ahora es multimillonario' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291'>2025, el año en que los agentes de IA tomarán: es necesario "que preparen a las personas para los empleos del futuro"</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291'>2025, el año en que los agentes de IA tomarán las riendas: es necesario "que preparen a las personas para los empleos del futuro"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/2025-ano-agentes-ia-tomaran-necesario-preparen-personas-empleos-futuro-1437291' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-empresas-4286581.jpg?tf=1200x' alt='2025, el año en que los agentes de IA tomarán: es necesario "que preparen a las personas para los empleos del futuro"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-1441278'>Castores construyen en dos días una presa que el gobierno llevaba 7 años planificando</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-1441278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/castores-construyen-dos-dias-presa-gobierno-llevaba-7-anos-planificando-4291889.jpg?tf=1200x' alt='Castores construyen en dos días una presa que el gobierno llevaba 7 años planificando' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ia-empresas-4286581.jpg?tf=1200x' alt='2025, el año en que los agentes de IA tomarán las riendas: es necesario "que preparen a las personas para los empleos del futuro"' />
     </a>
 </div>
 
