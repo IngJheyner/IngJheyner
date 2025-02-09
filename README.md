@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339'>Ni gafas ni móvil: Meta prueba en España un "sombrero" para teclear con la mente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-4292002.jpg?tf=1200x' alt='Ni gafas ni móvil: Meta prueba en España un "sombrero" para teclear con la mente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/publicidad-youtube-te-molesta-hay-malas-noticias-ti-1441336'>Si la publicidad de YouTube te molesta, hay malas noticias para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/google/publicidad-youtube-te-molesta-hay-malas-noticias-ti-1441336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/publicidad-youtube-te-molesta-tenemos-malas-noticias-ti-4291991.jpg?tf=1200x' alt='Si la publicidad de YouTube te molesta, hay malas noticias para ti' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-veloz-he-probado-rebajada-incluye-gestor-contrasenas-drive-1440690'>La VPN más veloz que he probado, rebajada: incluye gestor de contraseñas y Drive</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/vpn-veloz-he-probado-rebajada-incluye-gestor-contrasenas-drive-1440690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nordvpn-vpn-3303558.jpg?tf=1200x' alt='La VPN más veloz que he probado, rebajada: incluye gestor de contraseñas y Drive' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913'>Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-4287951.jpg?tf=1200x' alt='Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas' />
     </a>
 </div>
 
