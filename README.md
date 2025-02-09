@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153'>Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-4288349.jpg?tf=1200x' alt='Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332'>Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/seagate-barracuda-3554234.jpg?tf=1200x' alt='Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650'>Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spam-llamadas-4289149.jpg?tf=1200x' alt='Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-pone-fin-actualizaciones-eternas-windows-11-1441315'>Microsoft le pone fin a las actualizaciones eternas en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-pone-fin-actualizaciones-eternas-windows-11-1441315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/actualizaciones-windows-4262722.jpg?tf=1200x' alt='Microsoft le pone fin a las actualizaciones eternas en Windows 11' />
     </a>
 </div>
 
