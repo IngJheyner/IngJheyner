@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/publicidad-youtube-te-molesta-hay-malas-noticias-ti-1441336'>Si la publicidad de YouTube te molesta, hay malas noticias para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/publicidad-youtube-te-molesta-hay-malas-noticias-ti-1441336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/publicidad-youtube-te-molesta-tenemos-malas-noticias-ti-4291991.jpg?tf=1200x' alt='Si la publicidad de YouTube te molesta, hay malas noticias para ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153'>Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-4288349.jpg?tf=1200x' alt='Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913'>Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-1438913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/como-asignar-chatgpt-personalidad-especifica-obtener-respuestas-precisas-4287951.jpg?tf=1200x' alt='Cómo asignar a ChatGPT una personalidad específica para obtener respuestas más precisas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650'>Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/llamadas-spam-como-detectar-cuando-trata-robot-evitar-estafas-1439650' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spam-llamadas-4289149.jpg?tf=1200x' alt='Llamadas spam: cómo detectar cuando se trata de un robot para evitar estafas' />
     </a>
 </div>
 
