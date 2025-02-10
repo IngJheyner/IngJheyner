@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/mit-fulmina-record-mundial-fidelidad-99998-avance-precedentes-computacion-cuantica-1441442'>El MIT fulmina un récord mundial con una fidelidad del 99,998% en un avance sin precedentes en la computación cuántica</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/mit-fulmina-record-mundial-fidelidad-99998-avance-precedentes-computacion-cuantica-1441442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fluxonio-4292164.jpg?tf=1200x' alt='El MIT fulmina un récord mundial con una fidelidad del 99,998% en un avance sin precedentes en la computación cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-wifi-larga-segura-mundo-31-millones-1441527'>Esta es la contraseña WiFi más larga y segura del mundo entre más de 31 millones</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-wifi-larga-segura-mundo-31-millones-1441527' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contrasena-wifi-larga-segura-mundo-31-millones-4292294.jpg?tf=1200x' alt='Esta es la contraseña WiFi más larga y segura del mundo entre más de 31 millones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/inteligencia-artificial-revela-motivo-deberias-comprar-iphone-4-1441486'>La inteligencia artificial revela el motivo por el que deberías comprar el iPhone SE 4</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/inteligencia-artificial-revela-motivo-deberias-comprar-iphone-4-1441486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-revela-motivo-deberias-comprar-iphone-4-4292193.jpg?tf=1200x' alt='La inteligencia artificial revela el motivo por el que deberías comprar el iPhone SE 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-dura-preocupante-advertencia-beneficios-ia-podrian-no-llegar-todo-mundo-1441481'>Sam Altman lanza una dura y preocupante advertencia: "Los beneficios de la IA podrían no llegar a todo el mundo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-dura-preocupante-advertencia-beneficios-ia-podrian-no-llegar-todo-mundo-1441481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-4292198.jpg?tf=1200x' alt='Sam Altman lanza una dura y preocupante advertencia: "Los beneficios de la IA podrían no llegar a todo el mundo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/apple-lia-amazon-rebaja-apple-watch-series-10-deja-50-euros-barato-1441455'>Apple la lía en Amazon: rebaja el Apple Watch Series 10 y lo deja 50 euros más barato</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/apple-lia-amazon-rebaja-apple-watch-series-10-deja-50-euros-barato-1441455' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244587.jpg?tf=1200x' alt='Apple la lía en Amazon: rebaja el Apple Watch Series 10 y lo deja 50 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/son-peores-propias-iptv-expertos-alertan-graves-problemas-avecinan-1441505'>"Son peores que las propias IPTV": Expertos alertan de los graves problemas que se avecinan</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/son-peores-propias-iptv-expertos-alertan-graves-problemas-avecinan-1441505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-peores-propias-iptv-expertos-alertan-graves-problemas-avecinan-4292265.jpg?tf=1200x' alt='"Son peores que las propias IPTV": Expertos alertan de los graves problemas que se avecinan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-1441472'>El Google Maps de las operadoras más utilizadas en cada provincia: apenas hay cambios en las primeras posiciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-1441472' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-4292181.jpg?tf=1200x' alt='El Google Maps de las operadoras más utilizadas en cada provincia: apenas hay cambios en las primeras posiciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-simulan-combate-ia-deepseek-chatgpt-ganador-no-te-dejara-indiferente-1441493'>Expertos simulan un combate de IA: DeepSeek contra ChatGPT, y el ganador no te dejará indiferente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-simulan-combate-ia-deepseek-chatgpt-ganador-no-te-dejara-indiferente-1441493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-vs-chatgpt-4292261.jpg?tf=1200x' alt='Expertos simulan un combate de IA: DeepSeek contra ChatGPT, y el ganador no te dejará indiferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399'>La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-4292073.jpg?tf=1200x' alt='La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"' />
     </a>
 </div>
 
