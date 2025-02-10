@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-bate-propio-record-400-vidas-salvadas-tecnologia-busqueda-rescate-1441418'>La NASA bate su propio récord: más de 400 vidas salvadas con la tecnología de búsqueda y rescate</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-bate-propio-record-400-vidas-salvadas-tecnologia-busqueda-rescate-1441418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-4292141.jpg?tf=1200x' alt='La NASA bate su propio récord: más de 400 vidas salvadas con la tecnología de búsqueda y rescate' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576'>Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-4292360.jpg?tf=1200x' alt='Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/mit-fulmina-record-mundial-fidelidad-99998-avance-precedentes-computacion-cuantica-1441442'>El MIT fulmina un récord mundial con una fidelidad del 99,998% en un avance sin precedentes en la computación cuántica</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/mit-fulmina-record-mundial-fidelidad-99998-avance-precedentes-computacion-cuantica-1441442' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fluxonio-4292164.jpg?tf=1200x' alt='El MIT fulmina un récord mundial con una fidelidad del 99,998% en un avance sin precedentes en la computación cuántica' />
+    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mercadona-sube-precio-compra-online-1441573'>Mercadona la lía subiendo el precio de uno de sus servicios más usados</a></h4>
+    <a href='https://computerhoy.20minutos.es/alimentacion/mercadona-sube-precio-compra-online-1441573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mercadona-lia-subiendo-precio-servicios-usados-4292335.jpg?tf=1200x' alt='Mercadona la lía subiendo el precio de uno de sus servicios más usados' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-wifi-larga-segura-mundo-31-millones-1441527'>Esta es la contraseña WiFi más larga y segura del mundo entre más de 31 millones</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/contrasena-wifi-larga-segura-mundo-31-millones-1441527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contrasena-wifi-larga-segura-mundo-31-millones-4292294.jpg?tf=1200x' alt='Esta es la contraseña WiFi más larga y segura del mundo entre más de 31 millones' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-dura-tanto-responder-trucos-sea-ia-rapida-1441524'>¿Por qué DeepSeek dura tanto en responder?: 6 trucos para que sea una IA más rápida</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-dura-tanto-responder-trucos-sea-ia-rapida-1441524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/errores-deepseek-4292291.jpg?tf=1200x' alt='¿Por qué DeepSeek dura tanto en responder?: 6 trucos para que sea una IA más rápida' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/inteligencia-artificial-revela-motivo-deberias-comprar-iphone-4-1441486'>La inteligencia artificial revela el motivo por el que deberías comprar el iPhone SE 4</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/inteligencia-artificial-revela-motivo-deberias-comprar-iphone-4-1441486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-revela-motivo-deberias-comprar-iphone-4-4292193.jpg?tf=1200x' alt='La inteligencia artificial revela el motivo por el que deberías comprar el iPhone SE 4' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-telegram-miles-canales-webs-bloqueados-pirateria-1441572'>Giro de 180 grados en Telegram: miles de canales y webs bloqueados por piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-telegram-miles-canales-webs-bloqueados-pirateria-1441572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-pirateria-4292355.jpg?tf=1200x' alt='Giro de 180 grados en Telegram: miles de canales y webs bloqueados por piratería' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-dura-preocupante-advertencia-beneficios-ia-podrian-no-llegar-todo-mundo-1441481'>Sam Altman lanza una dura y preocupante advertencia: "Los beneficios de la IA podrían no llegar a todo el mundo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-dura-preocupante-advertencia-beneficios-ia-podrian-no-llegar-todo-mundo-1441481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-4292198.jpg?tf=1200x' alt='Sam Altman lanza una dura y preocupante advertencia: "Los beneficios de la IA podrían no llegar a todo el mundo"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-adelanta-hackers-ia-cambiara-contrasenas-ti-caso-filtracion-1441570'>Chrome se adelanta a los hackers: la IA cambiará tus contraseñas por ti en caso de filtración</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-adelanta-hackers-ia-cambiara-contrasenas-ti-caso-filtracion-1441570' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/administrador-contrasenas-chrome-4292350.jpg?tf=1200x' alt='Chrome se adelanta a los hackers: la IA cambiará tus contraseñas por ti en caso de filtración' />
     </a>
 </div>
 
