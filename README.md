@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402'>La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-ya-disponible-todas-provincias-espanolas-nuevas-funciones-mayor-calidad-1441441'>DIGI TV ya está disponible en todas las provincias españolas con nuevas funciones y mayor calidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/digi-tv-ya-disponible-todas-provincias-espanolas-nuevas-funciones-mayor-calidad-1441441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-ya-disponible-toda-espana-4292149.jpg?tf=1200x' alt='DIGI TV ya está disponible en todas las provincias españolas con nuevas funciones y mayor calidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155'>Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-movistar-plus-elimina-6-canales-golpe-4291680.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/abrio-disco-duro-encontro-gran-mentira-estafa-duro-tres-anos-1441395'>Abrió su disco duro y encontró una gran mentira: así es la estafa que duró tres años</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/abrio-disco-duro-encontro-gran-mentira-estafa-duro-tres-anos-1441395' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Abrió su disco duro y encontró una gran mentira: así es la estafa que duró tres años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/cuenta-atras-iphone-4-todo-ya-sabe-iphone-barato-podria-ser-oficial-horas-1441384'>Cuenta atrás para el iPhone SE 4: todo lo que ya se sabe del iPhone barato que podría ser oficial en horas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/cuenta-atras-iphone-4-todo-ya-sabe-iphone-barato-podria-ser-oficial-horas-1441384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='Cuenta atrás para el iPhone SE 4: todo lo que ya se sabe del iPhone barato que podría ser oficial en horas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241'>Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290279.jpg?tf=1200x' alt='Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado' />
     </a>
 </div>
 
