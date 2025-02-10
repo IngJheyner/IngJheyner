@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-1440369'>Modo caja fuerte de WhatsApp o como estar 100% seguro de que nadie espía tus conversaciones más privadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-1440369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-4290393.jpg?tf=1200x' alt='Modo caja fuerte de WhatsApp o como estar 100% seguro de que nadie espía tus conversaciones más privadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-aprieta-ia-nueva-ley-somos-patito-feo-mundo-no-solo-mala-politica-sentencia-irrelevancia-1440219'>La UE aprieta a la IA con su nueva ley: ¿Somos el patito feo del mundo? "No es solo una mala política: es una sentencia de irrelevancia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ue-aprieta-ia-nueva-ley-somos-patito-feo-mundo-no-solo-mala-politica-sentencia-irrelevancia-1440219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ue-ley-ia-4291084.jpg?tf=1200x' alt='La UE aprieta a la IA con su nueva ley: ¿Somos el patito feo del mundo? "No es solo una mala política: es una sentencia de irrelevancia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-1440353'>Experta en ciberseguridad muestra cómo convertir tu iPhone en un ladrillo en caso de robo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-1440353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-4290369.jpg?tf=1200x' alt='Experta en ciberseguridad muestra cómo convertir tu iPhone en un ladrillo en caso de robo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/todas-memorias-cache-windows-como-vaciarlas-pc-vuele-1440661'>Todas las memorias caché de Windows y cómo vaciarlas para que tu PC vuele</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/todas-memorias-cache-windows-como-vaciarlas-pc-vuele-1440661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pc-maximo-rendimiento-4290812.jpg?tf=1200x' alt='Todas las memorias caché de Windows y cómo vaciarlas para que tu PC vuele' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-blindar-mi-cuenta-netflix-accesos-no-autorizados-1440616'>Así he conseguido blindar mi cuenta de Netflix ante accesos no autorizados</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-blindar-mi-cuenta-netflix-accesos-no-autorizados-1440616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-netflix-4290758.jpg?tf=1200x' alt='Así he conseguido blindar mi cuenta de Netflix ante accesos no autorizados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-1441345'>Ni Instagram ni YouTube: llega WikiTok, una cura contra la adicción al algoritmo de TikTok</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-1441345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-4292005.jpg?tf=1200x' alt='Ni Instagram ni YouTube: llega WikiTok, una cura contra la adicción al algoritmo de TikTok' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-network-no-funciona-sony-te-hace-regalo-disculparse-1441341'>PlayStation Network no funciona: Sony te hace este regalo para disculparse</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-network-no-funciona-sony-te-hace-regalo-disculparse-1441341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/no-funciona-playstation-network.jpg?tf=1200x' alt='PlayStation Network no funciona: Sony te hace este regalo para disculparse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339'>Ni gafas ni móvil: Meta prueba en España un casco para leer el pensamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-4292002.jpg?tf=1200x' alt='Ni gafas ni móvil: Meta prueba en España un casco para leer el pensamiento' />
     </a>
 </div>
 
