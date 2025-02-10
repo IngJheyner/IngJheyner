@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-1441472'>El Google Maps de las operadoras más utilizadas en cada provincia: apenas hay cambios en las primeras posiciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-1441472' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-4292181.jpg?tf=1200x' alt='El Google Maps de las operadoras más utilizadas en cada provincia: apenas hay cambios en las primeras posiciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-simulan-combate-ia-deepseek-chatgpt-ganador-no-te-dejara-indiferente-1441493'>Expertos simulan un combate de IA: DeepSeek contra ChatGPT, y el ganador no te dejará indiferente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-simulan-combate-ia-deepseek-chatgpt-ganador-no-te-dejara-indiferente-1441493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-vs-chatgpt-4292261.jpg?tf=1200x' alt='Expertos simulan un combate de IA: DeepSeek contra ChatGPT, y el ganador no te dejará indiferente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399'>La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-4292073.jpg?tf=1200x' alt='La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/confiesa-amor-chatgpt-recibe-aterradora-respuesta-no-te-dejara-indiferente-1441469'>Le confiesa su amor a ChatGPT y recibe una aterradora respuesta que no te dejará indiferente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/confiesa-amor-chatgpt-recibe-aterradora-respuesta-no-te-dejara-indiferente-1441469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292189.jpg?tf=1200x' alt='Le confiesa su amor a ChatGPT y recibe una aterradora respuesta que no te dejará indiferente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/thegrefg-estalla-windows-11-pleno-directo-vaya-pedazo-1441446'>TheGrefg estalla contra Windows 11 en pleno directo: "Vaya pedazo de..." </a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/thegrefg-estalla-windows-11-pleno-directo-vaya-pedazo-1441446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/thegrefg-3088118.jpg?tf=1200x' alt='TheGrefg estalla contra Windows 11 en pleno directo: "Vaya pedazo de..." ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/expertos-aseguran-estafa-whatsapp-perfecta-han-visto-nunca-nunca-compartais-pantalla-1441443'>Expertos aseguran que es la estafa de WhatsApp más perfecta que han visto nunca: "Nunca compartáis pantalla"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/expertos-aseguran-estafa-whatsapp-perfecta-han-visto-nunca-nunca-compartais-pantalla-1441443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graphite-whatsapp-4289735.jpg?tf=1200x' alt='Expertos aseguran que es la estafa de WhatsApp más perfecta que han visto nunca: "Nunca compartáis pantalla"' />
     </a>
 </div>
 
