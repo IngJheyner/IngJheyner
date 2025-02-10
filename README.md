@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399'>La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-4292073.jpg?tf=1200x' alt='La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-1441468'>Un experto advierte de la estafa de prefijo: "No lo respondas y bloquea inmediatamente"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-1441468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-4292174.jpg?tf=1200x' alt='Un experto advierte de la estafa de prefijo: "No lo respondas y bloquea inmediatamente"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/expertos-aseguran-estafa-whatsapp-perfecta-han-visto-nunca-nunca-compartais-pantalla-1441443'>Expertos aseguran que es la estafa de WhatsApp más perfecta que han visto nunca: "Nunca compartáis pantalla"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/expertos-aseguran-estafa-whatsapp-perfecta-han-visto-nunca-nunca-compartais-pantalla-1441443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graphite-whatsapp-4289735.jpg?tf=1200x' alt='Expertos aseguran que es la estafa de WhatsApp más perfecta que han visto nunca: "Nunca compartáis pantalla"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-fin-permitira-cambiar-funcion-esa-tecla-windows-casi-nadie-utiliza-1441456'>Microsoft por fin permitirá cambiar la función de esa tecla de Windows que casi nadie utiliza</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-fin-permitira-cambiar-funcion-esa-tecla-windows-casi-nadie-utiliza-1441456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tecla-copilot-teclado-windows-11-4292199.jpg?tf=1200x' alt='Microsoft por fin permitirá cambiar la función de esa tecla de Windows que casi nadie utiliza' />
     </a>
 </div>
 
