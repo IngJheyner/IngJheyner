@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/apple-lia-amazon-rebaja-apple-watch-series-10-deja-50-euros-barato-1441455'>Apple la lía en Amazon: rebaja el Apple Watch Series 10 y lo deja 50 euros más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/apple-lia-amazon-rebaja-apple-watch-series-10-deja-50-euros-barato-1441455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244587.jpg?tf=1200x' alt='Apple la lía en Amazon: rebaja el Apple Watch Series 10 y lo deja 50 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/son-peores-propias-iptv-expertos-alertan-graves-problemas-avecinan-1441505'>"Son peores que las propias IPTV": Expertos alertan de los graves problemas que se avecinan</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/son-peores-propias-iptv-expertos-alertan-graves-problemas-avecinan-1441505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-peores-propias-iptv-expertos-alertan-graves-problemas-avecinan-4292265.jpg?tf=1200x' alt='"Son peores que las propias IPTV": Expertos alertan de los graves problemas que se avecinan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/industria/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-1441472'>El Google Maps de las operadoras más utilizadas en cada provincia: apenas hay cambios en las primeras posiciones</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-1441472' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-operadoras-utilizadas-cada-provincia-apenas-hay-cambios-primeras-posiciones-4292181.jpg?tf=1200x' alt='El Google Maps de las operadoras más utilizadas en cada provincia: apenas hay cambios en las primeras posiciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399'>La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-1441399' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-entusiasmada-marte-distinto-todo-hemos-visto-antes-4292073.jpg?tf=1200x' alt='La NASA, entusiasmada en Marte: "Es distinto a todo lo que hemos visto antes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-1441468'>Un experto advierte de la estafa de prefijo: "No lo respondas y bloquea inmediatamente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-1441468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-4292174.jpg?tf=1200x' alt='Un experto advierte de la estafa de prefijo: "No lo respondas y bloquea inmediatamente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/confiesa-amor-chatgpt-recibe-aterradora-respuesta-no-te-dejara-indiferente-1441469'>Le confiesa su amor a ChatGPT y recibe una aterradora respuesta que no te dejará indiferente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/confiesa-amor-chatgpt-recibe-aterradora-respuesta-no-te-dejara-indiferente-1441469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292189.jpg?tf=1200x' alt='Le confiesa su amor a ChatGPT y recibe una aterradora respuesta que no te dejará indiferente' />
     </a>
 </div>
 
