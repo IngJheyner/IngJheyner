@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-suma-movistar-bloqueos-webs-usan-cloudflare-iptv-ilegales-tienen-culpa-1441419'>DIGI se suma a Movistar con los bloqueos a webs que usan Cloudflare: las IPTV ilegales tienen la culpa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/digi-suma-movistar-bloqueos-webs-usan-cloudflare-iptv-ilegales-tienen-culpa-1441419' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-suma-movistar-bloqueos-webs-usan-cloudflare-iptv-ilegales-tienen-culpa-4292162.jpg?tf=1200x' alt='DIGI se suma a Movistar con los bloqueos a webs que usan Cloudflare: las IPTV ilegales tienen la culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/golpe-efecto-javier-tebas-desmantelada-redes-iptv-grandes-espana-1441432'>Golpe de efecto de Javier Tebas: desmantelada una de las redes IPTV más grandes de España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/golpe-efecto-javier-tebas-desmantelada-redes-iptv-grandes-espana-1441432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-iptv-4292135.jpg?tf=1200x' alt='Golpe de efecto de Javier Tebas: desmantelada una de las redes IPTV más grandes de España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/android-auto-137-sorpresa-disponible-novedades-como-actualizar-1441447'>Android Auto 13.7 llega por sorpresa y ya está disponible para todos: novedades y cómo actualizar</a></h4>
     <a href='https://computerhoy.20minutos.es/android/android-auto-137-sorpresa-disponible-novedades-como-actualizar-1441447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nuevas-funciones-android-auto-137-4292161.jpg?tf=1200x' alt='Android Auto 13.7 llega por sorpresa y ya está disponible para todos: novedades y cómo actualizar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402'>La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-ya-disponible-todas-provincias-espanolas-nuevas-funciones-mayor-calidad-1441441'>DIGI TV ya está disponible en todas las provincias españolas con nuevas funciones y mayor calidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/digi-tv-ya-disponible-todas-provincias-espanolas-nuevas-funciones-mayor-calidad-1441441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-ya-disponible-toda-espana-4292149.jpg?tf=1200x' alt='DIGI TV ya está disponible en todas las provincias españolas con nuevas funciones y mayor calidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155'>Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-movistar-plus-elimina-6-canales-golpe-4291680.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe' />
     </a>
 </div>
 
