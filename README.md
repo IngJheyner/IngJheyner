@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241'>Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290279.jpg?tf=1200x' alt='Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-redmi-buds-6-pro-vienen-ingredientes-premium-precio-muy-comedido-1440030'>He probado los Xiaomi Redmi Buds 6 Pro y vienen con ingredientes premium a precio muy comedido</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-redmi-buds-6-pro-vienen-ingredientes-premium-precio-muy-comedido-1440030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-buds-6-pro-4291021.jpg?tf=1200x' alt='He probado los Xiaomi Redmi Buds 6 Pro y vienen con ingredientes premium a precio muy comedido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-1440369'>Modo caja fuerte de WhatsApp o como estar 100% seguro de que nadie espía tus conversaciones más privadas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-1440369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-4290393.jpg?tf=1200x' alt='Modo caja fuerte de WhatsApp o como estar 100% seguro de que nadie espía tus conversaciones más privadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-1440353'>Experta en ciberseguridad muestra cómo convertir tu iPhone en un ladrillo en caso de robo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-1440353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-4290369.jpg?tf=1200x' alt='Experta en ciberseguridad muestra cómo convertir tu iPhone en un ladrillo en caso de robo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/todas-memorias-cache-windows-como-vaciarlas-pc-vuele-1440661'>Todas las memorias caché de Windows y cómo vaciarlas para que tu PC vuele</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/todas-memorias-cache-windows-como-vaciarlas-pc-vuele-1440661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pc-maximo-rendimiento-4290812.jpg?tf=1200x' alt='Todas las memorias caché de Windows y cómo vaciarlas para que tu PC vuele' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-blindar-mi-cuenta-netflix-accesos-no-autorizados-1440616'>Así he conseguido blindar mi cuenta de Netflix ante accesos no autorizados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-blindar-mi-cuenta-netflix-accesos-no-autorizados-1440616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-netflix-4290758.jpg?tf=1200x' alt='Así he conseguido blindar mi cuenta de Netflix ante accesos no autorizados' />
     </a>
 </div>
 
