@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155'>Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-movistar-plus-elimina-6-canales-golpe-4291680.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-super-bowl-impactante-anuncio-compara-rueda-electricidad-1441403'>ChatGPT se estrena en la Super Bowl con un impactante anuncio en el que se compara con la rueda y la electricidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-super-bowl-impactante-anuncio-compara-rueda-electricidad-1441403' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-estrena-super-bowl-impacte-anuncio-compara-rueda-electricidad-4292093.jpg?tf=1200x' alt='ChatGPT se estrena en la Super Bowl con un impactante anuncio en el que se compara con la rueda y la electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/abrio-disco-duro-encontro-gran-mentira-estafa-duro-tres-anos-1441395'>Abrió su disco duro y encontró una gran mentira: así es la estafa que duró tres años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/abrio-disco-duro-encontro-gran-mentira-estafa-duro-tres-anos-1441395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Abrió su disco duro y encontró una gran mentira: así es la estafa que duró tres años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/cuenta-atras-iphone-4-todo-ya-sabe-iphone-barato-podria-ser-oficial-horas-1441384'>Cuenta atrás para el iPhone SE 4: todo lo que ya se sabe del iPhone barato que podría ser oficial en horas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/cuenta-atras-iphone-4-todo-ya-sabe-iphone-barato-podria-ser-oficial-horas-1441384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='Cuenta atrás para el iPhone SE 4: todo lo que ya se sabe del iPhone barato que podría ser oficial en horas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241'>Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290279.jpg?tf=1200x' alt='Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-redmi-buds-6-pro-vienen-ingredientes-premium-precio-muy-comedido-1440030'>He probado los Xiaomi Redmi Buds 6 Pro y vienen con ingredientes premium a precio muy comedido</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-xiaomi-redmi-buds-6-pro-vienen-ingredientes-premium-precio-muy-comedido-1440030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-buds-6-pro-4291021.jpg?tf=1200x' alt='He probado los Xiaomi Redmi Buds 6 Pro y vienen con ingredientes premium a precio muy comedido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-1440369'>Modo caja fuerte de WhatsApp o como estar 100% seguro de que nadie espía tus conversaciones más privadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-1440369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-caja-fuerte-whatsapp-como-estar-100-seguro-nadie-espia-conversaciones-privadas-4290393.jpg?tf=1200x' alt='Modo caja fuerte de WhatsApp o como estar 100% seguro de que nadie espía tus conversaciones más privadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-aprieta-ia-nueva-ley-somos-patito-feo-mundo-no-solo-mala-politica-sentencia-irrelevancia-1440219'>La UE aprieta a la IA con su nueva ley: ¿Somos el patito feo del mundo? "No es solo una mala política: es una sentencia de irrelevancia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ue-aprieta-ia-nueva-ley-somos-patito-feo-mundo-no-solo-mala-politica-sentencia-irrelevancia-1440219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ue-ley-ia-4291084.jpg?tf=1200x' alt='La UE aprieta a la IA con su nueva ley: ¿Somos el patito feo del mundo? "No es solo una mala política: es una sentencia de irrelevancia"' />
     </a>
 </div>
 
