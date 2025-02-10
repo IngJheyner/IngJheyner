@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-137-sorpresa-disponible-novedades-como-actualizar-1441447'>Android Auto 13.7 llega por sorpresa y ya está disponible para todos: novedades y cómo actualizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-auto-137-sorpresa-disponible-novedades-como-actualizar-1441447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nuevas-funciones-android-auto-137-4292161.jpg?tf=1200x' alt='Android Auto 13.7 llega por sorpresa y ya está disponible para todos: novedades y cómo actualizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/mentirias-entrevista-elon-musk-tiene-formula-infalible-descubrirlo-1441415'>¿Mentirías en una entrevista? Elon Musk tiene una fórmula infalible para descubrirlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/mentirias-entrevista-elon-musk-tiene-formula-infalible-descubrirlo-1441415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4266830.jpg?tf=1200x' alt='¿Mentirías en una entrevista? Elon Musk tiene una fórmula infalible para descubrirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402'>La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155'>Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/giro-180-grados-movistar-plus-elimina-6-canales-golpe-1441155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-movistar-plus-elimina-6-canales-golpe-4291680.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: elimina hasta 6 canales de golpe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-super-bowl-impactante-anuncio-compara-rueda-electricidad-1441403'>ChatGPT se estrena en la Super Bowl con un impactante anuncio en el que se compara con la rueda y la electricidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-super-bowl-impactante-anuncio-compara-rueda-electricidad-1441403' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-estrena-super-bowl-impacte-anuncio-compara-rueda-electricidad-4292093.jpg?tf=1200x' alt='ChatGPT se estrena en la Super Bowl con un impactante anuncio en el que se compara con la rueda y la electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/abrio-disco-duro-encontro-gran-mentira-estafa-duro-tres-anos-1441395'>Abrió su disco duro y encontró una gran mentira: así es la estafa que duró tres años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/abrio-disco-duro-encontro-gran-mentira-estafa-duro-tres-anos-1441395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/compra-disco-duro-pensando-nuevo-pero-encuentra-tesoro-800-gb-valorado-miles-euros-3856951.jpg?tf=1200x' alt='Abrió su disco duro y encontró una gran mentira: así es la estafa que duró tres años' />
     </a>
 </div>
 
