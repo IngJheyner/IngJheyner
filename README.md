@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-suma-movistar-bloqueos-webs-usan-cloudflare-iptv-ilegales-tienen-culpa-1441419'>DIGI se suma a Movistar con los bloqueos a webs que usan Cloudflare: las IPTV ilegales tienen la culpa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/digi-suma-movistar-bloqueos-webs-usan-cloudflare-iptv-ilegales-tienen-culpa-1441419' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-suma-movistar-bloqueos-webs-usan-cloudflare-iptv-ilegales-tienen-culpa-4292162.jpg?tf=1200x' alt='DIGI se suma a Movistar con los bloqueos a webs que usan Cloudflare: las IPTV ilegales tienen la culpa' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-1441468'>Un experto advierte de la estafa de prefijo: "No lo respondas y bloquea inmediatamente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-1441468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-advierte-estafa-prefijo-no-respondas-bloquea-inmediatamente-4292174.jpg?tf=1200x' alt='Un experto advierte de la estafa de prefijo: "No lo respondas y bloquea inmediatamente"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/golpe-efecto-javier-tebas-desmantelada-redes-iptv-grandes-espana-1441432'>Golpe de efecto de Javier Tebas: desmantelada una de las redes IPTV más grandes de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/golpe-efecto-javier-tebas-desmantelada-redes-iptv-grandes-espana-1441432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-iptv-4292135.jpg?tf=1200x' alt='Golpe de efecto de Javier Tebas: desmantelada una de las redes IPTV más grandes de España' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/confiesa-amor-chatgpt-recibe-aterradora-respuesta-no-te-dejara-indiferente-1441469'>Le confiesa su amor a ChatGPT y recibe una aterradora respuesta que no te dejará indiferente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/confiesa-amor-chatgpt-recibe-aterradora-respuesta-no-te-dejara-indiferente-1441469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292189.jpg?tf=1200x' alt='Le confiesa su amor a ChatGPT y recibe una aterradora respuesta que no te dejará indiferente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-auto-137-sorpresa-disponible-novedades-como-actualizar-1441447'>Android Auto 13.7 llega por sorpresa y ya está disponible para todos: novedades y cómo actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-auto-137-sorpresa-disponible-novedades-como-actualizar-1441447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nuevas-funciones-android-auto-137-4292161.jpg?tf=1200x' alt='Android Auto 13.7 llega por sorpresa y ya está disponible para todos: novedades y cómo actualizar' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/thegrefg-estalla-windows-11-pleno-directo-vaya-pedazo-1441446'>TheGrefg estalla contra Windows 11 en pleno directo: "Vaya pedazo de..." </a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/thegrefg-estalla-windows-11-pleno-directo-vaya-pedazo-1441446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/thegrefg-3088118.jpg?tf=1200x' alt='TheGrefg estalla contra Windows 11 en pleno directo: "Vaya pedazo de..." ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/mentirias-entrevista-elon-musk-tiene-formula-infalible-descubrirlo-1441415'>¿Mentirías en una entrevista? Elon Musk tiene una fórmula infalible para descubrirlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/mentirias-entrevista-elon-musk-tiene-formula-infalible-descubrirlo-1441415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/elon-musk-4266830.jpg?tf=1200x' alt='¿Mentirías en una entrevista? Elon Musk tiene una fórmula infalible para descubrirlo' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/expertos-aseguran-estafa-whatsapp-perfecta-han-visto-nunca-nunca-compartais-pantalla-1441443'>Expertos aseguran que es la estafa de WhatsApp más perfecta que han visto nunca: "Nunca compartáis pantalla"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/expertos-aseguran-estafa-whatsapp-perfecta-han-visto-nunca-nunca-compartais-pantalla-1441443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graphite-whatsapp-4289735.jpg?tf=1200x' alt='Expertos aseguran que es la estafa de WhatsApp más perfecta que han visto nunca: "Nunca compartáis pantalla"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402'>La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/biblioteca-clandestina-mark-zuckerberg-817-tb-libros-piratas-alimentaron-ia-meta-1441402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/mark-zuckerberg-4248295.jpg?tf=1200x' alt='La biblioteca clandestina de Mark Zuckerberg: 81,7 TB de libros piratas alimentaron la IA de Meta' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-fin-permitira-cambiar-funcion-esa-tecla-windows-casi-nadie-utiliza-1441456'>Microsoft por fin permitirá cambiar la función de esa tecla de Windows que casi nadie utiliza</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-fin-permitira-cambiar-funcion-esa-tecla-windows-casi-nadie-utiliza-1441456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tecla-copilot-teclado-windows-11-4292199.jpg?tf=1200x' alt='Microsoft por fin permitirá cambiar la función de esa tecla de Windows que casi nadie utiliza' />
     </a>
 </div>
 
