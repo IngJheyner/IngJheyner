@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/todas-memorias-cache-windows-como-vaciarlas-pc-vuele-1440661'>Todas las memorias caché de Windows y cómo vaciarlas para que tu PC vuele</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/todas-memorias-cache-windows-como-vaciarlas-pc-vuele-1440661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pc-maximo-rendimiento-4290812.jpg?tf=1200x' alt='Todas las memorias caché de Windows y cómo vaciarlas para que tu PC vuele' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-blindar-mi-cuenta-netflix-accesos-no-autorizados-1440616'>Así he conseguido blindar mi cuenta de Netflix ante accesos no autorizados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-blindar-mi-cuenta-netflix-accesos-no-autorizados-1440616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/seguridad-netflix-4290758.jpg?tf=1200x' alt='Así he conseguido blindar mi cuenta de Netflix ante accesos no autorizados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-1441345'>Ni Instagram ni YouTube: llega WikiTok, una cura contra la adicción al algoritmo de TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-1441345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-4292005.jpg?tf=1200x' alt='Ni Instagram ni YouTube: llega WikiTok, una cura contra la adicción al algoritmo de TikTok' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339'>Ni gafas ni móvil: Meta prueba en España un casco para leer el pensamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-1441339' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-gafas-ni-movil-meta-prueba-espana-sombrero-teclear-mente-4292002.jpg?tf=1200x' alt='Ni gafas ni móvil: Meta prueba en España un casco para leer el pensamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/publicidad-youtube-te-molesta-hay-malas-noticias-ti-1441336'>Si la publicidad de YouTube te molesta, hay malas noticias para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/publicidad-youtube-te-molesta-hay-malas-noticias-ti-1441336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/publicidad-youtube-te-molesta-tenemos-malas-noticias-ti-4291991.jpg?tf=1200x' alt='Si la publicidad de YouTube te molesta, hay malas noticias para ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153'>Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-4288349.jpg?tf=1200x' alt='Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar' />
     </a>
 </div>
 
