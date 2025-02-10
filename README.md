@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-bate-propio-record-400-vidas-salvadas-tecnologia-busqueda-rescate-1441418'>La NASA bate su propio récord: más de 400 vidas salvadas con la tecnología de búsqueda y rescate</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-bate-propio-record-400-vidas-salvadas-tecnologia-busqueda-rescate-1441418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-4292141.jpg?tf=1200x' alt='La NASA bate su propio récord: más de 400 vidas salvadas con la tecnología de búsqueda y rescate' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/mit-fulmina-record-mundial-fidelidad-99998-avance-precedentes-computacion-cuantica-1441442'>El MIT fulmina un récord mundial con una fidelidad del 99,998% en un avance sin precedentes en la computación cuántica</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/mit-fulmina-record-mundial-fidelidad-99998-avance-precedentes-computacion-cuantica-1441442' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fluxonio-4292164.jpg?tf=1200x' alt='El MIT fulmina un récord mundial con una fidelidad del 99,998% en un avance sin precedentes en la computación cuántica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-dura-preocupante-advertencia-beneficios-ia-podrian-no-llegar-todo-mundo-1441481'>Sam Altman lanza una dura y preocupante advertencia: "Los beneficios de la IA podrían no llegar a todo el mundo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-dura-preocupante-advertencia-beneficios-ia-podrian-no-llegar-todo-mundo-1441481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-4292198.jpg?tf=1200x' alt='Sam Altman lanza una dura y preocupante advertencia: "Los beneficios de la IA podrían no llegar a todo el mundo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/apple-lia-amazon-rebaja-apple-watch-series-10-deja-50-euros-barato-1441455'>Apple la lía en Amazon: rebaja el Apple Watch Series 10 y lo deja 50 euros más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/apple-lia-amazon-rebaja-apple-watch-series-10-deja-50-euros-barato-1441455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/apple-watch-series-10-4244587.jpg?tf=1200x' alt='Apple la lía en Amazon: rebaja el Apple Watch Series 10 y lo deja 50 euros más barato' />
     </a>
 </div>
 
