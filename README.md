@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/cuenta-atras-iphone-4-todo-ya-sabe-iphone-barato-podria-ser-oficial-horas-1441384'>Cuenta atrás para el iPhone SE 4: todo lo que ya se sabe del iPhone barato que podría ser oficial en horas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/cuenta-atras-iphone-4-todo-ya-sabe-iphone-barato-podria-ser-oficial-horas-1441384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/iphone-4-4274719.jpg?tf=1200x' alt='Cuenta atrás para el iPhone SE 4: todo lo que ya se sabe del iPhone barato que podría ser oficial en horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241'>Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mejor-asus-zenbook-a14-tiene-cuerpo-peso-pluma-corazon-peso-casi-pesado-1440241' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asus-zenbook-a14-4290279.jpg?tf=1200x' alt='Lo mejor del Asus Zenbook A14 es que tiene un cuerpo de peso pluma y un corazón de peso casi pesado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ue-aprieta-ia-nueva-ley-somos-patito-feo-mundo-no-solo-mala-politica-sentencia-irrelevancia-1440219'>La UE aprieta a la IA con su nueva ley: ¿Somos el patito feo del mundo? "No es solo una mala política: es una sentencia de irrelevancia"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ue-aprieta-ia-nueva-ley-somos-patito-feo-mundo-no-solo-mala-politica-sentencia-irrelevancia-1440219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ue-ley-ia-4291084.jpg?tf=1200x' alt='La UE aprieta a la IA con su nueva ley: ¿Somos el patito feo del mundo? "No es solo una mala política: es una sentencia de irrelevancia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-1440353'>Experta en ciberseguridad muestra cómo convertir tu iPhone en un ladrillo en caso de robo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-1440353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-ciberseguridad-muestra-como-convertir-iphone-ladrillo-caso-robo-4290369.jpg?tf=1200x' alt='Experta en ciberseguridad muestra cómo convertir tu iPhone en un ladrillo en caso de robo' />
     </a>
 </div>
 
