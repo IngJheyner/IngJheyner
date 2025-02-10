@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-1441345'>Ni Instagram ni YouTube: llega WikiTok, una cura contra la adicción al algoritmo de TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-1441345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-instagram-ni-youtube-llega-wikitok-cura-adiccion-algoritmo-tiktok-4292005.jpg?tf=1200x' alt='Ni Instagram ni YouTube: llega WikiTok, una cura contra la adicción al algoritmo de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-network-no-funciona-sony-te-hace-regalo-disculparse-1441341'>PlayStation Network no funciona: Sony te hace este regalo para disculparse</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstation-network-no-funciona-sony-te-hace-regalo-disculparse-1441341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/03/no-funciona-playstation-network.jpg?tf=1200x' alt='PlayStation Network no funciona: Sony te hace este regalo para disculparse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153'>Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-1439153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/steve-jobs-regla-dos-horas-tener-mejores-ideas-tambien-puedes-probar-4288349.jpg?tf=1200x' alt='Steve Jobs y su regla de las dos horas para tener las mejores ideas que tú también puedes probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332'>Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/disco-duro-seagate-venden-como-nuevos-pero-proceden-criptomonedas-1441332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/seagate-barracuda-3554234.jpg?tf=1200x' alt='Cuidado si has comprado un disco duro Seagate: los venden como nuevos pero proceden de las criptomonedas' />
     </a>
 </div>
 
