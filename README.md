@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635'>¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-sam-alman-4292442.jpg?tf=1200x' alt='¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/criptos/vuelco-historia-hombre-tiro-8000-bitcoins-basura-quiere-comprar-vertedero-entero-1441636'>Vuelco a la historia del hombre que tiró 8.000 bitcoins a la basura: quiere comprar el vertedero entero</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/vuelco-historia-hombre-tiro-8000-bitcoins-basura-quiere-comprar-vertedero-entero-1441636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-historia-hombre-perdio-8000-bitcoins-basura-quiere-comprar-basurero-entero-4292409.jpg?tf=1200x' alt='Vuelco a la historia del hombre que tiró 8.000 bitcoins a la basura: quiere comprar el vertedero entero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/te-estan-enganando-tamano-pantallas-ranking-real-moviles-grandes-pequenos-1439881'>Te están engañando con el tamaño de las pantallas: este es el ranking real de los móviles más grandes y más pequeños</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/te-estan-enganando-tamano-pantallas-ranking-real-moviles-grandes-pequenos-1439881' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-ultra-izq-honor-magic-v3-dcha-4290053.jpg?tf=1200x' alt='Te están engañando con el tamaño de las pantallas: este es el ranking real de los móviles más grandes y más pequeños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178'>Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apps-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-4291689.jpg?tf=1200x' alt='Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo' />
     </a>
 </div>
 
