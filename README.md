@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/cada-vez-corredores-deportistas-llevan-apple-watch-tobillo-1441844'>¿Por qué cada vez más corredores y deportistas llevan el Apple Watch en el tobillo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/cada-vez-corredores-deportistas-llevan-apple-watch-tobillo-1441844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-watch-atletas-4292691.jpg?tf=1200x' alt='¿Por qué cada vez más corredores y deportistas llevan el Apple Watch en el tobillo?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842'>Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telefonica-vodafone-alian-presentar-fiberpass-nueva-compania-fibra-optica-4292682.jpg?tf=1200x' alt='Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-extrana-compatibilidad-ejecutable-1987-sigue-vivo-windows-11-1441832'>Microsoft y su extraña compatibilidad: un ejecutable de 1987 sigue vivo en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-extrana-compatibilidad-ejecutable-1987-sigue-vivo-windows-11-1441832' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-pc-clasico-4292683.jpg?tf=1200x' alt='Microsoft y su extraña compatibilidad: un ejecutable de 1987 sigue vivo en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-predice-fin-trabajo-culpa-ia-pero-dice-sera-algo-bueno-1441830'>Sam Altman predice el fin de tu trabajo por culpa de la IA, pero dice que será "algo bueno"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-predice-fin-trabajo-culpa-ia-pero-dice-sera-algo-bueno-1441830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='Sam Altman predice el fin de tu trabajo por culpa de la IA, pero dice que será "algo bueno"' />
     </a>
 </div>
 
