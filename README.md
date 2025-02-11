@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-servicio-espionaje-tienen-truco-no-te-hackeen-movil-1441598'>Expertos del servicio de espionaje tienen un truco para que no te hackeen el móvil: "Tardas 10 segundos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-servicio-espionaje-tienen-truco-no-te-hackeen-movil-1441598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-servicio-espionaje-estados-unidos-no-te-hackeen-movil-tardas-10-segundos-4292373.jpg?tf=1200x' alt='Expertos del servicio de espionaje tienen un truco para que no te hackeen el móvil: "Tardas 10 segundos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-1441593'>Elon Musk quiere comprar OpenAI y ofrece 97.400 millones de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-1441593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-4292376.jpg?tf=1200x' alt='Elon Musk quiere comprar OpenAI y ofrece 97.400 millones de dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-dura-tanto-responder-trucos-sea-ia-rapida-1441524'>¿Por qué DeepSeek dura tanto en responder?: 6 trucos para que sea una IA más rápida</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-dura-tanto-responder-trucos-sea-ia-rapida-1441524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/errores-deepseek-4292291.jpg?tf=1200x' alt='¿Por qué DeepSeek dura tanto en responder?: 6 trucos para que sea una IA más rápida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-telegram-miles-canales-webs-bloqueados-pirateria-1441572'>Giro de 180 grados en Telegram: miles de canales y webs bloqueados por piratería</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-telegram-miles-canales-webs-bloqueados-pirateria-1441572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-pirateria-4292355.jpg?tf=1200x' alt='Giro de 180 grados en Telegram: miles de canales y webs bloqueados por piratería' />
     </a>
 </div>
 
