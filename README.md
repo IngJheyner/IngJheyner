@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-apple-eliminan-estas-20-apps-malware-roban-datos-comprueba-no-tienes-movil-1441666'>Google y Apple eliminan estas 20 apps con malware que roban tus datos: comprueba que no las tienes en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-apple-eliminan-estas-20-apps-malware-roban-datos-comprueba-no-tienes-movil-1441666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-apple-eliminan-estas-20-apps-malware-roban-datos-comprueba-no-tienes-movil-4292464.jpg?tf=1200x' alt='Google y Apple eliminan estas 20 apps con malware que roban tus datos: comprueba que no las tienes en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eeuu-prepara-desplegar-ejercito-100000-robots-humanoides-futuro-ahora-1441712'>EEUU se prepara para desplegar un ejército de 100.000 robots humanoides: el futuro es ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/eeuu-prepara-desplegar-ejercito-100000-robots-humanoides-futuro-ahora-1441712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-4292550.jpg?tf=1200x' alt='EEUU se prepara para desplegar un ejército de 100.000 robots humanoides: el futuro es ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-soluciona-grave-problema-cables-usb-ultima-actualizacion-1441675'>Apple soluciona su grave problema con los cables USB con su última actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-soluciona-grave-problema-cables-usb-ultima-actualizacion-1441675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-soluciona-grave-problema-cables-usb-ultima-actualizacion-4292495.jpg?tf=1200x' alt='Apple soluciona su grave problema con los cables USB con su última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-vs-iphone-15-diferencias-similitudes-cual-mejor-opcion-ti-1441709'>iPhone SE 4 vs. iPhone 15: diferencias, similitudes y cuál es mejor opción para ti</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-4-vs-iphone-15-diferencias-similitudes-cual-mejor-opcion-ti-1441709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-vs-iphone-15-4292534.jpg?tf=1200x' alt='iPhone SE 4 vs. iPhone 15: diferencias, similitudes y cuál es mejor opción para ti' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/usuarios-movistar-plus-adios-series-peliculas-1436990'>Incredulidad entre los clientes de Movistar Plus+ que tienen que decir adiós a cientos de series y películas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/usuarios-movistar-plus-adios-series-peliculas-1436990' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290068.jpg?tf=1200x' alt='Incredulidad entre los clientes de Movistar Plus+ que tienen que decir adiós a cientos de series y películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nuevos-canales-4k-tdt-1440820'>Tiembla Netflix, prepárate para la llegada de los nuevos canales 4K a la TDT</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/nuevos-canales-4k-tdt-1440820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tdt-4k-4291087.jpg?tf=1200x' alt='Tiembla Netflix, prepárate para la llegada de los nuevos canales 4K a la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/actualizacion-fallida-tesla-coche-electrico-1440535'>Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/actualizacion-fallida-tesla-coche-electrico-1440535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-tesla-model-3-4290633.jpg?tf=1200x' alt='Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/reino-unido-ordena-apple-abra-puerta-trasera-datos-icloud-nadie-sepa-1441690'>Reino Unido ordena a Apple que abra una puerta trasera a los datos de iCloud sin que nadie lo sepa</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/reino-unido-ordena-apple-abra-puerta-trasera-datos-icloud-nadie-sepa-1441690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-ciberseguridad-4292511.jpg?tf=1200x' alt='Reino Unido ordena a Apple que abra una puerta trasera a los datos de iCloud sin que nadie lo sepa' />
     </a>
 </div>
 
