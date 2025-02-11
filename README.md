@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842'>Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telefonica-vodafone-alian-presentar-fiberpass-nueva-compania-fibra-optica-4292682.jpg?tf=1200x' alt='Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pide-tarjeta-grafica-amazon-envian-equivocada-dos-veces-pero-segunda-vez-no-esperas-1441833'>Pide una tarjeta gráfica en Amazon, le envían la equivocada dos veces… pero la segunda vez no es lo que esperas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/pide-tarjeta-grafica-amazon-envian-equivocada-dos-veces-pero-segunda-vez-no-esperas-1441833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amd-radeon-4292684.jpg?tf=1200x' alt='Pide una tarjeta gráfica en Amazon, le envían la equivocada dos veces… pero la segunda vez no es lo que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-todos-usuarios-thermomix-espana-alto-riesgo-estafa-1441784'>Vorwerk alerta a todos los usuarios de Thermomix en España por un alto riesgo de estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-todos-usuarios-thermomix-espana-alto-riesgo-estafa-1441784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-thermomix-vorwerk-4292626.jpg?tf=1200x' alt='Vorwerk alerta a todos los usuarios de Thermomix en España por un alto riesgo de estafa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-predice-fin-trabajo-culpa-ia-pero-dice-sera-algo-bueno-1441830'>Sam Altman predice el fin de tu trabajo por culpa de la IA, pero dice que será "algo bueno"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-predice-fin-trabajo-culpa-ia-pero-dice-sera-algo-bueno-1441830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/sam-altman-3245472.jpg?tf=1200x' alt='Sam Altman predice el fin de tu trabajo por culpa de la IA, pero dice que será "algo bueno"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/iptv-ya-tienen-oficialmente-dia-negro-super-bowl-2025-1441747'>Las IPTV ya tienen oficialmente su día negro: la Super Bowl 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/iptv-ya-tienen-oficialmente-dia-negro-super-bowl-2025-1441747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-ya-tienen-oficialmente-dia-negro-super-bowl-2025-4292570.jpg?tf=1200x' alt='Las IPTV ya tienen oficialmente su día negro: la Super Bowl 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-deepseek-crean-formula-perfecta-sacarle-maximo-partido-puedes-utilizarla-1441789'>Expertos de DeepSeek crean la fórmula perfecta para sacarle el máximo partido y así puedes utilizarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-deepseek-crean-formula-perfecta-sacarle-maximo-partido-puedes-utilizarla-1441789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-deepseek-crean-formula-perfecta-sacarle-maximo-partido-puedes-utilizarla-4292674.jpg?tf=1200x' alt='Expertos de DeepSeek crean la fórmula perfecta para sacarle el máximo partido y así puedes utilizarla' />
     </a>
 </div>
 
