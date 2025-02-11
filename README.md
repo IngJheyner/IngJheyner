@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643'>Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-ia-4292474.jpg?tf=1200x' alt='Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635'>¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-sam-alman-4292442.jpg?tf=1200x' alt='¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-s25-modelo-merece-pena-comprar-1440162'>¿Samsung Galaxy S25 o S25+? Qué modelo merece más la pena comprar</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-s25-modelo-merece-pena-comprar-1440162' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-s25-4291026.jpg?tf=1200x' alt='¿Samsung Galaxy S25 o S25+? Qué modelo merece más la pena comprar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/te-estan-enganando-tamano-pantallas-ranking-real-moviles-grandes-pequenos-1439881'>Te están engañando con el tamaño de las pantallas: este es el ranking real de los móviles más grandes y más pequeños</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/te-estan-enganando-tamano-pantallas-ranking-real-moviles-grandes-pequenos-1439881' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-ultra-izq-honor-magic-v3-dcha-4290053.jpg?tf=1200x' alt='Te están engañando con el tamaño de las pantallas: este es el ranking real de los móviles más grandes y más pequeños' />
     </a>
 </div>
 
