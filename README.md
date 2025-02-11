@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-1441593'>Elon Musk quiere comprar OpenAI y ofrece 97.400 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-1441593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-4292376.jpg?tf=1200x' alt='Elon Musk quiere comprar OpenAI y ofrece 97.400 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576'>Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-4292360.jpg?tf=1200x' alt='Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-telegram-miles-canales-webs-bloqueados-pirateria-1441572'>Giro de 180 grados en Telegram: miles de canales y webs bloqueados por piratería</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-telegram-miles-canales-webs-bloqueados-pirateria-1441572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-pirateria-4292355.jpg?tf=1200x' alt='Giro de 180 grados en Telegram: miles de canales y webs bloqueados por piratería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-adelanta-hackers-ia-cambiara-contrasenas-ti-caso-filtracion-1441570'>Chrome se adelanta a los hackers: la IA cambiará tus contraseñas por ti en caso de filtración</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-adelanta-hackers-ia-cambiara-contrasenas-ti-caso-filtracion-1441570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/administrador-contrasenas-chrome-4292350.jpg?tf=1200x' alt='Chrome se adelanta a los hackers: la IA cambiará tus contraseñas por ti en caso de filtración' />
     </a>
 </div>
 
