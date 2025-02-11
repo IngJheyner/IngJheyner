@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-derrota-vesubio-descifra-papiros-imposibles-hace-2000-anos-1441685'>La inteligencia artificial derrota al Vesubio: descifra papiros "imposibles" de hace 2.000 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-derrota-vesubio-descifra-papiros-imposibles-hace-2000-anos-1441685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estudiante-usa-ia-leer-papiro-carbonizado-vesubio-gana-40000-dolares-3195808.jpg?tf=1200x' alt='La inteligencia artificial derrota al Vesubio: descifra papiros "imposibles" de hace 2.000 años' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-vs-iphone-15-diferencias-similitudes-cual-mejor-opcion-ti-1441709'>iPhone SE 4 vs. iPhone 15: diferencias, similitudes y cuál es mejor opción para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-4-vs-iphone-15-diferencias-similitudes-cual-mejor-opcion-ti-1441709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-vs-iphone-15-4292534.jpg?tf=1200x' alt='iPhone SE 4 vs. iPhone 15: diferencias, similitudes y cuál es mejor opción para ti' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-apple-ni-samsung-primer-movil-cambia-color-temperatura-realme-tiene-sorpresas-1441688'>Ni Apple ni Samsung, el primer móvil que cambia de color con la temperatura es de Realme (y tiene más sorpresas)</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-apple-ni-samsung-primer-movil-cambia-color-temperatura-realme-tiene-sorpresas-1441688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/realme-14-pro-4292521.jpg?tf=1200x' alt='Ni Apple ni Samsung, el primer móvil que cambia de color con la temperatura es de Realme (y tiene más sorpresas)' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/usuarios-movistar-plus-adios-series-peliculas-1436990'>Incredulidad entre los clientes de Movistar Plus+ que tienen que decir adiós a cientos de series y películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/usuarios-movistar-plus-adios-series-peliculas-1436990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290068.jpg?tf=1200x' alt='Incredulidad entre los clientes de Movistar Plus+ que tienen que decir adiós a cientos de series y películas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-todos-kindle-precio-outlet-amazon-vende-65-euros-menos-1441615'>El mejor de todos los Kindle, a precio de outlet: Amazon lo vende por 65 euros menos</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/mejor-todos-kindle-precio-outlet-amazon-vende-65-euros-menos-1441615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kindle-scribe-3250855.jpg?tf=1200x' alt='El mejor de todos los Kindle, a precio de outlet: Amazon lo vende por 65 euros menos' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nuevos-canales-4k-tdt-1440820'>Tiembla Netflix, prepárate para la llegada de los nuevos canales 4K a la TDT</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nuevos-canales-4k-tdt-1440820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tdt-4k-4291087.jpg?tf=1200x' alt='Tiembla Netflix, prepárate para la llegada de los nuevos canales 4K a la TDT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-correo-bbva-estafa-instala-malware-pc-1441670'>Cuidado con este correo del BBVA: es una estafa e instala malware en tu PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-correo-bbva-estafa-instala-malware-pc-1441670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bbva-estafa-4292478.jpg?tf=1200x' alt='Cuidado con este correo del BBVA: es una estafa e instala malware en tu PC' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/actualizacion-fallida-tesla-coche-electrico-1440535'>Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/actualizacion-fallida-tesla-coche-electrico-1440535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-tesla-model-3-4290633.jpg?tf=1200x' alt='Actualiza el software de su Tesla y se convierte por arte de magia en un Seat Panda' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643'>Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-ia-4292474.jpg?tf=1200x' alt='Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/reino-unido-ordena-apple-abra-puerta-trasera-datos-icloud-nadie-sepa-1441690'>Reino Unido ordena a Apple que abra una puerta trasera a los datos de iCloud sin que nadie lo sepa</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/reino-unido-ordena-apple-abra-puerta-trasera-datos-icloud-nadie-sepa-1441690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-ciberseguridad-4292511.jpg?tf=1200x' alt='Reino Unido ordena a Apple que abra una puerta trasera a los datos de iCloud sin que nadie lo sepa' />
     </a>
 </div>
 
