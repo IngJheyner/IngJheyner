@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-derrota-vesubio-descifra-papiros-imposibles-hace-2000-anos-1441685'>La inteligencia artificial derrota al Vesubio: descifra papiros "imposibles" de hace 2.000 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/inteligencia-artificial-derrota-vesubio-descifra-papiros-imposibles-hace-2000-anos-1441685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/estudiante-usa-ia-leer-papiro-carbonizado-vesubio-gana-40000-dolares-3195808.jpg?tf=1200x' alt='La inteligencia artificial derrota al Vesubio: descifra papiros "imposibles" de hace 2.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/ni-apple-ni-samsung-primer-movil-cambia-color-temperatura-realme-tiene-sorpresas-1441688'>Ni Apple ni Samsung, el primer móvil que cambia de color con la temperatura es de Realme (y tiene más sorpresas)</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ni-apple-ni-samsung-primer-movil-cambia-color-temperatura-realme-tiene-sorpresas-1441688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/realme-14-pro-4292521.jpg?tf=1200x' alt='Ni Apple ni Samsung, el primer móvil que cambia de color con la temperatura es de Realme (y tiene más sorpresas)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643'>Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-ia-4292474.jpg?tf=1200x' alt='Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635'>¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-sam-alman-4292442.jpg?tf=1200x' alt='¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?' />
     </a>
 </div>
 
