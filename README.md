@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/antes-microsoft-bill-gates-paul-allen-exploraron-otras-ideas-hubieran-llevado-cabo-seguirian-siendo-multimillonarios-1441646'>Antes de Microsoft, Bill Gates y Paul Allen exploraron otras ideas: si las hubieran llevado a cabo, seguirían siendo multimillonarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/antes-microsoft-bill-gates-paul-allen-exploraron-otras-ideas-hubieran-llevado-cabo-seguirian-siendo-multimillonarios-1441646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-paul-allen-4292469.jpg?tf=1200x' alt='Antes de Microsoft, Bill Gates y Paul Allen exploraron otras ideas: si las hubieran llevado a cabo, seguirían siendo multimillonarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/jarro-agua-fria-iptv-descubren-ia-arma-definitiva-pirateria-1441762'>Jarro de agua fría para las IPTV: descubren en la IA el arma definitiva contra la piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/jarro-agua-fria-iptv-descubren-ia-arma-definitiva-pirateria-1441762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jarro-agua-fria-iptv-descubren-ia-arma-definitiva-pirateria-4292616.jpg?tf=1200x' alt='Jarro de agua fría para las IPTV: descubren en la IA el arma definitiva contra la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-movistar-plus-no-ha-solucionado-ese-molesto-problema-trata-error-1441730'>No, Movistar Plus+ no ha solucionado ese molesto problema, se trata de un error</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-movistar-plus-no-ha-solucionado-ese-molesto-problema-trata-error-1441730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-movistar-plus-no-ha-solucionado-ese-molesto-problema-trata-error-4292544.jpg?tf=1200x' alt='No, Movistar Plus+ no ha solucionado ese molesto problema, se trata de un error' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/eeuu-prepara-desplegar-ejercito-100000-robots-humanoides-futuro-ahora-1441712'>EEUU se prepara para desplegar un ejército de 100.000 robots humanoides: el futuro es ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/eeuu-prepara-desplegar-ejercito-100000-robots-humanoides-futuro-ahora-1441712' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-4292550.jpg?tf=1200x' alt='EEUU se prepara para desplegar un ejército de 100.000 robots humanoides: el futuro es ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-soluciona-grave-problema-cables-usb-ultima-actualizacion-1441675'>Apple soluciona su grave problema con los cables USB con su última actualización</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-soluciona-grave-problema-cables-usb-ultima-actualizacion-1441675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-soluciona-grave-problema-cables-usb-ultima-actualizacion-4292495.jpg?tf=1200x' alt='Apple soluciona su grave problema con los cables USB con su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-vs-iphone-15-diferencias-similitudes-cual-mejor-opcion-ti-1441709'>iPhone SE 4 vs. iPhone 15: diferencias, similitudes y cuál es mejor opción para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-4-vs-iphone-15-diferencias-similitudes-cual-mejor-opcion-ti-1441709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-vs-iphone-15-4292534.jpg?tf=1200x' alt='iPhone SE 4 vs. iPhone 15: diferencias, similitudes y cuál es mejor opción para ti' />
     </a>
 </div>
 
