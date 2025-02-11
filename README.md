@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-apple-ni-samsung-primer-movil-cambia-color-temperatura-realme-tiene-sorpresas-1441688'>Ni Apple ni Samsung, el primer móvil que cambia de color con la temperatura es de Realme (y tiene más sorpresas)</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-apple-ni-samsung-primer-movil-cambia-color-temperatura-realme-tiene-sorpresas-1441688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/realme-14-pro-4292521.jpg?tf=1200x' alt='Ni Apple ni Samsung, el primer móvil que cambia de color con la temperatura es de Realme (y tiene más sorpresas)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/mejor-todos-kindle-precio-outlet-amazon-vende-65-euros-menos-1441615'>El mejor de todos los Kindle, a precio de outlet: Amazon lo vende por 65 euros menos</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/mejor-todos-kindle-precio-outlet-amazon-vende-65-euros-menos-1441615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/kindle-scribe-3250855.jpg?tf=1200x' alt='El mejor de todos los Kindle, a precio de outlet: Amazon lo vende por 65 euros menos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-correo-bbva-estafa-instala-malware-pc-1441670'>Cuidado con este correo del BBVA: es una estafa e instala malware en tu PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-correo-bbva-estafa-instala-malware-pc-1441670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bbva-estafa-4292478.jpg?tf=1200x' alt='Cuidado con este correo del BBVA: es una estafa e instala malware en tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643'>Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/como-usar-espana-chat-ia-francesa-avanzada-alternativa-chatgpt-deepseek-1441643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-ia-4292474.jpg?tf=1200x' alt='Cómo usar en España Le Chat, la IA francesa más avanzada alternativa a ChatGPT y DeepSeek' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635'>¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-ahora-chatgpt-openai-1441635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-sam-alman-4292442.jpg?tf=1200x' alt='¿Por qué Elon Musk quiere comprar ahora ChatGPT a OpenAI?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/vuelco-historia-hombre-tiro-8000-bitcoins-basura-quiere-comprar-vertedero-entero-1441636'>Vuelco a la historia del hombre que tiró 8.000 bitcoins a la basura: quiere comprar el vertedero entero</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/vuelco-historia-hombre-tiro-8000-bitcoins-basura-quiere-comprar-vertedero-entero-1441636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-historia-hombre-perdio-8000-bitcoins-basura-quiere-comprar-basurero-entero-4292409.jpg?tf=1200x' alt='Vuelco a la historia del hombre que tiró 8.000 bitcoins a la basura: quiere comprar el vertedero entero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-simpson-ha-desaparecido-disney-plus-puedes-encontrarlo-1441609'>Un episodio de Los Simpson ha desaparecido de Disney+: así puedes encontrarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-simpson-ha-desaparecido-disney-plus-puedes-encontrarlo-1441609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/simpson-ho-ho-ho-santa-homer-4275280.jpg?tf=1200x' alt='Un episodio de Los Simpson ha desaparecido de Disney+: así puedes encontrarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-s25-modelo-merece-pena-comprar-1440162'>¿Samsung Galaxy S25 o S25+? Qué modelo merece más la pena comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-s25-modelo-merece-pena-comprar-1440162' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-s25-4291026.jpg?tf=1200x' alt='¿Samsung Galaxy S25 o S25+? Qué modelo merece más la pena comprar' />
     </a>
 </div>
 
