@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178'>Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apps-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-4291689.jpg?tf=1200x' alt='Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/prueba-ascensor-steve-jobs-atemorizaba-empleados-mejor-no-encontrarse-1441480'>La prueba del ascensor de Steve Jobs que atemorizaba a los empleados: mejor no encontrarse con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/prueba-ascensor-steve-jobs-atemorizaba-empleados-mejor-no-encontrarse-1441480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/panico-ascensor-4292271.jpg?tf=1200x' alt='La prueba del ascensor de Steve Jobs que atemorizaba a los empleados: mejor no encontrarse con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-hace-saltar-alarmas-tienes-wallapop-vinted-movil-ten-mucho-cuidado-1441457'>Guardia Civil hace saltar las alarmas: si tienes Wallapop o Vinted en tu móvil, ten mucho cuidado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-hace-saltar-alarmas-tienes-wallapop-vinted-movil-ten-mucho-cuidado-1441457' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-guardia-civil-vinted-wallapop-4292258.jpg?tf=1200x' alt='Guardia Civil hace saltar las alarmas: si tienes Wallapop o Vinted en tu móvil, ten mucho cuidado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-1441495'>Cuidado si aceptas los términos, podrías estar autorizando las llamadas spam</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-1441495' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-4292200.jpg?tf=1200x' alt='Cuidado si aceptas los términos, podrías estar autorizando las llamadas spam' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-sorprende-vision-futuro-ia-podria-ser-nada-menos-asombroso-1441426'>Sam Altman sorprende con su visión del futuro de la IA: “Podría ser nada menos que asombroso”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-sorprende-vision-futuro-ia-podria-ser-nada-menos-asombroso-1441426' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/futuro-inteligencia-artificial-sam-altman-4292150.jpg?tf=1200x' alt='Sam Altman sorprende con su visión del futuro de la IA: “Podría ser nada menos que asombroso”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-servicio-espionaje-tienen-truco-no-te-hackeen-movil-1441598'>Expertos del servicio de espionaje tienen un truco para que no te hackeen el móvil: "Tardas 10 segundos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-servicio-espionaje-tienen-truco-no-te-hackeen-movil-1441598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-servicio-espionaje-estados-unidos-no-te-hackeen-movil-tardas-10-segundos-4292373.jpg?tf=1200x' alt='Expertos del servicio de espionaje tienen un truco para que no te hackeen el móvil: "Tardas 10 segundos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-1441593'>Elon Musk quiere comprar OpenAI y ofrece 97.400 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-1441593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quiere-comprar-openai-ofrece-97400-millones-dolares-4292376.jpg?tf=1200x' alt='Elon Musk quiere comprar OpenAI y ofrece 97.400 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576'>Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-4292360.jpg?tf=1200x' alt='Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba' />
     </a>
 </div>
 
