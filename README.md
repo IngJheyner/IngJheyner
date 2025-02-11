@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-simpson-ha-desaparecido-disney-plus-puedes-encontrarlo-1441609'>Un episodio de Los Simpson ha desaparecido de Disney+: así puedes encontrarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-simpson-ha-desaparecido-disney-plus-puedes-encontrarlo-1441609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/simpson-ho-ho-ho-santa-homer-4275280.jpg?tf=1200x' alt='Un episodio de Los Simpson ha desaparecido de Disney+: así puedes encontrarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-s25-modelo-merece-pena-comprar-1440162'>¿Samsung Galaxy S25 o S25+? Qué modelo merece más la pena comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-s25-s25-modelo-merece-pena-comprar-1440162' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-s25-4291026.jpg?tf=1200x' alt='¿Samsung Galaxy S25 o S25+? Qué modelo merece más la pena comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/te-estan-enganando-tamano-pantallas-ranking-real-moviles-grandes-pequenos-1439881'>Te están engañando con el tamaño de las pantallas: este es el ranking real de los móviles más grandes y más pequeños</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/te-estan-enganando-tamano-pantallas-ranking-real-moviles-grandes-pequenos-1439881' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-galaxy-s25-ultra-izq-honor-magic-v3-dcha-4290053.jpg?tf=1200x' alt='Te están engañando con el tamaño de las pantallas: este es el ranking real de los móviles más grandes y más pequeños' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178'>Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apps-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-4291689.jpg?tf=1200x' alt='Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/prueba-ascensor-steve-jobs-atemorizaba-empleados-mejor-no-encontrarse-1441480'>La prueba del ascensor de Steve Jobs que atemorizaba a los empleados: mejor no encontrarse con él</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/prueba-ascensor-steve-jobs-atemorizaba-empleados-mejor-no-encontrarse-1441480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/panico-ascensor-4292271.jpg?tf=1200x' alt='La prueba del ascensor de Steve Jobs que atemorizaba a los empleados: mejor no encontrarse con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-hace-saltar-alarmas-tienes-wallapop-vinted-movil-ten-mucho-cuidado-1441457'>Guardia Civil hace saltar las alarmas: si tienes Wallapop o Vinted en tu móvil, ten mucho cuidado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-hace-saltar-alarmas-tienes-wallapop-vinted-movil-ten-mucho-cuidado-1441457' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-guardia-civil-vinted-wallapop-4292258.jpg?tf=1200x' alt='Guardia Civil hace saltar las alarmas: si tienes Wallapop o Vinted en tu móvil, ten mucho cuidado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-1441495'>Cuidado si aceptas los términos, podrías estar autorizando las llamadas spam</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-1441495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-4292200.jpg?tf=1200x' alt='Cuidado si aceptas los términos, podrías estar autorizando las llamadas spam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-sorprende-vision-futuro-ia-podria-ser-nada-menos-asombroso-1441426'>Sam Altman sorprende con su visión del futuro de la IA: “Podría ser nada menos que asombroso”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-sorprende-vision-futuro-ia-podria-ser-nada-menos-asombroso-1441426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/futuro-inteligencia-artificial-sam-altman-4292150.jpg?tf=1200x' alt='Sam Altman sorprende con su visión del futuro de la IA: “Podría ser nada menos que asombroso”' />
     </a>
 </div>
 
