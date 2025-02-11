@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-pagas-forma-movil-estafa-ha-comenzado-1441711'>La Policía advierte, si pagas de esta forma con el móvil, la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-advierte-pagas-forma-movil-estafa-ha-comenzado-1441711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pagar-movil-policia-nacional-4292573.jpg?tf=1200x' alt='La Policía advierte, si pagas de esta forma con el móvil, la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-estos-seran-unicos-numeros-seguros-espana-1441740'>Adiós a las llamadas SPAM, estos serán los únicos números seguros en España a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/adios-llamadas-spam-estos-seran-unicos-numeros-seguros-espana-1441740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llamar-numeros-espana-4292552.jpg?tf=1200x' alt='Adiós a las llamadas SPAM, estos serán los únicos números seguros en España a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/antes-microsoft-bill-gates-paul-allen-exploraron-otras-ideas-hubieran-llevado-cabo-seguirian-siendo-multimillonarios-1441646'>Antes de Microsoft, Bill Gates y Paul Allen exploraron otras ideas: si las hubieran llevado a cabo, seguirían siendo multimillonarios</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/antes-microsoft-bill-gates-paul-allen-exploraron-otras-ideas-hubieran-llevado-cabo-seguirian-siendo-multimillonarios-1441646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-paul-allen-4292469.jpg?tf=1200x' alt='Antes de Microsoft, Bill Gates y Paul Allen exploraron otras ideas: si las hubieran llevado a cabo, seguirían siendo multimillonarios' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-movistar-plus-no-ha-solucionado-ese-molesto-problema-trata-error-1441730'>No, Movistar Plus+ no ha solucionado ese molesto problema, se trata de un error</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-movistar-plus-no-ha-solucionado-ese-molesto-problema-trata-error-1441730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-movistar-plus-no-ha-solucionado-ese-molesto-problema-trata-error-4292544.jpg?tf=1200x' alt='No, Movistar Plus+ no ha solucionado ese molesto problema, se trata de un error' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-apple-eliminan-estas-20-apps-malware-roban-datos-comprueba-no-tienes-movil-1441666'>Google y Apple eliminan estas 20 apps con malware que roban tus datos: comprueba que no las tienes en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-apple-eliminan-estas-20-apps-malware-roban-datos-comprueba-no-tienes-movil-1441666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-apple-eliminan-estas-20-apps-malware-roban-datos-comprueba-no-tienes-movil-4292464.jpg?tf=1200x' alt='Google y Apple eliminan estas 20 apps con malware que roban tus datos: comprueba que no las tienes en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eeuu-prepara-desplegar-ejercito-100000-robots-humanoides-futuro-ahora-1441712'>EEUU se prepara para desplegar un ejército de 100.000 robots humanoides: el futuro es ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/eeuu-prepara-desplegar-ejercito-100000-robots-humanoides-futuro-ahora-1441712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-4292550.jpg?tf=1200x' alt='EEUU se prepara para desplegar un ejército de 100.000 robots humanoides: el futuro es ahora' />
     </a>
 </div>
 
