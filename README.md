@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-1441495'>Cuidado si aceptas los términos, podrías estar autorizando las llamadas spam</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-1441495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-aceptas-terminos-podrias-estar-autorizando-llamadas-spam-4292200.jpg?tf=1200x' alt='Cuidado si aceptas los términos, podrías estar autorizando las llamadas spam' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-sorprende-vision-futuro-ia-podria-ser-nada-menos-asombroso-1441426'>Sam Altman sorprende con su visión del futuro de la IA: “Podría ser nada menos que asombroso”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-sorprende-vision-futuro-ia-podria-ser-nada-menos-asombroso-1441426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/futuro-inteligencia-artificial-sam-altman-4292150.jpg?tf=1200x' alt='Sam Altman sorprende con su visión del futuro de la IA: “Podría ser nada menos que asombroso”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-servicio-espionaje-tienen-truco-no-te-hackeen-movil-1441598'>Expertos del servicio de espionaje tienen un truco para que no te hackeen el móvil: "Tardas 10 segundos"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-servicio-espionaje-tienen-truco-no-te-hackeen-movil-1441598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-servicio-espionaje-estados-unidos-no-te-hackeen-movil-tardas-10-segundos-4292373.jpg?tf=1200x' alt='Expertos del servicio de espionaje tienen un truco para que no te hackeen el móvil: "Tardas 10 segundos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576'>Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-1441576' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-4-cpu-rotas-65-euros-lleva-sorpresa-nadie-esperaba-4292360.jpg?tf=1200x' alt='Compra 4 CPU "rotas" por 65 euros y se lleva una sorpresa que nadie esperaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/alimentacion/mercadona-sube-precio-compra-online-1441573'>Mercadona la lía subiendo el precio de uno de sus servicios más usados</a></h4>
-    <a href='https://computerhoy.20minutos.es/alimentacion/mercadona-sube-precio-compra-online-1441573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mercadona-lia-subiendo-precio-servicios-usados-4292335.jpg?tf=1200x' alt='Mercadona la lía subiendo el precio de uno de sus servicios más usados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-dura-tanto-responder-trucos-sea-ia-rapida-1441524'>¿Por qué DeepSeek dura tanto en responder?: 6 trucos para que sea una IA más rápida</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-dura-tanto-responder-trucos-sea-ia-rapida-1441524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/errores-deepseek-4292291.jpg?tf=1200x' alt='¿Por qué DeepSeek dura tanto en responder?: 6 trucos para que sea una IA más rápida' />
     </a>
 </div>
 
