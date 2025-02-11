@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/vuelco-historia-hombre-tiro-8000-bitcoins-basura-quiere-comprar-vertedero-entero-1441636'>Vuelco a la historia del hombre que tiró 8.000 bitcoins a la basura: quiere comprar el vertedero entero</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/vuelco-historia-hombre-tiro-8000-bitcoins-basura-quiere-comprar-vertedero-entero-1441636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-historia-hombre-perdio-8000-bitcoins-basura-quiere-comprar-basurero-entero-4292409.jpg?tf=1200x' alt='Vuelco a la historia del hombre que tiró 8.000 bitcoins a la basura: quiere comprar el vertedero entero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-simpson-ha-desaparecido-disney-plus-puedes-encontrarlo-1441609'>Un episodio de Los Simpson ha desaparecido de Disney+: así puedes encontrarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-simpson-ha-desaparecido-disney-plus-puedes-encontrarlo-1441609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/simpson-ho-ho-ho-santa-homer-4275280.jpg?tf=1200x' alt='Un episodio de Los Simpson ha desaparecido de Disney+: así puedes encontrarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178'>Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/aplicaciones-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-1441178' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apps-peligrosas-no-deberian-convivir-aplicaciones-banco-eliminalas-ahora-mismo-4291689.jpg?tf=1200x' alt='Apps peligrosas que no deberían convivir con tus aplicaciones del banco: elimínalas ahora mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/prueba-ascensor-steve-jobs-atemorizaba-empleados-mejor-no-encontrarse-1441480'>La prueba del ascensor de Steve Jobs que atemorizaba a los empleados: mejor no encontrarse con él</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/prueba-ascensor-steve-jobs-atemorizaba-empleados-mejor-no-encontrarse-1441480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/panico-ascensor-4292271.jpg?tf=1200x' alt='La prueba del ascensor de Steve Jobs que atemorizaba a los empleados: mejor no encontrarse con él' />
     </a>
 </div>
 
