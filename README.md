@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-1441892'>La conferencia I/O 2025 de Google ya tiene fecha: El evento que marcará un antes y un después en la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-1441892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-4292785.jpg?tf=1200x' alt='La conferencia I/O 2025 de Google ya tiene fecha: El evento que marcará un antes y un después en la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-responde-musk-inversion-masiva-ia-carrera-no-ha-hecho-comenzar-1441907'>Europa responde a Musk con una inversión masiva en IA: "La carrera no ha hecho más que comenzar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/europa-responde-musk-inversion-masiva-ia-carrera-no-ha-hecho-comenzar-1441907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/europa-responde-musk-4292802.jpg?tf=1200x' alt='Europa responde a Musk con una inversión masiva en IA: "La carrera no ha hecho más que comenzar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-1441869'>Netflix estrena la historia más polémica de una influencer, basada en hechos reales</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-1441869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-4292758.jpg?tf=1200x' alt='Netflix estrena la historia más polémica de una influencer, basada en hechos reales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565'>Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-s800d-4290550.jpg?tf=1200x' alt='Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-maleta-ha-roto-ahora-entiendo-bueno-movil-venda-cargador-ue-1439030'>Mi maleta se ha roto y ahora entiendo por qué es bueno que tu móvil se venda sin cargador en la UE</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mi-maleta-ha-roto-ahora-entiendo-bueno-movil-venda-cargador-ue-1439030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/maleta-cargador-movil-4291189.jpg?tf=1200x' alt='Mi maleta se ha roto y ahora entiendo por qué es bueno que tu móvil se venda sin cargador en la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-1441871'>Giro de 180 grados en YouTube: el móvil ha dejado de ser su dispositivo principal</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-1441871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-4292726.jpg?tf=1200x' alt='Giro de 180 grados en YouTube: el móvil ha dejado de ser su dispositivo principal' />
     </a>
 </div>
 
