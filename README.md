@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856'>TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/cada-vez-corredores-deportistas-llevan-apple-watch-tobillo-1441844'>¿Por qué cada vez más corredores y deportistas llevan el Apple Watch en el tobillo?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/cada-vez-corredores-deportistas-llevan-apple-watch-tobillo-1441844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-watch-atletas-4292691.jpg?tf=1200x' alt='¿Por qué cada vez más corredores y deportistas llevan el Apple Watch en el tobillo?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-todos-usuarios-thermomix-espana-alto-riesgo-estafa-1441784'>Vorwerk alerta a todos los usuarios de Thermomix en España por un alto riesgo de estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-todos-usuarios-thermomix-espana-alto-riesgo-estafa-1441784' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-thermomix-vorwerk-4292626.jpg?tf=1200x' alt='Vorwerk alerta a todos los usuarios de Thermomix en España por un alto riesgo de estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-extrana-compatibilidad-ejecutable-1987-sigue-vivo-windows-11-1441832'>Microsoft y su extraña compatibilidad: un ejecutable de 1987 sigue vivo en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-extrana-compatibilidad-ejecutable-1987-sigue-vivo-windows-11-1441832' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-pc-clasico-4292683.jpg?tf=1200x' alt='Microsoft y su extraña compatibilidad: un ejecutable de 1987 sigue vivo en Windows 11' />
     </a>
 </div>
 
