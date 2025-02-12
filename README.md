@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/horario-donde-ver-semifinales-copa-rey-fc-barcelona-atletico-madrid-real-sociedad-real-madrid-1441976'>Horario y dónde ver las semifinales de la Copa del Rey: FC Barcelona-Atlético de Madrid y Real Sociedad-Real Madrid</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/horario-donde-ver-semifinales-copa-rey-fc-barcelona-atletico-madrid-real-sociedad-real-madrid-1441976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copa-rey-2024-2025-4292907.jpg?tf=1200x' alt='Horario y dónde ver las semifinales de la Copa del Rey: FC Barcelona-Atlético de Madrid y Real Sociedad-Real Madrid' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/state-play-nuevos-juegos-playstation-5-hora-espana-como-ver-online-espanol-1441966'>State of Play de nuevos juegos para PlayStation 5: hora en España y cómo ver online en español</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/state-play-nuevos-juegos-playstation-5-hora-espana-como-ver-online-espanol-1441966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/state-play-febrero-2025-4292768.jpg?tf=1200x' alt='State of Play de nuevos juegos para PlayStation 5: hora en España y cómo ver online en español' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/iphone-4-detalle-imagenes-caracteristicas-precio-movil-barato-apple-dara-mucho-hablar-1441940'>iPhone SE 4 al detalle: imágenes, características y precio del móvil barato de Apple que dará mucho que hablar</a></h4>
-    <a href='https://computerhoy.20minutos.es/iphone-4-detalle-imagenes-caracteristicas-precio-movil-barato-apple-dara-mucho-hablar-1441940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-4292869.jpg?tf=1200x' alt='iPhone SE 4 al detalle: imágenes, características y precio del móvil barato de Apple que dará mucho que hablar' />
+    <h4><a href='https://computerhoy.20minutos.es/psicologia-oposicion-tecnica-exito-elon-musk-utilizar-1441998'>La psicología de la oposición, la técnica para el éxito de Elon Musk que tú también puedes utilizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/psicologia-oposicion-tecnica-exito-elon-musk-utilizar-1441998' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-tiene-clave-exito-4292923.jpg?tf=1200x' alt='La psicología de la oposición, la técnica para el éxito de Elon Musk que tú también puedes utilizar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/no-solo-iphone-4-macbook-air-m4-apple-vuelta-esquina-1441928'>No solo el iPhone SE 4: el MacBook Air M4 de Apple está a la vuelta de la esquina</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/no-solo-iphone-4-macbook-air-m4-apple-vuelta-esquina-1441928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='No solo el iPhone SE 4: el MacBook Air M4 de Apple está a la vuelta de la esquina' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-peligro-1441066'>Dos de los grandes expertos mundiales de la IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-peligro-1441066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-humanoide-inteligencia-artificial-4292938.jpg?tf=1200x' alt='Dos de los grandes expertos mundiales de la IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cierra-puerta-elon-musk-ha-comunicado-trabajadores-1441895'>Sam Altman cierra la puerta a Elon Musk, y así se lo ha comunicado a sus trabajadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cierra-puerta-elon-musk-ha-comunicado-trabajadores-1441895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-cierra-puerta-elon-musk-ha-comunicado-trabajadores-4292781.jpg?tf=1200x' alt='Sam Altman cierra la puerta a Elon Musk, y así se lo ha comunicado a sus trabajadores' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-despues-2025-preparate-pagar-quieres-seguir-usandolo-1441969'>¿Windows 10 después de 2025? Prepárate a pagar si quieres seguir usándolo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-10-despues-2025-preparate-pagar-quieres-seguir-usandolo-1441969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-dinero-4292888.jpg?tf=1200x' alt='¿Windows 10 después de 2025? Prepárate a pagar si quieres seguir usándolo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/foto-curar-heridas-ia-gallega-quiere-dar-giro-180-grados-medicina-1441918'>¿Una foto para curar heridas? Esta IA gallega quiere dar un giro de 180 grados a la medicina</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/foto-curar-heridas-ia-gallega-quiere-dar-giro-180-grados-medicina-1441918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medicina-futuro-3143912.jpg?tf=1200x' alt='¿Una foto para curar heridas? Esta IA gallega quiere dar un giro de 180 grados a la medicina' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/dispositivos-casa-interferencias-router-wifi-1364410'>Dispositivos que están arruinando la señal de tu router WiFi, desconéctalos y tu conexión volará</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/dispositivos-casa-interferencias-router-wifi-1364410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/router-wifi-4012871.jpg?tf=1200x' alt='Dispositivos que están arruinando la señal de tu router WiFi, desconéctalos y tu conexión volará' />
     </a>
 </div>
 
