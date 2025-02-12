@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-cruza-primera-vez-linea-roja-critica-aterroriza-expertos-hay-evitar-apagado-1441696'>La IA cruza por primera vez una línea roja crítica y aterroriza a los expertos: "Hay que evitar el apagado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-cruza-primera-vez-linea-roja-critica-aterroriza-expertos-hay-evitar-apagado-1441696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292531.jpg?tf=1200x' alt='La IA cruza por primera vez una línea roja crítica y aterroriza a los expertos: "Hay que evitar el apagado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-openai-tienes-estas-habilidades-tranquilo-inteligencia-artificial-no-te-quitara-trabajo-1441671'>Experta en IA de OpenAI: "Si tienes estás habilidades, tranquilo, la inteligencia artificial no te quitará el trabajo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-openai-tienes-estas-habilidades-tranquilo-inteligencia-artificial-no-te-quitara-trabajo-1441671' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292500.jpg?tf=1200x' alt='Experta en IA de OpenAI: "Si tienes estás habilidades, tranquilo, la inteligencia artificial no te quitará el trabajo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856'>TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842'>Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telefonica-vodafone-alian-presentar-fiberpass-nueva-compania-fibra-optica-4292682.jpg?tf=1200x' alt='Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/pide-tarjeta-grafica-amazon-envian-equivocada-dos-veces-pero-segunda-vez-no-esperas-1441833'>Pide una tarjeta gráfica en Amazon, le envían la equivocada dos veces… pero la segunda vez no es lo que esperas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/pide-tarjeta-grafica-amazon-envian-equivocada-dos-veces-pero-segunda-vez-no-esperas-1441833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amd-radeon-4292684.jpg?tf=1200x' alt='Pide una tarjeta gráfica en Amazon, le envían la equivocada dos veces… pero la segunda vez no es lo que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-todos-usuarios-thermomix-espana-alto-riesgo-estafa-1441784'>Vorwerk alerta a todos los usuarios de Thermomix en España por un alto riesgo de estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-todos-usuarios-thermomix-espana-alto-riesgo-estafa-1441784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-thermomix-vorwerk-4292626.jpg?tf=1200x' alt='Vorwerk alerta a todos los usuarios de Thermomix en España por un alto riesgo de estafa' />
     </a>
 </div>
 
