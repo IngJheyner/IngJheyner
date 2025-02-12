@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/donald-trump-anuncia-vuelta-bombillas-incandescentes-1441878'>Donald Trump anuncia la vuelta a las bombillas incandescentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/donald-trump-anuncia-vuelta-bombillas-incandescentes-1441878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/donald-trump-anuncia-vuelta-bombillas-incandescentes-4292761.jpg?tf=1200x' alt='Donald Trump anuncia la vuelta a las bombillas incandescentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565'>Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-s800d-4290550.jpg?tf=1200x' alt='Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741'>Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/humano-vs-maquina-4292579.jpg?tf=1200x' alt='Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-1441579'>"No le hagas esto a tu cerebro": La regla de los 60 minutos con el móvil de un médico especialista</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-1441579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-4292379.jpg?tf=1200x' alt='"No le hagas esto a tu cerebro": La regla de los 60 minutos con el móvil de un médico especialista' />
     </a>
 </div>
 
