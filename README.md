@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ucrania-nueva-arma-nuevo-dron-capaz-crear-tormenta-3000-bolas-tungsteno-1441981'>Giro de 180 grados en Ucrania, su nueva arma es un nuevo dron capaz de crear una tormenta de 3.000 bolas de tungsteno</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ucrania-nueva-arma-nuevo-dron-capaz-crear-tormenta-3000-bolas-tungsteno-1441981' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dron-militar-guerra-ucrania-4292929.jpg?tf=1200x' alt='Giro de 180 grados en Ucrania, su nueva arma es un nuevo dron capaz de crear una tormenta de 3.000 bolas de tungsteno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/prepara-mando-ya-hay-fecha-proxima-resintonizacion-canales-tdt-1442006'>Prepara el mando: ya hay fecha para la próxima resintonización de canales de la TDT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/prepara-mando-ya-hay-fecha-proxima-resintonizacion-canales-tdt-1442006' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prepara-mando-ya-hay-fecha-proxima-resintonizacion-canales-tdt-4292990.jpg?tf=1200x' alt='Prepara el mando: ya hay fecha para la próxima resintonización de canales de la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/paneles-solares-punto-provocar-colapso-red-electrica-australia-1442017'>Los paneles solares a punto de provocar el colapso de la red eléctrica en Australia</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/paneles-solares-punto-provocar-colapso-red-electrica-australia-1442017' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/paneles-solares-conseguir-energia-4292952.jpg?tf=1200x' alt='Los paneles solares a punto de provocar el colapso de la red eléctrica en Australia' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ni-iphone-ni-macbook-apple-desvela-proyecto-secreto-ha-dado-vida-luxo-mitica-lampara-pixar-1441948'>Ni iPhone ni MacBook, Apple desvela su proyecto más secreto: ha dado vida a Luxo, la mítica lámpara de Pixar</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ni-iphone-ni-macbook-apple-desvela-proyecto-secreto-ha-dado-vida-luxo-mitica-lampara-pixar-1441948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-hace-realidad-luxo-mascota-pixar-4292928.jpg?tf=1200x' alt='Ni iPhone ni MacBook, Apple desvela su proyecto más secreto: ha dado vida a Luxo, la mítica lámpara de Pixar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-1441965'>Si eres de DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-1441965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-4292904.jpg?tf=1200x' alt='Si eres de DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-temida-estafa-banco-te-vacia-cuenta-minutos-1441920'>WhatsApp: la temida estafa del banco que te vacía la cuenta en minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-temida-estafa-banco-te-vacia-cuenta-minutos-1441920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-temida-estafa-banco-te-vacia-cuenta-minutos-4292810.jpg?tf=1200x' alt='WhatsApp: la temida estafa del banco que te vacía la cuenta en minutos' />
     </a>
 </div>
 
