@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/horario-donde-ver-semifinales-copa-rey-fc-barcelona-atletico-madrid-real-sociedad-real-madrid-1441976'>Horario y dónde ver las semifinales de la Copa del Rey: FC Barcelona-Atlético de Madrid y Real Sociedad-Real Madrid</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/horario-donde-ver-semifinales-copa-rey-fc-barcelona-atletico-madrid-real-sociedad-real-madrid-1441976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copa-rey-2024-2025-4292907.jpg?tf=1200x' alt='Horario y dónde ver las semifinales de la Copa del Rey: FC Barcelona-Atlético de Madrid y Real Sociedad-Real Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/iphone-4-detalle-imagenes-caracteristicas-precio-movil-barato-apple-dara-mucho-hablar-1441940'>iPhone SE 4 al detalle: imágenes, características y precio del móvil barato de Apple que dará mucho que hablar</a></h4>
+    <a href='https://computerhoy.20minutos.es/iphone-4-detalle-imagenes-caracteristicas-precio-movil-barato-apple-dara-mucho-hablar-1441940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-4292869.jpg?tf=1200x' alt='iPhone SE 4 al detalle: imágenes, características y precio del móvil barato de Apple que dará mucho que hablar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/no-solo-iphone-4-macbook-air-m4-apple-vuelta-esquina-1441928'>No solo el iPhone SE 4: el MacBook Air M4 de Apple está a la vuelta de la esquina</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/no-solo-iphone-4-macbook-air-m4-apple-vuelta-esquina-1441928' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='No solo el iPhone SE 4: el MacBook Air M4 de Apple está a la vuelta de la esquina' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/foto-curar-heridas-ia-gallega-quiere-dar-giro-180-grados-medicina-1441918'>¿Una foto para curar heridas? Esta IA gallega quiere dar un giro de 180 grados a la medicina</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/foto-curar-heridas-ia-gallega-quiere-dar-giro-180-grados-medicina-1441918' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medicina-futuro-3143912.jpg?tf=1200x' alt='¿Una foto para curar heridas? Esta IA gallega quiere dar un giro de 180 grados a la medicina' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-1441892'>La conferencia I/O 2025 de Google ya tiene fecha: El evento que marcará un antes y un después en la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-1441892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-4292785.jpg?tf=1200x' alt='La conferencia I/O 2025 de Google ya tiene fecha: El evento que marcará un antes y un después en la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-responde-musk-inversion-masiva-ia-carrera-no-ha-hecho-comenzar-1441907'>Europa responde a Musk con una inversión masiva en IA: "La carrera no ha hecho más que comenzar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/europa-responde-musk-inversion-masiva-ia-carrera-no-ha-hecho-comenzar-1441907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/europa-responde-musk-4292802.jpg?tf=1200x' alt='Europa responde a Musk con una inversión masiva en IA: "La carrera no ha hecho más que comenzar"' />
     </a>
 </div>
 
