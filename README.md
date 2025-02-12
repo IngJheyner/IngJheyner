@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062'>La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/chatea-fronteras-whatsapp-integrara-traduccion-automatica-tiempo-real-1442084'>Chatea sin fronteras: WhatsApp integrará traducción automática en tiempo real</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/chatea-fronteras-whatsapp-integrara-traduccion-automatica-tiempo-real-1442084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='Chatea sin fronteras: WhatsApp integrará traducción automática en tiempo real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-fin-pone-dia-tdt-dejando-claro-no-prioridad-1442005'>Movistar Plus+ al fin se pone al día con la TDT dejando claro que no es su prioridad</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-fin-pone-dia-tdt-dejando-claro-no-prioridad-1442005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-canales-tdt-hd-4293001.jpg?tf=1200x' alt='Movistar Plus+ al fin se pone al día con la TDT dejando claro que no es su prioridad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/extrana-pregunta-steve-jobs-cada-dia-jony-ive-cuantas-veces-dijiste-no-hoy-1442030'>La extraña pregunta que Steve Jobs le hacía cada día a Jony Ive: ¿Cuántas veces dijiste que no hoy?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/extrana-pregunta-steve-jobs-cada-dia-jony-ive-cuantas-veces-dijiste-no-hoy-1442030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/extrana-pregunta-steve-jobs-cada-dia-jony-ive-cuantas-veces-dijiste-no-hoy-4293064.jpg?tf=1200x' alt='La extraña pregunta que Steve Jobs le hacía cada día a Jony Ive: ¿Cuántas veces dijiste que no hoy?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/como-ver-lanzamiento-jesus-calleja-tercer-espanol-viajar-espacio-1441780'>Cuándo será y cómo ver el lanzamiento que convertirá a Jesús Calleja en el tercer español en viajar al espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/como-ver-lanzamiento-jesus-calleja-tercer-espanol-viajar-espacio-1441780' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/calleja-espacio-serie-amazon-4292609.jpg?tf=1200x' alt='Cuándo será y cómo ver el lanzamiento que convertirá a Jesús Calleja en el tercer español en viajar al espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/hobby-consolas-reconoce-lg-lenovo-premios-favoritos-entretenimiento-audiovisual-1442042'>Hobby Consolas reconoce a LG y Lenovo entre sus premios a los favoritos del entretenimiento audiovisual</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/hobby-consolas-reconoce-lg-lenovo-premios-favoritos-entretenimiento-audiovisual-1442042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ganadores-hobby-premios-2025-4293017.jpg?tf=1200x' alt='Hobby Consolas reconoce a LG y Lenovo entre sus premios a los favoritos del entretenimiento audiovisual' />
     </a>
 </div>
 
