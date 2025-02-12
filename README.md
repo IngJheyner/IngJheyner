@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-tenia-razon-iptv-futbol-frances-borde-colapso-pirateria-1442108'>¿Y si Javier Tebas tenía razón con las IPTV? El fútbol francés al borde del colapso por la piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-tenia-razon-iptv-futbol-frances-borde-colapso-pirateria-1442108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-tenia-razon-iptv-futbol-frances-borde-colapso-pirateria-4293119.jpg?tf=1200x' alt='¿Y si Javier Tebas tenía razón con las IPTV? El fútbol francés al borde del colapso por la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/niebla-lluvia-inundaciones-google-maps-estrena-alertas-meteorologicas-android-auto-1442095'>¿Niebla, lluvia o inundaciones? Google Maps estrena alertas meteorológicas en Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/niebla-lluvia-inundaciones-google-maps-estrena-alertas-meteorologicas-android-auto-1442095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='¿Niebla, lluvia o inundaciones? Google Maps estrena alertas meteorológicas en Android Auto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/chatea-fronteras-whatsapp-integrara-traduccion-automatica-tiempo-real-1442084'>Chatea sin fronteras: WhatsApp integrará traducción automática en tiempo real</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/chatea-fronteras-whatsapp-integrara-traduccion-automatica-tiempo-real-1442084' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='Chatea sin fronteras: WhatsApp integrará traducción automática en tiempo real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-fin-pone-dia-tdt-dejando-claro-no-prioridad-1442005'>Movistar Plus+ al fin se pone al día con la TDT dejando claro que no es su prioridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-fin-pone-dia-tdt-dejando-claro-no-prioridad-1442005' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-canales-tdt-hd-4293001.jpg?tf=1200x' alt='Movistar Plus+ al fin se pone al día con la TDT dejando claro que no es su prioridad' />
     </a>
 </div>
 
