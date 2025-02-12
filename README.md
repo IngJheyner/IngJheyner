@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-1441869'>Netflix estrena la historia más polémica de una influencer, basada en hechos reales</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-1441869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-4292758.jpg?tf=1200x' alt='Netflix estrena la historia más polémica de una influencer, basada en hechos reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/donald-trump-anuncia-vuelta-bombillas-incandescentes-1441878'>Donald Trump anuncia la vuelta a las bombillas incandescentes</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/donald-trump-anuncia-vuelta-bombillas-incandescentes-1441878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/donald-trump-anuncia-vuelta-bombillas-incandescentes-4292761.jpg?tf=1200x' alt='Donald Trump anuncia la vuelta a las bombillas incandescentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-1441871'>Giro de 180 grados en YouTube: el móvil ha dejado de ser su dispositivo principal</a></h4>
     <a href='https://computerhoy.20minutos.es/google/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-1441871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-4292726.jpg?tf=1200x' alt='Giro de 180 grados en YouTube: el móvil ha dejado de ser su dispositivo principal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741'>Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/humano-vs-maquina-4292579.jpg?tf=1200x' alt='Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"' />
     </a>
 </div>
 
