@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/no-solo-iphone-4-macbook-air-m4-apple-vuelta-esquina-1441928'>No solo el iPhone SE 4: el MacBook Air M4 de Apple está a la vuelta de la esquina</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/no-solo-iphone-4-macbook-air-m4-apple-vuelta-esquina-1441928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/macbook-air-13-pulgadas-chip-m3-3288631.jpg?tf=1200x' alt='No solo el iPhone SE 4: el MacBook Air M4 de Apple está a la vuelta de la esquina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cierra-puerta-elon-musk-ha-comunicado-trabajadores-1441895'>Sam Altman cierra la puerta a Elon Musk, y así se lo ha comunicado a sus trabajadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-cierra-puerta-elon-musk-ha-comunicado-trabajadores-1441895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-cierra-puerta-elon-musk-ha-comunicado-trabajadores-4292781.jpg?tf=1200x' alt='Sam Altman cierra la puerta a Elon Musk, y así se lo ha comunicado a sus trabajadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/foto-curar-heridas-ia-gallega-quiere-dar-giro-180-grados-medicina-1441918'>¿Una foto para curar heridas? Esta IA gallega quiere dar un giro de 180 grados a la medicina</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/foto-curar-heridas-ia-gallega-quiere-dar-giro-180-grados-medicina-1441918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/medicina-futuro-3143912.jpg?tf=1200x' alt='¿Una foto para curar heridas? Esta IA gallega quiere dar un giro de 180 grados a la medicina' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-1441892'>La conferencia I/O 2025 de Google ya tiene fecha: El evento que marcará un antes y un después en la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/google/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-1441892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conferencia-i-2025-google-ya-tiene-fecha-evento-marcara-antes-despues-ia-4292785.jpg?tf=1200x' alt='La conferencia I/O 2025 de Google ya tiene fecha: El evento que marcará un antes y un después en la IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-responde-musk-inversion-masiva-ia-carrera-no-ha-hecho-comenzar-1441907'>Europa responde a Musk con una inversión masiva en IA: "La carrera no ha hecho más que comenzar"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/europa-responde-musk-inversion-masiva-ia-carrera-no-ha-hecho-comenzar-1441907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/europa-responde-musk-4292802.jpg?tf=1200x' alt='Europa responde a Musk con una inversión masiva en IA: "La carrera no ha hecho más que comenzar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-1441869'>Netflix estrena la historia más polémica de una influencer, basada en hechos reales</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-1441869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-estrena-historia-polemica-influencer-basada-hechos-reales-4292758.jpg?tf=1200x' alt='Netflix estrena la historia más polémica de una influencer, basada en hechos reales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/donald-trump-anuncia-vuelta-bombillas-incandescentes-1441878'>Donald Trump anuncia la vuelta a las bombillas incandescentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/donald-trump-anuncia-vuelta-bombillas-incandescentes-1441878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/donald-trump-anuncia-vuelta-bombillas-incandescentes-4292761.jpg?tf=1200x' alt='Donald Trump anuncia la vuelta a las bombillas incandescentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565'>Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-s800d-4290550.jpg?tf=1200x' alt='Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido' />
     </a>
 </div>
 
