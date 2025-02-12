@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/como-ver-lanzamiento-jesus-calleja-tercer-espanol-viajar-espacio-1441780'>Cuándo será y cómo ver el lanzamiento que convertirá a Jesús Calleja en el tercer español en viajar al espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/como-ver-lanzamiento-jesus-calleja-tercer-espanol-viajar-espacio-1441780' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/calleja-espacio-serie-amazon-4292609.jpg?tf=1200x' alt='Cuándo será y cómo ver el lanzamiento que convertirá a Jesús Calleja en el tercer español en viajar al espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/hobby-consolas-reconoce-lg-lenovo-premios-favoritos-entretenimiento-audiovisual-1442042'>Hobby Consolas reconoce a LG y Lenovo entre sus premios a los favoritos del entretenimiento audiovisual</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/hobby-consolas-reconoce-lg-lenovo-premios-favoritos-entretenimiento-audiovisual-1442042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ganadores-hobby-premios-2025-4293017.jpg?tf=1200x' alt='Hobby Consolas reconoce a LG y Lenovo entre sus premios a los favoritos del entretenimiento audiovisual' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/vas-cambiar-pc-ojo-mac-mini-m4-16gb-ram-baratisimo-ahora-amazon-1441970'>Si vas a cambiar de PC, ojo a esto: el Mac Mini M4 con 16GB de RAM es baratísimo ahora en Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/vas-cambiar-pc-ojo-mac-mini-m4-16gb-ram-baratisimo-ahora-amazon-1441970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/apple-mac-mini-2024-4259665.jpg?tf=1200x' alt='Si vas a cambiar de PC, ojo a esto: el Mac Mini M4 con 16GB de RAM es baratísimo ahora en Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/horario-donde-ver-semifinales-copa-rey-fc-barcelona-atletico-madrid-real-sociedad-real-madrid-1441976'>Horario y dónde ver las semifinales de la Copa del Rey: FC Barcelona-Atlético de Madrid y Real Sociedad-Real Madrid</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/horario-donde-ver-semifinales-copa-rey-fc-barcelona-atletico-madrid-real-sociedad-real-madrid-1441976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copa-rey-2024-2025-4292907.jpg?tf=1200x' alt='Horario y dónde ver las semifinales de la Copa del Rey: FC Barcelona-Atlético de Madrid y Real Sociedad-Real Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ucrania-nueva-arma-nuevo-dron-capaz-crear-tormenta-3000-bolas-tungsteno-1441981'>Giro de 180 grados en Ucrania, su nueva arma es un nuevo dron capaz de crear una tormenta de 3.000 bolas de tungsteno</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ucrania-nueva-arma-nuevo-dron-capaz-crear-tormenta-3000-bolas-tungsteno-1441981' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dron-militar-guerra-ucrania-4292929.jpg?tf=1200x' alt='Giro de 180 grados en Ucrania, su nueva arma es un nuevo dron capaz de crear una tormenta de 3.000 bolas de tungsteno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/prepara-mando-ya-hay-fecha-proxima-resintonizacion-canales-tdt-1442006'>Prepara el mando: ya hay fecha para la próxima resintonización de canales de la TDT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/prepara-mando-ya-hay-fecha-proxima-resintonizacion-canales-tdt-1442006' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prepara-mando-ya-hay-fecha-proxima-resintonizacion-canales-tdt-4292990.jpg?tf=1200x' alt='Prepara el mando: ya hay fecha para la próxima resintonización de canales de la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/paneles-solares-punto-provocar-colapso-red-electrica-australia-1442017'>Los paneles solares a punto de provocar el colapso de la red eléctrica en Australia</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/paneles-solares-punto-provocar-colapso-red-electrica-australia-1442017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/paneles-solares-conseguir-energia-4292952.jpg?tf=1200x' alt='Los paneles solares a punto de provocar el colapso de la red eléctrica en Australia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-acusa-laliga-bloqueos-movistar-digi-sabian-peligro-hicieron-todos-modos-1441990'>Cloudflare acusa a LaLiga de los bloqueos de Movistar y DIGI: sabían del peligro y lo hicieron de todos modos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-acusa-laliga-bloqueos-movistar-digi-sabian-peligro-hicieron-todos-modos-1441990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cloudflare-acusa-laliga-bloqueos-movistar-digi-sabian-peligro-hicieron-todos-modos-4292922.jpg?tf=1200x' alt='Cloudflare acusa a LaLiga de los bloqueos de Movistar y DIGI: sabían del peligro y lo hicieron de todos modos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ni-iphone-ni-macbook-apple-desvela-proyecto-secreto-ha-dado-vida-luxo-mitica-lampara-pixar-1441948'>Ni iPhone ni MacBook, Apple desvela su proyecto más secreto: ha dado vida a Luxo, la mítica lámpara de Pixar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ni-iphone-ni-macbook-apple-desvela-proyecto-secreto-ha-dado-vida-luxo-mitica-lampara-pixar-1441948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-hace-realidad-luxo-mascota-pixar-4292928.jpg?tf=1200x' alt='Ni iPhone ni MacBook, Apple desvela su proyecto más secreto: ha dado vida a Luxo, la mítica lámpara de Pixar' />
     </a>
 </div>
 
