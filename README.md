@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-1441965'>Si eres de DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-1441965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-4292904.jpg?tf=1200x' alt='Si eres de DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-temida-estafa-banco-te-vacia-cuenta-minutos-1441920'>WhatsApp: la temida estafa del banco que te vacía la cuenta en minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-temida-estafa-banco-te-vacia-cuenta-minutos-1441920' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-temida-estafa-banco-te-vacia-cuenta-minutos-4292810.jpg?tf=1200x' alt='WhatsApp: la temida estafa del banco que te vacía la cuenta en minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-anadiendo-nuevas-funciones-silenciosamente-cada-vez-parece-waze-1441909'>Google Maps está añadiendo nuevas funciones silenciosamente y cada vez se parece más a Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-anadiendo-nuevas-funciones-silenciosamente-cada-vez-parece-waze-1441909' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-waze-4292856.jpg?tf=1200x' alt='Google Maps está añadiendo nuevas funciones silenciosamente y cada vez se parece más a Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-ya-permite-migrar-compras-diferentes-cuentas-como-hace-1441991'>Apple ya permite migrar las compras entre diferentes cuentas y así es cómo se hace</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-ya-permite-migrar-compras-diferentes-cuentas-como-hace-1441991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/migrar-compras-apple-4292939.jpg?tf=1200x' alt='Apple ya permite migrar las compras entre diferentes cuentas y así es cómo se hace' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/state-play-nuevos-juegos-playstation-5-hora-espana-como-ver-online-espanol-1441966'>State of Play de nuevos juegos para PlayStation 5: hora en España y cómo ver online en español</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/state-play-nuevos-juegos-playstation-5-hora-espana-como-ver-online-espanol-1441966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/state-play-febrero-2025-4292768.jpg?tf=1200x' alt='State of Play de nuevos juegos para PlayStation 5: hora en España y cómo ver online en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/psicologia-oposicion-tecnica-exito-elon-musk-utilizar-1441998'>La psicología de la oposición, la técnica para el éxito de Elon Musk que tú también puedes utilizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/psicologia-oposicion-tecnica-exito-elon-musk-utilizar-1441998' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-tiene-clave-exito-4292923.jpg?tf=1200x' alt='La psicología de la oposición, la técnica para el éxito de Elon Musk que tú también puedes utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-peligro-1441066'>Dos de los grandes expertos mundiales de la IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-peligro-1441066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-humanoide-inteligencia-artificial-4292938.jpg?tf=1200x' alt='Dos de los grandes expertos mundiales de la IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-10-despues-2025-preparate-pagar-quieres-seguir-usandolo-1441969'>¿Windows 10 después de 2025? Prepárate a pagar si quieres seguir usándolo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-10-despues-2025-preparate-pagar-quieres-seguir-usandolo-1441969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-dinero-4292888.jpg?tf=1200x' alt='¿Windows 10 después de 2025? Prepárate a pagar si quieres seguir usándolo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/dispositivos-casa-interferencias-router-wifi-1364410'>Dispositivos que están arruinando la señal de tu router WiFi, desconéctalos y tu conexión volará</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/dispositivos-casa-interferencias-router-wifi-1364410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/router-wifi-4012871.jpg?tf=1200x' alt='Dispositivos que están arruinando la señal de tu router WiFi, desconéctalos y tu conexión volará' />
     </a>
 </div>
 
