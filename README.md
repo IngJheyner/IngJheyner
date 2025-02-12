@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/niebla-lluvia-inundaciones-google-maps-estrena-alertas-meteorologicas-android-auto-1442095'>¿Niebla, lluvia o inundaciones? Google Maps estrena alertas meteorológicas en Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/niebla-lluvia-inundaciones-google-maps-estrena-alertas-meteorologicas-android-auto-1442095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='¿Niebla, lluvia o inundaciones? Google Maps estrena alertas meteorológicas en Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-oxford-logran-teleportacion-cuantica-podria-cambiar-computacion-siempre-1442094'>Científicos de Oxford logran la teleportación cuántica que podría cambiar la computación para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-oxford-logran-teleportacion-cuantica-podria-cambiar-computacion-siempre-1442094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/teleportacion-cuantica-4293113.jpg?tf=1200x' alt='Científicos de Oxford logran la teleportación cuántica que podría cambiar la computación para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062'>La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-fin-pone-dia-tdt-dejando-claro-no-prioridad-1442005'>Movistar Plus+ al fin se pone al día con la TDT dejando claro que no es su prioridad</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-fin-pone-dia-tdt-dejando-claro-no-prioridad-1442005' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-canales-tdt-hd-4293001.jpg?tf=1200x' alt='Movistar Plus+ al fin se pone al día con la TDT dejando claro que no es su prioridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-tienes-modelo-disco-duro-podrias-haberlo-comprado-30000-horas-uso-1441999'>Cuidado si tienes este modelo de disco duro, podrías haberlo comprado con 30.000 horas de uso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-tienes-modelo-disco-duro-podrias-haberlo-comprado-30000-horas-uso-1441999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuidado-tienes-modelo-disco-duro-podrias-haberlo-comprado-30000-horas-uso-4292941.jpg?tf=1200x' alt='Cuidado si tienes este modelo de disco duro, podrías haberlo comprado con 30.000 horas de uso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/extrana-pregunta-steve-jobs-cada-dia-jony-ive-cuantas-veces-dijiste-no-hoy-1442030'>La extraña pregunta que Steve Jobs le hacía cada día a Jony Ive: ¿Cuántas veces dijiste que no hoy?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/extrana-pregunta-steve-jobs-cada-dia-jony-ive-cuantas-veces-dijiste-no-hoy-1442030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/extrana-pregunta-steve-jobs-cada-dia-jony-ive-cuantas-veces-dijiste-no-hoy-4293064.jpg?tf=1200x' alt='La extraña pregunta que Steve Jobs le hacía cada día a Jony Ive: ¿Cuántas veces dijiste que no hoy?' />
     </a>
 </div>
 
