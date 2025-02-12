@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741'>Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/humano-vs-maquina-4292579.jpg?tf=1200x' alt='Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-1441579'>"No le hagas esto a tu cerebro": La regla de los 60 minutos con el móvil de un médico especialista</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-1441579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-4292379.jpg?tf=1200x' alt='"No le hagas esto a tu cerebro": La regla de los 60 minutos con el móvil de un médico especialista' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-cruza-primera-vez-linea-roja-critica-aterroriza-expertos-hay-evitar-apagado-1441696'>La IA cruza por primera vez una línea roja crítica y aterroriza a los expertos: "Hay que evitar el apagado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-cruza-primera-vez-linea-roja-critica-aterroriza-expertos-hay-evitar-apagado-1441696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292531.jpg?tf=1200x' alt='La IA cruza por primera vez una línea roja crítica y aterroriza a los expertos: "Hay que evitar el apagado"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856'>TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/cada-vez-corredores-deportistas-llevan-apple-watch-tobillo-1441844'>¿Por qué cada vez más corredores y deportistas llevan el Apple Watch en el tobillo?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/cada-vez-corredores-deportistas-llevan-apple-watch-tobillo-1441844' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-watch-atletas-4292691.jpg?tf=1200x' alt='¿Por qué cada vez más corredores y deportistas llevan el Apple Watch en el tobillo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842'>Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/fiberpass-telefonica-vodafone-compania-fibra-optica-1441842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telefonica-vodafone-alian-presentar-fiberpass-nueva-compania-fibra-optica-4292682.jpg?tf=1200x' alt='Telefónica y Vodafone se alían para presentar Fiberpass, su nueva compañía de fibra óptica' />
     </a>
 </div>
 
