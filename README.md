@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565'>Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/mejor-barra-sonido-samsung-s800d-confirma-diseno-compacto-no-da-peor-calidad-sonido-1440565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-s800d-4290550.jpg?tf=1200x' alt='Lo mejor de la barra de sonido Samsung S800D es que confirma que un diseño compacto no da peor calidad de sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-maleta-ha-roto-ahora-entiendo-bueno-movil-venda-cargador-ue-1439030'>Mi maleta se ha roto y ahora entiendo por qué es bueno que tu móvil se venda sin cargador en la UE</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mi-maleta-ha-roto-ahora-entiendo-bueno-movil-venda-cargador-ue-1439030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/maleta-cargador-movil-4291189.jpg?tf=1200x' alt='Mi maleta se ha roto y ahora entiendo por qué es bueno que tu móvil se venda sin cargador en la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-1441871'>Giro de 180 grados en YouTube: el móvil ha dejado de ser su dispositivo principal</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-1441871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-youtube-movil-ha-dejado-ser-dispositivo-principal-4292726.jpg?tf=1200x' alt='Giro de 180 grados en YouTube: el móvil ha dejado de ser su dispositivo principal' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741'>Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-microsoft-alertan-muchos-trabajadores-estan-dejando-pensar-1441741' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/humano-vs-maquina-4292579.jpg?tf=1200x' alt='Expertos en IA de Microsoft alertan: "Muchos trabajadores están dejando de pensar"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-1441579'>"No le hagas esto a tu cerebro": La regla de los 60 minutos con el móvil de un médico especialista</a></h4>
     <a href='https://computerhoy.20minutos.es/life/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-1441579' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-hagas-cerebro-regla-60-minutos-movil-medico-especialista-4292379.jpg?tf=1200x' alt='"No le hagas esto a tu cerebro": La regla de los 60 minutos con el móvil de un médico especialista' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-cruza-primera-vez-linea-roja-critica-aterroriza-expertos-hay-evitar-apagado-1441696'>La IA cruza por primera vez una línea roja crítica y aterroriza a los expertos: "Hay que evitar el apagado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-cruza-primera-vez-linea-roja-critica-aterroriza-expertos-hay-evitar-apagado-1441696' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292531.jpg?tf=1200x' alt='La IA cruza por primera vez una línea roja crítica y aterroriza a los expertos: "Hay que evitar el apagado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-openai-tienes-estas-habilidades-tranquilo-inteligencia-artificial-no-te-quitara-trabajo-1441671'>Experta en IA de OpenAI: "Si tienes estás habilidades, tranquilo, la inteligencia artificial no te quitará el trabajo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-openai-tienes-estas-habilidades-tranquilo-inteligencia-artificial-no-te-quitara-trabajo-1441671' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-4292500.jpg?tf=1200x' alt='Experta en IA de OpenAI: "Si tienes estás habilidades, tranquilo, la inteligencia artificial no te quitará el trabajo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856'>TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-corta-culpa-movistar-o2-digi-ataque-iptv-cloudflare-1441856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/vuelve-tdt-channels-anunciar-cierre-estara-operativo-tanto-web-como-android-ios-2912264.jpg?tf=1200x' alt='TDTChannels caída: echan la culpa a Movistar, O2, Digi, y su ataque a las IPTV y Cloudflare' />
     </a>
 </div>
 
