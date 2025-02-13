@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/escuchas-musica-mientras-navegas-internet-trabajas-ciencia-tiene-preocupante-razon-no-deberias-hacerlo-1442000'>¿Escuchas música mientras navegas por Internet o trabajas? La ciencia tiene preocupante razón por la que no deberías hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/escuchas-musica-mientras-navegas-internet-trabajas-ciencia-tiene-preocupante-razon-no-deberias-hacerlo-1442000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/escuchas-musica-mientras-navegas-internet-trabajas-ciencia-tiene-razon-no-deberias-4292933.jpg?tf=1200x' alt='¿Escuchas música mientras navegas por Internet o trabajas? La ciencia tiene preocupante razón por la que no deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aterradora-pregunta-bill-gates-ia-podria-ser-humano-quedarse-obsoleto-1441972'>La aterradora pregunta de Bill Gates sobre la IA: ¿Podría el ser humano quedarse obsoleto?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aterradora-pregunta-bill-gates-ia-podria-ser-humano-quedarse-obsoleto-1441972' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-ayudando-humano-4292910.jpg?tf=1200x' alt='La aterradora pregunta de Bill Gates sobre la IA: ¿Podría el ser humano quedarse obsoleto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/privacidad-google-estimara-edad-usando-inteligencia-artificial-1442123'>Palo a la privacidad: Google estimará tu edad usando la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/google/privacidad-google-estimara-edad-usando-inteligencia-artificial-1442123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-privacidad-google-estimara-edad-usando-inteligencia-artificial-4293194.jpg?tf=1200x' alt='Palo a la privacidad: Google estimará tu edad usando la inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/niebla-lluvia-inundaciones-google-maps-estrena-alertas-meteorologicas-android-auto-1442095'>¿Niebla, lluvia o inundaciones? Google Maps estrena alertas meteorológicas en Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/niebla-lluvia-inundaciones-google-maps-estrena-alertas-meteorologicas-android-auto-1442095' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/android-auto-aplicaciones-meteorologia-4276116.jpg?tf=1200x' alt='¿Niebla, lluvia o inundaciones? Google Maps estrena alertas meteorológicas en Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-oxford-logran-teleportacion-cuantica-podria-cambiar-computacion-siempre-1442094'>Científicos de Oxford logran la teleportación cuántica que podría cambiar la computación para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-oxford-logran-teleportacion-cuantica-podria-cambiar-computacion-siempre-1442094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/teleportacion-cuantica-4293113.jpg?tf=1200x' alt='Científicos de Oxford logran la teleportación cuántica que podría cambiar la computación para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062'>La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"' />
     </a>
 </div>
 
