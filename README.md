@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-deja-huella-x-discursos-odio-disparan-compra-twitter-1442290'>Elon Musk deja su huella en X: los discursos de odio se disparan tras la compra de Twitter</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/elon-musk-deja-huella-x-discursos-odio-disparan-compra-twitter-1442290' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4282636.jpg?tf=1200x' alt='Elon Musk deja su huella en X: los discursos de odio se disparan tras la compra de Twitter' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ten-cabeza-aviso-guardia-civil-instalar-cualquier-aplicacion-movil-1442341'>"Ten cabeza", el aviso de la Guardia Civil al instalar cualquier aplicación en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ten-cabeza-aviso-guardia-civil-instalar-cualquier-aplicacion-movil-1442341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aplicaciones-movil-4293583.jpg?tf=1200x' alt='"Ten cabeza", el aviso de la Guardia Civil al instalar cualquier aplicación en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/noticias/life/significado-nombre-hijo-elon-musk-644327'>Qué significa X Æ A-12, el peculiar nombre del hijo pequeño de Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/noticias/life/significado-nombre-hijo-elon-musk-644327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-x-ae-12-4293480.jpg?tf=1200x' alt='Qué significa X Æ A-12, el peculiar nombre del hijo pequeño de Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recuerda-steve-jobs-era-genio-ambito-pero-no-era-ingeniero-1442225'>Bill Gates recuerda a Steve Jobs: "Era un genio en este ámbito, pero no era ingeniero"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recuerda-steve-jobs-era-genio-ambito-pero-no-era-ingeniero-1442225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-jobs-bill-gates-4293404.jpg?tf=1200x' alt='Bill Gates recuerda a Steve Jobs: "Era un genio en este ámbito, pero no era ingeniero"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/nintendo-switch-2-patente-revela-posible-funcion-inesperada-mandos-1442296'>Nintendo Switch 2: una patente revela una posible función inesperada de sus mandos (y no es utilizarlo como ratón)</a></h4>
-    <a href='https://computerhoy.20minutos.es/nintendo-switch-2-patente-revela-posible-funcion-inesperada-mandos-1442296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/joy-nintendo-switch-4293499.jpg?tf=1200x' alt='Nintendo Switch 2: una patente revela una posible función inesperada de sus mandos (y no es utilizarlo como ratón)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-tambien-tiene-alarma-casa-ahora-barata-costumbre-1442242'>Amazon también tiene alarma para casa, y ahora es más barata que de costumbre</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-tambien-tiene-alarma-casa-ahora-barata-costumbre-1442242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ring-alarm-set-4293401.jpg?tf=1200x' alt='Amazon también tiene alarma para casa, y ahora es más barata que de costumbre' />
     </a>
 </div>
 
