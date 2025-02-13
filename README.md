@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-aparato-salvara-viejo-televisor-1442181'>Apagón de la TDT 2025: este es el aparato que salvará tu viejo televisor</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-aparato-salvara-viejo-televisor-1442181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apagon-tdt-2025-4290052.jpg?tf=1200x' alt='Apagón de la TDT 2025: este es el aparato que salvará tu viejo televisor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-tv-llega-todos-moviles-android-ya-puede-descargar-gratis-google-play-1442152'>Apple TV+ llega a todos los móviles Android: ya se puede descargar gratis en Google Play</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-tv-llega-todos-moviles-android-ya-puede-descargar-gratis-google-play-1442152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-tv-android-4293251.jpg?tf=1200x' alt='Apple TV+ llega a todos los móviles Android: ya se puede descargar gratis en Google Play' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-dios-camara-movil-1427684'>Cómo activar el 'modo Dios' de la cámara de tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-dios-camara-movil-1427684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zte-blade-v50-design-analisis-opinion-3251966.jpg?tf=1200x' alt='Cómo activar el 'modo Dios' de la cámara de tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/borrar-mensajes-whatsapp-guia-practica-eliminar-chat-importante-quien-dejara-poder-leerlos-1441954'>Borrar mensajes de WhatsApp: guía práctica para eliminar un chat y, lo más importante, quién dejará de poder leerlos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/borrar-mensajes-whatsapp-guia-practica-eliminar-chat-importante-quien-dejara-poder-leerlos-1441954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-4038398.jpg?tf=1200x' alt='Borrar mensajes de WhatsApp: guía práctica para eliminar un chat y, lo más importante, quién dejará de poder leerlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/sabes-significa-simbolo-movil-android-mucho-importante-crees-1440937'>¿Sabes qué significa este símbolo en tu móvil Android? Es mucho más importante de lo que crees</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/sabes-significa-simbolo-movil-android-mucho-importante-crees-1440937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sabes-significa-simbolo-movil-android-mucho-importante-crees-4291276.jpg?tf=1200x' alt='¿Sabes qué significa este símbolo en tu móvil Android? Es mucho más importante de lo que crees' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advierte-peligro-chatgpt-search-registro-amenaza-mayuscula-1441930'>Experto en IA advierte del peligro de ChatGPT Search sin registro: "Es una amenaza mayúscula"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advierte-peligro-chatgpt-search-registro-amenaza-mayuscula-1441930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-search-4292877.jpg?tf=1200x' alt='Experto en IA advierte del peligro de ChatGPT Search sin registro: "Es una amenaza mayúscula"' />
     </a>
 </div>
 
