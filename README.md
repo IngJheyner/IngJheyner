@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/traducciones-whatsapp-mucho-mejores-potentes-esperado-1442265'>Las traducciones de WhatsApp podrían ser mucho mejores y más potentes de lo esperado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/traducciones-whatsapp-mucho-mejores-potentes-esperado-1442265' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/actualizaciones-whatsapp-4293460.jpg?tf=1200x' alt='Las traducciones de WhatsApp podrían ser mucho mejores y más potentes de lo esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vinagre-manzana-parte-historia-real-cual-inventada-nueva-serie-viral-netflix-1442135'>Vinagre de manzana: qué parte de la historia es real y cuál es inventada de la nueva serie viral de Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/vinagre-manzana-parte-historia-real-cual-inventada-nueva-serie-viral-netflix-1442135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vinagre-manzana-parte-historia-real-cual-inventada-nueva-serie-viral-netflix-4293220.jpg?tf=1200x' alt='Vinagre de manzana: qué parte de la historia es real y cuál es inventada de la nueva serie viral de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/ha-sido-protagonistas-me-zoo-primer-video-historia-youtube-1442349'>Qué ha sido de los protagonistas de Me at zoo, el primer vídeo de la historia de YouTube</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ha-sido-protagonistas-me-zoo-primer-video-historia-youtube-1442349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ha-sido-protagonistas-me-zoo-primer-video-historia-youtube-4293656.jpg?tf=1200x' alt='Qué ha sido de los protagonistas de Me at zoo, el primer vídeo de la historia de YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/expertos-advierten-crecientes-probabilidades-basura-espacial-choque-aviones-1442190'>Expertos advierten sobre las crecientes probabilidades de que la basura espacial choque con los aviones</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/expertos-advierten-crecientes-probabilidades-basura-espacial-choque-aviones-1442190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/basura-espacial-4293341.jpg?tf=1200x' alt='Expertos advierten sobre las crecientes probabilidades de que la basura espacial choque con los aviones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/problemas-nvidia-rtx-5090-queman-otras-superan-150-grados-1442357'>Problemas para Nvidia: algunas RTX 5090 se queman y otras superan los 150 grados</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/problemas-nvidia-rtx-5090-queman-otras-superan-150-grados-1442357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gtx-5090-alta-temperatura-4293599.jpg?tf=1200x' alt='Problemas para Nvidia: algunas RTX 5090 se queman y otras superan los 150 grados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fallout-ya-calienta-segunda-temporada-prime-video-sera-algo-impresionante-1442132'>Fallout ya calienta su segunda temporada en Prime Video: "Será algo impresionante"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fallout-ya-calienta-segunda-temporada-prime-video-sera-algo-impresionante-1442132' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fallout-cooper-walton-goggins-4269209.jpg?tf=1200x' alt='Fallout ya calienta su segunda temporada en Prime Video: "Será algo impresionante"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-verde-whatsapp-temas-chat-ya-estan-disponibles-todos-1442370'>Adiós al verde en WhatsApp, los temas del chat ya están disponibles para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-verde-whatsapp-temas-chat-ya-estan-disponibles-todos-1442370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/personalizacion-temas-chat-whatsapp-4293635.jpg?tf=1200x' alt='Adiós al verde en WhatsApp, los temas del chat ya están disponibles para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-deja-huella-x-discursos-odio-disparan-compra-twitter-1442290'>Elon Musk deja su huella en X: los discursos de odio se disparan tras la compra de Twitter</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/elon-musk-deja-huella-x-discursos-odio-disparan-compra-twitter-1442290' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4282636.jpg?tf=1200x' alt='Elon Musk deja su huella en X: los discursos de odio se disparan tras la compra de Twitter' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ten-cabeza-aviso-guardia-civil-instalar-cualquier-aplicacion-movil-1442341'>"Ten cabeza", el aviso de la Guardia Civil al instalar cualquier aplicación en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ten-cabeza-aviso-guardia-civil-instalar-cualquier-aplicacion-movil-1442341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aplicaciones-movil-4293583.jpg?tf=1200x' alt='"Ten cabeza", el aviso de la Guardia Civil al instalar cualquier aplicación en tu móvil' />
     </a>
 </div>
 
