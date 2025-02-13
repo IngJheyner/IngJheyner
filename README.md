@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-dios-camara-movil-1427684'>Cómo activar el 'modo Dios' de la cámara de tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-modo-dios-camara-movil-1427684' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/zte-blade-v50-design-analisis-opinion-3251966.jpg?tf=1200x' alt='Cómo activar el 'modo Dios' de la cámara de tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-pruebo-siempre-vuelvo-estos-dos-1440703'>Por más auriculares que pruebo, siempre vuelvo a estos dos</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/auriculares-pruebo-siempre-vuelvo-estos-dos-1440703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/nothing-ear-3299916.jpg?tf=1200x' alt='Por más auriculares que pruebo, siempre vuelvo a estos dos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/borrar-mensajes-whatsapp-guia-practica-eliminar-chat-importante-quien-dejara-poder-leerlos-1441954'>Borrar mensajes de WhatsApp: guía práctica para eliminar un chat y, lo más importante, quién dejará de poder leerlos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/borrar-mensajes-whatsapp-guia-practica-eliminar-chat-importante-quien-dejara-poder-leerlos-1441954' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/como-leer-wasaps-borrados-puedes-recuperar-conversaciones-mensajes-eliminados-whatsapp-4038398.jpg?tf=1200x' alt='Borrar mensajes de WhatsApp: guía práctica para eliminar un chat y, lo más importante, quién dejará de poder leerlos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advierte-peligro-chatgpt-search-registro-amenaza-mayuscula-1441930'>Experto en IA advierte del peligro de ChatGPT Search sin registro: "Es una amenaza mayúscula"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-advierte-peligro-chatgpt-search-registro-amenaza-mayuscula-1441930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-search-4292877.jpg?tf=1200x' alt='Experto en IA advierte del peligro de ChatGPT Search sin registro: "Es una amenaza mayúscula"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/escuchas-musica-mientras-navegas-internet-trabajas-ciencia-tiene-preocupante-razon-no-deberias-hacerlo-1442000'>¿Escuchas música mientras navegas por Internet o trabajas? La ciencia tiene preocupante razón por la que no deberías hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/escuchas-musica-mientras-navegas-internet-trabajas-ciencia-tiene-preocupante-razon-no-deberias-hacerlo-1442000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/escuchas-musica-mientras-navegas-internet-trabajas-ciencia-tiene-razon-no-deberias-4292933.jpg?tf=1200x' alt='¿Escuchas música mientras navegas por Internet o trabajas? La ciencia tiene preocupante razón por la que no deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aterradora-pregunta-bill-gates-ia-podria-ser-humano-quedarse-obsoleto-1441972'>La aterradora pregunta de Bill Gates sobre la IA: ¿Podría el ser humano quedarse obsoleto?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aterradora-pregunta-bill-gates-ia-podria-ser-humano-quedarse-obsoleto-1441972' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-ayudando-humano-4292910.jpg?tf=1200x' alt='La aterradora pregunta de Bill Gates sobre la IA: ¿Podría el ser humano quedarse obsoleto?' />
     </a>
 </div>
 
