@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/privacidad-google-estimara-edad-usando-inteligencia-artificial-1442123'>Palo a la privacidad: Google estimará tu edad usando la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/privacidad-google-estimara-edad-usando-inteligencia-artificial-1442123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-privacidad-google-estimara-edad-usando-inteligencia-artificial-4293194.jpg?tf=1200x' alt='Palo a la privacidad: Google estimará tu edad usando la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-tenia-razon-iptv-futbol-frances-borde-colapso-pirateria-1442108'>¿Y si Javier Tebas tenía razón con las IPTV? El fútbol francés al borde del colapso por la piratería</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-tenia-razon-iptv-futbol-frances-borde-colapso-pirateria-1442108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-tenia-razon-iptv-futbol-frances-borde-colapso-pirateria-4293119.jpg?tf=1200x' alt='¿Y si Javier Tebas tenía razón con las IPTV? El fútbol francés al borde del colapso por la piratería' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062'>La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-descubre-anillo-einstein-patio-trasero-cosmico-1442062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA descubre un anillo de Einstein en nuestro "patio trasero cósmico"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/chatea-fronteras-whatsapp-integrara-traduccion-automatica-tiempo-real-1442084'>Chatea sin fronteras: WhatsApp integrará traducción automática en tiempo real</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/chatea-fronteras-whatsapp-integrara-traduccion-automatica-tiempo-real-1442084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/whatsapp-idiomas-2796581.jpg?tf=1200x' alt='Chatea sin fronteras: WhatsApp integrará traducción automática en tiempo real' />
     </a>
 </div>
 
