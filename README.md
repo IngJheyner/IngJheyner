@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/problemas-nvidia-rtx-5090-queman-otras-superan-150-grados-1442357'>Problemas para Nvidia: algunas RTX 5090 se queman y otras superan los 150 grados</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/problemas-nvidia-rtx-5090-queman-otras-superan-150-grados-1442357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gtx-5090-alta-temperatura-4293599.jpg?tf=1200x' alt='Problemas para Nvidia: algunas RTX 5090 se queman y otras superan los 150 grados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fallout-ya-calienta-segunda-temporada-prime-video-sera-algo-impresionante-1442132'>Fallout ya calienta su segunda temporada en Prime Video: "Será algo impresionante"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/fallout-ya-calienta-segunda-temporada-prime-video-sera-algo-impresionante-1442132' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/fallout-cooper-walton-goggins-4269209.jpg?tf=1200x' alt='Fallout ya calienta su segunda temporada en Prime Video: "Será algo impresionante"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-verde-whatsapp-temas-chat-ya-estan-disponibles-todos-1442370'>Adiós al verde en WhatsApp, los temas del chat ya están disponibles para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-verde-whatsapp-temas-chat-ya-estan-disponibles-todos-1442370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/personalizacion-temas-chat-whatsapp-4293635.jpg?tf=1200x' alt='Adiós al verde en WhatsApp, los temas del chat ya están disponibles para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/elon-musk-deja-huella-x-discursos-odio-disparan-compra-twitter-1442290'>Elon Musk deja su huella en X: los discursos de odio se disparan tras la compra de Twitter</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/elon-musk-deja-huella-x-discursos-odio-disparan-compra-twitter-1442290' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/elon-musk-4282636.jpg?tf=1200x' alt='Elon Musk deja su huella en X: los discursos de odio se disparan tras la compra de Twitter' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ten-cabeza-aviso-guardia-civil-instalar-cualquier-aplicacion-movil-1442341'>"Ten cabeza", el aviso de la Guardia Civil al instalar cualquier aplicación en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ten-cabeza-aviso-guardia-civil-instalar-cualquier-aplicacion-movil-1442341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aplicaciones-movil-4293583.jpg?tf=1200x' alt='"Ten cabeza", el aviso de la Guardia Civil al instalar cualquier aplicación en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/noticias/life/significado-nombre-hijo-elon-musk-644327'>Qué significa X Æ A-12, el peculiar nombre del hijo pequeño de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/noticias/life/significado-nombre-hijo-elon-musk-644327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/significa-x-ae-12-4293480.jpg?tf=1200x' alt='Qué significa X Æ A-12, el peculiar nombre del hijo pequeño de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bebe-espanol-fabricado-ia-padres-no-pueden-tener-hijos-1442318'>Así es el bebé español fabricado con IA para padres que no pueden tener hijos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bebe-espanol-fabricado-ia-padres-no-pueden-tener-hijos-1442318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bebe-espanol-fabricado-ia-padres-no-pueden-tener-hijos-4293577.jpg?tf=1200x' alt='Así es el bebé español fabricado con IA para padres que no pueden tener hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recuerda-steve-jobs-era-genio-ambito-pero-no-era-ingeniero-1442225'>Bill Gates recuerda a Steve Jobs: "Era un genio en este ámbito, pero no era ingeniero"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recuerda-steve-jobs-era-genio-ambito-pero-no-era-ingeniero-1442225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-jobs-bill-gates-4293404.jpg?tf=1200x' alt='Bill Gates recuerda a Steve Jobs: "Era un genio en este ámbito, pero no era ingeniero"' />
     </a>
 </div>
 
