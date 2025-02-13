@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-1442212'>Los mapas de Apple se unen a Google Maps y ya muestran la última ocurrencia de Donald Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-1442212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-4293354.jpg?tf=1200x' alt='Los mapas de Apple se unen a Google Maps y ya muestran la última ocurrencia de Donald Trump' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/20-memes-videos-virales-youtube-20-aniversario-1442159'>20 años de YouTube en 20 memes y vídeos virales históricos que han marcado la cultura de España</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/20-memes-videos-virales-youtube-20-aniversario-1442159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/20-anos-youtube-20-memes-videos-virales-historicos-han-marcado-cultura-espana-4293259.jpg?tf=1200x' alt='20 años de YouTube en 20 memes y vídeos virales históricos que han marcado la cultura de España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-aparato-salvara-viejo-televisor-1442181'>Apagón de la TDT 2025: este es el aparato que salvará tu viejo televisor</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-aparato-salvara-viejo-televisor-1442181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apagon-tdt-2025-4290052.jpg?tf=1200x' alt='Apagón de la TDT 2025: este es el aparato que salvará tu viejo televisor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-tv-llega-todos-moviles-android-ya-puede-descargar-gratis-google-play-1442152'>Apple TV+ llega a todos los móviles Android: ya se puede descargar gratis en Google Play</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-tv-llega-todos-moviles-android-ya-puede-descargar-gratis-google-play-1442152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-tv-android-4293251.jpg?tf=1200x' alt='Apple TV+ llega a todos los móviles Android: ya se puede descargar gratis en Google Play' />
     </a>
 </div>
 
