@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recuerda-steve-jobs-era-genio-ambito-pero-no-era-ingeniero-1442225'>Bill Gates recuerda a Steve Jobs: "Era un genio en este ámbito, pero no era ingeniero"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-recuerda-steve-jobs-era-genio-ambito-pero-no-era-ingeniero-1442225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-jobs-bill-gates-4293404.jpg?tf=1200x' alt='Bill Gates recuerda a Steve Jobs: "Era un genio en este ámbito, pero no era ingeniero"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/nintendo-switch-2-patente-revela-posible-funcion-inesperada-mandos-1442296'>Nintendo Switch 2: una patente revela una posible función inesperada de sus mandos (y no es utilizarlo como ratón)</a></h4>
+    <a href='https://computerhoy.20minutos.es/nintendo-switch-2-patente-revela-posible-funcion-inesperada-mandos-1442296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/joy-nintendo-switch-4293499.jpg?tf=1200x' alt='Nintendo Switch 2: una patente revela una posible función inesperada de sus mandos (y no es utilizarlo como ratón)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-tambien-tiene-alarma-casa-ahora-barata-costumbre-1442242'>Amazon también tiene alarma para casa, y ahora es más barata que de costumbre</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-tambien-tiene-alarma-casa-ahora-barata-costumbre-1442242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ring-alarm-set-4293401.jpg?tf=1200x' alt='Amazon también tiene alarma para casa, y ahora es más barata que de costumbre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estrategia-ciberdelincuentes-estafar-compras-internet-1442230'>La Policía Nacional advierte: así es la nueva estrategia de los ciberdelincuentes para estafar en las compras por Internet</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estrategia-ciberdelincuentes-estafar-compras-internet-1442230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/policia-nacional-advierte-nueva-estrategia-ciberdelincuentes-estafar-compras-internet-4293361.jpg?tf=1200x' alt='La Policía Nacional advierte: así es la nueva estrategia de los ciberdelincuentes para estafar en las compras por Internet' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/descubren-error-digi-tv-no-ha-gustado-nada-muchos-usuarios-1442243'>Descubren un "error" en DIGI TV que no ha gustado nada a muchos usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/descubren-error-digi-tv-no-ha-gustado-nada-muchos-usuarios-1442243' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-4293446.jpg?tf=1200x' alt='Descubren un "error" en DIGI TV que no ha gustado nada a muchos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-ofrece-espeluznante-dato-asteroide-2024-yr4-nasa-ya-no-podra-desviarlo-1442210'>Reputado científico ofrece un espeluznante dato del asteroide 2024 YR4: "La NASA ya no podrá desviarlo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-ofrece-espeluznante-dato-asteroide-2024-yr4-nasa-ya-no-podra-desviarlo-1442210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-4293357.jpg?tf=1200x' alt='Reputado científico ofrece un espeluznante dato del asteroide 2024 YR4: "La NASA ya no podrá desviarlo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/gemini-ha-llevado-fin-funciones-utilizadas-iphone-1442259'>Gemini ha llevado por fin una de sus funciones más utilizadas a los iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/gemini-ha-llevado-fin-funciones-utilizadas-iphone-1442259' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gemini-ha-llevado-fin-funciones-utilizadas-iphone-4293461.jpg?tf=1200x' alt='Gemini ha llevado por fin una de sus funciones más utilizadas a los iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/rusia-crea-motor-plasma-dejaria-ridiculo-cohetes-elon-musk-tierra-marte-30-dias-1442170'>Rusia crea un motor de plasma que dejaría en ridículo los cohetes de Elon Musk: "De la Tierra a Marte en 30 días"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/rusia-crea-motor-plasma-dejaria-ridiculo-cohetes-elon-musk-tierra-marte-30-dias-1442170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/motor-plasma-4293299.jpg?tf=1200x' alt='Rusia crea un motor de plasma que dejaría en ridículo los cohetes de Elon Musk: "De la Tierra a Marte en 30 días"' />
     </a>
 </div>
 
