@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estrategia-ciberdelincuentes-estafar-compras-internet-1442230'>La Policía Nacional advierte: así es la nueva estrategia de los ciberdelincuentes para estafar en las compras por Internet</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-nueva-estrategia-ciberdelincuentes-estafar-compras-internet-1442230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/policia-nacional-advierte-nueva-estrategia-ciberdelincuentes-estafar-compras-internet-4293361.jpg?tf=1200x' alt='La Policía Nacional advierte: así es la nueva estrategia de los ciberdelincuentes para estafar en las compras por Internet' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/descubren-error-digi-tv-no-ha-gustado-nada-muchos-usuarios-1442243'>Descubren un "error" en DIGI TV que no ha gustado nada a muchos usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/descubren-error-digi-tv-no-ha-gustado-nada-muchos-usuarios-1442243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-4293446.jpg?tf=1200x' alt='Descubren un "error" en DIGI TV que no ha gustado nada a muchos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-ofrece-espeluznante-dato-asteroide-2024-yr4-nasa-ya-no-podra-desviarlo-1442210'>Reputado científico ofrece un espeluznante dato del asteroide 2024 YR4: "La NASA ya no podrá desviarlo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/reputado-cientifico-ofrece-espeluznante-dato-asteroide-2024-yr4-nasa-ya-no-podra-desviarlo-1442210' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-4293357.jpg?tf=1200x' alt='Reputado científico ofrece un espeluznante dato del asteroide 2024 YR4: "La NASA ya no podrá desviarlo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/gemini-ha-llevado-fin-funciones-utilizadas-iphone-1442259'>Gemini ha llevado por fin una de sus funciones más utilizadas a los iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/gemini-ha-llevado-fin-funciones-utilizadas-iphone-1442259' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gemini-ha-llevado-fin-funciones-utilizadas-iphone-4293461.jpg?tf=1200x' alt='Gemini ha llevado por fin una de sus funciones más utilizadas a los iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/rusia-crea-motor-plasma-dejaria-ridiculo-cohetes-elon-musk-tierra-marte-30-dias-1442170'>Rusia crea un motor de plasma que dejaría en ridículo los cohetes de Elon Musk: "De la Tierra a Marte en 30 días"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/rusia-crea-motor-plasma-dejaria-ridiculo-cohetes-elon-musk-tierra-marte-30-dias-1442170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/motor-plasma-4293299.jpg?tf=1200x' alt='Rusia crea un motor de plasma que dejaría en ridículo los cohetes de Elon Musk: "De la Tierra a Marte en 30 días"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-prefijos-peligrosos-1437515'>Si recibes una llamada y el número empieza por alguno de estos tres números, estás en peligro</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-prefijos-peligrosos-1437515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/persona-recibiendo-llamada-estafa-4293447.jpg?tf=1200x' alt='Si recibes una llamada y el número empieza por alguno de estos tres números, estás en peligro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129'>Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/smartphone-starlink-4293202.jpg?tf=1200x' alt='Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-siembra-caos-aulas-espanolas-ninos-me-preguntan-pueden-usar-ia-1442245'>La IA siembra el caos en las aulas españolas: "Los niños me preguntan si pueden usar IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-siembra-caos-aulas-espanolas-ninos-me-preguntan-pueden-usar-ia-1442245' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='La IA siembra el caos en las aulas españolas: "Los niños me preguntan si pueden usar IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/chatbot-chat-mistral-ai-tan-bueno-como-todo-mundo-dice-ponemos-prueba-1442206'>¿Es el chatbot Le Chat de Mistral AI tan bueno como todo el mundo dice? Lo ponemos a prueba</a></h4>
-    <a href='https://computerhoy.20minutos.es/chatbot-chat-mistral-ai-tan-bueno-como-todo-mundo-dice-ponemos-prueba-1442206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-mistral-ai-4293418.jpg?tf=1200x' alt='¿Es el chatbot Le Chat de Mistral AI tan bueno como todo el mundo dice? Lo ponemos a prueba' />
     </a>
 </div>
 
