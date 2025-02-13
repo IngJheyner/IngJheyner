@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/microsoft-descubre-problema-ia-podria-cambiar-como-usamos-1442384'>Microsoft descubre un problema con la IA que podría cambiar cómo la usamos</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/microsoft-descubre-problema-ia-podria-cambiar-como-usamos-1442384' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-microsoft-copilot-4293646.jpg?tf=1200x' alt='Microsoft descubre un problema con la IA que podría cambiar cómo la usamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-reciente-star-wars-hecha-toda-ia-puede-ver-gratis-youtube-1442270'>Es la mejor película reciente de Star Wars: está hecha toda con IA y se puede ver gratis en YouTube</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-reciente-star-wars-hecha-toda-ia-puede-ver-gratis-youtube-1442270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mejor-pelicula-reciente-star-wars-hecha-toda-ia-puede-ver-gratis-youtube-4293453.jpg?tf=1200x' alt='Es la mejor película reciente de Star Wars: está hecha toda con IA y se puede ver gratis en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-configuracion-oculta-wifi-iphone-te-deja-vulnerable-hackers-1442390'>Expertos advierten: una configuración oculta del WiFi en iPhone te deja vulnerable a hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-configuracion-oculta-wifi-iphone-te-deja-vulnerable-hackers-1442390' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wifi-iphone-4293661.jpg?tf=1200x' alt='Expertos advierten: una configuración oculta del WiFi en iPhone te deja vulnerable a hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/rendimiento-pc-cae-2025-windows-11-podria-ser-culpable-1442389'>El rendimiento de los PC cae en 2025 y Windows 11 podría ser el culpable</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/rendimiento-pc-cae-2025-windows-11-podria-ser-culpable-1442389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='El rendimiento de los PC cae en 2025 y Windows 11 podría ser el culpable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/traducciones-whatsapp-mucho-mejores-potentes-esperado-1442265'>Las traducciones de WhatsApp podrían ser mucho mejores y más potentes de lo esperado</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/traducciones-whatsapp-mucho-mejores-potentes-esperado-1442265' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/actualizaciones-whatsapp-4293460.jpg?tf=1200x' alt='Las traducciones de WhatsApp podrían ser mucho mejores y más potentes de lo esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vinagre-manzana-parte-historia-real-cual-inventada-nueva-serie-viral-netflix-1442135'>Vinagre de manzana: qué parte de la historia es real y cuál es inventada de la nueva serie viral de Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/vinagre-manzana-parte-historia-real-cual-inventada-nueva-serie-viral-netflix-1442135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vinagre-manzana-parte-historia-real-cual-inventada-nueva-serie-viral-netflix-4293220.jpg?tf=1200x' alt='Vinagre de manzana: qué parte de la historia es real y cuál es inventada de la nueva serie viral de Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/ha-sido-protagonistas-me-zoo-primer-video-historia-youtube-1442349'>Qué ha sido de los protagonistas de Me at zoo, el primer vídeo de la historia de YouTube</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/ha-sido-protagonistas-me-zoo-primer-video-historia-youtube-1442349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ha-sido-protagonistas-me-zoo-primer-video-historia-youtube-4293656.jpg?tf=1200x' alt='Qué ha sido de los protagonistas de Me at zoo, el primer vídeo de la historia de YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/expertos-advierten-crecientes-probabilidades-basura-espacial-choque-aviones-1442190'>Expertos advierten sobre las crecientes probabilidades de que la basura espacial choque con los aviones</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/expertos-advierten-crecientes-probabilidades-basura-espacial-choque-aviones-1442190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/basura-espacial-4293341.jpg?tf=1200x' alt='Expertos advierten sobre las crecientes probabilidades de que la basura espacial choque con los aviones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/problemas-nvidia-rtx-5090-queman-otras-superan-150-grados-1442357'>Problemas para Nvidia: algunas RTX 5090 se queman y otras superan los 150 grados</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/problemas-nvidia-rtx-5090-queman-otras-superan-150-grados-1442357' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gtx-5090-alta-temperatura-4293599.jpg?tf=1200x' alt='Problemas para Nvidia: algunas RTX 5090 se queman y otras superan los 150 grados' />
     </a>
 </div>
 
