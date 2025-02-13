@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129'>Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/smartphone-starlink-4293202.jpg?tf=1200x' alt='Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-siembra-caos-aulas-espanolas-ninos-me-preguntan-pueden-usar-ia-1442245'>La IA siembra el caos en las aulas españolas: "Los niños me preguntan si pueden usar IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-siembra-caos-aulas-espanolas-ninos-me-preguntan-pueden-usar-ia-1442245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/como-utilizar-chatgpt-estudiar-hacer-trampas-3029598.jpg?tf=1200x' alt='La IA siembra el caos en las aulas españolas: "Los niños me preguntan si pueden usar IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/chatbot-chat-mistral-ai-tan-bueno-como-todo-mundo-dice-ponemos-prueba-1442206'>¿Es el chatbot Le Chat de Mistral AI tan bueno como todo el mundo dice? Lo ponemos a prueba</a></h4>
+    <a href='https://computerhoy.20minutos.es/chatbot-chat-mistral-ai-tan-bueno-como-todo-mundo-dice-ponemos-prueba-1442206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-mistral-ai-4293418.jpg?tf=1200x' alt='¿Es el chatbot Le Chat de Mistral AI tan bueno como todo el mundo dice? Lo ponemos a prueba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-1442212'>Los mapas de Apple se unen a Google Maps y ya muestran la última ocurrencia de Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-1442212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-4293354.jpg?tf=1200x' alt='Los mapas de Apple se unen a Google Maps y ya muestran la última ocurrencia de Donald Trump' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/20-memes-videos-virales-youtube-20-aniversario-1442159'>20 años de YouTube en 20 memes y vídeos virales históricos que han marcado la cultura de España</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/20-memes-videos-virales-youtube-20-aniversario-1442159' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/20-anos-youtube-20-memes-videos-virales-historicos-han-marcado-cultura-espana-4293259.jpg?tf=1200x' alt='20 años de YouTube en 20 memes y vídeos virales históricos que han marcado la cultura de España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-4-no-llegara-semana-pero-apple-podria-tener-manga-1442177'>El iPhone SE 4 no llegará esta semana, pero Apple podría tener un as bajo la manga</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-4-no-llegara-semana-pero-apple-podria-tener-manga-1442177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-no-llegara-semana-pero-apple-podria-tener-manga-4293287.jpg?tf=1200x' alt='El iPhone SE 4 no llegará esta semana, pero Apple podría tener un as bajo la manga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-anuncian-gpt-45-gpt-5-futuro-chatgpt-cadena-pensamiento-menos-3-niveles-inteligencia-1442187'>Sam Altman y OpenAI anuncian GPT-4.5 y GPT-5, el futuro de ChatGPT sin cadena de pensamiento y al menos 3 niveles de inteligencia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-anuncian-gpt-45-gpt-5-futuro-chatgpt-cadena-pensamiento-menos-3-niveles-inteligencia-1442187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/futuro-ia-google-gpt-4-mundo-laboral-opina-ceo-openai-sam-altman-respecto-2937980.jpg?tf=1200x' alt='Sam Altman y OpenAI anuncian GPT-4.5 y GPT-5, el futuro de ChatGPT sin cadena de pensamiento y al menos 3 niveles de inteligencia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-aparato-salvara-viejo-televisor-1442181'>Apagón de la TDT 2025: este es el aparato que salvará tu viejo televisor</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apagon-tdt-2025-aparato-salvara-viejo-televisor-1442181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apagon-tdt-2025-4290052.jpg?tf=1200x' alt='Apagón de la TDT 2025: este es el aparato que salvará tu viejo televisor' />
     </a>
 </div>
 
