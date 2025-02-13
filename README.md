@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/rusia-crea-motor-plasma-dejaria-ridiculo-cohetes-elon-musk-tierra-marte-30-dias-1442170'>Rusia crea un motor de plasma que dejaría en ridículo los cohetes de Elon Musk: "De la Tierra a Marte en 30 días"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/rusia-crea-motor-plasma-dejaria-ridiculo-cohetes-elon-musk-tierra-marte-30-dias-1442170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/motor-plasma-4293299.jpg?tf=1200x' alt='Rusia crea un motor de plasma que dejaría en ridículo los cohetes de Elon Musk: "De la Tierra a Marte en 30 días"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-prefijos-peligrosos-1437515'>Si recibes una llamada y el número empieza por alguno de estos tres números, estás en peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-wangiri-prefijos-peligrosos-1437515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/persona-recibiendo-llamada-estafa-4293447.jpg?tf=1200x' alt='Si recibes una llamada y el número empieza por alguno de estos tres números, estás en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129'>Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/smartphone-starlink-4293202.jpg?tf=1200x' alt='Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/chatbot-chat-mistral-ai-tan-bueno-como-todo-mundo-dice-ponemos-prueba-1442206'>¿Es el chatbot Le Chat de Mistral AI tan bueno como todo el mundo dice? Lo ponemos a prueba</a></h4>
     <a href='https://computerhoy.20minutos.es/chatbot-chat-mistral-ai-tan-bueno-como-todo-mundo-dice-ponemos-prueba-1442206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chat-mistral-ai-4293418.jpg?tf=1200x' alt='¿Es el chatbot Le Chat de Mistral AI tan bueno como todo el mundo dice? Lo ponemos a prueba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-1442212'>Los mapas de Apple se unen a Google Maps y ya muestran la última ocurrencia de Donald Trump</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-1442212' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mapas-apple-unen-google-maps-ya-muestran-ultima-ocurrencia-donald-trump-4293354.jpg?tf=1200x' alt='Los mapas de Apple se unen a Google Maps y ya muestran la última ocurrencia de Donald Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/20-memes-videos-virales-youtube-20-aniversario-1442159'>20 años de YouTube en 20 memes y vídeos virales históricos que han marcado la cultura de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/20-memes-videos-virales-youtube-20-aniversario-1442159' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/20-anos-youtube-20-memes-videos-virales-historicos-han-marcado-cultura-espana-4293259.jpg?tf=1200x' alt='20 años de YouTube en 20 memes y vídeos virales históricos que han marcado la cultura de España' />
     </a>
 </div>
 
