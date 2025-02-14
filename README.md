@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516'>Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-4293877.jpg?tf=1200x' alt='Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-emoji-libran-hacker-expertos-descubren-caras-sonrientes-secuestrarse-ocultar-datos-1442578'>Ni los emoji se libran de los hacker: expertos descubren que las caras sonrientes pueden secuestrarse para ocultar datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-emoji-libran-hacker-expertos-descubren-caras-sonrientes-secuestrarse-ocultar-datos-1442578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/emojis-hackeados-ciberdelincuente-4293943.jpg?tf=1200x' alt='Ni los emoji se libran de los hacker: expertos descubren que las caras sonrientes pueden secuestrarse para ocultar datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-estafa-guardia-civil-email-062-1439029'>Guardia Civil lanza un contundente aviso a toda España: "Si te llega este correo llama al 062"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-estafa-guardia-civil-email-062-1439029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-peligro-correo-electronico-4293860.jpg?tf=1200x' alt='Guardia Civil lanza un contundente aviso a toda España: "Si te llega este correo llama al 062"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/solo-19-anos-ha-sido-elegida-nasa-disenar-mision-marte-reto-fue-enorme-1442458'>Con solo 19 años, ha sido elegida por la NASA para diseñar una misión a Marte: "El reto fue enorme"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/solo-19-anos-ha-sido-elegida-nasa-disenar-mision-marte-reto-fue-enorme-1442458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aitana-ferreyra-denz-4293764.jpg?tf=1200x' alt='Con solo 19 años, ha sido elegida por la NASA para diseñar una misión a Marte: "El reto fue enorme"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/prueba-empleados-ascensor-steve-jobs-1441480'>Steve Jobs y su prueba del ascensor con la que atemorizaba a los empleados: mejor no cruzarse con él</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/prueba-empleados-ascensor-steve-jobs-1441480' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prueba-ascensor-steve-jobs-4293842.jpg?tf=1200x' alt='Steve Jobs y su prueba del ascensor con la que atemorizaba a los empleados: mejor no cruzarse con él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-llamadas-spam-expertos-recomiendan-hacer-justo-contrario-haciendo-ahora-1442549'>Giro de 180 grados con las llamadas SPAM, expertos recomiendan hacer justo lo contrario que se está haciendo ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-llamadas-spam-expertos-recomiendan-hacer-justo-contrario-haciendo-ahora-1442549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-llamadas-spam-expertos-recomiendan-hacer-justo-contrario-haciendo-ahora-4293942.jpg?tf=1200x' alt='Giro de 180 grados con las llamadas SPAM, expertos recomiendan hacer justo lo contrario que se está haciendo ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sorprende-nuevo-canal-efimero-programacion-diferente-1442530'>Movistar Plus+ sorprende con un nuevo canal efímero con una programación "diferente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sorprende-nuevo-canal-efimero-programacion-diferente-1442530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4293880.jpg?tf=1200x' alt='Movistar Plus+ sorprende con un nuevo canal efímero con una programación "diferente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-elon-musk-trabajos-futuro-sustituidos-ia-1442527'>La lista negra de Bill Gates y Elon Musk: los trabajos sin futuro que ya han sido sustituidos por la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-elon-musk-trabajos-futuro-sustituidos-ia-1442527' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-bill-gates-inteligencia-artificial-4293858.jpg?tf=1200x' alt='La lista negra de Bill Gates y Elon Musk: los trabajos sin futuro que ya han sido sustituidos por la IA' />
     </a>
 </div>
 
