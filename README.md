@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-entra-modo-apocaliptico-sale-mal-no-nos-salvara-ni-meternos-tierra-1442465'>Sam Altman entra en modo apocalíptico: Si esto sale mal, no nos salvará ni meternos bajo tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-entra-modo-apocaliptico-sale-mal-no-nos-salvara-ni-meternos-tierra-1442465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-4293804.jpg?tf=1200x' alt='Sam Altman entra en modo apocalíptico: Si esto sale mal, no nos salvará ni meternos bajo tierra' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-rrhh-comparte-truco-chatgpt-encontrar-trabajo-suenos-1442485'>Experta en RRHH comparte el truco de ChatGPT para encontrar el trabajo de tus sueños</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-rrhh-comparte-truco-chatgpt-encontrar-trabajo-suenos-1442485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prompt-chatgpt-encontrar-ofertas-trabajo-4293820.jpg?tf=1200x' alt='Experta en RRHH comparte el truco de ChatGPT para encontrar el trabajo de tus sueños' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/bloqueos-laliga-iptv-afectan-eres-movistar-digi-o2-pueden-evitar-1442505'>Por qué los bloqueos de LaLiga a las IPTV afectan más si eres de Movistar, DIGI y O2: ¿se pueden evitar?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/bloqueos-laliga-iptv-afectan-eres-movistar-digi-o2-pueden-evitar-1442505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-digi-o2-iptv-4293834.jpg?tf=1200x' alt='Por qué los bloqueos de LaLiga a las IPTV afectan más si eres de Movistar, DIGI y O2: ¿se pueden evitar?' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-fascinada-planeta-fantasma-ha-aparecido-nada-ni-ciencia-puede-explicar-1442499'>La NASA fascinada con un planeta fantasma que ha aparecido de la nada y que ni la ciencia puede explicar</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-fascinada-planeta-fantasma-ha-aparecido-nada-ni-ciencia-puede-explicar-1442499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wasp-193b-4293845.jpg?tf=1200x' alt='La NASA fascinada con un planeta fantasma que ha aparecido de la nada y que ni la ciencia puede explicar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-1442514'>Google Maps activa el modo Donald Trump: no le interesa tu opinión sobre este lugar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-1442514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-4293839.jpg?tf=1200x' alt='Google Maps activa el modo Donald Trump: no le interesa tu opinión sobre este lugar' />
+    <h4><a href='https://computerhoy.20minutos.es/life/roban-iphone-espana-recupera-pagando-marruecos-pero-no-libra-ir-juicio-1442519'>Le roban el iPhone en España, lo recupera pagando en Marruecos, pero no se libra de ir a juicio</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/roban-iphone-espana-recupera-pagando-marruecos-pero-no-libra-ir-juicio-1442519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-robado-4293866.jpg?tf=1200x' alt='Le roban el iPhone en España, lo recupera pagando en Marruecos, pero no se libra de ir a juicio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-perfectas-ver-san-valentin-1441355'>5 películas de terror perfectas para ver en San Valentín</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-perfectas-ver-san-valentin-1441355' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-terror-perfectas-ver-san-valentin-4292032.jpg?tf=1200x' alt='5 películas de terror perfectas para ver en San Valentín' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/webs-legales-no-podras-visitar-dias-partido-culpa-iptv-conflicto-laliga-cloudflare-1442488'>Webs legales a las que no podrás visitar los días de partido por culpa de las IPTV y el conflicto entre LaLiga y Cloudflare</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/webs-legales-no-podras-visitar-dias-partido-culpa-iptv-conflicto-laliga-cloudflare-1442488' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/webs-legales-no-podras-visitar-dias-partido-culpa-iptv-conflicto-laliga-cloudflare-4293808.jpg?tf=1200x' alt='Webs legales a las que no podrás visitar los días de partido por culpa de las IPTV y el conflicto entre LaLiga y Cloudflare' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-distro-como-funciona-como-descargarlo-1437689'>Microsoft Linux es una realidad: qué es, cómo funciona y cómo descargarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-distro-como-funciona-como-descargarlo-1437689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-linux-existe-como-funciona-como-descargarlo-4285927.jpg?tf=1200x' alt='Microsoft Linux es una realidad: qué es, cómo funciona y cómo descargarlo' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exjefe-google-aterrorizado-ia-puede-tener-escenario-bin-laden-1442508'>El exjefe de Google aterrorizado de que la IA puede tener un "escenario Bin Laden"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/exjefe-google-aterrorizado-ia-puede-tener-escenario-bin-laden-1442508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exjefe-google-ia-4293848.jpg?tf=1200x' alt='El exjefe de Google aterrorizado de que la IA puede tener un "escenario Bin Laden"' />
     </a>
 </div>
 
