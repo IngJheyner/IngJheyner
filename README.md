@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-honda-nissan-mitsubishi-cancelan-fusion-1442410'>Vuelco al coche eléctrico: Honda, Nissan y Mitsubishi cancelan su fusión</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-honda-nissan-mitsubishi-cancelan-fusion-1442410' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honda-nissan-anuncian-fusion-afrontar-nueva-era-coche-electrico-4276677.jpg?tf=1200x' alt='Vuelco al coche eléctrico: Honda, Nissan y Mitsubishi cancelan su fusión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/asteroide-2024-yr4-como-seguir-directo-trayectoria-probabilidades-impacto-tierra-1442386'>Asteroide 2024 YR4: cómo seguir en directo su trayectoria y las probabilidades de impacto contra la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/asteroide-2024-yr4-como-seguir-directo-trayectoria-probabilidades-impacto-tierra-1442386' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-2024-yr4-como-seguir-directo-trayectoria-probabilidades-impacto-tierra-4293678.jpg?tf=1200x' alt='Asteroide 2024 YR4: cómo seguir en directo su trayectoria y las probabilidades de impacto contra la Tierra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-configuracion-oculta-wifi-iphone-te-deja-vulnerable-hackers-1442390'>Expertos advierten: una configuración oculta del WiFi en iPhone te deja vulnerable a hackers</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-configuracion-oculta-wifi-iphone-te-deja-vulnerable-hackers-1442390' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wifi-iphone-4293661.jpg?tf=1200x' alt='Expertos advierten: una configuración oculta del WiFi en iPhone te deja vulnerable a hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/rendimiento-pc-cae-2025-windows-11-podria-ser-culpable-1442389'>El rendimiento de los PC cae en 2025 y Windows 11 podría ser el culpable</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/rendimiento-pc-cae-2025-windows-11-podria-ser-culpable-1442389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/17-formas-rapidas-optimizar-acelerar-maximo-pc-windows-11-3220262.jpg?tf=1200x' alt='El rendimiento de los PC cae en 2025 y Windows 11 podría ser el culpable' />
     </a>
 </div>
 
