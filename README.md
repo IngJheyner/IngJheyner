@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-calienta-motores-proximas-semanas-iphone-4-vision-pro-ipad-11-1442440'>Apple calienta motores para las próximas semanas: iPhone SE 4, Vision Pro, iPad 11 y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-calienta-motores-proximas-semanas-iphone-4-vision-pro-ipad-11-1442440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-iphone-4293745.jpg?tf=1200x' alt='Apple calienta motores para las próximas semanas: iPhone SE 4, Vision Pro, iPad 11 y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-identifican-nueva-estafa-sms-hacienda-truco-descubrirla-1442433'>Expertos identifican una nueva estafa con un SMS de Hacienda: el truco para descubrirla</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-identifican-nueva-estafa-sms-hacienda-truco-descubrirla-1442433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-sms-hacienda-truco-descubrirla-4293708.jpg?tf=1200x' alt='Expertos identifican una nueva estafa con un SMS de Hacienda: el truco para descubrirla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-688-computer-hoy-1440727'>¡Ya está en tu quiosco el número 688 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-688-computer-hoy-1440727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/computer-hoy-688-4291085.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 688 de Computer Hoy!' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/youtube-cumple-20-anos-nueva-tele-actual-parece-cada-vez-vieja-tdt-1440590'>YouTube cumple 20 años: ¿es la nueva tele actual o se parece cada vez más a la vieja TDT?</a></h4>
     <a href='https://computerhoy.20minutos.es/google/youtube-cumple-20-anos-nueva-tele-actual-parece-cada-vez-vieja-tdt-1440590' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/20-anos-youtube-4292649.jpg?tf=1200x' alt='YouTube cumple 20 años: ¿es la nueva tele actual o se parece cada vez más a la vieja TDT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-1442147'>Qué son los roles de grupo de WhatsApp, la nueva función que lo cambiará todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-1442147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-4293380.jpg?tf=1200x' alt='Qué son los roles de grupo de WhatsApp, la nueva función que lo cambiará todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/waze-anade-nueva-funcionalidad-sera-pesadilla-cualquier-padre-1442289'>Waze añade una nueva funcionalidad que será la pesadilla de cualquier padre</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/waze-anade-nueva-funcionalidad-sera-pesadilla-cualquier-padre-1442289' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conductor-enfadado-waze-4293538.jpg?tf=1200x' alt='Waze añade una nueva funcionalidad que será la pesadilla de cualquier padre' />
     </a>
 </div>
 
