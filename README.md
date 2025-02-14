@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-entra-modo-apocaliptico-sale-mal-no-nos-salvara-ni-meternos-tierra-1442465'>Sam Altman entra en modo apocalíptico: Si esto sale mal, no nos salvará ni meternos bajo tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-entra-modo-apocaliptico-sale-mal-no-nos-salvara-ni-meternos-tierra-1442465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-4293804.jpg?tf=1200x' alt='Sam Altman entra en modo apocalíptico: Si esto sale mal, no nos salvará ni meternos bajo tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/bloqueos-laliga-iptv-afectan-eres-movistar-digi-o2-pueden-evitar-1442505'>Por qué los bloqueos de LaLiga a las IPTV afectan más si eres de Movistar, DIGI y O2: ¿se pueden evitar?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/bloqueos-laliga-iptv-afectan-eres-movistar-digi-o2-pueden-evitar-1442505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-digi-o2-iptv-4293834.jpg?tf=1200x' alt='Por qué los bloqueos de LaLiga a las IPTV afectan más si eres de Movistar, DIGI y O2: ¿se pueden evitar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-1442514'>Google Maps activa el modo Donald Trump: no le interesa tu opinión sobre este lugar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-1442514' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-4293839.jpg?tf=1200x' alt='Google Maps activa el modo Donald Trump: no le interesa tu opinión sobre este lugar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-distro-como-funciona-como-descargarlo-1437689'>Microsoft Linux es una realidad: qué es, cómo funciona y cómo descargarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-distro-como-funciona-como-descargarlo-1437689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-linux-existe-como-funciona-como-descargarlo-4285927.jpg?tf=1200x' alt='Microsoft Linux es una realidad: qué es, cómo funciona y cómo descargarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/gran-tactica-microsoft-te-pases-windows-11-sabotear-windows-10-1442486'>La gran táctica de Microsoft para que te pases a Windows 11: sabotear Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/gran-tactica-microsoft-te-pases-windows-11-sabotear-windows-10-1442486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4293809.jpg?tf=1200x' alt='La gran táctica de Microsoft para que te pases a Windows 11: sabotear Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-movistar-orange-gran-duda-tienen-delante-solucion-acabar-iptv-pirata-no-saben-1442471'>LaLiga, Movistar, Orange y una gran duda: ¿tienen delante la solución para acabar con las IPTV pirata y no lo saben? </a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/laliga-movistar-orange-gran-duda-tienen-delante-solucion-acabar-iptv-pirata-no-saben-1442471' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-iptv-laliga-4284767.jpg?tf=1200x' alt='LaLiga, Movistar, Orange y una gran duda: ¿tienen delante la solución para acabar con las IPTV pirata y no lo saben? ' />
     </a>
 </div>
 
