@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-1442547'>Mistral es mucho más que un chatbot de IA: es un arma militar de defensa para toda Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-1442547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-4293909.jpg?tf=1200x' alt='Mistral es mucho más que un chatbot de IA: es un arma militar de defensa para toda Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-tv-1439551'>Movistar Plus+ a por todas: activa el modo "3 por 1" para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-tv-1439551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/regalo-movistar-plus-4293864.jpg?tf=1200x' alt='Movistar Plus+ a por todas: activa el modo "3 por 1" para todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516'>Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-4293877.jpg?tf=1200x' alt='Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-estafa-guardia-civil-email-062-1439029'>Guardia Civil lanza un contundente aviso a toda España: "Si te llega este correo llama al 062"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-estafa-guardia-civil-email-062-1439029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-peligro-correo-electronico-4293860.jpg?tf=1200x' alt='Guardia Civil lanza un contundente aviso a toda España: "Si te llega este correo llama al 062"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/solo-19-anos-ha-sido-elegida-nasa-disenar-mision-marte-reto-fue-enorme-1442458'>Con solo 19 años, ha sido elegida por la NASA para diseñar una misión a Marte: "El reto fue enorme"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/solo-19-anos-ha-sido-elegida-nasa-disenar-mision-marte-reto-fue-enorme-1442458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aitana-ferreyra-denz-4293764.jpg?tf=1200x' alt='Con solo 19 años, ha sido elegida por la NASA para diseñar una misión a Marte: "El reto fue enorme"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/prueba-empleados-ascensor-steve-jobs-1441480'>Steve Jobs y su prueba del ascensor con la que atemorizaba a los empleados: mejor no cruzarse con él</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/prueba-empleados-ascensor-steve-jobs-1441480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prueba-ascensor-steve-jobs-4293842.jpg?tf=1200x' alt='Steve Jobs y su prueba del ascensor con la que atemorizaba a los empleados: mejor no cruzarse con él' />
     </a>
 </div>
 
