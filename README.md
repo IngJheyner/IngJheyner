@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-buds-6-pro-confirman-hay-buenas-opciones-cualquier-bolsillo-1440892'>Los Xiaomi Redmi Buds 6 Pro confirman que hay buenas opciones para cualquier bolsillo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-buds-6-pro-confirman-hay-buenas-opciones-cualquier-bolsillo-1440892' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-buds-6-pro-4291020.jpg?tf=1200x' alt='Los Xiaomi Redmi Buds 6 Pro confirman que hay buenas opciones para cualquier bolsillo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/youtube-cumple-20-anos-nueva-tele-actual-parece-cada-vez-vieja-tdt-1440590'>YouTube cumple 20 años: ¿es la nueva tele actual o se parece cada vez más a la vieja TDT?</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/youtube-cumple-20-anos-nueva-tele-actual-parece-cada-vez-vieja-tdt-1440590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/20-anos-youtube-4292649.jpg?tf=1200x' alt='YouTube cumple 20 años: ¿es la nueva tele actual o se parece cada vez más a la vieja TDT?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-1442147'>Qué son los roles de grupo de WhatsApp, la nueva función que lo cambiará todo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-1442147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-4293380.jpg?tf=1200x' alt='Qué son los roles de grupo de WhatsApp, la nueva función que lo cambiará todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/adios-google-chrome-tres-razones-dan-expertos-cambiar-navegador-1442251'>Adiós a Google Chrome: las tres razones que dan los expertos para cambiar de navegador</a></h4>
     <a href='https://computerhoy.20minutos.es/google/adios-google-chrome-tres-razones-dan-expertos-cambiar-navegador-1442251' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-google-chrome-tres-razones-dan-expertos-cambiar-navegador-4293409.jpg?tf=1200x' alt='Adiós a Google Chrome: las tres razones que dan los expertos para cambiar de navegador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/subir-montana-sagrada-tai-china-alquilar-exoesqueleto-ia-1442418'>Ni teleférico ni tranvía: para subir a la montaña sagrada de Tai, en China, puedes alquilar un exoesqueleto con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/subir-montana-sagrada-tai-china-alquilar-exoesqueleto-ia-1442418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-teleferico-ni-tranvia-subir-montana-sagrada-tai-china-puedes-alquilar-exoesqueleto-4293700.jpg?tf=1200x' alt='Ni teleférico ni tranvía: para subir a la montaña sagrada de Tai, en China, puedes alquilar un exoesqueleto con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-1442148'>Te llaman, te escuchan y la estafa ha comenzado, la nueva técnica que aterroriza a los expertos en seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-1442148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-4293243.jpg?tf=1200x' alt='Te llaman, te escuchan y la estafa ha comenzado, la nueva técnica que aterroriza a los expertos en seguridad' />
     </a>
 </div>
 
