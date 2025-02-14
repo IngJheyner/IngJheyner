@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-radares-dgt-siempre-como-ia-va-castigarte-carretera-1442463'>Adiós a los radares de la DGT de siempre: así es como la IA va a castigarte en la carretera</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-radares-dgt-siempre-como-ia-va-castigarte-carretera-1442463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/radares-ia-4293747.jpg?tf=1200x' alt='Adiós a los radares de la DGT de siempre: así es como la IA va a castigarte en la carretera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-calienta-motores-proximas-semanas-iphone-4-vision-pro-ipad-11-1442440'>Apple calienta motores para las próximas semanas: iPhone SE 4, Vision Pro, iPad 11 y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-calienta-motores-proximas-semanas-iphone-4-vision-pro-ipad-11-1442440' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-iphone-4293745.jpg?tf=1200x' alt='Apple calienta motores para las próximas semanas: iPhone SE 4, Vision Pro, iPad 11 y más' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-buds-6-pro-confirman-hay-buenas-opciones-cualquier-bolsillo-1440892'>Los Xiaomi Redmi Buds 6 Pro confirman que hay buenas opciones para cualquier bolsillo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-buds-6-pro-confirman-hay-buenas-opciones-cualquier-bolsillo-1440892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-buds-6-pro-4291020.jpg?tf=1200x' alt='Los Xiaomi Redmi Buds 6 Pro confirman que hay buenas opciones para cualquier bolsillo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/youtube-cumple-20-anos-nueva-tele-actual-parece-cada-vez-vieja-tdt-1440590'>YouTube cumple 20 años: ¿es la nueva tele actual o se parece cada vez más a la vieja TDT?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/youtube-cumple-20-anos-nueva-tele-actual-parece-cada-vez-vieja-tdt-1440590' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/20-anos-youtube-4292649.jpg?tf=1200x' alt='YouTube cumple 20 años: ¿es la nueva tele actual o se parece cada vez más a la vieja TDT?' />
     </a>
 </div>
 
