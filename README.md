@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-1442514'>Google Maps activa el modo Donald Trump: no le interesa tu opinión sobre este lugar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-1442514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-activa-modo-donald-trump-no-interesa-opinion-lugar-4293839.jpg?tf=1200x' alt='Google Maps activa el modo Donald Trump: no le interesa tu opinión sobre este lugar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-perfectas-ver-san-valentin-1441355'>5 películas de terror perfectas para ver en San Valentín</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-terror-perfectas-ver-san-valentin-1441355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-terror-perfectas-ver-san-valentin-4292032.jpg?tf=1200x' alt='5 películas de terror perfectas para ver en San Valentín' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-distro-como-funciona-como-descargarlo-1437689'>Microsoft Linux es una realidad: qué es, cómo funciona y cómo descargarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-linux-distro-como-funciona-como-descargarlo-1437689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/microsoft-linux-existe-como-funciona-como-descargarlo-4285927.jpg?tf=1200x' alt='Microsoft Linux es una realidad: qué es, cómo funciona y cómo descargarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/gran-tactica-microsoft-te-pases-windows-11-sabotear-windows-10-1442486'>La gran táctica de Microsoft para que te pases a Windows 11: sabotear Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/gran-tactica-microsoft-te-pases-windows-11-sabotear-windows-10-1442486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-10-4293809.jpg?tf=1200x' alt='La gran táctica de Microsoft para que te pases a Windows 11: sabotear Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/laliga-movistar-orange-gran-duda-tienen-delante-solucion-acabar-iptv-pirata-no-saben-1442471'>LaLiga, Movistar, Orange y una gran duda: ¿tienen delante la solución para acabar con las IPTV pirata y no lo saben? </a></h4>
     <a href='https://computerhoy.20minutos.es/tv/laliga-movistar-orange-gran-duda-tienen-delante-solucion-acabar-iptv-pirata-no-saben-1442471' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/movistar-iptv-laliga-4284767.jpg?tf=1200x' alt='LaLiga, Movistar, Orange y una gran duda: ¿tienen delante la solución para acabar con las IPTV pirata y no lo saben? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/jarro-agua-fria-usuarios-windows-10-microsoft-te-obligara-usar-nuevo-outlook-no-podras-hacer-nada-1442443'>Jarro de agua fría para los usuarios de Windows 10: Microsoft te obligará a usar el nuevo Outlook, y no podrás hacer nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/jarro-agua-fria-usuarios-windows-10-microsoft-te-obligara-usar-nuevo-outlook-no-podras-hacer-nada-1442443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jarro-agua-fria-usuarios-windows-10-microsoft-te-obligara-usar-nuevo-outlook-no-podras-hacer-nada-4293758.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de Windows 10: Microsoft te obligará a usar el nuevo Outlook, y no podrás hacer nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-radares-dgt-siempre-como-ia-va-castigarte-carretera-1442463'>Adiós a los radares de la DGT de siempre: así es como la IA va a castigarte en la carretera</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-radares-dgt-siempre-como-ia-va-castigarte-carretera-1442463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/radares-ia-4293747.jpg?tf=1200x' alt='Adiós a los radares de la DGT de siempre: así es como la IA va a castigarte en la carretera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-calienta-motores-proximas-semanas-iphone-4-vision-pro-ipad-11-1442440'>Apple calienta motores para las próximas semanas: iPhone SE 4, Vision Pro, iPad 11 y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-calienta-motores-proximas-semanas-iphone-4-vision-pro-ipad-11-1442440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-iphone-4293745.jpg?tf=1200x' alt='Apple calienta motores para las próximas semanas: iPhone SE 4, Vision Pro, iPad 11 y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-identifican-nueva-estafa-sms-hacienda-truco-descubrirla-1442433'>Expertos identifican una nueva estafa con un SMS de Hacienda: el truco para descubrirla</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-identifican-nueva-estafa-sms-hacienda-truco-descubrirla-1442433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-sms-hacienda-truco-descubrirla-4293708.jpg?tf=1200x' alt='Expertos identifican una nueva estafa con un SMS de Hacienda: el truco para descubrirla' />
     </a>
 </div>
 
