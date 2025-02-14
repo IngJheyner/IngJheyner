@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/samsung-galaxy-s25-tiene-problemas-android-auto-pero-hay-truco-arreglarlo-1442610'>El Samsung Galaxy S25 tiene problemas con Android Auto, pero hay un truco para arreglarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/samsung-galaxy-s25-tiene-problemas-android-auto-pero-hay-truco-arreglarlo-1442610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-4260263.jpg?tf=1200x' alt='El Samsung Galaxy S25 tiene problemas con Android Auto, pero hay un truco para arreglarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/estafa-realidad-nintendo-switch-2-estaria-vendiendo-mercado-negro-precio-desorbitado-1442609'>¿Estafa o realidad? Nintendo Switch 2 se estaría vendiendo en el mercado negro por un precio desorbitado</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/estafa-realidad-nintendo-switch-2-estaria-vendiendo-mercado-negro-precio-desorbitado-1442609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4287185.jpg?tf=1200x' alt='¿Estafa o realidad? Nintendo Switch 2 se estaría vendiendo en el mercado negro por un precio desorbitado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-podria-sorprender-tamano-filtraciones-1442608'>El primer iPhone plegable podría sorprender con su tamaño, según las filtraciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-podria-sorprender-tamano-filtraciones-1442608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-plegable-4294004.jpg?tf=1200x' alt='El primer iPhone plegable podría sorprender con su tamaño, según las filtraciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591'>Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/caja-regalo-temu-4293972.jpg?tf=1200x' alt='Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-1442577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-1442547'>Mistral es mucho más que un chatbot de IA: es un arma militar de defensa para toda Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-1442547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-4293909.jpg?tf=1200x' alt='Mistral es mucho más que un chatbot de IA: es un arma militar de defensa para toda Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-tv-1439551'>Movistar Plus+ a por todas: activa el modo "3 por 1" para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-tv-1439551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/regalo-movistar-plus-4293864.jpg?tf=1200x' alt='Movistar Plus+ a por todas: activa el modo "3 por 1" para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516'>Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-4293877.jpg?tf=1200x' alt='Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"' />
     </a>
 </div>
 
