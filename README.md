@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/jarro-agua-fria-usuarios-windows-10-microsoft-te-obligara-usar-nuevo-outlook-no-podras-hacer-nada-1442443'>Jarro de agua fría para los usuarios de Windows 10: Microsoft te obligará a usar el nuevo Outlook, y no podrás hacer nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/jarro-agua-fria-usuarios-windows-10-microsoft-te-obligara-usar-nuevo-outlook-no-podras-hacer-nada-1442443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jarro-agua-fria-usuarios-windows-10-microsoft-te-obligara-usar-nuevo-outlook-no-podras-hacer-nada-4293758.jpg?tf=1200x' alt='Jarro de agua fría para los usuarios de Windows 10: Microsoft te obligará a usar el nuevo Outlook, y no podrás hacer nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-radares-dgt-siempre-como-ia-va-castigarte-carretera-1442463'>Adiós a los radares de la DGT de siempre: así es como la IA va a castigarte en la carretera</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-radares-dgt-siempre-como-ia-va-castigarte-carretera-1442463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/radares-ia-4293747.jpg?tf=1200x' alt='Adiós a los radares de la DGT de siempre: así es como la IA va a castigarte en la carretera' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-688-computer-hoy-1440727'>¡Ya está en tu quiosco el número 688 de Computer Hoy!</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-quiosco-numero-688-computer-hoy-1440727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/computer-hoy-688-4291085.jpg?tf=1200x' alt='¡Ya está en tu quiosco el número 688 de Computer Hoy!' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-buds-6-pro-confirman-hay-buenas-opciones-cualquier-bolsillo-1440892'>Los Xiaomi Redmi Buds 6 Pro confirman que hay buenas opciones para cualquier bolsillo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-buds-6-pro-confirman-hay-buenas-opciones-cualquier-bolsillo-1440892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-buds-6-pro-4291020.jpg?tf=1200x' alt='Los Xiaomi Redmi Buds 6 Pro confirman que hay buenas opciones para cualquier bolsillo' />
     </a>
 </div>
 
