@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/solo-19-anos-ha-sido-elegida-nasa-disenar-mision-marte-reto-fue-enorme-1442458'>Con solo 19 años, ha sido elegida por la NASA para diseñar una misión a Marte: "El reto fue enorme"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/solo-19-anos-ha-sido-elegida-nasa-disenar-mision-marte-reto-fue-enorme-1442458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aitana-ferreyra-denz-4293764.jpg?tf=1200x' alt='Con solo 19 años, ha sido elegida por la NASA para diseñar una misión a Marte: "El reto fue enorme"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/prueba-empleados-ascensor-steve-jobs-1441480'>Steve Jobs y su prueba del ascensor con la que atemorizaba a los empleados: mejor no cruzarse con él</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/prueba-empleados-ascensor-steve-jobs-1441480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prueba-ascensor-steve-jobs-4293842.jpg?tf=1200x' alt='Steve Jobs y su prueba del ascensor con la que atemorizaba a los empleados: mejor no cruzarse con él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-llamadas-spam-expertos-recomiendan-hacer-justo-contrario-haciendo-ahora-1442549'>Giro de 180 grados con las llamadas SPAM, expertos recomiendan hacer justo lo contrario que se está haciendo ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-llamadas-spam-expertos-recomiendan-hacer-justo-contrario-haciendo-ahora-1442549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-llamadas-spam-expertos-recomiendan-hacer-justo-contrario-haciendo-ahora-4293942.jpg?tf=1200x' alt='Giro de 180 grados con las llamadas SPAM, expertos recomiendan hacer justo lo contrario que se está haciendo ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sorprende-nuevo-canal-efimero-programacion-diferente-1442530'>Movistar Plus+ sorprende con un nuevo canal efímero con una programación "diferente"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sorprende-nuevo-canal-efimero-programacion-diferente-1442530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4293880.jpg?tf=1200x' alt='Movistar Plus+ sorprende con un nuevo canal efímero con una programación "diferente"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-elon-musk-trabajos-futuro-sustituidos-ia-1442527'>La lista negra de Bill Gates y Elon Musk: los trabajos sin futuro que ya han sido sustituidos por la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-elon-musk-trabajos-futuro-sustituidos-ia-1442527' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-bill-gates-inteligencia-artificial-4293858.jpg?tf=1200x' alt='La lista negra de Bill Gates y Elon Musk: los trabajos sin futuro que ya han sido sustituidos por la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-1441965'>Si tienes DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/eres-digi-movistar-o2-preparate-sufrir-dias-futbol-iptv-laliga-tienen-culpa-1441965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-movistar-o2-digi-futbol-laliga-tebas-iptv-4293904.jpg?tf=1200x' alt='Si tienes DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-rrhh-comparte-truco-chatgpt-encontrar-trabajo-suenos-1442485'>Experta en RRHH comparte el truco de ChatGPT para encontrar el trabajo de tus sueños</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-rrhh-comparte-truco-chatgpt-encontrar-trabajo-suenos-1442485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prompt-chatgpt-encontrar-ofertas-trabajo-4293820.jpg?tf=1200x' alt='Experta en RRHH comparte el truco de ChatGPT para encontrar el trabajo de tus sueños' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-fascinada-planeta-fantasma-ha-aparecido-nada-ni-ciencia-puede-explicar-1442499'>La NASA fascinada con un planeta fantasma que ha aparecido de la nada y que ni la ciencia puede explicar</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-fascinada-planeta-fantasma-ha-aparecido-nada-ni-ciencia-puede-explicar-1442499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wasp-193b-4293845.jpg?tf=1200x' alt='La NASA fascinada con un planeta fantasma que ha aparecido de la nada y que ni la ciencia puede explicar' />
     </a>
 </div>
 
