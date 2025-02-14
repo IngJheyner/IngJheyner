@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mensajes-voz-whatsapp-autodestruyen-1442599'>Cómo enviar mensajes de voz en WhatsApp que se autodestruyen</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mensajes-voz-whatsapp-autodestruyen-1442599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-enviar-mensajes-voz-whatsapp-autodrestuyen-4294018.jpg?tf=1200x' alt='Cómo enviar mensajes de voz en WhatsApp que se autodestruyen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/samsung-galaxy-s25-tiene-problemas-android-auto-pero-hay-truco-arreglarlo-1442610'>El Samsung Galaxy S25 tiene problemas con Android Auto, pero hay un truco para arreglarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/samsung-galaxy-s25-tiene-problemas-android-auto-pero-hay-truco-arreglarlo-1442610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-4260263.jpg?tf=1200x' alt='El Samsung Galaxy S25 tiene problemas con Android Auto, pero hay un truco para arreglarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591'>Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/caja-regalo-temu-4293972.jpg?tf=1200x' alt='Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
     </a>
 </div>
 
