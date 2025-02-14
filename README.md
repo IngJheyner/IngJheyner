@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591'>Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/caja-regalo-temu-4293972.jpg?tf=1200x' alt='Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-1442547'>Mistral es mucho más que un chatbot de IA: es un arma militar de defensa para toda Europa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-1442547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mistral-mucho-chatbot-ia-arma-militar-defensa-toda-europa-4293909.jpg?tf=1200x' alt='Mistral es mucho más que un chatbot de IA: es un arma militar de defensa para toda Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516'>Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-1442516' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-hardware-piden-nvidia-retirada-rtx-50-son-potencialmente-defectuosas-4293877.jpg?tf=1200x' alt='Expertos en hardware piden a Nvidia la retirada de las RTX 50: "Son potencialmente defectuosas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-emoji-libran-hacker-expertos-descubren-caras-sonrientes-secuestrarse-ocultar-datos-1442578'>Ni los emoji se libran de los hacker: expertos descubren que las caras sonrientes pueden secuestrarse para ocultar datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-emoji-libran-hacker-expertos-descubren-caras-sonrientes-secuestrarse-ocultar-datos-1442578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/emojis-hackeados-ciberdelincuente-4293943.jpg?tf=1200x' alt='Ni los emoji se libran de los hacker: expertos descubren que las caras sonrientes pueden secuestrarse para ocultar datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-estafa-guardia-civil-email-062-1439029'>Guardia Civil lanza un contundente aviso a toda España: "Si te llega este correo llama al 062"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/peligro-estafa-guardia-civil-email-062-1439029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-peligro-correo-electronico-4293860.jpg?tf=1200x' alt='Guardia Civil lanza un contundente aviso a toda España: "Si te llega este correo llama al 062"' />
     </a>
 </div>
 
