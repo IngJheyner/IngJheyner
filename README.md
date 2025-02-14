@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-1442148'>Te llaman, te escuchan y la estafa ha comenzado, la nueva técnica que aterroriza a los expertos en seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-1442148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-4293243.jpg?tf=1200x' alt='Te llaman, te escuchan y la estafa ha comenzado, la nueva técnica que aterroriza a los expertos en seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tinder-ruina-personas-caen-como-churros-estafas-romanticas-1442299'>De Tinder a la ruina: ¿por qué las personas caen "como churros" en las estafas románticas?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/tinder-ruina-personas-caen-como-churros-estafas-romanticas-1442299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafas-amorosas-4293527.jpg?tf=1200x' alt='De Tinder a la ruina: ¿por qué las personas caen "como churros" en las estafas románticas?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-honda-nissan-mitsubishi-cancelan-fusion-1442410'>Vuelco al coche eléctrico: Honda, Nissan y Mitsubishi cancelan su fusión</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-honda-nissan-mitsubishi-cancelan-fusion-1442410' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honda-nissan-anuncian-fusion-afrontar-nueva-era-coche-electrico-4276677.jpg?tf=1200x' alt='Vuelco al coche eléctrico: Honda, Nissan y Mitsubishi cancelan su fusión' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/microsoft-descubre-problema-ia-podria-cambiar-como-usamos-1442384'>Microsoft descubre un problema con la IA que podría cambiar cómo la usamos</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/microsoft-descubre-problema-ia-podria-cambiar-como-usamos-1442384' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-microsoft-copilot-4293646.jpg?tf=1200x' alt='Microsoft descubre un problema con la IA que podría cambiar cómo la usamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-reciente-star-wars-hecha-toda-ia-puede-ver-gratis-youtube-1442270'>Es la mejor película reciente de Star Wars: está hecha toda con IA y se puede ver gratis en YouTube</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-pelicula-reciente-star-wars-hecha-toda-ia-puede-ver-gratis-youtube-1442270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mejor-pelicula-reciente-star-wars-hecha-toda-ia-puede-ver-gratis-youtube-4293453.jpg?tf=1200x' alt='Es la mejor película reciente de Star Wars: está hecha toda con IA y se puede ver gratis en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-configuracion-oculta-wifi-iphone-te-deja-vulnerable-hackers-1442390'>Expertos advierten: una configuración oculta del WiFi en iPhone te deja vulnerable a hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-advierten-configuracion-oculta-wifi-iphone-te-deja-vulnerable-hackers-1442390' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wifi-iphone-4293661.jpg?tf=1200x' alt='Expertos advierten: una configuración oculta del WiFi en iPhone te deja vulnerable a hackers' />
     </a>
 </div>
 
