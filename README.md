@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-1442147'>Qué son los roles de grupo de WhatsApp, la nueva función que lo cambiará todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-1442147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/son-roles-grupo-whatsapp-nueva-funcion-cambiara-todo-4293380.jpg?tf=1200x' alt='Qué son los roles de grupo de WhatsApp, la nueva función que lo cambiará todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/waze-anade-nueva-funcionalidad-sera-pesadilla-cualquier-padre-1442289'>Waze añade una nueva funcionalidad que será la pesadilla de cualquier padre</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/waze-anade-nueva-funcionalidad-sera-pesadilla-cualquier-padre-1442289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conductor-enfadado-waze-4293538.jpg?tf=1200x' alt='Waze añade una nueva funcionalidad que será la pesadilla de cualquier padre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/adios-google-chrome-tres-razones-dan-expertos-cambiar-navegador-1442251'>Adiós a Google Chrome: las tres razones que dan los expertos para cambiar de navegador</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/adios-google-chrome-tres-razones-dan-expertos-cambiar-navegador-1442251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-google-chrome-tres-razones-dan-expertos-cambiar-navegador-4293409.jpg?tf=1200x' alt='Adiós a Google Chrome: las tres razones que dan los expertos para cambiar de navegador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/subir-montana-sagrada-tai-china-alquilar-exoesqueleto-ia-1442418'>Ni teleférico ni tranvía: para subir a la montaña sagrada de Tai, en China, puedes alquilar un exoesqueleto con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/subir-montana-sagrada-tai-china-alquilar-exoesqueleto-ia-1442418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-teleferico-ni-tranvia-subir-montana-sagrada-tai-china-puedes-alquilar-exoesqueleto-4293700.jpg?tf=1200x' alt='Ni teleférico ni tranvía: para subir a la montaña sagrada de Tai, en China, puedes alquilar un exoesqueleto con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-1442148'>Te llaman, te escuchan y la estafa ha comenzado, la nueva técnica que aterroriza a los expertos en seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-1442148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/te-llaman-te-escuchan-estafa-ha-comenzado-nueva-tecnica-aterroriza-expertos-seguridad-4293243.jpg?tf=1200x' alt='Te llaman, te escuchan y la estafa ha comenzado, la nueva técnica que aterroriza a los expertos en seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tinder-ruina-personas-caen-como-churros-estafas-romanticas-1442299'>De Tinder a la ruina: ¿por qué las personas caen "como churros" en las estafas románticas?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/tinder-ruina-personas-caen-como-churros-estafas-romanticas-1442299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafas-amorosas-4293527.jpg?tf=1200x' alt='De Tinder a la ruina: ¿por qué las personas caen "como churros" en las estafas románticas?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-honda-nissan-mitsubishi-cancelan-fusion-1442410'>Vuelco al coche eléctrico: Honda, Nissan y Mitsubishi cancelan su fusión</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-honda-nissan-mitsubishi-cancelan-fusion-1442410' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/honda-nissan-anuncian-fusion-afrontar-nueva-era-coche-electrico-4276677.jpg?tf=1200x' alt='Vuelco al coche eléctrico: Honda, Nissan y Mitsubishi cancelan su fusión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/asteroide-2024-yr4-como-seguir-directo-trayectoria-probabilidades-impacto-tierra-1442386'>Asteroide 2024 YR4: cómo seguir en directo su trayectoria y las probabilidades de impacto contra la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/asteroide-2024-yr4-como-seguir-directo-trayectoria-probabilidades-impacto-tierra-1442386' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-2024-yr4-como-seguir-directo-trayectoria-probabilidades-impacto-tierra-4293678.jpg?tf=1200x' alt='Asteroide 2024 YR4: cómo seguir en directo su trayectoria y las probabilidades de impacto contra la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/microsoft-descubre-problema-ia-podria-cambiar-como-usamos-1442384'>Microsoft descubre un problema con la IA que podría cambiar cómo la usamos</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/microsoft-descubre-problema-ia-podria-cambiar-como-usamos-1442384' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-microsoft-copilot-4293646.jpg?tf=1200x' alt='Microsoft descubre un problema con la IA que podría cambiar cómo la usamos' />
     </a>
 </div>
 
