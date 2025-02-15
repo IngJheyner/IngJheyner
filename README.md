@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/fermata-auto-app-me-ha-cambiado-mi-vida-deberia-ser-obligatoria-usas-android-auto-1440912'>Fermata Auto, la app que me ha cambiado mi vida y que debería ser obligatoria si usas Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/fermata-auto-app-me-ha-cambiado-mi-vida-deberia-ser-obligatoria-usas-android-auto-1440912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fermata-auto-app-me-ha-cambiado-mi-vida-deberia-ser-obligatoria-usas-android-auto-4291266.jpg?tf=1200x' alt='Fermata Auto, la app que me ha cambiado mi vida y que debería ser obligatoria si usas Android Auto' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-1442119'>Adiós a CCleaner, este programa gratis de Microsoft deja tu PC con Windows como nuevo sin tener que formatear</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-1442119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-4293199.jpg?tf=1200x' alt='Adiós a CCleaner, este programa gratis de Microsoft deja tu PC con Windows como nuevo sin tener que formatear' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/goonies-2-anunciada-steven-spielberg-chris-columbus-1442628'>Los Goonies 2 anunciada, con Steven Spielberg y Chris Columbus</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/goonies-2-anunciada-steven-spielberg-chris-columbus-1442628' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/goonies-2-anunciada-steven-spielberg-chris-columbus-4294016.jpg?tf=1200x' alt='Los Goonies 2 anunciada, con Steven Spielberg y Chris Columbus' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-imagenes-comprometidas-contacto-whatsapp-1441599'>Cómo ocultar las imágenes comprometidas de un contacto de WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-imagenes-comprometidas-contacto-whatsapp-1441599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-ocultar-imagenes-comprometidas-contacto-whatsapp-4292390.jpg?tf=1200x' alt='Cómo ocultar las imágenes comprometidas de un contacto de WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mensajes-voz-whatsapp-autodestruyen-1442599'>Cómo enviar mensajes de voz en WhatsApp que se autodestruyen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mensajes-voz-whatsapp-autodestruyen-1442599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-enviar-mensajes-voz-whatsapp-autodrestuyen-4294018.jpg?tf=1200x' alt='Cómo enviar mensajes de voz en WhatsApp que se autodestruyen' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/usa-windows-11-pero-bien-1441445'>Usa Windows 11, pero bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/usa-windows-11-pero-bien-1441445' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-pero-bien-4292160.jpg?tf=1200x' alt='Usa Windows 11, pero bien' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/samsung-galaxy-s25-tiene-problemas-android-auto-pero-hay-truco-arreglarlo-1442610'>El Samsung Galaxy S25 tiene problemas con Android Auto, pero hay un truco para arreglarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/samsung-galaxy-s25-tiene-problemas-android-auto-pero-hay-truco-arreglarlo-1442610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-auto-no-funciona-samsung-galaxy-puedes-solucionarlo-4260263.jpg?tf=1200x' alt='El Samsung Galaxy S25 tiene problemas con Android Auto, pero hay un truco para arreglarlo' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-redmi-note-14-pro-5g-1441542'>He probado el Redmi Note 14 Pro 5G y es el modelo que debes comprar esta generación</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-redmi-note-14-pro-5g-1441542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/redmi-note-14-pro-5g-4293086.jpg?tf=1200x' alt='He probado el Redmi Note 14 Pro 5G y es el modelo que debes comprar esta generación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/estafa-realidad-nintendo-switch-2-estaria-vendiendo-mercado-negro-precio-desorbitado-1442609'>¿Estafa o realidad? Nintendo Switch 2 se estaría vendiendo en el mercado negro por un precio desorbitado</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/estafa-realidad-nintendo-switch-2-estaria-vendiendo-mercado-negro-precio-desorbitado-1442609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4287185.jpg?tf=1200x' alt='¿Estafa o realidad? Nintendo Switch 2 se estaría vendiendo en el mercado negro por un precio desorbitado' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/quien-ganaria-combate-aragorn-jaime-lannister-george-r-r-martin-1442634'>Quién ganaría en un combate entre Aragorn y Jaime Lannister: el creador de Juego de Tronos lo tiene claro</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/quien-ganaria-combate-aragorn-jaime-lannister-george-r-r-martin-1442634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/quien-ganaria-combate-aragorn-jaime-lannister-creador-juego-tronos-tiene-claro-4294048.jpg?tf=1200x' alt='Quién ganaría en un combate entre Aragorn y Jaime Lannister: el creador de Juego de Tronos lo tiene claro' />
     </a>
 </div>
 
