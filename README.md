@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-11-pro-vs-windows-11-home-cual-tiene-mejor-rendimiento-1440112'>Windows 11 Pro vs. Windows 11 Home: ¿cuál tiene el mejor rendimiento?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/windows-11-pro-vs-windows-11-home-cual-tiene-mejor-rendimiento-1440112' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-home-vs-pro-4289937.jpg?tf=1200x' alt='Windows 11 Pro vs. Windows 11 Home: ¿cuál tiene el mejor rendimiento?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-elimina-dos-formatos-audio-avanzados-ultima-actualizacion-1442679'>Google TV Streamer elimina dos formatos de audio avanzados en su última actualización</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-elimina-dos-formatos-audio-avanzados-ultima-actualizacion-1442679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-tv-streamer-4294106.jpg?tf=1200x' alt='Google TV Streamer elimina dos formatos de audio avanzados en su última actualización' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114'>He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-4289949.jpg?tf=1200x' alt='He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-estrena-propio-deep-research-desafia-chatgpt-gemini-1442674'>Perplexity estrena su propio Deep Research y desafía a ChatGPT y Gemini</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-estrena-propio-deep-research-desafia-chatgpt-gemini-1442674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/perplexity-estrena-propio-deep-research-4294101.jpg?tf=1200x' alt='Perplexity estrena su propio Deep Research y desafía a ChatGPT y Gemini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-seguras-2025-valoran-privacidad-1441180'>Las distribuciones Linux más seguras de 2025 para los que valoran por encima de todo su privacidad </a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-seguras-2025-valoran-privacidad-1441180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/distribuciones-linux-4291681.jpg?tf=1200x' alt='Las distribuciones Linux más seguras de 2025 para los que valoran por encima de todo su privacidad ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/nuevo-siri-ia-apple-podria-llegar-tarde-previsto-estaria-enfrentando-estos-problemas-1442672'>El nuevo Siri con IA de Apple podría llegar más tarde de lo previsto: se estaría enfrentando a estos problemas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/nuevo-siri-ia-apple-podria-llegar-tarde-previsto-estaria-enfrentando-estos-problemas-1442672' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/siri-apple-4294097.jpg?tf=1200x' alt='El nuevo Siri con IA de Apple podría llegar más tarde de lo previsto: se estaría enfrentando a estos problemas' />
     </a>
 </div>
 
