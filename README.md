@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-descubierto-modo-capa-invisibilidad-whatsapp-vivo-tranquilo-ideal-grupos-1441183'>Desde que he descubierto el modo "capa de invisibilidad" de WhatsApp vivo más tranquilo, es ideal para los grupos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/he-descubierto-modo-capa-invisibilidad-whatsapp-vivo-tranquilo-ideal-grupos-1441183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-capa-invisible-whatsapp-4293567.jpg?tf=1200x' alt='Desde que he descubierto el modo "capa de invisibilidad" de WhatsApp vivo más tranquilo, es ideal para los grupos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apaga-iphone-otros-consejos-nsa-evitar-hackeos-1440943'>Apaga tu iPhone una vez a la semana y otros consejos de la NSA para evitar hackeos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apaga-iphone-otros-consejos-nsa-evitar-hackeos-1440943' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-iphone-4291273.jpg?tf=1200x' alt='Apaga tu iPhone una vez a la semana y otros consejos de la NSA para evitar hackeos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-1442119'>Adiós a CCleaner, este programa gratis de Microsoft deja tu PC con Windows como nuevo sin tener que formatear</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-1442119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-4293199.jpg?tf=1200x' alt='Adiós a CCleaner, este programa gratis de Microsoft deja tu PC con Windows como nuevo sin tener que formatear' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-imagenes-comprometidas-contacto-whatsapp-1441599'>Cómo ocultar las imágenes comprometidas de un contacto de WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-ocultar-imagenes-comprometidas-contacto-whatsapp-1441599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-ocultar-imagenes-comprometidas-contacto-whatsapp-4292390.jpg?tf=1200x' alt='Cómo ocultar las imágenes comprometidas de un contacto de WhatsApp' />
     </a>
 </div>
 
