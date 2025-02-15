@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-ataca-cloudflare-asegura-no-han-realizado-bloqueos-masivos-ni-indiscriminados-lucha-pirateria-1442690'>Javier Tebas ataca a Cloudflare y asegura que no se han realizado “bloqueos masivos ni indiscriminados” en la lucha contra la piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-ataca-cloudflare-asegura-no-han-realizado-bloqueos-masivos-ni-indiscriminados-lucha-pirateria-1442690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='Javier Tebas ataca a Cloudflare y asegura que no se han realizado “bloqueos masivos ni indiscriminados” en la lucha contra la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-windows-11-navegador-posible-1440343'>Cómo usar Windows 11 desde un navegador: ¿es posible?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-windows-11-navegador-posible-1440343' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ejecutar-windows-11-navegadores-4290395.jpg?tf=1200x' alt='Cómo usar Windows 11 desde un navegador: ¿es posible?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-elimina-dos-formatos-audio-avanzados-ultima-actualizacion-1442679'>Google TV Streamer elimina dos formatos de audio avanzados en su última actualización</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-elimina-dos-formatos-audio-avanzados-ultima-actualizacion-1442679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-tv-streamer-4294106.jpg?tf=1200x' alt='Google TV Streamer elimina dos formatos de audio avanzados en su última actualización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114'>He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-4289949.jpg?tf=1200x' alt='He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día' />
     </a>
 </div>
 
