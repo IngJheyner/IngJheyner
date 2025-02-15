@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-play-ahora-te-chiva-app-no-muy-buena-antes-descargues-1442713'>Google Play ahora te "chiva" si una app no es muy buena antes de que la descargues</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-play-ahora-te-chiva-app-no-muy-buena-antes-descargues-1442713' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Google Play ahora te "chiva" si una app no es muy buena antes de que la descargues' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-recall-tendra-filtros-proteger-datos-pero-tendras-activarlos-1442712'>Windows Recall tendrá filtros para proteger tus datos, pero tendrás que activarlos tú</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-recall-tendra-filtros-proteger-datos-pero-tendras-activarlos-1442712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Windows Recall tendrá filtros para proteger tus datos, pero tendrás que activarlos tú' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/rival-espanola-thermomix-rebajas-cuesta-50-euros-menos-ahora-mismo-1442648'>La rival española de Thermomix, de rebajas: cuesta 50 euros menos ahora mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/rival-espanola-thermomix-rebajas-cuesta-50-euros-menos-ahora-mismo-1442648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cecotec-mambo-11090-4294072.jpg?tf=1200x' alt='La rival española de Thermomix, de rebajas: cuesta 50 euros menos ahora mismo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/he-descubierto-modo-rescate-movistar-plus-ya-me-ha-salvado-problema-1440785'>He descubierto el modo rescate de Movistar Plus+ y ya me ha salvado de más de un problema</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/he-descubierto-modo-rescate-movistar-plus-ya-me-ha-salvado-problema-1440785' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ayuda-movistar-plus-4291028.jpg?tf=1200x' alt='He descubierto el modo rescate de Movistar Plus+ y ya me ha salvado de más de un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-ataca-cloudflare-asegura-no-han-realizado-bloqueos-masivos-ni-indiscriminados-lucha-pirateria-1442690'>Javier Tebas ataca a Cloudflare y asegura que no se han realizado “bloqueos masivos ni indiscriminados” en la lucha contra la piratería</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-ataca-cloudflare-asegura-no-han-realizado-bloqueos-masivos-ni-indiscriminados-lucha-pirateria-1442690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/javier-tebas-4265243.jpg?tf=1200x' alt='Javier Tebas ataca a Cloudflare y asegura que no se han realizado “bloqueos masivos ni indiscriminados” en la lucha contra la piratería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-windows-11-navegador-posible-1440343'>Cómo usar Windows 11 desde un navegador: ¿es posible?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-windows-11-navegador-posible-1440343' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ejecutar-windows-11-navegadores-4290395.jpg?tf=1200x' alt='Cómo usar Windows 11 desde un navegador: ¿es posible?' />
     </a>
 </div>
 
