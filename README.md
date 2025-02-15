@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-usar-windows-11-navegador-posible-1440343'>Cómo usar Windows 11 desde un navegador: ¿es posible?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-usar-windows-11-navegador-posible-1440343' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ejecutar-windows-11-navegadores-4290395.jpg?tf=1200x' alt='Cómo usar Windows 11 desde un navegador: ¿es posible?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-pone-freno-estafas-android-16-impedira-caigas-trampas-telefonicas-1442687'>Google pone freno a las estafas: Android 16 impedirá que caigas en trampas telefónicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-pone-freno-estafas-android-16-impedira-caigas-trampas-telefonicas-1442687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-telefonica-android-4294115.jpg?tf=1200x' alt='Google pone freno a las estafas: Android 16 impedirá que caigas en trampas telefónicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-11-pro-vs-windows-11-home-cual-tiene-mejor-rendimiento-1440112'>Windows 11 Pro vs. Windows 11 Home: ¿cuál tiene el mejor rendimiento?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/windows-11-pro-vs-windows-11-home-cual-tiene-mejor-rendimiento-1440112' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-home-vs-pro-4289937.jpg?tf=1200x' alt='Windows 11 Pro vs. Windows 11 Home: ¿cuál tiene el mejor rendimiento?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114'>He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-4289949.jpg?tf=1200x' alt='He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-singularidad-ia-1399601'>Los científicos calculan que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-singularidad-ia-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-humanoide-4294089.jpg?tf=1200x' alt='Los científicos calculan que el ser humano alcanzará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-estrena-propio-deep-research-desafia-chatgpt-gemini-1442674'>Perplexity estrena su propio Deep Research y desafía a ChatGPT y Gemini</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-estrena-propio-deep-research-desafia-chatgpt-gemini-1442674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/perplexity-estrena-propio-deep-research-4294101.jpg?tf=1200x' alt='Perplexity estrena su propio Deep Research y desafía a ChatGPT y Gemini' />
     </a>
 </div>
 
