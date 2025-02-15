@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/goonies-2-anunciada-steven-spielberg-chris-columbus-1442628'>Los Goonies 2 anunciada, con Steven Spielberg y Chris Columbus</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/goonies-2-anunciada-steven-spielberg-chris-columbus-1442628' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/goonies-2-anunciada-steven-spielberg-chris-columbus-4294016.jpg?tf=1200x' alt='Los Goonies 2 anunciada, con Steven Spielberg y Chris Columbus' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mensajes-voz-whatsapp-autodestruyen-1442599'>Cómo enviar mensajes de voz en WhatsApp que se autodestruyen</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mensajes-voz-whatsapp-autodestruyen-1442599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-enviar-mensajes-voz-whatsapp-autodrestuyen-4294018.jpg?tf=1200x' alt='Cómo enviar mensajes de voz en WhatsApp que se autodestruyen' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-podria-sorprender-tamano-filtraciones-1442608'>El primer iPhone plegable podría sorprender con su tamaño, según las filtraciones</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-podria-sorprender-tamano-filtraciones-1442608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-plegable-4294004.jpg?tf=1200x' alt='El primer iPhone plegable podría sorprender con su tamaño, según las filtraciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591'>Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-hacen-saltar-alarmas-email-caja-misteriosa-temu-estafa-1442591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/caja-regalo-temu-4293972.jpg?tf=1200x' alt='Expertos hacen saltar las alarmas con el email de la Caja Misteriosa de Temu: no te ha tocado nada, es una estafa' />
     </a>
 </div>
 
