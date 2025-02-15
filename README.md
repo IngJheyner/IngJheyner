@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114'>He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-1440114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-programado-router-wifi-reinicie-cada-madrugada-ahora-mi-conexion-vuela-durante-dia-4289949.jpg?tf=1200x' alt='He programado el router WiFi para que se reinicie cada madrugada y ahora mi conexión vuela durante el día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-singularidad-ia-1399601'>Los científicos calculan que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-singularidad-ia-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-humanoide-4294089.jpg?tf=1200x' alt='Los científicos calculan que el ser humano alcanzará la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-estrena-propio-deep-research-desafia-chatgpt-gemini-1442674'>Perplexity estrena su propio Deep Research y desafía a ChatGPT y Gemini</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-estrena-propio-deep-research-desafia-chatgpt-gemini-1442674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/perplexity-estrena-propio-deep-research-4294101.jpg?tf=1200x' alt='Perplexity estrena su propio Deep Research y desafía a ChatGPT y Gemini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-seguras-2025-valoran-privacidad-1441180'>Las distribuciones Linux más seguras de 2025 para los que valoran por encima de todo su privacidad </a></h4>
     <a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-seguras-2025-valoran-privacidad-1441180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/distribuciones-linux-4291681.jpg?tf=1200x' alt='Las distribuciones Linux más seguras de 2025 para los que valoran por encima de todo su privacidad ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/nuevo-siri-ia-apple-podria-llegar-tarde-previsto-estaria-enfrentando-estos-problemas-1442672'>El nuevo Siri con IA de Apple podría llegar más tarde de lo previsto: se estaría enfrentando a estos problemas</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/nuevo-siri-ia-apple-podria-llegar-tarde-previsto-estaria-enfrentando-estos-problemas-1442672' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/siri-apple-4294097.jpg?tf=1200x' alt='El nuevo Siri con IA de Apple podría llegar más tarde de lo previsto: se estaría enfrentando a estos problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-estafa-guardia-civil-conexion-movil-dinero-banco-1435955'>Alerta máxima de la Guardia Civil en España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-estafa-guardia-civil-conexion-movil-dinero-banco-1435955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta máxima de la Guardia Civil en España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/experto-cosmos-neil-degrasse-tyson-misteriosa-estructura-cuadrada-marte-1442653'>El mayor experto en el cosmos, Neil deGrasse Tyson, revela qué es la misteriosa estructura cuadrada de Marte</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/experto-cosmos-neil-degrasse-tyson-misteriosa-estructura-cuadrada-marte-1442653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mayor-experto-cosmos-neil-degrasse-tyson-revela-misteriosa-estructura-cuadrada-marte-4294066.jpg?tf=1200x' alt='El mayor experto en el cosmos, Neil deGrasse Tyson, revela qué es la misteriosa estructura cuadrada de Marte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-ensena-como-descubrir-te-han-colocado-rastreador-1441957'>Experta en ciberseguridad enseña cómo descubrir si te han colocado un rastreador</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-ensena-como-descubrir-te-han-colocado-rastreador-1441957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rastreo-dispositivos-hacker-4292895.jpg?tf=1200x' alt='Experta en ciberseguridad enseña cómo descubrir si te han colocado un rastreador' />
     </a>
 </div>
 
