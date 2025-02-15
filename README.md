@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/sistema-alertas-sismicas-android-falla-brasil-google-desactiva-temporalmente-1442714'>El sistema de alertas sísmicas de Android falla en Brasil y Google lo desactiva temporalmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/sistema-alertas-sismicas-android-falla-brasil-google-desactiva-temporalmente-1442714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-transforma-movil-android-sismografo-colaborativo-ya-funciona-grecia-nueva-zelanda-2316415.jpg?tf=1200x' alt='El sistema de alertas sísmicas de Android falla en Brasil y Google lo desactiva temporalmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-play-ahora-te-chiva-app-no-muy-buena-antes-descargues-1442713'>Google Play ahora te "chiva" si una app no es muy buena antes de que la descargues</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-play-ahora-te-chiva-app-no-muy-buena-antes-descargues-1442713' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Google Play ahora te "chiva" si una app no es muy buena antes de que la descargues' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/nuevo-thermomix-tm7-ya-aqui-compacto-silencioso-pantalla-gigante-1442694'>El nuevo Thermomix TM7 ya está aquí: más compacto, más silencioso y con pantalla gigante</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/nuevo-thermomix-tm7-ya-aqui-compacto-silencioso-pantalla-gigante-1442694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thermomix-tm7-4294122.jpg?tf=1200x' alt='El nuevo Thermomix TM7 ya está aquí: más compacto, más silencioso y con pantalla gigante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/he-descubierto-modo-rescate-movistar-plus-ya-me-ha-salvado-problema-1440785'>He descubierto el modo rescate de Movistar Plus+ y ya me ha salvado de más de un problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/he-descubierto-modo-rescate-movistar-plus-ya-me-ha-salvado-problema-1440785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ayuda-movistar-plus-4291028.jpg?tf=1200x' alt='He descubierto el modo rescate de Movistar Plus+ y ya me ha salvado de más de un problema' />
     </a>
 </div>
 
