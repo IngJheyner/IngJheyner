@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-seguras-2025-valoran-privacidad-1441180'>Las distribuciones Linux más seguras de 2025 para los que valoran por encima de todo su privacidad </a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/distribuciones-linux-seguras-2025-valoran-privacidad-1441180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/distribuciones-linux-4291681.jpg?tf=1200x' alt='Las distribuciones Linux más seguras de 2025 para los que valoran por encima de todo su privacidad ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/nuevo-siri-ia-apple-podria-llegar-tarde-previsto-estaria-enfrentando-estos-problemas-1442672'>El nuevo Siri con IA de Apple podría llegar más tarde de lo previsto: se estaría enfrentando a estos problemas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/nuevo-siri-ia-apple-podria-llegar-tarde-previsto-estaria-enfrentando-estos-problemas-1442672' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/siri-apple-4294097.jpg?tf=1200x' alt='El nuevo Siri con IA de Apple podría llegar más tarde de lo previsto: se estaría enfrentando a estos problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-estafa-guardia-civil-conexion-movil-dinero-banco-1435955'>Alerta máxima de la Guardia Civil en España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-maxima-estafa-guardia-civil-conexion-movil-dinero-banco-1435955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/alarma-guardia-civil-4283178.jpg?tf=1200x' alt='Alerta máxima de la Guardia Civil en España: "Pierdes la conexión del móvil y la cuenta del banco se llena de cargos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/experto-cosmos-neil-degrasse-tyson-misteriosa-estructura-cuadrada-marte-1442653'>El mayor experto en el cosmos, Neil deGrasse Tyson, revela qué es la misteriosa estructura cuadrada de Marte</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/experto-cosmos-neil-degrasse-tyson-misteriosa-estructura-cuadrada-marte-1442653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mayor-experto-cosmos-neil-degrasse-tyson-revela-misteriosa-estructura-cuadrada-marte-4294066.jpg?tf=1200x' alt='El mayor experto en el cosmos, Neil deGrasse Tyson, revela qué es la misteriosa estructura cuadrada de Marte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-ensena-como-descubrir-te-han-colocado-rastreador-1441957'>Experta en ciberseguridad enseña cómo descubrir si te han colocado un rastreador</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-ensena-como-descubrir-te-han-colocado-rastreador-1441957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rastreo-dispositivos-hacker-4292895.jpg?tf=1200x' alt='Experta en ciberseguridad enseña cómo descubrir si te han colocado un rastreador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-descubierto-modo-capa-invisibilidad-whatsapp-vivo-tranquilo-ideal-grupos-1441183'>Desde que he descubierto el modo "capa de invisibilidad" de WhatsApp vivo más tranquilo, es ideal para los grupos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/he-descubierto-modo-capa-invisibilidad-whatsapp-vivo-tranquilo-ideal-grupos-1441183' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-capa-invisible-whatsapp-4293567.jpg?tf=1200x' alt='Desde que he descubierto el modo "capa de invisibilidad" de WhatsApp vivo más tranquilo, es ideal para los grupos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apaga-iphone-otros-consejos-nsa-evitar-hackeos-1440943'>Apaga tu iPhone una vez a la semana y otros consejos de la NSA para evitar hackeos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apaga-iphone-otros-consejos-nsa-evitar-hackeos-1440943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-iphone-4291273.jpg?tf=1200x' alt='Apaga tu iPhone una vez a la semana y otros consejos de la NSA para evitar hackeos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ventas-tesla-desploman-europa-ultimo-mes-tambien-espana-1442639'>Las ventas de Tesla se desploman en Europa en el último mes, también en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ventas-tesla-desploman-europa-ultimo-mes-tambien-espana-1442639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ventas-tesla-desploman-europa-ultimo-mes-tambien-espana-4294062.jpg?tf=1200x' alt='Las ventas de Tesla se desploman en Europa en el último mes, también en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/conecto-movil-puerto-usb-mi-televisor-todos-dias-casi-nadie-intuye-motivo-1441547'>Conecto el móvil al puerto USB de mi televisor todos los días y casi nadie intuye el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/conecto-movil-puerto-usb-mi-televisor-todos-dias-casi-nadie-intuye-motivo-1441547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conecto-movil-puerto-usb-mi-televisor-todos-dias-casi-nadie-intuye-motivo-4292359.jpg?tf=1200x' alt='Conecto el móvil al puerto USB de mi televisor todos los días y casi nadie intuye el motivo' />
     </a>
 </div>
 
