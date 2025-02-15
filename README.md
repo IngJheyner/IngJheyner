@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-ensena-como-descubrir-te-han-colocado-rastreador-1441957'>Experta en ciberseguridad enseña cómo descubrir si te han colocado un rastreador</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-ensena-como-descubrir-te-han-colocado-rastreador-1441957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rastreo-dispositivos-hacker-4292895.jpg?tf=1200x' alt='Experta en ciberseguridad enseña cómo descubrir si te han colocado un rastreador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-descubierto-modo-capa-invisibilidad-whatsapp-vivo-tranquilo-ideal-grupos-1441183'>Desde que he descubierto el modo "capa de invisibilidad" de WhatsApp vivo más tranquilo, es ideal para los grupos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/he-descubierto-modo-capa-invisibilidad-whatsapp-vivo-tranquilo-ideal-grupos-1441183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/modo-capa-invisible-whatsapp-4293567.jpg?tf=1200x' alt='Desde que he descubierto el modo "capa de invisibilidad" de WhatsApp vivo más tranquilo, es ideal para los grupos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/conecto-movil-puerto-usb-mi-televisor-todos-dias-casi-nadie-intuye-motivo-1441547'>Conecto el móvil al puerto USB de mi televisor todos los días y casi nadie intuye el motivo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/conecto-movil-puerto-usb-mi-televisor-todos-dias-casi-nadie-intuye-motivo-1441547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conecto-movil-puerto-usb-mi-televisor-todos-dias-casi-nadie-intuye-motivo-4292359.jpg?tf=1200x' alt='Conecto el móvil al puerto USB de mi televisor todos los días y casi nadie intuye el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-1442119'>Adiós a CCleaner, este programa gratis de Microsoft deja tu PC con Windows como nuevo sin tener que formatear</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-1442119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-ccleaner-programa-gratis-microsoft-deja-pc-windows-como-nuevo-tener-formatear-4293199.jpg?tf=1200x' alt='Adiós a CCleaner, este programa gratis de Microsoft deja tu PC con Windows como nuevo sin tener que formatear' />
     </a>
 </div>
 
