@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/fermata-auto-app-me-ha-cambiado-mi-vida-deberia-ser-obligatoria-usas-android-auto-1440912'>Fermata Auto, la app que me ha cambiado mi vida y que debería ser obligatoria si usas Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/fermata-auto-app-me-ha-cambiado-mi-vida-deberia-ser-obligatoria-usas-android-auto-1440912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fermata-auto-app-me-ha-cambiado-mi-vida-deberia-ser-obligatoria-usas-android-auto-4291266.jpg?tf=1200x' alt='Fermata Auto, la app que me ha cambiado mi vida y que debería ser obligatoria si usas Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/goonies-2-anunciada-steven-spielberg-chris-columbus-1442628'>Los Goonies 2 anunciada, con Steven Spielberg y Chris Columbus</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/goonies-2-anunciada-steven-spielberg-chris-columbus-1442628' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/goonies-2-anunciada-steven-spielberg-chris-columbus-4294016.jpg?tf=1200x' alt='Los Goonies 2 anunciada, con Steven Spielberg y Chris Columbus' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/estafa-realidad-nintendo-switch-2-estaria-vendiendo-mercado-negro-precio-desorbitado-1442609'>¿Estafa o realidad? Nintendo Switch 2 se estaría vendiendo en el mercado negro por un precio desorbitado</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/estafa-realidad-nintendo-switch-2-estaria-vendiendo-mercado-negro-precio-desorbitado-1442609' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/nintendo-switch-2-precio-4287185.jpg?tf=1200x' alt='¿Estafa o realidad? Nintendo Switch 2 se estaría vendiendo en el mercado negro por un precio desorbitado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-podria-sorprender-tamano-filtraciones-1442608'>El primer iPhone plegable podría sorprender con su tamaño, según las filtraciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-podria-sorprender-tamano-filtraciones-1442608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-plegable-4294004.jpg?tf=1200x' alt='El primer iPhone plegable podría sorprender con su tamaño, según las filtraciones' />
     </a>
 </div>
 
