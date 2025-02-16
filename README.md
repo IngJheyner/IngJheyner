@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-1441353'>La película de Movistar Plus+ que fue tachada de copia de Matrix y ahora es de culto</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-1441353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-4292026.jpg?tf=1200x' alt='La película de Movistar Plus+ que fue tachada de copia de Matrix y ahora es de culto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-powerpoint-futuro-presentaciones-gamma-ai-1440391'>Adiós a PowerPoint, el futuro de las presentaciones es Gamma AI</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-powerpoint-futuro-presentaciones-gamma-ai-1440391' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-powerpoint-futuro-presentaciones-gamma-ai-4290417.jpg?tf=1200x' alt='Adiós a PowerPoint, el futuro de las presentaciones es Gamma AI' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-multas-dgt-funcionan-nuevos-radares-remolque-no-escapa-ni-1442768'>Giro de 180 grados a las multas de la DGT, así funcionan los nuevos radares remolque: "No se escapa ni uno"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-multas-dgt-funcionan-nuevos-radares-remolque-no-escapa-ni-1442768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/radar-carretera-4294241.jpg?tf=1200x' alt='Giro de 180 grados a las multas de la DGT, así funcionan los nuevos radares remolque: "No se escapa ni uno"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118'>10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-4289959.jpg?tf=1200x' alt='10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar' />
     </a>
 </div>
 
