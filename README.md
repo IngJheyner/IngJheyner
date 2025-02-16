@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/app-gratis-convierte-movil-android-iphone-ios-18-1440806'>Esta app gratis convierte tu móvil Android en un iPhone con iOS 18 en unos segundos y sin tocar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/app-gratis-convierte-movil-android-iphone-ios-18-1440806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-18-smartphone-android-4291033.jpg?tf=1200x' alt='Esta app gratis convierte tu móvil Android en un iPhone con iOS 18 en unos segundos y sin tocar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-calculadora-oculta-whatsapp-todo-1441596'>Cómo acceder a la calculadora oculta de WhatsApp y todo lo que puedes hacer con ella</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-calculadora-oculta-whatsapp-todo-1441596' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/calculadora-whatsapp-4292383.jpg?tf=1200x' alt='Cómo acceder a la calculadora oculta de WhatsApp y todo lo que puedes hacer con ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ofrece-unas-ventajas-unicas-1442724'>Diseñan un revolucionario barco con el morro de avión, que ofrece unas ventajas únicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ofrece-unas-ventajas-unicas-1442724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/disenan-revolucionario-barco-morro-avion-obtiene-unas-ventajas-unicas-4294196.jpg?tf=1200x' alt='Diseñan un revolucionario barco con el morro de avión, que ofrece unas ventajas únicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-1442088'>He creado mi propio "modo monje conectado" en Windows: estoy más concentrado y no me pierdo nada</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-1442088' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-4293192.jpg?tf=1200x' alt='He creado mi propio "modo monje conectado" en Windows: estoy más concentrado y no me pierdo nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-1441594'>Cómo saber cuánta radiación emite tu móvil y si es peligroso para tu salud</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-1441594' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-4292384.jpg?tf=1200x' alt='Cómo saber cuánta radiación emite tu móvil y si es peligroso para tu salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dlss-como-tecnologia-ia-nvidia-lleva-calidad-videojuegos-otro-nivel-1437095'>¿Qué es DLSS y cómo esta tecnología con IA de Nvidia lleva la calidad de los videojuegos a otro nivel?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dlss-como-tecnologia-ia-nvidia-lleva-calidad-videojuegos-otro-nivel-1437095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gpu-nvidia-4283874.jpg?tf=1200x' alt='¿Qué es DLSS y cómo esta tecnología con IA de Nvidia lleva la calidad de los videojuegos a otro nivel?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acabara-ia-humanidad-escenarios-podrian-ocurrir-inteligencia-artificial-descontrola-1440481'>¿Acabará la IA con la humanidad? Escenarios que podrían ocurrir si la inteligencia artificial se descontrola</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acabara-ia-humanidad-escenarios-podrian-ocurrir-inteligencia-artificial-descontrola-1440481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/riesgos-inteligencia-artificial-fin-humanidad-4290612.jpg?tf=1200x' alt='¿Acabará la IA con la humanidad? Escenarios que podrían ocurrir si la inteligencia artificial se descontrola' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/muchos-espanoles-cometen-error-eso-tienen-cambiar-movil-cada-dos-anos-1442417'>Muchos españoles cometen este error: "Por eso tienen que cambiar de móvil cada dos años"</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/muchos-espanoles-cometen-error-eso-tienen-cambiar-movil-cada-dos-anos-1442417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/muchos-espanoles-cometen-error-eso-tienen-cambiar-movil-cada-dos-anos-4293705.jpg?tf=1200x' alt='Muchos españoles cometen este error: "Por eso tienen que cambiar de móvil cada dos años"' />
     </a>
 </div>
 
