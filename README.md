@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-powerpoint-futuro-presentaciones-gamma-ai-1440391'>Adiós a PowerPoint, el futuro de las presentaciones es Gamma AI</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-powerpoint-futuro-presentaciones-gamma-ai-1440391' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-powerpoint-futuro-presentaciones-gamma-ai-4290417.jpg?tf=1200x' alt='Adiós a PowerPoint, el futuro de las presentaciones es Gamma AI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/navegador-edge-tiene-juego-oculto-microsoft-acaba-mejorarlo-puedes-jugarlo-1442770'>El navegador Edge tiene un juego oculto: Microsoft acaba de mejorarlo y así puedes jugarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/navegador-edge-tiene-juego-oculto-microsoft-acaba-mejorarlo-puedes-jugarlo-1442770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/edge-surf-4294246.jpg?tf=1200x' alt='El navegador Edge tiene un juego oculto: Microsoft acaba de mejorarlo y así puedes jugarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019'>Cómo compartir archivos entre Linux y Windows y no morir en el intento</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pasar-archivos-windows-linux-4289876.jpg?tf=1200x' alt='Cómo compartir archivos entre Linux y Windows y no morir en el intento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118'>10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar</a></h4>
     <a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-4289959.jpg?tf=1200x' alt='10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-duda-profesion-nunca-tendras-miedo-quedarte-trabajo-culpa-ia-1442760'>Bill Gates no duda: la profesión con la que nunca tendrás miedo de quedarte sin trabajo por culpa de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-duda-profesion-nunca-tendras-miedo-quedarte-trabajo-culpa-ia-1442760' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4283174.jpg?tf=1200x' alt='Bill Gates no duda: la profesión con la que nunca tendrás miedo de quedarte sin trabajo por culpa de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-google-prepara-terreno-youtube-juegos-1442759'>Android Auto 13.8 ya disponible: Google prepara el terreno para YouTube, juegos y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-google-prepara-terreno-youtube-juegos-1442759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-138-4294233.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible: Google prepara el terreno para YouTube, juegos y más' />
     </a>
 </div>
 
