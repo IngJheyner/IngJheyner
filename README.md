@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118'>10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-4289959.jpg?tf=1200x' alt='10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-duda-profesion-nunca-tendras-miedo-quedarte-trabajo-culpa-ia-1442760'>Bill Gates no duda: la profesión con la que nunca tendrás miedo de quedarte sin trabajo por culpa de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-duda-profesion-nunca-tendras-miedo-quedarte-trabajo-culpa-ia-1442760' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-4283174.jpg?tf=1200x' alt='Bill Gates no duda: la profesión con la que nunca tendrás miedo de quedarte sin trabajo por culpa de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-google-prepara-terreno-youtube-juegos-1442759'>Android Auto 13.8 ya disponible: Google prepara el terreno para YouTube, juegos y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-google-prepara-terreno-youtube-juegos-1442759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-138-4294233.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible: Google prepara el terreno para YouTube, juegos y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-1440944'>Memoria del móvil llena, no hace falta que borres: este truco libera un montón de espacio sin renunciar a nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-1440944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-4291283.jpg?tf=1200x' alt='Memoria del móvil llena, no hace falta que borres: este truco libera un montón de espacio sin renunciar a nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-vuelve-social-microsoft-patenta-chat-grupal-inteligencia-artificial-1442748'>Copilot se vuelve social: Microsoft patenta un chat grupal con inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-vuelve-social-microsoft-patenta-chat-grupal-inteligencia-artificial-1442748' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copilot-ia-4294207.jpg?tf=1200x' alt='Copilot se vuelve social: Microsoft patenta un chat grupal con inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cliente-digi-movistar-o2-problemas-dias-futbol-iptv-laliga-1441965'>Si tienes DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cliente-digi-movistar-o2-problemas-dias-futbol-iptv-laliga-1441965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-movistar-o2-digi-futbol-laliga-tebas-iptv-4293904.jpg?tf=1200x' alt='Si tienes DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-1441125'>¿Cambias tus contraseñas cada poco tiempo? Probablemente estés perdiendo el tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-1441125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-4291644.jpg?tf=1200x' alt='¿Cambias tus contraseñas cada poco tiempo? Probablemente estés perdiendo el tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-1441106'>¿Google Maps o Waze? Yo utilizo las dos a la vez y estoy encantado, tengo lo mejor de cada una</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-1441106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-4291545.jpg?tf=1200x' alt='¿Google Maps o Waze? Yo utilizo las dos a la vez y estoy encantado, tengo lo mejor de cada una' />
     </a>
 </div>
 
