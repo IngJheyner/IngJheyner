@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019'>Cómo compartir archivos entre Linux y Windows y no morir en el intento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pasar-archivos-windows-linux-4289876.jpg?tf=1200x' alt='Cómo compartir archivos entre Linux y Windows y no morir en el intento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-multas-dgt-funcionan-nuevos-radares-remolque-no-escapa-ni-1442768'>Giro de 180 grados a las multas de la DGT, así funcionan los nuevos radares remolque: "No se escapa ni uno"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-multas-dgt-funcionan-nuevos-radares-remolque-no-escapa-ni-1442768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/radar-carretera-4294241.jpg?tf=1200x' alt='Giro de 180 grados a las multas de la DGT, así funcionan los nuevos radares remolque: "No se escapa ni uno"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118'>10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar</a></h4>
     <a href='https://computerhoy.20minutos.es/google/funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-1440118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-funciones-google-chrome-todo-mundo-ignora-deberias-utilizar-4289959.jpg?tf=1200x' alt='10 funciones de Google Chrome que todo el mundo ignora y que deberías utilizar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-google-prepara-terreno-youtube-juegos-1442759'>Android Auto 13.8 ya disponible: Google prepara el terreno para YouTube, juegos y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-google-prepara-terreno-youtube-juegos-1442759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-138-4294233.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible: Google prepara el terreno para YouTube, juegos y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-1440944'>Memoria del móvil llena, no hace falta que borres: este truco libera un montón de espacio sin renunciar a nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-1440944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-4291283.jpg?tf=1200x' alt='Memoria del móvil llena, no hace falta que borres: este truco libera un montón de espacio sin renunciar a nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-vuelve-social-microsoft-patenta-chat-grupal-inteligencia-artificial-1442748'>Copilot se vuelve social: Microsoft patenta un chat grupal con inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-vuelve-social-microsoft-patenta-chat-grupal-inteligencia-artificial-1442748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copilot-ia-4294207.jpg?tf=1200x' alt='Copilot se vuelve social: Microsoft patenta un chat grupal con inteligencia artificial' />
     </a>
 </div>
 
