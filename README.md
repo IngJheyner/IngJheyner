@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-1440944'>Memoria del móvil llena, no hace falta que borres: este truco libera un montón de espacio sin renunciar a nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-1440944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-movil-llena-no-hace-falta-borres-truco-libera-monton-espacio-renunciar-nada-4291283.jpg?tf=1200x' alt='Memoria del móvil llena, no hace falta que borres: este truco libera un montón de espacio sin renunciar a nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-vuelve-social-microsoft-patenta-chat-grupal-inteligencia-artificial-1442748'>Copilot se vuelve social: Microsoft patenta un chat grupal con inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-vuelve-social-microsoft-patenta-chat-grupal-inteligencia-artificial-1442748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copilot-ia-4294207.jpg?tf=1200x' alt='Copilot se vuelve social: Microsoft patenta un chat grupal con inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cliente-digi-movistar-o2-problemas-dias-futbol-iptv-laliga-1441965'>Si tienes DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cliente-digi-movistar-o2-problemas-dias-futbol-iptv-laliga-1441965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fallos-movistar-o2-digi-futbol-laliga-tebas-iptv-4293904.jpg?tf=1200x' alt='Si tienes DIGI, Movistar y O2, prepárate para sufrir los días de fútbol: las IPTV y LaLiga tienen la culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-1441125'>¿Cambias tus contraseñas cada poco tiempo? Probablemente estés perdiendo el tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-1441125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-4291644.jpg?tf=1200x' alt='¿Cambias tus contraseñas cada poco tiempo? Probablemente estés perdiendo el tiempo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-1441106'>¿Google Maps o Waze? Yo utilizo las dos a la vez y estoy encantado, tengo lo mejor de cada una</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-1441106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-4291545.jpg?tf=1200x' alt='¿Google Maps o Waze? Yo utilizo las dos a la vez y estoy encantado, tengo lo mejor de cada una' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/app-gratis-convierte-movil-android-iphone-ios-18-1440806'>Esta app gratis convierte tu móvil Android en un iPhone con iOS 18 en unos segundos y sin tocar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/app-gratis-convierte-movil-android-iphone-ios-18-1440806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-18-smartphone-android-4291033.jpg?tf=1200x' alt='Esta app gratis convierte tu móvil Android en un iPhone con iOS 18 en unos segundos y sin tocar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-calculadora-oculta-whatsapp-todo-1441596'>Cómo acceder a la calculadora oculta de WhatsApp y todo lo que puedes hacer con ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-calculadora-oculta-whatsapp-todo-1441596' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/calculadora-whatsapp-4292383.jpg?tf=1200x' alt='Cómo acceder a la calculadora oculta de WhatsApp y todo lo que puedes hacer con ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ofrece-unas-ventajas-unicas-1442724'>Diseñan un revolucionario barco con el morro de avión, que ofrece unas ventajas únicas</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ofrece-unas-ventajas-unicas-1442724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/disenan-revolucionario-barco-morro-avion-obtiene-unas-ventajas-unicas-4294196.jpg?tf=1200x' alt='Diseñan un revolucionario barco con el morro de avión, que ofrece unas ventajas únicas' />
     </a>
 </div>
 
