@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-1442088'>He creado mi propio "modo monje conectado" en Windows: estoy más concentrado y no me pierdo nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-1442088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-4293192.jpg?tf=1200x' alt='He creado mi propio "modo monje conectado" en Windows: estoy más concentrado y no me pierdo nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-1441594'>Cómo saber cuánta radiación emite tu móvil y si es peligroso para tu salud</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-1441594' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-4292384.jpg?tf=1200x' alt='Cómo saber cuánta radiación emite tu móvil y si es peligroso para tu salud' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dlss-como-tecnologia-ia-nvidia-lleva-calidad-videojuegos-otro-nivel-1437095'>¿Qué es DLSS y cómo esta tecnología con IA de Nvidia lleva la calidad de los videojuegos a otro nivel?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dlss-como-tecnologia-ia-nvidia-lleva-calidad-videojuegos-otro-nivel-1437095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/gpu-nvidia-4283874.jpg?tf=1200x' alt='¿Qué es DLSS y cómo esta tecnología con IA de Nvidia lleva la calidad de los videojuegos a otro nivel?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acabara-ia-humanidad-escenarios-podrian-ocurrir-inteligencia-artificial-descontrola-1440481'>¿Acabará la IA con la humanidad? Escenarios que podrían ocurrir si la inteligencia artificial se descontrola</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acabara-ia-humanidad-escenarios-podrian-ocurrir-inteligencia-artificial-descontrola-1440481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/riesgos-inteligencia-artificial-fin-humanidad-4290612.jpg?tf=1200x' alt='¿Acabará la IA con la humanidad? Escenarios que podrían ocurrir si la inteligencia artificial se descontrola' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/muchos-espanoles-cometen-error-eso-tienen-cambiar-movil-cada-dos-anos-1442417'>Muchos españoles cometen este error: "Por eso tienen que cambiar de móvil cada dos años"</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/muchos-espanoles-cometen-error-eso-tienen-cambiar-movil-cada-dos-anos-1442417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/muchos-espanoles-cometen-error-eso-tienen-cambiar-movil-cada-dos-anos-4293705.jpg?tf=1200x' alt='Muchos españoles cometen este error: "Por eso tienen que cambiar de móvil cada dos años"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-uses-copilot-prueban-ejecute-automaticamente-iniciar-windows-11-1442716'>Microsoft quiere que uses Copilot sí o sí: prueban a que se ejecute automáticamente al iniciar Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-quiere-uses-copilot-prueban-ejecute-automaticamente-iniciar-windows-11-1442716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/inteligencia-artificial-llega-windows-ya-puedes-probar-copiloto-windows-11-3071192.jpg?tf=1200x' alt='Microsoft quiere que uses Copilot sí o sí: prueban a que se ejecute automáticamente al iniciar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/sistema-alertas-sismicas-android-falla-brasil-google-desactiva-temporalmente-1442714'>El sistema de alertas sísmicas de Android falla en Brasil y Google lo desactiva temporalmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/sistema-alertas-sismicas-android-falla-brasil-google-desactiva-temporalmente-1442714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/04/google-transforma-movil-android-sismografo-colaborativo-ya-funciona-grecia-nueva-zelanda-2316415.jpg?tf=1200x' alt='El sistema de alertas sísmicas de Android falla en Brasil y Google lo desactiva temporalmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-play-ahora-te-chiva-app-no-muy-buena-antes-descargues-1442713'>Google Play ahora te "chiva" si una app no es muy buena antes de que la descargues</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-play-ahora-te-chiva-app-no-muy-buena-antes-descargues-1442713' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Google Play ahora te "chiva" si una app no es muy buena antes de que la descargues' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-recall-tendra-filtros-proteger-datos-pero-tendras-activarlos-1442712'>Windows Recall tendrá filtros para proteger tus datos, pero tendrás que activarlos tú</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-recall-tendra-filtros-proteger-datos-pero-tendras-activarlos-1442712' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/windows-recall-como-funciona-deberias-desactivarlo-3487679.jpg?tf=1200x' alt='Windows Recall tendrá filtros para proteger tus datos, pero tendrás que activarlos tú' />
     </a>
 </div>
 
