@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-1441125'>¿Cambias tus contraseñas cada poco tiempo? Probablemente estés perdiendo el tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-1441125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambias-contrasenas-cada-poco-tiempo-probablemente-estes-perdiendo-tiempo-4291644.jpg?tf=1200x' alt='¿Cambias tus contraseñas cada poco tiempo? Probablemente estés perdiendo el tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-1441106'>¿Google Maps o Waze? Yo utilizo las dos a la vez y estoy encantado, tengo lo mejor de cada una</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-1441106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-waze-yo-utilizo-dos-vez-estoy-encantado-tengo-mejor-cada-4291545.jpg?tf=1200x' alt='¿Google Maps o Waze? Yo utilizo las dos a la vez y estoy encantado, tengo lo mejor de cada una' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/app-gratis-convierte-movil-android-iphone-ios-18-1440806'>Esta app gratis convierte tu móvil Android en un iPhone con iOS 18 en unos segundos y sin tocar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/android/app-gratis-convierte-movil-android-iphone-ios-18-1440806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-18-smartphone-android-4291033.jpg?tf=1200x' alt='Esta app gratis convierte tu móvil Android en un iPhone con iOS 18 en unos segundos y sin tocar nada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ofrece-unas-ventajas-unicas-1442724'>Diseñan un revolucionario barco con el morro de avión, que ofrece unas ventajas únicas</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ofrece-unas-ventajas-unicas-1442724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/disenan-revolucionario-barco-morro-avion-obtiene-unas-ventajas-unicas-4294196.jpg?tf=1200x' alt='Diseñan un revolucionario barco con el morro de avión, que ofrece unas ventajas únicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-1442088'>He creado mi propio "modo monje conectado" en Windows: estoy más concentrado y no me pierdo nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-1442088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-creado-mi-propio-modo-monje-conectado-windows-estoy-concentrado-no-me-pierdo-nada-4293192.jpg?tf=1200x' alt='He creado mi propio "modo monje conectado" en Windows: estoy más concentrado y no me pierdo nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-1441594'>Cómo saber cuánta radiación emite tu móvil y si es peligroso para tu salud</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-1441594' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-cuanta-radiacion-emite-movil-peligroso-salud-4292384.jpg?tf=1200x' alt='Cómo saber cuánta radiación emite tu móvil y si es peligroso para tu salud' />
     </a>
 </div>
 
