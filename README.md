@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-amazon-van-eliminar-funciones-utiles-partir-26-febrero-1442783'>Los lectores Kindle de Amazon van a eliminar una de sus funciones más útiles a partir del 26 de febrero</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-amazon-van-eliminar-funciones-utiles-partir-26-febrero-1442783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257630.jpg?tf=1200x' alt='Los lectores Kindle de Amazon van a eliminar una de sus funciones más útiles a partir del 26 de febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-1441353'>La película de Movistar Plus+ que fue tachada de copia de Matrix y ahora es de culto</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-1441353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-4292026.jpg?tf=1200x' alt='La película de Movistar Plus+ que fue tachada de copia de Matrix y ahora es de culto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019'>Cómo compartir archivos entre Linux y Windows y no morir en el intento</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pasar-archivos-windows-linux-4289876.jpg?tf=1200x' alt='Cómo compartir archivos entre Linux y Windows y no morir en el intento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-multas-dgt-funcionan-nuevos-radares-remolque-no-escapa-ni-1442768'>Giro de 180 grados a las multas de la DGT, así funcionan los nuevos radares remolque: "No se escapa ni uno"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-multas-dgt-funcionan-nuevos-radares-remolque-no-escapa-ni-1442768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/radar-carretera-4294241.jpg?tf=1200x' alt='Giro de 180 grados a las multas de la DGT, así funcionan los nuevos radares remolque: "No se escapa ni uno"' />
     </a>
 </div>
 
