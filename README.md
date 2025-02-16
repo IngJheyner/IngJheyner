@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/broadcom-tsmc-quieren-trocear-intel-1442792'>Ni Qualcomm ni Microsoft: Broadcom y TSMC quieren trocear Intel</a></h4>
+    <a href='https://computerhoy.20minutos.es/broadcom-tsmc-quieren-trocear-intel-1442792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-qualcomm-ni-microsoft-broadcom-tsmc-quieren-trocear-intel-4294333.jpg?tf=1200x' alt='Ni Qualcomm ni Microsoft: Broadcom y TSMC quieren trocear Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-modo-adulto-generar-contenido-erotico-gore-1442790'>Cambio radical en ChatGPT: estrena un Modo Adulto para generar contenido erótico y gore</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-modo-adulto-generar-contenido-erotico-gore-1442790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-chatgpt-estrena-modo-adulto-generar-contenido-erotico-gore-4294329.jpg?tf=1200x' alt='Cambio radical en ChatGPT: estrena un Modo Adulto para generar contenido erótico y gore' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-1441353'>La película de Movistar Plus+ que fue tachada de copia de Matrix y ahora es de culto</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-1441353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-movistar-plus-fue-tachada-copia-matrix-ahora-culto-4292026.jpg?tf=1200x' alt='La película de Movistar Plus+ que fue tachada de copia de Matrix y ahora es de culto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-powerpoint-futuro-presentaciones-gamma-ai-1440391'>Adiós a PowerPoint, el futuro de las presentaciones es Gamma AI</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-powerpoint-futuro-presentaciones-gamma-ai-1440391' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-powerpoint-futuro-presentaciones-gamma-ai-4290417.jpg?tf=1200x' alt='Adiós a PowerPoint, el futuro de las presentaciones es Gamma AI' />
     </a>
 </div>
 
