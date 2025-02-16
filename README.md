@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/experto-google-maps-extension-chrome-golfo-america-golfo-mexico-1442786'>Experto en Google Maps crea una extensión de Chrome para que el Golfo de América vuelva a ser el Golfo de México</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/experto-google-maps-extension-chrome-golfo-america-golfo-mexico-1442786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-google-maps-crear-extension-golfo-america-vuelva-ser-golfo-mexico-4294309.jpg?tf=1200x' alt='Experto en Google Maps crea una extensión de Chrome para que el Golfo de América vuelva a ser el Golfo de México' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-amazon-van-eliminar-funciones-utiles-partir-26-febrero-1442783'>Los lectores Kindle de Amazon van a eliminar una de sus funciones más útiles a partir del 26 de febrero</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-amazon-van-eliminar-funciones-utiles-partir-26-febrero-1442783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257630.jpg?tf=1200x' alt='Los lectores Kindle de Amazon van a eliminar una de sus funciones más útiles a partir del 26 de febrero' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/navegador-edge-tiene-juego-oculto-microsoft-acaba-mejorarlo-puedes-jugarlo-1442770'>El navegador Edge tiene un juego oculto: Microsoft acaba de mejorarlo y así puedes jugarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/navegador-edge-tiene-juego-oculto-microsoft-acaba-mejorarlo-puedes-jugarlo-1442770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/edge-surf-4294246.jpg?tf=1200x' alt='El navegador Edge tiene un juego oculto: Microsoft acaba de mejorarlo y así puedes jugarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019'>Cómo compartir archivos entre Linux y Windows y no morir en el intento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-compartir-archivos-linux-windows-no-morir-intento-1440019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pasar-archivos-windows-linux-4289876.jpg?tf=1200x' alt='Cómo compartir archivos entre Linux y Windows y no morir en el intento' />
     </a>
 </div>
 
