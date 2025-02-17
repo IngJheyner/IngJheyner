@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-estara-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877'>Cuando estará disponible Grok 3, la "IA más inteligente de la Tierra" según Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuando-estara-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Cuando estará disponible Grok 3, la "IA más inteligente de la Tierra" según Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-explorador-archivos-ultima-actualizacion-pero-existe-solucion-1442897'>Windows 11 rompe el explorador de archivos con la última actualización, pero existe solución</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-explorador-archivos-ultima-actualizacion-pero-existe-solucion-1442897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuario-enfadado-windows-11-4279393.jpg?tf=1200x' alt='Windows 11 rompe el explorador de archivos con la última actualización, pero existe solución' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862'>DeepSeek y el papel de China: ¿Cómo una IA gratuita se convierte en una máquina de ingresos?</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862'>DeepSeek y el papel de China: ¿cómo una IA gratuita se convierte en una máquina de ingresos?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek y el papel de China: ¿Cómo una IA gratuita se convierte en una máquina de ingresos?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek y el papel de China: ¿cómo una IA gratuita se convierte en una máquina de ingresos?' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854'>Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mazazo-laliga-iptv-4294426.jpg?tf=1200x' alt='Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-teoria-anillo-einstein-1442062'>La NASA confirma un descubrimiento que Albert Einstein ya adelantó hace 110 años </a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-teoria-anillo-einstein-1442062' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA confirma un descubrimiento que Albert Einstein ya adelantó hace 110 años ' />
     </a>
 </div>
 
