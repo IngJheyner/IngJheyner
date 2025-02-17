@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878'>Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-sigue-enfadando-clientes-no-ha-solucionado-problemas-molestos-4294440.jpg?tf=1200x' alt='Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-1442933'>DIGI, Movistar y O2 en apuros: ¿podrías pedir que te devuelvan parte de tu factura por los cortes de conexión por el bloqueo a las IPTV?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-1442933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-4294530.jpg?tf=1200x' alt='DIGI, Movistar y O2 en apuros: ¿podrías pedir que te devuelvan parte de tu factura por los cortes de conexión por el bloqueo a las IPTV?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-o2-clientes-digi-perjudicados-lucha-iptv-pirateria-1442887'>Ni Movistar ni O2, los clientes de DIGI los más perjudicados por la lucha contra las IPTV y la piratería </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-o2-clientes-digi-perjudicados-lucha-iptv-pirateria-1442887' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-iptv-4294495.jpg?tf=1200x' alt='Ni Movistar ni O2, los clientes de DIGI los más perjudicados por la lucha contra las IPTV y la piratería ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-gratis-todos-clientes-mejor-canal-toda-programacion-1442915'>Movistar Plus+ regala gratis para todos sus clientes el mejor canal de toda su programación</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-gratis-todos-clientes-mejor-canal-toda-programacion-1442915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canal-oscars-movistar-plus-4294509.jpg?tf=1200x' alt='Movistar Plus+ regala gratis para todos sus clientes el mejor canal de toda su programación' />
     </a>
 </div>
 
