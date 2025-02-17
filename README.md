@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957'>Google realiza la mayor purga contra la piratería y las IPTV de su historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-realiza-mayor-purga-pirateria-iptv-historia-4294557.jpg?tf=1200x' alt='Google realiza la mayor purga contra la piratería y las IPTV de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-app-navegacion-alcanza-precision-casi-absoluta-1442988'>Ni Waze ni Google Maps, esta app de navegación alcanza la precisión (casi) absoluta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-app-navegacion-alcanza-precision-casi-absoluta-1442988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alternativa-waze-google-maps-4294616.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta app de navegación alcanza la precisión (casi) absoluta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-maps-pensando-google-fusionar-dos-aplicaciones-navegacion-1442944'>Waze Maps: ¿está pensando Google fusionar sus dos aplicaciones de navegación?</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-maps-pensando-google-fusionar-dos-aplicaciones-navegacion-1442944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fusion-logos-waze-google-maps-4294610.jpg?tf=1200x' alt='Waze Maps: ¿está pensando Google fusionar sus dos aplicaciones de navegación?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878'>Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-sigue-enfadando-clientes-no-ha-solucionado-problemas-molestos-4294440.jpg?tf=1200x' alt='Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-1442933'>DIGI, Movistar y O2 en apuros: ¿podrías pedir que te devuelvan parte de tu factura por los cortes de conexión por el bloqueo a las IPTV?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-1442933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-4294530.jpg?tf=1200x' alt='DIGI, Movistar y O2 en apuros: ¿podrías pedir que te devuelvan parte de tu factura por los cortes de conexión por el bloqueo a las IPTV?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-1442911'>La Guardia Civil advierte de la estafa de moda: "Nunca envíes dinero"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-1442911' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-4294475.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: "Nunca envíes dinero"' />
     </a>
 </div>
 
