@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-navaja-suiza-heroes-no-merecemos-hackers-eticos-1442298'>Kali Linux, una "navaja suiza" para unos héroes que no merecemos: los hackers éticos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-navaja-suiza-heroes-no-merecemos-hackers-eticos-1442298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/kali-linux-4293862.jpg?tf=1200x' alt='Kali Linux, una "navaja suiza" para unos héroes que no merecemos: los hackers éticos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/app-gratis-anade-funciones-explorador-windows-11-he-echado-menos-toda-vida-1441822'>Esta app gratis añade funciones al explorador de Windows 11 que he echado de menos toda la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/app-gratis-anade-funciones-explorador-windows-11-he-echado-menos-toda-vida-1441822' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/app-gratis-anade-funciones-explorador-windows-11-he-echado-menos-toda-vida-4292709.jpg?tf=1200x' alt='Esta app gratis añade funciones al explorador de Windows 11 que he echado de menos toda la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/forzar-instalacion-windows-11-pc-antiguo-no-cumple-requisitos-1442077'>¿Merece la pena forzar la instalación de Windows 11 en un PC antiguo que no cumple los requisitos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/forzar-instalacion-windows-11-pc-antiguo-no-cumple-requisitos-1442077' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-no-compatible-4293103.jpg?tf=1200x' alt='¿Merece la pena forzar la instalación de Windows 11 en un PC antiguo que no cumple los requisitos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/funciones-ocultas-netflix-recientes-seguramente-has-pasado-alto-deberias-conocer-1440947'>Funciones ocultas de Netflix recientes que seguramente has pasado por alto y que deberías conocer</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/funciones-ocultas-netflix-recientes-seguramente-has-pasado-alto-deberias-conocer-1440947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-ocultas-netflix-recientes-seguramente-has-pasado-alto-deberias-conocer-4291293.jpg?tf=1200x' alt='Funciones ocultas de Netflix recientes que seguramente has pasado por alto y que deberías conocer' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/broadcom-tsmc-quieren-trocear-intel-1442792'>Ni Qualcomm ni Microsoft: Broadcom y TSMC quieren trocear Intel</a></h4>
     <a href='https://computerhoy.20minutos.es/broadcom-tsmc-quieren-trocear-intel-1442792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-qualcomm-ni-microsoft-broadcom-tsmc-quieren-trocear-intel-4294333.jpg?tf=1200x' alt='Ni Qualcomm ni Microsoft: Broadcom y TSMC quieren trocear Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-modo-adulto-generar-contenido-erotico-gore-1442790'>Cambio radical en ChatGPT: estrena un Modo Adulto para generar contenido erótico y gore</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-estrena-modo-adulto-generar-contenido-erotico-gore-1442790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-chatgpt-estrena-modo-adulto-generar-contenido-erotico-gore-4294329.jpg?tf=1200x' alt='Cambio radical en ChatGPT: estrena un Modo Adulto para generar contenido erótico y gore' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/experto-google-maps-extension-chrome-golfo-america-golfo-mexico-1442786'>Experto en Google Maps crea una extensión de Chrome para que el Golfo de América vuelva a ser el Golfo de México</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/experto-google-maps-extension-chrome-golfo-america-golfo-mexico-1442786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-google-maps-crear-extension-golfo-america-vuelva-ser-golfo-mexico-4294309.jpg?tf=1200x' alt='Experto en Google Maps crea una extensión de Chrome para que el Golfo de América vuelva a ser el Golfo de México' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-amazon-van-eliminar-funciones-utiles-partir-26-febrero-1442783'>Los lectores Kindle de Amazon van a eliminar una de sus funciones más útiles a partir del 26 de febrero</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-amazon-van-eliminar-funciones-utiles-partir-26-febrero-1442783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257630.jpg?tf=1200x' alt='Los lectores Kindle de Amazon van a eliminar una de sus funciones más útiles a partir del 26 de febrero' />
     </a>
 </div>
 
