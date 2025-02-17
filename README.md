@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-maps-pensando-google-fusionar-dos-aplicaciones-navegacion-1442944'>Waze Maps: ¿está pensando Google fusionar sus dos aplicaciones de navegación?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-maps-pensando-google-fusionar-dos-aplicaciones-navegacion-1442944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fusion-logos-waze-google-maps-4294610.jpg?tf=1200x' alt='Waze Maps: ¿está pensando Google fusionar sus dos aplicaciones de navegación?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/bombazo-coches-electricos-cientificos-descubren-metodo-revertir-envejecimiento-baterias-1442975'>Bombazo para los coches eléctricos: científicos descubren un método para revertir el envejecimiento de las baterías</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/bombazo-coches-electricos-cientificos-descubren-metodo-revertir-envejecimiento-baterias-1442975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bombazo-coches-electricos-cientificos-descubren-metodo-revertir-envejecimiento-baterias-4294622.jpg?tf=1200x' alt='Bombazo para los coches eléctricos: científicos descubren un método para revertir el envejecimiento de las baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878'>Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-sigue-enfadando-clientes-no-ha-solucionado-problemas-molestos-4294440.jpg?tf=1200x' alt='Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-1442911'>La Guardia Civil advierte de la estafa de moda: "Nunca envíes dinero"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-1442911' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-4294475.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: "Nunca envíes dinero"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-investigacion-profunda-chatgpt-sustituir-ya-ser-humano-experto-1442910'>¿Puede la investigación profunda de ChatGPT sustituir ya a un ser humano experto?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/puede-investigacion-profunda-chatgpt-sustituir-ya-ser-humano-experto-1442910' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-sustituir-ya-ser-humano-experto-4294486.jpg?tf=1200x' alt='¿Puede la investigación profunda de ChatGPT sustituir ya a un ser humano experto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-o2-clientes-digi-perjudicados-lucha-iptv-pirateria-1442887'>Ni Movistar ni O2, los clientes de DIGI los más perjudicados por la lucha contra las IPTV y la piratería </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-o2-clientes-digi-perjudicados-lucha-iptv-pirateria-1442887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-iptv-4294495.jpg?tf=1200x' alt='Ni Movistar ni O2, los clientes de DIGI los más perjudicados por la lucha contra las IPTV y la piratería ' />
     </a>
 </div>
 
