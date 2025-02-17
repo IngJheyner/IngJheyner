@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-suma-procesadores-lista-soporte-aunque-ausencias-llamativas-1443051'>Windows 11 24H2 suma más procesadores a su lista de soporte, aunque con ausencias llamativas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-suma-procesadores-lista-soporte-aunque-ausencias-llamativas-1443051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amd-windows-11-4294688.jpg?tf=1200x' alt='Windows 11 24H2 suma más procesadores a su lista de soporte, aunque con ausencias llamativas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/desvelan-paises-internet-rapido-2025-posicion-espana-1443050'>Se desvelan los países con el Internet más rápido en 2025: ¿en qué posición está España?</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/desvelan-paises-internet-rapido-2025-posicion-espana-1443050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/velocidad-internet-4294687.jpg?tf=1200x' alt='Se desvelan los países con el Internet más rápido en 2025: ¿en qué posición está España?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-historial-ubicaciones-windows-11-cambia-importa-1443047'>Microsoft elimina el historial de ubicaciones en Windows 11: ¿qué cambia y por qué importa?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-historial-ubicaciones-windows-11-cambia-importa-1443047' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-elimina-historial-ubicaciones-windows-11-4294683.jpg?tf=1200x' alt='Microsoft elimina el historial de ubicaciones en Windows 11: ¿qué cambia y por qué importa?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-llamadas-spam-saltan-ciberdelincuentes-reglas-1442940'>La OCU advierte sobre las llamadas spam: así se saltan los ciberdelincuentes las reglas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-llamadas-spam-saltan-ciberdelincuentes-reglas-1442940' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ocu-advierte-llamadas-spam-saltan-ciberdelincuentes-reglas-4294526.jpg?tf=1200x' alt='La OCU advierte sobre las llamadas spam: así se saltan los ciberdelincuentes las reglas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/toda-vida-quejandome-funcion-amazon-fire-tv-resulta-solo-habia-dejar-pulsado-boton-1442996'>Toda la vida quejándome de esta función del Amazon Fire TV: resulta que solo había que dejar pulsado un botón</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/toda-vida-quejandome-funcion-amazon-fire-tv-resulta-solo-habia-dejar-pulsado-boton-1442996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/toda-vida-quejandome-funcion-amazon-fire-tv-resulta-solo-habia-dejar-pulsado-boton-4294674.jpg?tf=1200x' alt='Toda la vida quejándome de esta función del Amazon Fire TV: resulta que solo había que dejar pulsado un botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957'>Google realiza la mayor purga contra la piratería y las IPTV de su historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-realiza-mayor-purga-pirateria-iptv-historia-4294557.jpg?tf=1200x' alt='Google realiza la mayor purga contra la piratería y las IPTV de su historia' />
     </a>
 </div>
 
