@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036'>Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thermomix-tm7-4294650.jpg?tf=1200x' alt='Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-llamadas-spam-saltan-ciberdelincuentes-reglas-1442940'>La OCU advierte sobre las llamadas spam: así se saltan los ciberdelincuentes las reglas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-llamadas-spam-saltan-ciberdelincuentes-reglas-1442940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ocu-advierte-llamadas-spam-saltan-ciberdelincuentes-reglas-4294526.jpg?tf=1200x' alt='La OCU advierte sobre las llamadas spam: así se saltan los ciberdelincuentes las reglas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/toda-vida-quejandome-funcion-amazon-fire-tv-resulta-solo-habia-dejar-pulsado-boton-1442996'>Toda la vida quejándome de esta función del Amazon Fire TV: resulta que solo había que dejar pulsado un botón</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/toda-vida-quejandome-funcion-amazon-fire-tv-resulta-solo-habia-dejar-pulsado-boton-1442996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/toda-vida-quejandome-funcion-amazon-fire-tv-resulta-solo-habia-dejar-pulsado-boton-4294674.jpg?tf=1200x' alt='Toda la vida quejándome de esta función del Amazon Fire TV: resulta que solo había que dejar pulsado un botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957'>Google realiza la mayor purga contra la piratería y las IPTV de su historia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-realiza-mayor-purga-pirateria-iptv-historia-4294557.jpg?tf=1200x' alt='Google realiza la mayor purga contra la piratería y las IPTV de su historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-app-navegacion-alcanza-precision-casi-absoluta-1442988'>Ni Waze ni Google Maps, esta app de navegación alcanza la precisión (casi) absoluta</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-app-navegacion-alcanza-precision-casi-absoluta-1442988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alternativa-waze-google-maps-4294616.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta app de navegación alcanza la precisión (casi) absoluta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-maps-pensando-google-fusionar-dos-aplicaciones-navegacion-1442944'>Waze Maps: ¿está pensando Google fusionar sus dos aplicaciones de navegación?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-maps-pensando-google-fusionar-dos-aplicaciones-navegacion-1442944' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fusion-logos-waze-google-maps-4294610.jpg?tf=1200x' alt='Waze Maps: ¿está pensando Google fusionar sus dos aplicaciones de navegación?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/bombazo-coches-electricos-cientificos-descubren-metodo-revertir-envejecimiento-baterias-1442975'>Bombazo para los coches eléctricos: científicos descubren un método para revertir el envejecimiento de las baterías</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/bombazo-coches-electricos-cientificos-descubren-metodo-revertir-envejecimiento-baterias-1442975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bombazo-coches-electricos-cientificos-descubren-metodo-revertir-envejecimiento-baterias-4294622.jpg?tf=1200x' alt='Bombazo para los coches eléctricos: científicos descubren un método para revertir el envejecimiento de las baterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878'>Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-sigue-solucionar-problemas-molestos-1442878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-sigue-enfadando-clientes-no-ha-solucionado-problemas-molestos-4294440.jpg?tf=1200x' alt='Movistar Plus+ sigue enfadando a los clientes: sigue sin solucionar uno de sus los problemas más molestos' />
     </a>
 </div>
 
