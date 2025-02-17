@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/conduce-moto-gamepad-ps5-punto-estrellarse-1442797'>Conduce su moto con un gamepad de PS5, y está a punto de estrellarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/conduce-moto-gamepad-ps5-punto-estrellarse-1442797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conduce-moto-gamepad-ps5-punto-estrellarse-4294340.jpg?tf=1200x' alt='Conduce su moto con un gamepad de PS5, y está a punto de estrellarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/puedo-seguir-utilizando-movil-desactualizado-posibles-riesgos-usos-podrias-dar-viejo-smartphone-1427750'>¿Puedo seguir utilizando un móvil desactualizado? Posibles riesgos y usos que podrías dar a tu viejo smartphone</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/puedo-seguir-utilizando-movil-desactualizado-posibles-riesgos-usos-podrias-dar-viejo-smartphone-1427750' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/riesgos-movil-viejo-desactualizado-usos-4269570.jpg?tf=1200x' alt='¿Puedo seguir utilizando un móvil desactualizado? Posibles riesgos y usos que podrías dar a tu viejo smartphone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-redmi-watch-5-1440028'>He probado el Xiaomi Redmi Watch 5 y su batería ha hecho que me olvide de relojes más caros</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-redmi-watch-5-1440028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-watch-5-4294226.jpg?tf=1200x' alt='He probado el Xiaomi Redmi Watch 5 y su batería ha hecho que me olvide de relojes más caros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-navaja-suiza-heroes-no-merecemos-hackers-eticos-1442298'>Kali Linux, una "navaja suiza" para unos héroes que no merecemos: los hackers éticos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-navaja-suiza-heroes-no-merecemos-hackers-eticos-1442298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/kali-linux-4293862.jpg?tf=1200x' alt='Kali Linux, una "navaja suiza" para unos héroes que no merecemos: los hackers éticos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/app-gratis-anade-funciones-explorador-windows-11-he-echado-menos-toda-vida-1441822'>Esta app gratis añade funciones al explorador de Windows 11 que he echado de menos toda la vida</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/app-gratis-anade-funciones-explorador-windows-11-he-echado-menos-toda-vida-1441822' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/app-gratis-anade-funciones-explorador-windows-11-he-echado-menos-toda-vida-4292709.jpg?tf=1200x' alt='Esta app gratis añade funciones al explorador de Windows 11 que he echado de menos toda la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/forzar-instalacion-windows-11-pc-antiguo-no-cumple-requisitos-1442077'>¿Merece la pena forzar la instalación de Windows 11 en un PC antiguo que no cumple los requisitos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/forzar-instalacion-windows-11-pc-antiguo-no-cumple-requisitos-1442077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-no-compatible-4293103.jpg?tf=1200x' alt='¿Merece la pena forzar la instalación de Windows 11 en un PC antiguo que no cumple los requisitos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/funciones-ocultas-netflix-recientes-seguramente-has-pasado-alto-deberias-conocer-1440947'>Funciones ocultas de Netflix recientes que seguramente has pasado por alto y que deberías conocer</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/funciones-ocultas-netflix-recientes-seguramente-has-pasado-alto-deberias-conocer-1440947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-ocultas-netflix-recientes-seguramente-has-pasado-alto-deberias-conocer-4291293.jpg?tf=1200x' alt='Funciones ocultas de Netflix recientes que seguramente has pasado por alto y que deberías conocer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/broadcom-tsmc-quieren-trocear-intel-1442792'>Ni Qualcomm ni Microsoft: Broadcom y TSMC quieren trocear Intel</a></h4>
-    <a href='https://computerhoy.20minutos.es/broadcom-tsmc-quieren-trocear-intel-1442792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-qualcomm-ni-microsoft-broadcom-tsmc-quieren-trocear-intel-4294333.jpg?tf=1200x' alt='Ni Qualcomm ni Microsoft: Broadcom y TSMC quieren trocear Intel' />
     </a>
 </div>
 
