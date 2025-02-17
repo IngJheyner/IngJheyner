@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/byd-ya-ha-puesto-fecha-llegada-baterias-estado-solido-coches-electricos-1442849'>BYD ya ha puesto fecha a la llegada de las baterías de estado sólido a sus coches eléctricos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/byd-ya-ha-puesto-fecha-llegada-baterias-estado-solido-coches-electricos-1442849' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/byd-sealion-7-4274502.jpg?tf=1200x' alt='BYD ya ha puesto fecha a la llegada de las baterías de estado sólido a sus coches eléctricos' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-1442933'>DIGI, Movistar y O2 en apuros: ¿podrías pedir que te devuelvan parte de tu factura por los cortes de conexión por el bloqueo a las IPTV?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-1442933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-movistar-o2-apuros-podrias-pedir-te-devuelvan-parte-factura-cortes-conexion-bloqueo-iptv-4294530.jpg?tf=1200x' alt='DIGI, Movistar y O2 en apuros: ¿podrías pedir que te devuelvan parte de tu factura por los cortes de conexión por el bloqueo a las IPTV?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arma-secreta-china-tambien-llega-guerra-coche-electrico-ojo-dios-9200-euros-1442886'>El arma secreta de China también llega a la guerra por el coche eléctrico: el Ojo de Dios por 9.200 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/arma-secreta-china-tambien-llega-guerra-coche-electrico-ojo-dios-9200-euros-1442886' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/byd-acuerdo-deepseek-inteligencia-artificial-4293458.jpg?tf=1200x' alt='El arma secreta de China también llega a la guerra por el coche eléctrico: el Ojo de Dios por 9.200 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-1442911'>La Guardia Civil advierte de la estafa de moda: "Nunca envíes dinero"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-1442911' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-advierte-estafa-moda-nunca-envies-dinero-4294475.jpg?tf=1200x' alt='La Guardia Civil advierte de la estafa de moda: "Nunca envíes dinero"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-estara-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877'>Cuando estará disponible Grok 3, la "IA más inteligente de la Tierra" según Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuando-estara-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Cuando estará disponible Grok 3, la "IA más inteligente de la Tierra" según Elon Musk' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-investigacion-profunda-chatgpt-sustituir-ya-ser-humano-experto-1442910'>¿Puede la investigación profunda de ChatGPT sustituir ya a un ser humano experto?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/puede-investigacion-profunda-chatgpt-sustituir-ya-ser-humano-experto-1442910' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-sustituir-ya-ser-humano-experto-4294486.jpg?tf=1200x' alt='¿Puede la investigación profunda de ChatGPT sustituir ya a un ser humano experto?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-explorador-archivos-ultima-actualizacion-pero-existe-solucion-1442897'>Windows 11 rompe el explorador de archivos con la última actualización, pero existe solución</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-explorador-archivos-ultima-actualizacion-pero-existe-solucion-1442897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuario-enfadado-windows-11-4279393.jpg?tf=1200x' alt='Windows 11 rompe el explorador de archivos con la última actualización, pero existe solución' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-o2-clientes-digi-perjudicados-lucha-iptv-pirateria-1442887'>Ni Movistar ni O2, los clientes de DIGI los más perjudicados por la lucha contra las IPTV y la piratería </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-movistar-ni-o2-clientes-digi-perjudicados-lucha-iptv-pirateria-1442887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-iptv-4294495.jpg?tf=1200x' alt='Ni Movistar ni O2, los clientes de DIGI los más perjudicados por la lucha contra las IPTV y la piratería ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862'>DeepSeek y el papel de China: ¿cómo una IA gratuita se convierte en una máquina de ingresos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek y el papel de China: ¿cómo una IA gratuita se convierte en una máquina de ingresos?' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-gratis-todos-clientes-mejor-canal-toda-programacion-1442915'>Movistar Plus+ regala gratis para todos sus clientes el mejor canal de toda su programación</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-gratis-todos-clientes-mejor-canal-toda-programacion-1442915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canal-oscars-movistar-plus-4294509.jpg?tf=1200x' alt='Movistar Plus+ regala gratis para todos sus clientes el mejor canal de toda su programación' />
     </a>
 </div>
 
