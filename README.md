@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-explorador-archivos-ultima-actualizacion-pero-existe-solucion-1442897'>Windows 11 rompe el explorador de archivos con la última actualización, pero existe solución</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-rompe-explorador-archivos-ultima-actualizacion-pero-existe-solucion-1442897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/usuario-enfadado-windows-11-4279393.jpg?tf=1200x' alt='Windows 11 rompe el explorador de archivos con la última actualización, pero existe solución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862'>DeepSeek y el papel de China: ¿Cómo una IA gratuita se convierte en una máquina de ingresos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek y el papel de China: ¿Cómo una IA gratuita se convierte en una máquina de ingresos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bebe-espanol-ia-reborn-1442318'>Así es el bebé español fabricado con IA para padres que no pueden tener hijos</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bebe-espanol-ia-reborn-1442318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bebe-espanol-fabricado-ia-padres-no-pueden-tener-hijos-4293577.jpg?tf=1200x' alt='Así es el bebé español fabricado con IA para padres que no pueden tener hijos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854'>Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mazazo-laliga-iptv-4294426.jpg?tf=1200x' alt='Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-teoria-anillo-einstein-1442062'>La NASA confirma un descubrimiento que Albert Einstein ya adelantó hace 110 años </a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-teoria-anillo-einstein-1442062' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA confirma un descubrimiento que Albert Einstein ya adelantó hace 110 años ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/viene-despues-ia-apple-meta-tienen-claro-muestran-cartas-1442853'>¿Qué viene después de la IA? Apple y Meta lo tienen claro y muestran sus cartas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/viene-despues-ia-apple-meta-tienen-claro-muestran-cartas-1442853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/union-meta-apple-4294425.jpg?tf=1200x' alt='¿Qué viene después de la IA? Apple y Meta lo tienen claro y muestran sus cartas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/corea-sur-suspende-forma-fulminante-deepseek-riesgos-claros-seguridad-1442838'>Corea del Sur suspende de forma fulminante DeepSeek por riesgos claros de seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/corea-sur-suspende-forma-fulminante-deepseek-riesgos-claros-seguridad-1442838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/corea-sur-suspende-forma-fulminante-deepseek-riesgos-claros-seguridad-4294390.jpg?tf=1200x' alt='Corea del Sur suspende de forma fulminante DeepSeek por riesgos claros de seguridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padres-ia-triste-porque-solo-estamos-haciendolo-peor-peor-1442839'>Geoffrey Hinton, uno de los Padres de la IA: "Es triste porque solo estamos haciéndolo peor y peor"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padres-ia-triste-porque-solo-estamos-haciendolo-peor-peor-1442839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/geoffrey-hinton-ia-4294403.jpg?tf=1200x' alt='Geoffrey Hinton, uno de los Padres de la IA: "Es triste porque solo estamos haciéndolo peor y peor"' />
     </a>
 </div>
 
