@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/byd-ya-ha-puesto-fecha-llegada-baterias-estado-solido-coches-electricos-1442849'>BYD ya ha puesto fecha a la llegada de las baterías de estado sólido a sus coches eléctricos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/byd-ya-ha-puesto-fecha-llegada-baterias-estado-solido-coches-electricos-1442849' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/byd-sealion-7-4274502.jpg?tf=1200x' alt='BYD ya ha puesto fecha a la llegada de las baterías de estado sólido a sus coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/arma-secreta-china-tambien-llega-guerra-coche-electrico-ojo-dios-9200-euros-1442886'>El arma secreta de China también llega a la guerra por el coche eléctrico: el Ojo de Dios por 9.200 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/arma-secreta-china-tambien-llega-guerra-coche-electrico-ojo-dios-9200-euros-1442886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/byd-acuerdo-deepseek-inteligencia-artificial-4293458.jpg?tf=1200x' alt='El arma secreta de China también llega a la guerra por el coche eléctrico: el Ojo de Dios por 9.200 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuando-estara-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877'>Cuando estará disponible Grok 3, la "IA más inteligente de la Tierra" según Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cuando-estara-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Cuando estará disponible Grok 3, la "IA más inteligente de la Tierra" según Elon Musk' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862'>DeepSeek y el papel de China: ¿cómo una IA gratuita se convierte en una máquina de ingresos?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-papel-china-como-ia-gratuita-convierte-maquina-ingresos-1442862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-arrasa-espana-ya-app-descargada-superando-chatgpt-4288735.jpg?tf=1200x' alt='DeepSeek y el papel de China: ¿cómo una IA gratuita se convierte en una máquina de ingresos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bebe-espanol-ia-reborn-1442318'>Así es el bebé español fabricado con IA para padres que no pueden tener hijos</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bebe-espanol-ia-reborn-1442318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bebe-espanol-fabricado-ia-padres-no-pueden-tener-hijos-4293577.jpg?tf=1200x' alt='Así es el bebé español fabricado con IA para padres que no pueden tener hijos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854'>Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mazazo-laliga-iptv-4294426.jpg?tf=1200x' alt='Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España' />
     </a>
 </div>
 
