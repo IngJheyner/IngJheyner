@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854'>Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mazazo-laliga-iptv-caen-dos-mayores-plataformas-futbol-gratis-espana-1442854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mazazo-laliga-iptv-4294426.jpg?tf=1200x' alt='Mazazo de LaLiga a las IPTV: caen dos de las mayores plataformas de fútbol gratis en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-teoria-anillo-einstein-1442062'>La NASA confirma un descubrimiento que Albert Einstein ya adelantó hace 110 años </a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-teoria-anillo-einstein-1442062' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-descubre-anillo-einstein-patio-trasero-cosmico-4293110.jpg?tf=1200x' alt='La NASA confirma un descubrimiento que Albert Einstein ya adelantó hace 110 años ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/viene-despues-ia-apple-meta-tienen-claro-muestran-cartas-1442853'>¿Qué viene después de la IA? Apple y Meta lo tienen claro y muestran sus cartas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/viene-despues-ia-apple-meta-tienen-claro-muestran-cartas-1442853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/union-meta-apple-4294425.jpg?tf=1200x' alt='¿Qué viene después de la IA? Apple y Meta lo tienen claro y muestran sus cartas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/corea-sur-suspende-forma-fulminante-deepseek-riesgos-claros-seguridad-1442838'>Corea del Sur suspende de forma fulminante DeepSeek por riesgos claros de seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/corea-sur-suspende-forma-fulminante-deepseek-riesgos-claros-seguridad-1442838' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/corea-sur-suspende-forma-fulminante-deepseek-riesgos-claros-seguridad-4294390.jpg?tf=1200x' alt='Corea del Sur suspende de forma fulminante DeepSeek por riesgos claros de seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padres-ia-triste-porque-solo-estamos-haciendolo-peor-peor-1442839'>Geoffrey Hinton, uno de los Padres de la IA: "Es triste porque solo estamos haciéndolo peor y peor"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padres-ia-triste-porque-solo-estamos-haciendolo-peor-peor-1442839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/geoffrey-hinton-ia-4294403.jpg?tf=1200x' alt='Geoffrey Hinton, uno de los Padres de la IA: "Es triste porque solo estamos haciéndolo peor y peor"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/conduce-moto-gamepad-ps5-punto-estrellarse-1442797'>Conduce su moto con un gamepad de PS5, y está a punto de estrellarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/conduce-moto-gamepad-ps5-punto-estrellarse-1442797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conduce-moto-gamepad-ps5-punto-estrellarse-4294340.jpg?tf=1200x' alt='Conduce su moto con un gamepad de PS5, y está a punto de estrellarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/puedo-seguir-utilizando-movil-desactualizado-posibles-riesgos-usos-podrias-dar-viejo-smartphone-1427750'>¿Puedo seguir utilizando un móvil desactualizado? Posibles riesgos y usos que podrías dar a tu viejo smartphone</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/puedo-seguir-utilizando-movil-desactualizado-posibles-riesgos-usos-podrias-dar-viejo-smartphone-1427750' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/riesgos-movil-viejo-desactualizado-usos-4269570.jpg?tf=1200x' alt='¿Puedo seguir utilizando un móvil desactualizado? Posibles riesgos y usos que podrías dar a tu viejo smartphone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-redmi-watch-5-1440028'>He probado el Xiaomi Redmi Watch 5 y su batería ha hecho que me olvide de relojes más caros</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-redmi-watch-5-1440028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-watch-5-4294226.jpg?tf=1200x' alt='He probado el Xiaomi Redmi Watch 5 y su batería ha hecho que me olvide de relojes más caros' />
     </a>
 </div>
 
