@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-historial-ubicaciones-windows-11-cambia-importa-1443047'>Microsoft elimina el historial de ubicaciones en Windows 11: ¿qué cambia y por qué importa?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-historial-ubicaciones-windows-11-cambia-importa-1443047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-elimina-historial-ubicaciones-windows-11-4294683.jpg?tf=1200x' alt='Microsoft elimina el historial de ubicaciones en Windows 11: ¿qué cambia y por qué importa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036'>Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thermomix-tm7-4294650.jpg?tf=1200x' alt='Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957'>Google realiza la mayor purga contra la piratería y las IPTV de su historia</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/google-realiza-mayor-purga-pirateria-iptv-historia-1442957' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-realiza-mayor-purga-pirateria-iptv-historia-4294557.jpg?tf=1200x' alt='Google realiza la mayor purga contra la piratería y las IPTV de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-app-navegacion-alcanza-precision-casi-absoluta-1442988'>Ni Waze ni Google Maps, esta app de navegación alcanza la precisión (casi) absoluta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-waze-ni-google-maps-app-navegacion-alcanza-precision-casi-absoluta-1442988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alternativa-waze-google-maps-4294616.jpg?tf=1200x' alt='Ni Waze ni Google Maps, esta app de navegación alcanza la precisión (casi) absoluta' />
     </a>
 </div>
 
