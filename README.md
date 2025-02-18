@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-deportivo-ligero-reducido-entrenamiento-recuperacion-1443307'>Amazfit Active 2, el reloj deportivo ligero y reducido para registrar el entrenamiento y la recuperación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-deportivo-ligero-reducido-entrenamiento-recuperacion-1443307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazfit-active-2-reloj-deportivo-ligero-reducido-registrar-entrenamiento-recuperacion-4295040.jpg?tf=1200x' alt='Amazfit Active 2, el reloj deportivo ligero y reducido para registrar el entrenamiento y la recuperación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-1443283'>Un Terabyte por milímetro: esta tecnología permite almacenar cantidades ingentes de datos en un cubo diminuto</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-1443283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-4295050.jpg?tf=1200x' alt='Un Terabyte por milímetro: esta tecnología permite almacenar cantidades ingentes de datos en un cubo diminuto' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-emisoras-radio-1443286'>TDTChannels se actualiza con nuevos canales de TV y emisoras de radio</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-emisoras-radio-1443286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV y emisoras de radio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/secreto-jeff-bezos-mejorar-productividad-avalan-expertos-contradice-microsoft-1443174'>El secreto de Jeff Bezos para mejorar la productividad, que avalan los expertos y contradice a Microsoft</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/secreto-jeff-bezos-mejorar-productividad-avalan-expertos-contradice-microsoft-1443174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-evitar-llegar-vejez-sintiendo-has-echado-perder-toda-vida-jeff-bezos-2610371.jpg?tf=1200x' alt='El secreto de Jeff Bezos para mejorar la productividad, que avalan los expertos y contradice a Microsoft' />
     </a>
 </div>
 
