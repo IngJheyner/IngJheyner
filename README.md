@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/radares-dgt-indetectables-waze-google-maps-1442768'>Golpe maestro de la DGT: así son los nuevos radares indetectables por Waze y Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/radares-dgt-indetectables-waze-google-maps-1442768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-uso-waze-google-maps-4294985.jpg?tf=1200x' alt='Golpe maestro de la DGT: así son los nuevos radares indetectables por Waze y Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tira-tierra-esperanzas-toda-generacion-como-intentar-vencer-calculadora-1443191'>Sam Altman tira por tierra las esperanzas de toda una generación: "Es como intentar vencer a una calculadora"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tira-tierra-esperanzas-toda-generacion-como-intentar-vencer-calculadora-1443191' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/altman-4294915.jpg?tf=1200x' alt='Sam Altman tira por tierra las esperanzas de toda una generación: "Es como intentar vencer a una calculadora"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155'>Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/itv-baterias-coche-electrico-4294916.jpg?tf=1200x' alt='Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-1443167'>Elon Musk construyó un superordenador en 19 días, 4 meses después se enfrenta a un problema sanitario</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-1443167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-4294857.jpg?tf=1200x' alt='Elon Musk construyó un superordenador en 19 días, 4 meses después se enfrenta a un problema sanitario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-1443134'>Desmantelada en España una importante red de distribución de IPTV, películas, series y videojuegos piratas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-1443134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-4294813.jpg?tf=1200x' alt='Desmantelada en España una importante red de distribución de IPTV, películas, series y videojuegos piratas' />
     </a>
 </div>
 
