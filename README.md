@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-cargando-mal-bateria-movil-tranquilo-expertos-aseguran-no-culpa-1442930'>¿Estás cargando mal la batería de tu móvil? Tranquilo, los expertos aseguran que no es por tu culpa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-cargando-mal-bateria-movil-tranquilo-expertos-aseguran-no-culpa-1442930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cargar-movil-4294531.jpg?tf=1200x' alt='¿Estás cargando mal la batería de tu móvil? Tranquilo, los expertos aseguran que no es por tu culpa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851'>Un ex miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-4294399.jpg?tf=1200x' alt='Un ex miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ink-console-consola-pantalla-tinta-electronica-aventuras-texto-1443068'>Ni Switch 2 ni PS5 Pro: Ink Console es una consola con pantalla de tinta electrónica para jugar a aventuras de texto</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ink-console-consola-pantalla-tinta-electronica-aventuras-texto-1443068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-switch-2-ni-ps5-pro-ink-console-consola-pantalla-tinta-electronica-jugar-aventuras-texto-4294709.jpg?tf=1200x' alt='Ni Switch 2 ni PS5 Pro: Ink Console es una consola con pantalla de tinta electrónica para jugar a aventuras de texto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/senales-portatil-windows-ha-sido-hackeado-hacer-bloquearlo-1443038'>Señales de que tu portátil con Windows ha sido hackeado y qué hacer para bloquearlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/senales-portatil-windows-ha-sido-hackeado-hacer-bloquearlo-1443038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/senales-portatil-windows-ha-sido-hackeado-hacer-bloquearlo-4294707.jpg?tf=1200x' alt='Señales de que tu portátil con Windows ha sido hackeado y qué hacer para bloquearlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/experto-audicion-alarma-uso-auriculares-cancelacion-ruido-1443054'>Experto en audición hace saltar la alarma sobre el uso de auriculares con cancelación de ruido</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/experto-audicion-alarma-uso-auriculares-cancelacion-ruido-1443054' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-audicion-hace-saltar-alarma-uso-auriculares-cancelacion-ruido-4294676.jpg?tf=1200x' alt='Experto en audición hace saltar la alarma sobre el uso de auriculares con cancelación de ruido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-suma-procesadores-lista-soporte-aunque-ausencias-llamativas-1443051'>Windows 11 24H2 suma más procesadores a su lista de soporte, aunque con ausencias llamativas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-suma-procesadores-lista-soporte-aunque-ausencias-llamativas-1443051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amd-windows-11-4294688.jpg?tf=1200x' alt='Windows 11 24H2 suma más procesadores a su lista de soporte, aunque con ausencias llamativas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/desvelan-paises-internet-rapido-2025-posicion-espana-1443050'>Se desvelan los países con el Internet más rápido en 2025: ¿en qué posición está España?</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/desvelan-paises-internet-rapido-2025-posicion-espana-1443050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/velocidad-internet-4294687.jpg?tf=1200x' alt='Se desvelan los países con el Internet más rápido en 2025: ¿en qué posición está España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-historial-ubicaciones-windows-11-cambia-importa-1443047'>Microsoft elimina el historial de ubicaciones en Windows 11: ¿qué cambia y por qué importa?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-elimina-historial-ubicaciones-windows-11-cambia-importa-1443047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-elimina-historial-ubicaciones-windows-11-4294683.jpg?tf=1200x' alt='Microsoft elimina el historial de ubicaciones en Windows 11: ¿qué cambia y por qué importa?' />
     </a>
 </div>
 
