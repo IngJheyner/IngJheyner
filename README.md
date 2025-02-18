@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advertencia-urgente-1800-millones-usuarios-gmail-peligro-estafa-amenaza-cuentas-bancarias-1443289'>Advertencia urgente: 1.800 millones de usuarios de Gmail en peligro por una estafa que amenaza las cuentas bancarias</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/advertencia-urgente-1800-millones-usuarios-gmail-peligro-estafa-amenaza-cuentas-bancarias-1443289' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-gmail-4295034.jpg?tf=1200x' alt='Advertencia urgente: 1.800 millones de usuarios de Gmail en peligro por una estafa que amenaza las cuentas bancarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/tiempo-windows-11-corre-rapido-vida-real-extrano-error-te-dejara-palabras-1443287'>El tiempo en Windows 11 corre más rápido que en la vida real: el extraño error que te dejará sin palabras</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/tiempo-windows-11-corre-rapido-vida-real-extrano-error-te-dejara-palabras-1443287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reloj-windows-11-4295031.jpg?tf=1200x' alt='El tiempo en Windows 11 corre más rápido que en la vida real: el extraño error que te dejará sin palabras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-emisoras-radio-1443286'>TDTChannels se actualiza con nuevos canales de TV y emisoras de radio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-emisoras-radio-1443286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV y emisoras de radio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/secreto-jeff-bezos-mejorar-productividad-avalan-expertos-contradice-microsoft-1443174'>El secreto de Jeff Bezos para mejorar la productividad, que avalan los expertos y contradice a Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/secreto-jeff-bezos-mejorar-productividad-avalan-expertos-contradice-microsoft-1443174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-evitar-llegar-vejez-sintiendo-has-echado-perder-toda-vida-jeff-bezos-2610371.jpg?tf=1200x' alt='El secreto de Jeff Bezos para mejorar la productividad, que avalan los expertos y contradice a Microsoft' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-solucionar-cambio-estado-suspension-actualizacion-windows-11-24h2-1443281'>Así puedes solucionar el Cambio de Estado de Suspensión tras la actualización de Windows 11 24H2</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/puedes-solucionar-cambio-estado-suspension-actualizacion-windows-11-24h2-1443281' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcionamiento-windows-11-4294999.jpg?tf=1200x' alt='Así puedes solucionar el Cambio de Estado de Suspensión tras la actualización de Windows 11 24H2' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-alarmados-posible-terremoto-europa-hay-indicios-catastrofe-lisboa-puede-repetir-1443247'>Expertos alarmados por un posible terremoto en Europa: "Hay indicios de que la catástrofe de Lisboa se puede repetir"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/expertos-alarmados-posible-terremoto-europa-hay-indicios-catastrofe-lisboa-puede-repetir-1443247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-alarmados-posible-terremoto-europa-hay-indicios-catastrofe-lisboa-puede-repetir-4295019.jpg?tf=1200x' alt='Expertos alarmados por un posible terremoto en Europa: "Hay indicios de que la catástrofe de Lisboa se puede repetir"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-misterio-bing-bang-theory-podria-resolverse-despues-17-anos-1441872'>El gran misterio de The Bing Bang Theory que podría resolverse después de 17 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/gran-misterio-bing-bang-theory-podria-resolverse-despues-17-anos-1441872' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/big-bang-theory-penny-2889682.jpg?tf=1200x' alt='El gran misterio de The Bing Bang Theory que podría resolverse después de 17 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-inteligencia-artificial-tambien-sufre-deterioro-cognitivo-paso-tiempo-1443208'>Expertos descubren que la inteligencia artificial también sufre deterioro cognitivo con el paso del tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-inteligencia-artificial-tambien-sufre-deterioro-cognitivo-paso-tiempo-1443208' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deterioro-cognitivo-ia-4294937.jpg?tf=1200x' alt='Expertos descubren que la inteligencia artificial también sufre deterioro cognitivo con el paso del tiempo' />
     </a>
 </div>
 
