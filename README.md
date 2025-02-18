@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-siempre-uso-linux-5-ventajas-windows-debes-saber-1428619'>Soy experto en tecnología y siempre uso Linux: 5 ventajas sobre Windows que debes saber</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-siempre-uso-linux-5-ventajas-windows-debes-saber-1428619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-versus-linux-4271063.jpg?tf=1200x' alt='Soy experto en tecnología y siempre uso Linux: 5 ventajas sobre Windows que debes saber' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vuelco-almacenamiento-sandisk-anuncia-ssd-1-pb-1443073'>Vuelco al almacenamiento: SanDisk anuncia un SSD de 1 PB</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vuelco-almacenamiento-sandisk-anuncia-ssd-1-pb-1443073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-almacenamiento-sandisk-anuncia-ssd-1-pb-4294727.jpg?tf=1200x' alt='Vuelco al almacenamiento: SanDisk anuncia un SSD de 1 PB' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-sencillo-hackear-cuenta-instagram-1442908'>Experta en ciberseguridad hace saltar las alarmas: así de sencillo es hackear tu cuenta de Instagram</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-sencillo-hackear-cuenta-instagram-1442908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackeo-instagram-4294621.jpg?tf=1200x' alt='Experta en ciberseguridad hace saltar las alarmas: así de sencillo es hackear tu cuenta de Instagram' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-parar-ia-descontrola-sam-altman-tiene-malas-noticias-humanidad-1442946'>¿Se puede parar la IA si se descontrola? Sam Altman tiene malas noticias para la humanidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/puede-parar-ia-descontrola-sam-altman-tiene-malas-noticias-humanidad-1442946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-preocupado-ia-4294565.jpg?tf=1200x' alt='¿Se puede parar la IA si se descontrola? Sam Altman tiene malas noticias para la humanidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-cargando-mal-bateria-movil-tranquilo-expertos-aseguran-no-culpa-1442930'>¿Estás cargando mal la batería de tu móvil? Tranquilo, los expertos aseguran que no es por tu culpa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-cargando-mal-bateria-movil-tranquilo-expertos-aseguran-no-culpa-1442930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cargar-movil-4294531.jpg?tf=1200x' alt='¿Estás cargando mal la batería de tu móvil? Tranquilo, los expertos aseguran que no es por tu culpa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851'>Un ex miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-4294399.jpg?tf=1200x' alt='Un ex miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"' />
     </a>
 </div>
 
