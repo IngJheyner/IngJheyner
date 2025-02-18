@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155'>Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/itv-baterias-coche-electrico-4294916.jpg?tf=1200x' alt='Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-1443167'>Elon Musk construyó un superordenador en 19 días, 4 meses después se enfrenta a un problema sanitario</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-1443167' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-4294857.jpg?tf=1200x' alt='Elon Musk construyó un superordenador en 19 días, 4 meses después se enfrenta a un problema sanitario' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-realiza-asombroso-descubrimiento-marte-podria-cambiar-todo-sabemos-planeta-rojo-1443199'>La NASA realiza un asombroso descubrimiento en Marte: "Podría cambiar todo lo que sabemos del planeta rojo"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-realiza-asombroso-descubrimiento-marte-podria-cambiar-todo-sabemos-planeta-rojo-1443199' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/robot-espacial-curiosity.jpg?tf=1200x' alt='La NASA realiza un asombroso descubrimiento en Marte: "Podría cambiar todo lo que sabemos del planeta rojo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-electricos-ni-hidrogeno-tecnologia-dice-adios-coches-combustion-1443142'>Ni eléctricos ni de hidrógeno: esta es la tecnología que dice adiós a los coches de combustión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-electricos-ni-hidrogeno-tecnologia-dice-adios-coches-combustion-1443142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/imagen-teletransportarse-ia-4294835.jpg?tf=1200x' alt='Ni eléctricos ni de hidrógeno: esta es la tecnología que dice adiós a los coches de combustión' />
     </a>
 </div>
 
