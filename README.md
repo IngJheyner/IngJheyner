@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oneplus-watch-3-smartwatch-premium-wear-os-5-autonomia-como-gran-baza-1443124'>OnePlus Watch 3: un smartwatch premium con Wear OS 5 y la autonomía como gran baza</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/oneplus-watch-3-smartwatch-premium-wear-os-5-autonomia-como-gran-baza-1443124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oneplus-watch-3-4294831.jpg?tf=1200x' alt='OnePlus Watch 3: un smartwatch premium con Wear OS 5 y la autonomía como gran baza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-bateria-made-spain-quiere-cambiar-reglas-juego-1443097'>Giro de 180 grados en el coche eléctrico: esta batería 'Made in Spain' quiere cambiar las reglas del juego</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-bateria-made-spain-quiere-cambiar-reglas-juego-1443097' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-coche-electrico-espana-4294759.jpg?tf=1200x' alt='Giro de 180 grados en el coche eléctrico: esta batería 'Made in Spain' quiere cambiar las reglas del juego' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/mexico-google-maps-llevara-google-tribunales-no-rectifica-mapas-1443121'>México contra Google Maps: llevará a Google a los tribunales si no rectifica sus mapas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/mexico-google-maps-llevara-google-tribunales-no-rectifica-mapas-1443121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mexico-google-maps-trump-4294803.jpg?tf=1200x' alt='México contra Google Maps: llevará a Google a los tribunales si no rectifica sus mapas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145'>Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/novedades-apple-iphone-4-ipad-macbook-4294804.jpg?tf=1200x' alt='Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-nueva-ia-elon-musk-ya-disponible-como-utilizarla-ventajas-diferencias-chatgpt-deepseek-1443105'>Grok 3 la nueva IA de Elon Musk ya disponible: cómo utilizarla, ventajas y diferencias con ChatGPT y DeepSeek</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-nueva-ia-elon-musk-ya-disponible-como-utilizarla-ventajas-diferencias-chatgpt-deepseek-1443105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-3-elon-musk-4294762.jpg?tf=1200x' alt='Grok 3 la nueva IA de Elon Musk ya disponible: cómo utilizarla, ventajas y diferencias con ChatGPT y DeepSeek' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-baterias-aluminio-eternas-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-baterias-aluminio-eternas-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-bateria-aluminio-coche-electrico-4294768.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida' />
     </a>
 </div>
 
