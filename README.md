@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145'>Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/novedades-apple-iphone-4-ipad-macbook-4294804.jpg?tf=1200x' alt='Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-nueva-ia-elon-musk-ya-disponible-como-utilizarla-ventajas-diferencias-chatgpt-deepseek-1443105'>Grok 3 la nueva IA de Elon Musk ya disponible: cómo utilizarla, ventajas y diferencias con ChatGPT y DeepSeek</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-nueva-ia-elon-musk-ya-disponible-como-utilizarla-ventajas-diferencias-chatgpt-deepseek-1443105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-3-elon-musk-4294762.jpg?tf=1200x' alt='Grok 3 la nueva IA de Elon Musk ya disponible: cómo utilizarla, ventajas y diferencias con ChatGPT y DeepSeek' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/he-pasado-rato-movil-camaleonico-realme-ya-ha-convertido-mi-diseno-favorito-ano-1442888'>He pasado un rato con el móvil 'camaleónico' de Realme y ya se ha convertido en mi diseño favorito del año</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/he-pasado-rato-movil-camaleonico-realme-ya-ha-convertido-mi-diseno-favorito-ano-1442888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/realme-14-pro-14-pro-cambio-color-4294615.jpg?tf=1200x' alt='He pasado un rato con el móvil 'camaleónico' de Realme y ya se ha convertido en mi diseño favorito del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-pc-microsoft-endurece-requisitos-windows-11-afecta-windows-12-1443096'>¿Adiós a tu PC? Microsoft endurece los requisitos de Windows 11 y afecta a Windows 12</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-pc-microsoft-endurece-requisitos-windows-11-afecta-windows-12-1443096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-4274189.jpg?tf=1200x' alt='¿Adiós a tu PC? Microsoft endurece los requisitos de Windows 11 y afecta a Windows 12' />
     </a>
 </div>
 
