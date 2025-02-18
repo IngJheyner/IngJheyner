@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-sencillo-hackear-cuenta-instagram-1442908'>Experta en ciberseguridad hace saltar las alarmas: así de sencillo es hackear tu cuenta de Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-sencillo-hackear-cuenta-instagram-1442908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackeo-instagram-4294621.jpg?tf=1200x' alt='Experta en ciberseguridad hace saltar las alarmas: así de sencillo es hackear tu cuenta de Instagram' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ajustes-debes-realizar-whatsapp-mejorar-privacidad-1442917'>4 ajustes que debes realizar en WhatsApp para mejorar tu privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ajustes-debes-realizar-whatsapp-mejorar-privacidad-1442917' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/4-ajustes-debes-realizar-whatsapp-mejorar-privacidad-4294496.jpg?tf=1200x' alt='4 ajustes que debes realizar en WhatsApp para mejorar tu privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-parar-ia-descontrola-sam-altman-tiene-malas-noticias-humanidad-1442946'>¿Se puede parar la IA si se descontrola? Sam Altman tiene malas noticias para la humanidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/puede-parar-ia-descontrola-sam-altman-tiene-malas-noticias-humanidad-1442946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-preocupado-ia-4294565.jpg?tf=1200x' alt='¿Se puede parar la IA si se descontrola? Sam Altman tiene malas noticias para la humanidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-cargando-mal-bateria-movil-tranquilo-expertos-aseguran-no-culpa-1442930'>¿Estás cargando mal la batería de tu móvil? Tranquilo, los expertos aseguran que no es por tu culpa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-cargando-mal-bateria-movil-tranquilo-expertos-aseguran-no-culpa-1442930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cargar-movil-4294531.jpg?tf=1200x' alt='¿Estás cargando mal la batería de tu móvil? Tranquilo, los expertos aseguran que no es por tu culpa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851'>Un ex miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ex-miembro-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-4294399.jpg?tf=1200x' alt='Un ex miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ink-console-consola-pantalla-tinta-electronica-aventuras-texto-1443068'>Ni Switch 2 ni PS5 Pro: Ink Console es una consola con pantalla de tinta electrónica para jugar a aventuras de texto</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ink-console-consola-pantalla-tinta-electronica-aventuras-texto-1443068' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-switch-2-ni-ps5-pro-ink-console-consola-pantalla-tinta-electronica-jugar-aventuras-texto-4294709.jpg?tf=1200x' alt='Ni Switch 2 ni PS5 Pro: Ink Console es una consola con pantalla de tinta electrónica para jugar a aventuras de texto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/senales-portatil-windows-ha-sido-hackeado-hacer-bloquearlo-1443038'>Señales de que tu portátil con Windows ha sido hackeado y qué hacer para bloquearlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/senales-portatil-windows-ha-sido-hackeado-hacer-bloquearlo-1443038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/senales-portatil-windows-ha-sido-hackeado-hacer-bloquearlo-4294707.jpg?tf=1200x' alt='Señales de que tu portátil con Windows ha sido hackeado y qué hacer para bloquearlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/experto-audicion-alarma-uso-auriculares-cancelacion-ruido-1443054'>Experto en audición hace saltar la alarma sobre el uso de auriculares con cancelación de ruido</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/experto-audicion-alarma-uso-auriculares-cancelacion-ruido-1443054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-audicion-hace-saltar-alarma-uso-auriculares-cancelacion-ruido-4294676.jpg?tf=1200x' alt='Experto en audición hace saltar la alarma sobre el uso de auriculares con cancelación de ruido' />
     </a>
 </div>
 
