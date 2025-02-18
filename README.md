@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-1443283'>Un Terabyte por milímetro: esta tecnología permite almacenar cantidades ingentes de datos en un cubo diminuto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-1443283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-4295050.jpg?tf=1200x' alt='Un Terabyte por milímetro: esta tecnología permite almacenar cantidades ingentes de datos en un cubo diminuto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advertencia-urgente-1800-millones-usuarios-gmail-peligro-estafa-amenaza-cuentas-bancarias-1443289'>Advertencia urgente: 1.800 millones de usuarios de Gmail en peligro por una estafa que amenaza las cuentas bancarias</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/advertencia-urgente-1800-millones-usuarios-gmail-peligro-estafa-amenaza-cuentas-bancarias-1443289' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-gmail-4295034.jpg?tf=1200x' alt='Advertencia urgente: 1.800 millones de usuarios de Gmail en peligro por una estafa que amenaza las cuentas bancarias' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/secreto-jeff-bezos-mejorar-productividad-avalan-expertos-contradice-microsoft-1443174'>El secreto de Jeff Bezos para mejorar la productividad, que avalan los expertos y contradice a Microsoft</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/secreto-jeff-bezos-mejorar-productividad-avalan-expertos-contradice-microsoft-1443174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/02/como-evitar-llegar-vejez-sintiendo-has-echado-perder-toda-vida-jeff-bezos-2610371.jpg?tf=1200x' alt='El secreto de Jeff Bezos para mejorar la productividad, que avalan los expertos y contradice a Microsoft' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-solucionar-cambio-estado-suspension-actualizacion-windows-11-24h2-1443281'>Así puedes solucionar el Cambio de Estado de Suspensión tras la actualización de Windows 11 24H2</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-solucionar-cambio-estado-suspension-actualizacion-windows-11-24h2-1443281' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcionamiento-windows-11-4294999.jpg?tf=1200x' alt='Así puedes solucionar el Cambio de Estado de Suspensión tras la actualización de Windows 11 24H2' />
     </a>
 </div>
 
