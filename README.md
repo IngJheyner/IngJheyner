@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-problemas-imagen-1442878'>Movistar Plus+ sigue enfadando a los clientes: continúa sin solucionar uno de sus los problemas más molestos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-problemas-imagen-1442878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-sigue-enfadando-clientes-no-ha-solucionado-problemas-molestos-4294440.jpg?tf=1200x' alt='Movistar Plus+ sigue enfadando a los clientes: continúa sin solucionar uno de sus los problemas más molestos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-siempre-uso-linux-5-ventajas-windows-debes-saber-1428619'>Soy experto en tecnología y siempre uso Linux: 5 ventajas sobre Windows que debes saber</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-siempre-uso-linux-5-ventajas-windows-debes-saber-1428619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-versus-linux-4271063.jpg?tf=1200x' alt='Soy experto en tecnología y siempre uso Linux: 5 ventajas sobre Windows que debes saber' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/ajustes-debes-realizar-whatsapp-mejorar-privacidad-1442917'>4 ajustes que debes realizar en WhatsApp para mejorar tu privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/ajustes-debes-realizar-whatsapp-mejorar-privacidad-1442917' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/4-ajustes-debes-realizar-whatsapp-mejorar-privacidad-4294496.jpg?tf=1200x' alt='4 ajustes que debes realizar en WhatsApp para mejorar tu privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-parar-ia-descontrola-sam-altman-tiene-malas-noticias-humanidad-1442946'>¿Se puede parar la IA si se descontrola? Sam Altman tiene malas noticias para la humanidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/puede-parar-ia-descontrola-sam-altman-tiene-malas-noticias-humanidad-1442946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sam-altman-preocupado-ia-4294565.jpg?tf=1200x' alt='¿Se puede parar la IA si se descontrola? Sam Altman tiene malas noticias para la humanidad' />
     </a>
 </div>
 
