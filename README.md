@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-electricos-ni-hidrogeno-tecnologia-dice-adios-coches-combustion-1443142'>Ni eléctricos ni de hidrógeno: esta es la tecnología que dice adiós a los coches de combustión</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-electricos-ni-hidrogeno-tecnologia-dice-adios-coches-combustion-1443142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/imagen-teletransportarse-ia-4294835.jpg?tf=1200x' alt='Ni eléctricos ni de hidrógeno: esta es la tecnología que dice adiós a los coches de combustión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-mil-metodos-acabar-llamadas-spam-solo-me-ha-funcionado-verdad-1443152'>He probado mil métodos para acabar con las llamadas SPAM y solo uno me ha funcionado de verdad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/he-probado-mil-metodos-acabar-llamadas-spam-solo-me-ha-funcionado-verdad-1443152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='He probado mil métodos para acabar con las llamadas SPAM y solo uno me ha funcionado de verdad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/significado-modo-silencio-movil-psicologia-1404707'>¿Llevas el móvil siempre en silencio? Esto es lo que la psicología dice de ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/significado-modo-silencio-movil-psicologia-1404707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-silencio-movil-4155305.jpg?tf=1200x' alt='¿Llevas el móvil siempre en silencio? Esto es lo que la psicología dice de ti' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/oneplus-watch-3-smartwatch-premium-wear-os-5-autonomia-como-gran-baza-1443124'>OnePlus Watch 3: un smartwatch premium con Wear OS 5 y la autonomía como gran baza</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/oneplus-watch-3-smartwatch-premium-wear-os-5-autonomia-como-gran-baza-1443124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oneplus-watch-3-4294831.jpg?tf=1200x' alt='OnePlus Watch 3: un smartwatch premium con Wear OS 5 y la autonomía como gran baza' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-bateria-made-spain-quiere-cambiar-reglas-juego-1443097'>Giro de 180 grados en el coche eléctrico: esta batería 'Made in Spain' quiere cambiar las reglas del juego</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-bateria-made-spain-quiere-cambiar-reglas-juego-1443097' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-coche-electrico-espana-4294759.jpg?tf=1200x' alt='Giro de 180 grados en el coche eléctrico: esta batería 'Made in Spain' quiere cambiar las reglas del juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/mexico-google-maps-llevara-google-tribunales-no-rectifica-mapas-1443121'>México contra Google Maps: llevará a Google a los tribunales si no rectifica sus mapas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/mexico-google-maps-llevara-google-tribunales-no-rectifica-mapas-1443121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mexico-google-maps-trump-4294803.jpg?tf=1200x' alt='México contra Google Maps: llevará a Google a los tribunales si no rectifica sus mapas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-queda-sola-iptv-movistar-abandona-javier-tebas-no-bloqueara-cloudflare-1443090'>DIGI se queda sola contra las IPTV: Movistar abandona a Javier Tebas y no bloqueará a Cloudflare</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/digi-queda-sola-iptv-movistar-abandona-javier-tebas-no-bloqueara-cloudflare-1443090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-logo-movistar-4294825.jpg?tf=1200x' alt='DIGI se queda sola contra las IPTV: Movistar abandona a Javier Tebas y no bloqueará a Cloudflare' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145'>Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/novedades-apple-iphone-4-ipad-macbook-4294804.jpg?tf=1200x' alt='Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más' />
     </a>
 </div>
 
