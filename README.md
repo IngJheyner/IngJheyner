@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/mexico-google-maps-llevara-google-tribunales-no-rectifica-mapas-1443121'>México contra Google Maps: llevará a Google a los tribunales si no rectifica sus mapas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/mexico-google-maps-llevara-google-tribunales-no-rectifica-mapas-1443121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mexico-google-maps-trump-4294803.jpg?tf=1200x' alt='México contra Google Maps: llevará a Google a los tribunales si no rectifica sus mapas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-queda-sola-iptv-movistar-abandona-javier-tebas-no-bloqueara-cloudflare-1443090'>DIGI se queda sola contra las IPTV: Movistar abandona a Javier Tebas y no bloqueará a Cloudflare</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/digi-queda-sola-iptv-movistar-abandona-javier-tebas-no-bloqueara-cloudflare-1443090' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-logo-movistar-4294825.jpg?tf=1200x' alt='DIGI se queda sola contra las IPTV: Movistar abandona a Javier Tebas y no bloqueará a Cloudflare' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145'>Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/todo-apple-deberia-presentar-proximas-semanas-iphone-ipad-macbook-1443145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/novedades-apple-iphone-4-ipad-macbook-4294804.jpg?tf=1200x' alt='Esto es todo lo que Apple debería presentar en las próximas semanas: iPhone, iPad, MacBook y más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-baterias-aluminio-eternas-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-baterias-aluminio-eternas-1442577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-bateria-aluminio-coche-electrico-4294768.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877'>Grok 3 ya está aquí, la "IA más inteligente de la Tierra" según Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Grok 3 ya está aquí, la "IA más inteligente de la Tierra" según Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/he-pasado-rato-movil-camaleonico-realme-ya-ha-convertido-mi-diseno-favorito-ano-1442888'>He pasado un rato con el móvil 'camaleónico' de Realme y ya se ha convertido en mi diseño favorito del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/he-pasado-rato-movil-camaleonico-realme-ya-ha-convertido-mi-diseno-favorito-ano-1442888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/realme-14-pro-14-pro-cambio-color-4294615.jpg?tf=1200x' alt='He pasado un rato con el móvil 'camaleónico' de Realme y ya se ha convertido en mi diseño favorito del año' />
     </a>
 </div>
 
