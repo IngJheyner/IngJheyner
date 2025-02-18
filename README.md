@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tira-tierra-esperanzas-toda-generacion-como-intentar-vencer-calculadora-1443191'>Sam Altman tira por tierra las esperanzas de toda una generación: "Es como intentar vencer a una calculadora"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tira-tierra-esperanzas-toda-generacion-como-intentar-vencer-calculadora-1443191' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/altman-4294915.jpg?tf=1200x' alt='Sam Altman tira por tierra las esperanzas de toda una generación: "Es como intentar vencer a una calculadora"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/velada-5-ibai-combates-fecha-ciudad-todo-ya-sabemos-eventos-ano-1443223'>Velada 5 de Ibai: combates, fecha, ciudad y todo lo que ya sabemos de uno de los eventos del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/velada-5-ibai-combates-fecha-ciudad-todo-ya-sabemos-eventos-ano-1443223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/velada-5-ibai-combates-fecha-ciudad-todo-ya-sabemos-eventos-ano-4294968.jpg?tf=1200x' alt='Velada 5 de Ibai: combates, fecha, ciudad y todo lo que ya sabemos de uno de los eventos del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155'>Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/itv-baterias-coche-electrico-4294916.jpg?tf=1200x' alt='Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-1443134'>Desmantelada en España una importante red de distribución de IPTV, películas, series y videojuegos piratas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-1443134' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-4294813.jpg?tf=1200x' alt='Desmantelada en España una importante red de distribución de IPTV, películas, series y videojuegos piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-alcanzo-exito-gracias-clasico-ciencia-ficcion-pero-no-todo-mundo-conoce-1443160'>Bill Gates alcanzó el éxito gracias a este clásico de la ciencia ficción, pero no todo el mundo lo conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-alcanzo-exito-gracias-clasico-ciencia-ficcion-pero-no-todo-mundo-conoce-1443160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bill-gates-libros-3069496.jpg?tf=1200x' alt='Bill Gates alcanzó el éxito gracias a este clásico de la ciencia ficción, pero no todo el mundo lo conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-realiza-asombroso-descubrimiento-marte-podria-cambiar-todo-sabemos-planeta-rojo-1443199'>La NASA realiza un asombroso descubrimiento en Marte: "Podría cambiar todo lo que sabemos del planeta rojo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-realiza-asombroso-descubrimiento-marte-podria-cambiar-todo-sabemos-planeta-rojo-1443199' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/robot-espacial-curiosity.jpg?tf=1200x' alt='La NASA realiza un asombroso descubrimiento en Marte: "Podría cambiar todo lo que sabemos del planeta rojo"' />
     </a>
 </div>
 
