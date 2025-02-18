@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-nueva-ia-elon-musk-ya-disponible-como-utilizarla-ventajas-diferencias-chatgpt-deepseek-1443105'>Grok 3 la nueva IA de Elon Musk ya disponible: cómo utilizarla, ventajas y diferencias con ChatGPT y DeepSeek</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-nueva-ia-elon-musk-ya-disponible-como-utilizarla-ventajas-diferencias-chatgpt-deepseek-1443105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-3-elon-musk-4294762.jpg?tf=1200x' alt='Grok 3 la nueva IA de Elon Musk ya disponible: cómo utilizarla, ventajas y diferencias con ChatGPT y DeepSeek' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-baterias-aluminio-eternas-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-baterias-aluminio-eternas-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-bateria-aluminio-coche-electrico-4294768.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877'>Grok 3 ya está aquí, la "IA más inteligente de la Tierra" según Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-disponible-grok-3-ia-inteligente-tierra-elon-musk-1442877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/grok-elon-musk-4275016.jpg?tf=1200x' alt='Grok 3 ya está aquí, la "IA más inteligente de la Tierra" según Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/he-pasado-rato-movil-camaleonico-realme-ya-ha-convertido-mi-diseno-favorito-ano-1442888'>He pasado un rato con el móvil 'camaleónico' de Realme y ya se ha convertido en mi diseño favorito del año</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/he-pasado-rato-movil-camaleonico-realme-ya-ha-convertido-mi-diseno-favorito-ano-1442888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/realme-14-pro-14-pro-cambio-color-4294615.jpg?tf=1200x' alt='He pasado un rato con el móvil 'camaleónico' de Realme y ya se ha convertido en mi diseño favorito del año' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-pc-microsoft-endurece-requisitos-windows-11-afecta-windows-12-1443096'>¿Adiós a tu PC? Microsoft endurece los requisitos de Windows 11 y afecta a Windows 12</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-pc-microsoft-endurece-requisitos-windows-11-afecta-windows-12-1443096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-11-4274189.jpg?tf=1200x' alt='¿Adiós a tu PC? Microsoft endurece los requisitos de Windows 11 y afecta a Windows 12' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inicio-sesion-cuenta-microsoft-recopila-datos-1443092'>Cambio radical en el Bloc de Notas de Windows 11: añade inicio de sesión, y recopila tus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/bloc-notas-windows-11-inicio-sesion-cuenta-microsoft-recopila-datos-1443092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-bloc-notas-anade-inicio-sesion-cuenta-microsoft-recopila-datos-4294735.jpg?tf=1200x' alt='Cambio radical en el Bloc de Notas de Windows 11: añade inicio de sesión, y recopila tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-problemas-imagen-1442878'>Movistar Plus+ sigue enfadando a los clientes: continúa sin solucionar uno de sus los problemas más molestos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/movistar-plus-sigue-enfadando-clientes-problemas-imagen-1442878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-sigue-enfadando-clientes-no-ha-solucionado-problemas-molestos-4294440.jpg?tf=1200x' alt='Movistar Plus+ sigue enfadando a los clientes: continúa sin solucionar uno de sus los problemas más molestos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-siempre-uso-linux-5-ventajas-windows-debes-saber-1428619'>Soy experto en tecnología y siempre uso Linux: 5 ventajas sobre Windows que debes saber</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/soy-experto-tecnologia-siempre-uso-linux-5-ventajas-windows-debes-saber-1428619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/windows-versus-linux-4271063.jpg?tf=1200x' alt='Soy experto en tecnología y siempre uso Linux: 5 ventajas sobre Windows que debes saber' />
     </a>
 </div>
 
