@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/gran-misterio-bing-bang-theory-podria-resolverse-despues-17-anos-1441872'>El gran misterio de The Bing Bang Theory que podría resolverse después de 17 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/gran-misterio-bing-bang-theory-podria-resolverse-despues-17-anos-1441872' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/12/big-bang-theory-penny-2889682.jpg?tf=1200x' alt='El gran misterio de The Bing Bang Theory que podría resolverse después de 17 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-inteligencia-artificial-tambien-sufre-deterioro-cognitivo-paso-tiempo-1443208'>Expertos descubren que la inteligencia artificial también sufre deterioro cognitivo con el paso del tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-inteligencia-artificial-tambien-sufre-deterioro-cognitivo-paso-tiempo-1443208' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deterioro-cognitivo-ia-4294937.jpg?tf=1200x' alt='Expertos descubren que la inteligencia artificial también sufre deterioro cognitivo con el paso del tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cansado-nadie-pague-winrar-reinventa-forma-sorprendente-1443245'>Cansado de que nadie pague, WinRAR se reinventa de una forma sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cansado-nadie-pague-winrar-reinventa-forma-sorprendente-1443245' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nuevo-bolso-winrar-4294956.jpg?tf=1200x' alt='Cansado de que nadie pague, WinRAR se reinventa de una forma sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/radares-dgt-indetectables-waze-google-maps-1442768'>Golpe maestro de la DGT: así son los nuevos radares indetectables por Waze y Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/radares-dgt-indetectables-waze-google-maps-1442768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-uso-waze-google-maps-4294985.jpg?tf=1200x' alt='Golpe maestro de la DGT: así son los nuevos radares indetectables por Waze y Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tira-tierra-esperanzas-toda-generacion-como-intentar-vencer-calculadora-1443191'>Sam Altman tira por tierra las esperanzas de toda una generación: "Es como intentar vencer a una calculadora"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tira-tierra-esperanzas-toda-generacion-como-intentar-vencer-calculadora-1443191' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/altman-4294915.jpg?tf=1200x' alt='Sam Altman tira por tierra las esperanzas de toda una generación: "Es como intentar vencer a una calculadora"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/velada-5-ibai-combates-fecha-ciudad-todo-ya-sabemos-eventos-ano-1443223'>Velada 5 de Ibai: combates, fecha, ciudad y todo lo que ya sabemos de uno de los eventos del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/velada-5-ibai-combates-fecha-ciudad-todo-ya-sabemos-eventos-ano-1443223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/velada-5-ibai-combates-fecha-ciudad-todo-ya-sabemos-eventos-ano-4294968.jpg?tf=1200x' alt='Velada 5 de Ibai: combates, fecha, ciudad y todo lo que ya sabemos de uno de los eventos del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155'>Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palo-coche-electrico-itv-periodica-baterias-multiplicaria-gastos-mantenimiento-1443155' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/itv-baterias-coche-electrico-4294916.jpg?tf=1200x' alt='Palo para el coche eléctrico: una ITV periódica de las baterías que multiplicaría los gastos de mantenimiento' />
     </a>
 </div>
 
