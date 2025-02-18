@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-1443167'>Elon Musk construyó un superordenador en 19 días, 4 meses después se enfrenta a un problema sanitario</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-1443167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-construyo-superordenador-19-dias-4-meses-despues-enfrenta-problema-sanitario-4294857.jpg?tf=1200x' alt='Elon Musk construyó un superordenador en 19 días, 4 meses después se enfrenta a un problema sanitario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-1443134'>Desmantelada en España una importante red de distribución de IPTV, películas, series y videojuegos piratas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-1443134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desmantelada-espana-importante-red-distribucion-iptv-peliculas-series-videojuegos-piratas-4294813.jpg?tf=1200x' alt='Desmantelada en España una importante red de distribución de IPTV, películas, series y videojuegos piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-alcanzo-exito-gracias-clasico-ciencia-ficcion-pero-no-todo-mundo-conoce-1443160'>Bill Gates alcanzó el éxito gracias a este clásico de la ciencia ficción, pero no todo el mundo lo conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-alcanzo-exito-gracias-clasico-ciencia-ficcion-pero-no-todo-mundo-conoce-1443160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/bill-gates-libros-3069496.jpg?tf=1200x' alt='Bill Gates alcanzó el éxito gracias a este clásico de la ciencia ficción, pero no todo el mundo lo conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-realiza-asombroso-descubrimiento-marte-podria-cambiar-todo-sabemos-planeta-rojo-1443199'>La NASA realiza un asombroso descubrimiento en Marte: "Podría cambiar todo lo que sabemos del planeta rojo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-realiza-asombroso-descubrimiento-marte-podria-cambiar-todo-sabemos-planeta-rojo-1443199' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2018/10/robot-espacial-curiosity.jpg?tf=1200x' alt='La NASA realiza un asombroso descubrimiento en Marte: "Podría cambiar todo lo que sabemos del planeta rojo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-electricos-ni-hidrogeno-tecnologia-dice-adios-coches-combustion-1443142'>Ni eléctricos ni de hidrógeno: esta es la tecnología que dice adiós a los coches de combustión</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-electricos-ni-hidrogeno-tecnologia-dice-adios-coches-combustion-1443142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/imagen-teletransportarse-ia-4294835.jpg?tf=1200x' alt='Ni eléctricos ni de hidrógeno: esta es la tecnología que dice adiós a los coches de combustión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-mil-metodos-acabar-llamadas-spam-solo-me-ha-funcionado-verdad-1443152'>He probado mil métodos para acabar con las llamadas SPAM y solo uno me ha funcionado de verdad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/he-probado-mil-metodos-acabar-llamadas-spam-solo-me-ha-funcionado-verdad-1443152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/adios-spam-telefonico-normativa-impedira-recibir-llamadas-no-deseadas-no-3025290.jpg?tf=1200x' alt='He probado mil métodos para acabar con las llamadas SPAM y solo uno me ha funcionado de verdad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/significado-modo-silencio-movil-psicologia-1404707'>¿Llevas el móvil siempre en silencio? Esto es lo que la psicología dice de ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/significado-modo-silencio-movil-psicologia-1404707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/modo-silencio-movil-4155305.jpg?tf=1200x' alt='¿Llevas el móvil siempre en silencio? Esto es lo que la psicología dice de ti' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oneplus-watch-3-smartwatch-premium-wear-os-5-autonomia-como-gran-baza-1443124'>OnePlus Watch 3: un smartwatch premium con Wear OS 5 y la autonomía como gran baza</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/oneplus-watch-3-smartwatch-premium-wear-os-5-autonomia-como-gran-baza-1443124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oneplus-watch-3-4294831.jpg?tf=1200x' alt='OnePlus Watch 3: un smartwatch premium con Wear OS 5 y la autonomía como gran baza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-bateria-made-spain-quiere-cambiar-reglas-juego-1443097'>Giro de 180 grados en el coche eléctrico: esta batería 'Made in Spain' quiere cambiar las reglas del juego</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-bateria-made-spain-quiere-cambiar-reglas-juego-1443097' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-coche-electrico-espana-4294759.jpg?tf=1200x' alt='Giro de 180 grados en el coche eléctrico: esta batería 'Made in Spain' quiere cambiar las reglas del juego' />
     </a>
 </div>
 
