@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417'>La exdirectora de OpenAI se rebela y prepara un "anti ChatGPT" junto a algunos de los mayores expertos en IA del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-4295242.jpg?tf=1200x' alt='La exdirectora de OpenAI se rebela y prepara un "anti ChatGPT" junto a algunos de los mayores expertos en IA del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-dolores-cabeza-funcion-windows-11-promete-hacer-facil-nunca-cambiar-pc-1443447'>Adiós a los dolores de cabeza: esta función de Windows 11 promete hacer más fácil que nunca cambiar de PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-dolores-cabeza-funcion-windows-11-promete-hacer-facil-nunca-cambiar-pc-1443447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-windows-11-pc-gaming-4284253.jpg?tf=1200x' alt='Adiós a los dolores de cabeza: esta función de Windows 11 promete hacer más fácil que nunca cambiar de PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cual-diferencia-inteligencia-artificial-inteligencia-asistida-tan-importante-1443446'>Cuál es la diferencia entre inteligencia artificial e inteligencia asistida y por qué es tan importante</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cual-diferencia-inteligencia-artificial-inteligencia-asistida-tan-importante-1443446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dudas-inteligencia-artificial-4295300.jpg?tf=1200x' alt='Cuál es la diferencia entre inteligencia artificial e inteligencia asistida y por qué es tan importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-fracasa-intento-mantener-salvo-mayor-secreto-bateria-4680-1443418'>Tesla fracasa en su intento de mantener a salvo su mayor secreto: la batería 4680</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-fracasa-intento-mantener-salvo-mayor-secreto-bateria-4680-1443418' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-fracasa-intento-mantener-salvo-mayor-secreto-bateria-4680-4295246.jpg?tf=1200x' alt='Tesla fracasa en su intento de mantener a salvo su mayor secreto: la batería 4680' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/oficial-guerra-iptv-estalla-espana-laliga-responde-acusaciones-cloudflare-1443438'>Es oficial, la guerra de las IPTV estalla en España: LaLiga responde a las acusaciones de Cloudflare</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/oficial-guerra-iptv-estalla-espana-laliga-responde-acusaciones-cloudflare-1443438' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conflicto-laliga-javier-tebas-cloudflare-4295318.jpg?tf=1200x' alt='Es oficial, la guerra de las IPTV estalla en España: LaLiga responde a las acusaciones de Cloudflare' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417'>La exdirectora de OpenAI se revela y prepara un "anti ChatGPT" junto algunos de los mayores expertos en IA del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-4295242.jpg?tf=1200x' alt='La exdirectora de OpenAI se revela y prepara un "anti ChatGPT" junto algunos de los mayores expertos en IA del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-facebook-meta-eliminara-videos-pero-puedes-descargarlos-1443397'>Giro de 180 grados en Facebook: Meta eliminará tus vídeos, pero así puedes descargarlos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-facebook-meta-eliminara-videos-pero-puedes-descargarlos-1443397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/facebook-meta-4295223.jpg?tf=1200x' alt='Giro de 180 grados en Facebook: Meta eliminará tus vídeos, pero así puedes descargarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-digi-encuentra-enemigo-inesperado-ayuntamientos-1443371'>Ni Movistar ni Vodafone, DIGI se encuentra con un enemigo inesperado: los ayuntamientos</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-digi-encuentra-enemigo-inesperado-ayuntamientos-1443371' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-movistar-ni-vodafone-digi-encuentra-enemigo-inesperado-ayuntamientos-4295216.jpg?tf=1200x' alt='Ni Movistar ni Vodafone, DIGI se encuentra con un enemigo inesperado: los ayuntamientos' />
     </a>
 </div>
 
