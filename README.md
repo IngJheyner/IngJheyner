@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Manchester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Manchester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trabajador-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851'>Antiguo miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/trabajador-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/peligros-inteligencia-artificial-4295220.jpg?tf=1200x' alt='Antiguo miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fundador-google-deepmind-reconoce-preocupacion-ia-razon-no-duermo-1443337'>El fundador de Google DeepMind reconoce su preocupación por la IA: "Es la razón por la que no duermo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fundador-google-deepmind-reconoce-preocupacion-ia-razon-no-duermo-1443337' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fundador-google-deepmind-reconoce-preocupacion-ia-razon-no-duermo-4295137.jpg?tf=1200x' alt='El fundador de Google DeepMind reconoce su preocupación por la IA: "Es la razón por la que no duermo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cloudflare-como-funciona-laliga-acusa-proteger-iptv-pirateria-1443392'>Qué es Cloudflare, cómo funciona y por qué LaLiga lo acusa de proteger a las IPTV y la piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cloudflare-como-funciona-laliga-acusa-proteger-iptv-pirateria-1443392' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cloudflare-4295172.jpg?tf=1200x' alt='Qué es Cloudflare, cómo funciona y por qué LaLiga lo acusa de proteger a las IPTV y la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-1443341'>WhatsApp tiene cuatro meses para cumplir con la nueva normativa de la UE o se enfrentará a una multa millonaria</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-1443341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-4295171.jpg?tf=1200x' alt='WhatsApp tiene cuatro meses para cumplir con la nueva normativa de la UE o se enfrentará a una multa millonaria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/quishing-funciona-estafa-pone-jaque-conductores-coches-electricos-1443353'>'Quishing': así funciona la estafa que pone en jaque a los conductores de coches eléctricos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/quishing-funciona-estafa-pone-jaque-conductores-coches-electricos-1443353' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-codigo-qr-coche-electrico-4295169.jpg?tf=1200x' alt=''Quishing': así funciona la estafa que pone en jaque a los conductores de coches eléctricos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-nuevas-baterias-aluminio-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-nuevas-baterias-aluminio-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-coche-electrico-4295170.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/cuando-presenta-iphone-4-horario-caracteristicas-precios-1443340'>Cuándo se presenta el iPhone SE 4: horario, características, precios y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/cuando-presenta-iphone-4-horario-caracteristicas-precios-1443340' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-no-llegara-semana-pero-apple-podria-tener-manga-4293287.jpg?tf=1200x' alt='Cuándo se presenta el iPhone SE 4: horario, características, precios y más' />
     </a>
 </div>
 
