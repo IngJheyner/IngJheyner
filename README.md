@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/quishing-funciona-estafa-pone-jaque-conductores-coches-electricos-1443353'>'Quishing': así funciona la estafa que pone en jaque a los conductores de coches eléctricos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/quishing-funciona-estafa-pone-jaque-conductores-coches-electricos-1443353' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-codigo-qr-coche-electrico-4295169.jpg?tf=1200x' alt=''Quishing': así funciona la estafa que pone en jaque a los conductores de coches eléctricos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-nuevas-baterias-aluminio-1442577'>Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-nuevas-baterias-aluminio-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-coche-electrico-4295170.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, llegan las baterías de aluminio que duran toda la vida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Machester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/cuando-presenta-iphone-4-horario-caracteristicas-precios-1443340'>Cuándo se presenta el iPhone SE 4: horario, características, precios y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/cuando-presenta-iphone-4-horario-caracteristicas-precios-1443340' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-no-llegara-semana-pero-apple-podria-tener-manga-4293287.jpg?tf=1200x' alt='Cuándo se presenta el iPhone SE 4: horario, características, precios y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-watch-5-me-confirma-no-hay-casi-nada-como-buena-bateria-1442938'>El Xiaomi Redmi Watch 5 me confirma que no hay (casi) nada como una buena una batería </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-watch-5-me-confirma-no-hay-casi-nada-como-buena-bateria-1442938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-watch-5-4294529.jpg?tf=1200x' alt='El Xiaomi Redmi Watch 5 me confirma que no hay (casi) nada como una buena una batería ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/experto-windows-explica-misteriosa-aplicacion-program-arranque-debes-quitarla-1443323'>Experto en Windows explica qué es la misteriosa aplicación Program del arranque, y por qué debes quitarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/experto-windows-explica-misteriosa-aplicacion-program-arranque-debes-quitarla-1443323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-windows-explica-app-program-arranque-windows-debes-quitarla-4295116.jpg?tf=1200x' alt='Experto en Windows explica qué es la misteriosa aplicación Program del arranque, y por qué debes quitarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/verdad-usa-ia-moviles-directivo-samsung-numero-usuarios-frecuentes-muy-alto-espana-1442811'>¿De verdad se usa la IA en móviles? Según este directivo de Samsung el número de usuarios frecuentes es "muy alto" en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/verdad-usa-ia-moviles-directivo-samsung-numero-usuarios-frecuentes-muy-alto-espana-1442811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/santiago-izquierdo-head-technology-platforms-samsung-electronics-iberia-4294673.jpg?tf=1200x' alt='¿De verdad se usa la IA en móviles? Según este directivo de Samsung el número de usuarios frecuentes es "muy alto" en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-1443187'>Profesor de universidad somete a ChatGPT y DeepSeek a un duro examen de ingeniería: "Es anticuado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-1443187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-4294885.jpg?tf=1200x' alt='Profesor de universidad somete a ChatGPT y DeepSeek a un duro examen de ingeniería: "Es anticuado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-1443067'>El vidrio podría tener la llave para las baterías del coche eléctrico del futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-1443067' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-4294728.jpg?tf=1200x' alt='El vidrio podría tener la llave para las baterías del coche eléctrico del futuro' />
     </a>
 </div>
 
