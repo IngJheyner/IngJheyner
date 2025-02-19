@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-1443187'>Profesor de universidad somete a ChatGPT y DeepSeek a un duro examen de ingeniería: "Es anticuado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-1443187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-4294885.jpg?tf=1200x' alt='Profesor de universidad somete a ChatGPT y DeepSeek a un duro examen de ingeniería: "Es anticuado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-1443067'>El vidrio podría tener la llave para las baterías del coche eléctrico del futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-1443067' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-4294728.jpg?tf=1200x' alt='El vidrio podría tener la llave para las baterías del coche eléctrico del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-revelan-consecuencias-utilizar-ia-puede-afectar-cerebro-1443070'>Los expertos revelan las consecuencias de utilizar IA: así puede afectar a tu cerebro</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/expertos-revelan-consecuencias-utilizar-ia-puede-afectar-cerebro-1443070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-revelan-consecuencias-ia-puede-afectar-cerebro-4294730.jpg?tf=1200x' alt='Los expertos revelan las consecuencias de utilizar IA: así puede afectar a tu cerebro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-banco-preocupa-expertos-puedes-identificarla-segundos-1443091'>La estafa del banco que preocupa a los expertos: así puedes identificarla en segundos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-banco-preocupa-expertos-puedes-identificarla-segundos-1443091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-banco-preocupa-expertos-puedes-identificarla-segundos-4294748.jpg?tf=1200x' alt='La estafa del banco que preocupa a los expertos: así puedes identificarla en segundos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tareas-dia-dia-deberias-utilizar-ia-sam-altman-1443202'>Estas son las tareas del día a día para las que deberías utilizar la IA, según Sam Altman</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tareas-dia-dia-deberias-utilizar-ia-sam-altman-1443202' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-tareas-dia-dia-deberias-utilizar-ia-sam-altman-openia-4294903.jpg?tf=1200x' alt='Estas son las tareas del día a día para las que deberías utilizar la IA, según Sam Altman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hp-compra-humane-116-millones-dolares-cancela-ai-pin-1443315'>Iba a sustituir al iPhone: HP compra Humane por 116 millones de dólares, y cancela el AI Pin</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hp-compra-humane-116-millones-dolares-cancela-ai-pin-1443315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/preocupante-dato-humane-ai-pin-devuelven-dispositivos-compran-3904006.jpg?tf=1200x' alt='Iba a sustituir al iPhone: HP compra Humane por 116 millones de dólares, y cancela el AI Pin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-deportivo-ligero-reducido-entrenamiento-recuperacion-1443307'>Amazfit Active 2, el reloj deportivo ligero y compacto para registrar el entrenamiento y la recuperación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-deportivo-ligero-reducido-entrenamiento-recuperacion-1443307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazfit-active-2-reloj-deportivo-ligero-reducido-registrar-entrenamiento-recuperacion-4295040.jpg?tf=1200x' alt='Amazfit Active 2, el reloj deportivo ligero y compacto para registrar el entrenamiento y la recuperación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-1443283'>Un Terabyte por milímetro: esta tecnología permite almacenar cantidades ingentes de datos en un cubo diminuto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-1443283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/terabyte-milimetro-tecnologia-permite-almacenar-cantidades-ingentes-datos-cubo-diminuto-4295050.jpg?tf=1200x' alt='Un Terabyte por milímetro: esta tecnología permite almacenar cantidades ingentes de datos en un cubo diminuto' />
     </a>
 </div>
 
