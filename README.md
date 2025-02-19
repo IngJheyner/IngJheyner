@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-1443341'>WhatsApp tiene cuatro meses para cumplir con la nueva normativa de la UE o se enfrentará a una multa millonaria</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-1443341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-4295171.jpg?tf=1200x' alt='WhatsApp tiene cuatro meses para cumplir con la nueva normativa de la UE o se enfrentará a una multa millonaria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/quishing-funciona-estafa-pone-jaque-conductores-coches-electricos-1443353'>'Quishing': así funciona la estafa que pone en jaque a los conductores de coches eléctricos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/quishing-funciona-estafa-pone-jaque-conductores-coches-electricos-1443353' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-codigo-qr-coche-electrico-4295169.jpg?tf=1200x' alt=''Quishing': así funciona la estafa que pone en jaque a los conductores de coches eléctricos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/cuando-presenta-iphone-4-horario-caracteristicas-precios-1443340'>Cuándo se presenta el iPhone SE 4: horario, características, precios y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/cuando-presenta-iphone-4-horario-caracteristicas-precios-1443340' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-4-no-llegara-semana-pero-apple-podria-tener-manga-4293287.jpg?tf=1200x' alt='Cuándo se presenta el iPhone SE 4: horario, características, precios y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-watch-5-me-confirma-no-hay-casi-nada-como-buena-bateria-1442938'>El Xiaomi Redmi Watch 5 me confirma que no hay (casi) nada como una buena una batería </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-watch-5-me-confirma-no-hay-casi-nada-como-buena-bateria-1442938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-watch-5-4294529.jpg?tf=1200x' alt='El Xiaomi Redmi Watch 5 me confirma que no hay (casi) nada como una buena una batería ' />
     </a>
 </div>
 
