@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-watch-5-me-confirma-no-hay-casi-nada-como-buena-bateria-1442938'>El Xiaomi Redmi Watch 5 me confirma que no hay (casi) nada como una buena una batería </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-redmi-watch-5-me-confirma-no-hay-casi-nada-como-buena-bateria-1442938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-redmi-watch-5-4294529.jpg?tf=1200x' alt='El Xiaomi Redmi Watch 5 me confirma que no hay (casi) nada como una buena una batería ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/experto-windows-explica-misteriosa-aplicacion-program-arranque-debes-quitarla-1443323'>Experto en Windows explica qué es la misteriosa aplicación Program del arranque, y por qué debes quitarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/experto-windows-explica-misteriosa-aplicacion-program-arranque-debes-quitarla-1443323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-windows-explica-app-program-arranque-windows-debes-quitarla-4295116.jpg?tf=1200x' alt='Experto en Windows explica qué es la misteriosa aplicación Program del arranque, y por qué debes quitarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/verdad-usa-ia-moviles-directivo-samsung-numero-usuarios-frecuentes-muy-alto-espana-1442811'>¿De verdad se usa la IA en móviles? Según este directivo de Samsung el número de usuarios frecuentes es "muy alto" en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/verdad-usa-ia-moviles-directivo-samsung-numero-usuarios-frecuentes-muy-alto-espana-1442811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/santiago-izquierdo-head-technology-platforms-samsung-electronics-iberia-4294673.jpg?tf=1200x' alt='¿De verdad se usa la IA en móviles? Según este directivo de Samsung el número de usuarios frecuentes es "muy alto" en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-1443187'>Profesor de universidad somete a ChatGPT y DeepSeek a un duro examen de ingeniería: "Es anticuado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-1443187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/profesor-universidad-somete-chatgpt-deepseek-duro-examen-ingenieria-anticuado-4294885.jpg?tf=1200x' alt='Profesor de universidad somete a ChatGPT y DeepSeek a un duro examen de ingeniería: "Es anticuado"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-1443067'>El vidrio podría tener la llave para las baterías del coche eléctrico del futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-1443067' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vidrio-podria-tener-llave-baterias-coche-electrico-futuro-4294728.jpg?tf=1200x' alt='El vidrio podría tener la llave para las baterías del coche eléctrico del futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-revelan-consecuencias-utilizar-ia-puede-afectar-cerebro-1443070'>Los expertos revelan las consecuencias de utilizar IA: así puede afectar a tu cerebro</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/expertos-revelan-consecuencias-utilizar-ia-puede-afectar-cerebro-1443070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-revelan-consecuencias-ia-puede-afectar-cerebro-4294730.jpg?tf=1200x' alt='Los expertos revelan las consecuencias de utilizar IA: así puede afectar a tu cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-banco-preocupa-expertos-puedes-identificarla-segundos-1443091'>La estafa del banco que preocupa a los expertos: así puedes identificarla en segundos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-banco-preocupa-expertos-puedes-identificarla-segundos-1443091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-banco-preocupa-expertos-puedes-identificarla-segundos-4294748.jpg?tf=1200x' alt='La estafa del banco que preocupa a los expertos: así puedes identificarla en segundos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tareas-dia-dia-deberias-utilizar-ia-sam-altman-1443202'>Estas son las tareas del día a día para las que deberías utilizar la IA, según Sam Altman</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-tareas-dia-dia-deberias-utilizar-ia-sam-altman-1443202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-tareas-dia-dia-deberias-utilizar-ia-sam-altman-openia-4294903.jpg?tf=1200x' alt='Estas son las tareas del día a día para las que deberías utilizar la IA, según Sam Altman' />
     </a>
 </div>
 
