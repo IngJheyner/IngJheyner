@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-operadoras-punto-mira-bloqueo-iptv-algunos-sufren-problemas-dias-partido-1443396'>LaLiga y operadoras en el punto de mira por el bloqueo de IPTV: ¿por qué algunos sufren más problemas en días de partido?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/laliga-operadoras-punto-mira-bloqueo-iptv-algunos-sufren-problemas-dias-partido-1443396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/10/laliga-afirma-falta-solo-paso-ver-futbol-gratis-iptv-sea-casi-imposible-3201730.jpg?tf=1200x' alt='LaLiga y operadoras en el punto de mira por el bloqueo de IPTV: ¿por qué algunos sufren más problemas en días de partido?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-usuarios-thermomix-espana-alto-riesgo-estafa-1441784'>Vorwerk alerta a todos los usuarios de Thermomix en España por riesgo de estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/vorwerk-alerta-usuarios-thermomix-espana-alto-riesgo-estafa-1441784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-thermomix-vorwerk-4292626.jpg?tf=1200x' alt='Vorwerk alerta a todos los usuarios de Thermomix en España por riesgo de estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036'>Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thermomix-tm7-4294650.jpg?tf=1200x' alt='Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ventajas-unicas-1442724'>Diseñan un revolucionario barco con el morro de un avión, que ofrece unas ventajas únicas</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ventajas-unicas-1442724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/barco-forma-avion-4295237.jpg?tf=1200x' alt='Diseñan un revolucionario barco con el morro de un avión, que ofrece unas ventajas únicas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Manchester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Manchester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/trabajador-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851'>Antiguo miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/trabajador-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/peligros-inteligencia-artificial-4295220.jpg?tf=1200x' alt='Antiguo miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"' />
     </a>
 </div>
 
