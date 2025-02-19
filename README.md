@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-amazon-prime-video-arrasa-todo-mundo-basada-exito-espanol-1443320'>La película de Amazon Prime Video que arrasa en todo el mundo: está basada en un éxito español</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/pelicula-amazon-prime-video-arrasa-todo-mundo-basada-exito-espanol-1443320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-amazon-prime-video-arrasa-todo-mundo-basada-exito-espanol-4295115.jpg?tf=1200x' alt='La película de Amazon Prime Video que arrasa en todo el mundo: está basada en un éxito español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-ia-elon-musk-queda-fuera-europa-ha-puesto-propio-telon-acero-1443451'>Grok 3, la IA de Elon Musk, queda fuera de Europa: "Se ha puesto su propio Telón de Acero"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-ia-elon-musk-queda-fuera-europa-ha-puesto-propio-telon-acero-1443451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-4295317.jpg?tf=1200x' alt='Grok 3, la IA de Elon Musk, queda fuera de Europa: "Se ha puesto su propio Telón de Acero"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/giro-total-televisor-xiaomi-vende-aparato-instalar-movistar-disney-vpn-menos-firestick-1443440'>Giro total a tu televisor: Xiaomi vende un aparato para instalar Movistar, Disney y hasta VPN, y por menos que un Firestick</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/giro-total-televisor-xiaomi-vende-aparato-instalar-movistar-disney-vpn-menos-firestick-1443440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/xiaomi-tv-box-s-2nd-gen-3280982.jpg?tf=1200x' alt='Giro total a tu televisor: Xiaomi vende un aparato para instalar Movistar, Disney y hasta VPN, y por menos que un Firestick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/freidora-aire-peligro-debes-hacer-tienes-casa-1443471'>Esta freidora de aire es un peligro: ¿qué debes hacer si tienes una en casa?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/freidora-aire-peligro-debes-hacer-tienes-casa-1443471' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/freidora-aire-peligro-debes-hacer-tienes-casa-4295403.jpg?tf=1200x' alt='Esta freidora de aire es un peligro: ¿qué debes hacer si tienes una en casa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/industria/mastodontico-yacimiento-precedentes-espana-encuentran-mineral-codiciado-china-ya-ha-puesto-ojo-1443355'>Mastodóntico yacimiento sin precedentes en España: encuentran el mineral más codiciado y China ya ha puesto el ojo en él</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/mastodontico-yacimiento-precedentes-espana-encuentran-mineral-codiciado-china-ya-ha-puesto-ojo-1443355' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mina-litio-espana-4295378.jpg?tf=1200x' alt='Mastodóntico yacimiento sin precedentes en España: encuentran el mineral más codiciado y China ya ha puesto el ojo en él' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/iphone-16e-movil-barato-apple-caracteristicas-precio-fecha-lanzamiento-1443354'>iPhone 16e, el móvil "barato" de Apple, ya está aquí: características, precio y fecha de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/iphone-16e-movil-barato-apple-caracteristicas-precio-fecha-lanzamiento-1443354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-movil-barato-apple-ya-aqui-caracteristicas-precio-fecha-lanzamiento-4295383.jpg?tf=1200x' alt='iPhone 16e, el móvil "barato" de Apple, ya está aquí: características, precio y fecha de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-busca-talento-espana-oferta-trabajo-irrechazable-180000-euros-ano-teletrabajo-1443485'>Bill Gates busca talento en España con una oferta de trabajo irrechazable: 180.000 euros al año y teletrabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-busca-talento-espana-oferta-trabajo-irrechazable-180000-euros-ano-teletrabajo-1443485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trabajo-bill-gates-espana-4295333.jpg?tf=1200x' alt='Bill Gates busca talento en España con una oferta de trabajo irrechazable: 180.000 euros al año y teletrabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417'>La exdirectora de OpenAI se rebela y prepara un "anti ChatGPT" junto a algunos de los mayores expertos en IA del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-4295242.jpg?tf=1200x' alt='La exdirectora de OpenAI se rebela y prepara un "anti ChatGPT" junto a algunos de los mayores expertos en IA del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-dolores-cabeza-funcion-windows-11-promete-hacer-facil-nunca-cambiar-pc-1443447'>Adiós a los dolores de cabeza: esta función de Windows 11 promete hacer más fácil que nunca cambiar de PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-dolores-cabeza-funcion-windows-11-promete-hacer-facil-nunca-cambiar-pc-1443447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-windows-11-pc-gaming-4284253.jpg?tf=1200x' alt='Adiós a los dolores de cabeza: esta función de Windows 11 promete hacer más fácil que nunca cambiar de PC' />
     </a>
 </div>
 
