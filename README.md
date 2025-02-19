@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036'>Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/thermomix-tm7-diferencias-thermomix-tm6-caracteristicas-exclusivas-precio-1443036' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/thermomix-tm7-4294650.jpg?tf=1200x' alt='Thermomix TM7: diferencias con la Thermomix TM6, características exclusivas y precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-auto-138-ya-disponible-beta-novedades-como-actualizar-ahora-mismo-1443389'>Android Auto 13.8 ya disponible en beta: novedades y cómo actualizar ahora mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/android-auto-138-ya-disponible-beta-novedades-como-actualizar-ahora-mismo-1443389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-4295245.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible en beta: novedades y cómo actualizar ahora mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ventajas-unicas-1442724'>Diseñan un revolucionario barco con el morro de un avión, que ofrece unas ventajas únicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/barco-morro-avion-ventajas-unicas-1442724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/barco-forma-avion-4295237.jpg?tf=1200x' alt='Diseñan un revolucionario barco con el morro de un avión, que ofrece unas ventajas únicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170'>Cómo ver gratis el Real Madrid - Manchester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-real-madrid-machester-city-movistar-plus-100-legal-iptv-ni-gastar-euro-1443170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ver-online-real-madrid-manchester-city-champions-4294924.jpg?tf=1200x' alt='Cómo ver gratis el Real Madrid - Manchester City en Movistar Plus+: 100% legal, sin IPTV ni gastar un euro' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/trabajador-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851'>Antiguo miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/trabajador-openai-peligros-ia-estamos-menos-tres-anos-catastrofe-1442851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/peligros-inteligencia-artificial-4295220.jpg?tf=1200x' alt='Antiguo miembro de OpenAI sobre los peligros de la IA: "Estamos a menos de tres años de la catástrofe"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fundador-google-deepmind-reconoce-preocupacion-ia-razon-no-duermo-1443337'>El fundador de Google DeepMind reconoce su preocupación por la IA: "Es la razón por la que no duermo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fundador-google-deepmind-reconoce-preocupacion-ia-razon-no-duermo-1443337' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/fundador-google-deepmind-reconoce-preocupacion-ia-razon-no-duermo-4295137.jpg?tf=1200x' alt='El fundador de Google DeepMind reconoce su preocupación por la IA: "Es la razón por la que no duermo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cloudflare-como-funciona-laliga-acusa-proteger-iptv-pirateria-1443392'>Qué es Cloudflare, cómo funciona y por qué LaLiga lo acusa de proteger a las IPTV y la piratería</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cloudflare-como-funciona-laliga-acusa-proteger-iptv-pirateria-1443392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cloudflare-4295172.jpg?tf=1200x' alt='Qué es Cloudflare, cómo funciona y por qué LaLiga lo acusa de proteger a las IPTV y la piratería' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-1443341'>WhatsApp tiene cuatro meses para cumplir con la nueva normativa de la UE o se enfrentará a una multa millonaria</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-1443341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-tiene-cuatro-meses-cumplir-nueva-normativa-ue-enfrentara-multa-millonaria-4295171.jpg?tf=1200x' alt='WhatsApp tiene cuatro meses para cumplir con la nueva normativa de la UE o se enfrentará a una multa millonaria' />
     </a>
 </div>
 
