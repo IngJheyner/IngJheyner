@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/francia-cerca-energia-fusion-consigue-mantener-reactor-activo-durante-22-minutos-1443535'>Francia más cerca de la energía de fusión: consigue mantener un reactor activo durante 22 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/francia-cerca-energia-fusion-consigue-mantener-reactor-activo-durante-22-minutos-1443535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reactor-fusion-francia-4295439.jpg?tf=1200x' alt='Francia más cerca de la energía de fusión: consigue mantener un reactor activo durante 22 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/gracias-meta-whatsapp-podria-eliminar-automaticamente-notificacion-mensajes-no-leidos-1443545'>¡Gracias Meta! WhatsApp podría eliminar automáticamente la notificación de mensajes no leídos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/gracias-meta-whatsapp-podria-eliminar-automaticamente-notificacion-mensajes-no-leidos-1443545' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/notificaciones-whatsapp-4295449.jpg?tf=1200x' alt='¡Gracias Meta! WhatsApp podría eliminar automáticamente la notificación de mensajes no leídos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizas-pierdes-pc-parche-kb5051987-destrozando-windows-11-1443539'>Actualizas y pierdes el PC: el parche KB5051987 está destrozando Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizas-pierdes-pc-parche-kb5051987-destrozando-windows-11-1443539' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/errores-windows-11-4295444.jpg?tf=1200x' alt='Actualizas y pierdes el PC: el parche KB5051987 está destrozando Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-necesita-ahora-especialistas-armas-nucleares-ya-habia-despedido-1443430'>Elon Musk necesita ahora a los especialistas en armas nucleares que ya había despedido</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-necesita-ahora-especialistas-armas-nucleares-ya-habia-despedido-1443430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-4295303.jpg?tf=1200x' alt='Elon Musk necesita ahora a los especialistas en armas nucleares que ya había despedido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tienes-estos-moviles-xiaomi-despidete-youtube-siempre-1443537'>Si tienes uno de estos móviles Xiaomi, despídete de YouTube para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tienes-estos-moviles-xiaomi-despidete-youtube-siempre-1443537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/youtube-moviles-xiaomi-4295442.jpg?tf=1200x' alt='Si tienes uno de estos móviles Xiaomi, despídete de YouTube para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/amazon-prime-video-tiene-thriller-terror-inteligente-ultimos-anos-casi-nadie-conoce-1443075'>Amazon Prime Video tiene el thriller de terror más inteligente de los últimos años, y casi nadie lo conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/amazon-prime-video-tiene-thriller-terror-inteligente-ultimos-anos-casi-nadie-conoce-1443075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-prime-video-tiene-thriller-terror-inteligente-ultimos-anos-casi-nadie-conoce-4294733.jpg?tf=1200x' alt='Amazon Prime Video tiene el thriller de terror más inteligente de los últimos años, y casi nadie lo conoce' />
     </a>
 </div>
 
