@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/mastodontico-yacimiento-precedentes-espana-encuentran-mineral-codiciado-china-ya-ha-puesto-ojo-1443355'>Mastodóntico yacimiento sin precedentes en España: encuentran el mineral más codiciado y China ya ha puesto el ojo en él</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/mastodontico-yacimiento-precedentes-espana-encuentran-mineral-codiciado-china-ya-ha-puesto-ojo-1443355' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mina-litio-espana-4295378.jpg?tf=1200x' alt='Mastodóntico yacimiento sin precedentes en España: encuentran el mineral más codiciado y China ya ha puesto el ojo en él' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/iphone-16e-movil-barato-apple-caracteristicas-precio-fecha-lanzamiento-1443354'>iPhone 16e, el móvil "barato" de Apple, ya está aquí: características, precio y fecha de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/iphone-16e-movil-barato-apple-caracteristicas-precio-fecha-lanzamiento-1443354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-movil-barato-apple-ya-aqui-caracteristicas-precio-fecha-lanzamiento-4295383.jpg?tf=1200x' alt='iPhone 16e, el móvil "barato" de Apple, ya está aquí: características, precio y fecha de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-busca-talento-espana-oferta-trabajo-irrechazable-180000-euros-ano-teletrabajo-1443485'>Bill Gates busca talento en España con una oferta de trabajo irrechazable: 180.000 euros al año y teletrabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-busca-talento-espana-oferta-trabajo-irrechazable-180000-euros-ano-teletrabajo-1443485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trabajo-bill-gates-espana-4295333.jpg?tf=1200x' alt='Bill Gates busca talento en España con una oferta de trabajo irrechazable: 180.000 euros al año y teletrabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417'>La exdirectora de OpenAI se rebela y prepara un "anti ChatGPT" junto a algunos de los mayores expertos en IA del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-1443417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/exdirectora-openai-revela-prepara-anti-chatgpt-junto-algunos-mayores-expertos-ia-mundo-4295242.jpg?tf=1200x' alt='La exdirectora de OpenAI se rebela y prepara un "anti ChatGPT" junto a algunos de los mayores expertos en IA del mundo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-dolores-cabeza-funcion-windows-11-promete-hacer-facil-nunca-cambiar-pc-1443447'>Adiós a los dolores de cabeza: esta función de Windows 11 promete hacer más fácil que nunca cambiar de PC</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-dolores-cabeza-funcion-windows-11-promete-hacer-facil-nunca-cambiar-pc-1443447' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-windows-11-pc-gaming-4284253.jpg?tf=1200x' alt='Adiós a los dolores de cabeza: esta función de Windows 11 promete hacer más fácil que nunca cambiar de PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cual-diferencia-inteligencia-artificial-inteligencia-asistida-tan-importante-1443446'>Cuál es la diferencia entre inteligencia artificial e inteligencia asistida y por qué es tan importante</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cual-diferencia-inteligencia-artificial-inteligencia-asistida-tan-importante-1443446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dudas-inteligencia-artificial-4295300.jpg?tf=1200x' alt='Cuál es la diferencia entre inteligencia artificial e inteligencia asistida y por qué es tan importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-fracasa-intento-mantener-salvo-mayor-secreto-bateria-4680-1443418'>Tesla fracasa en su intento de mantener a salvo su mayor secreto: la batería 4680</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-fracasa-intento-mantener-salvo-mayor-secreto-bateria-4680-1443418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-fracasa-intento-mantener-salvo-mayor-secreto-bateria-4680-4295246.jpg?tf=1200x' alt='Tesla fracasa en su intento de mantener a salvo su mayor secreto: la batería 4680' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/oficial-guerra-iptv-estalla-espana-laliga-responde-acusaciones-cloudflare-1443438'>Es oficial, la guerra de las IPTV estalla en España: LaLiga responde a las acusaciones de Cloudflare</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/oficial-guerra-iptv-estalla-espana-laliga-responde-acusaciones-cloudflare-1443438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conflicto-laliga-javier-tebas-cloudflare-4295318.jpg?tf=1200x' alt='Es oficial, la guerra de las IPTV estalla en España: LaLiga responde a las acusaciones de Cloudflare' />
     </a>
 </div>
 
