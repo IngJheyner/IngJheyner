@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-1443538'>DIGI entra en la historia como uno de los bloqueos a las IPTV más salvajes que se recuerdan</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-1443538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-4295470.jpg?tf=1200x' alt='DIGI entra en la historia como uno de los bloqueos a las IPTV más salvajes que se recuerdan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/francia-cerca-energia-fusion-consigue-mantener-reactor-activo-durante-22-minutos-1443535'>Francia más cerca de la energía de fusión: consigue mantener un reactor activo durante 22 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/francia-cerca-energia-fusion-consigue-mantener-reactor-activo-durante-22-minutos-1443535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reactor-fusion-francia-4295439.jpg?tf=1200x' alt='Francia más cerca de la energía de fusión: consigue mantener un reactor activo durante 22 minutos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/laliga-no-da-marcha-atras-lucha-contras-iptv-pirateria-arrasara-todo-ponga-delante-1443507'>LaLiga no da marcha atrás en su lucha contras las IPTV y la piratería: "Arrasará con todo lo que se le ponga por delante"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/laliga-no-da-marcha-atras-lucha-contras-iptv-pirateria-arrasara-todo-ponga-delante-1443507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-no-da-marcha-atras-lucha-contras-iptv-pirateria-arrasara-todo-ponga-delante-4295441.jpg?tf=1200x' alt='LaLiga no da marcha atrás en su lucha contras las IPTV y la piratería: "Arrasará con todo lo que se le ponga por delante"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-necesita-ahora-especialistas-armas-nucleares-ya-habia-despedido-1443430'>Elon Musk necesita ahora a los especialistas en armas nucleares que ya había despedido</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-necesita-ahora-especialistas-armas-nucleares-ya-habia-despedido-1443430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-4295303.jpg?tf=1200x' alt='Elon Musk necesita ahora a los especialistas en armas nucleares que ya había despedido' />
     </a>
 </div>
 
