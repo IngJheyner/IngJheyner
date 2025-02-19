@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hp-compra-humane-116-millones-dolares-cancela-ai-pin-1443315'>Iba a sustituir al iPhone: HP compra Humane por 116 millones de dólares, y cancela el AI Pin</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hp-compra-humane-116-millones-dolares-cancela-ai-pin-1443315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/preocupante-dato-humane-ai-pin-devuelven-dispositivos-compran-3904006.jpg?tf=1200x' alt='Iba a sustituir al iPhone: HP compra Humane por 116 millones de dólares, y cancela el AI Pin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-deportivo-ligero-reducido-entrenamiento-recuperacion-1443307'>Amazfit Active 2, el reloj deportivo ligero y reducido para registrar el entrenamiento y la recuperación</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazfit-active-2-reloj-deportivo-ligero-reducido-entrenamiento-recuperacion-1443307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazfit-active-2-reloj-deportivo-ligero-reducido-registrar-entrenamiento-recuperacion-4295040.jpg?tf=1200x' alt='Amazfit Active 2, el reloj deportivo ligero y reducido para registrar el entrenamiento y la recuperación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/tiempo-windows-11-corre-rapido-vida-real-extrano-error-te-dejara-palabras-1443287'>El tiempo en Windows 11 corre más rápido que en la vida real: el extraño error que te dejará sin palabras</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/tiempo-windows-11-corre-rapido-vida-real-extrano-error-te-dejara-palabras-1443287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reloj-windows-11-4295031.jpg?tf=1200x' alt='El tiempo en Windows 11 corre más rápido que en la vida real: el extraño error que te dejará sin palabras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-emisoras-radio-1443286'>TDTChannels se actualiza con nuevos canales de TV y emisoras de radio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-actualiza-nuevos-canales-tv-emisoras-radio-1443286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/04/tdtchannels-3010604.jpg?tf=1200x' alt='TDTChannels se actualiza con nuevos canales de TV y emisoras de radio' />
     </a>
 </div>
 
