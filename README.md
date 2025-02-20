@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-bateria-diamante-sorprende-investigadores-fuente-energia-casi-infinita-1443608'>La primera batería de diamante sorprende a los investigadores: es una fuente de energía casi infinita</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/primera-bateria-diamante-sorprende-investigadores-fuente-energia-casi-infinita-1443608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-diamante-4295586.jpg?tf=1200x' alt='La primera batería de diamante sorprende a los investigadores: es una fuente de energía casi infinita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-asegura-haber-solucionado-gran-problema-computacion-cuantica-gracias-chip-1443638'>Microsoft asegura haber solucionado el gran problema de la computación cuántica gracias a este chip</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-asegura-haber-solucionado-gran-problema-computacion-cuantica-gracias-chip-1443638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chip-cuantico-microsoft-4295601.jpg?tf=1200x' alt='Microsoft asegura haber solucionado el gran problema de la computación cuántica gracias a este chip' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-desmiente-grok-3-sea-mejor-chatbot-capacidad-razonamiento-hinchada-1443665'>Experto en IA desmiente que Grok 3 sea el mejor chatbot: "Su capacidad de razonamiento está hinchada"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-desmiente-grok-3-sea-mejor-chatbot-capacidad-razonamiento-hinchada-1443665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-grok-3-4295630.jpg?tf=1200x' alt='Experto en IA desmiente que Grok 3 sea el mejor chatbot: "Su capacidad de razonamiento está hinchada"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/probabilidades-asteroide-2024-yr4-impacte-tierra-cambian-constantemente-1443673'>¿Por qué las probabilidades de que el asteroide 2024 YR4 impacte sobre la Tierra cambian constantemente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/probabilidades-asteroide-2024-yr4-impacte-tierra-cambian-constantemente-1443673' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-4295662.jpg?tf=1200x' alt='¿Por qué las probabilidades de que el asteroide 2024 YR4 impacte sobre la Tierra cambian constantemente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/ni-futbol-ni-series-gran-apuesta-movistar-plus-exclusiva-gratis-todos-clientes-1443649'>Ni fútbol ni series, esta es la gran apuesta de Movistar Plus+: en exclusiva y gratis para todos sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/ni-futbol-ni-series-gran-apuesta-movistar-plus-exclusiva-gratis-todos-clientes-1443649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-futbol-ni-series-gran-apuesta-movistar-plus-exclusiva-gratis-todos-clientes-4295606.jpg?tf=1200x' alt='Ni fútbol ni series, esta es la gran apuesta de Movistar Plus+: en exclusiva y gratis para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-iptv-movistar-javier-tebas-bloqueo-cloudflare-1443090'>Palo si eres cliente de DIGI: Movistar no bloqueará a Cloudflare y se queda sola contra las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/digi-iptv-movistar-javier-tebas-bloqueo-cloudflare-1443090' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-logo-movistar-4294825.jpg?tf=1200x' alt='Palo si eres cliente de DIGI: Movistar no bloqueará a Cloudflare y se queda sola contra las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todo-ya-sabemos-gpt-5-ia-ultima-generacion-sam-altman-openai-1443641'>Todo lo que ya sabemos de GPT-5: la IA de última generación de Sam Altman y OpenAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todo-ya-sabemos-gpt-5-ia-ultima-generacion-sam-altman-openai-1443641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/chatgpt-5-cerca-crees-3300406.jpg?tf=1200x' alt='Todo lo que ya sabemos de GPT-5: la IA de última generación de Sam Altman y OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/seguiran-bloqueos-laliga-iptv-webs-piratas-futbol-gratis-fin-semana-1443632'>¿Seguirán los bloqueos de LaLiga a las IPTV y webs piratas de fútbol gratis este fin de semana?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/seguiran-bloqueos-laliga-iptv-webs-piratas-futbol-gratis-fin-semana-1443632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueo-iptv-laliga-4295591.jpg?tf=1200x' alt='¿Seguirán los bloqueos de LaLiga a las IPTV y webs piratas de fútbol gratis este fin de semana?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/nadie-te-cuenta-coche-electrico-espana-cuantos-hay-puntos-carga-1443622'>Lo que nadie te cuenta del coche eléctrico en España: cuántos hay, puntos de carga y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/nadie-te-cuenta-coche-electrico-espana-cuantos-hay-puntos-carga-1443622' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-espana-4295580.jpg?tf=1200x' alt='Lo que nadie te cuenta del coche eléctrico en España: cuántos hay, puntos de carga y más' />
     </a>
 </div>
 
