@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-1443675'>Todos los móviles de Apple que puedes comprar en España y sus precios tras el lanzamiento del iPhone 16e</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-1443675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-4295631.jpg?tf=1200x' alt='Todos los móviles de Apple que puedes comprar en España y sus precios tras el lanzamiento del iPhone 16e' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/detalles-ocultos-iphone-16e-seguramente-nadie-te-ha-contado-1443740'>10 detalles ocultos del iPhone 16e que seguramente nadie te ha contado</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/detalles-ocultos-iphone-16e-seguramente-nadie-te-ha-contado-1443740' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-iphone-16e-4295689.jpg?tf=1200x' alt='10 detalles ocultos del iPhone 16e que seguramente nadie te ha contado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-bateria-diamante-sorprende-investigadores-fuente-energia-casi-infinita-1443608'>La primera batería de diamante sorprende a los investigadores: es una fuente de energía casi infinita</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primera-bateria-diamante-sorprende-investigadores-fuente-energia-casi-infinita-1443608' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-diamante-4295586.jpg?tf=1200x' alt='La primera batería de diamante sorprende a los investigadores: es una fuente de energía casi infinita' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-desmiente-grok-3-sea-mejor-chatbot-capacidad-razonamiento-hinchada-1443665'>Experto en IA desmiente que Grok 3 sea el mejor chatbot: "Su capacidad de razonamiento está hinchada"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-desmiente-grok-3-sea-mejor-chatbot-capacidad-razonamiento-hinchada-1443665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-grok-3-4295630.jpg?tf=1200x' alt='Experto en IA desmiente que Grok 3 sea el mejor chatbot: "Su capacidad de razonamiento está hinchada"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/probabilidades-asteroide-2024-yr4-impacte-tierra-cambian-constantemente-1443673'>¿Por qué las probabilidades de que el asteroide 2024 YR4 impacte sobre la Tierra cambian constantemente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/probabilidades-asteroide-2024-yr4-impacte-tierra-cambian-constantemente-1443673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asteroide-4295662.jpg?tf=1200x' alt='¿Por qué las probabilidades de que el asteroide 2024 YR4 impacte sobre la Tierra cambian constantemente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-futbol-ni-series-gran-apuesta-movistar-plus-exclusiva-gratis-todos-clientes-1443649'>Ni fútbol ni series, esta es la gran apuesta de Movistar Plus+: en exclusiva y gratis para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-futbol-ni-series-gran-apuesta-movistar-plus-exclusiva-gratis-todos-clientes-1443649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-futbol-ni-series-gran-apuesta-movistar-plus-exclusiva-gratis-todos-clientes-4295606.jpg?tf=1200x' alt='Ni fútbol ni series, esta es la gran apuesta de Movistar Plus+: en exclusiva y gratis para todos sus clientes' />
     </a>
 </div>
 
