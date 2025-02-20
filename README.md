@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-1443715'>Adiós al hidrógeno, las baterías de magnesio para el coche eléctrico podrían cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-1443715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-4295698.jpg?tf=1200x' alt='Adiós al hidrógeno, las baterías de magnesio para el coche eléctrico podrían cambiarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-automotive-recibe-actualizacion-esperada-apps-juegos-diversion-coche-1443806'>Android Automotive recibe su actualización más esperada: más apps, más juegos y más diversión en el coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-automotive-recibe-actualizacion-esperada-apps-juegos-diversion-coche-1443806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-automotive-4295917.jpg?tf=1200x' alt='Android Automotive recibe su actualización más esperada: más apps, más juegos y más diversión en el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/gmail-ya-permite-pagar-facturas-bandeja-entrada-puedes-hacerlo-1443789'>Gmail ya permite pagar facturas desde la bandeja de entrada: así puedes hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/gmail-ya-permite-pagar-facturas-bandeja-entrada-puedes-hacerlo-1443789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pagar-todas-facturas-gmail-4295912.jpg?tf=1200x' alt='Gmail ya permite pagar facturas desde la bandeja de entrada: así puedes hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-1443772'>Hackers crean una herramienta que activa Windows y Office para siempre y afirman que es legal: "Lo usan empleados de Microsoft"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-1443772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-4295899.jpg?tf=1200x' alt='Hackers crean una herramienta que activa Windows y Office para siempre y afirman que es legal: "Lo usan empleados de Microsoft"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/china-ya-nadie-gira-conducir-porsche-coche-vuelve-locos-llevas-bolsillo-1443692'>En China ya nadie se gira por conducir un Porsche, el coche que les vuelve locos "lo llevas en tu bolsillo"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/china-ya-nadie-gira-conducir-porsche-coche-vuelve-locos-llevas-bolsillo-1443692' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porsche-vs-xiaomi-4295711.jpg?tf=1200x' alt='En China ya nadie se gira por conducir un Porsche, el coche que les vuelve locos "lo llevas en tu bolsillo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/origen-odio-mutuo-elon-musk-sam-altman-podria-convertirse-dictador-desea-1443726'>Este es el origen de la odio mutuo entre Elon Musk y Sam Altman: "Podría convertirse en un dictador si lo desea"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/origen-odio-mutuo-elon-musk-sam-altman-podria-convertirse-dictador-desea-1443726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/musk-altman-4295803.jpg?tf=1200x' alt='Este es el origen de la odio mutuo entre Elon Musk y Sam Altman: "Podría convertirse en un dictador si lo desea"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-no-quiere-pagues-seguir-utilizando-windows-10-engano-1443683'>Microsoft no quiere que pagues por seguir utilizando Windows 10, es un engaño</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-no-quiere-pagues-seguir-utilizando-windows-10-engano-1443683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pagar-usar-windows-10-4295637.jpg?tf=1200x' alt='Microsoft no quiere que pagues por seguir utilizando Windows 10, es un engaño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/samsung-galaxy-s24-mucho-barato-s25-buen-movil-1443574'>El Samsung Galaxy S24 es mucho más barato que el S25, y es buen móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/samsung-galaxy-s24-mucho-barato-s25-buen-movil-1443574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/galaxy-s24-samsung-3272362.jpg?tf=1200x' alt='El Samsung Galaxy S24 es mucho más barato que el S25, y es buen móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-1443735'>Obligan a una operadora a facilitar los datos personales de sus clientes por piratería y uso de IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-1443735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-4295813.jpg?tf=1200x' alt='Obligan a una operadora a facilitar los datos personales de sus clientes por piratería y uso de IPTV' />
     </a>
 </div>
 
