@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/telegram-convierte-chivato-laliga-delatando-cientos-usuarios-iptv-1443601'>Telegram se convierte en el chivato de la LaLiga: está delatando a cientos de usuarios de IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/telegram-convierte-chivato-laliga-delatando-cientos-usuarios-iptv-1443601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-espia-laliga-4295593.jpg?tf=1200x' alt='Telegram se convierte en el chivato de la LaLiga: está delatando a cientos de usuarios de IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/experto-responde-batalla-laliga-cloudflare-usa-futbol-como-senuelo-1443611'>Un experto responde a la batalla entre LaLiga y Cloudflare: "Usa el fútbol como señuelo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/experto-responde-batalla-laliga-cloudflare-usa-futbol-como-senuelo-1443611' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/batalla-laliga-cloudflare-4295529.jpg?tf=1200x' alt='Un experto responde a la batalla entre LaLiga y Cloudflare: "Usa el fútbol como señuelo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-iphone-15-iphone-16-esperar-iphone-17-deberias-hacer-1443599'>iPhone 16e, iPhone 15, iPhone 16 o esperar al iPhone 17: ¿qué deberías hacer?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-16e-iphone-15-iphone-16-esperar-iphone-17-deberias-hacer-1443599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-iphone-15-iphone-16-esperar-iphone-17-4295522.jpg?tf=1200x' alt='iPhone 16e, iPhone 15, iPhone 16 o esperar al iPhone 17: ¿qué deberías hacer?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582'>Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740031906115-4295498.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-samsung-movil-tiene-pantalla-curva-mejora-espero-gama-media-2025-1441943'>Ni iPhone ni Samsung, este móvil tiene una pantalla curva que mejora lo que espero de la gama media en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-samsung-movil-tiene-pantalla-curva-mejora-espero-gama-media-2025-1441943' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/redmi-note-14-pro-5g-4295180.jpg?tf=1200x' alt='Ni iPhone ni Samsung, este móvil tiene una pantalla curva que mejora lo que espero de la gama media en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16e-tiene-sentido-movil-pequeno-sola-camara-pleno-2025-1443296'>iPhone 16e: ¿tiene sentido un móvil pequeño con una sola cámara en pleno 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/iphone-16e-tiene-sentido-movil-pequeno-sola-camara-pleno-2025-1443296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-4295396.jpg?tf=1200x' alt='iPhone 16e: ¿tiene sentido un móvil pequeño con una sola cámara en pleno 2025?' />
     </a>
 </div>
 
