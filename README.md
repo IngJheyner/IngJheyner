@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582'>Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740031906115-4295498.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-samsung-movil-tiene-pantalla-curva-mejora-espero-gama-media-2025-1441943'>Ni iPhone ni Samsung, este móvil tiene una pantalla curva que mejora lo que espero de la gama media en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-iphone-ni-samsung-movil-tiene-pantalla-curva-mejora-espero-gama-media-2025-1441943' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/redmi-note-14-pro-5g-4295180.jpg?tf=1200x' alt='Ni iPhone ni Samsung, este móvil tiene una pantalla curva que mejora lo que espero de la gama media en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16e-tiene-sentido-movil-pequeno-sola-camara-pleno-2025-1443296'>iPhone 16e: ¿tiene sentido un móvil pequeño con una sola cámara en pleno 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/iphone-16e-tiene-sentido-movil-pequeno-sola-camara-pleno-2025-1443296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-4295396.jpg?tf=1200x' alt='iPhone 16e: ¿tiene sentido un móvil pequeño con una sola cámara en pleno 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-1443432'>Los expertos, en estado de alarma: ¿ha aprendido la IA a replicarse sola?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-1443432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-4295270.jpg?tf=1200x' alt='Los expertos, en estado de alarma: ¿ha aprendido la IA a replicarse sola?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-marca-hito-precedentes-computacion-cuantica-maquina-origin-wukong-1443415'>China marca un hito sin precedentes en la computación cuántica con su máquina "Origin Wukong"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-marca-hito-precedentes-computacion-cuantica-maquina-origin-wukong-1443415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-cuantico-origin-wukong-4295272.jpg?tf=1200x' alt='China marca un hito sin precedentes en la computación cuántica con su máquina "Origin Wukong"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativa-iphone-16e-moviles-android-1443565'>Móviles Android iguales o mejores que el iPhone 16e, pero mucho más baratos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alternativa-iphone-16e-moviles-android-1443565' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/moviles-android-iguales-mejores-iphone-16e-pero-mucho-baratos-4295462.jpg?tf=1200x' alt='Móviles Android iguales o mejores que el iPhone 16e, pero mucho más baratos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/4-cosas-bill-gates-deberian-preocupar-nuevas-generaciones-1443465'>Las 4 cosas que según Bill Gates más deberían preocupar a las nuevas generaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/4-cosas-bill-gates-deberian-preocupar-nuevas-generaciones-1443465' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-4295331.jpg?tf=1200x' alt='Las 4 cosas que según Bill Gates más deberían preocupar a las nuevas generaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/expertos-confirman-verdad-vida-baterias-coches-electricos-muchos-no-querran-escuchar-1443437'>Expertos confirman la verdad sobre la vida de las baterías de los coches eléctricos que muchos no querrán escuchar</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/expertos-confirman-verdad-vida-baterias-coches-electricos-muchos-no-querran-escuchar-1443437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-cargando-baterias-4295363.jpg?tf=1200x' alt='Expertos confirman la verdad sobre la vida de las baterías de los coches eléctricos que muchos no querrán escuchar' />
     </a>
 </div>
 
