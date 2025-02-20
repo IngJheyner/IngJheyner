@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-iphone-15-iphone-16-esperar-iphone-17-deberias-hacer-1443599'>iPhone 16e, iPhone 15, iPhone 16 o esperar al iPhone 17: ¿qué deberías hacer?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-16e-iphone-15-iphone-16-esperar-iphone-17-deberias-hacer-1443599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-iphone-15-iphone-16-esperar-iphone-17-4295522.jpg?tf=1200x' alt='iPhone 16e, iPhone 15, iPhone 16 o esperar al iPhone 17: ¿qué deberías hacer?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/protector-uber-armas-app-te-envia-guardaespaldas-armado-bajo-demanda-1443603'>Protector, el "Uber con armas", la app que te envía un guardaespaldas al lugar donde estés</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/protector-uber-armas-app-te-envia-guardaespaldas-armado-bajo-demanda-1443603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/protector-uber-armas-app-te-envia-guardaespaldas-armado-lugar-donde-estes-4295508.jpg?tf=1200x' alt='Protector, el "Uber con armas", la app que te envía un guardaespaldas al lugar donde estés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582'>Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740031906115-4295498.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16e-tiene-sentido-movil-pequeno-sola-camara-pleno-2025-1443296'>iPhone 16e: ¿tiene sentido un móvil pequeño con una sola cámara en pleno 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/iphone-16e-tiene-sentido-movil-pequeno-sola-camara-pleno-2025-1443296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-4295396.jpg?tf=1200x' alt='iPhone 16e: ¿tiene sentido un móvil pequeño con una sola cámara en pleno 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-1443432'>Los expertos, en estado de alarma: ¿ha aprendido la IA a replicarse sola?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-1443432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-4295270.jpg?tf=1200x' alt='Los expertos, en estado de alarma: ¿ha aprendido la IA a replicarse sola?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-marca-hito-precedentes-computacion-cuantica-maquina-origin-wukong-1443415'>China marca un hito sin precedentes en la computación cuántica con su máquina "Origin Wukong"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-marca-hito-precedentes-computacion-cuantica-maquina-origin-wukong-1443415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-cuantico-origin-wukong-4295272.jpg?tf=1200x' alt='China marca un hito sin precedentes en la computación cuántica con su máquina "Origin Wukong"' />
     </a>
 </div>
 
