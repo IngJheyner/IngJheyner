@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-1443432'>Los expertos, en estado de alarma: ¿ha aprendido la IA a replicarse sola?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-1443432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-estado-alarma-ha-aprendido-ia-replicarse-sola-4295270.jpg?tf=1200x' alt='Los expertos, en estado de alarma: ¿ha aprendido la IA a replicarse sola?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-marca-hito-precedentes-computacion-cuantica-maquina-origin-wukong-1443415'>China marca un hito sin precedentes en la computación cuántica con su máquina "Origin Wukong"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-marca-hito-precedentes-computacion-cuantica-maquina-origin-wukong-1443415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-cuantico-origin-wukong-4295272.jpg?tf=1200x' alt='China marca un hito sin precedentes en la computación cuántica con su máquina "Origin Wukong"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alternativa-iphone-16e-moviles-android-1443565'>Móviles Android iguales o mejores que el iPhone 16e, pero mucho más baratos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alternativa-iphone-16e-moviles-android-1443565' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/moviles-android-iguales-mejores-iphone-16e-pero-mucho-baratos-4295462.jpg?tf=1200x' alt='Móviles Android iguales o mejores que el iPhone 16e, pero mucho más baratos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/4-cosas-bill-gates-deberian-preocupar-nuevas-generaciones-1443465'>Las 4 cosas que según Bill Gates más deberían preocupar a las nuevas generaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/4-cosas-bill-gates-deberian-preocupar-nuevas-generaciones-1443465' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-4295331.jpg?tf=1200x' alt='Las 4 cosas que según Bill Gates más deberían preocupar a las nuevas generaciones' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/expertos-confirman-verdad-vida-baterias-coches-electricos-muchos-no-querran-escuchar-1443437'>Expertos confirman la verdad sobre la vida de las baterías de los coches eléctricos que muchos no querrán escuchar</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/expertos-confirman-verdad-vida-baterias-coches-electricos-muchos-no-querran-escuchar-1443437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-cargando-baterias-4295363.jpg?tf=1200x' alt='Expertos confirman la verdad sobre la vida de las baterías de los coches eléctricos que muchos no querrán escuchar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-1443538'>DIGI entra en la historia como uno de los bloqueos a las IPTV más salvajes que se recuerdan</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-1443538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-4295470.jpg?tf=1200x' alt='DIGI entra en la historia como uno de los bloqueos a las IPTV más salvajes que se recuerdan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/francia-cerca-energia-fusion-consigue-mantener-reactor-activo-durante-22-minutos-1443535'>Francia más cerca de la energía de fusión: consigue mantener un reactor activo durante 22 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/francia-cerca-energia-fusion-consigue-mantener-reactor-activo-durante-22-minutos-1443535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reactor-fusion-francia-4295439.jpg?tf=1200x' alt='Francia más cerca de la energía de fusión: consigue mantener un reactor activo durante 22 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/gracias-meta-whatsapp-podria-eliminar-automaticamente-notificacion-mensajes-no-leidos-1443545'>¡Gracias Meta! WhatsApp podría eliminar automáticamente la notificación de mensajes no leídos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/gracias-meta-whatsapp-podria-eliminar-automaticamente-notificacion-mensajes-no-leidos-1443545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/notificaciones-whatsapp-4295449.jpg?tf=1200x' alt='¡Gracias Meta! WhatsApp podría eliminar automáticamente la notificación de mensajes no leídos' />
     </a>
 </div>
 
