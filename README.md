@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/nadie-te-cuenta-coche-electrico-espana-cuantos-hay-puntos-carga-1443622'>Lo que nadie te cuenta del coche eléctrico en España: cuántos hay, puntos de carga y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/nadie-te-cuenta-coche-electrico-espana-cuantos-hay-puntos-carga-1443622' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-espana-4295580.jpg?tf=1200x' alt='Lo que nadie te cuenta del coche eléctrico en España: cuántos hay, puntos de carga y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/telegram-convierte-chivato-laliga-delatando-cientos-usuarios-iptv-1443601'>Telegram se convierte en el chivato de la LaLiga: está delatando a cientos de usuarios de IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/telegram-convierte-chivato-laliga-delatando-cientos-usuarios-iptv-1443601' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-espia-laliga-4295593.jpg?tf=1200x' alt='Telegram se convierte en el chivato de la LaLiga: está delatando a cientos de usuarios de IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/protector-uber-armas-app-te-envia-guardaespaldas-armado-bajo-demanda-1443603'>Protector, el "Uber con armas", la app que te envía un guardaespaldas al lugar donde estés</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/protector-uber-armas-app-te-envia-guardaespaldas-armado-bajo-demanda-1443603' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/protector-uber-armas-app-te-envia-guardaespaldas-armado-lugar-donde-estes-4295508.jpg?tf=1200x' alt='Protector, el "Uber con armas", la app que te envía un guardaespaldas al lugar donde estés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582'>Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-chatgpt-ni-deepseek-microsoft-presenta-muse-nueva-ia-genera-videojuegos-1443582' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740031906115-4295498.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek: Microsoft presenta Muse, una nueva IA que genera videojuegos' />
     </a>
 </div>
 
