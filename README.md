@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-1443813'>Detenido por hackear al Betis: un hincha alteró el sistema para saltarse la cola de espera para un asiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-1443813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-4295929.jpg?tf=1200x' alt='Detenido por hackear al Betis: un hincha alteró el sistema para saltarse la cola de espera para un asiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-1443809'>Grok 3 gratis para todos: ya puedes probar la nueva IA de Elon Musk con herramientas avanzadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-1443809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-4295866.jpg?tf=1200x' alt='Grok 3 gratis para todos: ya puedes probar la nueva IA de Elon Musk con herramientas avanzadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-reportan-fallos-graves-reinicios-forzados-problemas-conexion-1443807'>Usuarios de Android Auto reportan fallos graves: reinicios forzados y problemas de conexión</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-reportan-fallos-graves-reinicios-forzados-problemas-conexion-1443807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='Usuarios de Android Auto reportan fallos graves: reinicios forzados y problemas de conexión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-1443715'>Adiós al hidrógeno, las baterías de magnesio para el coche eléctrico podrían cambiarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-1443715' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-4295698.jpg?tf=1200x' alt='Adiós al hidrógeno, las baterías de magnesio para el coche eléctrico podrían cambiarlo todo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-automotive-recibe-actualizacion-esperada-apps-juegos-diversion-coche-1443806'>Android Automotive recibe su actualización más esperada: más apps, más juegos y más diversión en el coche</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-automotive-recibe-actualizacion-esperada-apps-juegos-diversion-coche-1443806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-automotive-4295917.jpg?tf=1200x' alt='Android Automotive recibe su actualización más esperada: más apps, más juegos y más diversión en el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/gmail-ya-permite-pagar-facturas-bandeja-entrada-puedes-hacerlo-1443789'>Gmail ya permite pagar facturas desde la bandeja de entrada: así puedes hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/gmail-ya-permite-pagar-facturas-bandeja-entrada-puedes-hacerlo-1443789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pagar-todas-facturas-gmail-4295912.jpg?tf=1200x' alt='Gmail ya permite pagar facturas desde la bandeja de entrada: así puedes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-1443772'>Hackers crean una herramienta que activa Windows y Office para siempre y afirman que es legal: "Lo usan empleados de Microsoft"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-1443772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-4295899.jpg?tf=1200x' alt='Hackers crean una herramienta que activa Windows y Office para siempre y afirman que es legal: "Lo usan empleados de Microsoft"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/china-ya-nadie-gira-conducir-porsche-coche-vuelve-locos-llevas-bolsillo-1443692'>En China ya nadie se gira por conducir un Porsche, el coche que les vuelve locos "lo llevas en tu bolsillo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/china-ya-nadie-gira-conducir-porsche-coche-vuelve-locos-llevas-bolsillo-1443692' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porsche-vs-xiaomi-4295711.jpg?tf=1200x' alt='En China ya nadie se gira por conducir un Porsche, el coche que les vuelve locos "lo llevas en tu bolsillo"' />
     </a>
 </div>
 
