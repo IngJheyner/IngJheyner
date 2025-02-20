@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-1443598'>Nueva estafa de WhatsApp: te roban la contraseña del banco antes de que te des cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-1443598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-4295512.jpg?tf=1200x' alt='Nueva estafa de WhatsApp: te roban la contraseña del banco antes de que te des cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-1443675'>Todos los móviles de Apple que puedes comprar en España y sus precios tras el lanzamiento del iPhone 16e</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-1443675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-4295631.jpg?tf=1200x' alt='Todos los móviles de Apple que puedes comprar en España y sus precios tras el lanzamiento del iPhone 16e' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-asegura-haber-solucionado-gran-problema-computacion-cuantica-gracias-chip-1443638'>Microsoft asegura haber solucionado el gran problema de la computación cuántica gracias a este chip</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-asegura-haber-solucionado-gran-problema-computacion-cuantica-gracias-chip-1443638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chip-cuantico-microsoft-4295601.jpg?tf=1200x' alt='Microsoft asegura haber solucionado el gran problema de la computación cuántica gracias a este chip' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-desmiente-grok-3-sea-mejor-chatbot-capacidad-razonamiento-hinchada-1443665'>Experto en IA desmiente que Grok 3 sea el mejor chatbot: "Su capacidad de razonamiento está hinchada"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-desmiente-grok-3-sea-mejor-chatbot-capacidad-razonamiento-hinchada-1443665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-grok-3-4295630.jpg?tf=1200x' alt='Experto en IA desmiente que Grok 3 sea el mejor chatbot: "Su capacidad de razonamiento está hinchada"' />
     </a>
 </div>
 
