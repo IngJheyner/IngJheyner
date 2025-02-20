@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/origen-odio-mutuo-elon-musk-sam-altman-podria-convertirse-dictador-desea-1443726'>Este es el origen de la odio mutuo entre Elon Musk y Sam Altman: "Podría convertirse en un dictador si lo desea"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/origen-odio-mutuo-elon-musk-sam-altman-podria-convertirse-dictador-desea-1443726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/musk-altman-4295803.jpg?tf=1200x' alt='Este es el origen de la odio mutuo entre Elon Musk y Sam Altman: "Podría convertirse en un dictador si lo desea"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-no-quiere-pagues-seguir-utilizando-windows-10-engano-1443683'>Microsoft no quiere que pagues por seguir utilizando Windows 10, es un engaño</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-no-quiere-pagues-seguir-utilizando-windows-10-engano-1443683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pagar-usar-windows-10-4295637.jpg?tf=1200x' alt='Microsoft no quiere que pagues por seguir utilizando Windows 10, es un engaño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/samsung-galaxy-s24-mucho-barato-s25-buen-movil-1443574'>El Samsung Galaxy S24 es mucho más barato que el S25, y es buen móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/samsung-galaxy-s24-mucho-barato-s25-buen-movil-1443574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/galaxy-s24-samsung-3272362.jpg?tf=1200x' alt='El Samsung Galaxy S24 es mucho más barato que el S25, y es buen móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-1443735'>Obligan a una operadora a facilitar los datos personales de sus clientes por piratería y uso de IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-1443735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-4295813.jpg?tf=1200x' alt='Obligan a una operadora a facilitar los datos personales de sus clientes por piratería y uso de IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-1443598'>Nueva estafa de WhatsApp: te roban la contraseña del banco antes de que te des cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-1443598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-4295512.jpg?tf=1200x' alt='Nueva estafa de WhatsApp: te roban la contraseña del banco antes de que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-1443675'>Todos los móviles de Apple que puedes comprar en España y sus precios tras el lanzamiento del iPhone 16e</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-1443675' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/todos-moviles-apple-puedes-comprar-espana-precios-lanzamiento-iphone-16e-4295631.jpg?tf=1200x' alt='Todos los móviles de Apple que puedes comprar en España y sus precios tras el lanzamiento del iPhone 16e' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/detalles-ocultos-iphone-16e-seguramente-nadie-te-ha-contado-1443740'>10 detalles ocultos del iPhone 16e que seguramente nadie te ha contado</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/detalles-ocultos-iphone-16e-seguramente-nadie-te-ha-contado-1443740' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-iphone-16e-4295689.jpg?tf=1200x' alt='10 detalles ocultos del iPhone 16e que seguramente nadie te ha contado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primera-bateria-diamante-sorprende-investigadores-fuente-energia-casi-infinita-1443608'>La primera batería de diamante sorprende a los investigadores: es una fuente de energía casi infinita</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primera-bateria-diamante-sorprende-investigadores-fuente-energia-casi-infinita-1443608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-diamante-4295586.jpg?tf=1200x' alt='La primera batería de diamante sorprende a los investigadores: es una fuente de energía casi infinita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-asegura-haber-solucionado-gran-problema-computacion-cuantica-gracias-chip-1443638'>Microsoft asegura haber solucionado el gran problema de la computación cuántica gracias a este chip</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-asegura-haber-solucionado-gran-problema-computacion-cuantica-gracias-chip-1443638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chip-cuantico-microsoft-4295601.jpg?tf=1200x' alt='Microsoft asegura haber solucionado el gran problema de la computación cuántica gracias a este chip' />
     </a>
 </div>
 
