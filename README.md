@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/4-cosas-bill-gates-deberian-preocupar-nuevas-generaciones-1443465'>Las 4 cosas que según Bill Gates más deberían preocupar a las nuevas generaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/4-cosas-bill-gates-deberian-preocupar-nuevas-generaciones-1443465' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-4295331.jpg?tf=1200x' alt='Las 4 cosas que según Bill Gates más deberían preocupar a las nuevas generaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/expertos-confirman-verdad-vida-baterias-coches-electricos-muchos-no-querran-escuchar-1443437'>Expertos confirman la verdad sobre la vida de las baterías de los coches eléctricos que muchos no querrán escuchar</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/expertos-confirman-verdad-vida-baterias-coches-electricos-muchos-no-querran-escuchar-1443437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-cargando-baterias-4295363.jpg?tf=1200x' alt='Expertos confirman la verdad sobre la vida de las baterías de los coches eléctricos que muchos no querrán escuchar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-1443538'>DIGI entra en la historia como uno de los bloqueos a las IPTV más salvajes que se recuerdan</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-1443538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-entra-historia-como-bloqueos-iptv-salvajes-recuerdan-4295470.jpg?tf=1200x' alt='DIGI entra en la historia como uno de los bloqueos a las IPTV más salvajes que se recuerdan' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/gracias-meta-whatsapp-podria-eliminar-automaticamente-notificacion-mensajes-no-leidos-1443545'>¡Gracias Meta! WhatsApp podría eliminar automáticamente la notificación de mensajes no leídos</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/gracias-meta-whatsapp-podria-eliminar-automaticamente-notificacion-mensajes-no-leidos-1443545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/notificaciones-whatsapp-4295449.jpg?tf=1200x' alt='¡Gracias Meta! WhatsApp podría eliminar automáticamente la notificación de mensajes no leídos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizas-pierdes-pc-parche-kb5051987-destrozando-windows-11-1443539'>Actualizas y pierdes el PC: el parche KB5051987 está destrozando Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizas-pierdes-pc-parche-kb5051987-destrozando-windows-11-1443539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/errores-windows-11-4295444.jpg?tf=1200x' alt='Actualizas y pierdes el PC: el parche KB5051987 está destrozando Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-no-da-marcha-atras-lucha-contras-iptv-pirateria-arrasara-todo-ponga-delante-1443507'>LaLiga no da marcha atrás en su lucha contras las IPTV y la piratería: "Arrasará con todo lo que se le ponga por delante"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/laliga-no-da-marcha-atras-lucha-contras-iptv-pirateria-arrasara-todo-ponga-delante-1443507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-no-da-marcha-atras-lucha-contras-iptv-pirateria-arrasara-todo-ponga-delante-4295441.jpg?tf=1200x' alt='LaLiga no da marcha atrás en su lucha contras las IPTV y la piratería: "Arrasará con todo lo que se le ponga por delante"' />
     </a>
 </div>
 
