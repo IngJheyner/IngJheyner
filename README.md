@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/china-ya-nadie-gira-conducir-porsche-coche-vuelve-locos-llevas-bolsillo-1443692'>En China ya nadie se gira por conducir un Porsche, el coche que les vuelve locos "lo llevas en tu bolsillo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/china-ya-nadie-gira-conducir-porsche-coche-vuelve-locos-llevas-bolsillo-1443692' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porsche-vs-xiaomi-4295711.jpg?tf=1200x' alt='En China ya nadie se gira por conducir un Porsche, el coche que les vuelve locos "lo llevas en tu bolsillo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/origen-odio-mutuo-elon-musk-sam-altman-podria-convertirse-dictador-desea-1443726'>Este es el origen de la odio mutuo entre Elon Musk y Sam Altman: "Podría convertirse en un dictador si lo desea"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/origen-odio-mutuo-elon-musk-sam-altman-podria-convertirse-dictador-desea-1443726' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/musk-altman-4295803.jpg?tf=1200x' alt='Este es el origen de la odio mutuo entre Elon Musk y Sam Altman: "Podría convertirse en un dictador si lo desea"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-1443735'>Obligan a una operadora a facilitar los datos personales de sus clientes por piratería y uso de IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-1443735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/obligan-operadora-facilitar-datos-personales-clientes-pirateria-uso-iptv-4295813.jpg?tf=1200x' alt='Obligan a una operadora a facilitar los datos personales de sus clientes por piratería y uso de IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-1443598'>Nueva estafa de WhatsApp: te roban la contraseña del banco antes de que te des cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-1443598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-whatsapp-te-roban-contrasena-banco-antes-te-des-cuenta-4295512.jpg?tf=1200x' alt='Nueva estafa de WhatsApp: te roban la contraseña del banco antes de que te des cuenta' />
     </a>
 </div>
 
