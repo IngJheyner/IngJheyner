@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-1443808'>Anonymous regresa con fuerza de su letargo con un claro objetivo: Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-1443808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-4295939.jpg?tf=1200x' alt='Anonymous regresa con fuerza de su letargo con un claro objetivo: Elon Musk' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/palo-tesla-estudio-revela-conductores-no-fian-pantallas-estas-son-marcas-mejor-valoradas-1443818'>Palo a Tesla, un estudio revela que los conductores no se fían de las pantallas: estas son las marcas mejor valoradas</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/palo-tesla-estudio-revela-conductores-no-fian-pantallas-estas-son-marcas-mejor-valoradas-1443818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-elon-musk-4295920.jpg?tf=1200x' alt='Palo a Tesla, un estudio revela que los conductores no se fían de las pantallas: estas son las marcas mejor valoradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-1443813'>Detenido por hackear al Betis: un hincha alteró el sistema para saltarse la cola de espera para un asiento</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-1443813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-4295929.jpg?tf=1200x' alt='Detenido por hackear al Betis: un hincha alteró el sistema para saltarse la cola de espera para un asiento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-reportan-fallos-graves-reinicios-forzados-problemas-conexion-1443807'>Usuarios de Android Auto reportan fallos graves: reinicios forzados y problemas de conexión</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-reportan-fallos-graves-reinicios-forzados-problemas-conexion-1443807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='Usuarios de Android Auto reportan fallos graves: reinicios forzados y problemas de conexión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-1443715'>Adiós al hidrógeno, las baterías de magnesio para el coche eléctrico podrían cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-1443715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-hidrogeno-baterias-magnesio-coche-electrico-podrian-cambiarlo-todo-4295698.jpg?tf=1200x' alt='Adiós al hidrógeno, las baterías de magnesio para el coche eléctrico podrían cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-automotive-recibe-actualizacion-esperada-apps-juegos-diversion-coche-1443806'>Android Automotive recibe su actualización más esperada: más apps, más juegos y más diversión en el coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-automotive-recibe-actualizacion-esperada-apps-juegos-diversion-coche-1443806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-automotive-4295917.jpg?tf=1200x' alt='Android Automotive recibe su actualización más esperada: más apps, más juegos y más diversión en el coche' />
     </a>
 </div>
 
