@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-nueva-estafa-whatsapp-pulsas-boton-estafa-ha-comenzado-1443706'>Alerta por una nueva estafa en WhatsApp: pulsas un botón y la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-nueva-estafa-whatsapp-pulsas-boton-estafa-ha-comenzado-1443706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-nueva-estafa-whatsapp-pulsas-boton-estafa-ha-comenzado-4295679.jpg?tf=1200x' alt='Alerta por una nueva estafa en WhatsApp: pulsas un botón y la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/expertos-confirman-generacion-z-sufre-telefobia-estas-son-graves-consecuencias-1443667'>Los expertos lo confirman: la generación Z sufre de "telefobia", y estas son las graves consecuencias</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/expertos-confirman-generacion-z-sufre-telefobia-estas-son-graves-consecuencias-1443667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-confirman-generacion-z-sufre-telefobia-estas-son-graves-consecuencias-4295619.jpg?tf=1200x' alt='Los expertos lo confirman: la generación Z sufre de "telefobia", y estas son las graves consecuencias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/configurar-movil-llamada-emergencia-112-pulsando-boton-encendido-1443835'>Así puedes configurar en tu móvil la llamada de emergencia al 112 pulsando el botón de encendido</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/configurar-movil-llamada-emergencia-112-pulsando-boton-encendido-1443835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puedes-configurar-movil-llamada-emergencia-112-pulsando-boton-bloqueo-4295966.jpg?tf=1200x' alt='Así puedes configurar en tu móvil la llamada de emergencia al 112 pulsando el botón de encendido' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/palo-tesla-estudio-revela-conductores-no-fian-pantallas-estas-son-marcas-mejor-valoradas-1443818'>Palo a Tesla, un estudio revela que los conductores no se fían de las pantallas: estas son las marcas mejor valoradas</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/palo-tesla-estudio-revela-conductores-no-fian-pantallas-estas-son-marcas-mejor-valoradas-1443818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-elon-musk-4295920.jpg?tf=1200x' alt='Palo a Tesla, un estudio revela que los conductores no se fían de las pantallas: estas son las marcas mejor valoradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-1443813'>Detenido por hackear al Betis: un hincha alteró el sistema para saltarse la cola de espera para un asiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-1443813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/detenido-hackear-betis-hincha-altero-sistema-saltarse-cola-espera-asiento-4295929.jpg?tf=1200x' alt='Detenido por hackear al Betis: un hincha alteró el sistema para saltarse la cola de espera para un asiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-1443809'>Grok 3 gratis para todos: ya puedes probar la nueva IA de Elon Musk con herramientas avanzadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-1443809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-4295866.jpg?tf=1200x' alt='Grok 3 gratis para todos: ya puedes probar la nueva IA de Elon Musk con herramientas avanzadas' />
     </a>
 </div>
 
