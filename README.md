@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-comienza-buzon-ves-contacta-policia-nacional-guardia-civil-1443929'>La estafa que comienza en tu buzón: si ves esto, contacta la Policía Nacional o Guardia Civil</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-comienza-buzon-ves-contacta-policia-nacional-guardia-civil-1443929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-buzon-4296200.jpg?tf=1200x' alt='La estafa que comienza en tu buzón: si ves esto, contacta la Policía Nacional o Guardia Civil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/greg-bockman-cofundador-openai-como-hacer-consulta-perfecta-chatgpt-1443964'>Greg Brockman, cofundador de OpenAI, enseña cómo hacer la consulta perfecta a ChatGPT: “Esta es una manera increíble de pensar” </a></h4>
+    <a href='https://computerhoy.20minutos.es/greg-bockman-cofundador-openai-como-hacer-consulta-perfecta-chatgpt-1443964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prompts-chatgpt-4296216.jpg?tf=1200x' alt='Greg Brockman, cofundador de OpenAI, enseña cómo hacer la consulta perfecta a ChatGPT: “Esta es una manera increíble de pensar” ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/mucho-barato-kindle-lector-ebooks-cuesta-42-euros-pone-amazon-patas-arriba-1443988'>Mucho más barato que un Kindle: este lector de ebooks cuesta 42 euros y pone Amazon patas arriba</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/mucho-barato-kindle-lector-ebooks-cuesta-42-euros-pone-amazon-patas-arriba-1443988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/woxter-book-scriba-195-s-4296224.jpg?tf=1200x' alt='Mucho más barato que un Kindle: este lector de ebooks cuesta 42 euros y pone Amazon patas arriba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/problema-principal-problema-iphone-16e-no-cueste-700-euros-camara-1443918'>El problema principal problema del iPhone 16e no es que cueste 700 euros, es la cámara</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/problema-principal-problema-iphone-16e-no-cueste-700-euros-camara-1443918' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/problema-principal-problema-iphone-16e-no-cueste-700-euros-sino-camara-4296115.jpg?tf=1200x' alt='El problema principal problema del iPhone 16e no es que cueste 700 euros, es la cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nos-haciendo-uso-inteligencia-artificial-estupidos-1443938'>¿Nos está haciendo el uso de la inteligencia artificial más estúpidos?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nos-haciendo-uso-inteligencia-artificial-estupidos-1443938' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nos-haciendo-uso-inteligencia-artificial-estupidos-4296152.jpg?tf=1200x' alt='¿Nos está haciendo el uso de la inteligencia artificial más estúpidos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-tecnologia-muestra-como-intentaron-estafarla-detalle-os-ahorrara-muchisimos-problemas-1443949'>Experta en tecnología muestra cómo intentaron estafarla: "Este detalle os ahorrará muchísimos problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-tecnologia-muestra-como-intentaron-estafarla-detalle-os-ahorrara-muchisimos-problemas-1443949' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-experto-tecnologia-4296190.jpg?tf=1200x' alt='Experta en tecnología muestra cómo intentaron estafarla: "Este detalle os ahorrará muchísimos problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-sera-proximo-seleccionador-entrevista-trabajo-telefonica-empresas-suben-carro-1443907'>La IA será tu próximo seleccionador en una entrevista de trabajo: Telefónica y más empresas se suben a este carro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-sera-proximo-seleccionador-entrevista-trabajo-telefonica-empresas-suben-carro-1443907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-humano-4296111.jpg?tf=1200x' alt='La IA será tu próximo seleccionador en una entrevista de trabajo: Telefónica y más empresas se suben a este carro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/invento-espanol-permitiria-viajar-coche-electrico-vida-gastar-euro-electricidad-1443924'>El invento español que permitiría viajar en coche eléctrico de por vida sin gastar un euro en electricidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/invento-espanol-permitiria-viajar-coche-electrico-vida-gastar-euro-electricidad-1443924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-4296149.jpg?tf=1200x' alt='El invento español que permitiría viajar en coche eléctrico de por vida sin gastar un euro en electricidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-ps5-ni-xbox-disenador-primera-xbox-acaba-guerra-consolas-han-llegado-limite-1443819'>Ni PS5 ni Xbox, el diseñador de la primera Xbox acaba con guerra de consolas: "Han llegado al límite"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ni-ps5-ni-xbox-disenador-primera-xbox-acaba-guerra-consolas-han-llegado-limite-1443819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/primera-xbox-seamus-blackley-4295938.jpg?tf=1200x' alt='Ni PS5 ni Xbox, el diseñador de la primera Xbox acaba con guerra de consolas: "Han llegado al límite"' />
     </a>
 </div>
 
