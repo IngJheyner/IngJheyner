@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050'>Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-google-punto-lanzar-youtube-premium-lite-4296318.jpg?tf=1200x' alt='Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045'>Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/waze-4296334.jpg?tf=1200x' alt='Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877'>Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tubo-escape-4296095.jpg?tf=1200x' alt='Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-1444012'>Sorprendentemente, mucha gente está descubriendo ahora qué significa realmente este botón del teclado</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-1444012' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-4296309.jpg?tf=1200x' alt='Sorprendentemente, mucha gente está descubriendo ahora qué significa realmente este botón del teclado' />
     </a>
 </div>
 
