@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045'>Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/waze-4296334.jpg?tf=1200x' alt='Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-era-chromecast-google-tv-deja-venderse-oficialmente-1444042'>El fin de una era: Chromecast con Google TV deja de venderse oficialmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fin-era-chromecast-google-tv-deja-venderse-oficialmente-1444042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg?tf=1200x' alt='El fin de una era: Chromecast con Google TV deja de venderse oficialmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-filtraciones-sugieren-diseno-compacto-ratio-pantalla-nunca-visto-1444040'>iPhone plegable: filtraciones sugieren un diseño más compacto y un ratio de pantalla nunca visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-filtraciones-sugieren-diseno-compacto-ratio-pantalla-nunca-visto-1444040' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reimaginacion-iphone-plegable-4296327.jpg?tf=1200x' alt='iPhone plegable: filtraciones sugieren un diseño más compacto y un ratio de pantalla nunca visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877'>Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tubo-escape-4296095.jpg?tf=1200x' alt='Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-1444012'>Sorprendentemente, mucha gente está descubriendo ahora qué significa realmente este botón del teclado</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-1444012' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-4296309.jpg?tf=1200x' alt='Sorprendentemente, mucha gente está descubriendo ahora qué significa realmente este botón del teclado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-casi-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031'>Ingeniero de Microsoft desvela casi 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-casi-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-4296292.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela casi 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-1443914'>Cómo evitar la estafa: el sencillo truco para detectar una tienda online falsa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-1443914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-4296097.jpg?tf=1200x' alt='Cómo evitar la estafa: el sencillo truco para detectar una tienda online falsa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-hace-saltar-alarmas-regresa-estaba-factura-luz-aprovechando-subida-iva-1443946'>Policía Nacional hace saltar las alarmas: regresa la estaba de la factura de la luz aprovechando la subida del IVA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-hace-saltar-alarmas-regresa-estaba-factura-luz-aprovechando-subida-iva-1443946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-factura-luz-4296189.jpg?tf=1200x' alt='Policía Nacional hace saltar las alarmas: regresa la estaba de la factura de la luz aprovechando la subida del IVA' />
     </a>
 </div>
 
