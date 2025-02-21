@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-estrena-novedad-muy-importante-apple-c1-1443868'>El iPhone 16e estrena una novedad muy importante para Apple, que ha pasado desapercibida</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-16e-estrena-novedad-muy-importante-apple-c1-1443868' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-estrena-novedad-muy-importante-apple-ha-pasado-desapercibida-4296006.jpg?tf=1200x' alt='El iPhone 16e estrena una novedad muy importante para Apple, que ha pasado desapercibida' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728'>Experta en seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-4295710.jpg?tf=1200x' alt='Experta en seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fracaso-ai-pin-deja-grandes-lecciones-empenan-abandones-iphone-android-1443862'>El fracaso del AI Pin deja grandes lecciones: ¿por qué se empeñan en que abandones tu iPhone o Android?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fracaso-ai-pin-deja-grandes-lecciones-empenan-abandones-iphone-android-1443862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-pin-humane-fuego-3456850.jpg?tf=1200x' alt='El fracaso del AI Pin deja grandes lecciones: ¿por qué se empeñan en que abandones tu iPhone o Android?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-regresa-x-todo-alto-idiota-traidor-1443853'>Stephen King regresa a X por todo lo alto: "Es un idiota traidor"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-regresa-x-todo-alto-idiota-traidor-1443853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/brutal-contestacion-stephen-king-trol-x-estilo-harry-sucio-3339351.jpg?tf=1200x' alt='Stephen King regresa a X por todo lo alto: "Es un idiota traidor"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/experto-electronica-explica-como-arreglar-averia-incomprensible-sufrio-portatil-1443846'>Experto en electrónica explica cómo arreglar la avería más incomprensible que sufrió este portátil</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/experto-electronica-explica-como-arreglar-averia-incomprensible-sufrio-portatil-1443846' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-electronica-explica-hacer-cuando-clavija-funde-dentro-conector-como-paso-portatil-4295992.jpg?tf=1200x' alt='Experto en electrónica explica cómo arreglar la avería más incomprensible que sufrió este portátil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406'>8 aplicaciones de código abierto para apoyar el software libre</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apps-codigo-abierto-open-source-software-libre-4282100.jpg?tf=1200x' alt='8 aplicaciones de código abierto para apoyar el software libre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-herramientas-edicion-video-principiantes-mi-experiencia-como-editor-1430300'>Las mejores herramientas de edición de vídeo para principiantes, según mi experiencia como editor</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mejores-herramientas-edicion-video-principiantes-mi-experiencia-como-editor-1430300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openshot-imovie-apple-4273844.jpg?tf=1200x' alt='Las mejores herramientas de edición de vídeo para principiantes, según mi experiencia como editor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/rusia-amor-google-da-voz-alarma-aumento-ataques-whatsapp-privado-1443674'>Desde Rusia sin amor: Google da la voz de alarma sobre el aumento de ataques al WhatsApp privado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/rusia-amor-google-da-voz-alarma-aumento-ataques-whatsapp-privado-1443674' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-rusia-ciberataque-signal-whatsapp-telegram-4295653.jpg?tf=1200x' alt='Desde Rusia sin amor: Google da la voz de alarma sobre el aumento de ataques al WhatsApp privado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728'>Experta es seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-4295710.jpg?tf=1200x' alt='Experta es seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"' />
     </a>
 </div>
 
