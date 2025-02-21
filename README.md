@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-posicion-espana-ranking-paises-probabilidades-impacto-1443936'>Asteroide 2024 YR4: ¿en qué posición está España en el ranking de países por probabilidades de impacto?</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-posicion-espana-ranking-paises-probabilidades-impacto-1443936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/zona-impacto-asteroide-4296167.jpg?tf=1200x' alt='Asteroide 2024 YR4: ¿en qué posición está España en el ranking de países por probabilidades de impacto?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-reacciona-bloqueos-laliga-iptv-curiosa-oferta-1443963'>DAZN reacciona a los bloqueos de la LaLiga a las IPTV con una curiosa oferta</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-reacciona-bloqueos-laliga-iptv-curiosa-oferta-1443963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dazn-iptv-4296207.jpg?tf=1200x' alt='DAZN reacciona a los bloqueos de la LaLiga a las IPTV con una curiosa oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-comienza-buzon-ves-contacta-policia-nacional-guardia-civil-1443929'>La estafa que comienza en tu buzón: si ves esto, contacta la Policía Nacional o Guardia Civil</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-comienza-buzon-ves-contacta-policia-nacional-guardia-civil-1443929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-buzon-4296200.jpg?tf=1200x' alt='La estafa que comienza en tu buzón: si ves esto, contacta la Policía Nacional o Guardia Civil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/mucho-barato-kindle-lector-ebooks-cuesta-42-euros-pone-amazon-patas-arriba-1443988'>Mucho más barato que un Kindle: este lector de ebooks cuesta 42 euros y pone Amazon patas arriba</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/mucho-barato-kindle-lector-ebooks-cuesta-42-euros-pone-amazon-patas-arriba-1443988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/woxter-book-scriba-195-s-4296224.jpg?tf=1200x' alt='Mucho más barato que un Kindle: este lector de ebooks cuesta 42 euros y pone Amazon patas arriba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/problema-principal-problema-iphone-16e-no-cueste-700-euros-camara-1443918'>El problema principal problema del iPhone 16e no es que cueste 700 euros, es la cámara</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/problema-principal-problema-iphone-16e-no-cueste-700-euros-camara-1443918' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/problema-principal-problema-iphone-16e-no-cueste-700-euros-sino-camara-4296115.jpg?tf=1200x' alt='El problema principal problema del iPhone 16e no es que cueste 700 euros, es la cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nos-haciendo-uso-inteligencia-artificial-estupidos-1443938'>¿Nos está haciendo el uso de la inteligencia artificial más estúpidos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nos-haciendo-uso-inteligencia-artificial-estupidos-1443938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nos-haciendo-uso-inteligencia-artificial-estupidos-4296152.jpg?tf=1200x' alt='¿Nos está haciendo el uso de la inteligencia artificial más estúpidos?' />
     </a>
 </div>
 
