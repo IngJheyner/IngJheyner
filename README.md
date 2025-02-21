@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nos-haciendo-uso-inteligencia-artificial-estupidos-1443938'>¿Nos está haciendo el uso de la inteligencia artificial más estúpidos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nos-haciendo-uso-inteligencia-artificial-estupidos-1443938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nos-haciendo-uso-inteligencia-artificial-estupidos-4296152.jpg?tf=1200x' alt='¿Nos está haciendo el uso de la inteligencia artificial más estúpidos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-tecnologia-muestra-como-intentaron-estafarla-detalle-os-ahorrara-muchisimos-problemas-1443949'>Experta en tecnología muestra cómo intentaron estafarla: "Este detalle os ahorrará muchísimos problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-tecnologia-muestra-como-intentaron-estafarla-detalle-os-ahorrara-muchisimos-problemas-1443949' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-experto-tecnologia-4296190.jpg?tf=1200x' alt='Experta en tecnología muestra cómo intentaron estafarla: "Este detalle os ahorrará muchísimos problemas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-sera-proximo-seleccionador-entrevista-trabajo-telefonica-empresas-suben-carro-1443907'>La IA será tu próximo seleccionador en una entrevista de trabajo: Telefónica y más empresas se suben a este carro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-sera-proximo-seleccionador-entrevista-trabajo-telefonica-empresas-suben-carro-1443907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-humano-4296111.jpg?tf=1200x' alt='La IA será tu próximo seleccionador en una entrevista de trabajo: Telefónica y más empresas se suben a este carro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/invento-espanol-permitiria-viajar-coche-electrico-vida-gastar-euro-electricidad-1443924'>El invento español que permitiría viajar en coche eléctrico de por vida sin gastar un euro en electricidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/invento-espanol-permitiria-viajar-coche-electrico-vida-gastar-euro-electricidad-1443924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-4296149.jpg?tf=1200x' alt='El invento español que permitiría viajar en coche eléctrico de por vida sin gastar un euro en electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ni-ps5-ni-xbox-disenador-primera-xbox-acaba-guerra-consolas-han-llegado-limite-1443819'>Ni PS5 ni Xbox, el diseñador de la primera Xbox acaba con guerra de consolas: "Han llegado al límite"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ni-ps5-ni-xbox-disenador-primera-xbox-acaba-guerra-consolas-han-llegado-limite-1443819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/primera-xbox-seamus-blackley-4295938.jpg?tf=1200x' alt='Ni PS5 ni Xbox, el diseñador de la primera Xbox acaba con guerra de consolas: "Han llegado al límite"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-elimina-censura-deepseek-r1-echa-fuego-debate-limites-ia-1443921'>Perplexity AI elimina la censura de DeepSeek R1 y echa más fuego al debate sobre los límites de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-elimina-censura-deepseek-r1-echa-fuego-debate-limites-ia-1443921' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movil-android-deepseek-4296145.jpg?tf=1200x' alt='Perplexity AI elimina la censura de DeepSeek R1 y echa más fuego al debate sobre los límites de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/amor-tiempos-gaming-estropea-gpu-nvidia-2016-respuesta-novio-1443905'>El amor en tiempos de gaming: se le estropea su GPU Nvidia de 2016 y esta es la respuesta de su novio</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/amor-tiempos-gaming-estropea-gpu-nvidia-2016-respuesta-novio-1443905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rtx-nvidia-4296101.jpg?tf=1200x' alt='El amor en tiempos de gaming: se le estropea su GPU Nvidia de 2016 y esta es la respuesta de su novio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/3-razones-comprar-iphone-16e-3-razones-no-1443896'>3 razones por las que comprar el iPhone 16e y 3 razones por las que no</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/3-razones-comprar-iphone-16e-3-razones-no-1443896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-iphone-16e-4296070.jpg?tf=1200x' alt='3 razones por las que comprar el iPhone 16e y 3 razones por las que no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889'>El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV' />
     </a>
 </div>
 
