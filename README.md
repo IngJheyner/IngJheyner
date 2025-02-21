@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/cuesta-realmente-cargar-coche-electrico-espana-1444037'>Esto es lo que cuesta realmente cargar un coche eléctrico en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/cuesta-realmente-cargar-coche-electrico-espana-1444037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuesta-realmente-cargar-coche-electrico-espana-4296342.jpg?tf=1200x' alt='Esto es lo que cuesta realmente cargar un coche eléctrico en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050'>Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-google-punto-lanzar-youtube-premium-lite-4296318.jpg?tf=1200x' alt='Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-filtraciones-sugieren-diseno-compacto-ratio-pantalla-nunca-visto-1444040'>iPhone plegable: filtraciones sugieren un diseño más compacto y un ratio de pantalla nunca visto</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-filtraciones-sugieren-diseno-compacto-ratio-pantalla-nunca-visto-1444040' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reimaginacion-iphone-plegable-4296327.jpg?tf=1200x' alt='iPhone plegable: filtraciones sugieren un diseño más compacto y un ratio de pantalla nunca visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877'>Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tubo-escape-4296095.jpg?tf=1200x' alt='Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica' />
     </a>
 </div>
 
