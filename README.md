@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-nueva-estafa-whatsapp-pulsas-boton-estafa-ha-comenzado-1443706'>Alerta por una nueva estafa en WhatsApp: pulsas un botón y la estafa ha comenzado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-nueva-estafa-whatsapp-pulsas-boton-estafa-ha-comenzado-1443706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-nueva-estafa-whatsapp-pulsas-boton-estafa-ha-comenzado-4295679.jpg?tf=1200x' alt='Alerta por una nueva estafa en WhatsApp: pulsas un botón y la estafa ha comenzado' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/rusia-amor-google-da-voz-alarma-aumento-ataques-whatsapp-privado-1443674'>Desde Rusia sin amor: Google da la voz de alarma sobre el aumento de ataques al WhatsApp privado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/rusia-amor-google-da-voz-alarma-aumento-ataques-whatsapp-privado-1443674' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-rusia-ciberataque-signal-whatsapp-telegram-4295653.jpg?tf=1200x' alt='Desde Rusia sin amor: Google da la voz de alarma sobre el aumento de ataques al WhatsApp privado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/expertos-confirman-generacion-z-sufre-telefobia-estas-son-graves-consecuencias-1443667'>Los expertos lo confirman: la generación Z sufre de "telefobia", y estas son las graves consecuencias</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/expertos-confirman-generacion-z-sufre-telefobia-estas-son-graves-consecuencias-1443667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-confirman-generacion-z-sufre-telefobia-estas-son-graves-consecuencias-4295619.jpg?tf=1200x' alt='Los expertos lo confirman: la generación Z sufre de "telefobia", y estas son las graves consecuencias' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728'>Experta es seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-4295710.jpg?tf=1200x' alt='Experta es seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/configurar-movil-llamada-emergencia-112-pulsando-boton-encendido-1443835'>Así puedes configurar en tu móvil la llamada de emergencia al 112 pulsando el botón de encendido</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/configurar-movil-llamada-emergencia-112-pulsando-boton-encendido-1443835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puedes-configurar-movil-llamada-emergencia-112-pulsando-boton-bloqueo-4295966.jpg?tf=1200x' alt='Así puedes configurar en tu móvil la llamada de emergencia al 112 pulsando el botón de encendido' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-pagar-mucho-menos-factura-movistar-plus-viendo-mismo-renunciar-nada-1443696'>Cómo pagar mucho menos en tu factura de Movistar Plus+ viendo lo mismo y sin renunciar a nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/como-pagar-mucho-menos-factura-movistar-plus-viendo-mismo-renunciar-nada-1443696' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-pagar-mucho-menos-factura-movistar-plus-viendo-mismo-renunciar-nada-4295672.jpg?tf=1200x' alt='Cómo pagar mucho menos en tu factura de Movistar Plus+ viendo lo mismo y sin renunciar a nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-1443808'>Anonymous regresa con fuerza de su letargo con un claro objetivo: Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-1443808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-4295939.jpg?tf=1200x' alt='Anonymous regresa con fuerza de su letargo con un claro objetivo: Elon Musk' />
+    <h4><a href='https://computerhoy.20minutos.es/life/alarma-japon-son-potencia-tecnologica-pero-jovenes-estan-olvidando-algo-fundamental-1443685'>Alarma en Japón: son una potencia tecnológica, pero sus jóvenes se están olvidando de algo fundamental</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/alarma-japon-son-potencia-tecnologica-pero-jovenes-estan-olvidando-algo-fundamental-1443685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alarma-japon-son-potencia-tecnologica-pero-jovenes-estan-olvidando-algo-fundamental-4295639.jpg?tf=1200x' alt='Alarma en Japón: son una potencia tecnológica, pero sus jóvenes se están olvidando de algo fundamental' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/palo-tesla-estudio-revela-conductores-no-fian-pantallas-estas-son-marcas-mejor-valoradas-1443818'>Palo a Tesla, un estudio revela que los conductores no se fían de las pantallas: estas son las marcas mejor valoradas</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/palo-tesla-estudio-revela-conductores-no-fian-pantallas-estas-son-marcas-mejor-valoradas-1443818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-elon-musk-4295920.jpg?tf=1200x' alt='Palo a Tesla, un estudio revela que los conductores no se fían de las pantallas: estas son las marcas mejor valoradas' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-problema-bateria-1443837'>Deja sin encender su Steam Deck durante medio año y se lleva una desagradable sorpresa: ahora es más pobre</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/steam-deck-problema-bateria-1443837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deja-encender-steam-deck-durante-medio-ano-lleva-desagradable-sorpresa-ahora-pobre-4295977.jpg?tf=1200x' alt='Deja sin encender su Steam Deck durante medio año y se lleva una desagradable sorpresa: ahora es más pobre' />
     </a>
 </div>
 
