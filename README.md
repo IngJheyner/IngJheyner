@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889'>El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/adios-usb-kindle-amazon-1442783'>Giro de 180 grados al Kindle de Amazon, adiós a los libros por USB a partir del 26 de febrero</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/adios-usb-kindle-amazon-1442783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257630.jpg?tf=1200x' alt='Giro de 180 grados al Kindle de Amazon, adiós a los libros por USB a partir del 26 de febrero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-anadido-nueva-funcion-basica-iphone-nadie-esperaba-1443898'>WhatsApp ha añadido una nueva función básica para iPhone que nadie esperaba</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-anadido-nueva-funcion-basica-iphone-nadie-esperaba-1443898' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-ha-anadido-nueva-funcion-basica-ios-nadie-esperaba-4296072.jpg?tf=1200x' alt='WhatsApp ha añadido una nueva función básica para iPhone que nadie esperaba' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-1443858'>Giro de 180 grados en Windows 11: Microsoft ha realizado cambios importantes para cumplir la normativa europea</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-1443858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-4296054.jpg?tf=1200x' alt='Giro de 180 grados en Windows 11: Microsoft ha realizado cambios importantes para cumplir la normativa europea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/problemas-nvidia-crecen-pospone-rtx-5070-5060-primavera-1443866'>Los problemas para Nvidia crecen: pospone las RTX 5070 y 5060 hasta primavera</a></h4>
-    <a href='https://computerhoy.20minutos.es/problemas-nvidia-crecen-pospone-rtx-5070-5060-primavera-1443866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/problemas-gpu-nvidia-4296052.jpg?tf=1200x' alt='Los problemas para Nvidia crecen: pospone las RTX 5070 y 5060 hasta primavera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-estrena-novedad-muy-importante-apple-c1-1443868'>El iPhone 16e estrena una novedad muy importante para Apple, que ha pasado desapercibida</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-16e-estrena-novedad-muy-importante-apple-c1-1443868' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-estrena-novedad-muy-importante-apple-ha-pasado-desapercibida-4296006.jpg?tf=1200x' alt='El iPhone 16e estrena una novedad muy importante para Apple, que ha pasado desapercibida' />
     </a>
 </div>
 
