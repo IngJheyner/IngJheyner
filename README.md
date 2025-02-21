@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-1443914'>Cómo evitar la estafa: el sencillo truco para detectar una tienda online falsa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-1443914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-4296097.jpg?tf=1200x' alt='Cómo evitar la estafa: el sencillo truco para detectar una tienda online falsa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-hace-saltar-alarmas-regresa-estaba-factura-luz-aprovechando-subida-iva-1443946'>Policía Nacional hace saltar las alarmas: regresa la estaba de la factura de la luz aprovechando la subida del IVA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-hace-saltar-alarmas-regresa-estaba-factura-luz-aprovechando-subida-iva-1443946' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-factura-luz-4296189.jpg?tf=1200x' alt='Policía Nacional hace saltar las alarmas: regresa la estaba de la factura de la luz aprovechando la subida del IVA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/cada-vez-hay-casos-coches-electricos-ardiendo-madrid-1443947'>¿Por qué cada vez hay más casos de coches eléctricos ardiendo en Madrid?</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cada-vez-hay-casos-coches-electricos-ardiendo-madrid-1443947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-ardiendo-4296208.jpg?tf=1200x' alt='¿Por qué cada vez hay más casos de coches eléctricos ardiendo en Madrid?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-1443968'>Mercedes prueba con éxito su primer coche con batería de estado sólido con hasta 1.000 kilómetros de autonomía</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-1443968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-4296191.jpg?tf=1200x' alt='Mercedes prueba con éxito su primer coche con batería de estado sólido con hasta 1.000 kilómetros de autonomía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-waze-nueva-app-evitar-radares-favorita-conductores-todo-mundo-1443982'>Adiós Waze, esta es la nueva app para evitar radares favorita de los conductores de todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-waze-nueva-app-evitar-radares-favorita-conductores-todo-mundo-1443982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-waze-nueva-app-evitar-radares-favorita-conductores-todo-mundo-4296264.jpg?tf=1200x' alt='Adiós Waze, esta es la nueva app para evitar radares favorita de los conductores de todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-posicion-espana-ranking-paises-probabilidades-impacto-1443936'>Asteroide 2024 YR4: ¿en qué posición está España en el ranking de países por probabilidades de impacto?</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-posicion-espana-ranking-paises-probabilidades-impacto-1443936' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/zona-impacto-asteroide-4296167.jpg?tf=1200x' alt='Asteroide 2024 YR4: ¿en qué posición está España en el ranking de países por probabilidades de impacto?' />
     </a>
 </div>
 
