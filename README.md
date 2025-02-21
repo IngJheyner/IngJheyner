@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ni-ps5-ni-xbox-disenador-primera-xbox-acaba-guerra-consolas-han-llegado-limite-1443819'>Ni PS5 ni Xbox, el diseñador de la primera Xbox acaba con guerra de consolas: "Han llegado al límite"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ni-ps5-ni-xbox-disenador-primera-xbox-acaba-guerra-consolas-han-llegado-limite-1443819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/primera-xbox-seamus-blackley-4295938.jpg?tf=1200x' alt='Ni PS5 ni Xbox, el diseñador de la primera Xbox acaba con guerra de consolas: "Han llegado al límite"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-elimina-censura-deepseek-r1-echa-fuego-debate-limites-ia-1443921'>Perplexity AI elimina la censura de DeepSeek R1 y echa más fuego al debate sobre los límites de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/perplexity-ai-elimina-censura-deepseek-r1-echa-fuego-debate-limites-ia-1443921' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movil-android-deepseek-4296145.jpg?tf=1200x' alt='Perplexity AI elimina la censura de DeepSeek R1 y echa más fuego al debate sobre los límites de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/amor-tiempos-gaming-estropea-gpu-nvidia-2016-respuesta-novio-1443905'>El amor en tiempos de gaming: se le estropea su GPU Nvidia de 2016 y esta es la respuesta de su novio</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/amor-tiempos-gaming-estropea-gpu-nvidia-2016-respuesta-novio-1443905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rtx-nvidia-4296101.jpg?tf=1200x' alt='El amor en tiempos de gaming: se le estropea su GPU Nvidia de 2016 y esta es la respuesta de su novio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/3-razones-comprar-iphone-16e-3-razones-no-1443896'>3 razones por las que comprar el iPhone 16e y 3 razones por las que no</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/3-razones-comprar-iphone-16e-3-razones-no-1443896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-iphone-16e-4296070.jpg?tf=1200x' alt='3 razones por las que comprar el iPhone 16e y 3 razones por las que no' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889'>El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/adios-usb-kindle-amazon-1442783'>Giro de 180 grados al Kindle de Amazon, adiós a los libros por USB a partir del 26 de febrero</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/adios-usb-kindle-amazon-1442783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/amazon-kindle-paperwhite-2024-4257630.jpg?tf=1200x' alt='Giro de 180 grados al Kindle de Amazon, adiós a los libros por USB a partir del 26 de febrero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-anadido-nueva-funcion-basica-iphone-nadie-esperaba-1443898'>WhatsApp ha añadido una nueva función básica para iPhone que nadie esperaba</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-anadido-nueva-funcion-basica-iphone-nadie-esperaba-1443898' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-ha-anadido-nueva-funcion-basica-ios-nadie-esperaba-4296072.jpg?tf=1200x' alt='WhatsApp ha añadido una nueva función básica para iPhone que nadie esperaba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/afectaran-bloqueos-laliga-iptv-usuarios-magis-tv-fin-semana-1443875'>¿Afectarán los bloqueos de LaLiga a las IPTV a los usuarios de Magis TV este fin de semana?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/afectaran-bloqueos-laliga-iptv-usuarios-magis-tv-fin-semana-1443875' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueos-laliga-iptv-4296061.jpg?tf=1200x' alt='¿Afectarán los bloqueos de LaLiga a las IPTV a los usuarios de Magis TV este fin de semana?' />
     </a>
 </div>
 
