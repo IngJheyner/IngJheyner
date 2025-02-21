@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/configurar-movil-llamada-emergencia-112-pulsando-boton-encendido-1443835'>Así puedes configurar en tu móvil la llamada de emergencia al 112 pulsando el botón de encendido</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/configurar-movil-llamada-emergencia-112-pulsando-boton-encendido-1443835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puedes-configurar-movil-llamada-emergencia-112-pulsando-boton-bloqueo-4295966.jpg?tf=1200x' alt='Así puedes configurar en tu móvil la llamada de emergencia al 112 pulsando el botón de encendido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-1443808'>Anonymous regresa con fuerza de su letargo con un claro objetivo: Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-1443808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-4295939.jpg?tf=1200x' alt='Anonymous regresa con fuerza de su letargo con un claro objetivo: Elon Musk' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-1443809'>Grok 3 gratis para todos: ya puedes probar la nueva IA de Elon Musk con herramientas avanzadas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-1443809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/grok-3-gratis-todos-ya-puedes-probar-nueva-ia-elon-musk-herramientas-avanzadas-4295866.jpg?tf=1200x' alt='Grok 3 gratis para todos: ya puedes probar la nueva IA de Elon Musk con herramientas avanzadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-reportan-fallos-graves-reinicios-forzados-problemas-conexion-1443807'>Usuarios de Android Auto reportan fallos graves: reinicios forzados y problemas de conexión</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-reportan-fallos-graves-reinicios-forzados-problemas-conexion-1443807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/error-android-auto-4258462.jpg?tf=1200x' alt='Usuarios de Android Auto reportan fallos graves: reinicios forzados y problemas de conexión' />
     </a>
 </div>
 
