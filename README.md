@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/cada-vez-hay-casos-coches-electricos-ardiendo-madrid-1443947'>¿Por qué cada vez hay más casos de coches eléctricos ardiendo en Madrid?</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/cada-vez-hay-casos-coches-electricos-ardiendo-madrid-1443947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-ardiendo-4296208.jpg?tf=1200x' alt='¿Por qué cada vez hay más casos de coches eléctricos ardiendo en Madrid?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/adios-puerto-lightning-todos-iphone-nuevos-ahora-tienen-usb-c-1443997'>Adiós al puerto Lightning, todos los iPhone nuevos ahora tienen USB-C</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/adios-puerto-lightning-todos-iphone-nuevos-ahora-tienen-usb-c-1443997' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-movil-barato-apple-ya-aqui-caracteristicas-precio-fecha-lanzamiento-4295377.jpg?tf=1200x' alt='Adiós al puerto Lightning, todos los iPhone nuevos ahora tienen USB-C' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-1443968'>Mercedes prueba con éxito su primer coche con batería de estado sólido con hasta 1.000 kilómetros de autonomía</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-1443968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-4296191.jpg?tf=1200x' alt='Mercedes prueba con éxito su primer coche con batería de estado sólido con hasta 1.000 kilómetros de autonomía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-waze-nueva-app-evitar-radares-favorita-conductores-todo-mundo-1443982'>Adiós Waze, esta es la nueva app para evitar radares favorita de los conductores de todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-waze-nueva-app-evitar-radares-favorita-conductores-todo-mundo-1443982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-waze-nueva-app-evitar-radares-favorita-conductores-todo-mundo-4296264.jpg?tf=1200x' alt='Adiós Waze, esta es la nueva app para evitar radares favorita de los conductores de todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-posicion-espana-ranking-paises-probabilidades-impacto-1443936'>Asteroide 2024 YR4: ¿en qué posición está España en el ranking de países por probabilidades de impacto?</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/asteroide-2024-yr4-posicion-espana-ranking-paises-probabilidades-impacto-1443936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/zona-impacto-asteroide-4296167.jpg?tf=1200x' alt='Asteroide 2024 YR4: ¿en qué posición está España en el ranking de países por probabilidades de impacto?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-reacciona-bloqueos-laliga-iptv-curiosa-oferta-1443963'>DAZN reacciona a los bloqueos de la LaLiga a las IPTV con una curiosa oferta</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-reacciona-bloqueos-laliga-iptv-curiosa-oferta-1443963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dazn-iptv-4296207.jpg?tf=1200x' alt='DAZN reacciona a los bloqueos de la LaLiga a las IPTV con una curiosa oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-comienza-buzon-ves-contacta-policia-nacional-guardia-civil-1443929'>La estafa que comienza en tu buzón: si ves esto, contacta la Policía Nacional o Guardia Civil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-comienza-buzon-ves-contacta-policia-nacional-guardia-civil-1443929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-buzon-4296200.jpg?tf=1200x' alt='La estafa que comienza en tu buzón: si ves esto, contacta la Policía Nacional o Guardia Civil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/greg-bockman-cofundador-openai-como-hacer-consulta-perfecta-chatgpt-1443964'>Greg Brockman, cofundador de OpenAI, enseña cómo hacer la consulta perfecta a ChatGPT: “Esta es una manera increíble de pensar” </a></h4>
-    <a href='https://computerhoy.20minutos.es/greg-bockman-cofundador-openai-como-hacer-consulta-perfecta-chatgpt-1443964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/prompts-chatgpt-4296216.jpg?tf=1200x' alt='Greg Brockman, cofundador de OpenAI, enseña cómo hacer la consulta perfecta a ChatGPT: “Esta es una manera increíble de pensar” ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/mucho-barato-kindle-lector-ebooks-cuesta-42-euros-pone-amazon-patas-arriba-1443988'>Mucho más barato que un Kindle: este lector de ebooks cuesta 42 euros y pone Amazon patas arriba</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/mucho-barato-kindle-lector-ebooks-cuesta-42-euros-pone-amazon-patas-arriba-1443988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/woxter-book-scriba-195-s-4296224.jpg?tf=1200x' alt='Mucho más barato que un Kindle: este lector de ebooks cuesta 42 euros y pone Amazon patas arriba' />
     </a>
 </div>
 
