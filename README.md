@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/3-razones-comprar-iphone-16e-3-razones-no-1443896'>3 razones por las que comprar el iPhone 16e y 3 razones por las que no</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/3-razones-comprar-iphone-16e-3-razones-no-1443896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-iphone-16e-4296070.jpg?tf=1200x' alt='3 razones por las que comprar el iPhone 16e y 3 razones por las que no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889'>El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/primer-apagon-tdt-espana-2025-inminente-todo-debes-saber-no-quedarte-ver-tv-1443889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/ver-tdt-television-3292543.jpg?tf=1200x' alt='El primer apagón de la TDT en España de 2025 es inminente: todo lo que debes saber para no quedarte sin ver la TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/afectaran-bloqueos-laliga-iptv-usuarios-magis-tv-fin-semana-1443875'>¿Afectarán los bloqueos de LaLiga a las IPTV a los usuarios de Magis TV este fin de semana?</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/afectaran-bloqueos-laliga-iptv-usuarios-magis-tv-fin-semana-1443875' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueos-laliga-iptv-4296061.jpg?tf=1200x' alt='¿Afectarán los bloqueos de LaLiga a las IPTV a los usuarios de Magis TV este fin de semana?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-1443858'>Giro de 180 grados en Windows 11: Microsoft ha realizado cambios importantes para cumplir la normativa europea</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-1443858' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-4296054.jpg?tf=1200x' alt='Giro de 180 grados en Windows 11: Microsoft ha realizado cambios importantes para cumplir la normativa europea' />
     </a>
 </div>
 
