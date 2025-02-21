@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-anadido-nueva-funcion-basica-iphone-nadie-esperaba-1443898'>WhatsApp ha añadido una nueva función básica para iPhone que nadie esperaba</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-ha-anadido-nueva-funcion-basica-iphone-nadie-esperaba-1443898' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-ha-anadido-nueva-funcion-basica-ios-nadie-esperaba-4296072.jpg?tf=1200x' alt='WhatsApp ha añadido una nueva función básica para iPhone que nadie esperaba' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/afectaran-bloqueos-laliga-iptv-usuarios-magis-tv-fin-semana-1443875'>¿Afectarán los bloqueos de LaLiga a las IPTV a los usuarios de Magis TV este fin de semana?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/afectaran-bloqueos-laliga-iptv-usuarios-magis-tv-fin-semana-1443875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueos-laliga-iptv-4296061.jpg?tf=1200x' alt='¿Afectarán los bloqueos de LaLiga a las IPTV a los usuarios de Magis TV este fin de semana?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-1443858'>Giro de 180 grados en Windows 11: Microsoft ha realizado cambios importantes para cumplir la normativa europea</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-1443858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-windows-11-microsoft-ha-realizado-cambios-importantes-cumplir-normativa-europea-4296054.jpg?tf=1200x' alt='Giro de 180 grados en Windows 11: Microsoft ha realizado cambios importantes para cumplir la normativa europea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/problemas-nvidia-crecen-pospone-rtx-5070-5060-primavera-1443866'>Los problemas para Nvidia crecen: pospone las RTX 5070 y 5060 hasta primavera</a></h4>
+    <a href='https://computerhoy.20minutos.es/problemas-nvidia-crecen-pospone-rtx-5070-5060-primavera-1443866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/problemas-gpu-nvidia-4296052.jpg?tf=1200x' alt='Los problemas para Nvidia crecen: pospone las RTX 5070 y 5060 hasta primavera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-estrena-novedad-muy-importante-apple-c1-1443868'>El iPhone 16e estrena una novedad muy importante para Apple, que ha pasado desapercibida</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-16e-estrena-novedad-muy-importante-apple-c1-1443868' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-estrena-novedad-muy-importante-apple-ha-pasado-desapercibida-4296006.jpg?tf=1200x' alt='El iPhone 16e estrena una novedad muy importante para Apple, que ha pasado desapercibida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728'>Experta en seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-1443728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-seguridad-alerta-peligroso-mensaje-whatsapp-arruinando-personas-toda-espana-4295710.jpg?tf=1200x' alt='Experta en seguridad alerta sobre este peligroso mensaje de WhatsApp: "Está arruinando personas por toda España"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fracaso-ai-pin-deja-grandes-lecciones-empenan-abandones-iphone-android-1443862'>El fracaso del AI Pin deja grandes lecciones: ¿por qué se empeñan en que abandones tu iPhone o Android?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fracaso-ai-pin-deja-grandes-lecciones-empenan-abandones-iphone-android-1443862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ai-pin-humane-fuego-3456850.jpg?tf=1200x' alt='El fracaso del AI Pin deja grandes lecciones: ¿por qué se empeñan en que abandones tu iPhone o Android?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-regresa-x-todo-alto-idiota-traidor-1443853'>Stephen King regresa a X por todo lo alto: "Es un idiota traidor"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-regresa-x-todo-alto-idiota-traidor-1443853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/brutal-contestacion-stephen-king-trol-x-estilo-harry-sucio-3339351.jpg?tf=1200x' alt='Stephen King regresa a X por todo lo alto: "Es un idiota traidor"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/experto-electronica-explica-como-arreglar-averia-incomprensible-sufrio-portatil-1443846'>Experto en electrónica explica cómo arreglar la avería más incomprensible que sufrió este portátil</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/experto-electronica-explica-como-arreglar-averia-incomprensible-sufrio-portatil-1443846' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experto-electronica-explica-hacer-cuando-clavija-funde-dentro-conector-como-paso-portatil-4295992.jpg?tf=1200x' alt='Experto en electrónica explica cómo arreglar la avería más incomprensible que sufrió este portátil' />
     </a>
 </div>
 
