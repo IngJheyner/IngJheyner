@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406'>8 aplicaciones de código abierto para apoyar el software libre</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/8-aplicaciones-codigo-abierto-apoyar-software-libre-1435406' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/apps-codigo-abierto-open-source-software-libre-4282100.jpg?tf=1200x' alt='8 aplicaciones de código abierto para apoyar el software libre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mejores-herramientas-edicion-video-principiantes-mi-experiencia-como-editor-1430300'>Las mejores herramientas de edición de vídeo para principiantes, según mi experiencia como editor</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mejores-herramientas-edicion-video-principiantes-mi-experiencia-como-editor-1430300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/openshot-imovie-apple-4273844.jpg?tf=1200x' alt='Las mejores herramientas de edición de vídeo para principiantes, según mi experiencia como editor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/rusia-amor-google-da-voz-alarma-aumento-ataques-whatsapp-privado-1443674'>Desde Rusia sin amor: Google da la voz de alarma sobre el aumento de ataques al WhatsApp privado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/rusia-amor-google-da-voz-alarma-aumento-ataques-whatsapp-privado-1443674' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-rusia-ciberataque-signal-whatsapp-telegram-4295653.jpg?tf=1200x' alt='Desde Rusia sin amor: Google da la voz de alarma sobre el aumento de ataques al WhatsApp privado' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-pagar-mucho-menos-factura-movistar-plus-viendo-mismo-renunciar-nada-1443696'>Cómo pagar mucho menos en tu factura de Movistar Plus+ viendo lo mismo y sin renunciar a nada</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/como-pagar-mucho-menos-factura-movistar-plus-viendo-mismo-renunciar-nada-1443696' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-pagar-mucho-menos-factura-movistar-plus-viendo-mismo-renunciar-nada-4295672.jpg?tf=1200x' alt='Cómo pagar mucho menos en tu factura de Movistar Plus+ viendo lo mismo y sin renunciar a nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/alarma-japon-son-potencia-tecnologica-pero-jovenes-estan-olvidando-algo-fundamental-1443685'>Alarma en Japón: son una potencia tecnológica, pero sus jóvenes se están olvidando de algo fundamental</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/alarma-japon-son-potencia-tecnologica-pero-jovenes-estan-olvidando-algo-fundamental-1443685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alarma-japon-son-potencia-tecnologica-pero-jovenes-estan-olvidando-algo-fundamental-4295639.jpg?tf=1200x' alt='Alarma en Japón: son una potencia tecnológica, pero sus jóvenes se están olvidando de algo fundamental' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/steam-deck-problema-bateria-1443837'>Deja sin encender su Steam Deck durante medio año y se lleva una desagradable sorpresa: ahora es más pobre</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/steam-deck-problema-bateria-1443837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deja-encender-steam-deck-durante-medio-ano-lleva-desagradable-sorpresa-ahora-pobre-4295977.jpg?tf=1200x' alt='Deja sin encender su Steam Deck durante medio año y se lleva una desagradable sorpresa: ahora es más pobre' />
     </a>
 </div>
 
