@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877'>Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/investigadores-logran-crear-dispositivo-transforma-emisiones-coches-energia-electrica-1443877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tubo-escape-4296095.jpg?tf=1200x' alt='Investigadores logran crear un dispositivo que transforma las emisiones de los coches en energía eléctrica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-1444012'>Sorprendentemente, mucha gente está descubriendo ahora qué significa realmente este botón del teclado</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-1444012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sorprendentemente-mucha-gente-descubriendo-ahora-significa-realmente-boton-teclado-4296309.jpg?tf=1200x' alt='Sorprendentemente, mucha gente está descubriendo ahora qué significa realmente este botón del teclado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-casi-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031'>Ingeniero de Microsoft desvela casi 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-casi-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-4296292.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela casi 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-1443914'>Cómo evitar la estafa: el sencillo truco para detectar una tienda online falsa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-1443914' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-evitar-estafa-sencillo-truco-detectar-tienda-online-falsa-4296097.jpg?tf=1200x' alt='Cómo evitar la estafa: el sencillo truco para detectar una tienda online falsa' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-hace-saltar-alarmas-regresa-estaba-factura-luz-aprovechando-subida-iva-1443946'>Policía Nacional hace saltar las alarmas: regresa la estaba de la factura de la luz aprovechando la subida del IVA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/policia-nacional-hace-saltar-alarmas-regresa-estaba-factura-luz-aprovechando-subida-iva-1443946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-factura-luz-4296189.jpg?tf=1200x' alt='Policía Nacional hace saltar las alarmas: regresa la estaba de la factura de la luz aprovechando la subida del IVA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/cada-vez-hay-casos-coches-electricos-ardiendo-madrid-1443947'>¿Por qué cada vez hay más casos de coches eléctricos ardiendo en Madrid?</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/cada-vez-hay-casos-coches-electricos-ardiendo-madrid-1443947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-ardiendo-4296208.jpg?tf=1200x' alt='¿Por qué cada vez hay más casos de coches eléctricos ardiendo en Madrid?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/adios-puerto-lightning-todos-iphone-nuevos-ahora-tienen-usb-c-1443997'>Adiós al puerto Lightning, todos los iPhone nuevos ahora tienen USB-C</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/adios-puerto-lightning-todos-iphone-nuevos-ahora-tienen-usb-c-1443997' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-16e-movil-barato-apple-ya-aqui-caracteristicas-precio-fecha-lanzamiento-4295377.jpg?tf=1200x' alt='Adiós al puerto Lightning, todos los iPhone nuevos ahora tienen USB-C' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-1443968'>Mercedes prueba con éxito su primer coche con batería de estado sólido con hasta 1.000 kilómetros de autonomía</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-1443968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mercedes-prueba-exito-primer-coche-bateria-estado-solido-1000-kilometros-autonomia-4296191.jpg?tf=1200x' alt='Mercedes prueba con éxito su primer coche con batería de estado sólido con hasta 1.000 kilómetros de autonomía' />
     </a>
 </div>
 
