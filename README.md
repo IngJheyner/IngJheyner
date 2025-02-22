@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-integra-copilot-spotlight-windows-11-ahora-fondo-pantalla-tiene-mucho-decir-1444139'>Microsoft integra Copilot en Spotlight de Windows 11 y ahora tu fondo de pantalla tiene mucho que decir</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-integra-copilot-spotlight-windows-11-ahora-fondo-pantalla-tiene-mucho-decir-1444139' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spotlight-copilot-4296487.jpg?tf=1200x' alt='Microsoft integra Copilot en Spotlight de Windows 11 y ahora tu fondo de pantalla tiene mucho que decir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-play-te-dejara-crear-avatar-gamer-ia-adios-perfiles-aburridos-1444138'>Google Play te dejará crear tu avatar gamer con IA: adiós a los perfiles aburridos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-play-te-dejara-crear-avatar-gamer-ia-adios-perfiles-aburridos-1444138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-play-store-4296486.jpg?tf=1200x' alt='Google Play te dejará crear tu avatar gamer con IA: adiós a los perfiles aburridos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-sera-compatible-controles-remotos-retroiluminados-adios-buscar-botones-oscuridad-1444137'>Google TV Streamer será compatible con controles remotos retroiluminados: adiós a buscar botones en la oscuridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-sera-compatible-controles-remotos-retroiluminados-adios-buscar-botones-oscuridad-1444137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='Google TV Streamer será compatible con controles remotos retroiluminados: adiós a buscar botones en la oscuridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578'>Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-4295495.jpg?tf=1200x' alt='Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123'>Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-demuestran-convivir-robots-humanoides-no-buena-idea-1443322'>5 películas de ciencia ficción que demuestran que convivir con robots humanoides no es una buena idea</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-demuestran-convivir-robots-humanoides-no-buena-idea-1443322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-ciencia-ficcion-demuestran-convivir-robots-humanoides-no-buena-idea-4295118.jpg?tf=1200x' alt='5 películas de ciencia ficción que demuestran que convivir con robots humanoides no es una buena idea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-1443309'>Deja caer una GoPro al océano desde un crucero para mostrar la "terrorífica" realidad: "Ni se te ocurra saltar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-1443309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-4295103.jpg?tf=1200x' alt='Deja caer una GoPro al océano desde un crucero para mostrar la "terrorífica" realidad: "Ni se te ocurra saltar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118'>Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11' />
     </a>
 </div>
 
