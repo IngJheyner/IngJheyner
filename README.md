@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/electricistas-alertan-nunca-debes-instalar-regleta-lugar-casa-peligro-1443065'>Los electricistas alertan: nunca debes instalar una regleta en este lugar de la casa, es un peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/electricistas-alertan-nunca-debes-instalar-regleta-lugar-casa-peligro-1443065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/electricistas-alertan-nunca-debes-instalar-regleta-lugar-casa-peligro-4294726.jpg?tf=1200x' alt='Los electricistas alertan: nunca debes instalar una regleta en este lugar de la casa, es un peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-1444063'>Cambio radical en Apple: elimina la encriptación extremo a extremo para que el gobierno británico pueda espiarnos</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-1444063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-afecta-todos-4296367.jpg?tf=1200x' alt='Cambio radical en Apple: elimina la encriptación extremo a extremo para que el gobierno británico pueda espiarnos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050'>Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-google-punto-lanzar-youtube-premium-lite-4296318.jpg?tf=1200x' alt='Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045'>Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/waze-4296334.jpg?tf=1200x' alt='Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay' />
     </a>
 </div>
 
