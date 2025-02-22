@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188'>Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/friends-3261607.jpg?tf=1200x' alt='Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hara-util-protector-pantalla-1444114'>Android 16 estrenará una función que hará más útil el protector de pantalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hara-util-protector-pantalla-1444114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-16-4256802.jpg?tf=1200x' alt='Android 16 estrenará una función que hará más útil el protector de pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620'>Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-antiguo-4295671.jpg?tf=1200x' alt='Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631'>Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-4294054.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/menos-clics-rapidez-ia-microsoft-mejora-menu-inicio-busqueda-windows-11-1444100'>Menos clics, más rapidez y más IA: Microsoft mejora el menú Inicio y la búsqueda en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/menos-clics-rapidez-ia-microsoft-mejora-menu-inicio-busqueda-windows-11-1444100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4296421.jpg?tf=1200x' alt='Menos clics, más rapidez y más IA: Microsoft mejora el menú Inicio y la búsqueda en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314'>Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-secretas-whatsapp-4295107.jpg?tf=1200x' alt='Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce' />
     </a>
 </div>
 
