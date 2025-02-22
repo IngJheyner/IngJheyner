@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-1443313'>Llevo años utilizando esta función olvidada de Windows: nunca elimino casi nada y jamás he tenido problemas de espacio</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-1443313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-4295109.jpg?tf=1200x' alt='Llevo años utilizando esta función olvidada de Windows: nunca elimino casi nada y jamás he tenido problemas de espacio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-hace-saltar-alarmas-dni-ni-darlo-ni-decirlo-voz-alta-1443233'>Experto en seguridad hace saltar las alarmas con el DNI: “Ni darlo ni decirlo en voz alta”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-hace-saltar-alarmas-dni-ni-darlo-ni-decirlo-voz-alta-1443233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-compartir-dni-4294927.jpg?tf=1200x' alt='Experto en seguridad hace saltar las alarmas con el DNI: “Ni darlo ni decirlo en voz alta”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-fin-soporte-windows-10-1437152'>Expertos en ciberseguridad hace saltar las alarmas: "En 9 meses comenzará la pesadilla" </a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-fin-soporte-windows-10-1437152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pesadilla-windows-10-4296182.jpg?tf=1200x' alt='Expertos en ciberseguridad hace saltar las alarmas: "En 9 meses comenzará la pesadilla" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/2025-dejara-fabricar-memoria-ram-ddr3-ddr4-forma-simultanea-1444064'>¿Por qué esté 2025 se dejará de fabricar memoria RAM DDR3 y DDR4 de forma simultánea?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/2025-dejara-fabricar-memoria-ram-ddr3-ddr4-forma-simultanea-1444064' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ddr3-ddr4-obsoletos-4296379.jpg?tf=1200x' alt='¿Por qué esté 2025 se dejará de fabricar memoria RAM DDR3 y DDR4 de forma simultánea?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/eres-digi-movistar-puedes-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566'>Si eres de DIGI o Movistar, así puedes evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/eres-digi-movistar-puedes-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contenido-bloqueado-laliga-4295486.jpg?tf=1200x' alt='Si eres de DIGI o Movistar, así puedes evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tienes-conectado-smart-tv-estas-reduciendo-vida-util-pero-seguramente-no-sabes-1443303'>Si tienes conectado así tu Smart TV, estás reduciendo su vida útil, pero seguramente no lo sabes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tienes-conectado-smart-tv-estas-reduciendo-vida-util-pero-seguramente-no-sabes-1443303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tienes-conectado-smart-tv-estas-reduciendo-vida-util-pero-seguramente-no-sabes-4295099.jpg?tf=1200x' alt='Si tienes conectado así tu Smart TV, estás reduciendo su vida útil, pero seguramente no lo sabes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/app-gratis-transforma-windows-ese-sistema-operativo-rapido-problemas-siempre-has-deseado-1443204'>Esta app gratis transforma Windows en ese sistema operativo rápido y sin problemas que siempre has deseado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/app-gratis-transforma-windows-ese-sistema-operativo-rapido-problemas-siempre-has-deseado-1443204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-rendimiento-4294886.jpg?tf=1200x' alt='Esta app gratis transforma Windows en ese sistema operativo rápido y sin problemas que siempre has deseado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tebas-vs-mundo-iptv-pirata-laliga-destruyendo-futbol-aficionados-1443756'>Tebas vs. el mundo por las IPTV pirata: ¿está LaLiga destruyendo el fútbol para los aficionados?</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tebas-vs-mundo-iptv-pirata-laliga-destruyendo-futbol-aficionados-1443756' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tebas-vs-mundo-iptv-pirata-4295861.jpg?tf=1200x' alt='Tebas vs. el mundo por las IPTV pirata: ¿está LaLiga destruyendo el fútbol para los aficionados?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/editar-pdf-me-parecia-tortura-encontre-herramienta-gratuita-1440794'>Editar un PDF me parecía una tortura hasta que encontré esta herramienta gratuita</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/editar-pdf-me-parecia-tortura-encontre-herramienta-gratuita-1440794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/editar-pdf-pdnob-4296211.jpg?tf=1200x' alt='Editar un PDF me parecía una tortura hasta que encontré esta herramienta gratuita' />
     </a>
 </div>
 
