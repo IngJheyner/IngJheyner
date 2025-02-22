@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578'>Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-4295495.jpg?tf=1200x' alt='Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123'>Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118'>Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188'>Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/friends-3261607.jpg?tf=1200x' alt='Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX' />
     </a>
 </div>
 
