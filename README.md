@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314'>Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-secretas-whatsapp-4295107.jpg?tf=1200x' alt='Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-television-gratis-1439551'>Movistar Plus+ tira la casa por la ventana: activa el modo "3 por 1" para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-television-gratis-1439551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/regalo-clientes-movistar-plus-4296186.jpg?tf=1200x' alt='Movistar Plus+ tira la casa por la ventana: activa el modo "3 por 1" para todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-trae-apple-intelligence-europa-llega-todas-funciones-espanol-1444091'>iOS 18.4 trae Apple Intelligence a Europa: llega con todas las funciones en español</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-184-trae-apple-intelligence-europa-llega-todas-funciones-espanol-1444091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-intelligence-4296409.jpg?tf=1200x' alt='iOS 18.4 trae Apple Intelligence a Europa: llega con todas las funciones en español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-habla-deepseek-estais-todos-equivocados-1444089'>Jensen Huang, el CEO de Nvidia, habla de DeepSeek: "Estáis todos equivocados"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-habla-deepseek-estais-todos-equivocados-1444089' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jensen-huang-ceo-nvidia-habla-deepseek-estais-todos-equivocados-4296391.jpg?tf=1200x' alt='Jensen Huang, el CEO de Nvidia, habla de DeepSeek: "Estáis todos equivocados"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-peligro-inteligencia-artificial-autonoma-1441066'>Dos de los mayores expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-peligro-inteligencia-artificial-autonoma-1441066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-inteligencia-artificial-4296185.jpg?tf=1200x' alt='Dos de los mayores expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/padre-compra-pc-gaming-hijo-1200-euros-pero-no-da-cuenta-hardware-tiene-diez-anos-1444058'>Un padre compra un PC gaming para su hijo por 1.200 euros, pero no se da cuenta de que el hardware tiene más de diez años</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/padre-compra-pc-gaming-hijo-1200-euros-pero-no-da-cuenta-hardware-tiene-diez-anos-1444058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gamer-jugando-pc-4296378.jpg?tf=1200x' alt='Un padre compra un PC gaming para su hijo por 1.200 euros, pero no se da cuenta de que el hardware tiene más de diez años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-1443313'>Llevo años utilizando esta función olvidada de Windows: nunca elimino casi nada y jamás he tenido problemas de espacio</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-1443313' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-4295109.jpg?tf=1200x' alt='Llevo años utilizando esta función olvidada de Windows: nunca elimino casi nada y jamás he tenido problemas de espacio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-hace-saltar-alarmas-dni-ni-darlo-ni-decirlo-voz-alta-1443233'>Experto en seguridad hace saltar las alarmas con el DNI: “Ni darlo ni decirlo en voz alta”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-seguridad-hace-saltar-alarmas-dni-ni-darlo-ni-decirlo-voz-alta-1443233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-compartir-dni-4294927.jpg?tf=1200x' alt='Experto en seguridad hace saltar las alarmas con el DNI: “Ni darlo ni decirlo en voz alta”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-fin-soporte-windows-10-1437152'>Expertos en ciberseguridad hace saltar las alarmas: "En 9 meses comenzará la pesadilla" </a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-fin-soporte-windows-10-1437152' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pesadilla-windows-10-4296182.jpg?tf=1200x' alt='Expertos en ciberseguridad hace saltar las alarmas: "En 9 meses comenzará la pesadilla" ' />
     </a>
 </div>
 
