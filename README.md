@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123'>Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-demuestran-convivir-robots-humanoides-no-buena-idea-1443322'>5 películas de ciencia ficción que demuestran que convivir con robots humanoides no es una buena idea</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-ciencia-ficcion-demuestran-convivir-robots-humanoides-no-buena-idea-1443322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-ciencia-ficcion-demuestran-convivir-robots-humanoides-no-buena-idea-4295118.jpg?tf=1200x' alt='5 películas de ciencia ficción que demuestran que convivir con robots humanoides no es una buena idea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-1443309'>Deja caer una GoPro al océano desde un crucero para mostrar la "terrorífica" realidad: "Ni se te ocurra saltar"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-1443309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-4295103.jpg?tf=1200x' alt='Deja caer una GoPro al océano desde un crucero para mostrar la "terrorífica" realidad: "Ni se te ocurra saltar"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188'>Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/friends-3261607.jpg?tf=1200x' alt='Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hara-util-protector-pantalla-1444114'>Android 16 estrenará una función que hará más útil el protector de pantalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-16-estrenara-funcion-hara-util-protector-pantalla-1444114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/android-16-4256802.jpg?tf=1200x' alt='Android 16 estrenará una función que hará más útil el protector de pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620'>Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-antiguo-4295671.jpg?tf=1200x' alt='Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones' />
     </a>
 </div>
 
