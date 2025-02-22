@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631'>Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-4294054.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/menos-clics-rapidez-ia-microsoft-mejora-menu-inicio-busqueda-windows-11-1444100'>Menos clics, más rapidez y más IA: Microsoft mejora el menú Inicio y la búsqueda en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/menos-clics-rapidez-ia-microsoft-mejora-menu-inicio-busqueda-windows-11-1444100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4296421.jpg?tf=1200x' alt='Menos clics, más rapidez y más IA: Microsoft mejora el menú Inicio y la búsqueda en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314'>Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-secretas-whatsapp-4295107.jpg?tf=1200x' alt='Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-trae-apple-intelligence-europa-llega-todas-funciones-espanol-1444091'>iOS 18.4 trae Apple Intelligence a Europa: llega con todas las funciones en español</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-184-trae-apple-intelligence-europa-llega-todas-funciones-espanol-1444091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-intelligence-4296409.jpg?tf=1200x' alt='iOS 18.4 trae Apple Intelligence a Europa: llega con todas las funciones en español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-habla-deepseek-estais-todos-equivocados-1444089'>Jensen Huang, el CEO de Nvidia, habla de DeepSeek: "Estáis todos equivocados"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/jensen-huang-ceo-nvidia-habla-deepseek-estais-todos-equivocados-1444089' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jensen-huang-ceo-nvidia-habla-deepseek-estais-todos-equivocados-4296391.jpg?tf=1200x' alt='Jensen Huang, el CEO de Nvidia, habla de DeepSeek: "Estáis todos equivocados"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-peligro-inteligencia-artificial-autonoma-1441066'>Dos de los mayores expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-peligro-inteligencia-artificial-autonoma-1441066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-inteligencia-artificial-4296185.jpg?tf=1200x' alt='Dos de los mayores expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
     </a>
 </div>
 
