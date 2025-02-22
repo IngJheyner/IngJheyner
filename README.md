@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/electricistas-alertan-nunca-debes-instalar-regleta-lugar-casa-peligro-1443065'>Los electricistas alertan: nunca debes instalar una regleta en este lugar de la casa, es un peligro</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/electricistas-alertan-nunca-debes-instalar-regleta-lugar-casa-peligro-1443065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/electricistas-alertan-nunca-debes-instalar-regleta-lugar-casa-peligro-4294726.jpg?tf=1200x' alt='Los electricistas alertan: nunca debes instalar una regleta en este lugar de la casa, es un peligro' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/app-gratis-transforma-windows-ese-sistema-operativo-rapido-problemas-siempre-has-deseado-1443204'>Esta app gratis transforma Windows en ese sistema operativo rápido y sin problemas que siempre has deseado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/app-gratis-transforma-windows-ese-sistema-operativo-rapido-problemas-siempre-has-deseado-1443204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-rendimiento-4294886.jpg?tf=1200x' alt='Esta app gratis transforma Windows en ese sistema operativo rápido y sin problemas que siempre has deseado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-1444063'>Cambio radical en Apple: elimina la encriptación extremo a extremo para que el gobierno británico pueda espiarnos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-1444063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-afecta-todos-4296367.jpg?tf=1200x' alt='Cambio radical en Apple: elimina la encriptación extremo a extremo para que el gobierno británico pueda espiarnos' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tebas-vs-mundo-iptv-pirata-laliga-destruyendo-futbol-aficionados-1443756'>Tebas vs. el mundo por las IPTV pirata: ¿está LaLiga destruyendo el fútbol para los aficionados?</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tebas-vs-mundo-iptv-pirata-laliga-destruyendo-futbol-aficionados-1443756' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tebas-vs-mundo-iptv-pirata-4295861.jpg?tf=1200x' alt='Tebas vs. el mundo por las IPTV pirata: ¿está LaLiga destruyendo el fútbol para los aficionados?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-usuarios-suscritos-subida-precios-recortes-1444055'>Max ya avisa a los usuarios suscritos de la subida de precios y recortes: algunos pagarán el doble por lo mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/max-usuarios-suscritos-subida-precios-recortes-1444055' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ya-aqui-subida-precios-recortes-max-pagaras-doble-tienes-ahora-4296293.jpg?tf=1200x' alt='Max ya avisa a los usuarios suscritos de la subida de precios y recortes: algunos pagarán el doble por lo mismo' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/editar-pdf-me-parecia-tortura-encontre-herramienta-gratuita-1440794'>Editar un PDF me parecía una tortura hasta que encontré esta herramienta gratuita</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/editar-pdf-me-parecia-tortura-encontre-herramienta-gratuita-1440794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/editar-pdf-pdnob-4296211.jpg?tf=1200x' alt='Editar un PDF me parecía una tortura hasta que encontré esta herramienta gratuita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/cuesta-realmente-cargar-coche-electrico-espana-1444037'>Esto es lo que cuesta realmente cargar un coche eléctrico en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/cuesta-realmente-cargar-coche-electrico-espana-1444037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuesta-realmente-cargar-coche-electrico-espana-4296342.jpg?tf=1200x' alt='Esto es lo que cuesta realmente cargar un coche eléctrico en España' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/no-solo-magis-tv-evita-estas-apps-toda-costa-no-quieres-acabar-manos-ciberdelincuentes-1441074'>No solo es Magis TV: evita estas apps a toda costa si no quieres acabar en manos de ciberdelincuentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/no-solo-magis-tv-evita-estas-apps-toda-costa-no-quieres-acabar-manos-ciberdelincuentes-1441074' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apps-maliciosas-4291550.jpg?tf=1200x' alt='No solo es Magis TV: evita estas apps a toda costa si no quieres acabar en manos de ciberdelincuentes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050'>Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-punto-lanzar-youtube-premium-lite-1444050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-google-punto-lanzar-youtube-premium-lite-4296318.jpg?tf=1200x' alt='Giro de 180 grados en Google: anuncia YouTube Premium Lite, y te va a encantar si odias los anuncios' />
+    <h4><a href='https://computerhoy.20minutos.es/espacio/mayor-experto-cosmos-explica-asteroide-2024-yr4-no-va-causar-problemas-acaba-tonteria-1444065'>El mayor experto en el cosmos explica por qué el asteroide 2024 YR4 no va a causar problemas, y acaba con la tontería</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/mayor-experto-cosmos-explica-asteroide-2024-yr4-no-va-causar-problemas-acaba-tonteria-1444065' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mayor-experto-cosmos-explica-asteroide-2024-yr4-no-va-causar-ningun-problema-acaba-tonteria-4296381.jpg?tf=1200x' alt='El mayor experto en el cosmos explica por qué el asteroide 2024 YR4 no va a causar problemas, y acaba con la tontería' />
     </a>
 </div>
 
