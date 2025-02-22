@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620'>Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-antiguo-4295671.jpg?tf=1200x' alt='Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/has-pedido-algun-prestamo-movil-localizan-nuevo-malware-android-roba-datos-chantajearte-1444106'>¿Has pedido algún préstamo en tu móvil? Localizan un nuevo malware en Android que roba tus datos para chantajearte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/has-pedido-algun-prestamo-movil-localizan-nuevo-malware-android-roba-datos-chantajearte-1444106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/malware-bancario-android-4296425.jpg?tf=1200x' alt='¿Has pedido algún préstamo en tu móvil? Localizan un nuevo malware en Android que roba tus datos para chantajearte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631'>Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-4294054.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314'>Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/funciones-muy-utiles-whatsapp-parecen-obvias-pero-mucha-gente-no-conoce-1443314' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funciones-secretas-whatsapp-4295107.jpg?tf=1200x' alt='Funciones muy útiles de WhatsApp que parecen obvias, pero que mucha gente no conoce' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-television-gratis-1439551'>Movistar Plus+ tira la casa por la ventana: activa el modo "3 por 1" para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-nuevos-canales-television-gratis-1439551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/regalo-clientes-movistar-plus-4296186.jpg?tf=1200x' alt='Movistar Plus+ tira la casa por la ventana: activa el modo "3 por 1" para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-trae-apple-intelligence-europa-llega-todas-funciones-espanol-1444091'>iOS 18.4 trae Apple Intelligence a Europa: llega con todas las funciones en español</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-184-trae-apple-intelligence-europa-llega-todas-funciones-espanol-1444091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-intelligence-4296409.jpg?tf=1200x' alt='iOS 18.4 trae Apple Intelligence a Europa: llega con todas las funciones en español' />
     </a>
 </div>
 
