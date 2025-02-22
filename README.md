@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-1443309'>Deja caer una GoPro al océano desde un crucero para mostrar la "terrorífica" realidad: "Ni se te ocurra saltar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-1443309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deja-caer-gopro-oceano-crucero-mostrar-terrorifica-realidad-ni-te-ocurra-saltar-4295103.jpg?tf=1200x' alt='Deja caer una GoPro al océano desde un crucero para mostrar la "terrorífica" realidad: "Ni se te ocurra saltar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118'>Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620'>Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ni-mac-ni-pc-converti-mi-viejo-portatil-mejor-herramienta-escribir-interrupciones-1442620' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-antiguo-4295671.jpg?tf=1200x' alt='Ni Mac ni PC: así convertí mi viejo portátil en la mejor herramienta para escribir sin interrupciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/has-pedido-algun-prestamo-movil-localizan-nuevo-malware-android-roba-datos-chantajearte-1444106'>¿Has pedido algún préstamo en tu móvil? Localizan un nuevo malware en Android que roba tus datos para chantajearte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/has-pedido-algun-prestamo-movil-localizan-nuevo-malware-android-roba-datos-chantajearte-1444106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/malware-bancario-android-4296425.jpg?tf=1200x' alt='¿Has pedido algún préstamo en tu móvil? Localizan un nuevo malware en Android que roba tus datos para chantajearte' />
     </a>
 </div>
 
