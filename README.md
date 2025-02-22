@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-anade-letras-caratulas-android-tv-1444140'>YouTube añade letras y carátulas en Android TV</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-anade-letras-caratulas-android-tv-1444140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/youtube-television-4296488.jpg?tf=1200x' alt='YouTube añade letras y carátulas en Android TV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-integra-copilot-spotlight-windows-11-ahora-fondo-pantalla-tiene-mucho-decir-1444139'>Microsoft integra Copilot en Spotlight de Windows 11 y ahora tu fondo de pantalla tiene mucho que decir</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-integra-copilot-spotlight-windows-11-ahora-fondo-pantalla-tiene-mucho-decir-1444139' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spotlight-copilot-4296487.jpg?tf=1200x' alt='Microsoft integra Copilot en Spotlight de Windows 11 y ahora tu fondo de pantalla tiene mucho que decir' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578'>Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-4295495.jpg?tf=1200x' alt='Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123'>Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-fitbit-nuevos-indicadores-estado-adios-notificaciones-perdidas-1444123' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/fitbit-charge-6-3789154.jpg?tf=1200x' alt='Google mejora los Fitbit con nuevos indicadores de estado: adiós a las notificaciones perdidas' />
     </a>
 </div>
 
