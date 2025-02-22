@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-1444063'>Cambio radical en Apple: elimina la encriptación extremo a extremo para que el gobierno británico pueda espiarnos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-1444063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-apple-elimina-encriptacion-extremo-extremo-gobierno-britanico-pueda-espiarnos-afecta-todos-4296367.jpg?tf=1200x' alt='Cambio radical en Apple: elimina la encriptación extremo a extremo para que el gobierno británico pueda espiarnos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-usuarios-suscritos-subida-precios-recortes-1444055'>Max ya avisa a los usuarios suscritos de la subida de precios y recortes: algunos pagarán el doble por lo mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/max-usuarios-suscritos-subida-precios-recortes-1444055' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ya-aqui-subida-precios-recortes-max-pagaras-doble-tienes-ahora-4296293.jpg?tf=1200x' alt='Max ya avisa a los usuarios suscritos de la subida de precios y recortes: algunos pagarán el doble por lo mismo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045'>Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-mejora-seguridad-vial-alertas-zonas-escolares-android-auto-carplay-1444045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/waze-4296334.jpg?tf=1200x' alt='Waze mejora la seguridad vial con alertas de zonas escolares en Android Auto y CarPlay' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-era-chromecast-google-tv-deja-venderse-oficialmente-1444042'>El fin de una era: Chromecast con Google TV deja de venderse oficialmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fin-era-chromecast-google-tv-deja-venderse-oficialmente-1444042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg?tf=1200x' alt='El fin de una era: Chromecast con Google TV deja de venderse oficialmente' />
     </a>
 </div>
 
