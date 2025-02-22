@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/max-usuarios-suscritos-subida-precios-recortes-1444055'>Max ya avisa a los usuarios suscritos de la subida de precios y recortes: algunos pagarán el doble por lo mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/max-usuarios-suscritos-subida-precios-recortes-1444055' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ya-aqui-subida-precios-recortes-max-pagaras-doble-tienes-ahora-4296293.jpg?tf=1200x' alt='Max ya avisa a los usuarios suscritos de la subida de precios y recortes: algunos pagarán el doble por lo mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/cuesta-realmente-cargar-coche-electrico-espana-1444037'>Esto es lo que cuesta realmente cargar un coche eléctrico en España</a></h4>
     <a href='https://computerhoy.20minutos.es/google/cuesta-realmente-cargar-coche-electrico-espana-1444037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuesta-realmente-cargar-coche-electrico-espana-4296342.jpg?tf=1200x' alt='Esto es lo que cuesta realmente cargar un coche eléctrico en España' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fin-era-chromecast-google-tv-deja-venderse-oficialmente-1444042'>El fin de una era: Chromecast con Google TV deja de venderse oficialmente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fin-era-chromecast-google-tv-deja-venderse-oficialmente-1444042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/02/chromecast-google-tv-2020-2232767.jpg?tf=1200x' alt='El fin de una era: Chromecast con Google TV deja de venderse oficialmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-filtraciones-sugieren-diseno-compacto-ratio-pantalla-nunca-visto-1444040'>iPhone plegable: filtraciones sugieren un diseño más compacto y un ratio de pantalla nunca visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-filtraciones-sugieren-diseno-compacto-ratio-pantalla-nunca-visto-1444040' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/reimaginacion-iphone-plegable-4296327.jpg?tf=1200x' alt='iPhone plegable: filtraciones sugieren un diseño más compacto y un ratio de pantalla nunca visto' />
     </a>
 </div>
 
