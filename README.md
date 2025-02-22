@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118'>Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nueva-funcion-herramienta-recortes-ahora-podras-grabar-recortar-videos-facilmente-windows-11-1444118' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/como-hacer-capturas-pantalla-windows-11-diferentes-formas-3306873.jpg?tf=1200x' alt='Nueva función en la herramienta de recortes: ahora podrás grabar y recortar vídeos fácilmente en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188'>Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/episodio-extrano-friends-aunque-curiosamente-solo-espana-puedes-comprobarlo-mismo-max-1443188' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/friends-3261607.jpg?tf=1200x' alt='Es el episodio más extraño de Friends, aunque curiosamente solo en España y puedes comprobarlo tú mismo en MAX' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/has-pedido-algun-prestamo-movil-localizan-nuevo-malware-android-roba-datos-chantajearte-1444106'>¿Has pedido algún préstamo en tu móvil? Localizan un nuevo malware en Android que roba tus datos para chantajearte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/has-pedido-algun-prestamo-movil-localizan-nuevo-malware-android-roba-datos-chantajearte-1444106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/malware-bancario-android-4296425.jpg?tf=1200x' alt='¿Has pedido algún préstamo en tu móvil? Localizan un nuevo malware en Android que roba tus datos para chantajearte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631'>Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-1442631' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-acceder-menu-prohibido-android-auto-todo-puedes-hacer-pero-no-entere-google-4294054.jpg?tf=1200x' alt='Cómo acceder al menú prohibido de Android Auto y todo lo que puedes hacer (pero que no se entere Google)' />
     </a>
 </div>
 
