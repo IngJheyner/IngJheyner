@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-peligro-inteligencia-artificial-autonoma-1441066'>Dos de los mayores expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-peligro-inteligencia-artificial-autonoma-1441066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-inteligencia-artificial-4296185.jpg?tf=1200x' alt='Dos de los mayores expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/padre-compra-pc-gaming-hijo-1200-euros-pero-no-da-cuenta-hardware-tiene-diez-anos-1444058'>Un padre compra un PC gaming para su hijo por 1.200 euros, pero no se da cuenta de que el hardware tiene más de diez años</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/padre-compra-pc-gaming-hijo-1200-euros-pero-no-da-cuenta-hardware-tiene-diez-anos-1444058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gamer-jugando-pc-4296378.jpg?tf=1200x' alt='Un padre compra un PC gaming para su hijo por 1.200 euros, pero no se da cuenta de que el hardware tiene más de diez años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-1443313'>Llevo años utilizando esta función olvidada de Windows: nunca elimino casi nada y jamás he tenido problemas de espacio</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-1443313' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llevo-anos-utilizando-funcion-olvidada-windows-nunca-elimino-casi-nada-jamas-he-tenido-problemas-espacio-4295109.jpg?tf=1200x' alt='Llevo años utilizando esta función olvidada de Windows: nunca elimino casi nada y jamás he tenido problemas de espacio' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-fin-soporte-windows-10-1437152'>Expertos en ciberseguridad hace saltar las alarmas: "En 9 meses comenzará la pesadilla" </a></h4>
     <a href='https://computerhoy.20minutos.es/windows/expertos-ciberseguridad-fin-soporte-windows-10-1437152' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pesadilla-windows-10-4296182.jpg?tf=1200x' alt='Expertos en ciberseguridad hace saltar las alarmas: "En 9 meses comenzará la pesadilla" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/2025-dejara-fabricar-memoria-ram-ddr3-ddr4-forma-simultanea-1444064'>¿Por qué esté 2025 se dejará de fabricar memoria RAM DDR3 y DDR4 de forma simultánea?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/2025-dejara-fabricar-memoria-ram-ddr3-ddr4-forma-simultanea-1444064' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ddr3-ddr4-obsoletos-4296379.jpg?tf=1200x' alt='¿Por qué esté 2025 se dejará de fabricar memoria RAM DDR3 y DDR4 de forma simultánea?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/eres-digi-movistar-puedes-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566'>Si eres de DIGI o Movistar, así puedes evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/eres-digi-movistar-puedes-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contenido-bloqueado-laliga-4295486.jpg?tf=1200x' alt='Si eres de DIGI o Movistar, así puedes evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga' />
     </a>
 </div>
 
