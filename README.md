@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cosas-puedes-hacer-ese-puerto-usb-libre-televisor-nunca-utilizas-nada-1443061'>Cosas que puedes hacer con ese puerto USB libre de tu televisor que nunca utilizas para nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cosas-puedes-hacer-ese-puerto-usb-libre-televisor-nunca-utilizas-nada-1443061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puertos-usb-smart-tv-4289216.jpg?tf=1200x' alt='Cosas que puedes hacer con ese puerto USB libre de tu televisor que nunca utilizas para nada' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-1442416'>WhatsApp: qué significa el punto verde que aparece en algunas conversaciones y cómo desactivarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-1442416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-4293703.jpg?tf=1200x' alt='WhatsApp: qué significa el punto verde que aparece en algunas conversaciones y cómo desactivarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-anade-letras-caratulas-android-tv-1444140'>YouTube añade letras y carátulas en Android TV</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-anade-letras-caratulas-android-tv-1444140' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/youtube-television-4296488.jpg?tf=1200x' alt='YouTube añade letras y carátulas en Android TV' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carrera-inteligencia-artificial-general-santo-grial-caja-pandora-1443755'>La carrera hacia la inteligencia artificial general: ¿el Santo Grial o la caja de Pandora?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/carrera-inteligencia-artificial-general-santo-grial-caja-pandora-1443755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/carrera-inteligencia-artificial-general-4295833.jpg?tf=1200x' alt='La carrera hacia la inteligencia artificial general: ¿el Santo Grial o la caja de Pandora?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-integra-copilot-spotlight-windows-11-ahora-fondo-pantalla-tiene-mucho-decir-1444139'>Microsoft integra Copilot en Spotlight de Windows 11 y ahora tu fondo de pantalla tiene mucho que decir</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-integra-copilot-spotlight-windows-11-ahora-fondo-pantalla-tiene-mucho-decir-1444139' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/spotlight-copilot-4296487.jpg?tf=1200x' alt='Microsoft integra Copilot en Spotlight de Windows 11 y ahora tu fondo de pantalla tiene mucho que decir' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-da-tanto-miedo-mundo-ia-1437096'>¿Qué es la singularidad tecnológica y por qué da tanto miedo en el mundo de la IA?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-da-tanto-miedo-mundo-ia-1437096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740141509739-4296156.jpg?tf=1200x' alt='¿Qué es la singularidad tecnológica y por qué da tanto miedo en el mundo de la IA?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-play-te-dejara-crear-avatar-gamer-ia-adios-perfiles-aburridos-1444138'>Google Play te dejará crear tu avatar gamer con IA: adiós a los perfiles aburridos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-play-te-dejara-crear-avatar-gamer-ia-adios-perfiles-aburridos-1444138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-play-store-4296486.jpg?tf=1200x' alt='Google Play te dejará crear tu avatar gamer con IA: adiós a los perfiles aburridos' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/oneplus-watch-3-1440856'>He probado el OnePlus Watch 3 y me ha gustado tanto que me he reconciliado con los smartwatches</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/oneplus-watch-3-1440856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oneplus-watch-3-4296355.jpg?tf=1200x' alt='He probado el OnePlus Watch 3 y me ha gustado tanto que me he reconciliado con los smartwatches' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-sera-compatible-controles-remotos-retroiluminados-adios-buscar-botones-oscuridad-1444137'>Google TV Streamer será compatible con controles remotos retroiluminados: adiós a buscar botones en la oscuridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-sera-compatible-controles-remotos-retroiluminados-adios-buscar-botones-oscuridad-1444137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='Google TV Streamer será compatible con controles remotos retroiluminados: adiós a buscar botones en la oscuridad' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/usa-dron-hacer-trampas-carnet-conducir-1444148'>Usa un dron para hacer trampas en el carnet de conducir, pero la cosa no salió bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/usa-dron-hacer-trampas-carnet-conducir-1444148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/usa-dron-hacer-trampas-carnet-conducir-pero-cosa-no-salio-bien-4296509.jpg?tf=1200x' alt='Usa un dron para hacer trampas en el carnet de conducir, pero la cosa no salió bien' />
     </a>
 </div>
 
