@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-anuncio-malware-disfrazado-google-chrome-robando-datos-1444193'>Cuidado con este anuncio: malware disfrazado de Google Chrome está robando datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-anuncio-malware-disfrazado-google-chrome-robando-datos-1444193' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chrome-infectado-4296566.jpg?tf=1200x' alt='Cuidado con este anuncio: malware disfrazado de Google Chrome está robando datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/netflix-truco-desbloquear-cientos-series-peliculas-pagar-utilizar-vpn-ni-cosas-raras-1443060'>Netflix: el truco para desbloquear cientos de series y películas, sin pagar más, utilizar VPN ni cosas raras</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/netflix-truco-desbloquear-cientos-series-peliculas-pagar-utilizar-vpn-ni-cosas-raras-1443060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trucos-netflix-4294716.jpg?tf=1200x' alt='Netflix: el truco para desbloquear cientos de series y películas, sin pagar más, utilizar VPN ni cosas raras' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-camara-windows-11-transmision-simultanea-opciones-1444187'>Microsoft mejora la cámara en Windows 11: transmisión simultánea y más opciones</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-mejora-camara-windows-11-transmision-simultanea-opciones-1444187' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/webcam-windows-11-4296558.jpg?tf=1200x' alt='Microsoft mejora la cámara en Windows 11: transmisión simultánea y más opciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-te-da-control-podras-elegir-app-mapas-traduccion-predeterminadas-ios-184-1444181'>Apple te da más control: podrás elegir tu app de mapas y traducción predeterminadas en iOS 18.4</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-te-da-control-podras-elegir-app-mapas-traduccion-predeterminadas-ios-184-1444181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/apple-ios-4296544.jpg?tf=1200x' alt='Apple te da más control: podrás elegir tu app de mapas y traducción predeterminadas en iOS 18.4' />
     </a>
 </div>
 
