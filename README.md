@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-sense8-miniserie-ciencia-ficcion-robots-arrasa-netflix-1443573'>Ni Black Mirror ni Sense8: así es la miniserie de ciencia ficción con robots que arrasa en Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-sense8-miniserie-ciencia-ficcion-robots-arrasa-netflix-1443573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-black-mirror-ni-sense8-serie-ciencia-ficcion-robots-moda-netflix-4295493.jpg?tf=1200x' alt='Ni Black Mirror ni Sense8: así es la miniserie de ciencia ficción con robots que arrasa en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/amazon-reconoce-derrota-steam-1444209'>El exvicepresidente de Amazon reconoce su derrota ante Steam: "Éramos 250 veces más grande, pero Goliat perdió"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/amazon-reconoce-derrota-steam-1444209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-reconoce-derrota-steam-eramos-250-veces-grande-pero-goliat-perdio-4296624.jpg?tf=1200x' alt='El exvicepresidente de Amazon reconoce su derrota ante Steam: "Éramos 250 veces más grande, pero Goliat perdió"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-detiene-seco-beta-ios-184-fallos-criticos-estos-son-dispositivos-afectados-1444200'>Apple detiene en seco la beta de iOS 18.4 tras fallos críticos: estos son los dispositivos afectados</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-detiene-seco-beta-ios-184-fallos-criticos-estos-son-dispositivos-afectados-1444200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-18-beta-bloqueo-4296615.jpg?tf=1200x' alt='Apple detiene en seco la beta de iOS 18.4 tras fallos críticos: estos son los dispositivos afectados' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/netflix-truco-desbloquear-cientos-series-peliculas-pagar-utilizar-vpn-ni-cosas-raras-1443060'>Netflix: el truco para desbloquear cientos de series y películas, sin pagar más, utilizar VPN ni cosas raras</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/netflix-truco-desbloquear-cientos-series-peliculas-pagar-utilizar-vpn-ni-cosas-raras-1443060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trucos-netflix-4294716.jpg?tf=1200x' alt='Netflix: el truco para desbloquear cientos de series y películas, sin pagar más, utilizar VPN ni cosas raras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchas-distros-linux-mejor-opcion-revivir-ese-pc-windows-10-no-podras-actualizar-1442630'>He probado muchas distros de Linux y esta es la mejor opción para revivir ese PC con Windows 10 que no podrás actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-muchas-distros-linux-mejor-opcion-revivir-ese-pc-windows-10-no-podras-actualizar-1442630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-probado-muchas-distros-linux-mejor-opcion-revivir-ese-pc-windows-10-no-podras-actualizar-4294047.jpg?tf=1200x' alt='He probado muchas distros de Linux y esta es la mejor opción para revivir ese PC con Windows 10 que no podrás actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/capsula-tiempo-vida-sovietica-ensena-youtube-apartamento-abuela-viraliza-instante-1442619'>“Una cápsula del tiempo de la vida soviética”: Enseña en YouTube el apartamento de su abuela y se viraliza al instante</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/capsula-tiempo-vida-sovietica-ensena-youtube-apartamento-abuela-viraliza-instante-1442619' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/youtuber-sovietico-4294017.jpg?tf=1200x' alt='“Una cápsula del tiempo de la vida soviética”: Enseña en YouTube el apartamento de su abuela y se viraliza al instante' />
     </a>
 </div>
 
