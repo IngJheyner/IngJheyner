@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-quiere-destruir-ya-estacion-espacial-internacional-1444212'>Elon Musk quiere destruir ya la Estación Espacial Internacional: "Es hora de empezar los preparativos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/elon-musk-quiere-destruir-ya-estacion-espacial-internacional-1444212' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quiere-cargarse-ya-estacion-espacial-internacional-hora-empezar-preparativos-4296632.jpg?tf=1200x' alt='Elon Musk quiere destruir ya la Estación Espacial Internacional: "Es hora de empezar los preparativos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-sense8-miniserie-ciencia-ficcion-robots-arrasa-netflix-1443573'>Ni Black Mirror ni Sense8: así es la miniserie de ciencia ficción con robots que arrasa en Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-sense8-miniserie-ciencia-ficcion-robots-arrasa-netflix-1443573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-black-mirror-ni-sense8-serie-ciencia-ficcion-robots-moda-netflix-4295493.jpg?tf=1200x' alt='Ni Black Mirror ni Sense8: así es la miniserie de ciencia ficción con robots que arrasa en Netflix' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-anuncio-malware-disfrazado-google-chrome-robando-datos-1444193'>Cuidado con este anuncio: malware disfrazado de Google Chrome está robando datos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-anuncio-malware-disfrazado-google-chrome-robando-datos-1444193' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chrome-infectado-4296566.jpg?tf=1200x' alt='Cuidado con este anuncio: malware disfrazado de Google Chrome está robando datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/netflix-truco-desbloquear-cientos-series-peliculas-pagar-utilizar-vpn-ni-cosas-raras-1443060'>Netflix: el truco para desbloquear cientos de series y películas, sin pagar más, utilizar VPN ni cosas raras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/netflix-truco-desbloquear-cientos-series-peliculas-pagar-utilizar-vpn-ni-cosas-raras-1443060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trucos-netflix-4294716.jpg?tf=1200x' alt='Netflix: el truco para desbloquear cientos de series y películas, sin pagar más, utilizar VPN ni cosas raras' />
     </a>
 </div>
 
