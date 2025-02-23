@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-1443567'>Ni antivirus ni VPN: este es el método que realmente me protege del phishing cuando trabajo desde casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-1443567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-4295490.jpg?tf=1200x' alt='Ni antivirus ni VPN: este es el método que realmente me protege del phishing cuando trabajo desde casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/app-gratis-elimina-toda-basura-windows-solo-dos-clics-mejor-he-visto-mucho-tiempo-1443312'>Esta app gratis elimina toda la basura de Windows con solo dos clics, es lo mejor que he visto en mucho tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/app-gratis-elimina-toda-basura-windows-solo-dos-clics-mejor-he-visto-mucho-tiempo-1443312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aumentar-rendimiento-windows-11-4295101.jpg?tf=1200x' alt='Esta app gratis elimina toda la basura de Windows con solo dos clics, es lo mejor que he visto en mucho tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-1442416'>WhatsApp: qué significa el punto verde que aparece en algunas conversaciones y cómo desactivarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-1442416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-4293703.jpg?tf=1200x' alt='WhatsApp: qué significa el punto verde que aparece en algunas conversaciones y cómo desactivarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-da-tanto-miedo-mundo-ia-1437096'>¿Qué es la singularidad tecnológica y por qué da tanto miedo en el mundo de la IA?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-da-tanto-miedo-mundo-ia-1437096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740141509739-4296156.jpg?tf=1200x' alt='¿Qué es la singularidad tecnológica y por qué da tanto miedo en el mundo de la IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/oneplus-watch-3-1440856'>He probado el OnePlus Watch 3 y me ha gustado tanto que me he reconciliado con los smartwatches</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/oneplus-watch-3-1440856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oneplus-watch-3-4296355.jpg?tf=1200x' alt='He probado el OnePlus Watch 3 y me ha gustado tanto que me he reconciliado con los smartwatches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/usa-dron-hacer-trampas-carnet-conducir-1444148'>Usa un dron para hacer trampas en el carnet de conducir, pero la cosa no salió bien</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/usa-dron-hacer-trampas-carnet-conducir-1444148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/usa-dron-hacer-trampas-carnet-conducir-pero-cosa-no-salio-bien-4296509.jpg?tf=1200x' alt='Usa un dron para hacer trampas en el carnet de conducir, pero la cosa no salió bien' />
     </a>
 </div>
 
