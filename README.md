@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/estas-utilizando-cable-hdmi-equivocado-seguramente-no-sabes-tv-ve-peor-deberia-1443056'>Estás utilizando el cable HDMI equivocado, y seguramente no lo sabes: "Tu TV se ve peor de lo que debería"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/estas-utilizando-cable-hdmi-equivocado-seguramente-no-sabes-tv-ve-peor-deberia-1443056' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-utilizando-cable-hdmi-equivocado-seguramente-no-sabes-tv-ve-peor-deberia-4294717.jpg?tf=1200x' alt='Estás utilizando el cable HDMI equivocado, y seguramente no lo sabes: "Tu TV se ve peor de lo que debería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-inmunes-inteligencia-artificial-1436113'>Bill Gates lo tiene muy claro: "Solo estas tres profesiones sobrevivirán al impacto de la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-inmunes-inteligencia-artificial-1436113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-trabajos-ia-4296237.jpg?tf=1200x' alt='Bill Gates lo tiene muy claro: "Solo estas tres profesiones sobrevivirán al impacto de la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-career-dreamer-nueva-ia-ayudarte-encontrar-trabajo-1444178'>Google lanza Career Dreamer: su nueva IA para ayudarte a encontrar trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-career-dreamer-nueva-ia-ayudarte-encontrar-trabajo-1444178' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/career-dreamer-4296539.jpg?tf=1200x' alt='Google lanza Career Dreamer: su nueva IA para ayudarte a encontrar trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mi-operadora-bloqueando-cloudfare-orden-laliga-pero-yo-ni-me-he-enterado-he-hecho-1444177'>Mi operadora está bloqueando Cloudfare por orden de LaLiga, pero yo ni me he enterado: así lo he hecho</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mi-operadora-bloqueando-cloudfare-orden-laliga-pero-yo-ni-me-he-enterado-he-hecho-1444177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/fire-tv-stick-4k-max-conectado-nordvpn-3284408.jpg?tf=1200x' alt='Mi operadora está bloqueando Cloudfare por orden de LaLiga, pero yo ni me he enterado: así lo he hecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/mi-truco-mi-pc-vuele-he-instalado-dos-discos-ssd-1443558'>Este es mi truco para que mi PC vuele: he instalado dos discos SSD</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/mi-truco-mi-pc-vuele-he-instalado-dos-discos-ssd-1443558' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mi-truco-mi-pc-vuele-he-instalado-dos-discos-ssd-4295481.jpg?tf=1200x' alt='Este es mi truco para que mi PC vuele: he instalado dos discos SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-canal-gratis-1442915'>Movistar Plus+ regala gratis a todos sus clientes el mejor canal de su programación</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-canal-gratis-1442915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/regalo-sorpresa-movistar-plus-clientes-4296228.jpg?tf=1200x' alt='Movistar Plus+ regala gratis a todos sus clientes el mejor canal de su programación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-pantalla-azul-muerte-windows-estos-dos-comandos-no-veras-nunca-1443562'>Adiós a la pantalla azul de la muerte de Windows, con estos dos comandos no la verás nunca más</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-pantalla-azul-muerte-windows-estos-dos-comandos-no-veras-nunca-1443562' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-pantalla-azul-muerte-windows-estos-dos-comandos-no-veras-nunca-4295485.jpg?tf=1200x' alt='Adiós a la pantalla azul de la muerte de Windows, con estos dos comandos no la verás nunca más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-1442577'>Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/baterias-coches-electricos-4296227.jpg?tf=1200x' alt='Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-1443567'>Ni antivirus ni VPN: este es el método que realmente me protege del phishing cuando trabajo desde casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-1443567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-4295490.jpg?tf=1200x' alt='Ni antivirus ni VPN: este es el método que realmente me protege del phishing cuando trabajo desde casa' />
     </a>
 </div>
 
