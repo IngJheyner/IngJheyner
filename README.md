@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-pantalla-azul-muerte-windows-estos-dos-comandos-no-veras-nunca-1443562'>Adiós a la pantalla azul de la muerte de Windows, con estos dos comandos no la verás nunca más</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-pantalla-azul-muerte-windows-estos-dos-comandos-no-veras-nunca-1443562' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-pantalla-azul-muerte-windows-estos-dos-comandos-no-veras-nunca-4295485.jpg?tf=1200x' alt='Adiós a la pantalla azul de la muerte de Windows, con estos dos comandos no la verás nunca más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-1442577'>Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/baterias-coches-electricos-4296227.jpg?tf=1200x' alt='Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-1443567'>Ni antivirus ni VPN: este es el método que realmente me protege del phishing cuando trabajo desde casa</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-1443567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-antivirus-ni-vpn-metodo-realmente-me-protege-phishing-cuando-trabajo-casa-4295490.jpg?tf=1200x' alt='Ni antivirus ni VPN: este es el método que realmente me protege del phishing cuando trabajo desde casa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-1442416'>WhatsApp: qué significa el punto verde que aparece en algunas conversaciones y cómo desactivarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-1442416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-significa-punto-verde-aparece-algunas-conversaciones-como-desactivarlo-4293703.jpg?tf=1200x' alt='WhatsApp: qué significa el punto verde que aparece en algunas conversaciones y cómo desactivarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carrera-inteligencia-artificial-general-santo-grial-caja-pandora-1443755'>La carrera hacia la inteligencia artificial general: ¿el Santo Grial o la caja de Pandora?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/carrera-inteligencia-artificial-general-santo-grial-caja-pandora-1443755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/carrera-inteligencia-artificial-general-4295833.jpg?tf=1200x' alt='La carrera hacia la inteligencia artificial general: ¿el Santo Grial o la caja de Pandora?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-da-tanto-miedo-mundo-ia-1437096'>¿Qué es la singularidad tecnológica y por qué da tanto miedo en el mundo de la IA?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/singularidad-tecnologica-da-tanto-miedo-mundo-ia-1437096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740141509739-4296156.jpg?tf=1200x' alt='¿Qué es la singularidad tecnológica y por qué da tanto miedo en el mundo de la IA?' />
     </a>
 </div>
 
