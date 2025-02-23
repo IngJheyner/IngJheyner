@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cosas-puedes-hacer-ese-puerto-usb-libre-televisor-nunca-utilizas-nada-1443061'>Cosas que puedes hacer con ese puerto USB libre de tu televisor que nunca utilizas para nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cosas-puedes-hacer-ese-puerto-usb-libre-televisor-nunca-utilizas-nada-1443061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puertos-usb-smart-tv-4289216.jpg?tf=1200x' alt='Cosas que puedes hacer con ese puerto USB libre de tu televisor que nunca utilizas para nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-anade-letras-caratulas-android-tv-1444140'>YouTube añade letras y carátulas en Android TV</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-anade-letras-caratulas-android-tv-1444140' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/youtube-television-4296488.jpg?tf=1200x' alt='YouTube añade letras y carátulas en Android TV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-sera-compatible-controles-remotos-retroiluminados-adios-buscar-botones-oscuridad-1444137'>Google TV Streamer será compatible con controles remotos retroiluminados: adiós a buscar botones en la oscuridad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-tv-streamer-sera-compatible-controles-remotos-retroiluminados-adios-buscar-botones-oscuridad-1444137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-tv-streamer-4k-4234290.jpg?tf=1200x' alt='Google TV Streamer será compatible con controles remotos retroiluminados: adiós a buscar botones en la oscuridad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578'>Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-1443578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-peliculas-menos-conocidas-studio-ghibli-divide-fans-4295495.jpg?tf=1200x' alt='Netflix tiene una de las películas menos conocidas del Studio Ghibli, y que divide a sus fans' />
     </a>
 </div>
 
