@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-tesla-ni-boston-dynamics-neo-gamma-robot-mayordomo-europeo-casa-1444218'>Ni Tesla ni Boston Dynamics: Neo Gamma es el robot mayordomo europeo listo para ayudarte en casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-tesla-ni-boston-dynamics-neo-gamma-robot-mayordomo-europeo-casa-1444218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740345987053-4296655.jpg?tf=1200x' alt='Ni Tesla ni Boston Dynamics: Neo Gamma es el robot mayordomo europeo listo para ayudarte en casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-quiere-destruir-ya-estacion-espacial-internacional-1444212'>Elon Musk quiere destruir ya la Estación Espacial Internacional: "Es hora de empezar los preparativos"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-quiere-destruir-ya-estacion-espacial-internacional-1444212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quiere-cargarse-ya-estacion-espacial-internacional-hora-empezar-preparativos-4296632.jpg?tf=1200x' alt='Elon Musk quiere destruir ya la Estación Espacial Internacional: "Es hora de empezar los preparativos"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-detiene-seco-beta-ios-184-fallos-criticos-estos-son-dispositivos-afectados-1444200'>Apple detiene en seco la beta de iOS 18.4 tras fallos críticos: estos son los dispositivos afectados</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-detiene-seco-beta-ios-184-fallos-criticos-estos-son-dispositivos-afectados-1444200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-18-beta-bloqueo-4296615.jpg?tf=1200x' alt='Apple detiene en seco la beta de iOS 18.4 tras fallos críticos: estos son los dispositivos afectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-anuncio-malware-disfrazado-google-chrome-robando-datos-1444193'>Cuidado con este anuncio: malware disfrazado de Google Chrome está robando datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-anuncio-malware-disfrazado-google-chrome-robando-datos-1444193' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chrome-infectado-4296566.jpg?tf=1200x' alt='Cuidado con este anuncio: malware disfrazado de Google Chrome está robando datos' />
     </a>
 </div>
 
