@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-1444448'>Compra varios discos duros de 5 euros en un mercadillo y descubre algo realmente sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-1444448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-4297066.jpg?tf=1200x' alt='Compra varios discos duros de 5 euros en un mercadillo y descubre algo realmente sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/bestia-disco-duro-rapido-mundo-cumple-25-anos-seagate-cheetah-x15-1444478'>La Bestia, el disco duro más rápido del mundo, cumple 25 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/bestia-disco-duro-rapido-mundo-cumple-25-anos-seagate-cheetah-x15-1444478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bestia-disco-duro-rapido-mundo-cumple-25-anos-4297035.jpg?tf=1200x' alt='La Bestia, el disco duro más rápido del mundo, cumple 25 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-une-google-maps-lista-plataformas-estrictas-normas-europa-1444468'>Waze se une a Google Maps en la lista de plataformas con estrictas normas en Europa</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-une-google-maps-lista-plataformas-estrictas-normas-europa-1444468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/waze-3307246.jpg?tf=1200x' alt='Waze se une a Google Maps en la lista de plataformas con estrictas normas en Europa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/ha-llegado-momento-dejar-buscar-google-sustituirlo-chatgpt-1444433'>¿Ha llegado el momento dejar de buscar en Google y sustituirlo por ChatGPT?</a></h4>
     <a href='https://computerhoy.20minutos.es/google/ha-llegado-momento-dejar-buscar-google-sustituirlo-chatgpt-1444433' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-chatgpt-4297011.jpg?tf=1200x' alt='¿Ha llegado el momento dejar de buscar en Google y sustituirlo por ChatGPT?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/proyecto-raspberry-pi-resucita-truco-150-anos-crear-imagenes-flotantes-1444462'>Este proyecto con Raspberry Pi resucita un truco de 150 años para crear imágenes flotantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/proyecto-raspberry-pi-resucita-truco-150-anos-crear-imagenes-flotantes-1444462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pepper-pi-4297045.jpg?tf=1200x' alt='Este proyecto con Raspberry Pi resucita un truco de 150 años para crear imágenes flotantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-eternas-1442577'>Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-eternas-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/baterias-coches-electricos-4296227.jpg?tf=1200x' alt='Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
     </a>
 </div>
 
