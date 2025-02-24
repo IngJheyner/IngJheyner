@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/inquietante-motivo-nasa-ha-dejado-abandonados-astronautas-iss-espacio-expertos-1444304'>El inquietante motivo por el que la NASA ha dejado "abandonados" a los astronautas de la ISS en el espacio, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/inquietante-motivo-nasa-ha-dejado-abandonados-astronautas-iss-espacio-expertos-1444304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/astronautas-4296812.jpg?tf=1200x' alt='El inquietante motivo por el que la NASA ha dejado "abandonados" a los astronautas de la ISS en el espacio, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-1444324'>El truco para elegir la palabra clave con la que evitar las estafas de inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-1444324' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-4296825.jpg?tf=1200x' alt='El truco para elegir la palabra clave con la que evitar las estafas de inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-viene-arriba-vision-ia-todo-mundo-sera-genio-1444248'>Sam Altman se viene arriba con su visión de la IA: "Todo el mundo será un genio"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-viene-arriba-vision-ia-todo-mundo-sera-genio-1444248' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3309366.jpg?tf=1200x' alt='Sam Altman se viene arriba con su visión de la IA: "Todo el mundo será un genio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-1444323'>ChatGPT ha copiado una de las mejores funciones de DeepSeek en su modelo o3-mini</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-1444323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-4296827.jpg?tf=1200x' alt='ChatGPT ha copiado una de las mejores funciones de DeepSeek en su modelo o3-mini' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-1444307'>Elon Musk no quiere críticas a sus coches eléctricos: todos los clientes y periodistas pierden las demandas contra Tesla</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-1444307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-4296760.jpg?tf=1200x' alt='Elon Musk no quiere críticas a sus coches eléctricos: todos los clientes y periodistas pierden las demandas contra Tesla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-20-futuro-mensajeria-movil-ya-aqui-1444314'>WhatsApp 2.0: el futuro de la mensajería en tu móvil ya está aquí</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-20-futuro-mensajeria-movil-ya-aqui-1444314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-20-4296772.jpg?tf=1200x' alt='WhatsApp 2.0: el futuro de la mensajería en tu móvil ya está aquí' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/clientes-movistar-digi-son-afectados-bloqueos-laliga-1444306'>¿Por qué los clientes de Movistar y DIGI son los más afectados por los bloqueos de la LaLiga?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/clientes-movistar-digi-son-afectados-bloqueos-laliga-1444306' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contenido-bloqueado-laliga-4295486.jpg?tf=1200x' alt='¿Por qué los clientes de Movistar y DIGI son los más afectados por los bloqueos de la LaLiga?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primer-coche-electrico-volador-ya-ha-despegado-espana-ha-sido-clave-desarrollo-1444292'>El primer coche eléctrico volador ya ha despegado, y España ha sido clave en su desarrollo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primer-coche-electrico-volador-ya-ha-despegado-espana-ha-sido-clave-desarrollo-1444292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/model-coche-volador-100-electrico-4296741.jpg?tf=1200x' alt='El primer coche eléctrico volador ya ha despegado, y España ha sido clave en su desarrollo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-usan-gmail-robarte-datos-1444310'>La estafa que preocupa a los expertos: así usan Gmail para robarte los datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-usan-gmail-robarte-datos-1444310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-preocupa-expertos-usan-gmail-robarte-datos-4296761.jpg?tf=1200x' alt='La estafa que preocupa a los expertos: así usan Gmail para robarte los datos' />
     </a>
 </div>
 
