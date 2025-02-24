@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/unanimidad-expertos-norma-30-router-wifi-deberia-ser-obligatorio-1443826'>Unanimidad entre los expertos con la "norma del 30" para router WiFi: "Debería ser obligatorio"</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/unanimidad-expertos-norma-30-router-wifi-deberia-ser-obligatorio-1443826' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/unanimidad-expertos-norma-30-router-wifi-deberia-ser-obligatorio-4295958.jpg?tf=1200x' alt='Unanimidad entre los expertos con la "norma del 30" para router WiFi: "Debería ser obligatorio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/mejor-app-detectar-radares-dgt-android-auto-combinas-google-maps-waze-simplemente-perfecta-1442405'>Es la mejor app para detectar radares de DGT en Android Auto y si la combinas con Google Maps o Waze es simplemente perfecta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/mejor-app-detectar-radares-dgt-android-auto-combinas-google-maps-waze-simplemente-perfecta-1442405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mejor-app-detectar-radares-dgt-android-auto-combinas-google-maps-waze-simplemente-perfecta-4293691.jpg?tf=1200x' alt='Es la mejor app para detectar radares de DGT en Android Auto y si la combinas con Google Maps o Waze es simplemente perfecta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-1444222'>Científicos llevaban 10 años buscando el origen de las superbacterias: una IA lo ha resuelto en 2 días</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-1444222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-4296660.jpg?tf=1200x' alt='Científicos llevaban 10 años buscando el origen de las superbacterias: una IA lo ha resuelto en 2 días' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/elon-musk-quiere-destruir-ya-estacion-espacial-internacional-1444212'>Elon Musk quiere destruir ya la Estación Espacial Internacional: "Es hora de empezar los preparativos"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/elon-musk-quiere-destruir-ya-estacion-espacial-internacional-1444212' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quiere-cargarse-ya-estacion-espacial-internacional-hora-empezar-preparativos-4296632.jpg?tf=1200x' alt='Elon Musk quiere destruir ya la Estación Espacial Internacional: "Es hora de empezar los preparativos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-sense8-miniserie-ciencia-ficcion-robots-arrasa-netflix-1443573'>Ni Black Mirror ni Sense8: así es la miniserie de ciencia ficción con robots que arrasa en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-sense8-miniserie-ciencia-ficcion-robots-arrasa-netflix-1443573' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-black-mirror-ni-sense8-serie-ciencia-ficcion-robots-moda-netflix-4295493.jpg?tf=1200x' alt='Ni Black Mirror ni Sense8: así es la miniserie de ciencia ficción con robots que arrasa en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/amazon-reconoce-derrota-steam-1444209'>El exvicepresidente de Amazon reconoce su derrota ante Steam: "Éramos 250 veces más grande, pero Goliat perdió"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/amazon-reconoce-derrota-steam-1444209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-reconoce-derrota-steam-eramos-250-veces-grande-pero-goliat-perdio-4296624.jpg?tf=1200x' alt='El exvicepresidente de Amazon reconoce su derrota ante Steam: "Éramos 250 veces más grande, pero Goliat perdió"' />
     </a>
 </div>
 
