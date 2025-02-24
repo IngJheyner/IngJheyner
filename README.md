@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4-vs-deepseek-ia-ahoga-propio-consumo-energetico-1444300'>GPT-4 vs DeepSeek: ¿la IA se ahoga en su propio consumo energético?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4-vs-deepseek-ia-ahoga-propio-consumo-energetico-1444300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/consumo-energetico-ia-4296733.jpg?tf=1200x' alt='GPT-4 vs DeepSeek: ¿la IA se ahoga en su propio consumo energético?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/inteligencia-artificial-ha-hecho-descubrimiento-luna-cambia-todo-1444276'>La inteligencia artificial ha hecho un descubrimiento en la Luna que lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/inteligencia-artificial-ha-hecho-descubrimiento-luna-cambia-todo-1444276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-luna-4296727.jpg?tf=1200x' alt='La inteligencia artificial ha hecho un descubrimiento en la Luna que lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/raton-aromatico-asus-fragrance-mouse-1444233'>Si tu alfombrilla de ratón y tu teclado apestan, necesitas el ratón aromático Asus Fragrance Mouse</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/raton-aromatico-asus-fragrance-mouse-1444233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alfombrilla-raton-teclado-apestan-necesitas-raton-aromatico-asus-fragrance-mouse-4296671.jpg?tf=1200x' alt='Si tu alfombrilla de ratón y tu teclado apestan, necesitas el ratón aromático Asus Fragrance Mouse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-1443828'>Me encanta Windows 11, pero tiene cosas tan molestas que entiendo que mucha gente lo odie</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-1443828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-4295972.jpg?tf=1200x' alt='Me encanta Windows 11, pero tiene cosas tan molestas que entiendo que mucha gente lo odie' />
     </a>
 </div>
 
