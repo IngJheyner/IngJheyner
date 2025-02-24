@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/oppo-reno-13-familia-moviles-tiene-4-modelos-ia-nunca-1441959'>Oppo Reno 13, la familia de móviles que tiene 4 modelos y más IA que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/oppo-reno-13-familia-moviles-tiene-4-modelos-ia-nunca-1441959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4296941.jpg?tf=1200x' alt='Oppo Reno 13, la familia de móviles que tiene 4 modelos y más IA que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/magnetismo-clave-solucionar-desafio-tecnologia-cuantica-fisicos-columbia-1444273'>El magnetismo, clave para solucionar un desafío en la tecnología cuántica, según físicos de Columbia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/magnetismo-clave-solucionar-desafio-tecnologia-cuantica-fisicos-columbia-1444273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/computacion-cuantica-4296730.jpg?tf=1200x' alt='El magnetismo, clave para solucionar un desafío en la tecnología cuántica, según físicos de Columbia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-programacion-openai-admite-ia-todavia-no-puede-competir-humanos-1444402'>Giro de 180 grados en la programación, OpenAI admite que la IA todavía no puede competir con humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-programacion-openai-admite-ia-todavia-no-puede-competir-humanos-1444402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-chatgpt-4296933.jpg?tf=1200x' alt='Giro de 180 grados en la programación, OpenAI admite que la IA todavía no puede competir con humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibe-correo-mensaje-interpol-estafa-ha-comenzado-1444357'>Si recibe en tu correo este mensaje de la Interpol, la estafa ha comenzado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/recibe-correo-mensaje-interpol-estafa-ha-comenzado-1444357' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mensaje-estafa-interpol-4296870.jpg?tf=1200x' alt='Si recibe en tu correo este mensaje de la Interpol, la estafa ha comenzado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/ni-estado-solido-ni-hidrogeno-bmw-consigue-ampliar-30-autonomia-coches-electricos-cambiar-baterias-1444347'>Ni estado sólido ni hidrógeno, BMW consigue ampliar un 30% la autonomía de sus coches eléctricos sin cambiar de baterías</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ni-estado-solido-ni-hidrogeno-bmw-consigue-ampliar-30-autonomia-coches-electricos-cambiar-baterias-1444347' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bmw-consigue-ampliar-30-autonomia-coches-electricos-cambiar-baterias-4296861.jpg?tf=1200x' alt='Ni estado sólido ni hidrógeno, BMW consigue ampliar un 30% la autonomía de sus coches eléctricos sin cambiar de baterías' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/palo-microsoft-pewdiepie-monta-pc-gaming-linux-literalmente-no-tiene-sentido-usar-windows-1444332'>Palo a Microsoft, PewDiePie se monta un PC Gaming con Linux: “Literalmente no tiene sentido usar Windows”</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/palo-microsoft-pewdiepie-monta-pc-gaming-linux-literalmente-no-tiene-sentido-usar-windows-1444332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pewdiepie-usa-linux-pc-4296826.jpg?tf=1200x' alt='Palo a Microsoft, PewDiePie se monta un PC Gaming con Linux: “Literalmente no tiene sentido usar Windows”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-asegura-fue-impulso-definitivo-crear-microsoft-fue-como-visitar-meca-1444377'>Bill Gates asegura que fue el impulso definitivo para crear Microsoft: "Fue como visitar la Meca"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-asegura-fue-impulso-definitivo-crear-microsoft-fue-como-visitar-meca-1444377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-asegura-fue-impulso-definitivo-crear-microsoft-fue-como-visitar-meca-4296946.jpg?tf=1200x' alt='Bill Gates asegura que fue el impulso definitivo para crear Microsoft: "Fue como visitar la Meca"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336'>¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-4296852.jpg?tf=1200x' alt='¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?' />
     </a>
 </div>
 
