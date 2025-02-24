@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-1444307'>Elon Musk no quiere críticas a sus coches eléctricos: todos los clientes y periodistas pierden las demandas contra Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-1444307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-4296760.jpg?tf=1200x' alt='Elon Musk no quiere críticas a sus coches eléctricos: todos los clientes y periodistas pierden las demandas contra Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-20-futuro-mensajeria-movil-ya-aqui-1444314'>WhatsApp 2.0: el futuro de la mensajería en tu móvil ya está aquí</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-20-futuro-mensajeria-movil-ya-aqui-1444314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-20-4296772.jpg?tf=1200x' alt='WhatsApp 2.0: el futuro de la mensajería en tu móvil ya está aquí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/clientes-movistar-digi-son-afectados-bloqueos-laliga-1444306'>¿Por qué los clientes de Movistar y DIGI son los más afectados por los bloqueos de la LaLiga?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/clientes-movistar-digi-son-afectados-bloqueos-laliga-1444306' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/contenido-bloqueado-laliga-4295486.jpg?tf=1200x' alt='¿Por qué los clientes de Movistar y DIGI son los más afectados por los bloqueos de la LaLiga?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primer-coche-electrico-volador-ya-ha-despegado-espana-ha-sido-clave-desarrollo-1444292'>El primer coche eléctrico volador ya ha despegado, y España ha sido clave en su desarrollo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primer-coche-electrico-volador-ya-ha-despegado-espana-ha-sido-clave-desarrollo-1444292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/model-coche-volador-100-electrico-4296741.jpg?tf=1200x' alt='El primer coche eléctrico volador ya ha despegado, y España ha sido clave en su desarrollo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-usan-gmail-robarte-datos-1444310'>La estafa que preocupa a los expertos: así usan Gmail para robarte los datos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-usan-gmail-robarte-datos-1444310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-preocupa-expertos-usan-gmail-robarte-datos-4296761.jpg?tf=1200x' alt='La estafa que preocupa a los expertos: así usan Gmail para robarte los datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/locura-guerra-laliga-iptv-cloudflare-gran-perdedor-usuarios-digi-movistar-1444295'>Locura en la guerra de la LaLiga contra las IPTV y Cloudflare con un gran perdedor: los usuarios de DIGI y Movistar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/locura-guerra-laliga-iptv-cloudflare-gran-perdedor-usuarios-digi-movistar-1444295' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-movistar-laliga-4296734.jpg?tf=1200x' alt='Locura en la guerra de la LaLiga contra las IPTV y Cloudflare con un gran perdedor: los usuarios de DIGI y Movistar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4-vs-deepseek-ia-ahoga-propio-consumo-energetico-1444300'>GPT-4 vs DeepSeek: ¿la IA se ahoga en su propio consumo energético?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4-vs-deepseek-ia-ahoga-propio-consumo-energetico-1444300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/consumo-energetico-ia-4296733.jpg?tf=1200x' alt='GPT-4 vs DeepSeek: ¿la IA se ahoga en su propio consumo energético?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/inteligencia-artificial-ha-hecho-descubrimiento-luna-cambia-todo-1444276'>La inteligencia artificial ha hecho un descubrimiento en la Luna que lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/inteligencia-artificial-ha-hecho-descubrimiento-luna-cambia-todo-1444276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-luna-4296727.jpg?tf=1200x' alt='La inteligencia artificial ha hecho un descubrimiento en la Luna que lo cambia todo' />
     </a>
 </div>
 
