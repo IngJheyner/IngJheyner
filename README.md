@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/inteligencia-artificial-ha-hecho-descubrimiento-luna-cambia-todo-1444276'>La inteligencia artificial ha hecho un descubrimiento en la Luna que lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/inteligencia-artificial-ha-hecho-descubrimiento-luna-cambia-todo-1444276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inteligencia-artificial-luna-4296727.jpg?tf=1200x' alt='La inteligencia artificial ha hecho un descubrimiento en la Luna que lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/sigue-estos-pasos-quieres-elegir-movil-perfecto-ti-ahorrarte-dinero-1435979'>Sigue estos pasos si quieres elegir el móvil perfecto para ti (y ahorrarte dinero)</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/sigue-estos-pasos-quieres-elegir-movil-perfecto-ti-ahorrarte-dinero-1435979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/comprar-movil-ahorrar-dinero-4296212.jpg?tf=1200x' alt='Sigue estos pasos si quieres elegir el móvil perfecto para ti (y ahorrarte dinero)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-1443828'>Me encanta Windows 11, pero tiene cosas tan molestas que entiendo que mucha gente lo odie</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-1443828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-4295972.jpg?tf=1200x' alt='Me encanta Windows 11, pero tiene cosas tan molestas que entiendo que mucha gente lo odie' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-espanoles-descubren-kriptonita-ia-supercunados-han-leido-todo-1443764'>Investigadores españoles descubren la “kriptonita” de la IA: “Súpercuñados que lo han leído todo” </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-espanoles-descubren-kriptonita-ia-supercunados-han-leido-todo-1443764' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-inteligencia-artificial-4295783.jpg?tf=1200x' alt='Investigadores españoles descubren la “kriptonita” de la IA: “Súpercuñados que lo han leído todo” ' />
     </a>
 </div>
 
