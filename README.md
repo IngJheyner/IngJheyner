@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/sigue-estos-pasos-quieres-elegir-movil-perfecto-ti-ahorrarte-dinero-1435979'>Sigue estos pasos si quieres elegir el móvil perfecto para ti (y ahorrarte dinero)</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/sigue-estos-pasos-quieres-elegir-movil-perfecto-ti-ahorrarte-dinero-1435979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/comprar-movil-ahorrar-dinero-4296212.jpg?tf=1200x' alt='Sigue estos pasos si quieres elegir el móvil perfecto para ti (y ahorrarte dinero)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/esperamos-mwc-2025-conectividad-sigue-siendo-esencial-aunque-ia-hilo-conductor-1443927'>Qué esperamos del MWC 2025: la conectividad sigue siendo esencial, aunque la IA es el hilo conductor</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/esperamos-mwc-2025-conectividad-sigue-siendo-esencial-aunque-ia-hilo-conductor-1443927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mwc-2025-4296203.jpg?tf=1200x' alt='Qué esperamos del MWC 2025: la conectividad sigue siendo esencial, aunque la IA es el hilo conductor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/raton-aromatico-asus-fragrance-mouse-1444233'>Si tu alfombrilla de ratón y tu teclado apestan, necesitas el ratón aromático Asus Fragrance Mouse</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/raton-aromatico-asus-fragrance-mouse-1444233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alfombrilla-raton-teclado-apestan-necesitas-raton-aromatico-asus-fragrance-mouse-4296671.jpg?tf=1200x' alt='Si tu alfombrilla de ratón y tu teclado apestan, necesitas el ratón aromático Asus Fragrance Mouse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-1443828'>Me encanta Windows 11, pero tiene cosas tan molestas que entiendo que mucha gente lo odie</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-1443828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/me-encanta-windows-11-pero-tiene-cosas-tan-molestas-entiendo-mucha-gente-odie-4295972.jpg?tf=1200x' alt='Me encanta Windows 11, pero tiene cosas tan molestas que entiendo que mucha gente lo odie' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-espanoles-descubren-kriptonita-ia-supercunados-han-leido-todo-1443764'>Investigadores españoles descubren la “kriptonita” de la IA: “Súpercuñados que lo han leído todo” </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-espanoles-descubren-kriptonita-ia-supercunados-han-leido-todo-1443764' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-inteligencia-artificial-4295783.jpg?tf=1200x' alt='Investigadores españoles descubren la “kriptonita” de la IA: “Súpercuñados que lo han leído todo” ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/unanimidad-expertos-norma-30-router-wifi-deberia-ser-obligatorio-1443826'>Unanimidad entre los expertos con la "norma del 30" para router WiFi: "Debería ser obligatorio"</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/unanimidad-expertos-norma-30-router-wifi-deberia-ser-obligatorio-1443826' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/unanimidad-expertos-norma-30-router-wifi-deberia-ser-obligatorio-4295958.jpg?tf=1200x' alt='Unanimidad entre los expertos con la "norma del 30" para router WiFi: "Debería ser obligatorio"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/mejor-app-detectar-radares-dgt-android-auto-combinas-google-maps-waze-simplemente-perfecta-1442405'>Es la mejor app para detectar radares de DGT en Android Auto y si la combinas con Google Maps o Waze es simplemente perfecta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/mejor-app-detectar-radares-dgt-android-auto-combinas-google-maps-waze-simplemente-perfecta-1442405' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mejor-app-detectar-radares-dgt-android-auto-combinas-google-maps-waze-simplemente-perfecta-4293691.jpg?tf=1200x' alt='Es la mejor app para detectar radares de DGT en Android Auto y si la combinas con Google Maps o Waze es simplemente perfecta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-1444222'>Científicos llevaban 10 años buscando el origen de las superbacterias: una IA lo ha resuelto en 2 días</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-1444222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-4296660.jpg?tf=1200x' alt='Científicos llevaban 10 años buscando el origen de las superbacterias: una IA lo ha resuelto en 2 días' />
     </a>
 </div>
 
