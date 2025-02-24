@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/palo-microsoft-pewdiepie-monta-pc-gaming-linux-literalmente-no-tiene-sentido-usar-windows-1444332'>Palo a Microsoft, PewDiePie se monta un PC Gaming con Linux: “Literalmente no tiene sentido usar Windows”</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/palo-microsoft-pewdiepie-monta-pc-gaming-linux-literalmente-no-tiene-sentido-usar-windows-1444332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pewdiepie-usa-linux-pc-4296826.jpg?tf=1200x' alt='Palo a Microsoft, PewDiePie se monta un PC Gaming con Linux: “Literalmente no tiene sentido usar Windows”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-asegura-fue-impulso-definitivo-crear-microsoft-fue-como-visitar-meca-1444377'>Bill Gates asegura que fue el impulso definitivo para crear Microsoft: "Fue como visitar la Meca"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-asegura-fue-impulso-definitivo-crear-microsoft-fue-como-visitar-meca-1444377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-asegura-fue-impulso-definitivo-crear-microsoft-fue-como-visitar-meca-4296946.jpg?tf=1200x' alt='Bill Gates asegura que fue el impulso definitivo para crear Microsoft: "Fue como visitar la Meca"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336'>¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-4296852.jpg?tf=1200x' alt='¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-1444324'>El truco para elegir la palabra clave con la que evitar las estafas de inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-1444324' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-4296825.jpg?tf=1200x' alt='El truco para elegir la palabra clave con la que evitar las estafas de inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-viene-arriba-vision-ia-todo-mundo-sera-genio-1444248'>Sam Altman se viene arriba con su visión de la IA: "Todo el mundo será un genio"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-viene-arriba-vision-ia-todo-mundo-sera-genio-1444248' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/sam-altman-3309366.jpg?tf=1200x' alt='Sam Altman se viene arriba con su visión de la IA: "Todo el mundo será un genio"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-1444323'>ChatGPT ha copiado una de las mejores funciones de DeepSeek en su modelo o3-mini</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-1444323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-4296827.jpg?tf=1200x' alt='ChatGPT ha copiado una de las mejores funciones de DeepSeek en su modelo o3-mini' />
     </a>
 </div>
 
