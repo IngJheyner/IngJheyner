@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-usan-gmail-robarte-datos-1444310'>La estafa que preocupa a los expertos: así usan Gmail para robarte los datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-usan-gmail-robarte-datos-1444310' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-preocupa-expertos-usan-gmail-robarte-datos-4296761.jpg?tf=1200x' alt='La estafa que preocupa a los expertos: así usan Gmail para robarte los datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/locura-guerra-laliga-iptv-cloudflare-gran-perdedor-usuarios-digi-movistar-1444295'>Locura en la guerra de la LaLiga contra las IPTV y Cloudflare con un gran perdedor: los usuarios de DIGI y Movistar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/locura-guerra-laliga-iptv-cloudflare-gran-perdedor-usuarios-digi-movistar-1444295' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-movistar-laliga-4296734.jpg?tf=1200x' alt='Locura en la guerra de la LaLiga contra las IPTV y Cloudflare con un gran perdedor: los usuarios de DIGI y Movistar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-4-vs-deepseek-ia-ahoga-propio-consumo-energetico-1444300'>GPT-4 vs DeepSeek: ¿la IA se ahoga en su propio consumo energético?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gpt-4-vs-deepseek-ia-ahoga-propio-consumo-energetico-1444300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/consumo-energetico-ia-4296733.jpg?tf=1200x' alt='GPT-4 vs DeepSeek: ¿la IA se ahoga en su propio consumo energético?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/sigue-estos-pasos-quieres-elegir-movil-perfecto-ti-ahorrarte-dinero-1435979'>Sigue estos pasos si quieres elegir el móvil perfecto para ti (y ahorrarte dinero)</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/sigue-estos-pasos-quieres-elegir-movil-perfecto-ti-ahorrarte-dinero-1435979' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/comprar-movil-ahorrar-dinero-4296212.jpg?tf=1200x' alt='Sigue estos pasos si quieres elegir el móvil perfecto para ti (y ahorrarte dinero)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/esperamos-mwc-2025-conectividad-sigue-siendo-esencial-aunque-ia-hilo-conductor-1443927'>Qué esperamos del MWC 2025: la conectividad sigue siendo esencial, aunque la IA es el hilo conductor</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/esperamos-mwc-2025-conectividad-sigue-siendo-esencial-aunque-ia-hilo-conductor-1443927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mwc-2025-4296203.jpg?tf=1200x' alt='Qué esperamos del MWC 2025: la conectividad sigue siendo esencial, aunque la IA es el hilo conductor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/raton-aromatico-asus-fragrance-mouse-1444233'>Si tu alfombrilla de ratón y tu teclado apestan, necesitas el ratón aromático Asus Fragrance Mouse</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/raton-aromatico-asus-fragrance-mouse-1444233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alfombrilla-raton-teclado-apestan-necesitas-raton-aromatico-asus-fragrance-mouse-4296671.jpg?tf=1200x' alt='Si tu alfombrilla de ratón y tu teclado apestan, necesitas el ratón aromático Asus Fragrance Mouse' />
     </a>
 </div>
 
