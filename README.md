@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibe-correo-mensaje-interpol-estafa-ha-comenzado-1444357'>Si recibe en tu correo este mensaje de la Interpol, la estafa ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/recibe-correo-mensaje-interpol-estafa-ha-comenzado-1444357' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mensaje-estafa-interpol-4296870.jpg?tf=1200x' alt='Si recibe en tu correo este mensaje de la Interpol, la estafa ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-estado-solido-ni-hidrogeno-bmw-consigue-ampliar-30-autonomia-coches-electricos-cambiar-baterias-1444347'>Ni estado sólido ni hidrógeno, BMW consigue ampliar un 30% la autonomía de sus coches eléctricos sin cambiar de baterías</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-estado-solido-ni-hidrogeno-bmw-consigue-ampliar-30-autonomia-coches-electricos-cambiar-baterias-1444347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bmw-consigue-ampliar-30-autonomia-coches-electricos-cambiar-baterias-4296861.jpg?tf=1200x' alt='Ni estado sólido ni hidrógeno, BMW consigue ampliar un 30% la autonomía de sus coches eléctricos sin cambiar de baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/palo-microsoft-pewdiepie-monta-pc-gaming-linux-literalmente-no-tiene-sentido-usar-windows-1444332'>Palo a Microsoft, PewDiePie se monta un PC Gaming con Linux: “Literalmente no tiene sentido usar Windows”</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/palo-microsoft-pewdiepie-monta-pc-gaming-linux-literalmente-no-tiene-sentido-usar-windows-1444332' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pewdiepie-usa-linux-pc-4296826.jpg?tf=1200x' alt='Palo a Microsoft, PewDiePie se monta un PC Gaming con Linux: “Literalmente no tiene sentido usar Windows”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336'>¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-4296852.jpg?tf=1200x' alt='¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/inquietante-motivo-nasa-ha-dejado-abandonados-astronautas-iss-espacio-expertos-1444304'>El inquietante motivo por el que la NASA ha dejado "abandonados" a los astronautas de la ISS en el espacio, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/inquietante-motivo-nasa-ha-dejado-abandonados-astronautas-iss-espacio-expertos-1444304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/astronautas-4296812.jpg?tf=1200x' alt='El inquietante motivo por el que la NASA ha dejado "abandonados" a los astronautas de la ISS en el espacio, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-1444324'>El truco para elegir la palabra clave con la que evitar las estafas de inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-1444324' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/truco-elegir-palabra-clave-evitar-estafas-inteligencia-artificial-4296825.jpg?tf=1200x' alt='El truco para elegir la palabra clave con la que evitar las estafas de inteligencia artificial' />
     </a>
 </div>
 
