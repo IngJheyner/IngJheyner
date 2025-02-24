@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-1444222'>Científicos llevaban 10 años buscando el origen de las superbacterias: una IA lo ha resuelto en 2 días</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-1444222' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cientificos-llevaban-10-anos-buscando-origen-superbacterias-ia-ha-resuelto-2-dias-4296660.jpg?tf=1200x' alt='Científicos llevaban 10 años buscando el origen de las superbacterias: una IA lo ha resuelto en 2 días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-tesla-ni-boston-dynamics-neo-gamma-robot-mayordomo-europeo-casa-1444218'>Ni Tesla ni Boston Dynamics: Neo Gamma es el robot mayordomo europeo listo para ayudarte en casa</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-tesla-ni-boston-dynamics-neo-gamma-robot-mayordomo-europeo-casa-1444218' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740345987053-4296655.jpg?tf=1200x' alt='Ni Tesla ni Boston Dynamics: Neo Gamma es el robot mayordomo europeo listo para ayudarte en casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/amazon-reconoce-derrota-steam-1444209'>El exvicepresidente de Amazon reconoce su derrota ante Steam: "Éramos 250 veces más grande, pero Goliat perdió"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/amazon-reconoce-derrota-steam-1444209' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-reconoce-derrota-steam-eramos-250-veces-grande-pero-goliat-perdio-4296624.jpg?tf=1200x' alt='El exvicepresidente de Amazon reconoce su derrota ante Steam: "Éramos 250 veces más grande, pero Goliat perdió"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-detiene-seco-beta-ios-184-fallos-criticos-estos-son-dispositivos-afectados-1444200'>Apple detiene en seco la beta de iOS 18.4 tras fallos críticos: estos son los dispositivos afectados</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-detiene-seco-beta-ios-184-fallos-criticos-estos-son-dispositivos-afectados-1444200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ios-18-beta-bloqueo-4296615.jpg?tf=1200x' alt='Apple detiene en seco la beta de iOS 18.4 tras fallos críticos: estos son los dispositivos afectados' />
     </a>
 </div>
 
