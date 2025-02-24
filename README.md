@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336'>¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/movistar-digi-han-unido-laliga-lucha-iptv-otros-operadores-como-vodafone-no-1444336' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-4296852.jpg?tf=1200x' alt='¿Por qué Movistar y DIGI se han unido a la LaLiga en su lucha contra las IPTV y otros operadores como Vodafone no?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/inquietante-motivo-nasa-ha-dejado-abandonados-astronautas-iss-espacio-expertos-1444304'>El inquietante motivo por el que la NASA ha dejado "abandonados" a los astronautas de la ISS en el espacio, según los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/inquietante-motivo-nasa-ha-dejado-abandonados-astronautas-iss-espacio-expertos-1444304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/astronautas-4296812.jpg?tf=1200x' alt='El inquietante motivo por el que la NASA ha dejado "abandonados" a los astronautas de la ISS en el espacio, según los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-1444323'>ChatGPT ha copiado una de las mejores funciones de DeepSeek en su modelo o3-mini</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-1444323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-ha-copiado-mejores-funciones-deepseek-modelo-o3-mini-4296827.jpg?tf=1200x' alt='ChatGPT ha copiado una de las mejores funciones de DeepSeek en su modelo o3-mini' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-1444307'>Elon Musk no quiere críticas a sus coches eléctricos: todos los clientes y periodistas pierden las demandas contra Tesla</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-1444307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-no-quiere-criticas-coches-electricos-todos-clientes-periodistas-pierden-demandas-tesla-4296760.jpg?tf=1200x' alt='Elon Musk no quiere críticas a sus coches eléctricos: todos los clientes y periodistas pierden las demandas contra Tesla' />
     </a>
 </div>
 
