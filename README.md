@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-dos-planetas-condenados-desaparecer-parecen-sacados-star-wars-1444339'>NASA: Los dos planetas condenados a desaparecer que parecen sacados de Star Wars</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-dos-planetas-condenados-desaparecer-parecen-sacados-star-wars-1444339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-dos-planetas-condenados-desaparecer-parecen-sacados-star-wars-4296842.jpg?tf=1200x' alt='NASA: Los dos planetas condenados a desaparecer que parecen sacados de Star Wars' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-une-google-maps-lista-plataformas-estrictas-normas-europa-1444468'>Waze se une a Google Maps en la lista de plataformas con estrictas normas en Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-une-google-maps-lista-plataformas-estrictas-normas-europa-1444468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/waze-3307246.jpg?tf=1200x' alt='Waze se une a Google Maps en la lista de plataformas con estrictas normas en Europa' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/iptv-pirata-aprobada-primera-ley-permite-sancionar-usuario-final-750-euros-multa-1444407'>IPTV pirata: aprobada la primera ley que permite sancionar al usuario final con hasta 750 euros de multa</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/iptv-pirata-aprobada-primera-ley-permite-sancionar-usuario-final-750-euros-multa-1444407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iptv-pirata-aprobada-primera-ley-permite-sancionar-usuario-final-750-euros-multa-4297014.jpg?tf=1200x' alt='IPTV pirata: aprobada la primera ley que permite sancionar al usuario final con hasta 750 euros de multa' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-todos-soluciona-problemas-conexion-inalambrica-puedes-instalarlo-1444464'>Android Auto 13.8 ya disponible para todos: soluciona problemas con la conexión inalámbrica y así puedes instalarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-todos-soluciona-problemas-conexion-inalambrica-puedes-instalarlo-1444464' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-138-4297046.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible para todos: soluciona problemas con la conexión inalámbrica y así puedes instalarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/jesus-calleja-viaja-espacio-horario-como-ver-directo-lanzamiento-blue-origin-1444444'>Jesús Calleja viaja al espacio: horario y cómo ver en directo el lanzamiento de Blue Origin</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/jesus-calleja-viaja-espacio-horario-como-ver-directo-lanzamiento-blue-origin-1444444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740419903296-4296979.jpg?tf=1200x' alt='Jesús Calleja viaja al espacio: horario y cómo ver en directo el lanzamiento de Blue Origin' />
+    <h4><a href='https://computerhoy.20minutos.es/google/ha-llegado-momento-dejar-buscar-google-sustituirlo-chatgpt-1444433'>¿Ha llegado el momento dejar de buscar en Google y sustituirlo por ChatGPT?</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ha-llegado-momento-dejar-buscar-google-sustituirlo-chatgpt-1444433' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-chatgpt-4297011.jpg?tf=1200x' alt='¿Ha llegado el momento dejar de buscar en Google y sustituirlo por ChatGPT?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tdt-marca-movistar-plus-canal-tematico-mejores-peliculas-oscar-1444356'>La TDT se marca un Movistar Plus+ con un canal "temático" con las mejores películas de los Oscar</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tdt-marca-movistar-plus-canal-tematico-mejores-peliculas-oscar-1444356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/premios-oscar-4282255.jpg?tf=1200x' alt='La TDT se marca un Movistar Plus+ con un canal "temático" con las mejores películas de los Oscar' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/proyecto-raspberry-pi-resucita-truco-150-anos-crear-imagenes-flotantes-1444462'>Este proyecto con Raspberry Pi resucita un truco de 150 años para crear imágenes flotantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/proyecto-raspberry-pi-resucita-truco-150-anos-crear-imagenes-flotantes-1444462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pepper-pi-4297045.jpg?tf=1200x' alt='Este proyecto con Raspberry Pi resucita un truco de 150 años para crear imágenes flotantes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/oppo-reno-13-familia-moviles-tiene-4-modelos-ia-nunca-1441959'>Oppo Reno 13, la familia de móviles que tiene 4 modelos y más IA que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/oppo-reno-13-familia-moviles-tiene-4-modelos-ia-nunca-1441959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4296941.jpg?tf=1200x' alt='Oppo Reno 13, la familia de móviles que tiene 4 modelos y más IA que nunca' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-eternas-1442577'>Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-motor-electrico-nuevas-baterias-aluminio-eternas-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/baterias-coches-electricos-4296227.jpg?tf=1200x' alt='Vuelco al futuro del coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
     </a>
 </div>
 
