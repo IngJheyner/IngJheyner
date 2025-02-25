@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-monkey-pero-prime-video-tiene-otra-pelicula-basada-relato-stephen-king-pocos-conocen-1443839'>No es The Monkey, pero Prime Video tiene otra película basada en un relato de Stephen King que pocos conocen</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-monkey-pero-prime-video-tiene-otra-pelicula-basada-relato-stephen-king-pocos-conocen-1443839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boogeyman-4295982.jpg?tf=1200x' alt='No es The Monkey, pero Prime Video tiene otra película basada en un relato de Stephen King que pocos conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/nuevo-operador-suma-movistar-digi-o2-bloqueos-iptv-paginas-pirata-laliga-1444612'>Un nuevo operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV y páginas pirata de LaLiga</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/nuevo-operador-suma-movistar-digi-o2-bloqueos-iptv-paginas-pirata-laliga-1444612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/operadores-bloqueos-iptv-laliga-4297413.jpg?tf=1200x' alt='Un nuevo operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV y páginas pirata de LaLiga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/invento-espanol-permitiria-viajar-coche-electrico-vida-gastar-euro-electricidad-1444617'>El invento español que permitiría viajar en coche eléctrico de por vida sin gastar un euro en electricidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/invento-espanol-permitiria-viajar-coche-electrico-vida-gastar-euro-electricidad-1444617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-espanol-4297279.jpg?tf=1200x' alt='El invento español que permitiría viajar en coche eléctrico de por vida sin gastar un euro en electricidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/cientificos-logran-rejuvenecer-bateria-coche-electrico-mediante-inyeccion-moleculas-1444607'>Científicos logran rejuvenecer la batería de un coche eléctrico mediante a una inyección de moléculas</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/cientificos-logran-rejuvenecer-bateria-coche-electrico-mediante-inyeccion-moleculas-1444607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-4297278.jpg?tf=1200x' alt='Científicos logran rejuvenecer la batería de un coche eléctrico mediante a una inyección de moléculas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/jesus-calleja-tercer-espanol-salir-espacio-vuelo-completo-1444684'>Jesús Calleja se convierte en el tercer español en salir al espacio: "Estoy llorando"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/jesus-calleja-tercer-espanol-salir-espacio-vuelo-completo-1444684' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jesus-calleja-convierte-tercer-espanol-salir-espacio-estoy-llorando-4297379.jpg?tf=1200x' alt='Jesús Calleja se convierte en el tercer español en salir al espacio: "Estoy llorando"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/palo-samsung-carpeta-segura-no-tan-segura-como-promete-motivo-1444658'>Palo a Samsung: su Carpeta Segura no es tan segura como promete, y este es el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/palo-samsung-carpeta-segura-no-tan-segura-como-promete-motivo-1444658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-samsung-carpeta-segura-no-tan-segura-como-promete-motivo-4297355.jpg?tf=1200x' alt='Palo a Samsung: su Carpeta Segura no es tan segura como promete, y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/rojadirecta-telegram-juegan-javier-tebas-bloqueos-iptv-podrian-acabar-muy-pronto-1444645'>Rojadirecta y Telegram juegan en contra de Javier Tebas: los bloqueos a las IPTV podrían acabar muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/rojadirecta-telegram-juegan-javier-tebas-bloqueos-iptv-podrian-acabar-muy-pronto-1444645' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/rojadirecta-telegram-juegan-javier-tebas-bloqueos-iptv-podrian-acabar-muy-pronto-4297376.jpg?tf=1200x' alt='Rojadirecta y Telegram juegan en contra de Javier Tebas: los bloqueos a las IPTV podrían acabar muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-estan-saqueando-cuentas-bancarias-todo-mundo-traves-moviles-iphone-android-1444608'>Hackers están saqueando cuentas bancarias en todo el mundo a través de móviles iPhone y Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-estan-saqueando-cuentas-bancarias-todo-mundo-traves-moviles-iphone-android-1444608' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-iphone-cuenta-bancaria-4297269.jpg?tf=1200x' alt='Hackers están saqueando cuentas bancarias en todo el mundo a través de móviles iPhone y Android' />
     </a>
 </div>
 
