@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-apellido-ordenadores-pueden-hacerte-vida-imposible-1444736'>Si tienes este apellido, los ordenadores pueden hacerte la vida imposible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-apellido-ordenadores-pueden-hacerte-vida-imposible-1444736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hombre-enfadado-ordenador-portatil-4297494.jpg?tf=1200x' alt='Si tienes este apellido, los ordenadores pueden hacerte la vida imposible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/usas-winrar-ten-cuidado-windows-no-ingles-1444733'>¿Usas WinRar? Ten cuidado si tu Windows no está en inglés</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/usas-winrar-ten-cuidado-windows-no-ingles-1444733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-4260046.jpg?tf=1200x' alt='¿Usas WinRar? Ten cuidado si tu Windows no está en inglés' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657'>Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/titanic-movistar-plus-4297380.jpg?tf=1200x' alt='Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-dos-unicas-opciones-whatsapp-no-debes-desactivar-nunca-digo-nunca-1444675'>Experta en ciberseguridad desvela las dos únicas opciones de WhatsApp que no debes desactivar: "Nunca, y digo nunca"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-dos-unicas-opciones-whatsapp-no-debes-desactivar-nunca-digo-nunca-1444675' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-ciberseguridad-desvela-dos-unicas-opciones-whatsapp-no-debes-desactivar-nunca-digo-nunca-4297459.jpg?tf=1200x' alt='Experta en ciberseguridad desvela las dos únicas opciones de WhatsApp que no debes desactivar: "Nunca, y digo nunca"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-capaz-desarrollar-chips-super-eficientes-pero-hay-problema-ser-humano-no-capaz-enterderlos-1444637'>La IA ya es capaz de desarrollar chips super eficientes, pero hay un problema: el ser humano no es capaz de enterderlos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-capaz-desarrollar-chips-super-eficientes-pero-hay-problema-ser-humano-no-capaz-enterderlos-1444637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chip-inteligencia-artificial-avanzado-4297328.jpg?tf=1200x' alt='La IA ya es capaz de desarrollar chips super eficientes, pero hay un problema: el ser humano no es capaz de enterderlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-baterias-podran-ser-reparadas-no-sustituidas-1444660'>Vuelco al coche eléctrico, las baterías podrán ser reparadas, no sustituidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-baterias-podran-ser-reparadas-no-sustituidas-1444660' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-cargando-bateria-4297358.jpg?tf=1200x' alt='Vuelco al coche eléctrico, las baterías podrán ser reparadas, no sustituidas' />
     </a>
 </div>
 
