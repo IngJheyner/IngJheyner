@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-estan-saqueando-cuentas-bancarias-todo-mundo-traves-moviles-iphone-android-1444608'>Hackers están saqueando cuentas bancarias en todo el mundo a través de móviles iPhone y Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-estan-saqueando-cuentas-bancarias-todo-mundo-traves-moviles-iphone-android-1444608' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-iphone-cuenta-bancaria-4297269.jpg?tf=1200x' alt='Hackers están saqueando cuentas bancarias en todo el mundo a través de móviles iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/laliga-sigue-bloqueando-iptv-ilegales-ver-futbol-gratis-pero-olvida-tiktok-1444584'>LaLiga sigue bloqueando IPTV ilegales para ver el fútbol gratis, pero se olvida de TikTok</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/laliga-sigue-bloqueando-iptv-ilegales-ver-futbol-gratis-pero-olvida-tiktok-1444584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-sigue-bloqueando-iptv-ilegales-ver-futbol-gratis-pero-olvida-tiktok-4297238.jpg?tf=1200x' alt='LaLiga sigue bloqueando IPTV ilegales para ver el fútbol gratis, pero se olvida de TikTok' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/confirmado-te-podras-quedar-chatgpt-durante-partidos-laliga-culpa-bloqueos-iptv-javier-tebas-1444591'>Confirmado: te podrás quedar sin ChatGPT durante los partidos de LaLiga por culpa de los bloqueos a las IPTV de Javier Tebas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/confirmado-te-podras-quedar-chatgpt-durante-partidos-laliga-culpa-bloqueos-iptv-javier-tebas-1444591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-chatgpt-4297295.jpg?tf=1200x' alt='Confirmado: te podrás quedar sin ChatGPT durante los partidos de LaLiga por culpa de los bloqueos a las IPTV de Javier Tebas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-mejora-herramienta-captura-pantalla-nueva-funcion-ahorra-tiempo-1444550'>Windows 11 mejora su herramienta de captura de pantalla con una nueva función que ahorra tiempo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-mejora-herramienta-captura-pantalla-nueva-funcion-ahorra-tiempo-1444550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4297207.jpg?tf=1200x' alt='Windows 11 mejora su herramienta de captura de pantalla con una nueva función que ahorra tiempo' />
     </a>
 </div>
 
