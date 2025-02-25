@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/laliga-sigue-bloqueando-iptv-ilegales-ver-futbol-gratis-pero-olvida-tiktok-1444584'>LaLiga sigue bloqueando IPTV ilegales para ver el fútbol gratis, pero se olvida de TikTok</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/laliga-sigue-bloqueando-iptv-ilegales-ver-futbol-gratis-pero-olvida-tiktok-1444584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-sigue-bloqueando-iptv-ilegales-ver-futbol-gratis-pero-olvida-tiktok-4297238.jpg?tf=1200x' alt='LaLiga sigue bloqueando IPTV ilegales para ver el fútbol gratis, pero se olvida de TikTok' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-delirante-razon-gente-pide-favor-cosas-ia-1444616'>ChatGPT: esta es la delirante razón por la que la gente pide "por favor" las cosas a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-delirante-razon-gente-pide-favor-cosas-ia-1444616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-delirante-razon-gente-pide-favor-cosas-ia-4297274.jpg?tf=1200x' alt='ChatGPT: esta es la delirante razón por la que la gente pide "por favor" las cosas a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-toyota-consigue-duplicar-autonomia-baterias-1444590'>Giro de 180 grados al coche eléctrico, Toyota consigue duplicar la autonomía de las baterías</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-toyota-consigue-duplicar-autonomia-baterias-1444590' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/toyota-4297266.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, Toyota consigue duplicar la autonomía de las baterías' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/confirmado-te-podras-quedar-chatgpt-durante-partidos-laliga-culpa-bloqueos-iptv-javier-tebas-1444591'>Confirmado: te podrás quedar sin ChatGPT durante los partidos de LaLiga por culpa de los bloqueos a las IPTV de Javier Tebas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/confirmado-te-podras-quedar-chatgpt-durante-partidos-laliga-culpa-bloqueos-iptv-javier-tebas-1444591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-chatgpt-4297295.jpg?tf=1200x' alt='Confirmado: te podrás quedar sin ChatGPT durante los partidos de LaLiga por culpa de los bloqueos a las IPTV de Javier Tebas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-mejora-herramienta-captura-pantalla-nueva-funcion-ahorra-tiempo-1444550'>Windows 11 mejora su herramienta de captura de pantalla con una nueva función que ahorra tiempo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-mejora-herramienta-captura-pantalla-nueva-funcion-ahorra-tiempo-1444550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4297207.jpg?tf=1200x' alt='Windows 11 mejora su herramienta de captura de pantalla con una nueva función que ahorra tiempo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/caigo-estafa-phishing-mi-banco-obligado-devolverme-dinero-1444585'>Si caigo en una estafa de 'phishing', ¿está mi banco obligado a devolverme el dinero?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/caigo-estafa-phishing-mi-banco-obligado-devolverme-dinero-1444585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/victima-phishing-4057784.jpg?tf=1200x' alt='Si caigo en una estafa de 'phishing', ¿está mi banco obligado a devolverme el dinero?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/robo-online-grande-historia-1300-millones-euros-saqueados-hackers-1444580'>El robo online más grande de la historia: 1.300 millones de euros saqueados por hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/robo-online-grande-historia-1300-millones-euros-saqueados-hackers-1444580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-robo-4297198.jpg?tf=1200x' alt='El robo online más grande de la historia: 1.300 millones de euros saqueados por hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/mi-ordenador-no-compatible-windows-11-me-acaba-tiempo-puedo-hacer-1444561'>Mi ordenador no es compatible con Windows 11 y se me acaba el tiempo: ¿qué puedo hacer?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/mi-ordenador-no-compatible-windows-11-me-acaba-tiempo-puedo-hacer-1444561' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-fallida-windows-11-4279427.jpg?tf=1200x' alt='Mi ordenador no es compatible con Windows 11 y se me acaba el tiempo: ¿qué puedo hacer?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031'>Ingeniero de Microsoft desvela 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-4296292.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
     </a>
 </div>
 
