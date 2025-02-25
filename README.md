@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/mi-ordenador-no-compatible-windows-11-me-acaba-tiempo-puedo-hacer-1444561'>Mi ordenador no es compatible con Windows 11 y se me acaba el tiempo: ¿qué puedo hacer?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/mi-ordenador-no-compatible-windows-11-me-acaba-tiempo-puedo-hacer-1444561' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/actualizacion-fallida-windows-11-4279427.jpg?tf=1200x' alt='Mi ordenador no es compatible con Windows 11 y se me acaba el tiempo: ¿qué puedo hacer?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031'>Ingeniero de Microsoft desvela 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-4296292.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-version-gratis-office-pc-pero-hay-truco-1444530'>Microsoft lanza una versión gratis de Office para PC, pero hay truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-version-gratis-office-pc-pero-hay-truco-1444530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-lanza-version-gratis-office-pc-pero-hay-truco-4297170.jpg?tf=1200x' alt='Microsoft lanza una versión gratis de Office para PC, pero hay truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-cofundador-chatgpt-hace-saltar-alarmas-ia-nos-tratara-como-nosotros-animales-1444555'>Ilya Sutskever, cofundador de ChatGPT, hace saltar las alarmas: la IA "nos tratará como nosotros a los animales"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-cofundador-chatgpt-hace-saltar-alarmas-ia-nos-tratara-como-nosotros-animales-1444555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilya-sutskever-cofundador-chatgpt-4297178.jpg?tf=1200x' alt='Ilya Sutskever, cofundador de ChatGPT, hace saltar las alarmas: la IA "nos tratará como nosotros a los animales"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-abogado-opina-spam-telefonico-hay-tener-punto-paranoia-evitar-ser-estafado-1444546'>Experto abogado opina del spam telefónico: "Hay que tener un punto de paranoia para evitar ser estafado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-abogado-opina-spam-telefonico-hay-tener-punto-paranoia-evitar-ser-estafado-1444546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4287711.jpg?tf=1200x' alt='Experto abogado opina del spam telefónico: "Hay que tener un punto de paranoia para evitar ser estafado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-crisis-deepseek-pone-cuerdas-nvidia-burbuja-podria-estallar-1444532'>La IA en crisis: DeepSeek pone contra las cuerdas a Nvidia y la burbuja podría estallar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-crisis-deepseek-pone-cuerdas-nvidia-burbuja-podria-estallar-1444532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/crisis-ia-4297154.jpg?tf=1200x' alt='La IA en crisis: DeepSeek pone contra las cuerdas a Nvidia y la burbuja podría estallar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/como-reparar-ssd-muerto-usando-metodo-ciclo-energia-1444510'>Cómo reparar un SSD muerto usando el método del ciclo de energía</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/como-reparar-ssd-muerto-usando-metodo-ciclo-energia-1444510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-reparar-ssd-muerto-metodo-ciclo-energia-4297130.jpg?tf=1200x' alt='Cómo reparar un SSD muerto usando el método del ciclo de energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/funcion-escondida-whatsapp-usar-misma-cuenta-varios-moviles-perder-mensajes-1443184'>La función escondida de WhatsApp para usar la misma cuenta en varios móviles sin perder tus mensajes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/funcion-escondida-whatsapp-usar-misma-cuenta-varios-moviles-perder-mensajes-1443184' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuenta-whatsapp-diferentes-moviles-4294918.jpg?tf=1200x' alt='La función escondida de WhatsApp para usar la misma cuenta en varios móviles sin perder tus mensajes' />
     </a>
 </div>
 
