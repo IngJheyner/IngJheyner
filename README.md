@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-1444341'>Expertos descubren el secreto para no perder tu trabajo por culpa de la IA: aprender de ella</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-1444341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-4296845.jpg?tf=1200x' alt='Expertos descubren el secreto para no perder tu trabajo por culpa de la IA: aprender de ella' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-1444253'>Satya Nadella sin piedad con la inteligencia artificial general: “Solo es una manipulación de las pruebas de rendimiento”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-1444253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-4296722.jpg?tf=1200x' alt='Satya Nadella sin piedad con la inteligencia artificial general: “Solo es una manipulación de las pruebas de rendimiento”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/torrentio-no-funciona-culpa-laliga-bloqueos-iptv-cloudflare-1444487'>Torrentio no funciona: no eres tú, es culpa de LaLiga y los bloqueos a las IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/torrentio-no-funciona-culpa-laliga-bloqueos-iptv-cloudflare-1444487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/torrentio-no-funciona-no-eres-culpa-laliga-bloqueos-iptv-4297069.jpg?tf=1200x' alt='Torrentio no funciona: no eres tú, es culpa de LaLiga y los bloqueos a las IPTV' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/bestia-disco-duro-rapido-mundo-cumple-25-anos-seagate-cheetah-x15-1444478'>La Bestia, el disco duro más rápido del mundo, cumple 25 años</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/bestia-disco-duro-rapido-mundo-cumple-25-anos-seagate-cheetah-x15-1444478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bestia-disco-duro-rapido-mundo-cumple-25-anos-4297035.jpg?tf=1200x' alt='La Bestia, el disco duro más rápido del mundo, cumple 25 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-une-google-maps-lista-plataformas-estrictas-normas-europa-1444468'>Waze se une a Google Maps en la lista de plataformas con estrictas normas en Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-une-google-maps-lista-plataformas-estrictas-normas-europa-1444468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/waze-3307246.jpg?tf=1200x' alt='Waze se une a Google Maps en la lista de plataformas con estrictas normas en Europa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-todos-soluciona-problemas-conexion-inalambrica-puedes-instalarlo-1444464'>Android Auto 13.8 ya disponible para todos: soluciona problemas con la conexión inalámbrica y así puedes instalarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-todos-soluciona-problemas-conexion-inalambrica-puedes-instalarlo-1444464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-138-4297046.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible para todos: soluciona problemas con la conexión inalámbrica y así puedes instalarlo' />
     </a>
 </div>
 
