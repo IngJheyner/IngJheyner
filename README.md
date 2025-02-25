@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721'>La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-desesperada-google-maps-waze-controlar-controlados-4297530.jpg?tf=1200x' alt='La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/madrid-ya-permite-inscribirte-como-pareja-hecho-movil-cuenta-digital-1444747'>Madrid ya permite inscribirte como pareja de hecho con el móvil, sin colas ni salir de casa</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/madrid-ya-permite-inscribirte-como-pareja-hecho-movil-cuenta-digital-1444747' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/madrid-ya-permite-inscribirte-como-pareja-hecho-movil-colas-ni-salir-casa-4297425.jpg?tf=1200x' alt='Madrid ya permite inscribirte como pareja de hecho con el móvil, sin colas ni salir de casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657'>Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/titanic-movistar-plus-4297380.jpg?tf=1200x' alt='Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/verdad-detras-modo-oscuro-no-siempre-reduce-consumo-bateria-estudio-1444731'>La verdad detrás del modo oscuro: no siempre reduce el consumo de batería, según un estudio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/verdad-detras-modo-oscuro-no-siempre-reduce-consumo-bateria-estudio-1444731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/recomendable-modo-oscuro-movil-paso-semana-usandolo-estas-son-conclusiones-3216050.jpg?tf=1200x' alt='La verdad detrás del modo oscuro: no siempre reduce el consumo de batería, según un estudio' />
     </a>
 </div>
 
