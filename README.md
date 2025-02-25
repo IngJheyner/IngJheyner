@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-mejora-herramienta-captura-pantalla-nueva-funcion-ahorra-tiempo-1444550'>Windows 11 mejora su herramienta de captura de pantalla con una nueva función que ahorra tiempo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-mejora-herramienta-captura-pantalla-nueva-funcion-ahorra-tiempo-1444550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-4297207.jpg?tf=1200x' alt='Windows 11 mejora su herramienta de captura de pantalla con una nueva función que ahorra tiempo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/caigo-estafa-phishing-mi-banco-obligado-devolverme-dinero-1444585'>Si caigo en una estafa de 'phishing', ¿está mi banco obligado a devolverme el dinero?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/caigo-estafa-phishing-mi-banco-obligado-devolverme-dinero-1444585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/victima-phishing-4057784.jpg?tf=1200x' alt='Si caigo en una estafa de 'phishing', ¿está mi banco obligado a devolverme el dinero?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/robo-online-grande-historia-1300-millones-euros-saqueados-hackers-1444580'>El robo online más grande de la historia: 1.300 millones de euros saqueados por hackers</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/robo-online-grande-historia-1300-millones-euros-saqueados-hackers-1444580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacker-robo-4297198.jpg?tf=1200x' alt='El robo online más grande de la historia: 1.300 millones de euros saqueados por hackers' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031'>Ingeniero de Microsoft desvela 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-30-anos-despues-ms-dos-podia-generar-graficos-prefirieron-interfaz-mediocre-1444031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-4296292.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-version-gratis-office-pc-pero-hay-truco-1444530'>Microsoft lanza una versión gratis de Office para PC, pero hay truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lanza-version-gratis-office-pc-pero-hay-truco-1444530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/microsoft-lanza-version-gratis-office-pc-pero-hay-truco-4297170.jpg?tf=1200x' alt='Microsoft lanza una versión gratis de Office para PC, pero hay truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-cofundador-chatgpt-hace-saltar-alarmas-ia-nos-tratara-como-nosotros-animales-1444555'>Ilya Sutskever, cofundador de ChatGPT, hace saltar las alarmas: la IA "nos tratará como nosotros a los animales"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-cofundador-chatgpt-hace-saltar-alarmas-ia-nos-tratara-como-nosotros-animales-1444555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilya-sutskever-cofundador-chatgpt-4297178.jpg?tf=1200x' alt='Ilya Sutskever, cofundador de ChatGPT, hace saltar las alarmas: la IA "nos tratará como nosotros a los animales"' />
     </a>
 </div>
 
