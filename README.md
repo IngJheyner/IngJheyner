@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/torrentio-no-funciona-culpa-laliga-bloqueos-iptv-cloudflare-1444487'>Torrentio no funciona: no eres tú, es culpa de LaLiga y los bloqueos a las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/torrentio-no-funciona-culpa-laliga-bloqueos-iptv-cloudflare-1444487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/torrentio-no-funciona-no-eres-culpa-laliga-bloqueos-iptv-4297069.jpg?tf=1200x' alt='Torrentio no funciona: no eres tú, es culpa de LaLiga y los bloqueos a las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-1444448'>Compra varios discos duros de 5 euros en un mercadillo y descubre algo realmente sorprendente</a></h4>
     <a href='https://computerhoy.20minutos.es/life/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-1444448' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-4297066.jpg?tf=1200x' alt='Compra varios discos duros de 5 euros en un mercadillo y descubre algo realmente sorprendente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-todos-soluciona-problemas-conexion-inalambrica-puedes-instalarlo-1444464'>Android Auto 13.8 ya disponible para todos: soluciona problemas con la conexión inalámbrica y así puedes instalarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-138-ya-disponible-todos-soluciona-problemas-conexion-inalambrica-puedes-instalarlo-1444464' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-auto-138-4297046.jpg?tf=1200x' alt='Android Auto 13.8 ya disponible para todos: soluciona problemas con la conexión inalámbrica y así puedes instalarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ha-llegado-momento-dejar-buscar-google-sustituirlo-chatgpt-1444433'>¿Ha llegado el momento dejar de buscar en Google y sustituirlo por ChatGPT?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ha-llegado-momento-dejar-buscar-google-sustituirlo-chatgpt-1444433' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-chatgpt-4297011.jpg?tf=1200x' alt='¿Ha llegado el momento dejar de buscar en Google y sustituirlo por ChatGPT?' />
     </a>
 </div>
 
