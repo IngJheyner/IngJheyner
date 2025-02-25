@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-crisis-deepseek-pone-cuerdas-nvidia-burbuja-podria-estallar-1444532'>La IA en crisis: DeepSeek pone contra las cuerdas a Nvidia y la burbuja podría estallar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-crisis-deepseek-pone-cuerdas-nvidia-burbuja-podria-estallar-1444532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/crisis-ia-4297154.jpg?tf=1200x' alt='La IA en crisis: DeepSeek pone contra las cuerdas a Nvidia y la burbuja podría estallar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/como-reparar-ssd-muerto-usando-metodo-ciclo-energia-1444510'>Cómo reparar un SSD muerto usando el método del ciclo de energía</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/como-reparar-ssd-muerto-usando-metodo-ciclo-energia-1444510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-reparar-ssd-muerto-metodo-ciclo-energia-4297130.jpg?tf=1200x' alt='Cómo reparar un SSD muerto usando el método del ciclo de energía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oppo-reno-13-pro-me-ha-conquistado-base-diseno-fino-camara-1444422'>He probado el Oppo Reno 13 Pro y me ha conquistado a base de diseño fino y cámara</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-oppo-reno-13-pro-me-ha-conquistado-base-diseno-fino-camara-1444422' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297091.jpg?tf=1200x' alt='He probado el Oppo Reno 13 Pro y me ha conquistado a base de diseño fino y cámara' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/expertos-desvelan-trucos-numero-resulte-poco-atractivo-dejes-recibir-llamadas-comerciales-1444318'>Expertos desvelan los trucos para que tu número resulte poco atractivo y dejes de recibir llamadas comerciales</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/expertos-desvelan-trucos-numero-resulte-poco-atractivo-dejes-recibir-llamadas-comerciales-1444318' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llamada-spam-4296832.jpg?tf=1200x' alt='Expertos desvelan los trucos para que tu número resulte poco atractivo y dejes de recibir llamadas comerciales' />
     </a>
 </div>
 
