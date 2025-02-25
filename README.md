@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/funcion-escondida-whatsapp-usar-misma-cuenta-varios-moviles-perder-mensajes-1443184'>La función escondida de WhatsApp para usar la misma cuenta en varios móviles sin perder tus mensajes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/funcion-escondida-whatsapp-usar-misma-cuenta-varios-moviles-perder-mensajes-1443184' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuenta-whatsapp-diferentes-moviles-4294918.jpg?tf=1200x' alt='La función escondida de WhatsApp para usar la misma cuenta en varios móviles sin perder tus mensajes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coches-ladrones-perdida-tiempo-tecnologia-hace-invulnerables-1444499'>Los coches a los que ladrones ni se acercan: "Es una pérdida de tiempo, la tecnología los hace invulnerables"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coches-ladrones-perdida-tiempo-tecnologia-hace-invulnerables-1444499' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coches-ladrones-ni-acercan-perdida-tiempo-tecnologia-hace-invulnerables-4297126.jpg?tf=1200x' alt='Los coches a los que ladrones ni se acercan: "Es una pérdida de tiempo, la tecnología los hace invulnerables"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oppo-reno-13-pro-me-ha-conquistado-base-diseno-fino-camara-1444422'>He probado el Oppo Reno 13 Pro y me ha conquistado a base de diseño fino y cámara</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-oppo-reno-13-pro-me-ha-conquistado-base-diseno-fino-camara-1444422' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297091.jpg?tf=1200x' alt='He probado el Oppo Reno 13 Pro y me ha conquistado a base de diseño fino y cámara' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/expertos-desvelan-trucos-numero-resulte-poco-atractivo-dejes-recibir-llamadas-comerciales-1444318'>Expertos desvelan los trucos para que tu número resulte poco atractivo y dejes de recibir llamadas comerciales</a></h4>
     <a href='https://computerhoy.20minutos.es/life/expertos-desvelan-trucos-numero-resulte-poco-atractivo-dejes-recibir-llamadas-comerciales-1444318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llamada-spam-4296832.jpg?tf=1200x' alt='Expertos desvelan los trucos para que tu número resulte poco atractivo y dejes de recibir llamadas comerciales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-apple-xiaomi-suma-nueva-tendencia-moviles-android-inmortales-1444330'>Tiembla Apple, Xiaomi se suma a la nueva tendencia de móviles Android "inmortales"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-apple-xiaomi-suma-nueva-tendencia-moviles-android-inmortales-1444330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/moviles-android-4296843.jpg?tf=1200x' alt='Tiembla Apple, Xiaomi se suma a la nueva tendencia de móviles Android "inmortales"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-portatiles-baratos-comprar-2025-rinden-bien-tienen-windows-11-1444243'>5 portátiles baratos para comprar en 2025 que rinden bien y tienen Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/5-portatiles-baratos-comprar-2025-rinden-bien-tienen-windows-11-1444243' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-3294760.jpg?tf=1200x' alt='5 portátiles baratos para comprar en 2025 que rinden bien y tienen Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-1444341'>Expertos descubren el secreto para no perder tu trabajo por culpa de la IA: aprender de ella</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-1444341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-4296845.jpg?tf=1200x' alt='Expertos descubren el secreto para no perder tu trabajo por culpa de la IA: aprender de ella' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-1444253'>Satya Nadella sin piedad con la inteligencia artificial general: “Solo es una manipulación de las pruebas de rendimiento”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-1444253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-4296722.jpg?tf=1200x' alt='Satya Nadella sin piedad con la inteligencia artificial general: “Solo es una manipulación de las pruebas de rendimiento”' />
     </a>
 </div>
 
