@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657'>Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/titanic-movistar-plus-4297380.jpg?tf=1200x' alt='Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/verdad-detras-modo-oscuro-no-siempre-reduce-consumo-bateria-estudio-1444731'>La verdad detrás del modo oscuro: no siempre reduce el consumo de batería, según un estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/verdad-detras-modo-oscuro-no-siempre-reduce-consumo-bateria-estudio-1444731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/recomendable-modo-oscuro-movil-paso-semana-usandolo-estas-son-conclusiones-3216050.jpg?tf=1200x' alt='La verdad detrás del modo oscuro: no siempre reduce el consumo de batería, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-dos-unicas-opciones-whatsapp-no-debes-desactivar-nunca-digo-nunca-1444675'>Experta en ciberseguridad desvela las dos únicas opciones de WhatsApp que no debes desactivar: "Nunca, y digo nunca"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-dos-unicas-opciones-whatsapp-no-debes-desactivar-nunca-digo-nunca-1444675' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-ciberseguridad-desvela-dos-unicas-opciones-whatsapp-no-debes-desactivar-nunca-digo-nunca-4297459.jpg?tf=1200x' alt='Experta en ciberseguridad desvela las dos únicas opciones de WhatsApp que no debes desactivar: "Nunca, y digo nunca"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-capaz-desarrollar-chips-super-eficientes-pero-hay-problema-ser-humano-no-capaz-enterderlos-1444637'>La IA ya es capaz de desarrollar chips super eficientes, pero hay un problema: el ser humano no es capaz de enterderlos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-ya-capaz-desarrollar-chips-super-eficientes-pero-hay-problema-ser-humano-no-capaz-enterderlos-1444637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chip-inteligencia-artificial-avanzado-4297328.jpg?tf=1200x' alt='La IA ya es capaz de desarrollar chips super eficientes, pero hay un problema: el ser humano no es capaz de enterderlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-baterias-podran-ser-reparadas-no-sustituidas-1444660'>Vuelco al coche eléctrico, las baterías podrán ser reparadas, no sustituidas</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/vuelco-coche-electrico-baterias-podran-ser-reparadas-no-sustituidas-1444660' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-cargando-bateria-4297358.jpg?tf=1200x' alt='Vuelco al coche eléctrico, las baterías podrán ser reparadas, no sustituidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vpn-platean-salir-francia-culpa-bloqueos-podria-suceder-mismo-espana-1444638'>Las VPN se platean salir de Francia por culpa de los bloqueos: ¿podría suceder lo mismo en España?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vpn-platean-salir-francia-culpa-bloqueos-podria-suceder-mismo-espana-1444638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/usar-vpn-laptop-3757429.jpg?tf=1200x' alt='Las VPN se platean salir de Francia por culpa de los bloqueos: ¿podría suceder lo mismo en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-monkey-pero-prime-video-tiene-otra-pelicula-basada-relato-stephen-king-pocos-conocen-1443839'>No es The Monkey, pero Prime Video tiene otra película basada en un relato de Stephen King que pocos conocen</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-monkey-pero-prime-video-tiene-otra-pelicula-basada-relato-stephen-king-pocos-conocen-1443839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boogeyman-4295982.jpg?tf=1200x' alt='No es The Monkey, pero Prime Video tiene otra película basada en un relato de Stephen King que pocos conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/nuevo-operador-suma-movistar-digi-o2-bloqueos-iptv-paginas-pirata-laliga-1444612'>Un nuevo operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV y páginas pirata de LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/nuevo-operador-suma-movistar-digi-o2-bloqueos-iptv-paginas-pirata-laliga-1444612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/operadores-bloqueos-iptv-laliga-4297413.jpg?tf=1200x' alt='Un nuevo operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV y páginas pirata de LaLiga' />
     </a>
 </div>
 
