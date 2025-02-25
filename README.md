@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-cofundador-chatgpt-hace-saltar-alarmas-ia-nos-tratara-como-nosotros-animales-1444555'>Ilya Sutskever, cofundador de ChatGPT, hace saltar las alarmas: la IA "nos tratará como nosotros a los animales"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-cofundador-chatgpt-hace-saltar-alarmas-ia-nos-tratara-como-nosotros-animales-1444555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ilya-sutskever-cofundador-chatgpt-4297178.jpg?tf=1200x' alt='Ilya Sutskever, cofundador de ChatGPT, hace saltar las alarmas: la IA "nos tratará como nosotros a los animales"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-abogado-opina-spam-telefonico-hay-tener-punto-paranoia-evitar-ser-estafado-1444546'>Experto abogado opina del spam telefónico: "Hay que tener un punto de paranoia para evitar ser estafado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-abogado-opina-spam-telefonico-hay-tener-punto-paranoia-evitar-ser-estafado-1444546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/llamadas-spam-4287711.jpg?tf=1200x' alt='Experto abogado opina del spam telefónico: "Hay que tener un punto de paranoia para evitar ser estafado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-crisis-deepseek-pone-cuerdas-nvidia-burbuja-podria-estallar-1444532'>La IA en crisis: DeepSeek pone contra las cuerdas a Nvidia y la burbuja podría estallar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-crisis-deepseek-pone-cuerdas-nvidia-burbuja-podria-estallar-1444532' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/crisis-ia-4297154.jpg?tf=1200x' alt='La IA en crisis: DeepSeek pone contra las cuerdas a Nvidia y la burbuja podría estallar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/funcion-escondida-whatsapp-usar-misma-cuenta-varios-moviles-perder-mensajes-1443184'>La función escondida de WhatsApp para usar la misma cuenta en varios móviles sin perder tus mensajes</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/funcion-escondida-whatsapp-usar-misma-cuenta-varios-moviles-perder-mensajes-1443184' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cuenta-whatsapp-diferentes-moviles-4294918.jpg?tf=1200x' alt='La función escondida de WhatsApp para usar la misma cuenta en varios móviles sin perder tus mensajes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coches-ladrones-perdida-tiempo-tecnologia-hace-invulnerables-1444499'>Los coches a los que ladrones ni se acercan: "Es una pérdida de tiempo, la tecnología los hace invulnerables"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coches-ladrones-perdida-tiempo-tecnologia-hace-invulnerables-1444499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coches-ladrones-ni-acercan-perdida-tiempo-tecnologia-hace-invulnerables-4297126.jpg?tf=1200x' alt='Los coches a los que ladrones ni se acercan: "Es una pérdida de tiempo, la tecnología los hace invulnerables"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-oppo-reno-13-pro-me-ha-conquistado-base-diseno-fino-camara-1444422'>He probado el Oppo Reno 13 Pro y me ha conquistado a base de diseño fino y cámara</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-oppo-reno-13-pro-me-ha-conquistado-base-diseno-fino-camara-1444422' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297091.jpg?tf=1200x' alt='He probado el Oppo Reno 13 Pro y me ha conquistado a base de diseño fino y cámara' />
     </a>
 </div>
 
