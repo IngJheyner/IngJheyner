@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/expertos-desvelan-trucos-numero-resulte-poco-atractivo-dejes-recibir-llamadas-comerciales-1444318'>Expertos desvelan los trucos para que tu número resulte poco atractivo y dejes de recibir llamadas comerciales</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/expertos-desvelan-trucos-numero-resulte-poco-atractivo-dejes-recibir-llamadas-comerciales-1444318' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llamada-spam-4296832.jpg?tf=1200x' alt='Expertos desvelan los trucos para que tu número resulte poco atractivo y dejes de recibir llamadas comerciales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tiembla-apple-xiaomi-suma-nueva-tendencia-moviles-android-inmortales-1444330'>Tiembla Apple, Xiaomi se suma a la nueva tendencia de móviles Android "inmortales"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tiembla-apple-xiaomi-suma-nueva-tendencia-moviles-android-inmortales-1444330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/moviles-android-4296843.jpg?tf=1200x' alt='Tiembla Apple, Xiaomi se suma a la nueva tendencia de móviles Android "inmortales"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/5-portatiles-baratos-comprar-2025-rinden-bien-tienen-windows-11-1444243'>5 portátiles baratos para comprar en 2025 que rinden bien y tienen Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/5-portatiles-baratos-comprar-2025-rinden-bien-tienen-windows-11-1444243' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/hp-15-3294760.jpg?tf=1200x' alt='5 portátiles baratos para comprar en 2025 que rinden bien y tienen Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-1444341'>Expertos descubren el secreto para no perder tu trabajo por culpa de la IA: aprender de ella</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-1444341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/expertos-descubren-secreto-no-perder-trabajo-culpa-ia-aprender-ella-4296845.jpg?tf=1200x' alt='Expertos descubren el secreto para no perder tu trabajo por culpa de la IA: aprender de ella' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-1444253'>Satya Nadella sin piedad con la inteligencia artificial general: “Solo es una manipulación de las pruebas de rendimiento”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-1444253' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/satya-nadella-piedad-inteligencia-artificial-general-solo-manipulacion-pruebas-rendimiento-4296722.jpg?tf=1200x' alt='Satya Nadella sin piedad con la inteligencia artificial general: “Solo es una manipulación de las pruebas de rendimiento”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/torrentio-no-funciona-culpa-laliga-bloqueos-iptv-cloudflare-1444487'>Torrentio no funciona: no eres tú, es culpa de LaLiga y los bloqueos a las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/torrentio-no-funciona-culpa-laliga-bloqueos-iptv-cloudflare-1444487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/torrentio-no-funciona-no-eres-culpa-laliga-bloqueos-iptv-4297069.jpg?tf=1200x' alt='Torrentio no funciona: no eres tú, es culpa de LaLiga y los bloqueos a las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-1444448'>Compra varios discos duros de 5 euros en un mercadillo y descubre algo realmente sorprendente</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-1444448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/compra-varios-discos-duros-5-euros-mercadillo-descubre-algo-realmente-sorprendente-4297066.jpg?tf=1200x' alt='Compra varios discos duros de 5 euros en un mercadillo y descubre algo realmente sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/bestia-disco-duro-rapido-mundo-cumple-25-anos-seagate-cheetah-x15-1444478'>La Bestia, el disco duro más rápido del mundo, cumple 25 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/bestia-disco-duro-rapido-mundo-cumple-25-anos-seagate-cheetah-x15-1444478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bestia-disco-duro-rapido-mundo-cumple-25-anos-4297035.jpg?tf=1200x' alt='La Bestia, el disco duro más rápido del mundo, cumple 25 años' />
     </a>
 </div>
 
