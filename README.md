@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-mwc-2025-podria-presentar-galaxy-ring-2-s25-edge-galaxy-a56-1444604'>Samsung en MWC 2025, esto es lo que podría presentar: ¿Galaxy Ring 2, S25 Edge y Galaxy A56?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-mwc-2025-podria-presentar-galaxy-ring-2-s25-edge-galaxy-a56-1444604' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-mwc-2025-4297263.jpg?tf=1200x' alt='Samsung en MWC 2025, esto es lo que podría presentar: ¿Galaxy Ring 2, S25 Edge y Galaxy A56?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/puedes-hacer-pc-va-lento-queda-congelado-1435980'>Qué puedes hacer si el PC va lento o se queda congelado</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/puedes-hacer-pc-va-lento-queda-congelado-1435980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-pc-lento-4283110.jpg?tf=1200x' alt='Qué puedes hacer si el PC va lento o se queda congelado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-todos-productos-presentaran-mwc-2025-1443961'>Estos son todos los productos que se presentarán en el MWC 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-todos-productos-presentaran-mwc-2025-1443961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/productos-presentados-mwc-2025-4296270.jpg?tf=1200x' alt='Estos son todos los productos que se presentarán en el MWC 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615'>Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meteorito-4297326.jpg?tf=1200x' alt='Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-experto-ia-desvela-truco-conseguir-cientos-entrevistas-me-llaman-trabajos-pensaba-no-daba-nivel-1444640'>ChatGPT: experto en IA desvela su truco para conseguir cientos de entrevistas: "Me llaman de trabajos para los que pensaba que no daba el nivel"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-experto-ia-desvela-truco-conseguir-cientos-entrevistas-me-llaman-trabajos-pensaba-no-daba-nivel-1444640' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cv-ia-4297342.jpg?tf=1200x' alt='ChatGPT: experto en IA desvela su truco para conseguir cientos de entrevistas: "Me llaman de trabajos para los que pensaba que no daba el nivel"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-pelos-lengua-ia-simplemente-aburrida-1444577'>Steve Wozniak, cofundador de Apple sin pelos en la lengua sobre la IA: "Es simplemente aburrida"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-pelos-lengua-ia-simplemente-aburrida-1444577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wozniak-4297243.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple sin pelos en la lengua sobre la IA: "Es simplemente aburrida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-elon-musk-estos-son-dos-empresarios-han-influido-sam-altman-1444600'>Ni Bill Gates ni Elon Musk: estos son los dos empresarios que más han influido en Sam Altman</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-elon-musk-estos-son-dos-empresarios-han-influido-sam-altman-1444600' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sam-altman-2509213.jpg?tf=1200x' alt='Ni Bill Gates ni Elon Musk: estos son los dos empresarios que más han influido en Sam Altman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/adios-autoescuelas-dgt-familiar-amigo-ensene-conducir-1444767'>Adiós a las autoescuelas: la DGT se está pensado que un familiar o amigo enseñe a conducir</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/adios-autoescuelas-dgt-familiar-amigo-ensene-conducir-1444767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-autoescuelas-dgt-pensado-familiar-amigo-ensene-conducir-4297547.jpg?tf=1200x' alt='Adiós a las autoescuelas: la DGT se está pensado que un familiar o amigo enseñe a conducir' />
     </a>
 </div>
 
