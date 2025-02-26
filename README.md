@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830'>LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-javier-tebas-iptv-4297668.jpg?tf=1200x' alt='LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-claude-37-sonnet-chatbot-potente-piensa-como-humano-1444820'>Ni ChatGPT ni DeepSeek, así es Claude 3.7 Sonnet el chatbot más potente que piensa como un humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-claude-37-sonnet-chatbot-potente-piensa-como-humano-1444820' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claude-37-sonnet-4297622.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek, así es Claude 3.7 Sonnet el chatbot más potente que piensa como un humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807'>Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-trump-4297607.jpg?tf=1200x' alt='Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/puedes-hacer-pc-va-lento-queda-congelado-1435980'>Qué puedes hacer si el PC va lento o se queda congelado</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/puedes-hacer-pc-va-lento-queda-congelado-1435980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-pc-lento-4283110.jpg?tf=1200x' alt='Qué puedes hacer si el PC va lento o se queda congelado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-todos-productos-presentaran-mwc-2025-1443961'>Estos son todos los productos que se presentarán en el MWC 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-todos-productos-presentaran-mwc-2025-1443961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/productos-presentados-mwc-2025-4296270.jpg?tf=1200x' alt='Estos son todos los productos que se presentarán en el MWC 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615'>Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meteorito-4297326.jpg?tf=1200x' alt='Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español' />
     </a>
 </div>
 
