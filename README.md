@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/desarrollan-revolucionaria-bateria-funciona-residuos-atomicos-1444852'>Desarrollan una revolucionaria batería que funciona con residuos atómicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/desarrollan-revolucionaria-bateria-funciona-residuos-atomicos-1444852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-nuclear-4297718.jpg?tf=1200x' alt='Desarrollan una revolucionaria batería que funciona con residuos atómicos' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-sms-estafa-hace-pasar-centro-salud-1444839'>Cuidado si recibes este SMS: la estafa que se hace pasar por tu centro de salud</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-sms-estafa-hace-pasar-centro-salud-1444839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-sms-4297829.jpg?tf=1200x' alt='Cuidado si recibes este SMS: la estafa que se hace pasar por tu centro de salud' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/transforma-tesla-coche-solar-permite-viajar-gratis-dia-dia-pasar-cargador-1444841'>Transforma un Tesla en un coche solar que permite viajar gratis en el día a día sin pasar por el cargador</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/transforma-tesla-coche-solar-permite-viajar-gratis-dia-dia-pasar-cargador-1444841' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-solar-4297682.jpg?tf=1200x' alt='Transforma un Tesla en un coche solar que permite viajar gratis en el día a día sin pasar por el cargador' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/freexp-version-moderna-windows-xp-basada-linux-puede-salvar-vida-pc-windows-10-1444959'>FreeXP, la versión moderna de Windows XP basada en Linux que puede salvar la vida a tu PC con Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/freexp-version-moderna-windows-xp-basada-linux-puede-salvar-vida-pc-windows-10-1444959' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-xp-freexp-linux-4297822.jpg?tf=1200x' alt='FreeXP, la versión moderna de Windows XP basada en Linux que puede salvar la vida a tu PC con Windows 10' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-aviso-waze-podria-salvar-vidas-funcion-supera-google-maps-seguridad-1444819'>Este nuevo aviso en Waze podría salvar vidas: la función que supera a Google Maps en seguridad</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevo-aviso-waze-podria-salvar-vidas-funcion-supera-google-maps-seguridad-1444819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcion-waze-4297667.jpg?tf=1200x' alt='Este nuevo aviso en Waze podría salvar vidas: la función que supera a Google Maps en seguridad' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-ciencia-ficcion-asteroides-aterrorizarian-propia-nasa-1443842'>5 películas de ciencia ficción sobre asteroides que aterrorizarían a la propia NASA</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-ciencia-ficcion-asteroides-aterrorizarian-propia-nasa-1443842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-ciencia-ficcion-asteroides-aterrorizaran-propia-nasa-4295993.jpg?tf=1200x' alt='5 películas de ciencia ficción sobre asteroides que aterrorizarían a la propia NASA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/indemnizacion-millonaria-dineral-llevo-mujer-ser-adicta-candy-crush-1444884'>Indemnización millonaria: el dineral que se llevó una mujer por ser adicta a Candy Crush</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/indemnizacion-millonaria-dineral-llevo-mujer-ser-adicta-candy-crush-1444884' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-2874115.jpg?tf=1200x' alt='Indemnización millonaria: el dineral que se llevó una mujer por ser adicta a Candy Crush' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-bloqueos-ip-vpn-evita-muy-rapida-tiene-30-dias-prueba-1444165'>Adiós a los bloqueos de IP: esta VPN los evita, es muy rápida y tiene 30 días de prueba</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/adios-bloqueos-ip-vpn-evita-muy-rapida-tiene-30-dias-prueba-1444165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Adiós a los bloqueos de IP: esta VPN los evita, es muy rápida y tiene 30 días de prueba' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-viral-advierte-policia-nacional-has-recibido-mensaje-eliminalo-directamente-1444823'>La estafa viral de la que advierte la Policía Nacional: "Si has recibido este mensaje, elimínalo directamente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-viral-advierte-policia-nacional-has-recibido-mensaje-eliminalo-directamente-1444823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/has-recibido-mensaje-eliminalo-directamente-estafa-viral-advierte-policia-nacional-4297608.jpg?tf=1200x' alt='La estafa viral de la que advierte la Policía Nacional: "Si has recibido este mensaje, elimínalo directamente"' />
+    <h4><a href='https://computerhoy.20minutos.es/amazon/alexa-plus-nueva-ia-generativa-amazon-hogar-1444970'>A un lado, ChatGPT: llega Alexa+, la nueva IA generativa de Amazon para el hogar</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/alexa-plus-nueva-ia-generativa-amazon-hogar-1444970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/lado-chatgpt-llega-alexa-nueva-ia-generativa-amazon-hogar-4297857.jpg?tf=1200x' alt='A un lado, ChatGPT: llega Alexa+, la nueva IA generativa de Amazon para el hogar' />
     </a>
 </div>
 
