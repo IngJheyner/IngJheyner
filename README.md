@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000'>Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/photoshop-iphone-4297939.jpg?tf=1200x' alt='Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-sube-nivel-microsoft-desbloquea-voice-think-deeper-limites-gratis-1444996'>Copilot sube de nivel: Microsoft desbloquea Voice y Think Deeper sin límites y gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-sube-nivel-microsoft-desbloquea-voice-think-deeper-limites-gratis-1444996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/think-deeper-copilot-4297932.jpg?tf=1200x' alt='Copilot sube de nivel: Microsoft desbloquea Voice y Think Deeper sin límites y gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-1444774'>Keanu Reeves lo confirma: los dos míticos animes ciberpunk que inspiraron The Matrix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-1444774' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-4297555.jpg?tf=1200x' alt='Keanu Reeves lo confirma: los dos míticos animes ciberpunk que inspiraron The Matrix' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-1444966'>Programadores veteranos lo tienen claro: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-1444966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-4297928.jpg?tf=1200x' alt='Programadores veteranos lo tienen claro: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-sms-estafa-hace-pasar-centro-salud-1444839'>Cuidado si recibes este SMS: la estafa que se hace pasar por tu centro de salud</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-sms-estafa-hace-pasar-centro-salud-1444839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-sms-4297829.jpg?tf=1200x' alt='Cuidado si recibes este SMS: la estafa que se hace pasar por tu centro de salud' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/freexp-version-moderna-windows-xp-basada-linux-puede-salvar-vida-pc-windows-10-1444959'>FreeXP, la versión moderna de Windows XP basada en Linux que puede salvar la vida a tu PC con Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/freexp-version-moderna-windows-xp-basada-linux-puede-salvar-vida-pc-windows-10-1444959' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-xp-freexp-linux-4297822.jpg?tf=1200x' alt='FreeXP, la versión moderna de Windows XP basada en Linux que puede salvar la vida a tu PC con Windows 10' />
     </a>
 </div>
 
