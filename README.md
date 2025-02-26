@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-1444774'>Keanu Reeves lo confirma: los dos míticos animes ciberpunk que inspiraron The Matrix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-1444774' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-4297555.jpg?tf=1200x' alt='Keanu Reeves lo confirma: los dos míticos animes ciberpunk que inspiraron The Matrix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/actualizacion-waze-iphone-nadie-necesitaba-pero-todos-querian-1444995'>La actualización de Waze en iPhone que nadie necesitaba, pero todos querían</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/actualizacion-waze-iphone-nadie-necesitaba-pero-todos-querian-1444995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/waze-4296334.jpg?tf=1200x' alt='La actualización de Waze en iPhone que nadie necesitaba, pero todos querían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-1444966'>Programadores veteranos lo tienen claro: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-1444966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-4297928.jpg?tf=1200x' alt='Programadores veteranos lo tienen claro: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-sms-estafa-hace-pasar-centro-salud-1444839'>Cuidado si recibes este SMS: la estafa que se hace pasar por tu centro de salud</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cuidado-recibes-sms-estafa-hace-pasar-centro-salud-1444839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-sms-4297829.jpg?tf=1200x' alt='Cuidado si recibes este SMS: la estafa que se hace pasar por tu centro de salud' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/freexp-version-moderna-windows-xp-basada-linux-puede-salvar-vida-pc-windows-10-1444959'>FreeXP, la versión moderna de Windows XP basada en Linux que puede salvar la vida a tu PC con Windows 10</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/freexp-version-moderna-windows-xp-basada-linux-puede-salvar-vida-pc-windows-10-1444959' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-xp-freexp-linux-4297822.jpg?tf=1200x' alt='FreeXP, la versión moderna de Windows XP basada en Linux que puede salvar la vida a tu PC con Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-ciencia-ficcion-asteroides-aterrorizarian-propia-nasa-1443842'>5 películas de ciencia ficción sobre asteroides que aterrorizarían a la propia NASA</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-peliculas-ciencia-ficcion-asteroides-aterrorizarian-propia-nasa-1443842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-ciencia-ficcion-asteroides-aterrorizaran-propia-nasa-4295993.jpg?tf=1200x' alt='5 películas de ciencia ficción sobre asteroides que aterrorizarían a la propia NASA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-bloqueos-ip-vpn-evita-muy-rapida-tiene-30-dias-prueba-1444165'>Adiós a los bloqueos de IP: esta VPN los evita, es muy rápida y tiene 30 días de prueba</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/adios-bloqueos-ip-vpn-evita-muy-rapida-tiene-30-dias-prueba-1444165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/nordvpn-3408136.jpg?tf=1200x' alt='Adiós a los bloqueos de IP: esta VPN los evita, es muy rápida y tiene 30 días de prueba' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/alexa-plus-nueva-ia-generativa-amazon-hogar-1444970'>A un lado, ChatGPT: llega Alexa+, la nueva IA generativa de Amazon para el hogar</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/alexa-plus-nueva-ia-generativa-amazon-hogar-1444970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/lado-chatgpt-llega-alexa-nueva-ia-generativa-amazon-hogar-4297857.jpg?tf=1200x' alt='A un lado, ChatGPT: llega Alexa+, la nueva IA generativa de Amazon para el hogar' />
     </a>
 </div>
 
