@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/kathleen-kennedy-ceo-lucasfilm-productora-exitosa-historia-dimite-fracasos-star-wars-1445013'>Kathleen Kennedy, CEO de Lucasfilm y productora más exitosa de la historia, dimite por los fracasos de Star Wars</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/kathleen-kennedy-ceo-lucasfilm-productora-exitosa-historia-dimite-fracasos-star-wars-1445013' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/kathleen-kennedy-ceo-lucasfilm-productora-exitosa-historia-dimite-fracasos-star-wars-4297941.jpg?tf=1200x' alt='Kathleen Kennedy, CEO de Lucasfilm y productora más exitosa de la historia, dimite por los fracasos de Star Wars' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000'>Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/photoshop-iphone-4297939.jpg?tf=1200x' alt='Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/actualizacion-waze-iphone-nadie-necesitaba-pero-todos-querian-1444995'>La actualización de Waze en iPhone que nadie necesitaba, pero todos querían</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/actualizacion-waze-iphone-nadie-necesitaba-pero-todos-querian-1444995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/waze-4296334.jpg?tf=1200x' alt='La actualización de Waze en iPhone que nadie necesitaba, pero todos querían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-1444966'>Programadores veteranos lo tienen claro: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-1444966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/programadores-veteranos-tienen-claro-comenzara-programar-estos-son-tres-lenguajes-aprenderia-4297928.jpg?tf=1200x' alt='Programadores veteranos lo tienen claro: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
     </a>
 </div>
 
