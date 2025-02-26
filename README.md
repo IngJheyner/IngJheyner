@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-acelera-lanzamiento-nuevo-modelo-ia-preparate-avecina-1444851'>DeepSeek acelera el lanzamiento de su nuevo modelo de IA: ¿vencerá al GPT-5 de OpenAI?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-acelera-lanzamiento-nuevo-modelo-ia-preparate-avecina-1444851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-4288049.jpg?tf=1200x' alt='DeepSeek acelera el lanzamiento de su nuevo modelo de IA: ¿vencerá al GPT-5 de OpenAI?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/bloqueos-iptv-perdida-canales-quiere-movistar-plus-recuperar-confianza-clientes-1444834'>Bloqueos IPTV, pérdida de canales y más: así quiere Movistar Plus+ recuperar la confianza de sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/bloqueos-iptv-perdida-canales-quiere-movistar-plus-recuperar-confianza-clientes-1444834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueos-iptv-perdida-canales-quiere-movistar-plus-recuperar-confianza-clientes-4297693.jpg?tf=1200x' alt='Bloqueos IPTV, pérdida de canales y más: así quiere Movistar Plus+ recuperar la confianza de sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expulsado-usar-ia-redacta-demanda-chatgpt-exige-millon-euros-conspiracion-1444843'>Expulsado por usar IA, redacta una demanda con ChatGPT y exige más de un millón de euros: "Es una conspiración"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expulsado-usar-ia-redacta-demanda-chatgpt-exige-millon-euros-conspiracion-1444843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-universidades-4297678.jpg?tf=1200x' alt='Expulsado por usar IA, redacta una demanda con ChatGPT y exige más de un millón de euros: "Es una conspiración"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830'>LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-javier-tebas-iptv-4297668.jpg?tf=1200x' alt='LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-claude-37-sonnet-chatbot-potente-piensa-como-humano-1444820'>Ni ChatGPT ni DeepSeek, así es Claude 3.7 Sonnet el chatbot más potente que piensa como un humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-claude-37-sonnet-chatbot-potente-piensa-como-humano-1444820' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claude-37-sonnet-4297622.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek, así es Claude 3.7 Sonnet el chatbot más potente que piensa como un humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807'>Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-trump-4297607.jpg?tf=1200x' alt='Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump' />
     </a>
 </div>
 
