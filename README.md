@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615'>Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meteorito-4297326.jpg?tf=1200x' alt='Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-experto-ia-desvela-truco-conseguir-cientos-entrevistas-me-llaman-trabajos-pensaba-no-daba-nivel-1444640'>ChatGPT: experto en IA desvela su truco para conseguir cientos de entrevistas: "Me llaman de trabajos para los que pensaba que no daba el nivel"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-experto-ia-desvela-truco-conseguir-cientos-entrevistas-me-llaman-trabajos-pensaba-no-daba-nivel-1444640' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cv-ia-4297342.jpg?tf=1200x' alt='ChatGPT: experto en IA desvela su truco para conseguir cientos de entrevistas: "Me llaman de trabajos para los que pensaba que no daba el nivel"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-pelos-lengua-ia-simplemente-aburrida-1444577'>Steve Wozniak, cofundador de Apple sin pelos en la lengua sobre la IA: "Es simplemente aburrida"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-pelos-lengua-ia-simplemente-aburrida-1444577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/wozniak-4297243.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple sin pelos en la lengua sobre la IA: "Es simplemente aburrida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-elon-musk-estos-son-dos-empresarios-han-influido-sam-altman-1444600'>Ni Bill Gates ni Elon Musk: estos son los dos empresarios que más han influido en Sam Altman</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-elon-musk-estos-son-dos-empresarios-han-influido-sam-altman-1444600' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sam-altman-2509213.jpg?tf=1200x' alt='Ni Bill Gates ni Elon Musk: estos son los dos empresarios que más han influido en Sam Altman' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/adios-autoescuelas-dgt-familiar-amigo-ensene-conducir-1444767'>Adiós a las autoescuelas: la DGT se está pensado que un familiar o amigo enseñe a conducir</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/adios-autoescuelas-dgt-familiar-amigo-ensene-conducir-1444767' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-autoescuelas-dgt-pensado-familiar-amigo-ensene-conducir-4297547.jpg?tf=1200x' alt='Adiós a las autoescuelas: la DGT se está pensado que un familiar o amigo enseñe a conducir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-mundial-ia-pide-calma-inteligencia-artificial-no-va-sustituir-inteligencia-humana-1444528'>Una experta mundial en IA pide calma: "La inteligencia artificial no va a sustituir a la inteligencia humana"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-mundial-ia-pide-calma-inteligencia-artificial-no-va-sustituir-inteligencia-humana-1444528' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-mundial-ia-pide-calma-inteligencia-artificial-no-va-sustituir-inteligencia-humana-4297142.jpg?tf=1200x' alt='Una experta mundial en IA pide calma: "La inteligencia artificial no va a sustituir a la inteligencia humana"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-1444755'>Gemini Code Assist, la IA de Google que escribe código, gratis para usuarios individuales</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-1444755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-4297529.jpg?tf=1200x' alt='Gemini Code Assist, la IA de Google que escribe código, gratis para usuarios individuales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721'>La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-desesperada-google-maps-waze-controlar-controlados-4297530.jpg?tf=1200x' alt='La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"' />
     </a>
 </div>
 
