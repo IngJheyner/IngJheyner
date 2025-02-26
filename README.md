@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/transforma-tesla-coche-solar-permite-viajar-gratis-dia-dia-pasar-cargador-1444841'>Transforma un Tesla en un coche solar que permite viajar gratis en el día a día sin pasar por el cargador</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/transforma-tesla-coche-solar-permite-viajar-gratis-dia-dia-pasar-cargador-1444841' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-solar-4297682.jpg?tf=1200x' alt='Transforma un Tesla en un coche solar que permite viajar gratis en el día a día sin pasar por el cargador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-aviso-waze-podria-salvar-vidas-funcion-supera-google-maps-seguridad-1444819'>Este nuevo aviso en Waze podría salvar vidas: la función que supera a Google Maps en seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevo-aviso-waze-podria-salvar-vidas-funcion-supera-google-maps-seguridad-1444819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/funcion-waze-4297667.jpg?tf=1200x' alt='Este nuevo aviso en Waze podría salvar vidas: la función que supera a Google Maps en seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/indemnizacion-millonaria-dineral-llevo-mujer-ser-adicta-candy-crush-1444884'>Indemnización millonaria: el dineral que se llevó una mujer por ser adicta a Candy Crush</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/indemnizacion-millonaria-dineral-llevo-mujer-ser-adicta-candy-crush-1444884' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/candy-crush-10-anos-despues-sigue-siendo-rey-juegos-aunque-tiene-todo-2874115.jpg?tf=1200x' alt='Indemnización millonaria: el dineral que se llevó una mujer por ser adicta a Candy Crush' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-viral-advierte-policia-nacional-has-recibido-mensaje-eliminalo-directamente-1444823'>La estafa viral de la que advierte la Policía Nacional: "Si has recibido este mensaje, elimínalo directamente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-viral-advierte-policia-nacional-has-recibido-mensaje-eliminalo-directamente-1444823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/has-recibido-mensaje-eliminalo-directamente-estafa-viral-advierte-policia-nacional-4297608.jpg?tf=1200x' alt='La estafa viral de la que advierte la Policía Nacional: "Si has recibido este mensaje, elimínalo directamente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-1444874'>Si no puedes con tu enemigo... Primer país europeo en integrar oficialmente ChatGPT en los colegios</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-1444874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-4297721.jpg?tf=1200x' alt='Si no puedes con tu enemigo... Primer país europeo en integrar oficialmente ChatGPT en los colegios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-acelera-lanzamiento-nuevo-modelo-ia-preparate-avecina-1444851'>DeepSeek acelera el lanzamiento de su nuevo modelo de IA: ¿vencerá al GPT-5 de OpenAI?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-acelera-lanzamiento-nuevo-modelo-ia-preparate-avecina-1444851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-4288049.jpg?tf=1200x' alt='DeepSeek acelera el lanzamiento de su nuevo modelo de IA: ¿vencerá al GPT-5 de OpenAI?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/bloqueos-iptv-perdida-canales-quiere-movistar-plus-recuperar-confianza-clientes-1444834'>Bloqueos IPTV, pérdida de canales y más: así quiere Movistar Plus+ recuperar la confianza de sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/bloqueos-iptv-perdida-canales-quiere-movistar-plus-recuperar-confianza-clientes-1444834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloqueos-iptv-perdida-canales-quiere-movistar-plus-recuperar-confianza-clientes-4297693.jpg?tf=1200x' alt='Bloqueos IPTV, pérdida de canales y más: así quiere Movistar Plus+ recuperar la confianza de sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expulsado-usar-ia-redacta-demanda-chatgpt-exige-millon-euros-conspiracion-1444843'>Expulsado por usar IA, redacta una demanda con ChatGPT y exige más de un millón de euros: "Es una conspiración"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expulsado-usar-ia-redacta-demanda-chatgpt-exige-millon-euros-conspiracion-1444843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-universidades-4297678.jpg?tf=1200x' alt='Expulsado por usar IA, redacta una demanda con ChatGPT y exige más de un millón de euros: "Es una conspiración"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-promesa-conduccion-autonoma-tesla-1440693'>Giro de 180 grados de Elon Musk, confiesa que se ha equivocado con Tesla y ahora reniega de su promesa</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-promesa-conduccion-autonoma-tesla-1440693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-confiesa-mayor-error-ha-cometido-vida-no-ha-podido-cumplir-promesas-tesla-4290865.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk, confiesa que se ha equivocado con Tesla y ahora reniega de su promesa' />
     </a>
 </div>
 
