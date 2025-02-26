@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/desarrollan-revolucionaria-bateria-funciona-residuos-atomicos-1444852'>Desarrollan una revolucionaria batería que funciona con residuos atómicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/desarrollan-revolucionaria-bateria-funciona-residuos-atomicos-1444852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-nuclear-4297718.jpg?tf=1200x' alt='Desarrollan una revolucionaria batería que funciona con residuos atómicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/transforma-tesla-coche-solar-permite-viajar-gratis-dia-dia-pasar-cargador-1444841'>Transforma un Tesla en un coche solar que permite viajar gratis en el día a día sin pasar por el cargador</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/transforma-tesla-coche-solar-permite-viajar-gratis-dia-dia-pasar-cargador-1444841' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tesla-solar-4297682.jpg?tf=1200x' alt='Transforma un Tesla en un coche solar que permite viajar gratis en el día a día sin pasar por el cargador' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-viral-advierte-policia-nacional-has-recibido-mensaje-eliminalo-directamente-1444823'>La estafa viral de la que advierte la Policía Nacional: "Si has recibido este mensaje, elimínalo directamente"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-viral-advierte-policia-nacional-has-recibido-mensaje-eliminalo-directamente-1444823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/has-recibido-mensaje-eliminalo-directamente-estafa-viral-advierte-policia-nacional-4297608.jpg?tf=1200x' alt='La estafa viral de la que advierte la Policía Nacional: "Si has recibido este mensaje, elimínalo directamente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-1444874'>Si no puedes con tu enemigo... Primer país europeo en integrar oficialmente ChatGPT en los colegios</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-1444874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-4297721.jpg?tf=1200x' alt='Si no puedes con tu enemigo... Primer país europeo en integrar oficialmente ChatGPT en los colegios' />
     </a>
 </div>
 
