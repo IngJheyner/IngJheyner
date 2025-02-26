@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-elon-musk-estos-son-dos-empresarios-han-influido-sam-altman-1444600'>Ni Bill Gates ni Elon Musk: estos son los dos empresarios que más han influido en Sam Altman</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-bill-gates-ni-elon-musk-estos-son-dos-empresarios-han-influido-sam-altman-1444600' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/10/sam-altman-2509213.jpg?tf=1200x' alt='Ni Bill Gates ni Elon Musk: estos son los dos empresarios que más han influido en Sam Altman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/adios-autoescuelas-dgt-familiar-amigo-ensene-conducir-1444767'>Adiós a las autoescuelas: la DGT se está pensado que un familiar o amigo enseñe a conducir</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/adios-autoescuelas-dgt-familiar-amigo-ensene-conducir-1444767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/adios-autoescuelas-dgt-pensado-familiar-amigo-ensene-conducir-4297547.jpg?tf=1200x' alt='Adiós a las autoescuelas: la DGT se está pensado que un familiar o amigo enseñe a conducir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-mundial-ia-pide-calma-inteligencia-artificial-no-va-sustituir-inteligencia-humana-1444528'>Una experta mundial en IA pide calma: "La inteligencia artificial no va a sustituir a la inteligencia humana"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-mundial-ia-pide-calma-inteligencia-artificial-no-va-sustituir-inteligencia-humana-1444528' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/experta-mundial-ia-pide-calma-inteligencia-artificial-no-va-sustituir-inteligencia-humana-4297142.jpg?tf=1200x' alt='Una experta mundial en IA pide calma: "La inteligencia artificial no va a sustituir a la inteligencia humana"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-1444755'>Gemini Code Assist, la IA de Google que escribe código, gratis para usuarios individuales</a></h4>
     <a href='https://computerhoy.20minutos.es/google/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-1444755' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-4297529.jpg?tf=1200x' alt='Gemini Code Assist, la IA de Google que escribe código, gratis para usuarios individuales' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721'>La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-desesperada-google-maps-waze-controlar-controlados-4297530.jpg?tf=1200x' alt='La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/madrid-ya-permite-inscribirte-como-pareja-hecho-movil-cuenta-digital-1444747'>Madrid ya permite inscribirte como pareja de hecho con el móvil, sin colas ni salir de casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/madrid-ya-permite-inscribirte-como-pareja-hecho-movil-cuenta-digital-1444747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/madrid-ya-permite-inscribirte-como-pareja-hecho-movil-colas-ni-salir-casa-4297425.jpg?tf=1200x' alt='Madrid ya permite inscribirte como pareja de hecho con el móvil, sin colas ni salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tienes-apellido-ordenadores-pueden-hacerte-vida-imposible-1444736'>Si tienes este apellido, los ordenadores pueden hacerte la vida imposible</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tienes-apellido-ordenadores-pueden-hacerte-vida-imposible-1444736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hombre-enfadado-ordenador-portatil-4297494.jpg?tf=1200x' alt='Si tienes este apellido, los ordenadores pueden hacerte la vida imposible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/usas-winrar-ten-cuidado-windows-no-ingles-1444733'>¿Usas WinRar? Ten cuidado si tu Windows no está en inglés</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/usas-winrar-ten-cuidado-windows-no-ingles-1444733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-4260046.jpg?tf=1200x' alt='¿Usas WinRar? Ten cuidado si tu Windows no está en inglés' />
     </a>
 </div>
 
