@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-1444755'>Gemini Code Assist, la IA de Google que escribe código, gratis para usuarios individuales</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-1444755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gemini-code-assist-ia-google-escribe-codigo-gratis-usuarios-individuales-4297529.jpg?tf=1200x' alt='Gemini Code Assist, la IA de Google que escribe código, gratis para usuarios individuales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721'>La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/guardia-civil-desesperada-google-maps-waze-controlar-controlados-1444721' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/guardia-civil-desesperada-google-maps-waze-controlar-controlados-4297530.jpg?tf=1200x' alt='La Guardia Civil desesperada con Google Maps y Waze: "De controlar a controlados"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/usas-winrar-ten-cuidado-windows-no-ingles-1444733'>¿Usas WinRar? Ten cuidado si tu Windows no está en inglés</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/usas-winrar-ten-cuidado-windows-no-ingles-1444733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/winrar-programa-pago-todo-mundo-usa-gratis-actualiza-novedad-muy-esperada-4260046.jpg?tf=1200x' alt='¿Usas WinRar? Ten cuidado si tu Windows no está en inglés' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657'>Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-no-regala-todos-clientes-nuevo-canal-peliculas-culto-detras-otra-1444657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/titanic-movistar-plus-4297380.jpg?tf=1200x' alt='Movistar Plus+ no para: regala a todos sus clientes un nuevo canal con películas de culto, una detrás de otra' />
     </a>
 </div>
 
