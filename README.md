@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expulsado-usar-ia-redacta-demanda-chatgpt-exige-millon-euros-conspiracion-1444843'>Expulsado por usar IA, redacta una demanda con ChatGPT y exige más de un millón de euros: "Es una conspiración"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expulsado-usar-ia-redacta-demanda-chatgpt-exige-millon-euros-conspiracion-1444843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-universidades-4297678.jpg?tf=1200x' alt='Expulsado por usar IA, redacta una demanda con ChatGPT y exige más de un millón de euros: "Es una conspiración"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-promesa-conduccion-autonoma-tesla-1440693'>Giro de 180 grados de Elon Musk, confiesa que se ha equivocado con Tesla y ahora reniega de su promesa</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-promesa-conduccion-autonoma-tesla-1440693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-confiesa-mayor-error-ha-cometido-vida-no-ha-podido-cumplir-promesas-tesla-4290865.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk, confiesa que se ha equivocado con Tesla y ahora reniega de su promesa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830'>LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-javier-tebas-iptv-4297668.jpg?tf=1200x' alt='LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807'>Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-trump-4297607.jpg?tf=1200x' alt='Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-mwc-2025-podria-presentar-galaxy-ring-2-s25-edge-galaxy-a56-1444604'>Samsung en MWC 2025, esto es lo que podría presentar: ¿Galaxy Ring 2, S25 Edge y Galaxy A56?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-mwc-2025-podria-presentar-galaxy-ring-2-s25-edge-galaxy-a56-1444604' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-mwc-2025-4297263.jpg?tf=1200x' alt='Samsung en MWC 2025, esto es lo que podría presentar: ¿Galaxy Ring 2, S25 Edge y Galaxy A56?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/puedes-hacer-pc-va-lento-queda-congelado-1435980'>Qué puedes hacer si el PC va lento o se queda congelado</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/puedes-hacer-pc-va-lento-queda-congelado-1435980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/ordenador-pc-lento-4283110.jpg?tf=1200x' alt='Qué puedes hacer si el PC va lento o se queda congelado' />
     </a>
 </div>
 
