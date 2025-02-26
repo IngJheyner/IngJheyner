@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-1444874'>Si no puedes con tu enemigo... Primer país europeo en integrar oficialmente ChatGPT en los colegios</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-1444874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-4297721.jpg?tf=1200x' alt='Si no puedes con tu enemigo... Primer país europeo en integrar oficialmente ChatGPT en los colegios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-acelera-lanzamiento-nuevo-modelo-ia-preparate-avecina-1444851'>DeepSeek acelera el lanzamiento de su nuevo modelo de IA: ¿vencerá al GPT-5 de OpenAI?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-acelera-lanzamiento-nuevo-modelo-ia-preparate-avecina-1444851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/deepseek-china-4288049.jpg?tf=1200x' alt='DeepSeek acelera el lanzamiento de su nuevo modelo de IA: ¿vencerá al GPT-5 de OpenAI?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-promesa-conduccion-autonoma-tesla-1440693'>Giro de 180 grados de Elon Musk, confiesa que se ha equivocado con Tesla y ahora reniega de su promesa</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-promesa-conduccion-autonoma-tesla-1440693' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-confiesa-mayor-error-ha-cometido-vida-no-ha-podido-cumplir-promesas-tesla-4290865.jpg?tf=1200x' alt='Giro de 180 grados de Elon Musk, confiesa que se ha equivocado con Tesla y ahora reniega de su promesa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830'>LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/laliga-javier-tebas-iptv-pasado-presente-futuro-guerra-futbol-gratis-espana-1444830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-javier-tebas-iptv-4297668.jpg?tf=1200x' alt='LaLiga de Javier Tebas contra las IPTV: pasado, presente y futuro de la guerra contra el fútbol gratis en España' />
     </a>
 </div>
 
