@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807'>Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-elimina-apple-tv-pelicula-desato-ira-donald-trump-1444807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pelicula-trump-4297607.jpg?tf=1200x' alt='Movistar Plus+ elimina de Apple TV la película que desató la ira de Donald Trump' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-mwc-2025-podria-presentar-galaxy-ring-2-s25-edge-galaxy-a56-1444604'>Samsung en MWC 2025, esto es lo que podría presentar: ¿Galaxy Ring 2, S25 Edge y Galaxy A56?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/samsung-mwc-2025-podria-presentar-galaxy-ring-2-s25-edge-galaxy-a56-1444604' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/samsung-mwc-2025-4297263.jpg?tf=1200x' alt='Samsung en MWC 2025, esto es lo que podría presentar: ¿Galaxy Ring 2, S25 Edge y Galaxy A56?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615'>Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/expertos-hallan-extrano-metal-exterior-tierra-antiguo-tesoro-espanol-1444615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meteorito-4297326.jpg?tf=1200x' alt='Expertos hallan un extraño metal exterior a la Tierra en un antiguo tesoro español' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-experto-ia-desvela-truco-conseguir-cientos-entrevistas-me-llaman-trabajos-pensaba-no-daba-nivel-1444640'>ChatGPT: experto en IA desvela su truco para conseguir cientos de entrevistas: "Me llaman de trabajos para los que pensaba que no daba el nivel"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-experto-ia-desvela-truco-conseguir-cientos-entrevistas-me-llaman-trabajos-pensaba-no-daba-nivel-1444640' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cv-ia-4297342.jpg?tf=1200x' alt='ChatGPT: experto en IA desvela su truco para conseguir cientos de entrevistas: "Me llaman de trabajos para los que pensaba que no daba el nivel"' />
     </a>
 </div>
 
