@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-1444908'>El ordenador más potente de la NASA ha detectado una estructura espiral extraña rodeando el sistema solar</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-1444908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-4297764.jpg?tf=1200x' alt='El ordenador más potente de la NASA ha detectado una estructura espiral extraña rodeando el sistema solar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dos-ia-hablando-propio-idioma-video-viral-realidad-aterradora-montaje-1444912'>Dos IA hablando su propio "idioma" en un vídeo viral: ¿realidad aterradora o montaje?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dos-ia-hablando-propio-idioma-video-viral-realidad-aterradora-montaje-1444912' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dos-inteligencias-artificiales-hablando-4297830.jpg?tf=1200x' alt='Dos IA hablando su propio "idioma" en un vídeo viral: ¿realidad aterradora o montaje?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-perdio-millones-dolares-no-hace-caso-consejo-warren-buffett-simplemente-gustaba-1444879'>Steve Jobs perdió millones de dólares por no hace caso al consejo de Warren Buffett: "Simplemente le gustaba"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-jobs-perdio-millones-dolares-no-hace-caso-consejo-warren-buffett-simplemente-gustaba-1444879' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jobs-buffett-4297755.jpg?tf=1200x' alt='Steve Jobs perdió millones de dólares por no hace caso al consejo de Warren Buffett: "Simplemente le gustaba"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-cansan-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870'>Los astronautas de la NASA se cansan de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-cansan-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/musk-nasa-4297733.jpg?tf=1200x' alt='Los astronautas de la NASA se cansan de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/1000-musicos-lanzan-album-sonido-protestar-inteligencia-artificial-1445030'>La IA solo traerá silencio a la música: 1.000 músicos lanzan un álbum sin sonido para protestar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/1000-musicos-lanzan-album-sonido-protestar-inteligencia-artificial-1445030' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-solo-traera-silencio-musica-1000-musicos-lanzan-album-sonido-protestar-4297979.jpg?tf=1200x' alt='La IA solo traerá silencio a la música: 1.000 músicos lanzan un álbum sin sonido para protestar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/japon-ha-creado-agencia-ciberseguridad-9-meses-despues-ha-descubierto-han-hackeado-1444889'>Japón ha creado una agencia de ciberseguridad, 9 meses después ha descubierto que les han hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/japon-ha-creado-agencia-ciberseguridad-9-meses-despues-ha-descubierto-han-hackeado-1444889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/japon-ha-creado-agencia-ciberseguridad-9-meses-despues-ha-descubierto-han-hackeado-4297744.jpg?tf=1200x' alt='Japón ha creado una agencia de ciberseguridad, 9 meses después ha descubierto que les han hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-1445018'>El GOTDIT causa estragos en la Generación Z: "Pagan lo que haga falta por no subirse a una escalera"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-1445018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-4297971.jpg?tf=1200x' alt='El GOTDIT causa estragos en la Generación Z: "Pagan lo que haga falta por no subirse a una escalera"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992'>Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-4297963.jpg?tf=1200x' alt='Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16' />
     </a>
 </div>
 
