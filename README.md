@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-alerta-estafa-codigo-21-pueden-pedir-prestamos-nombre-1445147'>Experta en ciberseguridad alerta de la estafa del código *21*: "Pueden pedir préstamos en tu nombre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-alerta-estafa-codigo-21-pueden-pedir-prestamos-nombre-1445147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-codigo-redireccion-llamadas-4298207.jpg?tf=1200x' alt='Experta en ciberseguridad alerta de la estafa del código *21*: "Pueden pedir préstamos en tu nombre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161'>DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-4298190.jpg?tf=1200x' alt='DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-1445136'>Si tienes Movistar Plus+ y te gusta el deporte, tenemos excelentes noticias para ti: gratis y para todos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-1445136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-4298162.jpg?tf=1200x' alt='Si tienes Movistar Plus+ y te gusta el deporte, tenemos excelentes noticias para ti: gratis y para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/iphone-galaxy-moviles-quedaran-whatsapp-proximo-mes-marzo-1445128'>iPhone, Galaxy y más: móviles que se quedarán sin WhatsApp el próximo mes de marzo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/iphone-galaxy-moviles-quedaran-whatsapp-proximo-mes-marzo-1445128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-no-disponible-2025-4298191.jpg?tf=1200x' alt='iPhone, Galaxy y más: móviles que se quedarán sin WhatsApp el próximo mes de marzo' />
     </a>
 </div>
 
