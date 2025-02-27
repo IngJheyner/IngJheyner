@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-1445018'>El GOTDIT causa estragos en la Generación Z: "Pagan lo que haga falta por no subirse a una escalera"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-1445018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-4297971.jpg?tf=1200x' alt='El GOTDIT causa estragos en la Generación Z: "Pagan lo que haga falta por no subirse a una escalera"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992'>Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-4297963.jpg?tf=1200x' alt='Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000'>Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/photoshop-iphone-4297939.jpg?tf=1200x' alt='Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-sube-nivel-microsoft-desbloquea-voice-think-deeper-limites-gratis-1444996'>Copilot sube de nivel: Microsoft desbloquea Voice y Think Deeper sin límites y gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-sube-nivel-microsoft-desbloquea-voice-think-deeper-limites-gratis-1444996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/think-deeper-copilot-4297932.jpg?tf=1200x' alt='Copilot sube de nivel: Microsoft desbloquea Voice y Think Deeper sin límites y gratis' />
     </a>
 </div>
 
