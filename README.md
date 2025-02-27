@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/disco-duro-hdd-tesoro-digital-gratis-1398478'>Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/disco-duro-hdd-tesoro-digital-gratis-1398478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/disco-duro-tesoro-4298419.jpg?tf=1200x' alt='Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-microrobots-terminator-pueden-moverse-como-liquido-unirse-estructuras-solidas-1445108'>Científicos crean microrobots "Terminator" que pueden moverse como un líquido o unirse en estructuras sólidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-microrobots-terminator-pueden-moverse-como-liquido-unirse-estructuras-solidas-1445108' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-minusculos-pueden-ensamblarse-4298141.jpg?tf=1200x' alt='Científicos crean microrobots "Terminator" que pueden moverse como un líquido o unirse en estructuras sólidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/sabado-infernal-fin-semana-vuelven-bloqueos-laliga-iptv-horarios-operadores-afectados-1445209'>Sábado infernal, este fin de semana vuelven los bloqueos de LaLiga a las IPTV: horarios y operadores afectados</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/sabado-infernal-fin-semana-vuelven-bloqueos-laliga-iptv-horarios-operadores-afectados-1445209' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sabado-infernal-fin-semana-vuelven-bloqueos-laliga-iptv-horarios-operadores-afectados-4298376.jpg?tf=1200x' alt='Sábado infernal, este fin de semana vuelven los bloqueos de LaLiga a las IPTV: horarios y operadores afectados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-1445100'>España vivirá este 28 de febrero un espectáculo astronómico único que no se repetirá en 467 años</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-1445100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-4298108.jpg?tf=1200x' alt='España vivirá este 28 de febrero un espectáculo astronómico único que no se repetirá en 467 años' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-televisores-tesla-realidad-estafa-1445180'>Elon Musk y los televisores "Tesla": ¿realidad o estafa?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-televisores-tesla-realidad-estafa-1445180' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-televisores-tesla-realidad-estafa-4298208.jpg?tf=1200x' alt='Elon Musk y los televisores "Tesla": ¿realidad o estafa?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-indicador-bateria-windows-queda-seco-nadie-entiende-nada-1445215'>El nuevo indicador de batería de Windows se queda “seco” y nadie entiende nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/nuevo-indicador-bateria-windows-queda-seco-nadie-entiende-nada-1445215' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-agotada-windows-11-4298284.jpg?tf=1200x' alt='El nuevo indicador de batería de Windows se queda “seco” y nadie entiende nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-alerta-estafa-codigo-21-pueden-pedir-prestamos-nombre-1445147'>Experta en ciberseguridad alerta de la estafa del código *21*: "Pueden pedir préstamos en tu nombre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-alerta-estafa-codigo-21-pueden-pedir-prestamos-nombre-1445147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-codigo-redireccion-llamadas-4298207.jpg?tf=1200x' alt='Experta en ciberseguridad alerta de la estafa del código *21*: "Pueden pedir préstamos en tu nombre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161'>DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-4298190.jpg?tf=1200x' alt='DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"' />
     </a>
 </div>
 
