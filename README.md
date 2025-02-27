@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5000-vs-4000-vs-3000-comparacion-series-gpus-evolucion-1444988'>Nvidia GeForce RTX 5000 vs 4000 vs 3000: comparación de las series de GPUs y evolución</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5000-vs-4000-vs-3000-comparacion-series-gpus-evolucion-1444988' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nvidia-geforce-rtx-3090-4090-5090-4297925.jpg?tf=1200x' alt='Nvidia GeForce RTX 5000 vs 4000 vs 3000: comparación de las series de GPUs y evolución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/chromecast-google-desaparece-siempre-debes-hacer-tienes-1445020'>El Chromecast de Google desaparece para siempre: ¿qué debes hacer si tienes uno?</a></h4>
     <a href='https://computerhoy.20minutos.es/google/chromecast-google-desaparece-siempre-debes-hacer-tienes-1445020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/problemas-chromecast-4297970.jpg?tf=1200x' alt='El Chromecast de Google desaparece para siempre: ¿qué debes hacer si tienes uno?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051'>Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-roborock-saros-10-1444414'>He probado el Roborock Saros 10 y ha sido amor a primera limpieza para mí y para mi gata</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-roborock-saros-10-1444414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/roborock-saros-10-4296996.jpg?tf=1200x' alt='He probado el Roborock Saros 10 y ha sido amor a primera limpieza para mí y para mi gata' />
     </a>
 </div>
 
