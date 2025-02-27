@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051'>Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-roborock-saros-10-1444414'>He probado el Roborock Saros 10 y ha sido amor a primera limpieza para mí y para mi gata</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-roborock-saros-10-1444414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/roborock-saros-10-4296996.jpg?tf=1200x' alt='He probado el Roborock Saros 10 y ha sido amor a primera limpieza para mí y para mi gata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/roborock-despliega-armamento-hogar-robots-saros-10-aspiradores-f25-limpieza-fondo-1444258'>Roborock despliega su armamento para hogar: robots Saros 10 y aspiradores F25 para una limpieza a fondo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/roborock-despliega-armamento-hogar-robots-saros-10-aspiradores-f25-limpieza-fondo-1444258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/roborock-robots-saros-10-aspiradoras-f25-4296818.jpg?tf=1200x' alt='Roborock despliega su armamento para hogar: robots Saros 10 y aspiradores F25 para una limpieza a fondo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-mwc-2025-podria-presentar-xiaomi-15-ultra-nueva-version-coche-electrico-su7-ultra-1444858'>Xiaomi en MWC 2025, esto es lo que podría presentar: Xiaomi 15 Ultra y la nueva versión de su coche eléctrico SU7 Ultra </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-mwc-2025-podria-presentar-xiaomi-15-ultra-nueva-version-coche-electrico-su7-ultra-1444858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-mwc-2025-4297712.jpg?tf=1200x' alt='Xiaomi en MWC 2025, esto es lo que podría presentar: Xiaomi 15 Ultra y la nueva versión de su coche eléctrico SU7 Ultra ' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-1445037'>Ni Christopher Nolan ni Spielberg: Sean Baker está nominado a cuatro Óscars en la misma película</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-1445037' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-4297988.jpg?tf=1200x' alt='Ni Christopher Nolan ni Spielberg: Sean Baker está nominado a cuatro Óscars en la misma película' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/10-datos-curiosos-mobile-world-congress-madrid-como-capital-robo-movil-microsoft-inicio-siri-1444334'>10 datos curiosos del Mobile World Congress: Madrid como capital, el robo del móvil a Microsoft y el inicio de Siri</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/10-datos-curiosos-mobile-world-congress-madrid-como-capital-robo-movil-microsoft-inicio-siri-1444334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mwc-1860043.jpg?tf=1200x' alt='10 datos curiosos del Mobile World Congress: Madrid como capital, el robo del móvil a Microsoft y el inicio de Siri' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-1444908'>El ordenador más potente de la NASA ha detectado una estructura espiral extraña rodeando el sistema solar</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-1444908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-4297764.jpg?tf=1200x' alt='El ordenador más potente de la NASA ha detectado una estructura espiral extraña rodeando el sistema solar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dos-ia-hablando-propio-idioma-video-viral-realidad-aterradora-montaje-1444912'>Dos IA hablando su propio "idioma" en un vídeo viral: ¿realidad aterradora o montaje?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dos-ia-hablando-propio-idioma-video-viral-realidad-aterradora-montaje-1444912' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dos-inteligencias-artificiales-hablando-4297830.jpg?tf=1200x' alt='Dos IA hablando su propio "idioma" en un vídeo viral: ¿realidad aterradora o montaje?' />
     </a>
 </div>
 
