@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/no-windows-12-pero-version-windows-11-acerca-mucho-todos-deseariamos-fuera-1445242'>No es Windows 12, pero esta versión de Windows 11 se acerca mucho a lo que todos desearíamos que fuera</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/no-windows-12-pero-version-windows-11-acerca-mucho-todos-deseariamos-fuera-1445242' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-windows-12-4298351.jpg?tf=1200x' alt='No es Windows 12, pero esta versión de Windows 11 se acerca mucho a lo que todos desearíamos que fuera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/20-cosas-increibles-puedes-hacer-alexa-nueva-inteligencia-artificial-amazon-1445160'>20 cosas increíbles que puedes hacer con Alexa+, la nueva inteligencia artificial de Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/20-cosas-increibles-puedes-hacer-alexa-nueva-inteligencia-artificial-amazon-1445160' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alexa-4298202.jpg?tf=1200x' alt='20 cosas increíbles que puedes hacer con Alexa+, la nueva inteligencia artificial de Amazon' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/llega-netflix-mejores-adaptaciones-videojuego-historia-1445038'>Llega a Netflix una de las mejores adaptaciones de un videojuego de la historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/llega-netflix-mejores-adaptaciones-videojuego-historia-1445038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llega-netflix-mejores-adaptaciones-videojuego-historia-4297996.jpg?tf=1200x' alt='Llega a Netflix una de las mejores adaptaciones de un videojuego de la historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/disco-duro-hdd-tesoro-digital-gratis-1398478'>Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros</a></h4>
     <a href='https://computerhoy.20minutos.es/life/disco-duro-hdd-tesoro-digital-gratis-1398478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/disco-duro-tesoro-4298419.jpg?tf=1200x' alt='Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-microrobots-terminator-pueden-moverse-como-liquido-unirse-estructuras-solidas-1445108'>Científicos crean microrobots "Terminator" que pueden moverse como un líquido o unirse en estructuras sólidas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-microrobots-terminator-pueden-moverse-como-liquido-unirse-estructuras-solidas-1445108' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-minusculos-pueden-ensamblarse-4298141.jpg?tf=1200x' alt='Científicos crean microrobots "Terminator" que pueden moverse como un líquido o unirse en estructuras sólidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/sabado-infernal-fin-semana-vuelven-bloqueos-laliga-iptv-horarios-operadores-afectados-1445209'>Sábado infernal, este fin de semana vuelven los bloqueos de LaLiga a las IPTV: horarios y operadores afectados</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/sabado-infernal-fin-semana-vuelven-bloqueos-laliga-iptv-horarios-operadores-afectados-1445209' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sabado-infernal-fin-semana-vuelven-bloqueos-laliga-iptv-horarios-operadores-afectados-4298376.jpg?tf=1200x' alt='Sábado infernal, este fin de semana vuelven los bloqueos de LaLiga a las IPTV: horarios y operadores afectados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-1445100'>España vivirá este 28 de febrero un espectáculo astronómico único que no se repetirá en 467 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-1445100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-4298108.jpg?tf=1200x' alt='España vivirá este 28 de febrero un espectáculo astronómico único que no se repetirá en 467 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-televisores-tesla-realidad-estafa-1445180'>Elon Musk y los televisores "Tesla": ¿realidad o estafa?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-televisores-tesla-realidad-estafa-1445180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-televisores-tesla-realidad-estafa-4298208.jpg?tf=1200x' alt='Elon Musk y los televisores "Tesla": ¿realidad o estafa?' />
     </a>
 </div>
 
