@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-ia-prefieren-todos-expertos-1445083'>Ni ChatGPT ni DeepSeek: esta es la IA que prefieren todos los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-ia-prefieren-todos-expertos-1445083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-chatgpt-ni-deepseek-ia-prefieren-todos-expertos-4298054.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek: esta es la IA que prefieren todos los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161'>DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-4298190.jpg?tf=1200x' alt='DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5000-vs-4000-vs-3000-comparacion-series-gpus-evolucion-1444988'>Nvidia GeForce RTX 5000 vs 4000 vs 3000: comparación de las series de GPUs y evolución</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5000-vs-4000-vs-3000-comparacion-series-gpus-evolucion-1444988' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nvidia-geforce-rtx-3090-4090-5090-4297925.jpg?tf=1200x' alt='Nvidia GeForce RTX 5000 vs 4000 vs 3000: comparación de las series de GPUs y evolución' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/telegram-cierra-bot-descargas-ilegales-pirateria-importante-millones-usuarios-todo-mundo-1445082'>Telegram cierra el bot de descargas ilegales y piratería más importante con millones de usuarios en todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/telegram-cierra-bot-descargas-ilegales-pirateria-importante-millones-usuarios-todo-mundo-1445082' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-4298084.jpg?tf=1200x' alt='Telegram cierra el bot de descargas ilegales y piratería más importante con millones de usuarios en todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/chromecast-google-desaparece-siempre-debes-hacer-tienes-1445020'>El Chromecast de Google desaparece para siempre: ¿qué debes hacer si tienes uno?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/chromecast-google-desaparece-siempre-debes-hacer-tienes-1445020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/problemas-chromecast-4297970.jpg?tf=1200x' alt='El Chromecast de Google desaparece para siempre: ¿qué debes hacer si tienes uno?' />
+    <h4><a href='https://computerhoy.20minutos.es/google/google-facilita-fin-eliminacion-datos-internet-solo-tienes-hacer-1445165'>Google facilita al fin la eliminación de tus datos en Internet: solo tienes que hacer esto</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-facilita-fin-eliminacion-datos-internet-solo-tienes-hacer-1445165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-facilita-fin-eliminacion-datos-internet-solo-tienes-hacer-4298186.jpg?tf=1200x' alt='Google facilita al fin la eliminación de tus datos en Internet: solo tienes que hacer esto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-ofrece-modo-voz-avanzado-chatgpt-gratis-todos-he-probado-tan-real-da-miedo-1445065'>OpenAI ofrece el modo de voz avanzado de ChatGPT gratis para todos, lo he probado: "Es tan real que hasta da miedo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-ofrece-modo-voz-avanzado-chatgpt-gratis-todos-he-probado-tan-real-da-miedo-1445065' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/chatgpt-4276635.jpg?tf=1200x' alt='OpenAI ofrece el modo de voz avanzado de ChatGPT gratis para todos, lo he probado: "Es tan real que hasta da miedo"' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-1445136'>Si tienes Movistar Plus+ y te gusta el deporte, tenemos excelentes noticias para ti: gratis y para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-1445136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-4298162.jpg?tf=1200x' alt='Si tienes Movistar Plus+ y te gusta el deporte, tenemos excelentes noticias para ti: gratis y para todos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/estas-son-dos-funciones-whatsapp-debes-activar-evitar-phishing-estafas-1445063'>Estas son las dos funciones de WhatsApp que debes activar para evitar el phishing y las estafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/estas-son-dos-funciones-whatsapp-debes-activar-evitar-phishing-estafas-1445063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/4-ajustes-debes-realizar-whatsapp-mejorar-privacidad-4294496.jpg?tf=1200x' alt='Estas son las dos funciones de WhatsApp que debes activar para evitar el phishing y las estafas' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/iphone-galaxy-moviles-quedaran-whatsapp-proximo-mes-marzo-1445128'>iPhone, Galaxy y más: móviles que se quedarán sin WhatsApp el próximo mes de marzo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/iphone-galaxy-moviles-quedaran-whatsapp-proximo-mes-marzo-1445128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/whatsapp-no-disponible-2025-4298191.jpg?tf=1200x' alt='iPhone, Galaxy y más: móviles que se quedarán sin WhatsApp el próximo mes de marzo' />
     </a>
 </div>
 
