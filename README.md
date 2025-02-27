@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-ia-prefieren-todos-expertos-1445083'>Ni ChatGPT ni DeepSeek: esta es la IA que prefieren todos los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-deepseek-ia-prefieren-todos-expertos-1445083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-chatgpt-ni-deepseek-ia-prefieren-todos-expertos-4298054.jpg?tf=1200x' alt='Ni ChatGPT ni DeepSeek: esta es la IA que prefieren todos los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5000-vs-4000-vs-3000-comparacion-series-gpus-evolucion-1444988'>Nvidia GeForce RTX 5000 vs 4000 vs 3000: comparación de las series de GPUs y evolución</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/nvidia-geforce-rtx-5000-vs-4000-vs-3000-comparacion-series-gpus-evolucion-1444988' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nvidia-geforce-rtx-3090-4090-5090-4297925.jpg?tf=1200x' alt='Nvidia GeForce RTX 5000 vs 4000 vs 3000: comparación de las series de GPUs y evolución' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/estas-son-dos-funciones-whatsapp-debes-activar-evitar-phishing-estafas-1445063'>Estas son las dos funciones de WhatsApp que debes activar para evitar el phishing y las estafas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/estas-son-dos-funciones-whatsapp-debes-activar-evitar-phishing-estafas-1445063' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/4-ajustes-debes-realizar-whatsapp-mejorar-privacidad-4294496.jpg?tf=1200x' alt='Estas son las dos funciones de WhatsApp que debes activar para evitar el phishing y las estafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051'>Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'' />
     </a>
 </div>
 
