@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-1445280'>Claude AI intenta convertirse en Maestro Pokémon… y los resultados son inesperados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-1445280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-4298494.jpg?tf=1200x' alt='Claude AI intenta convertirse en Maestro Pokémon… y los resultados son inesperados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-wozniak-desvela-casi-40-anos-despues-gran-mentira-apple-steve-jobs-todo-mito-1445130'>Steve Wozniak desvela casi 40 años después la gran mentira de Apple y Steve Jobs: "Es todo un mito"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-wozniak-desvela-casi-40-anos-despues-gran-mentira-apple-steve-jobs-todo-mito-1445130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jobs-wozniak-4298166.jpg?tf=1200x' alt='Steve Wozniak desvela casi 40 años después la gran mentira de Apple y Steve Jobs: "Es todo un mito"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-consiguen-convertir-cualquier-dispositivo-airtag-sepas-1445276'>Hackers consiguen convertir cualquier dispositivo en un AirTag sin que lo sepas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-consiguen-convertir-cualquier-dispositivo-airtag-sepas-1445276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/airtag-4298488.jpg?tf=1200x' alt='Hackers consiguen convertir cualquier dispositivo en un AirTag sin que lo sepas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-matrix-ni-john-wick-pero-solido-remake-ciencia-ficcion-keanu-reeves-disponible-disney-1445035'>No es Matrix ni John Wick, pero este sólido remake de ciencia ficción con Keanu Reeves está disponible en Disney+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-matrix-ni-john-wick-pero-solido-remake-ciencia-ficcion-keanu-reeves-disponible-disney-1445035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-matrix-ni-john-wick-pero-solido-remake-ciencia-ficcion-keanu-reeves-disponible-disney-4297992.jpg?tf=1200x' alt='No es Matrix ni John Wick, pero este sólido remake de ciencia ficción con Keanu Reeves está disponible en Disney+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-vr2-baja-permanentemente-precio-450-euros-1445269'>Palo a Quest 3: PS VR2 baja permanentemente de precio a 450 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-vr2-baja-permanentemente-precio-450-euros-1445269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-quest-3-ps-vr2-baja-permanentemente-precio-450-euros-4298362.jpg?tf=1200x' alt='Palo a Quest 3: PS VR2 baja permanentemente de precio a 450 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/no-windows-12-pero-version-windows-11-acerca-mucho-todos-deseariamos-fuera-1445242'>No es Windows 12, pero esta versión de Windows 11 se acerca mucho a lo que todos desearíamos que fuera</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/no-windows-12-pero-version-windows-11-acerca-mucho-todos-deseariamos-fuera-1445242' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-windows-12-4298351.jpg?tf=1200x' alt='No es Windows 12, pero esta versión de Windows 11 se acerca mucho a lo que todos desearíamos que fuera' />
     </a>
 </div>
 
