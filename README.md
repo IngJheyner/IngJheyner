@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-mwc-2025-podria-presentar-xiaomi-15-ultra-nueva-version-coche-electrico-su7-ultra-1444858'>Xiaomi en MWC 2025, esto es lo que podría presentar: Xiaomi 15 Ultra y la nueva versión de su coche eléctrico SU7 Ultra </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-mwc-2025-podria-presentar-xiaomi-15-ultra-nueva-version-coche-electrico-su7-ultra-1444858' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-mwc-2025-4297712.jpg?tf=1200x' alt='Xiaomi en MWC 2025, esto es lo que podría presentar: Xiaomi 15 Ultra y la nueva versión de su coche eléctrico SU7 Ultra ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-1445037'>Ni Christopher Nolan ni Spielberg: Sean Baker está nominado a cuatro Óscars en la misma película</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-1445037' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-4297988.jpg?tf=1200x' alt='Ni Christopher Nolan ni Spielberg: Sean Baker está nominado a cuatro Óscars en la misma película' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/10-datos-curiosos-mobile-world-congress-madrid-como-capital-robo-movil-microsoft-inicio-siri-1444334'>10 datos curiosos del Mobile World Congress: Madrid como capital, el robo del móvil a Microsoft y el inicio de Siri</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/10-datos-curiosos-mobile-world-congress-madrid-como-capital-robo-movil-microsoft-inicio-siri-1444334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/02/mwc-1860043.jpg?tf=1200x' alt='10 datos curiosos del Mobile World Congress: Madrid como capital, el robo del móvil a Microsoft y el inicio de Siri' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-1444908'>El ordenador más potente de la NASA ha detectado una estructura espiral extraña rodeando el sistema solar</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-1444908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-potente-nasa-ha-detectado-estructura-espiral-extrana-rodeando-sistema-solar-4297764.jpg?tf=1200x' alt='El ordenador más potente de la NASA ha detectado una estructura espiral extraña rodeando el sistema solar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dos-ia-hablando-propio-idioma-video-viral-realidad-aterradora-montaje-1444912'>Dos IA hablando su propio "idioma" en un vídeo viral: ¿realidad aterradora o montaje?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dos-ia-hablando-propio-idioma-video-viral-realidad-aterradora-montaje-1444912' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dos-inteligencias-artificiales-hablando-4297830.jpg?tf=1200x' alt='Dos IA hablando su propio "idioma" en un vídeo viral: ¿realidad aterradora o montaje?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-perdio-millones-dolares-no-hace-caso-consejo-warren-buffett-simplemente-gustaba-1444879'>Steve Jobs perdió millones de dólares por no hace caso al consejo de Warren Buffett: "Simplemente le gustaba"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-perdio-millones-dolares-no-hace-caso-consejo-warren-buffett-simplemente-gustaba-1444879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jobs-buffett-4297755.jpg?tf=1200x' alt='Steve Jobs perdió millones de dólares por no hace caso al consejo de Warren Buffett: "Simplemente le gustaba"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-cansan-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870'>Los astronautas de la NASA se cansan de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-cansan-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/musk-nasa-4297733.jpg?tf=1200x' alt='Los astronautas de la NASA se cansan de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/1000-musicos-lanzan-album-sonido-protestar-inteligencia-artificial-1445030'>La IA solo traerá silencio a la música: 1.000 músicos lanzan un álbum sin sonido para protestar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/1000-musicos-lanzan-album-sonido-protestar-inteligencia-artificial-1445030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-solo-traera-silencio-musica-1000-musicos-lanzan-album-sonido-protestar-4297979.jpg?tf=1200x' alt='La IA solo traerá silencio a la música: 1.000 músicos lanzan un álbum sin sonido para protestar' />
     </a>
 </div>
 
