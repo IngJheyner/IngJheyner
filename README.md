@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-consiguen-convertir-cualquier-dispositivo-airtag-sepas-1445276'>Hackers consiguen convertir cualquier dispositivo en un AirTag sin que lo sepas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-consiguen-convertir-cualquier-dispositivo-airtag-sepas-1445276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/airtag-4298488.jpg?tf=1200x' alt='Hackers consiguen convertir cualquier dispositivo en un AirTag sin que lo sepas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/ni-base-secreta-ni-portal-interdimensional-era-realmente-misteriosa-mancha-negra-google-maps-1445275'>Ni base secreta ni portal interdimensional: esto era realmente la misteriosa mancha negra de Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/ni-base-secreta-ni-portal-interdimensional-era-realmente-misteriosa-mancha-negra-google-maps-1445275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/isla-vostok-4298487.jpg?tf=1200x' alt='Ni base secreta ni portal interdimensional: esto era realmente la misteriosa mancha negra de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-matrix-ni-john-wick-pero-solido-remake-ciencia-ficcion-keanu-reeves-disponible-disney-1445035'>No es Matrix ni John Wick, pero este sólido remake de ciencia ficción con Keanu Reeves está disponible en Disney+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-matrix-ni-john-wick-pero-solido-remake-ciencia-ficcion-keanu-reeves-disponible-disney-1445035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-matrix-ni-john-wick-pero-solido-remake-ciencia-ficcion-keanu-reeves-disponible-disney-4297992.jpg?tf=1200x' alt='No es Matrix ni John Wick, pero este sólido remake de ciencia ficción con Keanu Reeves está disponible en Disney+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-vr2-baja-permanentemente-precio-450-euros-1445269'>Palo a Quest 3: PS VR2 baja permanentemente de precio a 450 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstation-vr2-baja-permanentemente-precio-450-euros-1445269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/palo-quest-3-ps-vr2-baja-permanentemente-precio-450-euros-4298362.jpg?tf=1200x' alt='Palo a Quest 3: PS VR2 baja permanentemente de precio a 450 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/no-windows-12-pero-version-windows-11-acerca-mucho-todos-deseariamos-fuera-1445242'>No es Windows 12, pero esta versión de Windows 11 se acerca mucho a lo que todos desearíamos que fuera</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/no-windows-12-pero-version-windows-11-acerca-mucho-todos-deseariamos-fuera-1445242' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-windows-12-4298351.jpg?tf=1200x' alt='No es Windows 12, pero esta versión de Windows 11 se acerca mucho a lo que todos desearíamos que fuera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/20-cosas-increibles-puedes-hacer-alexa-nueva-inteligencia-artificial-amazon-1445160'>20 cosas increíbles que puedes hacer con Alexa+, la nueva inteligencia artificial de Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/20-cosas-increibles-puedes-hacer-alexa-nueva-inteligencia-artificial-amazon-1445160' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alexa-4298202.jpg?tf=1200x' alt='20 cosas increíbles que puedes hacer con Alexa+, la nueva inteligencia artificial de Amazon' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/llega-netflix-mejores-adaptaciones-videojuego-historia-1445038'>Llega a Netflix una de las mejores adaptaciones de un videojuego de la historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/llega-netflix-mejores-adaptaciones-videojuego-historia-1445038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/llega-netflix-mejores-adaptaciones-videojuego-historia-4297996.jpg?tf=1200x' alt='Llega a Netflix una de las mejores adaptaciones de un videojuego de la historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/disco-duro-hdd-tesoro-digital-gratis-1398478'>Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/disco-duro-hdd-tesoro-digital-gratis-1398478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/disco-duro-tesoro-4298419.jpg?tf=1200x' alt='Compra un disco duro “nuevo” y encuentra en un tesoro digital valorado en miles de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-microrobots-terminator-pueden-moverse-como-liquido-unirse-estructuras-solidas-1445108'>Científicos crean microrobots "Terminator" que pueden moverse como un líquido o unirse en estructuras sólidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-microrobots-terminator-pueden-moverse-como-liquido-unirse-estructuras-solidas-1445108' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-minusculos-pueden-ensamblarse-4298141.jpg?tf=1200x' alt='Científicos crean microrobots "Terminator" que pueden moverse como un líquido o unirse en estructuras sólidas' />
     </a>
 </div>
 
