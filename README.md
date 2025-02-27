@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-1445301'>Ni 40 ni 37, Elon Musk asegura que sus nuevos empleados trabajan 120 horas a la semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-1445301' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-40-ni-37-elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-algunos-no-cobran-4298490.jpg?tf=1200x' alt='Ni 40 ni 37, Elon Musk asegura que sus nuevos empleados trabajan 120 horas a la semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-1445288'>El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-1445288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-4298523.jpg?tf=1200x' alt='El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-1445296'>Ya está aquí GPT-4.5, el mejor y más grande modelo de lenguaje para chatear de OpenAI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-1445296' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ya-puedes-probar-gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-4298512.jpg?tf=1200x' alt='Ya está aquí GPT-4.5, el mejor y más grande modelo de lenguaje para chatear de OpenAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelve-netflix-mejores-peliculas-historia-12-nominaciones-oscar-reparto-lujo-1445247'>Vuelve a Netflix una de las mejores películas de la historia: 12 nominaciones a los Oscar y un reparto de lujo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/vuelve-netflix-mejores-peliculas-historia-12-nominaciones-oscar-reparto-lujo-1445247' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelve-netflix-mejores-peliculas-historia-12-nominaciones-oscar-reparto-lujo-4298489.jpg?tf=1200x' alt='Vuelve a Netflix una de las mejores películas de la historia: 12 nominaciones a los Oscar y un reparto de lujo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-1445280'>Claude AI intenta convertirse en Maestro Pokémon… y los resultados son inesperados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-1445280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-4298494.jpg?tf=1200x' alt='Claude AI intenta convertirse en Maestro Pokémon… y los resultados son inesperados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-wozniak-desvela-casi-40-anos-despues-gran-mentira-apple-steve-jobs-todo-mito-1445130'>Steve Wozniak desvela casi 40 años después la gran mentira de Apple y Steve Jobs: "Es todo un mito"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-wozniak-desvela-casi-40-anos-despues-gran-mentira-apple-steve-jobs-todo-mito-1445130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jobs-wozniak-4298166.jpg?tf=1200x' alt='Steve Wozniak desvela casi 40 años después la gran mentira de Apple y Steve Jobs: "Es todo un mito"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-consiguen-convertir-cualquier-dispositivo-airtag-sepas-1445276'>Hackers consiguen convertir cualquier dispositivo en un AirTag sin que lo sepas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-consiguen-convertir-cualquier-dispositivo-airtag-sepas-1445276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/airtag-4298488.jpg?tf=1200x' alt='Hackers consiguen convertir cualquier dispositivo en un AirTag sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/ni-base-secreta-ni-portal-interdimensional-era-realmente-misteriosa-mancha-negra-google-maps-1445275'>Ni base secreta ni portal interdimensional: esto era realmente la misteriosa mancha negra de Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/ni-base-secreta-ni-portal-interdimensional-era-realmente-misteriosa-mancha-negra-google-maps-1445275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/isla-vostok-4298487.jpg?tf=1200x' alt='Ni base secreta ni portal interdimensional: esto era realmente la misteriosa mancha negra de Google Maps' />
     </a>
 </div>
 
