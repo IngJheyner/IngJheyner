@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992'>Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-4297963.jpg?tf=1200x' alt='Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/cambio-radical-movil-android-conviertelo-blackberry-fundas-clicks-teclado-fisico-1445016'>Cambio radical en tu móvil Android: conviértelo en un Blackberry con las fundas Clicks con teclado físico</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/cambio-radical-movil-android-conviertelo-blackberry-fundas-clicks-teclado-fisico-1445016' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-movil-android-conviertelo-blackberry-fundas-clicks-teclado-fisico-4297570.jpg?tf=1200x' alt='Cambio radical en tu móvil Android: conviértelo en un Blackberry con las fundas Clicks con teclado físico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-sube-nivel-microsoft-desbloquea-voice-think-deeper-limites-gratis-1444996'>Copilot sube de nivel: Microsoft desbloquea Voice y Think Deeper sin límites y gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-sube-nivel-microsoft-desbloquea-voice-think-deeper-limites-gratis-1444996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/think-deeper-copilot-4297932.jpg?tf=1200x' alt='Copilot sube de nivel: Microsoft desbloquea Voice y Think Deeper sin límites y gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-1444774'>Keanu Reeves lo confirma: los dos míticos animes ciberpunk que inspiraron The Matrix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-1444774' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/keanu-reeves-confirma-dos-miticos-animes-ciberpunk-inspiraron-matrix-4297555.jpg?tf=1200x' alt='Keanu Reeves lo confirma: los dos míticos animes ciberpunk que inspiraron The Matrix' />
     </a>
 </div>
 
