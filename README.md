@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-cansan-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870'>Los astronautas de la NASA se cansan de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-cansan-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/musk-nasa-4297733.jpg?tf=1200x' alt='Los astronautas de la NASA se cansan de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/1000-musicos-lanzan-album-sonido-protestar-inteligencia-artificial-1445030'>La IA solo traerá silencio a la música: 1.000 músicos lanzan un álbum sin sonido para protestar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/1000-musicos-lanzan-album-sonido-protestar-inteligencia-artificial-1445030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ia-solo-traera-silencio-musica-1000-musicos-lanzan-album-sonido-protestar-4297979.jpg?tf=1200x' alt='La IA solo traerá silencio a la música: 1.000 músicos lanzan un álbum sin sonido para protestar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/japon-ha-creado-agencia-ciberseguridad-9-meses-despues-ha-descubierto-han-hackeado-1444889'>Japón ha creado una agencia de ciberseguridad, 9 meses después ha descubierto que les han hackeado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/japon-ha-creado-agencia-ciberseguridad-9-meses-despues-ha-descubierto-han-hackeado-1444889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/japon-ha-creado-agencia-ciberseguridad-9-meses-despues-ha-descubierto-han-hackeado-4297744.jpg?tf=1200x' alt='Japón ha creado una agencia de ciberseguridad, 9 meses después ha descubierto que les han hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-1445018'>El GOTDIT causa estragos en la Generación Z: "Pagan lo que haga falta por no subirse a una escalera"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-1445018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/gotdit-causa-estragos-generacion-z-pagan-haga-falta-no-subirse-escalera-4297971.jpg?tf=1200x' alt='El GOTDIT causa estragos en la Generación Z: "Pagan lo que haga falta por no subirse a una escalera"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992'>Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-1444992' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-dgt-cuenta-atras-sustituir-triangulos-emergencia-baliza-v16-4297963.jpg?tf=1200x' alt='Giro de 180 grados en la DGT, cuenta atrás para sustituir los triángulos de emergencia por la baliza V16' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/cambio-radical-movil-android-conviertelo-blackberry-fundas-clicks-teclado-fisico-1445016'>Cambio radical en tu móvil Android: conviértelo en un Blackberry con las fundas Clicks con teclado físico</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/cambio-radical-movil-android-conviertelo-blackberry-fundas-clicks-teclado-fisico-1445016' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cambio-radical-movil-android-conviertelo-blackberry-fundas-clicks-teclado-fisico-4297570.jpg?tf=1200x' alt='Cambio radical en tu móvil Android: conviértelo en un Blackberry con las fundas Clicks con teclado físico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/kathleen-kennedy-ceo-lucasfilm-productora-exitosa-historia-dimite-fracasos-star-wars-1445013'>Kathleen Kennedy, CEO de Lucasfilm y productora más exitosa de la historia, dimite por los fracasos de Star Wars</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/kathleen-kennedy-ceo-lucasfilm-productora-exitosa-historia-dimite-fracasos-star-wars-1445013' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/kathleen-kennedy-ceo-lucasfilm-productora-exitosa-historia-dimite-fracasos-star-wars-4297941.jpg?tf=1200x' alt='Kathleen Kennedy, CEO de Lucasfilm y productora más exitosa de la historia, dimite por los fracasos de Star Wars' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000'>Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/photoshop-gratis-movil-ya-iphone-android-tendra-esperar-1445000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/photoshop-iphone-4297939.jpg?tf=1200x' alt='Photoshop gratis en el móvil: ya en iPhone, Android tendrá que esperar' />
     </a>
 </div>
 
