@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-1445100'>España vivirá este 28 de febrero un espectáculo astronómico único que no se repetirá en 467 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-1445100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/espana-vivira-28-febrero-espectaculo-astronomico-unico-no-repetira-467-anos-4298108.jpg?tf=1200x' alt='España vivirá este 28 de febrero un espectáculo astronómico único que no se repetirá en 467 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-televisores-tesla-realidad-estafa-1445180'>Elon Musk y los televisores "Tesla": ¿realidad o estafa?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-televisores-tesla-realidad-estafa-1445180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-televisores-tesla-realidad-estafa-4298208.jpg?tf=1200x' alt='Elon Musk y los televisores "Tesla": ¿realidad o estafa?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-indicador-bateria-windows-queda-seco-nadie-entiende-nada-1445215'>El nuevo indicador de batería de Windows se queda “seco” y nadie entiende nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nuevo-indicador-bateria-windows-queda-seco-nadie-entiende-nada-1445215' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-agotada-windows-11-4298284.jpg?tf=1200x' alt='El nuevo indicador de batería de Windows se queda “seco” y nadie entiende nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-alerta-estafa-codigo-21-pueden-pedir-prestamos-nombre-1445147'>Experta en ciberseguridad alerta de la estafa del código *21*: "Pueden pedir préstamos en tu nombre"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experta-ciberseguridad-alerta-estafa-codigo-21-pueden-pedir-prestamos-nombre-1445147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-codigo-redireccion-llamadas-4298207.jpg?tf=1200x' alt='Experta en ciberseguridad alerta de la estafa del código *21*: "Pueden pedir préstamos en tu nombre"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161'>DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-1445161' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tiene-nuevo-regalo-todos-clientes-espana-sera-igual-grande-yoigo-4298190.jpg?tf=1200x' alt='DIGI tiene un nuevo regalo para todos sus clientes en España: "Será igual de grande que la de Yoigo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/telegram-cierra-bot-descargas-ilegales-pirateria-importante-millones-usuarios-todo-mundo-1445082'>Telegram cierra el bot de descargas ilegales y piratería más importante con millones de usuarios en todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/telegram-cierra-bot-descargas-ilegales-pirateria-importante-millones-usuarios-todo-mundo-1445082' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/telegram-4298084.jpg?tf=1200x' alt='Telegram cierra el bot de descargas ilegales y piratería más importante con millones de usuarios en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-facilita-fin-eliminacion-datos-internet-solo-tienes-hacer-1445165'>Google facilita al fin la eliminación de tus datos en Internet: solo tienes que hacer esto</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-facilita-fin-eliminacion-datos-internet-solo-tienes-hacer-1445165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-facilita-fin-eliminacion-datos-internet-solo-tienes-hacer-4298186.jpg?tf=1200x' alt='Google facilita al fin la eliminación de tus datos en Internet: solo tienes que hacer esto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-1445136'>Si tienes Movistar Plus+ y te gusta el deporte, tenemos excelentes noticias para ti: gratis y para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-1445136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tienes-movistar-plus-te-gusta-deporte-tenemos-excelentes-noticias-ti-gratis-todos-4298162.jpg?tf=1200x' alt='Si tienes Movistar Plus+ y te gusta el deporte, tenemos excelentes noticias para ti: gratis y para todos' />
     </a>
 </div>
 
