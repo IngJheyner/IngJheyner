@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/estas-son-dos-funciones-whatsapp-debes-activar-evitar-phishing-estafas-1445063'>Estas son las dos funciones de WhatsApp que debes activar para evitar el phishing y las estafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/estas-son-dos-funciones-whatsapp-debes-activar-evitar-phishing-estafas-1445063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/4-ajustes-debes-realizar-whatsapp-mejorar-privacidad-4294496.jpg?tf=1200x' alt='Estas son las dos funciones de WhatsApp que debes activar para evitar el phishing y las estafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051'>Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/resuelto-misterioso-caso-iphone-transcribia-palabra-racista-trump-1445051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/te-preocupa-precio-iphone-17-agarrate-porque-podria-disparar-culpa-trump-4288464.jpg?tf=1200x' alt='Resuelto el misterioso caso del iPhone que transcribía la palabra 'racista' por 'Trump'' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-mwc-2025-podria-presentar-xiaomi-15-ultra-nueva-version-coche-electrico-su7-ultra-1444858'>Xiaomi en MWC 2025, esto es lo que podría presentar: Xiaomi 15 Ultra y la nueva versión de su coche eléctrico SU7 Ultra </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-mwc-2025-podria-presentar-xiaomi-15-ultra-nueva-version-coche-electrico-su7-ultra-1444858' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-mwc-2025-4297712.jpg?tf=1200x' alt='Xiaomi en MWC 2025, esto es lo que podría presentar: Xiaomi 15 Ultra y la nueva versión de su coche eléctrico SU7 Ultra ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-1445037'>Ni Christopher Nolan ni Spielberg: Sean Baker está nominado a cuatro Óscars en la misma película</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-1445037' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sean-baker-caso-unico-nominado-cuatro-oscars-misma-pelicula-4297988.jpg?tf=1200x' alt='Ni Christopher Nolan ni Spielberg: Sean Baker está nominado a cuatro Óscars en la misma película' />
     </a>
 </div>
 
