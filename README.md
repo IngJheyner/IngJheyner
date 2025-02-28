@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-destroza-inteligencia-artificial-ia-no-piensa-solo-coge-cosas-otros-lados-coloca-bien-1445081'>Steve Wozniak destroza a la inteligencia artificial: "La IA no piensa, solo coge cosas de otros lados y las coloca bien"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-destroza-inteligencia-artificial-ia-no-piensa-solo-coge-cosas-otros-lados-coloca-bien-1445081' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-wozniak-ia-4298323.jpg?tf=1200x' alt='Steve Wozniak destroza a la inteligencia artificial: "La IA no piensa, solo coge cosas de otros lados y las coloca bien"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-vs-sam-altman-llega-ia-enfrenta-grok-chatgpt-deja-comportarte-como-1445176'>Elon Musk vs. Sam Altman llega a la IA, enfrenta a Grok contra ChatGPT: "Deja de comportarte como un…"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-vs-sam-altman-llega-ia-enfrenta-grok-chatgpt-deja-comportarte-como-1445176' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/batalla-ia-4298285.jpg?tf=1200x' alt='Elon Musk vs. Sam Altman llega a la IA, enfrenta a Grok contra ChatGPT: "Deja de comportarte como un…"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-1445301'>Ni 40 ni 37, Elon Musk asegura que sus nuevos empleados trabajan 120 horas a la semana</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-1445301' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-40-ni-37-elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-algunos-no-cobran-4298490.jpg?tf=1200x' alt='Ni 40 ni 37, Elon Musk asegura que sus nuevos empleados trabajan 120 horas a la semana' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-1445296'>Ya está aquí GPT-4.5, el mejor y más grande modelo de lenguaje para chatear de OpenAI</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-1445296' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ya-puedes-probar-gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-4298512.jpg?tf=1200x' alt='Ya está aquí GPT-4.5, el mejor y más grande modelo de lenguaje para chatear de OpenAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/vuelve-netflix-mejores-peliculas-historia-12-nominaciones-oscar-reparto-lujo-1445247'>Vuelve a Netflix una de las mejores películas de la historia: 12 nominaciones a los Oscar y un reparto de lujo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/vuelve-netflix-mejores-peliculas-historia-12-nominaciones-oscar-reparto-lujo-1445247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelve-netflix-mejores-peliculas-historia-12-nominaciones-oscar-reparto-lujo-4298489.jpg?tf=1200x' alt='Vuelve a Netflix una de las mejores películas de la historia: 12 nominaciones a los Oscar y un reparto de lujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-1445280'>Claude AI intenta convertirse en Maestro Pokémon… y los resultados son inesperados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-1445280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/claude-ai-intenta-convertirse-maestro-pokemon-resultados-son-inesperados-4298494.jpg?tf=1200x' alt='Claude AI intenta convertirse en Maestro Pokémon… y los resultados son inesperados' />
     </a>
 </div>
 
