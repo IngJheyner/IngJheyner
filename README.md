@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-cambiara-proteccion-parental-2025-estas-son-todas-novedades-debes-conocer-1445462'>Apple cambiará la protección parental en 2025: estas son todas las novedades que debes conocer</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-cambiara-proteccion-parental-2025-estas-son-todas-novedades-debes-conocer-1445462' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/control-parental-apple-4298863.jpg?tf=1200x' alt='Apple cambiará la protección parental en 2025: estas son todas las novedades que debes conocer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-1445446'>Bill Gates, se burla de los CEO de Silicon Valley: “Siguen siendo nerds"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-1445446' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-4298821.jpg?tf=1200x' alt='Bill Gates, se burla de los CEO de Silicon Valley: “Siguen siendo nerds"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-1445468'>Las gráficas AMD Radeon RX 9000 ya son una realidad y llegan con la esperada arquitectura RDNA 4</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-1445468' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-4298910.jpg?tf=1200x' alt='Las gráficas AMD Radeon RX 9000 ya son una realidad y llegan con la esperada arquitectura RDNA 4' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-declara-guerra-chatgpt-planea-lanzamiento-app-ia-independiente-1445427'>Meta declara la guerra a ChatGPT y planea el lanzamiento de una app de IA independiente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-declara-guerra-chatgpt-planea-lanzamiento-app-ia-independiente-1445427' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meta-ai-4298794.jpg?tf=1200x' alt='Meta declara la guerra a ChatGPT y planea el lanzamiento de una app de IA independiente' />
     </a>
 </div>
 
