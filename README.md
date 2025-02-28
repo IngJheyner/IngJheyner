@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-1445182'>Giro de 180 grados al coche eléctrico, Volvo revoluciona los tiempos de carga: 300 kilómetros en solo 10 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-1445182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-4298215.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, Volvo revoluciona los tiempos de carga: 300 kilómetros en solo 10 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-envia-carta-agradecimiento-profesor-instituto-espanol-graves-errores-ciberseguridad-1445320'>La NASA envía una carta de agradecimiento a un profesor de instituto español por advertir de "graves errores de ciberseguridad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-envia-carta-agradecimiento-profesor-instituto-espanol-graves-errores-ciberseguridad-1445320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-envia-carta-agradecimiento-profesor-instituto-espanol-advertir-graves-errores-ciberseguridad-4298548.jpg?tf=1200x' alt='La NASA envía una carta de agradecimiento a un profesor de instituto español por advertir de "graves errores de ciberseguridad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/inmortalidad-podria-alcanzarse-2030-experto-pero-no-fuese-tan-buena-idea-1445148'>La inmortalidad podría alcanzarse en 2030, según un experto, pero ¿y si no fuese tan buena idea?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/inmortalidad-podria-alcanzarse-2030-experto-pero-no-fuese-tan-buena-idea-1445148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inmortalidad-podria-alcanzarse-2030-experto-pero-no-fuese-tan-buena-idea-4298161.jpg?tf=1200x' alt='La inmortalidad podría alcanzarse en 2030, según un experto, pero ¿y si no fuese tan buena idea?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/viene-otro-fin-semana-bloqueos-laliga-cloudfare-estas-vpn-te-permitiran-esquivarlo-1444286'>Viene otro fin de semana de bloqueos de LaLiga a Cloudfare: estas VPN te permitirán esquivarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/viene-otro-fin-semana-bloqueos-laliga-cloudfare-estas-vpn-te-permitiran-esquivarlo-1444286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Viene otro fin de semana de bloqueos de LaLiga a Cloudfare: estas VPN te permitirán esquivarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-destroza-inteligencia-artificial-ia-no-piensa-solo-coge-cosas-otros-lados-coloca-bien-1445081'>Steve Wozniak destroza a la inteligencia artificial: "La IA no piensa, solo coge cosas de otros lados y las coloca bien"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-destroza-inteligencia-artificial-ia-no-piensa-solo-coge-cosas-otros-lados-coloca-bien-1445081' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-wozniak-ia-4298323.jpg?tf=1200x' alt='Steve Wozniak destroza a la inteligencia artificial: "La IA no piensa, solo coge cosas de otros lados y las coloca bien"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-vs-sam-altman-llega-ia-enfrenta-grok-chatgpt-deja-comportarte-como-1445176'>Elon Musk vs. Sam Altman llega a la IA, enfrenta a Grok contra ChatGPT: "Deja de comportarte como un…"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-vs-sam-altman-llega-ia-enfrenta-grok-chatgpt-deja-comportarte-como-1445176' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/batalla-ia-4298285.jpg?tf=1200x' alt='Elon Musk vs. Sam Altman llega a la IA, enfrenta a Grok contra ChatGPT: "Deja de comportarte como un…"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-1445301'>Ni 40 ni 37, Elon Musk asegura que sus nuevos empleados trabajan 120 horas a la semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-1445301' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-40-ni-37-elon-musk-asegura-nuevos-empleados-trabajan-120-horas-semana-algunos-no-cobran-4298490.jpg?tf=1200x' alt='Ni 40 ni 37, Elon Musk asegura que sus nuevos empleados trabajan 120 horas a la semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-1445288'>El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-1445288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-4298523.jpg?tf=1200x' alt='El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-1445296'>Ya está aquí GPT-4.5, el mejor y más grande modelo de lenguaje para chatear de OpenAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-1445296' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ya-puedes-probar-gpt-45-mejor-grande-modelo-lenguaje-chatear-openai-4298512.jpg?tf=1200x' alt='Ya está aquí GPT-4.5, el mejor y más grande modelo de lenguaje para chatear de OpenAI' />
     </a>
 </div>
 
