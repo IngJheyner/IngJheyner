@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-hamburguesa-peligrosa-estafa-advierten-expertos-1445430'>"El timo de la hamburguesa": así es la peligrosa estafa de la que advierten los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-hamburguesa-peligrosa-estafa-advierten-expertos-1445430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/timo-hamburguesa-peligrosa-estafa-advierten-expertos-4298783.jpg?tf=1200x' alt='"El timo de la hamburguesa": así es la peligrosa estafa de la que advierten los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-skype-hola-futuro-mejores-alternativas-videollamadas-2025-1445415'>Adiós Skype, hola al futuro: las mejores alternativas para videollamadas en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-skype-hola-futuro-mejores-alternativas-videollamadas-2025-1445415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alternativas-skype-2025-4298782.jpg?tf=1200x' alt='Adiós Skype, hola al futuro: las mejores alternativas para videollamadas en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/avance-inesperado-robotica-dos-robots-empiezan-realizar-tareas-nunca-fueron-programados-1445397'>Avance inesperado en robótica: dos robots empiezan a realizar tareas para las que nunca fueron programados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/avance-inesperado-robotica-dos-robots-empiezan-realizar-tareas-nunca-fueron-programados-1445397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-colaboran-4298750.jpg?tf=1200x' alt='Avance inesperado en robótica: dos robots empiezan a realizar tareas para las que nunca fueron programados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-1445411'>No es cosa tuya: ChatGPT se enrolla como las persianas, y más cuando no sabe de algo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-1445411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-4298745.jpg?tf=1200x' alt='No es cosa tuya: ChatGPT se enrolla como las persianas, y más cuando no sabe de algo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-1445394'>DIGI TV contra Movistar Plus+: planea incluir fútbol en su oferta de televisión</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-1445394' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-4298739.jpg?tf=1200x' alt='DIGI TV contra Movistar Plus+: planea incluir fútbol en su oferta de televisión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-manana-millones-usuarios-podrian-quedarse-acceso-estos-modelos-moviles-1445432'>Alerta WhatsApp: mañana, millones de usuarios podrían quedarse sin acceso en estos modelos de móviles</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-manana-millones-usuarios-podrian-quedarse-acceso-estos-modelos-moviles-1445432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-whatsapp-manana-millones-usuarios-podrian-quedarse-acceso-estos-modelos-moviles-4298784.jpg?tf=1200x' alt='Alerta WhatsApp: mañana, millones de usuarios podrían quedarse sin acceso en estos modelos de móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-1445400'>Una criminóloga advierte sobre una nueva estafa: "Ya afecta a miles de personas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-1445400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-4298703.jpg?tf=1200x' alt='Una criminóloga advierte sobre una nueva estafa: "Ya afecta a miles de personas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/has-decidido-despedirte-windows-10-pero-mejor-windows-11-home-windows-11-pro-1445376'>Has decidido despedirte de Windows 10, pero ¿es mejor Windows 11 Home o Windows 11 Pro?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/has-decidido-despedirte-windows-10-pero-mejor-windows-11-home-windows-11-pro-1445376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-home-pro-4298692.jpg?tf=1200x' alt='Has decidido despedirte de Windows 10, pero ¿es mejor Windows 11 Home o Windows 11 Pro?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-1445362'>Estas son todas las novedades que trae GPT-4.5, el chatbot de OpenAI para liderar la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-1445362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-4298675.jpg?tf=1200x' alt='Estas son todas las novedades que trae GPT-4.5, el chatbot de OpenAI para liderar la IA' />
     </a>
 </div>
 
