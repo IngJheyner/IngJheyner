@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-ya-no-solo-windows-microsoft-lanza-app-mac-1445490'>Copilot ya no es solo para Windows: Microsoft lanza su app para Mac</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-ya-no-solo-windows-microsoft-lanza-app-mac-1445490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copilot-ya-no-solo-windows-microsoft-lanza-app-mac-4298950.jpg?tf=1200x' alt='Copilot ya no es solo para Windows: Microsoft lanza su app para Mac' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-cambiar-router-desconfia-funciona-nueva-estafa-puede-costarte-1500-euros-1445523'>Si te llaman para cambiar el router, desconfía: así funciona la nueva estafa que puede costarte 1.500 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-cambiar-router-desconfia-funciona-nueva-estafa-puede-costarte-1500-euros-1445523' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-router-4298994.jpg?tf=1200x' alt='Si te llaman para cambiar el router, desconfía: así funciona la nueva estafa que puede costarte 1.500 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-cambiara-proteccion-parental-2025-estas-son-todas-novedades-debes-conocer-1445462'>Apple cambiará la protección parental en 2025: estas son todas las novedades que debes conocer</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-cambiara-proteccion-parental-2025-estas-son-todas-novedades-debes-conocer-1445462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/control-parental-apple-4298863.jpg?tf=1200x' alt='Apple cambiará la protección parental en 2025: estas son todas las novedades que debes conocer' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-tv-malware-ya-controla-16-millones-dispositivos-todo-mundo-1445522'>Alerta en Android TV: un malware ya controla 1,6 millones de dispositivos en todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-tv-malware-ya-controla-16-millones-dispositivos-todo-mundo-1445522' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-tv-malware-4169648.jpg?tf=1200x' alt='Alerta en Android TV: un malware ya controla 1,6 millones de dispositivos en todo el mundo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-1445446'>Bill Gates, se burla de los CEO de Silicon Valley: “Siguen siendo nerds"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-1445446' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-4298821.jpg?tf=1200x' alt='Bill Gates, se burla de los CEO de Silicon Valley: “Siguen siendo nerds"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nokia-punto-desplegar-primera-red-4g-fuera-tierra-1445519'>Nokia está a punto de desplegar la primera red 4G fuera de la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nokia-punto-desplegar-primera-red-4g-fuera-tierra-1445519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/intuitive-machines-2-im-2-4298984.jpg?tf=1200x' alt='Nokia está a punto de desplegar la primera red 4G fuera de la Tierra' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-gene-hackman-no-puedes-perderte-1445441'>Las 5 mejores películas de Gene Hackman que no puedes perderte</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-gene-hackman-no-puedes-perderte-1445441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-mejores-peliculas-gene-hackman-no-puedes-perderte-4298804.jpg?tf=1200x' alt='Las 5 mejores películas de Gene Hackman que no puedes perderte' />
+    <h4><a href='https://computerhoy.20minutos.es/google/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-1445518'>¿Cansado del spam? Google traerá emails ocultos y desechables con su nueva función</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-1445518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-4298948.jpg?tf=1200x' alt='¿Cansado del spam? Google traerá emails ocultos y desechables con su nueva función' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-iptv-1443963'>DAZN responde a los bloqueos de la LaLiga a las IPTV con una peculiar oferta</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-iptv-1443963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dazn-iptv-4298442.jpg?tf=1200x' alt='DAZN responde a los bloqueos de la LaLiga a las IPTV con una peculiar oferta' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-vs-deepseek-r1-chatbot-rey-ia-1445414'>GPT-4.5 vs. DeepSeek R1: ¿qué chatbot es el rey de la IA?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-vs-deepseek-r1-chatbot-rey-ia-1445414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-vs-deepseek-4298749.jpg?tf=1200x' alt='GPT-4.5 vs. DeepSeek R1: ¿qué chatbot es el rey de la IA?' />
     </a>
 </div>
 
