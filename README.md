@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ningun-navegador-totalmente-seguro-pero-librewolf-mejores-opciones-disponibles-1440430'>Ningún navegador es totalmente seguro, pero LibreWolf es una de las mejores opciones disponibles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ningun-navegador-totalmente-seguro-pero-librewolf-mejores-opciones-disponibles-1440430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/librewolf-navegador-seguro-privado-4290518.jpg?tf=1200x' alt='Ningún navegador es totalmente seguro, pero LibreWolf es una de las mejores opciones disponibles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-5g-tiene-poco-envidiar-version-pro-opcion-sensata-quieres-ahorrar-1443469'>El Redmi Note 14 5G tiene poco que envidiar a su versión Pro y es una opción sensata si quieres ahorrar</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-5g-tiene-poco-envidiar-version-pro-opcion-sensata-quieres-ahorrar-1443469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/redmi-note-14-5g-4298324.jpg?tf=1200x' alt='El Redmi Note 14 5G tiene poco que envidiar a su versión Pro y es una opción sensata si quieres ahorrar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-1445182'>Giro de 180 grados al coche eléctrico, Volvo revoluciona los tiempos de carga: 300 kilómetros en solo 10 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-1445182' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-4298215.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, Volvo revoluciona los tiempos de carga: 300 kilómetros en solo 10 minutos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/inmortalidad-podria-alcanzarse-2030-experto-pero-no-fuese-tan-buena-idea-1445148'>La inmortalidad podría alcanzarse en 2030, según un experto, pero ¿y si no fuese tan buena idea?</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/inmortalidad-podria-alcanzarse-2030-experto-pero-no-fuese-tan-buena-idea-1445148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/inmortalidad-podria-alcanzarse-2030-experto-pero-no-fuese-tan-buena-idea-4298161.jpg?tf=1200x' alt='La inmortalidad podría alcanzarse en 2030, según un experto, pero ¿y si no fuese tan buena idea?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/viene-otro-fin-semana-bloqueos-laliga-cloudfare-estas-vpn-te-permitiran-esquivarlo-1444286'>Viene otro fin de semana de bloqueos de LaLiga a Cloudfare: estas VPN te permitirán esquivarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/viene-otro-fin-semana-bloqueos-laliga-cloudfare-estas-vpn-te-permitiran-esquivarlo-1444286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/nordvpn-3227002.jpg?tf=1200x' alt='Viene otro fin de semana de bloqueos de LaLiga a Cloudfare: estas VPN te permitirán esquivarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-destroza-inteligencia-artificial-ia-no-piensa-solo-coge-cosas-otros-lados-coloca-bien-1445081'>Steve Wozniak destroza a la inteligencia artificial: "La IA no piensa, solo coge cosas de otros lados y las coloca bien"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-destroza-inteligencia-artificial-ia-no-piensa-solo-coge-cosas-otros-lados-coloca-bien-1445081' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-wozniak-ia-4298323.jpg?tf=1200x' alt='Steve Wozniak destroza a la inteligencia artificial: "La IA no piensa, solo coge cosas de otros lados y las coloca bien"' />
     </a>
 </div>
 
