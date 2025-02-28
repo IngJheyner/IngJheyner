@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/has-decidido-despedirte-windows-10-pero-mejor-windows-11-home-windows-11-pro-1445376'>Has decidido despedirte de Windows 10, pero ¿es mejor Windows 11 Home o Windows 11 Pro?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/has-decidido-despedirte-windows-10-pero-mejor-windows-11-home-windows-11-pro-1445376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-home-pro-4298692.jpg?tf=1200x' alt='Has decidido despedirte de Windows 10, pero ¿es mejor Windows 11 Home o Windows 11 Pro?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-1445362'>Estas son todas las novedades que trae GPT-4.5, el chatbot de OpenAI para liderar la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-1445362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-4298675.jpg?tf=1200x' alt='Estas son todas las novedades que trae GPT-4.5, el chatbot de OpenAI para liderar la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-soto-ingeniero-espanol-openai-da-portazo-elon-musk-xai-amenaza-democracia-1445348'>Javier Soto, ingeniero español de OpenAI, da un portazo a Elon Musk y xAI: "Es una amenaza para la democracia"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/javier-soto-ingeniero-espanol-openai-da-portazo-elon-musk-xai-amenaza-democracia-1445348' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Javier Soto, ingeniero español de OpenAI, da un portazo a Elon Musk y xAI: "Es una amenaza para la democracia"' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compras-shein-temu-amazon-estafa-capaz-robar-cuenta-codigo-1445364'>¿Compras en Shein, Temu o Amazon? Esta estafa es capaz de robar tu cuenta con un código</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/compras-shein-temu-amazon-estafa-capaz-robar-cuenta-codigo-1445364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-paquete-4298647.jpg?tf=1200x' alt='¿Compras en Shein, Temu o Amazon? Esta estafa es capaz de robar tu cuenta con un código' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/vera-alineacion-planetas-hoy-28-febrero-mejores-puntos-observacion-espana-1445349'>Así se verá la alineación de planetas para hoy, 28 de febrero: los mejores puntos de observación en España </a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/vera-alineacion-planetas-hoy-28-febrero-mejores-puntos-observacion-espana-1445349' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alineacion-planetas-4298631.jpg?tf=1200x' alt='Así se verá la alineación de planetas para hoy, 28 de febrero: los mejores puntos de observación en España ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-vs-netflix-futbol-no-puede-competir-precios-plataformas-streaming-1445360'>LaLiga vs. Netflix: ¿por qué el fútbol no puede competir con los precios de las plataformas de streaming?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/laliga-vs-netflix-futbol-no-puede-competir-precios-plataformas-streaming-1445360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-vs-netflix-futbol-no-puede-competir-precios-plataformas-streaming-4298618.jpg?tf=1200x' alt='LaLiga vs. Netflix: ¿por qué el fútbol no puede competir con los precios de las plataformas de streaming?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-1445345'>La nueva estafa bancaria de la que alertan las autoridades: "Te asustan con este mensaje"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-1445345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-4298605.jpg?tf=1200x' alt='La nueva estafa bancaria de la que alertan las autoridades: "Te asustan con este mensaje"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-689-reto-envejecer-forma-saludable-calidad-vida-1443618'>Ya a la venta Computer Hoy número 689: el reto de envejecer de forma saludable y con calidad de vida</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-689-reto-envejecer-forma-saludable-calidad-vida-1443618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/computer-hoy-689-4295640.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 689: el reto de envejecer de forma saludable y con calidad de vida' />
     </a>
 </div>
 
