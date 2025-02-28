@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-1445446'>Bill Gates, se burla de los CEO de Silicon Valley: “Siguen siendo nerds"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-1445446' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bill-gates-burla-ceo-silicon-valley-siguen-siendo-nerds-4298821.jpg?tf=1200x' alt='Bill Gates, se burla de los CEO de Silicon Valley: “Siguen siendo nerds"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-gene-hackman-no-puedes-perderte-1445441'>Las 5 mejores películas de Gene Hackman que no puedes perderte</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-gene-hackman-no-puedes-perderte-1445441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-mejores-peliculas-gene-hackman-no-puedes-perderte-4298804.jpg?tf=1200x' alt='Las 5 mejores películas de Gene Hackman que no puedes perderte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-iptv-1443963'>DAZN responde a los bloqueos de la LaLiga a las IPTV con una peculiar oferta</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-iptv-1443963' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dazn-iptv-4298442.jpg?tf=1200x' alt='DAZN responde a los bloqueos de la LaLiga a las IPTV con una peculiar oferta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-1445468'>Las gráficas AMD Radeon RX 9000 ya son una realidad y llegan con la esperada arquitectura RDNA 4</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-1445468' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-4298910.jpg?tf=1200x' alt='Las gráficas AMD Radeon RX 9000 ya son una realidad y llegan con la esperada arquitectura RDNA 4' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-declara-guerra-chatgpt-planea-lanzamiento-app-ia-independiente-1445427'>Meta declara la guerra a ChatGPT y planea el lanzamiento de una app de IA independiente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/meta-declara-guerra-chatgpt-planea-lanzamiento-app-ia-independiente-1445427' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meta-ai-4298794.jpg?tf=1200x' alt='Meta declara la guerra a ChatGPT y planea el lanzamiento de una app de IA independiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/nuevo-operador-movistar-digi-o2-bloqueos-iptv-laliga-1444612'>Otro operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV de LaLiga para este fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/nuevo-operador-movistar-digi-o2-bloqueos-iptv-laliga-1444612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/operadores-bloqueos-iptv-laliga-4297413.jpg?tf=1200x' alt='Otro operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV de LaLiga para este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/viejo-movil-muchos-tienen-guardado-casa-podria-valer-piso-1445417'>Este viejo móvil que muchos tienen guardado en casa podría valer más que un piso</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/viejo-movil-muchos-tienen-guardado-casa-podria-valer-piso-1445417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-2007-4298781.jpg?tf=1200x' alt='Este viejo móvil que muchos tienen guardado en casa podría valer más que un piso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-hamburguesa-peligrosa-estafa-advierten-expertos-1445430'>"El timo de la hamburguesa": así es la peligrosa estafa de la que advierten los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-hamburguesa-peligrosa-estafa-advierten-expertos-1445430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/timo-hamburguesa-peligrosa-estafa-advierten-expertos-4298783.jpg?tf=1200x' alt='"El timo de la hamburguesa": así es la peligrosa estafa de la que advierten los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-skype-hola-futuro-mejores-alternativas-videollamadas-2025-1445415'>Adiós Skype, hola al futuro: las mejores alternativas para videollamadas en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-skype-hola-futuro-mejores-alternativas-videollamadas-2025-1445415' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alternativas-skype-2025-4298782.jpg?tf=1200x' alt='Adiós Skype, hola al futuro: las mejores alternativas para videollamadas en 2025' />
     </a>
 </div>
 
