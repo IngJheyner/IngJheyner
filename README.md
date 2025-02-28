@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/viejo-movil-muchos-tienen-guardado-casa-podria-valer-piso-1445417'>Este viejo móvil que muchos tienen guardado en casa podría valer más que un piso</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/viejo-movil-muchos-tienen-guardado-casa-podria-valer-piso-1445417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-2007-4298781.jpg?tf=1200x' alt='Este viejo móvil que muchos tienen guardado en casa podría valer más que un piso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/timo-hamburguesa-peligrosa-estafa-advierten-expertos-1445430'>"El timo de la hamburguesa": así es la peligrosa estafa de la que advierten los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/timo-hamburguesa-peligrosa-estafa-advierten-expertos-1445430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/timo-hamburguesa-peligrosa-estafa-advierten-expertos-4298783.jpg?tf=1200x' alt='"El timo de la hamburguesa": así es la peligrosa estafa de la que advierten los expertos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-1445411'>No es cosa tuya: ChatGPT se enrolla como las persianas, y más cuando no sabe de algo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-1445411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-4298745.jpg?tf=1200x' alt='No es cosa tuya: ChatGPT se enrolla como las persianas, y más cuando no sabe de algo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-1445394'>DIGI TV contra Movistar Plus+: planea incluir fútbol en su oferta de televisión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-1445394' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-4298739.jpg?tf=1200x' alt='DIGI TV contra Movistar Plus+: planea incluir fútbol en su oferta de televisión' />
     </a>
 </div>
 
