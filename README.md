@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-ya-no-solo-windows-microsoft-lanza-app-mac-1445490'>Copilot ya no es solo para Windows: Microsoft lanza su app para Mac</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-ya-no-solo-windows-microsoft-lanza-app-mac-1445490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copilot-ya-no-solo-windows-microsoft-lanza-app-mac-4298950.jpg?tf=1200x' alt='Copilot ya no es solo para Windows: Microsoft lanza su app para Mac' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-cambiara-proteccion-parental-2025-estas-son-todas-novedades-debes-conocer-1445462'>Apple cambiará la protección parental en 2025: estas son todas las novedades que debes conocer</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-cambiara-proteccion-parental-2025-estas-son-todas-novedades-debes-conocer-1445462' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/control-parental-apple-4298863.jpg?tf=1200x' alt='Apple cambiará la protección parental en 2025: estas son todas las novedades que debes conocer' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-iptv-1443963'>DAZN responde a los bloqueos de la LaLiga a las IPTV con una peculiar oferta</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-iptv-1443963' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/dazn-iptv-4298442.jpg?tf=1200x' alt='DAZN responde a los bloqueos de la LaLiga a las IPTV con una peculiar oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-1445468'>Las gráficas AMD Radeon RX 9000 ya son una realidad y llegan con la esperada arquitectura RDNA 4</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-1445468' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/graficas-amd-radeon-rx-9000-ya-son-realidad-llegan-esperada-arquitectura-rdna-4-4298910.jpg?tf=1200x' alt='Las gráficas AMD Radeon RX 9000 ya son una realidad y llegan con la esperada arquitectura RDNA 4' />
     </a>
 </div>
 
