@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-1445345'>La nueva estafa bancaria de la que alertan las autoridades: "Te asustan con este mensaje"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-1445345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-4298605.jpg?tf=1200x' alt='La nueva estafa bancaria de la que alertan las autoridades: "Te asustan con este mensaje"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-689-reto-envejecer-forma-saludable-calidad-vida-1443618'>Ya a la venta Computer Hoy número 689: el reto de envejecer de forma saludable y con calidad de vida</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-689-reto-envejecer-forma-saludable-calidad-vida-1443618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/computer-hoy-689-4295640.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 689: el reto de envejecer de forma saludable y con calidad de vida' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-5g-tiene-poco-envidiar-version-pro-opcion-sensata-quieres-ahorrar-1443469'>El Redmi Note 14 5G tiene poco que envidiar a su versión Pro y es una opción sensata si quieres ahorrar</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-5g-tiene-poco-envidiar-version-pro-opcion-sensata-quieres-ahorrar-1443469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/redmi-note-14-5g-4298324.jpg?tf=1200x' alt='El Redmi Note 14 5G tiene poco que envidiar a su versión Pro y es una opción sensata si quieres ahorrar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-1445182'>Giro de 180 grados al coche eléctrico, Volvo revoluciona los tiempos de carga: 300 kilómetros en solo 10 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-1445182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-volvo-revoluciona-tiempos-carga-300-kilometros-solo-10-minutos-4298215.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, Volvo revoluciona los tiempos de carga: 300 kilómetros en solo 10 minutos' />
     </a>
 </div>
 
