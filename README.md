@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/boe-publica-fechas-cambio-hora-2025-1445529'>El BOE publica las fechas del cambio de hora en 2025: estos son los dos días clave</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/boe-publica-fechas-cambio-hora-2025-1445529' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boe-publica-fechas-cambio-hora-2025-estos-son-dos-dias-clave-4298996.jpg?tf=1200x' alt='El BOE publica las fechas del cambio de hora en 2025: estos son los dos días clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-cambiar-router-desconfia-funciona-nueva-estafa-puede-costarte-1500-euros-1445523'>Si te llaman para cambiar el router, desconfía: así funciona la nueva estafa que puede costarte 1.500 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-cambiar-router-desconfia-funciona-nueva-estafa-puede-costarte-1500-euros-1445523' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-router-4298994.jpg?tf=1200x' alt='Si te llaman para cambiar el router, desconfía: así funciona la nueva estafa que puede costarte 1.500 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-1445518'>¿Cansado del spam? Google traerá emails ocultos y desechables con su nueva función</a></h4>
     <a href='https://computerhoy.20minutos.es/google/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-1445518' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-4298948.jpg?tf=1200x' alt='¿Cansado del spam? Google traerá emails ocultos y desechables con su nueva función' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-vs-deepseek-r1-chatbot-rey-ia-1445414'>GPT-4.5 vs. DeepSeek R1: ¿qué chatbot es el rey de la IA?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-vs-deepseek-r1-chatbot-rey-ia-1445414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-vs-deepseek-4298749.jpg?tf=1200x' alt='GPT-4.5 vs. DeepSeek R1: ¿qué chatbot es el rey de la IA?' />
     </a>
 </div>
 
