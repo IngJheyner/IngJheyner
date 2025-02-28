@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-1445400'>Una criminóloga advierte sobre una nueva estafa: "Ya afecta a miles de personas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-1445400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-4298703.jpg?tf=1200x' alt='Una criminóloga advierte sobre una nueva estafa: "Ya afecta a miles de personas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/has-decidido-despedirte-windows-10-pero-mejor-windows-11-home-windows-11-pro-1445376'>Has decidido despedirte de Windows 10, pero ¿es mejor Windows 11 Home o Windows 11 Pro?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/has-decidido-despedirte-windows-10-pero-mejor-windows-11-home-windows-11-pro-1445376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-home-pro-4298692.jpg?tf=1200x' alt='Has decidido despedirte de Windows 10, pero ¿es mejor Windows 11 Home o Windows 11 Pro?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/compras-shein-temu-amazon-estafa-capaz-robar-cuenta-codigo-1445364'>¿Compras en Shein, Temu o Amazon? Esta estafa es capaz de robar tu cuenta con un código</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/compras-shein-temu-amazon-estafa-capaz-robar-cuenta-codigo-1445364' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-paquete-4298647.jpg?tf=1200x' alt='¿Compras en Shein, Temu o Amazon? Esta estafa es capaz de robar tu cuenta con un código' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/vera-alineacion-planetas-hoy-28-febrero-mejores-puntos-observacion-espana-1445349'>Así se verá la alineación de planetas para hoy, 28 de febrero: los mejores puntos de observación en España </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/vera-alineacion-planetas-hoy-28-febrero-mejores-puntos-observacion-espana-1445349' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alineacion-planetas-4298631.jpg?tf=1200x' alt='Así se verá la alineación de planetas para hoy, 28 de febrero: los mejores puntos de observación en España ' />
     </a>
 </div>
 
