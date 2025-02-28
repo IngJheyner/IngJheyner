@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-soto-ingeniero-espanol-openai-da-portazo-elon-musk-xai-amenaza-democracia-1445348'>Javier Soto, ingeniero español de OpenAI, da un portazo a Elon Musk y xAI: "Es una amenaza para la democracia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/javier-soto-ingeniero-espanol-openai-da-portazo-elon-musk-xai-amenaza-democracia-1445348' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Javier Soto, ingeniero español de OpenAI, da un portazo a Elon Musk y xAI: "Es una amenaza para la democracia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/vera-alineacion-planetas-hoy-28-febrero-mejores-puntos-observacion-espana-1445349'>Así se verá la alineación de planetas para hoy, 28 de febrero: los mejores puntos de observación en España </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/vera-alineacion-planetas-hoy-28-febrero-mejores-puntos-observacion-espana-1445349' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alineacion-planetas-4298631.jpg?tf=1200x' alt='Así se verá la alineación de planetas para hoy, 28 de febrero: los mejores puntos de observación en España ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-vs-netflix-futbol-no-puede-competir-precios-plataformas-streaming-1445360'>LaLiga vs. Netflix: ¿por qué el fútbol no puede competir con los precios de las plataformas de streaming?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/laliga-vs-netflix-futbol-no-puede-competir-precios-plataformas-streaming-1445360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/laliga-vs-netflix-futbol-no-puede-competir-precios-plataformas-streaming-4298618.jpg?tf=1200x' alt='LaLiga vs. Netflix: ¿por qué el fútbol no puede competir con los precios de las plataformas de streaming?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-1445345'>La nueva estafa bancaria de la que alertan las autoridades: "Te asustan con este mensaje"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-1445345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nueva-estafa-bancaria-alertan-autoridades-te-asustan-mensaje-4298605.jpg?tf=1200x' alt='La nueva estafa bancaria de la que alertan las autoridades: "Te asustan con este mensaje"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-689-reto-envejecer-forma-saludable-calidad-vida-1443618'>Ya a la venta Computer Hoy número 689: el reto de envejecer de forma saludable y con calidad de vida</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-689-reto-envejecer-forma-saludable-calidad-vida-1443618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/computer-hoy-689-4295640.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 689: el reto de envejecer de forma saludable y con calidad de vida' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/copilot-explica-paso-paso-como-piratear-windows-11-office-1445333'>Copilot explica, paso a paso, cómo piratear Windows 11 y Office</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/copilot-explica-paso-paso-como-piratear-windows-11-office-1445333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/copilot-explica-paso-paso-como-piratear-windows-11-office-4298566.jpg?tf=1200x' alt='Copilot explica, paso a paso, cómo piratear Windows 11 y Office' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ningun-navegador-totalmente-seguro-pero-librewolf-mejores-opciones-disponibles-1440430'>Ningún navegador es totalmente seguro, pero LibreWolf es una de las mejores opciones disponibles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ningun-navegador-totalmente-seguro-pero-librewolf-mejores-opciones-disponibles-1440430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/librewolf-navegador-seguro-privado-4290518.jpg?tf=1200x' alt='Ningún navegador es totalmente seguro, pero LibreWolf es una de las mejores opciones disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-5g-tiene-poco-envidiar-version-pro-opcion-sensata-quieres-ahorrar-1443469'>El Redmi Note 14 5G tiene poco que envidiar a su versión Pro y es una opción sensata si quieres ahorrar</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-5g-tiene-poco-envidiar-version-pro-opcion-sensata-quieres-ahorrar-1443469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/redmi-note-14-5g-4298324.jpg?tf=1200x' alt='El Redmi Note 14 5G tiene poco que envidiar a su versión Pro y es una opción sensata si quieres ahorrar' />
     </a>
 </div>
 
