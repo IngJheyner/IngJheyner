@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-declara-guerra-chatgpt-planea-lanzamiento-app-ia-independiente-1445427'>Meta declara la guerra a ChatGPT y planea el lanzamiento de una app de IA independiente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-declara-guerra-chatgpt-planea-lanzamiento-app-ia-independiente-1445427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/meta-ai-4298794.jpg?tf=1200x' alt='Meta declara la guerra a ChatGPT y planea el lanzamiento de una app de IA independiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/nuevo-operador-movistar-digi-o2-bloqueos-iptv-laliga-1444612'>Otro operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV de LaLiga para este fin de semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/nuevo-operador-movistar-digi-o2-bloqueos-iptv-laliga-1444612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/operadores-bloqueos-iptv-laliga-4297413.jpg?tf=1200x' alt='Otro operador se suma a Movistar, DIGI y O2 en los bloqueos a las IPTV de LaLiga para este fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/viejo-movil-muchos-tienen-guardado-casa-podria-valer-piso-1445417'>Este viejo móvil que muchos tienen guardado en casa podría valer más que un piso</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/viejo-movil-muchos-tienen-guardado-casa-podria-valer-piso-1445417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/iphone-2007-4298781.jpg?tf=1200x' alt='Este viejo móvil que muchos tienen guardado en casa podría valer más que un piso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-skype-hola-futuro-mejores-alternativas-videollamadas-2025-1445415'>Adiós Skype, hola al futuro: las mejores alternativas para videollamadas en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-skype-hola-futuro-mejores-alternativas-videollamadas-2025-1445415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alternativas-skype-2025-4298782.jpg?tf=1200x' alt='Adiós Skype, hola al futuro: las mejores alternativas para videollamadas en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/avance-inesperado-robotica-dos-robots-empiezan-realizar-tareas-nunca-fueron-programados-1445397'>Avance inesperado en robótica: dos robots empiezan a realizar tareas para las que nunca fueron programados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/avance-inesperado-robotica-dos-robots-empiezan-realizar-tareas-nunca-fueron-programados-1445397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robots-colaboran-4298750.jpg?tf=1200x' alt='Avance inesperado en robótica: dos robots empiezan a realizar tareas para las que nunca fueron programados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-1445411'>No es cosa tuya: ChatGPT se enrolla como las persianas, y más cuando no sabe de algo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-1445411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-cosa-chatgpt-enrolla-como-persianas-cuando-no-sabe-algo-4298745.jpg?tf=1200x' alt='No es cosa tuya: ChatGPT se enrolla como las persianas, y más cuando no sabe de algo' />
     </a>
 </div>
 
