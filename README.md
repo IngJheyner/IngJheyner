@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-1445394'>DIGI TV contra Movistar Plus+: planea incluir fútbol en su oferta de televisión</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-1445394' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/digi-tv-movistar-plus-planea-incluir-futbol-oferta-television-4298739.jpg?tf=1200x' alt='DIGI TV contra Movistar Plus+: planea incluir fútbol en su oferta de televisión' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-manana-millones-usuarios-podrian-quedarse-acceso-estos-modelos-moviles-1445432'>Alerta WhatsApp: mañana, millones de usuarios podrían quedarse sin acceso en estos modelos de móviles</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/alerta-whatsapp-manana-millones-usuarios-podrian-quedarse-acceso-estos-modelos-moviles-1445432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/alerta-whatsapp-manana-millones-usuarios-podrian-quedarse-acceso-estos-modelos-moviles-4298784.jpg?tf=1200x' alt='Alerta WhatsApp: mañana, millones de usuarios podrían quedarse sin acceso en estos modelos de móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-1445400'>Una criminóloga advierte sobre una nueva estafa: "Ya afecta a miles de personas"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-1445400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/criminologa-advierte-nueva-estafa-ya-afecta-miles-personas-4298703.jpg?tf=1200x' alt='Una criminóloga advierte sobre una nueva estafa: "Ya afecta a miles de personas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-1445362'>Estas son todas las novedades que trae GPT-4.5, el chatbot de OpenAI para liderar la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-1445362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-todas-novedades-trae-gpt-45-chatbot-openai-liderar-ia-4298675.jpg?tf=1200x' alt='Estas son todas las novedades que trae GPT-4.5, el chatbot de OpenAI para liderar la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/javier-soto-ingeniero-espanol-openai-da-portazo-elon-musk-xai-amenaza-democracia-1445348'>Javier Soto, ingeniero español de OpenAI, da un portazo a Elon Musk y xAI: "Es una amenaza para la democracia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/javier-soto-ingeniero-espanol-openai-da-portazo-elon-musk-xai-amenaza-democracia-1445348' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/xai-elon-musk-4108849.jpg?tf=1200x' alt='Javier Soto, ingeniero español de OpenAI, da un portazo a Elon Musk y xAI: "Es una amenaza para la democracia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/compras-shein-temu-amazon-estafa-capaz-robar-cuenta-codigo-1445364'>¿Compras en Shein, Temu o Amazon? Esta estafa es capaz de robar tu cuenta con un código</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/compras-shein-temu-amazon-estafa-capaz-robar-cuenta-codigo-1445364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-paquete-4298647.jpg?tf=1200x' alt='¿Compras en Shein, Temu o Amazon? Esta estafa es capaz de robar tu cuenta con un código' />
     </a>
 </div>
 
