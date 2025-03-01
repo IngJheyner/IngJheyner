@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612'>Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sms-apple-4299107.jpg?tf=1200x' alt='Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599'>Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-vs-edge-4299097.jpg?tf=1200x' alt='Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/reacciones-levantar-mano-whatsapp-trabaja-mejorar-videollamadas-1445598'>Reacciones y levantar la mano: WhatsApp trabaja en mejorar sus videollamadas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/reacciones-levantar-mano-whatsapp-trabaja-mejorar-videollamadas-1445598' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/videollamada-whatsapp-4299094.jpg?tf=1200x' alt='Reacciones y levantar la mano: WhatsApp trabaja en mejorar sus videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799'>Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-4294343.jpg?tf=1200x' alt='Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+' />
     </a>
 </div>
 
