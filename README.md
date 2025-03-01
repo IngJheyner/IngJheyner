@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/jeff-bezos-empieza-mananas-usar-movil-razon-1442413'>Jeff Bezos empieza sus mañanas sin usar el móvil por esta razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/jeff-bezos-empieza-mananas-usar-movil-razon-1442413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jeff-bezos-no-usa-movil-4293693.jpg?tf=1200x' alt='Jeff Bezos empieza sus mañanas sin usar el móvil por esta razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-crece-rapido-ya-popular-windows-10-algunos-paises-1445586'>Windows 11 crece rápido y ya es más popular que Windows 10 en algunos países</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-crece-rapido-ya-popular-windows-10-algunos-paises-1445586' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuota-mercado-windows-4299082.jpg?tf=1200x' alt='Windows 11 crece rápido y ya es más popular que Windows 10 en algunos países' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632'>El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porshe-steve-jobs-4294050.jpg?tf=1200x' alt='El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066'>Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-portatil-completa-4294723.jpg?tf=1200x' alt='Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/sora-llegara-chatgpt-openai-planea-llevar-ia-video-chatbot-1445572'>Sora llegará a ChatGPT: OpenAI planea llevar la IA de vídeo a su chatbot</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/sora-llegara-chatgpt-openai-planea-llevar-ia-video-chatbot-1445572' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sora-chatgpt-4299065.jpg?tf=1200x' alt='Sora llegará a ChatGPT: OpenAI planea llevar la IA de vídeo a su chatbot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-podia-generar-graficos-1444031'>Ingeniero de Microsoft desvela después de 30 años que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-podia-generar-graficos-1444031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-dos-ordenadores-antiguos-4298423.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela después de 30 años que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
     </a>
 </div>
 
