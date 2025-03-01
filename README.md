@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/5-sistemas-operativos-gratis-perfectos-sustituir-windows-10-no-puedes-actualizar-windows-11-1444748'>5 sistemas operativos gratis perfectos para sustituir a Windows 10 si no puedes actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/5-sistemas-operativos-gratis-perfectos-sustituir-windows-10-no-puedes-actualizar-windows-11-1444748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sistema-operativo-ordenador-portatil-4297528.jpg?tf=1200x' alt='5 sistemas operativos gratis perfectos para sustituir a Windows 10 si no puedes actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ya-existia-2011-prueba-confirma-1441862'>Windows 11 ya existía desde 2011 y esta es la prueba que lo confirma</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-ya-existia-2011-prueba-confirma-1441862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-vista-windows-11-4292750.jpg?tf=1200x' alt='Windows 11 ya existía desde 2011 y esta es la prueba que lo confirma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/ferias-ya-importan-poco-1443805'>Por qué las ferias ya importan poco</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/ferias-ya-importan-poco-1443805' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ces-mwc-4296267.jpg?tf=1200x' alt='Por qué las ferias ya importan poco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aprender-python-sql-java-otros-lenguajes-programacion-como-videojuegos-1439458'>Así puedes aprender Python, SQL, Java y otros lenguajes de programación como si fueran videojuegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aprender-python-sql-java-otros-lenguajes-programacion-como-videojuegos-1439458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/lenguajes-programacion-videojuegos-4288942.jpg?tf=1200x' alt='Así puedes aprender Python, SQL, Java y otros lenguajes de programación como si fueran videojuegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/hallazgo-inesperado-dejar-pastar-ovejas-granja-paneles-solares-1445535'>Hallazgo inesperado tras dejar pastar a las ovejas en una granja de paneles solares durante tres años</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/hallazgo-inesperado-dejar-pastar-ovejas-granja-paneles-solares-1445535' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hallazgo-inesperado-dejar-pastar-ovejas-campo-paneles-solares-4299004.jpg?tf=1200x' alt='Hallazgo inesperado tras dejar pastar a las ovejas en una granja de paneles solares durante tres años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-1445509'>¿Por qué Apple eliminó MagSafe del iPhone 16e? La respuesta es bastante estratégica</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-1445509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-4299002.jpg?tf=1200x' alt='¿Por qué Apple eliminó MagSafe del iPhone 16e? La respuesta es bastante estratégica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/boe-publica-fechas-cambio-hora-2025-1445529'>El BOE publica las fechas del cambio de hora en 2025: estos son los dos días clave</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/boe-publica-fechas-cambio-hora-2025-1445529' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boe-publica-fechas-cambio-hora-2025-estos-son-dos-dias-clave-4298996.jpg?tf=1200x' alt='El BOE publica las fechas del cambio de hora en 2025: estos son los dos días clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-cambiar-router-desconfia-funciona-nueva-estafa-puede-costarte-1500-euros-1445523'>Si te llaman para cambiar el router, desconfía: así funciona la nueva estafa que puede costarte 1.500 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/te-llaman-cambiar-router-desconfia-funciona-nueva-estafa-puede-costarte-1500-euros-1445523' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estafa-router-4298994.jpg?tf=1200x' alt='Si te llaman para cambiar el router, desconfía: así funciona la nueva estafa que puede costarte 1.500 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-tv-malware-ya-controla-16-millones-dispositivos-todo-mundo-1445522'>Alerta en Android TV: un malware ya controla 1,6 millones de dispositivos en todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-tv-malware-ya-controla-16-millones-dispositivos-todo-mundo-1445522' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-tv-malware-4169648.jpg?tf=1200x' alt='Alerta en Android TV: un malware ya controla 1,6 millones de dispositivos en todo el mundo' />
     </a>
 </div>
 
