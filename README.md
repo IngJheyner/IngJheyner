@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a-inteligencia-alucinante-mwc-barcelona-1445626'>Samsung presenta la gama Galaxy A con Inteligencia Alucinante en el MWC de Barcelona</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/samsung-galaxy-a-inteligencia-alucinante-mwc-barcelona-1445626' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-presenta-gama-galaxy-inteligencia-alucinante-mwc-barcelona-4299173.jpg?tf=1200x' alt='Samsung presenta la gama Galaxy A con Inteligencia Alucinante en el MWC de Barcelona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-metricas-confusas-windows-11-hara-administrador-tareas-sea-preciso-nunca-1445619'>Adiós a las métricas confusas: Windows 11 hará que el administrador de tareas sea más preciso que nunca</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-metricas-confusas-windows-11-hara-administrador-tareas-sea-preciso-nunca-1445619' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-4266470.jpg?tf=1200x' alt='Adiós a las métricas confusas: Windows 11 hará que el administrador de tareas sea más preciso que nunca' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/avisos-peligro-google-maps-generan-problemas-soluciones-usuarios-1445613'>Los avisos de peligro de Google Maps generan más problemas que soluciones, según usuarios</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/avisos-peligro-google-maps-generan-problemas-soluciones-usuarios-1445613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-3988123.jpg?tf=1200x' alt='Los avisos de peligro de Google Maps generan más problemas que soluciones, según usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612'>Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sms-apple-4299107.jpg?tf=1200x' alt='Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil' />
     </a>
 </div>
 
