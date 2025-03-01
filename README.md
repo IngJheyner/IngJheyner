@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/bloquear-internet-movil-mejora-estado-animo-estudio-1445616'>Bloquear Internet en el móvil mejora el estado de ánimo, según un estudio</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/bloquear-internet-movil-mejora-estado-animo-estudio-1445616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloquear-internet-movil-4299116.jpg?tf=1200x' alt='Bloquear Internet en el móvil mejora el estado de ánimo, según un estudio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-ia-convierte-ruidos-imagenes-durante-reuniones-1445615'>Microsoft patenta una IA que convierte ruidos en imágenes durante reuniones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-ia-convierte-ruidos-imagenes-durante-reuniones-1445615' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-reunion-4299110.jpg?tf=1200x' alt='Microsoft patenta una IA que convierte ruidos en imágenes durante reuniones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599'>Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-vs-edge-4299097.jpg?tf=1200x' alt='Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501'>Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/friends-3937620.jpg?tf=1200x' alt='Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos ' />
     </a>
 </div>
 
