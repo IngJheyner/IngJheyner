@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799'>Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-4294343.jpg?tf=1200x' alt='Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-139-sorpresa-cambios-terminologia-puedes-descargarlo-ya-mismo-1445593'>Google lanza Android Auto 13.9 por sorpresa con cambios en la terminología y más: así puedes descargarlo ya mismo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-139-sorpresa-cambios-terminologia-puedes-descargarlo-ya-mismo-1445593' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-139-4299087.jpg?tf=1200x' alt='Google lanza Android Auto 13.9 por sorpresa con cambios en la terminología y más: así puedes descargarlo ya mismo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/jeff-bezos-empieza-mananas-usar-movil-razon-1442413'>Jeff Bezos empieza sus mañanas sin usar el móvil por esta razón</a></h4>
     <a href='https://computerhoy.20minutos.es/life/jeff-bezos-empieza-mananas-usar-movil-razon-1442413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jeff-bezos-no-usa-movil-4293693.jpg?tf=1200x' alt='Jeff Bezos empieza sus mañanas sin usar el móvil por esta razón' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632'>El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porshe-steve-jobs-4294050.jpg?tf=1200x' alt='El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-peligro-inteligencia-artificial-autonoma-1441066'>Dos reconocidos expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-peligro-inteligencia-artificial-autonoma-1441066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-inteligencia-artificial-maligno-4298444.jpg?tf=1200x' alt='Dos reconocidos expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066'>Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-portatil-completa-4294723.jpg?tf=1200x' alt='Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato' />
     </a>
 </div>
 
