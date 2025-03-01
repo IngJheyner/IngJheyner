@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501'>Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/friends-3937620.jpg?tf=1200x' alt='Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sirve-pequeno-agujero-frigorifico-tan-importante-1441182'>Para qué sirve este pequeño agujero de tu frigorífico y por qué es tan importante</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sirve-pequeno-agujero-frigorifico-tan-importante-1441182' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sirve-pequeno-agujero-frigorifico-tan-importante-4291692.jpg?tf=1200x' alt='Para qué sirve este pequeño agujero de tu frigorífico y por qué es tan importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/reacciones-levantar-mano-whatsapp-trabaja-mejorar-videollamadas-1445598'>Reacciones y levantar la mano: WhatsApp trabaja en mejorar sus videollamadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/reacciones-levantar-mano-whatsapp-trabaja-mejorar-videollamadas-1445598' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/videollamada-whatsapp-4299094.jpg?tf=1200x' alt='Reacciones y levantar la mano: WhatsApp trabaja en mejorar sus videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799'>Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-4294343.jpg?tf=1200x' alt='Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-139-sorpresa-cambios-terminologia-puedes-descargarlo-ya-mismo-1445593'>Google lanza Android Auto 13.9 por sorpresa con cambios en la terminología y más: así puedes descargarlo ya mismo</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-139-sorpresa-cambios-terminologia-puedes-descargarlo-ya-mismo-1445593' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-139-4299087.jpg?tf=1200x' alt='Google lanza Android Auto 13.9 por sorpresa con cambios en la terminología y más: así puedes descargarlo ya mismo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/jeff-bezos-empieza-mananas-usar-movil-razon-1442413'>Jeff Bezos empieza sus mañanas sin usar el móvil por esta razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/jeff-bezos-empieza-mananas-usar-movil-razon-1442413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/jeff-bezos-no-usa-movil-4293693.jpg?tf=1200x' alt='Jeff Bezos empieza sus mañanas sin usar el móvil por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-crece-rapido-ya-popular-windows-10-algunos-paises-1445586'>Windows 11 crece rápido y ya es más popular que Windows 10 en algunos países</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-crece-rapido-ya-popular-windows-10-algunos-paises-1445586' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuota-mercado-windows-4299082.jpg?tf=1200x' alt='Windows 11 crece rápido y ya es más popular que Windows 10 en algunos países' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632'>El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porshe-steve-jobs-4294050.jpg?tf=1200x' alt='El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares' />
     </a>
 </div>
 
