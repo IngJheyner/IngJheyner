@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/hallazgo-inesperado-dejar-pastar-ovejas-granja-paneles-solares-1445535'>Hallazgo inesperado tras dejar pastar a las ovejas en una granja de paneles solares durante tres años</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/hallazgo-inesperado-dejar-pastar-ovejas-granja-paneles-solares-1445535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hallazgo-inesperado-dejar-pastar-ovejas-campo-paneles-solares-4299004.jpg?tf=1200x' alt='Hallazgo inesperado tras dejar pastar a las ovejas en una granja de paneles solares durante tres años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-1445509'>¿Por qué Apple eliminó MagSafe del iPhone 16e? La respuesta es bastante estratégica</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-1445509' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-4299002.jpg?tf=1200x' alt='¿Por qué Apple eliminó MagSafe del iPhone 16e? La respuesta es bastante estratégica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-tv-malware-ya-controla-16-millones-dispositivos-todo-mundo-1445522'>Alerta en Android TV: un malware ya controla 1,6 millones de dispositivos en todo el mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-tv-malware-ya-controla-16-millones-dispositivos-todo-mundo-1445522' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/android-tv-malware-4169648.jpg?tf=1200x' alt='Alerta en Android TV: un malware ya controla 1,6 millones de dispositivos en todo el mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nokia-punto-desplegar-primera-red-4g-fuera-tierra-1445519'>Nokia está a punto de desplegar la primera red 4G fuera de la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nokia-punto-desplegar-primera-red-4g-fuera-tierra-1445519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/intuitive-machines-2-im-2-4298984.jpg?tf=1200x' alt='Nokia está a punto de desplegar la primera red 4G fuera de la Tierra' />
     </a>
 </div>
 
