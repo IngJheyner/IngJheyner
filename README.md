@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599'>Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-vs-edge-4299097.jpg?tf=1200x' alt='Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501'>Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/friends-3937620.jpg?tf=1200x' alt='Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799'>Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-1442799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-totoro-ni-mononoke-fue-primer-gran-exito-hayao-miyazaki-puedes-verlo-movistar-plus-4294343.jpg?tf=1200x' alt='Ni Totoro ni Mononoke: este fue el primer gran éxito de Hayao Miyazaki, y puedes verlo en Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-139-sorpresa-cambios-terminologia-puedes-descargarlo-ya-mismo-1445593'>Google lanza Android Auto 13.9 por sorpresa con cambios en la terminología y más: así puedes descargarlo ya mismo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-139-sorpresa-cambios-terminologia-puedes-descargarlo-ya-mismo-1445593' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-139-4299087.jpg?tf=1200x' alt='Google lanza Android Auto 13.9 por sorpresa con cambios en la terminología y más: así puedes descargarlo ya mismo' />
     </a>
 </div>
 
