@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632'>El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/truco-porsche-steve-jobs-gano-20-millones-dolares-1442632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/porshe-steve-jobs-4294050.jpg?tf=1200x' alt='El truco del Porsche de Steve Jobs con el que ganó 20 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-peligro-inteligencia-artificial-autonoma-1441066'>Dos reconocidos expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-peligro-inteligencia-artificial-autonoma-1441066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/robot-inteligencia-artificial-maligno-4298444.jpg?tf=1200x' alt='Dos reconocidos expertos del mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066'>Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-portatil-completa-4294723.jpg?tf=1200x' alt='Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-podia-generar-graficos-1444031'>Ingeniero de Microsoft desvela después de 30 años que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-podia-generar-graficos-1444031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-dos-ordenadores-antiguos-4298423.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela después de 30 años que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-1442411'>Cómo crear una copia segura de tu DNI para compartir por internet sin programas ni instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-1442411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-4293698.jpg?tf=1200x' alt='Cómo crear una copia segura de tu DNI para compartir por internet sin programas ni instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-1442577'>Giro de 180 grados al coche eléctrico, las baterías que duran para siempre ya son una realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, las baterías que duran para siempre ya son una realidad' />
     </a>
 </div>
 
