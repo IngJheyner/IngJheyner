@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-1445509'>¿Por qué Apple eliminó MagSafe del iPhone 16e? La respuesta es bastante estratégica</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-1445509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-elimino-magsafe-iphone-16e-respuesta-bastante-estrategica-4299002.jpg?tf=1200x' alt='¿Por qué Apple eliminó MagSafe del iPhone 16e? La respuesta es bastante estratégica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/boe-publica-fechas-cambio-hora-2025-1445529'>El BOE publica las fechas del cambio de hora en 2025: estos son los dos días clave</a></h4>
     <a href='https://computerhoy.20minutos.es/life/boe-publica-fechas-cambio-hora-2025-1445529' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boe-publica-fechas-cambio-hora-2025-estos-son-dos-dias-clave-4298996.jpg?tf=1200x' alt='El BOE publica las fechas del cambio de hora en 2025: estos son los dos días clave' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nokia-punto-desplegar-primera-red-4g-fuera-tierra-1445519'>Nokia está a punto de desplegar la primera red 4G fuera de la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nokia-punto-desplegar-primera-red-4g-fuera-tierra-1445519' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/intuitive-machines-2-im-2-4298984.jpg?tf=1200x' alt='Nokia está a punto de desplegar la primera red 4G fuera de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-1445518'>¿Cansado del spam? Google traerá emails ocultos y desechables con su nueva función</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-1445518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cansado-spam-google-traera-emails-ocultos-desechables-nueva-funcion-4298948.jpg?tf=1200x' alt='¿Cansado del spam? Google traerá emails ocultos y desechables con su nueva función' />
     </a>
 </div>
 
