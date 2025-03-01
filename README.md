@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-metricas-confusas-windows-11-hara-administrador-tareas-sea-preciso-nunca-1445619'>Adiós a las métricas confusas: Windows 11 hará que el administrador de tareas sea más preciso que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-metricas-confusas-windows-11-hara-administrador-tareas-sea-preciso-nunca-1445619' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/consejos-trucos-ocultos-sacarle-todo-provecho-administrador-tareas-windows-4266470.jpg?tf=1200x' alt='Adiós a las métricas confusas: Windows 11 hará que el administrador de tareas sea más preciso que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/bloquear-internet-movil-mejora-estado-animo-estudio-1445616'>Bloquear Internet en el móvil mejora el estado de ánimo, según un estudio</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/bloquear-internet-movil-mejora-estado-animo-estudio-1445616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloquear-internet-movil-4299116.jpg?tf=1200x' alt='Bloquear Internet en el móvil mejora el estado de ánimo, según un estudio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612'>Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sms-apple-4299107.jpg?tf=1200x' alt='Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599'>Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/edge-marca-record-historico-firefox-resiste-safari-cae-guerra-navegadores-donde-domina-chrome-1445599' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-vs-edge-4299097.jpg?tf=1200x' alt='Edge marca récord histórico, Firefox resiste y Safari cae: así está la guerra de los navegadores donde domina Chrome' />
     </a>
 </div>
 
