@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-1442411'>Cómo crear una copia segura de tu DNI para compartir por internet sin programas ni instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-1442411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-4293698.jpg?tf=1200x' alt='Cómo crear una copia segura de tu DNI para compartir por internet sin programas ni instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-1442577'>Giro de 180 grados al coche eléctrico, las baterías que duran para siempre ya son una realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, las baterías que duran para siempre ya son una realidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/estos-son-productos-no-puedes-devolver-amazon-razon-sorprendente-piensas-1443570'>Estos son los productos que no puedes devolver a Amazon, y la razón es más sorprendente de lo que piensas</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/estos-son-productos-no-puedes-devolver-amazon-razon-sorprendente-piensas-1443570' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estos-son-productos-no-puedes-devolver-amazon-razon-sorprendente-piensas-4295491.jpg?tf=1200x' alt='Estos son los productos que no puedes devolver a Amazon, y la razón es más sorprendente de lo que piensas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/apps-programas-estan-matando-rendimiento-pc-windows-sepas-1442637'>Apps y programas que están matando el rendimiento de tu PC con Windows sin que lo sepas</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/apps-programas-estan-matando-rendimiento-pc-windows-sepas-1442637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-apps-innecesarias-4294057.jpg?tf=1200x' alt='Apps y programas que están matando el rendimiento de tu PC con Windows sin que lo sepas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/5-sistemas-operativos-gratis-perfectos-sustituir-windows-10-no-puedes-actualizar-windows-11-1444748'>5 sistemas operativos gratis perfectos para sustituir a Windows 10 si no puedes actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/5-sistemas-operativos-gratis-perfectos-sustituir-windows-10-no-puedes-actualizar-windows-11-1444748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sistema-operativo-ordenador-portatil-4297528.jpg?tf=1200x' alt='5 sistemas operativos gratis perfectos para sustituir a Windows 10 si no puedes actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ya-existia-2011-prueba-confirma-1441862'>Windows 11 ya existía desde 2011 y esta es la prueba que lo confirma</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-ya-existia-2011-prueba-confirma-1441862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-vista-windows-11-4292750.jpg?tf=1200x' alt='Windows 11 ya existía desde 2011 y esta es la prueba que lo confirma' />
     </a>
 </div>
 
