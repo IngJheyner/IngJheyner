@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-ia-convierte-ruidos-imagenes-durante-reuniones-1445615'>Microsoft patenta una IA que convierte ruidos en imágenes durante reuniones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-patenta-ia-convierte-ruidos-imagenes-durante-reuniones-1445615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-reunion-4299110.jpg?tf=1200x' alt='Microsoft patenta una IA que convierte ruidos en imágenes durante reuniones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/avisos-peligro-google-maps-generan-problemas-soluciones-usuarios-1445613'>Los avisos de peligro de Google Maps generan más problemas que soluciones, según usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/avisos-peligro-google-maps-generan-problemas-soluciones-usuarios-1445613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-maps-no-aparece-android-auto-solucion-como-recuperarlo-3988123.jpg?tf=1200x' alt='Los avisos de peligro de Google Maps generan más problemas que soluciones, según usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612'>Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/mensajes-criticos-llegan-iphone-funciona-nueva-alerta-movil-1445612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sms-apple-4299107.jpg?tf=1200x' alt='Los "mensajes críticos" llegan al iPhone: así funciona esta nueva alerta en tu móvil' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501'>Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/friends-personaje-desaparecio-como-arte-magia-octava-temporada-dejo-fans-perplejos-1444501' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/friends-3937620.jpg?tf=1200x' alt='Friends: el personaje que desapareció como por arte de magia en la octava temporada, y dejó a los fans perplejos ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sirve-pequeno-agujero-frigorifico-tan-importante-1441182'>Para qué sirve este pequeño agujero de tu frigorífico y por qué es tan importante</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sirve-pequeno-agujero-frigorifico-tan-importante-1441182' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/sirve-pequeno-agujero-frigorifico-tan-importante-4291692.jpg?tf=1200x' alt='Para qué sirve este pequeño agujero de tu frigorífico y por qué es tan importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/reacciones-levantar-mano-whatsapp-trabaja-mejorar-videollamadas-1445598'>Reacciones y levantar la mano: WhatsApp trabaja en mejorar sus videollamadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/reacciones-levantar-mano-whatsapp-trabaja-mejorar-videollamadas-1445598' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/videollamada-whatsapp-4299094.jpg?tf=1200x' alt='Reacciones y levantar la mano: WhatsApp trabaja en mejorar sus videollamadas' />
     </a>
 </div>
 
