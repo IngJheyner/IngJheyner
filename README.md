@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066'>Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-saber-ciclos-bateria-portatil-windows-significa-importante-dato-1443066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bateria-portatil-completa-4294723.jpg?tf=1200x' alt='Cómo saber los ciclos batería de un portátil con Windows y qué significa este importante dato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/sora-llegara-chatgpt-openai-planea-llevar-ia-video-chatbot-1445572'>Sora llegará a ChatGPT: OpenAI planea llevar la IA de vídeo a su chatbot</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/sora-llegara-chatgpt-openai-planea-llevar-ia-video-chatbot-1445572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sora-chatgpt-4299065.jpg?tf=1200x' alt='Sora llegará a ChatGPT: OpenAI planea llevar la IA de vídeo a su chatbot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-podia-generar-graficos-1444031'>Ingeniero de Microsoft desvela después de 30 años que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-podia-generar-graficos-1444031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ms-dos-windows-95-dos-ordenadores-antiguos-4298423.jpg?tf=1200x' alt='Ingeniero de Microsoft desvela después de 30 años que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-1442411'>Cómo crear una copia segura de tu DNI para compartir por internet sin programas ni instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-1442411' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-crear-copia-segura-dni-compartir-internet-programas-ni-instalar-nada-4293698.jpg?tf=1200x' alt='Cómo crear una copia segura de tu DNI para compartir por internet sin programas ni instalar nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-1442577'>Giro de 180 grados al coche eléctrico, las baterías que duran para siempre ya son una realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-bateria-aluminio-1442577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro de 180 grados al coche eléctrico, las baterías que duran para siempre ya son una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/estos-son-productos-no-puedes-devolver-amazon-razon-sorprendente-piensas-1443570'>Estos son los productos que no puedes devolver a Amazon, y la razón es más sorprendente de lo que piensas</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/estos-son-productos-no-puedes-devolver-amazon-razon-sorprendente-piensas-1443570' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estos-son-productos-no-puedes-devolver-amazon-razon-sorprendente-piensas-4295491.jpg?tf=1200x' alt='Estos son los productos que no puedes devolver a Amazon, y la razón es más sorprendente de lo que piensas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-11-pide-cuenta-microsoft-puedes-evadir-inicio-sesion-1441601'>Si Windows 11 te pide una cuenta de Microsoft, así puedes evadir el inicio de sesión</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/windows-11-pide-cuenta-microsoft-puedes-evadir-inicio-sesion-1441601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/bloquear-cuenta-microsoft-4292392.jpg?tf=1200x' alt='Si Windows 11 te pide una cuenta de Microsoft, así puedes evadir el inicio de sesión' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/apps-programas-estan-matando-rendimiento-pc-windows-sepas-1442637'>Apps y programas que están matando el rendimiento de tu PC con Windows sin que lo sepas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/apps-programas-estan-matando-rendimiento-pc-windows-sepas-1442637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-11-apps-innecesarias-4294057.jpg?tf=1200x' alt='Apps y programas que están matando el rendimiento de tu PC con Windows sin que lo sepas' />
     </a>
 </div>
 
