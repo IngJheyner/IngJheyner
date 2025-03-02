@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/hacer-windows-11-parezca-windows-vista-podria-mejorar-rendimiento-pc-1442116'>Hacer que Windows 11 se parezca a Windows Vista podría mejorar el rendimiento de tu PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/hacer-windows-11-parezca-windows-vista-podria-mejorar-rendimiento-pc-1442116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/portatil-windows-11-windows-vista-4293196.jpg?tf=1200x' alt='Hacer que Windows 11 se parezca a Windows Vista podría mejorar el rendimiento de tu PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-permite-personalizar-widgets-pantalla-bloqueo-pero-solo-vives-region-1445655'>Windows 11 ahora permite personalizar widgets en la pantalla de bloqueo, pero solo si vives en esta región</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-permite-personalizar-widgets-pantalla-bloqueo-pero-solo-vives-region-1445655' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-3576763.jpg?tf=1200x' alt='Windows 11 ahora permite personalizar widgets en la pantalla de bloqueo, pero solo si vives en esta región' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-nuevos-canales-television-gratis-1439551'>Movistar Plus+ sin frenos: activa el modo "3 por 1" para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-nuevos-canales-television-gratis-1439551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canales-gratis-movistar-plus-4298449.jpg?tf=1200x' alt='Movistar Plus+ sin frenos: activa el modo "3 por 1" para todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-prueba-notificaciones-chrome-recordarte-gemini-existe-1445648'>Google prueba notificaciones en Chrome para recordarte que Gemini existe</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-prueba-notificaciones-chrome-recordarte-gemini-existe-1445648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Google prueba notificaciones en Chrome para recordarte que Gemini existe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/digi-movistar-masorange-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566'>Cómo evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/digi-movistar-masorange-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operadores-afectados-bloqueos-iptv-laliga-4299203.jpg?tf=1200x' alt='Cómo evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/anonymous-vuelve-objetivo-elon-musk-1443808'>Anonymous despierta de su letargo con un claro objetivo: Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/anonymous-vuelve-objetivo-elon-musk-1443808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/anonymous-regresa-fuerza-letargo-claro-objetivo-elon-musk-4295939.jpg?tf=1200x' alt='Anonymous despierta de su letargo con un claro objetivo: Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-tiene-modo-maximo-rendimiento-desbloquea-codigo-secreto-debes-utilizar-moderacion-1441863'>Windows tiene un modo de "máximo rendimiento": se desbloquea con un código secreto (que debes utilizar con moderación)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/windows-tiene-modo-maximo-rendimiento-desbloquea-codigo-secreto-debes-utilizar-moderacion-1441863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-tiene-modo-maximo-rendimiento-desbloquea-codigo-secreto-debes-utilizarlo-moderacion-4292757.jpg?tf=1200x' alt='Windows tiene un modo de "máximo rendimiento": se desbloquea con un código secreto (que debes utilizar con moderación)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-borrar-historial-chatgpt-empezar-cero-pocos-pasos-1441389'>Así puedes borrar tu historial en ChatGPT y empezar desde cero en pocos pasos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-borrar-historial-chatgpt-empezar-cero-pocos-pasos-1441389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/eliminar-chats-chatgpt-4292110.jpg?tf=1200x' alt='Así puedes borrar tu historial en ChatGPT y empezar desde cero en pocos pasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puede-eliminar-ia-windows-11-yo-he-conseguido-no-me-arrepiento-1442635'>¿Se puede eliminar la IA de Windows 11? Yo lo he conseguido, y no me arrepiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/puede-eliminar-ia-windows-11-yo-he-conseguido-no-me-arrepiento-1442635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puede-eliminar-ia-windows-11-yo-he-conseguido-no-me-arrepiento-4294061.jpg?tf=1200x' alt='¿Se puede eliminar la IA de Windows 11? Yo lo he conseguido, y no me arrepiento' />
     </a>
 </div>
 
