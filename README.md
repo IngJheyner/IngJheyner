@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704'>Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-arrasa-mwc-lluvia-portatiles-ia-local-ordenadores-energia-solar-mucho-4299352.jpg?tf=1200x' alt='Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/portatil-monitor-vertical-tableta-locura-pc-plegable-ha-creado-lenovo-1445693'>¿Portátil, monitor vertical o tableta?: así es la locura de PC plegable que ha creado Lenovo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/portatil-monitor-vertical-tableta-locura-pc-plegable-ha-creado-lenovo-1445693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-thinkbook-flip-ai-pc-concept-4299353.jpg?tf=1200x' alt='¿Portátil, monitor vertical o tableta?: así es la locura de PC plegable que ha creado Lenovo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702'>Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-cloudflare-vuelven-surrealistas-supuestamente-tambien-bloquea-movistar-4299338.jpg?tf=1200x' alt='Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697'>La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nave-privada-blue-ghost-firefly-aterriza-exito-luna-4299322.jpg?tf=1200x' alt='La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/siempre-arrasa-black-friday-pero-no-hay-esperar-robot-aspirador-barato-lefant-menos-100-euros-1445617'>Siempre arrasa en el Black Friday, pero no hay que esperar: el robot aspirador barato de Lefant, por menos de 100 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/siempre-arrasa-black-friday-pero-no-hay-esperar-robot-aspirador-barato-lefant-menos-100-euros-1445617' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lefant-m210-4299117.jpg?tf=1200x' alt='Siempre arrasa en el Black Friday, pero no hay que esperar: el robot aspirador barato de Lefant, por menos de 100 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507'>Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/honor-earbuds-open-4298988.jpg?tf=1200x' alt='Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor' />
     </a>
 </div>
 
