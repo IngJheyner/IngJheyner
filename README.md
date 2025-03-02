@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-1442124'>¿Por qué muchos aviones siguen teniendo dos conectores de auriculares?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-1442124' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-4293200.jpg?tf=1200x' alt='¿Por qué muchos aviones siguen teniendo dos conectores de auriculares?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chrome-android-espacio-navegar-interrupciones-1445668'>Google actualiza Chrome en Android: más espacio para navegar sin interrupciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chrome-android-espacio-navegar-interrupciones-1445668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/telefono-movil-chrome-4072440.jpg?tf=1200x' alt='Google actualiza Chrome en Android: más espacio para navegar sin interrupciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/algunos-conectores-usb-son-color-naranja-significado-tiene-1442125'>Por qué algunos conectores USB son de color naranja y qué significado tiene</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/algunos-conectores-usb-son-color-naranja-significado-tiene-1442125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/algunos-conectores-usb-son-color-naranja-significado-tiene-4293209.jpg?tf=1200x' alt='Por qué algunos conectores USB son de color naranja y qué significado tiene' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/aposto-steve-jobs-iphone-tres-anos-antes-existiera-tacharon-loco-1443568'>Apostó por Steve Jobs y el iPhone tres años antes de que existiera y lo tacharon de loco</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/aposto-steve-jobs-iphone-tres-anos-antes-existiera-tacharon-loco-1443568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-jobs-masayoshi-son-4295487.jpg?tf=1200x' alt='Apostó por Steve Jobs y el iPhone tres años antes de que existiera y lo tacharon de loco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-herramienta-activacion-windows-office-gratis-legal-1443772'>Hackers crean una app que activa Windows y Office para siempre ya firman que es legal: "Lo usan empleados de Microsoft"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hackers-herramienta-activacion-windows-office-gratis-legal-1443772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-windows-4298445.jpg?tf=1200x' alt='Hackers crean una app que activa Windows y Office para siempre ya firman que es legal: "Lo usan empleados de Microsoft"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-sube-tren-ia-prepara-nueva-funcion-ajustar-tono-estilo-traduccion-1445657'>El traductor de Google se sube al tren de la IA: prepara una nueva función para ajustar tono y estilo de traducción</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/traductor-google-sube-tren-ia-prepara-nueva-funcion-ajustar-tono-estilo-traduccion-1445657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/traductor-google-ia-4289340.jpg?tf=1200x' alt='El traductor de Google se sube al tren de la IA: prepara una nueva función para ajustar tono y estilo de traducción' />
     </a>
 </div>
 
