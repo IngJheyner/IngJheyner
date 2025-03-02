@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232'>Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-4296672.jpg?tf=1200x' alt='Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-pone-patas-arriba-mercado-todo-ecosistema-aiot-ampliado-1445469'>Xiaomi pone patas arriba el mercado con todo un ecosistema AIoT ampliado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-pone-patas-arriba-mercado-todo-ecosistema-aiot-ampliado-1445469' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ecosistema-aiot-xiaomi-ampliado-4298858.jpg?tf=1200x' alt='Xiaomi pone patas arriba el mercado con todo un ecosistema AIoT ampliado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-revoluciona-corral-nueva-serie-15-presidida-flamante-xiaomi-15-ultra-1445088'>Xiaomi revoluciona el corral con su nueva serie 15, presidida por el flamante Xiaomi 15 Ultra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-revoluciona-corral-nueva-serie-15-presidida-flamante-xiaomi-15-ultra-1445088' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/serie-xiaomi-15-4298451.jpg?tf=1200x' alt='Xiaomi revoluciona el corral con su nueva serie 15, presidida por el flamante Xiaomi 15 Ultra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/primer-vistazo-xiaomi-15-ultra-competencia-necesitaba-mercado-gama-alta-camara-infarto-1445087'>Un primer vistazo al Xiaomi 15 Ultra, la competencia que necesitaba el mercado de gama alta con una cámara de infarto</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/primer-vistazo-xiaomi-15-ultra-competencia-necesitaba-mercado-gama-alta-camara-infarto-1445087' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-15-ultra-4298320.jpg?tf=1200x' alt='Un primer vistazo al Xiaomi 15 Ultra, la competencia que necesitaba el mercado de gama alta con una cámara de infarto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-1442124'>¿Por qué muchos aviones siguen teniendo dos conectores de auriculares?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-1442124' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-4293200.jpg?tf=1200x' alt='¿Por qué muchos aviones siguen teniendo dos conectores de auriculares?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chrome-android-espacio-navegar-interrupciones-1445668'>Google actualiza Chrome en Android: más espacio para navegar sin interrupciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chrome-android-espacio-navegar-interrupciones-1445668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/telefono-movil-chrome-4072440.jpg?tf=1200x' alt='Google actualiza Chrome en Android: más espacio para navegar sin interrupciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/algunos-conectores-usb-son-color-naranja-significado-tiene-1442125'>Por qué algunos conectores USB son de color naranja y qué significado tiene</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/algunos-conectores-usb-son-color-naranja-significado-tiene-1442125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/algunos-conectores-usb-son-color-naranja-significado-tiene-4293209.jpg?tf=1200x' alt='Por qué algunos conectores USB son de color naranja y qué significado tiene' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevo-fallo-android-auto-hace-creer-usuarios-pantallas-estan-rotas-1445663'>Nuevo fallo en Android Auto hace creer a los usuarios que sus pantallas están rotas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevo-fallo-android-auto-hace-creer-usuarios-pantallas-estan-rotas-1445663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/error-android-auto-4120966.jpg?tf=1200x' alt='Nuevo fallo en Android Auto hace creer a los usuarios que sus pantallas están rotas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/aposto-steve-jobs-iphone-tres-anos-antes-existiera-tacharon-loco-1443568'>Apostó por Steve Jobs y el iPhone tres años antes de que existiera y lo tacharon de loco</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/aposto-steve-jobs-iphone-tres-anos-antes-existiera-tacharon-loco-1443568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-jobs-masayoshi-son-4295487.jpg?tf=1200x' alt='Apostó por Steve Jobs y el iPhone tres años antes de que existiera y lo tacharon de loco' />
     </a>
 </div>
 
