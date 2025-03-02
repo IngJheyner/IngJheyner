@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-tiene-modo-maximo-rendimiento-desbloquea-codigo-secreto-debes-utilizar-moderacion-1441863'>Windows tiene un modo de "máximo rendimiento": se desbloquea con un código secreto (que debes utilizar con moderación)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/windows-tiene-modo-maximo-rendimiento-desbloquea-codigo-secreto-debes-utilizar-moderacion-1441863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/windows-tiene-modo-maximo-rendimiento-desbloquea-codigo-secreto-debes-utilizarlo-moderacion-4292757.jpg?tf=1200x' alt='Windows tiene un modo de "máximo rendimiento": se desbloquea con un código secreto (que debes utilizar con moderación)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-borrar-historial-chatgpt-empezar-cero-pocos-pasos-1441389'>Así puedes borrar tu historial en ChatGPT y empezar desde cero en pocos pasos</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/puedes-borrar-historial-chatgpt-empezar-cero-pocos-pasos-1441389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/eliminar-chats-chatgpt-4292110.jpg?tf=1200x' alt='Así puedes borrar tu historial en ChatGPT y empezar desde cero en pocos pasos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/pulsa-boton-factura-calefaccion-reducira-drasticamente-incluso-dejandola-encendida-todo-dia-1441181'>Pulsa este botón y tu factura de calefacción se reducirá drásticamente, incluso dejándola encendida todo el día</a></h4>
     <a href='https://computerhoy.20minutos.es/life/pulsa-boton-factura-calefaccion-reducira-drasticamente-incluso-dejandola-encendida-todo-dia-1441181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/simplemente-pulsa-boton-factura-calefaccion-reducira-significativamente-incluso-dejandola-encendida-todo-dia-4291690.jpg?tf=1200x' alt='Pulsa este botón y tu factura de calefacción se reducirá drásticamente, incluso dejándola encendida todo el día' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-como-openai-va-cambiarte-dia-dia-gracias-ia-1443002'>¿Qué es Operator y cómo OpenAI va a cambiarte tu día a día gracias a la IA?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/operator-como-openai-va-cambiarte-dia-dia-gracias-ia-1443002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740736070103-4298627.jpg?tf=1200x' alt='¿Qué es Operator y cómo OpenAI va a cambiarte tu día a día gracias a la IA?' />
     </a>
 </div>
 
