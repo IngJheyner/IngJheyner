@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/aposto-steve-jobs-iphone-tres-anos-antes-existiera-tacharon-loco-1443568'>Apostó por Steve Jobs y el iPhone tres años antes de que existiera y lo tacharon de loco</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/aposto-steve-jobs-iphone-tres-anos-antes-existiera-tacharon-loco-1443568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/steve-jobs-masayoshi-son-4295487.jpg?tf=1200x' alt='Apostó por Steve Jobs y el iPhone tres años antes de que existiera y lo tacharon de loco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-herramienta-activacion-windows-office-gratis-legal-1443772'>Hackers crean una app que activa Windows y Office para siempre ya firman que es legal: "Lo usan empleados de Microsoft"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/hackers-herramienta-activacion-windows-office-gratis-legal-1443772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-windows-4298445.jpg?tf=1200x' alt='Hackers crean una app que activa Windows y Office para siempre ya firman que es legal: "Lo usan empleados de Microsoft"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/traductor-google-sube-tren-ia-prepara-nueva-funcion-ajustar-tono-estilo-traduccion-1445657'>El traductor de Google se sube al tren de la IA: prepara una nueva función para ajustar tono y estilo de traducción</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/traductor-google-sube-tren-ia-prepara-nueva-funcion-ajustar-tono-estilo-traduccion-1445657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/traductor-google-ia-4289340.jpg?tf=1200x' alt='El traductor de Google se sube al tren de la IA: prepara una nueva función para ajustar tono y estilo de traducción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/hacer-windows-11-parezca-windows-vista-podria-mejorar-rendimiento-pc-1442116'>Hacer que Windows 11 se parezca a Windows Vista podría mejorar el rendimiento de tu PC</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/hacer-windows-11-parezca-windows-vista-podria-mejorar-rendimiento-pc-1442116' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/portatil-windows-11-windows-vista-4293196.jpg?tf=1200x' alt='Hacer que Windows 11 se parezca a Windows Vista podría mejorar el rendimiento de tu PC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-permite-personalizar-widgets-pantalla-bloqueo-pero-solo-vives-region-1445655'>Windows 11 ahora permite personalizar widgets en la pantalla de bloqueo, pero solo si vives en esta región</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-permite-personalizar-widgets-pantalla-bloqueo-pero-solo-vives-region-1445655' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/microsoft-quiere-puedas-personalizar-maximo-pantalla-bloqueo-windows-11-3576763.jpg?tf=1200x' alt='Windows 11 ahora permite personalizar widgets en la pantalla de bloqueo, pero solo si vives en esta región' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-nuevos-canales-television-gratis-1439551'>Movistar Plus+ sin frenos: activa el modo "3 por 1" para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-nuevos-canales-television-gratis-1439551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/canales-gratis-movistar-plus-4298449.jpg?tf=1200x' alt='Movistar Plus+ sin frenos: activa el modo "3 por 1" para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-prueba-notificaciones-chrome-recordarte-gemini-existe-1445648'>Google prueba notificaciones en Chrome para recordarte que Gemini existe</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-prueba-notificaciones-chrome-recordarte-gemini-existe-1445648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/google-chrome-gemini-3300536.jpg?tf=1200x' alt='Google prueba notificaciones en Chrome para recordarte que Gemini existe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/digi-movistar-masorange-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566'>Cómo evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/digi-movistar-masorange-evitar-bloqueos-laliga-iptv-cloudflare-impuestos-laliga-1443566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operadores-afectados-bloqueos-iptv-laliga-4299203.jpg?tf=1200x' alt='Cómo evitar los bloqueos de LaLiga a las IPTV de Cloudflare impuestos por LaLiga' />
     </a>
 </div>
 
