@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-1445700'>Donald Trump da luz verde a una Reserva federal de criptomonedas, con XRP, Solana y Cardano</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-1445700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-4299334.jpg?tf=1200x' alt='Donald Trump da luz verde a una Reserva federal de criptomonedas, con XRP, Solana y Cardano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697'>La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nave-privada-blue-ghost-firefly-aterriza-exito-luna-4299322.jpg?tf=1200x' alt='La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232'>Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-4296672.jpg?tf=1200x' alt='Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-pone-patas-arriba-mercado-todo-ecosistema-aiot-ampliado-1445469'>Xiaomi pone patas arriba el mercado con todo un ecosistema AIoT ampliado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-pone-patas-arriba-mercado-todo-ecosistema-aiot-ampliado-1445469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ecosistema-aiot-xiaomi-ampliado-4298858.jpg?tf=1200x' alt='Xiaomi pone patas arriba el mercado con todo un ecosistema AIoT ampliado' />
     </a>
 </div>
 
