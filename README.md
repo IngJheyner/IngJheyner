@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702'>Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-cloudflare-vuelven-surrealistas-supuestamente-tambien-bloquea-movistar-4299338.jpg?tf=1200x' alt='Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/criptos/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-1445700'>Donald Trump da luz verde a una Reserva federal de criptomonedas, con XRP, Solana y Cardano</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-1445700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-4299334.jpg?tf=1200x' alt='Donald Trump da luz verde a una Reserva federal de criptomonedas, con XRP, Solana y Cardano' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507'>Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/honor-earbuds-open-4298988.jpg?tf=1200x' alt='Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232'>Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-4296672.jpg?tf=1200x' alt='Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King' />
     </a>
 </div>
 
