@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puedes-borrar-historial-chatgpt-empezar-cero-pocos-pasos-1441389'>Así puedes borrar tu historial en ChatGPT y empezar desde cero en pocos pasos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/puedes-borrar-historial-chatgpt-empezar-cero-pocos-pasos-1441389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/eliminar-chats-chatgpt-4292110.jpg?tf=1200x' alt='Así puedes borrar tu historial en ChatGPT y empezar desde cero en pocos pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/puede-eliminar-ia-windows-11-yo-he-conseguido-no-me-arrepiento-1442635'>¿Se puede eliminar la IA de Windows 11? Yo lo he conseguido, y no me arrepiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/puede-eliminar-ia-windows-11-yo-he-conseguido-no-me-arrepiento-1442635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/puede-eliminar-ia-windows-11-yo-he-conseguido-no-me-arrepiento-4294061.jpg?tf=1200x' alt='¿Se puede eliminar la IA de Windows 11? Yo lo he conseguido, y no me arrepiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/problema-precios-desmesurados-laliga-iptv-pirata-clubes-operadoras-aficionados-borde-colapso-1444631'>El problema de los precios desmesurados, LaLiga y las IPTV pirata: clubes, operadoras y aficionados al borde del colapso</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/problema-precios-desmesurados-laliga-iptv-pirata-clubes-operadoras-aficionados-borde-colapso-1444631' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/javier-tebas-laliga-4297921.jpg?tf=1200x' alt='El problema de los precios desmesurados, LaLiga y las IPTV pirata: clubes, operadoras y aficionados al borde del colapso' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-como-openai-va-cambiarte-dia-dia-gracias-ia-1443002'>¿Qué es Operator y cómo OpenAI va a cambiarte tu día a día gracias a la IA?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/operator-como-openai-va-cambiarte-dia-dia-gracias-ia-1443002' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/verticalimage1740736070103-4298627.jpg?tf=1200x' alt='¿Qué es Operator y cómo OpenAI va a cambiarte tu día a día gracias a la IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/futuro-coche-electrico-baterias-estado-solido-revolucion-callejon-salida-1444630'>El futuro del coche eléctrico y las baterías de estado sólido: ¿revolución o callejón sin salida? </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/futuro-coche-electrico-baterias-estado-solido-revolucion-callejon-salida-1444630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/coche-electrico-cargando-baterias-4298178.jpg?tf=1200x' alt='El futuro del coche eléctrico y las baterías de estado sólido: ¿revolución o callejón sin salida? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-repetidor-ni-plc-simple-ajuste-mejora-wifi-instante-invertir-solo-euro-1441861'>Ni repetidor ni PLC, este simple ajuste mejora el WiFi al instante sin invertir un solo euro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-repetidor-ni-plc-simple-ajuste-mejora-wifi-instante-invertir-solo-euro-1441861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-repetidor-ni-plc-simple-ajuste-mejora-wifi-instante-invertir-solo-euro-4292751.jpg?tf=1200x' alt='Ni repetidor ni PLC, este simple ajuste mejora el WiFi al instante sin invertir un solo euro' />
     </a>
 </div>
 
