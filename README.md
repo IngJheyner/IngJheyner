@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507'>Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/honor-earbuds-open-4298988.jpg?tf=1200x' alt='Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232'>Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-1444232' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-perturbadora-serie-francesa-terror-pocos-conocen-enamoro-stephen-king-4296672.jpg?tf=1200x' alt='Netflix: la perturbadora serie francesa de terror que pocos conocen y enamoró a Stephen King' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/primer-vistazo-xiaomi-15-ultra-competencia-necesitaba-mercado-gama-alta-camara-infarto-1445087'>Un primer vistazo al Xiaomi 15 Ultra, la competencia que necesitaba el mercado de gama alta con una cámara de infarto</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/primer-vistazo-xiaomi-15-ultra-competencia-necesitaba-mercado-gama-alta-camara-infarto-1445087' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-15-ultra-4298320.jpg?tf=1200x' alt='Un primer vistazo al Xiaomi 15 Ultra, la competencia que necesitaba el mercado de gama alta con una cámara de infarto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-1442124'>¿Por qué muchos aviones siguen teniendo dos conectores de auriculares?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-1442124' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/muchos-aviones-siguen-teniendo-dos-conectores-auriculares-4293200.jpg?tf=1200x' alt='¿Por qué muchos aviones siguen teniendo dos conectores de auriculares?' />
     </a>
 </div>
 
