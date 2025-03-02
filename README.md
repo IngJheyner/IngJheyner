@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697'>La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nave-privada-blue-ghost-firefly-aterriza-exito-luna-4299322.jpg?tf=1200x' alt='La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/siempre-arrasa-black-friday-pero-no-hay-esperar-robot-aspirador-barato-lefant-menos-100-euros-1445617'>Siempre arrasa en el Black Friday, pero no hay que esperar: el robot aspirador barato de Lefant, por menos de 100 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/siempre-arrasa-black-friday-pero-no-hay-esperar-robot-aspirador-barato-lefant-menos-100-euros-1445617' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lefant-m210-4299117.jpg?tf=1200x' alt='Siempre arrasa en el Black Friday, pero no hay que esperar: el robot aspirador barato de Lefant, por menos de 100 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507'>Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/honor-alpha-plan-consiste-nueva-estrategia-ia-honor-1445507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/honor-earbuds-open-4298988.jpg?tf=1200x' alt='Honor 'Alpha plan': esto es en lo que consiste la nueva estrategia de IA de Honor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-pone-patas-arriba-mercado-todo-ecosistema-aiot-ampliado-1445469'>Xiaomi pone patas arriba el mercado con todo un ecosistema AIoT ampliado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-pone-patas-arriba-mercado-todo-ecosistema-aiot-ampliado-1445469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ecosistema-aiot-xiaomi-ampliado-4298858.jpg?tf=1200x' alt='Xiaomi pone patas arriba el mercado con todo un ecosistema AIoT ampliado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-revoluciona-corral-nueva-serie-15-presidida-flamante-xiaomi-15-ultra-1445088'>Xiaomi revoluciona el corral con su nueva serie 15, presidida por el flamante Xiaomi 15 Ultra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-revoluciona-corral-nueva-serie-15-presidida-flamante-xiaomi-15-ultra-1445088' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/serie-xiaomi-15-4298451.jpg?tf=1200x' alt='Xiaomi revoluciona el corral con su nueva serie 15, presidida por el flamante Xiaomi 15 Ultra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/primer-vistazo-xiaomi-15-ultra-competencia-necesitaba-mercado-gama-alta-camara-infarto-1445087'>Un primer vistazo al Xiaomi 15 Ultra, la competencia que necesitaba el mercado de gama alta con una cámara de infarto</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/primer-vistazo-xiaomi-15-ultra-competencia-necesitaba-mercado-gama-alta-camara-infarto-1445087' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/xiaomi-15-ultra-4298320.jpg?tf=1200x' alt='Un primer vistazo al Xiaomi 15 Ultra, la competencia que necesitaba el mercado de gama alta con una cámara de infarto' />
     </a>
 </div>
 
