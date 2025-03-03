@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sam-altman-ni-nasa-elon-musk-tiene-nuevo-enemigo-google-no-busques-1445852'>Ni Sam Altman ni la NASA, Elon Musk tiene un nuevo enemigo, Google: "No lo busques"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-sam-altman-ni-nasa-elon-musk-tiene-nuevo-enemigo-google-no-busques-1445852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-sam-altman-ni-nasa-elon-musk-tiene-nuevo-enemigo-google-no-busques-4299594.jpg?tf=1200x' alt='Ni Sam Altman ni la NASA, Elon Musk tiene un nuevo enemigo, Google: "No lo busques"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-iptv-pirateria-producto-fallido-dejadez-intencionada-1445876'>Amazon Fire TV, IPTV y piratería: ¿producto fallido o dejadez intencionada?</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-iptv-pirateria-producto-fallido-dejadez-intencionada-1445876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amazon-fire-tv-iptv-pirateria-producto-fallido-dejadez-intencionada-4299672.jpg?tf=1200x' alt='Amazon Fire TV, IPTV y piratería: ¿producto fallido o dejadez intencionada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ni-ia-ni-google-inquietante-tecnologia-hizo-perder-sueno-bill-gates-durante-anos-1445847'>Ni la IA ni Google, la inquietante tecnología que hizo perder el sueño a Bill Gates durante años</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ni-ia-ni-google-inquietante-tecnologia-hizo-perder-sueno-bill-gates-durante-anos-1445847' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-vs-java-4299593.jpg?tf=1200x' alt='Ni la IA ni Google, la inquietante tecnología que hizo perder el sueño a Bill Gates durante años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-copirata-microsoft-te-ayudaba-tener-windows-11-gratis-dejando-evidencia-gran-agujero-ia-1445835'>¿Copilot o Copirata? Microsoft te ayudaba a tener Windows 11 gratis dejando en evidencia el gran agujero de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/copilot-copirata-microsoft-te-ayudaba-tener-windows-11-gratis-dejando-evidencia-gran-agujero-ia-1445835' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copilot-ayudaba-tener-windows-11-gratis-4299590.jpg?tf=1200x' alt='¿Copilot o Copirata? Microsoft te ayudaba a tener Windows 11 gratis dejando en evidencia el gran agujero de la IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/llamada-recuerde-abuelo-tomar-pastillas-funciona-asistente-ia-spc-1445366'>¿Una llamada que recuerde a tu abuelo tomar sus pastillas? Así funciona el asistente con IA de SPC</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/llamada-recuerde-abuelo-tomar-pastillas-funciona-asistente-ia-spc-1445366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asistente-ia-spc-4298642.jpg?tf=1200x' alt='¿Una llamada que recuerde a tu abuelo tomar sus pastillas? Así funciona el asistente con IA de SPC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/volvo-polestar-tienen-solucion-acabar-obsolescencia-baterias-coche-electrico-actual-1445790'>Volvo y Polestar tienen la solución para acabar con la obsolescencia de las baterías de tu coche eléctrico actual</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/volvo-polestar-tienen-solucion-acabar-obsolescencia-baterias-coche-electrico-actual-1445790' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-hardware-coche-electrico-volvo-4299528.jpg?tf=1200x' alt='Volvo y Polestar tienen la solución para acabar con la obsolescencia de las baterías de tu coche eléctrico actual' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-baterias-coche-electrico-expertos-toyota-descubren-han-estado-haciendo-mal-durante-anos-1445817'>Giro de 180 grados a las baterías de coche eléctrico: expertos de Toyota descubren que lo han estado haciendo mal durante años </a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-baterias-coche-electrico-expertos-toyota-descubren-han-estado-haciendo-mal-durante-anos-1445817' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejora-bateria-coches-electricos-toyota-4299556.jpg?tf=1200x' alt='Giro de 180 grados a las baterías de coche eléctrico: expertos de Toyota descubren que lo han estado haciendo mal durante años ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-1445798'>Giro de 180 grados en Android Auto: podrás tener Waze y Google Maps funcionando de forma 100% simultánea</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-1445798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-4299497.jpg?tf=1200x' alt='Giro de 180 grados en Android Auto: podrás tener Waze y Google Maps funcionando de forma 100% simultánea' />
     </a>
 </div>
 
