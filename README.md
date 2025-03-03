@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-copirata-microsoft-te-ayudaba-tener-windows-11-gratis-dejando-evidencia-gran-agujero-ia-1445835'>¿Copilot o Copirata? Microsoft te ayudaba a tener Windows 11 gratis dejando en evidencia el gran agujero de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-copirata-microsoft-te-ayudaba-tener-windows-11-gratis-dejando-evidencia-gran-agujero-ia-1445835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copilot-ayudaba-tener-windows-11-gratis-4299590.jpg?tf=1200x' alt='¿Copilot o Copirata? Microsoft te ayudaba a tener Windows 11 gratis dejando en evidencia el gran agujero de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/llamada-recuerde-abuelo-tomar-pastillas-funciona-asistente-ia-spc-1445366'>¿Una llamada que recuerde a tu abuelo tomar sus pastillas? Así funciona el asistente con IA de SPC</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/llamada-recuerde-abuelo-tomar-pastillas-funciona-asistente-ia-spc-1445366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/asistente-ia-spc-4298642.jpg?tf=1200x' alt='¿Una llamada que recuerde a tu abuelo tomar sus pastillas? Así funciona el asistente con IA de SPC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/volvo-polestar-tienen-solucion-acabar-obsolescencia-baterias-coche-electrico-actual-1445790'>Volvo y Polestar tienen la solución para acabar con la obsolescencia de las baterías de tu coche eléctrico actual</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/volvo-polestar-tienen-solucion-acabar-obsolescencia-baterias-coche-electrico-actual-1445790' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-hardware-coche-electrico-volvo-4299528.jpg?tf=1200x' alt='Volvo y Polestar tienen la solución para acabar con la obsolescencia de las baterías de tu coche eléctrico actual' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-1445798'>Giro de 180 grados en Android Auto: podrás tener Waze y Google Maps funcionando de forma 100% simultánea</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-1445798' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-4299497.jpg?tf=1200x' alt='Giro de 180 grados en Android Auto: podrás tener Waze y Google Maps funcionando de forma 100% simultánea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambiara-siempre-nuevas-funciones-estilo-instagram-1445823'>WhatsApp cambiará para siempre con nuevas funciones al estilo de Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambiara-siempre-nuevas-funciones-estilo-instagram-1445823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-cambiara-siempre-nuevas-funciones-estilo-instagram-4299542.jpg?tf=1200x' alt='WhatsApp cambiará para siempre con nuevas funciones al estilo de Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-edge-opera-estrena-primer-navegador-agente-ia-no-usa-servidores-nube-1445851'>Ni Chrome ni Edge, Opera estrena el primer navegador con un agente de IA que no usa servidores en la nube</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-edge-opera-estrena-primer-navegador-agente-ia-no-usa-servidores-nube-1445851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/browser-operator-opera-4299600.jpg?tf=1200x' alt='Ni Chrome ni Edge, Opera estrena el primer navegador con un agente de IA que no usa servidores en la nube' />
     </a>
 </div>
 
