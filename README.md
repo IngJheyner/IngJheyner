@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tcl-llega-mwc-2025-cuidar-salud-visual-serie-60-nxtpaper-11-plus-mucho-1445477'>TCL llega al MWC 2025 para cuidar tu salud visual: serie 60, NXTPAPER 11 Plus y mucho más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tcl-llega-mwc-2025-cuidar-salud-visual-serie-60-nxtpaper-11-plus-mucho-1445477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tcl-serie-60-nxtpaper-11-plus-4298879.jpg?tf=1200x' alt='TCL llega al MWC 2025 para cuidar tu salud visual: serie 60, NXTPAPER 11 Plus y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-realme-14-pro-creo-no-hay-diseno-ni-fotografia-mejor-gama-1444621'>He probado el Realme 14 Pro+ y creo que no hay diseño ni fotografía mejor en su gama</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-realme-14-pro-creo-no-hay-diseno-ni-fotografia-mejor-gama-1444621' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-14-pro-4299414.jpg?tf=1200x' alt='He probado el Realme 14 Pro+ y creo que no hay diseño ni fotografía mejor en su gama' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/motorola-lanza-herramienta-definitiva-no-tener-perder-tiempo-buscando-gracias-ia-1445741'>Motorola lanza la herramienta definitiva para no tener que perder tiempo buscando, gracias a su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/motorola-lanza-herramienta-definitiva-no-tener-perder-tiempo-buscando-gracias-ia-1445741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/moto-ai-motorola-smart-connect-4299426.jpg?tf=1200x' alt='Motorola lanza la herramienta definitiva para no tener que perder tiempo buscando, gracias a su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/coches-ya-no-usan-parachoques-abultados-vehiculos-clasicos-1445734'>Por qué los coches ya no usan los parachoques abultados de los vehículos clásicos</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coches-ya-no-usan-parachoques-abultados-vehiculos-clasicos-1445734' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coches-ya-no-usan-parachoques-abultados-vehiculos-clasicos-4299400.jpg?tf=1200x' alt='Por qué los coches ya no usan los parachoques abultados de los vehículos clásicos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-libera-todo-potencial-5g-mwc-nuevo-modem-pensado-ia-1445166'>Qualcomm libera todo el potencial del 5G en el MWC con un nuevo módem pensado para la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-libera-todo-potencial-5g-mwc-nuevo-modem-pensado-ia-1445166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/qualcomm-5g-modem-4298203.jpg?tf=1200x' alt='Qualcomm libera todo el potencial del 5G en el MWC con un nuevo módem pensado para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/probar-muchos-navegadores-brave-favoritos-pero-tiene-algo-no-me-convence-1439929'>Tras probar muchos navegadores, Brave es uno de mis favoritos, pero tiene algo que no me convence</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/probar-muchos-navegadores-brave-favoritos-pero-tiene-algo-no-me-convence-1439929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/brave-navegador-privado-4289760.jpg?tf=1200x' alt='Tras probar muchos navegadores, Brave es uno de mis favoritos, pero tiene algo que no me convence' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-1444483'>Este botón de tu móvil es la puerta de entrada para los hackers: púlsalo con precaución</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-1444483' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-4297080.jpg?tf=1200x' alt='Este botón de tu móvil es la puerta de entrada para los hackers: púlsalo con precaución' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mucha-gente-tapa-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759'>Mucha gente tapa la cámara de su portátil, pero no se olvida de otra cosa igual de importante</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/mucha-gente-tapa-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/advertencia-espionaje-portatil-4297542.jpg?tf=1200x' alt='Mucha gente tapa la cámara de su portátil, pero no se olvida de otra cosa igual de importante' />
     </a>
 </div>
 
