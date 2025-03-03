@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-1444483'>Este botón de tu móvil es la puerta de entrada para los hackers: púlsalo con precaución</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-1444483' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-4297080.jpg?tf=1200x' alt='Este botón de tu móvil es la puerta de entrada para los hackers: púlsalo con precaución' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mucha-gente-tapa-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759'>Mucha gente tapa la cámara de su portátil, pero no se olvida de otra cosa igual de importante</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/mucha-gente-tapa-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/advertencia-espionaje-portatil-4297542.jpg?tf=1200x' alt='Mucha gente tapa la cámara de su portátil, pero no se olvida de otra cosa igual de importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273'>¿Steve Jobs estaría orgulloso del Apple de hoy en día?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libro-steve-jobs-4291883.jpg?tf=1200x' alt='¿Steve Jobs estaría orgulloso del Apple de hoy en día?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704'>Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-arrasa-mwc-lluvia-portatiles-ia-local-ordenadores-energia-solar-mucho-4299352.jpg?tf=1200x' alt='Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/portatil-monitor-vertical-tableta-locura-pc-plegable-ha-creado-lenovo-1445693'>¿Portátil, monitor vertical o tableta?: así es la locura de PC plegable que ha creado Lenovo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/portatil-monitor-vertical-tableta-locura-pc-plegable-ha-creado-lenovo-1445693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-thinkbook-flip-ai-pc-concept-4299353.jpg?tf=1200x' alt='¿Portátil, monitor vertical o tableta?: así es la locura de PC plegable que ha creado Lenovo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702'>Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-cloudflare-vuelven-surrealistas-supuestamente-tambien-bloquea-movistar-4299338.jpg?tf=1200x' alt='Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+' />
     </a>
 </div>
 
