@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/digi-ya-supera-vodafone-cobertura-siguiente-objetivo-movistar-1445767'>DIGI ya supera a Vodafone en cobertura, su siguiente objetivo es Movistar</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/digi-ya-supera-vodafone-cobertura-siguiente-objetivo-movistar-1445767' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-ya-supera-vodafone-cobertura-siguiente-objetivo-movistar-4299441.jpg?tf=1200x' alt='DIGI ya supera a Vodafone en cobertura, su siguiente objetivo es Movistar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-resultado-google-nunca-debes-pinchar-podrias-perder-mucho-dinero-1445836'>Experta en seguridad alerta del resultado de Google al que nunca debes pinchar: “Podrías perder mucho dinero”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-resultado-google-nunca-debes-pinchar-podrias-perder-mucho-dinero-1445836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enlaces-google-maliciosos-4299544.jpg?tf=1200x' alt='Experta en seguridad alerta del resultado de Google al que nunca debes pinchar: “Podrías perder mucho dinero”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/zte-lanza-movil-plegable-asequible-pantalla-exterior-totalmente-renovada-1445752'>ZTE lanza su móvil plegable asequible con una pantalla exterior totalmente renovada</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/zte-lanza-movil-plegable-asequible-pantalla-exterior-totalmente-renovada-1445752' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/zte-nubia-flip-2-5g-4299452.jpg?tf=1200x' alt='ZTE lanza su móvil plegable asequible con una pantalla exterior totalmente renovada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743'>Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-hyperai-4299486.jpg?tf=1200x' alt='Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/huawei-freearc-auriculares-abiertos-cambian-completo-concepto-comodidad-1445778'>Huawei FreeArc, los auriculares abiertos que cambian por completo el concepto de comodidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/huawei-freearc-auriculares-abiertos-cambian-completo-concepto-comodidad-1445778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-freearc-4299479.jpg?tf=1200x' alt='Huawei FreeArc, los auriculares abiertos que cambian por completo el concepto de comodidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/pulsera-xiaomi-rompe-record-precio-barata-nunca-codigo-descuento-1445727'>La pulsera Xiaomi rompe récord de precio: es más barata que nunca con un código descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/pulsera-xiaomi-rompe-record-precio-barata-nunca-codigo-descuento-1445727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-smart-band-9-4299403.jpg?tf=1200x' alt='La pulsera Xiaomi rompe récord de precio: es más barata que nunca con un código descuento' />
     </a>
 </div>
 
