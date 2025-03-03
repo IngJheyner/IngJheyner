@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coches-ya-no-usan-parachoques-abultados-vehiculos-clasicos-1445734'>Por qué los coches ya no usan los parachoques abultados de los vehículos clásicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coches-ya-no-usan-parachoques-abultados-vehiculos-clasicos-1445734' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coches-ya-no-usan-parachoques-abultados-vehiculos-clasicos-4299400.jpg?tf=1200x' alt='Por qué los coches ya no usan los parachoques abultados de los vehículos clásicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-libera-todo-potencial-5g-mwc-nuevo-modem-pensado-ia-1445166'>Qualcomm libera todo el potencial del 5G en el MWC con un nuevo módem pensado para la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-libera-todo-potencial-5g-mwc-nuevo-modem-pensado-ia-1445166' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/qualcomm-5g-modem-4298203.jpg?tf=1200x' alt='Qualcomm libera todo el potencial del 5G en el MWC con un nuevo módem pensado para la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/mucha-gente-tapa-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759'>Mucha gente tapa la cámara de su portátil, pero no se olvida de otra cosa igual de importante</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/mucha-gente-tapa-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/advertencia-espionaje-portatil-4297542.jpg?tf=1200x' alt='Mucha gente tapa la cámara de su portátil, pero no se olvida de otra cosa igual de importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273'>¿Steve Jobs estaría orgulloso del Apple de hoy en día?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libro-steve-jobs-4291883.jpg?tf=1200x' alt='¿Steve Jobs estaría orgulloso del Apple de hoy en día?' />
     </a>
 </div>
 
