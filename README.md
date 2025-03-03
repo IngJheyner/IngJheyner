@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273'>¿Steve Jobs estaría orgulloso del Apple de hoy en día?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libro-steve-jobs-4291883.jpg?tf=1200x' alt='¿Steve Jobs estaría orgulloso del Apple de hoy en día?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/vulnerable-sera-pc-decides-seguir-utilizando-windows-10-1441603'>Así de vulnerable será tu PC si decides seguir utilizando Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/vulnerable-sera-pc-decides-seguir-utilizando-windows-10-1441603' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vulnerable-sera-pc-decides-seguir-utilizando-windows-10-4292394.jpg?tf=1200x' alt='Así de vulnerable será tu PC si decides seguir utilizando Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704'>Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-arrasa-mwc-lluvia-portatiles-ia-local-ordenadores-energia-solar-mucho-4299352.jpg?tf=1200x' alt='Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702'>Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-cloudflare-tambien-bloquea-movistar-plus-1445702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-cloudflare-vuelven-surrealistas-supuestamente-tambien-bloquea-movistar-4299338.jpg?tf=1200x' alt='Los bloqueos de LaLiga a Cloudflare se vuelven surrealistas: supuestamente también bloquea a Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-1445700'>Donald Trump da luz verde a una Reserva federal de criptomonedas, con XRP, Solana y Cardano</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-1445700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-da-luz-verde-reserva-federal-criptomonedas-xrp-solana-cardano-4299334.jpg?tf=1200x' alt='Donald Trump da luz verde a una Reserva federal de criptomonedas, con XRP, Solana y Cardano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697'>La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nave-privada-blue-ghost-firefly-aterriza-exito-luna-1445697' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nave-privada-blue-ghost-firefly-aterriza-exito-luna-4299322.jpg?tf=1200x' alt='La nave privada Blue Ghost de Firefly aterriza con éxito en la Luna' />
     </a>
 </div>
 
