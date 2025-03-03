@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/innofab-fabrica-chips-espana-1445970'>Esta ciudad española acogerá una fábrica de chips con un claro objetivo: reducir la dependencia de países hostiles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/innofab-fabrica-chips-espana-1445970' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ciudad-espanola-acogera-fabrica-chips-claro-objetivo-reducir-dependencia-paises-hostiles-4299763.jpg?tf=1200x' alt='Esta ciudad española acogerá una fábrica de chips con un claro objetivo: reducir la dependencia de países hostiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968'>Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/intel-windows-11-4299786.jpg?tf=1200x' alt='Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/fisicos-desafian-leyes-tiempo-descubren-dos-flechas-cuanticas-opuestas-1445946'>Los físicos desafían las leyes del tiempo: descubren dos flechas cuánticas opuestas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/fisicos-desafian-leyes-tiempo-descubren-dos-flechas-cuanticas-opuestas-1445946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudios-espacio-tiempo-4299727.jpg?tf=1200x' alt='Los físicos desafían las leyes del tiempo: descubren dos flechas cuánticas opuestas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gemini-20-llegara-pronto-moviles-oppo-promete-actualizacion-ia-cada-mes-1445800'>Gemini 2.0 llegará pronto a los móviles de Oppo, que promete una actualización de IA cada mes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gemini-20-llegara-pronto-moviles-oppo-promete-actualizacion-ia-cada-mes-1445800' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297099.jpg?tf=1200x' alt='Gemini 2.0 llegará pronto a los móviles de Oppo, que promete una actualización de IA cada mes' />
     </a>
 </div>
 
