@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-ya-supera-vodafone-cobertura-siguiente-objetivo-movistar-1445767'>DIGI ya supera a Vodafone en cobertura, su siguiente objetivo es Movistar</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-ya-supera-vodafone-cobertura-siguiente-objetivo-movistar-1445767' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-ya-supera-vodafone-cobertura-siguiente-objetivo-movistar-4299441.jpg?tf=1200x' alt='DIGI ya supera a Vodafone en cobertura, su siguiente objetivo es Movistar' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/volvo-polestar-tienen-solucion-acabar-obsolescencia-baterias-coche-electrico-actual-1445790'>Volvo y Polestar tienen la solución para acabar con la obsolescencia de las baterías de tu coche eléctrico actual</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/volvo-polestar-tienen-solucion-acabar-obsolescencia-baterias-coche-electrico-actual-1445790' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-hardware-coche-electrico-volvo-4299528.jpg?tf=1200x' alt='Volvo y Polestar tienen la solución para acabar con la obsolescencia de las baterías de tu coche eléctrico actual' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-resultado-google-nunca-debes-pinchar-podrias-perder-mucho-dinero-1445836'>Experta en seguridad alerta del resultado de Google al que nunca debes pinchar: “Podrías perder mucho dinero”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-resultado-google-nunca-debes-pinchar-podrias-perder-mucho-dinero-1445836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enlaces-google-maliciosos-4299544.jpg?tf=1200x' alt='Experta en seguridad alerta del resultado de Google al que nunca debes pinchar: “Podrías perder mucho dinero”' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/giro-180-grados-baterias-coche-electrico-expertos-toyota-descubren-han-estado-haciendo-mal-durante-anos-1445817'>Giro de 180 grados a las baterías de coche eléctrico: expertos de Toyota descubren que lo han estado haciendo mal durante años </a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/giro-180-grados-baterias-coche-electrico-expertos-toyota-descubren-han-estado-haciendo-mal-durante-anos-1445817' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejora-bateria-coches-electricos-toyota-4299556.jpg?tf=1200x' alt='Giro de 180 grados a las baterías de coche eléctrico: expertos de Toyota descubren que lo han estado haciendo mal durante años ' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/zte-lanza-movil-plegable-asequible-pantalla-exterior-totalmente-renovada-1445752'>ZTE lanza su móvil plegable asequible con una pantalla exterior totalmente renovada</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/zte-lanza-movil-plegable-asequible-pantalla-exterior-totalmente-renovada-1445752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/zte-nubia-flip-2-5g-4299452.jpg?tf=1200x' alt='ZTE lanza su móvil plegable asequible con una pantalla exterior totalmente renovada' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-1445798'>Giro de 180 grados en Android Auto: podrás tener Waze y Google Maps funcionando de forma 100% simultánea</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-1445798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-android-auto-podras-tener-waze-google-maps-funcionando-forma-100-simultanea-4299497.jpg?tf=1200x' alt='Giro de 180 grados en Android Auto: podrás tener Waze y Google Maps funcionando de forma 100% simultánea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-apple-podria-presentar-nuevos-productos-misma-semana-ipad-macbook-1445770'>Tras el iPhone 16e, Apple podría presentar nuevos productos esta misma semana: iPad, MacBook y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-16e-apple-podria-presentar-nuevos-productos-misma-semana-ipad-macbook-1445770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ipad-air-tienda-apple-4299466.jpg?tf=1200x' alt='Tras el iPhone 16e, Apple podría presentar nuevos productos esta misma semana: iPad, MacBook y más' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambiara-siempre-nuevas-funciones-estilo-instagram-1445823'>WhatsApp cambiará para siempre con nuevas funciones al estilo de Instagram</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambiara-siempre-nuevas-funciones-estilo-instagram-1445823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-cambiara-siempre-nuevas-funciones-estilo-instagram-4299542.jpg?tf=1200x' alt='WhatsApp cambiará para siempre con nuevas funciones al estilo de Instagram' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743'>Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-hyperai-4299486.jpg?tf=1200x' alt='Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-edge-opera-estrena-primer-navegador-agente-ia-no-usa-servidores-nube-1445851'>Ni Chrome ni Edge, Opera estrena el primer navegador con un agente de IA que no usa servidores en la nube</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chrome-ni-edge-opera-estrena-primer-navegador-agente-ia-no-usa-servidores-nube-1445851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/browser-operator-opera-4299600.jpg?tf=1200x' alt='Ni Chrome ni Edge, Opera estrena el primer navegador con un agente de IA que no usa servidores en la nube' />
     </a>
 </div>
 
