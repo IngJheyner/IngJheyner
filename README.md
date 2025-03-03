@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/zte-lanza-movil-plegable-asequible-pantalla-exterior-totalmente-renovada-1445752'>ZTE lanza su móvil plegable asequible con una pantalla exterior totalmente renovada</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/zte-lanza-movil-plegable-asequible-pantalla-exterior-totalmente-renovada-1445752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/zte-nubia-flip-2-5g-4299452.jpg?tf=1200x' alt='ZTE lanza su móvil plegable asequible con una pantalla exterior totalmente renovada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-16e-apple-podria-presentar-nuevos-productos-misma-semana-ipad-macbook-1445770'>Tras el iPhone 16e, Apple podría presentar nuevos productos esta misma semana: iPad, MacBook y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-16e-apple-podria-presentar-nuevos-productos-misma-semana-ipad-macbook-1445770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ipad-air-tienda-apple-4299466.jpg?tf=1200x' alt='Tras el iPhone 16e, Apple podría presentar nuevos productos esta misma semana: iPad, MacBook y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743'>Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-hyperai-4299486.jpg?tf=1200x' alt='Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/pulsera-xiaomi-rompe-record-precio-barata-nunca-codigo-descuento-1445727'>La pulsera Xiaomi rompe récord de precio: es más barata que nunca con un código descuento</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/pulsera-xiaomi-rompe-record-precio-barata-nunca-codigo-descuento-1445727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-smart-band-9-4299403.jpg?tf=1200x' alt='La pulsera Xiaomi rompe récord de precio: es más barata que nunca con un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/xiaomi-su7-ultra-coche-electrico-va-cambiar-reglas-juego-1445749'>Xiaomi SU7 Ultra: el coche eléctrico que va a cambiar las reglas del juego</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/xiaomi-su7-ultra-coche-electrico-va-cambiar-reglas-juego-1445749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-su7-ultra-4299425.jpg?tf=1200x' alt='Xiaomi SU7 Ultra: el coche eléctrico que va a cambiar las reglas del juego' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/realme-14-pro-triple-flash-mwc-junto-auriculares-buds-air7-1445753'>Realme desvela sus nuevos móviles Realme 14 Pro y Pro+ que cambian de color, junto a los auriculares Buds Air7</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/realme-14-pro-triple-flash-mwc-junto-auriculares-buds-air7-1445753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-desvela-nuevos-moviles-realme-14-pro-triple-flash-mwc-junto-auriculares-buds-air7-4299423.jpg?tf=1200x' alt='Realme desvela sus nuevos móviles Realme 14 Pro y Pro+ que cambian de color, junto a los auriculares Buds Air7' />
     </a>
 </div>
 
