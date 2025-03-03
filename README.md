@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968'>Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/intel-windows-11-4299786.jpg?tf=1200x' alt='Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-te-avisa-usb-fallando-carga-demasiado-lento-1445965'>Windows 11 ahora te avisa si tu USB está fallando o carga demasiado lento</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-te-avisa-usb-fallando-carga-demasiado-lento-1445965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-pendrive-4071055.jpg?tf=1200x' alt='Windows 11 ahora te avisa si tu USB está fallando o carga demasiado lento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-podria-estar-ralentizando-pc-segundo-plano-te-des-cuenta-1445964'>Windows 11 24H2 podría estar ralentizando tu PC en segundo plano sin que te des cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-podria-estar-ralentizando-pc-segundo-plano-te-des-cuenta-1445964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-formas-windows-11-recopila-datos-como-evitarlo-3709794.jpg?tf=1200x' alt='Windows 11 24H2 podría estar ralentizando tu PC en segundo plano sin que te des cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/fisicos-desafian-leyes-tiempo-descubren-dos-flechas-cuanticas-opuestas-1445946'>Los físicos desafían las leyes del tiempo: descubren dos flechas cuánticas opuestas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/fisicos-desafian-leyes-tiempo-descubren-dos-flechas-cuanticas-opuestas-1445946' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudios-espacio-tiempo-4299727.jpg?tf=1200x' alt='Los físicos desafían las leyes del tiempo: descubren dos flechas cuánticas opuestas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gemini-20-llegara-pronto-moviles-oppo-promete-actualizacion-ia-cada-mes-1445800'>Gemini 2.0 llegará pronto a los móviles de Oppo, que promete una actualización de IA cada mes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gemini-20-llegara-pronto-moviles-oppo-promete-actualizacion-ia-cada-mes-1445800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297099.jpg?tf=1200x' alt='Gemini 2.0 llegará pronto a los móviles de Oppo, que promete una actualización de IA cada mes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-no-despues-monkey-estas-seran-proximas-peliculas-1445726'>Stephen King no para: después de The Monkey estas serán sus próximas películas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-no-despues-monkey-estas-seran-proximas-peliculas-1445726' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/monkey-4241713.jpg?tf=1200x' alt='Stephen King no para: después de The Monkey estas serán sus próximas películas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/telegram-pitbull-laliga-iptv-podemos-divulgar-direccion-ip-numero-telefono-autoridades-1445905'>Telegram es el "pitbull" de LaLiga contra las IPTV: "Podemos divulgar tu dirección IP y número de teléfono a las autoridades"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/telegram-pitbull-laliga-iptv-podemos-divulgar-direccion-ip-numero-telefono-autoridades-1445905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/telegram-pitbull-laliga-iptv-podemos-divulgar-direccion-ip-numero-telefono-autoridades-4299724.jpg?tf=1200x' alt='Telegram es el "pitbull" de LaLiga contra las IPTV: "Podemos divulgar tu dirección IP y número de teléfono a las autoridades"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acabando-ia-pensamiento-critico-expertos-afirman-1445923'>¿Está acabando la IA con el pensamiento crítico? Los expertos afirman que sí</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acabando-ia-pensamiento-critico-expertos-afirman-1445923' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pensamiento-humano-inteligencia-artificial-4299689.jpg?tf=1200x' alt='¿Está acabando la IA con el pensamiento crítico? Los expertos afirman que sí' />
     </a>
 </div>
 
