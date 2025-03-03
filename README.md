@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743'>Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-hyperai-ya-global-estos-son-moviles-recibiran-nueva-inteligencia-artificial-1445743' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-hyperai-4299486.jpg?tf=1200x' alt='Xiaomi HyperAI ya es global: estos son los móviles que recibirán la nueva inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/huawei-freearc-auriculares-abiertos-cambian-completo-concepto-comodidad-1445778'>Huawei FreeArc, los auriculares abiertos que cambian por completo el concepto de comodidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/huawei-freearc-auriculares-abiertos-cambian-completo-concepto-comodidad-1445778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-freearc-4299479.jpg?tf=1200x' alt='Huawei FreeArc, los auriculares abiertos que cambian por completo el concepto de comodidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/pulsera-xiaomi-rompe-record-precio-barata-nunca-codigo-descuento-1445727'>La pulsera Xiaomi rompe récord de precio: es más barata que nunca con un código descuento</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/pulsera-xiaomi-rompe-record-precio-barata-nunca-codigo-descuento-1445727' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-smart-band-9-4299403.jpg?tf=1200x' alt='La pulsera Xiaomi rompe récord de precio: es más barata que nunca con un código descuento' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/realme-14-pro-triple-flash-mwc-junto-auriculares-buds-air7-1445753'>Realme desvela sus nuevos móviles Realme 14 Pro y Pro+ que cambian de color, junto a los auriculares Buds Air7</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/realme-14-pro-triple-flash-mwc-junto-auriculares-buds-air7-1445753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-desvela-nuevos-moviles-realme-14-pro-triple-flash-mwc-junto-auriculares-buds-air7-4299423.jpg?tf=1200x' alt='Realme desvela sus nuevos móviles Realme 14 Pro y Pro+ que cambian de color, junto a los auriculares Buds Air7' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tcl-llega-mwc-2025-cuidar-salud-visual-serie-60-nxtpaper-11-plus-mucho-1445477'>TCL llega al MWC 2025 para cuidar tu salud visual: serie 60, NXTPAPER 11 Plus y mucho más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tcl-llega-mwc-2025-cuidar-salud-visual-serie-60-nxtpaper-11-plus-mucho-1445477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/tcl-serie-60-nxtpaper-11-plus-4298879.jpg?tf=1200x' alt='TCL llega al MWC 2025 para cuidar tu salud visual: serie 60, NXTPAPER 11 Plus y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-realme-14-pro-creo-no-hay-diseno-ni-fotografia-mejor-gama-1444621'>He probado el Realme 14 Pro+ y creo que no hay diseño ni fotografía mejor en su gama</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-realme-14-pro-creo-no-hay-diseno-ni-fotografia-mejor-gama-1444621' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-14-pro-4299414.jpg?tf=1200x' alt='He probado el Realme 14 Pro+ y creo que no hay diseño ni fotografía mejor en su gama' />
     </a>
 </div>
 
