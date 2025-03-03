@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-libera-todo-potencial-5g-mwc-nuevo-modem-pensado-ia-1445166'>Qualcomm libera todo el potencial del 5G en el MWC con un nuevo módem pensado para la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/qualcomm-libera-todo-potencial-5g-mwc-nuevo-modem-pensado-ia-1445166' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/qualcomm-5g-modem-4298203.jpg?tf=1200x' alt='Qualcomm libera todo el potencial del 5G en el MWC con un nuevo módem pensado para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/probar-muchos-navegadores-brave-favoritos-pero-tiene-algo-no-me-convence-1439929'>Tras probar muchos navegadores, Brave es uno de mis favoritos, pero tiene algo que no me convence</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/probar-muchos-navegadores-brave-favoritos-pero-tiene-algo-no-me-convence-1439929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/brave-navegador-privado-4289760.jpg?tf=1200x' alt='Tras probar muchos navegadores, Brave es uno de mis favoritos, pero tiene algo que no me convence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-1444483'>Este botón de tu móvil es la puerta de entrada para los hackers: púlsalo con precaución</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-1444483' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/boton-movil-puerta-entrada-hackers-pulsalo-precaucion-4297080.jpg?tf=1200x' alt='Este botón de tu móvil es la puerta de entrada para los hackers: púlsalo con precaución' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273'>¿Steve Jobs estaría orgulloso del Apple de hoy en día?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/steve-jobs-estaria-orgulloso-apple-hoy-dia-1441273' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/libro-steve-jobs-4291883.jpg?tf=1200x' alt='¿Steve Jobs estaría orgulloso del Apple de hoy en día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/vulnerable-sera-pc-decides-seguir-utilizando-windows-10-1441603'>Así de vulnerable será tu PC si decides seguir utilizando Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/vulnerable-sera-pc-decides-seguir-utilizando-windows-10-1441603' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vulnerable-sera-pc-decides-seguir-utilizando-windows-10-4292394.jpg?tf=1200x' alt='Así de vulnerable será tu PC si decides seguir utilizando Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704'>Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lenovo-arrasa-mwc-2025-portatiles-ia-local-ordenadores-energia-solar-1445704' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-arrasa-mwc-lluvia-portatiles-ia-local-ordenadores-energia-solar-mucho-4299352.jpg?tf=1200x' alt='Lenovo arrasa en el MWC 2025 con una lluvia de portátiles, IA en local, ordenadores con energía solar, y mucho más' />
     </a>
 </div>
 
