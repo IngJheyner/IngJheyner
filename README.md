@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gemini-20-llegara-pronto-moviles-oppo-promete-actualizacion-ia-cada-mes-1445800'>Gemini 2.0 llegará pronto a los móviles de Oppo, que promete una actualización de IA cada mes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gemini-20-llegara-pronto-moviles-oppo-promete-actualizacion-ia-cada-mes-1445800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297099.jpg?tf=1200x' alt='Gemini 2.0 llegará pronto a los móviles de Oppo, que promete una actualización de IA cada mes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-no-despues-monkey-estas-seran-proximas-peliculas-1445726'>Stephen King no para: después de The Monkey estas serán sus próximas películas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-no-despues-monkey-estas-seran-proximas-peliculas-1445726' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/monkey-4241713.jpg?tf=1200x' alt='Stephen King no para: después de The Monkey estas serán sus próximas películas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/telegram-pitbull-laliga-iptv-podemos-divulgar-direccion-ip-numero-telefono-autoridades-1445905'>Telegram es el "pitbull" de LaLiga contra las IPTV: "Podemos divulgar tu dirección IP y número de teléfono a las autoridades"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/telegram-pitbull-laliga-iptv-podemos-divulgar-direccion-ip-numero-telefono-autoridades-1445905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/telegram-pitbull-laliga-iptv-podemos-divulgar-direccion-ip-numero-telefono-autoridades-4299724.jpg?tf=1200x' alt='Telegram es el "pitbull" de LaLiga contra las IPTV: "Podemos divulgar tu dirección IP y número de teléfono a las autoridades"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acabando-ia-pensamiento-critico-expertos-afirman-1445923'>¿Está acabando la IA con el pensamiento crítico? Los expertos afirman que sí</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acabando-ia-pensamiento-critico-expertos-afirman-1445923' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pensamiento-humano-inteligencia-artificial-4299689.jpg?tf=1200x' alt='¿Está acabando la IA con el pensamiento crítico? Los expertos afirman que sí' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ver-movistar-plus-estas-son-todas-plataformas-streaming-disponibles-1445848'>Qué ver en Movistar Plus+: estas son todas las plataformas de streaming disponibles</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ver-movistar-plus-estas-son-todas-plataformas-streaming-disponibles-1445848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4299602.jpg?tf=1200x' alt='Qué ver en Movistar Plus+: estas son todas las plataformas de streaming disponibles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-sam-altman-ni-nasa-elon-musk-tiene-nuevo-enemigo-google-no-busques-1445852'>Ni Sam Altman ni la NASA, Elon Musk tiene un nuevo enemigo, Google: "No lo busques"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-sam-altman-ni-nasa-elon-musk-tiene-nuevo-enemigo-google-no-busques-1445852' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-sam-altman-ni-nasa-elon-musk-tiene-nuevo-enemigo-google-no-busques-4299594.jpg?tf=1200x' alt='Ni Sam Altman ni la NASA, Elon Musk tiene un nuevo enemigo, Google: "No lo busques"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-iptv-pirateria-producto-fallido-dejadez-intencionada-1445876'>Amazon Fire TV, IPTV y piratería: ¿producto fallido o dejadez intencionada?</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-iptv-pirateria-producto-fallido-dejadez-intencionada-1445876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amazon-fire-tv-iptv-pirateria-producto-fallido-dejadez-intencionada-4299672.jpg?tf=1200x' alt='Amazon Fire TV, IPTV y piratería: ¿producto fallido o dejadez intencionada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ni-ia-ni-google-inquietante-tecnologia-hizo-perder-sueno-bill-gates-durante-anos-1445847'>Ni la IA ni Google, la inquietante tecnología que hizo perder el sueño a Bill Gates durante años</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ni-ia-ni-google-inquietante-tecnologia-hizo-perder-sueno-bill-gates-durante-anos-1445847' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-vs-java-4299593.jpg?tf=1200x' alt='Ni la IA ni Google, la inquietante tecnología que hizo perder el sueño a Bill Gates durante años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/copilot-copirata-microsoft-te-ayudaba-tener-windows-11-gratis-dejando-evidencia-gran-agujero-ia-1445835'>¿Copilot o Copirata? Microsoft te ayudaba a tener Windows 11 gratis dejando en evidencia el gran agujero de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/copilot-copirata-microsoft-te-ayudaba-tener-windows-11-gratis-dejando-evidencia-gran-agujero-ia-1445835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copilot-ayudaba-tener-windows-11-gratis-4299590.jpg?tf=1200x' alt='¿Copilot o Copirata? Microsoft te ayudaba a tener Windows 11 gratis dejando en evidencia el gran agujero de la IA' />
     </a>
 </div>
 
