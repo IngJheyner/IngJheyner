@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-1445319'>Netflix tiene un éxito inesperado: una de las películas peor valoradas de un genio del terror</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-1445319' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-4298563.jpg?tf=1200x' alt='Netflix tiene un éxito inesperado: una de las películas peor valoradas de un genio del terror' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/proteccion-antirrobo-llega-todos-moviles-android-puedes-activarla-1446194'>La protección antirrobo llega a todos los móviles Android y así puedes activarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/proteccion-antirrobo-llega-todos-moviles-android-puedes-activarla-1446194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/proteccion-antirrobo-android-4300179.jpg?tf=1200x' alt='La protección antirrobo llega a todos los móviles Android y así puedes activarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-oferta-antibloqueos-casi-nadie-conoce-fibra-futbol-cine-series-precio-iptv-1446171'>Movistar Plus+ tiene una oferta "antibloqueos" que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-oferta-antibloqueos-casi-nadie-conoce-fibra-futbol-cine-series-precio-iptv-1446171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4300122.jpg?tf=1200x' alt='Movistar Plus+ tiene una oferta "antibloqueos" que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-1445996'>Ni Sin perdón ni Superman: la mejor película de Gene Hackman estuvo nominada a tres Oscar y está en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-1445996' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-4299844.jpg?tf=1200x' alt='Ni Sin perdón ni Superman: la mejor película de Gene Hackman estuvo nominada a tres Oscar y está en Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/spotube-alternativa-gratis-spotify-youtube-1355666'>He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/spotube-alternativa-gratis-spotify-youtube-1355666' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spotube-alternativa-gratis-spotify-youtube-pueba-3259272.jpg?tf=1200x' alt='He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cambio-radical-coche-electrico-resuelven-gran-problema-baterias-estado-solido-1446100'>Cambio radical en el coche eléctrico: resuelven el gran problema de las baterías de estado sólido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cambio-radical-coche-electrico-resuelven-gran-problema-baterias-estado-solido-1446100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-electrico-4300113.jpg?tf=1200x' alt='Cambio radical en el coche eléctrico: resuelven el gran problema de las baterías de estado sólido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/creador-c-pide-ayuda-defenderlo-ataques-graves-amenaza-creible-1446169'>El creador de C++ pide ayuda para defenderlo  de ataques graves: “Es una amenaza creíble”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/creador-c-pide-ayuda-defenderlo-ataques-graves-amenaza-creible-1446169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-seguridad-c-4300104.jpg?tf=1200x' alt='El creador de C++ pide ayuda para defenderlo  de ataques graves: “Es una amenaza creíble”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-1446153'>Elon Musk amenaza con dejar a Ucrania sin las comunicaciones por satélite de Starlink y la UE busca soluciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-1446153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-4300130.jpg?tf=1200x' alt='Elon Musk amenaza con dejar a Ucrania sin las comunicaciones por satélite de Starlink y la UE busca soluciones' />
     </a>
 </div>
 
