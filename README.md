@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980'>Fue multimillonario durante 90 minutos y no se dio cuenta de ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fue-multimillonario-durante-90-minutos-no-dio-cuenta-ello-4299802.jpg?tf=1200x' alt='Fue multimillonario durante 90 minutos y no se dio cuenta de ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/innofab-fabrica-chips-espana-1445970'>Esta ciudad española acogerá una fábrica de chips con un claro objetivo: reducir la dependencia de países hostiles</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/innofab-fabrica-chips-espana-1445970' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ciudad-espanola-acogera-fabrica-chips-claro-objetivo-reducir-dependencia-paises-hostiles-4299763.jpg?tf=1200x' alt='Esta ciudad española acogerá una fábrica de chips con un claro objetivo: reducir la dependencia de países hostiles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-podria-estar-ralentizando-pc-segundo-plano-te-des-cuenta-1445964'>Windows 11 24H2 podría estar ralentizando tu PC en segundo plano sin que te des cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-podria-estar-ralentizando-pc-segundo-plano-te-des-cuenta-1445964' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-formas-windows-11-recopila-datos-como-evitarlo-3709794.jpg?tf=1200x' alt='Windows 11 24H2 podría estar ralentizando tu PC en segundo plano sin que te des cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/fisicos-desafian-leyes-tiempo-descubren-dos-flechas-cuanticas-opuestas-1445946'>Los físicos desafían las leyes del tiempo: descubren dos flechas cuánticas opuestas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/fisicos-desafian-leyes-tiempo-descubren-dos-flechas-cuanticas-opuestas-1445946' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudios-espacio-tiempo-4299727.jpg?tf=1200x' alt='Los físicos desafían las leyes del tiempo: descubren dos flechas cuánticas opuestas' />
     </a>
 </div>
 
