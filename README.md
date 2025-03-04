@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-deepseek-acaba-nueva-profesion-china-adivinos-1446105'>La IA de DeepSeek acaba con una nueva profesión en China: los adivinos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-deepseek-acaba-nueva-profesion-china-adivinos-1446105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-adivino-4300153.jpg?tf=1200x' alt='La IA de DeepSeek acaba con una nueva profesión en China: los adivinos' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/xiaomi-arrasa-idea-apple-no-supo-hacer-realidad-apple-car-nunca-existio-1446225'>Xiaomi arrasa con una idea de Apple que no supo hacer realidad: ¿por qué el Apple Car nunca existió?</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/xiaomi-arrasa-idea-apple-no-supo-hacer-realidad-apple-car-nunca-existio-1446225' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-vs-apple-car-4300181.jpg?tf=1200x' alt='Xiaomi arrasa con una idea de Apple que no supo hacer realidad: ¿por qué el Apple Car nunca existió?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-autor-parque-jurasico-predijo-todo-1984-1445845'>Fracasó en taquilla, pero esta película del autor de Parque Jurásico lo predijo todo… ¡en 1984!</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-autor-parque-jurasico-predijo-todo-1984-1445845' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-mejores-peliculas-clasicas-robots-temer-verdad-inteligencia-artificial-3302026.jpg?tf=1200x' alt='Fracasó en taquilla, pero esta película del autor de Parque Jurásico lo predijo todo… ¡en 1984!' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/amd-adopta-requisito-windows-11-no-usas-uefi-olvidate-rx-9000-1446233'>AMD adopta el requisito de Windows 11: si no usas UEFI, olvídate de las RX 9000</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/amd-adopta-requisito-windows-11-no-usas-uefi-olvidate-rx-9000-1446233' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='AMD adopta el requisito de Windows 11: si no usas UEFI, olvídate de las RX 9000' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-coloca-empresa-espanola-innovadoras-desarrollo-naves-espaciales-pequenas-1446128'>La NASA coloca a esta empresa española entre las más innovadoras en el desarrollo de naves espaciales pequeñas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-coloca-empresa-espanola-innovadoras-desarrollo-naves-espaciales-pequenas-1446128' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-coloca-empresa-espanola-innovadoras-desarrollo-naves-espaciales-pequenas-4300057.jpg?tf=1200x' alt='La NASA coloca a esta empresa española entre las más innovadoras en el desarrollo de naves espaciales pequeñas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mia-primera-policia-virtual-espana-ia-capaz-tramitar-denuncias-10-idiomas-1446231'>Mia, la primera policía virtual de España con IA capaz de reconocer denuncias en 10 idiomas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mia-primera-policia-virtual-espana-ia-capaz-tramitar-denuncias-10-idiomas-1446231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primera-policia-virtual-espana-ia-capaz-reconocer-denuncias-10-idiomas-4300176.jpg?tf=1200x' alt='Mia, la primera policía virtual de España con IA capaz de reconocer denuncias en 10 idiomas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-1445319'>Netflix tiene un éxito inesperado: una de las películas peor valoradas de un genio del terror</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-1445319' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-4298563.jpg?tf=1200x' alt='Netflix tiene un éxito inesperado: una de las películas peor valoradas de un genio del terror' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-openai-humilla-competencia-rompe-records-pruebas-rendimiento-1446230'>GPT-4.5 de OpenAI humilla a la competencia y rompe récords en las pruebas de rendimiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-openai-humilla-competencia-rompe-records-pruebas-rendimiento-1446230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/openai-4300219.jpg?tf=1200x' alt='GPT-4.5 de OpenAI humilla a la competencia y rompe récords en las pruebas de rendimiento' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/proteccion-antirrobo-llega-todos-moviles-android-puedes-activarla-1446194'>La protección antirrobo llega a todos los móviles Android y así puedes activarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/proteccion-antirrobo-llega-todos-moviles-android-puedes-activarla-1446194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/proteccion-antirrobo-android-4300179.jpg?tf=1200x' alt='La protección antirrobo llega a todos los móviles Android y así puedes activarla' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/corte-ingles-sufre-ciberataque-datos-han-sido-robados-como-protegerte-estas-afectados-1446227'>El Corte Inglés sufre un ciberataque: qué datos han sido robados y cómo protegerte si estás entre los afectados</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/corte-ingles-sufre-ciberataque-datos-han-sido-robados-como-protegerte-estas-afectados-1446227' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cberataque-corte-ingles-4300214.jpg?tf=1200x' alt='El Corte Inglés sufre un ciberataque: qué datos han sido robados y cómo protegerte si estás entre los afectados' />
     </a>
 </div>
 
