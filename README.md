@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-spotify-premium-pirata-ha-acabado-golpe-todas-cuentas-ilegales-1446043'>Cuidado si utilizas Spotify Premium pirata: ha acabado de golpe con todas las cuentas ilegales</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-spotify-premium-pirata-ha-acabado-golpe-todas-cuentas-ilegales-1446043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-utilizas-spotify-premium-pirata-ha-acabado-golpe-todas-cuentas-ilegales-4299918.jpg?tf=1200x' alt='Cuidado si utilizas Spotify Premium pirata: ha acabado de golpe con todas las cuentas ilegales' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/empresa-espanola-averguenza-chatgpt-puede-equivocar-60-veces-no-miente-como-nosotros-1446068'>Empresa española avergüenza a ChatGPT: "Se puede equivocar el 60% de las veces y no miente como nosotros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/empresa-espanola-averguenza-chatgpt-puede-equivocar-60-veces-no-miente-como-nosotros-1446068' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empresa-espanola-averguenza-chatgpt-puede-equivocar-30-veces-no-miente-como-nosotros-4299978.jpg?tf=1200x' alt='Empresa española avergüenza a ChatGPT: "Se puede equivocar el 60% de las veces y no miente como nosotros"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-iptv-laliga-podrian-tener-dias-contados-1446072'>Giro de 180 grados a los bloqueos a las IPTV de LaLiga: podrían tener los días contados</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-iptv-laliga-podrian-tener-dias-contados-1446072' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-iptv-laliga-justicia-podria-pararlos-muy-pronto-4299942.jpg?tf=1200x' alt='Giro de 180 grados a los bloqueos a las IPTV de LaLiga: podrían tener los días contados' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-defiende-codigo-abierto-cree-ia-acabara-pensando-cuenta-1446134'>Steve Wozniak, cofundador de Apple, defiende "más código abierto" y cree que la IA acabará pensando por su cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-defiende-codigo-abierto-cree-ia-acabara-pensando-cuenta-1446134' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-mwc-4300076.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, defiende "más código abierto" y cree que la IA acabará pensando por su cuenta' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-no-solo-no-sube-tarifas-baja-todavia-todos-clientes-1446063'>DIGI no solo no sube sus tarifas, las baja todavía más para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-no-solo-no-sube-tarifas-baja-todavia-todos-clientes-1446063' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-no-solo-no-sube-tarifas-baja-todavia-todos-clientes-4299943.jpg?tf=1200x' alt='DIGI no solo no sube sus tarifas, las baja todavía más para todos sus clientes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-reconoce-desigualdades-tecnologicas-brecha-aun-existe-aunque-confia-ia-1446119'>Bill Gates reconoce las desigualdades tecnológicas: "La brecha aún existe", aunque confía en la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-reconoce-desigualdades-tecnologicas-brecha-aun-existe-aunque-confia-ia-1446119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-conferencia-4287248.jpg?tf=1200x' alt='Bill Gates reconoce las desigualdades tecnológicas: "La brecha aún existe", aunque confía en la IA' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/policia-nacional-advierte-cuidado-encuentras-coche-estafa-1446028'>La Policía Nacional advierte: cuidado si encuentras esto en tu coche, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/policia-nacional-advierte-cuidado-encuentras-coche-estafa-1446028' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-cuidado-encuentras-coche-estafa-4299880.jpg?tf=1200x' alt='La Policía Nacional advierte: cuidado si encuentras esto en tu coche, es una estafa' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-preocupados-nueva-estafa-gmail-puedes-detectarla-facilmente-1446083'>Los expertos, preocupados por la nueva estafa de Gmail: así puedes detectarla fácilmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-preocupados-nueva-estafa-gmail-puedes-detectarla-facilmente-1446083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-preocupados-nueva-estafa-gmail-puedes-detectarla-facilmente-4299966.jpg?tf=1200x' alt='Los expertos, preocupados por la nueva estafa de Gmail: así puedes detectarla fácilmente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502'>Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/serie-nothing-phone-3a-4298945.jpg?tf=1200x' alt='Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/sora-ia-video-openai-ya-disponible-espana-precio-como-utilizarla-chatgpt-1446084'>Sora, la IA de vídeo de OpenAI ya disponible en España: precio y cómo utilizarla en ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/sora-ia-video-openai-ya-disponible-espana-precio-como-utilizarla-chatgpt-1446084' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-videos-sora-openai-4299997.jpg?tf=1200x' alt='Sora, la IA de vídeo de OpenAI ya disponible en España: precio y cómo utilizarla en ChatGPT' />
     </a>
 </div>
 
