@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-iptv-laliga-podrian-tener-dias-contados-1446072'>Giro de 180 grados a los bloqueos a las IPTV de LaLiga: podrían tener los días contados</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-iptv-laliga-podrian-tener-dias-contados-1446072' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-iptv-laliga-justicia-podria-pararlos-muy-pronto-4299942.jpg?tf=1200x' alt='Giro de 180 grados a los bloqueos a las IPTV de LaLiga: podrían tener los días contados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/digi-no-solo-no-sube-tarifas-baja-todavia-todos-clientes-1446063'>DIGI no solo no sube sus tarifas, las baja todavía más para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/digi-no-solo-no-sube-tarifas-baja-todavia-todos-clientes-1446063' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-no-solo-no-sube-tarifas-baja-todavia-todos-clientes-4299943.jpg?tf=1200x' alt='DIGI no solo no sube sus tarifas, las baja todavía más para todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/policia-nacional-advierte-cuidado-encuentras-coche-estafa-1446028'>La Policía Nacional advierte: cuidado si encuentras esto en tu coche, es una estafa</a></h4>
     <a href='https://computerhoy.20minutos.es/life/policia-nacional-advierte-cuidado-encuentras-coche-estafa-1446028' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-cuidado-encuentras-coche-estafa-4299880.jpg?tf=1200x' alt='La Policía Nacional advierte: cuidado si encuentras esto en tu coche, es una estafa' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-pro-sorprende-primera-vista-motivo-no-son-transparencias-ni-leds-1445463'>El Nothing Phone (3a) Pro sorprende a primera vista y el motivo no son sus transparencias ni los leds</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-pro-sorprende-primera-vista-motivo-no-son-transparencias-ni-leds-1445463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4299182.jpg?tf=1200x' alt='El Nothing Phone (3a) Pro sorprende a primera vista y el motivo no son sus transparencias ni los leds' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/bueno-bonito-ahora-mucho-barato-reloj-oneplus-wear-os-pone-apuros-todos-rivales-1446009'>Bueno, bonito y ahora mucho más barato: este reloj OnePlus con Wear OS pone en apuros a todos sus rivales</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/bueno-bonito-ahora-mucho-barato-reloj-oneplus-wear-os-pone-apuros-todos-rivales-1446009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oneplus-2r-4299865.jpg?tf=1200x' alt='Bueno, bonito y ahora mucho más barato: este reloj OnePlus con Wear OS pone en apuros a todos sus rivales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000'>Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-volkswagen-coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-4299847.jpg?tf=1200x' alt='Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI' />
     </a>
 </div>
 
