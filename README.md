@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-spotify-premium-pirata-ha-acabado-golpe-todas-cuentas-ilegales-1446043'>Cuidado si utilizas Spotify Premium pirata: ha acabado de golpe con todas las cuentas ilegales</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cuidado-utilizas-spotify-premium-pirata-ha-acabado-golpe-todas-cuentas-ilegales-1446043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-utilizas-spotify-premium-pirata-ha-acabado-golpe-todas-cuentas-ilegales-4299918.jpg?tf=1200x' alt='Cuidado si utilizas Spotify Premium pirata: ha acabado de golpe con todas las cuentas ilegales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-iptv-laliga-podrian-tener-dias-contados-1446072'>Giro de 180 grados a los bloqueos a las IPTV de LaLiga: podrían tener los días contados</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-iptv-laliga-podrian-tener-dias-contados-1446072' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-iptv-laliga-justicia-podria-pararlos-muy-pronto-4299942.jpg?tf=1200x' alt='Giro de 180 grados a los bloqueos a las IPTV de LaLiga: podrían tener los días contados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502'>Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/serie-nothing-phone-3a-4298945.jpg?tf=1200x' alt='Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-pro-sorprende-primera-vista-motivo-no-son-transparencias-ni-leds-1445463'>El Nothing Phone (3a) Pro sorprende a primera vista y el motivo no son sus transparencias ni los leds</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-pro-sorprende-primera-vista-motivo-no-son-transparencias-ni-leds-1445463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4299182.jpg?tf=1200x' alt='El Nothing Phone (3a) Pro sorprende a primera vista y el motivo no son sus transparencias ni los leds' />
     </a>
 </div>
 
