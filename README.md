@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-1445768'>¿Qué son los Offline Clubs? El sorprendente fenómeno europeo para "desconectar" que arrasa entre la generación Z</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-1445768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-4299451.jpg?tf=1200x' alt='¿Qué son los Offline Clubs? El sorprendente fenómeno europeo para "desconectar" que arrasa entre la generación Z' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-encuentra-inesperado-preocupante-problema-chatgpt-no-como-queremos-operar-1445838'>Sam Altman se encuentra con un inesperado y preocupante problema con ChatGPT: "No es así como queremos operar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-encuentra-inesperado-preocupante-problema-chatgpt-no-como-queremos-operar-1445838' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-encuentra-inesperado-preocupante-problema-chatgtp-no-como-queremos-operar-4299564.jpg?tf=1200x' alt='Sam Altman se encuentra con un inesperado y preocupante problema con ChatGPT: "No es así como queremos operar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980'>Fue multimillonario durante 90 minutos y no se dio cuenta de ello</a></h4>
     <a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fue-multimillonario-durante-90-minutos-no-dio-cuenta-ello-4299802.jpg?tf=1200x' alt='Fue multimillonario durante 90 minutos y no se dio cuenta de ello' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968'>Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/intel-windows-11-4299786.jpg?tf=1200x' alt='Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-te-avisa-usb-fallando-carga-demasiado-lento-1445965'>Windows 11 ahora te avisa si tu USB está fallando o carga demasiado lento</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-ahora-te-avisa-usb-fallando-carga-demasiado-lento-1445965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/windows-11-pendrive-4071055.jpg?tf=1200x' alt='Windows 11 ahora te avisa si tu USB está fallando o carga demasiado lento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-podria-estar-ralentizando-pc-segundo-plano-te-des-cuenta-1445964'>Windows 11 24H2 podría estar ralentizando tu PC en segundo plano sin que te des cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-podria-estar-ralentizando-pc-segundo-plano-te-des-cuenta-1445964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/7-formas-windows-11-recopila-datos-como-evitarlo-3709794.jpg?tf=1200x' alt='Windows 11 24H2 podría estar ralentizando tu PC en segundo plano sin que te des cuenta' />
     </a>
 </div>
 
