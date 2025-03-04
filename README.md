@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/policia-nacional-advierte-cuidado-encuentras-coche-estafa-1446028'>La Policía Nacional advierte: cuidado si encuentras esto en tu coche, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/policia-nacional-advierte-cuidado-encuentras-coche-estafa-1446028' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-cuidado-encuentras-coche-estafa-4299880.jpg?tf=1200x' alt='La Policía Nacional advierte: cuidado si encuentras esto en tu coche, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502'>Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/serie-nothing-phone-3a-4298945.jpg?tf=1200x' alt='Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000'>Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-volkswagen-coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-4299847.jpg?tf=1200x' alt='Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/portatil-solar-otro-3-pantallas-otro-controlado-anillo-ideas-pc-lenovo-mwc-1445705'>Un portátil solar, otro con 3 pantallas y otro controlado con un anillo, entre las ideas de PC de Lenovo en el MWC</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/portatil-solar-otro-3-pantallas-otro-controlado-anillo-ideas-pc-lenovo-mwc-1445705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-magic-bay-dual-display-4299371.jpg?tf=1200x' alt='Un portátil solar, otro con 3 pantallas y otro controlado con un anillo, entre las ideas de PC de Lenovo en el MWC' />
     </a>
 </div>
 
