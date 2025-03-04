@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/primer-pixel-drop-2025-google-estrena-llamadas-emergencia-satelite-espana-1446077'>Primer Pixel Drop de 2025: Google estrena las llamadas de emergencia vía satélite en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/primer-pixel-drop-2025-google-estrena-llamadas-emergencia-satelite-espana-1446077' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primer-pixel-drop-2025-google-estrena-llamadas-emergencia-satelite-espana-4299927.jpg?tf=1200x' alt='Primer Pixel Drop de 2025: Google estrena las llamadas de emergencia vía satélite en España' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-1445996'>Ni Sin perdón ni Superman: la mejor película de Gene Hackman estuvo nominada a tres Oscar y está en Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-1445996' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-4299844.jpg?tf=1200x' alt='Ni Sin perdón ni Superman: la mejor película de Gene Hackman estuvo nominada a tres Oscar y está en Prime Video' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-desarrollan-primera-inteligencia-biologica-sintetica-mundo-funciona-celulas-humanas-vivas-1446071'>Científicos desarrollan la primera "inteligencia biológica sintética" del mundo que funciona con células humanas vivas </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-desarrollan-primera-inteligencia-biologica-sintetica-mundo-funciona-celulas-humanas-vivas-1446071' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primera-inteligencia-biologica-sintetica-4299972.jpg?tf=1200x' alt='Científicos desarrollan la primera "inteligencia biológica sintética" del mundo que funciona con células humanas vivas ' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/spotube-alternativa-gratis-spotify-youtube-1355666'>He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/spotube-alternativa-gratis-spotify-youtube-1355666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spotube-alternativa-gratis-spotify-youtube-pueba-3259272.jpg?tf=1200x' alt='He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-asegura-gpt-45-menos-propenso-alucinaciones-significa-exactamente-1446163'>OpenAI asegura que GPT-4.5 es menos propenso a las "alucinaciones": ¿qué significa exactamente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-asegura-gpt-45-menos-propenso-alucinaciones-significa-exactamente-1446163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-puedes-enemigo-primer-pais-europeo-integrar-oficialmente-chatgpt-colegios-4297721.jpg?tf=1200x' alt='OpenAI asegura que GPT-4.5 es menos propenso a las "alucinaciones": ¿qué significa exactamente?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cambio-radical-coche-electrico-resuelven-gran-problema-baterias-estado-solido-1446100'>Cambio radical en el coche eléctrico: resuelven el gran problema de las baterías de estado sólido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cambio-radical-coche-electrico-resuelven-gran-problema-baterias-estado-solido-1446100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-electrico-4300113.jpg?tf=1200x' alt='Cambio radical en el coche eléctrico: resuelven el gran problema de las baterías de estado sólido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-aseguran-computacion-cuantica-podria-reducir-tiempo-entrenamiento-ia-semanas-horas-1446092'>Expertos aseguran que la computación cuántica podría reducir el tiempo de entrenamiento de la IA de semanas a horas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-aseguran-computacion-cuantica-podria-reducir-tiempo-entrenamiento-ia-semanas-horas-1446092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computadora-cuantica-superconductora-origin-wukong-4300004.jpg?tf=1200x' alt='Expertos aseguran que la computación cuántica podría reducir el tiempo de entrenamiento de la IA de semanas a horas' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/creador-c-pide-ayuda-defenderlo-ataques-graves-amenaza-creible-1446169'>El creador de C++ pide ayuda para defenderlo  de ataques graves: “Es una amenaza creíble”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/creador-c-pide-ayuda-defenderlo-ataques-graves-amenaza-creible-1446169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-seguridad-c-4300104.jpg?tf=1200x' alt='El creador de C++ pide ayuda para defenderlo  de ataques graves: “Es una amenaza creíble”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/fin-movil-300-euros-merece-pena-amazon-acaba-rebajar-12gb-ram-1446073'>Por fin un móvil de 300 euros que sí merece la pena: Amazon lo acaba de rebajar con 12GB de RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/fin-movil-300-euros-merece-pena-amazon-acaba-rebajar-12gb-ram-1446073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-2a-4299948.jpg?tf=1200x' alt='Por fin un móvil de 300 euros que sí merece la pena: Amazon lo acaba de rebajar con 12GB de RAM' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-1446153'>Elon Musk amenaza con dejar a Ucrania sin las comunicaciones por satélite de Starlink y la UE busca soluciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-1446153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-4300130.jpg?tf=1200x' alt='Elon Musk amenaza con dejar a Ucrania sin las comunicaciones por satélite de Starlink y la UE busca soluciones' />
     </a>
 </div>
 
