@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-dispositivo-apple-air-1445993'>Tim Cook anuncia un dispositivo Apple Air para esta semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-dispositivo-apple-air-1445993' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-anuncia-dispositivo-apple-air-semana-4299831.jpg?tf=1200x' alt='Tim Cook anuncia un dispositivo Apple Air para esta semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-economia-habla-claro-riesgo-ia-trabajo-humano-estara-obsoleto-1445785'>Un experto en economía habla claro sobre el riesgo de la IA: "El trabajo humano estará obsoleto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-economia-habla-claro-riesgo-ia-trabajo-humano-estara-obsoleto-1445785' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-economia-habla-claro-riesgo-ia-trabajo-humano-estara-obsoleto-4299465.jpg?tf=1200x' alt='Un experto en economía habla claro sobre el riesgo de la IA: "El trabajo humano estará obsoleto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-1445768'>¿Qué son los Offline Clubs? El sorprendente fenómeno europeo para "desconectar" que arrasa entre la generación Z</a></h4>
     <a href='https://computerhoy.20minutos.es/life/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-1445768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-4299451.jpg?tf=1200x' alt='¿Qué son los Offline Clubs? El sorprendente fenómeno europeo para "desconectar" que arrasa entre la generación Z' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980'>Fue multimillonario durante 90 minutos y no se dio cuenta de ello</a></h4>
     <a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fue-multimillonario-durante-90-minutos-no-dio-cuenta-ello-4299802.jpg?tf=1200x' alt='Fue multimillonario durante 90 minutos y no se dio cuenta de ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/innofab-fabrica-chips-espana-1445970'>Esta ciudad española acogerá una fábrica de chips con un claro objetivo: reducir la dependencia de países hostiles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/innofab-fabrica-chips-espana-1445970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ciudad-espanola-acogera-fabrica-chips-claro-objetivo-reducir-dependencia-paises-hostiles-4299763.jpg?tf=1200x' alt='Esta ciudad española acogerá una fábrica de chips con un claro objetivo: reducir la dependencia de países hostiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968'>Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-desmiente-rumores-windows-11-24h2-funciona-cpus-intel-antiguas-1445968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/intel-windows-11-4299786.jpg?tf=1200x' alt='Microsoft desmiente rumores: Windows 11 24H2 sí funciona en CPUs Intel antiguas' />
     </a>
 </div>
 
