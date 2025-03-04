@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-deepseek-acaba-nueva-profesion-china-adivinos-1446105'>La IA de DeepSeek acaba con una nueva profesión en China: los adivinos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-deepseek-acaba-nueva-profesion-china-adivinos-1446105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-adivino-4300153.jpg?tf=1200x' alt='La IA de DeepSeek acaba con una nueva profesión en China: los adivinos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-autor-parque-jurasico-predijo-todo-1984-1445845'>Fracasó en taquilla, pero esta película del autor de Parque Jurásico lo predijo todo… ¡en 1984!</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-pelicula-autor-parque-jurasico-predijo-todo-1984-1445845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/5-mejores-peliculas-clasicas-robots-temer-verdad-inteligencia-artificial-3302026.jpg?tf=1200x' alt='Fracasó en taquilla, pero esta película del autor de Parque Jurásico lo predijo todo… ¡en 1984!' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-coloca-empresa-espanola-innovadoras-desarrollo-naves-espaciales-pequenas-1446128'>La NASA coloca a esta empresa española entre las más innovadoras en el desarrollo de naves espaciales pequeñas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-coloca-empresa-espanola-innovadoras-desarrollo-naves-espaciales-pequenas-1446128' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-coloca-empresa-espanola-innovadoras-desarrollo-naves-espaciales-pequenas-4300057.jpg?tf=1200x' alt='La NASA coloca a esta empresa española entre las más innovadoras en el desarrollo de naves espaciales pequeñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-1445319'>Netflix tiene un éxito inesperado: una de las películas peor valoradas de un genio del terror</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-1445319' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/netflix-tiene-exito-inesperado-peliculas-peor-valoradas-genio-terror-4298563.jpg?tf=1200x' alt='Netflix tiene un éxito inesperado: una de las películas peor valoradas de un genio del terror' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/proteccion-antirrobo-llega-todos-moviles-android-puedes-activarla-1446194'>La protección antirrobo llega a todos los móviles Android y así puedes activarla</a></h4>
     <a href='https://computerhoy.20minutos.es/android/proteccion-antirrobo-llega-todos-moviles-android-puedes-activarla-1446194' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/proteccion-antirrobo-android-4300179.jpg?tf=1200x' alt='La protección antirrobo llega a todos los móviles Android y así puedes activarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-oferta-antibloqueos-casi-nadie-conoce-fibra-futbol-cine-series-precio-iptv-1446171'>Movistar Plus+ tiene una oferta "antibloqueos" que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tiene-oferta-antibloqueos-casi-nadie-conoce-fibra-futbol-cine-series-precio-iptv-1446171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4300122.jpg?tf=1200x' alt='Movistar Plus+ tiene una oferta "antibloqueos" que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-1445996'>Ni Sin perdón ni Superman: la mejor película de Gene Hackman estuvo nominada a tres Oscar y está en Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-1445996' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-perdon-ni-superman-mejor-pelicula-gene-hackman-estuvo-nominada-tres-oscar-prime-video-4299844.jpg?tf=1200x' alt='Ni Sin perdón ni Superman: la mejor película de Gene Hackman estuvo nominada a tres Oscar y está en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/spotube-alternativa-gratis-spotify-youtube-1355666'>He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/spotube-alternativa-gratis-spotify-youtube-1355666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/01/spotube-alternativa-gratis-spotify-youtube-pueba-3259272.jpg?tf=1200x' alt='He probado Spotube, la alternativa gratis y sin publicidad a Spotify y YT Music: me ha resultado muy familiar' />
     </a>
 </div>
 
