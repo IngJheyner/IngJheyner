@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-aseguran-computacion-cuantica-podria-reducir-tiempo-entrenamiento-ia-semanas-horas-1446092'>Expertos aseguran que la computación cuántica podría reducir el tiempo de entrenamiento de la IA de semanas a horas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-aseguran-computacion-cuantica-podria-reducir-tiempo-entrenamiento-ia-semanas-horas-1446092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computadora-cuantica-superconductora-origin-wukong-4300004.jpg?tf=1200x' alt='Expertos aseguran que la computación cuántica podría reducir el tiempo de entrenamiento de la IA de semanas a horas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/fin-movil-300-euros-merece-pena-amazon-acaba-rebajar-12gb-ram-1446073'>Por fin un móvil de 300 euros que sí merece la pena: Amazon lo acaba de rebajar con 12GB de RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/fin-movil-300-euros-merece-pena-amazon-acaba-rebajar-12gb-ram-1446073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-2a-4299948.jpg?tf=1200x' alt='Por fin un móvil de 300 euros que sí merece la pena: Amazon lo acaba de rebajar con 12GB de RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-lanzara-marzo-ray-ban-transparentes-edicion-limitada-seran-gafas-futuro-1446144'>Meta lanzará en marzo sus Ray-Ban transparentes de edición limitada: así serán las gafas del futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/meta-lanzara-marzo-ray-ban-transparentes-edicion-limitada-seran-gafas-futuro-1446144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ray-ban-meta-4262702.jpg?tf=1200x' alt='Meta lanzará en marzo sus Ray-Ban transparentes de edición limitada: así serán las gafas del futuro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-presenta-nuevo-ipad-air-chip-m3-continuar-apuesta-apple-intelligence-1446152'>Apple presenta un nuevo iPad Air con chip M3 para continuar su apuesta por Apple Intelligence</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-presenta-nuevo-ipad-air-chip-m3-continuar-apuesta-apple-intelligence-1446152' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-ipad-air-2025-4300090.jpg?tf=1200x' alt='Apple presenta un nuevo iPad Air con chip M3 para continuar su apuesta por Apple Intelligence' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/empresa-espanola-averguenza-chatgpt-puede-equivocar-60-veces-no-miente-como-nosotros-1446068'>Empresa española avergüenza a ChatGPT: "Se puede equivocar el 60% de las veces y no miente como nosotros"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/empresa-espanola-averguenza-chatgpt-puede-equivocar-60-veces-no-miente-como-nosotros-1446068' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empresa-espanola-averguenza-chatgpt-puede-equivocar-30-veces-no-miente-como-nosotros-4299978.jpg?tf=1200x' alt='Empresa española avergüenza a ChatGPT: "Se puede equivocar el 60% de las veces y no miente como nosotros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-defiende-codigo-abierto-cree-ia-acabara-pensando-cuenta-1446134'>Steve Wozniak, cofundador de Apple, defiende "más código abierto" y cree que la IA acabará pensando por su cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-defiende-codigo-abierto-cree-ia-acabara-pensando-cuenta-1446134' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-mwc-4300076.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, defiende "más código abierto" y cree que la IA acabará pensando por su cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-reconoce-desigualdades-tecnologicas-brecha-aun-existe-aunque-confia-ia-1446119'>Bill Gates reconoce las desigualdades tecnológicas: "La brecha aún existe", aunque confía en la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-reconoce-desigualdades-tecnologicas-brecha-aun-existe-aunque-confia-ia-1446119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-conferencia-4287248.jpg?tf=1200x' alt='Bill Gates reconoce las desigualdades tecnológicas: "La brecha aún existe", aunque confía en la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-preocupados-nueva-estafa-gmail-puedes-detectarla-facilmente-1446083'>Los expertos, preocupados por la nueva estafa de Gmail: así puedes detectarla fácilmente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-preocupados-nueva-estafa-gmail-puedes-detectarla-facilmente-1446083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-preocupados-nueva-estafa-gmail-puedes-detectarla-facilmente-4299966.jpg?tf=1200x' alt='Los expertos, preocupados por la nueva estafa de Gmail: así puedes detectarla fácilmente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/sora-ia-video-openai-ya-disponible-espana-precio-como-utilizarla-chatgpt-1446084'>Sora, la IA de vídeo de OpenAI ya disponible en España: precio y cómo utilizarla en ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/sora-ia-video-openai-ya-disponible-espana-precio-como-utilizarla-chatgpt-1446084' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-videos-sora-openai-4299997.jpg?tf=1200x' alt='Sora, la IA de vídeo de OpenAI ya disponible en España: precio y cómo utilizarla en ChatGPT' />
     </a>
 </div>
 
