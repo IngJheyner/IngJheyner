@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502'>Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-3a-pro-continuacion-logica-moviles-compania-1445502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/serie-nothing-phone-3a-4298945.jpg?tf=1200x' alt='Así es el Nothing Phone (3a) y (3a) Pro, la continuación lógica de los móviles de la compañía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-pro-sorprende-primera-vista-motivo-no-son-transparencias-ni-leds-1445463'>El Nothing Phone (3a) Pro sorprende a primera vista y el motivo no son sus transparencias ni los leds</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nothing-phone-3a-pro-sorprende-primera-vista-motivo-no-son-transparencias-ni-leds-1445463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4299182.jpg?tf=1200x' alt='El Nothing Phone (3a) Pro sorprende a primera vista y el motivo no son sus transparencias ni los leds' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/bueno-bonito-ahora-mucho-barato-reloj-oneplus-wear-os-pone-apuros-todos-rivales-1446009'>Bueno, bonito y ahora mucho más barato: este reloj OnePlus con Wear OS pone en apuros a todos sus rivales</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/bueno-bonito-ahora-mucho-barato-reloj-oneplus-wear-os-pone-apuros-todos-rivales-1446009' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oneplus-2r-4299865.jpg?tf=1200x' alt='Bueno, bonito y ahora mucho más barato: este reloj OnePlus con Wear OS pone en apuros a todos sus rivales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/portatil-solar-otro-3-pantallas-otro-controlado-anillo-ideas-pc-lenovo-mwc-1445705'>Un portátil solar, otro con 3 pantallas y otro controlado con un anillo, entre las ideas de PC de Lenovo en el MWC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/portatil-solar-otro-3-pantallas-otro-controlado-anillo-ideas-pc-lenovo-mwc-1445705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-magic-bay-dual-display-4299371.jpg?tf=1200x' alt='Un portátil solar, otro con 3 pantallas y otro controlado con un anillo, entre las ideas de PC de Lenovo en el MWC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-espana-tenemos-peores-wifi-europa-nos-sirve-tanta-fibra-optica-1444932'>Palo a España: tenemos uno de los peores WiFi de Europa, ¿de qué nos sirve tanta fibra óptica?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palo-espana-tenemos-peores-wifi-europa-nos-sirve-tanta-fibra-optica-1444932' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/velocidad-conexion-espana-europa-4297908.jpg?tf=1200x' alt='Palo a España: tenemos uno de los peores WiFi de Europa, ¿de qué nos sirve tanta fibra óptica?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-realme-apuestan-fotografia-modular-pero-no-nuevo-deberia-funcionar-ahora-1445864'>Xiaomi y Realme apuestan por fotografía modular, pero esto no es nuevo: ¿por qué debería funcionar ahora?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-realme-apuestan-fotografia-modular-pero-no-nuevo-deberia-funcionar-ahora-1445864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modulo-camara-xiaomi-4299614.jpg?tf=1200x' alt='Xiaomi y Realme apuestan por fotografía modular, pero esto no es nuevo: ¿por qué debería funcionar ahora?' />
     </a>
 </div>
 
