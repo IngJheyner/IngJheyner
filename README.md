@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/bueno-bonito-ahora-mucho-barato-reloj-oneplus-wear-os-pone-apuros-todos-rivales-1446009'>Bueno, bonito y ahora mucho más barato: este reloj OnePlus con Wear OS pone en apuros a todos sus rivales</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/bueno-bonito-ahora-mucho-barato-reloj-oneplus-wear-os-pone-apuros-todos-rivales-1446009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oneplus-2r-4299865.jpg?tf=1200x' alt='Bueno, bonito y ahora mucho más barato: este reloj OnePlus con Wear OS pone en apuros a todos sus rivales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000'>Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-volkswagen-coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-4299847.jpg?tf=1200x' alt='Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-realme-apuestan-fotografia-modular-pero-no-nuevo-deberia-funcionar-ahora-1445864'>Xiaomi y Realme apuestan por fotografía modular, pero esto no es nuevo: ¿por qué debería funcionar ahora?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-realme-apuestan-fotografia-modular-pero-no-nuevo-deberia-funcionar-ahora-1445864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modulo-camara-xiaomi-4299614.jpg?tf=1200x' alt='Xiaomi y Realme apuestan por fotografía modular, pero esto no es nuevo: ¿por qué debería funcionar ahora?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-dispositivo-apple-air-1445993'>Tim Cook anuncia un dispositivo Apple Air para esta semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-dispositivo-apple-air-1445993' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-anuncia-dispositivo-apple-air-semana-4299831.jpg?tf=1200x' alt='Tim Cook anuncia un dispositivo Apple Air para esta semana' />
     </a>
 </div>
 
