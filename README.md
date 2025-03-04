@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000'>Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-dji-1446000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-volkswagen-coches-electricos-chinos-byd-estan-otro-nivel-ya-pueden-lanzar-drones-4299847.jpg?tf=1200x' alt='Ni Tesla ni Volkswagen: los coches eléctricos chinos de BYD están a otro nivel, ya pueden lanzar drones DJI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/portatil-solar-otro-3-pantallas-otro-controlado-anillo-ideas-pc-lenovo-mwc-1445705'>Un portátil solar, otro con 3 pantallas y otro controlado con un anillo, entre las ideas de PC de Lenovo en el MWC</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/portatil-solar-otro-3-pantallas-otro-controlado-anillo-ideas-pc-lenovo-mwc-1445705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenovo-magic-bay-dual-display-4299371.jpg?tf=1200x' alt='Un portátil solar, otro con 3 pantallas y otro controlado con un anillo, entre las ideas de PC de Lenovo en el MWC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-espana-tenemos-peores-wifi-europa-nos-sirve-tanta-fibra-optica-1444932'>Palo a España: tenemos uno de los peores WiFi de Europa, ¿de qué nos sirve tanta fibra óptica?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/palo-espana-tenemos-peores-wifi-europa-nos-sirve-tanta-fibra-optica-1444932' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/velocidad-conexion-espana-europa-4297908.jpg?tf=1200x' alt='Palo a España: tenemos uno de los peores WiFi de Europa, ¿de qué nos sirve tanta fibra óptica?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-realme-apuestan-fotografia-modular-pero-no-nuevo-deberia-funcionar-ahora-1445864'>Xiaomi y Realme apuestan por fotografía modular, pero esto no es nuevo: ¿por qué debería funcionar ahora?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xiaomi-realme-apuestan-fotografia-modular-pero-no-nuevo-deberia-funcionar-ahora-1445864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modulo-camara-xiaomi-4299614.jpg?tf=1200x' alt='Xiaomi y Realme apuestan por fotografía modular, pero esto no es nuevo: ¿por qué debería funcionar ahora?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-dispositivo-apple-air-1445993'>Tim Cook anuncia un dispositivo Apple Air para esta semana</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-anuncia-dispositivo-apple-air-1445993' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-anuncia-dispositivo-apple-air-semana-4299831.jpg?tf=1200x' alt='Tim Cook anuncia un dispositivo Apple Air para esta semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-economia-habla-claro-riesgo-ia-trabajo-humano-estara-obsoleto-1445785'>Un experto en economía habla claro sobre el riesgo de la IA: "El trabajo humano estará obsoleto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-economia-habla-claro-riesgo-ia-trabajo-humano-estara-obsoleto-1445785' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-economia-habla-claro-riesgo-ia-trabajo-humano-estara-obsoleto-4299465.jpg?tf=1200x' alt='Un experto en economía habla claro sobre el riesgo de la IA: "El trabajo humano estará obsoleto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-1445768'>¿Qué son los Offline Clubs? El sorprendente fenómeno europeo para "desconectar" que arrasa entre la generación Z</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-1445768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/son-offline-clubs-sorprendente-fenomeno-europeo-desconectar-arrasa-generacion-z-4299451.jpg?tf=1200x' alt='¿Qué son los Offline Clubs? El sorprendente fenómeno europeo para "desconectar" que arrasa entre la generación Z' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-encuentra-inesperado-preocupante-problema-chatgpt-no-como-queremos-operar-1445838'>Sam Altman se encuentra con un inesperado y preocupante problema con ChatGPT: "No es así como queremos operar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-encuentra-inesperado-preocupante-problema-chatgpt-no-como-queremos-operar-1445838' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-encuentra-inesperado-preocupante-problema-chatgtp-no-como-queremos-operar-4299564.jpg?tf=1200x' alt='Sam Altman se encuentra con un inesperado y preocupante problema con ChatGPT: "No es así como queremos operar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980'>Fue multimillonario durante 90 minutos y no se dio cuenta de ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/multimillonario-durante-90-minutos-81-billones-citigroup-1445980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fue-multimillonario-durante-90-minutos-no-dio-cuenta-ello-4299802.jpg?tf=1200x' alt='Fue multimillonario durante 90 minutos y no se dio cuenta de ello' />
     </a>
 </div>
 
