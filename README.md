@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-estafa-20-euros-tarjeta-debes-ir-presencial-banco-cambiarlo-1446461'>Experta en seguridad alerta sobre la estafa de los 20 euros con la tarjeta: "Debes ir presencial al banco para cambiarlo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-estafa-20-euros-tarjeta-debes-ir-presencial-banco-cambiarlo-1446461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-seguridad-alerta-estafa-20-euros-tarjeta-debes-ir-presencial-banco-cambiarlo-4300693.jpg?tf=1200x' alt='Experta en seguridad alerta sobre la estafa de los 20 euros con la tarjeta: "Debes ir presencial al banco para cambiarlo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/adios-plex-tienes-servidor-fabricante-ya-no-podras-utilizarlo-1446411'>Adiós a PLEX, si tienes un servidor de este fabricante ya no podrás utilizarlo más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/adios-plex-tienes-servidor-fabricante-ya-no-podras-utilizarlo-1446411' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/plex-deja-servir-drobo-4300588.jpg?tf=1200x' alt='Adiós a PLEX, si tienes un servidor de este fabricante ya no podrás utilizarlo más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/tiempo-no-fluye-como-creemos-estudio-desafia-percepcion-pasado-futuro-1446366'>¿Y si el tiempo no fluye como creemos? Un estudio desafía nuestra percepción del pasado y el futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/tiempo-no-fluye-como-creemos-estudio-desafia-percepcion-pasado-futuro-1446366' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tiempo-fluye-dos-direcciones-4300435.jpg?tf=1200x' alt='¿Y si el tiempo no fluye como creemos? Un estudio desafía nuestra percepción del pasado y el futuro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/afectan-realmente-lluvia-mal-tiempo-conexion-internet-realidad-mito-1446358'>¿Afectan realmente la lluvia y el mal tiempo a tu conexión a Internet? ¿Realidad o mito?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/afectan-realmente-lluvia-mal-tiempo-conexion-internet-realidad-mito-1446358' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/afectan-realmente-lluvia-mal-tiempo-conexion-internet-realidad-mito-4300404.jpg?tf=1200x' alt='¿Afectan realmente la lluvia y el mal tiempo a tu conexión a Internet? ¿Realidad o mito?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-expertos-ia-ganadores-turing-hay-muchas-cosas-mal-mundo-pero-demasiada-inteligencia-no-ellas-1446463'>Palo de los expertos en IA ganadores del Turing: "Hay muchas cosas mal en el mundo, pero demasiada inteligencia no es una de ellas”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palo-expertos-ia-ganadores-turing-hay-muchas-cosas-mal-mundo-pero-demasiada-inteligencia-no-ellas-1446463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/richard-sutton-andrew-barton-inteligencia-artificial-refuerzo-aprendizaje-4300659.jpg?tf=1200x' alt='Palo de los expertos en IA ganadores del Turing: "Hay muchas cosas mal en el mundo, pero demasiada inteligencia no es una de ellas”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tierras-raras-podrian-llevar-extremadura-jugar-champions-tiene-gran-potencial-1446380'>Las Tierras raras podrían llevar a Extremadura a jugar la "Champions": "Tiene un gran potencial"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tierras-raras-podrian-llevar-extremadura-jugar-champions-tiene-gran-potencial-1446380' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mineria-tierras-raras-extremadura-4300474.jpg?tf=1200x' alt='Las Tierras raras podrían llevar a Extremadura a jugar la "Champions": "Tiene un gran potencial"' />
     </a>
 </div>
 
