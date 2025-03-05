@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cierre-spotify-premium-apk-todas-alternativas-gratis-legales-1446370'>Cierre de Spotify Premium APK: todas las alternativas gratis y legales</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cierre-spotify-premium-apk-todas-alternativas-gratis-legales-1446370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cierre-spotify-premium-apk-todas-alternativas-gratis-legales-4300423.jpg?tf=1200x' alt='Cierre de Spotify Premium APK: todas las alternativas gratis y legales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-consigue-fotografiar-momento-exacto-avion-supersonico-rompe-barrera-sonido-1446452'>La NASA consigue fotografiar el momento exacto en el que un avión supersónico rompe la barrera del sonido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-consigue-fotografiar-momento-exacto-avion-supersonico-rompe-barrera-sonido-1446452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xb-1-nasa-supersonic-barrera-sonido-avion-4300609.jpg?tf=1200x' alt='La NASA consigue fotografiar el momento exacto en el que un avión supersónico rompe la barrera del sonido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/ni-cloudflare-ni-telegram-expertos-apuntan-directamente-google-guerra-iptv-pirateria-1446427'>Ni Cloudflare ni Telegram, expertos apuntan directamente a Google en la guerra contra las IPTV y la piratería</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ni-cloudflare-ni-telegram-expertos-apuntan-directamente-google-guerra-iptv-pirateria-1446427' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-cloudflare-ni-telegram-expertos-apuntan-directamente-google-guerra-iptv-pirateria-4300605.jpg?tf=1200x' alt='Ni Cloudflare ni Telegram, expertos apuntan directamente a Google en la guerra contra las IPTV y la piratería' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/puede-chatgpt-reemplazar-terapeuta-profesional-expertos-salud-mental-tienen-claro-1446442'>¿Puede ChatGPT reemplazar a un terapeuta profesional? Los expertos en salud mental lo tienen claro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/puede-chatgpt-reemplazar-terapeuta-profesional-expertos-salud-mental-tienen-claro-1446442' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-psicologia-salud-mental-4300584.jpg?tf=1200x' alt='¿Puede ChatGPT reemplazar a un terapeuta profesional? Los expertos en salud mental lo tienen claro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-une-elon-musk-peligro-demostrado-buena-ciencia-1446330'>La comunidad científica se une contra Elon Musk: "Es un peligro demostrado para la buena ciencia"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-une-elon-musk-peligro-demostrado-buena-ciencia-1446330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4300392.jpg?tf=1200x' alt='La comunidad científica se une contra Elon Musk: "Es un peligro demostrado para la buena ciencia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-alertan-redes-wifi-pueden-acceder-credenciales-bancarias-correos-conversaciones-privadas-1446438'>Expertos en seguridad alertan sobre redes WiFi: "Pueden acceder a credenciales bancarias, correos y conversaciones privadas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-alertan-redes-wifi-pueden-acceder-credenciales-bancarias-correos-conversaciones-privadas-1446438' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-wifi-avion-3831852.jpg?tf=1200x' alt='Expertos en seguridad alertan sobre redes WiFi: "Pueden acceder a credenciales bancarias, correos y conversaciones privadas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377'>Se le estropea el disco duro, lo abre para repararlo y se encuentra el timo del siglo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disco-duro-2tb-deteriorado-4300426.jpg?tf=1200x' alt='Se le estropea el disco duro, lo abre para repararlo y se encuentra el timo del siglo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/francia-hace-limpia-tdt-hicieran-mismo-espana-no-quedaria-ni-solo-canal-1446388'>Francia hace limpia en la TDT: si hicieran lo mismo en España, no quedaría ni un solo canal</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/francia-hace-limpia-tdt-hicieran-mismo-espana-no-quedaria-ni-solo-canal-1446388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/francia-tdt-4300468.jpg?tf=1200x' alt='Francia hace limpia en la TDT: si hicieran lo mismo en España, no quedaría ni un solo canal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-elige-exclusivo-chip-m3-ultra-desatar-potencia-nuevo-mac-studio-1446417'>Apple elige su exclusivo chip M3 Ultra para desatar la potencia del nuevo Mac Studio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-elige-exclusivo-chip-m3-ultra-desatar-potencia-nuevo-mac-studio-1446417' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-mac-studio-m3-ultra-m4-max-4300550.jpg?tf=1200x' alt='Apple elige su exclusivo chip M3 Ultra para desatar la potencia del nuevo Mac Studio' />
     </a>
 </div>
 
