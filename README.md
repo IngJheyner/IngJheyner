@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-une-elon-musk-peligro-demostrado-buena-ciencia-1446330'>La comunidad científica se une contra Elon Musk: "Es un peligro demostrado para la buena ciencia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-une-elon-musk-peligro-demostrado-buena-ciencia-1446330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4300392.jpg?tf=1200x' alt='La comunidad científica se une contra Elon Musk: "Es un peligro demostrado para la buena ciencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-alertan-redes-wifi-pueden-acceder-credenciales-bancarias-correos-conversaciones-privadas-1446438'>Expertos en seguridad alertan sobre redes WiFi: "Pueden acceder a credenciales bancarias, correos y conversaciones privadas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-seguridad-alertan-redes-wifi-pueden-acceder-credenciales-bancarias-correos-conversaciones-privadas-1446438' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/ciberseguridad-wifi-avion-3831852.jpg?tf=1200x' alt='Expertos en seguridad alertan sobre redes WiFi: "Pueden acceder a credenciales bancarias, correos y conversaciones privadas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377'>Se le estropea el disco duro, lo abre para repararlo y se encuentra el timo del siglo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disco-duro-2tb-deteriorado-4300426.jpg?tf=1200x' alt='Se le estropea el disco duro, lo abre para repararlo y se encuentra el timo del siglo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/francia-hace-limpia-tdt-hicieran-mismo-espana-no-quedaria-ni-solo-canal-1446388'>Francia hace limpia en la TDT: si hicieran lo mismo en España, no quedaría ni un solo canal</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/francia-hace-limpia-tdt-hicieran-mismo-espana-no-quedaria-ni-solo-canal-1446388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/francia-tdt-4300468.jpg?tf=1200x' alt='Francia hace limpia en la TDT: si hicieran lo mismo en España, no quedaría ni un solo canal' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-elige-exclusivo-chip-m3-ultra-desatar-potencia-nuevo-mac-studio-1446417'>Apple elige su exclusivo chip M3 Ultra para desatar la potencia del nuevo Mac Studio</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-elige-exclusivo-chip-m3-ultra-desatar-potencia-nuevo-mac-studio-1446417' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-mac-studio-m3-ultra-m4-max-4300550.jpg?tf=1200x' alt='Apple elige su exclusivo chip M3 Ultra para desatar la potencia del nuevo Mac Studio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/comunicado-urgente-movistar-plus-rectifica-finalmente-errores-molestos-programacion-1446373'>Comunicado urgente: Movistar Plus+ rectifica finalmente uno de los errores más molestos de su programación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/comunicado-urgente-movistar-plus-rectifica-finalmente-errores-molestos-programacion-1446373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-aviso-4300461.jpg?tf=1200x' alt='Comunicado urgente: Movistar Plus+ rectifica finalmente uno de los errores más molestos de su programación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-1446387'>Palo a Elon Musk en su guerra contra Sam Altman y OpenAI: “En realidad no tienen el dinero”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-1446387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-4300443.jpg?tf=1200x' alt='Palo a Elon Musk en su guerra contra Sam Altman y OpenAI: “En realidad no tienen el dinero”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/motor-hibrido-nasa-podria-resolver-mayor-problema-aviacion-1445532'>Este motor híbrido de la NASA podría resolver el mayor problema de la aviación</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/motor-hibrido-nasa-podria-resolver-mayor-problema-aviacion-1445532' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/motor-hibrido-nasa-podria-resolver-mayor-problema-aviacion-4299007.jpg?tf=1200x' alt='Este motor híbrido de la NASA podría resolver el mayor problema de la aviación' />
     </a>
 </div>
 
