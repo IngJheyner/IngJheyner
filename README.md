@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hace-45-anos-bill-gates-contrato-empleado-rentable-historia-microsoft-solo-costo-120000-millones-dolares-1446121'>Hace 45 años Bill Gates contrató al empleado más rentable de la historia de Microsoft, solo le costó 120.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hace-45-anos-bill-gates-contrato-empleado-rentable-historia-microsoft-solo-costo-120000-millones-dolares-1446121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hace-45-anos-bill-gates-contrato-empleado-rentable-historia-microsoft-solo-costo-120000-millones-dolares-4300053.jpg?tf=1200x' alt='Hace 45 años Bill Gates contrató al empleado más rentable de la historia de Microsoft, solo le costó 120.000 millones de dólares' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-1446283'>Calculan cuántos capítulos aguanta la gente antes de abandonar una serie, y el resultado es sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-1446283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-4300277.jpg?tf=1200x' alt='Calculan cuántos capítulos aguanta la gente antes de abandonar una serie, y el resultado es sorprendente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/tres-palos-steve-jobs-bill-gates-realidad-nunca-ha-inventado-nada-1445827'>Los tres "palos" de Steve Jobs a Bill Gates: "En realidad, nunca ha inventado nada"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/tres-palos-steve-jobs-bill-gates-realidad-nunca-ha-inventado-nada-1445827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tres-palos-steve-jobs-dio-dia-bill-gates-realidad-nunca-ha-inventado-nada-4299546.jpg?tf=1200x' alt='Los tres "palos" de Steve Jobs a Bill Gates: "En realidad, nunca ha inventado nada"' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16e-me-parece-evolucion-convincente-iphone-primer-contacto-razon-1445635'>El iPhone 16e me parece una evolución convincente del iPhone SE en un primer contacto por esta razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/iphone-16e-me-parece-evolucion-convincente-iphone-primer-contacto-razon-1445635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4299850.jpg?tf=1200x' alt='El iPhone 16e me parece una evolución convincente del iPhone SE en un primer contacto por esta razón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/prueba-asistente-voz-ia-avanzado-no-da-credito-locura-estamos-locos-1446122'>Prueba el asistente de voz con IA más avanzado y no da crédito: “Es una locura, estamos locos o qué”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/prueba-asistente-voz-ia-avanzado-no-da-credito-locura-estamos-locos-1446122' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-como-asistente-voz-4300081.jpg?tf=1200x' alt='Prueba el asistente de voz con IA más avanzado y no da crédito: “Es una locura, estamos locos o qué”' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/fin-he-podido-tocar-plegable-triple-huawei-mate-xt-creo-puede-jubilar-tablet-1445903'>Por fin he podido tocar el plegable triple Huawei Mate XT y creo que puede jubilar a tu tablet</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/fin-he-podido-tocar-plegable-triple-huawei-mate-xt-creo-puede-jubilar-tablet-1445903' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-mate-xt-ultimate-design-4299794.jpg?tf=1200x' alt='Por fin he podido tocar el plegable triple Huawei Mate XT y creo que puede jubilar a tu tablet' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/consola-retro-anbernic-presume-windows-11-alternativa-muy-barata-steam-deck-1445755'>Esta consola retro de Anbernic presume de Windows 11: es una alternativa muy barata a Steam Deck</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/consola-retro-anbernic-presume-windows-11-alternativa-muy-barata-steam-deck-1445755' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anbernic-win600-4273611.jpg?tf=1200x' alt='Esta consola retro de Anbernic presume de Windows 11: es una alternativa muy barata a Steam Deck' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/juego-creado-hackers-te-permitira-aprenderlo-todo-ciberseguridad-forma-totalmente-gratuita-1440714'>Este juego creado por hackers te permitirá aprenderlo todo sobre ciberseguridad, de forma totalmente gratuita</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/juego-creado-hackers-te-permitira-aprenderlo-todo-ciberseguridad-forma-totalmente-gratuita-1440714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacking-etico-ciberseguridad-4291005.jpg?tf=1200x' alt='Este juego creado por hackers te permitirá aprenderlo todo sobre ciberseguridad, de forma totalmente gratuita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/pregunta-disenador-iphone-sigue-haciendo-cada-dia-pesar-prohibicion-steve-jobs-1444480'>La pregunta que el diseñador del iPhone se sigue haciendo cada día a pesar de la prohibición de Steve Jobs</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/pregunta-disenador-iphone-sigue-haciendo-cada-dia-pesar-prohibicion-steve-jobs-1444480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pregunta-disenador-iphone-sigue-haciendo-cada-dia-pesar-prohibicion-steve-jobs-4297071.jpg?tf=1200x' alt='La pregunta que el diseñador del iPhone se sigue haciendo cada día a pesar de la prohibición de Steve Jobs' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/agentes-ia-convierten-protagonistas-mobile-world-congress-1445907'>Los agentes de IA se convierten en los protagonistas del Mobile World Congress</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/agentes-ia-convierten-protagonistas-mobile-world-congress-1445907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mwc-agentes-inteligencia-artificial-4300258.jpg?tf=1200x' alt='Los agentes de IA se convierten en los protagonistas del Mobile World Congress' />
     </a>
 </div>
 
