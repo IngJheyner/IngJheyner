@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-consigue-sentar-google-huawei-banquillo-caso-iptv-newplay-participantes-animo-lucro-1446188'>Javier Tebas consigue sentar a Google y Huawei en el banquillo por el caso IPTV NewPlay: "Participantes con ánimo de lucro" </a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-consigue-sentar-google-huawei-banquillo-caso-iptv-newplay-participantes-animo-lucro-1446188' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-consigue-sentar-google-huawei-banquillo-caso-iptv-newplay-participantes-animo-lucro-4300180.jpg?tf=1200x' alt='Javier Tebas consigue sentar a Google y Huawei en el banquillo por el caso IPTV NewPlay: "Participantes con ánimo de lucro" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377'>Se le estropea el disco duro, lo abre para repararlo y se encuentra en timo del siglo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disco-duro-2tb-deteriorado-4300426.jpg?tf=1200x' alt='Se le estropea el disco duro, lo abre para repararlo y se encuentra en timo del siglo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parecia-ciencia-ficcion-ya-real-robots-humanoides-fabricaran-robots-serie-1446299'>Lo que parecía ciencia ficción ya es real: robots humanoides fabricarán más robots en serie</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parecia-ciencia-ficcion-ya-real-robots-humanoides-fabricaran-robots-serie-1446299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robots-4300322.jpg?tf=1200x' alt='Lo que parecía ciencia ficción ya es real: robots humanoides fabricarán más robots en serie' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-1446300'>DeepSeek pone contra las cuerdas a NVIDIA: podría haber utilizado chips prohibidos en China</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-1446300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-4300346.jpg?tf=1200x' alt='DeepSeek pone contra las cuerdas a NVIDIA: podría haber utilizado chips prohibidos en China' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327'>Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empresa-espanola-ha-ideado-uso-sorprendente-turbinas-eolicas-jubiladas-4300287.jpg?tf=1200x' alt='Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-parece-aviso-lluvias-aemet-pero-estafa-1446293'>La Guardia Civil alerta: parece un aviso de lluvias de la AEMET, pero es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-parece-aviso-lluvias-aemet-pero-estafa-1446293' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guardia-civil-alerta-parece-aviso-lluvias-aemet-pero-estafa-4300305.jpg?tf=1200x' alt='La Guardia Civil alerta: parece un aviso de lluvias de la AEMET, pero es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-1446283'>Calculan cuántos capítulos aguanta la gente antes de abandonar una serie, y el resultado es sorprendente</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-1446283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-4300277.jpg?tf=1200x' alt='Calculan cuántos capítulos aguanta la gente antes de abandonar una serie, y el resultado es sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16e-me-parece-evolucion-convincente-iphone-primer-contacto-razon-1445635'>El iPhone 16e me parece una evolución convincente del iPhone SE en un primer contacto por esta razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/iphone-16e-me-parece-evolucion-convincente-iphone-primer-contacto-razon-1445635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4299850.jpg?tf=1200x' alt='El iPhone 16e me parece una evolución convincente del iPhone SE en un primer contacto por esta razón' />
     </a>
 </div>
 
