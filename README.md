@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508'>Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-4300722.jpg?tf=1200x' alt='Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-1446389'>Este Tesla Model 3 acumula 347.000 kilómetros en solo tres años y el estado de su batería te hará plantearte muchas cosas</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-1446389' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-4300470.jpg?tf=1200x' alt='Este Tesla Model 3 acumula 347.000 kilómetros en solo tres años y el estado de su batería te hará plantearte muchas cosas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/jugar-coche-ya-realidad-android-auto-estrena-candy-crush-angry-birds-1446517'>Jugar en el coche ya es una realidad: Android Auto estrena Candy Crush, Angry Birds y más</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/jugar-coche-ya-realidad-android-auto-estrena-candy-crush-angry-birds-1446517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/juegos-android-auto-4300706.jpg?tf=1200x' alt='Jugar en el coche ya es una realidad: Android Auto estrena Candy Crush, Angry Birds y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-ia-generativa-navegacion-asistente-personal-volante-1446514'>Android Auto se actualiza con IA generativa: navegación y asistente personal al volante</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-ia-generativa-navegacion-asistente-personal-volante-1446514' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-android-auto-4300702.jpg?tf=1200x' alt='Android Auto se actualiza con IA generativa: navegación y asistente personal al volante' />
     </a>
 </div>
 
