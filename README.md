@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-1446300'>DeepSeek pone contra las cuerdas a NVIDIA: podría haber utilizado chips prohibidos en China</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-1446300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-4300346.jpg?tf=1200x' alt='DeepSeek pone contra las cuerdas a NVIDIA: podría haber utilizado chips prohibidos en China' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327'>Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empresa-espanola-ha-ideado-uso-sorprendente-turbinas-eolicas-jubiladas-4300287.jpg?tf=1200x' alt='Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/iphone-16e-me-parece-evolucion-convincente-iphone-primer-contacto-razon-1445635'>El iPhone 16e me parece una evolución convincente del iPhone SE en un primer contacto por esta razón</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/iphone-16e-me-parece-evolucion-convincente-iphone-primer-contacto-razon-1445635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4299850.jpg?tf=1200x' alt='El iPhone 16e me parece una evolución convincente del iPhone SE en un primer contacto por esta razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/fin-he-podido-tocar-plegable-triple-huawei-mate-xt-creo-puede-jubilar-tablet-1445903'>Por fin he podido tocar el plegable triple Huawei Mate XT y creo que puede jubilar a tu tablet</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/fin-he-podido-tocar-plegable-triple-huawei-mate-xt-creo-puede-jubilar-tablet-1445903' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-mate-xt-ultimate-design-4299794.jpg?tf=1200x' alt='Por fin he podido tocar el plegable triple Huawei Mate XT y creo que puede jubilar a tu tablet' />
     </a>
 </div>
 
