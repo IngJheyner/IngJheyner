@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-estafa-20-euros-tarjeta-debes-ir-presencial-banco-cambiarlo-1446461'>Experta en seguridad alerta sobre la estafa de los 20 euros con la tarjeta: "Debes ir presencial al banco para cambiarlo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-seguridad-alerta-estafa-20-euros-tarjeta-debes-ir-presencial-banco-cambiarlo-1446461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-seguridad-alerta-estafa-20-euros-tarjeta-debes-ir-presencial-banco-cambiarlo-4300693.jpg?tf=1200x' alt='Experta en seguridad alerta sobre la estafa de los 20 euros con la tarjeta: "Debes ir presencial al banco para cambiarlo"' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-1446389'>Este Tesla Model 3 acumula 347.000 kilómetros en solo tres años y el estado de su batería te hará plantearte muchas cosas</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-1446389' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-4300470.jpg?tf=1200x' alt='Este Tesla Model 3 acumula 347.000 kilómetros en solo tres años y el estado de su batería te hará plantearte muchas cosas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/adios-plex-tienes-servidor-fabricante-ya-no-podras-utilizarlo-1446411'>Adiós a PLEX, si tienes un servidor de este fabricante ya no podrás utilizarlo más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/adios-plex-tienes-servidor-fabricante-ya-no-podras-utilizarlo-1446411' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/plex-deja-servir-drobo-4300588.jpg?tf=1200x' alt='Adiós a PLEX, si tienes un servidor de este fabricante ya no podrás utilizarlo más' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-nuevo-macbook-air-m4-1446525'>Apple lanza un nuevo MacBook Air con M4 y una inesperada bajada de precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-lanza-nuevo-macbook-air-m4-1446525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-lanza-nuevo-macbook-air-m4-inesperada-bajada-precio-4300680.jpg?tf=1200x' alt='Apple lanza un nuevo MacBook Air con M4 y una inesperada bajada de precio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/tiempo-no-fluye-como-creemos-estudio-desafia-percepcion-pasado-futuro-1446366'>¿Y si el tiempo no fluye como creemos? Un estudio desafía nuestra percepción del pasado y el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/tiempo-no-fluye-como-creemos-estudio-desafia-percepcion-pasado-futuro-1446366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tiempo-fluye-dos-direcciones-4300435.jpg?tf=1200x' alt='¿Y si el tiempo no fluye como creemos? Un estudio desafía nuestra percepción del pasado y el futuro' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/confianza-ciega-google-maps-lleva-hombre-caer-desague-mortal-1446520'>La confianza ciega en Google Maps lleva a un hombre a caer en un desagüe mortal</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/confianza-ciega-google-maps-lleva-hombre-caer-desague-mortal-1446520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-4272473.jpg?tf=1200x' alt='La confianza ciega en Google Maps lleva a un hombre a caer en un desagüe mortal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-explican-debes-apagar-wifi-cada-vez-sales-casa-1446469'>Expertos en ciberseguridad explican por qué debes apagar el WiFi cada vez que sales de casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-explican-debes-apagar-wifi-cada-vez-sales-casa-1446469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-wifi-iphone-4300667.jpg?tf=1200x' alt='Expertos en ciberseguridad explican por qué debes apagar el WiFi cada vez que sales de casa' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/jugar-coche-ya-realidad-android-auto-estrena-candy-crush-angry-birds-1446517'>Jugar en el coche ya es una realidad: Android Auto estrena Candy Crush, Angry Birds y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/jugar-coche-ya-realidad-android-auto-estrena-candy-crush-angry-birds-1446517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/juegos-android-auto-4300706.jpg?tf=1200x' alt='Jugar en el coche ya es una realidad: Android Auto estrena Candy Crush, Angry Birds y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/afectan-realmente-lluvia-mal-tiempo-conexion-internet-realidad-mito-1446358'>¿Afectan realmente la lluvia y el mal tiempo a tu conexión a Internet? ¿Realidad o mito?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/afectan-realmente-lluvia-mal-tiempo-conexion-internet-realidad-mito-1446358' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/afectan-realmente-lluvia-mal-tiempo-conexion-internet-realidad-mito-4300404.jpg?tf=1200x' alt='¿Afectan realmente la lluvia y el mal tiempo a tu conexión a Internet? ¿Realidad o mito?' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-ia-generativa-navegacion-asistente-personal-volante-1446514'>Android Auto se actualiza con IA generativa: navegación y asistente personal al volante</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-ia-generativa-navegacion-asistente-personal-volante-1446514' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-android-auto-4300702.jpg?tf=1200x' alt='Android Auto se actualiza con IA generativa: navegación y asistente personal al volante' />
     </a>
 </div>
 
