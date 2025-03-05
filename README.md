@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fisica-podria-hacer-inteligencia-artificial-sea-aun-lista-clave-respetar-leyes-naturales-1446060'>La física podría hacer que la inteligencia artificial sea aún más lista: la clave está en respetar las leyes naturales</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fisica-podria-hacer-inteligencia-artificial-sea-aun-lista-clave-respetar-leyes-naturales-1446060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modelos-ia-guiados-principios-fisicos-4299946.jpg?tf=1200x' alt='La física podría hacer que la inteligencia artificial sea aún más lista: la clave está en respetar las leyes naturales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/cofundador-google-serey-brin-critica-rumbo-ia-dejen-crear-productos-nineras-1446029'>El cofundador de Google, Serey Brin, critica el rumbo de la IA: "Dejen de crear productos para niñeras"</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/cofundador-google-serey-brin-critica-rumbo-ia-dejen-crear-productos-nineras-1446029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sergey-brin-4299936.jpg?tf=1200x' alt='El cofundador de Google, Serey Brin, critica el rumbo de la IA: "Dejen de crear productos para niñeras"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-1446262'>Crean ratones lanudos con genes de mamut: el primer paso hacia su desextinción</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-1446262' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-4300245.jpg?tf=1200x' alt='Crean ratones lanudos con genes de mamut: el primer paso hacia su desextinción' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/amd-adopta-requisito-windows-11-no-usas-uefi-olvidate-rx-9000-1446233'>AMD adopta el requisito de Windows 11: si no usas UEFI, olvídate de las RX 9000</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/amd-adopta-requisito-windows-11-no-usas-uefi-olvidate-rx-9000-1446233' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='AMD adopta el requisito de Windows 11: si no usas UEFI, olvídate de las RX 9000' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mia-primera-policia-virtual-espana-ia-capaz-tramitar-denuncias-10-idiomas-1446231'>Mia, la primera policía virtual de España con IA capaz de reconocer denuncias en 10 idiomas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mia-primera-policia-virtual-espana-ia-capaz-tramitar-denuncias-10-idiomas-1446231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primera-policia-virtual-espana-ia-capaz-reconocer-denuncias-10-idiomas-4300176.jpg?tf=1200x' alt='Mia, la primera policía virtual de España con IA capaz de reconocer denuncias en 10 idiomas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-openai-humilla-competencia-rompe-records-pruebas-rendimiento-1446230'>GPT-4.5 de OpenAI humilla a la competencia y rompe récords en las pruebas de rendimiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-openai-humilla-competencia-rompe-records-pruebas-rendimiento-1446230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/openai-4300219.jpg?tf=1200x' alt='GPT-4.5 de OpenAI humilla a la competencia y rompe récords en las pruebas de rendimiento' />
     </a>
 </div>
 
