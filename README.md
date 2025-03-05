@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fisica-podria-hacer-inteligencia-artificial-sea-aun-lista-clave-respetar-leyes-naturales-1446060'>La física podría hacer que la inteligencia artificial sea aún más lista: la clave está en respetar las leyes naturales</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fisica-podria-hacer-inteligencia-artificial-sea-aun-lista-clave-respetar-leyes-naturales-1446060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modelos-ia-guiados-principios-fisicos-4299946.jpg?tf=1200x' alt='La física podría hacer que la inteligencia artificial sea aún más lista: la clave está en respetar las leyes naturales' />
+    <h4><a href='https://computerhoy.20minutos.es/life/hace-45-anos-bill-gates-contrato-empleado-rentable-historia-microsoft-solo-costo-120000-millones-dolares-1446121'>Hace 45 años Bill Gates contrató al empleado más rentable de la historia de Microsoft, solo le costó 120.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hace-45-anos-bill-gates-contrato-empleado-rentable-historia-microsoft-solo-costo-120000-millones-dolares-1446121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hace-45-anos-bill-gates-contrato-empleado-rentable-historia-microsoft-solo-costo-120000-millones-dolares-4300053.jpg?tf=1200x' alt='Hace 45 años Bill Gates contrató al empleado más rentable de la historia de Microsoft, solo le costó 120.000 millones de dólares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/cofundador-google-serey-brin-critica-rumbo-ia-dejen-crear-productos-nineras-1446029'>El cofundador de Google, Serey Brin, critica el rumbo de la IA: "Dejen de crear productos para niñeras"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/cofundador-google-serey-brin-critica-rumbo-ia-dejen-crear-productos-nineras-1446029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sergey-brin-4299936.jpg?tf=1200x' alt='El cofundador de Google, Serey Brin, critica el rumbo de la IA: "Dejen de crear productos para niñeras"' />
+    <h4><a href='https://computerhoy.20minutos.es/life/tres-palos-steve-jobs-bill-gates-realidad-nunca-ha-inventado-nada-1445827'>Los tres "palos" de Steve Jobs a Bill Gates: "En realidad, nunca ha inventado nada"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/tres-palos-steve-jobs-bill-gates-realidad-nunca-ha-inventado-nada-1445827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tres-palos-steve-jobs-dio-dia-bill-gates-realidad-nunca-ha-inventado-nada-4299546.jpg?tf=1200x' alt='Los tres "palos" de Steve Jobs a Bill Gates: "En realidad, nunca ha inventado nada"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-1446262'>Crean ratones lanudos con genes de mamut: el primer paso hacia su desextinción</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-1446262' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-4300245.jpg?tf=1200x' alt='Crean ratones lanudos con genes de mamut: el primer paso hacia su desextinción' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/prueba-asistente-voz-ia-avanzado-no-da-credito-locura-estamos-locos-1446122'>Prueba el asistente de voz con IA más avanzado y no da crédito: “Es una locura, estamos locos o qué”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/prueba-asistente-voz-ia-avanzado-no-da-credito-locura-estamos-locos-1446122' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-como-asistente-voz-4300081.jpg?tf=1200x' alt='Prueba el asistente de voz con IA más avanzado y no da crédito: “Es una locura, estamos locos o qué”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/xiaomi-arrasa-idea-apple-no-supo-hacer-realidad-apple-car-nunca-existio-1446225'>Xiaomi arrasa con una idea de Apple que no supo hacer realidad: ¿por qué el Apple Car nunca existió?</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/xiaomi-arrasa-idea-apple-no-supo-hacer-realidad-apple-car-nunca-existio-1446225' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-vs-apple-car-4300181.jpg?tf=1200x' alt='Xiaomi arrasa con una idea de Apple que no supo hacer realidad: ¿por qué el Apple Car nunca existió?' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/consola-retro-anbernic-presume-windows-11-alternativa-muy-barata-steam-deck-1445755'>Esta consola retro de Anbernic presume de Windows 11: es una alternativa muy barata a Steam Deck</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/consola-retro-anbernic-presume-windows-11-alternativa-muy-barata-steam-deck-1445755' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/anbernic-win600-4273611.jpg?tf=1200x' alt='Esta consola retro de Anbernic presume de Windows 11: es una alternativa muy barata a Steam Deck' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/amd-adopta-requisito-windows-11-no-usas-uefi-olvidate-rx-9000-1446233'>AMD adopta el requisito de Windows 11: si no usas UEFI, olvídate de las RX 9000</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/amd-adopta-requisito-windows-11-no-usas-uefi-olvidate-rx-9000-1446233' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/error-windows-reduce-rendimiento-procesadores-ryzen-9000-7000-puedes-solucionarlo-3966161.jpg?tf=1200x' alt='AMD adopta el requisito de Windows 11: si no usas UEFI, olvídate de las RX 9000' />
+    <h4><a href='https://computerhoy.20minutos.es/life/pregunta-disenador-iphone-sigue-haciendo-cada-dia-pesar-prohibicion-steve-jobs-1444480'>La pregunta que el diseñador del iPhone se sigue haciendo cada día a pesar de la prohibición de Steve Jobs</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/pregunta-disenador-iphone-sigue-haciendo-cada-dia-pesar-prohibicion-steve-jobs-1444480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/pregunta-disenador-iphone-sigue-haciendo-cada-dia-pesar-prohibicion-steve-jobs-4297071.jpg?tf=1200x' alt='La pregunta que el diseñador del iPhone se sigue haciendo cada día a pesar de la prohibición de Steve Jobs' />
     </a>
 </div>
 
