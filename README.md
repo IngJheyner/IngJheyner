@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-consigue-sentar-google-huawei-banquillo-caso-iptv-newplay-participantes-animo-lucro-1446188'>Javier Tebas consigue sentar a Google y Huawei en el banquillo por el caso IPTV NewPlay: "Participantes con ánimo de lucro" </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-consigue-sentar-google-huawei-banquillo-caso-iptv-newplay-participantes-animo-lucro-1446188' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-consigue-sentar-google-huawei-banquillo-caso-iptv-newplay-participantes-animo-lucro-4300180.jpg?tf=1200x' alt='Javier Tebas consigue sentar a Google y Huawei en el banquillo por el caso IPTV NewPlay: "Participantes con ánimo de lucro" ' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/francia-hace-limpia-tdt-hicieran-mismo-espana-no-quedaria-ni-solo-canal-1446388'>Francia hace limpia en la TDT: si hicieran lo mismo en España, no quedaría ni un solo canal</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/francia-hace-limpia-tdt-hicieran-mismo-espana-no-quedaria-ni-solo-canal-1446388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/francia-tdt-4300468.jpg?tf=1200x' alt='Francia hace limpia en la TDT: si hicieran lo mismo en España, no quedaría ni un solo canal' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377'>Se le estropea el disco duro, lo abre para repararlo y se encuentra en timo del siglo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/estropea-disco-duro-abre-repararlo-encuentra-timo-siglo-1446377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disco-duro-2tb-deteriorado-4300426.jpg?tf=1200x' alt='Se le estropea el disco duro, lo abre para repararlo y se encuentra en timo del siglo' />
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-elige-exclusivo-chip-m3-ultra-desatar-potencia-nuevo-mac-studio-1446417'>Apple elige su exclusivo chip M3 Ultra para desatar la potencia del nuevo Mac Studio</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-elige-exclusivo-chip-m3-ultra-desatar-potencia-nuevo-mac-studio-1446417' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-mac-studio-m3-ultra-m4-max-4300550.jpg?tf=1200x' alt='Apple elige su exclusivo chip M3 Ultra para desatar la potencia del nuevo Mac Studio' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parecia-ciencia-ficcion-ya-real-robots-humanoides-fabricaran-robots-serie-1446299'>Lo que parecía ciencia ficción ya es real: robots humanoides fabricarán más robots en serie</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/parecia-ciencia-ficcion-ya-real-robots-humanoides-fabricaran-robots-serie-1446299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robots-4300322.jpg?tf=1200x' alt='Lo que parecía ciencia ficción ya es real: robots humanoides fabricarán más robots en serie' />
+    <h4><a href='https://computerhoy.20minutos.es/tv/comunicado-urgente-movistar-plus-rectifica-finalmente-errores-molestos-programacion-1446373'>Comunicado urgente: Movistar Plus+ rectifica finalmente uno de los errores más molestos de su programación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/comunicado-urgente-movistar-plus-rectifica-finalmente-errores-molestos-programacion-1446373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-aviso-4300461.jpg?tf=1200x' alt='Comunicado urgente: Movistar Plus+ rectifica finalmente uno de los errores más molestos de su programación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-1446300'>DeepSeek pone contra las cuerdas a NVIDIA: podría haber utilizado chips prohibidos en China</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-1446300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-pone-cuerdas-nvidia-podria-haber-utilizado-chips-prohibidos-china-4300346.jpg?tf=1200x' alt='DeepSeek pone contra las cuerdas a NVIDIA: podría haber utilizado chips prohibidos en China' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-1446387'>Palo a Elon Musk en su guerra contra Sam Altman y OpenAI: “En realidad no tienen el dinero”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-1446387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-4300443.jpg?tf=1200x' alt='Palo a Elon Musk en su guerra contra Sam Altman y OpenAI: “En realidad no tienen el dinero”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327'>Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empresa-espanola-ha-ideado-uso-sorprendente-turbinas-eolicas-jubiladas-4300287.jpg?tf=1200x' alt='Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/motor-hibrido-nasa-podria-resolver-mayor-problema-aviacion-1445532'>Este motor híbrido de la NASA podría resolver el mayor problema de la aviación</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/motor-hibrido-nasa-podria-resolver-mayor-problema-aviacion-1445532' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/motor-hibrido-nasa-podria-resolver-mayor-problema-aviacion-4299007.jpg?tf=1200x' alt='Este motor híbrido de la NASA podría resolver el mayor problema de la aviación' />
     </a>
 </div>
 
