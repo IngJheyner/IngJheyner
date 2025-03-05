@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327'>Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/acciona-turbinas-eolicas-jubiladas-tablas-surf-1446327' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empresa-espanola-ha-ideado-uso-sorprendente-turbinas-eolicas-jubiladas-4300287.jpg?tf=1200x' alt='Esta empresa española ha ideado un uso sorprendente para las turbinas eólicas jubiladas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-parece-aviso-lluvias-aemet-pero-estafa-1446293'>La Guardia Civil alerta: parece un aviso de lluvias de la AEMET, pero es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-parece-aviso-lluvias-aemet-pero-estafa-1446293' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guardia-civil-alerta-parece-aviso-lluvias-aemet-pero-estafa-4300305.jpg?tf=1200x' alt='La Guardia Civil alerta: parece un aviso de lluvias de la AEMET, pero es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-1446283'>Calculan cuántos capítulos aguanta la gente antes de abandonar una serie, y el resultado es sorprendente</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-1446283' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/calculan-cuantos-capitulos-aguanta-gente-antes-abandonar-serie-resultado-sorprendente-4300277.jpg?tf=1200x' alt='Calculan cuántos capítulos aguanta la gente antes de abandonar una serie, y el resultado es sorprendente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/fin-he-podido-tocar-plegable-triple-huawei-mate-xt-creo-puede-jubilar-tablet-1445903'>Por fin he podido tocar el plegable triple Huawei Mate XT y creo que puede jubilar a tu tablet</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/fin-he-podido-tocar-plegable-triple-huawei-mate-xt-creo-puede-jubilar-tablet-1445903' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-mate-xt-ultimate-design-4299794.jpg?tf=1200x' alt='Por fin he podido tocar el plegable triple Huawei Mate XT y creo que puede jubilar a tu tablet' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/juego-creado-hackers-te-permitira-aprenderlo-todo-ciberseguridad-forma-totalmente-gratuita-1440714'>Este juego creado por hackers te permitirá aprenderlo todo sobre ciberseguridad, de forma totalmente gratuita</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/juego-creado-hackers-te-permitira-aprenderlo-todo-ciberseguridad-forma-totalmente-gratuita-1440714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hacking-etico-ciberseguridad-4291005.jpg?tf=1200x' alt='Este juego creado por hackers te permitirá aprenderlo todo sobre ciberseguridad, de forma totalmente gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/agentes-ia-convierten-protagonistas-mobile-world-congress-1445907'>Los agentes de IA se convierten en los protagonistas del Mobile World Congress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/agentes-ia-convierten-protagonistas-mobile-world-congress-1445907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mwc-agentes-inteligencia-artificial-4300258.jpg?tf=1200x' alt='Los agentes de IA se convierten en los protagonistas del Mobile World Congress' />
     </a>
 </div>
 
