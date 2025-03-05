@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-1446262'>Crean ratones lanudos con genes de mamut: el primer paso hacia su desextinción</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-1446262' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crean-ratones-lanudos-genes-mamut-primer-paso-desextincion-4300245.jpg?tf=1200x' alt='Crean ratones lanudos con genes de mamut: el primer paso hacia su desextinción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/xiaomi-arrasa-idea-apple-no-supo-hacer-realidad-apple-car-nunca-existio-1446225'>Xiaomi arrasa con una idea de Apple que no supo hacer realidad: ¿por qué el Apple Car nunca existió?</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/xiaomi-arrasa-idea-apple-no-supo-hacer-realidad-apple-car-nunca-existio-1446225' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-vs-apple-car-4300181.jpg?tf=1200x' alt='Xiaomi arrasa con una idea de Apple que no supo hacer realidad: ¿por qué el Apple Car nunca existió?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-openai-humilla-competencia-rompe-records-pruebas-rendimiento-1446230'>GPT-4.5 de OpenAI humilla a la competencia y rompe récords en las pruebas de rendimiento</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gpt-45-openai-humilla-competencia-rompe-records-pruebas-rendimiento-1446230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/openai-4300219.jpg?tf=1200x' alt='GPT-4.5 de OpenAI humilla a la competencia y rompe récords en las pruebas de rendimiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/corte-ingles-sufre-ciberataque-datos-han-sido-robados-como-protegerte-estas-afectados-1446227'>El Corte Inglés sufre un ciberataque: qué datos han sido robados y cómo protegerte si estás entre los afectados</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/corte-ingles-sufre-ciberataque-datos-han-sido-robados-como-protegerte-estas-afectados-1446227' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cberataque-corte-ingles-4300214.jpg?tf=1200x' alt='El Corte Inglés sufre un ciberataque: qué datos han sido robados y cómo protegerte si estás entre los afectados' />
     </a>
 </div>
 
