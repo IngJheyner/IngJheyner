@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/invitan-coger-juegos-garaje-descubre-tesoro-juegos-retro-1446537'>Le invitan a coger todo lo quiera de un garaje y descubre el sueño de todo amante de los juegos retro</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/invitan-coger-juegos-garaje-descubre-tesoro-juegos-retro-1446537' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/invitan-coger-todo-quiera-garaje-descubre-sueno-todo-amante-juegos-retro-4300723.jpg?tf=1200x' alt='Le invitan a coger todo lo quiera de un garaje y descubre el sueño de todo amante de los juegos retro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508'>Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-4300722.jpg?tf=1200x' alt='Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/confianza-ciega-google-maps-lleva-hombre-caer-desague-mortal-1446520'>La confianza ciega en Google Maps lleva a un hombre a caer en un desagüe mortal</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/confianza-ciega-google-maps-lleva-hombre-caer-desague-mortal-1446520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-4272473.jpg?tf=1200x' alt='La confianza ciega en Google Maps lleva a un hombre a caer en un desagüe mortal' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/jugar-coche-ya-realidad-android-auto-estrena-candy-crush-angry-birds-1446517'>Jugar en el coche ya es una realidad: Android Auto estrena Candy Crush, Angry Birds y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/jugar-coche-ya-realidad-android-auto-estrena-candy-crush-angry-birds-1446517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/juegos-android-auto-4300706.jpg?tf=1200x' alt='Jugar en el coche ya es una realidad: Android Auto estrena Candy Crush, Angry Birds y más' />
     </a>
 </div>
 
