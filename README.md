@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-1446533'>Exigen a Amazon que tome medidas para acabar con las IPTV y la piratería en los Fire TV Stick</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-1446533' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-4300739.jpg?tf=1200x' alt='Exigen a Amazon que tome medidas para acabar con las IPTV y la piratería en los Fire TV Stick' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/invitan-coger-juegos-garaje-descubre-tesoro-juegos-retro-1446537'>Le invitan a coger todo lo quiera de un garaje y descubre el sueño de todo amante de los juegos retro</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/invitan-coger-juegos-garaje-descubre-tesoro-juegos-retro-1446537' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/invitan-coger-todo-quiera-garaje-descubre-sueno-todo-amante-juegos-retro-4300723.jpg?tf=1200x' alt='Le invitan a coger todo lo quiera de un garaje y descubre el sueño de todo amante de los juegos retro' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-nuevo-macbook-air-m4-1446525'>Apple lanza un nuevo MacBook Air con M4 y una inesperada bajada de precio</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-lanza-nuevo-macbook-air-m4-1446525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-lanza-nuevo-macbook-air-m4-inesperada-bajada-precio-4300680.jpg?tf=1200x' alt='Apple lanza un nuevo MacBook Air con M4 y una inesperada bajada de precio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/confianza-ciega-google-maps-lleva-hombre-caer-desague-mortal-1446520'>La confianza ciega en Google Maps lleva a un hombre a caer en un desagüe mortal</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/confianza-ciega-google-maps-lleva-hombre-caer-desague-mortal-1446520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/giro-180-grados-google-maps-cambia-forma-verifican-limites-velocidad-4272473.jpg?tf=1200x' alt='La confianza ciega en Google Maps lleva a un hombre a caer en un desagüe mortal' />
     </a>
 </div>
 
