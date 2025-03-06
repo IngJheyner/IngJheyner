@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-perder-competiciones-deportivas-estrella-verlo-todo-tendrias-pagar-dos-veces-1446661'>Movistar Plus+ podría perder una de sus competiciones deportivas estrella: para verlo todo, tendrías que pagar dos veces</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-perder-competiciones-deportivas-estrella-verlo-todo-tendrias-pagar-dos-veces-1446661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-podria-perder-competiciones-deportivas-estrella-verlo-todo-tendrias-pagar-dos-veces-4300977.jpg?tf=1200x' alt='Movistar Plus+ podría perder una de sus competiciones deportivas estrella: para verlo todo, tendrías que pagar dos veces' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-1446648'>Parece ciencia ficción pero no lo es: un robot ya practica artes marciales mejor que los humanos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-1446648' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-4300946.jpg?tf=1200x' alt='Parece ciencia ficción pero no lo es: un robot ya practica artes marciales mejor que los humanos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/10-profesiones-relacionadas-ia-siempre-tendras-garantizado-trabajo-buen-sueldo-1446709'>10 profesiones relacionadas con la IA con las que siempre tendrás garantizado trabajo y un buen sueldo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/10-profesiones-relacionadas-ia-siempre-tendras-garantizado-trabajo-buen-sueldo-1446709' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-trabajos-4301088.jpg?tf=1200x' alt='10 profesiones relacionadas con la IA con las que siempre tendrás garantizado trabajo y un buen sueldo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-busca-gran-problema-hay-grandes-posibilidades-donald-trump-sea-activo-ruso-1446698'>La IA de Elon Musk se busca un gran problema: "Hay grandes posibilidades de que Donald Trump sea un activo ruso"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-busca-gran-problema-hay-grandes-posibilidades-donald-trump-sea-activo-ruso-1446698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-elon-musk-rusia-4301066.jpg?tf=1200x' alt='La IA de Elon Musk se busca un gran problema: "Hay grandes posibilidades de que Donald Trump sea un activo ruso"' />
     </a>
 </div>
 
