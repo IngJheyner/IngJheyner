@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-desactiva-opcion-privacidad-iphone-te-espie-gobierno-1446651'>Apple desactiva una opción de privacidad del iPhone para que te espíe tu gobierno</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-desactiva-opcion-privacidad-iphone-te-espie-gobierno-1446651' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-desactiva-opcion-privacidad-iphone-te-espie-gobierno-4300955.jpg?tf=1200x' alt='Apple desactiva una opción de privacidad del iPhone para que te espíe tu gobierno' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-1446285'>No solo John Wick: 5 películas de Keanu Reeves que sí deberían tener secuela</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-1446285' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-4300281.jpg?tf=1200x' alt='No solo John Wick: 5 películas de Keanu Reeves que sí deberían tener secuela' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/japon-hace-historia-desarrolla-primer-superpanel-solar-supera-energia-20-reactores-nucleares-1446609'>Japón hace historia: desarrolla el primer “superpanel” solar que supera la energía de 20 reactores nucleares</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/japon-hace-historia-desarrolla-primer-superpanel-solar-supera-energia-20-reactores-nucleares-1446609' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/paneles-solares-4300911.jpg?tf=1200x' alt='Japón hace historia: desarrolla el primer “superpanel” solar que supera la energía de 20 reactores nucleares' />
+    <h4><a href='https://computerhoy.20minutos.es/energia/ni-hidrogeno-ni-litio-futuro-sodio-bateria-siglo-xxii-cambia-todo-1446703'>Ni hidrógeno ni litio, el futuro es el sodio: la batería del siglo XXII que lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/ni-hidrogeno-ni-litio-futuro-sodio-bateria-siglo-xxii-cambia-todo-1446703' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-hidrogeno-ni-litio-futuro-sodio-bateria-siglo-xxii-cambia-todo-4301149.jpg?tf=1200x' alt='Ni hidrógeno ni litio, el futuro es el sodio: la batería del siglo XXII que lo cambia todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/digi-da-paso-atras-bloqueos-iptv-senala-directamente-laliga-movistar-1446607'>DIGI da un paso atrás en los bloqueos a las IPTV y señala directamente a LaLiga y Movistar</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/digi-da-paso-atras-bloqueos-iptv-senala-directamente-laliga-movistar-1446607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-iptv-4300965.jpg?tf=1200x' alt='DIGI da un paso atrás en los bloqueos a las IPTV y señala directamente a LaLiga y Movistar' />
+    <h4><a href='https://computerhoy.20minutos.es/life/10-profesiones-relacionadas-ia-siempre-tendras-garantizado-trabajo-buen-sueldo-1446709'>10 profesiones relacionadas con la IA con las que siempre tendrás garantizado trabajo y un buen sueldo</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/10-profesiones-relacionadas-ia-siempre-tendras-garantizado-trabajo-buen-sueldo-1446709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-trabajos-4301088.jpg?tf=1200x' alt='10 profesiones relacionadas con la IA con las que siempre tendrás garantizado trabajo y un buen sueldo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-hacker-error-comun-ciberdelincuentes-aprovechan-necesidad-contrasena-1446576'>Alerta hacker: el error común que los ciberdelincuentes aprovechan sin necesidad de tu contraseña</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-hacker-error-comun-ciberdelincuentes-aprovechan-necesidad-contrasena-1446576' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hackers-4300851.jpg?tf=1200x' alt='Alerta hacker: el error común que los ciberdelincuentes aprovechan sin necesidad de tu contraseña' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-busca-gran-problema-hay-grandes-posibilidades-donald-trump-sea-activo-ruso-1446698'>La IA de Elon Musk se busca un gran problema: "Hay grandes posibilidades de que Donald Trump sea un activo ruso"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-busca-gran-problema-hay-grandes-posibilidades-donald-trump-sea-activo-ruso-1446698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-elon-musk-rusia-4301066.jpg?tf=1200x' alt='La IA de Elon Musk se busca un gran problema: "Hay grandes posibilidades de que Donald Trump sea un activo ruso"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690'>Así funciona la estafa del trabajo soñado que arrasa en redes sociales</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='Así funciona la estafa del trabajo soñado que arrasa en redes sociales' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/mark-zuckerberg-rinde-trump-meta-paga-25-millones-dolares-presidente-eeuu-1439399'>Mark Zuckerberg se rinde ante Trump: Meta paga 25 millones de dólares al Presidente de EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mark-zuckerberg-rinde-trump-meta-paga-25-millones-dolares-presidente-eeuu-1439399' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mark-zuckerberg-rinde-trump-meta-paga-25-millones-dolares-presidente-eeuu-4288754.jpg?tf=1200x' alt='Mark Zuckerberg se rinde ante Trump: Meta paga 25 millones de dólares al Presidente de EEUU' />
     </a>
 </div>
 
