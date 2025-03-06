@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-1446648'>Parece ciencia ficción pero no lo es: un robot ya practica artes marciales mejor que los humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-1446648' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-4300946.jpg?tf=1200x' alt='Parece ciencia ficción pero no lo es: un robot ya practica artes marciales mejor que los humanos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-1446285'>No solo John Wick: 5 películas de Keanu Reeves que sí deberían tener secuela</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-1446285' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-4300281.jpg?tf=1200x' alt='No solo John Wick: 5 películas de Keanu Reeves que sí deberían tener secuela' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-busca-gran-problema-hay-grandes-posibilidades-donald-trump-sea-activo-ruso-1446698'>La IA de Elon Musk se busca un gran problema: "Hay grandes posibilidades de que Donald Trump sea un activo ruso"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-elon-musk-busca-gran-problema-hay-grandes-posibilidades-donald-trump-sea-activo-ruso-1446698' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-elon-musk-rusia-4301066.jpg?tf=1200x' alt='La IA de Elon Musk se busca un gran problema: "Hay grandes posibilidades de que Donald Trump sea un activo ruso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mark-zuckerberg-rinde-trump-meta-paga-25-millones-dolares-presidente-eeuu-1439399'>Mark Zuckerberg se rinde ante Trump: Meta paga 25 millones de dólares al Presidente de EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mark-zuckerberg-rinde-trump-meta-paga-25-millones-dolares-presidente-eeuu-1439399' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/mark-zuckerberg-rinde-trump-meta-paga-25-millones-dolares-presidente-eeuu-4288754.jpg?tf=1200x' alt='Mark Zuckerberg se rinde ante Trump: Meta paga 25 millones de dólares al Presidente de EEUU' />
     </a>
 </div>
 
