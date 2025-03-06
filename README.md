@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/western-digital-deja-fabricar-ssd-1446782'>El fin de una era: Western Digital deja de fabricar SSD</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/western-digital-deja-fabricar-ssd-1446782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fin-era-western-digital-deja-fabricar-ssd-4301223.jpg?tf=1200x' alt='El fin de una era: Western Digital deja de fabricar SSD' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687'>Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xreal-4301172.jpg?tf=1200x' alt='Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/medio-millon-moviles-android-infectados-malware-badbox-vuelve-carga-1446770'>Medio millón de móviles Android infectados: el malware BadBox vuelve a la carga</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/medio-millon-moviles-android-infectados-malware-badbox-vuelve-carga-1446770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-android-4301252.jpg?tf=1200x' alt='Medio millón de móviles Android infectados: el malware BadBox vuelve a la carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-siempre-ia-meta-revolucionara-forma-chateas-1446766'>WhatsApp cambia para siempre: la IA de Meta revolucionará la forma en que chateas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-siempre-ia-meta-revolucionara-forma-chateas-1446766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='WhatsApp cambia para siempre: la IA de Meta revolucionará la forma en que chateas' />
     </a>
 </div>
 
