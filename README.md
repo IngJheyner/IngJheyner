@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/problemas-javier-tebas-webs-legales-unen-bloqueos-cloudflare-iptv-1446567'>Más problemas para Javier Tebas: las webs legales se unen contra los bloqueos de Cloudflare a las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/problemas-javier-tebas-webs-legales-unen-bloqueos-cloudflare-iptv-1446567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-iptv-laliga-4300956.jpg?tf=1200x' alt='Más problemas para Javier Tebas: las webs legales se unen contra los bloqueos de Cloudflare a las IPTV' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690'>Así funciona la estafa del trabajo soñado que arrasa en redes sociales</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='Así funciona la estafa del trabajo soñado que arrasa en redes sociales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-chatgpt-llega-boligrafos-conversion-digital-escritura-mano-dictado-voz-traduccion-simultanea-1446679'>La IA de ChatGPT llega a los bolígrafos: conversión digital de la escritura a mano, dictado por voz y traducción simultánea</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-chatgpt-llega-boligrafos-conversion-digital-escritura-mano-dictado-voz-traduccion-simultanea-1446679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/smart-ai-pen-4301015.jpg?tf=1200x' alt='La IA de ChatGPT llega a los bolígrafos: conversión digital de la escritura a mano, dictado por voz y traducción simultánea' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-realiza-movimiento-critico-futuro-tesla-maquina-hace-maquina-1446659'>Elon Musk realiza un movimiento crítico para el futuro de Tesla: “La máquina hace a la máquina”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-realiza-movimiento-critico-futuro-tesla-maquina-hace-maquina-1446659' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fabricacion-automatizada-tesla-elon-musk-4300961.jpg?tf=1200x' alt='Elon Musk realiza un movimiento crítico para el futuro de Tesla: “La máquina hace a la máquina”' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-asegura-siendo-hackeado-neuroquimicamente-1446662'>Sam Altman, CEO de OpenAI, asegura que está siendo "hackeado neuroquímicamente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-asegura-siendo-hackeado-neuroquimicamente-1446662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, asegura que está siendo "hackeado neuroquímicamente"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-sube-apuesta-computacion-cuantica-potente-zuchongzhi-30-105-cubits-1446595'>China sube la apuesta en computación cuántica con el potente Zuchongzhi 3.0 de 105 cúbits</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-sube-apuesta-computacion-cuantica-potente-zuchongzhi-30-105-cubits-1446595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/zuchongzhi-30-4300858.jpg?tf=1200x' alt='China sube la apuesta en computación cuántica con el potente Zuchongzhi 3.0 de 105 cúbits' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-1446636'>Una ex empresa de Sam Altman la lía parda con la inteligencia artificial: así vigilaba a sus empleados con la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-1446636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-4300912.jpg?tf=1200x' alt='Una ex empresa de Sam Altman la lía parda con la inteligencia artificial: así vigilaba a sus empleados con la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-sam-altman-openia-mantener-deepseek-cuesta-83000-euros-dia-chatgpt-gasta-700000-euros-1446683'>Palo a Sam Altman y OpenAI: mantener DeepSeek cuesta 83.000 euros al día, ChatGPT gasta 700.000 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/palo-sam-altman-openia-mantener-deepseek-cuesta-83000-euros-dia-chatgpt-gasta-700000-euros-1446683' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-vs-chatgpt-4292261.jpg?tf=1200x' alt='Palo a Sam Altman y OpenAI: mantener DeepSeek cuesta 83.000 euros al día, ChatGPT gasta 700.000 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569'>Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ps3-grande-playstation-3-2355381.jpg?tf=1200x' alt='Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-primer-lenguaje-programacion-material-activo-1446632'>Crean el primer lenguaje de programación para material activo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/crean-primer-lenguaje-programacion-material-activo-1446632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/materia-activa-programable-4300950.jpg?tf=1200x' alt='Crean el primer lenguaje de programación para material activo' />
     </a>
 </div>
 
