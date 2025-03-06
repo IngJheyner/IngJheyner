@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-pone-fecha-llegada-robots-sexuales-1446552'>Elon Musk pone fecha a la llegada de los robots sexuales: "En cinco años"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-pone-fecha-llegada-robots-sexuales-1446552' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-pone-fecha-llegada-robots-sexuales-cinco-anos-4300763.jpg?tf=1200x' alt='Elon Musk pone fecha a la llegada de los robots sexuales: "En cinco años"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/he-pasado-minutos-oppo-find-n5-movil-plegable-fino-mundo-1445904'>He pasado unos minutos con el Oppo Find N5, el móvil plegable más fino del mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/he-pasado-minutos-oppo-find-n5-movil-plegable-fino-mundo-1445904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-find-n5-4300082.jpg?tf=1200x' alt='He pasado unos minutos con el Oppo Find N5, el móvil plegable más fino del mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/doom-puede-correr-test-embarazo-juego-permite-instalacion-tantos-dispositivos-1437359'>'Doom' puede correr hasta en un test de embarazo. ¿Por qué este juego permite la instalación en tantos dispositivos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/doom-puede-correr-test-embarazo-juego-permite-instalacion-tantos-dispositivos-1437359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/doom-3300611.jpg?tf=1200x' alt=''Doom' puede correr hasta en un test de embarazo. ¿Por qué este juego permite la instalación en tantos dispositivos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/corre-come-mal-sobrevive-mi-primer-mwc-no-ha-sido-evento-sino-batalla-tecnologica-1445887'>Corre, come mal y sobrevive: mi primer MWC y por qué no ha sido un evento, sino una batalla tecnológica</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/corre-come-mal-sobrevive-mi-primer-mwc-no-ha-sido-evento-sino-batalla-tecnologica-1445887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mwc-2025-4300422.jpg?tf=1200x' alt='Corre, come mal y sobrevive: mi primer MWC y por qué no ha sido un evento, sino una batalla tecnológica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-1446398'>Expertos en IA analizan qué ocurre si dejas de ser amable con ChatGPT y el resultado no te lo esperas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-1446398' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-4300452.jpg?tf=1200x' alt='Expertos en IA analizan qué ocurre si dejas de ser amable con ChatGPT y el resultado no te lo esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-activa-modo-apocalipsis-ia-sale-control-ningun-bunker-te-salvara-1446314'>Sam Altman activa el modo apocalipsis: "Si la IA se sale de control, ningún búnker te salvará"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-activa-modo-apocalipsis-ia-sale-control-ningun-bunker-te-salvara-1446314' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4300358.jpg?tf=1200x' alt='Sam Altman activa el modo apocalipsis: "Si la IA se sale de control, ningún búnker te salvará"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-impasible-amenaza-canceladores-serie-muchos-ellos-volveran-1446329'>Netflix impasible ante la amenaza de los canceladores en serie: “Muchos de ellos volverán”</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-impasible-amenaza-canceladores-serie-muchos-ellos-volveran-1446329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Netflix impasible ante la amenaza de los canceladores en serie: “Muchos de ellos volverán”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-1445536'>Apple, Google y Meta nunca habían compartido tantos datos con el gobierno de EEUU como ahora, ¿cómo te afecta?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-1445536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-4299012.jpg?tf=1200x' alt='Apple, Google y Meta nunca habían compartido tantos datos con el gobierno de EEUU como ahora, ¿cómo te afecta?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-1444765'>¿Por qué deberíamos contratarte? La genial respuesta de Bill Gates que tú también puedes utilizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-1444765' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-4297549.jpg?tf=1200x' alt='¿Por qué deberíamos contratarte? La genial respuesta de Bill Gates que tú también puedes utilizar' />
     </a>
 </div>
 
