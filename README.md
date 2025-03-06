@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-perder-competiciones-deportivas-estrella-verlo-todo-tendrias-pagar-dos-veces-1446661'>Movistar Plus+ podría perder una de sus competiciones deportivas estrella: para verlo todo, tendrías que pagar dos veces</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-podria-perder-competiciones-deportivas-estrella-verlo-todo-tendrias-pagar-dos-veces-1446661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-podria-perder-competiciones-deportivas-estrella-verlo-todo-tendrias-pagar-dos-veces-4300977.jpg?tf=1200x' alt='Movistar Plus+ podría perder una de sus competiciones deportivas estrella: para verlo todo, tendrías que pagar dos veces' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687'>Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xreal-4301172.jpg?tf=1200x' alt='Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-1446648'>Parece ciencia ficción pero no lo es: un robot ya practica artes marciales mejor que los humanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-1446648' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-ciencia-ficcion-pero-no-robot-ya-practica-artes-marciales-mejor-humanos-4300946.jpg?tf=1200x' alt='Parece ciencia ficción pero no lo es: un robot ya practica artes marciales mejor que los humanos' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-1446738'>El coche eléctrico listo para su despegue definitivo: "Están listas para pasar del laboratorio al mundo real"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-1446738' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-4301256.jpg?tf=1200x' alt='El coche eléctrico listo para su despegue definitivo: "Están listas para pasar del laboratorio al mundo real"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-1446285'>No solo John Wick: 5 películas de Keanu Reeves que sí deberían tener secuela</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-1446285' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-solo-john-wick-5-peliculas-keanu-reeves-deberian-tener-secuela-4300281.jpg?tf=1200x' alt='No solo John Wick: 5 películas de Keanu Reeves que sí deberían tener secuela' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-solo-ricos-openai-podria-cobrar-casi-20000-euros-mes-inteligencia-artificial-avanzada-1446772'>¿IA solo para ricos? OpenAI podría cobrar casi 20.000 euros al mes por inteligencia artificial más avanzada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-solo-ricos-openai-podria-cobrar-casi-20000-euros-mes-inteligencia-artificial-avanzada-1446772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4301257.jpg?tf=1200x' alt='¿IA solo para ricos? OpenAI podría cobrar casi 20.000 euros al mes por inteligencia artificial más avanzada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/ni-hidrogeno-ni-litio-futuro-sodio-bateria-siglo-xxii-cambia-todo-1446703'>Ni hidrógeno ni litio, el futuro es el sodio: la batería del siglo XXII que lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/ni-hidrogeno-ni-litio-futuro-sodio-bateria-siglo-xxii-cambia-todo-1446703' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-hidrogeno-ni-litio-futuro-sodio-bateria-siglo-xxii-cambia-todo-4301149.jpg?tf=1200x' alt='Ni hidrógeno ni litio, el futuro es el sodio: la batería del siglo XXII que lo cambia todo' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/medio-millon-moviles-android-infectados-malware-badbox-vuelve-carga-1446770'>Medio millón de móviles Android infectados: el malware BadBox vuelve a la carga</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/medio-millon-moviles-android-infectados-malware-badbox-vuelve-carga-1446770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-android-4301252.jpg?tf=1200x' alt='Medio millón de móviles Android infectados: el malware BadBox vuelve a la carga' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/10-profesiones-relacionadas-ia-siempre-tendras-garantizado-trabajo-buen-sueldo-1446709'>10 profesiones relacionadas con la IA con las que siempre tendrás garantizado trabajo y un buen sueldo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/10-profesiones-relacionadas-ia-siempre-tendras-garantizado-trabajo-buen-sueldo-1446709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-trabajos-4301088.jpg?tf=1200x' alt='10 profesiones relacionadas con la IA con las que siempre tendrás garantizado trabajo y un buen sueldo' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-siempre-ia-meta-revolucionara-forma-chateas-1446766'>WhatsApp cambia para siempre: la IA de Meta revolucionará la forma en que chateas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-cambia-siempre-ia-meta-revolucionara-forma-chateas-1446766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/meta-ai-whatsapp-sirve-como-utilizarlo-3737806.jpg?tf=1200x' alt='WhatsApp cambia para siempre: la IA de Meta revolucionará la forma en que chateas' />
     </a>
 </div>
 
