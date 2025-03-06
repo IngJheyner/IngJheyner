@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/problemas-javier-tebas-webs-legales-unen-bloqueos-cloudflare-iptv-1446567'>Más problemas para Javier Tebas: las webs legales se unen contra los bloqueos de Cloudflare a las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/problemas-javier-tebas-webs-legales-unen-bloqueos-cloudflare-iptv-1446567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-iptv-laliga-4300956.jpg?tf=1200x' alt='Más problemas para Javier Tebas: las webs legales se unen contra los bloqueos de Cloudflare a las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-chatgpt-llega-boligrafos-conversion-digital-escritura-mano-dictado-voz-traduccion-simultanea-1446679'>La IA de ChatGPT llega a los bolígrafos: conversión digital de la escritura a mano, dictado por voz y traducción simultánea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-chatgpt-llega-boligrafos-conversion-digital-escritura-mano-dictado-voz-traduccion-simultanea-1446679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/smart-ai-pen-4301015.jpg?tf=1200x' alt='La IA de ChatGPT llega a los bolígrafos: conversión digital de la escritura a mano, dictado por voz y traducción simultánea' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-asegura-siendo-hackeado-neuroquimicamente-1446662'>Sam Altman, CEO de OpenAI, asegura que está siendo "hackeado neuroquímicamente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ceo-openai-asegura-siendo-hackeado-neuroquimicamente-1446662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Sam Altman, CEO de OpenAI, asegura que está siendo "hackeado neuroquímicamente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-1446636'>Una ex empresa de Sam Altman la lía parda con la inteligencia artificial: así vigilaba a sus empleados con la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-1446636' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-4300912.jpg?tf=1200x' alt='Una ex empresa de Sam Altman la lía parda con la inteligencia artificial: así vigilaba a sus empleados con la IA' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569'>Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ps3-grande-playstation-3-2355381.jpg?tf=1200x' alt='Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/adios-bicicletas-electricas-bicicleta-hidrogeno-recarga-vaso-agua-1446583'>Adiós a las bicicletas eléctricas: esta bicicleta de hidrógeno se recarga con un vaso de agua, y ya está a la venta</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/adios-bicicletas-electricas-bicicleta-hidrogeno-recarga-vaso-agua-1446583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/verticalimage1741248946792-4300792.jpg?tf=1200x' alt='Adiós a las bicicletas eléctricas: esta bicicleta de hidrógeno se recarga con un vaso de agua, y ya está a la venta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-pone-fecha-llegada-robots-sexuales-1446552'>Elon Musk pone fecha a la llegada de los robots sexuales: "En cinco años"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-pone-fecha-llegada-robots-sexuales-1446552' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-pone-fecha-llegada-robots-sexuales-cinco-anos-4300763.jpg?tf=1200x' alt='Elon Musk pone fecha a la llegada de los robots sexuales: "En cinco años"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/he-pasado-minutos-oppo-find-n5-movil-plegable-fino-mundo-1445904'>He pasado unos minutos con el Oppo Find N5, el móvil plegable más fino del mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/he-pasado-minutos-oppo-find-n5-movil-plegable-fino-mundo-1445904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-find-n5-4300082.jpg?tf=1200x' alt='He pasado unos minutos con el Oppo Find N5, el móvil plegable más fino del mundo' />
     </a>
 </div>
 
