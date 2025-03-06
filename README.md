@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569'>Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ps3-grande-playstation-3-2355381.jpg?tf=1200x' alt='Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/adios-bicicletas-electricas-bicicleta-hidrogeno-recarga-vaso-agua-1446583'>Adiós a las bicicletas eléctricas: esta bicicleta de hidrógeno se recarga con un vaso de agua, y ya está a la venta</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/adios-bicicletas-electricas-bicicleta-hidrogeno-recarga-vaso-agua-1446583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/verticalimage1741248946792-4300792.jpg?tf=1200x' alt='Adiós a las bicicletas eléctricas: esta bicicleta de hidrógeno se recarga con un vaso de agua, y ya está a la venta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-pone-fecha-llegada-robots-sexuales-1446552'>Elon Musk pone fecha a la llegada de los robots sexuales: "En cinco años"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-pone-fecha-llegada-robots-sexuales-1446552' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-pone-fecha-llegada-robots-sexuales-cinco-anos-4300763.jpg?tf=1200x' alt='Elon Musk pone fecha a la llegada de los robots sexuales: "En cinco años"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/doom-puede-correr-test-embarazo-juego-permite-instalacion-tantos-dispositivos-1437359'>'Doom' puede correr hasta en un test de embarazo. ¿Por qué este juego permite la instalación en tantos dispositivos?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/doom-puede-correr-test-embarazo-juego-permite-instalacion-tantos-dispositivos-1437359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/doom-3300611.jpg?tf=1200x' alt=''Doom' puede correr hasta en un test de embarazo. ¿Por qué este juego permite la instalación en tantos dispositivos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/corre-come-mal-sobrevive-mi-primer-mwc-no-ha-sido-evento-sino-batalla-tecnologica-1445887'>Corre, come mal y sobrevive: mi primer MWC y por qué no ha sido un evento, sino una batalla tecnológica</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/corre-come-mal-sobrevive-mi-primer-mwc-no-ha-sido-evento-sino-batalla-tecnologica-1445887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mwc-2025-4300422.jpg?tf=1200x' alt='Corre, come mal y sobrevive: mi primer MWC y por qué no ha sido un evento, sino una batalla tecnológica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-1446398'>Expertos en IA analizan qué ocurre si dejas de ser amable con ChatGPT y el resultado no te lo esperas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-1446398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-4300452.jpg?tf=1200x' alt='Expertos en IA analizan qué ocurre si dejas de ser amable con ChatGPT y el resultado no te lo esperas' />
     </a>
 </div>
 
