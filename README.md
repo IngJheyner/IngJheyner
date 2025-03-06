@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/digi-da-paso-atras-bloqueos-iptv-senala-directamente-laliga-movistar-1446607'>DIGI da un paso atrás en los bloqueos a las IPTV y señala directamente a LaLiga y Movistar</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/digi-da-paso-atras-bloqueos-iptv-senala-directamente-laliga-movistar-1446607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-iptv-4300965.jpg?tf=1200x' alt='DIGI da un paso atrás en los bloqueos a las IPTV y señala directamente a LaLiga y Movistar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-hacker-error-comun-ciberdelincuentes-aprovechan-necesidad-contrasena-1446576'>Alerta hacker: el error común que los ciberdelincuentes aprovechan sin necesidad de tu contraseña</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-hacker-error-comun-ciberdelincuentes-aprovechan-necesidad-contrasena-1446576' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hackers-4300851.jpg?tf=1200x' alt='Alerta hacker: el error común que los ciberdelincuentes aprovechan sin necesidad de tu contraseña' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690'>Así funciona la estafa del trabajo soñado que arrasa en redes sociales</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='Así funciona la estafa del trabajo soñado que arrasa en redes sociales' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-sube-apuesta-computacion-cuantica-potente-zuchongzhi-30-105-cubits-1446595'>China sube la apuesta en computación cuántica con el potente Zuchongzhi 3.0 de 105 cúbits</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-sube-apuesta-computacion-cuantica-potente-zuchongzhi-30-105-cubits-1446595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/zuchongzhi-30-4300858.jpg?tf=1200x' alt='China sube la apuesta en computación cuántica con el potente Zuchongzhi 3.0 de 105 cúbits' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/palo-sam-altman-openia-mantener-deepseek-cuesta-83000-euros-dia-chatgpt-gasta-700000-euros-1446683'>Palo a Sam Altman y OpenAI: mantener DeepSeek cuesta 83.000 euros al día, ChatGPT gasta 700.000 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/palo-sam-altman-openia-mantener-deepseek-cuesta-83000-euros-dia-chatgpt-gasta-700000-euros-1446683' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deepseek-vs-chatgpt-4292261.jpg?tf=1200x' alt='Palo a Sam Altman y OpenAI: mantener DeepSeek cuesta 83.000 euros al día, ChatGPT gasta 700.000 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/crean-primer-lenguaje-programacion-material-activo-1446632'>Crean el primer lenguaje de programación para material activo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/crean-primer-lenguaje-programacion-material-activo-1446632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/materia-activa-programable-4300950.jpg?tf=1200x' alt='Crean el primer lenguaje de programación para material activo' />
     </a>
 </div>
 
