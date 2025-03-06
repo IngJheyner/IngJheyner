@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-desactiva-opcion-privacidad-iphone-te-espie-gobierno-1446651'>Apple desactiva una opción de privacidad del iPhone para que te espíe tu gobierno</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-desactiva-opcion-privacidad-iphone-te-espie-gobierno-1446651' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-desactiva-opcion-privacidad-iphone-te-espie-gobierno-4300955.jpg?tf=1200x' alt='Apple desactiva una opción de privacidad del iPhone para que te espíe tu gobierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/japon-hace-historia-desarrolla-primer-superpanel-solar-supera-energia-20-reactores-nucleares-1446609'>Japón hace historia: desarrolla el primer “superpanel” solar que supera la energía de 20 reactores nucleares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/japon-hace-historia-desarrolla-primer-superpanel-solar-supera-energia-20-reactores-nucleares-1446609' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/paneles-solares-4300911.jpg?tf=1200x' alt='Japón hace historia: desarrolla el primer “superpanel” solar que supera la energía de 20 reactores nucleares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/digi-da-paso-atras-bloqueos-iptv-senala-directamente-laliga-movistar-1446607'>DIGI da un paso atrás en los bloqueos a las IPTV y señala directamente a LaLiga y Movistar</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/digi-da-paso-atras-bloqueos-iptv-senala-directamente-laliga-movistar-1446607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-iptv-4300965.jpg?tf=1200x' alt='DIGI da un paso atrás en los bloqueos a las IPTV y señala directamente a LaLiga y Movistar' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690'>Así funciona la estafa del trabajo soñado que arrasa en redes sociales</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funciona-estafa-trabajo-sonado-arrasa-redes-sociales-1446690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='Así funciona la estafa del trabajo soñado que arrasa en redes sociales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-realiza-movimiento-critico-futuro-tesla-maquina-hace-maquina-1446659'>Elon Musk realiza un movimiento crítico para el futuro de Tesla: “La máquina hace a la máquina”</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-realiza-movimiento-critico-futuro-tesla-maquina-hace-maquina-1446659' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fabricacion-automatizada-tesla-elon-musk-4300961.jpg?tf=1200x' alt='Elon Musk realiza un movimiento crítico para el futuro de Tesla: “La máquina hace a la máquina”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-sube-apuesta-computacion-cuantica-potente-zuchongzhi-30-105-cubits-1446595'>China sube la apuesta en computación cuántica con el potente Zuchongzhi 3.0 de 105 cúbits</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-sube-apuesta-computacion-cuantica-potente-zuchongzhi-30-105-cubits-1446595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/zuchongzhi-30-4300858.jpg?tf=1200x' alt='China sube la apuesta en computación cuántica con el potente Zuchongzhi 3.0 de 105 cúbits' />
     </a>
 </div>
 
