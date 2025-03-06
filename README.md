@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-1446636'>Una ex empresa de Sam Altman la lía parda con la inteligencia artificial: así vigilaba a sus empleados con la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-1446636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ex-empresa-sam-altman-lia-parda-inteligencia-artificial-vigilaba-empleados-ia-4300912.jpg?tf=1200x' alt='Una ex empresa de Sam Altman la lía parda con la inteligencia artificial: así vigilaba a sus empleados con la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569'>Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sony-lleva-cabo-actualizacion-ps3-19-anos-despues-motivo-1446569' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/06/ps3-grande-playstation-3-2355381.jpg?tf=1200x' alt='Sony lleva a cabo una actualización de PS3… ¡19 años después!, y este es el motivo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/he-pasado-minutos-oppo-find-n5-movil-plegable-fino-mundo-1445904'>He pasado unos minutos con el Oppo Find N5, el móvil plegable más fino del mundo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/he-pasado-minutos-oppo-find-n5-movil-plegable-fino-mundo-1445904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-find-n5-4300082.jpg?tf=1200x' alt='He pasado unos minutos con el Oppo Find N5, el móvil plegable más fino del mundo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/doom-puede-correr-test-embarazo-juego-permite-instalacion-tantos-dispositivos-1437359'>'Doom' puede correr hasta en un test de embarazo. ¿Por qué este juego permite la instalación en tantos dispositivos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/doom-puede-correr-test-embarazo-juego-permite-instalacion-tantos-dispositivos-1437359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/doom-3300611.jpg?tf=1200x' alt=''Doom' puede correr hasta en un test de embarazo. ¿Por qué este juego permite la instalación en tantos dispositivos?' />
     </a>
 </div>
 
