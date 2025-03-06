@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-1446398'>Expertos en IA analizan qué ocurre si dejas de ser amable con ChatGPT y el resultado no te lo esperas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-1446398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-analizan-ocurre-dejas-ser-amable-chatgpt-resultado-no-te-esperas-4300452.jpg?tf=1200x' alt='Expertos en IA analizan qué ocurre si dejas de ser amable con ChatGPT y el resultado no te lo esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-activa-modo-apocalipsis-ia-sale-control-ningun-bunker-te-salvara-1446314'>Sam Altman activa el modo apocalipsis: "Si la IA se sale de control, ningún búnker te salvará"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-activa-modo-apocalipsis-ia-sale-control-ningun-bunker-te-salvara-1446314' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4300358.jpg?tf=1200x' alt='Sam Altman activa el modo apocalipsis: "Si la IA se sale de control, ningún búnker te salvará"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-impasible-amenaza-canceladores-serie-muchos-ellos-volveran-1446329'>Netflix impasible ante la amenaza de los canceladores en serie: “Muchos de ellos volverán”</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-impasible-amenaza-canceladores-serie-muchos-ellos-volveran-1446329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/ni-anuncios-ni-subida-precio-nuevo-enemigo-netflix-max-prime-video-disney-son-canceladores-serie-4264902.jpg?tf=1200x' alt='Netflix impasible ante la amenaza de los canceladores en serie: “Muchos de ellos volverán”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-1445536'>Apple, Google y Meta nunca habían compartido tantos datos con el gobierno de EEUU como ahora, ¿cómo te afecta?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-1445536' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-4299012.jpg?tf=1200x' alt='Apple, Google y Meta nunca habían compartido tantos datos con el gobierno de EEUU como ahora, ¿cómo te afecta?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-1444765'>¿Por qué deberíamos contratarte? La genial respuesta de Bill Gates que tú también puedes utilizar</a></h4>
     <a href='https://computerhoy.20minutos.es/life/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-1444765' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-4297549.jpg?tf=1200x' alt='¿Por qué deberíamos contratarte? La genial respuesta de Bill Gates que tú también puedes utilizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-1446533'>Exigen a Amazon que tome medidas para acabar con las IPTV y la piratería en los Fire TV Stick</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-1446533' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-4300739.jpg?tf=1200x' alt='Exigen a Amazon que tome medidas para acabar con las IPTV y la piratería en los Fire TV Stick' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/invitan-coger-juegos-garaje-descubre-tesoro-juegos-retro-1446537'>Le invitan a coger todo lo quiera de un garaje y descubre el sueño de todo amante de los juegos retro</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/invitan-coger-juegos-garaje-descubre-tesoro-juegos-retro-1446537' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/invitan-coger-todo-quiera-garaje-descubre-sueno-todo-amante-juegos-retro-4300723.jpg?tf=1200x' alt='Le invitan a coger todo lo quiera de un garaje y descubre el sueño de todo amante de los juegos retro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508'>Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-4300722.jpg?tf=1200x' alt='Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? ' />
     </a>
 </div>
 
