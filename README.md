@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-1445536'>Apple, Google y Meta nunca habían compartido tantos datos con el gobierno de EEUU como ahora, ¿cómo te afecta?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-1445536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-google-meta-nunca-habian-compartido-tantos-datos-gobierno-eeuu-como-ahora-como-te-afecta-4299012.jpg?tf=1200x' alt='Apple, Google y Meta nunca habían compartido tantos datos con el gobierno de EEUU como ahora, ¿cómo te afecta?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-1444765'>¿Por qué deberíamos contratarte? La genial respuesta de Bill Gates que tú también puedes utilizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-1444765' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/deberiamos-contratarte-genial-respuesta-bill-gates-tambien-puedes-utilizar-4297549.jpg?tf=1200x' alt='¿Por qué deberíamos contratarte? La genial respuesta de Bill Gates que tú también puedes utilizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/amazon/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-1446533'>Exigen a Amazon que tome medidas para acabar con las IPTV y la piratería en los Fire TV Stick</a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-1446533' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/exigen-amazon-tome-medidas-acabar-iptv-pirateria-fire-tv-stick-4300739.jpg?tf=1200x' alt='Exigen a Amazon que tome medidas para acabar con las IPTV y la piratería en los Fire TV Stick' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508'>Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-1446508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-descubre-impactante-secreto-oculto-codigo-ia-solo-12-meses-singularidad-4300722.jpg?tf=1200x' alt='Experto descubre un impactante secreto oculto en el código de la IA: ¿solo 12 meses para la singularidad? ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-1446389'>Este Tesla Model 3 acumula 347.000 kilómetros en solo tres años y el estado de su batería te hará plantearte muchas cosas</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-1446389' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-model-3-acumula-347000-kilometros-solo-tres-anos-estado-bateria-te-hara-plantearte-muchas-cosas-4300470.jpg?tf=1200x' alt='Este Tesla Model 3 acumula 347.000 kilómetros en solo tres años y el estado de su batería te hará plantearte muchas cosas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-lanza-nuevo-macbook-air-m4-1446525'>Apple lanza un nuevo MacBook Air con M4 y una inesperada bajada de precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-lanza-nuevo-macbook-air-m4-1446525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-lanza-nuevo-macbook-air-m4-inesperada-bajada-precio-4300680.jpg?tf=1200x' alt='Apple lanza un nuevo MacBook Air con M4 y una inesperada bajada de precio' />
     </a>
 </div>
 
