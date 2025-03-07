@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amira-robot-ultrarrealista-mwc-ha-dejado-todos-boca-abierta-1446834'>Así es Amira, el robot ultrarrealista del MWC que ha dejado a todos con la boca abierta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amira-robot-ultrarrealista-mwc-ha-dejado-todos-boca-abierta-1446834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amira-robot-ultrarrealista-mwc-4301361.jpg?tf=1200x' alt='Así es Amira, el robot ultrarrealista del MWC que ha dejado a todos con la boca abierta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-medio-limon-ni-papel-higienico-pon-corcho-nevera-ahorrar-factura-luz-1446824'>Ni medio limón ni papel higiénico: pon un corcho en la nevera para ahorrar en la factura de la luz</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-medio-limon-ni-papel-higienico-pon-corcho-nevera-ahorrar-factura-luz-1446824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-medio-limon-ni-papel-higienico-corcho-nevera-ahorrar-factura-luz-4301319.jpg?tf=1200x' alt='Ni medio limón ni papel higiénico: pon un corcho en la nevera para ahorrar en la factura de la luz' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686'>Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-4301019.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-afirma-sam-altman-elon-musk-estan-equivocados-puede-perder-control-muy-rapido-1446685'>Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control muy rápido"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-afirma-sam-altman-elon-musk-estan-equivocados-puede-perder-control-muy-rapido-1446685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-humana-4301131.jpg?tf=1200x' alt='Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control muy rápido"' />
     </a>
 </div>
 
