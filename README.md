@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/china-construye-propia-estacion-espacial-2-km-profundidad-mar-1446896'>China construye su propia "estación espacial" a 2 km de profundidad bajo el mar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/china-construye-propia-estacion-espacial-2-km-profundidad-mar-1446896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/recreacion-como-seria-estacion-espacial-submarina-proteus-4301469.jpg?tf=1200x' alt='China construye su propia "estación espacial" a 2 km de profundidad bajo el mar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-1446812'>Ni Black Mirror ni The Crown: así es la nueva serie británica que arrasa en Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-1446812' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-4301316.jpg?tf=1200x' alt='Ni Black Mirror ni The Crown: así es la nueva serie británica que arrasa en Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-app-herramienta-activar-windows-office-gratis-legal-1443772'>Hackers crean una aplicación para activar Windows y Office para siempre y afirman que es legal: "Lo usa hasta Microsoft"</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/hackers-app-herramienta-activar-windows-office-gratis-legal-1443772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-codigos-windows-4301010.jpg?tf=1200x' alt='Hackers crean una aplicación para activar Windows y Office para siempre y afirman que es legal: "Lo usa hasta Microsoft"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-tiene-nuevo-objetivo-cambio-horario-1446985'>Elon Musk no para de meterse en charcos y tiene un nuevo objetivo: el cambio horario</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-tiene-nuevo-objetivo-cambio-horario-1446985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tiempo-reloj-elon-musk-4301621.jpg?tf=1200x' alt='Elon Musk no para de meterse en charcos y tiene un nuevo objetivo: el cambio horario' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-conseguirlo-nueva-ia-qwen-ya-supera-deepseek-chatgpt-1446837'>China vuelve a conseguirlo con su nueva IA: Qwen ya supera a DeepSeek y ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-conseguirlo-nueva-ia-qwen-ya-supera-deepseek-chatgpt-1446837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/qwen-ia-china-4301396.jpg?tf=1200x' alt='China vuelve a conseguirlo con su nueva IA: Qwen ya supera a DeepSeek y ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-eres-cliente-preparate-llegan-cambios-radicales-1446940'>Giro de 180 grados en Movistar Plus+: si eres cliente, prepárate, llegan cambios radicales</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-eres-cliente-preparate-llegan-cambios-radicales-1446940' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4301567.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: si eres cliente, prepárate, llegan cambios radicales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canales-tv-gratis-para-todos-1439551'>Movistar Plus+ dispuesta a todo: activa el modo "3 por 1" para todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canales-tv-gratis-para-todos-1439551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/regalo-movistar-plus-todos-clientes-4301005.jpg?tf=1200x' alt='Movistar Plus+ dispuesta a todo: activa el modo "3 por 1" para todos sus clientes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/rootedcon-cerca-laliga-javier-tebas-bloqueos-iptv-podrian-acabar-fin-semana-1446965'>RootedCON cerca a la LaLiga de Javier Tebas y los bloqueos a las IPTV podrían acabar este fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/rootedcon-cerca-laliga-javier-tebas-bloqueos-iptv-podrian-acabar-fin-semana-1446965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rootedcon-cerca-laliga-javier-tebas-bloqueos-iptv-podrian-acabar-fin-semana-4301613.jpg?tf=1200x' alt='RootedCON cerca a la LaLiga de Javier Tebas y los bloqueos a las IPTV podrían acabar este fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/autoridades-alerta-estafa-bancaria-hace-estragos-europa-podria-llegar-espana-1446925'>Las autoridades en alerta: la estafa bancaria que hace estragos en Europa ¿podría llegar a España?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/autoridades-alerta-estafa-bancaria-hace-estragos-europa-podria-llegar-espana-1446925' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/autoridades-alerta-estafa-bancaria-hace-estragos-europa-podria-llegar-espana-4301494.jpg?tf=1200x' alt='Las autoridades en alerta: la estafa bancaria que hace estragos en Europa ¿podría llegar a España?' />
     </a>
 </div>
 
