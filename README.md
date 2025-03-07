@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-golpe-rebajan-gafas-vr-alternativas-meta-dejan-baratas-nunca-1446894'>AliExpress da el golpe: rebajan las gafas VR alternativas a las de Meta y las dejan más baratas que nunca</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-golpe-rebajan-gafas-vr-alternativas-meta-dejan-baratas-nunca-1446894' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pico-4-ultra-4301612.jpg?tf=1200x' alt='AliExpress da el golpe: rebajan las gafas VR alternativas a las de Meta y las dejan más baratas que nunca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/duro-golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928'>Duro golpe a Elon Muks y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/duro-golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-4301556.jpg?tf=1200x' alt='Duro golpe a Elon Muks y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-hartos-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870'>Los astronautas de la NASA hartos de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-hartos-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nasa-4300999.jpg?tf=1200x' alt='Los astronautas de la NASA hartos de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-wozniak-cofundador-apple-arremete-elon-musk-no-tiene-cabeza-1446914'>Steve Wozniak, cofundador de Apple, arremete contra Elon Musk: "No sé qué tiene en la cabeza"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-wozniak-cofundador-apple-arremete-elon-musk-no-tiene-cabeza-1446914' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-arremete-elon-musk-no-tiene-cabeza-4301481.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, arremete contra Elon Musk: "No sé qué tiene en la cabeza"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-1446905'>La razón por la que nunca deberías compartir datos médicos con ChatGPT o Grok, según los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-1446905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-4301462.jpg?tf=1200x' alt='La razón por la que nunca deberías compartir datos médicos con ChatGPT o Grok, según los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-digi-nadie-te-va-subir-tarifa-estafa-1446930'>Cuidado si eres cliente de DIGI: nadie te va a subir la tarifa, es una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-digi-nadie-te-va-subir-tarifa-estafa-1446930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-eres-cliente-digi-nadie-te-va-subir-tarifa-estafa-4301520.jpg?tf=1200x' alt='Cuidado si eres cliente de DIGI: nadie te va a subir la tarifa, es una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-utilices-copilot-dispuesto-todo-conseguirlo-1446895'>Microsoft quiere que utilices Copilot, y está dispuesto a todo para conseguirlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-utilices-copilot-dispuesto-todo-conseguirlo-1446895' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-quiere-utilices-copilot-dispuesto-todo-conseguirlo-4301492.jpg?tf=1200x' alt='Microsoft quiere que utilices Copilot, y está dispuesto a todo para conseguirlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-whatsapp-telegram-holandeses-pasan-signal-tal-vez-todos-deberiamos-hacerlo-1446856'>Adiós WhatsApp y Telegram, los holandeses se pasan a Signal y tal vez todos deberíamos hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-whatsapp-telegram-holandeses-pasan-signal-tal-vez-todos-deberiamos-hacerlo-1446856' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-whatsapp-telegram-holandeses-pasan-signal-tal-vez-todos-deberiamos-hacerlo-4301440.jpg?tf=1200x' alt='Adiós WhatsApp y Telegram, los holandeses se pasan a Signal y tal vez todos deberíamos hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/teams-recibe-funcion-muy-esperada-muchos-asombraran-no-existiera-antes-1446924'>Teams recibe una función muy esperada que muchos se asombrarán de que no existiera antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/teams-recibe-funcion-muy-esperada-muchos-asombraran-no-existiera-antes-1446924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/teams-4301514.jpg?tf=1200x' alt='Teams recibe una función muy esperada que muchos se asombrarán de que no existiera antes' />
     </a>
 </div>
 
