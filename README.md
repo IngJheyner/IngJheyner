@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/tengo-movistar-no-me-gusta-futbol-ni-me-he-enterado-bloqueos-iptv-mi-secreto-1446877'>Tengo Movistar, no me gusta el fútbol, y ni me he enterado de los bloqueos a las IPTV: este es mi secreto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/tengo-movistar-no-me-gusta-futbol-ni-me-he-enterado-bloqueos-iptv-mi-secreto-1446877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290500.jpg?tf=1200x' alt='Tengo Movistar, no me gusta el fútbol, y ni me he enterado de los bloqueos a las IPTV: este es mi secreto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-genio-siglo-xxi-elon-musk-te-busca-semanas-laborales-120-horas-cobrar-euro-1446862'>¿Eres un genio del siglo XXI? Elon Musk te busca: semanas laborales de 120 horas y sin cobrar un euro</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/eres-genio-siglo-xxi-elon-musk-te-busca-semanas-laborales-120-horas-cobrar-euro-1446862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-4300443.jpg?tf=1200x' alt='¿Eres un genio del siglo XXI? Elon Musk te busca: semanas laborales de 120 horas y sin cobrar un euro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/150-modos-deportivos-oxigeno-sangre-precio-risa-xiaomi-revienta-precio-smartwatch-barato-1446825'>150 modos deportivos, oxígeno en sangre y precio de risa: Xiaomi revienta el precio de su smartwatch barato</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/150-modos-deportivos-oxigeno-sangre-precio-risa-xiaomi-revienta-precio-smartwatch-barato-1446825' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-watch-5-lite-1737659350582-4286297.jpg?tf=1200x' alt='150 modos deportivos, oxígeno en sangre y precio de risa: Xiaomi revienta el precio de su smartwatch barato' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/michael-sheen-actor-animo-lucro-ha-pagado-deudas-900-personas-1446882'>Michael Sheen, el actor "sin ánimo de lucro" que ha pagado las deudas a 900 personas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/michael-sheen-actor-animo-lucro-ha-pagado-deudas-900-personas-1446882' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/michael-sheen-actor-animo-lucro-ha-pagado-deudas-900-personas-4301356.jpg?tf=1200x' alt='Michael Sheen, el actor "sin ánimo de lucro" que ha pagado las deudas a 900 personas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-soluciona-problema-gmail-android-despues-21-anos-1446829'>Google soluciona un problema de Gmail en Android, después de 21 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-soluciona-problema-gmail-android-despues-21-anos-1446829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-android-va-recibir-actualizacion-revolucionaria-ultimos-anos-3297127.jpg?tf=1200x' alt='Google soluciona un problema de Gmail en Android, después de 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/mentira-elon-musk-spacex-satelites-starlink-no-son-seguros-podrian-caer-cielo-1446848'>La mentira de Elon Musk y SpaceX: los satélites Starlink no son seguros y podrían caer del cielo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/mentira-elon-musk-spacex-satelites-starlink-no-son-seguros-podrian-caer-cielo-1446848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/satelites-starlink-cayendo-cielo-4301390.jpg?tf=1200x' alt='La mentira de Elon Musk y SpaceX: los satélites Starlink no son seguros y podrían caer del cielo' />
     </a>
 </div>
 
