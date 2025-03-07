@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-elon-musk-mark-zuckerberg-quieren-te-olvides-movil-ya-tienen-sustitutos-1447020'>Bill Gates, Elon Musk o Mark Zuckerberg quieren que te olvides del móvil y ya tienen sus sustitutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-elon-musk-mark-zuckerberg-quieren-te-olvides-movil-ya-tienen-sustitutos-1447020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-mark-zuckerberg-quieren-te-olvides-movil-ya-tienen-sustitutos-4301694.jpg?tf=1200x' alt='Bill Gates, Elon Musk o Mark Zuckerberg quieren que te olvides del móvil y ya tienen sus sustitutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/problemas-tesla-elon-musk-podrian-regresar-coches-botones-fisicos-1447033'>Problemas para Tesla y Elon Musk: podrían regresar los coches con botones físicos</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/problemas-tesla-elon-musk-podrian-regresar-coches-botones-fisicos-1447033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-model-s-4301685.jpg?tf=1200x' alt='Problemas para Tesla y Elon Musk: podrían regresar los coches con botones físicos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-peliculas-series-paginas-ilegales-podrias-ser-parte-millon-infectados-malware-1447031'>¿Ves películas y series en páginas ilegales? Podrías ser parte del millón de infectados por malware</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-peliculas-series-paginas-ilegales-podrias-ser-parte-millon-infectados-malware-1447031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-4301683.jpg?tf=1200x' alt='¿Ves películas y series en páginas ilegales? Podrías ser parte del millón de infectados por malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-aprendizaje-refuerzo-alertan-riesgos-desarrollo-ia-1446906'>Expertos en aprendizaje por refuerzo alertan sobre los riesgos del desarrollo de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-aprendizaje-refuerzo-alertan-riesgos-desarrollo-ia-1446906' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peligros-ia-4301499.jpg?tf=1200x' alt='Expertos en aprendizaje por refuerzo alertan sobre los riesgos del desarrollo de la IA' />
     </a>
 </div>
 
