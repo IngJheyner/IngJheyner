@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-iptv-laliga-enfurece-espanoles-mi-casa-durante-futbol-hay-cosas-no-funcionan-1446668'>La guerra de las IPTV de la LaLiga enfurece a los españoles: "En mi casa, durante el fútbol hay cosas que no funcionan"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/guerra-iptv-laliga-enfurece-espanoles-mi-casa-durante-futbol-hay-cosas-no-funcionan-1446668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enfado-conexion-internet-ordenador-4301107.jpg?tf=1200x' alt='La guerra de las IPTV de la LaLiga enfurece a los españoles: "En mi casa, durante el fútbol hay cosas que no funcionan"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-socorro-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647'>Profesores piden socorro por la IA: "Antes enseñaba, ahora solo busco detectar trucos de ChatGPT"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-socorro-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/profesores-chatgpt-4300978.jpg?tf=1200x' alt='Profesores piden socorro por la IA: "Antes enseñaba, ahora solo busco detectar trucos de ChatGPT"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-1446792'>Filtradas 244 millones de contraseñas de todo el mundo: así puedes saber si los hackers pueden acceder a tus cuentas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-1446792' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-4301288.jpg?tf=1200x' alt='Filtradas 244 millones de contraseñas de todo el mundo: así puedes saber si los hackers pueden acceder a tus cuentas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773'>Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-4301277.jpg?tf=1200x' alt='Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/western-digital-deja-fabricar-ssd-1446782'>El fin de una era: Western Digital deja de fabricar SSD</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/western-digital-deja-fabricar-ssd-1446782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fin-era-western-digital-deja-fabricar-ssd-4301223.jpg?tf=1200x' alt='El fin de una era: Western Digital deja de fabricar SSD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687'>Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xreal-4301172.jpg?tf=1200x' alt='Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros' />
     </a>
 </div>
 
