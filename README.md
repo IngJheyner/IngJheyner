@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686'>Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-4301019.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-afirma-sam-altman-elon-musk-estan-equivocados-puede-perder-control-muy-rapido-1446685'>Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control muy rápido"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-afirma-sam-altman-elon-musk-estan-equivocados-puede-perder-control-muy-rapido-1446685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-humana-4301131.jpg?tf=1200x' alt='Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control muy rápido"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-1446811'>Marte está muy lejos: el cohete Starship de SpaceX vuelve a explotar</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-1446811' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-4301303.jpg?tf=1200x' alt='Marte está muy lejos: el cohete Starship de SpaceX vuelve a explotar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-estafa-nombre-campana-masiva-1446663'>La Policía Nacional alerta de la última estafa en su nombre: "Es una campaña masiva"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-estafa-nombre-campana-masiva-1446663' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-alerta-ultima-estafa-nombre-campana-masiva-4300964.jpg?tf=1200x' alt='La Policía Nacional alerta de la última estafa en su nombre: "Es una campaña masiva"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-iptv-laliga-enfurece-espanoles-mi-casa-durante-futbol-hay-cosas-no-funcionan-1446668'>La guerra de las IPTV de la LaLiga enfurece a los españoles: "En mi casa, durante el fútbol hay cosas que no funcionan"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/guerra-iptv-laliga-enfurece-espanoles-mi-casa-durante-futbol-hay-cosas-no-funcionan-1446668' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enfado-conexion-internet-ordenador-4301107.jpg?tf=1200x' alt='La guerra de las IPTV de la LaLiga enfurece a los españoles: "En mi casa, durante el fútbol hay cosas que no funcionan"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-socorro-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647'>Profesores piden socorro por la IA: "Antes enseñaba, ahora solo busco detectar trucos de ChatGPT"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-socorro-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/profesores-chatgpt-4300978.jpg?tf=1200x' alt='Profesores piden socorro por la IA: "Antes enseñaba, ahora solo busco detectar trucos de ChatGPT"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-1446792'>Filtradas 244 millones de contraseñas de todo el mundo: así puedes saber si los hackers pueden acceder a tus cuentas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-1446792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-4301288.jpg?tf=1200x' alt='Filtradas 244 millones de contraseñas de todo el mundo: así puedes saber si los hackers pueden acceder a tus cuentas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795'>Canadá planta cara a Elon Musk: aranceles del 100% para los Tesla y contratos millonarios de Starlink a la basura</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-4301269.jpg?tf=1200x' alt='Canadá planta cara a Elon Musk: aranceles del 100% para los Tesla y contratos millonarios de Starlink a la basura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773'>Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-4301277.jpg?tf=1200x' alt='Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra' />
     </a>
 </div>
 
