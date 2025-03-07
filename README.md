@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773'>Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-4301277.jpg?tf=1200x' alt='Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/western-digital-deja-fabricar-ssd-1446782'>El fin de una era: Western Digital deja de fabricar SSD</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/western-digital-deja-fabricar-ssd-1446782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fin-era-western-digital-deja-fabricar-ssd-4301223.jpg?tf=1200x' alt='El fin de una era: Western Digital deja de fabricar SSD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-solo-ricos-openai-podria-cobrar-casi-20000-euros-mes-inteligencia-artificial-avanzada-1446772'>¿IA solo para ricos? OpenAI podría cobrar casi 20.000 euros al mes por inteligencia artificial más avanzada</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-solo-ricos-openai-podria-cobrar-casi-20000-euros-mes-inteligencia-artificial-avanzada-1446772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4301257.jpg?tf=1200x' alt='¿IA solo para ricos? OpenAI podría cobrar casi 20.000 euros al mes por inteligencia artificial más avanzada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/medio-millon-moviles-android-infectados-malware-badbox-vuelve-carga-1446770'>Medio millón de móviles Android infectados: el malware BadBox vuelve a la carga</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/medio-millon-moviles-android-infectados-malware-badbox-vuelve-carga-1446770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-android-4301252.jpg?tf=1200x' alt='Medio millón de móviles Android infectados: el malware BadBox vuelve a la carga' />
     </a>
 </div>
 
