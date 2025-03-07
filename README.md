@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-1446792'>Filtradas 244 millones de contraseñas de todo el mundo: así puedes saber si los hackers pueden acceder a tus cuentas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-1446792' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/filtradas-244-millones-contrasenas-todo-mundo-puedes-saber-hackers-pueden-acceder-cuentas-4301288.jpg?tf=1200x' alt='Filtradas 244 millones de contraseñas de todo el mundo: así puedes saber si los hackers pueden acceder a tus cuentas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795'>Canadá planta cara a Elon Musk: aranceles del 100% para los Tesla y contratos millonarios de Starlink a la basura</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-4301269.jpg?tf=1200x' alt='Canadá planta cara a Elon Musk: aranceles del 100% para los Tesla y contratos millonarios de Starlink a la basura' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687'>Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-apple-estas-elegantes-gafas-realidad-aumentada-cuestan-menos-300-euros-1446687' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xreal-4301172.jpg?tf=1200x' alt='Ni Meta ni Apple: estas elegantes gafas de realidad aumentada cuestan menos de 300 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-1446738'>El coche eléctrico listo para su despegue definitivo: "Están listas para pasar del laboratorio al mundo real"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-1446738' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-4301256.jpg?tf=1200x' alt='El coche eléctrico listo para su despegue definitivo: "Están listas para pasar del laboratorio al mundo real"' />
     </a>
 </div>
 
