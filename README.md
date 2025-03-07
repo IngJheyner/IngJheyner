@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/150-modos-deportivos-oxigeno-sangre-precio-risa-xiaomi-revienta-precio-smartwatch-barato-1446825'>150 modos deportivos, oxígeno en sangre y precio de risa: Xiaomi revienta el precio de su smartwatch barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/150-modos-deportivos-oxigeno-sangre-precio-risa-xiaomi-revienta-precio-smartwatch-barato-1446825' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-watch-5-lite-1737659350582-4286297.jpg?tf=1200x' alt='150 modos deportivos, oxígeno en sangre y precio de risa: Xiaomi revienta el precio de su smartwatch barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/barcelona-hong-kong-llegan-acuerdo-colaborar-tecnologia-comercio-1446852'>Barcelona y Hong Kong llegan a un acuerdo para colaborar en tecnología y comercio </a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/barcelona-hong-kong-llegan-acuerdo-colaborar-tecnologia-comercio-1446852' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuarto-teniente-alcalde-ayuntamiento-barcelona-jordi-valls-izq-iris-wong-merchandise-trade-and-innovation-director-hktdc-dcha-firman-acuerdo-barcelona-hong-kong-durante-mwc-2025-4301419.jpg?tf=1200x' alt='Barcelona y Hong Kong llegan a un acuerdo para colaborar en tecnología y comercio ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/michael-sheen-actor-animo-lucro-ha-pagado-deudas-900-personas-1446882'>Michael Sheen, el actor "sin ánimo de lucro" que ha pagado las deudas a 900 personas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/michael-sheen-actor-animo-lucro-ha-pagado-deudas-900-personas-1446882' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/michael-sheen-actor-animo-lucro-ha-pagado-deudas-900-personas-4301356.jpg?tf=1200x' alt='Michael Sheen, el actor "sin ánimo de lucro" que ha pagado las deudas a 900 personas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-soluciona-problema-gmail-android-despues-21-anos-1446829'>Google soluciona un problema de Gmail en Android, después de 21 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-soluciona-problema-gmail-android-despues-21-anos-1446829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/gmail-android-va-recibir-actualizacion-revolucionaria-ultimos-anos-3297127.jpg?tf=1200x' alt='Google soluciona un problema de Gmail en Android, después de 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/mentira-elon-musk-spacex-satelites-starlink-no-son-seguros-podrian-caer-cielo-1446848'>La mentira de Elon Musk y SpaceX: los satélites Starlink no son seguros y podrían caer del cielo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/mentira-elon-musk-spacex-satelites-starlink-no-son-seguros-podrian-caer-cielo-1446848' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/satelites-starlink-cayendo-cielo-4301390.jpg?tf=1200x' alt='La mentira de Elon Musk y SpaceX: los satélites Starlink no son seguros y podrían caer del cielo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/creador-spotify-premium-pirata-revela-apk-volvera-funcionar-no-hay-nada-pueda-hacer-arreglarlo-1446850'>El creador de Spotify Premium pirata revela si el APK volverá a funcionar: “No hay nada que pueda hacer para arreglarlo”</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/creador-spotify-premium-pirata-revela-apk-volvera-funcionar-no-hay-nada-pueda-hacer-arreglarlo-1446850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/creador-spotify-premium-pirata-revela-apk-volvera-funcionar-no-hay-nada-pueda-hacer-arreglarlo-4301371.jpg?tf=1200x' alt='El creador de Spotify Premium pirata revela si el APK volverá a funcionar: “No hay nada que pueda hacer para arreglarlo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amira-robot-ultrarrealista-mwc-ha-dejado-todos-boca-abierta-1446834'>Así es Amira, el robot ultrarrealista del MWC que ha dejado a todos con la boca abierta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amira-robot-ultrarrealista-mwc-ha-dejado-todos-boca-abierta-1446834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amira-robot-ultrarrealista-mwc-4301361.jpg?tf=1200x' alt='Así es Amira, el robot ultrarrealista del MWC que ha dejado a todos con la boca abierta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-medio-limon-ni-papel-higienico-pon-corcho-nevera-ahorrar-factura-luz-1446824'>Ni medio limón ni papel higiénico: pon un corcho en la nevera para ahorrar en la factura de la luz</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-medio-limon-ni-papel-higienico-pon-corcho-nevera-ahorrar-factura-luz-1446824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-medio-limon-ni-papel-higienico-corcho-nevera-ahorrar-factura-luz-4301319.jpg?tf=1200x' alt='Ni medio limón ni papel higiénico: pon un corcho en la nevera para ahorrar en la factura de la luz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170'>Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/face-id-iphone-4301012.jpg?tf=1200x' alt='Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla' />
     </a>
 </div>
 
