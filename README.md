@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/athena-intuitive-machines-aterriza-luna-costado-segunda-vez-1447044'>Parece una broma, pero no lo es: Intuitive Machines aterriza en la Luna de costado, por segunda vez</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/athena-intuitive-machines-aterriza-luna-costado-segunda-vez-1447044' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-broma-pero-no-intuitive-machine-aterriza-luna-costado-segunda-vez-4301673.jpg?tf=1200x' alt='Parece una broma, pero no lo es: Intuitive Machines aterriza en la Luna de costado, por segunda vez' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-elon-musk-mark-zuckerberg-quieren-te-olvides-movil-ya-tienen-sustitutos-1447020'>Bill Gates, Elon Musk o Mark Zuckerberg quieren que te olvides del móvil y ya tienen sus sustitutos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-elon-musk-mark-zuckerberg-quieren-te-olvides-movil-ya-tienen-sustitutos-1447020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-mark-zuckerberg-quieren-te-olvides-movil-ya-tienen-sustitutos-4301694.jpg?tf=1200x' alt='Bill Gates, Elon Musk o Mark Zuckerberg quieren que te olvides del móvil y ya tienen sus sustitutos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/teclado-moviles-android-sufre-cambio-inesperado-no-va-gustarte-1447032'>El teclado de los móviles Android sufre un cambio inesperado que no va a gustarte</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/teclado-moviles-android-sufre-cambio-inesperado-no-va-gustarte-1447032' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='El teclado de los móviles Android sufre un cambio inesperado que no va a gustarte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-peliculas-series-paginas-ilegales-podrias-ser-parte-millon-infectados-malware-1447031'>¿Ves películas y series en páginas ilegales? Podrías ser parte del millón de infectados por malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-peliculas-series-paginas-ilegales-podrias-ser-parte-millon-infectados-malware-1447031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-4301683.jpg?tf=1200x' alt='¿Ves películas y series en páginas ilegales? Podrías ser parte del millón de infectados por malware' />
     </a>
 </div>
 
