@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-medio-limon-ni-papel-higienico-pon-corcho-nevera-ahorrar-factura-luz-1446824'>Ni medio limón ni papel higiénico: pon un corcho en la nevera para ahorrar en la factura de la luz</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-medio-limon-ni-papel-higienico-pon-corcho-nevera-ahorrar-factura-luz-1446824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-medio-limon-ni-papel-higienico-corcho-nevera-ahorrar-factura-luz-4301319.jpg?tf=1200x' alt='Ni medio limón ni papel higiénico: pon un corcho en la nevera para ahorrar en la factura de la luz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170'>Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/face-id-iphone-4301012.jpg?tf=1200x' alt='Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-afirma-sam-altman-elon-musk-estan-equivocados-puede-perder-control-muy-rapido-1446685'>Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control muy rápido"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-afirma-sam-altman-elon-musk-estan-equivocados-puede-perder-control-muy-rapido-1446685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-humana-4301131.jpg?tf=1200x' alt='Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control muy rápido"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-1446811'>Marte está muy lejos: el cohete Starship de SpaceX vuelve a explotar</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-1446811' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-4301303.jpg?tf=1200x' alt='Marte está muy lejos: el cohete Starship de SpaceX vuelve a explotar' />
     </a>
 </div>
 
