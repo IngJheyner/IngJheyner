@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170'>Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/face-id-iphone-4301012.jpg?tf=1200x' alt='Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/protagonistas-sombra-marcas-nunca-habias-oido-hablar-nos-han-sorprendido-mobile-world-congress-1446423'>Protagonistas en la sombra: marcas de las que nunca habías oído hablar que nos han sorprendido en el Mobile World Congress</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/protagonistas-sombra-marcas-nunca-habias-oido-hablar-nos-han-sorprendido-mobile-world-congress-1446423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marcas-desconocidas-mwc-2025-4301239.jpg?tf=1200x' alt='Protagonistas en la sombra: marcas de las que nunca habías oído hablar que nos han sorprendido en el Mobile World Congress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686'>Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-4301019.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-1446811'>Marte está muy lejos: el cohete Starship de SpaceX vuelve a explotar</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-1446811' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marte-muy-lejos-cohete-starship-spacex-vuelve-explotar-4301303.jpg?tf=1200x' alt='Marte está muy lejos: el cohete Starship de SpaceX vuelve a explotar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-estafa-nombre-campana-masiva-1446663'>La Policía Nacional alerta de la última estafa en su nombre: "Es una campaña masiva"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-ultima-estafa-nombre-campana-masiva-1446663' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-alerta-ultima-estafa-nombre-campana-masiva-4300964.jpg?tf=1200x' alt='La Policía Nacional alerta de la última estafa en su nombre: "Es una campaña masiva"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/guerra-iptv-laliga-enfurece-espanoles-mi-casa-durante-futbol-hay-cosas-no-funcionan-1446668'>La guerra de las IPTV de la LaLiga enfurece a los españoles: "En mi casa, durante el fútbol hay cosas que no funcionan"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/guerra-iptv-laliga-enfurece-espanoles-mi-casa-durante-futbol-hay-cosas-no-funcionan-1446668' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enfado-conexion-internet-ordenador-4301107.jpg?tf=1200x' alt='La guerra de las IPTV de la LaLiga enfurece a los españoles: "En mi casa, durante el fútbol hay cosas que no funcionan"' />
     </a>
 </div>
 
