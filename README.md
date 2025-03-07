@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/problemas-tesla-elon-musk-podrian-regresar-coches-botones-fisicos-1447033'>Problemas para Tesla y Elon Musk: podrían regresar los coches con botones físicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/problemas-tesla-elon-musk-podrian-regresar-coches-botones-fisicos-1447033' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-model-s-4301685.jpg?tf=1200x' alt='Problemas para Tesla y Elon Musk: podrían regresar los coches con botones físicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-lleva-40-anos-investigando-ia-tiene-muy-claro-hacen-openai-google-meta-robar-1446948'>Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen OpenAI, Google y Meta es robar”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-lleva-40-anos-investigando-ia-tiene-muy-claro-hacen-openai-google-meta-robar-1446948' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peligros-usar-inteligencia-artificial-4301573.jpg?tf=1200x' alt='Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen OpenAI, Google y Meta es robar”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/teclado-moviles-android-sufre-cambio-inesperado-no-va-gustarte-1447032'>El teclado de los móviles Android sufre un cambio inesperado que no va a gustarte</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/teclado-moviles-android-sufre-cambio-inesperado-no-va-gustarte-1447032' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='El teclado de los móviles Android sufre un cambio inesperado que no va a gustarte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-peliculas-series-paginas-ilegales-podrias-ser-parte-millon-infectados-malware-1447031'>¿Ves películas y series en páginas ilegales? Podrías ser parte del millón de infectados por malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-peliculas-series-paginas-ilegales-podrias-ser-parte-millon-infectados-malware-1447031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-4301683.jpg?tf=1200x' alt='¿Ves películas y series en páginas ilegales? Podrías ser parte del millón de infectados por malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-aprendizaje-refuerzo-alertan-riesgos-desarrollo-ia-1446906'>Expertos en aprendizaje por refuerzo alertan sobre los riesgos del desarrollo de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-aprendizaje-refuerzo-alertan-riesgos-desarrollo-ia-1446906' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peligros-ia-4301499.jpg?tf=1200x' alt='Expertos en aprendizaje por refuerzo alertan sobre los riesgos del desarrollo de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ya-tiene-nuevo-exito-2025-comparan-john-wick-basado-manga-1446550'>Netflix ya tiene un nuevo éxito en 2025: lo comparan con John Wick y está basado en un manga</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ya-tiene-nuevo-exito-2025-comparan-john-wick-basado-manga-1446550' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-ya-tiene-nuevo-exito-2025-comparan-john-wick-basado-manga-4300761.jpg?tf=1200x' alt='Netflix ya tiene un nuevo éxito en 2025: lo comparan con John Wick y está basado en un manga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/innengine-revolucionario-motor-espanol-llegara-calles-70-pequeno-4-veces-potente-1446995'>INNengine, el revolucionario motor español, llegará a las calles: "70% más pequeño y 4 veces más potente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/innengine-revolucionario-motor-espanol-llegara-calles-70-pequeno-4-veces-potente-1446995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/innengine-revolucionario-motor-espanol-llegara-calles-70-pequeno-4-veces-potente-4301660.jpg?tf=1200x' alt='INNengine, el revolucionario motor español, llegará a las calles: "70% más pequeño y 4 veces más potente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/china-construye-propia-estacion-espacial-2-km-profundidad-mar-1446896'>China construye su propia "estación espacial" a 2 km de profundidad bajo el mar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/china-construye-propia-estacion-espacial-2-km-profundidad-mar-1446896' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/recreacion-como-seria-estacion-espacial-submarina-proteus-4301469.jpg?tf=1200x' alt='China construye su propia "estación espacial" a 2 km de profundidad bajo el mar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-1446812'>Ni Black Mirror ni The Crown: así es la nueva serie británica que arrasa en Netflix</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-1446812' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-4301316.jpg?tf=1200x' alt='Ni Black Mirror ni The Crown: así es la nueva serie británica que arrasa en Netflix' />
     </a>
 </div>
 
