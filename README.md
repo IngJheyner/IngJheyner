@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-1446905'>La razón por la que nunca deberías compartir datos médicos con ChatGPT o Grok, según los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-1446905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-4301462.jpg?tf=1200x' alt='La razón por la que nunca deberías compartir datos médicos con ChatGPT o Grok, según los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-digi-nadie-te-va-subir-tarifa-estafa-1446930'>Cuidado si eres cliente de DIGI: nadie te va a subir la tarifa, es una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-eres-cliente-digi-nadie-te-va-subir-tarifa-estafa-1446930' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-eres-cliente-digi-nadie-te-va-subir-tarifa-estafa-4301520.jpg?tf=1200x' alt='Cuidado si eres cliente de DIGI: nadie te va a subir la tarifa, es una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-utilices-copilot-dispuesto-todo-conseguirlo-1446895'>Microsoft quiere que utilices Copilot, y está dispuesto a todo para conseguirlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-utilices-copilot-dispuesto-todo-conseguirlo-1446895' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-quiere-utilices-copilot-dispuesto-todo-conseguirlo-4301492.jpg?tf=1200x' alt='Microsoft quiere que utilices Copilot, y está dispuesto a todo para conseguirlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-whatsapp-telegram-holandeses-pasan-signal-tal-vez-todos-deberiamos-hacerlo-1446856'>Adiós WhatsApp y Telegram, los holandeses se pasan a Signal y tal vez todos deberíamos hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-whatsapp-telegram-holandeses-pasan-signal-tal-vez-todos-deberiamos-hacerlo-1446856' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-whatsapp-telegram-holandeses-pasan-signal-tal-vez-todos-deberiamos-hacerlo-4301440.jpg?tf=1200x' alt='Adiós WhatsApp y Telegram, los holandeses se pasan a Signal y tal vez todos deberíamos hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/teams-recibe-funcion-muy-esperada-muchos-asombraran-no-existiera-antes-1446924'>Teams recibe una función muy esperada que muchos se asombrarán de que no existiera antes</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/teams-recibe-funcion-muy-esperada-muchos-asombraran-no-existiera-antes-1446924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/teams-4301514.jpg?tf=1200x' alt='Teams recibe una función muy esperada que muchos se asombrarán de que no existiera antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/chatgpt-editar-codigo-directamente-importante-limitacion-1446934'>ChatGPT ahora puede editar código directamente, aunque con una importante limitación</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/chatgpt-editar-codigo-directamente-importante-limitacion-1446934' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/codigo-programacion-macos-chatgpt-4301521.jpg?tf=1200x' alt='ChatGPT ahora puede editar código directamente, aunque con una importante limitación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/israel-ha-creado-peligroso-chatgpt-datos-vigilancia-palestina-ia-amplifica-poder-1446892'>Israel ha creado un peligroso ChatGPT con datos de vigilancia de Palestina: "La IA amplifica el poder"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/israel-ha-creado-peligroso-chatgpt-datos-vigilancia-palestina-ia-amplifica-poder-1446892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-datos-vigilancia-palestina-4301454.jpg?tf=1200x' alt='Israel ha creado un peligroso ChatGPT con datos de vigilancia de Palestina: "La IA amplifica el poder"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/laliga-cloudflare-rootedcon-guia-entender-bloqueos-iptv-guerra-futbol-gratis-espana-1446879'>LaLiga, Cloudflare o RootedCON: guía para entender los bloqueos a las IPTV y la guerra del futbol gratis en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/laliga-cloudflare-rootedcon-guia-entender-bloqueos-iptv-guerra-futbol-gratis-espana-1446879' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-cloudflare-rootedcon-4301420.jpg?tf=1200x' alt='LaLiga, Cloudflare o RootedCON: guía para entender los bloqueos a las IPTV y la guerra del futbol gratis en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/tengo-movistar-no-me-gusta-futbol-ni-me-he-enterado-bloqueos-iptv-mi-secreto-1446877'>Tengo Movistar, no me gusta el fútbol, y ni me he enterado de los bloqueos a las IPTV: este es mi secreto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/tengo-movistar-no-me-gusta-futbol-ni-me-he-enterado-bloqueos-iptv-mi-secreto-1446877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290500.jpg?tf=1200x' alt='Tengo Movistar, no me gusta el fútbol, y ni me he enterado de los bloqueos a las IPTV: este es mi secreto' />
     </a>
 </div>
 
