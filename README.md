@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-golpe-rebajan-gafas-vr-alternativas-meta-dejan-baratas-nunca-1446894'>AliExpress da el golpe: rebajan las gafas VR alternativas a las de Meta y las dejan más baratas que nunca</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-golpe-rebajan-gafas-vr-alternativas-meta-dejan-baratas-nunca-1446894' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pico-4-ultra-4301612.jpg?tf=1200x' alt='AliExpress da el golpe: rebajan las gafas VR alternativas a las de Meta y las dejan más baratas que nunca' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-conseguirlo-nueva-ia-qwen-ya-supera-deepseek-chatgpt-1446837'>China vuelve a conseguirlo con su nueva IA: Qwen ya supera a DeepSeek y ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-conseguirlo-nueva-ia-qwen-ya-supera-deepseek-chatgpt-1446837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/qwen-ia-china-4301396.jpg?tf=1200x' alt='China vuelve a conseguirlo con su nueva IA: Qwen ya supera a DeepSeek y ChatGPT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/duro-golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928'>Duro golpe a Elon Muks y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/duro-golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-4301556.jpg?tf=1200x' alt='Duro golpe a Elon Muks y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-eres-cliente-preparate-llegan-cambios-radicales-1446940'>Giro de 180 grados en Movistar Plus+: si eres cliente, prepárate, llegan cambios radicales</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-eres-cliente-preparate-llegan-cambios-radicales-1446940' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4301567.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: si eres cliente, prepárate, llegan cambios radicales' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-hartos-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870'>Los astronautas de la NASA hartos de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronautas-nasa-hartos-elon-musk-cuando-tengas-valor-ven-hablar-nosotros-1444870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nasa-4300999.jpg?tf=1200x' alt='Los astronautas de la NASA hartos de Elon Musk: "Cuando tengas valor, ven a hablar con nosotros"' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canales-tv-gratis-para-todos-1439551'>Movistar Plus+ dispuesta a todo: activa el modo "3 por 1" para todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-regala-canales-tv-gratis-para-todos-1439551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/regalo-movistar-plus-todos-clientes-4301005.jpg?tf=1200x' alt='Movistar Plus+ dispuesta a todo: activa el modo "3 por 1" para todos sus clientes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-wozniak-cofundador-apple-arremete-elon-musk-no-tiene-cabeza-1446914'>Steve Wozniak, cofundador de Apple, arremete contra Elon Musk: "No sé qué tiene en la cabeza"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-wozniak-cofundador-apple-arremete-elon-musk-no-tiene-cabeza-1446914' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-arremete-elon-musk-no-tiene-cabeza-4301481.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, arremete contra Elon Musk: "No sé qué tiene en la cabeza"' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/rootedcon-cerca-laliga-javier-tebas-bloqueos-iptv-podrian-acabar-fin-semana-1446965'>RootedCON cerca a la LaLiga de Javier Tebas y los bloqueos a las IPTV podrían acabar este fin de semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/rootedcon-cerca-laliga-javier-tebas-bloqueos-iptv-podrian-acabar-fin-semana-1446965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rootedcon-cerca-laliga-javier-tebas-bloqueos-iptv-podrian-acabar-fin-semana-4301613.jpg?tf=1200x' alt='RootedCON cerca a la LaLiga de Javier Tebas y los bloqueos a las IPTV podrían acabar este fin de semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-1446905'>La razón por la que nunca deberías compartir datos médicos con ChatGPT o Grok, según los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-1446905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/razon-nunca-deberias-compartir-datos-medicos-chatgpt-grok-expertos-4301462.jpg?tf=1200x' alt='La razón por la que nunca deberías compartir datos médicos con ChatGPT o Grok, según los expertos' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/autoridades-alerta-estafa-bancaria-hace-estragos-europa-podria-llegar-espana-1446925'>Las autoridades en alerta: la estafa bancaria que hace estragos en Europa ¿podría llegar a España?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/autoridades-alerta-estafa-bancaria-hace-estragos-europa-podria-llegar-espana-1446925' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/autoridades-alerta-estafa-bancaria-hace-estragos-europa-podria-llegar-espana-4301494.jpg?tf=1200x' alt='Las autoridades en alerta: la estafa bancaria que hace estragos en Europa ¿podría llegar a España?' />
     </a>
 </div>
 
