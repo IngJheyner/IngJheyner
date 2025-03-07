@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795'>Canadá planta cara a Elon Musk: aranceles del 100% para los Tesla y contratos millonarios de Starlink a la basura</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-planta-cara-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-4301269.jpg?tf=1200x' alt='Canadá planta cara a Elon Musk: aranceles del 100% para los Tesla y contratos millonarios de Starlink a la basura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773'>Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-1446773' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/comunicado-urgente-movistar-cambiar-viejo-router-hgu-todas-tarifas-fibra-4301277.jpg?tf=1200x' alt='Comunicado urgente de Movistar: cambiar el viejo router HGU en todas sus tarifas de fibra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-1446738'>El coche eléctrico listo para su despegue definitivo: "Están listas para pasar del laboratorio al mundo real"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-1446738' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-listo-despegue-definitivo-estan-listas-pasar-laboratorio-mundo-real-4301256.jpg?tf=1200x' alt='El coche eléctrico listo para su despegue definitivo: "Están listas para pasar del laboratorio al mundo real"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-solo-ricos-openai-podria-cobrar-casi-20000-euros-mes-inteligencia-artificial-avanzada-1446772'>¿IA solo para ricos? OpenAI podría cobrar casi 20.000 euros al mes por inteligencia artificial más avanzada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-solo-ricos-openai-podria-cobrar-casi-20000-euros-mes-inteligencia-artificial-avanzada-1446772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4301257.jpg?tf=1200x' alt='¿IA solo para ricos? OpenAI podría cobrar casi 20.000 euros al mes por inteligencia artificial más avanzada' />
     </a>
 </div>
 
