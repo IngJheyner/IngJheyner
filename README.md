@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/mentira-elon-musk-spacex-satelites-starlink-no-son-seguros-podrian-caer-cielo-1446848'>La mentira de Elon Musk y SpaceX: los satélites Starlink no son seguros y podrían caer del cielo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/mentira-elon-musk-spacex-satelites-starlink-no-son-seguros-podrian-caer-cielo-1446848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/satelites-starlink-cayendo-cielo-4301390.jpg?tf=1200x' alt='La mentira de Elon Musk y SpaceX: los satélites Starlink no son seguros y podrían caer del cielo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/creador-spotify-premium-pirata-revela-apk-volvera-funcionar-no-hay-nada-pueda-hacer-arreglarlo-1446850'>El creador de Spotify Premium pirata revela si el APK volverá a funcionar: “No hay nada que pueda hacer para arreglarlo”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/creador-spotify-premium-pirata-revela-apk-volvera-funcionar-no-hay-nada-pueda-hacer-arreglarlo-1446850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/creador-spotify-premium-pirata-revela-apk-volvera-funcionar-no-hay-nada-pueda-hacer-arreglarlo-4301371.jpg?tf=1200x' alt='El creador de Spotify Premium pirata revela si el APK volverá a funcionar: “No hay nada que pueda hacer para arreglarlo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amira-robot-ultrarrealista-mwc-ha-dejado-todos-boca-abierta-1446834'>Así es Amira, el robot ultrarrealista del MWC que ha dejado a todos con la boca abierta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amira-robot-ultrarrealista-mwc-ha-dejado-todos-boca-abierta-1446834' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amira-robot-ultrarrealista-mwc-4301361.jpg?tf=1200x' alt='Así es Amira, el robot ultrarrealista del MWC que ha dejado a todos con la boca abierta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170'>Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-face-id-nueva-tecnologia-acabara-notch-camaras-perforadas-pantalla-1446170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/face-id-iphone-4301012.jpg?tf=1200x' alt='Adiós al Face ID: esta nueva tecnología acabará con el notch y las cámaras perforadas en pantalla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/protagonistas-sombra-marcas-nunca-habias-oido-hablar-nos-han-sorprendido-mobile-world-congress-1446423'>Protagonistas en la sombra: marcas de las que nunca habías oído hablar que nos han sorprendido en el Mobile World Congress</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/protagonistas-sombra-marcas-nunca-habias-oido-hablar-nos-han-sorprendido-mobile-world-congress-1446423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marcas-desconocidas-mwc-2025-4301239.jpg?tf=1200x' alt='Protagonistas en la sombra: marcas de las que nunca habías oído hablar que nos han sorprendido en el Mobile World Congress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686'>Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-1446686' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-cofundador-apple-muy-critico-inteligencia-artificial-confio-i-pero-no-4301019.jpg?tf=1200x' alt='Steve Wozniak, cofundador de Apple, muy crítico con la inteligencia artificial: “Confío en la I, pero no en la A”' />
     </a>
 </div>
 
