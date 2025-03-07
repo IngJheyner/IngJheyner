@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/teams-recibe-funcion-muy-esperada-muchos-asombraran-no-existiera-antes-1446924'>Teams recibe una función muy esperada que muchos se asombrarán de que no existiera antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/teams-recibe-funcion-muy-esperada-muchos-asombraran-no-existiera-antes-1446924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/teams-4301514.jpg?tf=1200x' alt='Teams recibe una función muy esperada que muchos se asombrarán de que no existiera antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/chatgpt-editar-codigo-directamente-importante-limitacion-1446934'>ChatGPT ahora puede editar código directamente, aunque con una importante limitación</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/chatgpt-editar-codigo-directamente-importante-limitacion-1446934' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/codigo-programacion-macos-chatgpt-4301521.jpg?tf=1200x' alt='ChatGPT ahora puede editar código directamente, aunque con una importante limitación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/israel-ha-creado-peligroso-chatgpt-datos-vigilancia-palestina-ia-amplifica-poder-1446892'>Israel ha creado un peligroso ChatGPT con datos de vigilancia de Palestina: "La IA amplifica el poder"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/israel-ha-creado-peligroso-chatgpt-datos-vigilancia-palestina-ia-amplifica-poder-1446892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-datos-vigilancia-palestina-4301454.jpg?tf=1200x' alt='Israel ha creado un peligroso ChatGPT con datos de vigilancia de Palestina: "La IA amplifica el poder"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/tengo-movistar-no-me-gusta-futbol-ni-me-he-enterado-bloqueos-iptv-mi-secreto-1446877'>Tengo Movistar, no me gusta el fútbol, y ni me he enterado de los bloqueos a las IPTV: este es mi secreto</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/tengo-movistar-no-me-gusta-futbol-ni-me-he-enterado-bloqueos-iptv-mi-secreto-1446877' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/movistar-plus-4290500.jpg?tf=1200x' alt='Tengo Movistar, no me gusta el fútbol, y ni me he enterado de los bloqueos a las IPTV: este es mi secreto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/eres-genio-siglo-xxi-elon-musk-te-busca-semanas-laborales-120-horas-cobrar-euro-1446862'>¿Eres un genio del siglo XXI? Elon Musk te busca: semanas laborales de 120 horas y sin cobrar un euro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/eres-genio-siglo-xxi-elon-musk-te-busca-semanas-laborales-120-horas-cobrar-euro-1446862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/palo-elon-musk-guerra-sam-altman-openai-realidad-no-tienen-dinero-4300443.jpg?tf=1200x' alt='¿Eres un genio del siglo XXI? Elon Musk te busca: semanas laborales de 120 horas y sin cobrar un euro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/150-modos-deportivos-oxigeno-sangre-precio-risa-xiaomi-revienta-precio-smartwatch-barato-1446825'>150 modos deportivos, oxígeno en sangre y precio de risa: Xiaomi revienta el precio de su smartwatch barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/150-modos-deportivos-oxigeno-sangre-precio-risa-xiaomi-revienta-precio-smartwatch-barato-1446825' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/redmi-watch-5-lite-1737659350582-4286297.jpg?tf=1200x' alt='150 modos deportivos, oxígeno en sangre y precio de risa: Xiaomi revienta el precio de su smartwatch barato' />
     </a>
 </div>
 
