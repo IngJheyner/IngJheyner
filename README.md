@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-aprendizaje-refuerzo-alertan-riesgos-desarrollo-ia-1446906'>Expertos en aprendizaje por refuerzo alertan sobre los riesgos del desarrollo de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-aprendizaje-refuerzo-alertan-riesgos-desarrollo-ia-1446906' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peligros-ia-4301499.jpg?tf=1200x' alt='Expertos en aprendizaje por refuerzo alertan sobre los riesgos del desarrollo de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ya-tiene-nuevo-exito-2025-comparan-john-wick-basado-manga-1446550'>Netflix ya tiene un nuevo éxito en 2025: lo comparan con John Wick y está basado en un manga</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-ya-tiene-nuevo-exito-2025-comparan-john-wick-basado-manga-1446550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-ya-tiene-nuevo-exito-2025-comparan-john-wick-basado-manga-4300761.jpg?tf=1200x' alt='Netflix ya tiene un nuevo éxito en 2025: lo comparan con John Wick y está basado en un manga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/innengine-revolucionario-motor-espanol-llegara-calles-70-pequeno-4-veces-potente-1446995'>INNengine, el revolucionario motor español, llegará a las calles: "70% más pequeño y 4 veces más potente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/innengine-revolucionario-motor-espanol-llegara-calles-70-pequeno-4-veces-potente-1446995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/innengine-revolucionario-motor-espanol-llegara-calles-70-pequeno-4-veces-potente-4301660.jpg?tf=1200x' alt='INNengine, el revolucionario motor español, llegará a las calles: "70% más pequeño y 4 veces más potente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/china-construye-propia-estacion-espacial-2-km-profundidad-mar-1446896'>China construye su propia "estación espacial" a 2 km de profundidad bajo el mar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/china-construye-propia-estacion-espacial-2-km-profundidad-mar-1446896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/recreacion-como-seria-estacion-espacial-submarina-proteus-4301469.jpg?tf=1200x' alt='China construye su propia "estación espacial" a 2 km de profundidad bajo el mar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-1446812'>Ni Black Mirror ni The Crown: así es la nueva serie británica que arrasa en Netflix</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-1446812' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-black-mirror-ni-crown-nueva-serie-britanica-arrasa-netflix-4301316.jpg?tf=1200x' alt='Ni Black Mirror ni The Crown: así es la nueva serie británica que arrasa en Netflix' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-app-herramienta-activar-windows-office-gratis-legal-1443772'>Hackers crean una aplicación para activar Windows y Office para siempre y afirman que es legal: "Lo usa hasta Microsoft"</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hackers-app-herramienta-activar-windows-office-gratis-legal-1443772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-codigos-windows-4301010.jpg?tf=1200x' alt='Hackers crean una aplicación para activar Windows y Office para siempre y afirman que es legal: "Lo usa hasta Microsoft"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-tiene-nuevo-objetivo-cambio-horario-1446985'>Elon Musk no para de meterse en charcos y tiene un nuevo objetivo: el cambio horario</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-tiene-nuevo-objetivo-cambio-horario-1446985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tiempo-reloj-elon-musk-4301621.jpg?tf=1200x' alt='Elon Musk no para de meterse en charcos y tiene un nuevo objetivo: el cambio horario' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-conseguirlo-nueva-ia-qwen-ya-supera-deepseek-chatgpt-1446837'>China vuelve a conseguirlo con su nueva IA: Qwen ya supera a DeepSeek y ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-conseguirlo-nueva-ia-qwen-ya-supera-deepseek-chatgpt-1446837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/qwen-ia-china-4301396.jpg?tf=1200x' alt='China vuelve a conseguirlo con su nueva IA: Qwen ya supera a DeepSeek y ChatGPT' />
     </a>
 </div>
 
