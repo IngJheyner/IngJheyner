@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-95-complejo-utilizaba-tres-sistemas-operativos-diferentes-durante-instalacion-1446270'>Windows 95 era tan complejo que utilizaba hasta tres sistemas operativos diferentes durante su instalación</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-95-complejo-utilizaba-tres-sistemas-operativos-diferentes-durante-instalacion-1446270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-95-varios-sistemas-operativos-4300259.jpg?tf=1200x' alt='Windows 95 era tan complejo que utilizaba hasta tres sistemas operativos diferentes durante su instalación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-quiere-romper-dependencia-gps-nos-deja-expuestos-1447045'>Estados Unidos quiere romper su dependencia del GPS: "Nos deja expuestos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-quiere-romper-dependencia-gps-nos-deja-expuestos-1447045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estados-unidos-quiere-romper-dependencia-gps-nos-deja-expuestos-4301710.jpg?tf=1200x' alt='Estados Unidos quiere romper su dependencia del GPS: "Nos deja expuestos"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/problemas-tesla-elon-musk-podrian-regresar-coches-botones-fisicos-1447033'>Problemas para Tesla y Elon Musk: podrían regresar los coches con botones físicos</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/problemas-tesla-elon-musk-podrian-regresar-coches-botones-fisicos-1447033' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-model-s-4301685.jpg?tf=1200x' alt='Problemas para Tesla y Elon Musk: podrían regresar los coches con botones físicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-lleva-40-anos-investigando-ia-tiene-muy-claro-hacen-openai-google-meta-robar-1446948'>Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen OpenAI, Google y Meta es robar”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-lleva-40-anos-investigando-ia-tiene-muy-claro-hacen-openai-google-meta-robar-1446948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peligros-usar-inteligencia-artificial-4301573.jpg?tf=1200x' alt='Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen OpenAI, Google y Meta es robar”' />
     </a>
 </div>
 
