@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-quiere-romper-dependencia-gps-nos-deja-expuestos-1447045'>Estados Unidos quiere romper su dependencia del GPS: "Nos deja expuestos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estados-unidos-quiere-romper-dependencia-gps-nos-deja-expuestos-1447045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estados-unidos-quiere-romper-dependencia-gps-nos-deja-expuestos-4301710.jpg?tf=1200x' alt='Estados Unidos quiere romper su dependencia del GPS: "Nos deja expuestos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/athena-intuitive-machines-aterriza-luna-costado-segunda-vez-1447044'>Parece una broma, pero no lo es: Intuitive Machines aterriza en la Luna de costado, por segunda vez</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/athena-intuitive-machines-aterriza-luna-costado-segunda-vez-1447044' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-broma-pero-no-intuitive-machine-aterriza-luna-costado-segunda-vez-4301673.jpg?tf=1200x' alt='Parece una broma, pero no lo es: Intuitive Machines aterriza en la Luna de costado, por segunda vez' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-lleva-40-anos-investigando-ia-tiene-muy-claro-hacen-openai-google-meta-robar-1446948'>Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen OpenAI, Google y Meta es robar”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-lleva-40-anos-investigando-ia-tiene-muy-claro-hacen-openai-google-meta-robar-1446948' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peligros-usar-inteligencia-artificial-4301573.jpg?tf=1200x' alt='Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen OpenAI, Google y Meta es robar”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/teclado-moviles-android-sufre-cambio-inesperado-no-va-gustarte-1447032'>El teclado de los móviles Android sufre un cambio inesperado que no va a gustarte</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/teclado-moviles-android-sufre-cambio-inesperado-no-va-gustarte-1447032' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/03/gboard-2661455.jpg?tf=1200x' alt='El teclado de los móviles Android sufre un cambio inesperado que no va a gustarte' />
     </a>
 </div>
 
