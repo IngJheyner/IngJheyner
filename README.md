@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/ultima-beta-android-16-destroza-baterias-algunos-usuarios-cargan-dos-veces-dia-1447138'>La última beta de Android 16 destroza las baterías: algunos usuarios cargan dos veces al día</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/ultima-beta-android-16-destroza-baterias-algunos-usuarios-cargan-dos-veces-dia-1447138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='La última beta de Android 16 destroza las baterías: algunos usuarios cargan dos veces al día' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-copilot-nativo-windows-11-ahora-rapido-consume-menos-ram-1447137'>Microsoft lanza un Copilot nativo en Windows 11: ahora es más rápido y consume menos RAM</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-copilot-nativo-windows-11-ahora-rapido-consume-menos-ram-1447137' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copilot-nativo-windows-11-4301814.jpg?tf=1200x' alt='Microsoft lanza un Copilot nativo en Windows 11: ahora es más rápido y consume menos RAM' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121'>Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-calendar_0.jpg?tf=1200x' alt='Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117'>El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-eeuu-4265073.jpg?tf=1200x' alt='El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio' />
     </a>
 </div>
 
