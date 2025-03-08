@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-puedes-enemigo-he-cambiado-windows-11-parezca-funcione-como-windows-10-1445321'>Si no puedes con tu enemigo: así he cambiado Windows 11 para que se parezca y funcione como Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/no-puedes-enemigo-he-cambiado-windows-11-parezca-funcione-como-windows-10-1445321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-puedes-enemigo-he-cambiado-windows-11-parezca-funcione-como-windows-10-4298579.jpg?tf=1200x' alt='Si no puedes con tu enemigo: así he cambiado Windows 11 para que se parezca y funcione como Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/error-tapar-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759'>Tapas la cámara de su portátil, pero no te olvidas de otra cosa igual (o más) importante</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/error-tapar-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-webcam-ordenador-portatil-4301020.jpg?tf=1200x' alt='Tapas la cámara de su portátil, pero no te olvidas de otra cosa igual (o más) importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-movil-deberias-desactivar-ya-evitar-riesgos-privacidad-cuentas-bancarias-1445534'>La función del móvil que deberías desactivar ya para evitar riesgos en tu privacidad y cuentas bancarias</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-movil-deberias-desactivar-ya-evitar-riesgos-privacidad-cuentas-bancarias-1445534' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funcion-movil-deberias-desactivar-ya-evitar-riesgos-privacidad-cuentas-bancarias-4299008.jpg?tf=1200x' alt='La función del móvil que deberías desactivar ya para evitar riesgos en tu privacidad y cuentas bancarias' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-saber-cable-usb-ha-sido-manipulado-hackers-1445298'>Cómo saber si un cable USB ha sido manipulado por los hackers</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/como-saber-cable-usb-ha-sido-manipulado-hackers-1445298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-cable-usb-ha-sido-manipulado-hackers-4298551.jpg?tf=1200x' alt='Cómo saber si un cable USB ha sido manipulado por los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mejores-funciones-whatsapp-casi-nadie-conoce-ocultar-estado-contacto-especifico-1444057'>Es una de las mejores funciones de WhatsApp y casi nadie la conoce: ocultar tu estado a un contacto específico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/mejores-funciones-whatsapp-casi-nadie-conoce-ocultar-estado-contacto-especifico-1444057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mejores-funciones-whatsapp-casi-nadie-conoce-ocultar-estado-contacto-especifico-4296366.jpg?tf=1200x' alt='Es una de las mejores funciones de WhatsApp y casi nadie la conoce: ocultar tu estado a un contacto específico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/expertos-iptv-confirman-peor-escenarios-espana-desastre-puede-ir-peor-1446804'>Expertos en IPTV confirman el peor de los escenarios para España: "Un desastre que puede ir a peor"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/expertos-iptv-confirman-peor-escenarios-espana-desastre-puede-ir-peor-1446804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-iptv-espana-4301594.jpg?tf=1200x' alt='Expertos en IPTV confirman el peor de los escenarios para España: "Un desastre que puede ir a peor"' />
     </a>
 </div>
 
