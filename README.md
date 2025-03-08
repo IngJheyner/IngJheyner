@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117'>El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-eeuu-4265073.jpg?tf=1200x' alt='El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497'>5 películas biográficas famosas que tienen muy poco de hechos reales</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-4297117.jpg?tf=1200x' alt='5 películas biográficas famosas que tienen muy poco de hechos reales' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490'>Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-4297113.jpg?tf=1200x' alt='Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-trabaja-ia-propia-ya-rivaliza-openai-anthropic-1447105'>Microsoft trabaja en una IA propia que ya rivaliza con OpenAI y Anthropic</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-trabaja-ia-propia-ya-rivaliza-openai-anthropic-1447105' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-ia-4301774.jpg?tf=1200x' alt='Microsoft trabaja en una IA propia que ya rivaliza con OpenAI y Anthropic' />
     </a>
 </div>
 
