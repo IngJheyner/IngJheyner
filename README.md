@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-iphone-samsung-galaxy-no-convence-mayoria-usuarios-consideran-poco-util-1447136'>¡La IA en iPhone y Samsung Galaxy no convence! La mayoría de los usuarios la consideran poco útil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-iphone-samsung-galaxy-no-convence-mayoria-usuarios-consideran-poco-util-1447136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4301812.jpg?tf=1200x' alt='¡La IA en iPhone y Samsung Galaxy no convence! La mayoría de los usuarios la consideran poco útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133'>El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497'>5 películas biográficas famosas que tienen muy poco de hechos reales</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-4297117.jpg?tf=1200x' alt='5 películas biográficas famosas que tienen muy poco de hechos reales' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-prepara-controles-temperatura-adios-frio-calor-extremo-coche-1447109'>Android Auto prepara controles de temperatura: adiós al frío o calor extremo en el coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-prepara-controles-temperatura-adios-frio-calor-extremo-coche-1447109' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/temperatura-android-auto-4301777.jpg?tf=1200x' alt='Android Auto prepara controles de temperatura: adiós al frío o calor extremo en el coche' />
     </a>
 </div>
 
