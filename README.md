@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497'>5 películas biográficas famosas que tienen muy poco de hechos reales</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-4297117.jpg?tf=1200x' alt='5 películas biográficas famosas que tienen muy poco de hechos reales' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-prepara-controles-temperatura-adios-frio-calor-extremo-coche-1447109'>Android Auto prepara controles de temperatura: adiós al frío o calor extremo en el coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-prepara-controles-temperatura-adios-frio-calor-extremo-coche-1447109' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/temperatura-android-auto-4301777.jpg?tf=1200x' alt='Android Auto prepara controles de temperatura: adiós al frío o calor extremo en el coche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-para-empezar-1444966'>Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-para-empezar-1444966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programadores-veteranos-4301728.jpg?tf=1200x' alt='Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490'>Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-4297113.jpg?tf=1200x' alt='Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-trabaja-ia-propia-ya-rivaliza-openai-anthropic-1447105'>Microsoft trabaja en una IA propia que ya rivaliza con OpenAI y Anthropic</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-trabaja-ia-propia-ya-rivaliza-openai-anthropic-1447105' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-ia-4301774.jpg?tf=1200x' alt='Microsoft trabaja en una IA propia que ya rivaliza con OpenAI y Anthropic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/vuelve-anonymous-objetivo-elon-musk-1443808'>Elon Musk "obliga" a Anonymous a despertar de su letargo</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/vuelve-anonymous-objetivo-elon-musk-1443808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-anonymous-4301568.jpg?tf=1200x' alt='Elon Musk "obliga" a Anonymous a despertar de su letargo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/problemas-google-maps-error-hace-perder-usuarios-anos-historial-ubicaciones-1447100'>Problemas en Google Maps: un error hace perder a los usuarios años de historial de ubicaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/problemas-google-maps-error-hace-perder-usuarios-anos-historial-ubicaciones-1447100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Problemas en Google Maps: un error hace perder a los usuarios años de historial de ubicaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-podria-estar-secuestrando-memoria-ram-pc-puedes-liberarla-1444486'>Windows podría estar secuestrando la memoria RAM de tu PC y así puedes liberarla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/windows-podria-estar-secuestrando-memoria-ram-pc-puedes-liberarla-1444486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-ram-peligro-4297075.jpg?tf=1200x' alt='Windows podría estar secuestrando la memoria RAM de tu PC y así puedes liberarla' />
     </a>
 </div>
 
