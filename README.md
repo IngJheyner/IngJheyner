@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133'>El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121'>Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-calendar_0.jpg?tf=1200x' alt='Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-prepara-controles-temperatura-adios-frio-calor-extremo-coche-1447109'>Android Auto prepara controles de temperatura: adiós al frío o calor extremo en el coche</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-prepara-controles-temperatura-adios-frio-calor-extremo-coche-1447109' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/temperatura-android-auto-4301777.jpg?tf=1200x' alt='Android Auto prepara controles de temperatura: adiós al frío o calor extremo en el coche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-para-empezar-1444966'>Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-para-empezar-1444966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programadores-veteranos-4301728.jpg?tf=1200x' alt='Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
     </a>
 </div>
 
