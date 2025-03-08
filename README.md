@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121'>Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-calendar_0.jpg?tf=1200x' alt='Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117'>El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-eeuu-4265073.jpg?tf=1200x' alt='El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-para-empezar-1444966'>Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-para-empezar-1444966' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programadores-veteranos-4301728.jpg?tf=1200x' alt='Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490'>Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-4297113.jpg?tf=1200x' alt='Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada' />
     </a>
 </div>
 
