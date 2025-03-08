@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490'>Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-1444490' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-comprimir-documento-pdf-perder-calidad-gratis-instalar-nada-4297113.jpg?tf=1200x' alt='Cómo comprimir un documento PDF sin perder calidad, gratis y sin instalar nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-trabaja-ia-propia-ya-rivaliza-openai-anthropic-1447105'>Microsoft trabaja en una IA propia que ya rivaliza con OpenAI y Anthropic</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-trabaja-ia-propia-ya-rivaliza-openai-anthropic-1447105' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-ia-4301774.jpg?tf=1200x' alt='Microsoft trabaja en una IA propia que ya rivaliza con OpenAI y Anthropic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/vuelve-anonymous-objetivo-elon-musk-1443808'>Elon Musk "obliga" a Anonymous a despertar de su letargo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/vuelve-anonymous-objetivo-elon-musk-1443808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-anonymous-4301568.jpg?tf=1200x' alt='Elon Musk "obliga" a Anonymous a despertar de su letargo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/problemas-google-maps-error-hace-perder-usuarios-anos-historial-ubicaciones-1447100'>Problemas en Google Maps: un error hace perder a los usuarios años de historial de ubicaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/problemas-google-maps-error-hace-perder-usuarios-anos-historial-ubicaciones-1447100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/06/ni-reiniciar-ni-limpiar-cache-truco-infalible-google-maps-funcione-siempre-perfecto-fluido-3508614.jpg?tf=1200x' alt='Problemas en Google Maps: un error hace perder a los usuarios años de historial de ubicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-podria-estar-secuestrando-memoria-ram-pc-puedes-liberarla-1444486'>Windows podría estar secuestrando la memoria RAM de tu PC y así puedes liberarla</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/windows-podria-estar-secuestrando-memoria-ram-pc-puedes-liberarla-1444486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-ram-peligro-4297075.jpg?tf=1200x' alt='Windows podría estar secuestrando la memoria RAM de tu PC y así puedes liberarla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-max-tegmark-yoshua-bengio-advertencia-inteligencia-artificial-autonoma-1441066'>Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-max-tegmark-yoshua-bengio-advertencia-inteligencia-artificial-autonoma-1441066' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-malvado-inteligencia-artificial-4301506.jpg?tf=1200x' alt='Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/pantalla-bloqueo-movil-android-16-1447094'>Cambio radical en la pantalla de bloqueo de tu móvil Android: Google va a estrenar una gran novedad</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/pantalla-bloqueo-movil-android-16-1447094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-radical-pantalla-bloqueo-movil-android-google-va-estrenar-gran-novedad-4301711.jpg?tf=1200x' alt='Cambio radical en la pantalla de bloqueo de tu móvil Android: Google va a estrenar una gran novedad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/he-convertido-viejo-pendrive-usb-herramienta-definitiva-rescatar-cualquier-pc-1444489'>He convertido un viejo pendrive USB en la herramienta definitiva para rescatar cualquier PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/he-convertido-viejo-pendrive-usb-herramienta-definitiva-rescatar-cualquier-pc-1444489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-convertido-viejo-pendrive-usb-herramienta-definitiva-rescatar-cualquier-pc-4297103.jpg?tf=1200x' alt='He convertido un viejo pendrive USB en la herramienta definitiva para rescatar cualquier PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/siri-no-sera-inteligente-ano-apple-retrasa-mejoras-avanzadas-2026-1447086'>Siri no será más inteligente este año: Apple retrasa sus mejoras avanzadas hasta 2026</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/siri-no-sera-inteligente-ano-apple-retrasa-mejoras-avanzadas-2026-1447086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/siri-apple-ia-4301758.jpg?tf=1200x' alt='Siri no será más inteligente este año: Apple retrasa sus mejoras avanzadas hasta 2026' />
     </a>
 </div>
 
