@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-copilot-nativo-windows-11-ahora-rapido-consume-menos-ram-1447137'>Microsoft lanza un Copilot nativo en Windows 11: ahora es más rápido y consume menos RAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-copilot-nativo-windows-11-ahora-rapido-consume-menos-ram-1447137' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copilot-nativo-windows-11-4301814.jpg?tf=1200x' alt='Microsoft lanza un Copilot nativo en Windows 11: ahora es más rápido y consume menos RAM' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-iphone-samsung-galaxy-no-convence-mayoria-usuarios-consideran-poco-util-1447136'>¡La IA en iPhone y Samsung Galaxy no convence! La mayoría de los usuarios la consideran poco útil</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-iphone-samsung-galaxy-no-convence-mayoria-usuarios-consideran-poco-util-1447136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4301812.jpg?tf=1200x' alt='¡La IA en iPhone y Samsung Galaxy no convence! La mayoría de los usuarios la consideran poco útil' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117'>El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-trump-intensifica-presion-exige-google-vender-chrome-monopolio-1447117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-chrome-eeuu-4265073.jpg?tf=1200x' alt='El Gobierno de Trump intensifica la presión: exige a Google vender Chrome por monopolio' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497'>5 películas biográficas famosas que tienen muy poco de hechos reales</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-1444497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-peliculas-biograficas-famosas-tienen-muy-poco-hechos-reales-4297117.jpg?tf=1200x' alt='5 películas biográficas famosas que tienen muy poco de hechos reales' />
     </a>
 </div>
 
