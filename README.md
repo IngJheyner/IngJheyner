@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-saber-cable-usb-ha-sido-manipulado-hackers-1445298'>Cómo saber si un cable USB ha sido manipulado por los hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/como-saber-cable-usb-ha-sido-manipulado-hackers-1445298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-cable-usb-ha-sido-manipulado-hackers-4298551.jpg?tf=1200x' alt='Cómo saber si un cable USB ha sido manipulado por los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/mejores-funciones-whatsapp-casi-nadie-conoce-ocultar-estado-contacto-especifico-1444057'>Es una de las mejores funciones de WhatsApp y casi nadie la conoce: ocultar tu estado a un contacto específico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/mejores-funciones-whatsapp-casi-nadie-conoce-ocultar-estado-contacto-especifico-1444057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/mejores-funciones-whatsapp-casi-nadie-conoce-ocultar-estado-contacto-especifico-4296366.jpg?tf=1200x' alt='Es una de las mejores funciones de WhatsApp y casi nadie la conoce: ocultar tu estado a un contacto específico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/expertos-iptv-confirman-peor-escenarios-espana-desastre-puede-ir-peor-1446804'>Expertos en IPTV confirman el peor de los escenarios para España: "Un desastre que puede ir a peor"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/expertos-iptv-confirman-peor-escenarios-espana-desastre-puede-ir-peor-1446804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-iptv-espana-4301594.jpg?tf=1200x' alt='Expertos en IPTV confirman el peor de los escenarios para España: "Un desastre que puede ir a peor"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/instalar-windows-usb-linux-posible-como-puedes-hacerlo-1445316'>Instalar Windows en un USB desde Linux es posible: así es como puedes hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/instalar-windows-usb-linux-posible-como-puedes-hacerlo-1445316' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ejecutar-windows-linux-trucos-4299105.jpg?tf=1200x' alt='Instalar Windows en un USB desde Linux es posible: así es como puedes hacerlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/codigo-especial-desbloquea-cualquier-movil-cuando-no-tienes-codigo-pin-1446545'>Este código especial desbloquea cualquier móvil cuando no tienes su código PIN</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/codigo-especial-desbloquea-cualquier-movil-cuando-no-tienes-codigo-pin-1446545' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/codigo-especial-desbloquea-cualquier-movil-cuando-no-tienes-codigo-pin-4300756.jpg?tf=1200x' alt='Este código especial desbloquea cualquier móvil cuando no tienes su código PIN' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/nunca-habia-tenido-tan-limpia-mi-casa-pelos-mascota-eso-me-encanta-roborock-saros-10-1444792'>Nunca había tenido tan limpia mi casa de pelos de mascota y eso es lo que me encanta de la Roborock Saros 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/nunca-habia-tenido-tan-limpia-mi-casa-pelos-mascota-eso-me-encanta-roborock-saros-10-1444792' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/roborock-saros-10-4296984.jpg?tf=1200x' alt='Nunca había tenido tan limpia mi casa de pelos de mascota y eso es lo que me encanta de la Roborock Saros 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-prime-video-anuncia-primeras-series-dobladas-ia-1447054'>Palo a los doblajes con actores: Amazon Prime Video anuncia las primeras series dobladas con IA, entre ellas una española</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-prime-video-anuncia-primeras-series-dobladas-ia-1447054' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/palo-doblajes-actores-amazon-prime-video-anuncia-primeras-series-dobladas-ia-ellas-espanola-4301720.jpg?tf=1200x' alt='Palo a los doblajes con actores: Amazon Prime Video anuncia las primeras series dobladas con IA, entre ellas una española' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/millones-ninas-desconectadas-como-brecha-digital-genero-robando-futuro-1446375'>Millones de niñas desconectadas: así es como la brecha digital de género está robando su futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/millones-ninas-desconectadas-como-brecha-digital-genero-robando-futuro-1446375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ninas-brecha-digital-4301134.jpg?tf=1200x' alt='Millones de niñas desconectadas: así es como la brecha digital de género está robando su futuro' />
     </a>
 </div>
 
