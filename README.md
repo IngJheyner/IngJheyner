@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-movil-deberias-desactivar-ya-evitar-riesgos-privacidad-cuentas-bancarias-1445534'>La función del móvil que deberías desactivar ya para evitar riesgos en tu privacidad y cuentas bancarias</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/funcion-movil-deberias-desactivar-ya-evitar-riesgos-privacidad-cuentas-bancarias-1445534' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funcion-movil-deberias-desactivar-ya-evitar-riesgos-privacidad-cuentas-bancarias-4299008.jpg?tf=1200x' alt='La función del móvil que deberías desactivar ya para evitar riesgos en tu privacidad y cuentas bancarias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-amenaza-ucrania-cortar-comunicaciones-satelite-starlink-ue-busca-soluciones-1446153'>Elon Musk amenaza con dejar al ejército de Ucrania sin los satélites de Starlink y la UE busca soluciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-amenaza-ucrania-cortar-comunicaciones-satelite-starlink-ue-busca-soluciones-1446153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-amenaza-dejar-ucrania-comunicaciones-satelite-starlink-ue-busca-soluciones-4300130.jpg?tf=1200x' alt='Elon Musk amenaza con dejar al ejército de Ucrania sin los satélites de Starlink y la UE busca soluciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/como-saber-cable-usb-ha-sido-manipulado-hackers-1445298'>Cómo saber si un cable USB ha sido manipulado por los hackers</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/como-saber-cable-usb-ha-sido-manipulado-hackers-1445298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-saber-cable-usb-ha-sido-manipulado-hackers-4298551.jpg?tf=1200x' alt='Cómo saber si un cable USB ha sido manipulado por los hackers' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/expertos-iptv-confirman-peor-escenarios-espana-desastre-puede-ir-peor-1446804'>Expertos en IPTV confirman el peor de los escenarios para España: "Un desastre que puede ir a peor"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/expertos-iptv-confirman-peor-escenarios-espana-desastre-puede-ir-peor-1446804' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-iptv-espana-4301594.jpg?tf=1200x' alt='Expertos en IPTV confirman el peor de los escenarios para España: "Un desastre que puede ir a peor"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/instalar-windows-usb-linux-posible-como-puedes-hacerlo-1445316'>Instalar Windows en un USB desde Linux es posible: así es como puedes hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/instalar-windows-usb-linux-posible-como-puedes-hacerlo-1445316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ejecutar-windows-linux-trucos-4299105.jpg?tf=1200x' alt='Instalar Windows en un USB desde Linux es posible: así es como puedes hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/codigo-especial-desbloquea-cualquier-movil-cuando-no-tienes-codigo-pin-1446545'>Este código especial desbloquea cualquier móvil cuando no tienes su código PIN</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/codigo-especial-desbloquea-cualquier-movil-cuando-no-tienes-codigo-pin-1446545' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/codigo-especial-desbloquea-cualquier-movil-cuando-no-tienes-codigo-pin-4300756.jpg?tf=1200x' alt='Este código especial desbloquea cualquier móvil cuando no tienes su código PIN' />
     </a>
 </div>
 
