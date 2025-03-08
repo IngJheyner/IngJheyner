@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-podria-estar-secuestrando-memoria-ram-pc-puedes-liberarla-1444486'>Windows podría estar secuestrando la memoria RAM de tu PC y así puedes liberarla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/windows-podria-estar-secuestrando-memoria-ram-pc-puedes-liberarla-1444486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/memoria-ram-peligro-4297075.jpg?tf=1200x' alt='Windows podría estar secuestrando la memoria RAM de tu PC y así puedes liberarla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-max-tegmark-yoshua-bengio-advertencia-inteligencia-artificial-autonoma-1441066'>Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-max-tegmark-yoshua-bengio-advertencia-inteligencia-artificial-autonoma-1441066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-malvado-inteligencia-artificial-4301506.jpg?tf=1200x' alt='Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/pantalla-bloqueo-movil-android-16-1447094'>Cambio radical en la pantalla de bloqueo de tu móvil Android: Google va a estrenar una gran novedad</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/pantalla-bloqueo-movil-android-16-1447094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-radical-pantalla-bloqueo-movil-android-google-va-estrenar-gran-novedad-4301711.jpg?tf=1200x' alt='Cambio radical en la pantalla de bloqueo de tu móvil Android: Google va a estrenar una gran novedad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/he-convertido-viejo-pendrive-usb-herramienta-definitiva-rescatar-cualquier-pc-1444489'>He convertido un viejo pendrive USB en la herramienta definitiva para rescatar cualquier PC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/he-convertido-viejo-pendrive-usb-herramienta-definitiva-rescatar-cualquier-pc-1444489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-convertido-viejo-pendrive-usb-herramienta-definitiva-rescatar-cualquier-pc-4297103.jpg?tf=1200x' alt='He convertido un viejo pendrive USB en la herramienta definitiva para rescatar cualquier PC' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/siri-no-sera-inteligente-ano-apple-retrasa-mejoras-avanzadas-2026-1447086'>Siri no será más inteligente este año: Apple retrasa sus mejoras avanzadas hasta 2026</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/siri-no-sera-inteligente-ano-apple-retrasa-mejoras-avanzadas-2026-1447086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/siri-apple-ia-4301758.jpg?tf=1200x' alt='Siri no será más inteligente este año: Apple retrasa sus mejoras avanzadas hasta 2026' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/digi-movistar-masorange-evitar-bloqueos-iptv-pirateria-laliga-cloudflare-1443566'>Cómo evitar los bloqueos de LaLiga a las IPTV en Cloudflare impuestos por las operadoras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/digi-movistar-masorange-evitar-bloqueos-iptv-pirateria-laliga-cloudflare-1443566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/evitar-bloqueos-laliga-iptv-4301502.jpg?tf=1200x' alt='Cómo evitar los bloqueos de LaLiga a las IPTV en Cloudflare impuestos por las operadoras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/no-puedes-enemigo-he-cambiado-windows-11-parezca-funcione-como-windows-10-1445321'>Si no puedes con tu enemigo: así he cambiado Windows 11 para que se parezca y funcione como Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/no-puedes-enemigo-he-cambiado-windows-11-parezca-funcione-como-windows-10-1445321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/no-puedes-enemigo-he-cambiado-windows-11-parezca-funcione-como-windows-10-4298579.jpg?tf=1200x' alt='Si no puedes con tu enemigo: así he cambiado Windows 11 para que se parezca y funcione como Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/error-tapar-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759'>Tapas la cámara de su portátil, pero no te olvidas de otra cosa igual (o más) importante</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/error-tapar-camara-portatil-pero-no-olvida-otra-cosa-igual-importante-1444759' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-webcam-ordenador-portatil-4301020.jpg?tf=1200x' alt='Tapas la cámara de su portátil, pero no te olvidas de otra cosa igual (o más) importante' />
     </a>
 </div>
 
