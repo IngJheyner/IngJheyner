@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-urgente-tienes-movil-android-sonido-senal-telefono-podria-estar-hackeado-1446218'>Alerta urgente si tienes un móvil Android: este sonido es una señal de que tu teléfono podría estar hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-urgente-tienes-movil-android-sonido-senal-telefono-podria-estar-hackeado-1446218' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/alerta-importante-tienes-movil-android-sonido-senal-telefono-podria-estar-hackeado-4300246.jpg?tf=1200x' alt='Alerta urgente si tienes un móvil Android: este sonido es una señal de que tu teléfono podría estar hackeado' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-detectar-cuello-botella-pc-windows-como-eliminarlo-1443833'>Cómo detectar un cuello de botella en un PC con Windows y cómo eliminarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-detectar-cuello-botella-pc-windows-como-eliminarlo-1443833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-detectar-cuello-botella-pc-windows-como-eliminarlo-4295979.jpg?tf=1200x' alt='Cómo detectar un cuello de botella en un PC con Windows y cómo eliminarlo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/ultima-beta-android-16-destroza-baterias-algunos-usuarios-cargan-dos-veces-dia-1447138'>La última beta de Android 16 destroza las baterías: algunos usuarios cargan dos veces al día</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/ultima-beta-android-16-destroza-baterias-algunos-usuarios-cargan-dos-veces-dia-1447138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='La última beta de Android 16 destroza las baterías: algunos usuarios cargan dos veces al día' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/expertos-instaladores-comparten-lugares-donde-jamas-colocarian-router-wifi-ubicacion-ideal-1446276'>Expertos instaladores comparten los 5 lugares donde jamás colocarían el router WiFi (y la ubicación ideal)</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/expertos-instaladores-comparten-lugares-donde-jamas-colocarian-router-wifi-ubicacion-ideal-1446276' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-instaladores-comparten-5-lugares-donde-jamas-colocarian-router-wifi-ubicacion-ideal-4300276.jpg?tf=1200x' alt='Expertos instaladores comparten los 5 lugares donde jamás colocarían el router WiFi (y la ubicación ideal)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-copilot-nativo-windows-11-ahora-rapido-consume-menos-ram-1447137'>Microsoft lanza un Copilot nativo en Windows 11: ahora es más rápido y consume menos RAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-copilot-nativo-windows-11-ahora-rapido-consume-menos-ram-1447137' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copilot-nativo-windows-11-4301814.jpg?tf=1200x' alt='Microsoft lanza un Copilot nativo en Windows 11: ahora es más rápido y consume menos RAM' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-conoce-como-navaja-suiza-hackers-eticos-1443003'>¿Qué es Kali Linux y por qué se conoce como la 'navaja suiza de los hackers éticos'?</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-conoce-como-navaja-suiza-hackers-eticos-1443003' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/kali-linux-4293862.jpg?tf=1200x' alt='¿Qué es Kali Linux y por qué se conoce como la 'navaja suiza de los hackers éticos'?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-iphone-samsung-galaxy-no-convence-mayoria-usuarios-consideran-poco-util-1447136'>¡La IA en iPhone y Samsung Galaxy no convence! La mayoría de los usuarios la consideran poco útil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-iphone-samsung-galaxy-no-convence-mayoria-usuarios-consideran-poco-util-1447136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4301812.jpg?tf=1200x' alt='¡La IA en iPhone y Samsung Galaxy no convence! La mayoría de los usuarios la consideran poco útil' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/mwc-2025-analisis-feria-gama-baja-cuanto-lanzamientos-pero-premium-asistencia-negocios-1446424'>MWC 2025, el análisis: una feria de gama baja en cuanto a lanzamientos, pero premium en asistencia y negocios</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/mwc-2025-analisis-feria-gama-baja-cuanto-lanzamientos-pero-premium-asistencia-negocios-1446424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mwc-2025-4301686.jpg?tf=1200x' alt='MWC 2025, el análisis: una feria de gama baja en cuanto a lanzamientos, pero premium en asistencia y negocios' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133'>El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil' />
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-estrena-alquiler-ps5-pro-ps-vr2-portal-pero-ojo-letra-pequena-1447153'>Vuelco a las consolas: Sony estrena el alquiler de PS5 Pro, PS VR2 y Portal, pero ojo con la letra pequeña</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sony-estrena-alquiler-ps5-pro-ps-vr2-portal-pero-ojo-letra-pequena-1447153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelco-consolas-sony-estrena-alquiler-ps5-pro-ps-vr2-portal-pero-ojo-letra-pequena-4301829.jpg?tf=1200x' alt='Vuelco a las consolas: Sony estrena el alquiler de PS5 Pro, PS VR2 y Portal, pero ojo con la letra pequeña' />
     </a>
 </div>
 
