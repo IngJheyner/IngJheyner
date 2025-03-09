@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-peligro-elon-musk-ciencia-1446330'>Científicos de todo el mundo se unen contra Elon Musk: "Es un peligro para la buena ciencia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-peligro-elon-musk-ciencia-1446330' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-elon-musk-4301528.jpg?tf=1200x' alt='Científicos de todo el mundo se unen contra Elon Musk: "Es un peligro para la buena ciencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/abandonar-windows-linux-puedes-tener-dos-forma-realmente-sencilla-1445315'>¿Por qué abandonar Windows por Linux si puedes tener los dos de una forma realmente sencilla?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/abandonar-windows-linux-puedes-tener-dos-forma-realmente-sencilla-1445315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-windows-linux-4298561.jpg?tf=1200x' alt='¿Por qué abandonar Windows por Linux si puedes tener los dos de una forma realmente sencilla?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-funcion-oculta-crea-escudo-malware-pero-viene-desactivada-defecto-1444768'>Windows: esta función oculta crea un escudo contra el malware, pero viene desactivada por defecto</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/windows-funcion-oculta-crea-escudo-malware-pero-viene-desactivada-defecto-1444768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/malware-windows-11-4297685.jpg?tf=1200x' alt='Windows: esta función oculta crea un escudo contra el malware, pero viene desactivada por defecto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mismo-mensaje-whatsapp-varias-personas-necesidad-crear-grupo-1444053'>Cómo enviar un mismo mensaje de WhatsApp a varias personas sin necesidad de crear un grupo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mismo-mensaje-whatsapp-varias-personas-necesidad-crear-grupo-1444053' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-enviar-mismo-mensaje-whatsapp-varias-personas-necesidad-crear-grupo-4296350.jpg?tf=1200x' alt='Cómo enviar un mismo mensaje de WhatsApp a varias personas sin necesidad de crear un grupo' />
     </a>
 </div>
 
