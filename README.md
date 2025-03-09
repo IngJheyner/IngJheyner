@@ -52,7 +52,7 @@
 <div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206'>Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-4301924.jpg?tf=1200x' alt='Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-4301925.jpg?tf=1200x' alt='Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades' />
     </a>
 </div>
 
