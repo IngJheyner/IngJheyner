@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-windows-11-sea-menos-insoportable-he-encontrado-herramienta-hace-30-anos-1444493'>El truco para que Windows 11 sea menos insoportable lo he encontrado en una herramienta de hace 30 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/truco-windows-11-sea-menos-insoportable-he-encontrado-herramienta-hace-30-anos-1444493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trucos-microsoft-powertoys-4297106.jpg?tf=1200x' alt='El truco para que Windows 11 sea menos insoportable lo he encontrado en una herramienta de hace 30 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-ordenador-portatil-antiguo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo 100% gratis en un viejo portátil y ahora parece nuevo</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-ordenador-portatil-antiguo-chromeos-flex-1402728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-linux-portatil-4301547.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo 100% gratis en un viejo portátil y ahora parece nuevo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dragon-copilot-ia-microsoft-ayudara-medicos-tareas-clinicas-1447140'>Dragon Copilot: la IA de Microsoft que ayudará a los médicos con tareas clínicas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dragon-copilot-ia-microsoft-ayudara-medicos-tareas-clinicas-1447140' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dragon-copilot-4301816.jpg?tf=1200x' alt='Dragon Copilot: la IA de Microsoft que ayudará a los médicos con tareas clínicas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-peligro-elon-musk-ciencia-1446330'>Científicos de todo el mundo se unen contra Elon Musk: "Es un peligro para la buena ciencia"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/comunidad-cientifica-peligro-elon-musk-ciencia-1446330' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-elon-musk-4301528.jpg?tf=1200x' alt='Científicos de todo el mundo se unen contra Elon Musk: "Es un peligro para la buena ciencia"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/abandonar-windows-linux-puedes-tener-dos-forma-realmente-sencilla-1445315'>¿Por qué abandonar Windows por Linux si puedes tener los dos de una forma realmente sencilla?</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/abandonar-windows-linux-puedes-tener-dos-forma-realmente-sencilla-1445315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ordenador-portatil-windows-linux-4298561.jpg?tf=1200x' alt='¿Por qué abandonar Windows por Linux si puedes tener los dos de una forma realmente sencilla?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/apps-hacer-cosas-increibles-amazon-fire-tv-stick-ni-sabias-existian-1445303'>10 apps para hacer cosas increíbles con el Amazon Fire TV que ni sabías que existían</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/apps-hacer-cosas-increibles-amazon-fire-tv-stick-ni-sabias-existian-1445303' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/aplicaciones-amazon-fire-tv-stick-4298537.jpg?tf=1200x' alt='10 apps para hacer cosas increíbles con el Amazon Fire TV que ni sabías que existían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-cloudflare-iptv-1443963'>DAZN reacciona a los bloqueos de la LaLiga a las IPTV con una peculiar oferta</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/oferta-dazn-bloqueos-laliga-cloudflare-iptv-1443963' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oferta-dazn-4301518.jpg?tf=1200x' alt='DAZN reacciona a los bloqueos de la LaLiga a las IPTV con una peculiar oferta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-funcion-oculta-crea-escudo-malware-pero-viene-desactivada-defecto-1444768'>Windows: esta función oculta crea un escudo contra el malware, pero viene desactivada por defecto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/windows-funcion-oculta-crea-escudo-malware-pero-viene-desactivada-defecto-1444768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/malware-windows-11-4297685.jpg?tf=1200x' alt='Windows: esta función oculta crea un escudo contra el malware, pero viene desactivada por defecto' />
     </a>
 </div>
 
