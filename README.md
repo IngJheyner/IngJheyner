@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-urgente-tienes-movil-android-sonido-senal-telefono-podria-estar-hackeado-1446218'>Alerta urgente si tienes un móvil Android: este sonido es una señal de que tu teléfono podría estar hackeado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-urgente-tienes-movil-android-sonido-senal-telefono-podria-estar-hackeado-1446218' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/alerta-importante-tienes-movil-android-sonido-senal-telefono-podria-estar-hackeado-4300246.jpg?tf=1200x' alt='Alerta urgente si tienes un móvil Android: este sonido es una señal de que tu teléfono podría estar hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/ultima-beta-android-16-destroza-baterias-algunos-usuarios-cargan-dos-veces-dia-1447138'>La última beta de Android 16 destroza las baterías: algunos usuarios cargan dos veces al día</a></h4>
     <a href='https://computerhoy.20minutos.es/android/ultima-beta-android-16-destroza-baterias-algunos-usuarios-cargan-dos-veces-dia-1447138' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/bateria-movil-android-3304524.jpg?tf=1200x' alt='La última beta de Android 16 destroza las baterías: algunos usuarios cargan dos veces al día' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133'>El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/fin-acerca-nasa-apaga-instrumentos-voyager-extender-vida-util-1447133' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/voyager-1-3288337.jpg?tf=1200x' alt='El fin se acerca: la NASA apaga instrumentos de las Voyager para extender su vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121'>Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-calendar-actualiza-gemini-todo-nuevo-puede-hacer-ahora-gracias-ia-1447121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/09/google-calendar_0.jpg?tf=1200x' alt='Google Calendar se actualiza con Gemini: esto es todo lo nuevo que puede hacer ahora gracias a la IA' />
     </a>
 </div>
 
