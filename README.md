@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/energia/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-1447211'>España inicia una nueva era con SMART, nuestro primer reactor de plasma: energía limpia e ilimitada</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-1447211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-4301936.jpg?tf=1200x' alt='España inicia una nueva era con SMART, nuestro primer reactor de plasma: energía limpia e ilimitada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-1447207'>Las protestas en los concesionarios de Tesla se vuelven violentas: tiros y cócteles molotov</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-1447207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-4301926.jpg?tf=1200x' alt='Las protestas en los concesionarios de Tesla se vuelven violentas: tiros y cócteles molotov' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-iphone-ahora-parece-apple-maps-nuevo-diseno-1447190'>Google Maps en iPhone ahora se parece más a Apple Maps: así es su nuevo diseño</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-iphone-ahora-parece-apple-maps-nuevo-diseno-1447190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-iphone-4301872.jpg?tf=1200x' alt='Google Maps en iPhone ahora se parece más a Apple Maps: así es su nuevo diseño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235'>El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/friends-ross-geller-3092702.jpg?tf=1200x' alt='El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"' />
     </a>
 </div>
 
