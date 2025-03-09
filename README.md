@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-1447207'>Las protestas en los concesionarios de Tesla se vuelven violentas: tiros y cócteles molotov</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-1447207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-4301926.jpg?tf=1200x' alt='Las protestas en los concesionarios de Tesla se vuelven violentas: tiros y cócteles molotov' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206'>Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-4301925.jpg?tf=1200x' alt='Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235'>El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/friends-ross-geller-3092702.jpg?tf=1200x' alt='El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-trabaja-nuevo-atajo-cerrar-grupos-pestanas-chrome-rapido-1447181'>Google trabaja en un nuevo atajo para cerrar grupos de pestañas en Chrome más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-trabaja-nuevo-atajo-cerrar-grupos-pestanas-chrome-rapido-1447181' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chrome-4176791.jpg?tf=1200x' alt='Google trabaja en un nuevo atajo para cerrar grupos de pestañas en Chrome más rápido' />
     </a>
 </div>
 
