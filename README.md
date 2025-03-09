@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235'>El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/friends-ross-geller-3092702.jpg?tf=1200x' alt='El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-trabaja-nuevo-atajo-cerrar-grupos-pestanas-chrome-rapido-1447181'>Google trabaja en un nuevo atajo para cerrar grupos de pestañas en Chrome más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-trabaja-nuevo-atajo-cerrar-grupos-pestanas-chrome-rapido-1447181' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chrome-4176791.jpg?tf=1200x' alt='Google trabaja en un nuevo atajo para cerrar grupos de pestañas en Chrome más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-carta-agradecimiento-profesor-instituto-espanol-errores-ciberseguridad-1445320'>Profesor de instituto español recibe una carta de agradecimiento de la NASA por advertir de "graves errores de ciberseguridad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-carta-agradecimiento-profesor-instituto-espanol-errores-ciberseguridad-1445320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-envia-carta-agradecimiento-profesor-instituto-espanol-advertir-graves-errores-ciberseguridad-4298548.jpg?tf=1200x' alt='Profesor de instituto español recibe una carta de agradecimiento de la NASA por advertir de "graves errores de ciberseguridad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-va-cambiar-forma-gestionas-correos-electronicos-1447179'>El nuevo Outlook para Windows va a cambiar la forma en la que gestionas correos electrónicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-va-cambiar-forma-gestionas-correos-electronicos-1447179' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4127100.jpg?tf=1200x' alt='El nuevo Outlook para Windows va a cambiar la forma en la que gestionas correos electrónicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/historial-notificaciones-whatsapp-puerta-secreta-ver-mensajes-eliminados-1445310'>Historial de notificaciones de WhatsApp: la puerta secreta para ver mensajes eliminados</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/historial-notificaciones-whatsapp-puerta-secreta-ver-mensajes-eliminados-1445310' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/historial-notificaciones-whatsapp-puerta-secreta-ver-mensajes-eliminados-4298562.jpg?tf=1200x' alt='Historial de notificaciones de WhatsApp: la puerta secreta para ver mensajes eliminados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-windows-95-graficos-1444031'>Ingeniero de Microsoft confiesa 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-desvela-ms-dos-windows-95-graficos-1444031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ordenador-antiguo-version-ms-dos-graficos-4301551.jpg?tf=1200x' alt='Ingeniero de Microsoft confiesa 30 años después que MS-DOS podía generar gráficos: “Prefirieron una interfaz mediocre”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/son-nuevas-live-updates-android-16-google-maps-ya-probando-1447178'>Así son las nuevas Live Updates en Android 16: Google Maps ya las está probando</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/son-nuevas-live-updates-android-16-google-maps-ya-probando-1447178' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/09/activar-historial-notificaciones-android-3124240.jpg?tf=1200x' alt='Así son las nuevas Live Updates en Android 16: Google Maps ya las está probando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/truco-windows-11-sea-menos-insoportable-he-encontrado-herramienta-hace-30-anos-1444493'>El truco para que Windows 11 sea menos insoportable lo he encontrado en una herramienta de hace 30 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/truco-windows-11-sea-menos-insoportable-he-encontrado-herramienta-hace-30-anos-1444493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/trucos-microsoft-powertoys-4297106.jpg?tf=1200x' alt='El truco para que Windows 11 sea menos insoportable lo he encontrado en una herramienta de hace 30 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-ordenador-portatil-antiguo-chromeos-flex-1402728'>Ni Windows ni Linux, he instalado este sistema operativo 100% gratis en un viejo portátil y ahora parece nuevo</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/mejor-alternativa-linux-windows-ordenador-portatil-antiguo-chromeos-flex-1402728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-linux-portatil-4301547.jpg?tf=1200x' alt='Ni Windows ni Linux, he instalado este sistema operativo 100% gratis en un viejo portátil y ahora parece nuevo' />
     </a>
 </div>
 
