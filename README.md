@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/windows-funcion-oculta-crea-escudo-malware-pero-viene-desactivada-defecto-1444768'>Windows: esta función oculta crea un escudo contra el malware, pero viene desactivada por defecto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/windows-funcion-oculta-crea-escudo-malware-pero-viene-desactivada-defecto-1444768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/malware-windows-11-4297685.jpg?tf=1200x' alt='Windows: esta función oculta crea un escudo contra el malware, pero viene desactivada por defecto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mismo-mensaje-whatsapp-varias-personas-necesidad-crear-grupo-1444053'>Cómo enviar un mismo mensaje de WhatsApp a varias personas sin necesidad de crear un grupo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-enviar-mismo-mensaje-whatsapp-varias-personas-necesidad-crear-grupo-1444053' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-enviar-mismo-mensaje-whatsapp-varias-personas-necesidad-crear-grupo-4296350.jpg?tf=1200x' alt='Cómo enviar un mismo mensaje de WhatsApp a varias personas sin necesidad de crear un grupo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cientos-dvd-warner-hace-20-anos-estan-comenzando-pudrirse-1447154'>Cientos de películas en DVD de Warner de hace 20 años están comenzando a pudrirse, afecta a todas las copias</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/cientos-dvd-warner-hace-20-anos-estan-comenzando-pudrirse-1447154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientos-dvd-warner-hace-20-anos-estan-comenzado-pudrirse-afecta-todas-copias-4301831.jpg?tf=1200x' alt='Cientos de películas en DVD de Warner de hace 20 años están comenzando a pudrirse, afecta a todas las copias' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-detectar-cuello-botella-pc-windows-como-eliminarlo-1443833'>Cómo detectar un cuello de botella en un PC con Windows y cómo eliminarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-detectar-cuello-botella-pc-windows-como-eliminarlo-1443833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/como-detectar-cuello-botella-pc-windows-como-eliminarlo-4295979.jpg?tf=1200x' alt='Cómo detectar un cuello de botella en un PC con Windows y cómo eliminarlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/expertos-instaladores-comparten-lugares-donde-jamas-colocarian-router-wifi-ubicacion-ideal-1446276'>Expertos instaladores comparten los 5 lugares donde jamás colocarían el router WiFi (y la ubicación ideal)</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/expertos-instaladores-comparten-lugares-donde-jamas-colocarian-router-wifi-ubicacion-ideal-1446276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-instaladores-comparten-5-lugares-donde-jamas-colocarian-router-wifi-ubicacion-ideal-4300276.jpg?tf=1200x' alt='Expertos instaladores comparten los 5 lugares donde jamás colocarían el router WiFi (y la ubicación ideal)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-conoce-como-navaja-suiza-hackers-eticos-1443003'>¿Qué es Kali Linux y por qué se conoce como la 'navaja suiza de los hackers éticos'?</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/kali-linux-conoce-como-navaja-suiza-hackers-eticos-1443003' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/kali-linux-4293862.jpg?tf=1200x' alt='¿Qué es Kali Linux y por qué se conoce como la 'navaja suiza de los hackers éticos'?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/mwc-2025-analisis-feria-gama-baja-cuanto-lanzamientos-pero-premium-asistencia-negocios-1446424'>MWC 2025, el análisis: una feria de gama baja en cuanto a lanzamientos, pero premium en asistencia y negocios</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/mwc-2025-analisis-feria-gama-baja-cuanto-lanzamientos-pero-premium-asistencia-negocios-1446424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mwc-2025-4301686.jpg?tf=1200x' alt='MWC 2025, el análisis: una feria de gama baja en cuanto a lanzamientos, pero premium en asistencia y negocios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/sony-estrena-alquiler-ps5-pro-ps-vr2-portal-pero-ojo-letra-pequena-1447153'>Vuelco a las consolas: Sony estrena el alquiler de PS5 Pro, PS VR2 y Portal, pero ojo con la letra pequeña</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/sony-estrena-alquiler-ps5-pro-ps-vr2-portal-pero-ojo-letra-pequena-1447153' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelco-consolas-sony-estrena-alquiler-ps5-pro-ps-vr2-portal-pero-ojo-letra-pequena-4301829.jpg?tf=1200x' alt='Vuelco a las consolas: Sony estrena el alquiler de PS5 Pro, PS VR2 y Portal, pero ojo con la letra pequeña' />
     </a>
 </div>
 
