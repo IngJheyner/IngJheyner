@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206'>Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-4301924.jpg?tf=1200x' alt='Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323'>Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-4298567.jpg?tf=1200x' alt='Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-trabaja-nuevo-atajo-cerrar-grupos-pestanas-chrome-rapido-1447181'>Google trabaja en un nuevo atajo para cerrar grupos de pestañas en Chrome más rápido</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-trabaja-nuevo-atajo-cerrar-grupos-pestanas-chrome-rapido-1447181' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/google-chrome-4176791.jpg?tf=1200x' alt='Google trabaja en un nuevo atajo para cerrar grupos de pestañas en Chrome más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-carta-agradecimiento-profesor-instituto-espanol-errores-ciberseguridad-1445320'>Profesor de instituto español recibe una carta de agradecimiento de la NASA por advertir de "graves errores de ciberseguridad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-carta-agradecimiento-profesor-instituto-espanol-errores-ciberseguridad-1445320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-envia-carta-agradecimiento-profesor-instituto-espanol-advertir-graves-errores-ciberseguridad-4298548.jpg?tf=1200x' alt='Profesor de instituto español recibe una carta de agradecimiento de la NASA por advertir de "graves errores de ciberseguridad"' />
     </a>
 </div>
 
