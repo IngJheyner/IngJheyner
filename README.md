@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323'>Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-4298567.jpg?tf=1200x' alt='Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-iphone-ahora-parece-apple-maps-nuevo-diseno-1447190'>Google Maps en iPhone ahora se parece más a Apple Maps: así es su nuevo diseño</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-iphone-ahora-parece-apple-maps-nuevo-diseno-1447190' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-iphone-4301872.jpg?tf=1200x' alt='Google Maps en iPhone ahora se parece más a Apple Maps: así es su nuevo diseño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235'>El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/cambio-personaje-friends-salvo-serie-hubiera-durado-mitad-temporadas-1444235' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/07/friends-ross-geller-3092702.jpg?tf=1200x' alt='El cambio de personaje de Friends que salvo la serie: "Sin él hubiera durado la mitad de temporadas"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-carta-agradecimiento-profesor-instituto-espanol-errores-ciberseguridad-1445320'>Profesor de instituto español recibe una carta de agradecimiento de la NASA por advertir de "graves errores de ciberseguridad"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/nasa-carta-agradecimiento-profesor-instituto-espanol-errores-ciberseguridad-1445320' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nasa-envia-carta-agradecimiento-profesor-instituto-espanol-advertir-graves-errores-ciberseguridad-4298548.jpg?tf=1200x' alt='Profesor de instituto español recibe una carta de agradecimiento de la NASA por advertir de "graves errores de ciberseguridad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-va-cambiar-forma-gestionas-correos-electronicos-1447179'>El nuevo Outlook para Windows va a cambiar la forma en la que gestionas correos electrónicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/nuevo-outlook-windows-va-cambiar-forma-gestionas-correos-electronicos-1447179' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/outlook-windows-4127100.jpg?tf=1200x' alt='El nuevo Outlook para Windows va a cambiar la forma en la que gestionas correos electrónicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/historial-notificaciones-whatsapp-puerta-secreta-ver-mensajes-eliminados-1445310'>Historial de notificaciones de WhatsApp: la puerta secreta para ver mensajes eliminados</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/historial-notificaciones-whatsapp-puerta-secreta-ver-mensajes-eliminados-1445310' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/historial-notificaciones-whatsapp-puerta-secreta-ver-mensajes-eliminados-4298562.jpg?tf=1200x' alt='Historial de notificaciones de WhatsApp: la puerta secreta para ver mensajes eliminados' />
     </a>
 </div>
 
