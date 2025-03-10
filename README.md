@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/como-ver-google-maps-ubicacion-autobuses-emt-madrid-1447449'>Cómo ver en Google Maps la ubicación de los autobuses de la EMT en Madrid</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/como-ver-google-maps-ubicacion-autobuses-emt-madrid-1447449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-ver-google-maps-ubicacion-autobuses-emt-madrid-4302278.jpg?tf=1200x' alt='Cómo ver en Google Maps la ubicación de los autobuses de la EMT en Madrid' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-movistar-plus-podria-realizar-apuesta-arriesgada-historia-1447362'>Giro de 180 grados en Movistar Plus+ que podría realizar la apuesta más arriesgada de su historia</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-movistar-plus-podria-realizar-apuesta-arriesgada-historia-1447362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4302133.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+ que podría realizar la apuesta más arriesgada de su historia' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396'>Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-elon-musk-vs-kia-4302215.jpg?tf=1200x' alt='Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307'>Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aurora-4302084.jpg?tf=1200x' alt='Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo' />
     </a>
 </div>
 
