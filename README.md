@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-todas-apps-gps-android-auto-unica-planta-cara-google-maps-waze-1444061'>He probado todas las apps GPS para Android Auto y esta es la única que le planta cara a Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/he-probado-todas-apps-gps-android-auto-unica-planta-cara-google-maps-waze-1444061' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-probado-todas-apps-gps-android-auto-unica-planta-cara-google-maps-waze-4296375.jpg?tf=1200x' alt='He probado todas las apps GPS para Android Auto y esta es la única que le planta cara a Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/solo-necesitas-10-segundos-televisor-inteligente-funcione-rapido-1444059'>Solo necesitas 10 segundos para que tu televisor inteligente funcione más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/solo-necesitas-10-segundos-televisor-inteligente-funcione-rapido-1444059' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/solo-necesitas-10-segundos-televisor-inteligente-funcione-rapido-4296369.jpg?tf=1200x' alt='Solo necesitas 10 segundos para que tu televisor inteligente funcione más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/criptos/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-1447216'>Por qué la reserva federal de criptomonedas de Donald Trump, ha hecho caer el Bitcoin</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-1447216' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-4301943.jpg?tf=1200x' alt='Por qué la reserva federal de criptomonedas de Donald Trump, ha hecho caer el Bitcoin' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-1447207'>Las protestas en los concesionarios de Tesla se vuelven violentas: tiros y cócteles molotov</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-1447207' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/protestas-concesionarios-tesla-vuelven-violentas-tiros-cocteles-molotov-4301926.jpg?tf=1200x' alt='Las protestas en los concesionarios de Tesla se vuelven violentas: tiros y cócteles molotov' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206'>Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-1447206' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-lia-bloqueos-laliga-cloudflare-tumban-web-rae-pero-hay-novedades-4301925.jpg?tf=1200x' alt='Javier Tebas la lía: los bloqueos de LaLiga a Cloudflare tumban la web de la RAE, pero hay novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323'>Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-4298567.jpg?tf=1200x' alt='Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción' />
     </a>
 </div>
 
