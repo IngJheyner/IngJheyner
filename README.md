@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-google-drive-dropbox-disco-duro-10tb-solo-paga-vez-bastante-asequible-1447213'>Adiós a Google Drive y Dropbox: este disco duro de 10TB solo se paga una vez, y es bastante asequible</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/adios-google-drive-dropbox-disco-duro-10tb-solo-paga-vez-bastante-asequible-1447213' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/unionsine-4301938.jpg?tf=1200x' alt='Adiós a Google Drive y Dropbox: este disco duro de 10TB solo se paga una vez, y es bastante asequible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-maxima-inteligencia-artificial-militar-podria-ser-fin-humanidad-boton-rojo-ia-1447268'>Alerta máxima, la inteligencia artificial militar podría ser el fin de la humanidad: el botón rojo de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-maxima-inteligencia-artificial-militar-podria-ser-fin-humanidad-boton-rojo-ia-1447268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-futuro-4301997.jpg?tf=1200x' alt='Alerta máxima, la inteligencia artificial militar podría ser el fin de la humanidad: el botón rojo de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705'>Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-certificados-gratis-ibm-tecnologia-4292619.jpg?tf=1200x' alt='Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/ahora-mi-conexion-internet-vuela-solo-tuve-realizar-sencillo-cambio-mi-router-wifi-1446542'>Ahora mi conexión a internet vuela: solo tuve que realizar este sencillo cambio en mi router WiFi</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ahora-mi-conexion-internet-vuela-solo-tuve-realizar-sencillo-cambio-mi-router-wifi-1446542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-4245176.jpg?tf=1200x' alt='Ahora mi conexión a internet vuela: solo tuve que realizar este sencillo cambio en mi router WiFi' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevos-datos-oficiales-nintendo-switch-2-wifi-recarga-amiibos-1447222'>Revelan nuevos datos oficiales de Nintendo Switch 2: WiFi, recarga... y amiibos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nuevos-datos-oficiales-nintendo-switch-2-wifi-recarga-amiibos-1447222' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/revelan-nuevos-datos-oficiales-nintendo-switch-2-wifi-recarga-amiibos-4301948.jpg?tf=1200x' alt='Revelan nuevos datos oficiales de Nintendo Switch 2: WiFi, recarga... y amiibos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-cosas-nunca-digo-chatgpt-he-comprobado-vuelven-mi-1445317'>Estas son las cosas que nunca le digo a ChatGPT, he comprobado que se vuelven en mi contra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-cosas-nunca-digo-chatgpt-he-comprobado-vuelven-mi-1445317' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-cosas-nunca-digo-chatgpt-he-comprobado-vuelven-mi-4298565.jpg?tf=1200x' alt='Estas son las cosas que nunca le digo a ChatGPT, he comprobado que se vuelven en mi contra' />
     </a>
 </div>
 
