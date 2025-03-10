@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705'>Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-certificados-gratis-ibm-tecnologia-4292619.jpg?tf=1200x' alt='Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-analizado-xiaomi-15-ultra-union-perfecta-camara-movil-conquistar-elite-fotografica-1445888'>He analizado el Xiaomi 15 Ultra y es la unión perfecta de cámara con móvil para conquistar la élite fotográfica </a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-analizado-xiaomi-15-ultra-union-perfecta-camara-movil-conquistar-elite-fotografica-1445888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-15-ultra-4301464.jpg?tf=1200x' alt='He analizado el Xiaomi 15 Ultra y es la unión perfecta de cámara con móvil para conquistar la élite fotográfica ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ahora-mi-conexion-internet-vuela-solo-tuve-realizar-sencillo-cambio-mi-router-wifi-1446542'>Ahora mi conexión a internet vuela: solo tuve que realizar este sencillo cambio en mi router WiFi</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ahora-mi-conexion-internet-vuela-solo-tuve-realizar-sencillo-cambio-mi-router-wifi-1446542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-4245176.jpg?tf=1200x' alt='Ahora mi conexión a internet vuela: solo tuve que realizar este sencillo cambio en mi router WiFi' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nuevos-datos-oficiales-nintendo-switch-2-wifi-recarga-amiibos-1447222'>Revelan nuevos datos oficiales de Nintendo Switch 2: WiFi, recarga... y amiibos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nuevos-datos-oficiales-nintendo-switch-2-wifi-recarga-amiibos-1447222' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/revelan-nuevos-datos-oficiales-nintendo-switch-2-wifi-recarga-amiibos-4301948.jpg?tf=1200x' alt='Revelan nuevos datos oficiales de Nintendo Switch 2: WiFi, recarga... y amiibos' />
@@ -58,33 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/he-probado-todas-apps-gps-android-auto-unica-planta-cara-google-maps-waze-1444061'>He probado todas las apps GPS para Android Auto y esta es la única que le planta cara a Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/he-probado-todas-apps-gps-android-auto-unica-planta-cara-google-maps-waze-1444061' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/he-probado-todas-apps-gps-android-auto-unica-planta-cara-google-maps-waze-4296375.jpg?tf=1200x' alt='He probado todas las apps GPS para Android Auto y esta es la única que le planta cara a Google Maps y Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/solo-necesitas-10-segundos-televisor-inteligente-funcione-rapido-1444059'>Solo necesitas 10 segundos para que tu televisor inteligente funcione más rápido</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/solo-necesitas-10-segundos-televisor-inteligente-funcione-rapido-1444059' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/solo-necesitas-10-segundos-televisor-inteligente-funcione-rapido-4296369.jpg?tf=1200x' alt='Solo necesitas 10 segundos para que tu televisor inteligente funcione más rápido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-1447216'>Por qué la reserva federal de criptomonedas de Donald Trump, ha hecho caer el Bitcoin</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-1447216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-4301943.jpg?tf=1200x' alt='Por qué la reserva federal de criptomonedas de Donald Trump, ha hecho caer el Bitcoin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-1447211'>España inicia una nueva era con SMART, nuestro primer reactor de plasma: energía limpia e ilimitada</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-1447211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-4301936.jpg?tf=1200x' alt='España inicia una nueva era con SMART, nuestro primer reactor de plasma: energía limpia e ilimitada' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estas-son-cosas-nunca-digo-chatgpt-he-comprobado-vuelven-mi-1445317'>Estas son las cosas que nunca le digo a ChatGPT, he comprobado que se vuelven en mi contra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estas-son-cosas-nunca-digo-chatgpt-he-comprobado-vuelven-mi-1445317' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/estas-son-cosas-nunca-digo-chatgpt-he-comprobado-vuelven-mi-4298565.jpg?tf=1200x' alt='Estas son las cosas que nunca le digo a ChatGPT, he comprobado que se vuelven en mi contra' />
     </a>
 </div>
 
