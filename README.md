@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-1447309'>Cuidado con lo que haces: Gemini accederá a tu historial de búsqueda para ofrecerte respuestas más personalizadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-1447309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-4302085.jpg?tf=1200x' alt='Cuidado con lo que haces: Gemini accederá a tu historial de búsqueda para ofrecerte respuestas más personalizadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-app-ia-programadores-hacer-trampas-entrevistas-trabajo-1447354'>Crea una app con IA para que los programadores puedan hacer trampas en las entrevistas de trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crea-app-ia-programadores-hacer-trampas-entrevistas-trabajo-1447354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/entrevistas-inteligencia-artificial-4302126.jpg?tf=1200x' alt='Crea una app con IA para que los programadores puedan hacer trampas en las entrevistas de trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311'>Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-rusia-4302074.jpg?tf=1200x' alt='Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129'>Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/smartphone-starlink-4293202.jpg?tf=1200x' alt='Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-suplanta-dgt-te-llega-borralo-muy-peligroso-1447326'>Así es la nueva estafa que suplanta a la DGT: si te llega, bórralo, es muy peligroso</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-suplanta-dgt-te-llega-borralo-muy-peligroso-1447326' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-estafa-suplanta-dgt-te-llega-borralo-muy-peligroso-4302073.jpg?tf=1200x' alt='Así es la nueva estafa que suplanta a la DGT: si te llega, bórralo, es muy peligroso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espanol-ha-creado-nuevo-sistema-operativo-codigo-abierto-compatible-windows-1447270'>Este español ha creado un nuevo sistema operativo de código abierto compatible con Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/espanol-ha-creado-nuevo-sistema-operativo-codigo-abierto-compatible-windows-1447270' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-4302018.jpg?tf=1200x' alt='Este español ha creado un nuevo sistema operativo de código abierto compatible con Windows' />
     </a>
 </div>
 
