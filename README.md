@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-movistar-plus-podria-realizar-apuesta-arriesgada-historia-1447362'>Giro de 180 grados en Movistar Plus+ que podría realizar la apuesta más arriesgada de su historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-movistar-plus-podria-realizar-apuesta-arriesgada-historia-1447362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4302133.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+ que podría realizar la apuesta más arriesgada de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/crea-propio-power-bank-coche-electrico-baterias-tesla-destruidas-1447416'>Crea su propio "Power bank" para su coche eléctrico con baterías de Tesla destruídas</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/crea-propio-power-bank-coche-electrico-baterias-tesla-destruidas-1447416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crea-propio-power-bank-coche-electrico-baterias-tesla-destruidas-4302305.jpg?tf=1200x' alt='Crea su propio "Power bank" para su coche eléctrico con baterías de Tesla destruídas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/estrategia-elon-musk-recortes-masivos-twitter-busqueda-empleados-fantasma-1447335'>La estrategia de Elon Musk: de recortes masivos en Twitter a la búsqueda de empleados fantasma</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/estrategia-elon-musk-recortes-masivos-twitter-busqueda-empleados-fantasma-1447335' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302110.jpg?tf=1200x' alt='La estrategia de Elon Musk: de recortes masivos en Twitter a la búsqueda de empleados fantasma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396'>Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-elon-musk-vs-kia-4302215.jpg?tf=1200x' alt='Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307'>Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aurora-4302084.jpg?tf=1200x' alt='Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-guerra-ucrania-colapsaria-decidiera-pulsar-simple-boton-1447393'>Elon Musk asegura que la guerra de Ucrania "colapsaría" si él decidiera pulsar un simple botón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-guerra-ucrania-colapsaria-decidiera-pulsar-simple-boton-1447393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-asegura-guerra-ucrania-colapsaria-decidiera-pulsar-simple-boton-4302260.jpg?tf=1200x' alt='Elon Musk asegura que la guerra de Ucrania "colapsaría" si él decidiera pulsar un simple botón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-1447309'>Cuidado con lo que haces: Gemini accederá a tu historial de búsqueda para ofrecerte respuestas más personalizadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-1447309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-4302085.jpg?tf=1200x' alt='Cuidado con lo que haces: Gemini accederá a tu historial de búsqueda para ofrecerte respuestas más personalizadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-app-ia-programadores-hacer-trampas-entrevistas-trabajo-1447354'>Crea una app con IA para que los programadores puedan hacer trampas en las entrevistas de trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/crea-app-ia-programadores-hacer-trampas-entrevistas-trabajo-1447354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/entrevistas-inteligencia-artificial-4302126.jpg?tf=1200x' alt='Crea una app con IA para que los programadores puedan hacer trampas en las entrevistas de trabajo' />
     </a>
 </div>
 
