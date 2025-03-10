@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/como-ver-google-maps-ubicacion-autobuses-emt-madrid-1447449'>Cómo ver en Google Maps la ubicación de los autobuses de la EMT en Madrid</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/como-ver-google-maps-ubicacion-autobuses-emt-madrid-1447449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-ver-google-maps-ubicacion-autobuses-emt-madrid-4302278.jpg?tf=1200x' alt='Cómo ver en Google Maps la ubicación de los autobuses de la EMT en Madrid' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443'>Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-4302356.jpg?tf=1200x' alt='Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-movistar-plus-podria-realizar-apuesta-arriesgada-historia-1447362'>Giro de 180 grados en Movistar Plus+ que podría realizar la apuesta más arriesgada de su historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-movistar-plus-podria-realizar-apuesta-arriesgada-historia-1447362' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-4302133.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+ que podría realizar la apuesta más arriesgada de su historia' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-consiguen-romper-inteligencia-artificial-resultado-aterrador-no-tengo-boca-debo-gritar-1447463'>Expertos en IA consiguen "romper" una inteligencia artificial y el resultado es aterrador: "No tengo boca y debo gritar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-consiguen-romper-inteligencia-artificial-resultado-aterrador-no-tengo-boca-debo-gritar-1447463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-maligna-4302355.jpg?tf=1200x' alt='Expertos en IA consiguen "romper" una inteligencia artificial y el resultado es aterrador: "No tengo boca y debo gritar"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/crea-propio-power-bank-coche-electrico-baterias-tesla-destruidas-1447416'>Crea su propio "Power bank" para su coche eléctrico con baterías de Tesla destruídas</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/crea-propio-power-bank-coche-electrico-baterias-tesla-destruidas-1447416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crea-propio-power-bank-coche-electrico-baterias-tesla-destruidas-4302305.jpg?tf=1200x' alt='Crea su propio "Power bank" para su coche eléctrico con baterías de Tesla destruídas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-revive-raspberry-pi-gracias-nueva-herramienta-gratuita-1447458'>Windows 11 revive en Raspberry Pi gracias a una nueva herramienta gratuita</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-revive-raspberry-pi-gracias-nueva-herramienta-gratuita-1447458' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/botspot-virtual-machine-bvm-4302347.jpg?tf=1200x' alt='Windows 11 revive en Raspberry Pi gracias a una nueva herramienta gratuita' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/estrategia-elon-musk-recortes-masivos-twitter-busqueda-empleados-fantasma-1447335'>La estrategia de Elon Musk: de recortes masivos en Twitter a la búsqueda de empleados fantasma</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/estrategia-elon-musk-recortes-masivos-twitter-busqueda-empleados-fantasma-1447335' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302110.jpg?tf=1200x' alt='La estrategia de Elon Musk: de recortes masivos en Twitter a la búsqueda de empleados fantasma' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-139-estable-ya-disponible-llega-nuevas-funciones-expansion-motos-futuro-1447454'>Android Auto 13.9 estable ya disponible: llega con nuevas funciones y expansión a motos en el futuro</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-139-estable-ya-disponible-llega-nuevas-funciones-expansion-motos-futuro-1447454' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-139-4299087.jpg?tf=1200x' alt='Android Auto 13.9 estable ya disponible: llega con nuevas funciones y expansión a motos en el futuro' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396'>Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-elon-musk-vs-kia-4302215.jpg?tf=1200x' alt='Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/llega-prime-video-polemica-pelicula-hecha-ia-pego-cines-era-tan-mala-realmente-1447364'>Llega a Prime Video la polémica película hecha con IA que se la pegó en los cines, ¿era tan mala realmente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/llega-prime-video-polemica-pelicula-hecha-ia-pego-cines-era-tan-mala-realmente-1447364' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llega-prime-video-polemica-pelicula-hecha-ia-pego-cines-era-tan-mala-realmente-4302111.jpg?tf=1200x' alt='Llega a Prime Video la polémica película hecha con IA que se la pegó en los cines, ¿era tan mala realmente?' />
     </a>
 </div>
 
