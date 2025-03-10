@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396'>Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-ya-mofa-fabricantes-coches-electricos-compre-despues-elon-volviera-loco-1447396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-elon-musk-vs-kia-4302215.jpg?tf=1200x' alt='Elon Musk ya es la mofa de los fabricantes de coches eléctricos: “Lo compré después de que Elon se volviera loco”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307'>Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aurora-4302084.jpg?tf=1200x' alt='Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/crea-app-ia-programadores-hacer-trampas-entrevistas-trabajo-1447354'>Crea una app con IA para que los programadores puedan hacer trampas en las entrevistas de trabajo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/crea-app-ia-programadores-hacer-trampas-entrevistas-trabajo-1447354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/entrevistas-inteligencia-artificial-4302126.jpg?tf=1200x' alt='Crea una app con IA para que los programadores puedan hacer trampas en las entrevistas de trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311'>Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-rusia-4302074.jpg?tf=1200x' alt='Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea' />
     </a>
 </div>
 
