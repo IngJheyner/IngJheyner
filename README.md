@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307'>Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/crean-primer-ordenador-cuantico-modular-opera-temperatura-ambiente-puede-cambiarlo-todo-1447307' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aurora-4302084.jpg?tf=1200x' alt='Crean el primer ordenador cuántico modular: opera a temperatura ambiente y puede cambiarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-guerra-ucrania-colapsaria-decidiera-pulsar-simple-boton-1447393'>Elon Musk asegura que la guerra de Ucrania "colapsaría" si él decidiera pulsar un simple botón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-guerra-ucrania-colapsaria-decidiera-pulsar-simple-boton-1447393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-asegura-guerra-ucrania-colapsaria-decidiera-pulsar-simple-boton-4302260.jpg?tf=1200x' alt='Elon Musk asegura que la guerra de Ucrania "colapsaría" si él decidiera pulsar un simple botón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-1447309'>Cuidado con lo que haces: Gemini accederá a tu historial de búsqueda para ofrecerte respuestas más personalizadas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-1447309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-haces-gemini-accedera-historial-busqueda-ofrecerte-respuestas-personalizadas-4302085.jpg?tf=1200x' alt='Cuidado con lo que haces: Gemini accederá a tu historial de búsqueda para ofrecerte respuestas más personalizadas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311'>Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-rusia-4302074.jpg?tf=1200x' alt='Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-vuelve-liarla-lucha-iptv-ha-bloqueado-webs-algunos-equipos-futbol-1447305'>LaLiga vuelve a liarla en su lucha contra las IPTV: ha bloqueado las webs de algunos equipos de fútbol</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/laliga-vuelve-liarla-lucha-iptv-ha-bloqueado-webs-algunos-equipos-futbol-1447305' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-vuelve-liarla-lucha-iptv-ha-bloqueado-webs-algunos-equipos-futbol-4302059.jpg?tf=1200x' alt='LaLiga vuelve a liarla en su lucha contra las IPTV: ha bloqueado las webs de algunos equipos de fútbol' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129'>Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/smartphone-starlink-4293202.jpg?tf=1200x' alt='Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk' />
     </a>
 </div>
 
