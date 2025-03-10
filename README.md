@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277'>Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-cerebro-humano-4302066.jpg?tf=1200x' alt='Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/spotify-premium-pirata-no-ha-vuelto-no-descargues-apk-trata-estafa-1447283'>Spotify Premium pirata no ha vuelto: no descargues la APK, se trata de una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/spotify-premium-pirata-no-ha-vuelto-no-descargues-apk-trata-estafa-1447283' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/spotify-premium-pirata-no-ha-vuelto-no-descargues-apk-trata-estafa-4302020.jpg?tf=1200x' alt='Spotify Premium pirata no ha vuelto: no descargues la APK, se trata de una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-google-drive-dropbox-disco-duro-10tb-solo-paga-vez-bastante-asequible-1447213'>Adiós a Google Drive y Dropbox: este disco duro de 10TB solo se paga una vez, y es bastante asequible</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/adios-google-drive-dropbox-disco-duro-10tb-solo-paga-vez-bastante-asequible-1447213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/unionsine-4301938.jpg?tf=1200x' alt='Adiós a Google Drive y Dropbox: este disco duro de 10TB solo se paga una vez, y es bastante asequible' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705'>Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-certificados-gratis-ibm-tecnologia-4292619.jpg?tf=1200x' alt='Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-analizado-xiaomi-15-ultra-union-perfecta-camara-movil-conquistar-elite-fotografica-1445888'>He analizado el Xiaomi 15 Ultra y es la unión perfecta de cámara con móvil para conquistar la élite fotográfica </a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-analizado-xiaomi-15-ultra-union-perfecta-camara-movil-conquistar-elite-fotografica-1445888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-15-ultra-4301464.jpg?tf=1200x' alt='He analizado el Xiaomi 15 Ultra y es la unión perfecta de cámara con móvil para conquistar la élite fotográfica ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ahora-mi-conexion-internet-vuela-solo-tuve-realizar-sencillo-cambio-mi-router-wifi-1446542'>Ahora mi conexión a internet vuela: solo tuve que realizar este sencillo cambio en mi router WiFi</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ahora-mi-conexion-internet-vuela-solo-tuve-realizar-sencillo-cambio-mi-router-wifi-1446542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/router-wifi-4245176.jpg?tf=1200x' alt='Ahora mi conexión a internet vuela: solo tuve que realizar este sencillo cambio en mi router WiFi' />
     </a>
 </div>
 
