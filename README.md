@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jeff-bezos-vuelve-trabajo-porque-no-quiere-quedarse-atras-inteligencia-artificial-todo-1447332'>Jeff Bezos vuelve al trabajo porque no quiere quedarse atrás: "La inteligencia artificial lo es todo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jeff-bezos-vuelve-trabajo-porque-no-quiere-quedarse-atras-inteligencia-artificial-todo-1447332' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fundador-amazon-jeff-bezos-4302088.jpg?tf=1200x' alt='Jeff Bezos vuelve al trabajo porque no quiere quedarse atrás: "La inteligencia artificial lo es todo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cansado-no-poder-navegar-cuando-hay-futbol-operadoras-momento-no-aplican-bloqueos-laliga-iptv-1447322'>¿Cansado de no poder navegar cuando hay fútbol?: Operadoras que (de momento) no aplican los bloqueos de la LaLiga a las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cansado-no-poder-navegar-cuando-hay-futbol-operadoras-momento-no-aplican-bloqueos-laliga-iptv-1447322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/torrentio-no-funciona-no-eres-culpa-laliga-bloqueos-iptv-4297069.jpg?tf=1200x' alt='¿Cansado de no poder navegar cuando hay fútbol?: Operadoras que (de momento) no aplican los bloqueos de la LaLiga a las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-ia-provoco-efecto-telefono-escacharrado-deja-panales-miles-cientificos-todo-mundo-1447321'>Un error de la IA provocó un efecto “teléfono escacharrado” que deja en pañales a miles de científicos en todo el mundo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/error-ia-provoco-efecto-telefono-escacharrado-deja-panales-miles-cientificos-todo-mundo-1447321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-ciencia-4302079.jpg?tf=1200x' alt='Un error de la IA provocó un efecto “teléfono escacharrado” que deja en pañales a miles de científicos en todo el mundo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/millones-chromecast-dejan-funcionar-todo-mundo-error-obsolescencia-programada-1447333'>Millones de Chromecast dejan de funcionar en todo el mundo: ¿error u obsolescencia programada?</a></h4>
     <a href='https://computerhoy.20minutos.es/google/millones-chromecast-dejan-funcionar-todo-mundo-error-obsolescencia-programada-1447333' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-dejan-funcionar-4302095.jpg?tf=1200x' alt='Millones de Chromecast dejan de funcionar en todo el mundo: ¿error u obsolescencia programada?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277'>Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-cerebro-humano-4302066.jpg?tf=1200x' alt='Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/spotify-premium-pirata-no-ha-vuelto-no-descargues-apk-trata-estafa-1447283'>Spotify Premium pirata no ha vuelto: no descargues la APK, se trata de una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/spotify-premium-pirata-no-ha-vuelto-no-descargues-apk-trata-estafa-1447283' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/spotify-premium-pirata-no-ha-vuelto-no-descargues-apk-trata-estafa-4302020.jpg?tf=1200x' alt='Spotify Premium pirata no ha vuelto: no descargues la APK, se trata de una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-google-drive-dropbox-disco-duro-10tb-solo-paga-vez-bastante-asequible-1447213'>Adiós a Google Drive y Dropbox: este disco duro de 10TB solo se paga una vez, y es bastante asequible</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/adios-google-drive-dropbox-disco-duro-10tb-solo-paga-vez-bastante-asequible-1447213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/unionsine-4301938.jpg?tf=1200x' alt='Adiós a Google Drive y Dropbox: este disco duro de 10TB solo se paga una vez, y es bastante asequible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-maxima-inteligencia-artificial-militar-podria-ser-fin-humanidad-boton-rojo-ia-1447268'>Alerta máxima, la inteligencia artificial militar podría ser el fin de la humanidad: el botón rojo de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alerta-maxima-inteligencia-artificial-militar-podria-ser-fin-humanidad-boton-rojo-ia-1447268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-futuro-4301997.jpg?tf=1200x' alt='Alerta máxima, la inteligencia artificial militar podría ser el fin de la humanidad: el botón rojo de la IA' />
     </a>
 </div>
 
