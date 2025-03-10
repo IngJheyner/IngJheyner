@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jeff-bezos-vuelve-trabajo-porque-no-quiere-quedarse-atras-inteligencia-artificial-todo-1447332'>Jeff Bezos vuelve al trabajo porque no quiere quedarse atrás: "La inteligencia artificial lo es todo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/jeff-bezos-vuelve-trabajo-porque-no-quiere-quedarse-atras-inteligencia-artificial-todo-1447332' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fundador-amazon-jeff-bezos-4302088.jpg?tf=1200x' alt='Jeff Bezos vuelve al trabajo porque no quiere quedarse atrás: "La inteligencia artificial lo es todo"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311'>Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-olvida-mark-zuckerberg-reta-nueva-peligrosa-figura-mundial-pelea-1447311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-rusia-4302074.jpg?tf=1200x' alt='Elon Musk se olvida de Mark Zuckerberg y reta a una nueva y peligrosa figura mundial a una pelea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cansado-no-poder-navegar-cuando-hay-futbol-operadoras-momento-no-aplican-bloqueos-laliga-iptv-1447322'>¿Cansado de no poder navegar cuando hay fútbol?: Operadoras que (de momento) no aplican los bloqueos de la LaLiga a las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cansado-no-poder-navegar-cuando-hay-futbol-operadoras-momento-no-aplican-bloqueos-laliga-iptv-1447322' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/torrentio-no-funciona-no-eres-culpa-laliga-bloqueos-iptv-4297069.jpg?tf=1200x' alt='¿Cansado de no poder navegar cuando hay fútbol?: Operadoras que (de momento) no aplican los bloqueos de la LaLiga a las IPTV' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-vuelve-liarla-lucha-iptv-ha-bloqueado-webs-algunos-equipos-futbol-1447305'>LaLiga vuelve a liarla en su lucha contra las IPTV: ha bloqueado las webs de algunos equipos de fútbol</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/laliga-vuelve-liarla-lucha-iptv-ha-bloqueado-webs-algunos-equipos-futbol-1447305' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-vuelve-liarla-lucha-iptv-ha-bloqueado-webs-algunos-equipos-futbol-4302059.jpg?tf=1200x' alt='LaLiga vuelve a liarla en su lucha contra las IPTV: ha bloqueado las webs de algunos equipos de fútbol' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-ia-provoco-efecto-telefono-escacharrado-deja-panales-miles-cientificos-todo-mundo-1447321'>Un error de la IA provocó un efecto “teléfono escacharrado” que deja en pañales a miles de científicos en todo el mundo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/error-ia-provoco-efecto-telefono-escacharrado-deja-panales-miles-cientificos-todo-mundo-1447321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-ciencia-4302079.jpg?tf=1200x' alt='Un error de la IA provocó un efecto “teléfono escacharrado” que deja en pañales a miles de científicos en todo el mundo' />
+    <h4><a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129'>Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/moviles-compatibles-starlink-internet-satelite-gratis-elon-musk-1442129' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/smartphone-starlink-4293202.jpg?tf=1200x' alt='Estos son los móviles compatibles con Starlink, el internet por satélite gratis (de momento) de Elon Musk' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/millones-chromecast-dejan-funcionar-todo-mundo-error-obsolescencia-programada-1447333'>Millones de Chromecast dejan de funcionar en todo el mundo: ¿error u obsolescencia programada?</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/millones-chromecast-dejan-funcionar-todo-mundo-error-obsolescencia-programada-1447333' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-dejan-funcionar-4302095.jpg?tf=1200x' alt='Millones de Chromecast dejan de funcionar en todo el mundo: ¿error u obsolescencia programada?' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-suplanta-dgt-te-llega-borralo-muy-peligroso-1447326'>Así es la nueva estafa que suplanta a la DGT: si te llega, bórralo, es muy peligroso</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/nueva-estafa-suplanta-dgt-te-llega-borralo-muy-peligroso-1447326' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-estafa-suplanta-dgt-te-llega-borralo-muy-peligroso-4302073.jpg?tf=1200x' alt='Así es la nueva estafa que suplanta a la DGT: si te llega, bórralo, es muy peligroso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277'>Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-cerebro-humano-4302066.jpg?tf=1200x' alt='Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espanol-ha-creado-nuevo-sistema-operativo-codigo-abierto-compatible-windows-1447270'>Este español ha creado un nuevo sistema operativo de código abierto compatible con Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/espanol-ha-creado-nuevo-sistema-operativo-codigo-abierto-compatible-windows-1447270' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-4302018.jpg?tf=1200x' alt='Este español ha creado un nuevo sistema operativo de código abierto compatible con Windows' />
     </a>
 </div>
 
