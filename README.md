@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-1447216'>Por qué la reserva federal de criptomonedas de Donald Trump, ha hecho caer el Bitcoin</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-1447216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reserva-criptomonedas-donald-trump-ha-hecho-caer-bitcoin-4301943.jpg?tf=1200x' alt='Por qué la reserva federal de criptomonedas de Donald Trump, ha hecho caer el Bitcoin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/energia/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-1447211'>España inicia una nueva era con SMART, nuestro primer reactor de plasma: energía limpia e ilimitada</a></h4>
     <a href='https://computerhoy.20minutos.es/energia/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-1447211' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-inicia-nueva-era-smart-primer-reactor-plasma-energia-limpia-ilimitada-4301936.jpg?tf=1200x' alt='España inicia una nueva era con SMART, nuestro primer reactor de plasma: energía limpia e ilimitada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323'>Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-1445323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ni-fallout-ni-black-mirror-serie-prime-video-quiere-revolucionar-ciencia-ficcion-4298567.jpg?tf=1200x' alt='Ni Fallout ni Black Mirror: así es la serie de Prime Video que quiere revolucionar la ciencia ficción' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-iphone-ahora-parece-apple-maps-nuevo-diseno-1447190'>Google Maps en iPhone ahora se parece más a Apple Maps: así es su nuevo diseño</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-iphone-ahora-parece-apple-maps-nuevo-diseno-1447190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-iphone-4301872.jpg?tf=1200x' alt='Google Maps en iPhone ahora se parece más a Apple Maps: así es su nuevo diseño' />
     </a>
 </div>
 
