@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/millones-chromecast-dejan-funcionar-todo-mundo-error-obsolescencia-programada-1447333'>Millones de Chromecast dejan de funcionar en todo el mundo: ¿error u obsolescencia programada?</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/millones-chromecast-dejan-funcionar-todo-mundo-error-obsolescencia-programada-1447333' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-dejan-funcionar-4302095.jpg?tf=1200x' alt='Millones de Chromecast dejan de funcionar en todo el mundo: ¿error u obsolescencia programada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277'>Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experta-ia-pone-grito-cielo-nos-atrofiando-pensamiento-1447277' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-cerebro-humano-4302066.jpg?tf=1200x' alt='Experta en IA pone el grito en el cielo: "Nos está atrofiando el pensamiento"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alerta-maxima-inteligencia-artificial-militar-podria-ser-fin-humanidad-boton-rojo-ia-1447268'>Alerta máxima, la inteligencia artificial militar podría ser el fin de la humanidad: el botón rojo de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alerta-maxima-inteligencia-artificial-militar-podria-ser-fin-humanidad-boton-rojo-ia-1447268' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-futuro-4301997.jpg?tf=1200x' alt='Alerta máxima, la inteligencia artificial militar podría ser el fin de la humanidad: el botón rojo de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705'>Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/20-certificados-gratuitos-ibm-conseguir-trabajo-sector-tecnologico-1441705' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-certificados-gratis-ibm-tecnologia-4292619.jpg?tf=1200x' alt='Más de 20 certificados gratuitos de IBM para conseguir trabajo en el sector tecnológico' />
     </a>
 </div>
 
