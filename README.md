@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-afirma-tener-ya-primera-ia-nivel-humano-mundo-expertos-advierten-podria-causar-caos-1447575'>China afirma tener ya la primera IA de nivel humano del mundo y los expertos advierten: "Podría causar el caos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-afirma-tener-ya-primera-ia-nivel-humano-mundo-expertos-advierten-podria-causar-caos-1447575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primera-ia-nivel-humano-4302462.jpg?tf=1200x' alt='China afirma tener ya la primera IA de nivel humano del mundo y los expertos advierten: "Podría causar el caos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555'>¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aficionados-futbol-guerra-laliga-iptv-4302450.jpg?tf=1200x' alt='¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/falsos-ryzen-7-9800x3d-vendidos-amazon-son-procesadores-hace-10-anos-1447577'>Cuidado, falsos Ryzen 7 9800X3D vendidos por Amazon, son procesadores de hace 10 años</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/falsos-ryzen-7-9800x3d-vendidos-amazon-son-procesadores-hace-10-anos-1447577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-amazon-estan-vendiendo-falsos-ryzen-7-9800x3d-son-procesadores-hace-10-anos-4302386.jpg?tf=1200x' alt='Cuidado, falsos Ryzen 7 9800X3D vendidos por Amazon, son procesadores de hace 10 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-deepseek-ahora-manus-consiste-ia-openai-deberia-temblar-1447549'>Primero DeepSeek y ahora Manus: ¿en qué consiste esta IA y por qué OpenAI debería temblar?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/primero-deepseek-ahora-manus-consiste-ia-openai-deberia-temblar-1447549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/manus-ia-china-4302444.jpg?tf=1200x' alt='Primero DeepSeek y ahora Manus: ¿en qué consiste esta IA y por qué OpenAI debería temblar?' />
     </a>
 </div>
 
