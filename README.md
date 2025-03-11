@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/adios-alergias-virus-asus-lanza-primer-monitor-purifica-aire-1447770'>Adiós a las alergias y los virus: Asus lanza el primer monitor que purifica el aire</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/adios-alergias-virus-asus-lanza-primer-monitor-purifica-aire-1447770' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-polvo-virus-asus-lanza-primer-monitor-purifica-aire-4302790.jpg?tf=1200x' alt='Adiós a las alergias y los virus: Asus lanza el primer monitor que purifica el aire' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/giro-180-grados-roomba-irobot-revoluciona-robots-nuevo-diseno-gama-media-1444913'>Giro de 180 grados para Roomba: iRobot revoluciona sus robots con nuevo diseño y más gama media</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/giro-180-grados-roomba-irobot-revoluciona-robots-nuevo-diseno-gama-media-1444913' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/roomba-plus-505-combo-robot-4302750.jpg?tf=1200x' alt='Giro de 180 grados para Roomba: iRobot revoluciona sus robots con nuevo diseño y más gama media' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-actualizacion-evitara-sorpresas-videollamadas-1447754'>WhatsApp prepara una actualización que evitará sorpresas en las videollamadas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-actualizacion-evitara-sorpresas-videollamadas-1447754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-4302799.jpg?tf=1200x' alt='WhatsApp prepara una actualización que evitará sorpresas en las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/actualiza-chrome-inmediato-5-nuevas-vulnerabilidades-seguridad-descubiertas-1447753'>Actualiza Chrome de inmediato: 5 nuevas vulnerabilidades de seguridad descubiertas</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/actualiza-chrome-inmediato-5-nuevas-vulnerabilidades-seguridad-descubiertas-1447753' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Actualiza Chrome de inmediato: 5 nuevas vulnerabilidades de seguridad descubiertas' />
     </a>
 </div>
 
