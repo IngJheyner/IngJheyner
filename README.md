@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-desarrollan-material-capaz-levitar-desafia-gravedad-utilizar-energia-1447557'>Científicos japoneses desarrollan un material capaz de levitar que desafía la gravedad y sin utilizar energía</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-desarrollan-material-capaz-levitar-desafia-gravedad-utilizar-energia-1447557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/material-basado-grafito-levitante-4302480.jpg?tf=1200x' alt='Científicos japoneses desarrollan un material capaz de levitar que desafía la gravedad y sin utilizar energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-exsocio-sam-altman-podria-haber-encontrado-formula-chatgpt-sea-inteligente-1447657'>Ilya Sutskever, exsocio de Sam Altman, podría haber encontrado la fórmula para que ChatGPT sea más inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-exsocio-sam-altman-podria-haber-encontrado-formula-chatgpt-sea-inteligente-1447657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4302652.jpg?tf=1200x' alt='Ilya Sutskever, exsocio de Sam Altman, podría haber encontrado la fórmula para que ChatGPT sea más inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-espanoles-han-logrado-crear-fuente-energia-sostenible-casi-infinita-1447520'>Investigadores españoles han logrado crear una fuente de energía sostenible y casi infinita </a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/investigadores-espanoles-han-logrado-crear-fuente-energia-sostenible-casi-infinita-1447520' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reactor-fusion-4302449.jpg?tf=1200x' alt='Investigadores españoles han logrado crear una fuente de energía sostenible y casi infinita ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-1447654'>Un estudio revela que modelos de IA como ChatGPT muestran "ansiedad" como el ser humano</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-1447654' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-4302622.jpg?tf=1200x' alt='Un estudio revela que modelos de IA como ChatGPT muestran "ansiedad" como el ser humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recomienda-reinstalar-sistema-lugar-actualizar-windows-10-windows-11-1447670'>Microsoft recomienda reinstalar el sistema en lugar de actualizar de Windows 10 a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-recomienda-reinstalar-sistema-lugar-actualizar-windows-10-windows-11-1447670' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usar-windows-10-como-primera-opcion-4301317.jpg?tf=1200x' alt='Microsoft recomienda reinstalar el sistema en lugar de actualizar de Windows 10 a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-1447591'>Movistar se desmarca de LaLiga y cambia su estrategia en los bloqueos a las IPTV y páginas de fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-1447591' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-4302517.jpg?tf=1200x' alt='Movistar se desmarca de LaLiga y cambia su estrategia en los bloqueos a las IPTV y páginas de fútbol gratis' />
     </a>
 </div>
 
