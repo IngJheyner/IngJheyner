@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-espanoles-han-logrado-crear-fuente-energia-sostenible-casi-infinita-1447520'>Investigadores españoles han logrado crear una fuente de energía sostenible y casi infinita </a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/investigadores-espanoles-han-logrado-crear-fuente-energia-sostenible-casi-infinita-1447520' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reactor-fusion-4302449.jpg?tf=1200x' alt='Investigadores españoles han logrado crear una fuente de energía sostenible y casi infinita ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-lado-oscuro-navegadores-como-chrome-dejas-rastro-1447667'>Experta en ciberseguridad alerta del lado oscuro de los navegadores como Chrome: "Dejas un rastro"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-lado-oscuro-navegadores-como-chrome-dejas-rastro-1447667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-ciberseguridad-alerta-lado-oscuro-navegadores-como-chrome-dejas-rastro-4302682.jpg?tf=1200x' alt='Experta en ciberseguridad alerta del lado oscuro de los navegadores como Chrome: "Dejas un rastro"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-1447654'>Un estudio revela que modelos de IA como ChatGPT muestran "ansiedad" como el ser humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-1447654' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-4302622.jpg?tf=1200x' alt='Un estudio revela que modelos de IA como ChatGPT muestran "ansiedad" como el ser humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recomienda-reinstalar-sistema-lugar-actualizar-windows-10-windows-11-1447670'>Microsoft recomienda reinstalar el sistema en lugar de actualizar de Windows 10 a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-recomienda-reinstalar-sistema-lugar-actualizar-windows-10-windows-11-1447670' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usar-windows-10-como-primera-opcion-4301317.jpg?tf=1200x' alt='Microsoft recomienda reinstalar el sistema en lugar de actualizar de Windows 10 a Windows 11' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-1447591'>Movistar se desmarca de LaLiga y cambia su estrategia en los bloqueos a las IPTV y páginas de fútbol gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-1447591' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-4302517.jpg?tf=1200x' alt='Movistar se desmarca de LaLiga y cambia su estrategia en los bloqueos a las IPTV y páginas de fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-gasolina-diesel-electricidad-toyota-tiene-casi-listo-motor-definitivo-cambiara-todo-1447580'>Ni gasolina, diésel o electricidad, Toyota tiene casi listo el motor definitivo que lo cambiará todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-gasolina-diesel-electricidad-toyota-tiene-casi-listo-motor-definitivo-cambiara-todo-1447580' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/toyota-crea-motor-hidrogeno-3641828.jpg?tf=1200x' alt='Ni gasolina, diésel o electricidad, Toyota tiene casi listo el motor definitivo que lo cambiará todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dura-advertencia-mark-zuckerberg-sam-altman-unica-garantiza-fracaso-1447602'>La dura advertencia de Mark Zuckerberg a Sam Altman: "Es la única que garantiza el fracaso"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dura-advertencia-mark-zuckerberg-sam-altman-unica-garantiza-fracaso-1447602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mark-zuckerberg-sam-altman-4302592.jpg?tf=1200x' alt='La dura advertencia de Mark Zuckerberg a Sam Altman: "Es la única que garantiza el fracaso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551'>Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-4302493.jpg?tf=1200x' alt='Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025' />
     </a>
 </div>
 
