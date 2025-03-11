@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-1447473'>Un ciberataque masivo tumba X y Elon Musk echa la culpa a Ucrania</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-1447473' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-4302366.jpg?tf=1200x' alt='Un ciberataque masivo tumba X y Elon Musk echa la culpa a Ucrania' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443'>Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-4302356.jpg?tf=1200x' alt='Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-139-estable-ya-disponible-llega-nuevas-funciones-expansion-motos-futuro-1447454'>Android Auto 13.9 estable ya disponible: llega con nuevas funciones y expansión a motos en el futuro</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-139-estable-ya-disponible-llega-nuevas-funciones-expansion-motos-futuro-1447454' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-139-4299087.jpg?tf=1200x' alt='Android Auto 13.9 estable ya disponible: llega con nuevas funciones y expansión a motos en el futuro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/llega-prime-video-polemica-pelicula-hecha-ia-pego-cines-era-tan-mala-realmente-1447364'>Llega a Prime Video la polémica película hecha con IA que se la pegó en los cines, ¿era tan mala realmente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/llega-prime-video-polemica-pelicula-hecha-ia-pego-cines-era-tan-mala-realmente-1447364' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llega-prime-video-polemica-pelicula-hecha-ia-pego-cines-era-tan-mala-realmente-4302111.jpg?tf=1200x' alt='Llega a Prime Video la polémica película hecha con IA que se la pegó en los cines, ¿era tan mala realmente?' />
     </a>
 </div>
 
