@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-gasolina-diesel-electricidad-toyota-tiene-casi-listo-motor-definitivo-cambiara-todo-1447580'>Ni gasolina, diésel o electricidad, Toyota tiene casi listo el motor definitivo que lo cambiará todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-gasolina-diesel-electricidad-toyota-tiene-casi-listo-motor-definitivo-cambiara-todo-1447580' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/toyota-crea-motor-hidrogeno-3641828.jpg?tf=1200x' alt='Ni gasolina, diésel o electricidad, Toyota tiene casi listo el motor definitivo que lo cambiará todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dura-advertencia-mark-zuckerberg-sam-altman-unica-garantiza-fracaso-1447602'>La dura advertencia de Mark Zuckerberg a Sam Altman: "Es la única que garantiza el fracaso"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dura-advertencia-mark-zuckerberg-sam-altman-unica-garantiza-fracaso-1447602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mark-zuckerberg-sam-altman-4302592.jpg?tf=1200x' alt='La dura advertencia de Mark Zuckerberg a Sam Altman: "Es la única que garantiza el fracaso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551'>Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-4302493.jpg?tf=1200x' alt='Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/quedando-elon-musk-fuera-carrera-ia-expertos-afirman-basura-entra-basura-sale-1447641'>¿Se está quedando Elon Musk fuera de la carrera por la IA?, expertos afirman que sí: "Basura que entra, basura que sale" </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/quedando-elon-musk-fuera-carrera-ia-expertos-afirman-basura-entra-basura-sale-1447641' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-fuera-carrera-ia-4302494.jpg?tf=1200x' alt='¿Se está quedando Elon Musk fuera de la carrera por la IA?, expertos afirman que sí: "Basura que entra, basura que sale" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-afirma-tener-ya-primera-ia-nivel-humano-mundo-expertos-advierten-podria-causar-caos-1447575'>China afirma tener ya la primera IA de nivel humano del mundo y los expertos advierten: "Podría causar el caos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-afirma-tener-ya-primera-ia-nivel-humano-mundo-expertos-advierten-podria-causar-caos-1447575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primera-ia-nivel-humano-4302462.jpg?tf=1200x' alt='China afirma tener ya la primera IA de nivel humano del mundo y los expertos advierten: "Podría causar el caos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555'>¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aficionados-futbol-guerra-laliga-iptv-4302450.jpg?tf=1200x' alt='¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV' />
     </a>
 </div>
 
