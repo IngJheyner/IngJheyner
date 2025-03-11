@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555'>¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aficionados-futbol-guerra-laliga-iptv-4302450.jpg?tf=1200x' alt='¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/elon-musk-responde-caida-masiva-x-twitter-estan-tratando-silenciarte-ti-plataforma-1447502'>Elon Musk responde a la caída masiva de X (Twitter): “Están tratando de silenciarte a ti y a tu plataforma”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/elon-musk-responde-caida-masiva-x-twitter-estan-tratando-silenciarte-ti-plataforma-1447502' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-responde-caida-masiva-x-twitter-estan-tratando-silenciarte-ti-plataforma-4302425.jpg?tf=1200x' alt='Elon Musk responde a la caída masiva de X (Twitter): “Están tratando de silenciarte a ti y a tu plataforma”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-pasos-nintendo-switch-2-xbox-portatil-ya-podria-tener-fecha-rumores-1447530'>¿Microsoft tras los pasos de Nintendo Switch 2? La Xbox portátil ya podría tener fecha, según los rumores</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-pasos-nintendo-switch-2-xbox-portatil-ya-podria-tener-fecha-rumores-1447530' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-xbox-4302340.jpg?tf=1200x' alt='¿Microsoft tras los pasos de Nintendo Switch 2? La Xbox portátil ya podría tener fecha, según los rumores' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-deepseek-ahora-manus-consiste-ia-openai-deberia-temblar-1447549'>Primero DeepSeek y ahora Manus: ¿en qué consiste esta IA y por qué OpenAI debería temblar?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/primero-deepseek-ahora-manus-consiste-ia-openai-deberia-temblar-1447549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/manus-ia-china-4302444.jpg?tf=1200x' alt='Primero DeepSeek y ahora Manus: ¿en qué consiste esta IA y por qué OpenAI debería temblar?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/videojuego-espanol-ia-detectar-deterioro-cognitivo-proyecto-samsung-1447547'>Un videojuego español con IA para detectar el deterioro cognitivo: así es este proyecto de Samsung</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/videojuego-espanol-ia-detectar-deterioro-cognitivo-proyecto-samsung-1447547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/draftblockcopyblocktypeunstyledblockkealfonso-fernandez-iglesias-jefe-marketing-ecommerce-samsung-electronics-espana-preenta-mind-guardian-4302464.jpg?tf=1200x' alt='Un videojuego español con IA para detectar el deterioro cognitivo: así es este proyecto de Samsung' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funciona-codigo-oculto-cerebro-humano-clave-ia-inteligente-1447525'>Así funciona el código oculto del cerebro humano: ¿la clave para una IA más inteligente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funciona-codigo-oculto-cerebro-humano-clave-ia-inteligente-1447525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cuantico-3983375.jpg?tf=1200x' alt='Así funciona el código oculto del cerebro humano: ¿la clave para una IA más inteligente?' />
     </a>
 </div>
 
