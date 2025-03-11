@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-pasos-nintendo-switch-2-xbox-portatil-ya-podria-tener-fecha-rumores-1447530'>¿Microsoft tras los pasos de Nintendo Switch 2? La Xbox portátil ya podría tener fecha, según los rumores</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-pasos-nintendo-switch-2-xbox-portatil-ya-podria-tener-fecha-rumores-1447530' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-xbox-4302340.jpg?tf=1200x' alt='¿Microsoft tras los pasos de Nintendo Switch 2? La Xbox portátil ya podría tener fecha, según los rumores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/falsos-ryzen-7-9800x3d-vendidos-amazon-son-procesadores-hace-10-anos-1447577'>Cuidado, falsos Ryzen 7 9800X3D vendidos por Amazon, son procesadores de hace 10 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/falsos-ryzen-7-9800x3d-vendidos-amazon-son-procesadores-hace-10-anos-1447577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-amazon-estan-vendiendo-falsos-ryzen-7-9800x3d-son-procesadores-hace-10-anos-4302386.jpg?tf=1200x' alt='Cuidado, falsos Ryzen 7 9800X3D vendidos por Amazon, son procesadores de hace 10 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/primero-deepseek-ahora-manus-consiste-ia-openai-deberia-temblar-1447549'>Primero DeepSeek y ahora Manus: ¿en qué consiste esta IA y por qué OpenAI debería temblar?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/primero-deepseek-ahora-manus-consiste-ia-openai-deberia-temblar-1447549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/manus-ia-china-4302444.jpg?tf=1200x' alt='Primero DeepSeek y ahora Manus: ¿en qué consiste esta IA y por qué OpenAI debería temblar?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/videojuego-espanol-ia-detectar-deterioro-cognitivo-proyecto-samsung-1447547'>Un videojuego español con IA para detectar el deterioro cognitivo: así es este proyecto de Samsung</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/videojuego-espanol-ia-detectar-deterioro-cognitivo-proyecto-samsung-1447547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/draftblockcopyblocktypeunstyledblockkealfonso-fernandez-iglesias-jefe-marketing-ecommerce-samsung-electronics-espana-preenta-mind-guardian-4302464.jpg?tf=1200x' alt='Un videojuego español con IA para detectar el deterioro cognitivo: así es este proyecto de Samsung' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/funciona-codigo-oculto-cerebro-humano-clave-ia-inteligente-1447525'>Así funciona el código oculto del cerebro humano: ¿la clave para una IA más inteligente?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/funciona-codigo-oculto-cerebro-humano-clave-ia-inteligente-1447525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cuantico-3983375.jpg?tf=1200x' alt='Así funciona el código oculto del cerebro humano: ¿la clave para una IA más inteligente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-cuestionan-papel-ser-humano-era-chatgpt-inteligencia-artificial-1447507'>Expertos se cuestionan el papel del ser humano en la era de ChatGPT y la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-cuestionan-papel-ser-humano-era-chatgpt-inteligencia-artificial-1447507' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-4302419.jpg?tf=1200x' alt='Expertos se cuestionan el papel del ser humano en la era de ChatGPT y la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pueden-rastrear-ubicacion-simple-enlace-saberlo-todo-direccion-ip-1441926'>Así pueden rastrear tu ubicación con un simple enlace y saberlo todo sobre tu dirección IP</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/pueden-rastrear-ubicacion-simple-enlace-saberlo-todo-direccion-ip-1441926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conocer-direccion-ip-enlace-4292899.jpg?tf=1200x' alt='Así pueden rastrear tu ubicación con un simple enlace y saberlo todo sobre tu dirección IP' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-iphone-16e-me-parece-gran-salto-frente-iphone-todo-potencia-1445168'>He analizado el iPhone 16e y me ha sorprendido encontrarme tanta potencia en el heredero de los iPhone SE</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-iphone-16e-me-parece-gran-salto-frente-iphone-todo-potencia-1445168' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4302328.jpg?tf=1200x' alt='He analizado el iPhone 16e y me ha sorprendido encontrarme tanta potencia en el heredero de los iPhone SE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342'>Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jovenes-desconfian-chatgpt-ia-4302128.jpg?tf=1200x' alt='Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA' />
     </a>
 </div>
 
