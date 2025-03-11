@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-recomienda-reinstalar-sistema-lugar-actualizar-windows-10-windows-11-1447670'>Microsoft recomienda reinstalar el sistema en lugar de actualizar de Windows 10 a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-recomienda-reinstalar-sistema-lugar-actualizar-windows-10-windows-11-1447670' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/usar-windows-10-como-primera-opcion-4301317.jpg?tf=1200x' alt='Microsoft recomienda reinstalar el sistema en lugar de actualizar de Windows 10 a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-1447591'>Movistar se desmarca de LaLiga y cambia su estrategia en los bloqueos a las IPTV y páginas de fútbol gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-1447591' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-desmarca-laliga-cambia-estrategia-bloqueos-iptv-paginas-futbol-gratis-4302517.jpg?tf=1200x' alt='Movistar se desmarca de LaLiga y cambia su estrategia en los bloqueos a las IPTV y páginas de fútbol gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/ni-gasolina-diesel-electricidad-toyota-tiene-casi-listo-motor-definitivo-cambiara-todo-1447580'>Ni gasolina, diésel o electricidad, Toyota tiene casi listo el motor definitivo que lo cambiará todo</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/ni-gasolina-diesel-electricidad-toyota-tiene-casi-listo-motor-definitivo-cambiara-todo-1447580' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/toyota-crea-motor-hidrogeno-3641828.jpg?tf=1200x' alt='Ni gasolina, diésel o electricidad, Toyota tiene casi listo el motor definitivo que lo cambiará todo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551'>Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-4302493.jpg?tf=1200x' alt='Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/expertos-desmontan-baterias-tesla-byd-barata-eficiente-1447607'>Expertos desmontan las baterías de Tesla y BYD y hay sorpresa: “Más barata y más eficiente”</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/expertos-desmontan-baterias-tesla-byd-barata-eficiente-1447607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-model-tesla-4302520.jpg?tf=1200x' alt='Expertos desmontan las baterías de Tesla y BYD y hay sorpresa: “Más barata y más eficiente”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quedando-elon-musk-fuera-carrera-ia-expertos-afirman-basura-entra-basura-sale-1447641'>¿Se está quedando Elon Musk fuera de la carrera por la IA?, expertos afirman que sí: "Basura que entra, basura que sale" </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/quedando-elon-musk-fuera-carrera-ia-expertos-afirman-basura-entra-basura-sale-1447641' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-fuera-carrera-ia-4302494.jpg?tf=1200x' alt='¿Se está quedando Elon Musk fuera de la carrera por la IA?, expertos afirman que sí: "Basura que entra, basura que sale" ' />
     </a>
 </div>
 
