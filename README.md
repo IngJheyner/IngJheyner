@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pueden-rastrear-ubicacion-simple-enlace-saberlo-todo-direccion-ip-1441926'>Así pueden rastrear tu ubicación con un simple enlace y saberlo todo sobre tu dirección IP</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/pueden-rastrear-ubicacion-simple-enlace-saberlo-todo-direccion-ip-1441926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conocer-direccion-ip-enlace-4292899.jpg?tf=1200x' alt='Así pueden rastrear tu ubicación con un simple enlace y saberlo todo sobre tu dirección IP' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-iphone-16e-me-parece-gran-salto-frente-iphone-todo-potencia-1445168'>He analizado el iPhone 16e y me ha sorprendido encontrarme tanta potencia en el heredero de los iPhone SE</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-iphone-16e-me-parece-gran-salto-frente-iphone-todo-potencia-1445168' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4302328.jpg?tf=1200x' alt='He analizado el iPhone 16e y me ha sorprendido encontrarme tanta potencia en el heredero de los iPhone SE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342'>Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jovenes-desconfian-chatgpt-ia-4302128.jpg?tf=1200x' alt='Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266'>Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-hace-conducir-tesla-vuelva-peligroso-muchos-averguenzan-quieren-ocultarlo-1447339'>Elon Musk hace que conducir un Tesla se vuelva peligroso: muchos se avergüenzan y quieren ocultarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-hace-conducir-tesla-vuelva-peligroso-muchos-averguenzan-quieren-ocultarlo-1447339' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tener-tesla-eeuu-vuelve-peligroso-culpa-elon-musk-muchos-estan-intentando-ocultarlo-4302098.jpg?tf=1200x' alt='Elon Musk hace que conducir un Tesla se vuelva peligroso: muchos se avergüenzan y quieren ocultarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481'>Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-digi-ni-vodafone-o2-pone-mercado-patas-arriba-tarifa-barata-incluye-movistar-plus-4302361.jpg?tf=1200x' alt='Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+' />
     </a>
 </div>
 
