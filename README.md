@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/giro-180-grados-roomba-irobot-revoluciona-robots-nuevo-diseno-gama-media-1444913'>Giro de 180 grados para Roomba: iRobot revoluciona sus robots con nuevo diseño y más gama media</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/giro-180-grados-roomba-irobot-revoluciona-robots-nuevo-diseno-gama-media-1444913' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/roomba-plus-505-combo-robot-4302750.jpg?tf=1200x' alt='Giro de 180 grados para Roomba: iRobot revoluciona sus robots con nuevo diseño y más gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-1447735'>Steve Wozniak sin piedad con Tesla en plena crisis de Elon Musk: "Es miserable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-1447735' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-4302807.jpg?tf=1200x' alt='Steve Wozniak sin piedad con Tesla en plena crisis de Elon Musk: "Es miserable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-pelicula-ciencia-ficcion-ya-visto-1447487'>Acaba de llegar a Prime Video, y esta película de ciencia ficción ya está entre lo más visto</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-pelicula-ciencia-ficcion-ya-visto-1447487' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/creator-3113878.jpg?tf=1200x' alt='Acaba de llegar a Prime Video, y esta película de ciencia ficción ya está entre lo más visto' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/actualiza-chrome-inmediato-5-nuevas-vulnerabilidades-seguridad-descubiertas-1447753'>Actualiza Chrome de inmediato: 5 nuevas vulnerabilidades de seguridad descubiertas</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/actualiza-chrome-inmediato-5-nuevas-vulnerabilidades-seguridad-descubiertas-1447753' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Actualiza Chrome de inmediato: 5 nuevas vulnerabilidades de seguridad descubiertas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-escritorio-remoto-microsoft-cierra-programas-utiles-windows-11-1447752'>Adiós al escritorio remoto, Microsoft cierra uno de los programas más útiles de Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-escritorio-remoto-microsoft-cierra-programas-utiles-windows-11-1447752' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/escritorio-remoto-microsoft-4302789.jpg?tf=1200x' alt='Adiós al escritorio remoto, Microsoft cierra uno de los programas más útiles de Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-apoyo-inesperado-astronautas-iss-tiene-toda-razon-1447710'>Elon Musk recibe el apoyo más inesperado de los astronautas de la ISS: "Tiene toda la razón"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-apoyo-inesperado-astronautas-iss-tiene-toda-razon-1447710' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-recibe-apoyo-inesperado-astronautas-iss-tiene-toda-razon-4302733.jpg?tf=1200x' alt='Elon Musk recibe el apoyo más inesperado de los astronautas de la ISS: "Tiene toda la razón"' />
     </a>
 </div>
 
