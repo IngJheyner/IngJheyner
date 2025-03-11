@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-cuestionan-papel-ser-humano-era-chatgpt-inteligencia-artificial-1447507'>Expertos se cuestionan el papel del ser humano en la era de ChatGPT y la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-cuestionan-papel-ser-humano-era-chatgpt-inteligencia-artificial-1447507' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-4302419.jpg?tf=1200x' alt='Expertos se cuestionan el papel del ser humano en la era de ChatGPT y la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/pueden-rastrear-ubicacion-simple-enlace-saberlo-todo-direccion-ip-1441926'>Así pueden rastrear tu ubicación con un simple enlace y saberlo todo sobre tu dirección IP</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/pueden-rastrear-ubicacion-simple-enlace-saberlo-todo-direccion-ip-1441926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/conocer-direccion-ip-enlace-4292899.jpg?tf=1200x' alt='Así pueden rastrear tu ubicación con un simple enlace y saberlo todo sobre tu dirección IP' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-1447351'>BYD prepara su sistema de carga de 1.000 voltios que lo cambiará todo: 300 kilómetros en 5 minutos</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-1447351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-4302122.jpg?tf=1200x' alt='BYD prepara su sistema de carga de 1.000 voltios que lo cambiará todo: 300 kilómetros en 5 minutos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266'>Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"' />
     </a>
 </div>
 
