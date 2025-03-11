@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-desarrollan-material-capaz-levitar-desafia-gravedad-utilizar-energia-1447557'>Científicos japoneses desarrollan un material capaz de levitar que desafía la gravedad y sin utilizar energía</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-japoneses-desarrollan-material-capaz-levitar-desafia-gravedad-utilizar-energia-1447557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/material-basado-grafito-levitante-4302480.jpg?tf=1200x' alt='Científicos japoneses desarrollan un material capaz de levitar que desafía la gravedad y sin utilizar energía' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-pelicula-ciencia-ficcion-ya-visto-1447487'>Acaba de llegar a Prime Video, y esta película de ciencia ficción ya está entre lo más visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-pelicula-ciencia-ficcion-ya-visto-1447487' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/creator-3113878.jpg?tf=1200x' alt='Acaba de llegar a Prime Video, y esta película de ciencia ficción ya está entre lo más visto' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-exsocio-sam-altman-podria-haber-encontrado-formula-chatgpt-sea-inteligente-1447657'>Ilya Sutskever, exsocio de Sam Altman, podría haber encontrado la fórmula para que ChatGPT sea más inteligente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ilya-sutskever-exsocio-sam-altman-podria-haber-encontrado-formula-chatgpt-sea-inteligente-1447657' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4302652.jpg?tf=1200x' alt='Ilya Sutskever, exsocio de Sam Altman, podría haber encontrado la fórmula para que ChatGPT sea más inteligente' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-actualizacion-evitara-sorpresas-videollamadas-1447754'>WhatsApp prepara una actualización que evitará sorpresas en las videollamadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-actualizacion-evitara-sorpresas-videollamadas-1447754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-4302799.jpg?tf=1200x' alt='WhatsApp prepara una actualización que evitará sorpresas en las videollamadas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/investigadores-espanoles-han-logrado-crear-fuente-energia-sostenible-casi-infinita-1447520'>Investigadores españoles han logrado crear una fuente de energía sostenible y casi infinita </a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/investigadores-espanoles-han-logrado-crear-fuente-energia-sostenible-casi-infinita-1447520' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reactor-fusion-4302449.jpg?tf=1200x' alt='Investigadores españoles han logrado crear una fuente de energía sostenible y casi infinita ' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/actualiza-chrome-inmediato-5-nuevas-vulnerabilidades-seguridad-descubiertas-1447753'>Actualiza Chrome de inmediato: 5 nuevas vulnerabilidades de seguridad descubiertas</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/actualiza-chrome-inmediato-5-nuevas-vulnerabilidades-seguridad-descubiertas-1447753' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/malware-chrome-3113980.jpg?tf=1200x' alt='Actualiza Chrome de inmediato: 5 nuevas vulnerabilidades de seguridad descubiertas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-lado-oscuro-navegadores-como-chrome-dejas-rastro-1447667'>Experta en ciberseguridad alerta del lado oscuro de los navegadores como Chrome: "Dejas un rastro"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-lado-oscuro-navegadores-como-chrome-dejas-rastro-1447667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-ciberseguridad-alerta-lado-oscuro-navegadores-como-chrome-dejas-rastro-4302682.jpg?tf=1200x' alt='Experta en ciberseguridad alerta del lado oscuro de los navegadores como Chrome: "Dejas un rastro"' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-escritorio-remoto-microsoft-cierra-programas-utiles-windows-11-1447752'>Adiós al escritorio remoto, Microsoft cierra uno de los programas más útiles de Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-escritorio-remoto-microsoft-cierra-programas-utiles-windows-11-1447752' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/escritorio-remoto-microsoft-4302789.jpg?tf=1200x' alt='Adiós al escritorio remoto, Microsoft cierra uno de los programas más útiles de Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-1447654'>Un estudio revela que modelos de IA como ChatGPT muestran "ansiedad" como el ser humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-1447654' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-revela-modelos-ia-como-chatgpt-muestran-ansiedad-como-ser-humano-4302622.jpg?tf=1200x' alt='Un estudio revela que modelos de IA como ChatGPT muestran "ansiedad" como el ser humano' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-apoyo-inesperado-astronautas-iss-tiene-toda-razon-1447710'>Elon Musk recibe el apoyo más inesperado de los astronautas de la ISS: "Tiene toda la razón"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-apoyo-inesperado-astronautas-iss-tiene-toda-razon-1447710' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-recibe-apoyo-inesperado-astronautas-iss-tiene-toda-razon-4302733.jpg?tf=1200x' alt='Elon Musk recibe el apoyo más inesperado de los astronautas de la ISS: "Tiene toda la razón"' />
     </a>
 </div>
 
