@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551'>Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-1447551' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-movistar-ni-vodafone-operadora-vuelve-ser-preferida-clientes-2025-4302493.jpg?tf=1200x' alt='Ni Movistar ni Vodafone: esta operadora vuelve a ser la preferida de los clientes en 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/expertos-desmontan-baterias-tesla-byd-barata-eficiente-1447607'>Expertos desmontan las baterías de Tesla y BYD y hay sorpresa: “Más barata y más eficiente”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/expertos-desmontan-baterias-tesla-byd-barata-eficiente-1447607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-model-tesla-4302520.jpg?tf=1200x' alt='Expertos desmontan las baterías de Tesla y BYD y hay sorpresa: “Más barata y más eficiente”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quedando-elon-musk-fuera-carrera-ia-expertos-afirman-basura-entra-basura-sale-1447641'>¿Se está quedando Elon Musk fuera de la carrera por la IA?, expertos afirman que sí: "Basura que entra, basura que sale" </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/quedando-elon-musk-fuera-carrera-ia-expertos-afirman-basura-entra-basura-sale-1447641' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-fuera-carrera-ia-4302494.jpg?tf=1200x' alt='¿Se está quedando Elon Musk fuera de la carrera por la IA?, expertos afirman que sí: "Basura que entra, basura que sale" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-afirma-tener-ya-primera-ia-nivel-humano-mundo-expertos-advierten-podria-causar-caos-1447575'>China afirma tener ya la primera IA de nivel humano del mundo y los expertos advierten: "Podría causar el caos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-afirma-tener-ya-primera-ia-nivel-humano-mundo-expertos-advierten-podria-causar-caos-1447575' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primera-ia-nivel-humano-4302462.jpg?tf=1200x' alt='China afirma tener ya la primera IA de nivel humano del mundo y los expertos advierten: "Podría causar el caos"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555'>¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/victimas-complices-papel-aficionados-futbol-guerra-laliga-iptv-1447555' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aficionados-futbol-guerra-laliga-iptv-4302450.jpg?tf=1200x' alt='¿Víctimas o cómplices? El papel de los aficionados al fútbol en la guerra de LaLiga contra las IPTV' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/elon-musk-responde-caida-masiva-x-twitter-estan-tratando-silenciarte-ti-plataforma-1447502'>Elon Musk responde a la caída masiva de X (Twitter): “Están tratando de silenciarte a ti y a tu plataforma”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/elon-musk-responde-caida-masiva-x-twitter-estan-tratando-silenciarte-ti-plataforma-1447502' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-responde-caida-masiva-x-twitter-estan-tratando-silenciarte-ti-plataforma-4302425.jpg?tf=1200x' alt='Elon Musk responde a la caída masiva de X (Twitter): “Están tratando de silenciarte a ti y a tu plataforma”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-pasos-nintendo-switch-2-xbox-portatil-ya-podria-tener-fecha-rumores-1447530'>¿Microsoft tras los pasos de Nintendo Switch 2? La Xbox portátil ya podría tener fecha, según los rumores</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/microsoft-pasos-nintendo-switch-2-xbox-portatil-ya-podria-tener-fecha-rumores-1447530' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-xbox-4302340.jpg?tf=1200x' alt='¿Microsoft tras los pasos de Nintendo Switch 2? La Xbox portátil ya podría tener fecha, según los rumores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/falsos-ryzen-7-9800x3d-vendidos-amazon-son-procesadores-hace-10-anos-1447577'>Cuidado, falsos Ryzen 7 9800X3D vendidos por Amazon, son procesadores de hace 10 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/falsos-ryzen-7-9800x3d-vendidos-amazon-son-procesadores-hace-10-anos-1447577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-amazon-estan-vendiendo-falsos-ryzen-7-9800x3d-son-procesadores-hace-10-anos-4302386.jpg?tf=1200x' alt='Cuidado, falsos Ryzen 7 9800X3D vendidos por Amazon, son procesadores de hace 10 años' />
     </a>
 </div>
 
