@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342'>Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jovenes-desconfian-chatgpt-ia-4302128.jpg?tf=1200x' alt='Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-1447351'>BYD prepara su sistema de carga de 1.000 voltios que lo cambiará todo: 300 kilómetros en 5 minutos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-1447351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-4302122.jpg?tf=1200x' alt='BYD prepara su sistema de carga de 1.000 voltios que lo cambiará todo: 300 kilómetros en 5 minutos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266'>Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481'>Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-digi-ni-vodafone-o2-pone-mercado-patas-arriba-tarifa-barata-incluye-movistar-plus-4302361.jpg?tf=1200x' alt='Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-1447473'>Un ciberataque masivo tumba X y Elon Musk echa la culpa a Ucrania</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-1447473' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-4302366.jpg?tf=1200x' alt='Un ciberataque masivo tumba X y Elon Musk echa la culpa a Ucrania' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443'>Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-4302356.jpg?tf=1200x' alt='Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo' />
     </a>
 </div>
 
