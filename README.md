@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266'>Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/antiguo-trabajador-openai-hace-saltar-alarmas-tienen-mentalidad-muy-peligrosa-1447266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sam-altman-3941035.jpg?tf=1200x' alt='Antiguo trabajador de OpenAI hace saltar las alarmas: "Tienen una mentalidad muy peligrosa"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-hace-conducir-tesla-vuelva-peligroso-muchos-averguenzan-quieren-ocultarlo-1447339'>Elon Musk hace que conducir un Tesla se vuelva peligroso: muchos se avergüenzan y quieren ocultarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-hace-conducir-tesla-vuelva-peligroso-muchos-averguenzan-quieren-ocultarlo-1447339' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tener-tesla-eeuu-vuelve-peligroso-culpa-elon-musk-muchos-estan-intentando-ocultarlo-4302098.jpg?tf=1200x' alt='Elon Musk hace que conducir un Tesla se vuelva peligroso: muchos se avergüenzan y quieren ocultarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481'>Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-digi-ni-vodafone-o2-pone-mercado-patas-arriba-tarifa-barata-incluye-movistar-plus-4302361.jpg?tf=1200x' alt='Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443'>Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-1447443' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-bloqueos-laliga-iptv-funcionaran-partir-ahora-cambia-todo-4302356.jpg?tf=1200x' alt='Giro de 180 grados en los bloqueos de LaLiga a las IPTV: así funcionarán a partir de ahora, lo cambia todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-consiguen-romper-inteligencia-artificial-resultado-aterrador-no-tengo-boca-debo-gritar-1447463'>Expertos en IA consiguen "romper" una inteligencia artificial y el resultado es aterrador: "No tengo boca y debo gritar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-consiguen-romper-inteligencia-artificial-resultado-aterrador-no-tengo-boca-debo-gritar-1447463' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-maligna-4302355.jpg?tf=1200x' alt='Expertos en IA consiguen "romper" una inteligencia artificial y el resultado es aterrador: "No tengo boca y debo gritar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-revive-raspberry-pi-gracias-nueva-herramienta-gratuita-1447458'>Windows 11 revive en Raspberry Pi gracias a una nueva herramienta gratuita</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-revive-raspberry-pi-gracias-nueva-herramienta-gratuita-1447458' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/botspot-virtual-machine-bvm-4302347.jpg?tf=1200x' alt='Windows 11 revive en Raspberry Pi gracias a una nueva herramienta gratuita' />
     </a>
 </div>
 
