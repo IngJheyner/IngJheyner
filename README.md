@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funciona-codigo-oculto-cerebro-humano-clave-ia-inteligente-1447525'>Así funciona el código oculto del cerebro humano: ¿la clave para una IA más inteligente?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funciona-codigo-oculto-cerebro-humano-clave-ia-inteligente-1447525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/cerebro-cuantico-3983375.jpg?tf=1200x' alt='Así funciona el código oculto del cerebro humano: ¿la clave para una IA más inteligente?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-cuestionan-papel-ser-humano-era-chatgpt-inteligencia-artificial-1447507'>Expertos se cuestionan el papel del ser humano en la era de ChatGPT y la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-cuestionan-papel-ser-humano-era-chatgpt-inteligencia-artificial-1447507' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-4302419.jpg?tf=1200x' alt='Expertos se cuestionan el papel del ser humano en la era de ChatGPT y la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342'>Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/life/sam-altman-choca-lleno-generacion-z-casi-mitad-jovenes-desconfian-ia-1447342' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jovenes-desconfian-chatgpt-ia-4302128.jpg?tf=1200x' alt='Sam Altman choca de lleno con la generación Z: casi la mitad de los jóvenes desconfían de la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-1447351'>BYD prepara su sistema de carga de 1.000 voltios que lo cambiará todo: 300 kilómetros en 5 minutos</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-1447351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/byd-prepara-sistema-carga-1000-voltios-cambiara-todo-300-kilometros-5-minutos-4302122.jpg?tf=1200x' alt='BYD prepara su sistema de carga de 1.000 voltios que lo cambiará todo: 300 kilómetros en 5 minutos' />
     </a>
 </div>
 
