@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481'>Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/ni-digi-ni-vodafone-o2-tarifa-barata-incluye-movistar-plus-1447481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-digi-ni-vodafone-o2-pone-mercado-patas-arriba-tarifa-barata-incluye-movistar-plus-4302361.jpg?tf=1200x' alt='Ni DIGI ni Vodafone: O2 pone el mercado patas arriba con una tarifa barata que incluye Movistar Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-1447473'>Un ciberataque masivo tumba X y Elon Musk echa la culpa a Ucrania</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-1447473' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ciberataque-masivo-tumba-x-elon-musk-echa-culpa-ucrania-4302366.jpg?tf=1200x' alt='Un ciberataque masivo tumba X y Elon Musk echa la culpa a Ucrania' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/windows-11-revive-raspberry-pi-gracias-nueva-herramienta-gratuita-1447458'>Windows 11 revive en Raspberry Pi gracias a una nueva herramienta gratuita</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/windows-11-revive-raspberry-pi-gracias-nueva-herramienta-gratuita-1447458' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/botspot-virtual-machine-bvm-4302347.jpg?tf=1200x' alt='Windows 11 revive en Raspberry Pi gracias a una nueva herramienta gratuita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-139-estable-ya-disponible-llega-nuevas-funciones-expansion-motos-futuro-1447454'>Android Auto 13.9 estable ya disponible: llega con nuevas funciones y expansión a motos en el futuro</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-139-estable-ya-disponible-llega-nuevas-funciones-expansion-motos-futuro-1447454' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-139-4299087.jpg?tf=1200x' alt='Android Auto 13.9 estable ya disponible: llega con nuevas funciones y expansión a motos en el futuro' />
     </a>
 </div>
 
