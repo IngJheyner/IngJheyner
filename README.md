@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031'>Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemma-3-4303212.jpg?tf=1200x' alt='Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-1447794'>Ni Alien ni Blade Runner: Ridley Scott se rinde a este clásico olvidado de los 80, que puedes ver en Filmin</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-1447794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-4302853.jpg?tf=1200x' alt='Ni Alien ni Blade Runner: Ridley Scott se rinde a este clásico olvidado de los 80, que puedes ver en Filmin' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-1447791'>Netflix estrena un thriller poco común y con denuncia social, y ya ha dividido a los espectadores</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-1447791' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-4302851.jpg?tf=1200x' alt='Netflix estrena un thriller poco común y con denuncia social, y ya ha dividido a los espectadores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-1447486'>Ni Shogun ni Samurái de ojos azules: Prime Video tiene la serie de samuráis perfecta, y pocos la conocen</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-1447486' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-4302384.jpg?tf=1200x' alt='Ni Shogun ni Samurái de ojos azules: Prime Video tiene la serie de samuráis perfecta, y pocos la conocen' />
     </a>
 </div>
 
