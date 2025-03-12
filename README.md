@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662'>Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/relojes-inteligentes-china-apple-huawei-xiaomi-imoo-4302648.jpg?tf=1200x' alt='Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/oppo-reno-13-5g-me-ha-conquistado-diseno-caracteristicas-acercan-gama-alta-1446980'>El Oppo Reno 13 5G me ha conquistado por su diseño y características que lo acercan a la gama alta</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/oppo-reno-13-5g-me-ha-conquistado-diseno-caracteristicas-acercan-gama-alta-1446980' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-reno-13-5g-4302251.jpg?tf=1200x' alt='El Oppo Reno 13 5G me ha conquistado por su diseño y características que lo acercan a la gama alta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649'>Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-mark-zuckerberg-4302669.jpg?tf=1200x' alt='Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-1447789'>Piden 10 años de cárcel para un desarrollador que instaló un botón de venganza oculto, por si le despedían</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-1447789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-4302847.jpg?tf=1200x' alt='Piden 10 años de cárcel para un desarrollador que instaló un botón de venganza oculto, por si le despedían' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-1447624'>¿Y si los correos spam no fuesen tan malos? La sorprendente razón de los expertos para no borrarlos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-1447624' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-4302523.jpg?tf=1200x' alt='¿Y si los correos spam no fuesen tan malos? La sorprendente razón de los expertos para no borrarlos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-cientifico-ia-contradice-sam-altman-error-pensar-newton-einstein-eran-solo-buenos-estudiantes-1447643'>Experto científico en IA contradice a Sam Altman: "Es un error pensar que Newton o Einstein eran solo buenos estudiantes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-cientifico-ia-contradice-sam-altman-error-pensar-newton-einstein-eran-solo-buenos-estudiantes-1447643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4302621.jpg?tf=1200x' alt='Experto científico en IA contradice a Sam Altman: "Es un error pensar que Newton o Einstein eran solo buenos estudiantes"' />
     </a>
 </div>
 
