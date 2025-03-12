@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-costo-puesto-trabajo-burger-king-despide-victima-engano-1447844'>La estafa telefónica que costó un puesto de trabajo: Burger King despide a una víctima de engaño</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-costo-puesto-trabajo-burger-king-despide-victima-engano-1447844' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-telefonica-burger-king-4302920.jpg?tf=1200x' alt='La estafa telefónica que costó un puesto de trabajo: Burger King despide a una víctima de engaño' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/ya-puedes-descargar-20-juegazos-regala-prime-gaming-1447859'>Ya puedes descargar los 20 juegazos que regala Prime Gaming, hay varios Juegos del año</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/ya-puedes-descargar-20-juegazos-regala-prime-gaming-1447859' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-puedes-descargar-20-juegazos-regala-prime-gaming-hay-varios-juegos-ano-4302900.jpg?tf=1200x' alt='Ya puedes descargar los 20 juegazos que regala Prime Gaming, hay varios Juegos del año' />
@@ -58,9 +66,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814'>Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida”</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814'>Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mentiras-gobiernos-ia-4302890.jpg?tf=1200x' alt='Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida”' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mentiras-gobiernos-ia-4302890.jpg?tf=1200x' alt='Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida"' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809'>TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-radical-tiktok-eres-menor-16-anos-te-enviara-dormir-10-noche-4302854.jpg?tf=1200x' alt='TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662'>Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/relojes-inteligentes-china-apple-huawei-xiaomi-imoo-4302648.jpg?tf=1200x' alt='Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes' />
     </a>
 </div>
 
