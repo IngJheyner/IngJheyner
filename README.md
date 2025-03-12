@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649'>Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-mark-zuckerberg-4302669.jpg?tf=1200x' alt='Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-otro-palo-ahora-linkedin-fue-peor-trabajo-mi-vida-1447512'>Elon Musk recibe otro palo, ahora de LinkedIn: "Fue el peor trabajo de mi vida"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-otro-palo-ahora-linkedin-fue-peor-trabajo-mi-vida-1447512' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-4007271.jpg?tf=1200x' alt='Elon Musk recibe otro palo, ahora de LinkedIn: "Fue el peor trabajo de mi vida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-1447789'>Piden 10 años de cárcel para un desarrollador que instaló un botón de venganza oculto, por si le despedían</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-1447789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-4302847.jpg?tf=1200x' alt='Piden 10 años de cárcel para un desarrollador que instaló un botón de venganza oculto, por si le despedían' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-1447624'>¿Y si los correos spam no fuesen tan malos? La sorprendente razón de los expertos para no borrarlos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-1447624' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-4302523.jpg?tf=1200x' alt='¿Y si los correos spam no fuesen tan malos? La sorprendente razón de los expertos para no borrarlos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-cientifico-ia-contradice-sam-altman-error-pensar-newton-einstein-eran-solo-buenos-estudiantes-1447643'>Experto científico en IA contradice a Sam Altman: "Es un error pensar que Newton o Einstein eran solo buenos estudiantes"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-cientifico-ia-contradice-sam-altman-error-pensar-newton-einstein-eran-solo-buenos-estudiantes-1447643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4302621.jpg?tf=1200x' alt='Experto científico en IA contradice a Sam Altman: "Es un error pensar que Newton o Einstein eran solo buenos estudiantes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/adios-alergias-virus-asus-lanza-primer-monitor-purifica-aire-1447770'>Adiós a las alergias y los virus: Asus lanza el primer monitor que purifica el aire</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/adios-alergias-virus-asus-lanza-primer-monitor-purifica-aire-1447770' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-polvo-virus-asus-lanza-primer-monitor-purifica-aire-4302790.jpg?tf=1200x' alt='Adiós a las alergias y los virus: Asus lanza el primer monitor que purifica el aire' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/giro-180-grados-roomba-irobot-revoluciona-robots-nuevo-diseno-gama-media-1444913'>Giro de 180 grados para Roomba: iRobot revoluciona sus robots con nuevo diseño y más gama media</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/giro-180-grados-roomba-irobot-revoluciona-robots-nuevo-diseno-gama-media-1444913' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/roomba-plus-505-combo-robot-4302750.jpg?tf=1200x' alt='Giro de 180 grados para Roomba: iRobot revoluciona sus robots con nuevo diseño y más gama media' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-1447735'>Steve Wozniak sin piedad con Tesla en plena crisis de Elon Musk: "Es miserable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-1447735' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-4302807.jpg?tf=1200x' alt='Steve Wozniak sin piedad con Tesla en plena crisis de Elon Musk: "Es miserable"' />
     </a>
 </div>
 
