@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-1447794'>Ni Alien ni Blade Runner: Ridley Scott se rinde a este clásico olvidado de los 80, que puedes ver en Filmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-1447794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-4302853.jpg?tf=1200x' alt='Ni Alien ni Blade Runner: Ridley Scott se rinde a este clásico olvidado de los 80, que puedes ver en Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-peligrosa-estafa-simple-sms-podria-costarte-todo-dinero-1448029'>Advierten sobre una peligrosa estafa: un simple SMS podría costarte todo tu dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-peligrosa-estafa-simple-sms-podria-costarte-todo-dinero-1448029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/smishing-4303209.jpg?tf=1200x' alt='Advierten sobre una peligrosa estafa: un simple SMS podría costarte todo tu dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-actualiza-iphone-ios-1832-estas-son-todas-novedades-puedes-actualizar-1448025'>Apple actualiza el iPhone con iOS 18.3.2: estas son todas las novedades y así puedes actualizar</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-actualiza-iphone-ios-1832-estas-son-todas-novedades-puedes-actualizar-1448025' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-apple-4303204.jpg?tf=1200x' alt='Apple actualiza el iPhone con iOS 18.3.2: estas son todas las novedades y así puedes actualizar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-1447791'>Netflix estrena un thriller poco común y con denuncia social, y ya ha dividido a los espectadores</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-1447791' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-4302851.jpg?tf=1200x' alt='Netflix estrena un thriller poco común y con denuncia social, y ya ha dividido a los espectadores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-1447486'>Ni Shogun ni Samurái de ojos azules: Prime Video tiene la serie de samuráis perfecta, y pocos la conocen</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-1447486' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-4302384.jpg?tf=1200x' alt='Ni Shogun ni Samurái de ojos azules: Prime Video tiene la serie de samuráis perfecta, y pocos la conocen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/iptv-malas-noticias-javier-tebas-intentando-parar-avalancha-manos-1447992'>IPTV, malas noticias para Javier Tebas: "Está intentando parar una avalancha con las manos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/iptv-malas-noticias-javier-tebas-intentando-parar-avalancha-manos-1447992' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-malas-noticias-javier-tebas-intentando-parar-avalancha-manos-4303196.jpg?tf=1200x' alt='IPTV, malas noticias para Javier Tebas: "Está intentando parar una avalancha con las manos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-revivir-viejo-chromecast-dejado-funcionar-1448002'>Cómo revivir ese viejo Chromecast que ha dejado de funcionar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-revivir-viejo-chromecast-dejado-funcionar-1448002' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/conectar-chromecast-televisor-4303157.jpg?tf=1200x' alt='Cómo revivir ese viejo Chromecast que ha dejado de funcionar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lupa-cientificos-cuestionan-validez-chip-cuantico-majorana-1-1447908'>Microsoft bajo la lupa: científicos cuestionan la validez del chip cuántico Majorana 1</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lupa-cientificos-cuestionan-validez-chip-cuantico-majorana-1-1447908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/concepto-chip-cuantico-4303029.jpg?tf=1200x' alt='Microsoft bajo la lupa: científicos cuestionan la validez del chip cuántico Majorana 1' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-atletico-madrid-movistar-plus-gratis-1443170'>Adiós IPTV, así puedes ver gratis el Atlético de Madrid - Real Madrid de Champions en Movistar Plus+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-atletico-madrid-movistar-plus-gratis-1443170' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/atletico-madrid-real-madrid-liga-campeones-4303046.jpg?tf=1200x' alt='Adiós IPTV, así puedes ver gratis el Atlético de Madrid - Real Madrid de Champions en Movistar Plus+' />
     </a>
 </div>
 
