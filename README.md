@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-1447486'>Ni Shogun ni Samurái de ojos azules: Prime Video tiene la serie de samuráis perfecta, y pocos la conocen</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-1447486' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-shogun-ni-samurai-ojos-azules-prime-video-tiene-serie-samurais-perfecta-pocos-conocen-4302384.jpg?tf=1200x' alt='Ni Shogun ni Samurái de ojos azules: Prime Video tiene la serie de samuráis perfecta, y pocos la conocen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/iptv-malas-noticias-javier-tebas-intentando-parar-avalancha-manos-1447992'>IPTV, malas noticias para Javier Tebas: "Está intentando parar una avalancha con las manos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/iptv-malas-noticias-javier-tebas-intentando-parar-avalancha-manos-1447992' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-malas-noticias-javier-tebas-intentando-parar-avalancha-manos-4303196.jpg?tf=1200x' alt='IPTV, malas noticias para Javier Tebas: "Está intentando parar una avalancha con las manos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-revivir-viejo-chromecast-dejado-funcionar-1448002'>Cómo revivir ese viejo Chromecast que ha dejado de funcionar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-revivir-viejo-chromecast-dejado-funcionar-1448002' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/conectar-chromecast-televisor-4303157.jpg?tf=1200x' alt='Cómo revivir ese viejo Chromecast que ha dejado de funcionar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lupa-cientificos-cuestionan-validez-chip-cuantico-majorana-1-1447908'>Microsoft bajo la lupa: científicos cuestionan la validez del chip cuántico Majorana 1</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-lupa-cientificos-cuestionan-validez-chip-cuantico-majorana-1-1447908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/concepto-chip-cuantico-4303029.jpg?tf=1200x' alt='Microsoft bajo la lupa: científicos cuestionan la validez del chip cuántico Majorana 1' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-atletico-madrid-movistar-plus-gratis-1443170'>Adiós IPTV, así puedes ver gratis el Atlético de Madrid - Real Madrid de Champions en Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/como-ver-gratis-atletico-madrid-movistar-plus-gratis-1443170' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/atletico-madrid-real-madrid-liga-campeones-4303046.jpg?tf=1200x' alt='Adiós IPTV, así puedes ver gratis el Atlético de Madrid - Real Madrid de Champions en Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/ejecutar-linux-movil-android-sirve-exactamente-1447979'>Genial, ya puedes ejecutar Linux en tu móvil Android, pero… ¿Para qué sirve exactamente?</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/ejecutar-linux-movil-android-sirve-exactamente-1447979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/terminal-linux-android-4303103.jpg?tf=1200x' alt='Genial, ya puedes ejecutar Linux en tu móvil Android, pero… ¿Para qué sirve exactamente?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-desvela-imagenes-megaproyecto-secreto-eeuu-isla-convertida-base-envio-armas-1447880'>La NASA desvela en imágenes el megaproyecto secreto de EEUU: una isla convertida en base para el envío de armas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-desvela-imagenes-megaproyecto-secreto-eeuu-isla-convertida-base-envio-armas-1447880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rehabilitar-remota-isla-pacifico-4302967.jpg?tf=1200x' alt='La NASA desvela en imágenes el megaproyecto secreto de EEUU: una isla convertida en base para el envío de armas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/golpe-brutal-iptv-policia-desmantela-mayores-redes-streaming-ilegal-europa-1447968'>Golpe brutal a las IPTV: la policía desmantela una de las mayores redes de streaming ilegal de Europa</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/golpe-brutal-iptv-policia-desmantela-mayores-redes-streaming-ilegal-europa-1447968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/golpe-brutal-iptv-policia-desmantela-mayores-redes-streaming-ilegal-europa-4303128.jpg?tf=1200x' alt='Golpe brutal a las IPTV: la policía desmantela una de las mayores redes de streaming ilegal de Europa' />
     </a>
 </div>
 
