@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809'>TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-radical-tiktok-eres-menor-16-anos-te-enviara-dormir-10-noche-4302854.jpg?tf=1200x' alt='TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662'>Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/relojes-inteligentes-china-apple-huawei-xiaomi-imoo-4302648.jpg?tf=1200x' alt='Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-otro-palo-ahora-linkedin-fue-peor-trabajo-mi-vida-1447512'>Elon Musk recibe otro palo, ahora de LinkedIn: "Fue el peor trabajo de mi vida"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-otro-palo-ahora-linkedin-fue-peor-trabajo-mi-vida-1447512' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-4007271.jpg?tf=1200x' alt='Elon Musk recibe otro palo, ahora de LinkedIn: "Fue el peor trabajo de mi vida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-1447789'>Piden 10 años de cárcel para un desarrollador que instaló un botón de venganza oculto, por si le despedían</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-1447789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/piden-10-anos-carcel-desarrollador-instalo-boton-venganza-oculto-despedian-4302847.jpg?tf=1200x' alt='Piden 10 años de cárcel para un desarrollador que instaló un botón de venganza oculto, por si le despedían' />
     </a>
 </div>
 
