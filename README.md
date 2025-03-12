@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-television-movistar-parecen-mismo-pero-no-son-1447889'>Movistar Plus+ o televisión de Movistar: parecen lo mismo, pero no lo son</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-television-movistar-parecen-mismo-pero-no-son-1447889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-television-movistar-parecen-mismo-pero-no-son-4302991.jpg?tf=1200x' alt='Movistar Plus+ o televisión de Movistar: parecen lo mismo, pero no lo son' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fabricante-hp-actualiza-impresoras-impedir-uso-cartuchos-piratas-1447942'>Un nuevo fabricante se suma a HP y actualiza todas sus impresoras para impedir el uso de cartuchos piratas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fabricante-hp-actualiza-impresoras-impedir-uso-cartuchos-piratas-1447942' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cartuchos-pirata-impresora-hp-4303078.jpg?tf=1200x' alt='Un nuevo fabricante se suma a HP y actualiza todas sus impresoras para impedir el uso de cartuchos piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-1447866'>En EEUU la gente está abandonando sus Teslas, no solo por Elon Musk, hay un motivo oculto más importante</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-1447866' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-4302961.jpg?tf=1200x' alt='En EEUU la gente está abandonando sus Teslas, no solo por Elon Musk, hay un motivo oculto más importante' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-1447861'>Giro de 180 grados en Windows 10: Microsoft abre la mano para que más ordenadores puedan actualizarse a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-1447861' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-4302940.jpg?tf=1200x' alt='Giro de 180 grados en Windows 10: Microsoft abre la mano para que más ordenadores puedan actualizarse a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-utiliza-whatsapp-advertir-peligrosa-estafa-hacen-pasar-operadoras-moviles-1447905'>Movistar utiliza WhatsApp para advertir de esta peligrosa estafa: "Se hacen pasar por operadoras móviles"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-utiliza-whatsapp-advertir-peligrosa-estafa-hacen-pasar-operadoras-moviles-1447905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-utiliza-whatsapp-advertir-peligrosa-estafa-hacen-pasar-operadoras-moviles-4302988.jpg?tf=1200x' alt='Movistar utiliza WhatsApp para advertir de esta peligrosa estafa: "Se hacen pasar por operadoras móviles"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-china-acaba-todas-posibilidades-piloto-humano-gane-combate-aereo-guerra-1447920'>Esta IA china acaba con todas las posibilidades de que un piloto humano gane un combate aéreo en una guerra</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-china-acaba-todas-posibilidades-piloto-humano-gane-combate-aereo-guerra-1447920' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-combate-aereo-4302998.jpg?tf=1200x' alt='Esta IA china acaba con todas las posibilidades de que un piloto humano gane un combate aéreo en una guerra' />
     </a>
 </div>
 
