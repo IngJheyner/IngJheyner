@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nasa-desvela-imagenes-megaproyecto-secreto-eeuu-isla-convertida-base-envio-armas-1447880'>La NASA desvela en imágenes el megaproyecto secreto de EEUU: una isla convertida en base para el envío de armas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nasa-desvela-imagenes-megaproyecto-secreto-eeuu-isla-convertida-base-envio-armas-1447880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rehabilitar-remota-isla-pacifico-4302967.jpg?tf=1200x' alt='La NASA desvela en imágenes el megaproyecto secreto de EEUU: una isla convertida en base para el envío de armas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/golpe-brutal-iptv-policia-desmantela-mayores-redes-streaming-ilegal-europa-1447968'>Golpe brutal a las IPTV: la policía desmantela una de las mayores redes de streaming ilegal de Europa</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/golpe-brutal-iptv-policia-desmantela-mayores-redes-streaming-ilegal-europa-1447968' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/golpe-brutal-iptv-policia-desmantela-mayores-redes-streaming-ilegal-europa-4303128.jpg?tf=1200x' alt='Golpe brutal a las IPTV: la policía desmantela una de las mayores redes de streaming ilegal de Europa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/laliga-insiste-bloqueos-iptv-mientras-recibe-multa-millonaria-vulnerar-privacidad-aficionados-1447950'>LaLiga insiste en los bloqueos a las IPTV mientras recibe una multa millonaria por vulnerar la privacidad de los aficionados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/laliga-insiste-bloqueos-iptv-mientras-recibe-multa-millonaria-vulnerar-privacidad-aficionados-1447950' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-iptv-4303072.jpg?tf=1200x' alt='LaLiga insiste en los bloqueos a las IPTV mientras recibe una multa millonaria por vulnerar la privacidad de los aficionados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-television-movistar-parecen-mismo-pero-no-son-1447889'>Movistar Plus+ o televisión de Movistar: parecen lo mismo, pero no lo son</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-television-movistar-parecen-mismo-pero-no-son-1447889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-television-movistar-parecen-mismo-pero-no-son-4302991.jpg?tf=1200x' alt='Movistar Plus+ o televisión de Movistar: parecen lo mismo, pero no lo son' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/fabricante-hp-actualiza-impresoras-impedir-uso-cartuchos-piratas-1447942'>Un nuevo fabricante se suma a HP y actualiza todas sus impresoras para impedir el uso de cartuchos piratas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/fabricante-hp-actualiza-impresoras-impedir-uso-cartuchos-piratas-1447942' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cartuchos-pirata-impresora-hp-4303078.jpg?tf=1200x' alt='Un nuevo fabricante se suma a HP y actualiza todas sus impresoras para impedir el uso de cartuchos piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-1447866'>En EEUU la gente está abandonando sus Teslas, no solo por Elon Musk, hay un motivo oculto más importante</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-1447866' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-4302961.jpg?tf=1200x' alt='En EEUU la gente está abandonando sus Teslas, no solo por Elon Musk, hay un motivo oculto más importante' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-optimistas-creen-ya-tesla-advierten-elon-musk-paciencia-agotando-1447939'>Ni los más optimistas creen ya en Tesla y advierten a Elon Musk: "La paciencia se está agotando"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-optimistas-creen-ya-tesla-advierten-elon-musk-paciencia-agotando-1447939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-tesla-4303066.jpg?tf=1200x' alt='Ni los más optimistas creen ya en Tesla y advierten a Elon Musk: "La paciencia se está agotando"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-1447861'>Giro de 180 grados en Windows 10: Microsoft abre la mano para que más ordenadores puedan actualizarse a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-1447861' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-4302940.jpg?tf=1200x' alt='Giro de 180 grados en Windows 10: Microsoft abre la mano para que más ordenadores puedan actualizarse a Windows 11' />
     </a>
 </div>
 
