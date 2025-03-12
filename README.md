@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-1448018'>Expertos en la lucha contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-1448018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-4303238.jpg?tf=1200x' alt='Expertos en la lucha contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/linea-roja-dgt-cuidado-tocarla-te-caera-buena-multa-1448039'>Qué es la nueva línea roja de la DGT: cuidado con tocarla, te caerá una buena multa</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/linea-roja-dgt-cuidado-tocarla-te-caera-buena-multa-1448039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-linea-roja-dgt-cuidado-tocarla-4303216.jpg?tf=1200x' alt='Qué es la nueva línea roja de la DGT: cuidado con tocarla, te caerá una buena multa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031'>Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemma-3-4303212.jpg?tf=1200x' alt='Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-peligrosa-estafa-simple-sms-podria-costarte-todo-dinero-1448029'>Advierten sobre una peligrosa estafa: un simple SMS podría costarte todo tu dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-peligrosa-estafa-simple-sms-podria-costarte-todo-dinero-1448029' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/smishing-4303209.jpg?tf=1200x' alt='Advierten sobre una peligrosa estafa: un simple SMS podría costarte todo tu dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-actualiza-iphone-ios-1832-estas-son-todas-novedades-puedes-actualizar-1448025'>Apple actualiza el iPhone con iOS 18.3.2: estas son todas las novedades y así puedes actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-actualiza-iphone-ios-1832-estas-son-todas-novedades-puedes-actualizar-1448025' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-apple-4303204.jpg?tf=1200x' alt='Apple actualiza el iPhone con iOS 18.3.2: estas son todas las novedades y así puedes actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-1447791'>Netflix estrena un thriller poco común y con denuncia social, y ya ha dividido a los espectadores</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-1447791' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-estrena-thriller-poco-comun-denuncia-social-ya-ha-dividido-espectadores-4302851.jpg?tf=1200x' alt='Netflix estrena un thriller poco común y con denuncia social, y ya ha dividido a los espectadores' />
     </a>
 </div>
 
