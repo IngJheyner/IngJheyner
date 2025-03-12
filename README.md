@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/ya-puedes-descargar-20-juegazos-regala-prime-gaming-1447859'>Ya puedes descargar los 20 juegazos que regala Prime Gaming, hay varios Juegos del año</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/ya-puedes-descargar-20-juegazos-regala-prime-gaming-1447859' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-puedes-descargar-20-juegazos-regala-prime-gaming-hay-varios-juegos-ano-4302900.jpg?tf=1200x' alt='Ya puedes descargar los 20 juegazos que regala Prime Gaming, hay varios Juegos del año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814'>Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mentiras-gobiernos-ia-4302890.jpg?tf=1200x' alt='Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813'>El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662'>Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/apple-desinfla-mientras-china-conquista-otro-mercado-clave-relojes-inteligentes-1447662' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/relojes-inteligentes-china-apple-huawei-xiaomi-imoo-4302648.jpg?tf=1200x' alt='Apple se desinfla, mientras que China conquista otro mercado clave, el de los relojes inteligentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/oppo-reno-13-5g-me-ha-conquistado-diseno-caracteristicas-acercan-gama-alta-1446980'>El Oppo Reno 13 5G me ha conquistado por su diseño y características que lo acercan a la gama alta</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/oppo-reno-13-5g-me-ha-conquistado-diseno-caracteristicas-acercan-gama-alta-1446980' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-reno-13-5g-4302251.jpg?tf=1200x' alt='El Oppo Reno 13 5G me ha conquistado por su diseño y características que lo acercan a la gama alta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649'>Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-mark-zuckerberg-4302669.jpg?tf=1200x' alt='Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden' />
     </a>
 </div>
 
