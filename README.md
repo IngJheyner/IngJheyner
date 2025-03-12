@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/problemas-elon-musk-modelo-vendido-tesla-llamado-inspeccion-1447834'>Más problemas para Elon Musk: el modelo más vendido de Tesla es llamado a inspección</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/problemas-elon-musk-modelo-vendido-tesla-llamado-inspeccion-1447834' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-elon-musk-modelo-vendido-tesla-llamado-inspeccion-4302894.jpg?tf=1200x' alt='Más problemas para Elon Musk: el modelo más vendido de Tesla es llamado a inspección' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-muestra-signos-debilidad-primera-vez-publico-gran-dificultad-1447874'>Elon Musk muestra signos de debilidad por primera vez en público: "Con gran dificultad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-muestra-signos-debilidad-primera-vez-publico-gran-dificultad-1447874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302956.jpg?tf=1200x' alt='Elon Musk muestra signos de debilidad por primera vez en público: "Con gran dificultad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-firma-tregua-ucrania-starlink-aunque-deja-advertencia-inevitablemente-perdera-1447875'>Elon Musk firma la tregua en Ucrania por Starlink, aunque deja una advertencia: "Inevitablemente perderá"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-firma-tregua-ucrania-starlink-aunque-deja-advertencia-inevitablemente-perdera-1447875' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-firma-tregua-ucrania-starlink-4302957.jpg?tf=1200x' alt='Elon Musk firma la tregua en Ucrania por Starlink, aunque deja una advertencia: "Inevitablemente perderá"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-medicina-pone-prueba-ia-quien-da-mejores-consejos-medicos-chatgpt-google-1447886'>Expertos en medicina ponen a prueba a la IA: quién da mejores consejos médicos, ¿ChatGPT o Google?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-medicina-pone-prueba-ia-quien-da-mejores-consejos-medicos-chatgpt-google-1447886' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-consejos-medicos-chatgpt-google-4302934.jpg?tf=1200x' alt='Expertos en medicina ponen a prueba a la IA: quién da mejores consejos médicos, ¿ChatGPT o Google?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-costo-puesto-trabajo-burger-king-despide-victima-engano-1447844'>La estafa telefónica que costó un puesto de trabajo: Burger King despide a una víctima de engaño</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-costo-puesto-trabajo-burger-king-despide-victima-engano-1447844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-telefonica-burger-king-4302920.jpg?tf=1200x' alt='La estafa telefónica que costó un puesto de trabajo: Burger King despide a una víctima de engaño' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/ya-puedes-descargar-20-juegazos-regala-prime-gaming-1447859'>Ya puedes descargar los 20 juegazos que regala Prime Gaming, hay varios Juegos del año</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/ya-puedes-descargar-20-juegazos-regala-prime-gaming-1447859' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-puedes-descargar-20-juegazos-regala-prime-gaming-hay-varios-juegos-ano-4302900.jpg?tf=1200x' alt='Ya puedes descargar los 20 juegazos que regala Prime Gaming, hay varios Juegos del año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814'>Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/comienza-era-ia-politica-permite-manipular-escala-forma-rapida-1447814' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mentiras-gobiernos-ia-4302890.jpg?tf=1200x' alt='Comienza la era de la IA en política: "Permite manipular a más escala y de forma más rápida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813'>El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España' />
     </a>
 </div>
 
