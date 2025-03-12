@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-1447866'>En EEUU la gente está abandonando sus Teslas, no solo por Elon Musk, hay un motivo oculto más importante</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-1447866' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/eeuu-gente-abandonando-teslas-no-solo-elon-musk-hay-motivo-oculto-importante-4302961.jpg?tf=1200x' alt='En EEUU la gente está abandonando sus Teslas, no solo por Elon Musk, hay un motivo oculto más importante' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-optimistas-creen-ya-tesla-advierten-elon-musk-paciencia-agotando-1447939'>Ni los más optimistas creen ya en Tesla y advierten a Elon Musk: "La paciencia se está agotando"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-optimistas-creen-ya-tesla-advierten-elon-musk-paciencia-agotando-1447939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-tesla-4303066.jpg?tf=1200x' alt='Ni los más optimistas creen ya en Tesla y advierten a Elon Musk: "La paciencia se está agotando"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-1447861'>Giro de 180 grados en Windows 10: Microsoft abre la mano para que más ordenadores puedan actualizarse a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-1447861' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-windows-10-microsoft-abre-mano-ordenadores-puedan-actualizarse-windows-11-4302940.jpg?tf=1200x' alt='Giro de 180 grados en Windows 10: Microsoft abre la mano para que más ordenadores puedan actualizarse a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-utiliza-whatsapp-advertir-peligrosa-estafa-hacen-pasar-operadoras-moviles-1447905'>Movistar utiliza WhatsApp para advertir de esta peligrosa estafa: "Se hacen pasar por operadoras móviles"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-utiliza-whatsapp-advertir-peligrosa-estafa-hacen-pasar-operadoras-moviles-1447905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-utiliza-whatsapp-advertir-peligrosa-estafa-hacen-pasar-operadoras-moviles-4302988.jpg?tf=1200x' alt='Movistar utiliza WhatsApp para advertir de esta peligrosa estafa: "Se hacen pasar por operadoras móviles"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-china-acaba-todas-posibilidades-piloto-humano-gane-combate-aereo-guerra-1447920'>Esta IA china acaba con todas las posibilidades de que un piloto humano gane un combate aéreo en una guerra</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-china-acaba-todas-posibilidades-piloto-humano-gane-combate-aereo-guerra-1447920' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-combate-aereo-4302998.jpg?tf=1200x' alt='Esta IA china acaba con todas las posibilidades de que un piloto humano gane un combate aéreo en una guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-advierte-todos-clientes-no-te-llaman-numero-estafa-ha-comenzado-1447862'>Movistar advierte a todos sus clientes: si no te llaman de este número, la estafa ha comenzado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/movistar-advierte-todos-clientes-no-te-llaman-numero-estafa-ha-comenzado-1447862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-llamada-movistar-4302944.jpg?tf=1200x' alt='Movistar advierte a todos sus clientes: si no te llaman de este número, la estafa ha comenzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/problemas-elon-musk-modelo-vendido-tesla-llamado-inspeccion-1447834'>Más problemas para Elon Musk: el modelo más vendido de Tesla es llamado a inspección</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/problemas-elon-musk-modelo-vendido-tesla-llamado-inspeccion-1447834' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-elon-musk-modelo-vendido-tesla-llamado-inspeccion-4302894.jpg?tf=1200x' alt='Más problemas para Elon Musk: el modelo más vendido de Tesla es llamado a inspección' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-muestra-signos-debilidad-primera-vez-publico-gran-dificultad-1447874'>Elon Musk muestra signos de debilidad por primera vez en público: "Con gran dificultad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-muestra-signos-debilidad-primera-vez-publico-gran-dificultad-1447874' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302956.jpg?tf=1200x' alt='Elon Musk muestra signos de debilidad por primera vez en público: "Con gran dificultad"' />
     </a>
 </div>
 
