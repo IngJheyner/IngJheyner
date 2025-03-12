@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-1447624'>¿Y si los correos spam no fuesen tan malos? La sorprendente razón de los expertos para no borrarlos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-1447624' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/correos-spam-no-fuesen-tan-malos-sorprendente-razon-expertos-no-borrarlos-4302523.jpg?tf=1200x' alt='¿Y si los correos spam no fuesen tan malos? La sorprendente razón de los expertos para no borrarlos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-cientifico-ia-contradice-sam-altman-error-pensar-newton-einstein-eran-solo-buenos-estudiantes-1447643'>Experto científico en IA contradice a Sam Altman: "Es un error pensar que Newton o Einstein eran solo buenos estudiantes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-cientifico-ia-contradice-sam-altman-error-pensar-newton-einstein-eran-solo-buenos-estudiantes-1447643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4302621.jpg?tf=1200x' alt='Experto científico en IA contradice a Sam Altman: "Es un error pensar que Newton o Einstein eran solo buenos estudiantes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/adios-alergias-virus-asus-lanza-primer-monitor-purifica-aire-1447770'>Adiós a las alergias y los virus: Asus lanza el primer monitor que purifica el aire</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/adios-alergias-virus-asus-lanza-primer-monitor-purifica-aire-1447770' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-polvo-virus-asus-lanza-primer-monitor-purifica-aire-4302790.jpg?tf=1200x' alt='Adiós a las alergias y los virus: Asus lanza el primer monitor que purifica el aire' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-1447735'>Steve Wozniak sin piedad con Tesla en plena crisis de Elon Musk: "Es miserable"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-1447735' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-wozniak-piedad-tesla-plena-crisis-elon-musk-miserable-4302807.jpg?tf=1200x' alt='Steve Wozniak sin piedad con Tesla en plena crisis de Elon Musk: "Es miserable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-pelicula-ciencia-ficcion-ya-visto-1447487'>Acaba de llegar a Prime Video, y esta película de ciencia ficción ya está entre lo más visto</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-pelicula-ciencia-ficcion-ya-visto-1447487' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/08/creator-3113878.jpg?tf=1200x' alt='Acaba de llegar a Prime Video, y esta película de ciencia ficción ya está entre lo más visto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-actualizacion-evitara-sorpresas-videollamadas-1447754'>WhatsApp prepara una actualización que evitará sorpresas en las videollamadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/whatsapp-prepara-actualizacion-evitara-sorpresas-videollamadas-1447754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-4302799.jpg?tf=1200x' alt='WhatsApp prepara una actualización que evitará sorpresas en las videollamadas' />
     </a>
 </div>
 
