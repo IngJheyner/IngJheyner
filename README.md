@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-medicina-pone-prueba-ia-quien-da-mejores-consejos-medicos-chatgpt-google-1447886'>Expertos en medicina ponen a prueba a la IA: quién da mejores consejos médicos, ¿ChatGPT o Google?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-medicina-pone-prueba-ia-quien-da-mejores-consejos-medicos-chatgpt-google-1447886' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-consejos-medicos-chatgpt-google-4302934.jpg?tf=1200x' alt='Expertos en medicina ponen a prueba a la IA: quién da mejores consejos médicos, ¿ChatGPT o Google?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-costo-puesto-trabajo-burger-king-despide-victima-engano-1447844'>La estafa telefónica que costó un puesto de trabajo: Burger King despide a una víctima de engaño</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-telefonica-costo-puesto-trabajo-burger-king-despide-victima-engano-1447844' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-telefonica-burger-king-4302920.jpg?tf=1200x' alt='La estafa telefónica que costó un puesto de trabajo: Burger King despide a una víctima de engaño' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813'>El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809'>TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-radical-tiktok-eres-menor-16-anos-te-enviara-dormir-10-noche-4302854.jpg?tf=1200x' alt='TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche' />
     </a>
 </div>
 
