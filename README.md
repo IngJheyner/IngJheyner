@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813'>El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/gobierno-aprueba-ley-buen-uso-ia-consiste-practicas-prohibe-espana-1447813' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/inteligencia-artificial-espana-4266731.jpg?tf=1200x' alt='El Gobierno aprueba una ley para el buen uso de la IA: en qué consiste y qué prácticas prohíbe en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809'>TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/tiktok-activa-modo-ninera-eres-menor-16-anos-te-enviara-dormir-10-noche-1447809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambio-radical-tiktok-eres-menor-16-anos-te-enviara-dormir-10-noche-4302854.jpg?tf=1200x' alt='TikTok activa el "modo niñera": si eres menor de 16 años, te enviará a dormir a las 10 de la noche' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649'>Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/elon-musk-bill-gates-mark-zuckerberg-creen-moviles-desapareceran-pero-hay-algo-no-coinciden-1447649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-mark-zuckerberg-4302669.jpg?tf=1200x' alt='Elon Musk, Bill Gates y Mark Zuckerberg creen que los móviles desaparecerán, pero hay algo en lo que no coinciden' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-otro-palo-ahora-linkedin-fue-peor-trabajo-mi-vida-1447512'>Elon Musk recibe otro palo, ahora de LinkedIn: "Fue el peor trabajo de mi vida"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-recibe-otro-palo-ahora-linkedin-fue-peor-trabajo-mi-vida-1447512' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-4007271.jpg?tf=1200x' alt='Elon Musk recibe otro palo, ahora de LinkedIn: "Fue el peor trabajo de mi vida"' />
     </a>
 </div>
 
