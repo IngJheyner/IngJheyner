@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174'>Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4302330.jpg?tf=1200x' alt='Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/realme-14-pro-realme-14-pro-he-analizado-me-quedaria-varias-razones-1447414'>¿Realme 14 Pro o Realme 14 Pro+? Los he analizado y me quedaría con este por varias razones</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/realme-14-pro-realme-14-pro-he-analizado-me-quedaria-varias-razones-1447414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-14-pro-vs-realme-14-pro-4302690.jpg?tf=1200x' alt='¿Realme 14 Pro o Realme 14 Pro+? Los he analizado y me quedaría con este por varias razones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924'>Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-musk-4303065.jpg?tf=1200x' alt='Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-ia-necesaria-regulacion-antes-sea-demasiado-tarde-1447890'>Elon Musk alerta sobre la IA: "Es necesaria una regulación antes de que sea demasiado tarde"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-ia-necesaria-regulacion-antes-sea-demasiado-tarde-1447890' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302999.jpg?tf=1200x' alt='Elon Musk alerta sobre la IA: "Es necesaria una regulación antes de que sea demasiado tarde"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-generacion-z-abraza-costumbres-anos-despues-1447891'>Steve Jobs tenía razón: la generación Z abraza una de sus costumbres años después</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-generacion-z-abraza-costumbres-anos-despues-1447891' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-jobs-camiseta-4303120.jpg?tf=1200x' alt='Steve Jobs tenía razón: la generación Z abraza una de sus costumbres años después' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-mundial-ia-ataca-sam-altman-openai-estan-jugando-ruleta-rusa-raza-humana-1447831'>Experto mundial en IA ataca a Sam Altman y OpenAI: "Están jugando a la ruleta rusa con la raza humana"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-mundial-ia-ataca-sam-altman-openai-estan-jugando-ruleta-rusa-raza-humana-1447831' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-jugando-ruleta-4303113.jpg?tf=1200x' alt='Experto mundial en IA ataca a Sam Altman y OpenAI: "Están jugando a la ruleta rusa con la raza humana"' />
     </a>
 </div>
 
