@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/26-millones-dispositivos-todo-mundo-comprometidos-malware-roba-datos-bancarios-1448304'>26 millones de dispositivos en todo el mundo comprometidos por malware que roba datos bancarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/26-millones-dispositivos-todo-mundo-comprometidos-malware-roba-datos-bancarios-1448304' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-4303715.jpg?tf=1200x' alt='26 millones de dispositivos en todo el mundo comprometidos por malware que roba datos bancarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-amplia-catalogo-rtve-cadenas-autonomicas-suman-1448302'>TDTChannels amplía su catálogo: RTVE y más cadenas autonómicas se suman</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-amplia-catalogo-rtve-cadenas-autonomicas-suman-1448302' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannel-traera-canales-tv-radio-gratis-abril-registro-ni-instalacion-3294290.jpg?tf=1200x' alt='TDTChannels amplía su catálogo: RTVE y más cadenas autonómicas se suman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chromecast-android-14-rapido-seguro-mejoras-clave-1448300'>Google actualiza Chromecast con Android 14: más rápido, más seguro y con mejoras clave</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chromecast-android-14-rapido-seguro-mejoras-clave-1448300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-4303713.jpg?tf=1200x' alt='Google actualiza Chromecast con Android 14: más rápido, más seguro y con mejoras clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/orange-advierte-estafa-iphone-1448294'>Orange advierte sobre una estafa en su nombre, que tiene que ver con el iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/orange-advierte-estafa-iphone-1448294' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/orange-advierte-estafa-nombre-tiene-ver-iphone-4303305.jpg?tf=1200x' alt='Orange advierte sobre una estafa en su nombre, que tiene que ver con el iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-robots-todos-tiempos-critica-1444777'>Las 5 mejores películas de robots de todos los tiempos, según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-robots-todos-tiempos-critica-1444777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-mejores-peliculas-robots-todos-tiempos-critica-4297560.jpg?tf=1200x' alt='Las 5 mejores películas de robots de todos los tiempos, según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-abandona-barco-tesla-situacion-critica-1448261'>El confidente de Elon Musk, James Murdoch, abandona el barco de Tesla y la situación es crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-abandona-barco-tesla-situacion-critica-1448261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-james-murdoch-tesla-4303677.jpg?tf=1200x' alt='El confidente de Elon Musk, James Murdoch, abandona el barco de Tesla y la situación es crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/inteligente-pelicula-ciencia-ficcion-nacio-como-cine-independiente-ahora-culto-puedes-verla-filmin-1446548'>La inteligente película de ciencia ficción que nació como cine independiente y ahora es de culto: puedes verla en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/inteligente-pelicula-ciencia-ficcion-nacio-como-cine-independiente-ahora-culto-puedes-verla-filmin-1446548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligente-pelicula-ciencia-ficcion-nacio-como-cine-independiente-ahora-culto-puedes-verla-filmin-4300758.jpg?tf=1200x' alt='La inteligente película de ciencia ficción que nació como cine independiente y ahora es de culto: puedes verla en Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-sigue-imparable-monkey-netflix-adaptara-mayores-clasicos-1448058'>Stephen King sigue imparable: tras The Monkey, Netflix adaptará uno de sus mayores clásicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-sigue-imparable-monkey-netflix-adaptara-mayores-clasicos-1448058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/stephen-king-3222706.jpg?tf=1200x' alt='Stephen King sigue imparable: tras The Monkey, Netflix adaptará uno de sus mayores clásicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173'>Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-diamante-radioactivo-4303480.jpg?tf=1200x' alt='Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad' />
     </a>
 </div>
 
