@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-robots-todos-tiempos-critica-1444777'>Las 5 mejores películas de robots de todos los tiempos, según la crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-robots-todos-tiempos-critica-1444777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-mejores-peliculas-robots-todos-tiempos-critica-4297560.jpg?tf=1200x' alt='Las 5 mejores películas de robots de todos los tiempos, según la crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-abandona-barco-tesla-situacion-critica-1448261'>El confidente de Elon Musk, James Murdoch, abandona el barco de Tesla y la situación es crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-abandona-barco-tesla-situacion-critica-1448261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-james-murdoch-tesla-4303677.jpg?tf=1200x' alt='El confidente de Elon Musk, James Murdoch, abandona el barco de Tesla y la situación es crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/inteligente-pelicula-ciencia-ficcion-nacio-como-cine-independiente-ahora-culto-puedes-verla-filmin-1446548'>La inteligente película de ciencia ficción que nació como cine independiente y ahora es de culto: puedes verla en Filmin</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/inteligente-pelicula-ciencia-ficcion-nacio-como-cine-independiente-ahora-culto-puedes-verla-filmin-1446548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligente-pelicula-ciencia-ficcion-nacio-como-cine-independiente-ahora-culto-puedes-verla-filmin-4300758.jpg?tf=1200x' alt='La inteligente película de ciencia ficción que nació como cine independiente y ahora es de culto: puedes verla en Filmin' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-sigue-imparable-monkey-netflix-adaptara-mayores-clasicos-1448058'>Stephen King sigue imparable: tras The Monkey, Netflix adaptará uno de sus mayores clásicos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-sigue-imparable-monkey-netflix-adaptara-mayores-clasicos-1448058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/stephen-king-3222706.jpg?tf=1200x' alt='Stephen King sigue imparable: tras The Monkey, Netflix adaptará uno de sus mayores clásicos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173'>Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-diamante-radioactivo-4303480.jpg?tf=1200x' alt='Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-lanza-alerta-urgente-toda-espana-no-controlamos-ningun-tipo-transaccion-1448247'>Guardia Civil lanza una alerta urgente a toda España: "No controlamos ningún tipo de transacción"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-lanza-alerta-urgente-toda-espana-no-controlamos-ningun-tipo-transaccion-1448247' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guardia-civil-lanza-alerta-urgente-toda-espana-no-controlamos-ningun-tipo-transaccion-4303642.jpg?tf=1200x' alt='Guardia Civil lanza una alerta urgente a toda España: "No controlamos ningún tipo de transacción"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcionarios-punto-mira-ia-deberia-hacer-mitad-trabajo-1448202'>Los funcionarios en el punto de mira de la IA: "Debería hacer la mitad de su trabajo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/funcionarios-punto-mira-ia-deberia-hacer-mitad-trabajo-1448202' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funcionarios-punto-mira-ia-deberia-hacer-mitad-trabajo-4303477.jpg?tf=1200x' alt='Los funcionarios en el punto de mira de la IA: "Debería hacer la mitad de su trabajo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/olvida-firestick-chromecast-alternativa-menos-20-euros-android-te-permite-instalar-cualquier-aplicacion-1448114'>Olvida el Firestick y el Chromecast: esta alternativa de menos de 20 euros con Android te permite instalar cualquier aplicación</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/olvida-firestick-chromecast-alternativa-menos-20-euros-android-te-permite-instalar-cualquier-aplicacion-1448114' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/h96-max-4303338.jpg?tf=1200x' alt='Olvida el Firestick y el Chromecast: esta alternativa de menos de 20 euros con Android te permite instalar cualquier aplicación' />
     </a>
 </div>
 
