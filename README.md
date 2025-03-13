@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092'>Si ves esto en tu móvil Android, el hackeo ya ha comenzado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-movil-android-hackeo-ya-ha-comenzado-4303309.jpg?tf=1200x' alt='Si ves esto en tu móvil Android, el hackeo ya ha comenzado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/digi-demuestra-estrategia-funcionando-grandes-telecos-estan-aterradas-1448138'>DIGI demuestra que su estrategia está funcionando y las grandes telecos están aterradas</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/digi-demuestra-estrategia-funcionando-grandes-telecos-estan-aterradas-1448138' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-demuestra-estrategia-funcionando-grandes-telecos-estan-aterradas-4303366.jpg?tf=1200x' alt='DIGI demuestra que su estrategia está funcionando y las grandes telecos están aterradas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/actualiza-firefox-ya-tendras-problema-grave-pocos-dias-1448146'>Actualiza Firefox ya o tendrás un problema grave en pocos días</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/actualiza-firefox-ya-tendras-problema-grave-pocos-dias-1448146' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualiza-firefox-ya-tendras-problema-grave-pocos-dias-4303397.jpg?tf=1200x' alt='Actualiza Firefox ya o tendrás un problema grave en pocos días' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-loca-inteligencia-artificial-quiere-meter-deepseek-todo-1448177'>China se vuelve loca con la inteligencia artificial y quiere meter DeepSeek en todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-loca-inteligencia-artificial-quiere-meter-deepseek-todo-1448177' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/haz-imagen-robot-humanoide-chino-logo-deepseek-pecho-fondo-formado-bandera-china-4303424.jpg?tf=1200x' alt='China se vuelve loca con la inteligencia artificial y quiere meter DeepSeek en todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-1448164'>Apple TV+ llega a Amazon Prime Video: mejores series y películas que puedes ver en los 7 días de prueba gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-1448164' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-4303459.jpg?tf=1200x' alt='Apple TV+ llega a Amazon Prime Video: mejores series y películas que puedes ver en los 7 días de prueba gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/comprado-usado-no-pague-elon-musk-propietarios-tesla-deshacerse-coches-1448180'>“Comprado usado, no pagué a Elon Musk”, propietarios de Tesla desesperados intentan deshacerse de sus coches</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/comprado-usado-no-pague-elon-musk-propietarios-tesla-deshacerse-coches-1448180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-tesla-cybertruck-4303432.jpg?tf=1200x' alt='“Comprado usado, no pagué a Elon Musk”, propietarios de Tesla desesperados intentan deshacerse de sus coches' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/china-machaca-elon-musk-tesla-dos-coches-precio-1448165'>China machaca a Elon Musk y Tesla: "Dos coches por el precio de uno"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/china-machaca-elon-musk-tesla-dos-coches-precio-1448165' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-machaca-elon-musk-4303458.jpg?tf=1200x' alt='China machaca a Elon Musk y Tesla: "Dos coches por el precio de uno"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-encuentran-motivo-chatgpt-abusa-tanto-ciertas-palabras-cambio-precedentes-1448156'>Expertos encuentran el motivo por el que ChatGPT abusa tanto de ciertas palabras: "Un cambio sin precedentes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-encuentran-motivo-chatgpt-abusa-tanto-ciertas-palabras-cambio-precedentes-1448156' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-repite-palabras-4303398.jpg?tf=1200x' alt='Expertos encuentran el motivo por el que ChatGPT abusa tanto de ciertas palabras: "Un cambio sin precedentes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-advierten-peligro-uso-excesivo-chatgpt-puede-incapacitar-toma-decisiones-1448150'>Investigadores advierten del peligro de un uso excesivo de ChatGPT: "Puede incapacitar la toma de decisiones"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-advierten-peligro-uso-excesivo-chatgpt-puede-incapacitar-toma-decisiones-1448150' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-dudas-4291397.jpg?tf=1200x' alt='Investigadores advierten del peligro de un uso excesivo de ChatGPT: "Puede incapacitar la toma de decisiones"' />
     </a>
 </div>
 
