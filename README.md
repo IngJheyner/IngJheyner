@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-desafia-intel-nuevo-chip-silicio-40-rapido-consume-10-menos-energia-1448099'>China desafía a Intel con su nuevo chip sin silicio: 40% más rápido y consume un 10% menos de energía</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-desafia-intel-nuevo-chip-silicio-40-rapido-consume-10-menos-energia-1448099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chip-4303344.jpg?tf=1200x' alt='China desafía a Intel con su nuevo chip sin silicio: 40% más rápido y consume un 10% menos de energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092'>Si ves esto en tu móvil Android, el hackeo ya ha comenzado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-movil-android-hackeo-ya-ha-comenzado-4303309.jpg?tf=1200x' alt='Si ves esto en tu móvil Android, el hackeo ya ha comenzado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-loca-inteligencia-artificial-quiere-meter-deepseek-todo-1448177'>China se vuelve loca con la inteligencia artificial y quiere meter DeepSeek en todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-loca-inteligencia-artificial-quiere-meter-deepseek-todo-1448177' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/haz-imagen-robot-humanoide-chino-logo-deepseek-pecho-fondo-formado-bandera-china-4303424.jpg?tf=1200x' alt='China se vuelve loca con la inteligencia artificial y quiere meter DeepSeek en todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-1448164'>Apple TV+ llega a Amazon Prime Video: mejores series y películas que puedes ver en los 7 días de prueba gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-1448164' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-4303459.jpg?tf=1200x' alt='Apple TV+ llega a Amazon Prime Video: mejores series y películas que puedes ver en los 7 días de prueba gratis' />
     </a>
 </div>
 
