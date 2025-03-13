@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-encuentran-motivo-chatgpt-abusa-tanto-ciertas-palabras-cambio-precedentes-1448156'>Expertos encuentran el motivo por el que ChatGPT abusa tanto de ciertas palabras: "Un cambio sin precedentes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-encuentran-motivo-chatgpt-abusa-tanto-ciertas-palabras-cambio-precedentes-1448156' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-repite-palabras-4303398.jpg?tf=1200x' alt='Expertos encuentran el motivo por el que ChatGPT abusa tanto de ciertas palabras: "Un cambio sin precedentes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-advierten-peligro-uso-excesivo-chatgpt-puede-incapacitar-toma-decisiones-1448150'>Investigadores advierten del peligro de un uso excesivo de ChatGPT: "Puede incapacitar la toma de decisiones"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-advierten-peligro-uso-excesivo-chatgpt-puede-incapacitar-toma-decisiones-1448150' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-dudas-4291397.jpg?tf=1200x' alt='Investigadores advierten del peligro de un uso excesivo de ChatGPT: "Puede incapacitar la toma de decisiones"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-premio-nobel-deja-claro-piensa-elon-musk-ignorante-cruel-1448141'>Geoffrey Hinton, padre de la IA y Premio Nobel, deja claro lo que piensa de Elon Musk: "Ignorante y cruel"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-premio-nobel-deja-claro-piensa-elon-musk-ignorante-cruel-1448141' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geoffrey-hinton-elon-musk-4303378.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA y Premio Nobel, deja claro lo que piensa de Elon Musk: "Ignorante y cruel"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121'>Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-lidl-4303351.jpg?tf=1200x' alt='Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/pc-basico-barato-lleva-sello-pccomponentes-489-euros-no-hay-muchas-opciones-mejores-1448075'>Este PC básico y barato lleva el sello de PcComponentes, y por 489 euros no hay muchas opciones mejores</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/pc-basico-barato-lleva-sello-pccomponentes-489-euros-no-hay-muchas-opciones-mejores-1448075' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pccom-work-4303290.jpg?tf=1200x' alt='Este PC básico y barato lleva el sello de PcComponentes, y por 489 euros no hay muchas opciones mejores' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083'>Operator, la IA más potente creada por OpenAI y Sam Altman, ya está disponible en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operator-openai-4303302.jpg?tf=1200x' alt='Operator, la IA más potente creada por OpenAI y Sam Altman, ya está disponible en España' />
     </a>
 </div>
 
