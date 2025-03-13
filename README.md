@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-sigue-imparable-monkey-netflix-adaptara-mayores-clasicos-1448058'>Stephen King sigue imparable: tras The Monkey, Netflix adaptará uno de sus mayores clásicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-sigue-imparable-monkey-netflix-adaptara-mayores-clasicos-1448058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/11/stephen-king-3222706.jpg?tf=1200x' alt='Stephen King sigue imparable: tras The Monkey, Netflix adaptará uno de sus mayores clásicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173'>Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-diamante-radioactivo-4303480.jpg?tf=1200x' alt='Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/olvida-firestick-chromecast-alternativa-menos-20-euros-android-te-permite-instalar-cualquier-aplicacion-1448114'>Olvida el Firestick y el Chromecast: esta alternativa de menos de 20 euros con Android te permite instalar cualquier aplicación</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/olvida-firestick-chromecast-alternativa-menos-20-euros-android-te-permite-instalar-cualquier-aplicacion-1448114' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/h96-max-4303338.jpg?tf=1200x' alt='Olvida el Firestick y el Chromecast: esta alternativa de menos de 20 euros con Android te permite instalar cualquier aplicación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-encuentran-software-espia-norcoreano-google-play-store-1448249'>Alerta Android: encuentran software espía norcoreano en la Google Play Store</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-encuentran-software-espia-norcoreano-google-play-store-1448249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-app-corea-norte-4303591.jpg?tf=1200x' alt='Alerta Android: encuentran software espía norcoreano en la Google Play Store' />
     </a>
 </div>
 
