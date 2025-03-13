@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121'>Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-lidl-4303351.jpg?tf=1200x' alt='Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/pc-basico-barato-lleva-sello-pccomponentes-489-euros-no-hay-muchas-opciones-mejores-1448075'>Este PC básico y barato lleva el sello de PcComponentes, y por 489 euros no hay muchas opciones mejores</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/pc-basico-barato-lleva-sello-pccomponentes-489-euros-no-hay-muchas-opciones-mejores-1448075' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pccom-work-4303290.jpg?tf=1200x' alt='Este PC básico y barato lleva el sello de PcComponentes, y por 489 euros no hay muchas opciones mejores' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083'>Operator, la IA más potente creada por OpenAI y Sam Altman ya está disponible en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operator-openai-4303302.jpg?tf=1200x' alt='Operator, la IA más potente creada por OpenAI y Sam Altman ya está disponible en España' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174'>Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4302330.jpg?tf=1200x' alt='Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/realme-14-pro-realme-14-pro-he-analizado-me-quedaria-varias-razones-1447414'>¿Realme 14 Pro o Realme 14 Pro+? Los he analizado y me quedaría con este por varias razones</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/realme-14-pro-realme-14-pro-he-analizado-me-quedaria-varias-razones-1447414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-14-pro-vs-realme-14-pro-4302690.jpg?tf=1200x' alt='¿Realme 14 Pro o Realme 14 Pro+? Los he analizado y me quedaría con este por varias razones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924'>Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-musk-4303065.jpg?tf=1200x' alt='Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"' />
     </a>
 </div>
 
