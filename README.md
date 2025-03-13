@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-mundial-ia-ataca-sam-altman-openai-estan-jugando-ruleta-rusa-raza-humana-1447831'>Experto mundial en IA ataca a Sam Altman y OpenAI: "Están jugando a la ruleta rusa con la raza humana"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-mundial-ia-ataca-sam-altman-openai-estan-jugando-ruleta-rusa-raza-humana-1447831' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-jugando-ruleta-4303113.jpg?tf=1200x' alt='Experto mundial en IA ataca a Sam Altman y OpenAI: "Están jugando a la ruleta rusa con la raza humana"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/china-encuentra-fuente-energia-infinita-podria-abastecer-millones-hogares-durante-60000-anos-1447931'>China encuentra una fuente de energía "infinita" que podría abastecer a millones de hogares durante 60.000 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/china-encuentra-fuente-energia-infinita-podria-abastecer-millones-hogares-durante-60000-anos-1447931' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-encuentra-fuente-energia-infinita-podria-abastecer-millones-hogares-durante-60000-anos-4303041.jpg?tf=1200x' alt='China encuentra una fuente de energía "infinita" que podría abastecer a millones de hogares durante 60.000 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-1448018'>Expertos en la lucha contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-1448018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-4303238.jpg?tf=1200x' alt='Expertos en la lucha contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031'>Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemma-3-4303212.jpg?tf=1200x' alt='Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-1447794'>Ni Alien ni Blade Runner: Ridley Scott se rinde a este clásico olvidado de los 80, que puedes ver en Filmin</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-1447794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-alien-ni-blade-runner-ridley-scott-rinde-clasico-olvidado-80-puedes-ver-filmin-4302853.jpg?tf=1200x' alt='Ni Alien ni Blade Runner: Ridley Scott se rinde a este clásico olvidado de los 80, que puedes ver en Filmin' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-peligrosa-estafa-simple-sms-podria-costarte-todo-dinero-1448029'>Advierten sobre una peligrosa estafa: un simple SMS podría costarte todo tu dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/advierten-peligrosa-estafa-simple-sms-podria-costarte-todo-dinero-1448029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/smishing-4303209.jpg?tf=1200x' alt='Advierten sobre una peligrosa estafa: un simple SMS podría costarte todo tu dinero' />
     </a>
 </div>
 
