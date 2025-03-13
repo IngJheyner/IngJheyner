@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/australia-toma-medidas-drasticas-litio-ordena-quema-masiva-baterias-descubrimiento-clave-1448120'>Australia toma medidas drásticas contra el litio: ordena la quema masiva de baterías tras un descubrimiento clave</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/australia-toma-medidas-drasticas-litio-ordena-quema-masiva-baterias-descubrimiento-clave-1448120' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-protones-4303395.jpg?tf=1200x' alt='Australia toma medidas drásticas contra el litio: ordena la quema masiva de baterías tras un descubrimiento clave' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-laliga-preparan-bloqueos-iptv-carta-activaran-mismo-fin-semana-1448232'>Javier Tebas y LaLiga preparan los bloqueos IPTV a la carta que se activarán este mismo fin de semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-laliga-preparan-bloqueos-iptv-carta-activaran-mismo-fin-semana-1448232' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-laliga-preparan-bloqueos-iptv-carta-activaran-mismo-fin-semana-4303584.jpg?tf=1200x' alt='Javier Tebas y LaLiga preparan los bloqueos IPTV a la carta que se activarán este mismo fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-ofrece-mejor-alternativa-gratis-pc-windows-10-no-puedan-actualizarse-1448211'>Google se ofrece como la mejor alternativa gratis para los PC con Windows 10 que no puedan actualizarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-ofrece-mejor-alternativa-gratis-pc-windows-10-no-puedan-actualizarse-1448211' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambiar-windows-10-chromeos-4303494.jpg?tf=1200x' alt='Google se ofrece como la mejor alternativa gratis para los PC con Windows 10 que no puedan actualizarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-desafia-intel-nuevo-chip-silicio-40-rapido-consume-10-menos-energia-1448099'>China desafía a Intel con su nuevo chip sin silicio: 40% más rápido y consume un 10% menos de energía</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-desafia-intel-nuevo-chip-silicio-40-rapido-consume-10-menos-energia-1448099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chip-4303344.jpg?tf=1200x' alt='China desafía a Intel con su nuevo chip sin silicio: 40% más rápido y consume un 10% menos de energía' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092'>Si ves esto en tu móvil Android, el hackeo ya ha comenzado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-movil-android-hackeo-ya-ha-comenzado-4303309.jpg?tf=1200x' alt='Si ves esto en tu móvil Android, el hackeo ya ha comenzado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/digi-demuestra-estrategia-funcionando-grandes-telecos-estan-aterradas-1448138'>DIGI demuestra que su estrategia está funcionando y las grandes telecos están aterradas</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/digi-demuestra-estrategia-funcionando-grandes-telecos-estan-aterradas-1448138' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-demuestra-estrategia-funcionando-grandes-telecos-estan-aterradas-4303366.jpg?tf=1200x' alt='DIGI demuestra que su estrategia está funcionando y las grandes telecos están aterradas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/actualiza-firefox-ya-tendras-problema-grave-pocos-dias-1448146'>Actualiza Firefox ya o tendrás un problema grave en pocos días</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/actualiza-firefox-ya-tendras-problema-grave-pocos-dias-1448146' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualiza-firefox-ya-tendras-problema-grave-pocos-dias-4303397.jpg?tf=1200x' alt='Actualiza Firefox ya o tendrás un problema grave en pocos días' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-loca-inteligencia-artificial-quiere-meter-deepseek-todo-1448177'>China se vuelve loca con la inteligencia artificial y quiere meter DeepSeek en todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-vuelve-loca-inteligencia-artificial-quiere-meter-deepseek-todo-1448177' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/haz-imagen-robot-humanoide-chino-logo-deepseek-pecho-fondo-formado-bandera-china-4303424.jpg?tf=1200x' alt='China se vuelve loca con la inteligencia artificial y quiere meter DeepSeek en todo' />
     </a>
 </div>
 
