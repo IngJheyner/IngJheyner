@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/australia-toma-medidas-drasticas-litio-ordena-quema-masiva-baterias-descubrimiento-clave-1448120'>Australia toma medidas drásticas contra el litio: ordena la quema masiva de baterías tras un descubrimiento clave</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/australia-toma-medidas-drasticas-litio-ordena-quema-masiva-baterias-descubrimiento-clave-1448120' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-protones-4303395.jpg?tf=1200x' alt='Australia toma medidas drásticas contra el litio: ordena la quema masiva de baterías tras un descubrimiento clave' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173'>Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/energia-5000-anos-primera-bateria-diamante-radiactivo-ya-realidad-1448173' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-diamante-radioactivo-4303480.jpg?tf=1200x' alt='Energía para más de 5.000 años: la primera batería de diamante radiactivo ya es una realidad' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-laliga-preparan-bloqueos-iptv-carta-activaran-mismo-fin-semana-1448232'>Javier Tebas y LaLiga preparan los bloqueos IPTV a la carta que se activarán este mismo fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-laliga-preparan-bloqueos-iptv-carta-activaran-mismo-fin-semana-1448232' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-laliga-preparan-bloqueos-iptv-carta-activaran-mismo-fin-semana-4303584.jpg?tf=1200x' alt='Javier Tebas y LaLiga preparan los bloqueos IPTV a la carta que se activarán este mismo fin de semana' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-lanza-alerta-urgente-toda-espana-no-controlamos-ningun-tipo-transaccion-1448247'>Guardia Civil lanza una alerta urgente a toda España: "No controlamos ningún tipo de transacción"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-lanza-alerta-urgente-toda-espana-no-controlamos-ningun-tipo-transaccion-1448247' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guardia-civil-lanza-alerta-urgente-toda-espana-no-controlamos-ningun-tipo-transaccion-4303642.jpg?tf=1200x' alt='Guardia Civil lanza una alerta urgente a toda España: "No controlamos ningún tipo de transacción"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-ofrece-mejor-alternativa-gratis-pc-windows-10-no-puedan-actualizarse-1448211'>Google se ofrece como la mejor alternativa gratis para los PC con Windows 10 que no puedan actualizarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-ofrece-mejor-alternativa-gratis-pc-windows-10-no-puedan-actualizarse-1448211' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cambiar-windows-10-chromeos-4303494.jpg?tf=1200x' alt='Google se ofrece como la mejor alternativa gratis para los PC con Windows 10 que no puedan actualizarse' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/funcionarios-punto-mira-ia-deberia-hacer-mitad-trabajo-1448202'>Los funcionarios en el punto de mira de la IA: "Debería hacer la mitad de su trabajo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/funcionarios-punto-mira-ia-deberia-hacer-mitad-trabajo-1448202' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funcionarios-punto-mira-ia-deberia-hacer-mitad-trabajo-4303477.jpg?tf=1200x' alt='Los funcionarios en el punto de mira de la IA: "Debería hacer la mitad de su trabajo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-desafia-intel-nuevo-chip-silicio-40-rapido-consume-10-menos-energia-1448099'>China desafía a Intel con su nuevo chip sin silicio: 40% más rápido y consume un 10% menos de energía</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-desafia-intel-nuevo-chip-silicio-40-rapido-consume-10-menos-energia-1448099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chip-4303344.jpg?tf=1200x' alt='China desafía a Intel con su nuevo chip sin silicio: 40% más rápido y consume un 10% menos de energía' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/olvida-firestick-chromecast-alternativa-menos-20-euros-android-te-permite-instalar-cualquier-aplicacion-1448114'>Olvida el Firestick y el Chromecast: esta alternativa de menos de 20 euros con Android te permite instalar cualquier aplicación</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/olvida-firestick-chromecast-alternativa-menos-20-euros-android-te-permite-instalar-cualquier-aplicacion-1448114' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/h96-max-4303338.jpg?tf=1200x' alt='Olvida el Firestick y el Chromecast: esta alternativa de menos de 20 euros con Android te permite instalar cualquier aplicación' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092'>Si ves esto en tu móvil Android, el hackeo ya ha comenzado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ves-movil-android-hackeo-ya-ha-comenzado-1448092' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ves-movil-android-hackeo-ya-ha-comenzado-4303309.jpg?tf=1200x' alt='Si ves esto en tu móvil Android, el hackeo ya ha comenzado' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-encuentran-software-espia-norcoreano-google-play-store-1448249'>Alerta Android: encuentran software espía norcoreano en la Google Play Store</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-android-encuentran-software-espia-norcoreano-google-play-store-1448249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-app-corea-norte-4303591.jpg?tf=1200x' alt='Alerta Android: encuentran software espía norcoreano en la Google Play Store' />
     </a>
 </div>
 
