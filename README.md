@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924'>Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-musk-4303065.jpg?tf=1200x' alt='Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/bug-impresora-poseida-windows-11-puede-costarte-dinero-1448060'>Parece una broma, pero no lo es: el nuevo bug de "la impresora poseída" de Windows 11, puede costarte dinero</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/bug-impresora-poseida-windows-11-puede-costarte-dinero-1448060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-broma-pero-no-nuevo-bug-windows-11-puede-costarte-dinero-4303251.jpg?tf=1200x' alt='Parece una broma, pero no lo es: el nuevo bug de "la impresora poseída" de Windows 11, puede costarte dinero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-ia-necesaria-regulacion-antes-sea-demasiado-tarde-1447890'>Elon Musk alerta sobre la IA: "Es necesaria una regulación antes de que sea demasiado tarde"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-ia-necesaria-regulacion-antes-sea-demasiado-tarde-1447890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302999.jpg?tf=1200x' alt='Elon Musk alerta sobre la IA: "Es necesaria una regulación antes de que sea demasiado tarde"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-generacion-z-abraza-costumbres-anos-despues-1447891'>Steve Jobs tenía razón: la generación Z abraza una de sus costumbres años después</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/steve-jobs-tenia-razon-generacion-z-abraza-costumbres-anos-despues-1447891' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/steve-jobs-camiseta-4303120.jpg?tf=1200x' alt='Steve Jobs tenía razón: la generación Z abraza una de sus costumbres años después' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-mundial-ia-ataca-sam-altman-openai-estan-jugando-ruleta-rusa-raza-humana-1447831'>Experto mundial en IA ataca a Sam Altman y OpenAI: "Están jugando a la ruleta rusa con la raza humana"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-mundial-ia-ataca-sam-altman-openai-estan-jugando-ruleta-rusa-raza-humana-1447831' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-jugando-ruleta-4303113.jpg?tf=1200x' alt='Experto mundial en IA ataca a Sam Altman y OpenAI: "Están jugando a la ruleta rusa con la raza humana"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/china-encuentra-fuente-energia-infinita-podria-abastecer-millones-hogares-durante-60000-anos-1447931'>China encuentra una fuente de energía "infinita" que podría abastecer a millones de hogares durante 60.000 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/china-encuentra-fuente-energia-infinita-podria-abastecer-millones-hogares-durante-60000-anos-1447931' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-encuentra-fuente-energia-infinita-podria-abastecer-millones-hogares-durante-60000-anos-4303041.jpg?tf=1200x' alt='China encuentra una fuente de energía "infinita" que podría abastecer a millones de hogares durante 60.000 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-1448018'>Expertos en la lucha contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-1448018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-4303238.jpg?tf=1200x' alt='Expertos en la lucha contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/linea-roja-dgt-cuidado-tocarla-te-caera-buena-multa-1448039'>Qué es la nueva línea roja de la DGT: cuidado con tocarla, te caerá una buena multa</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/linea-roja-dgt-cuidado-tocarla-te-caera-buena-multa-1448039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-linea-roja-dgt-cuidado-tocarla-4303216.jpg?tf=1200x' alt='Qué es la nueva línea roja de la DGT: cuidado con tocarla, te caerá una buena multa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031'>Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-lanza-gemma-3-dice-supera-chatgpt-solo-gpu-1448031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemma-3-4303212.jpg?tf=1200x' alt='Google lanza Gemma 3 y dice que supera a ChatGPT con solo una GPU' />
     </a>
 </div>
 
