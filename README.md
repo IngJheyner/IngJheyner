@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083'>Operator, la IA más potente creada por OpenAI y Sam Altman ya está disponible en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operator-openai-4303302.jpg?tf=1200x' alt='Operator, la IA más potente creada por OpenAI y Sam Altman ya está disponible en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070'>Quién es Lip-Bu Tan, el nuevo CEO de Intel</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-lip-bu-tan-nuevo-ceo-intel-4303272.jpg?tf=1200x' alt='Quién es Lip-Bu Tan, el nuevo CEO de Intel' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924'>Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-realiza-ataque-duro-personal-elon-musk-siento-1447924' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-musk-4303065.jpg?tf=1200x' alt='Sam Altman realiza su ataque más duro y personal contra Elon Musk: "Lo siento por él"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/bug-impresora-poseida-windows-11-puede-costarte-dinero-1448060'>Parece una broma, pero no lo es: el nuevo bug de "la impresora poseída" de Windows 11, puede costarte dinero</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/bug-impresora-poseida-windows-11-puede-costarte-dinero-1448060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-broma-pero-no-nuevo-bug-windows-11-puede-costarte-dinero-4303251.jpg?tf=1200x' alt='Parece una broma, pero no lo es: el nuevo bug de "la impresora poseída" de Windows 11, puede costarte dinero' />
     </a>
 </div>
 
