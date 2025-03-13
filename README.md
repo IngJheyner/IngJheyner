@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cambio-rumbo-bloqueos-iptv-laliga-movistar-ya-indemnizando-usuarios-reclamen-1448125'>Cambio de rumbo en los bloqueos a las IPTV de LaLiga: Movistar ya está indemnizando a los usuarios que reclamen</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cambio-rumbo-bloqueos-iptv-laliga-movistar-ya-indemnizando-usuarios-reclamen-1448125' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-ya-indemnizando-4303375.jpg?tf=1200x' alt='Cambio de rumbo en los bloqueos a las IPTV de LaLiga: Movistar ya está indemnizando a los usuarios que reclamen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121'>Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-lidl-4303351.jpg?tf=1200x' alt='Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070'>Quién es Lip-Bu Tan, el nuevo CEO de Intel</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-lip-bu-tan-nuevo-ceo-intel-4303272.jpg?tf=1200x' alt='Quién es Lip-Bu Tan, el nuevo CEO de Intel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174'>Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4302330.jpg?tf=1200x' alt='Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm' />
     </a>
 </div>
 
