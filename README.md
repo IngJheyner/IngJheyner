@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-1448164'>Apple TV+ llega a Amazon Prime Video: mejores series y películas que puedes ver en los 7 días de prueba gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-1448164' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-tv-llega-amazon-prime-video-mejores-series-peliculas-puedes-ver-7-dias-prueba-gratis-4303459.jpg?tf=1200x' alt='Apple TV+ llega a Amazon Prime Video: mejores series y películas que puedes ver en los 7 días de prueba gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/comprado-usado-no-pague-elon-musk-propietarios-tesla-deshacerse-coches-1448180'>“Comprado usado, no pagué a Elon Musk”, propietarios de Tesla desesperados intentan deshacerse de sus coches</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/comprado-usado-no-pague-elon-musk-propietarios-tesla-deshacerse-coches-1448180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-tesla-cybertruck-4303432.jpg?tf=1200x' alt='“Comprado usado, no pagué a Elon Musk”, propietarios de Tesla desesperados intentan deshacerse de sus coches' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/china-machaca-elon-musk-tesla-dos-coches-precio-1448165'>China machaca a Elon Musk y Tesla: "Dos coches por el precio de uno"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/china-machaca-elon-musk-tesla-dos-coches-precio-1448165' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-machaca-elon-musk-4303458.jpg?tf=1200x' alt='China machaca a Elon Musk y Tesla: "Dos coches por el precio de uno"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-encuentran-motivo-chatgpt-abusa-tanto-ciertas-palabras-cambio-precedentes-1448156'>Expertos encuentran el motivo por el que ChatGPT abusa tanto de ciertas palabras: "Un cambio sin precedentes"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-encuentran-motivo-chatgpt-abusa-tanto-ciertas-palabras-cambio-precedentes-1448156' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-repite-palabras-4303398.jpg?tf=1200x' alt='Expertos encuentran el motivo por el que ChatGPT abusa tanto de ciertas palabras: "Un cambio sin precedentes"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-advierten-peligro-uso-excesivo-chatgpt-puede-incapacitar-toma-decisiones-1448150'>Investigadores advierten del peligro de un uso excesivo de ChatGPT: "Puede incapacitar la toma de decisiones"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-advierten-peligro-uso-excesivo-chatgpt-puede-incapacitar-toma-decisiones-1448150' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/chatgpt-dudas-4291397.jpg?tf=1200x' alt='Investigadores advierten del peligro de un uso excesivo de ChatGPT: "Puede incapacitar la toma de decisiones"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-premio-nobel-deja-claro-piensa-elon-musk-ignorante-cruel-1448141'>Geoffrey Hinton, padre de la IA y Premio Nobel, deja claro lo que piensa de Elon Musk: "Ignorante y cruel"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-premio-nobel-deja-claro-piensa-elon-musk-ignorante-cruel-1448141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geoffrey-hinton-elon-musk-4303378.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA y Premio Nobel, deja claro lo que piensa de Elon Musk: "Ignorante y cruel"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cambio-rumbo-bloqueos-iptv-laliga-movistar-ya-indemnizando-usuarios-reclamen-1448125'>Cambio de rumbo en los bloqueos a las IPTV de LaLiga: Movistar ya está indemnizando a los usuarios que reclamen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cambio-rumbo-bloqueos-iptv-laliga-movistar-ya-indemnizando-usuarios-reclamen-1448125' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-ya-indemnizando-4303375.jpg?tf=1200x' alt='Cambio de rumbo en los bloqueos a las IPTV de LaLiga: Movistar ya está indemnizando a los usuarios que reclamen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121'>Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/alerta-estafa-no-lidl-no-va-regalarte-nada-hacer-encuesta-1448121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-lidl-4303351.jpg?tf=1200x' alt='Alerta estafa: no, Lidl no va a regalarte nada por hacer una encuesta' />
     </a>
 </div>
 
