@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-premio-nobel-deja-claro-piensa-elon-musk-ignorante-cruel-1448141'>Geoffrey Hinton, padre de la IA y Premio Nobel, deja claro lo que piensa de Elon Musk: "Ignorante y cruel"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/geoffrey-hinton-padre-ia-premio-nobel-deja-claro-piensa-elon-musk-ignorante-cruel-1448141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geoffrey-hinton-elon-musk-4303378.jpg?tf=1200x' alt='Geoffrey Hinton, padre de la IA y Premio Nobel, deja claro lo que piensa de Elon Musk: "Ignorante y cruel"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/cambio-rumbo-bloqueos-iptv-laliga-movistar-ya-indemnizando-usuarios-reclamen-1448125'>Cambio de rumbo en los bloqueos a las IPTV de LaLiga: Movistar ya está indemnizando a los usuarios que reclamen</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/cambio-rumbo-bloqueos-iptv-laliga-movistar-ya-indemnizando-usuarios-reclamen-1448125' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-ya-indemnizando-4303375.jpg?tf=1200x' alt='Cambio de rumbo en los bloqueos a las IPTV de LaLiga: Movistar ya está indemnizando a los usuarios que reclamen' />
@@ -74,17 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083'>Operator, la IA más potente creada por OpenAI y Sam Altman ya está disponible en España</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083'>Operator, la IA más potente creada por OpenAI y Sam Altman, ya está disponible en España</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/operator-ia-potente-creada-openai-sam-altman-ya-disponible-espana-1448083' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operator-openai-4303302.jpg?tf=1200x' alt='Operator, la IA más potente creada por OpenAI y Sam Altman ya está disponible en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070'>Quién es Lip-Bu Tan, el nuevo CEO de Intel</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-lip-bu-tan-nuevo-ceo-intel-4303272.jpg?tf=1200x' alt='Quién es Lip-Bu Tan, el nuevo CEO de Intel' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operator-openai-4303302.jpg?tf=1200x' alt='Operator, la IA más potente creada por OpenAI y Sam Altman, ya está disponible en España' />
     </a>
 </div>
 
