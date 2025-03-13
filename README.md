@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070'>Quién es Lip-Bu Tan, el nuevo CEO de Intel</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/quien-lip-bu-tan-nuevo-ceo-intel-1448070' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-lip-bu-tan-nuevo-ceo-intel-4303272.jpg?tf=1200x' alt='Quién es Lip-Bu Tan, el nuevo CEO de Intel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174'>Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/importante-iphone-16e-no-precio-sino-novedad-no-gusta-nada-qualcomm-1445174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4302330.jpg?tf=1200x' alt='Lo más importante del iPhone 16e no es su precio, sino esta novedad que no le gusta nada a Qualcomm' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/bug-impresora-poseida-windows-11-puede-costarte-dinero-1448060'>Parece una broma, pero no lo es: el nuevo bug de "la impresora poseída" de Windows 11, puede costarte dinero</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/bug-impresora-poseida-windows-11-puede-costarte-dinero-1448060' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-broma-pero-no-nuevo-bug-windows-11-puede-costarte-dinero-4303251.jpg?tf=1200x' alt='Parece una broma, pero no lo es: el nuevo bug de "la impresora poseída" de Windows 11, puede costarte dinero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-ia-necesaria-regulacion-antes-sea-demasiado-tarde-1447890'>Elon Musk alerta sobre la IA: "Es necesaria una regulación antes de que sea demasiado tarde"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-alerta-ia-necesaria-regulacion-antes-sea-demasiado-tarde-1447890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4302999.jpg?tf=1200x' alt='Elon Musk alerta sobre la IA: "Es necesaria una regulación antes de que sea demasiado tarde"' />
     </a>
 </div>
 
