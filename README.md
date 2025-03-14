@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-costar-550-euros-1448567'>Jarro de agua fría para los fans: la Nintendo Switch 2 podría costar hasta 550 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-costar-550-euros-1448567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jarro-agua-fria-fans-nintendo-switch-2-podria-costar-500-euros-4304196.jpg?tf=1200x' alt='Jarro de agua fría para los fans: la Nintendo Switch 2 podría costar hasta 550 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-1448542'>Bloqueos de LaLiga a las IPTV: estos serán las horas más calientes del fin de semana</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-1448542' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-4304197.jpg?tf=1200x' alt='Bloqueos de LaLiga a las IPTV: estos serán las horas más calientes del fin de semana' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-juegues-cualquier-juego-android-pc-viceversa-1448547'>Google quiere que juegues cualquier juego de Android en PC (y viceversa)</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-juegues-cualquier-juego-android-pc-viceversa-1448547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-games-4304181.jpg?tf=1200x' alt='Google quiere que juegues cualquier juego de Android en PC (y viceversa)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/misterioso-error-android-auto-desconcierta-usuarios-tiene-solucion-sencilla-1448546'>El misterioso error de Android Auto que desconcierta a los usuarios tiene una solución sencilla</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/misterioso-error-android-auto-desconcierta-usuarios-tiene-solucion-sencilla-1448546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-error-4304178.jpg?tf=1200x' alt='El misterioso error de Android Auto que desconcierta a los usuarios tiene una solución sencilla' />
     </a>
 </div>
 
