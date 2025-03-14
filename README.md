@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-cuellos-botella-deepseek-lanza-3fs-apuesta-codigo-abierto-ia-linux-1448362'>Adiós a los cuellos de botella: DeepSeek lanza 3FS, su apuesta de código abierto para IA y Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-cuellos-botella-deepseek-lanza-3fs-apuesta-codigo-abierto-ia-linux-1448362' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-4270094.jpg?tf=1200x' alt='Adiós a los cuellos de botella: DeepSeek lanza 3FS, su apuesta de código abierto para IA y Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341'>Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241457.jpg?tf=1200x' alt='Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606'>Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-690-4301541.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331'>JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-4303754.jpg?tf=1200x' alt='JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones' />
     </a>
 </div>
 
