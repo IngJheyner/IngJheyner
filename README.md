@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/baterias-gravedad-materiales-raros-arma-china-dominar-energia-1448163'>Baterías por gravedad sin materiales raros, el arma china para dominar la energía</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/baterias-gravedad-materiales-raros-arma-china-dominar-energia-1448163' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-gravedad-4303434.jpg?tf=1200x' alt='Baterías por gravedad sin materiales raros, el arma china para dominar la energía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sorprendente-confesion-steve-wozniak-no-queria-revolucionar-nada-solo-respeto-probar-era-inteligente-1445935'>La sorprendente confesión de Steve Wozniak: "No quería revolucionar nada, solo respeto y probar que era inteligente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sorprendente-confesion-steve-wozniak-no-queria-revolucionar-nada-solo-respeto-probar-era-inteligente-1445935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sorprendente-confesion-steve-wozniak-no-queria-revolucionar-nada-solo-respeto-probar-era-inteligente-4299770.jpg?tf=1200x' alt='La sorprendente confesión de Steve Wozniak: "No quería revolucionar nada, solo respeto y probar que era inteligente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-creado-luz-solida-supersolido-1448320'>Los científicos han creado luz sólida, un descubrimiento sin precedentes</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-creado-luz-solida-supersolido-1448320' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-han-creado-luz-solida-descubrimiento-precedentes-4303722.jpg?tf=1200x' alt='Los científicos han creado luz sólida, un descubrimiento sin precedentes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/26-millones-dispositivos-todo-mundo-comprometidos-malware-roba-datos-bancarios-1448304'>26 millones de dispositivos en todo el mundo comprometidos por malware que roba datos bancarios</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/26-millones-dispositivos-todo-mundo-comprometidos-malware-roba-datos-bancarios-1448304' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-4303715.jpg?tf=1200x' alt='26 millones de dispositivos en todo el mundo comprometidos por malware que roba datos bancarios' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-amplia-catalogo-rtve-cadenas-autonomicas-suman-1448302'>TDTChannels amplía su catálogo: RTVE y más cadenas autonómicas se suman</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-amplia-catalogo-rtve-cadenas-autonomicas-suman-1448302' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannel-traera-canales-tv-radio-gratis-abril-registro-ni-instalacion-3294290.jpg?tf=1200x' alt='TDTChannels amplía su catálogo: RTVE y más cadenas autonómicas se suman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chromecast-android-14-rapido-seguro-mejoras-clave-1448300'>Google actualiza Chromecast con Android 14: más rápido, más seguro y con mejoras clave</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-actualiza-chromecast-android-14-rapido-seguro-mejoras-clave-1448300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-4303713.jpg?tf=1200x' alt='Google actualiza Chromecast con Android 14: más rápido, más seguro y con mejoras clave' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/orange-advierte-estafa-iphone-1448294'>Orange advierte sobre una estafa en su nombre, que tiene que ver con el iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/orange-advierte-estafa-iphone-1448294' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/orange-advierte-estafa-nombre-tiene-ver-iphone-4303305.jpg?tf=1200x' alt='Orange advierte sobre una estafa en su nombre, que tiene que ver con el iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-robots-todos-tiempos-critica-1444777'>Las 5 mejores películas de robots de todos los tiempos, según la crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-mejores-peliculas-robots-todos-tiempos-critica-1444777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/5-mejores-peliculas-robots-todos-tiempos-critica-4297560.jpg?tf=1200x' alt='Las 5 mejores películas de robots de todos los tiempos, según la crítica' />
     </a>
 </div>
 
