@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-1448542'>Bloqueos de LaLiga a las IPTV: estos serán las horas más calientes del fin de semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-1448542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-4304197.jpg?tf=1200x' alt='Bloqueos de LaLiga a las IPTV: estos serán las horas más calientes del fin de semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437'>La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-4303949.jpg?tf=1200x' alt='La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/misterioso-error-android-auto-desconcierta-usuarios-tiene-solucion-sencilla-1448546'>El misterioso error de Android Auto que desconcierta a los usuarios tiene una solución sencilla</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/misterioso-error-android-auto-desconcierta-usuarios-tiene-solucion-sencilla-1448546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-error-4304178.jpg?tf=1200x' alt='El misterioso error de Android Auto que desconcierta a los usuarios tiene una solución sencilla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-podria-plantearse-hacer-operacion-jaula-bloqueos-iptv-no-funcionarian-ni-vpn-1448518'>LaLiga podría plantearse hacer una "operación jaula" en los bloqueos a las IPTV: no funcionarían ni las VPN</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/laliga-podria-plantearse-hacer-operacion-jaula-bloqueos-iptv-no-funcionarian-ni-vpn-1448518' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-podria-plantearse-hacer-operacion-jaula-bloqueos-iptv-no-funcionarian-ni-vpn-4304169.jpg?tf=1200x' alt='LaLiga podría plantearse hacer una "operación jaula" en los bloqueos a las IPTV: no funcionarían ni las VPN' />
     </a>
 </div>
 
