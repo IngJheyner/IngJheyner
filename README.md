@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/aunque-parezca-increible-tonterias-elon-musk-no-son-problema-grave-tesla-1448430'>Aunque parezca increíble, las tonterías de Elon Musk no son el problema más grave de Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/aunque-parezca-increible-tonterias-elon-musk-no-son-problema-grave-tesla-1448430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4300392.jpg?tf=1200x' alt='Aunque parezca increíble, las tonterías de Elon Musk no son el problema más grave de Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ejecutivo-openai-revela-mayor-desafio-enfrenta-sam-altman-ia-no-misterio-voluble-1448463'>Ejecutivo de OpenAI revela el mayor desafío al que se enfrenta Sam Altman: "La IA no es un misterio voluble"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ejecutivo-openai-revela-mayor-desafio-enfrenta-sam-altman-ia-no-misterio-voluble-1448463' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304038.jpg?tf=1200x' alt='Ejecutivo de OpenAI revela el mayor desafío al que se enfrenta Sam Altman: "La IA no es un misterio voluble"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/palo-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420'>Palo a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/palo-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-va-mejor-amd-windows-11-4304006.jpg?tf=1200x' alt='Palo a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-ya-ha-encontrado-origen-problema-chromecast-tiene-mala-noticia-ti-1448413'>Google ya ha encontrado el origen del problema de los Chromecast y tiene una mala noticia para ti</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-ya-ha-encontrado-origen-problema-chromecast-tiene-mala-noticia-ti-1448413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chormecast-4303945.jpg?tf=1200x' alt='Google ya ha encontrado el origen del problema de los Chromecast y tiene una mala noticia para ti' />
     </a>
 </div>
 
