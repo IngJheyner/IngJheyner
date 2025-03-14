@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158'>La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-guardia-civil-4303594.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-1448198'>Sam Altman amenaza con dejar sin trabajo una nueva profesión: "Es la primera vez que algo escrito por IA me ha impactado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-1448198' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-4303466.jpg?tf=1200x' alt='Sam Altman amenaza con dejar sin trabajo una nueva profesión: "Es la primera vez que algo escrito por IA me ha impactado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/ya-hay-fecha-boom-definitivo-coche-electrico-1500-kilometros-sola-carga-1448157'>Ya hay fecha para el boom definitivo del coche eléctrico: 1.500 kilómetros con una sola carga</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ya-hay-fecha-boom-definitivo-coche-electrico-1500-kilometros-sola-carga-1448157' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/stellantis-prepara-arma-definitiva-vender-electricos-baratos-menos-20000-euros-gracias-byd-4292535.jpg?tf=1200x' alt='Ya hay fecha para el boom definitivo del coche eléctrico: 1.500 kilómetros con una sola carga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-despegan-buscas-rapida-regalando-meses-gratis-nuevos-usuarios-1447495'>Las VPN despegan, y si buscas una rápida, esta está regalando meses gratis a nuevos usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/vpn-despegan-buscas-rapida-regalando-meses-gratis-nuevos-usuarios-1447495' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nordvpn-vpn-4303498.jpg?tf=1200x' alt='Las VPN despegan, y si buscas una rápida, esta está regalando meses gratis a nuevos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/baterias-gravedad-materiales-raros-arma-china-dominar-energia-1448163'>Baterías por gravedad sin materiales raros, el arma china para dominar la energía</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/baterias-gravedad-materiales-raros-arma-china-dominar-energia-1448163' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-gravedad-4303434.jpg?tf=1200x' alt='Baterías por gravedad sin materiales raros, el arma china para dominar la energía' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sorprendente-confesion-steve-wozniak-no-queria-revolucionar-nada-solo-respeto-probar-era-inteligente-1445935'>La sorprendente confesión de Steve Wozniak: "No quería revolucionar nada, solo respeto y probar que era inteligente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sorprendente-confesion-steve-wozniak-no-queria-revolucionar-nada-solo-respeto-probar-era-inteligente-1445935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sorprendente-confesion-steve-wozniak-no-queria-revolucionar-nada-solo-respeto-probar-era-inteligente-4299770.jpg?tf=1200x' alt='La sorprendente confesión de Steve Wozniak: "No quería revolucionar nada, solo respeto y probar que era inteligente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-creado-luz-solida-supersolido-1448320'>Los científicos han creado luz sólida, un descubrimiento sin precedentes</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-han-creado-luz-solida-supersolido-1448320' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-han-creado-luz-solida-descubrimiento-precedentes-4303722.jpg?tf=1200x' alt='Los científicos han creado luz sólida, un descubrimiento sin precedentes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/26-millones-dispositivos-todo-mundo-comprometidos-malware-roba-datos-bancarios-1448304'>26 millones de dispositivos en todo el mundo comprometidos por malware que roba datos bancarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/26-millones-dispositivos-todo-mundo-comprometidos-malware-roba-datos-bancarios-1448304' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malware-4303715.jpg?tf=1200x' alt='26 millones de dispositivos en todo el mundo comprometidos por malware que roba datos bancarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-amplia-catalogo-rtve-cadenas-autonomicas-suman-1448302'>TDTChannels amplía su catálogo: RTVE y más cadenas autonómicas se suman</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-amplia-catalogo-rtve-cadenas-autonomicas-suman-1448302' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/04/tdtchannel-traera-canales-tv-radio-gratis-abril-registro-ni-instalacion-3294290.jpg?tf=1200x' alt='TDTChannels amplía su catálogo: RTVE y más cadenas autonómicas se suman' />
     </a>
 </div>
 
