@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-proponen-cambiar-forma-alertar-peligros-problemas-ia-1448439'>Investigadores proponen cambiar la forma de alertar sobre los peligros y problemas de la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-proponen-cambiar-forma-alertar-peligros-problemas-ia-1448439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/investigadores-proponen-cambiar-forma-alertar-peligros-problemas-ia-4303994.jpg?tf=1200x' alt='Investigadores proponen cambiar la forma de alertar sobre los peligros y problemas de la IA' />
+    <h4><a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437'>La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-4303949.jpg?tf=1200x' alt='La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/critica-destrozo-pero-comedia-acaba-colarse-visto-amazon-prime-video-1448329'>La crítica la destrozó, pero esta comedia acaba de colarse entre lo más visto de Amazon Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/critica-destrozo-pero-comedia-acaba-colarse-visto-amazon-prime-video-1448329' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/picture-imaginatelo-amazon-prime-video-4304065.jpg?tf=1200x' alt='La crítica la destrozó, pero esta comedia acaba de colarse entre lo más visto de Amazon Prime Video' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-advierte-mayoria-empleados-no-saben-como-usar-ia-1448548'>Un experto advierte: "La mayoría de los empleados no saben cómo usar la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-advierte-mayoria-empleados-no-saben-como-usar-ia-1448548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4304182.jpg?tf=1200x' alt='Un experto advierte: "La mayoría de los empleados no saben cómo usar la IA"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-trabajos-inmunes-ia-1436113'>Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán a la inteligencia artificial"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-trabajos-inmunes-ia-1436113' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán a la inteligencia artificial"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-juegues-cualquier-juego-android-pc-viceversa-1448547'>Google quiere que juegues cualquier juego de Android en PC (y viceversa)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-juegues-cualquier-juego-android-pc-viceversa-1448547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-games-4304181.jpg?tf=1200x' alt='Google quiere que juegues cualquier juego de Android en PC (y viceversa)' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-demuestra-utilizar-google-maps-waze-luna-1448509'>La NASA demuestra que podrías utilizar Google Maps y Waze incluso en la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-demuestra-utilizar-google-maps-waze-luna-1448509' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mapa-luna-google-maps-waze-4304126.jpg?tf=1200x' alt='La NASA demuestra que podrías utilizar Google Maps y Waze incluso en la Luna' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/misterioso-error-android-auto-desconcierta-usuarios-tiene-solucion-sencilla-1448546'>El misterioso error de Android Auto que desconcierta a los usuarios tiene una solución sencilla</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/misterioso-error-android-auto-desconcierta-usuarios-tiene-solucion-sencilla-1448546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-error-4304178.jpg?tf=1200x' alt='El misterioso error de Android Auto que desconcierta a los usuarios tiene una solución sencilla' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/unas-placas-solares-consiguen-detener-trafico-aereo-aeropuerto-amsterdam-1448392'>Unas placas solares consiguen detener el tráfico aéreo del aeropuerto de Ámsterdam</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/unas-placas-solares-consiguen-detener-trafico-aereo-aeropuerto-amsterdam-1448392' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/unas-placas-solares-consiguen-detener-trafico-aereo-aeropuerto-amsterdam-4303902.jpg?tf=1200x' alt='Unas placas solares consiguen detener el tráfico aéreo del aeropuerto de Ámsterdam' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-podria-plantearse-hacer-operacion-jaula-bloqueos-iptv-no-funcionarian-ni-vpn-1448518'>LaLiga podría plantearse hacer una "operación jaula" en los bloqueos a las IPTV: no funcionarían ni las VPN</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/laliga-podria-plantearse-hacer-operacion-jaula-bloqueos-iptv-no-funcionarian-ni-vpn-1448518' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-podria-plantearse-hacer-operacion-jaula-bloqueos-iptv-no-funcionarian-ni-vpn-4304169.jpg?tf=1200x' alt='LaLiga podría plantearse hacer una "operación jaula" en los bloqueos a las IPTV: no funcionarían ni las VPN' />
     </a>
 </div>
 
