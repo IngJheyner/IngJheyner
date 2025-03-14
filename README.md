@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-borde-colapso-papel-juegan-elon-musk-trump-byd-desastre-coche-electrico-1448387'>Tesla al borde del colapso: ¿qué papel juegan Elon Musk, Trump y BYD en este desastre del coche eléctrico?</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/tesla-borde-colapso-papel-juegan-elon-musk-trump-byd-desastre-coche-electrico-1448387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ventas-tesla-desploman-europa-ultimo-mes-tambien-espana-4294062.jpg?tf=1200x' alt='Tesla al borde del colapso: ¿qué papel juegan Elon Musk, Trump y BYD en este desastre del coche eléctrico?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-arremete-piedad-elon-musk-agitacion-populista-1448345'>Bill Gates arremete sin piedad contra Elon Musk: "Es agitación populista"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bill-gates-arremete-piedad-elon-musk-agitacion-populista-1448345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-arremete-elon-musk-agitacion-populista-4303807.jpg?tf=1200x' alt='Bill Gates arremete sin piedad contra Elon Musk: "Es agitación populista"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-cuellos-botella-deepseek-lanza-3fs-apuesta-codigo-abierto-ia-linux-1448362'>Adiós a los cuellos de botella: DeepSeek lanza 3FS, su apuesta de código abierto para IA y Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-cuellos-botella-deepseek-lanza-3fs-apuesta-codigo-abierto-ia-linux-1448362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-4270094.jpg?tf=1200x' alt='Adiós a los cuellos de botella: DeepSeek lanza 3FS, su apuesta de código abierto para IA y Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341'>Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241457.jpg?tf=1200x' alt='Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?' />
     </a>
 </div>
 
