@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-proponen-cambiar-forma-alertar-peligros-problemas-ia-1448439'>Investigadores proponen cambiar la forma de alertar sobre los peligros y problemas de la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-proponen-cambiar-forma-alertar-peligros-problemas-ia-1448439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/investigadores-proponen-cambiar-forma-alertar-peligros-problemas-ia-4303994.jpg?tf=1200x' alt='Investigadores proponen cambiar la forma de alertar sobre los peligros y problemas de la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/critica-destrozo-pero-comedia-acaba-colarse-visto-amazon-prime-video-1448329'>La crítica la destrozó, pero esta comedia acaba de colarse entre lo más visto de Amazon Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/critica-destrozo-pero-comedia-acaba-colarse-visto-amazon-prime-video-1448329' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/picture-imaginatelo-amazon-prime-video-4304065.jpg?tf=1200x' alt='La crítica la destrozó, pero esta comedia acaba de colarse entre lo más visto de Amazon Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-trabajos-inmunes-ia-1436113'>Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán a la inteligencia artificial"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-profesiones-trabajos-inmunes-ia-1436113' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-trabajos-ia-4283413.jpg?tf=1200x' alt='Bill Gates lo tiene claro: "Solo estas tres profesiones sobrevivirán a la inteligencia artificial"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-demuestra-utilizar-google-maps-waze-luna-1448509'>La NASA demuestra que podrías utilizar Google Maps y Waze incluso en la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-demuestra-utilizar-google-maps-waze-luna-1448509' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mapa-luna-google-maps-waze-4304126.jpg?tf=1200x' alt='La NASA demuestra que podrías utilizar Google Maps y Waze incluso en la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/unas-placas-solares-consiguen-detener-trafico-aereo-aeropuerto-amsterdam-1448392'>Unas placas solares consiguen detener el tráfico aéreo del aeropuerto de Ámsterdam</a></h4>
     <a href='https://computerhoy.20minutos.es/life/unas-placas-solares-consiguen-detener-trafico-aereo-aeropuerto-amsterdam-1448392' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/unas-placas-solares-consiguen-detener-trafico-aereo-aeropuerto-amsterdam-4303902.jpg?tf=1200x' alt='Unas placas solares consiguen detener el tráfico aéreo del aeropuerto de Ámsterdam' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-convierte-otra-cara-moneda-elon-musk-chatgpt-imparable-1448464'>Sam Altman se convierte en la otra cara de la moneda de Elon Musk: ChatGPT es imparable</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-convierte-otra-cara-moneda-elon-musk-chatgpt-imparable-1448464' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-convierte-otra-cara-moneda-elon-musk-chatgpt-imparable-4304043.jpg?tf=1200x' alt='Sam Altman se convierte en la otra cara de la moneda de Elon Musk: ChatGPT es imparable' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/hackers-app-herramienta-gratis-activar-windows-office-gratis-legal-1443772'>Hackers crean una herramienta que activa Windows y Office para siempre y aseguran que es legal: 'Lo usan empleados de Microsoft'</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/hackers-app-herramienta-gratis-activar-windows-office-gratis-legal-1443772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/hackers-crean-herramienta-activa-windows-office-siempre-afirman-legal-usan-empleados-microsoft-4295899.jpg?tf=1200x' alt='Hackers crean una herramienta que activa Windows y Office para siempre y aseguran que es legal: 'Lo usan empleados de Microsoft'' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-chatgpt-pudo-ayudar-adolescente-quedo-bloqueado-crucigrama-durante-tres-anos-1448401'>Ni ChatGPT pudo ayudar a un adolescente que se quedó bloqueado en un crucigrama durante tres años</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-chatgpt-pudo-ayudar-adolescente-quedo-bloqueado-crucigrama-durante-tres-anos-1448401' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acertijo-4303920.jpg?tf=1200x' alt='Ni ChatGPT pudo ayudar a un adolescente que se quedó bloqueado en un crucigrama durante tres años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-avisan-sam-altman-elon-musk-lideres-ia-acerca-momento-oppenheimer-1448499'>Expertos avisan a Sam Altman, Elon Musk y los líderes de la IA: "Se acerca el momento Oppenheimer"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-avisan-sam-altman-elon-musk-lideres-ia-acerca-momento-oppenheimer-1448499' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-avisan-sam-altman-elon-musk-lideres-ia-acerca-momento-oppenheimer-4304117.jpg?tf=1200x' alt='Expertos avisan a Sam Altman, Elon Musk y los líderes de la IA: "Se acerca el momento Oppenheimer"' />
     </a>
 </div>
 
