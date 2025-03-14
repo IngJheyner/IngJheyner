@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/expertos-todo-mundo-acusan-apple-mentir-ia-tim-cook-deberia-dar-explicaciones-1448462'>Expertos de todo el mundo acusan a Apple de mentir con la IA: "Tim Cook debería dar explicaciones"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/expertos-todo-mundo-acusan-apple-mentir-ia-tim-cook-deberia-dar-explicaciones-1448462' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/steve-jobs-tim-cook-comparten-habilidad-unica-muy-especial-muy-pocas-personas-poseen-4253840.jpg?tf=1200x' alt='Expertos de todo el mundo acusan a Apple de mentir con la IA: "Tim Cook debería dar explicaciones"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ejecutivo-openai-revela-mayor-desafio-enfrenta-sam-altman-ia-no-misterio-voluble-1448463'>Ejecutivo de OpenAI revela el mayor desafío al que se enfrenta Sam Altman: "La IA no es un misterio voluble"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ejecutivo-openai-revela-mayor-desafio-enfrenta-sam-altman-ia-no-misterio-voluble-1448463' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304038.jpg?tf=1200x' alt='Ejecutivo de OpenAI revela el mayor desafío al que se enfrenta Sam Altman: "La IA no es un misterio voluble"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/tesla-borde-colapso-papel-juegan-elon-musk-trump-byd-desastre-coche-electrico-1448387'>Tesla al borde del colapso: ¿qué papel juegan Elon Musk, Trump y BYD en este desastre del coche eléctrico?</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/tesla-borde-colapso-papel-juegan-elon-musk-trump-byd-desastre-coche-electrico-1448387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/ventas-tesla-desploman-europa-ultimo-mes-tambien-espana-4294062.jpg?tf=1200x' alt='Tesla al borde del colapso: ¿qué papel juegan Elon Musk, Trump y BYD en este desastre del coche eléctrico?' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/espana-inicia-primer-programa-piloto-dvb-i-llevar-internet-tdt-1448429'>España inicia el primer programa piloto DVB-I para llevar internet a la TDT</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/espana-inicia-primer-programa-piloto-dvb-i-llevar-internet-tdt-1448429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-inicia-primer-programa-piloto-dvb-i-llevar-internet-tdt-4303938.jpg?tf=1200x' alt='España inicia el primer programa piloto DVB-I para llevar internet a la TDT' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-arremete-piedad-elon-musk-agitacion-populista-1448345'>Bill Gates arremete sin piedad contra Elon Musk: "Es agitación populista"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-arremete-piedad-elon-musk-agitacion-populista-1448345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-arremete-elon-musk-agitacion-populista-4303807.jpg?tf=1200x' alt='Bill Gates arremete sin piedad contra Elon Musk: "Es agitación populista"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-aconsejan-escribir-pin-tarjeta-bancaria-evitar-robos-1448361'>Los expertos aconsejan escribir un PIN en tu tarjeta bancaria para evitar robos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-aconsejan-escribir-pin-tarjeta-bancaria-evitar-robos-1448361' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tarjeta-bancaria-fraude-4303892.jpg?tf=1200x' alt='Los expertos aconsejan escribir un PIN en tu tarjeta bancaria para evitar robos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/digi-ha-bajado-precio-todas-tarifas-pero-sigue-enfadando-clientes-1448347'>DIGI ha bajado el precio de todas las tarifas, pero sigue enfadando a sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/digi-ha-bajado-precio-todas-tarifas-pero-sigue-enfadando-clientes-1448347' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-ha-bajado-precio-todas-tarifas-pero-sigue-enfadando-clientes-4303871.jpg?tf=1200x' alt='DIGI ha bajado el precio de todas las tarifas, pero sigue enfadando a sus clientes' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/palo-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420'>Palo a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/palo-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-va-mejor-amd-windows-11-4304006.jpg?tf=1200x' alt='Palo a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/gigante-wall-street-pone-cuerdas-elon-musk-tesla-nunca-marca-coches-habia-quemado-reputacion-tan-rapido-1448376'>Gigante de Wall Street pone contra las cuerdas a Elon Musk y Tesla: "Nunca una marca de coches había quemado su reputación tan rápido"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/gigante-wall-street-pone-cuerdas-elon-musk-tesla-nunca-marca-coches-habia-quemado-reputacion-tan-rapido-1448376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-donald-trump-larga-conversacion-x-elecciones-coches-electricos-eeuu-3950846.jpg?tf=1200x' alt='Gigante de Wall Street pone contra las cuerdas a Elon Musk y Tesla: "Nunca una marca de coches había quemado su reputación tan rápido"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-ya-ha-encontrado-origen-problema-chromecast-tiene-mala-noticia-ti-1448413'>Google ya ha encontrado el origen del problema de los Chromecast y tiene una mala noticia para ti</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-ya-ha-encontrado-origen-problema-chromecast-tiene-mala-noticia-ti-1448413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chormecast-4303945.jpg?tf=1200x' alt='Google ya ha encontrado el origen del problema de los Chromecast y tiene una mala noticia para ti' />
     </a>
 </div>
 
