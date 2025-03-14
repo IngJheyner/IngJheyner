@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341'>Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241457.jpg?tf=1200x' alt='Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/nuevos-portatiles-ultrafinos-asus-zenbook-doble-pantalla-carcasa-ceraluminum-ia-1448375'>Nuevos portátiles ultrafinos Asus ZenBook: doble pantalla, carcasa de Ceraluminum y mucha, mucha IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/nuevos-portatiles-ultrafinos-asus-zenbook-doble-pantalla-carcasa-ceraluminum-ia-1448375' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevos-portatiles-ultrafinos-asus-zenbook-doble-pantalla-carcasa-ceraluminum-mucha-mucha-ia-4303790.jpg?tf=1200x' alt='Nuevos portátiles ultrafinos Asus ZenBook: doble pantalla, carcasa de Ceraluminum y mucha, mucha IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-historiador-experto-tecnologia-opina-ia-puede-acabar-dominio-humano-tierra-1448356'>Yuval Noah Harari, historiador y experto en tecnología, opina: "La IA puede acabar con el dominio humano en la Tierra"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-historiador-experto-tecnologia-opina-ia-puede-acabar-dominio-humano-tierra-1448356' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/yuval-noah-harari-historiador-experto-tecnologia-4303822.jpg?tf=1200x' alt='Yuval Noah Harari, historiador y experto en tecnología, opina: "La IA puede acabar con el dominio humano en la Tierra"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606'>Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-690-4301541.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331'>JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-4303754.jpg?tf=1200x' alt='JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/reno-13-pro-prueba-oppo-va-buen-camino-1444485'>El Reno 13 Pro es una prueba más de que Oppo va por el buen camino </a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/reno-13-pro-prueba-oppo-va-buen-camino-1444485' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297096.jpg?tf=1200x' alt='El Reno 13 Pro es una prueba más de que Oppo va por el buen camino ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-nothing-phone-3a-pro-movil-parecido-r2d2-mejora-mucho-camara-pero-vale-pena-1447629'>He probado el Nothing Phone (3a) Pro, el móvil parecido a R2D2: mejora mucho en cámara, ¿pero vale la pena?</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-nothing-phone-3a-pro-movil-parecido-r2d2-mejora-mucho-camara-pero-vale-pena-1447629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4303652.jpg?tf=1200x' alt='He probado el Nothing Phone (3a) Pro, el móvil parecido a R2D2: mejora mucho en cámara, ¿pero vale la pena?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158'>La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-guardia-civil-4303594.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"' />
     </a>
 </div>
 
