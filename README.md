@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331'>JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-4303754.jpg?tf=1200x' alt='JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/reno-13-pro-prueba-oppo-va-buen-camino-1444485'>El Reno 13 Pro es una prueba más de que Oppo va por el buen camino </a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/reno-13-pro-prueba-oppo-va-buen-camino-1444485' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/oppo-reno-13-pro-4297096.jpg?tf=1200x' alt='El Reno 13 Pro es una prueba más de que Oppo va por el buen camino ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-nothing-phone-3a-pro-movil-parecido-r2d2-mejora-mucho-camara-pero-vale-pena-1447629'>He probado el Nothing Phone (3a) Pro, el móvil parecido a R2D2: mejora mucho en cámara, ¿pero vale la pena?</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-nothing-phone-3a-pro-movil-parecido-r2d2-mejora-mucho-camara-pero-vale-pena-1447629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4303652.jpg?tf=1200x' alt='He probado el Nothing Phone (3a) Pro, el móvil parecido a R2D2: mejora mucho en cámara, ¿pero vale la pena?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158'>La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-guardia-civil-4303594.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-1448198'>Sam Altman amenaza con dejar sin trabajo una nueva profesión: "Es la primera vez que algo escrito por IA me ha impactado"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-1448198' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-4303466.jpg?tf=1200x' alt='Sam Altman amenaza con dejar sin trabajo una nueva profesión: "Es la primera vez que algo escrito por IA me ha impactado"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ya-hay-fecha-boom-definitivo-coche-electrico-1500-kilometros-sola-carga-1448157'>Ya hay fecha para el boom definitivo del coche eléctrico: 1.500 kilómetros con una sola carga</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ya-hay-fecha-boom-definitivo-coche-electrico-1500-kilometros-sola-carga-1448157' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/stellantis-prepara-arma-definitiva-vender-electricos-baratos-menos-20000-euros-gracias-byd-4292535.jpg?tf=1200x' alt='Ya hay fecha para el boom definitivo del coche eléctrico: 1.500 kilómetros con una sola carga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-despegan-buscas-rapida-regalando-meses-gratis-nuevos-usuarios-1447495'>Las VPN despegan, y si buscas una rápida, esta está regalando meses gratis a nuevos usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/vpn-despegan-buscas-rapida-regalando-meses-gratis-nuevos-usuarios-1447495' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nordvpn-vpn-4303498.jpg?tf=1200x' alt='Las VPN despegan, y si buscas una rápida, esta está regalando meses gratis a nuevos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/baterias-gravedad-materiales-raros-arma-china-dominar-energia-1448163'>Baterías por gravedad sin materiales raros, el arma china para dominar la energía</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/baterias-gravedad-materiales-raros-arma-china-dominar-energia-1448163' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-gravedad-4303434.jpg?tf=1200x' alt='Baterías por gravedad sin materiales raros, el arma china para dominar la energía' />
     </a>
 </div>
 
