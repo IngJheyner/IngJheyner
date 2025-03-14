@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-arremete-piedad-elon-musk-agitacion-populista-1448345'>Bill Gates arremete sin piedad contra Elon Musk: "Es agitación populista"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-arremete-piedad-elon-musk-agitacion-populista-1448345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-arremete-elon-musk-agitacion-populista-4303807.jpg?tf=1200x' alt='Bill Gates arremete sin piedad contra Elon Musk: "Es agitación populista"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/digi-ha-bajado-precio-todas-tarifas-pero-sigue-enfadando-clientes-1448347'>DIGI ha bajado el precio de todas las tarifas, pero sigue enfadando a sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/digi-ha-bajado-precio-todas-tarifas-pero-sigue-enfadando-clientes-1448347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-ha-bajado-precio-todas-tarifas-pero-sigue-enfadando-clientes-4303871.jpg?tf=1200x' alt='DIGI ha bajado el precio de todas las tarifas, pero sigue enfadando a sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/gigante-wall-street-pone-cuerdas-elon-musk-tesla-nunca-marca-coches-habia-quemado-reputacion-tan-rapido-1448376'>Gigante de Wall Street pone contra las cuerdas a Elon Musk y Tesla: "Nunca una marca de coches había quemado su reputación tan rápido"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/gigante-wall-street-pone-cuerdas-elon-musk-tesla-nunca-marca-coches-habia-quemado-reputacion-tan-rapido-1448376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/elon-musk-donald-trump-larga-conversacion-x-elecciones-coches-electricos-eeuu-3950846.jpg?tf=1200x' alt='Gigante de Wall Street pone contra las cuerdas a Elon Musk y Tesla: "Nunca una marca de coches había quemado su reputación tan rápido"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-cuellos-botella-deepseek-lanza-3fs-apuesta-codigo-abierto-ia-linux-1448362'>Adiós a los cuellos de botella: DeepSeek lanza 3FS, su apuesta de código abierto para IA y Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-cuellos-botella-deepseek-lanza-3fs-apuesta-codigo-abierto-ia-linux-1448362' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/parche-rey-pinguino-linux-deberias-instalarlo-ahora-mismo-4270094.jpg?tf=1200x' alt='Adiós a los cuellos de botella: DeepSeek lanza 3FS, su apuesta de código abierto para IA y Linux' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341'>Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-abandonara-nombre-pro-max-favor-ultra-iphone-tope-gama-cuales-son-motivos-ocultos-1448341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/apple-iphone-16-pro-4241457.jpg?tf=1200x' alt='Apple abandonará el nombre 'Pro Max' en favor de 'Ultra' para su iPhone tope de gama: ¿cuáles son los motivos ocultos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/nuevos-portatiles-ultrafinos-asus-zenbook-doble-pantalla-carcasa-ceraluminum-ia-1448375'>Nuevos portátiles ultrafinos Asus ZenBook: doble pantalla, carcasa de Ceraluminum y mucha, mucha IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/nuevos-portatiles-ultrafinos-asus-zenbook-doble-pantalla-carcasa-ceraluminum-ia-1448375' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevos-portatiles-ultrafinos-asus-zenbook-doble-pantalla-carcasa-ceraluminum-mucha-mucha-ia-4303790.jpg?tf=1200x' alt='Nuevos portátiles ultrafinos Asus ZenBook: doble pantalla, carcasa de Ceraluminum y mucha, mucha IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-historiador-experto-tecnologia-opina-ia-puede-acabar-dominio-humano-tierra-1448356'>Yuval Noah Harari, historiador y experto en tecnología, opina: "La IA puede acabar con el dominio humano en la Tierra"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-historiador-experto-tecnologia-opina-ia-puede-acabar-dominio-humano-tierra-1448356' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/yuval-noah-harari-historiador-experto-tecnologia-4303822.jpg?tf=1200x' alt='Yuval Noah Harari, historiador y experto en tecnología, opina: "La IA puede acabar con el dominio humano en la Tierra"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606'>Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-690-4301541.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar' />
     </a>
 </div>
 
