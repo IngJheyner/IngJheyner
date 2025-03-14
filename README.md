@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606'>Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-690-nubarrones-vista-copilot-tendra-esperar-1446606' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-690-4301541.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 690: nubarrones a la vista, Copilot+ tendrá que esperar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331'>JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-1448331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jbl-sorprende-auriculares-altavoces-ia-otras-innovaciones-4303754.jpg?tf=1200x' alt='JBL sorprende con sus auriculares y altavoces con IA, y otras innovaciones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158'>La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/guardia-civil-alerta-nueva-peligrosa-estafa-llega-correo-diciendo-somos-nosotros-1448158' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-guardia-civil-4303594.jpg?tf=1200x' alt='La Guardia Civil alerta sobre una nueva y peligrosa estafa: "Llega un correo diciendo que somos nosotros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-1448198'>Sam Altman amenaza con dejar sin trabajo una nueva profesión: "Es la primera vez que algo escrito por IA me ha impactado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-1448198' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-amenaza-dejar-trabajo-nueva-profesion-primera-vez-algo-escrito-ia-me-ha-impactado-4303466.jpg?tf=1200x' alt='Sam Altman amenaza con dejar sin trabajo una nueva profesión: "Es la primera vez que algo escrito por IA me ha impactado"' />
     </a>
 </div>
 
