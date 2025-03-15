@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/notificaciones-semitransparentes-podrian-llegar-android-16-pero-hay-problema-1448665'>Las notificaciones semitransparentes podrían llegar a Android 16, pero hay un problema</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/notificaciones-semitransparentes-podrian-llegar-android-16-pero-hay-problema-1448665' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/notificaciones-android-4304307.jpg?tf=1200x' alt='Las notificaciones semitransparentes podrían llegar a Android 16, pero hay un problema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-prueba-recomendaciones-inteligentes-rediseno-clave-informacion-sistema-1448664'>Windows 11 prueba recomendaciones inteligentes y un rediseño clave en la información del sistema</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-prueba-recomendaciones-inteligentes-rediseno-clave-informacion-sistema-1448664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4304305.jpg?tf=1200x' alt='Windows 11 prueba recomendaciones inteligentes y un rediseño clave en la información del sistema' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/areneros-inteligentes-van-tiene-camara-limpia-arena-embolsa-forma-autonoma-1448643'>Los areneros inteligentes van a más: este tiene cámara y hasta limpia la arena y la embolsa de forma autónoma</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/areneros-inteligentes-van-tiene-camara-limpia-arena-embolsa-forma-autonoma-1448643' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/arenero-4304288.jpg?tf=1200x' alt='Los areneros inteligentes van a más: este tiene cámara y hasta limpia la arena y la embolsa de forma autónoma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647'>¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/outlook-4304293.jpg?tf=1200x' alt='¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico' />
     </a>
 </div>
 
