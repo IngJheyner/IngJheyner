@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/atrapado-salida-windows-10-distro-gratis-linux-casi-clon-perfecta-no-puedes-actualizar-windows-11-1445991'>¿Atrapado sin salida en Windows 10? Esta distro gratis de Linux casi un clon y perfecta si no puedes actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/atrapado-salida-windows-10-distro-gratis-linux-casi-clon-perfecta-no-puedes-actualizar-windows-11-1445991' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-windows-10-4299832.jpg?tf=1200x' alt='¿Atrapado sin salida en Windows 10? Esta distro gratis de Linux casi un clon y perfecta si no puedes actualizar a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-principiantes-1444966'>Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-principiantes-1444966' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programadores-veteranos-4304023.jpg?tf=1200x' alt='Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/estos-son-dispositivos-casa-siempre-deberias-desenchufar-durante-tormenta-1446800'>Estos son los dispositivos de casa que siempre deberías desenchufar durante una tormenta</a></h4>
     <a href='https://computerhoy.20minutos.es/life/estos-son-dispositivos-casa-siempre-deberias-desenchufar-durante-tormenta-1446800' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estos-son-dispositivos-casa-siempre-deberias-desenchufar-durante-tormenta-4301301.jpg?tf=1200x' alt='Estos son los dispositivos de casa que siempre deberías desenchufar durante una tormenta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-presenta-copilot-gaming-ia-te-ayuda-videojuegos-1448583'>Microsoft presenta Copilot for Gaming, la IA que te ayuda mientras juegas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/microsoft-presenta-copilot-gaming-ia-te-ayuda-videojuegos-1448583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-presenta-copilot-gaming-ia-te-ayuda-mientras-juegas-4304214.jpg?tf=1200x' alt='Microsoft presenta Copilot for Gaming, la IA que te ayuda mientras juegas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-1447782'>Ya no escaneo un solo código QR sin utilizar esta aplicación, y tú también deberías hacerlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-1447782' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-4302841.jpg?tf=1200x' alt='Ya no escaneo un solo código QR sin utilizar esta aplicación, y tú también deberías hacerlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-1447778'>He completado mi conversión al USB-C: no ha sido fácil, pero ha merecido la pena, solo hay ventajas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-1447778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-4302839.jpg?tf=1200x' alt='He completado mi conversión al USB-C: no ha sido fácil, pero ha merecido la pena, solo hay ventajas' />
     </a>
 </div>
 
