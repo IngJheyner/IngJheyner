@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/uso-iptv-cada-dia-veo-40000-canales-gratis-todo-mundo-temor-bloqueos-laliga-1446539'>Uso IPTV cada día y veo más de 40.000 canales gratis de todo el mundo sin temor a los bloqueos de LaLiga</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/uso-iptv-cada-dia-veo-40000-canales-gratis-todo-mundo-temor-bloqueos-laliga-1446539' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/uso-iptv-cada-dia-veo-40000-canales-gratis-todo-mundo-temor-bloqueos-laliga-porque-100-legal-4300747.jpg?tf=1200x' alt='Uso IPTV cada día y veo más de 40.000 canales gratis de todo el mundo sin temor a los bloqueos de LaLiga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-1448560'>Elon Musk encuentra un nuevo uso absurdo de la IA y los expertos se tiran de los pelos: "Es una pésima idea"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-1448560' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-4304205.jpg?tf=1200x' alt='Elon Musk encuentra un nuevo uso absurdo de la IA y los expertos se tiran de los pelos: "Es una pésima idea"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437'>La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-4303949.jpg?tf=1200x' alt='La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-advierte-mayoria-empleados-no-saben-como-usar-ia-1448548'>Un experto advierte: "La mayoría de los empleados no saben cómo usar la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-advierte-mayoria-empleados-no-saben-como-usar-ia-1448548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4304182.jpg?tf=1200x' alt='Un experto advierte: "La mayoría de los empleados no saben cómo usar la IA"' />
     </a>
 </div>
 
