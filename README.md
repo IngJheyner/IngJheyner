@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647'>¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/outlook-4304293.jpg?tf=1200x' alt='¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642'>Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4304285.jpg?tf=1200x' alt='Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-14-beta-trae-como-instalarla-ya-1448632'>Google lanza Android Auto 14 en beta: qué trae y cómo instalarla ya</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-14-beta-trae-como-instalarla-ya-1448632' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-14-4304275.jpg?tf=1200x' alt='Google lanza Android Auto 14 en beta: qué trae y cómo instalarla ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-oferta-antibloqueos-iptv-1446171'>La oferta "antibloqueos" de Movistar Plus+ que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV </a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-oferta-antibloqueos-iptv-1446171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-oferta-anti-iptv-4304090.jpg?tf=1200x' alt='La oferta "antibloqueos" de Movistar Plus+ que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV ' />
     </a>
 </div>
 
