@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/google-podria-cambiar-siempre-forma-respondes-llamadas-movil-android-1448658'>Google podría cambiar para siempre la forma en la que respondes llamadas en tu móvil Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/google-podria-cambiar-siempre-forma-respondes-llamadas-movil-android-1448658' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-movil-4304297.jpg?tf=1200x' alt='Google podría cambiar para siempre la forma en la que respondes llamadas en tu móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/areneros-inteligentes-van-tiene-camara-limpia-arena-embolsa-forma-autonoma-1448643'>Los areneros inteligentes van a más: este tiene cámara y hasta limpia la arena y la embolsa de forma autónoma</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/areneros-inteligentes-van-tiene-camara-limpia-arena-embolsa-forma-autonoma-1448643' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/arenero-4304288.jpg?tf=1200x' alt='Los areneros inteligentes van a más: este tiene cámara y hasta limpia la arena y la embolsa de forma autónoma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647'>¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/outlook-4304293.jpg?tf=1200x' alt='¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635'>Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-4304279.jpg?tf=1200x' alt='Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-1445961'>¿Por qué la TDT en HD se ve tan mal? El culpable es este ajuste de tu televisor que seguramente no has cambiado</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-1445961' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-4299793.jpg?tf=1200x' alt='¿Por qué la TDT en HD se ve tan mal? El culpable es este ajuste de tu televisor que seguramente no has cambiado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-14-beta-trae-como-instalarla-ya-1448632'>Google lanza Android Auto 14 en beta: qué trae y cómo instalarla ya</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-14-beta-trae-como-instalarla-ya-1448632' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-14-4304275.jpg?tf=1200x' alt='Google lanza Android Auto 14 en beta: qué trae y cómo instalarla ya' />
     </a>
 </div>
 
