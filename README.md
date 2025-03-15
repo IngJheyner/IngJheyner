@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661'>iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-fotos-iphone-4304300.jpg?tf=1200x' alt='iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/google-podria-cambiar-siempre-forma-respondes-llamadas-movil-android-1448658'>Google podría cambiar para siempre la forma en la que respondes llamadas en tu móvil Android</a></h4>
     <a href='https://computerhoy.20minutos.es/android/google-podria-cambiar-siempre-forma-respondes-llamadas-movil-android-1448658' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-movil-4304297.jpg?tf=1200x' alt='Google podría cambiar para siempre la forma en la que respondes llamadas en tu móvil Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642'>Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4304285.jpg?tf=1200x' alt='Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635'>Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-4304279.jpg?tf=1200x' alt='Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos' />
     </a>
 </div>
 
