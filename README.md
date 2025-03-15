@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-1448560'>Elon Musk encuentra un nuevo uso absurdo de la IA y los expertos se tiran de los pelos: "Es una pésima idea"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-1448560' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-4304205.jpg?tf=1200x' alt='Elon Musk encuentra un nuevo uso absurdo de la IA y los expertos se tiran de los pelos: "Es una pésima idea"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-costar-550-euros-1448567'>Jarro de agua fría para los fans: la Nintendo Switch 2 podría costar hasta 550 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-costar-550-euros-1448567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jarro-agua-fria-fans-nintendo-switch-2-podria-costar-500-euros-4304196.jpg?tf=1200x' alt='Jarro de agua fría para los fans: la Nintendo Switch 2 podría costar hasta 550 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-advierte-mayoria-empleados-no-saben-como-usar-ia-1448548'>Un experto advierte: "La mayoría de los empleados no saben cómo usar la IA"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-advierte-mayoria-empleados-no-saben-como-usar-ia-1448548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4304182.jpg?tf=1200x' alt='Un experto advierte: "La mayoría de los empleados no saben cómo usar la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-juegues-cualquier-juego-android-pc-viceversa-1448547'>Google quiere que juegues cualquier juego de Android en PC (y viceversa)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-quiere-juegues-cualquier-juego-android-pc-viceversa-1448547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-games-4304181.jpg?tf=1200x' alt='Google quiere que juegues cualquier juego de Android en PC (y viceversa)' />
     </a>
 </div>
 
