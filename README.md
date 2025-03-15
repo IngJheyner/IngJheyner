@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024'>Google Maps: cómo distinguir entre radares fijos y móviles</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-como-distinguir-radares-fijos-moviles-4297982.jpg?tf=1200x' alt='Google Maps: cómo distinguir entre radares fijos y móviles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-admite-retrasos-nuevo-siri-son-vergonzosos-fecha-clara-lanzamiento-1448629'>Apple admite que los retrasos del nuevo Siri son "vergonzosos" y sin fecha clara de lanzamiento</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-admite-retrasos-nuevo-siri-son-vergonzosos-fecha-clara-lanzamiento-1448629' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevo-siri-4304272.jpg?tf=1200x' alt='Apple admite que los retrasos del nuevo Siri son "vergonzosos" y sin fecha clara de lanzamiento' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-cables-keylogging-1437566'>Experto en ciberseguridad lo confirma: el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-cables-keylogging-1437566' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movil-cajon-rodeado-cables-senal-peligro-4304042.jpg?tf=1200x' alt='Experto en ciberseguridad lo confirma: el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/stuttering-deberias-evitarlo-pc-gaming-1447786'>¿Qué es el stuttering y por qué deberías evitarlo en tu PC Gaming?</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/stuttering-deberias-evitarlo-pc-gaming-1447786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mal-rendimiento-videojuegos-pc-4302848.jpg?tf=1200x' alt='¿Qué es el stuttering y por qué deberías evitarlo en tu PC Gaming?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-assistant-gemini-sera-nuevo-asistente-oficial-android-ano-1448613'>Adiós Google Assistant: Gemini será el nuevo asistente oficial en Android este año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-assistant-gemini-sera-nuevo-asistente-oficial-android-ano-1448613' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4304257.jpg?tf=1200x' alt='Adiós Google Assistant: Gemini será el nuevo asistente oficial en Android este año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-mensaje-futuros-programadores-1445288'>El creador de C++ tiene un mensaje importante para los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-mensaje-futuros-programadores-1445288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-4304027.jpg?tf=1200x' alt='El creador de C++ tiene un mensaje importante para los futuros programadores: "No puedes aprender a programar por internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/atrapado-salida-windows-10-distro-gratis-linux-casi-clon-perfecta-no-puedes-actualizar-windows-11-1445991'>¿Atrapado sin salida en Windows 10? Esta distro gratis de Linux casi un clon y perfecta si no puedes actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/atrapado-salida-windows-10-distro-gratis-linux-casi-clon-perfecta-no-puedes-actualizar-windows-11-1445991' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-windows-10-4299832.jpg?tf=1200x' alt='¿Atrapado sin salida en Windows 10? Esta distro gratis de Linux casi un clon y perfecta si no puedes actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-principiantes-1444966'>Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/mejores-lenguajes-programacion-principiantes-1444966' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programadores-veteranos-4304023.jpg?tf=1200x' alt='Programadores veteranos no dudan: "Si comenzara a programar, estos son los tres lenguajes que aprendería"' />
     </a>
 </div>
 
