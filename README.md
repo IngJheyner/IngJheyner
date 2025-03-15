@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/uso-iptv-cada-dia-veo-40000-canales-gratis-todo-mundo-temor-bloqueos-laliga-1446539'>Uso IPTV cada día y veo más de 40.000 canales gratis de todo el mundo sin temor a los bloqueos de LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/uso-iptv-cada-dia-veo-40000-canales-gratis-todo-mundo-temor-bloqueos-laliga-1446539' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/uso-iptv-cada-dia-veo-40000-canales-gratis-todo-mundo-temor-bloqueos-laliga-porque-100-legal-4300747.jpg?tf=1200x' alt='Uso IPTV cada día y veo más de 40.000 canales gratis de todo el mundo sin temor a los bloqueos de LaLiga' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-operadoras-alianza-iptv-guerra-ellos-1448203'>LaLiga y las operadoras: ¿una alianza contra las IPTV o una guerra entre ellos?</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/laliga-operadoras-alianza-iptv-guerra-ellos-1448203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-operadoras-4303898.jpg?tf=1200x' alt='LaLiga y las operadoras: ¿una alianza contra las IPTV o una guerra entre ellos?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-1448560'>Elon Musk encuentra un nuevo uso absurdo de la IA y los expertos se tiran de los pelos: "Es una pésima idea"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-1448560' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-encuentra-nuevo-uso-absurdo-ia-expertos-tiran-pelos-pesima-idea-4304205.jpg?tf=1200x' alt='Elon Musk encuentra un nuevo uso absurdo de la IA y los expertos se tiran de los pelos: "Es una pésima idea"' />
+    <h4><a href='https://computerhoy.20minutos.es/life/estado-critico-asomar-cuerpo-tren-hacerse-selfie-golpearse-tunel-1448577'>En estado crítico tras asomar el cuerpo en un tren para hacerse un selfie, y golpearse con un túnel</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/estado-critico-asomar-cuerpo-tren-hacerse-selfie-golpearse-tunel-1448577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-critico-asomar-cabeza-tren-hacerse-selfie-golpearse-tunel-4304217.jpg?tf=1200x' alt='En estado crítico tras asomar el cuerpo en un tren para hacerse un selfie, y golpearse con un túnel' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-costar-550-euros-1448567'>Jarro de agua fría para los fans: la Nintendo Switch 2 podría costar hasta 550 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nintendo-switch-2-podria-costar-550-euros-1448567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jarro-agua-fria-fans-nintendo-switch-2-podria-costar-500-euros-4304196.jpg?tf=1200x' alt='Jarro de agua fría para los fans: la Nintendo Switch 2 podría costar hasta 550 euros' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casi-todo-mundo-hace-mal-correos-electronicos-nunca-deberias-eliminar-aunque-sean-spam-1444757'>Casi todo el mundo lo hace mal: correos electrónicos que nunca deberías eliminar, aunque sean SPAM</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/casi-todo-mundo-hace-mal-correos-electronicos-nunca-deberias-eliminar-aunque-sean-spam-1444757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/casi-todo-mundo-hace-mal-correos-electronicos-nunca-deberias-eliminar-aunque-sean-spam-4297540.jpg?tf=1200x' alt='Casi todo el mundo lo hace mal: correos electrónicos que nunca deberías eliminar, aunque sean SPAM' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-1448542'>Bloqueos de LaLiga a las IPTV: estos serán las horas más calientes del fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-1448542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bloqueos-laliga-iptv-estos-seran-horas-calientes-fin-semana-4304197.jpg?tf=1200x' alt='Bloqueos de LaLiga a las IPTV: estos serán las horas más calientes del fin de semana' />
+    <h4><a href='https://computerhoy.20minutos.es/moviles/no-camara-movil-fotografo-1447388'>No es la cámara del móvil, es el fotógrafo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/no-camara-movil-fotografo-1447388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-15-ultra-4300668.jpg?tf=1200x' alt='No es la cámara del móvil, es el fotógrafo' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437'>La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-1448437' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-cosa-fe-iglesia-ya-usa-inteligencia-artificial-misas-4303949.jpg?tf=1200x' alt='La IA es cosa de fe: así es la iglesia que ya usa inteligencia artificial en sus misas' />
+    <h4><a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-pro-vs-redmi-note-14-5g-cual-comprar-busques-1448267'>Redmi Note 14 Pro vs Redmi Note 14 5G: ¿cuál comprar según lo que busques?</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-pro-vs-redmi-note-14-5g-cual-comprar-busques-1448267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/redmi-note-14-4303950.jpg?tf=1200x' alt='Redmi Note 14 Pro vs Redmi Note 14 5G: ¿cuál comprar según lo que busques?' />
     </a>
 </div>
 
