@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-1447782'>Ya no escaneo un solo código QR sin utilizar esta aplicación, y tú también deberías hacerlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-1447782' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-4302841.jpg?tf=1200x' alt='Ya no escaneo un solo código QR sin utilizar esta aplicación, y tú también deberías hacerlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-1447778'>He completado mi conversión al USB-C: no ha sido fácil, pero ha merecido la pena, solo hay ventajas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-1447778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-4302839.jpg?tf=1200x' alt='He completado mi conversión al USB-C: no ha sido fácil, pero ha merecido la pena, solo hay ventajas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/punto-pantalla-movil-debes-vigilar-ves-habitualmente-motivo-comienza-preocuparte-1444751'>El punto de la pantalla de tu móvil que debes vigilar: si lo ves habitualmente, sin motivo, comienza a preocuparte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/punto-pantalla-movil-debes-vigilar-ves-habitualmente-motivo-comienza-preocuparte-1444751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/punto-pantalla-movil-debes-vigilar-ves-habitualmente-motivo-comienza-preocuparte-4297536.jpg?tf=1200x' alt='El punto de la pantalla de tu móvil que debes vigilar: si lo ves habitualmente, sin motivo, comienza a preocuparte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/laliga-operadoras-alianza-iptv-guerra-ellos-1448203'>LaLiga y las operadoras: ¿una alianza contra las IPTV o una guerra entre ellos?</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/laliga-operadoras-alianza-iptv-guerra-ellos-1448203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-operadoras-4303898.jpg?tf=1200x' alt='LaLiga y las operadoras: ¿una alianza contra las IPTV o una guerra entre ellos?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/estado-critico-asomar-cuerpo-tren-hacerse-selfie-golpearse-tunel-1448577'>En estado crítico tras asomar el cuerpo en un tren para hacerse un selfie, y golpearse con un túnel</a></h4>
     <a href='https://computerhoy.20minutos.es/life/estado-critico-asomar-cuerpo-tren-hacerse-selfie-golpearse-tunel-1448577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-critico-asomar-cabeza-tren-hacerse-selfie-golpearse-tunel-4304217.jpg?tf=1200x' alt='En estado crítico tras asomar el cuerpo en un tren para hacerse un selfie, y golpearse con un túnel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/casi-todo-mundo-hace-mal-correos-electronicos-nunca-deberias-eliminar-aunque-sean-spam-1444757'>Casi todo el mundo lo hace mal: correos electrónicos que nunca deberías eliminar, aunque sean SPAM</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/casi-todo-mundo-hace-mal-correos-electronicos-nunca-deberias-eliminar-aunque-sean-spam-1444757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/casi-todo-mundo-hace-mal-correos-electronicos-nunca-deberias-eliminar-aunque-sean-spam-4297540.jpg?tf=1200x' alt='Casi todo el mundo lo hace mal: correos electrónicos que nunca deberías eliminar, aunque sean SPAM' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/no-camara-movil-fotografo-1447388'>No es la cámara del móvil, es el fotógrafo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/no-camara-movil-fotografo-1447388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-15-ultra-4300668.jpg?tf=1200x' alt='No es la cámara del móvil, es el fotógrafo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-pro-vs-redmi-note-14-5g-cual-comprar-busques-1448267'>Redmi Note 14 Pro vs Redmi Note 14 5G: ¿cuál comprar según lo que busques?</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/redmi-note-14-pro-vs-redmi-note-14-5g-cual-comprar-busques-1448267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/redmi-note-14-4303950.jpg?tf=1200x' alt='Redmi Note 14 Pro vs Redmi Note 14 5G: ¿cuál comprar según lo que busques?' />
     </a>
 </div>
 
