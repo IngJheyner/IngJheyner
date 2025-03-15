@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/estos-son-dispositivos-casa-siempre-deberias-desenchufar-durante-tormenta-1446800'>Estos son los dispositivos de casa que siempre deberías desenchufar durante una tormenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/estos-son-dispositivos-casa-siempre-deberias-desenchufar-durante-tormenta-1446800' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estos-son-dispositivos-casa-siempre-deberias-desenchufar-durante-tormenta-4301301.jpg?tf=1200x' alt='Estos son los dispositivos de casa que siempre deberías desenchufar durante una tormenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-kia-coches-electricos-pegatina-1447396'>Los fabricantes de coches eléctricos se ríen de Elon Musk: “Lo compré después de que Elon se volviera loco”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-kia-coches-electricos-pegatina-1447396' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-coche-electrico-4304013.jpg?tf=1200x' alt='Los fabricantes de coches eléctricos se ríen de Elon Musk: “Lo compré después de que Elon se volviera loco”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/microsoft-presenta-copilot-gaming-ia-te-ayuda-videojuegos-1448583'>Microsoft presenta Copilot for Gaming, la IA que te ayuda mientras juegas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/microsoft-presenta-copilot-gaming-ia-te-ayuda-videojuegos-1448583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-presenta-copilot-gaming-ia-te-ayuda-mientras-juegas-4304214.jpg?tf=1200x' alt='Microsoft presenta Copilot for Gaming, la IA que te ayuda mientras juegas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-1447782'>Ya no escaneo un solo código QR sin utilizar esta aplicación, y tú también deberías hacerlo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-1447782' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-no-escaneo-solo-codigo-qr-utilizar-aplicacion-tambien-deberias-hacerlo-4302841.jpg?tf=1200x' alt='Ya no escaneo un solo código QR sin utilizar esta aplicación, y tú también deberías hacerlo' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-1447778'>He completado mi conversión al USB-C: no ha sido fácil, pero ha merecido la pena, solo hay ventajas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-1447778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-completado-mi-conversion-usb-c-no-ha-sido-facil-pero-ha-merecido-pena-solo-hay-ventajas-4302839.jpg?tf=1200x' alt='He completado mi conversión al USB-C: no ha sido fácil, pero ha merecido la pena, solo hay ventajas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/punto-pantalla-movil-debes-vigilar-ves-habitualmente-motivo-comienza-preocuparte-1444751'>El punto de la pantalla de tu móvil que debes vigilar: si lo ves habitualmente, sin motivo, comienza a preocuparte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/punto-pantalla-movil-debes-vigilar-ves-habitualmente-motivo-comienza-preocuparte-1444751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/punto-pantalla-movil-debes-vigilar-ves-habitualmente-motivo-comienza-preocuparte-4297536.jpg?tf=1200x' alt='El punto de la pantalla de tu móvil que debes vigilar: si lo ves habitualmente, sin motivo, comienza a preocuparte' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/laliga-operadoras-alianza-iptv-guerra-ellos-1448203'>LaLiga y las operadoras: ¿una alianza contra las IPTV o una guerra entre ellos?</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/laliga-operadoras-alianza-iptv-guerra-ellos-1448203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laliga-operadoras-4303898.jpg?tf=1200x' alt='LaLiga y las operadoras: ¿una alianza contra las IPTV o una guerra entre ellos?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/estado-critico-asomar-cuerpo-tren-hacerse-selfie-golpearse-tunel-1448577'>En estado crítico tras asomar el cuerpo en un tren para hacerse un selfie, y golpearse con un túnel</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/estado-critico-asomar-cuerpo-tren-hacerse-selfie-golpearse-tunel-1448577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-critico-asomar-cabeza-tren-hacerse-selfie-golpearse-tunel-4304217.jpg?tf=1200x' alt='En estado crítico tras asomar el cuerpo en un tren para hacerse un selfie, y golpearse con un túnel' />
     </a>
 </div>
 
