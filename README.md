@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635'>Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-4304279.jpg?tf=1200x' alt='Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-1445961'>¿Por qué la TDT en HD se ve tan mal? El culpable es este ajuste de tu televisor que seguramente no has cambiado</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-1445961' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-4299793.jpg?tf=1200x' alt='¿Por qué la TDT en HD se ve tan mal? El culpable es este ajuste de tu televisor que seguramente no has cambiado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024'>Google Maps: cómo distinguir entre radares fijos y móviles</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-como-distinguir-radares-fijos-moviles-4297982.jpg?tf=1200x' alt='Google Maps: cómo distinguir entre radares fijos y móviles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-admite-retrasos-nuevo-siri-son-vergonzosos-fecha-clara-lanzamiento-1448629'>Apple admite que los retrasos del nuevo Siri son "vergonzosos" y sin fecha clara de lanzamiento</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-admite-retrasos-nuevo-siri-son-vergonzosos-fecha-clara-lanzamiento-1448629' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevo-siri-4304272.jpg?tf=1200x' alt='Apple admite que los retrasos del nuevo Siri son "vergonzosos" y sin fecha clara de lanzamiento' />
     </a>
 </div>
 
