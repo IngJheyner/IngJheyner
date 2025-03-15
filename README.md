@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-prueba-recomendaciones-inteligentes-rediseno-clave-informacion-sistema-1448664'>Windows 11 prueba recomendaciones inteligentes y un rediseño clave en la información del sistema</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-prueba-recomendaciones-inteligentes-rediseno-clave-informacion-sistema-1448664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4304305.jpg?tf=1200x' alt='Windows 11 prueba recomendaciones inteligentes y un rediseño clave en la información del sistema' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661'>iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-fotos-iphone-4304300.jpg?tf=1200x' alt='iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647'>¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/no-te-gusta-nuevo-outlook-windows-11-mala-suerte-microsoft-rompe-accidentalmente-boton-volver-clasico-1448647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/outlook-4304293.jpg?tf=1200x' alt='¿No te gusta el nuevo Outlook para Windows 11? Mala suerte: Microsoft "rompe accidentalmente" el botón para volver al clásico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642'>Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4304285.jpg?tf=1200x' alt='Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón' />
     </a>
 </div>
 
