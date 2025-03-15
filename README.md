@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-1445961'>¿Por qué la TDT en HD se ve tan mal? El culpable es este ajuste de tu televisor que seguramente no has cambiado</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-1445961' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-hd-ve-tan-mal-culpable-ajuste-televisor-seguramente-no-has-cambiado-4299793.jpg?tf=1200x' alt='¿Por qué la TDT en HD se ve tan mal? El culpable es este ajuste de tu televisor que seguramente no has cambiado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-14-beta-trae-como-instalarla-ya-1448632'>Google lanza Android Auto 14 en beta: qué trae y cómo instalarla ya</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-lanza-android-auto-14-beta-trae-como-instalarla-ya-1448632' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-14-4304275.jpg?tf=1200x' alt='Google lanza Android Auto 14 en beta: qué trae y cómo instalarla ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-oferta-antibloqueos-iptv-1446171'>La oferta "antibloqueos" de Movistar Plus+ que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV </a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-oferta-antibloqueos-iptv-1446171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-oferta-anti-iptv-4304090.jpg?tf=1200x' alt='La oferta "antibloqueos" de Movistar Plus+ que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024'>Google Maps: cómo distinguir entre radares fijos y móviles</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-como-distinguir-radares-fijos-moviles-4297982.jpg?tf=1200x' alt='Google Maps: cómo distinguir entre radares fijos y móviles' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-admite-retrasos-nuevo-siri-son-vergonzosos-fecha-clara-lanzamiento-1448629'>Apple admite que los retrasos del nuevo Siri son "vergonzosos" y sin fecha clara de lanzamiento</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-admite-retrasos-nuevo-siri-son-vergonzosos-fecha-clara-lanzamiento-1448629' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevo-siri-4304272.jpg?tf=1200x' alt='Apple admite que los retrasos del nuevo Siri son "vergonzosos" y sin fecha clara de lanzamiento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-cables-keylogging-1437566'>Experto en ciberseguridad lo confirma: el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ciberseguridad-punto-debil-movil-cables-keylogging-1437566' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movil-cajon-rodeado-cables-senal-peligro-4304042.jpg?tf=1200x' alt='Experto en ciberseguridad lo confirma: el punto débil de tu móvil no es ni el WiFi ni el Bluetooth, está en tu cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/stuttering-deberias-evitarlo-pc-gaming-1447786'>¿Qué es el stuttering y por qué deberías evitarlo en tu PC Gaming?</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/stuttering-deberias-evitarlo-pc-gaming-1447786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mal-rendimiento-videojuegos-pc-4302848.jpg?tf=1200x' alt='¿Qué es el stuttering y por qué deberías evitarlo en tu PC Gaming?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-google-assistant-gemini-sera-nuevo-asistente-oficial-android-ano-1448613'>Adiós Google Assistant: Gemini será el nuevo asistente oficial en Android este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-google-assistant-gemini-sera-nuevo-asistente-oficial-android-ano-1448613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4304257.jpg?tf=1200x' alt='Adiós Google Assistant: Gemini será el nuevo asistente oficial en Android este año' />
     </a>
 </div>
 
