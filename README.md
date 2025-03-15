@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642'>Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/waze-recomendando-rutas-largas-absurdas-algunos-usuarios-nadie-sabe-razon-1448642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4304285.jpg?tf=1200x' alt='Waze está recomendando rutas más largas y absurdas a algunos usuarios y nadie sabe la razón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635'>Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/android-14-arruina-chromecast-google-tv-usuarios-reportan-todos-estos-fallos-1448635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-4304279.jpg?tf=1200x' alt='Android 14 arruina Chromecast con Google TV: usuarios reportan todos estos fallos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-oferta-antibloqueos-iptv-1446171'>La oferta "antibloqueos" de Movistar Plus+ que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV </a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-oferta-antibloqueos-iptv-1446171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-oferta-anti-iptv-4304090.jpg?tf=1200x' alt='La oferta "antibloqueos" de Movistar Plus+ que casi nadie conoce: fibra, fútbol, cine y series a precio de IPTV ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024'>Google Maps: cómo distinguir entre radares fijos y móviles</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-como-distinguir-radares-fijos-moviles-1445024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/google-maps-como-distinguir-radares-fijos-moviles-4297982.jpg?tf=1200x' alt='Google Maps: cómo distinguir entre radares fijos y móviles' />
     </a>
 </div>
 
