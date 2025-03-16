@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985'>He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-4299829.jpg?tf=1200x' alt='He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/error-google-maps-hace-aparezcan-rutas-aleatorias-iniciar-android-auto-1448730'>Error en Google Maps hace que aparezcan rutas aleatorias al iniciar Android Auto</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/error-google-maps-hace-aparezcan-rutas-aleatorias-iniciar-android-auto-1448730' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-google-maps-android-auto-4304371.jpg?tf=1200x' alt='Error en Google Maps hace que aparezcan rutas aleatorias al iniciar Android Auto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-1445021'>Amazon Fire TV: cansado de cortes compré este sencillo accesorio y ahora mi conexión vuela</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-1445021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-4297977.jpg?tf=1200x' alt='Amazon Fire TV: cansado de cortes compré este sencillo accesorio y ahora mi conexión vuela' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-potencial-ms-dos-windows-95-graficos-1444031'>Ingeniero de Microsoft confirma tras 30 años el enorme potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-potencial-ms-dos-windows-95-graficos-1444031' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dos-pc-ms-dos-otro-windows-95-4304083.jpg?tf=1200x' alt='Ingeniero de Microsoft confirma tras 30 años el enorme potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/perplexity-ya-tiene-aplicacion-nativa-windows-gratis-funciones-avanzadas-1448723'>Perplexity ya tiene aplicación nativa en Windows: gratis y con funciones avanzadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/perplexity-ya-tiene-aplicacion-nativa-windows-gratis-funciones-avanzadas-1448723' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/perplexity-4304366.jpg?tf=1200x' alt='Perplexity ya tiene aplicación nativa en Windows: gratis y con funciones avanzadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-1446264'>Los motoristas lo tienen claro: esta es su app preferida para evitar radares, y no es Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-1446264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-4300265.jpg?tf=1200x' alt='Los motoristas lo tienen claro: esta es su app preferida para evitar radares, y no es Waze' />
     </a>
 </div>
 
