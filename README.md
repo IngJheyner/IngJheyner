@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/abrazos-alegria-rescate-astronautas-varados-estacion-espacial-internacional-1448757'>Abrazos y alegría en el rescate de los astronautas varados en la Estación Espacial Internacional</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/abrazos-alegria-rescate-astronautas-varados-estacion-espacial-internacional-1448757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/abrazos-despedidas-rescate-astronautas-varados-estacion-espacial-internacional-4304436.jpg?tf=1200x' alt='Abrazos y alegría en el rescate de los astronautas varados en la Estación Espacial Internacional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754'>Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-consiguen-desencriptar-ransomware-akira-pero-necesitan-16-tarjetas-rtx-4090-4304433.jpg?tf=1200x' alt='Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/copilot-borra-ultima-actualizacion-windows-11-puedes-recuperarlo-1448733'>Copilot se borra tras la última actualización de Windows 11: así puedes recuperarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/copilot-borra-ultima-actualizacion-windows-11-puedes-recuperarlo-1448733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-copilot-windows-4304374.jpg?tf=1200x' alt='Copilot se borra tras la última actualización de Windows 11: así puedes recuperarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985'>He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-4299829.jpg?tf=1200x' alt='He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece' />
     </a>
 </div>
 
