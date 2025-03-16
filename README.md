@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-1445982'>Las carreras universitarias que la IA y los expertos recomiendan no hacer: "Es perder el tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-1445982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-4299823.jpg?tf=1200x' alt='Las carreras universitarias que la IA y los expertos recomiendan no hacer: "Es perder el tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/proyector-viene-android-chromecast-integrado-te-pica-gusanillo-muy-barato-probar-1448440'>Este proyector viene con Android y Chromecast integrado: si te pica el gusanillo, es muy barato para probar</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/proyector-viene-android-chromecast-integrado-te-pica-gusanillo-muy-barato-probar-1448440' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/proyector-gaimoo-4286472.jpg?tf=1200x' alt='Este proyector viene con Android y Chromecast integrado: si te pica el gusanillo, es muy barato para probar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/notificaciones-semitransparentes-podrian-llegar-android-16-pero-hay-problema-1448665'>Las notificaciones semitransparentes podrían llegar a Android 16, pero hay un problema</a></h4>
     <a href='https://computerhoy.20minutos.es/android/notificaciones-semitransparentes-podrian-llegar-android-16-pero-hay-problema-1448665' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/notificaciones-android-4304307.jpg?tf=1200x' alt='Las notificaciones semitransparentes podrían llegar a Android 16, pero hay un problema' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661'>iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-fotos-iphone-4304300.jpg?tf=1200x' alt='iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/google-podria-cambiar-siempre-forma-respondes-llamadas-movil-android-1448658'>Google podría cambiar para siempre la forma en la que respondes llamadas en tu móvil Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/google-podria-cambiar-siempre-forma-respondes-llamadas-movil-android-1448658' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-movil-4304297.jpg?tf=1200x' alt='Google podría cambiar para siempre la forma en la que respondes llamadas en tu móvil Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/areneros-inteligentes-van-tiene-camara-limpia-arena-embolsa-forma-autonoma-1448643'>Los areneros inteligentes van a más: este tiene cámara y hasta limpia la arena y la embolsa de forma autónoma</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/areneros-inteligentes-van-tiene-camara-limpia-arena-embolsa-forma-autonoma-1448643' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/arenero-4304288.jpg?tf=1200x' alt='Los areneros inteligentes van a más: este tiene cámara y hasta limpia la arena y la embolsa de forma autónoma' />
     </a>
 </div>
 
