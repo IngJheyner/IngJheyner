@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/copilot-borra-ultima-actualizacion-windows-11-puedes-recuperarlo-1448733'>Copilot se borra tras la última actualización de Windows 11: así puedes recuperarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/copilot-borra-ultima-actualizacion-windows-11-puedes-recuperarlo-1448733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-copilot-windows-4304374.jpg?tf=1200x' alt='Copilot se borra tras la última actualización de Windows 11: así puedes recuperarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985'>He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-4299829.jpg?tf=1200x' alt='He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-avisos-emergentes-windows-11-proteger-cuenta-1448729'>Microsoft prueba avisos emergentes en Windows 11 para proteger tu cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-avisos-emergentes-windows-11-proteger-cuenta-1448729' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4304367.jpg?tf=1200x' alt='Microsoft prueba avisos emergentes en Windows 11 para proteger tu cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-potencial-ms-dos-windows-95-graficos-1444031'>Ingeniero de Microsoft confirma tras 30 años el enorme potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-potencial-ms-dos-windows-95-graficos-1444031' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dos-pc-ms-dos-otro-windows-95-4304083.jpg?tf=1200x' alt='Ingeniero de Microsoft confirma tras 30 años el enorme potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"' />
     </a>
 </div>
 
