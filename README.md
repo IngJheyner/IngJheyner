@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-1445021'>Amazon Fire TV: cansado de cortes compré este sencillo accesorio y ahora mi conexión vuela</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-1445021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-4297977.jpg?tf=1200x' alt='Amazon Fire TV: cansado de cortes compré este sencillo accesorio y ahora mi conexión vuela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-avisos-emergentes-windows-11-proteger-cuenta-1448729'>Microsoft prueba avisos emergentes en Windows 11 para proteger tu cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-avisos-emergentes-windows-11-proteger-cuenta-1448729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4304367.jpg?tf=1200x' alt='Microsoft prueba avisos emergentes en Windows 11 para proteger tu cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-potencial-ms-dos-windows-95-graficos-1444031'>Ingeniero de Microsoft confirma tras 30 años el enorme potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ingeniero-microsoft-potencial-ms-dos-windows-95-graficos-1444031' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dos-pc-ms-dos-otro-windows-95-4304083.jpg?tf=1200x' alt='Ingeniero de Microsoft confirma tras 30 años el enorme potencial de MS-DOS: "Podía generar gráficos, pero prefirieron una interfaz mediocre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/perplexity-ya-tiene-aplicacion-nativa-windows-gratis-funciones-avanzadas-1448723'>Perplexity ya tiene aplicación nativa en Windows: gratis y con funciones avanzadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/perplexity-ya-tiene-aplicacion-nativa-windows-gratis-funciones-avanzadas-1448723' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/perplexity-4304366.jpg?tf=1200x' alt='Perplexity ya tiene aplicación nativa en Windows: gratis y con funciones avanzadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-1446264'>Los motoristas lo tienen claro: esta es su app preferida para evitar radares, y no es Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-1446264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-4300265.jpg?tf=1200x' alt='Los motoristas lo tienen claro: esta es su app preferida para evitar radares, y no es Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-actualiza-recortes-bloc-notas-herramientas-ia-mejoras-productividad-1448718'>Windows 11 actualiza Recortes y Bloc de Notas con herramientas de IA y mejoras de productividad</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-actualiza-recortes-bloc-notas-herramientas-ia-mejoras-productividad-1448718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/novedades-windows-11-4304361.jpg?tf=1200x' alt='Windows 11 actualiza Recortes y Bloc de Notas con herramientas de IA y mejoras de productividad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685'>Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control y ser una amenaza"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hombre-mitad-ser-humano-mitad-robot-ia-4304081.jpg?tf=1200x' alt='Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control y ser una amenaza"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/huawei-revienta-mercado-vende-ya-router-wifi-7-precio-ganga-1448455'>Huawei revienta el mercado y vende ya un router WiFi 7 a precio de ganga</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/huawei-revienta-mercado-vende-ya-router-wifi-7-precio-ganga-1448455' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-wifi-be3-4303990.jpg?tf=1200x' alt='Huawei revienta el mercado y vende ya un router WiFi 7 a precio de ganga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-1445976'>10 herramientas de código abierto que te ayudarán a ser mejor programador</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-1445976' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/10-herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-4299812.jpg?tf=1200x' alt='10 herramientas de código abierto que te ayudarán a ser mejor programador' />
     </a>
 </div>
 
