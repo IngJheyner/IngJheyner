@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-1445976'>10 herramientas de código abierto que te ayudarán a ser mejor programador</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-1445976' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/10-herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-4299812.jpg?tf=1200x' alt='10 herramientas de código abierto que te ayudarán a ser mejor programador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/fin-soporte-oficial-windows-10-acerca-como-puedo-proteger-mi-pc-no-me-paso-windows-11-1445955'>El fin del soporte oficial para Windows 10 se acerca, ¿cómo puedo proteger mi PC si no me paso a Windows 11?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/fin-soporte-oficial-windows-10-acerca-como-puedo-proteger-mi-pc-no-me-paso-windows-11-1445955' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/seguridad-windows-10-4299801.jpg?tf=1200x' alt='El fin del soporte oficial para Windows 10 se acerca, ¿cómo puedo proteger mi PC si no me paso a Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-nueva-bateria-aluminio-1442577'>Giro radical al coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-nueva-bateria-aluminio-1442577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro radical al coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/no-deberias-dejar-movil-enchufado-cargador-todo-dia-1446256'>¿Por qué no deberías dejar el móvil enchufado al cargador todo el día?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/no-deberias-dejar-movil-enchufado-cargador-todo-dia-1446256' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-deberias-dejar-movil-enchufado-cargador-todo-dia-4300257.jpg?tf=1200x' alt='¿Por qué no deberías dejar el móvil enchufado al cargador todo el día?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-sos-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647'>Profesores lanzan un SOS por la IA: "Antes enseñaba, ahora busco detectar trucos de ChatGPT"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-sos-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-dando-clase-4304077.jpg?tf=1200x' alt='Profesores lanzan un SOS por la IA: "Antes enseñaba, ahora busco detectar trucos de ChatGPT"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-dice-basta-niega-completar-codigo-desarrollador-dice-aprenda-programar-1448679'>La IA se planta: se niega a completar el código de un desarrollador, y le dice que aprenda a programar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-dice-basta-niega-completar-codigo-desarrollador-dice-aprenda-programar-1448679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-dice-basta-niega-completar-codigo-desarrollador-dice-aprenda-programar-4304233.jpg?tf=1200x' alt='La IA se planta: se niega a completar el código de un desarrollador, y le dice que aprenda a programar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/senales-indican-router-wifi-podria-estar-hackeado-1444762'>10 señales que indican que tu router WiFi podría estar hackeado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/senales-indican-router-wifi-podria-estar-hackeado-1444762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-senales-indican-router-wifi-podria-estar-hackeado-4297545.jpg?tf=1200x' alt='10 señales que indican que tu router WiFi podría estar hackeado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204'>Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-escaneo-iris-4303559.jpg?tf=1200x' alt='Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?' />
     </a>
 </div>
 
