@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/senales-indican-router-wifi-podria-estar-hackeado-1444762'>10 señales que indican que tu router WiFi podría estar hackeado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/senales-indican-router-wifi-podria-estar-hackeado-1444762' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-senales-indican-router-wifi-podria-estar-hackeado-4297545.jpg?tf=1200x' alt='10 señales que indican que tu router WiFi podría estar hackeado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204'>Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-escaneo-iris-4303559.jpg?tf=1200x' alt='Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/nothing-phone-3a-me-ha-cautivado-diseno-software-unico-android-1444425'>El Nothing Phone (3a) me ha cautivado por su diseño y su software único en Android</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/nothing-phone-3a-me-ha-cautivado-diseno-software-unico-android-1444425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-4302731.jpg?tf=1200x' alt='El Nothing Phone (3a) me ha cautivado por su diseño y su software único en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-1445982'>Las carreras universitarias que la IA y los expertos recomiendan no hacer: "Es perder el tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-1445982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-4299823.jpg?tf=1200x' alt='Las carreras universitarias que la IA y los expertos recomiendan no hacer: "Es perder el tiempo"' />
     </a>
 </div>
 
