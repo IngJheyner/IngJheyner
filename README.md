@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/no-deberias-dejar-movil-enchufado-cargador-todo-dia-1446256'>¿Por qué no deberías dejar el móvil enchufado al cargador todo el día?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/no-deberias-dejar-movil-enchufado-cargador-todo-dia-1446256' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-deberias-dejar-movil-enchufado-cargador-todo-dia-4300257.jpg?tf=1200x' alt='¿Por qué no deberías dejar el móvil enchufado al cargador todo el día?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-sos-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647'>Profesores lanzan un SOS por la IA: "Antes enseñaba, ahora busco detectar trucos de ChatGPT"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-sos-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-dando-clase-4304077.jpg?tf=1200x' alt='Profesores lanzan un SOS por la IA: "Antes enseñaba, ahora busco detectar trucos de ChatGPT"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-dice-basta-niega-completar-codigo-desarrollador-dice-aprenda-programar-1448679'>La IA se planta: se niega a completar el código de un desarrollador, y le dice que aprenda a programar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-dice-basta-niega-completar-codigo-desarrollador-dice-aprenda-programar-1448679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-dice-basta-niega-completar-codigo-desarrollador-dice-aprenda-programar-4304233.jpg?tf=1200x' alt='La IA se planta: se niega a completar el código de un desarrollador, y le dice que aprenda a programar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/senales-indican-router-wifi-podria-estar-hackeado-1444762'>10 señales que indican que tu router WiFi podría estar hackeado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/senales-indican-router-wifi-podria-estar-hackeado-1444762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/10-senales-indican-router-wifi-podria-estar-hackeado-4297545.jpg?tf=1200x' alt='10 señales que indican que tu router WiFi podría estar hackeado' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204'>Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-escaneo-iris-4303559.jpg?tf=1200x' alt='Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/android-system-safetycore-sirve-misteriosa-app-ha-instalado-permiso-android-1445029'>Android System SafetyCore: qué es y para qué sirve la misteriosa app que se ha instalado sin permiso en tu Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/android-system-safetycore-sirve-misteriosa-app-ha-instalado-permiso-android-1445029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-system-safetycore-sirve-misteriosa-app-ha-instalado-permiso-android-4297985.jpg?tf=1200x' alt='Android System SafetyCore: qué es y para qué sirve la misteriosa app que se ha instalado sin permiso en tu Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vamping-movil-noche-son-como-agua-aceite-1443001'>¿Qué es el 'vamping' y por qué tu móvil y la noche son como el agua y el aceite?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vamping-movil-noche-son-como-agua-aceite-1443001' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vamping-4303930.jpg?tf=1200x' alt='¿Qué es el 'vamping' y por qué tu móvil y la noche son como el agua y el aceite?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/nothing-phone-3a-me-ha-cautivado-diseno-software-unico-android-1444425'>El Nothing Phone (3a) me ha cautivado por su diseño y su software único en Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/nothing-phone-3a-me-ha-cautivado-diseno-software-unico-android-1444425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-4302731.jpg?tf=1200x' alt='El Nothing Phone (3a) me ha cautivado por su diseño y su software único en Android' />
     </a>
 </div>
 
