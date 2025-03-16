@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754'>Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-consiguen-desencriptar-ransomware-akira-pero-necesitan-16-tarjetas-rtx-4090-4304433.jpg?tf=1200x' alt='Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/criptos/policia-nacional-bit4all-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-1448751'>La Policía Nacional desarticula una plataforma de Bitcoin española que ha estafado 30 millones de euros</a></h4>
     <a href='https://computerhoy.20minutos.es/criptos/policia-nacional-bit4all-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-1448751' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-desarticula-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-4304425.jpg?tf=1200x' alt='La Policía Nacional desarticula una plataforma de Bitcoin española que ha estafado 30 millones de euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985'>He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-1445985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/he-conseguido-instalar-programas-antiguos-favoritos-windows-11-no-tan-dificil-como-parece-4299829.jpg?tf=1200x' alt='He conseguido instalar mis programas antiguos favoritos en Windows 11 y no es tan difícil como parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/error-google-maps-hace-aparezcan-rutas-aleatorias-iniciar-android-auto-1448730'>Error en Google Maps hace que aparezcan rutas aleatorias al iniciar Android Auto</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/error-google-maps-hace-aparezcan-rutas-aleatorias-iniciar-android-auto-1448730' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-google-maps-android-auto-4304371.jpg?tf=1200x' alt='Error en Google Maps hace que aparezcan rutas aleatorias al iniciar Android Auto' />
     </a>
 </div>
 
