@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/criptos/policia-nacional-bit4all-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-1448751'>La Policía Nacional desarticula una plataforma de Bitcoin española que ha estafado 30 millones de euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/criptos/policia-nacional-bit4all-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-1448751' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-desarticula-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-4304425.jpg?tf=1200x' alt='La Policía Nacional desarticula una plataforma de Bitcoin española que ha estafado 30 millones de euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/alternativa-samsung-airtag-cuesta-casi-mitad-funciona-android-1448741'>La alternativa Samsung a los Airtag cuesta casi la mitad, y funciona con Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/alternativa-samsung-airtag-cuesta-casi-mitad-funciona-android-1448741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-galaxy-smarttag-2-4304418.jpg?tf=1200x' alt='La alternativa Samsung a los Airtag cuesta casi la mitad, y funciona con Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/copilot-borra-ultima-actualizacion-windows-11-puedes-recuperarlo-1448733'>Copilot se borra tras la última actualización de Windows 11: así puedes recuperarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/copilot-borra-ultima-actualizacion-windows-11-puedes-recuperarlo-1448733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-copilot-windows-4304374.jpg?tf=1200x' alt='Copilot se borra tras la última actualización de Windows 11: así puedes recuperarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/error-google-maps-hace-aparezcan-rutas-aleatorias-iniciar-android-auto-1448730'>Error en Google Maps hace que aparezcan rutas aleatorias al iniciar Android Auto</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/error-google-maps-hace-aparezcan-rutas-aleatorias-iniciar-android-auto-1448730' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-google-maps-android-auto-4304371.jpg?tf=1200x' alt='Error en Google Maps hace que aparezcan rutas aleatorias al iniciar Android Auto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-1445021'>Amazon Fire TV: cansado de cortes compré este sencillo accesorio y ahora mi conexión vuela</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-1445021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/amazon-fire-tv-cansado-cortes-compre-sencillo-accesorio-ahora-mi-conexion-vuela-4297977.jpg?tf=1200x' alt='Amazon Fire TV: cansado de cortes compré este sencillo accesorio y ahora mi conexión vuela' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-avisos-emergentes-windows-11-proteger-cuenta-1448729'>Microsoft prueba avisos emergentes en Windows 11 para proteger tu cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-prueba-avisos-emergentes-windows-11-proteger-cuenta-1448729' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4304367.jpg?tf=1200x' alt='Microsoft prueba avisos emergentes en Windows 11 para proteger tu cuenta' />
     </a>
 </div>
 
