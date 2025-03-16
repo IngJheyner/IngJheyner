@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204'>Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-quiere-iris-otra-vez-te-dejarias-escanear-ojo-demostrar-no-eres-ia-1448204' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-escaneo-iris-4303559.jpg?tf=1200x' alt='Sam Altman quiere tu iris, otra vez: ¿te dejarías escanear el ojo para demostrar que no eres una IA?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/android-system-safetycore-sirve-misteriosa-app-ha-instalado-permiso-android-1445029'>Android System SafetyCore: qué es y para qué sirve la misteriosa app que se ha instalado sin permiso en tu Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/android-system-safetycore-sirve-misteriosa-app-ha-instalado-permiso-android-1445029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/android-system-safetycore-sirve-misteriosa-app-ha-instalado-permiso-android-4297985.jpg?tf=1200x' alt='Android System SafetyCore: qué es y para qué sirve la misteriosa app que se ha instalado sin permiso en tu Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vamping-movil-noche-son-como-agua-aceite-1443001'>¿Qué es el 'vamping' y por qué tu móvil y la noche son como el agua y el aceite?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vamping-movil-noche-son-como-agua-aceite-1443001' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vamping-4303930.jpg?tf=1200x' alt='¿Qué es el 'vamping' y por qué tu móvil y la noche son como el agua y el aceite?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/nothing-phone-3a-me-ha-cautivado-diseno-software-unico-android-1444425'>El Nothing Phone (3a) me ha cautivado por su diseño y su software único en Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/nothing-phone-3a-me-ha-cautivado-diseno-software-unico-android-1444425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-4302731.jpg?tf=1200x' alt='El Nothing Phone (3a) me ha cautivado por su diseño y su software único en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-1445982'>Las carreras universitarias que la IA y los expertos recomiendan no hacer: "Es perder el tiempo"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-1445982' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/carreras-universitarias-ia-expertos-recomiendan-no-hacer-perder-tiempo-4299823.jpg?tf=1200x' alt='Las carreras universitarias que la IA y los expertos recomiendan no hacer: "Es perder el tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/proyector-viene-android-chromecast-integrado-te-pica-gusanillo-muy-barato-probar-1448440'>Este proyector viene con Android y Chromecast integrado: si te pica el gusanillo, es muy barato para probar</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/proyector-viene-android-chromecast-integrado-te-pica-gusanillo-muy-barato-probar-1448440' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/proyector-gaimoo-4286472.jpg?tf=1200x' alt='Este proyector viene con Android y Chromecast integrado: si te pica el gusanillo, es muy barato para probar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/notificaciones-semitransparentes-podrian-llegar-android-16-pero-hay-problema-1448665'>Las notificaciones semitransparentes podrían llegar a Android 16, pero hay un problema</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/notificaciones-semitransparentes-podrian-llegar-android-16-pero-hay-problema-1448665' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/notificaciones-android-4304307.jpg?tf=1200x' alt='Las notificaciones semitransparentes podrían llegar a Android 16, pero hay un problema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-prueba-recomendaciones-inteligentes-rediseno-clave-informacion-sistema-1448664'>Windows 11 prueba recomendaciones inteligentes y un rediseño clave en la información del sistema</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-prueba-recomendaciones-inteligentes-rediseno-clave-informacion-sistema-1448664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4304305.jpg?tf=1200x' alt='Windows 11 prueba recomendaciones inteligentes y un rediseño clave en la información del sistema' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661'>iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/ios-184-revoluciona-app-fotos-nuevos-filtros-privacidad-limpieza-total-clic-1448661' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-fotos-iphone-4304300.jpg?tf=1200x' alt='iOS 18.4 revoluciona la app de fotos: nuevos filtros, más privacidad y una limpieza total en un clic' />
     </a>
 </div>
 
