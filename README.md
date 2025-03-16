@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-1446264'>Los motoristas lo tienen claro: esta es su app preferida para evitar radares, y no es Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-1446264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/motoristas-tienen-claro-app-preferida-evitar-radares-no-waze-4300265.jpg?tf=1200x' alt='Los motoristas lo tienen claro: esta es su app preferida para evitar radares, y no es Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-actualiza-recortes-bloc-notas-herramientas-ia-mejoras-productividad-1448718'>Windows 11 actualiza Recortes y Bloc de Notas con herramientas de IA y mejoras de productividad</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-actualiza-recortes-bloc-notas-herramientas-ia-mejoras-productividad-1448718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/novedades-windows-11-4304361.jpg?tf=1200x' alt='Windows 11 actualiza Recortes y Bloc de Notas con herramientas de IA y mejoras de productividad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685'>Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control y ser una amenaza"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hombre-mitad-ser-humano-mitad-robot-ia-4304081.jpg?tf=1200x' alt='Experto en IA afirma que Sam Altman y Elon Musk están equivocados: "Puede perder el control y ser una amenaza"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/huawei-revienta-mercado-vende-ya-router-wifi-7-precio-ganga-1448455'>Huawei revienta el mercado y vende ya un router WiFi 7 a precio de ganga</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/huawei-revienta-mercado-vende-ya-router-wifi-7-precio-ganga-1448455' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-wifi-be3-4303990.jpg?tf=1200x' alt='Huawei revienta el mercado y vende ya un router WiFi 7 a precio de ganga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-1445976'>10 herramientas de código abierto que te ayudarán a ser mejor programador</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-1445976' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/10-herramientas-codigo-abierto-te-ayudaran-ser-mejor-programador-4299812.jpg?tf=1200x' alt='10 herramientas de código abierto que te ayudarán a ser mejor programador' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/fin-soporte-oficial-windows-10-acerca-como-puedo-proteger-mi-pc-no-me-paso-windows-11-1445955'>El fin del soporte oficial para Windows 10 se acerca, ¿cómo puedo proteger mi PC si no me paso a Windows 11?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/fin-soporte-oficial-windows-10-acerca-como-puedo-proteger-mi-pc-no-me-paso-windows-11-1445955' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/seguridad-windows-10-4299801.jpg?tf=1200x' alt='El fin del soporte oficial para Windows 10 se acerca, ¿cómo puedo proteger mi PC si no me paso a Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-nueva-bateria-aluminio-1442577'>Giro radical al coche eléctrico, llegan las baterías de aluminio que duran para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-motor-nueva-bateria-aluminio-1442577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/giro-180-grados-coche-electrico-llegan-baterias-aluminio-duran-siempre-4293995.jpg?tf=1200x' alt='Giro radical al coche eléctrico, llegan las baterías de aluminio que duran para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/no-deberias-dejar-movil-enchufado-cargador-todo-dia-1446256'>¿Por qué no deberías dejar el móvil enchufado al cargador todo el día?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/no-deberias-dejar-movil-enchufado-cargador-todo-dia-1446256' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-deberias-dejar-movil-enchufado-cargador-todo-dia-4300257.jpg?tf=1200x' alt='¿Por qué no deberías dejar el móvil enchufado al cargador todo el día?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-sos-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647'>Profesores lanzan un SOS por la IA: "Antes enseñaba, ahora busco detectar trucos de ChatGPT"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/profesores-piden-sos-ia-antes-ensenaba-ahora-solo-busco-detectar-trucos-chatgpt-1446647' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-dando-clase-4304077.jpg?tf=1200x' alt='Profesores lanzan un SOS por la IA: "Antes enseñaba, ahora busco detectar trucos de ChatGPT"' />
     </a>
 </div>
 
