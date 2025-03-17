@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/5-portatiles-chinos-windows-11-cuestan-menos-300-euros-rebajas-aliexpress-1448747'>5 portátiles chinos con Windows 11 que cuestan menos de 300 euros en las rebajas de AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/5-portatiles-chinos-windows-11-cuestan-menos-300-euros-rebajas-aliexpress-1448747' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/portatiles-chinos-4304472.jpg?tf=1200x' alt='5 portátiles chinos con Windows 11 que cuestan menos de 300 euros en las rebajas de AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-oppo-reno-13-5g-camara-principal-no-resiste-ninguna-fotografia-1448007'>Lo que más me ha gustado del Oppo Reno 13 5G es su cámara principal: no se le resiste ninguna fotografía</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-oppo-reno-13-5g-camara-principal-no-resiste-ninguna-fotografia-1448007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-reno-13-5g-4302179.jpg?tf=1200x' alt='Lo que más me ha gustado del Oppo Reno 13 5G es su cámara principal: no se le resiste ninguna fotografía' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-vuelto-usar-auriculares-gancho-anos-despues-ha-sido-mi-experiencia-huawei-freearc-1448415'>He vuelto a usar auriculares con gancho años después: así ha sido mi experiencia con los Huawei FreeArc</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-vuelto-usar-auriculares-gancho-anos-despues-ha-sido-mi-experiencia-huawei-freearc-1448415' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-freearc-4304113.jpg?tf=1200x' alt='He vuelto a usar auriculares con gancho años después: así ha sido mi experiencia con los Huawei FreeArc' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-1448292'>Si empiezas a notar esto en tu móvil, estás tardando en entrar en tu cuenta del banco</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-1448292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-4303721.jpg?tf=1200x' alt='Si empiezas a notar esto en tu móvil, estás tardando en entrar en tu cuenta del banco' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/240-millones-usuarios-windows-tienen-actuar-ahora-antes-sea-demasiado-tarde-1448322'>240 millones de usuarios de Windows tienen que actuar ahora antes de que sea demasiado tarde</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/240-millones-usuarios-windows-tienen-actuar-ahora-antes-sea-demasiado-tarde-1448322' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malwares-windows-10-4303750.jpg?tf=1200x' alt='240 millones de usuarios de Windows tienen que actuar ahora antes de que sea demasiado tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lista-apps-ia-descargadas-gemini-copilot-son-gran-fracaso-chatgpt-deepseek-triunfan-1448766'>En la lista de apps de IA más descargadas, Gemini y Copilot son un gran fracaso: ChatGPT y DeepSeek triunfan</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lista-apps-ia-descargadas-gemini-copilot-son-gran-fracaso-chatgpt-deepseek-triunfan-1448766' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lista-apps-ia-descargadas-gemini-copilot-son-gran-fracaso-chatgpt-deepseek-triunfan-4304453.jpg?tf=1200x' alt='En la lista de apps de IA más descargadas, Gemini y Copilot son un gran fracaso: ChatGPT y DeepSeek triunfan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-1448269'>Experta en ciberseguridad, desvela la función de tu móvil que nunca debes ignorar: "No te las saltes, nunca más"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-1448269' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-4303703.jpg?tf=1200x' alt='Experta en ciberseguridad, desvela la función de tu móvil que nunca debes ignorar: "No te las saltes, nunca más"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-ia-1448315'>Expertos en programación aseguran que el dominio de Python en la IA podría acabar este mismo año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-ia-1448315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/phayton-reemplazado-java-4303742.jpg?tf=1200x' alt='Expertos en programación aseguran que el dominio de Python en la IA podría acabar este mismo año' />
     </a>
 </div>
 
