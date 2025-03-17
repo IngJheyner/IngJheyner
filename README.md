@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-1448269'>Experta en ciberseguridad, desvela la función de tu móvil que nunca debes ignorar: "No te las saltes, nunca más"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-1448269' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-4303703.jpg?tf=1200x' alt='Experta en ciberseguridad, desvela la función de tu móvil que nunca debes ignorar: "No te las saltes, nunca más"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-ia-1448315'>Expertos en programación aseguran que el dominio de Python en la IA podría acabar este mismo año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-ia-1448315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/phayton-reemplazado-java-4303742.jpg?tf=1200x' alt='Expertos en programación aseguran que el dominio de Python en la IA podría acabar este mismo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762'>La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las apps</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-4304442.jpg?tf=1200x' alt='La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las apps' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754'>Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-consiguen-desencriptar-ransomware-akira-pero-necesitan-16-tarjetas-rtx-4090-4304433.jpg?tf=1200x' alt='Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/criptos/policia-nacional-bit4all-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-1448751'>La Policía Nacional desarticula una plataforma de Bitcoin española que ha estafado 30 millones de euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/criptos/policia-nacional-bit4all-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-1448751' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-desarticula-plataforma-bitcoin-espanola-ha-estafado-30-millones-euros-4304425.jpg?tf=1200x' alt='La Policía Nacional desarticula una plataforma de Bitcoin española que ha estafado 30 millones de euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/alternativa-samsung-airtag-cuesta-casi-mitad-funciona-android-1448741'>La alternativa Samsung a los Airtag cuesta casi la mitad, y funciona con Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/alternativa-samsung-airtag-cuesta-casi-mitad-funciona-android-1448741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-galaxy-smarttag-2-4304418.jpg?tf=1200x' alt='La alternativa Samsung a los Airtag cuesta casi la mitad, y funciona con Android' />
     </a>
 </div>
 
