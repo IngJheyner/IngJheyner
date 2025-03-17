@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-1448794'>China se ha adelantado a Google: han creado un microchip cuántico billones de veces más potente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-1448794' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-4304551.jpg?tf=1200x' alt='China se ha adelantado a Google: han creado un microchip cuántico billones de veces más potente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-1448878'>Las nuevas APK para Spotify Premium gratis pasan todos los filtros, pero son una bomba para tu móvil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-1448878' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-4304648.jpg?tf=1200x' alt='Las nuevas APK para Spotify Premium gratis pasan todos los filtros, pero son una bomba para tu móvil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-1448907'>Reservar alojamiento por Internet puede salir muy caro: la estafa que preocupa a los expertos</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-1448907' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-4304665.jpg?tf=1200x' alt='Reservar alojamiento por Internet puede salir muy caro: la estafa que preocupa a los expertos' />
@@ -66,25 +82,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919'>Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos de las IPTV de LaLiga</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919'>Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos a las IPTV de LaLiga</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-4304764.jpg?tf=1200x' alt='Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos de las IPTV de LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-vuelve-carga-deepseek-amenaza-seguridad-1448889'>Sam Altman vuelve a la carga contra DeepSeek: "Es una amenaza para la seguridad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-vuelve-carga-deepseek-amenaza-seguridad-1448889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-vuelve-carga-deepseek-amenaza-seguridad-4304631.jpg?tf=1200x' alt='Sam Altman vuelve a la carga contra DeepSeek: "Es una amenaza para la seguridad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-elon-tenia-razon-1448933'>Sam Altman admite lo que parecía imposible: “En cierto modo, Elon tenía razón”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-elon-tenia-razon-1448933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-habla-elon-musk-openai-4304705.jpg?tf=1200x' alt='Sam Altman admite lo que parecía imposible: “En cierto modo, Elon tenía razón”' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-4304764.jpg?tf=1200x' alt='Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos a las IPTV de LaLiga' />
     </a>
 </div>
 
