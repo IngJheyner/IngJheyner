@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762'>La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las aplicaciones</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762'>La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las apps</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-4304442.jpg?tf=1200x' alt='La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las aplicaciones' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-4304442.jpg?tf=1200x' alt='La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las apps' />
     </a>
 </div>
 
