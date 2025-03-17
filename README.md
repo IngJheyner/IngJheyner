@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-1448292'>Si empiezas a notar esto en tu móvil, estás tardando en entrar en tu cuenta del banco</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-1448292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-4303721.jpg?tf=1200x' alt='Si empiezas a notar esto en tu móvil, estás tardando en entrar en tu cuenta del banco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/240-millones-usuarios-windows-tienen-actuar-ahora-antes-sea-demasiado-tarde-1448322'>240 millones de usuarios de Windows tienen que actuar ahora antes de que sea demasiado tarde</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/240-millones-usuarios-windows-tienen-actuar-ahora-antes-sea-demasiado-tarde-1448322' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/malwares-windows-10-4303750.jpg?tf=1200x' alt='240 millones de usuarios de Windows tienen que actuar ahora antes de que sea demasiado tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lista-apps-ia-descargadas-gemini-copilot-son-gran-fracaso-chatgpt-deepseek-triunfan-1448766'>En la lista de apps de IA más descargadas, Gemini y Copilot son un gran fracaso: ChatGPT y DeepSeek triunfan</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lista-apps-ia-descargadas-gemini-copilot-son-gran-fracaso-chatgpt-deepseek-triunfan-1448766' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lista-apps-ia-descargadas-gemini-copilot-son-gran-fracaso-chatgpt-deepseek-triunfan-4304453.jpg?tf=1200x' alt='En la lista de apps de IA más descargadas, Gemini y Copilot son un gran fracaso: ChatGPT y DeepSeek triunfan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-1448269'>Experta en ciberseguridad, desvela la función de tu móvil que nunca debes ignorar: "No te las saltes, nunca más"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-1448269' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-ciberseguridad-desvela-funcion-movil-nunca-debes-ignorar-no-te-saltes-nunca-4303703.jpg?tf=1200x' alt='Experta en ciberseguridad, desvela la función de tu móvil que nunca debes ignorar: "No te las saltes, nunca más"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-ia-1448315'>Expertos en programación aseguran que el dominio de Python en la IA podría acabar este mismo año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-ia-1448315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/phayton-reemplazado-java-4303742.jpg?tf=1200x' alt='Expertos en programación aseguran que el dominio de Python en la IA podría acabar este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762'>La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las apps</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-1448762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/curiosa-razon-llamamos-parches-correcciones-bugs-aplicaciones-4304442.jpg?tf=1200x' alt='La curiosa razón por la que llamamos "parches" a las correcciones de bugs en las apps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/abrazos-alegria-rescate-astronautas-varados-estacion-espacial-internacional-1448757'>Abrazos y alegría en el rescate de los astronautas varados en la Estación Espacial Internacional</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/abrazos-alegria-rescate-astronautas-varados-estacion-espacial-internacional-1448757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/abrazos-despedidas-rescate-astronautas-varados-estacion-espacial-internacional-4304436.jpg?tf=1200x' alt='Abrazos y alegría en el rescate de los astronautas varados en la Estación Espacial Internacional' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754'>Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-consigue-desencriptar-ransomware-akira-16-tarjetas-rtx-4090-1448754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-consiguen-desencriptar-ransomware-akira-pero-necesitan-16-tarjetas-rtx-4090-4304433.jpg?tf=1200x' alt='Experto en ciberseguridad consigue desencriptar el ransomware Akira, pero se necesitan 16 tarjetas RTX 4090' />
     </a>
 </div>
 
