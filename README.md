@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-11-tiene-bug-muchos-mejor-error-microsoft-anos-1448804'>La última actualización de Windows 11 tiene un bug que para muchos es el mejor error de Microsoft en años</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-11-tiene-bug-muchos-mejor-error-microsoft-anos-1448804' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ultima-actualizacion-windows-11-tiene-bug-muchos-mejor-error-microsoft-anos-4304536.jpg?tf=1200x' alt='La última actualización de Windows 11 tiene un bug que para muchos es el mejor error de Microsoft en años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/android-tv-box-arrasa-10000-ventas-ahora-cuesta-menos-20-euros-codigo-descuento-1448771'>La Android TV Box que arrasa con más de 10.000 ventas ahora cuesta menos de 20 euros con un código descuento</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/android-tv-box-arrasa-10000-ventas-ahora-cuesta-menos-20-euros-codigo-descuento-1448771' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transpeed-4259899.jpg?tf=1200x' alt='La Android TV Box que arrasa con más de 10.000 ventas ahora cuesta menos de 20 euros con un código descuento' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-vuelto-usar-auriculares-gancho-anos-despues-ha-sido-mi-experiencia-huawei-freearc-1448415'>He vuelto a usar auriculares con gancho años después: así ha sido mi experiencia con los Huawei FreeArc</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-vuelto-usar-auriculares-gancho-anos-despues-ha-sido-mi-experiencia-huawei-freearc-1448415' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-freearc-4304113.jpg?tf=1200x' alt='He vuelto a usar auriculares con gancho años después: así ha sido mi experiencia con los Huawei FreeArc' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-1448292'>Si empiezas a notar esto en tu móvil, estás tardando en entrar en tu cuenta del banco</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-1448292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/empiezas-notar-movil-estas-tardando-entrar-cuenta-banco-4303721.jpg?tf=1200x' alt='Si empiezas a notar esto en tu móvil, estás tardando en entrar en tu cuenta del banco' />
     </a>
 </div>
 
