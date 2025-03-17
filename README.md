@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-android-copilot-ahora-espia-movil-ser-util-1449011'>Microsoft quiere tu Android: Copilot ahora "espía" tu móvil para ser más útil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-android-copilot-ahora-espia-movil-ser-util-1449011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enlace-movil-4304822.jpg?tf=1200x' alt='Microsoft quiere tu Android: Copilot ahora "espía" tu móvil para ser más útil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/actualizacion-samsung-puede-dejar-barra-sonido-como-pisapapeles-permanente-1449008'>Esta actualización de Samsung puede dejar tu barra de sonido como un pisapapeles permanente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/actualizacion-samsung-puede-dejar-barra-sonido-como-pisapapeles-permanente-1449008' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hw-q930d-4304818.jpg?tf=1200x' alt='Esta actualización de Samsung puede dejar tu barra de sonido como un pisapapeles permanente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-gemini-20-rapido-inteligente-deep-research-gratis-1449007'>Google mejora Gemini 2.0: más rápido, más inteligente y con Deep Research gratis</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-gemini-20-rapido-inteligente-deep-research-gratis-1449007' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4304817.jpg?tf=1200x' alt='Google mejora Gemini 2.0: más rápido, más inteligente y con Deep Research gratis' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-1448325'>Ni El juego de calamar ni Parásitos: la película coreana más revolucionaria tendrá secuela</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-1448325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-4303755.jpg?tf=1200x' alt='Ni El juego de calamar ni Parásitos: la película coreana más revolucionaria tendrá secuela' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-entusiasmado-nueva-adaptacion-cine-ya-ha-superado-monkey-1448768'>Stephen King, entusiasmado con su nueva adaptación al cine, que ya ha superado a The Monkey</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-entusiasmado-nueva-adaptacion-cine-ya-ha-superado-monkey-1448768' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/stephen-king-entusiasmado-nueva-adaptacion-cine-ya-ha-superado-monkey-4304458.jpg?tf=1200x' alt='Stephen King, entusiasmado con su nueva adaptación al cine, que ya ha superado a The Monkey' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-primeras-super-nintendo-rapidas-ahora-dia-compraste-1448954'>Descubren que las primeras Super Nintendo son más rápidas ahora que el día que la compraste</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/descubren-primeras-super-nintendo-rapidas-ahora-dia-compraste-1448954' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/snes-maximo-rendimiento-4304774.jpg?tf=1200x' alt='Descubren que las primeras Super Nintendo son más rápidas ahora que el día que la compraste' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-1448794'>China se ha adelantado a Google: han creado un microchip cuántico billones de veces más potente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-1448794' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-4304551.jpg?tf=1200x' alt='China se ha adelantado a Google: han creado un microchip cuántico billones de veces más potente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-1448878'>Las nuevas APK para Spotify Premium gratis pasan todos los filtros, pero son una bomba para tu móvil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-1448878' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-4304648.jpg?tf=1200x' alt='Las nuevas APK para Spotify Premium gratis pasan todos los filtros, pero son una bomba para tu móvil' />
     </a>
 </div>
 
