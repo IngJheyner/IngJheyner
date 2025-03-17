@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-oficialmente-hazmerreir-medio-mundo-genio-supertonto-1448869'>Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-oficialmente-hazmerreir-medio-mundo-genio-supertonto-1448869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-empresa-tesla-4304617.jpg?tf=1200x' alt='Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-cae-picado-pero-elon-musk-ha-disparado-valor-spacex-xai-1448870'>Tesla cae en picado, pero Elon Musk ha disparado el valor de SpaceX y xAI</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-cae-picado-pero-elon-musk-ha-disparado-valor-spacex-xai-1448870' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-cae-picado-pero-elon-musk-ha-disparado-valor-spacex-neuralink-xai-4304611.jpg?tf=1200x' alt='Tesla cae en picado, pero Elon Musk ha disparado el valor de SpaceX y xAI' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-sam-altman-tenia-razon-empleos-definitivamente-desapareceran-punto-1448890'>Parece que Sam Altman tenía razón: "Los empleos definitivamente desaparecerán, punto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parece-sam-altman-tenia-razon-empleos-definitivamente-desapareceran-punto-1448890' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Parece que Sam Altman tenía razón: "Los empleos definitivamente desaparecerán, punto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/industria/son-escalofriantes-fabricas-oscuras-ia-china-luz-descansos-humanos-solo-robots-1448880'>Así son las escalofriantes fábricas oscuras con IA en China: sin luz, sin descansos y sin humanos, solo robots</a></h4>
+    <a href='https://computerhoy.20minutos.es/industria/son-escalofriantes-fabricas-oscuras-ia-china-luz-descansos-humanos-solo-robots-1448880' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-smart-factory-china-4304627.jpg?tf=1200x' alt='Así son las escalofriantes fábricas oscuras con IA en China: sin luz, sin descansos y sin humanos, solo robots' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-ya-sistemas-multimedia-audi-olvidate-iptv-disfrutar-laliga-1448828'>DAZN ya está en los sistemas multimedia de Audi: olvídate de las IPTV para disfrutar de LaLiga</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-ya-sistemas-multimedia-audi-olvidate-iptv-disfrutar-laliga-1448828' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dazn-audi-4304550.jpg?tf=1200x' alt='DAZN ya está en los sistemas multimedia de Audi: olvídate de las IPTV para disfrutar de LaLiga' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-11-tiene-bug-muchos-mejor-error-microsoft-anos-1448804'>La última actualización de Windows 11 tiene un bug que para muchos es el mejor error de Microsoft en años</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ultima-actualizacion-windows-11-tiene-bug-muchos-mejor-error-microsoft-anos-1448804' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ultima-actualizacion-windows-11-tiene-bug-muchos-mejor-error-microsoft-anos-4304536.jpg?tf=1200x' alt='La última actualización de Windows 11 tiene un bug que para muchos es el mejor error de Microsoft en años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/android-tv-box-arrasa-10000-ventas-ahora-cuesta-menos-20-euros-codigo-descuento-1448771'>La Android TV Box que arrasa con más de 10.000 ventas ahora cuesta menos de 20 euros con un código descuento</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/android-tv-box-arrasa-10000-ventas-ahora-cuesta-menos-20-euros-codigo-descuento-1448771' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/transpeed-4259899.jpg?tf=1200x' alt='La Android TV Box que arrasa con más de 10.000 ventas ahora cuesta menos de 20 euros con un código descuento' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/5-portatiles-chinos-windows-11-cuestan-menos-300-euros-rebajas-aliexpress-1448747'>5 portátiles chinos con Windows 11 que cuestan menos de 300 euros en las rebajas de AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/5-portatiles-chinos-windows-11-cuestan-menos-300-euros-rebajas-aliexpress-1448747' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/portatiles-chinos-4304472.jpg?tf=1200x' alt='5 portátiles chinos con Windows 11 que cuestan menos de 300 euros en las rebajas de AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-oppo-reno-13-5g-camara-principal-no-resiste-ninguna-fotografia-1448007'>Lo que más me ha gustado del Oppo Reno 13 5G es su cámara principal: no se le resiste ninguna fotografía</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/me-ha-gustado-oppo-reno-13-5g-camara-principal-no-resiste-ninguna-fotografia-1448007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oppo-reno-13-5g-4302179.jpg?tf=1200x' alt='Lo que más me ha gustado del Oppo Reno 13 5G es su cámara principal: no se le resiste ninguna fotografía' />
     </a>
 </div>
 
