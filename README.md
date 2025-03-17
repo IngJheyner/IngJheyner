@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/chromecast-estropeados-actualizacion-google-1449020'>Los Chromecast estropeados vuelven a la vida con la ansiada actualización de Google</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/chromecast-estropeados-actualizacion-google-1449020' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-estropeados-vuelven-vida-ansiada-actualizacion-google-4304827.jpg?tf=1200x' alt='Los Chromecast estropeados vuelven a la vida con la ansiada actualización de Google' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-1448965'>Movistar Plus+ a punto de lanzar el mejor canal de deportes de toda su programación</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-1448965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-4304828.jpg?tf=1200x' alt='Movistar Plus+ a punto de lanzar el mejor canal de deportes de toda su programación' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-gemini-20-rapido-inteligente-deep-research-gratis-1449007'>Google mejora Gemini 2.0: más rápido, más inteligente y con Deep Research gratis</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-gemini-20-rapido-inteligente-deep-research-gratis-1449007' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4304817.jpg?tf=1200x' alt='Google mejora Gemini 2.0: más rápido, más inteligente y con Deep Research gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-1448325'>Ni El juego de calamar ni Parásitos: la película coreana más revolucionaria tendrá secuela</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-1448325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-4303755.jpg?tf=1200x' alt='Ni El juego de calamar ni Parásitos: la película coreana más revolucionaria tendrá secuela' />
     </a>
 </div>
 
