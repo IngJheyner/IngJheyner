@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-todos-clientes-unico-limite-no-intentara-superar-resta-ano-1448888'>DIGI lo confirma a todos sus clientes: este es el único límite que no intentará superar en lo que resta de año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-todos-clientes-unico-limite-no-intentara-superar-resta-ano-1448888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-4304659.jpg?tf=1200x' alt='DIGI lo confirma a todos sus clientes: este es el único límite que no intentará superar en lo que resta de año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-oficialmente-hazmerreir-medio-mundo-genio-supertonto-1448869'>Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-oficialmente-hazmerreir-medio-mundo-genio-supertonto-1448869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-empresa-tesla-4304617.jpg?tf=1200x' alt='Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/industria/son-escalofriantes-fabricas-oscuras-ia-china-luz-descansos-humanos-solo-robots-1448880'>Así son las escalofriantes fábricas oscuras con IA en China: sin luz, sin descansos y sin humanos, solo robots</a></h4>
     <a href='https://computerhoy.20minutos.es/industria/son-escalofriantes-fabricas-oscuras-ia-china-luz-descansos-humanos-solo-robots-1448880' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-smart-factory-china-4304627.jpg?tf=1200x' alt='Así son las escalofriantes fábricas oscuras con IA en China: sin luz, sin descansos y sin humanos, solo robots' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dazn-ya-sistemas-multimedia-audi-olvidate-iptv-disfrutar-laliga-1448828'>DAZN ya está en los sistemas multimedia de Audi: olvídate de las IPTV para disfrutar de LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/dazn-ya-sistemas-multimedia-audi-olvidate-iptv-disfrutar-laliga-1448828' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dazn-audi-4304550.jpg?tf=1200x' alt='DAZN ya está en los sistemas multimedia de Audi: olvídate de las IPTV para disfrutar de LaLiga' />
     </a>
 </div>
 
