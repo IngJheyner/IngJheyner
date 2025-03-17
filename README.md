@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/linux-muerte-fin-windows-10-crea-problema-dimensiones-desconocidas-1448899'>Linux o muerte: el fin de Windows 10 crea un problema de dimensiones desconocidas</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/linux-muerte-fin-windows-10-crea-problema-dimensiones-desconocidas-1448899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-muerte-fin-windows-10-crea-problema-dimensiones-desconocidas-4304655.jpg?tf=1200x' alt='Linux o muerte: el fin de Windows 10 crea un problema de dimensiones desconocidas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/pide-ayuda-microsoft-activar-windows-10-forma-legal-recomiendan-piratearlo-1448787'>Pide ayuda a Microsoft para activar su Windows 10 de forma legal, y le recomiendan piratearlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/pide-ayuda-microsoft-activar-windows-10-forma-legal-recomiendan-piratearlo-1448787' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-pirata-4304667.jpg?tf=1200x' alt='Pide ayuda a Microsoft para activar su Windows 10 de forma legal, y le recomiendan piratearlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-aprueba-nota-examen-inteligencia-artificial-ue-1448896'>España aprueba con nota el examen de la inteligencia artificial de la UE</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/espana-aprueba-nota-examen-inteligencia-artificial-ue-1448896' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-espana-buena-nota-4304672.jpg?tf=1200x' alt='España aprueba con nota el examen de la inteligencia artificial de la UE' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-todos-clientes-unico-limite-no-intentara-superar-resta-ano-1448888'>DIGI lo confirma a todos sus clientes: este es el único límite que no intentará superar en lo que resta de año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-todos-clientes-unico-limite-no-intentara-superar-resta-ano-1448888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-4304659.jpg?tf=1200x' alt='DIGI lo confirma a todos sus clientes: este es el único límite que no intentará superar en lo que resta de año' />
     </a>
 </div>
 
