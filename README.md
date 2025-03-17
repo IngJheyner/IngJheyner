@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-1448907'>Reservar alojamiento por Internet puede salir muy caro: la estafa que preocupa a los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-1448907' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-4304665.jpg?tf=1200x' alt='Reservar alojamiento por Internet puede salir muy caro: la estafa que preocupa a los expertos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/samsung-galaxy-watch-7-muy-buen-reloj-ahora-ademas-tiene-precio-realmente-ridiculo-1448798'>El Samsung Galaxy Watch 7 es un muy buen reloj, y ahora además tiene un precio realmente ridículo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/samsung-galaxy-watch-7-muy-buen-reloj-ahora-ademas-tiene-precio-realmente-ridiculo-1448798' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4245610.jpg?tf=1200x' alt='El Samsung Galaxy Watch 7 es un muy buen reloj, y ahora además tiene un precio realmente ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919'>Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos de las IPTV de LaLiga</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-4304764.jpg?tf=1200x' alt='Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos de las IPTV de LaLiga' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-vuelve-carga-deepseek-amenaza-seguridad-1448889'>Sam Altman vuelve a la carga contra DeepSeek: "Es una amenaza para la seguridad"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-vuelve-carga-deepseek-amenaza-seguridad-1448889' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-vuelve-carga-deepseek-amenaza-seguridad-4304631.jpg?tf=1200x' alt='Sam Altman vuelve a la carga contra DeepSeek: "Es una amenaza para la seguridad"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-elon-tenia-razon-1448933'>Sam Altman admite lo que parecía imposible: “En cierto modo, Elon tenía razón”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-admite-elon-tenia-razon-1448933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-habla-elon-musk-openai-4304705.jpg?tf=1200x' alt='Sam Altman admite lo que parecía imposible: “En cierto modo, Elon tenía razón”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/expertos-aseguran-caida-tesla-podria-ser-historica-nos-cuesta-pensar-algo-similar-1448908'>Expertos aseguran que la caída de Tesla podría ser histórica: "Nos cuesta pensar en algo similar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/expertos-aseguran-caida-tesla-podria-ser-historica-nos-cuesta-pensar-algo-similar-1448908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-aseguran-caida-tesla-podria-ser-historica-nos-cuesta-pensar-algo-similar-4304668.jpg?tf=1200x' alt='Expertos aseguran que la caída de Tesla podría ser histórica: "Nos cuesta pensar en algo similar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/linux-muerte-fin-windows-10-crea-problema-dimensiones-desconocidas-1448899'>Linux o muerte: el fin de Windows 10 crea un problema de dimensiones desconocidas</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/linux-muerte-fin-windows-10-crea-problema-dimensiones-desconocidas-1448899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-muerte-fin-windows-10-crea-problema-dimensiones-desconocidas-4304655.jpg?tf=1200x' alt='Linux o muerte: el fin de Windows 10 crea un problema de dimensiones desconocidas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/pide-ayuda-microsoft-activar-windows-10-forma-legal-recomiendan-piratearlo-1448787'>Pide ayuda a Microsoft para activar su Windows 10 de forma legal, y le recomiendan piratearlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/pide-ayuda-microsoft-activar-windows-10-forma-legal-recomiendan-piratearlo-1448787' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-pirata-4304667.jpg?tf=1200x' alt='Pide ayuda a Microsoft para activar su Windows 10 de forma legal, y le recomiendan piratearlo' />
     </a>
 </div>
 
