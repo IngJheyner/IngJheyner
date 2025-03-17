@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/pide-ayuda-microsoft-activar-windows-10-forma-legal-recomiendan-piratearlo-1448787'>Pide ayuda a Microsoft para activar su Windows 10 de forma legal, y le recomiendan piratearlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/pide-ayuda-microsoft-activar-windows-10-forma-legal-recomiendan-piratearlo-1448787' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-pirata-4304667.jpg?tf=1200x' alt='Pide ayuda a Microsoft para activar su Windows 10 de forma legal, y le recomiendan piratearlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/consigue-enganar-tesla-pared-falsa-lexus-logro-detenerse-1448901'>Consigue engañar a un Tesla con una simple pared falsa: “El Lexus sí logró detenerse”</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/consigue-enganar-tesla-pared-falsa-lexus-logro-detenerse-1448901' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-choca-pared-4304656.jpg?tf=1200x' alt='Consigue engañar a un Tesla con una simple pared falsa: “El Lexus sí logró detenerse”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ciudad-tesla-rebela-elon-musk-no-va-tolerar-estupideces-1448855'>La "ciudad Tesla" se rebela contra Elon Musk: "No va a tolerar sus estupideces"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ciudad-tesla-rebela-elon-musk-no-va-tolerar-estupideces-1448855' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4304636.jpg?tf=1200x' alt='La "ciudad Tesla" se rebela contra Elon Musk: "No va a tolerar sus estupideces"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/espana-aprueba-nota-examen-inteligencia-artificial-ue-1448896'>España aprueba con nota el examen de la inteligencia artificial de la UE</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/espana-aprueba-nota-examen-inteligencia-artificial-ue-1448896' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-espana-buena-nota-4304672.jpg?tf=1200x' alt='España aprueba con nota el examen de la inteligencia artificial de la UE' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-todos-clientes-unico-limite-no-intentara-superar-resta-ano-1448888'>DIGI lo confirma a todos sus clientes: este es el único límite que no intentará superar en lo que resta de año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/digi-confirma-todos-clientes-unico-limite-no-intentara-superar-resta-ano-1448888' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/digi-4304659.jpg?tf=1200x' alt='DIGI lo confirma a todos sus clientes: este es el único límite que no intentará superar en lo que resta de año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-oficialmente-hazmerreir-medio-mundo-genio-supertonto-1448869'>Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-oficialmente-hazmerreir-medio-mundo-genio-supertonto-1448869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-empresa-tesla-4304617.jpg?tf=1200x' alt='Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-cae-picado-pero-elon-musk-ha-disparado-valor-spacex-xai-1448870'>Tesla cae en picado, pero Elon Musk ha disparado el valor de SpaceX y xAI</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-cae-picado-pero-elon-musk-ha-disparado-valor-spacex-xai-1448870' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tesla-cae-picado-pero-elon-musk-ha-disparado-valor-spacex-neuralink-xai-4304611.jpg?tf=1200x' alt='Tesla cae en picado, pero Elon Musk ha disparado el valor de SpaceX y xAI' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-sam-altman-tenia-razon-empleos-definitivamente-desapareceran-punto-1448890'>Parece que Sam Altman tenía razón: "Los empleos definitivamente desaparecerán, punto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/parece-sam-altman-tenia-razon-empleos-definitivamente-desapareceran-punto-1448890' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/sam-altman-3275717.jpg?tf=1200x' alt='Parece que Sam Altman tenía razón: "Los empleos definitivamente desaparecerán, punto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/industria/son-escalofriantes-fabricas-oscuras-ia-china-luz-descansos-humanos-solo-robots-1448880'>Así son las escalofriantes fábricas oscuras con IA en China: sin luz, sin descansos y sin humanos, solo robots</a></h4>
-    <a href='https://computerhoy.20minutos.es/industria/son-escalofriantes-fabricas-oscuras-ia-china-luz-descansos-humanos-solo-robots-1448880' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-smart-factory-china-4304627.jpg?tf=1200x' alt='Así son las escalofriantes fábricas oscuras con IA en China: sin luz, sin descansos y sin humanos, solo robots' />
     </a>
 </div>
 
