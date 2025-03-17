@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-1448325'>Ni El juego de calamar ni Parásitos: la película coreana más revolucionaria tendrá secuela</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-1448325' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-juego-calamar-ni-parasitos-pelicula-coreana-revolucionaria-tendra-secuela-4303755.jpg?tf=1200x' alt='Ni El juego de calamar ni Parásitos: la película coreana más revolucionaria tendrá secuela' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-entusiasmado-nueva-adaptacion-cine-ya-ha-superado-monkey-1448768'>Stephen King, entusiasmado con su nueva adaptación al cine, que ya ha superado a The Monkey</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/stephen-king-entusiasmado-nueva-adaptacion-cine-ya-ha-superado-monkey-1448768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/stephen-king-entusiasmado-nueva-adaptacion-cine-ya-ha-superado-monkey-4304458.jpg?tf=1200x' alt='Stephen King, entusiasmado con su nueva adaptación al cine, que ya ha superado a The Monkey' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/descubren-primeras-super-nintendo-rapidas-ahora-dia-compraste-1448954'>Descubren que las primeras Super Nintendo son más rápidas ahora que el día que la compraste</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/descubren-primeras-super-nintendo-rapidas-ahora-dia-compraste-1448954' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/snes-maximo-rendimiento-4304774.jpg?tf=1200x' alt='Descubren que las primeras Super Nintendo son más rápidas ahora que el día que la compraste' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-1448794'>China se ha adelantado a Google: han creado un microchip cuántico billones de veces más potente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-1448794' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/china-ha-adelantado-google-han-creado-microchip-cuantico-billones-veces-potente-4304551.jpg?tf=1200x' alt='China se ha adelantado a Google: han creado un microchip cuántico billones de veces más potente' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-1448878'>Las nuevas APK para Spotify Premium gratis pasan todos los filtros, pero son una bomba para tu móvil</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-1448878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevas-apk-spotify-premium-gratis-pasan-todos-filtros-pero-son-bomba-movil-4304648.jpg?tf=1200x' alt='Las nuevas APK para Spotify Premium gratis pasan todos los filtros, pero son una bomba para tu móvil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-1448907'>Reservar alojamiento por Internet puede salir muy caro: la estafa que preocupa a los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-1448907' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reservar-alojamiento-internet-puede-salir-muy-caro-estafa-preocupa-expertos-4304665.jpg?tf=1200x' alt='Reservar alojamiento por Internet puede salir muy caro: la estafa que preocupa a los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/samsung-galaxy-watch-7-muy-buen-reloj-ahora-ademas-tiene-precio-realmente-ridiculo-1448798'>El Samsung Galaxy Watch 7 es un muy buen reloj, y ahora además tiene un precio realmente ridículo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/samsung-galaxy-watch-7-muy-buen-reloj-ahora-ademas-tiene-precio-realmente-ridiculo-1448798' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/10/samsung-galaxy-watch7-4245610.jpg?tf=1200x' alt='El Samsung Galaxy Watch 7 es un muy buen reloj, y ahora además tiene un precio realmente ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919'>Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos a las IPTV de LaLiga</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-1448919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-niega-devolver-dinero-clientes-afectados-bloqueos-iptv-laliga-4304764.jpg?tf=1200x' alt='Giro de 180 grados de Movistar: se niega a devolver el dinero a los clientes afectados por los bloqueos a las IPTV de LaLiga' />
     </a>
 </div>
 
