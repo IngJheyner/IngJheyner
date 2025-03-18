@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058'>Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4304951.jpg?tf=1200x' alt='Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/operacion-secreta-iptv-fin-semana-acaba-absoluto-fracaso-1449194'>La operación secreta contra las IPTV de este fin de semana acaba en el más absoluto fracaso</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/operacion-secreta-iptv-fin-semana-acaba-absoluto-fracaso-1449194' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operacion-secreta-iptv-fin-semana-acaba-absoluto-fracaso-4305165.jpg?tf=1200x' alt='La operación secreta contra las IPTV de este fin de semana acaba en el más absoluto fracaso' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121'>Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305034.jpg?tf=1200x' alt='Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111'>OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305014.jpg?tf=1200x' alt='OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-eliminar-usb-c-iphone-17-air-1449110'>Giro de 180 grados en Apple: podría eliminar el USB-C del iPhone 17 Air</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-eliminar-usb-c-iphone-17-air-1449110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-apple-podria-eliminar-usb-c-iphone-17-air-4305021.jpg?tf=1200x' alt='Giro de 180 grados en Apple: podría eliminar el USB-C del iPhone 17 Air' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-ceban-chatgpt-piensas-movistar-1449145'>Los bloqueos de la LaLiga a las IPTV se ceban con ChatGPT: "¿Qué piensas de esto Movistar?"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-ceban-chatgpt-piensas-movistar-1449145' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-4305065.jpg?tf=1200x' alt='Los bloqueos de la LaLiga a las IPTV se ceban con ChatGPT: "¿Qué piensas de esto Movistar?"' />
     </a>
 </div>
 
