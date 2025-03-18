@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/ceo-google-deepmind-rebaja-optimismo-ia-hay-muchas-cosas-aun-no-pueden-hacer-1449116'>El CEO de Google DeepMind rebaja el optimismo de la IA: "Hay muchas cosas que aún no pueden hacer"</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ceo-google-deepmind-rebaja-optimismo-ia-hay-muchas-cosas-aun-no-pueden-hacer-1449116' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/demis-hassabis-ceo-google-deepmind-4305053.jpg?tf=1200x' alt='El CEO de Google DeepMind rebaja el optimismo de la IA: "Hay muchas cosas que aún no pueden hacer"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-v50-5g-quiere-ser-rey-retratos-profesionales-gama-media-1449117'>El Vivo V50 5G quiere ser el rey de los retratos profesionales en la gama media</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/vivo-v50-5g-quiere-ser-rey-retratos-profesionales-gama-media-1449117' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vivo-v50-5g-4305028.jpg?tf=1200x' alt='El Vivo V50 5G quiere ser el rey de los retratos profesionales en la gama media' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091'>Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jesus-calleja-espacio-javi-poves-4304958.jpg?tf=1200x' alt='Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929'>Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/world-samsung-2025-4304949.jpg?tf=1200x' alt='Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025' />
     </a>
 </div>
 
