@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-cohete-privado-espanol-pondra-satelites-orbita-1449022'>Ni SpaceX ni la NASA: primer vistazo en vídeo al MIURA 5, el cohete privado español que pondrá satélites en órbita</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/miura-5-cohete-privado-espanol-pondra-satelites-orbita-1449022' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-spacex-ni-nasa-primer-vistazo-miura-5-cohete-privado-espanol-pondra-satelites-orbita-4304807.jpg?tf=1200x' alt='Ni SpaceX ni la NASA: primer vistazo en vídeo al MIURA 5, el cohete privado español que pondrá satélites en órbita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/chromecast-estropeados-actualizacion-google-1449020'>Los Chromecast estropeados vuelven a la vida con la ansiada actualización de Google</a></h4>
     <a href='https://computerhoy.20minutos.es/google/chromecast-estropeados-actualizacion-google-1449020' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-estropeados-vuelven-vida-ansiada-actualizacion-google-4304827.jpg?tf=1200x' alt='Los Chromecast estropeados vuelven a la vida con la ansiada actualización de Google' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/actualizacion-samsung-puede-dejar-barra-sonido-como-pisapapeles-permanente-1449008'>Esta actualización de Samsung puede dejar tu barra de sonido como un pisapapeles permanente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/actualizacion-samsung-puede-dejar-barra-sonido-como-pisapapeles-permanente-1449008' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hw-q930d-4304818.jpg?tf=1200x' alt='Esta actualización de Samsung puede dejar tu barra de sonido como un pisapapeles permanente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-gemini-20-rapido-inteligente-deep-research-gratis-1449007'>Google mejora Gemini 2.0: más rápido, más inteligente y con Deep Research gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-mejora-gemini-20-rapido-inteligente-deep-research-gratis-1449007' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4304817.jpg?tf=1200x' alt='Google mejora Gemini 2.0: más rápido, más inteligente y con Deep Research gratis' />
     </a>
 </div>
 
