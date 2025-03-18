@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-1449130'>Google desafía a Starlink de Elon Musk, está más cerca de llevar internet a cualquier lugar sin necesidad de satélites</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-1449130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-4305051.jpg?tf=1200x' alt='Google desafía a Starlink de Elon Musk, está más cerca de llevar internet a cualquier lugar sin necesidad de satélites' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-1449142'>La NASA, preocupada ante el aumento del nivel del mar en todo el mundo: es tres veces mayor del esperado</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-1449142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-4305045.jpg?tf=1200x' alt='La NASA, preocupada ante el aumento del nivel del mar en todo el mundo: es tres veces mayor del esperado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-alerta-automatica-accidentes-emergencias-moviles-iphone-android-1449203'>Cómo activar la alerta automática de accidentes y emergencias en móviles iPhone y Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-alerta-automatica-accidentes-emergencias-moviles-iphone-android-1449203' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pedir-ayuda-accidente-movil-4305145.jpg?tf=1200x' alt='Cómo activar la alerta automática de accidentes y emergencias en móviles iPhone y Android' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058'>Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4304951.jpg?tf=1200x' alt='Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/operacion-secreta-iptv-fin-semana-acaba-absoluto-fracaso-1449194'>La operación secreta contra las IPTV de este fin de semana acaba en el más absoluto fracaso</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/operacion-secreta-iptv-fin-semana-acaba-absoluto-fracaso-1449194' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/operacion-secreta-iptv-fin-semana-acaba-absoluto-fracaso-4305165.jpg?tf=1200x' alt='La operación secreta contra las IPTV de este fin de semana acaba en el más absoluto fracaso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121'>Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305034.jpg?tf=1200x' alt='Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"' />
     </a>
 </div>
 
