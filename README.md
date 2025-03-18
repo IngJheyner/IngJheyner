@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ceo-google-deepmind-rebaja-optimismo-ia-hay-muchas-cosas-aun-no-pueden-hacer-1449116'>El CEO de Google DeepMind rebaja el optimismo de la IA: "Hay muchas cosas que aún no pueden hacer"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ceo-google-deepmind-rebaja-optimismo-ia-hay-muchas-cosas-aun-no-pueden-hacer-1449116' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/demis-hassabis-ceo-google-deepmind-4305053.jpg?tf=1200x' alt='El CEO de Google DeepMind rebaja el optimismo de la IA: "Hay muchas cosas que aún no pueden hacer"' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/byd-asesta-golpe-definitivo-tesla-elon-musk-coche-electrico-reposta-como-gasolina-ya-real-1449131'>BYD asesta el golpe definitivo a Tesla y Elon Musk: el coche eléctrico que reposta como un gasolina ya es real</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/byd-asesta-golpe-definitivo-tesla-elon-musk-coche-electrico-reposta-como-gasolina-ya-real-1449131' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305054.jpg?tf=1200x' alt='BYD asesta el golpe definitivo a Tesla y Elon Musk: el coche eléctrico que reposta como un gasolina ya es real' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-v50-5g-quiere-ser-rey-retratos-profesionales-gama-media-1449117'>El Vivo V50 5G quiere ser el rey de los retratos profesionales en la gama media</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/vivo-v50-5g-quiere-ser-rey-retratos-profesionales-gama-media-1449117' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vivo-v50-5g-4305028.jpg?tf=1200x' alt='El Vivo V50 5G quiere ser el rey de los retratos profesionales en la gama media' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sundar-pichai-ceo-google-recuerda-elon-musk-tambien-hace-cosas-buenas-gracias-viaje-1449144'>Sundar Pichai, CEO de Google, recuerda que Elon Musk también hace cosas buenas: "Gracias por el viaje"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sundar-pichai-ceo-google-recuerda-elon-musk-tambien-hace-cosas-buenas-gracias-viaje-1449144' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sundar-pichai-google-elon-musk-4305078.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, recuerda que Elon Musk también hace cosas buenas: "Gracias por el viaje"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/o2-sigue-ejemplo-digi-tiene-regalo-gratis-todos-clientes-mismo-precio-1449073'>O2 sigue el ejemplo de DIGI y tiene un regalo gratis para todos sus clientes: más por el mismo precio</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/o2-sigue-ejemplo-digi-tiene-regalo-gratis-todos-clientes-mismo-precio-1449073' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/o2-sigue-ejemplo-digi-tiene-regalo-gratis-todos-clientes-mismo-precio-4304892.jpg?tf=1200x' alt='O2 sigue el ejemplo de DIGI y tiene un regalo gratis para todos sus clientes: más por el mismo precio' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/microsoft-advertencia-chrome-cambia-navegador-antes-sea-tarde-1449141'>Microsoft lanza una advertencia a los usuarios de Chrome: cambia de navegador antes de que sea tarde</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/microsoft-advertencia-chrome-cambia-navegador-antes-sea-tarde-1449141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-presenta-malwares-microsoft-pide-trasladarse-edge-4305044.jpg?tf=1200x' alt='Microsoft lanza una advertencia a los usuarios de Chrome: cambia de navegador antes de que sea tarde' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-meses-explotando-vulnerabilidad-chatgpt-pero-openai-no-hace-nada-1449103'>Hackers llevan meses explotando una vulnerabilidad de ChatGPT, pero OpenAI no hace nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-meses-explotando-vulnerabilidad-chatgpt-pero-openai-no-hace-nada-1449103' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-hacker-ciberataque-sam-altman-4305001.jpg?tf=1200x' alt='Hackers llevan meses explotando una vulnerabilidad de ChatGPT, pero OpenAI no hace nada' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/no-compartas-bulo-tercer-check-azul-whatsapp-no-existe-1449099'>No compartas este bulo, el tercer check azul de WhatsApp no existe</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/no-compartas-bulo-tercer-check-azul-whatsapp-no-existe-1449099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-compartas-bulo-tercer-check-azul-whatsapp-no-existe-4304972.jpg?tf=1200x' alt='No compartas este bulo, el tercer check azul de WhatsApp no existe' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091'>Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jesus-calleja-espacio-javi-poves-4304958.jpg?tf=1200x' alt='Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/no-error-pero-llamativo-televisor-4k-180-euros-marca-conocida-1449045'>No es un error, pero sí es llamativo: un televisor 4K por 180 euros, y de marca conocida</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/no-error-pero-llamativo-televisor-4k-180-euros-marca-conocida-1449045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-tv-43-4304859.jpg?tf=1200x' alt='No es un error, pero sí es llamativo: un televisor 4K por 180 euros, y de marca conocida' />
     </a>
 </div>
 
