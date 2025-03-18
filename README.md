@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902'>Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-spam-4304666.jpg?tf=1200x' alt='Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/pienso-jubilar-mi-mac-mini-volverme-linux-pc-menos-300-euros-sera-suficiente-1448863'>Pienso en jubilar mi Mac Mini y volverme a Linux: este PC de menos de 300 euros será suficiente</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/pienso-jubilar-mi-mac-mini-volverme-linux-pc-menos-300-euros-sera-suficiente-1448863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bmax-b6-power-4304556.jpg?tf=1200x' alt='Pienso en jubilar mi Mac Mini y volverme a Linux: este PC de menos de 300 euros será suficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-creador-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842'>Kevin Weil, creador de ChatGPT, confirma lo que todos temíamos: "Al ritmo que vamos, creo que será antes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-creador-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4304586.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma lo que todos temíamos: "Al ritmo que vamos, creo que será antes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-espana-1448871'>La Policía Nacional advierte: el peligroso caso de phishing que ya afecta a miles de usuarios en España</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-espana-1448871' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-4304609.jpg?tf=1200x' alt='La Policía Nacional advierte: el peligroso caso de phishing que ya afecta a miles de usuarios en España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/meta-mark-zuckerberg-tienen-problema-libro-prohibido-no-quieren-nadie-conozca-1448789'>Meta y Mark Zuckerberg tienen un problema: el libro prohibido que no quieren que nadie conozca</a></h4>
     <a href='https://computerhoy.20minutos.es/life/meta-mark-zuckerberg-tienen-problema-libro-prohibido-no-quieren-nadie-conozca-1448789' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mark-zuckerberg-ia-4304719.jpg?tf=1200x' alt='Meta y Mark Zuckerberg tienen un problema: el libro prohibido que no quieren que nadie conozca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-cohete-privado-espanol-pondra-satelites-orbita-1449022'>Ni SpaceX ni la NASA: primer vistazo en vídeo al MIURA 5, el cohete privado español que pondrá satélites en órbita</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/miura-5-cohete-privado-espanol-pondra-satelites-orbita-1449022' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-spacex-ni-nasa-primer-vistazo-miura-5-cohete-privado-espanol-pondra-satelites-orbita-4304807.jpg?tf=1200x' alt='Ni SpaceX ni la NASA: primer vistazo en vídeo al MIURA 5, el cohete privado español que pondrá satélites en órbita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/chromecast-estropeados-actualizacion-google-1449020'>Los Chromecast estropeados vuelven a la vida con la ansiada actualización de Google</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/chromecast-estropeados-actualizacion-google-1449020' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chromecast-estropeados-vuelven-vida-ansiada-actualizacion-google-4304827.jpg?tf=1200x' alt='Los Chromecast estropeados vuelven a la vida con la ansiada actualización de Google' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-1448965'>Movistar Plus+ a punto de lanzar el mejor canal de deportes de toda su programación</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-1448965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-4304828.jpg?tf=1200x' alt='Movistar Plus+ a punto de lanzar el mejor canal de deportes de toda su programación' />
     </a>
 </div>
 
