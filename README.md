@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929'>Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/world-samsung-2025-4304949.jpg?tf=1200x' alt='Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-plus-ofrece-series-pixar-star-wars-gratis-youtube-1449094'>Ni Pluto TV ni TDTChannels: Disney+ ofrece series de Pixar y Star Wars gratis en YouTube</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-plus-ofrece-series-pixar-star-wars-gratis-youtube-1449094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-pluto-tv-ni-tdtchannels-disney-comienza-ofrecer-series-star-wars-gratis-youtube-4304865.jpg?tf=1200x' alt='Ni Pluto TV ni TDTChannels: Disney+ ofrece series de Pixar y Star Wars gratis en YouTube' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/chatgpt-oido-propuesta-movil-viene-cascos-ia-integrada-1449039'>ChatGPT en tu oído: así es la propuesta de este móvil, que viene con cascos con IA integrada</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/chatgpt-oido-propuesta-movil-viene-cascos-ia-integrada-1449039' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-nothing-ear-4304850.jpg?tf=1200x' alt='ChatGPT en tu oído: así es la propuesta de este móvil, que viene con cascos con IA integrada' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/acabo-encontrar-easter-egg-moviles-raros-ano-1448238'>Acabo de encontrar este 'easter egg' en uno de los móviles más raros del año   </a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/acabo-encontrar-easter-egg-moviles-raros-ano-1448238' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4303653.jpg?tf=1200x' alt='Acabo de encontrar este 'easter egg' en uno de los móviles más raros del año   ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-muy-facil-aprender-java-todos-cursos-gratuitos-puedes-acceder-1441431'>Microsoft pone muy fácil aprender Java: todos los cursos gratuitos a los que puedes acceder</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-muy-facil-aprender-java-todos-cursos-gratuitos-puedes-acceder-1441431' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-gratis-microsoft-learn-java-lenguaje-programacion-4292232.jpg?tf=1200x' alt='Microsoft pone muy fácil aprender Java: todos los cursos gratuitos a los que puedes acceder' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902'>Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-spam-4304666.jpg?tf=1200x' alt='Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados' />
     </a>
 </div>
 
