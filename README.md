@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-espana-1448871'>La Policía Nacional advierte: el peligroso caso de phishing que ya afecta a miles de usuarios en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-espana-1448871' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-4304609.jpg?tf=1200x' alt='La Policía Nacional advierte: el peligroso caso de phishing que ya afecta a miles de usuarios en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/meta-mark-zuckerberg-tienen-problema-libro-prohibido-no-quieren-nadie-conozca-1448789'>Meta y Mark Zuckerberg tienen un problema: el libro prohibido que no quieren que nadie conozca</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/meta-mark-zuckerberg-tienen-problema-libro-prohibido-no-quieren-nadie-conozca-1448789' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mark-zuckerberg-ia-4304719.jpg?tf=1200x' alt='Meta y Mark Zuckerberg tienen un problema: el libro prohibido que no quieren que nadie conozca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/miura-5-cohete-privado-espanol-pondra-satelites-orbita-1449022'>Ni SpaceX ni la NASA: primer vistazo en vídeo al MIURA 5, el cohete privado español que pondrá satélites en órbita</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/miura-5-cohete-privado-espanol-pondra-satelites-orbita-1449022' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-spacex-ni-nasa-primer-vistazo-miura-5-cohete-privado-espanol-pondra-satelites-orbita-4304807.jpg?tf=1200x' alt='Ni SpaceX ni la NASA: primer vistazo en vídeo al MIURA 5, el cohete privado español que pondrá satélites en órbita' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-1448965'>Movistar Plus+ a punto de lanzar el mejor canal de deportes de toda su programación</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-1448965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-punto-lanzar-mejor-canal-deportes-toda-programacion-4304828.jpg?tf=1200x' alt='Movistar Plus+ a punto de lanzar el mejor canal de deportes de toda su programación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-android-copilot-ahora-espia-movil-ser-util-1449011'>Microsoft quiere tu Android: Copilot ahora "espía" tu móvil para ser más útil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-quiere-android-copilot-ahora-espia-movil-ser-util-1449011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/enlace-movil-4304822.jpg?tf=1200x' alt='Microsoft quiere tu Android: Copilot ahora "espía" tu móvil para ser más útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/actualizacion-samsung-puede-dejar-barra-sonido-como-pisapapeles-permanente-1449008'>Esta actualización de Samsung puede dejar tu barra de sonido como un pisapapeles permanente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/actualizacion-samsung-puede-dejar-barra-sonido-como-pisapapeles-permanente-1449008' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hw-q930d-4304818.jpg?tf=1200x' alt='Esta actualización de Samsung puede dejar tu barra de sonido como un pisapapeles permanente' />
     </a>
 </div>
 
