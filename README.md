@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-alerta-automatica-accidentes-emergencias-moviles-iphone-android-1449203'>Cómo activar la alerta automática de accidentes y emergencias en móviles iPhone y Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-alerta-automatica-accidentes-emergencias-moviles-iphone-android-1449203' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pedir-ayuda-accidente-movil-4305145.jpg?tf=1200x' alt='Cómo activar la alerta automática de accidentes y emergencias en móviles iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/5-smartwatches-muy-baratos-son-ganga-contar-pasos-suenos-mucho-1449046'>5 smartwatches muy baratos que son una ganga para contar pasos, sueños y mucho más</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/5-smartwatches-muy-baratos-son-ganga-contar-pasos-suenos-mucho-1449046' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reloj-inteligente-apple-watch-4305164.jpg?tf=1200x' alt='5 smartwatches muy baratos que son una ganga para contar pasos, sueños y mucho más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058'>Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4304951.jpg?tf=1200x' alt='Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121'>Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305034.jpg?tf=1200x' alt='Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chip-pequeno-grano-arena-10-veces-potente-llevo-ser-humano-luna-1449187'>Este chip es tan pequeño como un grano de arena, pero 10 veces más potente que el que llevó al ser humano a la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chip-pequeno-grano-arena-10-veces-potente-llevo-ser-humano-luna-1449187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chip-mspm0c1104-texas-instruments-menos-tamano-4305111.jpg?tf=1200x' alt='Este chip es tan pequeño como un grano de arena, pero 10 veces más potente que el que llevó al ser humano a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111'>OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305014.jpg?tf=1200x' alt='OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"' />
     </a>
 </div>
 
