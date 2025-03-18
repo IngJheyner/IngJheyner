@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261'>Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-4305246.jpg?tf=1200x' alt='Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-costaria-2000-euros-apple-tiene-claro-motivo-1449274'>El primer iPhone plegable costaría más de 2.000 euros y Apple tiene claro el motivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-costaria-2000-euros-apple-tiene-claro-motivo-1449274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-plegable-4305248.jpg?tf=1200x' alt='El primer iPhone plegable costaría más de 2.000 euros y Apple tiene claro el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-prepara-futuro-nueva-funcion-podria-hacerte-olvidar-waze-apple-maps-1449272'>Google Maps se prepara para el futuro: la nueva función que podría hacerte olvidar Waze y Apple Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-prepara-futuro-nueva-funcion-podria-hacerte-olvidar-waze-apple-maps-1449272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-android-auto-4305243.jpg?tf=1200x' alt='Google Maps se prepara para el futuro: la nueva función que podría hacerte olvidar Waze y Apple Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041'>Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-thrillers-suspense-80-pocos-saben-prime-video-4304855.jpg?tf=1200x' alt='Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/jugador-xbox-pierde-cuenta-error-casi-40000-euros-juegos-1449267'>Jugador de Xbox pierde su cuenta por error y casi 40.000 euros en juegos</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/jugador-xbox-pierde-cuenta-error-casi-40000-euros-juegos-1449267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mando-xbox-4305237.jpg?tf=1200x' alt='Jugador de Xbox pierde su cuenta por error y casi 40.000 euros en juegos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/google-maps-historia-viaja-ultimos-6000-anos-espana-mundo-salir-casa-1449217'>El Google Maps de la historia: viaja por los últimos 6.000 años de España y el mundo sin salir de casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/google-maps-historia-viaja-ultimos-6000-anos-espana-mundo-salir-casa-1449217' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-historia-viaja-ultimos-6000-anos-espana-mundo-salir-casa-4305227.jpg?tf=1200x' alt='El Google Maps de la historia: viaja por los últimos 6.000 años de España y el mundo sin salir de casa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-1449130'>Google desafía a Starlink de Elon Musk, está más cerca de llevar internet a cualquier lugar sin necesidad de satélites</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-1449130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-4305051.jpg?tf=1200x' alt='Google desafía a Starlink de Elon Musk, está más cerca de llevar internet a cualquier lugar sin necesidad de satélites' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-1449142'>La NASA, preocupada ante el aumento del nivel del mar en todo el mundo: es tres veces mayor del esperado</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-1449142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-4305045.jpg?tf=1200x' alt='La NASA, preocupada ante el aumento del nivel del mar en todo el mundo: es tres veces mayor del esperado' />
     </a>
 </div>
 
