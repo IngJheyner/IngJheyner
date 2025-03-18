@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/chatgpt-oido-propuesta-movil-viene-cascos-ia-integrada-1449039'>ChatGPT en tu oído: así es la propuesta de este móvil, que viene con cascos con IA integrada</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/chatgpt-oido-propuesta-movil-viene-cascos-ia-integrada-1449039' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-nothing-ear-4304850.jpg?tf=1200x' alt='ChatGPT en tu oído: así es la propuesta de este móvil, que viene con cascos con IA integrada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042'>Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/snapdragon-g-arma-secreta-qualcomm-steam-deck-procesador-consolas-gaming-portatiles-4304846.jpg?tf=1200x' alt='Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902'>Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-spam-4304666.jpg?tf=1200x' alt='Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/pienso-jubilar-mi-mac-mini-volverme-linux-pc-menos-300-euros-sera-suficiente-1448863'>Pienso en jubilar mi Mac Mini y volverme a Linux: este PC de menos de 300 euros será suficiente</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/pienso-jubilar-mi-mac-mini-volverme-linux-pc-menos-300-euros-sera-suficiente-1448863' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bmax-b6-power-4304556.jpg?tf=1200x' alt='Pienso en jubilar mi Mac Mini y volverme a Linux: este PC de menos de 300 euros será suficiente' />
     </a>
 </div>
 
