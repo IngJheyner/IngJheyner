@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041'>Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-thrillers-suspense-80-pocos-saben-prime-video-4304855.jpg?tf=1200x' alt='Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/jugador-xbox-pierde-cuenta-error-casi-40000-euros-juegos-1449267'>Jugador de Xbox pierde su cuenta por error y casi 40.000 euros en juegos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/jugador-xbox-pierde-cuenta-error-casi-40000-euros-juegos-1449267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mando-xbox-4305237.jpg?tf=1200x' alt='Jugador de Xbox pierde su cuenta por error y casi 40.000 euros en juegos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/google-maps-historia-viaja-ultimos-6000-anos-espana-mundo-salir-casa-1449217'>El Google Maps de la historia: viaja por los últimos 6.000 años de España y el mundo sin salir de casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/google-maps-historia-viaja-ultimos-6000-anos-espana-mundo-salir-casa-1449217' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-historia-viaja-ultimos-6000-anos-espana-mundo-salir-casa-4305227.jpg?tf=1200x' alt='El Google Maps de la historia: viaja por los últimos 6.000 años de España y el mundo sin salir de casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-1449130'>Google desafía a Starlink de Elon Musk, está más cerca de llevar internet a cualquier lugar sin necesidad de satélites</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-1449130' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-desafia-starlink-elon-musk-cerca-llevar-internet-cualquier-lugar-necesidad-satelites-4305051.jpg?tf=1200x' alt='Google desafía a Starlink de Elon Musk, está más cerca de llevar internet a cualquier lugar sin necesidad de satélites' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-1449142'>La NASA, preocupada ante el aumento del nivel del mar en todo el mundo: es tres veces mayor del esperado</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-1449142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-preocupada-aumento-nivel-mar-todo-mundo-tres-veces-mayor-esperado-4305045.jpg?tf=1200x' alt='La NASA, preocupada ante el aumento del nivel del mar en todo el mundo: es tres veces mayor del esperado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-activar-alerta-automatica-accidentes-emergencias-moviles-iphone-android-1449203'>Cómo activar la alerta automática de accidentes y emergencias en móviles iPhone y Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-activar-alerta-automatica-accidentes-emergencias-moviles-iphone-android-1449203' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pedir-ayuda-accidente-movil-4305145.jpg?tf=1200x' alt='Cómo activar la alerta automática de accidentes y emergencias en móviles iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/5-smartwatches-muy-baratos-son-ganga-contar-pasos-suenos-mucho-1449046'>5 smartwatches muy baratos que son una ganga para contar pasos, sueños y mucho más</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/5-smartwatches-muy-baratos-son-ganga-contar-pasos-suenos-mucho-1449046' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reloj-inteligente-apple-watch-4305164.jpg?tf=1200x' alt='5 smartwatches muy baratos que son una ganga para contar pasos, sueños y mucho más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058'>Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-descubren-ia-no-saben-leer-relojes-malinterpretan-esferas-75-casos-1449058' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4304951.jpg?tf=1200x' alt='Expertos descubren que las IA no saben leer relojes y malinterpretan las esferas en un 75 % de los casos' />
     </a>
 </div>
 
