@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111'>OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305014.jpg?tf=1200x' alt='OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-eliminar-usb-c-iphone-17-air-1449110'>Giro de 180 grados en Apple: podría eliminar el USB-C del iPhone 17 Air</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/giro-180-grados-apple-podria-eliminar-usb-c-iphone-17-air-1449110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-apple-podria-eliminar-usb-c-iphone-17-air-4305021.jpg?tf=1200x' alt='Giro de 180 grados en Apple: podría eliminar el USB-C del iPhone 17 Air' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-ceban-chatgpt-piensas-movistar-1449145'>Los bloqueos de la LaLiga a las IPTV se ceban con ChatGPT: "¿Qué piensas de esto Movistar?"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-ceban-chatgpt-piensas-movistar-1449145' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-4305065.jpg?tf=1200x' alt='Los bloqueos de la LaLiga a las IPTV se ceban con ChatGPT: "¿Qué piensas de esto Movistar?"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/byd-asesta-golpe-definitivo-tesla-elon-musk-coche-electrico-reposta-como-gasolina-ya-real-1449131'>BYD asesta el golpe definitivo a Tesla y Elon Musk: el coche eléctrico que reposta como un gasolina ya es real</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/byd-asesta-golpe-definitivo-tesla-elon-musk-coche-electrico-reposta-como-gasolina-ya-real-1449131' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305054.jpg?tf=1200x' alt='BYD asesta el golpe definitivo a Tesla y Elon Musk: el coche eléctrico que reposta como un gasolina ya es real' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sundar-pichai-ceo-google-recuerda-elon-musk-tambien-hace-cosas-buenas-gracias-viaje-1449144'>Sundar Pichai, CEO de Google, recuerda que Elon Musk también hace cosas buenas: "Gracias por el viaje"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sundar-pichai-ceo-google-recuerda-elon-musk-tambien-hace-cosas-buenas-gracias-viaje-1449144' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sundar-pichai-google-elon-musk-4305078.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, recuerda que Elon Musk también hace cosas buenas: "Gracias por el viaje"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/microsoft-advertencia-chrome-cambia-navegador-antes-sea-tarde-1449141'>Microsoft lanza una advertencia a los usuarios de Chrome: cambia de navegador antes de que sea tarde</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/microsoft-advertencia-chrome-cambia-navegador-antes-sea-tarde-1449141' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-presenta-malwares-microsoft-pide-trasladarse-edge-4305044.jpg?tf=1200x' alt='Microsoft lanza una advertencia a los usuarios de Chrome: cambia de navegador antes de que sea tarde' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/no-compartas-bulo-tercer-check-azul-whatsapp-no-existe-1449099'>No compartas este bulo, el tercer check azul de WhatsApp no existe</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/no-compartas-bulo-tercer-check-azul-whatsapp-no-existe-1449099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-compartas-bulo-tercer-check-azul-whatsapp-no-existe-4304972.jpg?tf=1200x' alt='No compartas este bulo, el tercer check azul de WhatsApp no existe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/no-error-pero-llamativo-televisor-4k-180-euros-marca-conocida-1449045'>No es un error, pero sí es llamativo: un televisor 4K por 180 euros, y de marca conocida</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/no-error-pero-llamativo-televisor-4k-180-euros-marca-conocida-1449045' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-tv-43-4304859.jpg?tf=1200x' alt='No es un error, pero sí es llamativo: un televisor 4K por 180 euros, y de marca conocida' />
     </a>
 </div>
 
