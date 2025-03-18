@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/vivo-v50-5g-quiere-ser-rey-retratos-profesionales-gama-media-1449117'>El Vivo V50 5G quiere ser el rey de los retratos profesionales en la gama media</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/vivo-v50-5g-quiere-ser-rey-retratos-profesionales-gama-media-1449117' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vivo-v50-5g-4305028.jpg?tf=1200x' alt='El Vivo V50 5G quiere ser el rey de los retratos profesionales en la gama media' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/o2-sigue-ejemplo-digi-tiene-regalo-gratis-todos-clientes-mismo-precio-1449073'>O2 sigue el ejemplo de DIGI y tiene un regalo gratis para todos sus clientes: más por el mismo precio</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/o2-sigue-ejemplo-digi-tiene-regalo-gratis-todos-clientes-mismo-precio-1449073' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/o2-sigue-ejemplo-digi-tiene-regalo-gratis-todos-clientes-mismo-precio-4304892.jpg?tf=1200x' alt='O2 sigue el ejemplo de DIGI y tiene un regalo gratis para todos sus clientes: más por el mismo precio' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-meses-explotando-vulnerabilidad-chatgpt-pero-openai-no-hace-nada-1449103'>Hackers llevan meses explotando una vulnerabilidad de ChatGPT, pero OpenAI no hace nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-meses-explotando-vulnerabilidad-chatgpt-pero-openai-no-hace-nada-1449103' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-hacker-ciberataque-sam-altman-4305001.jpg?tf=1200x' alt='Hackers llevan meses explotando una vulnerabilidad de ChatGPT, pero OpenAI no hace nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091'>Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jesus-calleja-espacio-javi-poves-4304958.jpg?tf=1200x' alt='Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929'>Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/world-samsung-2025-4304949.jpg?tf=1200x' alt='Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-plus-ofrece-series-pixar-star-wars-gratis-youtube-1449094'>Ni Pluto TV ni TDTChannels: Disney+ ofrece series de Pixar y Star Wars gratis en YouTube</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-plus-ofrece-series-pixar-star-wars-gratis-youtube-1449094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-pluto-tv-ni-tdtchannels-disney-comienza-ofrecer-series-star-wars-gratis-youtube-4304865.jpg?tf=1200x' alt='Ni Pluto TV ni TDTChannels: Disney+ ofrece series de Pixar y Star Wars gratis en YouTube' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/chatgpt-oido-propuesta-movil-viene-cascos-ia-integrada-1449039'>ChatGPT en tu oído: así es la propuesta de este móvil, que viene con cascos con IA integrada</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/chatgpt-oido-propuesta-movil-viene-cascos-ia-integrada-1449039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-nothing-ear-4304850.jpg?tf=1200x' alt='ChatGPT en tu oído: así es la propuesta de este móvil, que viene con cascos con IA integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042'>Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/snapdragon-g-arma-secreta-qualcomm-steam-deck-procesador-consolas-gaming-portatiles-4304846.jpg?tf=1200x' alt='Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles' />
     </a>
 </div>
 
