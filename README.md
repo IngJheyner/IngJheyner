@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042'>Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/snapdragon-g-arma-secreta-qualcomm-steam-deck-procesador-consolas-gaming-portatiles-4304846.jpg?tf=1200x' alt='Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/acabo-encontrar-easter-egg-moviles-raros-ano-1448238'>Acabo de encontrar este 'easter egg' en uno de los móviles más raros del año   </a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/acabo-encontrar-easter-egg-moviles-raros-ano-1448238' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4303653.jpg?tf=1200x' alt='Acabo de encontrar este 'easter egg' en uno de los móviles más raros del año   ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-muy-facil-aprender-java-todos-cursos-gratuitos-puedes-acceder-1441431'>Microsoft pone muy fácil aprender Java: todos los cursos gratuitos a los que puedes acceder</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-pone-muy-facil-aprender-java-todos-cursos-gratuitos-puedes-acceder-1441431' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/cursos-gratis-microsoft-learn-java-lenguaje-programacion-4292232.jpg?tf=1200x' alt='Microsoft pone muy fácil aprender Java: todos los cursos gratuitos a los que puedes acceder' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902'>Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/numeros-estafa-peligrosos-operan-ahora-mismo-espana-anadelos-lista-bloqueados-1448902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-spam-4304666.jpg?tf=1200x' alt='Los 10 números estafa más peligrosos que operan ahora mismo en España: añádelos a tu lista de bloqueados' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/pienso-jubilar-mi-mac-mini-volverme-linux-pc-menos-300-euros-sera-suficiente-1448863'>Pienso en jubilar mi Mac Mini y volverme a Linux: este PC de menos de 300 euros será suficiente</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/pienso-jubilar-mi-mac-mini-volverme-linux-pc-menos-300-euros-sera-suficiente-1448863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bmax-b6-power-4304556.jpg?tf=1200x' alt='Pienso en jubilar mi Mac Mini y volverme a Linux: este PC de menos de 300 euros será suficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-creador-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842'>Kevin Weil, creador de ChatGPT, confirma lo que todos temíamos: "Al ritmo que vamos, creo que será antes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-creador-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4304586.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma lo que todos temíamos: "Al ritmo que vamos, creo que será antes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-espana-1448871'>La Policía Nacional advierte: el peligroso caso de phishing que ya afecta a miles de usuarios en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-espana-1448871' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-advierte-peligroso-caso-phishing-ya-afecta-miles-usuarios-4304609.jpg?tf=1200x' alt='La Policía Nacional advierte: el peligroso caso de phishing que ya afecta a miles de usuarios en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/meta-mark-zuckerberg-tienen-problema-libro-prohibido-no-quieren-nadie-conozca-1448789'>Meta y Mark Zuckerberg tienen un problema: el libro prohibido que no quieren que nadie conozca</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/meta-mark-zuckerberg-tienen-problema-libro-prohibido-no-quieren-nadie-conozca-1448789' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mark-zuckerberg-ia-4304719.jpg?tf=1200x' alt='Meta y Mark Zuckerberg tienen un problema: el libro prohibido que no quieren que nadie conozca' />
     </a>
 </div>
 
