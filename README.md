@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091'>Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/terraplanista-asegura-jesus-calleja-no-fue-espacio-cualquier-persona-vio-tongo-1449091' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jesus-calleja-espacio-javi-poves-4304958.jpg?tf=1200x' alt='Terraplanista asegura que Jesús Calleja no fue al espacio: "Cualquier persona vio el tongo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929'>Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/samsung-pone-ia-nuevos-televisores-electrodomesticos-2025-1448929' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/world-samsung-2025-4304949.jpg?tf=1200x' alt='Samsung pone más IA en sus nuevos televisores y electrodomésticos para 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042'>Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/snapdragon-g-qualcomm-consolas-gaming-portatiles-1449042' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/snapdragon-g-arma-secreta-qualcomm-steam-deck-procesador-consolas-gaming-portatiles-4304846.jpg?tf=1200x' alt='Snapdragon G, el arma secreta de Qualcomm contra Nintendo Switch 2: procesadores para consolas gaming portátiles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/acabo-encontrar-easter-egg-moviles-raros-ano-1448238'>Acabo de encontrar este 'easter egg' en uno de los móviles más raros del año   </a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/acabo-encontrar-easter-egg-moviles-raros-ano-1448238' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-pro-4303653.jpg?tf=1200x' alt='Acabo de encontrar este 'easter egg' en uno de los móviles más raros del año   ' />
     </a>
 </div>
 
