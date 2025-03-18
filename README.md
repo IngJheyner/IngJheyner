@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-banquillo-mundial-futbol-2026-gratis-tdt-1449288'>Javier Tebas al banquillo: el Mundial de Fútbol 2026 se podrá ver gratis en dos plataformas de la TDT</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-banquillo-mundial-futbol-2026-gratis-tdt-1449288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-banquillo-mundial-futbol-2026-podria-ver-gratis-dos-cadenas-tdt-4305236.jpg?tf=1200x' alt='Javier Tebas al banquillo: el Mundial de Fútbol 2026 se podrá ver gratis en dos plataformas de la TDT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261'>Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-4305246.jpg?tf=1200x' alt='Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041'>Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-thrillers-suspense-80-pocos-saben-prime-video-4304855.jpg?tf=1200x' alt='Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/jugador-xbox-pierde-cuenta-error-casi-40000-euros-juegos-1449267'>Jugador de Xbox pierde su cuenta por error y casi 40.000 euros en juegos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/jugador-xbox-pierde-cuenta-error-casi-40000-euros-juegos-1449267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mando-xbox-4305237.jpg?tf=1200x' alt='Jugador de Xbox pierde su cuenta por error y casi 40.000 euros en juegos' />
     </a>
 </div>
 
