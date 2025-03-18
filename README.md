@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121'>Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/tesla-starlink-podria-ser-proximo-quebradero-cabeza-elon-musk-profundamente-incomodos-1449121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305034.jpg?tf=1200x' alt='Tras Tesla, Starlink podría ser el próximo quebradero de cabeza de Elon Musk: "Profundamente incómodos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chip-pequeno-grano-arena-10-veces-potente-llevo-ser-humano-luna-1449187'>Este chip es tan pequeño como un grano de arena, pero 10 veces más potente que el que llevó al ser humano a la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chip-pequeno-grano-arena-10-veces-potente-llevo-ser-humano-luna-1449187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chip-mspm0c1104-texas-instruments-menos-tamano-4305111.jpg?tf=1200x' alt='Este chip es tan pequeño como un grano de arena, pero 10 veces más potente que el que llevó al ser humano a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111'>OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/openai-castiga-ia-mentir-no-fue-buena-idea-ahora-engano-indetectable-1449111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305014.jpg?tf=1200x' alt='OpenAI castiga a una IA por mentir y no fue una buena idea: "Ahora su engaño es indetectable"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-ceban-chatgpt-piensas-movistar-1449145'>Los bloqueos de la LaLiga a las IPTV se ceban con ChatGPT: "¿Qué piensas de esto Movistar?"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/bloqueos-laliga-iptv-ceban-chatgpt-piensas-movistar-1449145' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-4305065.jpg?tf=1200x' alt='Los bloqueos de la LaLiga a las IPTV se ceban con ChatGPT: "¿Qué piensas de esto Movistar?"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/byd-asesta-golpe-definitivo-tesla-elon-musk-coche-electrico-reposta-como-gasolina-ya-real-1449131'>BYD asesta el golpe definitivo a Tesla y Elon Musk: el coche eléctrico que reposta como un gasolina ya es real</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/byd-asesta-golpe-definitivo-tesla-elon-musk-coche-electrico-reposta-como-gasolina-ya-real-1449131' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305054.jpg?tf=1200x' alt='BYD asesta el golpe definitivo a Tesla y Elon Musk: el coche eléctrico que reposta como un gasolina ya es real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sundar-pichai-ceo-google-recuerda-elon-musk-tambien-hace-cosas-buenas-gracias-viaje-1449144'>Sundar Pichai, CEO de Google, recuerda que Elon Musk también hace cosas buenas: "Gracias por el viaje"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sundar-pichai-ceo-google-recuerda-elon-musk-tambien-hace-cosas-buenas-gracias-viaje-1449144' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sundar-pichai-google-elon-musk-4305078.jpg?tf=1200x' alt='Sundar Pichai, CEO de Google, recuerda que Elon Musk también hace cosas buenas: "Gracias por el viaje"' />
     </a>
 </div>
 
