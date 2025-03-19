@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-1449439'>Ni ChatGPT ni Gemini: esta es la IA que quiere controlar todo tu escritorio con la voz</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-1449439' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-4305510.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini: esta es la IA que quiere controlar todo tu escritorio con la voz' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-hazmerreir-mundo-genio-supertonto-1448869'>Elon Musk YA es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-hazmerreir-mundo-genio-supertonto-1448869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-empresa-tesla-4304617.jpg?tf=1200x' alt='Elon Musk YA es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/adios-windows-convertir-movil-android-pc-linux-1449475'>Adiós Windows, podrás convertir tu móvil Android en un PC de escritorio con Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/adios-windows-convertir-movil-android-pc-linux-1449475' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sistema-operativo-linux-moviles-android-4305556.jpg?tf=1200x' alt='Adiós Windows, podrás convertir tu móvil Android en un PC de escritorio con Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertas-reclutadoras-laborales-alertan-ia-estos-modelos-trabajo-no-sobreviviran-1449425'>Expertas reclutadoras laborales alertan sobre la IA: "Estos modelos de trabajo no sobrevivirán"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertas-reclutadoras-laborales-alertan-ia-estos-modelos-trabajo-no-sobreviviran-1449425' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305520.jpg?tf=1200x' alt='Expertas reclutadoras laborales alertan sobre la IA: "Estos modelos de trabajo no sobrevivirán"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430'>Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-4305500.jpg?tf=1200x' alt='Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oye-ia-eres-real-incluso-sam-altman-creador-chatgpt-gustaria-saberlo-1449397'>"Oye IA, ¿eres real?": incluso a Sam Altman, creador de ChatGPT, le gustaría saberlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/oye-ia-eres-real-incluso-sam-altman-creador-chatgpt-gustaria-saberlo-1449397' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4305451.jpg?tf=1200x' alt='"Oye IA, ¿eres real?": incluso a Sam Altman, creador de ChatGPT, le gustaría saberlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-simplifica-mensajes-mejor-ia-nueva-funcion-podria-cambiar-forma-chateamos-1449334'>WhatsApp simplifica los mensajes, y es mejor que la IA: la nueva función que podría cambiar la forma en que chateamos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-simplifica-mensajes-mejor-ia-nueva-funcion-podria-cambiar-forma-chateamos-1449334' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/notificaciones-whatsapp-4295449.jpg?tf=1200x' alt='WhatsApp simplifica los mensajes, y es mejor que la IA: la nueva función que podría cambiar la forma en que chateamos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-evitar-accidentes-mortales-ocurrido-cantabria-1449428'>En qué debes fijarte en Google Maps y Waze para evitar accidentes mortales como el ocurrido en Cantabria</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-evitar-accidentes-mortales-ocurrido-cantabria-1449428' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metodos-seguridad-accidentes-google-maps-waze-4305458.jpg?tf=1200x' alt='En qué debes fijarte en Google Maps y Waze para evitar accidentes mortales como el ocurrido en Cantabria' />
     </a>
 </div>
 
