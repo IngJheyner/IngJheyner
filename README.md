@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertas-reclutadoras-laborales-alertan-ia-estos-modelos-trabajo-no-sobreviviran-1449425'>Expertas reclutadoras laborales alertan sobre la IA: "Estos modelos de trabajo no sobrevivirán"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertas-reclutadoras-laborales-alertan-ia-estos-modelos-trabajo-no-sobreviviran-1449425' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305520.jpg?tf=1200x' alt='Expertas reclutadoras laborales alertan sobre la IA: "Estos modelos de trabajo no sobrevivirán"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430'>Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-4305500.jpg?tf=1200x' alt='Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-evitar-accidentes-mortales-ocurrido-cantabria-1449428'>En qué debes fijarte en Google Maps y Waze para evitar accidentes mortales como el ocurrido en Cantabria</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-evitar-accidentes-mortales-ocurrido-cantabria-1449428' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metodos-seguridad-accidentes-google-maps-waze-4305458.jpg?tf=1200x' alt='En qué debes fijarte en Google Maps y Waze para evitar accidentes mortales como el ocurrido en Cantabria' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-1449351'>Giro de 180 grados en Movistar Plus+: ofrece contenido en 4K en su tarifa más barata</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-1449351' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-4305389.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: ofrece contenido en 4K en su tarifa más barata' />
     </a>
 </div>
 
