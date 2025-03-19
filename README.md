@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-1449309'>WhatsApp más Bizum, una estafa explosiva que arrasa en España: "Estoy intentando y no me funciona"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-1449309' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-4305312.jpg?tf=1200x' alt='WhatsApp más Bizum, una estafa explosiva que arrasa en España: "Estoy intentando y no me funciona"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-1449510'>Marte podría lograr juntar en una misma sala a Elon Musk y Vladímir Putin: ¿está el mundo preparado?</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-1449510' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-4305687.jpg?tf=1200x' alt='Marte podría lograr juntar en una misma sala a Elon Musk y Vladímir Putin: ¿está el mundo preparado?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-firestick-alternativa-xiaomi-sirve-instalar-cualquier-aplicacion-vpn-plex-1449426'>Adiós al Firestick: esta alternativa de Xiaomi sirve para instalar cualquier aplicación, VPN, Plex y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/adios-firestick-alternativa-xiaomi-sirve-instalar-cualquier-aplicacion-vpn-plex-1449426' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-tv-box-s-2429725.jpg?tf=1200x' alt='Adiós al Firestick: esta alternativa de Xiaomi sirve para instalar cualquier aplicación, VPN, Plex y más' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452'>Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-4305529.jpg?tf=1200x' alt='Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-1449311'>Es una de las mejores películas anime de todos los tiempos, según la crítica, y puedes verla en Movistar Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-1449311' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-4305313.jpg?tf=1200x' alt='Es una de las mejores películas anime de todos los tiempos, según la crítica, y puedes verla en Movistar Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/adios-numeros-tarjetas-credito-funcionaran-partir-ahora-1449493'>Adiós a los números de las tarjetas de crédito, así funcionarán a partir de ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/adios-numeros-tarjetas-credito-funcionaran-partir-ahora-1449493' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tarjeta-credito-mastercard-numeros-4305606.jpg?tf=1200x' alt='Adiós a los números de las tarjetas de crédito, así funcionarán a partir de ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nace-primer-periodico-realizado-integramente-inteligencia-artificial-periodistas-solo-hacen-preguntas-ia-1449444'>Nace el primer periódico realizado íntegramente con inteligencia artificial: "Los periodistas solo hacen preguntas a la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nace-primer-periodico-realizado-integramente-inteligencia-artificial-periodistas-solo-hacen-preguntas-ia-1449444' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/periodico-escrito-ia-4305534.jpg?tf=1200x' alt='Nace el primer periódico realizado íntegramente con inteligencia artificial: "Los periodistas solo hacen preguntas a la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-1449492'>El escudo antipiratería contra las IPTV y el fútbol gratis se actualiza: así funcionará a partir de ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-1449492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-4305623.jpg?tf=1200x' alt='El escudo antipiratería contra las IPTV y el fútbol gratis se actualiza: así funcionará a partir de ahora' />
     </a>
 </div>
 
