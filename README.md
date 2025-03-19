@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-lanzan-ultimatum-no-nos-permiten-carrera-ia-ha-terminado-china-gana-1449169'>Sam Altman y OpenAI lanzan un ultimátum: "Si no nos lo permiten, la carrera por la IA ha terminado", China gana</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-lanzan-ultimatum-no-nos-permiten-carrera-ia-ha-terminado-china-gana-1449169' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-openai-hacen-saltar-alarmas-no-nos-permiten-carrera-ia-ha-terminado-china-gana-4305074.jpg?tf=1200x' alt='Sam Altman y OpenAI lanzan un ultimátum: "Si no nos lo permiten, la carrera por la IA ha terminado", China gana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reconocido-experto-mundial-ia-hace-saltar-todas-alarmas-acerca-hora-oscura-1449057'>Reconocido experto mundial en IA hace saltar todas las alarmas: "Se acerca nuestra hora más oscura"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reconocido-experto-mundial-ia-hace-saltar-todas-alarmas-acerca-hora-oscura-1449057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dave-shapiro-ia-4305175.jpg?tf=1200x' alt='Reconocido experto mundial en IA hace saltar todas las alarmas: "Se acerca nuestra hora más oscura"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-1449171'>Un estudio alerta de los peligros de los móviles y redes sociales entre la generación Z: "Es peor de lo que se esperaba"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-1449171' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-4305073.jpg?tf=1200x' alt='Un estudio alerta de los peligros de los móviles y redes sociales entre la generación Z: "Es peor de lo que se esperaba"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299'>Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-4305282.jpg?tf=1200x' alt='Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-banquillo-mundial-futbol-2026-gratis-tdt-1449288'>Javier Tebas al banquillo: el Mundial de Fútbol 2026 se podrá ver gratis en dos plataformas de la TDT</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-banquillo-mundial-futbol-2026-gratis-tdt-1449288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-banquillo-mundial-futbol-2026-podria-ver-gratis-dos-cadenas-tdt-4305236.jpg?tf=1200x' alt='Javier Tebas al banquillo: el Mundial de Fútbol 2026 se podrá ver gratis en dos plataformas de la TDT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261'>Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-4305246.jpg?tf=1200x' alt='Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"' />
     </a>
 </div>
 
