@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nace-primer-periodico-realizado-integramente-inteligencia-artificial-periodistas-solo-hacen-preguntas-ia-1449444'>Nace el primer periódico realizado íntegramente con inteligencia artificial: "Los periodistas solo hacen preguntas a la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nace-primer-periodico-realizado-integramente-inteligencia-artificial-periodistas-solo-hacen-preguntas-ia-1449444' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/periodico-escrito-ia-4305534.jpg?tf=1200x' alt='Nace el primer periódico realizado íntegramente con inteligencia artificial: "Los periodistas solo hacen preguntas a la IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-1449492'>El escudo antipiratería contra las IPTV y el fútbol gratis se actualiza: así funcionará a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-1449492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-4305623.jpg?tf=1200x' alt='El escudo antipiratería contra las IPTV y el fútbol gratis se actualiza: así funcionará a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-1449439'>Ni ChatGPT ni Gemini: esta es la IA que quiere controlar todo tu escritorio con la voz</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-1449439' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-4305510.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini: esta es la IA que quiere controlar todo tu escritorio con la voz' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/adios-windows-convertir-movil-android-pc-linux-1449475'>Adiós Windows, podrás convertir tu móvil Android en un PC de escritorio con Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/android/adios-windows-convertir-movil-android-pc-linux-1449475' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sistema-operativo-linux-moviles-android-4305556.jpg?tf=1200x' alt='Adiós Windows, podrás convertir tu móvil Android en un PC de escritorio con Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertas-reclutadoras-laborales-alertan-ia-estos-modelos-trabajo-no-sobreviviran-1449425'>Expertas reclutadoras laborales alertan sobre la IA: "Estos modelos de trabajo no sobrevivirán"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertas-reclutadoras-laborales-alertan-ia-estos-modelos-trabajo-no-sobreviviran-1449425' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305520.jpg?tf=1200x' alt='Expertas reclutadoras laborales alertan sobre la IA: "Estos modelos de trabajo no sobrevivirán"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430'>Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-4305500.jpg?tf=1200x' alt='Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"' />
     </a>
 </div>
 
