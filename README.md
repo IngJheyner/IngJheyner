@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299'>Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-4305282.jpg?tf=1200x' alt='Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-banquillo-mundial-futbol-2026-gratis-tdt-1449288'>Javier Tebas al banquillo: el Mundial de Fútbol 2026 se podrá ver gratis en dos plataformas de la TDT</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-banquillo-mundial-futbol-2026-gratis-tdt-1449288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-banquillo-mundial-futbol-2026-podria-ver-gratis-dos-cadenas-tdt-4305236.jpg?tf=1200x' alt='Javier Tebas al banquillo: el Mundial de Fútbol 2026 se podrá ver gratis en dos plataformas de la TDT' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-prepara-futuro-nueva-funcion-podria-hacerte-olvidar-waze-apple-maps-1449272'>Google Maps se prepara para el futuro: la nueva función que podría hacerte olvidar Waze y Apple Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-maps-prepara-futuro-nueva-funcion-podria-hacerte-olvidar-waze-apple-maps-1449272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-android-auto-4305243.jpg?tf=1200x' alt='Google Maps se prepara para el futuro: la nueva función que podría hacerte olvidar Waze y Apple Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041'>Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-thrillers-suspense-80-pocos-saben-prime-video-1449041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-thrillers-suspense-80-pocos-saben-prime-video-4304855.jpg?tf=1200x' alt='Es uno de los mejores thrillers de suspense de los 80, y pocos saben que está en Prime Video' />
     </a>
 </div>
 
