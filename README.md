@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-1449351'>Giro de 180 grados en Movistar Plus+: ofrece contenido en 4K en su tarifa más barata</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-1449351' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-4305389.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: ofrece contenido en 4K en su tarifa más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/pixel-9a-redisena-gama-media-google-pantalla-bateria-ia-1448536'>El Pixel 9a rediseña la gama media de Google con más pantalla, batería e IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/pixel-9a-redisena-gama-media-google-pantalla-bateria-ia-1448536' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pixel-9a-4304630.jpg?tf=1200x' alt='El Pixel 9a rediseña la gama media de Google con más pantalla, batería e IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-semana-laboral-120-horas-1446862'>Ni vacaciones ni festivos, esta es la jornada laboral "maratoniana" que busca imponer Elon Musk </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-semana-laboral-120-horas-1446862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-jornada-laboral-4305530.jpg?tf=1200x' alt='Ni vacaciones ni festivos, esta es la jornada laboral "maratoniana" que busca imponer Elon Musk ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-primeros-ordenadores-pensados-ia-1449418'>Nvidia presenta sus primeros ordenadores pensados para la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-primeros-ordenadores-pensados-ia-1449418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nvidia-asus-mini-pc-ia-4305532.jpg?tf=1200x' alt='Nvidia presenta sus primeros ordenadores pensados para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/elon-musk-consigue-esa-victoria-tanto-necesita-pero-seguramente-no-sea-suficiente-1449345'>Elon Musk consigue esa victoria que tanto necesita, pero seguramente no sea suficiente</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/elon-musk-consigue-esa-victoria-tanto-necesita-pero-seguramente-no-sea-suficiente-1449345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305372.jpg?tf=1200x' alt='Elon Musk consigue esa victoria que tanto necesita, pero seguramente no sea suficiente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oracle-revela-5-nuevas-caracteristicas-llegaran-java-muy-pronto-1449381'>Oracle revela 5 nuevas características que llegarán a Java muy pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/oracle-revela-5-nuevas-caracteristicas-llegaran-java-muy-pronto-1449381' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/java-oracle-programacion-4305443.jpg?tf=1200x' alt='Oracle revela 5 nuevas características que llegarán a Java muy pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/aliexpress-deja-ko-amazon-vende-productos-estrella-barato-propia-tienda-1449200'>AliExpress deja KO a Amazon: vende uno de sus productos estrella más barato que en su propia tienda</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/aliexpress-deja-ko-amazon-vende-productos-estrella-barato-propia-tienda-1449200' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/echo-dot-5a-generacion-2875349.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: vende uno de sus productos estrella más barato que en su propia tienda' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-rescate-huawei-estaria-punto-perder-licencias-windows-1449366'>¿Linux al rescate? Huawei estaría a punto de perder sus licencias de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-rescate-huawei-estaria-punto-perder-licencias-windows-1449366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-windows-linux-4305392.jpg?tf=1200x' alt='¿Linux al rescate? Huawei estaría a punto de perder sus licencias de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-construir-nueva-gigafabrica-ciudad-espana-pero-amancio-ortega-podria-impedirselo-1449325'>Elon Musk quiere construir su nueva gigafábrica en esta ciudad de España, pero Amancio Ortega podría impedírselo</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-construir-nueva-gigafabrica-ciudad-espana-pero-amancio-ortega-podria-impedirselo-1449325' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-amancio-ortega-4305388.jpg?tf=1200x' alt='Elon Musk quiere construir su nueva gigafábrica en esta ciudad de España, pero Amancio Ortega podría impedírselo' />
     </a>
 </div>
 
