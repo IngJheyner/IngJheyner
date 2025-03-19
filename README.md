@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-1449538'>Ingeniero aeroespacial explica qué pasaría si una ventana del avión se rompe en pleno vuelo: "Saldría de tu cuerpo aunque no quieras"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-1449538' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-4305716.jpg?tf=1200x' alt='Ingeniero aeroespacial explica qué pasaría si una ventana del avión se rompe en pleno vuelo: "Saldría de tu cuerpo aunque no quieras"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/router-wifi-casa-haz-inmediato-estas-peligro-1449559'>¿Tienes este router WiFi en casa? Haz esto de inmediato, estás en peligro</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/router-wifi-casa-haz-inmediato-estas-peligro-1449559' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tienes-router-wifi-casa-haz-inmediato-estas-peligro-4305684.jpg?tf=1200x' alt='¿Tienes este router WiFi en casa? Haz esto de inmediato, estás en peligro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mata-oficialmente-windows-10-empieza-enviar-advertencias-final-1449550'>Microsoft "mata" oficialmente a Windows 10 y empieza a enviar advertencias sobre su final</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-mata-oficialmente-windows-10-empieza-enviar-advertencias-final-1449550' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-windows-4305705.jpg?tf=1200x' alt='Microsoft "mata" oficialmente a Windows 10 y empieza a enviar advertencias sobre su final' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548'>Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidad-windows-4305702.jpg?tf=1200x' alt='Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-1449309'>WhatsApp más Bizum, una estafa explosiva que arrasa en España: "Estoy intentando y no me funciona"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-1449309' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-4305312.jpg?tf=1200x' alt='WhatsApp más Bizum, una estafa explosiva que arrasa en España: "Estoy intentando y no me funciona"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-1449510'>Marte podría lograr juntar en una misma sala a Elon Musk y Vladímir Putin: ¿está el mundo preparado?</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-1449510' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-4305687.jpg?tf=1200x' alt='Marte podría lograr juntar en una misma sala a Elon Musk y Vladímir Putin: ¿está el mundo preparado?' />
     </a>
 </div>
 
