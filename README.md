@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430'>Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-1449430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-destroza-chatgpt-basico-aunque-creas-contrario-estamos-equivocados-4305500.jpg?tf=1200x' alt='Google destroza a ChatGPT en lo más básico, aunque creas lo contrario: "Estamos equivocados"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oye-ia-eres-real-incluso-sam-altman-creador-chatgpt-gustaria-saberlo-1449397'>"Oye IA, ¿eres real?": incluso a Sam Altman, creador de ChatGPT, le gustaría saberlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/oye-ia-eres-real-incluso-sam-altman-creador-chatgpt-gustaria-saberlo-1449397' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4305451.jpg?tf=1200x' alt='"Oye IA, ¿eres real?": incluso a Sam Altman, creador de ChatGPT, le gustaría saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-simplifica-mensajes-mejor-ia-nueva-funcion-podria-cambiar-forma-chateamos-1449334'>WhatsApp simplifica los mensajes, y es mejor que la IA: la nueva función que podría cambiar la forma en que chateamos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/whatsapp-simplifica-mensajes-mejor-ia-nueva-funcion-podria-cambiar-forma-chateamos-1449334' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/notificaciones-whatsapp-4295449.jpg?tf=1200x' alt='WhatsApp simplifica los mensajes, y es mejor que la IA: la nueva función que podría cambiar la forma en que chateamos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-waze-evitar-accidentes-mortales-ocurrido-cantabria-1449428'>En qué debes fijarte en Google Maps y Waze para evitar accidentes mortales como el ocurrido en Cantabria</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-waze-evitar-accidentes-mortales-ocurrido-cantabria-1449428' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metodos-seguridad-accidentes-google-maps-waze-4305458.jpg?tf=1200x' alt='En qué debes fijarte en Google Maps y Waze para evitar accidentes mortales como el ocurrido en Cantabria' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-1449351'>Giro de 180 grados en Movistar Plus+: ofrece contenido en 4K en su tarifa más barata</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-1449351' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-movistar-plus-ofrece-contenido-4k-tarifa-barata-4305389.jpg?tf=1200x' alt='Giro de 180 grados en Movistar Plus+: ofrece contenido en 4K en su tarifa más barata' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/pixel-9a-redisena-gama-media-google-pantalla-bateria-ia-1448536'>El Pixel 9a rediseña la gama media de Google con más pantalla, batería e IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/pixel-9a-redisena-gama-media-google-pantalla-bateria-ia-1448536' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pixel-9a-4304630.jpg?tf=1200x' alt='El Pixel 9a rediseña la gama media de Google con más pantalla, batería e IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-semana-laboral-120-horas-1446862'>Ni vacaciones ni festivos, esta es la jornada laboral "maratoniana" que busca imponer Elon Musk </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-semana-laboral-120-horas-1446862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-jornada-laboral-4305530.jpg?tf=1200x' alt='Ni vacaciones ni festivos, esta es la jornada laboral "maratoniana" que busca imponer Elon Musk ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-primeros-ordenadores-pensados-ia-1449418'>Nvidia presenta sus primeros ordenadores pensados para la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nvidia-presenta-primeros-ordenadores-pensados-ia-1449418' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nvidia-asus-mini-pc-ia-4305532.jpg?tf=1200x' alt='Nvidia presenta sus primeros ordenadores pensados para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/elon-musk-consigue-esa-victoria-tanto-necesita-pero-seguramente-no-sea-suficiente-1449345'>Elon Musk consigue esa victoria que tanto necesita, pero seguramente no sea suficiente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/elon-musk-consigue-esa-victoria-tanto-necesita-pero-seguramente-no-sea-suficiente-1449345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305372.jpg?tf=1200x' alt='Elon Musk consigue esa victoria que tanto necesita, pero seguramente no sea suficiente' />
     </a>
 </div>
 
