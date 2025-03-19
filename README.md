@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/elon-musk-consigue-esa-victoria-tanto-necesita-pero-seguramente-no-sea-suficiente-1449345'>Elon Musk consigue esa victoria que tanto necesita, pero seguramente no sea suficiente</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/elon-musk-consigue-esa-victoria-tanto-necesita-pero-seguramente-no-sea-suficiente-1449345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305372.jpg?tf=1200x' alt='Elon Musk consigue esa victoria que tanto necesita, pero seguramente no sea suficiente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/oracle-revela-5-nuevas-caracteristicas-llegaran-java-muy-pronto-1449381'>Oracle revela 5 nuevas características que llegarán a Java muy pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/oracle-revela-5-nuevas-caracteristicas-llegaran-java-muy-pronto-1449381' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/java-oracle-programacion-4305443.jpg?tf=1200x' alt='Oracle revela 5 nuevas características que llegarán a Java muy pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/aliexpress-deja-ko-amazon-vende-productos-estrella-barato-propia-tienda-1449200'>AliExpress deja KO a Amazon: vende uno de sus productos estrella más barato que en su propia tienda</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/aliexpress-deja-ko-amazon-vende-productos-estrella-barato-propia-tienda-1449200' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/echo-dot-5a-generacion-2875349.jpg?tf=1200x' alt='AliExpress deja KO a Amazon: vende uno de sus productos estrella más barato que en su propia tienda' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-construir-nueva-gigafabrica-ciudad-espana-pero-amancio-ortega-podria-impedirselo-1449325'>Elon Musk quiere construir su nueva gigafábrica en esta ciudad de España, pero Amancio Ortega podría impedírselo</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-quiere-construir-nueva-gigafabrica-ciudad-espana-pero-amancio-ortega-podria-impedirselo-1449325' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-amancio-ortega-4305388.jpg?tf=1200x' alt='Elon Musk quiere construir su nueva gigafábrica en esta ciudad de España, pero Amancio Ortega podría impedírselo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/peor-teclado-mundo-tiene-1020-teclas-usa-palabras-vez-letras-1449359'>El peor teclado del mundo tiene 1.020 teclas y usa palabras en vez de letras</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/peor-teclado-mundo-tiene-1020-teclas-usa-palabras-vez-letras-1449359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peor-teclado-mundo-tienen-1000-teclas-usa-palabras-vez-letras-4305323.jpg?tf=1200x' alt='El peor teclado del mundo tiene 1.020 teclas y usa palabras en vez de letras' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-boeing-nasa-ya-estan-casa-1449315'>Después de nueve meses, los astronautas náufragos de Boeing ya están casa</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-boeing-nasa-ya-estan-casa-1449315' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despues-nueve-meses-astronautas-naufragos-ya-estan-casa-4305300.jpg?tf=1200x' alt='Después de nueve meses, los astronautas náufragos de Boeing ya están casa' />
     </a>
 </div>
 
