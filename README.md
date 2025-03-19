@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548'>Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidad-windows-4305702.jpg?tf=1200x' alt='Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-1449309'>WhatsApp más Bizum, una estafa explosiva que arrasa en España: "Estoy intentando y no me funciona"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-1449309' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-bizum-estafa-explosiva-arrasa-espana-estoy-intentando-no-me-funciona-4305312.jpg?tf=1200x' alt='WhatsApp más Bizum, una estafa explosiva que arrasa en España: "Estoy intentando y no me funciona"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452'>Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-4305529.jpg?tf=1200x' alt='Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-1449311'>Es una de las mejores películas anime de todos los tiempos, según la crítica, y puedes verla en Movistar Plus+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-1449311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-4305313.jpg?tf=1200x' alt='Es una de las mejores películas anime de todos los tiempos, según la crítica, y puedes verla en Movistar Plus+' />
     </a>
 </div>
 
