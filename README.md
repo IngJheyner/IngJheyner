@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/peor-teclado-mundo-tiene-1020-teclas-usa-palabras-vez-letras-1449359'>El peor teclado del mundo tiene 1.020 teclas y usa palabras en vez de letras</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/peor-teclado-mundo-tiene-1020-teclas-usa-palabras-vez-letras-1449359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peor-teclado-mundo-tienen-1000-teclas-usa-palabras-vez-letras-4305323.jpg?tf=1200x' alt='El peor teclado del mundo tiene 1.020 teclas y usa palabras en vez de letras' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-boeing-nasa-ya-estan-casa-1449315'>Después de nueve meses, los astronautas náufragos de Boeing ya están casa</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-boeing-nasa-ya-estan-casa-1449315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despues-nueve-meses-astronautas-naufragos-ya-estan-casa-4305300.jpg?tf=1200x' alt='Después de nueve meses, los astronautas náufragos de Boeing ya están casa' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/errores-novato-he-cometido-desmontar-mi-pc-no-deberias-repetir-1442288'>Errores de novato que he cometido al desmontar mi PC y que no deberías repetir</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/errores-novato-he-cometido-desmontar-mi-pc-no-deberias-repetir-1442288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desmontaje-piezas-ordenador-pc-4293554.jpg?tf=1200x' alt='Errores de novato que he cometido al desmontar mi PC y que no deberías repetir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-lanzan-ultimatum-no-nos-permiten-carrera-ia-ha-terminado-china-gana-1449169'>Sam Altman y OpenAI lanzan un ultimátum: "Si no nos lo permiten, la carrera por la IA ha terminado", China gana</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-lanzan-ultimatum-no-nos-permiten-carrera-ia-ha-terminado-china-gana-1449169' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-openai-hacen-saltar-alarmas-no-nos-permiten-carrera-ia-ha-terminado-china-gana-4305074.jpg?tf=1200x' alt='Sam Altman y OpenAI lanzan un ultimátum: "Si no nos lo permiten, la carrera por la IA ha terminado", China gana' />
     </a>
 </div>
 
