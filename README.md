@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-mata-oficialmente-windows-10-empieza-enviar-advertencias-final-1449550'>Microsoft "mata" oficialmente a Windows 10 y empieza a enviar advertencias sobre su final</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-mata-oficialmente-windows-10-empieza-enviar-advertencias-final-1449550' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-windows-4305705.jpg?tf=1200x' alt='Microsoft "mata" oficialmente a Windows 10 y empieza a enviar advertencias sobre su final' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-gemini-ya-puede-usar-cuenta-funciona-modo-anonimo-1449549'>Google Gemini ya se puede usar sin cuenta: así funciona el modo anónimo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-gemini-ya-puede-usar-cuenta-funciona-modo-anonimo-1449549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4305703.jpg?tf=1200x' alt='Google Gemini ya se puede usar sin cuenta: así funciona el modo anónimo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548'>Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidad-windows-4305702.jpg?tf=1200x' alt='Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-1449510'>Marte podría lograr juntar en una misma sala a Elon Musk y Vladímir Putin: ¿está el mundo preparado?</a></h4>
     <a href='https://computerhoy.20minutos.es/life/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-1449510' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/marte-podria-lograr-juntar-misma-sala-elon-musk-vladimir-putin-mundo-preparado-4305687.jpg?tf=1200x' alt='Marte podría lograr juntar en una misma sala a Elon Musk y Vladímir Putin: ¿está el mundo preparado?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/adios-firestick-alternativa-xiaomi-sirve-instalar-cualquier-aplicacion-vpn-plex-1449426'>Adiós al Firestick: esta alternativa de Xiaomi sirve para instalar cualquier aplicación, VPN, Plex y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/adios-firestick-alternativa-xiaomi-sirve-instalar-cualquier-aplicacion-vpn-plex-1449426' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/08/xiaomi-mi-tv-box-s-2429725.jpg?tf=1200x' alt='Adiós al Firestick: esta alternativa de Xiaomi sirve para instalar cualquier aplicación, VPN, Plex y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452'>Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-4305529.jpg?tf=1200x' alt='Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"' />
     </a>
 </div>
 
