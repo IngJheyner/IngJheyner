@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-1449171'>Un estudio alerta de los peligros de los móviles y redes sociales entre la generación Z: "Es peor de lo que se esperaba"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-1449171' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-4305073.jpg?tf=1200x' alt='Un estudio alerta de los peligros de los móviles y redes sociales entre la generación Z: "Es peor de lo que se esperaba"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-impactado-superinteligencia-artificial-leccion-humildad-1449095'>Sam Altman impactado por la superinteligencia artificial: "Es una lección de humildad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-impactado-superinteligencia-artificial-leccion-humildad-1449095' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304981.jpg?tf=1200x' alt='Sam Altman impactado por la superinteligencia artificial: "Es una lección de humildad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299'>Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-4305282.jpg?tf=1200x' alt='Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261'>Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-1449261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-siembra-terror-nasa-crueldad-insensibilidad-4305246.jpg?tf=1200x' alt='Elon Musk siembra el terror en la NASA: "Crueldad e insensibilidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-costaria-2000-euros-apple-tiene-claro-motivo-1449274'>El primer iPhone plegable costaría más de 2.000 euros y Apple tiene claro el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/primer-iphone-plegable-costaria-2000-euros-apple-tiene-claro-motivo-1449274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-plegable-4305248.jpg?tf=1200x' alt='El primer iPhone plegable costaría más de 2.000 euros y Apple tiene claro el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-prepara-futuro-nueva-funcion-podria-hacerte-olvidar-waze-apple-maps-1449272'>Google Maps se prepara para el futuro: la nueva función que podría hacerte olvidar Waze y Apple Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-prepara-futuro-nueva-funcion-podria-hacerte-olvidar-waze-apple-maps-1449272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-android-auto-4305243.jpg?tf=1200x' alt='Google Maps se prepara para el futuro: la nueva función que podría hacerte olvidar Waze y Apple Maps' />
     </a>
 </div>
 
