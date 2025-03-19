@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-boeing-nasa-ya-estan-casa-1449315'>Después de nueve meses, los astronautas náufragos de Boeing ya están casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/astronautas-naufragos-boeing-nasa-ya-estan-casa-1449315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despues-nueve-meses-astronautas-naufragos-ya-estan-casa-4305300.jpg?tf=1200x' alt='Después de nueve meses, los astronautas náufragos de Boeing ya están casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/vuelco-precio-ps5-pro-oferta-aliexpress-codigo-descuento-1449313'>Vuelco al precio de PS5 Pro: la consola más buscada hunde su precio, y solo necesitas un pequeño truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/vuelco-precio-ps5-pro-oferta-aliexpress-codigo-descuento-1449313' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/playstation-5-pro-ps5-pro-4286670.jpg?tf=1200x' alt='Vuelco al precio de PS5 Pro: la consola más buscada hunde su precio, y solo necesitas un pequeño truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/esencial-nothing-phone-3a-interior-no-he-visto-ningun-movil-android-1448405'>Lo esencial del Nothing Phone (3a) está en su interior y no lo he visto en ningún móvil Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/esencial-nothing-phone-3a-interior-no-he-visto-ningun-movil-android-1448405' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nothing-phone-3a-sistema-operativo-4304080.jpg?tf=1200x' alt='Lo esencial del Nothing Phone (3a) está en su interior y no lo he visto en ningún móvil Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/errores-novato-he-cometido-desmontar-mi-pc-no-deberias-repetir-1442288'>Errores de novato que he cometido al desmontar mi PC y que no deberías repetir</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/errores-novato-he-cometido-desmontar-mi-pc-no-deberias-repetir-1442288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/desmontaje-piezas-ordenador-pc-4293554.jpg?tf=1200x' alt='Errores de novato que he cometido al desmontar mi PC y que no deberías repetir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-lanzan-ultimatum-no-nos-permiten-carrera-ia-ha-terminado-china-gana-1449169'>Sam Altman y OpenAI lanzan un ultimátum: "Si no nos lo permiten, la carrera por la IA ha terminado", China gana</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-openai-lanzan-ultimatum-no-nos-permiten-carrera-ia-ha-terminado-china-gana-1449169' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-openai-hacen-saltar-alarmas-no-nos-permiten-carrera-ia-ha-terminado-china-gana-4305074.jpg?tf=1200x' alt='Sam Altman y OpenAI lanzan un ultimátum: "Si no nos lo permiten, la carrera por la IA ha terminado", China gana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reconocido-experto-mundial-ia-hace-saltar-todas-alarmas-acerca-hora-oscura-1449057'>Reconocido experto mundial en IA hace saltar todas las alarmas: "Se acerca nuestra hora más oscura"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reconocido-experto-mundial-ia-hace-saltar-todas-alarmas-acerca-hora-oscura-1449057' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dave-shapiro-ia-4305175.jpg?tf=1200x' alt='Reconocido experto mundial en IA hace saltar todas las alarmas: "Se acerca nuestra hora más oscura"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-1449171'>Un estudio alerta de los peligros de los móviles y redes sociales entre la generación Z: "Es peor de lo que se esperaba"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-1449171' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-alerta-peligros-moviles-redes-sociales-generacion-z-peor-esperaba-4305073.jpg?tf=1200x' alt='Un estudio alerta de los peligros de los móviles y redes sociales entre la generación Z: "Es peor de lo que se esperaba"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-impactado-superinteligencia-artificial-leccion-humildad-1449095'>Sam Altman impactado por la superinteligencia artificial: "Es una lección de humildad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-impactado-superinteligencia-artificial-leccion-humildad-1449095' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4304981.jpg?tf=1200x' alt='Sam Altman impactado por la superinteligencia artificial: "Es una lección de humildad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299'>Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-1449299' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/quien-wiz-compania-google-ha-pagado-cifra-record-32000-millones-dolares-4305282.jpg?tf=1200x' alt='Quién es Wiz, la compañía por la que Google ha pagado su cifra récord: 32.000 millones de dólares' />
     </a>
 </div>
 
