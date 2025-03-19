@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452'>Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-1449452' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-quiere-usar-ia-eliminar-cancer-videojuegos-recuperar-juego-humanos-4305529.jpg?tf=1200x' alt='Sam Altman quiere usar la IA para eliminar el "cáncer" de los videojuegos: "Recuperar el juego para los humanos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-1449311'>Es una de las mejores películas anime de todos los tiempos, según la crítica, y puedes verla en Movistar Plus+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-1449311' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejores-peliculas-anime-todos-tiempos-critica-puedes-verla-movistar-plus-4305313.jpg?tf=1200x' alt='Es una de las mejores películas anime de todos los tiempos, según la crítica, y puedes verla en Movistar Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/adios-numeros-tarjetas-credito-funcionaran-partir-ahora-1449493'>Adiós a los números de las tarjetas de crédito, así funcionarán a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/adios-numeros-tarjetas-credito-funcionaran-partir-ahora-1449493' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tarjeta-credito-mastercard-numeros-4305606.jpg?tf=1200x' alt='Adiós a los números de las tarjetas de crédito, así funcionarán a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nace-primer-periodico-realizado-integramente-inteligencia-artificial-periodistas-solo-hacen-preguntas-ia-1449444'>Nace el primer periódico realizado íntegramente con inteligencia artificial: "Los periodistas solo hacen preguntas a la IA"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nace-primer-periodico-realizado-integramente-inteligencia-artificial-periodistas-solo-hacen-preguntas-ia-1449444' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/periodico-escrito-ia-4305534.jpg?tf=1200x' alt='Nace el primer periódico realizado íntegramente con inteligencia artificial: "Los periodistas solo hacen preguntas a la IA"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-1449492'>El escudo antipiratería contra las IPTV y el fútbol gratis se actualiza: así funcionará a partir de ahora</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-1449492' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/escudo-antipirateria-iptv-futbol-gratis-actualiza-funcionara-partir-ahora-4305623.jpg?tf=1200x' alt='El escudo antipiratería contra las IPTV y el fútbol gratis se actualiza: así funcionará a partir de ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-1449439'>Ni ChatGPT ni Gemini: esta es la IA que quiere controlar todo tu escritorio con la voz</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-1449439' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chatgpt-ni-gemini-ia-quiere-controlar-todo-escritorio-voz-4305510.jpg?tf=1200x' alt='Ni ChatGPT ni Gemini: esta es la IA que quiere controlar todo tu escritorio con la voz' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-hazmerreir-mundo-genio-supertonto-1448869'>Elon Musk YA es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-hazmerreir-mundo-genio-supertonto-1448869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-empresa-tesla-4304617.jpg?tf=1200x' alt='Elon Musk YA es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/adios-windows-convertir-movil-android-pc-linux-1449475'>Adiós Windows, podrás convertir tu móvil Android en un PC de escritorio con Linux</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/adios-windows-convertir-movil-android-pc-linux-1449475' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sistema-operativo-linux-moviles-android-4305556.jpg?tf=1200x' alt='Adiós Windows, podrás convertir tu móvil Android en un PC de escritorio con Linux' />
     </a>
 </div>
 
