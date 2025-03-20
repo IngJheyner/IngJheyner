@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/linux-puede-ejecutar-cualquier-juego-steam-truco-1446546'>Linux puede ejecutar cualquier juego de Steam con este truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/linux-puede-ejecutar-cualquier-juego-steam-truco-1446546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-gaming-linux-steam-4300753.jpg?tf=1200x' alt='Linux puede ejecutar cualquier juego de Steam con este truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-europa-muere-baterias-categoria-b-tiempos-carga-eternos-1449727'>El coche eléctrico en Europa se muere: baterías de categoría B y tiempos de carga eternos</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-europa-muere-baterias-categoria-b-tiempos-carga-eternos-1449727' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-europa-muere-baterias-categoria-b-tiempos-carga-eternos-4306035.jpg?tf=1200x' alt='El coche eléctrico en Europa se muere: baterías de categoría B y tiempos de carga eternos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-1449638'>Las alucinaciones de la IA se convierten en un grave problema para OpenAI: ChatGPT inventó un asesino falso y lo encarceló</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-1449638' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-4305882.jpg?tf=1200x' alt='Las alucinaciones de la IA se convierten en un grave problema para OpenAI: ChatGPT inventó un asesino falso y lo encarceló' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677'>Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-arde-violentos-ataques-tesla-inundan-redes-4305905.jpg?tf=1200x' alt='Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-mira-google-razon-chatgpt-ha-crecido-tanto-ultimos-meses-1449698'>Sam Altman ya mira a Google: la razón por la que ChatGPT ha crecido tanto en los últimos meses</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-mira-google-razon-chatgpt-ha-crecido-tanto-ultimos-meses-1449698' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-ya-mira-google-razon-chatgpt-ha-crecido-tanto-ultimos-meses-4305930.jpg?tf=1200x' alt='Sam Altman ya mira a Google: la razón por la que ChatGPT ha crecido tanto en los últimos meses' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ia-miedo-impulsa-muchos-trabajadores-sabotear-inteligencia-artificial-1449724'>Giro de 180 grados en la IA, el miedo impulsa a muchos trabajadores a sabotear a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ia-miedo-impulsa-muchos-trabajadores-sabotear-inteligencia-artificial-1449724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-gen-z-trabajo-4305980.jpg?tf=1200x' alt='Giro de 180 grados en la IA, el miedo impulsa a muchos trabajadores a sabotear a la inteligencia artificial' />
     </a>
 </div>
 
