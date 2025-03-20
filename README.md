@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/telescopio-euclid-hace-historia-primeros-hallazgos-confirman-einstein-revelan-pistas-clave-materia-oscura-1449649'>El telescopio Euclid hace historia: sus primeros hallazgos confirman a Einstein y revelan pistas clave sobre la materia oscura</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/telescopio-euclid-hace-historia-primeros-hallazgos-confirman-einstein-revelan-pistas-clave-materia-oscura-1449649' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/red-cosmos-4305890.jpg?tf=1200x' alt='El telescopio Euclid hace historia: sus primeros hallazgos confirman a Einstein y revelan pistas clave sobre la materia oscura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/startup-europea-microsoft-unen-openai-quieren-simular-razonamiento-cerebro-humano-1449666'>Una startup europea y Microsoft se unen contra OpenAI: quieren simular el razonamiento del cerebro humano</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/startup-europea-microsoft-unen-openai-quieren-simular-razonamiento-cerebro-humano-1449666' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305925.jpg?tf=1200x' alt='Una startup europea y Microsoft se unen contra OpenAI: quieren simular el razonamiento del cerebro humano' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/he-probado-4-vpn-todas-me-sirven-ocultar-mi-ip-alguna-cuesta-apenas-2-euros-1449102'>He probado 4 VPN y todas me sirven para ocultar mi IP: alguna cuesta apenas 2 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/he-probado-4-vpn-todas-me-sirven-ocultar-mi-ip-alguna-cuesta-apenas-2-euros-1449102' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/router-wifi-4304956.jpg?tf=1200x' alt='He probado 4 VPN y todas me sirven para ocultar mi IP: alguna cuesta apenas 2 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-sistema-operativo-favorito-microsoft-windows-10-1449768'>Apple se frota las manos, ya tiene su sistema operativo favorito de Microsoft: Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-tiene-sistema-operativo-favorito-microsoft-windows-10-1449768' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-hace-apple-gane-dinero-mac-4306026.jpg?tf=1200x' alt='Apple se frota las manos, ya tiene su sistema operativo favorito de Microsoft: Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/linux-puede-ejecutar-cualquier-juego-steam-truco-1446546'>Linux puede ejecutar cualquier juego de Steam con este truco</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/linux-puede-ejecutar-cualquier-juego-steam-truco-1446546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-gaming-linux-steam-4300753.jpg?tf=1200x' alt='Linux puede ejecutar cualquier juego de Steam con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/coche-electrico-europa-muere-baterias-categoria-b-tiempos-carga-eternos-1449727'>El coche eléctrico en Europa se muere: baterías de categoría B y tiempos de carga eternos</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/coche-electrico-europa-muere-baterias-categoria-b-tiempos-carga-eternos-1449727' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coche-electrico-europa-muere-baterias-categoria-b-tiempos-carga-eternos-4306035.jpg?tf=1200x' alt='El coche eléctrico en Europa se muere: baterías de categoría B y tiempos de carga eternos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-1449638'>Las alucinaciones de la IA se convierten en un grave problema para OpenAI: ChatGPT inventó un asesino falso y lo encarceló</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-1449638' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-4305882.jpg?tf=1200x' alt='Las alucinaciones de la IA se convierten en un grave problema para OpenAI: ChatGPT inventó un asesino falso y lo encarceló' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-quiere-demostrarte-ordenador-apesta-deberias-cambiarlo-1449741'>Windows 11 quiere demostrarte que tu ordenador “apesta” y por qué deberías cambiarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-quiere-demostrarte-ordenador-apesta-deberias-cambiarlo-1449741' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-mal-rendimiento-4305981.jpg?tf=1200x' alt='Windows 11 quiere demostrarte que tu ordenador “apesta” y por qué deberías cambiarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677'>Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-arde-violentos-ataques-tesla-inundan-redes-4305905.jpg?tf=1200x' alt='Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes' />
     </a>
 </div>
 
