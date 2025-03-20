@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-ya-habla-abiertamente-conspiracion-tesla-nunca-habia-visto-nada-igual-1449377'>Elon Musk ya habla abiertamente de conspiración contra Tesla: "Nunca había visto nada igual"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-ya-habla-abiertamente-conspiracion-tesla-nunca-habia-visto-nada-igual-1449377' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305405.jpg?tf=1200x' alt='Elon Musk ya habla abiertamente de conspiración contra Tesla: "Nunca había visto nada igual"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/celebrities-enfrentan-chatgpt-no-salen-bien-paradas-cambios-cadena-comida-rapida-1449409'>Las celebrities se enfrentan a ChatGPT y no salen bien paradas: "Más cambios que una cadena de comida rápida"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/celebrities-enfrentan-chatgpt-no-salen-bien-paradas-cambios-cadena-comida-rapida-1449409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/demi-lovato-tiktok-4305512.jpg?tf=1200x' alt='Las celebrities se enfrentan a ChatGPT y no salen bien paradas: "Más cambios que una cadena de comida rápida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-moviles-ni-redes-sociales-expertos-avisan-consumes-diario-machando-cerebro-1449412'>Ni los móviles ni las redes sociales, los expertos avisan: lo consumes a diario y está machando tu cerebro</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-moviles-ni-redes-sociales-expertos-avisan-consumes-diario-machando-cerebro-1449412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cerebro-ia-4305504.jpg?tf=1200x' alt='Ni los móviles ni las redes sociales, los expertos avisan: lo consumes a diario y está machando tu cerebro' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-peligro-wifi-publico-como-tener-casa-paredes-1449323'>Experta en ciberseguridad alerta del peligro del WiFi público: "Es como tener una casa sin paredes"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-peligro-wifi-publico-como-tener-casa-paredes-1449323' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-alerta-peligro-wifi-publico-como-tener-casa-paredes-4305324.jpg?tf=1200x' alt='Experta en ciberseguridad alerta del peligro del WiFi público: "Es como tener una casa sin paredes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/joystick-adaptable-xbox-ya-disponible-personas-movilidad-reducida-pc-1449571'>El joystick adaptable de Xbox ya está disponible para las personas con movilidad reducida, también en PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/joystick-adaptable-xbox-ya-disponible-personas-movilidad-reducida-pc-1449571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/joystick-adaptable-xbox-ya-disponible-personas-movilidad-reducida-tambien-pc-4305724.jpg?tf=1200x' alt='El joystick adaptable de Xbox ya está disponible para las personas con movilidad reducida, también en PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-1449538'>Ingeniero aeroespacial explica qué pasaría si una ventana del avión se rompe en pleno vuelo: "Saldría de tu cuerpo aunque no quieras"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-1449538' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-4305716.jpg?tf=1200x' alt='Ingeniero aeroespacial explica qué pasaría si una ventana del avión se rompe en pleno vuelo: "Saldría de tu cuerpo aunque no quieras"' />
     </a>
 </div>
 
