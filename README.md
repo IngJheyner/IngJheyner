@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-mejor-app-ver-canales-tv-gratis-actualiza-muchas-mejoras-mejor-experiencia-android-1449830'>TDTChannels, la mejor app para ver canales de TV gratis, se actualiza: muchas mejoras y mejor experiencia en Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-mejor-app-ver-canales-tv-gratis-actualiza-muchas-mejoras-mejor-experiencia-android-1449830' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver canales de TV gratis, se actualiza: muchas mejoras y mejor experiencia en Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-estrena-verificador-tpm-puedes-saber-equipo-listo-dejar-windows-10-1449829'>Windows 11 24H2 estrena un verificador de TPM: así puedes saber si tu equipo está listo para dejar Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-estrena-verificador-tpm-puedes-saber-equipo-listo-dejar-windows-10-1449829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4306142.jpg?tf=1200x' alt='Windows 11 24H2 estrena un verificador de TPM: así puedes saber si tu equipo está listo para dejar Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-saca-cuchillos-cuando-quitas-dinero-fraudulento-enfadan-mucho-1449797'>Elon Musk se cansa y saca los cuchillos: "Cuando les quitas el dinero fraudulento, se enfadan mucho"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-saca-cuchillos-cuando-quitas-dinero-fraudulento-enfadan-mucho-1449797' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-cansa-saca-cuchillos-cuando-quitas-dinero-fraudulento-enfadan-mucho-4306129.jpg?tf=1200x' alt='Elon Musk se cansa y saca los cuchillos: "Cuando les quitas el dinero fraudulento, se enfadan mucho"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-no-convence-critica-peliculas-robots-netflix-dan-mil-vueltas-1449584'>Estado eléctrico no convence a la crítica: 5 películas de robots de Netflix que le dan mil vueltas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-no-convence-critica-peliculas-robots-netflix-dan-mil-vueltas-1449584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-electrico-4303844.jpg?tf=1200x' alt='Estado eléctrico no convence a la crítica: 5 películas de robots de Netflix que le dan mil vueltas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-afirmar-inteligencia-artificial-muy-cerca-aprobar-ultimo-examen-humanidad-1449689'>Expertos en IA afirmar que la inteligencia artificial está muy cerca de aprobar "el último examen de la humanidad"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-afirmar-inteligencia-artificial-muy-cerca-aprobar-ultimo-examen-humanidad-1449689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305932.jpg?tf=1200x' alt='Expertos en IA afirmar que la inteligencia artificial está muy cerca de aprobar "el último examen de la humanidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-1449667'>Piden a EEUU que devuelva la Estatua de la Libertad: "Si no fuera por nosotros, hablaríais alemán"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-1449667' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-4305910.jpg?tf=1200x' alt='Piden a EEUU que devuelva la Estatua de la Libertad: "Si no fuera por nosotros, hablaríais alemán"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-advierte-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784'>El FBI advierte a los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-advierte-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fbi-detecta-virus-navegadores-como-google-chrome-4306073.jpg?tf=1200x' alt='El FBI advierte a los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/golpe-iptv-cardsharing-cae-mayores-redes-contenidos-ilegales-operaba-espana-1449711'>Golpe a las IPTV y el cardsharing: cae una de las mayores redes de contenidos ilegales que operaba en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/golpe-iptv-cardsharing-cae-mayores-redes-contenidos-ilegales-operaba-espana-1449711' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-4305961.jpg?tf=1200x' alt='Golpe a las IPTV y el cardsharing: cae una de las mayores redes de contenidos ilegales que operaba en España' />
     </a>
 </div>
 
