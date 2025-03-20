@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/joystick-adaptable-xbox-ya-disponible-personas-movilidad-reducida-pc-1449571'>El joystick adaptable de Xbox ya está disponible para las personas con movilidad reducida, también en PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/joystick-adaptable-xbox-ya-disponible-personas-movilidad-reducida-pc-1449571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/joystick-adaptable-xbox-ya-disponible-personas-movilidad-reducida-tambien-pc-4305724.jpg?tf=1200x' alt='El joystick adaptable de Xbox ya está disponible para las personas con movilidad reducida, también en PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-1449538'>Ingeniero aeroespacial explica qué pasaría si una ventana del avión se rompe en pleno vuelo: "Saldría de tu cuerpo aunque no quieras"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-1449538' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ingeniero-aeroespacial-explica-pasaria-ventana-avion-rompe-pleno-vuelo-saldria-cuerpo-aunque-no-quieras-4305716.jpg?tf=1200x' alt='Ingeniero aeroespacial explica qué pasaría si una ventana del avión se rompe en pleno vuelo: "Saldría de tu cuerpo aunque no quieras"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-gemini-ya-puede-usar-cuenta-funciona-modo-anonimo-1449549'>Google Gemini ya se puede usar sin cuenta: así funciona el modo anónimo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-gemini-ya-puede-usar-cuenta-funciona-modo-anonimo-1449549' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-ai-4305703.jpg?tf=1200x' alt='Google Gemini ya se puede usar sin cuenta: así funciona el modo anónimo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548'>Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hackers-llevan-8-anos-explotando-error-windows-microsoft-no-piensa-hacer-nada-solucionarlo-1449548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vulnerabilidad-windows-4305702.jpg?tf=1200x' alt='Hackers llevan 8 años explotando un error de Windows y Microsoft no piensa hacer nada por solucionarlo' />
     </a>
 </div>
 
