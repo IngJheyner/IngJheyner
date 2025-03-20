@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-1449595'>Cataluña activa un canal de WhatsApp con alertas de estafas en tiempo real y así puedes unirte</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-1449595' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-4305762.jpg?tf=1200x' alt='Cataluña activa un canal de WhatsApp con alertas de estafas en tiempo real y así puedes unirte' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/acabo-tender-ropa-casa-secadora-portatil-va-ser-mi-salvavidas-invierno-1449153'>Se acabó tender la ropa en casa: esta secadora portátil va a ser mi salvavidas en este invierno</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/acabo-tender-ropa-casa-secadora-portatil-va-ser-mi-salvavidas-invierno-1449153' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/secadora-ropa-4305055.jpg?tf=1200x' alt='Se acabó tender la ropa en casa: esta secadora portátil va a ser mi salvavidas en este invierno' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-github-codigo-incluye-software-malicioso-roba-credenciales-infecta-equipo-1442989'>La estafa de GitHub: "El código incluye software malicioso que roba credenciales o infecta tu equipo"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-github-codigo-incluye-software-malicioso-roba-credenciales-infecta-equipo-1442989' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-github-3281322.jpg?tf=1200x' alt='La estafa de GitHub: "El código incluye software malicioso que roba credenciales o infecta tu equipo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-ya-habla-abiertamente-conspiracion-tesla-nunca-habia-visto-nada-igual-1449377'>Elon Musk ya habla abiertamente de conspiración contra Tesla: "Nunca había visto nada igual"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-ya-habla-abiertamente-conspiracion-tesla-nunca-habia-visto-nada-igual-1449377' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305405.jpg?tf=1200x' alt='Elon Musk ya habla abiertamente de conspiración contra Tesla: "Nunca había visto nada igual"' />
     </a>
 </div>
 
