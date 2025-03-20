@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/acabo-tender-ropa-casa-secadora-portatil-va-ser-mi-salvavidas-invierno-1449153'>Se acabó tender la ropa en casa: esta secadora portátil va a ser mi salvavidas en este invierno</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/acabo-tender-ropa-casa-secadora-portatil-va-ser-mi-salvavidas-invierno-1449153' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/secadora-ropa-4305055.jpg?tf=1200x' alt='Se acabó tender la ropa en casa: esta secadora portátil va a ser mi salvavidas en este invierno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/considerada-peores-adaptaciones-anime-todos-tiempos-pero-ha-convertido-visto-netflix-1449581'>Está considerada una de las peores adaptaciones de un anime de todos los tiempos, pero se ha convertido en lo más visto de Netflix</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/considerada-peores-adaptaciones-anime-todos-tiempos-pero-ha-convertido-visto-netflix-1449581' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/considerada-peores-adaptaciones-anime-todos-tiempos-pero-ha-convertido-visto-netflix-4305750.jpg?tf=1200x' alt='Está considerada una de las peores adaptaciones de un anime de todos los tiempos, pero se ha convertido en lo más visto de Netflix' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/google-suele-imitar-apple-pero-iphone-16e-ha-sido-reves-parecidos-popular-pixel-1445048'>Google suele imitar a Apple, pero con el iPhone 16e ha sido al revés: los parecidos con este popular Pixel</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/google-suele-imitar-apple-pero-iphone-16e-ha-sido-reves-parecidos-popular-pixel-1445048' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-google-pixel-4305115.jpg?tf=1200x' alt='Google suele imitar a Apple, pero con el iPhone 16e ha sido al revés: los parecidos con este popular Pixel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-github-codigo-incluye-software-malicioso-roba-credenciales-infecta-equipo-1442989'>La estafa de GitHub: "El código incluye software malicioso que roba credenciales o infecta tu equipo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-github-codigo-incluye-software-malicioso-roba-credenciales-infecta-equipo-1442989' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-github-3281322.jpg?tf=1200x' alt='La estafa de GitHub: "El código incluye software malicioso que roba credenciales o infecta tu equipo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-ya-habla-abiertamente-conspiracion-tesla-nunca-habia-visto-nada-igual-1449377'>Elon Musk ya habla abiertamente de conspiración contra Tesla: "Nunca había visto nada igual"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-ya-habla-abiertamente-conspiracion-tesla-nunca-habia-visto-nada-igual-1449377' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4305405.jpg?tf=1200x' alt='Elon Musk ya habla abiertamente de conspiración contra Tesla: "Nunca había visto nada igual"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/celebrities-enfrentan-chatgpt-no-salen-bien-paradas-cambios-cadena-comida-rapida-1449409'>Las celebrities se enfrentan a ChatGPT y no salen bien paradas: "Más cambios que una cadena de comida rápida"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/celebrities-enfrentan-chatgpt-no-salen-bien-paradas-cambios-cadena-comida-rapida-1449409' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/demi-lovato-tiktok-4305512.jpg?tf=1200x' alt='Las celebrities se enfrentan a ChatGPT y no salen bien paradas: "Más cambios que una cadena de comida rápida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-moviles-ni-redes-sociales-expertos-avisan-consumes-diario-machando-cerebro-1449412'>Ni los móviles ni las redes sociales, los expertos avisan: lo consumes a diario y está machando tu cerebro</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-moviles-ni-redes-sociales-expertos-avisan-consumes-diario-machando-cerebro-1449412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cerebro-ia-4305504.jpg?tf=1200x' alt='Ni los móviles ni las redes sociales, los expertos avisan: lo consumes a diario y está machando tu cerebro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/comunidad-madrid-prohibe-uso-individual-tablets-portatiles-colegios-publicos-1449578'>La Comunidad de Madrid prohíbe el uso individual de tablets y portátiles en los colegios públicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/comunidad-madrid-prohibe-uso-individual-tablets-portatiles-colegios-publicos-1449578' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/comunidad-madrid-prohibe-uso-tablets-portatiles-colegios-publicos-4305744.jpg?tf=1200x' alt='La Comunidad de Madrid prohíbe el uso individual de tablets y portátiles en los colegios públicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-peligro-wifi-publico-como-tener-casa-paredes-1449323'>Experta en ciberseguridad alerta del peligro del WiFi público: "Es como tener una casa sin paredes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-alerta-peligro-wifi-publico-como-tener-casa-paredes-1449323' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-alerta-peligro-wifi-publico-como-tener-casa-paredes-4305324.jpg?tf=1200x' alt='Experta en ciberseguridad alerta del peligro del WiFi público: "Es como tener una casa sin paredes"' />
     </a>
 </div>
 
