@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-compras-disco-duro-son-tan-baratos-podria-ser-estafa-1449614'>Cuidado si compras un disco duro: son tan baratos que podría ser una estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-compras-disco-duro-son-tan-baratos-podria-ser-estafa-1449614' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-compras-disco-duro-son-tan-baratos-podria-ser-estafa-4305798.jpg?tf=1200x' alt='Cuidado si compras un disco duro: son tan baratos que podría ser una estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-1449595'>Cataluña activa un canal de WhatsApp con alertas de estafas en tiempo real y así puedes unirte</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-1449595' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-4305762.jpg?tf=1200x' alt='Cataluña activa un canal de WhatsApp con alertas de estafas en tiempo real y así puedes unirte' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/google-suele-imitar-apple-pero-iphone-16e-ha-sido-reves-parecidos-popular-pixel-1445048'>Google suele imitar a Apple, pero con el iPhone 16e ha sido al revés: los parecidos con este popular Pixel</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/google-suele-imitar-apple-pero-iphone-16e-ha-sido-reves-parecidos-popular-pixel-1445048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-google-pixel-4305115.jpg?tf=1200x' alt='Google suele imitar a Apple, pero con el iPhone 16e ha sido al revés: los parecidos con este popular Pixel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-github-codigo-incluye-software-malicioso-roba-credenciales-infecta-equipo-1442989'>La estafa de GitHub: "El código incluye software malicioso que roba credenciales o infecta tu equipo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-github-codigo-incluye-software-malicioso-roba-credenciales-infecta-equipo-1442989' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/ciberseguridad-github-3281322.jpg?tf=1200x' alt='La estafa de GitHub: "El código incluye software malicioso que roba credenciales o infecta tu equipo"' />
     </a>
 </div>
 
