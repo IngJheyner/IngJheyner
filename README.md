@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/pavel-durov-celebra-exito-telegram-llamando-whatsapp-imitacion-barata-1449833'>Pavel Durov celebra el éxito de Telegram llamando a WhatsApp una "imitación barata"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/pavel-durov-celebra-exito-telegram-llamando-whatsapp-imitacion-barata-1449833' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pavel-durov-4306145.jpg?tf=1200x' alt='Pavel Durov celebra el éxito de Telegram llamando a WhatsApp una "imitación barata"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-mejor-app-ver-canales-tv-gratis-actualiza-muchas-mejoras-mejor-experiencia-android-1449830'>TDTChannels, la mejor app para ver canales de TV gratis, se actualiza: muchas mejoras y mejor experiencia en Android</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/tdtchannels-mejor-app-ver-canales-tv-gratis-actualiza-muchas-mejoras-mejor-experiencia-android-1449830' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver canales de TV gratis, se actualiza: muchas mejoras y mejor experiencia en Android' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-no-convence-critica-peliculas-robots-netflix-dan-mil-vueltas-1449584'>Estado eléctrico no convence a la crítica: 5 películas de robots de Netflix que le dan mil vueltas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-no-convence-critica-peliculas-robots-netflix-dan-mil-vueltas-1449584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-electrico-4303844.jpg?tf=1200x' alt='Estado eléctrico no convence a la crítica: 5 películas de robots de Netflix que le dan mil vueltas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-afirmar-inteligencia-artificial-muy-cerca-aprobar-ultimo-examen-humanidad-1449689'>Expertos en IA afirmar que la inteligencia artificial está muy cerca de aprobar "el último examen de la humanidad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-afirmar-inteligencia-artificial-muy-cerca-aprobar-ultimo-examen-humanidad-1449689' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305932.jpg?tf=1200x' alt='Expertos en IA afirmar que la inteligencia artificial está muy cerca de aprobar "el último examen de la humanidad"' />
     </a>
 </div>
 
