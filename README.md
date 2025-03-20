@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-1449667'>Piden a EEUU que devuelva la Estatua de la Libertad: "Si no fuera por nosotros, hablaríais alemán"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-1449667' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-4305910.jpg?tf=1200x' alt='Piden a EEUU que devuelva la Estatua de la Libertad: "Si no fuera por nosotros, hablaríais alemán"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-advierte-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784'>El FBI advierte a los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-advierte-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fbi-detecta-virus-navegadores-como-google-chrome-4306073.jpg?tf=1200x' alt='El FBI advierte a los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/golpe-iptv-cardsharing-cae-mayores-redes-contenidos-ilegales-operaba-espana-1449711'>Golpe a las IPTV y el cardsharing: cae una de las mayores redes de contenidos ilegales que operaba en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/golpe-iptv-cardsharing-cae-mayores-redes-contenidos-ilegales-operaba-espana-1449711' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-4305961.jpg?tf=1200x' alt='Golpe a las IPTV y el cardsharing: cae una de las mayores redes de contenidos ilegales que operaba en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-flipper-zero-fusionan-crear-autentica-bestia-hackeo-1449776'>Linux y Flipper Zero se fusionan para crear una auténtica bestia del hackeo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-flipper-zero-fusionan-crear-autentica-bestia-hackeo-1449776' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-flipper-zero-fusionan-crear-autentica-bestia-hackeo-4306090.jpg?tf=1200x' alt='Linux y Flipper Zero se fusionan para crear una auténtica bestia del hackeo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/telescopio-euclid-hace-historia-primeros-hallazgos-confirman-einstein-revelan-pistas-clave-materia-oscura-1449649'>El telescopio Euclid hace historia: sus primeros hallazgos confirman a Einstein y revelan pistas clave sobre la materia oscura</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/telescopio-euclid-hace-historia-primeros-hallazgos-confirman-einstein-revelan-pistas-clave-materia-oscura-1449649' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/red-cosmos-4305890.jpg?tf=1200x' alt='El telescopio Euclid hace historia: sus primeros hallazgos confirman a Einstein y revelan pistas clave sobre la materia oscura' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/startup-europea-microsoft-unen-openai-quieren-simular-razonamiento-cerebro-humano-1449666'>Una startup europea y Microsoft se unen contra OpenAI: quieren simular el razonamiento del cerebro humano</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/startup-europea-microsoft-unen-openai-quieren-simular-razonamiento-cerebro-humano-1449666' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305925.jpg?tf=1200x' alt='Una startup europea y Microsoft se unen contra OpenAI: quieren simular el razonamiento del cerebro humano' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/he-probado-4-vpn-todas-me-sirven-ocultar-mi-ip-alguna-cuesta-apenas-2-euros-1449102'>He probado 4 VPN y todas me sirven para ocultar mi IP: alguna cuesta apenas 2 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/he-probado-4-vpn-todas-me-sirven-ocultar-mi-ip-alguna-cuesta-apenas-2-euros-1449102' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/router-wifi-4304956.jpg?tf=1200x' alt='He probado 4 VPN y todas me sirven para ocultar mi IP: alguna cuesta apenas 2 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-sistema-operativo-favorito-microsoft-windows-10-1449768'>Apple se frota las manos, ya tiene su sistema operativo favorito de Microsoft: Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-tiene-sistema-operativo-favorito-microsoft-windows-10-1449768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-hace-apple-gane-dinero-mac-4306026.jpg?tf=1200x' alt='Apple se frota las manos, ya tiene su sistema operativo favorito de Microsoft: Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/linux-puede-ejecutar-cualquier-juego-steam-truco-1446546'>Linux puede ejecutar cualquier juego de Steam con este truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/linux-puede-ejecutar-cualquier-juego-steam-truco-1446546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-gaming-linux-steam-4300753.jpg?tf=1200x' alt='Linux puede ejecutar cualquier juego de Steam con este truco' />
     </a>
 </div>
 
