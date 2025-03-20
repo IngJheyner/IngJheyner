@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/reloj-juicio-final-2025-acerca-medianoche-tecnologia-culpable-1438937'>El Reloj del Juicio Final en 2025: se acerca más a la medianoche, y la tecnología es la culpable</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/reloj-juicio-final-2025-acerca-medianoche-tecnologia-culpable-1438937' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reloj-juicio-final-2025-acerca-medianoche-tecnologia-culpable-4287975.jpg?tf=1200x' alt='El Reloj del Juicio Final en 2025: se acerca más a la medianoche, y la tecnología es la culpable' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-estragos-programadores-menos-cuando-invento-pac-man-1449707'>La IA comienza a hacer estragos entre los programadores: “Hay menos que cuando se inventó Pac-Man”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-estragos-programadores-menos-cuando-invento-pac-man-1449707' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenguajes-programacion-generados-ia-4305953.jpg?tf=1200x' alt='La IA comienza a hacer estragos entre los programadores: “Hay menos que cuando se inventó Pac-Man”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-laliga-decision-comprometida-habra-bloqueos-iptv-fin-semana-1449709'>Javier Tebas y la LaLiga ante su decisión más comprometida: ¿habrá bloqueos a las IPTV este fin de semana?</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-laliga-decision-comprometida-habra-bloqueos-iptv-fin-semana-1449709' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-laliga-iptv-4305967.jpg?tf=1200x' alt='Javier Tebas y la LaLiga ante su decisión más comprometida: ¿habrá bloqueos a las IPTV este fin de semana?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-ensenarlo-ni-firmar-debes-hacer-te-piden-dni-pagar-tarjeta-banco-espana-1447469'>Ni enseñarlo ni firmar, esto debes hacer si te piden el DNI al pagar con tarjeta, según el Banco de España</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-ensenarlo-ni-firmar-debes-hacer-te-piden-dni-pagar-tarjeta-banco-espana-1447469' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-ensenarlo-ni-firmar-debes-hacer-te-piden-dni-pagar-tarjeta-banco-espana-4302367.jpg?tf=1200x' alt='Ni enseñarlo ni firmar, esto debes hacer si te piden el DNI al pagar con tarjeta, según el Banco de España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-2x-rapida-has-visto-jamas-ps4-dentro-ps2-1449673'>Crea la primera "PlayStation 2X", la más rápida que has visto jamás: “Este tipo merece un premio”</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstation-2x-rapida-has-visto-jamas-ps4-dentro-ps2-1449673' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crea-primera-playstation-2x-rapida-has-visto-jamas-tipo-merece-premio-4305812.jpg?tf=1200x' alt='Crea la primera "PlayStation 2X", la más rápida que has visto jamás: “Este tipo merece un premio”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/meta-ai-llega-espana-funciona-asistente-inteligente-revolucionara-whatsapp-facebook-instagram-1449605'>Meta AI llega a España: así funciona el asistente inteligente que revolucionará WhatsApp, Facebook e Instagram</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/meta-ai-llega-espana-funciona-asistente-inteligente-revolucionara-whatsapp-facebook-instagram-1449605' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/meta-ai-4305833.jpg?tf=1200x' alt='Meta AI llega a España: así funciona el asistente inteligente que revolucionará WhatsApp, Facebook e Instagram' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuidado-compras-disco-duro-son-tan-baratos-podria-ser-estafa-1449614'>Cuidado si compras un disco duro: son tan baratos que podría ser una estafa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuidado-compras-disco-duro-son-tan-baratos-podria-ser-estafa-1449614' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-compras-disco-duro-son-tan-baratos-podria-ser-estafa-4305798.jpg?tf=1200x' alt='Cuidado si compras un disco duro: son tan baratos que podría ser una estafa' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-1449595'>Cataluña activa un canal de WhatsApp con alertas de estafas en tiempo real y así puedes unirte</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-1449595' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cataluna-activa-canal-whatsapp-alertas-estafas-tiempo-real-puedes-unirte-4305762.jpg?tf=1200x' alt='Cataluña activa un canal de WhatsApp con alertas de estafas en tiempo real y así puedes unirte' />
     </a>
 </div>
 
