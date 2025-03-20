@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-1449638'>Las alucinaciones de la IA se convierten en un grave problema para OpenAI: ChatGPT inventó un asesino falso y lo encarceló</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-1449638' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/alucinaciones-ia-convierten-grave-problema-openai-chatgpt-invento-asesino-falso-encarcelo-4305882.jpg?tf=1200x' alt='Las alucinaciones de la IA se convierten en un grave problema para OpenAI: ChatGPT inventó un asesino falso y lo encarceló' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-quiere-demostrarte-ordenador-apesta-deberias-cambiarlo-1449741'>Windows 11 quiere demostrarte que tu ordenador “apesta” y por qué deberías cambiarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-quiere-demostrarte-ordenador-apesta-deberias-cambiarlo-1449741' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-mal-rendimiento-4305981.jpg?tf=1200x' alt='Windows 11 quiere demostrarte que tu ordenador “apesta” y por qué deberías cambiarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677'>Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-arde-violentos-ataques-tesla-inundan-redes-4305905.jpg?tf=1200x' alt='Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ia-miedo-impulsa-muchos-trabajadores-sabotear-inteligencia-artificial-1449724'>Giro de 180 grados en la IA, el miedo impulsa a muchos trabajadores a sabotear a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ia-miedo-impulsa-muchos-trabajadores-sabotear-inteligencia-artificial-1449724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-gen-z-trabajo-4305980.jpg?tf=1200x' alt='Giro de 180 grados en la IA, el miedo impulsa a muchos trabajadores a sabotear a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/ni-tesla-ni-chino-coches-electricos-satisfaccion-producen-vienen-alemania-corea-1446947'>Ni Tesla ni chino, los coches eléctricos que más satisfacción producen vienen de Alemania y Corea</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/ni-tesla-ni-chino-coches-electricos-satisfaccion-producen-vienen-alemania-corea-1446947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-4048439.jpg?tf=1200x' alt='Ni Tesla ni chino, los coches eléctricos que más satisfacción producen vienen de Alemania y Corea' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-decide-instalar-starlink-casa-blanca-hace-saltar-todas-alarmas-literalmente-1449699'>Elon Musk decide instalar Starlink en la Casa Blanca y hace saltar todas las alarmas (literalmente)</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-decide-instalar-starlink-casa-blanca-hace-saltar-todas-alarmas-literalmente-1449699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/musk-trump-4305948.jpg?tf=1200x' alt='Elon Musk decide instalar Starlink en la Casa Blanca y hace saltar todas las alarmas (literalmente)' />
     </a>
 </div>
 
