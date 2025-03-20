@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/reloj-juicio-final-2025-acerca-medianoche-tecnologia-culpable-1438937'>El Reloj del Juicio Final en 2025: se acerca más a la medianoche, y la tecnología es la culpable</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/reloj-juicio-final-2025-acerca-medianoche-tecnologia-culpable-1438937' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/reloj-juicio-final-2025-acerca-medianoche-tecnologia-culpable-4287975.jpg?tf=1200x' alt='El Reloj del Juicio Final en 2025: se acerca más a la medianoche, y la tecnología es la culpable' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677'>Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-arde-violentos-ataques-tesla-inundan-redes-1449677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-arde-violentos-ataques-tesla-inundan-redes-4305905.jpg?tf=1200x' alt='Elon Musk está que arde: los violentos ataques contra Tesla que inundan las redes' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-estragos-programadores-menos-cuando-invento-pac-man-1449707'>La IA comienza a hacer estragos entre los programadores: “Hay menos que cuando se inventó Pac-Man”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-estragos-programadores-menos-cuando-invento-pac-man-1449707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lenguajes-programacion-generados-ia-4305953.jpg?tf=1200x' alt='La IA comienza a hacer estragos entre los programadores: “Hay menos que cuando se inventó Pac-Man”' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-mira-google-razon-chatgpt-ha-crecido-tanto-ultimos-meses-1449698'>Sam Altman ya mira a Google: la razón por la que ChatGPT ha crecido tanto en los últimos meses</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-ya-mira-google-razon-chatgpt-ha-crecido-tanto-ultimos-meses-1449698' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-ya-mira-google-razon-chatgpt-ha-crecido-tanto-ultimos-meses-4305930.jpg?tf=1200x' alt='Sam Altman ya mira a Google: la razón por la que ChatGPT ha crecido tanto en los últimos meses' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-laliga-decision-comprometida-habra-bloqueos-iptv-fin-semana-1449709'>Javier Tebas y la LaLiga ante su decisión más comprometida: ¿habrá bloqueos a las IPTV este fin de semana?</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/javier-tebas-laliga-decision-comprometida-habra-bloqueos-iptv-fin-semana-1449709' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-laliga-iptv-4305967.jpg?tf=1200x' alt='Javier Tebas y la LaLiga ante su decisión más comprometida: ¿habrá bloqueos a las IPTV este fin de semana?' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ia-miedo-impulsa-muchos-trabajadores-sabotear-inteligencia-artificial-1449724'>Giro de 180 grados en la IA, el miedo impulsa a muchos trabajadores a sabotear a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-ia-miedo-impulsa-muchos-trabajadores-sabotear-inteligencia-artificial-1449724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-gen-z-trabajo-4305980.jpg?tf=1200x' alt='Giro de 180 grados en la IA, el miedo impulsa a muchos trabajadores a sabotear a la inteligencia artificial' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-ensenarlo-ni-firmar-debes-hacer-te-piden-dni-pagar-tarjeta-banco-espana-1447469'>Ni enseñarlo ni firmar, esto debes hacer si te piden el DNI al pagar con tarjeta, según el Banco de España</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-ensenarlo-ni-firmar-debes-hacer-te-piden-dni-pagar-tarjeta-banco-espana-1447469' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-ensenarlo-ni-firmar-debes-hacer-te-piden-dni-pagar-tarjeta-banco-espana-4302367.jpg?tf=1200x' alt='Ni enseñarlo ni firmar, esto debes hacer si te piden el DNI al pagar con tarjeta, según el Banco de España' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/ni-tesla-ni-chino-coches-electricos-satisfaccion-producen-vienen-alemania-corea-1446947'>Ni Tesla ni chino, los coches eléctricos que más satisfacción producen vienen de Alemania y Corea</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/ni-tesla-ni-chino-coches-electricos-satisfaccion-producen-vienen-alemania-corea-1446947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/sorpresa-mercado-bmw-desbanca-tesla-como-rey-electricos-europa-4048439.jpg?tf=1200x' alt='Ni Tesla ni chino, los coches eléctricos que más satisfacción producen vienen de Alemania y Corea' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstation-2x-rapida-has-visto-jamas-ps4-dentro-ps2-1449673'>Crea la primera "PlayStation 2X", la más rápida que has visto jamás: “Este tipo merece un premio”</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstation-2x-rapida-has-visto-jamas-ps4-dentro-ps2-1449673' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/crea-primera-playstation-2x-rapida-has-visto-jamas-tipo-merece-premio-4305812.jpg?tf=1200x' alt='Crea la primera "PlayStation 2X", la más rápida que has visto jamás: “Este tipo merece un premio”' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-decide-instalar-starlink-casa-blanca-hace-saltar-todas-alarmas-literalmente-1449699'>Elon Musk decide instalar Starlink en la Casa Blanca y hace saltar todas las alarmas (literalmente)</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-decide-instalar-starlink-casa-blanca-hace-saltar-todas-alarmas-literalmente-1449699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/musk-trump-4305948.jpg?tf=1200x' alt='Elon Musk decide instalar Starlink en la Casa Blanca y hace saltar todas las alarmas (literalmente)' />
     </a>
 </div>
 
