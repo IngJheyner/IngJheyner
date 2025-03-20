@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-no-convence-critica-peliculas-robots-netflix-dan-mil-vueltas-1449584'>Estado eléctrico no convence a la crítica: 5 películas de robots de Netflix que le dan mil vueltas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-no-convence-critica-peliculas-robots-netflix-dan-mil-vueltas-1449584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-electrico-4303844.jpg?tf=1200x' alt='Estado eléctrico no convence a la crítica: 5 películas de robots de Netflix que le dan mil vueltas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-afirmar-inteligencia-artificial-muy-cerca-aprobar-ultimo-examen-humanidad-1449689'>Expertos en IA afirmar que la inteligencia artificial está muy cerca de aprobar "el último examen de la humanidad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-afirmar-inteligencia-artificial-muy-cerca-aprobar-ultimo-examen-humanidad-1449689' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4305932.jpg?tf=1200x' alt='Expertos en IA afirmar que la inteligencia artificial está muy cerca de aprobar "el último examen de la humanidad"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-1449667'>Piden a EEUU que devuelva la Estatua de la Libertad: "Si no fuera por nosotros, hablaríais alemán"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-1449667' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/piden-eeuu-devuelva-estatua-libertad-no-fuera-nosotros-hablariais-aleman-4305910.jpg?tf=1200x' alt='Piden a EEUU que devuelva la Estatua de la Libertad: "Si no fuera por nosotros, hablaríais alemán"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/golpe-iptv-cardsharing-cae-mayores-redes-contenidos-ilegales-operaba-espana-1449711'>Golpe a las IPTV y el cardsharing: cae una de las mayores redes de contenidos ilegales que operaba en España</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/golpe-iptv-cardsharing-cae-mayores-redes-contenidos-ilegales-operaba-espana-1449711' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iptv-4305961.jpg?tf=1200x' alt='Golpe a las IPTV y el cardsharing: cae una de las mayores redes de contenidos ilegales que operaba en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-flipper-zero-fusionan-crear-autentica-bestia-hackeo-1449776'>Linux y Flipper Zero se fusionan para crear una auténtica bestia del hackeo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-flipper-zero-fusionan-crear-autentica-bestia-hackeo-1449776' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-flipper-zero-fusionan-crear-autentica-bestia-hackeo-4306090.jpg?tf=1200x' alt='Linux y Flipper Zero se fusionan para crear una auténtica bestia del hackeo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/telescopio-euclid-hace-historia-primeros-hallazgos-confirman-einstein-revelan-pistas-clave-materia-oscura-1449649'>El telescopio Euclid hace historia: sus primeros hallazgos confirman a Einstein y revelan pistas clave sobre la materia oscura</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/telescopio-euclid-hace-historia-primeros-hallazgos-confirman-einstein-revelan-pistas-clave-materia-oscura-1449649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/red-cosmos-4305890.jpg?tf=1200x' alt='El telescopio Euclid hace historia: sus primeros hallazgos confirman a Einstein y revelan pistas clave sobre la materia oscura' />
     </a>
 </div>
 
