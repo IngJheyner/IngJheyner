@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-whatsapp-desvela-truco-podria-sacarte-gran-apuro-valida-como-prueba-juicio-1449030'>Experta en WhatsApp desvela el truco que podría sacarte de un gran apuro: "Sí, es válida como prueba en un juicio"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-whatsapp-desvela-truco-podria-sacarte-gran-apuro-valida-como-prueba-juicio-1449030' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-whatsapp-desvela-truco-podria-sacarte-gran-apuro-valida-como-prueba-juicio-4304847.jpg?tf=1200x' alt='Experta en WhatsApp desvela el truco que podría sacarte de un gran apuro: "Sí, es válida como prueba en un juicio"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-1449602'>Científicos investigan cuándo se alcanzará la singularidad de la IA, y el resultado les sorprende hasta a ellos mismos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-1449602' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-4305774.jpg?tf=1200x' alt='Científicos investigan cuándo se alcanzará la singularidad de la IA, y el resultado les sorprende hasta a ellos mismos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-ibm-tranquiliza-programadores-ia-hay-casos-sera-nulo-1448568'>El CEO de IBM tranquiliza a los programadores sobre la IA: “Hay casos en los que será nulo” </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-ibm-tranquiliza-programadores-ia-hay-casos-sera-nulo-1448568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/arvind-krishna-inteligencia-artificial-4304202.jpg?tf=1200x' alt='El CEO de IBM tranquiliza a los programadores sobre la IA: “Hay casos en los que será nulo” ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-dicta-sentencia-sera-fecha-ia-sera-inteligente-humanos-1449718'>Experto dicta sentencia: esta será la fecha en la que la IA será más inteligente que los humanos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-dicta-sentencia-sera-fecha-ia-sera-inteligente-humanos-1449718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-jugando-ajedrez-ia-4306031.jpg?tf=1200x' alt='Experto dicta sentencia: esta será la fecha en la que la IA será más inteligente que los humanos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/youtube-ve-peor-bug-google-no-sabe-1449854'>Si YouTube se ve peor de lo habitual, no es cosa tuya: está pasando algo raro, y Google no sabe lo que es</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/youtube-ve-peor-bug-google-no-sabe-1449854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-ve-peor-habitual-no-cosa-pasando-algo-raro-4306182.jpg?tf=1200x' alt='Si YouTube se ve peor de lo habitual, no es cosa tuya: está pasando algo raro, y Google no sabe lo que es' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-1449700'>Bill Gates no solo asegura que la IA acabará con estos trabajos, también que será inminente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-1449700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-4305934.jpg?tf=1200x' alt='Bill Gates no solo asegura que la IA acabará con estos trabajos, también que será inminente' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/roborock-qv-35a-nuevo-robot-aspirador-llega-espana-1449842'>Roborock QV 35A, así es el nuevo robot aspirador de gama media que llega a España</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/roborock-qv-35a-nuevo-robot-aspirador-llega-espana-1449842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/roborock-qv-35a-nuevo-robot-aspirador-gama-llega-espana-4306114.jpg?tf=1200x' alt='Roborock QV 35A, así es el nuevo robot aspirador de gama media que llega a España' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/mi-firestick-ya-no-me-deja-instalar-ciertas-aplicaciones-busco-alternativa-android-tv-box-me-ha-convencido-1449360'>Mi Firestick ya no me deja instalar ciertas aplicaciones, así que busco alternativa, y esta Android TV Box me ha convencido</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/mi-firestick-ya-no-me-deja-instalar-ciertas-aplicaciones-busco-alternativa-android-tv-box-me-ha-convencido-1449360' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/firestick-vs-android-tv-box-4305358.jpg?tf=1200x' alt='Mi Firestick ya no me deja instalar ciertas aplicaciones, así que busco alternativa, y esta Android TV Box me ha convencido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/pavel-durov-celebra-exito-telegram-llamando-whatsapp-imitacion-barata-1449833'>Pavel Durov celebra el éxito de Telegram llamando a WhatsApp una "imitación barata"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/pavel-durov-celebra-exito-telegram-llamando-whatsapp-imitacion-barata-1449833' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pavel-durov-4306145.jpg?tf=1200x' alt='Pavel Durov celebra el éxito de Telegram llamando a WhatsApp una "imitación barata"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-ha-encontrado-14-ordenadores-magicos-crean-dinero-nada-1449706'>Elon Musk asegura que ha encontrado 14 "ordenadores mágicos" que crean dinero de la nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-ha-encontrado-14-ordenadores-magicos-crean-dinero-nada-1449706' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-asegura-ha-encontrado-14-ordenadores-magicos-crean-dinero-nada-4305966.jpg?tf=1200x' alt='Elon Musk asegura que ha encontrado 14 "ordenadores mágicos" que crean dinero de la nada' />
     </a>
 </div>
 
