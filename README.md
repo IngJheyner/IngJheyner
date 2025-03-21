@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/nueva-actualizacion-windows-10-instala-permiso-causa-errores-inesperados-1450099'>Nueva actualización de Windows 10 se instala sin permiso y causa errores inesperados</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/nueva-actualizacion-windows-10-instala-permiso-causa-errores-inesperados-1450099' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-rota-4306652.jpg?tf=1200x' alt='Nueva actualización de Windows 10 se instala sin permiso y causa errores inesperados' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-24h2-puede-llevar-16-horas-quedarse-atascado-1450096'>Actualizar a Windows 11 24H2 puede llevar más de 16 horas (o quedarse atascado)</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-24h2-puede-llevar-16-horas-quedarse-atascado-1450096' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-windows-11-4306643.jpg?tf=1200x' alt='Actualizar a Windows 11 24H2 puede llevar más de 16 horas (o quedarse atascado)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-apuros-ia-iphone-16-desata-demanda-publicidad-enganosa-1450094'>Apple en apuros: la IA del iPhone 16 desata una demanda por publicidad engañosa</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-apuros-ia-iphone-16-desata-demanda-publicidad-enganosa-1450094' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-4306642.jpg?tf=1200x' alt='Apple en apuros: la IA del iPhone 16 desata una demanda por publicidad engañosa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-thriller-accion-90-critica-puedes-verlo-prime-video-1449863'>Este es el mejor thriller de acción de los 90, según la crítica, y puedes verlo en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-thriller-accion-90-critica-puedes-verlo-prime-video-1449863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejor-thriller-accion-90-critica-puedes-verla-prime-video-4306201.jpg?tf=1200x' alt='Este es el mejor thriller de acción de los 90, según la crítica, y puedes verlo en Prime Video' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-1450035'>Canadá pone contra las cuerdas a Elon Musk: cualquier cosa con el nombre de Tesla, fuera</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-1450035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-4306635.jpg?tf=1200x' alt='Canadá pone contra las cuerdas a Elon Musk: cualquier cosa con el nombre de Tesla, fuera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-1449862'>Increíble pero cierto: Netflix pagó 55 millones por este proyecto y su director se lo gastó en coches y hoteles de lujo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-1449862' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-4306200.jpg?tf=1200x' alt='Increíble pero cierto: Netflix pagó 55 millones por este proyecto y su director se lo gastó en coches y hoteles de lujo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/seagate-presenta-revolucionario-disco-duro-unico-mundo-interfaz-pcie-protocolo-nvme-1450060'>Seagate presenta un revolucionario disco duro único en el mundo con interfaz PCIe y protocolo NVMe</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/seagate-presenta-revolucionario-disco-duro-unico-mundo-interfaz-pcie-protocolo-nvme-1450060' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tecnologia-hdd-pcie-nvme-4306589.jpg?tf=1200x' alt='Seagate presenta un revolucionario disco duro único en el mundo con interfaz PCIe y protocolo NVMe' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/inversores-tesla-pasan-amenazas-elon-musk-creo-ya-hora-1450018'>Inversores de Tesla pasan a las "amenazas" con Elon Musk: "Creo que ya es hora" </a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/inversores-tesla-pasan-amenazas-elon-musk-creo-ya-hora-1450018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Inversores de Tesla pasan a las "amenazas" con Elon Musk: "Creo que ya es hora" ' />
     </a>
 </div>
 
