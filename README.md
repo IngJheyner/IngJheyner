@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-1449987'>Más problemas para Google: nace otro buscador web con IA que promete cambiarlo todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-1449987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-4306462.jpg?tf=1200x' alt='Más problemas para Google: nace otro buscador web con IA que promete cambiarlo todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/hija-elon-musk-hurga-herida-realidad-no-cuantos-hermanos-tengo-1450010'>La hija de Elon Musk hurga en la herida: "En realidad no sé cuántos hermanos tengo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/hija-elon-musk-hurga-herida-realidad-no-cuantos-hermanos-tengo-1450010' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hija-elon-musk-pelos-lengua-padre-realidad-no-cuantos-hermanos-tengo-4306514.jpg?tf=1200x' alt='La hija de Elon Musk hurga en la herida: "En realidad no sé cuántos hermanos tengo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-futuros-programadores-1445288'>El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-futuros-programadores-1445288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-4306406.jpg?tf=1200x' alt='El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"' />
@@ -58,33 +74,17 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-agentes-inteligencia-artificial-tiene-mensaje-ti-ia-te-quitara-trabajo-superalo-1450011'>Experta en agentes de inteligencia artificial tiene un mensaje para ti: "La IA te quitará el trabajo, supéralo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-agentes-inteligencia-artificial-tiene-mensaje-ti-ia-te-quitara-trabajo-superalo-1450011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-agentes-inteligencia-artificial-tiene-mensaje-ti-ia-te-quitara-trabajo-superalo-4306549.jpg?tf=1200x' alt='Experta en agentes de inteligencia artificial tiene un mensaje para ti: "La IA te quitará el trabajo, supéralo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-apunta-primera-victima-laboral-ia-tal-vez-necesitemos-menos-1449945'>Sam Altman apunta a la primera víctima laboral de la IA: "Tal vez necesitemos menos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-apunta-primera-victima-laboral-ia-tal-vez-necesitemos-menos-1449945' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-4306412.jpg?tf=1200x' alt='Sam Altman apunta a la primera víctima laboral de la IA: "Tal vez necesitemos menos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todavia-no-hemos-alcanzado-1-podemos-lograr-ia-sam-altman-1450019'>"Todavía no hemos alcanzado el 1% de lo que podemos lograr con la IA", según Sam Altman</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/todavia-no-hemos-alcanzado-1-podemos-lograr-ia-sam-altman-1450019' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-openai-inteligencia-artificial-4306541.jpg?tf=1200x' alt='"Todavía no hemos alcanzado el 1% de lo que podemos lograr con la IA", según Sam Altman' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/ni-qled-ni-mini-led-consiguen-resolver-gran-problema-televisores-oled-1450017'>Ni QLED ni Mini-LED, consiguen resolver el gran problema de los televisores OLED</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/ni-qled-ni-mini-led-consiguen-resolver-gran-problema-televisores-oled-1450017' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-polarizacion-pantallas-oled-4306523.jpg?tf=1200x' alt='Ni QLED ni Mini-LED, consiguen resolver el gran problema de los televisores OLED' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/brutales-consecuencias-astronautas-iss-pasar-9-meses-espacio-deberan-aprender-caminar-1449960'>Las brutales consecuencias para los astronautas de la ISS de pasar 9 meses en el espacio: deberán aprender a caminar</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/brutales-consecuencias-astronautas-iss-pasar-9-meses-espacio-deberan-aprender-caminar-1449960' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-4306458.jpg?tf=1200x' alt='Las brutales consecuencias para los astronautas de la ISS de pasar 9 meses en el espacio: deberán aprender a caminar' />
     </a>
 </div>
 
