@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-1449900'>Italia ha conseguido lo que LaLiga ha intentado durante meses: Cloudflare y las VPN tienen que responder ante las autoridades</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-1449900' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-4306270.jpg?tf=1200x' alt='Italia ha conseguido lo que LaLiga ha intentado durante meses: Cloudflare y las VPN tienen que responder ante las autoridades' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/dazn-va-iptv-ver-f1-rebaja-precio-plan-motor-pero-solo-temporalmente-1449874'>DAZN va a por las IPTV para ver la F1: rebaja el precio del plan motor, pero solo temporalmente</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/dazn-va-iptv-ver-f1-rebaja-precio-plan-motor-pero-solo-temporalmente-1449874' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/formula-1-f1-4306241.jpg?tf=1200x' alt='DAZN va a por las IPTV para ver la F1: rebaja el precio del plan motor, pero solo temporalmente' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449'>Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/auriculares-diseno-abierto-no-4305441.jpg?tf=1200x' alt='Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-macbook-air-chip-m4-leves-mejoras-menos-precio-me-han-convencido-1448230'>He probado el MacBook Air con chip M4: sus leves mejoras por menos precio y su potencia me han convencido</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-macbook-air-chip-m4-leves-mejoras-menos-precio-me-han-convencido-1448230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/macbook-air-m4-4306091.jpg?tf=1200x' alt='He probado el MacBook Air con chip M4: sus leves mejoras por menos precio y su potencia me han convencido' />
     </a>
 </div>
 
