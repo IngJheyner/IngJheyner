@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/brutales-consecuencias-astronautas-iss-pasar-9-meses-espacio-deberan-aprender-caminar-1449960'>Las brutales consecuencias para los astronautas de la ISS de pasar 9 meses en el espacio: deberán aprender a caminar</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/brutales-consecuencias-astronautas-iss-pasar-9-meses-espacio-deberan-aprender-caminar-1449960' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-4306458.jpg?tf=1200x' alt='Las brutales consecuencias para los astronautas de la ISS de pasar 9 meses en el espacio: deberán aprender a caminar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-acusa-ue-bloquear-innovacion-podria-europa-quedarse-iphone-1450009'>Apple acusa a la UE de bloquear la innovación: ¿podría Europa quedarse sin el iPhone?</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-acusa-ue-bloquear-innovacion-podria-europa-quedarse-iphone-1450009' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-iphone-4306524.jpg?tf=1200x' alt='Apple acusa a la UE de bloquear la innovación: ¿podría Europa quedarse sin el iPhone?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-peligrosa-estafa-suplanta-hacienda-ya-haciendo-estragos-1449967'>La OCU advierte: así es la peligrosa estafa que suplanta a Hacienda y ya está haciendo estragos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-peligrosa-estafa-suplanta-hacienda-ya-haciendo-estragos-1449967' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ocu-advierte-peligrosa-estafa-suplanta-hacienda-ya-haciendo-estragos-4306436.jpg?tf=1200x' alt='La OCU advierte: así es la peligrosa estafa que suplanta a Hacienda y ya está haciendo estragos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-1449969'>Javier Tebas en apuros: la última función de Telegram permite que ver los partidos de LaLiga gratis sea todavía más fácil</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-1449969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-4306481.jpg?tf=1200x' alt='Javier Tebas en apuros: la última función de Telegram permite que ver los partidos de LaLiga gratis sea todavía más fácil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/analistas-advierten-situacion-tesla-elon-musk-no-tonto-simplemente-tuvo-suerte-1450000'>Analistas advierten sobre la situación de Tesla y Elon Musk: “No es un tonto que simplemente tuvo suerte”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/analistas-advierten-situacion-tesla-elon-musk-no-tonto-simplemente-tuvo-suerte-1450000' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-tesla-model-3-4306503.jpg?tf=1200x' alt='Analistas advierten sobre la situación de Tesla y Elon Musk: “No es un tonto que simplemente tuvo suerte”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-microsoft-reafirma-buena-relacion-openai-deepseek-nos-ha-dejado-gran-leccion-1449964'>El CEO de Microsoft reafirma su buena relación con OpenAI: "DeepSeek nos ha dejado una gran lección"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-microsoft-reafirma-buena-relacion-openai-deepseek-nos-ha-dejado-gran-leccion-1449964' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ceo-microsoft-reafirma-buena-relacion-openai-deepseek-nos-ha-dejado-gran-leccion-4306424.jpg?tf=1200x' alt='El CEO de Microsoft reafirma su buena relación con OpenAI: "DeepSeek nos ha dejado una gran lección"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/empresa-china-lanza-nueva-bateria-sodio-asequible-litio-resistente-frio-1449926'>Una empresa china lanza su nueva batería de sodio: más asequible que el litio y resistente al frío</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/empresa-china-lanza-nueva-bateria-sodio-asequible-litio-resistente-frio-1449926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/baterias-sodio-coche-electrico-4306355.jpg?tf=1200x' alt='Una empresa china lanza su nueva batería de sodio: más asequible que el litio y resistente al frío' />
     </a>
 </div>
 
