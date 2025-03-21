@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-clientes-lleno-taquillazos-1449999'>Movistar Plus+ estrena un nuevo canal gratis para todos sus clientes lleno de taquillazos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-clientes-lleno-taquillazos-1449999' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-seven-4306504.jpg?tf=1200x' alt='Movistar Plus+ estrena un nuevo canal gratis para todos sus clientes lleno de taquillazos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/aseguraron-iba-morir-pero-consiguio-salvar-vida-gracias-inteligencia-artificial-1449979'>Le aseguraron que iba a morir, pero consiguió salvar su vida gracias a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/aseguraron-iba-morir-pero-consiguio-salvar-vida-gracias-inteligencia-artificial-1449979' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4306518.jpg?tf=1200x' alt='Le aseguraron que iba a morir, pero consiguió salvar su vida gracias a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-estafa-20-euros-tarjeta-banco-1446461'>Experta en ciberseguridad alerta sobre la estafa de los 20 euros: "Debes ir presencial al banco para cambiarlo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-estafa-20-euros-tarjeta-banco-1446461' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-tarjeta-credito-4306409.jpg?tf=1200x' alt='Experta en ciberseguridad alerta sobre la estafa de los 20 euros: "Debes ir presencial al banco para cambiarlo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-acosa-usuarios-windows-10-ocultando-importante-detalle-1450047'>Microsoft acosa a los usuarios de Windows 10 ocultando un importante detalle</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-acosa-usuarios-windows-10-ocultando-importante-detalle-1450047' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-actualizacion-windows-11-4306559.jpg?tf=1200x' alt='Microsoft acosa a los usuarios de Windows 10 ocultando un importante detalle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-1449987'>Más problemas para Google: nace otro buscador web con IA que promete cambiarlo todo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-1449987' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-4306462.jpg?tf=1200x' alt='Más problemas para Google: nace otro buscador web con IA que promete cambiarlo todo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/hija-elon-musk-hurga-herida-realidad-no-cuantos-hermanos-tengo-1450010'>La hija de Elon Musk hurga en la herida: "En realidad no sé cuántos hermanos tengo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/hija-elon-musk-hurga-herida-realidad-no-cuantos-hermanos-tengo-1450010' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hija-elon-musk-pelos-lengua-padre-realidad-no-cuantos-hermanos-tengo-4306514.jpg?tf=1200x' alt='La hija de Elon Musk hurga en la herida: "En realidad no sé cuántos hermanos tengo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-futuros-programadores-1445288'>El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-futuros-programadores-1445288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-4306406.jpg?tf=1200x' alt='El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-agentes-inteligencia-artificial-tiene-mensaje-ti-ia-te-quitara-trabajo-superalo-1450011'>Experta en agentes de inteligencia artificial tiene un mensaje para ti: "La IA te quitará el trabajo, supéralo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-agentes-inteligencia-artificial-tiene-mensaje-ti-ia-te-quitara-trabajo-superalo-1450011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-agentes-inteligencia-artificial-tiene-mensaje-ti-ia-te-quitara-trabajo-superalo-4306549.jpg?tf=1200x' alt='Experta en agentes de inteligencia artificial tiene un mensaje para ti: "La IA te quitará el trabajo, supéralo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-apunta-primera-victima-laboral-ia-tal-vez-necesitemos-menos-1449945'>Sam Altman apunta a la primera víctima laboral de la IA: "Tal vez necesitemos menos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-apunta-primera-victima-laboral-ia-tal-vez-necesitemos-menos-1449945' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-4306412.jpg?tf=1200x' alt='Sam Altman apunta a la primera víctima laboral de la IA: "Tal vez necesitemos menos"' />
     </a>
 </div>
 
