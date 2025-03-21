@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-thriller-accion-90-critica-puedes-verlo-prime-video-1449863'>Este es el mejor thriller de acción de los 90, según la crítica, y puedes verlo en Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-thriller-accion-90-critica-puedes-verlo-prime-video-1449863' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejor-thriller-accion-90-critica-puedes-verla-prime-video-4306201.jpg?tf=1200x' alt='Este es el mejor thriller de acción de los 90, según la crítica, y puedes verlo en Prime Video' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-1450035'>Canadá pone contra las cuerdas a Elon Musk: cualquier cosa con el nombre de Tesla, fuera</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-1450035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-4306635.jpg?tf=1200x' alt='Canadá pone contra las cuerdas a Elon Musk: cualquier cosa con el nombre de Tesla, fuera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-1449862'>Increíble pero cierto: Netflix pagó 55 millones por este proyecto y su director se lo gastó en coches y hoteles de lujo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-1449862' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-4306200.jpg?tf=1200x' alt='Increíble pero cierto: Netflix pagó 55 millones por este proyecto y su director se lo gastó en coches y hoteles de lujo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/inversores-tesla-pasan-amenazas-elon-musk-creo-ya-hora-1450018'>Inversores de Tesla pasan a las "amenazas" con Elon Musk: "Creo que ya es hora" </a></h4>
     <a href='https://computerhoy.20minutos.es/motor/inversores-tesla-pasan-amenazas-elon-musk-creo-ya-hora-1450018' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Inversores de Tesla pasan a las "amenazas" con Elon Musk: "Creo que ya es hora" ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/golpe-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420'>Golpe a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/golpe-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problema-procesadores-amd-windows-11-4306414.jpg?tf=1200x' alt='Golpe a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-clientes-lleno-taquillazos-1449999'>Movistar Plus+ estrena un nuevo canal gratis para todos sus clientes lleno de taquillazos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-clientes-lleno-taquillazos-1449999' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-seven-4306504.jpg?tf=1200x' alt='Movistar Plus+ estrena un nuevo canal gratis para todos sus clientes lleno de taquillazos' />
     </a>
 </div>
 
