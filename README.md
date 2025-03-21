@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449'>Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no</a></h4>
+    <a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/auriculares-diseno-abierto-no-4305441.jpg?tf=1200x' alt='Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-macbook-air-chip-m4-leves-mejoras-menos-precio-me-han-convencido-1448230'>He probado el MacBook Air con chip M4: sus leves mejoras por menos precio y su potencia me han convencido</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-macbook-air-chip-m4-leves-mejoras-menos-precio-me-han-convencido-1448230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/macbook-air-m4-4306091.jpg?tf=1200x' alt='He probado el MacBook Air con chip M4: sus leves mejoras por menos precio y su potencia me han convencido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-1449602'>Científicos investigan cuándo se alcanzará la singularidad de la IA, y el resultado les sorprende hasta a ellos mismos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-1449602' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-4305774.jpg?tf=1200x' alt='Científicos investigan cuándo se alcanzará la singularidad de la IA, y el resultado les sorprende hasta a ellos mismos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-1449700'>Bill Gates no solo asegura que la IA acabará con estos trabajos, también que será inminente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-1449700' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-4305934.jpg?tf=1200x' alt='Bill Gates no solo asegura que la IA acabará con estos trabajos, también que será inminente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/mi-firestick-ya-no-me-deja-instalar-ciertas-aplicaciones-busco-alternativa-android-tv-box-me-ha-convencido-1449360'>Mi Firestick ya no me deja instalar ciertas aplicaciones, así que busco alternativa, y esta Android TV Box me ha convencido</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/mi-firestick-ya-no-me-deja-instalar-ciertas-aplicaciones-busco-alternativa-android-tv-box-me-ha-convencido-1449360' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/firestick-vs-android-tv-box-4305358.jpg?tf=1200x' alt='Mi Firestick ya no me deja instalar ciertas aplicaciones, así que busco alternativa, y esta Android TV Box me ha convencido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-ha-encontrado-14-ordenadores-magicos-crean-dinero-nada-1449706'>Elon Musk asegura que ha encontrado 14 "ordenadores mágicos" que crean dinero de la nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-asegura-ha-encontrado-14-ordenadores-magicos-crean-dinero-nada-1449706' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-asegura-ha-encontrado-14-ordenadores-magicos-crean-dinero-nada-4305966.jpg?tf=1200x' alt='Elon Musk asegura que ha encontrado 14 "ordenadores mágicos" que crean dinero de la nada' />
     </a>
 </div>
 
