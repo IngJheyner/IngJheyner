@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-1449969'>Javier Tebas en apuros: la última función de Telegram permite que ver los partidos de LaLiga gratis sea todavía más fácil</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-1449969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-4306481.jpg?tf=1200x' alt='Javier Tebas en apuros: la última función de Telegram permite que ver los partidos de LaLiga gratis sea todavía más fácil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/analistas-advierten-situacion-tesla-elon-musk-no-tonto-simplemente-tuvo-suerte-1450000'>Analistas advierten sobre la situación de Tesla y Elon Musk: “No es un tonto que simplemente tuvo suerte”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/analistas-advierten-situacion-tesla-elon-musk-no-tonto-simplemente-tuvo-suerte-1450000' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-tesla-model-3-4306503.jpg?tf=1200x' alt='Analistas advierten sobre la situación de Tesla y Elon Musk: “No es un tonto que simplemente tuvo suerte”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-microsoft-reafirma-buena-relacion-openai-deepseek-nos-ha-dejado-gran-leccion-1449964'>El CEO de Microsoft reafirma su buena relación con OpenAI: "DeepSeek nos ha dejado una gran lección"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-microsoft-reafirma-buena-relacion-openai-deepseek-nos-ha-dejado-gran-leccion-1449964' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ceo-microsoft-reafirma-buena-relacion-openai-deepseek-nos-ha-dejado-gran-leccion-4306424.jpg?tf=1200x' alt='El CEO de Microsoft reafirma su buena relación con OpenAI: "DeepSeek nos ha dejado una gran lección"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/empresa-china-lanza-nueva-bateria-sodio-asequible-litio-resistente-frio-1449926'>Una empresa china lanza su nueva batería de sodio: más asequible que el litio y resistente al frío</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/empresa-china-lanza-nueva-bateria-sodio-asequible-litio-resistente-frio-1449926' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/baterias-sodio-coche-electrico-4306355.jpg?tf=1200x' alt='Una empresa china lanza su nueva batería de sodio: más asequible que el litio y resistente al frío' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/invierte-90-euros-idea-chatgpt-pierde-23000-confiar-demasiado-ia-1449892'>Invierte 90 euros en una idea de ChatGPT y pierde 23.000 por confiar demasiado en la IA </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/invierte-90-euros-idea-chatgpt-pierde-23000-confiar-demasiado-ia-1449892' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/negocio-ia-4306303.jpg?tf=1200x' alt='Invierte 90 euros en una idea de ChatGPT y pierde 23.000 por confiar demasiado en la IA ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-agota-paciencia-estados-unidos-tienen-vender-chrome-cuanto-antes-1449919'>Google agota la paciencia de Estados Unidos: tienen que vender Chrome cuanto antes</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-agota-paciencia-estados-unidos-tienen-vender-chrome-cuanto-antes-1449919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-agota-paciencia-estados-unidos-tienen-vender-chrome-cuanto-antes-4306307.jpg?tf=1200x' alt='Google agota la paciencia de Estados Unidos: tienen que vender Chrome cuanto antes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-1449900'>Italia ha conseguido lo que LaLiga ha intentado durante meses: Cloudflare y las VPN tienen que responder ante las autoridades</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-1449900' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-4306270.jpg?tf=1200x' alt='Italia ha conseguido lo que LaLiga ha intentado durante meses: Cloudflare y las VPN tienen que responder ante las autoridades' />
     </a>
 </div>
 
