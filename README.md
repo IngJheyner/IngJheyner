@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-apple-tv-plus-pierde-1000-millones-dolares-1450101'>Hasta Tim Cook se lleva las manos a la cabeza: Apple TV+ pierde 1.000 millones de dólares al año</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-apple-tv-plus-pierde-1000-millones-dolares-1450101' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-lleva-manos-cabeza-apple-tv-pierde-1000-millones-dolares-ano-4306629.jpg?tf=1200x' alt='Hasta Tim Cook se lleva las manos a la cabeza: Apple TV+ pierde 1.000 millones de dólares al año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/nueva-actualizacion-windows-10-instala-permiso-causa-errores-inesperados-1450099'>Nueva actualización de Windows 10 se instala sin permiso y causa errores inesperados</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/nueva-actualizacion-windows-10-instala-permiso-causa-errores-inesperados-1450099' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-rota-4306652.jpg?tf=1200x' alt='Nueva actualización de Windows 10 se instala sin permiso y causa errores inesperados' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/mejor-thriller-accion-90-critica-puedes-verlo-prime-video-1449863'>Este es el mejor thriller de acción de los 90, según la crítica, y puedes verlo en Prime Video</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/mejor-thriller-accion-90-critica-puedes-verlo-prime-video-1449863' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mejor-thriller-accion-90-critica-puedes-verla-prime-video-4306201.jpg?tf=1200x' alt='Este es el mejor thriller de acción de los 90, según la crítica, y puedes verlo en Prime Video' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-1450035'>Canadá pone contra las cuerdas a Elon Musk: cualquier cosa con el nombre de Tesla, fuera</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-1450035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-pone-cuerdas-elon-musk-cualquier-cosa-nombre-tesla-fuera-4306635.jpg?tf=1200x' alt='Canadá pone contra las cuerdas a Elon Musk: cualquier cosa con el nombre de Tesla, fuera' />
     </a>
 </div>
 
