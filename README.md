@@ -58,33 +58,33 @@
 
 
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-apunta-primera-victima-laboral-ia-tal-vez-necesitemos-menos-1449945'>Sam Altman apunta a la primera víctima laboral de la IA: "Tal vez necesitemos menos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-apunta-primera-victima-laboral-ia-tal-vez-necesitemos-menos-1449945' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/altman-4306412.jpg?tf=1200x' alt='Sam Altman apunta a la primera víctima laboral de la IA: "Tal vez necesitemos menos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/todavia-no-hemos-alcanzado-1-podemos-lograr-ia-sam-altman-1450019'>"Todavía no hemos alcanzado el 1% de lo que podemos lograr con la IA", según Sam Altman</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/todavia-no-hemos-alcanzado-1-podemos-lograr-ia-sam-altman-1450019' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-openai-inteligencia-artificial-4306541.jpg?tf=1200x' alt='"Todavía no hemos alcanzado el 1% de lo que podemos lograr con la IA", según Sam Altman' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/ni-qled-ni-mini-led-consiguen-resolver-gran-problema-televisores-oled-1450017'>Ni QLED ni Mini-LED, consiguen resolver el gran problema de los televisores OLED</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/ni-qled-ni-mini-led-consiguen-resolver-gran-problema-televisores-oled-1450017' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-polarizacion-pantallas-oled-4306523.jpg?tf=1200x' alt='Ni QLED ni Mini-LED, consiguen resolver el gran problema de los televisores OLED' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/brutales-consecuencias-astronautas-iss-pasar-9-meses-espacio-deberan-aprender-caminar-1449960'>Las brutales consecuencias para los astronautas de la ISS de pasar 9 meses en el espacio: deberán aprender a caminar</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/brutales-consecuencias-astronautas-iss-pasar-9-meses-espacio-deberan-aprender-caminar-1449960' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-4306458.jpg?tf=1200x' alt='Las brutales consecuencias para los astronautas de la ISS de pasar 9 meses en el espacio: deberán aprender a caminar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-acusa-ue-bloquear-innovacion-podria-europa-quedarse-iphone-1450009'>Apple acusa a la UE de bloquear la innovación: ¿podría Europa quedarse sin el iPhone?</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-acusa-ue-bloquear-innovacion-podria-europa-quedarse-iphone-1450009' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-iphone-4306524.jpg?tf=1200x' alt='Apple acusa a la UE de bloquear la innovación: ¿podría Europa quedarse sin el iPhone?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-peligrosa-estafa-suplanta-hacienda-ya-haciendo-estragos-1449967'>La OCU advierte: así es la peligrosa estafa que suplanta a Hacienda y ya está haciendo estragos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ocu-advierte-peligrosa-estafa-suplanta-hacienda-ya-haciendo-estragos-1449967' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ocu-advierte-peligrosa-estafa-suplanta-hacienda-ya-haciendo-estragos-4306436.jpg?tf=1200x' alt='La OCU advierte: así es la peligrosa estafa que suplanta a Hacienda y ya está haciendo estragos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-1449969'>Javier Tebas en apuros: la última función de Telegram permite que ver los partidos de LaLiga gratis sea todavía más fácil</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-1449969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-apuros-ultima-funcion-telegram-permite-ver-partidos-laliga-gratis-sea-todavia-facil-4306481.jpg?tf=1200x' alt='Javier Tebas en apuros: la última función de Telegram permite que ver los partidos de LaLiga gratis sea todavía más fácil' />
     </a>
 </div>
 
