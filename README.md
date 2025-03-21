@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-1449862'>Increíble pero cierto: Netflix pagó 55 millones por este proyecto y su director se lo gastó en coches y hoteles de lujo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-1449862' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/increible-pero-cierto-netflix-pago-55-millones-proyecto-director-gasto-coches-hoteles-lujo-4306200.jpg?tf=1200x' alt='Increíble pero cierto: Netflix pagó 55 millones por este proyecto y su director se lo gastó en coches y hoteles de lujo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/seagate-presenta-revolucionario-disco-duro-unico-mundo-interfaz-pcie-protocolo-nvme-1450060'>Seagate presenta un revolucionario disco duro único en el mundo con interfaz PCIe y protocolo NVMe</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/seagate-presenta-revolucionario-disco-duro-unico-mundo-interfaz-pcie-protocolo-nvme-1450060' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tecnologia-hdd-pcie-nvme-4306589.jpg?tf=1200x' alt='Seagate presenta un revolucionario disco duro único en el mundo con interfaz PCIe y protocolo NVMe' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/inversores-tesla-pasan-amenazas-elon-musk-creo-ya-hora-1450018'>Inversores de Tesla pasan a las "amenazas" con Elon Musk: "Creo que ya es hora" </a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/inversores-tesla-pasan-amenazas-elon-musk-creo-ya-hora-1450018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4306534.jpg?tf=1200x' alt='Inversores de Tesla pasan a las "amenazas" con Elon Musk: "Creo que ya es hora" ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/golpe-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420'>Golpe a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/golpe-microsoft-demuestran-procesador-potente-amd-funciona-mejor-windows-10-windows-11-1448420' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problema-procesadores-amd-windows-11-4306414.jpg?tf=1200x' alt='Golpe a Microsoft, demuestran que el procesador más potente de AMD funciona mejor en Windows 10 que en Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-clientes-lleno-taquillazos-1449999'>Movistar Plus+ estrena un nuevo canal gratis para todos sus clientes lleno de taquillazos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-estrena-nuevo-canal-gratis-todos-clientes-lleno-taquillazos-1449999' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-seven-4306504.jpg?tf=1200x' alt='Movistar Plus+ estrena un nuevo canal gratis para todos sus clientes lleno de taquillazos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/aseguraron-iba-morir-pero-consiguio-salvar-vida-gracias-inteligencia-artificial-1449979'>Le aseguraron que iba a morir, pero consiguió salvar su vida gracias a la inteligencia artificial</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/aseguraron-iba-morir-pero-consiguio-salvar-vida-gracias-inteligencia-artificial-1449979' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4306518.jpg?tf=1200x' alt='Le aseguraron que iba a morir, pero consiguió salvar su vida gracias a la inteligencia artificial' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-estafa-20-euros-tarjeta-banco-1446461'>Experta en ciberseguridad alerta sobre la estafa de los 20 euros: "Debes ir presencial al banco para cambiarlo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-estafa-20-euros-tarjeta-banco-1446461' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-tarjeta-credito-4306409.jpg?tf=1200x' alt='Experta en ciberseguridad alerta sobre la estafa de los 20 euros: "Debes ir presencial al banco para cambiarlo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-acosa-usuarios-windows-10-ocultando-importante-detalle-1450047'>Microsoft acosa a los usuarios de Windows 10 ocultando un importante detalle</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-acosa-usuarios-windows-10-ocultando-importante-detalle-1450047' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-actualizacion-windows-11-4306559.jpg?tf=1200x' alt='Microsoft acosa a los usuarios de Windows 10 ocultando un importante detalle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-1449987'>Más problemas para Google: nace otro buscador web con IA que promete cambiarlo todo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-1449987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-google-nace-otro-buscador-web-ia-promete-cambiarlo-todo-4306462.jpg?tf=1200x' alt='Más problemas para Google: nace otro buscador web con IA que promete cambiarlo todo' />
     </a>
 </div>
 
