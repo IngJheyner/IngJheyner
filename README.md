@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-whatsapp-desvela-truco-podria-sacarte-gran-apuro-valida-como-prueba-juicio-1449030'>Experta en WhatsApp desvela el truco que podría sacarte de un gran apuro: "Sí, es válida como prueba en un juicio"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-whatsapp-desvela-truco-podria-sacarte-gran-apuro-valida-como-prueba-juicio-1449030' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-whatsapp-desvela-truco-podria-sacarte-gran-apuro-valida-como-prueba-juicio-4304847.jpg?tf=1200x' alt='Experta en WhatsApp desvela el truco que podría sacarte de un gran apuro: "Sí, es válida como prueba en un juicio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ceo-ibm-tranquiliza-programadores-ia-hay-casos-sera-nulo-1448568'>El CEO de IBM tranquiliza a los programadores sobre la IA: “Hay casos en los que será nulo” </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ceo-ibm-tranquiliza-programadores-ia-hay-casos-sera-nulo-1448568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/arvind-krishna-inteligencia-artificial-4304202.jpg?tf=1200x' alt='El CEO de IBM tranquiliza a los programadores sobre la IA: “Hay casos en los que será nulo” ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/youtube-ve-peor-bug-google-no-sabe-1449854'>Si YouTube se ve peor de lo habitual, no es cosa tuya: está pasando algo raro, y Google no sabe lo que es</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/youtube-ve-peor-bug-google-no-sabe-1449854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-ve-peor-habitual-no-cosa-pasando-algo-raro-4306182.jpg?tf=1200x' alt='Si YouTube se ve peor de lo habitual, no es cosa tuya: está pasando algo raro, y Google no sabe lo que es' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/roborock-qv-35a-nuevo-robot-aspirador-llega-espana-1449842'>Roborock QV 35A, así es el nuevo robot aspirador de gama media que llega a España</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/roborock-qv-35a-nuevo-robot-aspirador-llega-espana-1449842' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/roborock-qv-35a-nuevo-robot-aspirador-gama-llega-espana-4306114.jpg?tf=1200x' alt='Roborock QV 35A, así es el nuevo robot aspirador de gama media que llega a España' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/pavel-durov-celebra-exito-telegram-llamando-whatsapp-imitacion-barata-1449833'>Pavel Durov celebra el éxito de Telegram llamando a WhatsApp una "imitación barata"</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/pavel-durov-celebra-exito-telegram-llamando-whatsapp-imitacion-barata-1449833' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pavel-durov-4306145.jpg?tf=1200x' alt='Pavel Durov celebra el éxito de Telegram llamando a WhatsApp una "imitación barata"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/tdtchannels-mejor-app-ver-canales-tv-gratis-actualiza-muchas-mejoras-mejor-experiencia-android-1449830'>TDTChannels, la mejor app para ver canales de TV gratis, se actualiza: muchas mejoras y mejor experiencia en Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/tdtchannels-mejor-app-ver-canales-tv-gratis-actualiza-muchas-mejoras-mejor-experiencia-android-1449830' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/11/tdtchannels-deja-funcionar-alternativas-poder-seguir-viendo-tdt-online-gratis-2871509.jpg?tf=1200x' alt='TDTChannels, la mejor app para ver canales de TV gratis, se actualiza: muchas mejoras y mejor experiencia en Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-estrena-verificador-tpm-puedes-saber-equipo-listo-dejar-windows-10-1449829'>Windows 11 24H2 estrena un verificador de TPM: así puedes saber si tu equipo está listo para dejar Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-24h2-estrena-verificador-tpm-puedes-saber-equipo-listo-dejar-windows-10-1449829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4306142.jpg?tf=1200x' alt='Windows 11 24H2 estrena un verificador de TPM: así puedes saber si tu equipo está listo para dejar Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-saca-cuchillos-cuando-quitas-dinero-fraudulento-enfadan-mucho-1449797'>Elon Musk se cansa y saca los cuchillos: "Cuando les quitas el dinero fraudulento, se enfadan mucho"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-cansa-saca-cuchillos-cuando-quitas-dinero-fraudulento-enfadan-mucho-1449797' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-cansa-saca-cuchillos-cuando-quitas-dinero-fraudulento-enfadan-mucho-4306129.jpg?tf=1200x' alt='Elon Musk se cansa y saca los cuchillos: "Cuando les quitas el dinero fraudulento, se enfadan mucho"' />
     </a>
 </div>
 
