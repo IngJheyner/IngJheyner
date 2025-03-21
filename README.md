@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/dazn-va-iptv-ver-f1-rebaja-precio-plan-motor-pero-solo-temporalmente-1449874'>DAZN va a por las IPTV para ver la F1: rebaja el precio del plan motor, pero solo temporalmente</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/dazn-va-iptv-ver-f1-rebaja-precio-plan-motor-pero-solo-temporalmente-1449874' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/formula-1-f1-4306241.jpg?tf=1200x' alt='DAZN va a por las IPTV para ver la F1: rebaja el precio del plan motor, pero solo temporalmente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-cual-punto-debil-chatgpt-1449902'>Sam Altman desvela cuál es el punto débil de ChatGPT: "Éramos muy malos en eso"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-cual-punto-debil-chatgpt-1449902' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-desvela-cual-punto-debil-chatgpt-eramos-muy-malos-eso-4306236.jpg?tf=1200x' alt='Sam Altman desvela cuál es el punto débil de ChatGPT: "Éramos muy malos en eso"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gmail-cambiara-ia-correo-google-siempre-1449883'>Giro de 180 grados en Gmail: así cambiará la IA el correo de Google para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gmail-cambiara-ia-correo-google-siempre-1449883' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-gmail-cambiara-ia-correo-google-siempre-4306237.jpg?tf=1200x' alt='Giro de 180 grados en Gmail: así cambiará la IA el correo de Google para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449'>Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no</a></h4>
     <a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/auriculares-diseno-abierto-no-4305441.jpg?tf=1200x' alt='Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-macbook-air-chip-m4-leves-mejoras-menos-precio-me-han-convencido-1448230'>He probado el MacBook Air con chip M4: sus leves mejoras por menos precio y su potencia me han convencido</a></h4>
     <a href='https://computerhoy.20minutos.es/analisis/he-probado-macbook-air-chip-m4-leves-mejoras-menos-precio-me-han-convencido-1448230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/macbook-air-m4-4306091.jpg?tf=1200x' alt='He probado el MacBook Air con chip M4: sus leves mejoras por menos precio y su potencia me han convencido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-1449602'>Científicos investigan cuándo se alcanzará la singularidad de la IA, y el resultado les sorprende hasta a ellos mismos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-1449602' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-investigan-cuando-alcanzara-singularidad-ia-resultado-sorprende-ellos-mismos-4305774.jpg?tf=1200x' alt='Científicos investigan cuándo se alcanzará la singularidad de la IA, y el resultado les sorprende hasta a ellos mismos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-dicta-sentencia-sera-fecha-ia-sera-inteligente-humanos-1449718'>Experto dicta sentencia: esta será la fecha en la que la IA será más inteligente que los humanos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-dicta-sentencia-sera-fecha-ia-sera-inteligente-humanos-1449718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-jugando-ajedrez-ia-4306031.jpg?tf=1200x' alt='Experto dicta sentencia: esta será la fecha en la que la IA será más inteligente que los humanos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-1449700'>Bill Gates no solo asegura que la IA acabará con estos trabajos, también que será inminente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-1449700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-no-solo-asegura-ia-acabara-estos-trabajos-tambien-sera-inminente-4305934.jpg?tf=1200x' alt='Bill Gates no solo asegura que la IA acabará con estos trabajos, también que será inminente' />
     </a>
 </div>
 
