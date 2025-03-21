@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-futuros-programadores-1445288'>El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-advertencia-futuros-programadores-1445288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bjarne-stroustrup-4306406.jpg?tf=1200x' alt='El creador de C++ tiene un mensaje para los futuros programadores: "No puedes aprender a programar por internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-agota-paciencia-estados-unidos-tienen-vender-chrome-cuanto-antes-1449919'>Google agota la paciencia de Estados Unidos: tienen que vender Chrome cuanto antes</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-agota-paciencia-estados-unidos-tienen-vender-chrome-cuanto-antes-1449919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-agota-paciencia-estados-unidos-tienen-vender-chrome-cuanto-antes-4306307.jpg?tf=1200x' alt='Google agota la paciencia de Estados Unidos: tienen que vender Chrome cuanto antes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-1449900'>Italia ha conseguido lo que LaLiga ha intentado durante meses: Cloudflare y las VPN tienen que responder ante las autoridades</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-1449900' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/italia-ha-conseguido-laliga-ha-intentado-durante-meses-cloudflare-vpn-tienen-responder-autoridades-4306270.jpg?tf=1200x' alt='Italia ha conseguido lo que LaLiga ha intentado durante meses: Cloudflare y las VPN tienen que responder ante las autoridades' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-cual-punto-debil-chatgpt-1449902'>Sam Altman desvela cuál es el punto débil de ChatGPT: "Éramos muy malos en eso"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desvela-cual-punto-debil-chatgpt-1449902' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-desvela-cual-punto-debil-chatgpt-eramos-muy-malos-eso-4306236.jpg?tf=1200x' alt='Sam Altman desvela cuál es el punto débil de ChatGPT: "Éramos muy malos en eso"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gmail-cambiara-ia-correo-google-siempre-1449883'>Giro de 180 grados en Gmail: así cambiará la IA el correo de Google para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-gmail-cambiara-ia-correo-google-siempre-1449883' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-gmail-cambiara-ia-correo-google-siempre-4306237.jpg?tf=1200x' alt='Giro de 180 grados en Gmail: así cambiará la IA el correo de Google para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449'>Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no</a></h4>
-    <a href='https://computerhoy.20minutos.es/audio/auriculares-diseno-abierto-repente-estan-moda-casos-tienen-sentido-no-1448449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/auriculares-diseno-abierto-no-4305441.jpg?tf=1200x' alt='Los auriculares de diseño abierto de repente están de moda: casos en los que tienen sentido y en los que no' />
     </a>
 </div>
 
