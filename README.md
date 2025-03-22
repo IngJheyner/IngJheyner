@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-1449024'>Ni colgar ni amenazar con la lista Robinson, la estrategia de los expertos que enloquece a los teleoperadores y acaba con las llamadas SPAM </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-1449024' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-4304840.jpg?tf=1200x' alt='Ni colgar ni amenazar con la lista Robinson, la estrategia de los expertos que enloquece a los teleoperadores y acaba con las llamadas SPAM ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pirateria-iptv-producto-fallido-dejadez-intencionada-1445876'>Amazon Fire TV, piratería y las IPTV: ¿producto fallido o dejadez intencionada?</a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pirateria-iptv-producto-fallido-dejadez-intencionada-1445876' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fire-tv-iptv-4306422.jpg?tf=1200x' alt='Amazon Fire TV, piratería y las IPTV: ¿producto fallido o dejadez intencionada?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-1450119'>La lámpara de Pixar cobra vida, y además te sigue allá donde vayas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-1450119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-4306689.jpg?tf=1200x' alt='La lámpara de Pixar cobra vida, y además te sigue allá donde vayas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777'>Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pasarse-windows-linux-4302836.jpg?tf=1200x' alt='Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-1449568'>Todos alucinan cuando uso este botón oculto de mi móvil: el tuyo también lo tiene, solo tienes que saber activarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-1449568' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-4305738.jpg?tf=1200x' alt='Todos alucinan cuando uso este botón oculto de mi móvil: el tuyo también lo tiene, solo tienes que saber activarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-1448571'>Experta en tecnología muestra cómo utilizar este comando oculto de Google: "Sé investigarlo todo de una persona"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-1448571' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-4304213.jpg?tf=1200x' alt='Experta en tecnología muestra cómo utilizar este comando oculto de Google: "Sé investigarlo todo de una persona"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/como-evitar-viejo-portatil-quede-cogiendo-polvo-cajon-cuando-windows-10-desaparezca-siempre-1445984'>Cómo evitar que tu viejo portátil se quede cogiendo polvo en un cajón cuando Windows 10 desaparezca para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/como-evitar-viejo-portatil-quede-cogiendo-polvo-cajon-cuando-windows-10-desaparezca-siempre-1445984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ordenador-viejo-windows-10-4299822.jpg?tf=1200x' alt='Cómo evitar que tu viejo portátil se quede cogiendo polvo en un cajón cuando Windows 10 desaparezca para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/cuando-deberia-renovar-mi-movil-senales-indican-terminal-ha-quedado-obsoleto-1441400'>¿Cuándo debería renovar mi móvil? Señales que indican que tu terminal ha quedado obsoleto</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/cuando-deberia-renovar-mi-movil-senales-indican-terminal-ha-quedado-obsoleto-1441400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/renovar-movil-obsoleto-4305984.jpg?tf=1200x' alt='¿Cuándo debería renovar mi móvil? Señales que indican que tu terminal ha quedado obsoleto' />
     </a>
 </div>
 
