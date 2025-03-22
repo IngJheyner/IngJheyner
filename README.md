@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292'>Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-4305290.jpg?tf=1200x' alt='Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-admite-error-ha-inutilizado-algunas-barras-sonido-solucion-proponen-1450174'>Samsung admite el error que ha inutilizado algunas de sus barras de sonido: esta es la solución que proponen</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-admite-error-ha-inutilizado-algunas-barras-sonido-solucion-proponen-1450174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/barra-sonido-samsung-4306758.jpg?tf=1200x' alt='Samsung admite el error que ha inutilizado algunas de sus barras de sonido: esta es la solución que proponen' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-deja-tesla-1448261'>James Murdoch, confidente de Elon Musk, abandona el barco de Tesla y la situación es crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-deja-tesla-1448261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-james-murdoch-4306435.jpg?tf=1200x' alt='James Murdoch, confidente de Elon Musk, abandona el barco de Tesla y la situación es crítica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/perplexity-quiere-comprar-tiktok-abrir-algoritmo-1450167'>Perplexity quiere comprar TikTok y abrir su algoritmo</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/perplexity-quiere-comprar-tiktok-abrir-algoritmo-1450167' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/perplexity-quiere-comprar-tiktok-4306749.jpg?tf=1200x' alt='Perplexity quiere comprar TikTok y abrir su algoritmo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-1447783'>WhatsApp: cómo ver los mensajes eliminados de otros en iPhone y Android</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-1447783' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-4302845.jpg?tf=1200x' alt='WhatsApp: cómo ver los mensajes eliminados de otros en iPhone y Android' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cloudflare-laberinto-ia-combate-bots-contenido-protegido-copyright-1450161'>Cloudflare combate a la IA que roba contenido protegido por copyright confundiéndola con datos irrelevantes... creados con IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cloudflare-laberinto-ia-combate-bots-contenido-protegido-copyright-1450161' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-combatira-ia-roba-contenido-protegido-confundiendola-datos-irrelevantes-absurdos-4306695.jpg?tf=1200x' alt='Cloudflare combate a la IA que roba contenido protegido por copyright confundiéndola con datos irrelevantes... creados con IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-iptv-amazon-fire-tv-android-tv-box-1448018'>Expertos contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-iptv-amazon-fire-tv-android-tv-box-1448018' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-4303238.jpg?tf=1200x' alt='Expertos contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-viajes-recuerdos-google-maps-borra-accidentalmente-historial-ubicaciones-algunos-usuarios-1450151'>Adiós a tus viajes y recuerdos: Google Maps borra accidentalmente el historial de ubicaciones de algunos usuarios</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-viajes-recuerdos-google-maps-borra-accidentalmente-historial-ubicaciones-algunos-usuarios-1450151' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-google-maps-4306732.jpg?tf=1200x' alt='Adiós a tus viajes y recuerdos: Google Maps borra accidentalmente el historial de ubicaciones de algunos usuarios' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-1447474'>Esta app portuguesa consigue lo que parecía imposible, superar a Google Maps y Waze</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-1447474' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-4302371.jpg?tf=1200x' alt='Esta app portuguesa consigue lo que parecía imposible, superar a Google Maps y Waze' />
     </a>
 </div>
 
