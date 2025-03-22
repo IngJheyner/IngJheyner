@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994'>5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-4299839.jpg?tf=1200x' alt='5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-burlas-genio-supertonto-1448869'>Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-burlas-genio-supertonto-1448869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-vestido-payaso-4306439.jpg?tf=1200x' alt='Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292'>Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-4305290.jpg?tf=1200x' alt='Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-deja-tesla-1448261'>James Murdoch, confidente de Elon Musk, abandona el barco de Tesla y la situación es crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-deja-tesla-1448261' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-james-murdoch-4306435.jpg?tf=1200x' alt='James Murdoch, confidente de Elon Musk, abandona el barco de Tesla y la situación es crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/perplexity-quiere-comprar-tiktok-abrir-algoritmo-1450167'>Perplexity quiere comprar TikTok y abrir su algoritmo</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/perplexity-quiere-comprar-tiktok-abrir-algoritmo-1450167' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/perplexity-quiere-comprar-tiktok-4306749.jpg?tf=1200x' alt='Perplexity quiere comprar TikTok y abrir su algoritmo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-1447783'>WhatsApp: cómo ver los mensajes eliminados de otros en iPhone y Android</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-1447783' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-4302845.jpg?tf=1200x' alt='WhatsApp: cómo ver los mensajes eliminados de otros en iPhone y Android' />
     </a>
 </div>
 
