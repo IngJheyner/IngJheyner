@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-advertencia-ia-autonoma-1441066'>Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-advertencia-ia-autonoma-1441066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-malvada-4306461.jpg?tf=1200x' alt='Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-llena-estafas-empresa-borra-miles-perfiles-comerciales-falsos-1450180'>Google Maps se llena de estafas: la empresa borra miles de perfiles comerciales falsos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-maps-llena-estafas-empresa-borra-miles-perfiles-comerciales-falsos-1450180' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/negocios-falsos-google-maps-4306765.jpg?tf=1200x' alt='Google Maps se llena de estafas: la empresa borra miles de perfiles comerciales falsos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994'>5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-4299839.jpg?tf=1200x' alt='5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292'>Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-4305290.jpg?tf=1200x' alt='Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/samsung-admite-error-ha-inutilizado-algunas-barras-sonido-solucion-proponen-1450174'>Samsung admite el error que ha inutilizado algunas de sus barras de sonido: esta es la solución que proponen</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/samsung-admite-error-ha-inutilizado-algunas-barras-sonido-solucion-proponen-1450174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/barra-sonido-samsung-4306758.jpg?tf=1200x' alt='Samsung admite el error que ha inutilizado algunas de sus barras de sonido: esta es la solución que proponen' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-deja-tesla-1448261'>James Murdoch, confidente de Elon Musk, abandona el barco de Tesla y la situación es crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/confidente-elon-musk-james-murdoch-deja-tesla-1448261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-james-murdoch-4306435.jpg?tf=1200x' alt='James Murdoch, confidente de Elon Musk, abandona el barco de Tesla y la situación es crítica' />
     </a>
 </div>
 
