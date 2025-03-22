@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/descargar-apps-podria-ser-facil-google-experimenta-mejoras-play-store-1450187'>Descargar apps podría ser más fácil: Google experimenta con mejoras en la Play Store</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/descargar-apps-podria-ser-facil-google-experimenta-mejoras-play-store-1450187' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-store-4306774.jpg?tf=1200x' alt='Descargar apps podría ser más fácil: Google experimenta con mejoras en la Play Store' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/apagones-estacion-energetica-portatil-te-daran-igual-rebajadisima-1450142'>¿Apagones? Con esta estación energética portátil te darán igual, y está rebajadísima</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/apagones-estacion-energetica-portatil-te-daran-igual-rebajadisima-1450142' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/allpowers-1500-4306702.jpg?tf=1200x' alt='¿Apagones? Con esta estación energética portátil te darán igual, y está rebajadísima' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-1450186'>Un estudio revela que usar ChatGPT en exceso puede generar dependencia emocional</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-1450186' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-4306772.jpg?tf=1200x' alt='Un estudio revela que usar ChatGPT en exceso puede generar dependencia emocional' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-advertencia-ia-autonoma-1441066'>Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-advertencia-ia-autonoma-1441066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-malvada-4306461.jpg?tf=1200x' alt='Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-maps-llena-estafas-empresa-borra-miles-perfiles-comerciales-falsos-1450180'>Google Maps se llena de estafas: la empresa borra miles de perfiles comerciales falsos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-maps-llena-estafas-empresa-borra-miles-perfiles-comerciales-falsos-1450180' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/negocios-falsos-google-maps-4306765.jpg?tf=1200x' alt='Google Maps se llena de estafas: la empresa borra miles de perfiles comerciales falsos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994'>5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-4299839.jpg?tf=1200x' alt='5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)' />
     </a>
 </div>
 
