@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/personalizacion-chrome-mejora-barra-desplazamiento-integrara-temas-1450214'>La personalización de Chrome mejora: la barra de desplazamiento se integrará con los temas</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/personalizacion-chrome-mejora-barra-desplazamiento-integrara-temas-1450214' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/temas-personalizados-chrome-4306792.jpg?tf=1200x' alt='La personalización de Chrome mejora: la barra de desplazamiento se integrará con los temas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-planea-dejarte-elegir-calidad-audio-pero-solo-pagas-1450213'>YouTube planea dejarte elegir la calidad del audio, pero solo si pagas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-planea-dejarte-elegir-calidad-audio-pero-solo-pagas-1450213' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-4306791.jpg?tf=1200x' alt='YouTube planea dejarte elegir la calidad del audio, pero solo si pagas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/apagones-estacion-energetica-portatil-te-daran-igual-rebajadisima-1450142'>¿Apagones? Con esta estación energética portátil te darán igual, y está rebajadísima</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/apagones-estacion-energetica-portatil-te-daran-igual-rebajadisima-1450142' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/allpowers-1500-4306702.jpg?tf=1200x' alt='¿Apagones? Con esta estación energética portátil te darán igual, y está rebajadísima' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-1450186'>Un estudio revela que usar ChatGPT en exceso puede generar dependencia emocional</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-1450186' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-4306772.jpg?tf=1200x' alt='Un estudio revela que usar ChatGPT en exceso puede generar dependencia emocional' />
     </a>
 </div>
 
