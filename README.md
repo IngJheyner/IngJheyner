@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-1447474'>Esta app portuguesa consigue lo que parecía imposible, superar a Google Maps y Waze</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-1447474' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-4302371.jpg?tf=1200x' alt='Esta app portuguesa consigue lo que parecía imposible, superar a Google Maps y Waze' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-futurista-singularidad-humano-ia-1399601'>Experto científico y futurista calcula que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-futurista-singularidad-humano-ia-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/singularidad-ia-4306423.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano alcanzará la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-1449024'>Ni colgar ni amenazar con la lista Robinson, la estrategia de los expertos que enloquece a los teleoperadores y acaba con las llamadas SPAM </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-1449024' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-4304840.jpg?tf=1200x' alt='Ni colgar ni amenazar con la lista Robinson, la estrategia de los expertos que enloquece a los teleoperadores y acaba con las llamadas SPAM ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-1450119'>La lámpara de Pixar cobra vida, y además te sigue allá donde vayas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-1450119' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-4306689.jpg?tf=1200x' alt='La lámpara de Pixar cobra vida, y además te sigue allá donde vayas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777'>Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pasarse-windows-linux-4302836.jpg?tf=1200x' alt='Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-1449568'>Todos alucinan cuando uso este botón oculto de mi móvil: el tuyo también lo tiene, solo tienes que saber activarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-1449568' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-4305738.jpg?tf=1200x' alt='Todos alucinan cuando uso este botón oculto de mi móvil: el tuyo también lo tiene, solo tienes que saber activarlo' />
     </a>
 </div>
 
