@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/francia-alemania-presentan-docs-alternativa-europea-microsoft-office-google-docs-1450111'>El despertar de la UE: Francia y Alemania presentan Docs, la alternativa europea a Google Docs y Microsoft 365</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/francia-alemania-presentan-docs-alternativa-europea-microsoft-office-google-docs-1450111' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despertar-ue-francia-alemania-presentan-docs-alternativa-microsoft-office-google-docs-4306669.jpg?tf=1200x' alt='El despertar de la UE: Francia y Alemania presentan Docs, la alternativa europea a Google Docs y Microsoft 365' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/funcionan-nuevas-multas-particulares-750-euros-uso-iptv-pirata-1450086'>Así funcionan las nuevas multas a particulares de hasta 750 euros por el uso de IPTV pirata </a></h4>
     <a href='https://computerhoy.20minutos.es/internet/funcionan-nuevas-multas-particulares-750-euros-uso-iptv-pirata-1450086' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funcionan-nuevas-multas-particulares-750-euros-uso-iptv-pirata-4306673.jpg?tf=1200x' alt='Así funcionan las nuevas multas a particulares de hasta 750 euros por el uso de IPTV pirata ' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-24h2-puede-llevar-16-horas-quedarse-atascado-1450096'>Actualizar a Windows 11 24H2 puede llevar más de 16 horas (o quedarse atascado)</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-24h2-puede-llevar-16-horas-quedarse-atascado-1450096' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-windows-11-4306643.jpg?tf=1200x' alt='Actualizar a Windows 11 24H2 puede llevar más de 16 horas (o quedarse atascado)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-apuros-ia-iphone-16-desata-demanda-publicidad-enganosa-1450094'>Apple en apuros: la IA del iPhone 16 desata una demanda por publicidad engañosa</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-apuros-ia-iphone-16-desata-demanda-publicidad-enganosa-1450094' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-4306642.jpg?tf=1200x' alt='Apple en apuros: la IA del iPhone 16 desata una demanda por publicidad engañosa' />
     </a>
 </div>
 
