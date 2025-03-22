@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-1449298'>Elon Musk llevaba 10 minutos con su primer portátil con Windows y lo tuvo muy claro: "Esto es un desastre"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-1449298' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-4305294.jpg?tf=1200x' alt='Elon Musk llevaba 10 minutos con su primer portátil con Windows y lo tuvo muy claro: "Esto es un desastre"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-sorpresa-garmin-vende-mejores-relojes-running-gps-precio-derribo-1449592'>AliExpress da la sorpresa con Garmin: vende uno de los mejores relojes running con GPS a precio de derribo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-sorpresa-garmin-vende-mejores-relojes-running-gps-precio-derribo-1449592' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg?tf=1200x' alt='AliExpress da la sorpresa con Garmin: vende uno de los mejores relojes running con GPS a precio de derribo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/francia-alemania-presentan-docs-alternativa-europea-microsoft-office-google-docs-1450111'>El despertar de la UE: Francia y Alemania presentan Docs, la alternativa europea a Google Docs y Microsoft 365</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/francia-alemania-presentan-docs-alternativa-europea-microsoft-office-google-docs-1450111' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despertar-ue-francia-alemania-presentan-docs-alternativa-microsoft-office-google-docs-4306669.jpg?tf=1200x' alt='El despertar de la UE: Francia y Alemania presentan Docs, la alternativa europea a Google Docs y Microsoft 365' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-apple-tv-plus-pierde-1000-millones-dolares-1450101'>Hasta Tim Cook se lleva las manos a la cabeza: Apple TV+ pierde 1.000 millones de dólares al año</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-apple-tv-plus-pierde-1000-millones-dolares-1450101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-lleva-manos-cabeza-apple-tv-pierde-1000-millones-dolares-ano-4306629.jpg?tf=1200x' alt='Hasta Tim Cook se lleva las manos a la cabeza: Apple TV+ pierde 1.000 millones de dólares al año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/nueva-actualizacion-windows-10-instala-permiso-causa-errores-inesperados-1450099'>Nueva actualización de Windows 10 se instala sin permiso y causa errores inesperados</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/nueva-actualizacion-windows-10-instala-permiso-causa-errores-inesperados-1450099' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-rota-4306652.jpg?tf=1200x' alt='Nueva actualización de Windows 10 se instala sin permiso y causa errores inesperados' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-24h2-puede-llevar-16-horas-quedarse-atascado-1450096'>Actualizar a Windows 11 24H2 puede llevar más de 16 horas (o quedarse atascado)</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/actualizar-windows-11-24h2-puede-llevar-16-horas-quedarse-atascado-1450096' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-windows-11-4306643.jpg?tf=1200x' alt='Actualizar a Windows 11 24H2 puede llevar más de 16 horas (o quedarse atascado)' />
     </a>
 </div>
 
