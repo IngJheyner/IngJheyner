@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-1448571'>Experta en tecnología muestra cómo utilizar este comando oculto de Google: "Sé investigarlo todo de una persona"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-1448571' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-4304213.jpg?tf=1200x' alt='Experta en tecnología muestra cómo utilizar este comando oculto de Google: "Sé investigarlo todo de una persona"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/como-evitar-viejo-portatil-quede-cogiendo-polvo-cajon-cuando-windows-10-desaparezca-siempre-1445984'>Cómo evitar que tu viejo portátil se quede cogiendo polvo en un cajón cuando Windows 10 desaparezca para siempre</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/como-evitar-viejo-portatil-quede-cogiendo-polvo-cajon-cuando-windows-10-desaparezca-siempre-1445984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ordenador-viejo-windows-10-4299822.jpg?tf=1200x' alt='Cómo evitar que tu viejo portátil se quede cogiendo polvo en un cajón cuando Windows 10 desaparezca para siempre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/cuando-deberia-renovar-mi-movil-senales-indican-terminal-ha-quedado-obsoleto-1441400'>¿Cuándo debería renovar mi móvil? Señales que indican que tu terminal ha quedado obsoleto</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/cuando-deberia-renovar-mi-movil-senales-indican-terminal-ha-quedado-obsoleto-1441400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/renovar-movil-obsoleto-4305984.jpg?tf=1200x' alt='¿Cuándo debería renovar mi móvil? Señales que indican que tu terminal ha quedado obsoleto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/mini-pc-geekom-a6-ha-convertido-mi-favorito-ser-pequenito-pero-maton-1448927'>El mini PC Geekom A6 se ha convertido en mi favorito por ser pequeñito, pero matón</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/mini-pc-geekom-a6-ha-convertido-mi-favorito-ser-pequenito-pero-maton-1448927' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geekom-a6-mini-pc-4305590.jpg?tf=1200x' alt='El mini PC Geekom A6 se ha convertido en mi favorito por ser pequeñito, pero matón' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-1449298'>Elon Musk llevaba 10 minutos con su primer portátil con Windows y lo tuvo muy claro: "Esto es un desastre"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-1449298' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-4305294.jpg?tf=1200x' alt='Elon Musk llevaba 10 minutos con su primer portátil con Windows y lo tuvo muy claro: "Esto es un desastre"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-sorpresa-garmin-vende-mejores-relojes-running-gps-precio-derribo-1449592'>AliExpress da la sorpresa con Garmin: vende uno de los mejores relojes running con GPS a precio de derribo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/aliexpress-da-sorpresa-garmin-vende-mejores-relojes-running-gps-precio-derribo-1449592' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/06/garmin-forerunner-255-2721191.jpg?tf=1200x' alt='AliExpress da la sorpresa con Garmin: vende uno de los mejores relojes running con GPS a precio de derribo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/francia-alemania-presentan-docs-alternativa-europea-microsoft-office-google-docs-1450111'>El despertar de la UE: Francia y Alemania presentan Docs, la alternativa europea a Google Docs y Microsoft 365</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/francia-alemania-presentan-docs-alternativa-europea-microsoft-office-google-docs-1450111' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despertar-ue-francia-alemania-presentan-docs-alternativa-microsoft-office-google-docs-4306669.jpg?tf=1200x' alt='El despertar de la UE: Francia y Alemania presentan Docs, la alternativa europea a Google Docs y Microsoft 365' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/funcionan-nuevas-multas-particulares-750-euros-uso-iptv-pirata-1450086'>Así funcionan las nuevas multas a particulares de hasta 750 euros por el uso de IPTV pirata </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/funcionan-nuevas-multas-particulares-750-euros-uso-iptv-pirata-1450086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funcionan-nuevas-multas-particulares-750-euros-uso-iptv-pirata-4306673.jpg?tf=1200x' alt='Así funcionan las nuevas multas a particulares de hasta 750 euros por el uso de IPTV pirata ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-apple-tv-plus-pierde-1000-millones-dolares-1450101'>Hasta Tim Cook se lleva las manos a la cabeza: Apple TV+ pierde 1.000 millones de dólares al año</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-apple-tv-plus-pierde-1000-millones-dolares-1450101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-lleva-manos-cabeza-apple-tv-pierde-1000-millones-dolares-ano-4306629.jpg?tf=1200x' alt='Hasta Tim Cook se lleva las manos a la cabeza: Apple TV+ pierde 1.000 millones de dólares al año' />
     </a>
 </div>
 
