@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777'>Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/miedo-salto-windows-linux-pruebas-no-hay-marcha-atras-1447777' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pasarse-windows-linux-4302836.jpg?tf=1200x' alt='Es normal tener miedo del salto de Windows a Linux, pero si lo pruebas ya no hay marcha atrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-1449568'>Todos alucinan cuando uso este botón oculto de mi móvil: el tuyo también lo tiene, solo tienes que saber activarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-1449568' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/todos-alucinan-cuando-uso-boton-oculto-mi-movil-tambien-tiene-solo-tienes-saber-activarlo-4305738.jpg?tf=1200x' alt='Todos alucinan cuando uso este botón oculto de mi móvil: el tuyo también lo tiene, solo tienes que saber activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-1448571'>Experta en tecnología muestra cómo utilizar este comando oculto de Google: "Sé investigarlo todo de una persona"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-1448571' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-tecnologia-muestra-como-utilizar-comando-oculto-google-investigarlo-todo-persona-4304213.jpg?tf=1200x' alt='Experta en tecnología muestra cómo utilizar este comando oculto de Google: "Sé investigarlo todo de una persona"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/cuando-deberia-renovar-mi-movil-senales-indican-terminal-ha-quedado-obsoleto-1441400'>¿Cuándo debería renovar mi móvil? Señales que indican que tu terminal ha quedado obsoleto</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/cuando-deberia-renovar-mi-movil-senales-indican-terminal-ha-quedado-obsoleto-1441400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/renovar-movil-obsoleto-4305984.jpg?tf=1200x' alt='¿Cuándo debería renovar mi móvil? Señales que indican que tu terminal ha quedado obsoleto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/mini-pc-geekom-a6-ha-convertido-mi-favorito-ser-pequenito-pero-maton-1448927'>El mini PC Geekom A6 se ha convertido en mi favorito por ser pequeñito, pero matón</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/mini-pc-geekom-a6-ha-convertido-mi-favorito-ser-pequenito-pero-maton-1448927' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geekom-a6-mini-pc-4305590.jpg?tf=1200x' alt='El mini PC Geekom A6 se ha convertido en mi favorito por ser pequeñito, pero matón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-1449298'>Elon Musk llevaba 10 minutos con su primer portátil con Windows y lo tuvo muy claro: "Esto es un desastre"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-1449298' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-llevaba-10-minutos-primer-portatil-windows-tuvo-muy-claro-desastre-4305294.jpg?tf=1200x' alt='Elon Musk llevaba 10 minutos con su primer portátil con Windows y lo tuvo muy claro: "Esto es un desastre"' />
     </a>
 </div>
 
