@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-dos-apps-mejorar-busqueda-archivos-contactos-1450183'>Windows 11 estrena dos apps para mejorar la búsqueda de archivos y contactos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-dos-apps-mejorar-busqueda-archivos-contactos-1450183' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-estrena-dos-apps-mejorar-busqueda-archivos-contactos-4306768.jpg?tf=1200x' alt='Windows 11 estrena dos apps para mejorar la búsqueda de archivos y contactos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-advertencia-ia-autonoma-1441066'>Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/max-tegmark-yoshua-bengio-advertencia-ia-autonoma-1441066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-malvada-4306461.jpg?tf=1200x' alt='Dos de los mayores expertos mundiales en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-burlas-genio-supertonto-1448869'>Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-burlas-genio-supertonto-1448869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-vestido-payaso-4306439.jpg?tf=1200x' alt='Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292'>Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-1449292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deberias-utilizar-dos-cargadores-diferentes-cargar-bateria-estas-destrozando-movil-saberlo-4305290.jpg?tf=1200x' alt='Deberías utilizar dos cargadores diferentes para cargar la batería: estás destrozando tu móvil sin saberlo' />
     </a>
 </div>
 
