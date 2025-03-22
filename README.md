@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-1447783'>WhatsApp: cómo ver los mensajes eliminados de otros en iPhone y Android</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-1447783' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-como-ver-mensajes-eliminados-otros-iphone-android-4302845.jpg?tf=1200x' alt='WhatsApp: cómo ver los mensajes eliminados de otros en iPhone y Android' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cloudflare-laberinto-ia-combate-bots-contenido-protegido-copyright-1450161'>Cloudflare combate a la IA que roba contenido protegido por copyright confundiéndola con datos irrelevantes... creados con IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cloudflare-laberinto-ia-combate-bots-contenido-protegido-copyright-1450161' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-combatira-ia-roba-contenido-protegido-confundiendola-datos-irrelevantes-absurdos-4306695.jpg?tf=1200x' alt='Cloudflare combate a la IA que roba contenido protegido por copyright confundiéndola con datos irrelevantes... creados con IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-iptv-amazon-fire-tv-android-tv-box-1448018'>Expertos contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-iptv-amazon-fire-tv-android-tv-box-1448018' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-lucha-iptv-tienen-claro-hay-terminar-amazon-fire-tv-android-tv-box-4303238.jpg?tf=1200x' alt='Expertos contra las IPTV lo tienen claro: hay que terminar con el Amazon Fire TV y los Android TV Box' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-viajes-recuerdos-google-maps-borra-accidentalmente-historial-ubicaciones-algunos-usuarios-1450151'>Adiós a tus viajes y recuerdos: Google Maps borra accidentalmente el historial de ubicaciones de algunos usuarios</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-viajes-recuerdos-google-maps-borra-accidentalmente-historial-ubicaciones-algunos-usuarios-1450151' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-google-maps-4306732.jpg?tf=1200x' alt='Adiós a tus viajes y recuerdos: Google Maps borra accidentalmente el historial de ubicaciones de algunos usuarios' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-1447474'>Esta app portuguesa consigue lo que parecía imposible, superar a Google Maps y Waze</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-1447474' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/app-portuguesa-consigue-parecia-imposible-superar-google-maps-waze-4302371.jpg?tf=1200x' alt='Esta app portuguesa consigue lo que parecía imposible, superar a Google Maps y Waze' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-futurista-singularidad-humano-ia-1399601'>Experto científico y futurista calcula que el ser humano alcanzará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-futurista-singularidad-humano-ia-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/singularidad-ia-4306423.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano alcanzará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-1449024'>Ni colgar ni amenazar con la lista Robinson, la estrategia de los expertos que enloquece a los teleoperadores y acaba con las llamadas SPAM </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-1449024' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-colgar-ni-amenazar-lista-robinson-estrategia-expertos-enloquece-teleoperadores-acaba-llamadas-spam-4304840.jpg?tf=1200x' alt='Ni colgar ni amenazar con la lista Robinson, la estrategia de los expertos que enloquece a los teleoperadores y acaba con las llamadas SPAM ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pirateria-iptv-producto-fallido-dejadez-intencionada-1445876'>Amazon Fire TV, piratería y las IPTV: ¿producto fallido o dejadez intencionada?</a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/amazon-fire-tv-pirateria-iptv-producto-fallido-dejadez-intencionada-1445876' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fire-tv-iptv-4306422.jpg?tf=1200x' alt='Amazon Fire TV, piratería y las IPTV: ¿producto fallido o dejadez intencionada?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-1450119'>La lámpara de Pixar cobra vida, y además te sigue allá donde vayas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-1450119' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lampara-pixar-cobra-vida-ademas-te-sigue-alla-donde-vayas-4306689.jpg?tf=1200x' alt='La lámpara de Pixar cobra vida, y además te sigue allá donde vayas' />
     </a>
 </div>
 
