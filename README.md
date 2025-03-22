@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-1450186'>Un estudio revela que usar ChatGPT en exceso puede generar dependencia emocional</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-1450186' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudio-revela-usar-chatgpt-exceso-puede-generar-dependencia-emocional-4306772.jpg?tf=1200x' alt='Un estudio revela que usar ChatGPT en exceso puede generar dependencia emocional' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-dos-apps-mejorar-busqueda-archivos-contactos-1450183'>Windows 11 estrena dos apps para mejorar la búsqueda de archivos y contactos</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/windows-11-estrena-dos-apps-mejorar-busqueda-archivos-contactos-1450183' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-estrena-dos-apps-mejorar-busqueda-archivos-contactos-4306768.jpg?tf=1200x' alt='Windows 11 estrena dos apps para mejorar la búsqueda de archivos y contactos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994'>5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-1445994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-clasicos-ciencia-ficcion-no-ganaron-oscar-mejor-pelicula-aunque-pienses-4299839.jpg?tf=1200x' alt='5 clásicos de la ciencia ficción que no ganaron el Oscar a la Mejor Película (aunque pienses que sí)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-burlas-genio-supertonto-1448869'>Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-burlas-genio-supertonto-1448869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-vestido-payaso-4306439.jpg?tf=1200x' alt='Elon Musk es oficialmente el hazmerreír de medio mundo: “¿Es posible que un genio también sea supertonto?”' />
     </a>
 </div>
 
