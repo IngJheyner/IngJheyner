@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-teleoperadora-aclara-cuando-recibes-llamada-spam-piensa-poquin-1447478'>Experta teleoperadora aclara qué debes hacer cuando recibes una llamada SPAM: “Piensa un poquín”</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-teleoperadora-aclara-cuando-recibes-llamada-spam-piensa-poquin-1447478' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/teleoperadora-advierte-spam-4302373.jpg?tf=1200x' alt='Experta teleoperadora aclara qué debes hacer cuando recibes una llamada SPAM: “Piensa un poquín”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842'>Kevin Weil, creador de ChatGPT, confirma lo que más temíamos: "Al ritmo que vamos, creo que será antes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/kevin-weil-chatgpt-4306444.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma lo que más temíamos: "Al ritmo que vamos, creo que será antes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809'>Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-antes-windows-11-4301304.jpg?tf=1200x' alt='Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541'>¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copia-seguridad-disco-duro-ssd-4300746.jpg?tf=1200x' alt='¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/gracias-linux-he-conseguido-revivir-portatil-viejo-muerto-llevaba-anos-metido-cajon-1446268'>Gracias Linux: así he conseguido revivir un portátil viejo "muerto" que llevaba años metido en un cajón</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/gracias-linux-he-conseguido-revivir-portatil-viejo-muerto-llevaba-anos-metido-cajon-1446268' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gracias-linux-he-conseguido-revivir-portatil-viejo-muerto-llevaba-anos-metido-cajon-4300274.jpg?tf=1200x' alt='Gracias Linux: así he conseguido revivir un portátil viejo "muerto" que llevaba años metido en un cajón' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-laliga-acusa-proteger-pirateria-iptv-ilegales-espana-1447732'>¿Qué es Cloudflare y por qué LaLiga lo acusa de proteger la piratería e IPTV ilegales en España?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-laliga-acusa-proteger-pirateria-iptv-ilegales-espana-1447732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-4303927.jpg?tf=1200x' alt='¿Qué es Cloudflare y por qué LaLiga lo acusa de proteger la piratería e IPTV ilegales en España?' />
     </a>
 </div>
 
