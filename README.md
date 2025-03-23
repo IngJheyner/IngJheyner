@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-desvelan-truco-infalible-par-evitar-te-clonen-voz-nos-va-pasar-todos-1449029'>Expertos en IA desvelan el truco infalible par evitar que te clonen la voz: "Esto nos va a pasar a todos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-desvelan-truco-infalible-par-evitar-te-clonen-voz-nos-va-pasar-todos-1449029' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-desvelan-truco-infalible-par-evitar-te-clonen-voz-nos-va-pasar-todos-4304843.jpg?tf=1200x' alt='Expertos en IA desvelan el truco infalible par evitar que te clonen la voz: "Esto nos va a pasar a todos"' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541'>¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copia-seguridad-disco-duro-ssd-4300746.jpg?tf=1200x' alt='¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-ti-amigos-cuesta-apenas-2-euros-podeis-conectaros-todos-1449421'>Una VPN para ti y tus amigos: cuesta apenas 2 euros y podéis conectaros todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/vpn-ti-amigos-cuesta-apenas-2-euros-podeis-conectaros-todos-1449421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/surfshark-vpn-4305438.jpg?tf=1200x' alt='Una VPN para ti y tus amigos: cuesta apenas 2 euros y podéis conectaros todos' />
+    <h4><a href='https://computerhoy.20minutos.es/pc/gracias-linux-he-conseguido-revivir-portatil-viejo-muerto-llevaba-anos-metido-cajon-1446268'>Gracias Linux: así he conseguido revivir un portátil viejo "muerto" que llevaba años metido en un cajón</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/gracias-linux-he-conseguido-revivir-portatil-viejo-muerto-llevaba-anos-metido-cajon-1446268' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gracias-linux-he-conseguido-revivir-portatil-viejo-muerto-llevaba-anos-metido-cajon-4300274.jpg?tf=1200x' alt='Gracias Linux: así he conseguido revivir un portátil viejo "muerto" que llevaba años metido en un cajón' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/personalizacion-chrome-mejora-barra-desplazamiento-integrara-temas-1450214'>La personalización de Chrome mejora: la barra de desplazamiento se integrará con los temas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/personalizacion-chrome-mejora-barra-desplazamiento-integrara-temas-1450214' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/temas-personalizados-chrome-4306792.jpg?tf=1200x' alt='La personalización de Chrome mejora: la barra de desplazamiento se integrará con los temas' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-laliga-acusa-proteger-pirateria-iptv-ilegales-espana-1447732'>¿Qué es Cloudflare y por qué LaLiga lo acusa de proteger la piratería e IPTV ilegales en España?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-laliga-acusa-proteger-pirateria-iptv-ilegales-espana-1447732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-4303927.jpg?tf=1200x' alt='¿Qué es Cloudflare y por qué LaLiga lo acusa de proteger la piratería e IPTV ilegales en España?' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-planea-dejarte-elegir-calidad-audio-pero-solo-pagas-1450213'>YouTube planea dejarte elegir la calidad del audio, pero solo si pagas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-planea-dejarte-elegir-calidad-audio-pero-solo-pagas-1450213' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-4306791.jpg?tf=1200x' alt='YouTube planea dejarte elegir la calidad del audio, pero solo si pagas' />
+    <h4><a href='https://computerhoy.20minutos.es/google/ni-microsoft-ni-linux-google-tiene-mejores-soluciones-no-puedes-actualizar-windows-11-1449757'>Ni Microsoft ni Linux, Google tiene una de las mejores soluciones si no puedes actualizar a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ni-microsoft-ni-linux-google-tiene-mejores-soluciones-no-puedes-actualizar-windows-11-1449757' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chromeos-flex-windows-actualizacion-4306033.jpg?tf=1200x' alt='Ni Microsoft ni Linux, Google tiene una de las mejores soluciones si no puedes actualizar a Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-paint-windows-11-renueva-nuevo-boton-copilot-ia-integrada-1450190'>Microsoft Paint en Windows 11 se renueva: nuevo botón de Copilot con IA integrada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-paint-windows-11-renueva-nuevo-boton-copilot-ia-integrada-1450190' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-paint-windows-11-4306776.jpg?tf=1200x' alt='Microsoft Paint en Windows 11 se renueva: nuevo botón de Copilot con IA integrada' />
+    <h4><a href='https://computerhoy.20minutos.es/energia/adios-enchufes-coca-cola-primera-maquina-expendedora-hidrogeno-1450221'>Adiós a los enchufes: Coca Cola presenta la primera máquina expendedora que funciona con hidrógeno</a></h4>
+    <a href='https://computerhoy.20minutos.es/energia/adios-enchufes-coca-cola-primera-maquina-expendedora-hidrogeno-1450221' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-cables-coca-cola-presenta-primera-maquina-expendedora-funciona-hidrogeno-4306799.jpg?tf=1200x' alt='Adiós a los enchufes: Coca Cola presenta la primera máquina expendedora que funciona con hidrógeno' />
     </a>
 </div>
 
