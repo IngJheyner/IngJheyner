@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-cuentame-como-paso-1450297'>Llega a Netflix una mítica serie española con la que es imposible hacer una maratón: son más de 400 capítulos</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-cuentame-como-paso-1450297' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llega-netflix-mitica-serie-espanola-imposible-hacer-maraton-son-400-capitulos-4306929.jpg?tf=1200x' alt='Llega a Netflix una mítica serie española con la que es imposible hacer una maratón: son más de 400 capítulos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292'>Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acabaron-baches-carreteras-robot-autonomo-arregla-solito-4306920.jpg?tf=1200x' alt='Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-complicada-situacion-vivio-microsoft-pense-estaba-error-muerte-1446806'>Bill Gates confiesa la complicada situación que vivió en Microsoft: "Pensé que estaba a un error de la muerte"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-complicada-situacion-vivio-microsoft-pense-estaba-error-muerte-1446806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-confiesa-mayor-error-me-arrepiento-4288826.jpg?tf=1200x' alt='Bill Gates confiesa la complicada situación que vivió en Microsoft: "Pensé que estaba a un error de la muerte"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/fallo-android-muestra-alertas-actualizacion-inexistentes-debes-hacer-1450274'>El fallo en Android que muestra alertas de actualización inexistentes: esto es lo que debes hacer</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/fallo-android-muestra-alertas-actualizacion-inexistentes-debes-hacer-1450274' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-services-4306857.jpg?tf=1200x' alt='El fallo en Android que muestra alertas de actualización inexistentes: esto es lo que debes hacer' />
     </a>
 </div>
 
