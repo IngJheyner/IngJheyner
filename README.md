@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809'>Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-antes-windows-11-4301304.jpg?tf=1200x' alt='Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-augura-futuro-programadores-90-codigo-escrito-ia-6-meses-1449555'>Experto augura un futuro muy negro para los programadores: “El 90% del código será escrito por IA en 6 meses”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-augura-futuro-programadores-90-codigo-escrito-ia-6-meses-1449555' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dario-amodei-afirma-ia-va-reemplazar-programadores-4305717.jpg?tf=1200x' alt='Experto augura un futuro muy negro para los programadores: “El 90% del código será escrito por IA en 6 meses”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541'>¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copia-seguridad-disco-duro-ssd-4300746.jpg?tf=1200x' alt='¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-laliga-acusa-proteger-pirateria-iptv-ilegales-espana-1447732'>¿Qué es Cloudflare y por qué LaLiga lo acusa de proteger la piratería e IPTV ilegales en España?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/cloudflare-laliga-acusa-proteger-pirateria-iptv-ilegales-espana-1447732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-4303927.jpg?tf=1200x' alt='¿Qué es Cloudflare y por qué LaLiga lo acusa de proteger la piratería e IPTV ilegales en España?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ni-microsoft-ni-linux-google-tiene-mejores-soluciones-no-puedes-actualizar-windows-11-1449757'>Ni Microsoft ni Linux, Google tiene una de las mejores soluciones si no puedes actualizar a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ni-microsoft-ni-linux-google-tiene-mejores-soluciones-no-puedes-actualizar-windows-11-1449757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chromeos-flex-windows-actualizacion-4306033.jpg?tf=1200x' alt='Ni Microsoft ni Linux, Google tiene una de las mejores soluciones si no puedes actualizar a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/adios-enchufes-coca-cola-primera-maquina-expendedora-hidrogeno-1450221'>Adiós a los enchufes: Coca Cola presenta la primera máquina expendedora que funciona con hidrógeno</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/adios-enchufes-coca-cola-primera-maquina-expendedora-hidrogeno-1450221' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-cables-coca-cola-presenta-primera-maquina-expendedora-funciona-hidrogeno-4306799.jpg?tf=1200x' alt='Adiós a los enchufes: Coca Cola presenta la primera máquina expendedora que funciona con hidrógeno' />
     </a>
 </div>
 
