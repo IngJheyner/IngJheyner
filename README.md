@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-emergentes-deberias-aprender-antes-conviertan-nuevo-python-1446801'>Lenguajes de programación emergentes que deberías aprender antes de que se conviertan en el nuevo Python</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-emergentes-deberias-aprender-antes-conviertan-nuevo-python-1446801' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/phyton-ordenador-portatil-4301289.jpg?tf=1200x' alt='Lenguajes de programación emergentes que deberías aprender antes de que se conviertan en el nuevo Python' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928'>Golpe a Elon Musk y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-volkswagen-4306450.jpg?tf=1200x' alt='Golpe a Elon Musk y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-teleoperadora-aclara-cuando-recibes-llamada-spam-piensa-poquin-1447478'>Experta teleoperadora aclara qué debes hacer cuando recibes una llamada SPAM: “Piensa un poquín”</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-teleoperadora-aclara-cuando-recibes-llamada-spam-piensa-poquin-1447478' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/teleoperadora-advierte-spam-4302373.jpg?tf=1200x' alt='Experta teleoperadora aclara qué debes hacer cuando recibes una llamada SPAM: “Piensa un poquín”' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809'>Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-antes-windows-11-4301304.jpg?tf=1200x' alt='Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-augura-futuro-programadores-90-codigo-escrito-ia-6-meses-1449555'>Experto augura un futuro muy negro para los programadores: “El 90% del código será escrito por IA en 6 meses”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-augura-futuro-programadores-90-codigo-escrito-ia-6-meses-1449555' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dario-amodei-afirma-ia-va-reemplazar-programadores-4305717.jpg?tf=1200x' alt='Experto augura un futuro muy negro para los programadores: “El 90% del código será escrito por IA en 6 meses”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541'>¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/deberias-utilizar-discos-ssd-hacer-copias-seguridad-datos-largo-plazo-1446541' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copia-seguridad-disco-duro-ssd-4300746.jpg?tf=1200x' alt='¿Deberías utilizar discos SSD para hacer copias de seguridad de datos a largo plazo?' />
     </a>
 </div>
 
