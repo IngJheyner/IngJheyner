@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-complicada-situacion-vivio-microsoft-pense-estaba-error-muerte-1446806'>Bill Gates confiesa la complicada situación que vivió en Microsoft: "Pensé que estaba a un error de la muerte"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-complicada-situacion-vivio-microsoft-pense-estaba-error-muerte-1446806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-confiesa-mayor-error-me-arrepiento-4288826.jpg?tf=1200x' alt='Bill Gates confiesa la complicada situación que vivió en Microsoft: "Pensé que estaba a un error de la muerte"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/fallo-android-muestra-alertas-actualizacion-inexistentes-debes-hacer-1450274'>El fallo en Android que muestra alertas de actualización inexistentes: esto es lo que debes hacer</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/fallo-android-muestra-alertas-actualizacion-inexistentes-debes-hacer-1450274' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-services-4306857.jpg?tf=1200x' alt='El fallo en Android que muestra alertas de actualización inexistentes: esto es lo que debes hacer' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482'>Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/wifi-mesh-mejor-conexion-4302377.jpg?tf=1200x' alt='Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-inteligencia-artificial-1448315'>Expertos programadores aseguran que el dominio de Python en la IA podría acabar este mismo año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-inteligencia-artificial-1448315' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programar-python-4306459.jpg?tf=1200x' alt='Expertos programadores aseguran que el dominio de Python en la IA podría acabar este mismo año' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-frustrados-boton-reportes-trafico-google-maps-no-aparece-todos-1450266'>Usuarios de Android Auto frustrados: el botón de reportes de tráfico en Google Maps no aparece para todos</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-frustrados-boton-reportes-trafico-google-maps-no-aparece-todos-1450266' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-android-auto-4306846.jpg?tf=1200x' alt='Usuarios de Android Auto frustrados: el botón de reportes de tráfico en Google Maps no aparece para todos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-1447052'>Posiblemente, estés perdiendo dinero con tu Raspberry Pi 5, y seguramente no te has dado cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-1447052' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-4301721.jpg?tf=1200x' alt='Posiblemente, estés perdiendo dinero con tu Raspberry Pi 5, y seguramente no te has dado cuenta' />
     </a>
 </div>
 
