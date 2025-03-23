@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482'>Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/wifi-mesh-mejor-conexion-4302377.jpg?tf=1200x' alt='Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-renueva-menu-inicio-nuevas-opciones-mover-organizar-aplicaciones-1450272'>Windows 11 renueva su menú inicio con nuevas opciones para mover y organizar aplicaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-renueva-menu-inicio-nuevas-opciones-mover-organizar-aplicaciones-1450272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/menu-inicio-windows-11-4306853.jpg?tf=1200x' alt='Windows 11 renueva su menú inicio con nuevas opciones para mover y organizar aplicaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-inteligencia-artificial-1448315'>Expertos programadores aseguran que el dominio de Python en la IA podría acabar este mismo año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-programacion-aseguran-dominio-python-inteligencia-artificial-1448315' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/programar-python-4306459.jpg?tf=1200x' alt='Expertos programadores aseguran que el dominio de Python en la IA podría acabar este mismo año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-frustrados-boton-reportes-trafico-google-maps-no-aparece-todos-1450266'>Usuarios de Android Auto frustrados: el botón de reportes de tráfico en Google Maps no aparece para todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/usuarios-android-auto-frustrados-boton-reportes-trafico-google-maps-no-aparece-todos-1450266' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/error-android-auto-4306846.jpg?tf=1200x' alt='Usuarios de Android Auto frustrados: el botón de reportes de tráfico en Google Maps no aparece para todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-1447052'>Posiblemente, estés perdiendo dinero con tu Raspberry Pi 5, y seguramente no te has dado cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-1447052' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-4301721.jpg?tf=1200x' alt='Posiblemente, estés perdiendo dinero con tu Raspberry Pi 5, y seguramente no te has dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/iphone-16e-vende-ritmo-infernal-amazon-da-paso-rebaja-50-euros-ya-1450253'>El iPhone 16e se vende a ritmo infernal, y Amazon da el paso y lo rebaja 50 euros ya</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/iphone-16e-vende-ritmo-infernal-amazon-da-paso-rebaja-50-euros-ya-1450253' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4299852.jpg?tf=1200x' alt='El iPhone 16e se vende a ritmo infernal, y Amazon da el paso y lo rebaja 50 euros ya' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-despide-acciones-sugeridas-mientras-mejora-rendimiento-explorador-archivos-1450258'>Windows 11 se despide de las acciones sugeridas mientras mejora el rendimiento del explorador de archivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-despide-acciones-sugeridas-mientras-mejora-rendimiento-explorador-archivos-1450258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/explorador-archivos-windows-11-4306840.jpg?tf=1200x' alt='Windows 11 se despide de las acciones sugeridas mientras mejora el rendimiento del explorador de archivos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-chatgpt-deepseek-recomiendan-no-hacer-1445982'>Las carreras universitarias que los expertos y la IA recomiendan no hacer: "Es perder el tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-chatgpt-deepseek-recomiendan-no-hacer-1445982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-universidad-4306451.jpg?tf=1200x' alt='Las carreras universitarias que los expertos y la IA recomiendan no hacer: "Es perder el tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-emergentes-deberias-aprender-antes-conviertan-nuevo-python-1446801'>Lenguajes de programación emergentes que deberías aprender antes de que se conviertan en el nuevo Python</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-emergentes-deberias-aprender-antes-conviertan-nuevo-python-1446801' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/phyton-ordenador-portatil-4301289.jpg?tf=1200x' alt='Lenguajes de programación emergentes que deberías aprender antes de que se conviertan en el nuevo Python' />
     </a>
 </div>
 
