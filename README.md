@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-1447052'>Posiblemente, estés perdiendo dinero con tu Raspberry Pi 5, y seguramente no te has dado cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-1447052' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/posiblemente-estes-perdiendo-dinero-raspberry-pi-5-seguramente-no-te-has-dado-cuenta-4301721.jpg?tf=1200x' alt='Posiblemente, estés perdiendo dinero con tu Raspberry Pi 5, y seguramente no te has dado cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/iphone-16e-vende-ritmo-infernal-amazon-da-paso-rebaja-50-euros-ya-1450253'>El iPhone 16e se vende a ritmo infernal, y Amazon da el paso y lo rebaja 50 euros ya</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/iphone-16e-vende-ritmo-infernal-amazon-da-paso-rebaja-50-euros-ya-1450253' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16e-4299852.jpg?tf=1200x' alt='El iPhone 16e se vende a ritmo infernal, y Amazon da el paso y lo rebaja 50 euros ya' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-despide-acciones-sugeridas-mientras-mejora-rendimiento-explorador-archivos-1450258'>Windows 11 se despide de las acciones sugeridas mientras mejora el rendimiento del explorador de archivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-despide-acciones-sugeridas-mientras-mejora-rendimiento-explorador-archivos-1450258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/explorador-archivos-windows-11-4306840.jpg?tf=1200x' alt='Windows 11 se despide de las acciones sugeridas mientras mejora el rendimiento del explorador de archivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-chatgpt-deepseek-recomiendan-no-hacer-1445982'>Las carreras universitarias que los expertos y la IA recomiendan no hacer: "Es perder el tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/carreras-universitarias-chatgpt-deepseek-recomiendan-no-hacer-1445982' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-universidad-4306451.jpg?tf=1200x' alt='Las carreras universitarias que los expertos y la IA recomiendan no hacer: "Es perder el tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-emergentes-deberias-aprender-antes-conviertan-nuevo-python-1446801'>Lenguajes de programación emergentes que deberías aprender antes de que se conviertan en el nuevo Python</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/lenguajes-programacion-emergentes-deberias-aprender-antes-conviertan-nuevo-python-1446801' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/phyton-ordenador-portatil-4301289.jpg?tf=1200x' alt='Lenguajes de programación emergentes que deberías aprender antes de que se conviertan en el nuevo Python' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928'>Golpe a Elon Musk y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/golpe-elon-muks-tesla-nuevas-baterias-volkswagen-eliminan-gran-problema-coche-electrico-1446928' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-volkswagen-4306450.jpg?tf=1200x' alt='Golpe a Elon Musk y Tesla: las nuevas baterías de Volkswagen eliminan el gran problema del coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-teleoperadora-aclara-cuando-recibes-llamada-spam-piensa-poquin-1447478'>Experta teleoperadora aclara qué debes hacer cuando recibes una llamada SPAM: “Piensa un poquín”</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-teleoperadora-aclara-cuando-recibes-llamada-spam-piensa-poquin-1447478' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/teleoperadora-advierte-spam-4302373.jpg?tf=1200x' alt='Experta teleoperadora aclara qué debes hacer cuando recibes una llamada SPAM: “Piensa un poquín”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842'>Kevin Weil, creador de ChatGPT, confirma lo que más temíamos: "Al ritmo que vamos, creo que será antes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-chatgpt-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/kevin-weil-chatgpt-4306444.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma lo que más temíamos: "Al ritmo que vamos, creo que será antes"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809'>Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/estos-son-motivos-no-quiero-windows-10-muera-me-resisto-pasarme-windows-11-1446809' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-antes-windows-11-4301304.jpg?tf=1200x' alt='Estos son mis motivos por los que no quiero que Windows 10 muera y me resisto a pasarme a Windows 11' />
     </a>
 </div>
 
