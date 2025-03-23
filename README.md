@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-desvelan-truco-infalible-par-evitar-te-clonen-voz-nos-va-pasar-todos-1449029'>Expertos en IA desvelan el truco infalible par evitar que te clonen la voz: "Esto nos va a pasar a todos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-ia-desvelan-truco-infalible-par-evitar-te-clonen-voz-nos-va-pasar-todos-1449029' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ia-desvelan-truco-infalible-par-evitar-te-clonen-voz-nos-va-pasar-todos-4304843.jpg?tf=1200x' alt='Expertos en IA desvelan el truco infalible par evitar que te clonen la voz: "Esto nos va a pasar a todos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/vpn-ti-amigos-cuesta-apenas-2-euros-podeis-conectaros-todos-1449421'>Una VPN para ti y tus amigos: cuesta apenas 2 euros y podéis conectaros todos</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/vpn-ti-amigos-cuesta-apenas-2-euros-podeis-conectaros-todos-1449421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/surfshark-vpn-4305438.jpg?tf=1200x' alt='Una VPN para ti y tus amigos: cuesta apenas 2 euros y podéis conectaros todos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/personalizacion-chrome-mejora-barra-desplazamiento-integrara-temas-1450214'>La personalización de Chrome mejora: la barra de desplazamiento se integrará con los temas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/personalizacion-chrome-mejora-barra-desplazamiento-integrara-temas-1450214' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/temas-personalizados-chrome-4306792.jpg?tf=1200x' alt='La personalización de Chrome mejora: la barra de desplazamiento se integrará con los temas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-paint-windows-11-renueva-nuevo-boton-copilot-ia-integrada-1450190'>Microsoft Paint en Windows 11 se renueva: nuevo botón de Copilot con IA integrada</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-paint-windows-11-renueva-nuevo-boton-copilot-ia-integrada-1450190' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/microsoft-paint-windows-11-4306776.jpg?tf=1200x' alt='Microsoft Paint en Windows 11 se renueva: nuevo botón de Copilot con IA integrada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/descargar-apps-podria-ser-facil-google-experimenta-mejoras-play-store-1450187'>Descargar apps podría ser más fácil: Google experimenta con mejoras en la Play Store</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/descargar-apps-podria-ser-facil-google-experimenta-mejoras-play-store-1450187' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-store-4306774.jpg?tf=1200x' alt='Descargar apps podría ser más fácil: Google experimenta con mejoras en la Play Store' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/apagones-estacion-energetica-portatil-te-daran-igual-rebajadisima-1450142'>¿Apagones? Con esta estación energética portátil te darán igual, y está rebajadísima</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/apagones-estacion-energetica-portatil-te-daran-igual-rebajadisima-1450142' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/allpowers-1500-4306702.jpg?tf=1200x' alt='¿Apagones? Con esta estación energética portátil te darán igual, y está rebajadísima' />
     </a>
 </div>
 
