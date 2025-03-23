@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288'>La NASA elimina de sus webs el objetivo de enviar a la primera mujer y la primera persona negra a la Luna</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-4306877.jpg?tf=1200x' alt='La NASA elimina de sus webs el objetivo de enviar a la primera mujer y la primera persona negra a la Luna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-obligara-abandonar-onenote-windows-10-banners-ralentizacion-sincronizacion-1450276'>Microsoft "te obligará" a abandonar OneNote para Windows 10 con banners y ralentización de sincronización</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-te-obligara-abandonar-onenote-windows-10-banners-ralentizacion-sincronizacion-1450276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fin-soporte-onenote-windows-10-4306859.jpg?tf=1200x' alt='Microsoft "te obligará" a abandonar OneNote para Windows 10 con banners y ralentización de sincronización' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482'>Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/wifi-mesh-mejor-conexion-4302377.jpg?tf=1200x' alt='Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-renueva-menu-inicio-nuevas-opciones-mover-organizar-aplicaciones-1450272'>Windows 11 renueva su menú inicio con nuevas opciones para mover y organizar aplicaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-renueva-menu-inicio-nuevas-opciones-mover-organizar-aplicaciones-1450272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/menu-inicio-windows-11-4306853.jpg?tf=1200x' alt='Windows 11 renueva su menú inicio con nuevas opciones para mover y organizar aplicaciones' />
     </a>
 </div>
 
