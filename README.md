@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288'>La NASA elimina de sus webs el objetivo de enviar a la primera mujer y la primera persona negra a la Luna</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292'>Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acabaron-baches-carreteras-robot-autonomo-arregla-solito-4306920.jpg?tf=1200x' alt='Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288'>La NASA elimina de sus webs el objetivo de enviar a la primera mujer y a la primera persona negra a la Luna</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-4306877.jpg?tf=1200x' alt='La NASA elimina de sus webs el objetivo de enviar a la primera mujer y la primera persona negra a la Luna' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-4306877.jpg?tf=1200x' alt='La NASA elimina de sus webs el objetivo de enviar a la primera mujer y a la primera persona negra a la Luna' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/fallo-android-muestra-alertas-actualizacion-inexistentes-debes-hacer-1450274'>El fallo en Android que muestra alertas de actualización inexistentes: esto es lo que debes hacer</a></h4>
     <a href='https://computerhoy.20minutos.es/android/fallo-android-muestra-alertas-actualizacion-inexistentes-debes-hacer-1450274' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-services-4306857.jpg?tf=1200x' alt='El fallo en Android que muestra alertas de actualización inexistentes: esto es lo que debes hacer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482'>Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-wifi-ni-5g-dispositivo-permite-conectarte-internet-rapido-cortes-1447482' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/wifi-mesh-mejor-conexion-4302377.jpg?tf=1200x' alt='Ni WiFi ni 5G, este dispositivo permite conectarte a internet más rápido y sin cortes' />
     </a>
 </div>
 
