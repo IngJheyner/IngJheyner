@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300'>Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-4306937.jpg?tf=1200x' alt='Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-cuentame-como-paso-1450297'>Llega a Netflix una mítica serie española con la que es imposible hacer una maratón: son más de 400 capítulos</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-cuentame-como-paso-1450297' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llega-netflix-mitica-serie-espanola-imposible-hacer-maraton-son-400-capitulos-4306929.jpg?tf=1200x' alt='Llega a Netflix una mítica serie española con la que es imposible hacer una maratón: son más de 400 capítulos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-obligara-abandonar-onenote-windows-10-banners-ralentizacion-sincronizacion-1450276'>Microsoft "te obligará" a abandonar OneNote para Windows 10 con banners y ralentización de sincronización</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-te-obligara-abandonar-onenote-windows-10-banners-ralentizacion-sincronizacion-1450276' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fin-soporte-onenote-windows-10-4306859.jpg?tf=1200x' alt='Microsoft "te obligará" a abandonar OneNote para Windows 10 con banners y ralentización de sincronización' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-complicada-situacion-vivio-microsoft-pense-estaba-error-muerte-1446806'>Bill Gates confiesa la complicada situación que vivió en Microsoft: "Pensé que estaba a un error de la muerte"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/bill-gates-confiesa-complicada-situacion-vivio-microsoft-pense-estaba-error-muerte-1446806' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/01/bill-gates-confiesa-mayor-error-me-arrepiento-4288826.jpg?tf=1200x' alt='Bill Gates confiesa la complicada situación que vivió en Microsoft: "Pensé que estaba a un error de la muerte"' />
     </a>
 </div>
 
