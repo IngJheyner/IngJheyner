@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-seguridad-consigue-convertir-chatgpt-hacker-tecnica-antigua-mundo-mentir-1450424'>Experto en seguridad consigue convertir a ChatGPT en un hacker con la técnica más antigua del mundo: mentir</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-seguridad-consigue-convertir-chatgpt-hacker-tecnica-antigua-mundo-mentir-1450424' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/haz-imagen-tipico-hacker-guarida-rodeado-ordenadores-solo-lugar-cara-tenga-logo-openai-chatgpt-4307086.jpg?tf=1200x' alt='Experto en seguridad consigue convertir a ChatGPT en un hacker con la técnica más antigua del mundo: mentir' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400'>Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-4307055.jpg?tf=1200x' alt='Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desafia-china-india-no-podran-competir-openai-1450414'>Sam Altman desafía a China e India: "No podrán competir con OpenAI"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desafia-china-india-no-podran-competir-openai-1450414' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-banderas-china-india-4307121.jpg?tf=1200x' alt='Sam Altman desafía a China e India: "No podrán competir con OpenAI"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-ia-ni-supercomputadoras-espin-cuantico-podria-ser-verdadera-revolucion-informatica-1450404'>Ni la IA ni las supercomputadoras, el "espín cuántico" podría ser la verdadera revolución de la informática</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/ni-ia-ni-supercomputadoras-espin-cuantico-podria-ser-verdadera-revolucion-informatica-1450404' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espintronica-antiferromagnetica-4307070.jpg?tf=1200x' alt='Ni la IA ni las supercomputadoras, el "espín cuántico" podría ser la verdadera revolución de la informática' />
     </a>
 </div>
 
