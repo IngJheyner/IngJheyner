@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-lanza-seria-advertencia-seguimos-verdadera-inteligencia-artificial-seguira-siendo-dificil-alcanzar-1450416'>Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-lanza-seria-advertencia-seguimos-verdadera-inteligencia-artificial-seguira-siendo-dificil-alcanzar-1450416' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nos-haciendo-uso-inteligencia-artificial-estupidos-4296152.jpg?tf=1200x' alt='Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/version-pesadilla-windows-11-recuperando-peor-pasado-algunos-no-dormiran-noche-1450398'>Crea la “versión pesadilla” de Windows 11 recuperando lo peor del pasado: algunos no dormirán esta noche</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/version-pesadilla-windows-11-recuperando-peor-pasado-algunos-no-dormiran-noche-1450398' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-vista-windows-11-4307052.jpg?tf=1200x' alt='Crea la “versión pesadilla” de Windows 11 recuperando lo peor del pasado: algunos no dormirán esta noche' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359'>El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-4307002.jpg?tf=1200x' alt='El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354'>"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computacion-cuantica-ciberseguridad-4107637.jpg?tf=1200x' alt='"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/batidos-proteinas-salvar-planeta-china-encuentra-formula-reciclar-999-bateria-coche-electrico-1450344'>¿Batidos de proteínas para salvar el planeta? China encuentra la fórmula para reciclar el 99,9% de la batería de un coche eléctrico</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/batidos-proteinas-salvar-planeta-china-encuentra-formula-reciclar-999-bateria-coche-electrico-1450344' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-electrico-4306992.jpg?tf=1200x' alt='¿Batidos de proteínas para salvar el planeta? China encuentra la fórmula para reciclar el 99,9% de la batería de un coche eléctrico' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331'>Alerta máxima si usas Google Chrome: Microsoft avisa de un troyano que roba datos del PC y contraseñas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-ciberseguridad-4306975.jpg?tf=1200x' alt='Alerta máxima si usas Google Chrome: Microsoft avisa de un troyano que roba datos del PC y contraseñas' />
     </a>
 </div>
 
