@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-serie-netflix-mejores-criticas-rompedora-historia-1450308'>Ni Black Mirror ni The Crown: esta es la serie de Netflix con mejores críticas y más rompedora de su historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-serie-netflix-mejores-criticas-rompedora-historia-1450308' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adolescencia-eddie-miller-stephen-graham-4305303.jpg?tf=1200x' alt='Ni Black Mirror ni The Crown: esta es la serie de Netflix con mejores críticas y más rompedora de su historia' />
+    <h4><a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553'>Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/becas-mec-2025-ya-disponibles-requisitos-cuantia-donde-solicitarlas-4307292.jpg?tf=1200x' alt='Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-1450412'>Se adelanta a Elon Musk y Tesla: este será el robot que llegue a los hogares este año</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-1450412' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-4307061.jpg?tf=1200x' alt='Se adelanta a Elon Musk y Tesla: este será el robot que llegue a los hogares este año' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cae-peligroso-estafador-engano-40-personas-espana-metodo-bizum-inverso-1450549'>Cae un peligroso estafador que engañó a más de 40 personas en España con el método del Bizum inverso</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/cae-peligroso-estafador-engano-40-personas-espana-metodo-bizum-inverso-1450549' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bizum-4307305.jpg?tf=1200x' alt='Cae un peligroso estafador que engañó a más de 40 personas en España con el método del Bizum inverso' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tira-casa-ventana-regala-6-canales-cine-premium-muchos-clientes-1450413'>Movistar Plus+ tira la casa por la ventana y regala 6 canales de cine premium a muchos de sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tira-casa-ventana-regala-6-canales-cine-premium-muchos-clientes-1450413' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-4289704.jpg?tf=1200x' alt='Movistar Plus+ tira la casa por la ventana y regala 6 canales de cine premium a muchos de sus clientes' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-1450517'>Giro de 180 grados en Linux, revolución en Ubuntu que dice adiós para siempre a GNU/Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-1450517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-4307300.jpg?tf=1200x' alt='Giro de 180 grados en Linux, revolución en Ubuntu que dice adiós para siempre a GNU/Linux' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/cloudflare-google-convierte-objetivo-numero-acabar-iptv-1450504'>Tras Cloudflare, Google se convierte en el objetivo número uno para acabar con las IPTV</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/cloudflare-google-convierte-objetivo-numero-acabar-iptv-1450504' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-google-convierte-objetivo-numero-acabar-iptv-4307222.jpg?tf=1200x' alt='Tras Cloudflare, Google se convierte en el objetivo número uno para acabar con las IPTV' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-opinion-otra-vez-windows-11-podria-recuperar-atajos-populares-1450546'>Microsoft cambia de opinión otra vez: Windows 11 podría recuperar uno de sus atajos más populares</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-opinion-otra-vez-windows-11-podria-recuperar-atajos-populares-1450546' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/atajo-teclado-4307304.jpg?tf=1200x' alt='Microsoft cambia de opinión otra vez: Windows 11 podría recuperar uno de sus atajos más populares' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/curioso-proyector-4k-pone-cine-pared-techo-donde-quieras-ademas-rebajado-1450345'>Así es el curioso proyector 4K que pone el cine en tu pared, techo o donde quieras, y además está rebajado </a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/curioso-proyector-4k-pone-cine-pared-techo-donde-quieras-ademas-rebajado-1450345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/proyector-dlp-xgimi-z7x-4k-4306990.jpg?tf=1200x' alt='Así es el curioso proyector 4K que pone el cine en tu pared, techo o donde quieras, y además está rebajado ' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/convierte-marco-ikea-maquina-arcade-retro-raspberry-pi-5-luces-led-1450542'>Convierte un marco de IKEA en una máquina arcade retro con una Raspberry Pi 5 y luces LED</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/convierte-marco-ikea-maquina-arcade-retro-raspberry-pi-5-luces-led-1450542' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/convierte-marco-ikea-maquina-arcade-retro-raspberry-pi-5-luces-led-4307298.jpg?tf=1200x' alt='Convierte un marco de IKEA en una máquina arcade retro con una Raspberry Pi 5 y luces LED' />
     </a>
 </div>
 
