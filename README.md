@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-aumentar-procesamiento-no-solucion-inteligencia-artificial-generativa-1450387'>Expertos advierten que aumentar el procesamiento no es la solución para la inteligencia artificial generativa</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-aumentar-procesamiento-no-solucion-inteligencia-artificial-generativa-1450387' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-inteligencia-artificial-4307119.jpg?tf=1200x' alt='Expertos advierten que aumentar el procesamiento no es la solución para la inteligencia artificial generativa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nathan-myhrvold-primer-director-tecnologia-microsoft-habla-ia-solo-pocos-milagros-distancia-1450395'>Nathan Myhrvold, primer director de tecnología de Microsoft, habla de la IA: "Está a solo unos pocos "milagros" de distancia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nathan-myhrvold-primer-director-tecnologia-microsoft-habla-ia-solo-pocos-milagros-distancia-1450395' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nathan-myhrvold-primer-director-tecnologia-microsoft-habla-ia-4307053.jpg?tf=1200x' alt='Nathan Myhrvold, primer director de tecnología de Microsoft, habla de la IA: "Está a solo unos pocos "milagros" de distancia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-lanza-seria-advertencia-seguimos-verdadera-inteligencia-artificial-seguira-siendo-dificil-alcanzar-1450416'>Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-lanza-seria-advertencia-seguimos-verdadera-inteligencia-artificial-seguira-siendo-dificil-alcanzar-1450416' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nos-haciendo-uso-inteligencia-artificial-estupidos-4296152.jpg?tf=1200x' alt='Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359'>El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-4307002.jpg?tf=1200x' alt='El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reid-hoffman-ceo-linkedin-deja-claro-ia-te-resulta-inutil-no-te-estas-esforzando-suficiente-1450370'>Reid Hoffman, CEO de LinkedIn, lo deja claro: "Si la IA te resulta inútil, es que no te estás esforzando lo suficiente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/reid-hoffman-ceo-linkedin-deja-claro-ia-te-resulta-inutil-no-te-estas-esforzando-suficiente-1450370' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reid-hoffman-ceo-linkedin-ia-4307000.jpg?tf=1200x' alt='Reid Hoffman, CEO de LinkedIn, lo deja claro: "Si la IA te resulta inútil, es que no te estás esforzando lo suficiente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354'>"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computacion-cuantica-ciberseguridad-4107637.jpg?tf=1200x' alt='"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta' />
     </a>
 </div>
 
