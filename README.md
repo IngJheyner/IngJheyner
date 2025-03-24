@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-aumentar-procesamiento-no-solucion-inteligencia-artificial-generativa-1450387'>Expertos advierten que aumentar el procesamiento no es la solución para la inteligencia artificial generativa</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-aumentar-procesamiento-no-solucion-inteligencia-artificial-generativa-1450387' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-inteligencia-artificial-4307119.jpg?tf=1200x' alt='Expertos advierten que aumentar el procesamiento no es la solución para la inteligencia artificial generativa' />
+    <h4><a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400'>Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-4307055.jpg?tf=1200x' alt='Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nathan-myhrvold-primer-director-tecnologia-microsoft-habla-ia-solo-pocos-milagros-distancia-1450395'>Nathan Myhrvold, primer director de tecnología de Microsoft, habla de la IA: "Está a solo unos pocos "milagros" de distancia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nathan-myhrvold-primer-director-tecnologia-microsoft-habla-ia-solo-pocos-milagros-distancia-1450395' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nathan-myhrvold-primer-director-tecnologia-microsoft-habla-ia-4307053.jpg?tf=1200x' alt='Nathan Myhrvold, primer director de tecnología de Microsoft, habla de la IA: "Está a solo unos pocos "milagros" de distancia"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-pone-fecha-oleada-desempleos-habra-chatgpt-deepseek-1450430'>La IA pone fecha a la oleada de desempleos que habrá por ChatGPT, DeepSeek y más</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-pone-fecha-oleada-desempleos-habra-chatgpt-deepseek-1450430' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-como-jefe-empleados-futuro-4307120.jpg?tf=1200x' alt='La IA pone fecha a la oleada de desempleos que habrá por ChatGPT, DeepSeek y más' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-lanza-seria-advertencia-seguimos-verdadera-inteligencia-artificial-seguira-siendo-dificil-alcanzar-1450416'>Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-ia-lanza-seria-advertencia-seguimos-verdadera-inteligencia-artificial-seguira-siendo-dificil-alcanzar-1450416' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/nos-haciendo-uso-inteligencia-artificial-estupidos-4296152.jpg?tf=1200x' alt='Experto en IA lanza una seria advertencia: "Si seguimos así, la verdadera inteligencia artificial seguirá siendo difícil de alcanzar"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dgt-no-te-ha-puesto-ninguna-multa-estafa-advierten-expertos-1450436'>La DGT no te ha puesto ninguna multa: así es la estafa de la que advierten los expertos</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/dgt-no-te-ha-puesto-ninguna-multa-estafa-advierten-expertos-1450436' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dgt-no-te-ha-puesto-ninguna-multa-estafa-advierten-expertos-4307100.jpg?tf=1200x' alt='La DGT no te ha puesto ninguna multa: así es la estafa de la que advierten los expertos' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/version-pesadilla-windows-11-recuperando-peor-pasado-algunos-no-dormiran-noche-1450398'>Crea la “versión pesadilla” de Windows 11 recuperando lo peor del pasado: algunos no dormirán esta noche</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/version-pesadilla-windows-11-recuperando-peor-pasado-algunos-no-dormiran-noche-1450398' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-vista-windows-11-4307052.jpg?tf=1200x' alt='Crea la “versión pesadilla” de Windows 11 recuperando lo peor del pasado: algunos no dormirán esta noche' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desafia-china-india-no-podran-competir-openai-1450414'>Sam Altman desafía a China e India: "No podrán competir con OpenAI"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desafia-china-india-no-podran-competir-openai-1450414' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-banderas-china-india-4307121.jpg?tf=1200x' alt='Sam Altman desafía a China e India: "No podrán competir con OpenAI"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359'>El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-4307002.jpg?tf=1200x' alt='El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"' />
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ni-ia-ni-supercomputadoras-espin-cuantico-podria-ser-verdadera-revolucion-informatica-1450404'>Ni la IA ni las supercomputadoras, el "espín cuántico" podría ser la verdadera revolución de la informática</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ni-ia-ni-supercomputadoras-espin-cuantico-podria-ser-verdadera-revolucion-informatica-1450404' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espintronica-antiferromagnetica-4307070.jpg?tf=1200x' alt='Ni la IA ni las supercomputadoras, el "espín cuántico" podría ser la verdadera revolución de la informática' />
     </a>
 </div>
 
