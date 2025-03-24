@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354'>"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computacion-cuantica-ciberseguridad-4107637.jpg?tf=1200x' alt='"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/batidos-proteinas-salvar-planeta-china-encuentra-formula-reciclar-999-bateria-coche-electrico-1450344'>¿Batidos de proteínas para salvar el planeta? China encuentra la fórmula para reciclar el 99,9% de la batería de un coche eléctrico</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/batidos-proteinas-salvar-planeta-china-encuentra-formula-reciclar-999-bateria-coche-electrico-1450344' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-electrico-4306992.jpg?tf=1200x' alt='¿Batidos de proteínas para salvar el planeta? China encuentra la fórmula para reciclar el 99,9% de la batería de un coche eléctrico' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491'>He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geekom-a6-mini-pc-4305589.jpg?tf=1200x' alt='He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/disenan-nave-espacial-devora-satelites-muertos-usa-como-combustible-1450312'>Diseñan una nave espacial que devora satélites muertos y los usa como combustible</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/disenan-nave-espacial-devora-satelites-muertos-usa-como-combustible-1450312' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disenan-nave-espacial-como-satelites-muertos-usa-como-combustible-4306944.jpg?tf=1200x' alt='Diseñan una nave espacial que devora satélites muertos y los usa como combustible' />
     </a>
 </div>
 
