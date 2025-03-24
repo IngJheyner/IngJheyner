@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tira-casa-ventana-regala-6-canales-cine-premium-muchos-clientes-1450413'>Movistar Plus+ tira la casa por la ventana y regala 6 canales de cine premium a muchos de sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tira-casa-ventana-regala-6-canales-cine-premium-muchos-clientes-1450413' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-4289704.jpg?tf=1200x' alt='Movistar Plus+ tira la casa por la ventana y regala 6 canales de cine premium a muchos de sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/cloudflare-google-convierte-objetivo-numero-acabar-iptv-1450504'>Tras Cloudflare, Google se convierte en el objetivo número uno para acabar con las IPTV</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/cloudflare-google-convierte-objetivo-numero-acabar-iptv-1450504' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-google-convierte-objetivo-numero-acabar-iptv-4307222.jpg?tf=1200x' alt='Tras Cloudflare, Google se convierte en el objetivo número uno para acabar con las IPTV' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/curioso-proyector-4k-pone-cine-pared-techo-donde-quieras-ademas-rebajado-1450345'>Así es el curioso proyector 4K que pone el cine en tu pared, techo o donde quieras, y además está rebajado </a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/curioso-proyector-4k-pone-cine-pared-techo-donde-quieras-ademas-rebajado-1450345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/proyector-dlp-xgimi-z7x-4k-4306990.jpg?tf=1200x' alt='Así es el curioso proyector 4K que pone el cine en tu pared, techo o donde quieras, y además está rebajado ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441'>¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-4307106.jpg?tf=1200x' alt='¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477'>Sam Altman sentencia a los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-4307200.jpg?tf=1200x' alt='Sam Altman sentencia a los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/jeremy-clarkson-llama-idiota-elon-musk-tiene-claro-culpable-eco-hippies-tesla-1450448'>Jeremy Clarkson llama idiota a Elon Musk y tiene un claro culpable: "Los eco-hippies de Tesla"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/jeremy-clarkson-llama-idiota-elon-musk-tiene-claro-culpable-eco-hippies-tesla-1450448' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jeremy-clarkson-elon-musk-4307192.jpg?tf=1200x' alt='Jeremy Clarkson llama idiota a Elon Musk y tiene un claro culpable: "Los eco-hippies de Tesla"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-seguridad-consigue-convertir-chatgpt-hacker-tecnica-antigua-mundo-mentir-1450424'>Experto en seguridad consigue convertir a ChatGPT en un hacker con la técnica más antigua del mundo: mentir</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-seguridad-consigue-convertir-chatgpt-hacker-tecnica-antigua-mundo-mentir-1450424' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/haz-imagen-tipico-hacker-guarida-rodeado-ordenadores-solo-lugar-cara-tenga-logo-openai-chatgpt-4307086.jpg?tf=1200x' alt='Experto en seguridad consigue convertir a ChatGPT en un hacker con la técnica más antigua del mundo: mentir' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400'>Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-4307055.jpg?tf=1200x' alt='Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado' />
     </a>
 </div>
 
