@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/millones-usuarios-todo-mundo-no-importa-nada-windows-11-1447043'>¿Por qué a millones de usuarios de todo el mundo no les importa nada Windows 11?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/millones-usuarios-todo-mundo-no-importa-nada-windows-11-1447043' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-vs-windows-11-4301702.jpg?tf=1200x' alt='¿Por qué a millones de usuarios de todo el mundo no les importa nada Windows 11?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/golpe-suerte-bill-gates-no-hubiera-creado-microsoft-estoy-perdiendo-tiempo-aqui-1447050'>El "golpe de suerte" sin el que Bill Gates no hubiera creado Microsoft: "¿Por qué estoy perdiendo el tiempo aquí?"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/golpe-suerte-bill-gates-no-hubiera-creado-microsoft-estoy-perdiendo-tiempo-aqui-1447050' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/golpe-suerte-bill-gates-no-hubiera-creado-microsoft-estoy-perdiendo-tiempo-aqui-4301713.jpg?tf=1200x' alt='El "golpe de suerte" sin el que Bill Gates no hubiera creado Microsoft: "¿Por qué estoy perdiendo el tiempo aquí?"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300'>Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-4306937.jpg?tf=1200x' alt='Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292'>Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acabaron-baches-carreteras-robot-autonomo-arregla-solito-4306920.jpg?tf=1200x' alt='Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288'>La NASA elimina de sus webs el objetivo de enviar a la primera mujer y a la primera persona negra a la Luna</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-1450288' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nasa-elimina-webs-objetivo-enviar-primera-mujer-primera-persona-negra-luna-4306877.jpg?tf=1200x' alt='La NASA elimina de sus webs el objetivo de enviar a la primera mujer y a la primera persona negra a la Luna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-te-obligara-abandonar-onenote-windows-10-banners-ralentizacion-sincronizacion-1450276'>Microsoft "te obligará" a abandonar OneNote para Windows 10 con banners y ralentización de sincronización</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-te-obligara-abandonar-onenote-windows-10-banners-ralentizacion-sincronizacion-1450276' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fin-soporte-onenote-windows-10-4306859.jpg?tf=1200x' alt='Microsoft "te obligará" a abandonar OneNote para Windows 10 con banners y ralentización de sincronización' />
     </a>
 </div>
 
