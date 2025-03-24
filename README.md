@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491'>He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geekom-a6-mini-pc-4305589.jpg?tf=1200x' alt='He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/disenan-nave-espacial-devora-satelites-muertos-usa-como-combustible-1450312'>Diseñan una nave espacial que devora satélites muertos y los usa como combustible</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/disenan-nave-espacial-devora-satelites-muertos-usa-como-combustible-1450312' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disenan-nave-espacial-como-satelites-muertos-usa-como-combustible-4306944.jpg?tf=1200x' alt='Diseñan una nave espacial que devora satélites muertos y los usa como combustible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nate-gentile-desvela-producto-caro-ha-creado-fue-ibai-costo-50000-euros-1446408'>Nate Gentile desvela el producto más caro que ha creado: "Fue para para Ibai y costó 50.000 euros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nate-gentile-desvela-producto-caro-ha-creado-fue-ibai-costo-50000-euros-1446408' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-nate-gentile-ibai-llanos-4305855.jpg?tf=1200x' alt='Nate Gentile desvela el producto más caro que ha creado: "Fue para para Ibai y costó 50.000 euros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/linux-ahora-facil-usar-windows-1446249'>¿Linux es ahora más fácil de usar que Windows?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/linux-ahora-facil-usar-windows-1446249' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-tiene-ventajas-windows-4300239.jpg?tf=1200x' alt='¿Linux es ahora más fácil de usar que Windows?' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/funcion-oculta-google-maps-hace-orientarte-mientras-caminas-sea-facil-casi-nadie-utiliza-1446503'>Esta función oculta de Google Maps hace que orientarte mientras caminas sea más fácil, y casi nadie la utiliza</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/funcion-oculta-google-maps-hace-orientarte-mientras-caminas-sea-facil-casi-nadie-utiliza-1446503' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guia-voz-google-maps-4300738.jpg?tf=1200x' alt='Esta función oculta de Google Maps hace que orientarte mientras caminas sea más fácil, y casi nadie la utiliza' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/millones-usuarios-todo-mundo-no-importa-nada-windows-11-1447043'>¿Por qué a millones de usuarios de todo el mundo no les importa nada Windows 11?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/millones-usuarios-todo-mundo-no-importa-nada-windows-11-1447043' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-vs-windows-11-4301702.jpg?tf=1200x' alt='¿Por qué a millones de usuarios de todo el mundo no les importa nada Windows 11?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/golpe-suerte-bill-gates-no-hubiera-creado-microsoft-estoy-perdiendo-tiempo-aqui-1447050'>El "golpe de suerte" sin el que Bill Gates no hubiera creado Microsoft: "¿Por qué estoy perdiendo el tiempo aquí?"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/golpe-suerte-bill-gates-no-hubiera-creado-microsoft-estoy-perdiendo-tiempo-aqui-1447050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/golpe-suerte-bill-gates-no-hubiera-creado-microsoft-estoy-perdiendo-tiempo-aqui-4301713.jpg?tf=1200x' alt='El "golpe de suerte" sin el que Bill Gates no hubiera creado Microsoft: "¿Por qué estoy perdiendo el tiempo aquí?"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300'>Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-4306937.jpg?tf=1200x' alt='Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot' />
     </a>
 </div>
 
