@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359'>El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-1450359' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/primer-paciente-neuralink-agradecido-elon-musk-sabia-riesgos-pero-queria-ayudar-4307002.jpg?tf=1200x' alt='El primer paciente de Neuralink agradecido a Elon Musk: “Sabía los riesgos, pero quería ayudar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/reid-hoffman-ceo-linkedin-deja-claro-ia-te-resulta-inutil-no-te-estas-esforzando-suficiente-1450370'>Reid Hoffman, CEO de LinkedIn, lo deja claro: "Si la IA te resulta inútil, es que no te estás esforzando lo suficiente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/reid-hoffman-ceo-linkedin-deja-claro-ia-te-resulta-inutil-no-te-estas-esforzando-suficiente-1450370' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reid-hoffman-ceo-linkedin-ia-4307000.jpg?tf=1200x' alt='Reid Hoffman, CEO de LinkedIn, lo deja claro: "Si la IA te resulta inútil, es que no te estás esforzando lo suficiente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354'>"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/2030-computacion-cuantica-tendra-capacidad-agredir-criptografia-advierte-experta-1450354' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/computacion-cuantica-ciberseguridad-4107637.jpg?tf=1200x' alt='"En 2030, la computación cuántica tendrá la capacidad de agredir nuestra criptografía", advierte esta experta' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331'>Alerta máxima si usas Google Chrome: Microsoft avisa de un troyano que roba datos del PC y contraseñas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-ciberseguridad-4306975.jpg?tf=1200x' alt='Alerta máxima si usas Google Chrome: Microsoft avisa de un troyano que roba datos del PC y contraseñas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-apple-vende-tan-barato-macbook-air-m2-tumba-precio-amazon-portatil-muchos-anos-1450316'>Ni Apple lo vende tan barato: el MacBook Air M2 tumba su precio en Amazon, y es portátil para muchos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ni-apple-vende-tan-barato-macbook-air-m2-tumba-precio-amazon-portatil-muchos-anos-1450316' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg?tf=1200x' alt='Ni Apple lo vende tan barato: el MacBook Air M2 tumba su precio en Amazon, y es portátil para muchos años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491'>He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geekom-a6-mini-pc-4305589.jpg?tf=1200x' alt='He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC' />
     </a>
 </div>
 
