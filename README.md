@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-1450412'>Se adelanta a Elon Musk y Tesla: este será el robot que llegue a los hogares este año</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-1450412' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-4307061.jpg?tf=1200x' alt='Se adelanta a Elon Musk y Tesla: este será el robot que llegue a los hogares este año' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tira-casa-ventana-regala-6-canales-cine-premium-muchos-clientes-1450413'>Movistar Plus+ tira la casa por la ventana y regala 6 canales de cine premium a muchos de sus clientes</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-tira-casa-ventana-regala-6-canales-cine-premium-muchos-clientes-1450413' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/vuelco-total-movistar-plus-reacciona-bestia-fuga-clientes-iptv-4289704.jpg?tf=1200x' alt='Movistar Plus+ tira la casa por la ventana y regala 6 canales de cine premium a muchos de sus clientes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441'>¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-4307106.jpg?tf=1200x' alt='¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477'>Sam Altman sentencia a los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-4307200.jpg?tf=1200x' alt='Sam Altman sentencia a los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"' />
     </a>
 </div>
 
