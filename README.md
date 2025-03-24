@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331'>Alerta máxima si usas Google Chrome: Microsoft alerta de un troyano que roba datos del PC y contraseñas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-ciberseguridad-4306975.jpg?tf=1200x' alt='Alerta máxima si usas Google Chrome: Microsoft alerta de un troyano que roba datos del PC y contraseñas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-apple-vende-tan-barato-macbook-air-m2-tumba-precio-amazon-portatil-muchos-anos-1450316'>Ni Apple lo vende tan barato: el MacBook Air M2 tumba su precio en Amazon, y es portátil para muchos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ni-apple-vende-tan-barato-macbook-air-m2-tumba-precio-amazon-portatil-muchos-anos-1450316' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/08/analisis-macbook-air-m2-2779349.jpg?tf=1200x' alt='Ni Apple lo vende tan barato: el MacBook Air M2 tumba su precio en Amazon, y es portátil para muchos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491'>He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/he-ahorrado-500-euros-mi-setup-gracias-haber-apostado-mini-pc-1449491' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/geekom-a6-mini-pc-4305589.jpg?tf=1200x' alt='He ahorrado más de 500 euros en mi setup gracias a haber apostado por un mini PC' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/nate-gentile-desvela-producto-caro-ha-creado-fue-ibai-costo-50000-euros-1446408'>Nate Gentile desvela el producto más caro que ha creado: "Fue para para Ibai y costó 50.000 euros"</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/nate-gentile-desvela-producto-caro-ha-creado-fue-ibai-costo-50000-euros-1446408' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-nate-gentile-ibai-llanos-4305855.jpg?tf=1200x' alt='Nate Gentile desvela el producto más caro que ha creado: "Fue para para Ibai y costó 50.000 euros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/linux-ahora-facil-usar-windows-1446249'>¿Linux es ahora más fácil de usar que Windows?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/linux-ahora-facil-usar-windows-1446249' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-tiene-ventajas-windows-4300239.jpg?tf=1200x' alt='¿Linux es ahora más fácil de usar que Windows?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/funcion-oculta-google-maps-hace-orientarte-mientras-caminas-sea-facil-casi-nadie-utiliza-1446503'>Esta función oculta de Google Maps hace que orientarte mientras caminas sea más fácil, y casi nadie la utiliza</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/funcion-oculta-google-maps-hace-orientarte-mientras-caminas-sea-facil-casi-nadie-utiliza-1446503' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guia-voz-google-maps-4300738.jpg?tf=1200x' alt='Esta función oculta de Google Maps hace que orientarte mientras caminas sea más fácil, y casi nadie la utiliza' />
     </a>
 </div>
 
