@@ -50,9 +50,17 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331'>Alerta máxima si usas Google Chrome: Microsoft alerta de un troyano que roba datos del PC y contraseñas</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/motor/batidos-proteinas-salvar-planeta-china-encuentra-formula-reciclar-999-bateria-coche-electrico-1450344'>¿Batidos de proteínas para salvar el planeta? China encuentra la fórmula para reciclar el 99,9% de la batería de un coche eléctrico</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/batidos-proteinas-salvar-planeta-china-encuentra-formula-reciclar-999-bateria-coche-electrico-1450344' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-coche-electrico-4306992.jpg?tf=1200x' alt='¿Batidos de proteínas para salvar el planeta? China encuentra la fórmula para reciclar el 99,9% de la batería de un coche eléctrico' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331'>Alerta máxima si usas Google Chrome: Microsoft avisa de un troyano que roba datos del PC y contraseñas</a></h4>
     <a href='https://computerhoy.20minutos.es/google/alerta-maxima-usas-google-chrome-microsoft-alerta-troyano-roba-datos-pc-contrasenas-1450331' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-ciberseguridad-4306975.jpg?tf=1200x' alt='Alerta máxima si usas Google Chrome: Microsoft alerta de un troyano que roba datos del PC y contraseñas' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-ciberseguridad-4306975.jpg?tf=1200x' alt='Alerta máxima si usas Google Chrome: Microsoft avisa de un troyano que roba datos del PC y contraseñas' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/espacio/disenan-nave-espacial-devora-satelites-muertos-usa-como-combustible-1450312'>Diseñan una nave espacial que devora satélites muertos y los usa como combustible</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/disenan-nave-espacial-devora-satelites-muertos-usa-como-combustible-1450312' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disenan-nave-espacial-como-satelites-muertos-usa-como-combustible-4306944.jpg?tf=1200x' alt='Diseñan una nave espacial que devora satélites muertos y los usa como combustible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nate-gentile-desvela-producto-caro-ha-creado-fue-ibai-costo-50000-euros-1446408'>Nate Gentile desvela el producto más caro que ha creado: "Fue para para Ibai y costó 50.000 euros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nate-gentile-desvela-producto-caro-ha-creado-fue-ibai-costo-50000-euros-1446408' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-nate-gentile-ibai-llanos-4305855.jpg?tf=1200x' alt='Nate Gentile desvela el producto más caro que ha creado: "Fue para para Ibai y costó 50.000 euros"' />
     </a>
 </div>
 
