@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441'>¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-4307106.jpg?tf=1200x' alt='¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477'>Sam Altman sentencia a los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-sentencia-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-4307200.jpg?tf=1200x' alt='Sam Altman sentencia a los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/jeremy-clarkson-llama-idiota-elon-musk-tiene-claro-culpable-eco-hippies-tesla-1450448'>Jeremy Clarkson llama idiota a Elon Musk y tiene un claro culpable: "Los eco-hippies de Tesla"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/jeremy-clarkson-llama-idiota-elon-musk-tiene-claro-culpable-eco-hippies-tesla-1450448' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/jeremy-clarkson-elon-musk-4307192.jpg?tf=1200x' alt='Jeremy Clarkson llama idiota a Elon Musk y tiene un claro culpable: "Los eco-hippies de Tesla"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-seguridad-consigue-convertir-chatgpt-hacker-tecnica-antigua-mundo-mentir-1450424'>Experto en seguridad consigue convertir a ChatGPT en un hacker con la técnica más antigua del mundo: mentir</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-seguridad-consigue-convertir-chatgpt-hacker-tecnica-antigua-mundo-mentir-1450424' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/haz-imagen-tipico-hacker-guarida-rodeado-ordenadores-solo-lugar-cara-tenga-logo-openai-chatgpt-4307086.jpg?tf=1200x' alt='Experto en seguridad consigue convertir a ChatGPT en un hacker con la técnica más antigua del mundo: mentir' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400'>Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado</a></h4>
     <a href='https://computerhoy.20minutos.es/life/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-1450400' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-tesla-ni-donald-trump-razon-elon-musk-quiere-ser-recordado-4307055.jpg?tf=1200x' alt='Ni Tesla ni Donald Trump: esta es la razón por la que Elon Musk quiere ser recordado' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-pone-fecha-oleada-desempleos-habra-chatgpt-deepseek-1450430'>La IA pone fecha a la oleada de desempleos que habrá por ChatGPT, DeepSeek y más</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-pone-fecha-oleada-desempleos-habra-chatgpt-deepseek-1450430' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-como-jefe-empleados-futuro-4307120.jpg?tf=1200x' alt='La IA pone fecha a la oleada de desempleos que habrá por ChatGPT, DeepSeek y más' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/dgt-no-te-ha-puesto-ninguna-multa-estafa-advierten-expertos-1450436'>La DGT no te ha puesto ninguna multa: así es la estafa de la que advierten los expertos</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/dgt-no-te-ha-puesto-ninguna-multa-estafa-advierten-expertos-1450436' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dgt-no-te-ha-puesto-ninguna-multa-estafa-advierten-expertos-4307100.jpg?tf=1200x' alt='La DGT no te ha puesto ninguna multa: así es la estafa de la que advierten los expertos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desafia-china-india-no-podran-competir-openai-1450414'>Sam Altman desafía a China e India: "No podrán competir con OpenAI"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-desafia-china-india-no-podran-competir-openai-1450414' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-banderas-china-india-4307121.jpg?tf=1200x' alt='Sam Altman desafía a China e India: "No podrán competir con OpenAI"' />
     </a>
 </div>
 
