@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/linux-ahora-facil-usar-windows-1446249'>¿Linux es ahora más fácil de usar que Windows?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/linux-ahora-facil-usar-windows-1446249' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-tiene-ventajas-windows-4300239.jpg?tf=1200x' alt='¿Linux es ahora más fácil de usar que Windows?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/funcion-oculta-google-maps-hace-orientarte-mientras-caminas-sea-facil-casi-nadie-utiliza-1446503'>Esta función oculta de Google Maps hace que orientarte mientras caminas sea más fácil, y casi nadie la utiliza</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/funcion-oculta-google-maps-hace-orientarte-mientras-caminas-sea-facil-casi-nadie-utiliza-1446503' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/guia-voz-google-maps-4300738.jpg?tf=1200x' alt='Esta función oculta de Google Maps hace que orientarte mientras caminas sea más fácil, y casi nadie la utiliza' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/millones-usuarios-todo-mundo-no-importa-nada-windows-11-1447043'>¿Por qué a millones de usuarios de todo el mundo no les importa nada Windows 11?</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/millones-usuarios-todo-mundo-no-importa-nada-windows-11-1447043' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-vs-windows-11-4301702.jpg?tf=1200x' alt='¿Por qué a millones de usuarios de todo el mundo no les importa nada Windows 11?' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300'>Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-1450300' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/playstacean-brutal-mod-ps-one-convierte-cangrejo-robot-4306937.jpg?tf=1200x' alt='Playstacean, el brutal mod de PS One que la convierte en un cangrejo robot' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-cuentame-como-paso-1450297'>Llega a Netflix una mítica serie española con la que es imposible hacer una maratón: son más de 400 capítulos</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-cuentame-como-paso-1450297' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llega-netflix-mitica-serie-espanola-imposible-hacer-maraton-son-400-capitulos-4306929.jpg?tf=1200x' alt='Llega a Netflix una mítica serie española con la que es imposible hacer una maratón: son más de 400 capítulos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292'>Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/acabaron-baches-carreteras-robot-autonomo-pave-tracer-1450292' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acabaron-baches-carreteras-robot-autonomo-arregla-solito-4306920.jpg?tf=1200x' alt='Se acabaron los baches en las carreteras: este robot autónomo los arregla él solito' />
     </a>
 </div>
 
