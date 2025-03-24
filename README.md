@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-serie-netflix-mejores-criticas-rompedora-historia-1450308'>Ni Black Mirror ni The Crown: esta es la serie de Netflix con mejores críticas y más rompedora de su historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-black-mirror-ni-crown-serie-netflix-mejores-criticas-rompedora-historia-1450308' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adolescencia-eddie-miller-stephen-graham-4305303.jpg?tf=1200x' alt='Ni Black Mirror ni The Crown: esta es la serie de Netflix con mejores críticas y más rompedora de su historia' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-1450412'>Se adelanta a Elon Musk y Tesla: este será el robot que llegue a los hogares este año</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-1450412' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adelanta-elon-musk-tesla-sera-robot-llegue-hogares-ano-4307061.jpg?tf=1200x' alt='Se adelanta a Elon Musk y Tesla: este será el robot que llegue a los hogares este año' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/curioso-proyector-4k-pone-cine-pared-techo-donde-quieras-ademas-rebajado-1450345'>Así es el curioso proyector 4K que pone el cine en tu pared, techo o donde quieras, y además está rebajado </a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/curioso-proyector-4k-pone-cine-pared-techo-donde-quieras-ademas-rebajado-1450345' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/proyector-dlp-xgimi-z7x-4k-4306990.jpg?tf=1200x' alt='Así es el curioso proyector 4K que pone el cine en tu pared, techo o donde quieras, y además está rebajado ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441'>¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-1450441' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estas-envejeciendo-deberias-ia-te-dice-verdadera-edad-biologica-5-gotas-sangre-4307106.jpg?tf=1200x' alt='¿Estás envejeciendo más de lo que deberías? Esta IA te dice tu verdadera edad biológica con 5 gotas de sangre' />
     </a>
 </div>
 
