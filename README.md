@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-desesperado-activa-modo-centinela-tesla-prohibida-espana-1450585'>Elon Musk desesperado: activa la función antivándalos de los Tesla prohibida en España</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-desesperado-activa-modo-centinela-tesla-prohibida-espana-1450585' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-desesperado-activa-funcion-antivandalos-tesla-prohibida-espana-4307359.jpg?tf=1200x' alt='Elon Musk desesperado: activa la función antivándalos de los Tesla prohibida en España' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/garmin-no-falla-cita-amazon-rebajas-mejores-relojes-casi-300-euros-barato-1449938'>Garmin no falla a la cita con Amazon: en las rebajas está uno de sus mejores relojes casi 300 euros más barato</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/garmin-no-falla-cita-amazon-rebajas-mejores-relojes-casi-300-euros-barato-1449938' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3249490.jpg?tf=1200x' alt='Garmin no falla a la cita con Amazon: en las rebajas está uno de sus mejores relojes casi 300 euros más barato' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/samsung-lanza-monitor-gaming-3d-no-requiere-gafas-1450369'>Samsung lanza un monitor gaming en 3D que no requiere gafas</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/samsung-lanza-monitor-gaming-3d-no-requiere-gafas-1450369' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-odyssey-3d-4307066.jpg?tf=1200x' alt='Samsung lanza un monitor gaming en 3D que no requiere gafas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/tengo-ps5-pillando-polvo-culpa-opcion-nunca-habia-pensado-1450423'>Tengo la PS5 pillando polvo y la culpa es de una opción en la que nunca había pensado</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/tengo-ps5-pillando-polvo-culpa-opcion-nunca-habia-pensado-1450423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mini-pc-geekom-a6-ps5-4307180.jpg?tf=1200x' alt='Tengo la PS5 pillando polvo y la culpa es de una opción en la que nunca había pensado' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/cada-vez-programadores-rinden-ia-ya-no-tiene-sentido-escribir-linea-codigo-1450393'>Cada vez más programadores se rinden ante la IA: “Ya no tiene sentido escribir una línea de código”</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/cada-vez-programadores-rinden-ia-ya-no-tiene-sentido-escribir-linea-codigo-1450393' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cada-vez-programadores-rinden-ia-ya-no-tiene-sentido-escribir-linea-codigo-4307049.jpg?tf=1200x' alt='Cada vez más programadores se rinden ante la IA: “Ya no tiene sentido escribir una línea de código”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-demuestran-peligroso-efecto-rebote-uso-chatgpt-estudiar-1450450'>Expertos demuestran el peligroso "efecto rebote" del uso de ChatGPT para estudiar</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-demuestran-peligroso-efecto-rebote-uso-chatgpt-estudiar-1450450' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-demuestran-peligroso-efecto-rebote-uso-chatgpt-estudiar-4307125.jpg?tf=1200x' alt='Expertos demuestran el peligroso "efecto rebote" del uso de ChatGPT para estudiar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/kindle-da-vuelco-precio-pero-temporal-puedes-conseguirlo-99-euros-1449933'>El Kindle da un vuelco a su precio, pero es temporal: puedes conseguirlo desde 99 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/kindle-da-vuelco-precio-pero-temporal-puedes-conseguirlo-99-euros-1449933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813875.jpg?tf=1200x' alt='El Kindle da un vuelco a su precio, pero es temporal: puedes conseguirlo desde 99 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dispositivo-electronico-comun-esconde-casi-medio-gramo-oro-22-quilates-todos-tiramos-1450341'>Este dispositivo electrónico común esconde casi medio gramo de oro de 22 quilates y todos lo tiramos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dispositivo-electronico-comun-esconde-casi-medio-gramo-oro-22-quilates-todos-tiramos-1450341' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oro-placa-base-4307046.jpg?tf=1200x' alt='Este dispositivo electrónico común esconde casi medio gramo de oro de 22 quilates y todos lo tiramos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/reputado-biologo-tumba-teoria-panal-adultos-elon-musk-ocupa-ultimo-lugar-mi-lista-1450434'>Un reputado biólogo tumba la teoría del "pañal para adultos" de Elon Musk: "Ocupa el último lugar en mi lista"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/reputado-biologo-tumba-teoria-panal-adultos-elon-musk-ocupa-ultimo-lugar-mi-lista-1450434' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307115.jpg?tf=1200x' alt='Un reputado biólogo tumba la teoría del "pañal para adultos" de Elon Musk: "Ocupa el último lugar en mi lista"' />
     </a>
 </div>
 
