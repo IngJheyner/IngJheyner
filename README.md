@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-1450547'>Expertos en ciberseguridad advierten del peligro: "Si usas el Amazon Fire TV para ver IPTV mucho cuidado con esto"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-1450547' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-4307332.jpg?tf=1200x' alt='Expertos en ciberseguridad advierten del peligro: "Si usas el Amazon Fire TV para ver IPTV mucho cuidado con esto"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553'>Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/becas-mec-2025-ya-disponibles-requisitos-cuantia-donde-solicitarlas-4307292.jpg?tf=1200x' alt='Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-opinion-otra-vez-windows-11-podria-recuperar-atajos-populares-1450546'>Microsoft cambia de opinión otra vez: Windows 11 podría recuperar uno de sus atajos más populares</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-opinion-otra-vez-windows-11-podria-recuperar-atajos-populares-1450546' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/atajo-teclado-4307304.jpg?tf=1200x' alt='Microsoft cambia de opinión otra vez: Windows 11 podría recuperar uno de sus atajos más populares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/convierte-marco-ikea-maquina-arcade-retro-raspberry-pi-5-luces-led-1450542'>Convierte un marco de IKEA en una máquina arcade retro con una Raspberry Pi 5 y luces LED</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/convierte-marco-ikea-maquina-arcade-retro-raspberry-pi-5-luces-led-1450542' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/convierte-marco-ikea-maquina-arcade-retro-raspberry-pi-5-luces-led-4307298.jpg?tf=1200x' alt='Convierte un marco de IKEA en una máquina arcade retro con una Raspberry Pi 5 y luces LED' />
     </a>
 </div>
 
