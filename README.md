@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/10-ofertas-primavera-amazon-estan-precio-historico-semana-1450583'>10 ofertas de la Primavera de Amazon que están a precio histórico esta semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/10-ofertas-primavera-amazon-estan-precio-historico-semana-1450583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amazon-4307364.jpg?tf=1200x' alt='10 ofertas de la Primavera de Amazon que están a precio histórico esta semana' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/hoy-dia-quieres-fire-tv-stick-ahora-estan-rebajados-nunca-2025-1450577'>Hoy es el día: si quieres un Fire TV Stick, ahora están más rebajados que nunca en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/hoy-dia-quieres-fire-tv-stick-ahora-estan-rebajados-nunca-2025-1450577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Hoy es el día: si quieres un Fire TV Stick, ahora están más rebajados que nunca en 2025' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/gaming/samsung-lanza-monitor-gaming-3d-no-requiere-gafas-1450369'>Samsung lanza un monitor gaming en 3D que no requiere gafas</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/samsung-lanza-monitor-gaming-3d-no-requiere-gafas-1450369' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-odyssey-3d-4307066.jpg?tf=1200x' alt='Samsung lanza un monitor gaming en 3D que no requiere gafas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/tengo-ps5-pillando-polvo-culpa-opcion-nunca-habia-pensado-1450423'>Tengo la PS5 pillando polvo y la culpa es de una opción en la que nunca había pensado</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/tengo-ps5-pillando-polvo-culpa-opcion-nunca-habia-pensado-1450423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mini-pc-geekom-a6-ps5-4307180.jpg?tf=1200x' alt='Tengo la PS5 pillando polvo y la culpa es de una opción en la que nunca había pensado' />
     </a>
 </div>
 
