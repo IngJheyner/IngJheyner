@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-1450819'>Europa se prepara para recuperar las fronteras, aunque no como imaginas: llegan los muros de drones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-1450819' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-4307754.jpg?tf=1200x' alt='Europa se prepara para recuperar las fronteras, aunque no como imaginas: llegan los muros de drones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829'>Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hdr-10-netflix-4307742.jpg?tf=1200x' alt='Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-140-ya-disponible-todos-control-clima-radio-fm-muchas-novedades-1450824'>Android Auto 14.0 ya disponible para todos: control del clima, radio FM y muchas novedades</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-140-ya-disponible-todos-control-clima-radio-fm-muchas-novedades-1450824' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-14-4307735.jpg?tf=1200x' alt='Android Auto 14.0 ya disponible para todos: control del clima, radio FM y muchas novedades' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-fin-anade-principales-peticiones-fans-compartes-perfil-gente-1450823'>Disney+ al fin añade una de las principales peticiones de los fans, si compartes perfil con más gente</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-fin-anade-principales-peticiones-fans-compartes-perfil-gente-1450823' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disney-fin-anade-principales-peticiones-fans-compartes-cuenta-familia-4307720.jpg?tf=1200x' alt='Disney+ al fin añade una de las principales peticiones de los fans, si compartes perfil con más gente' />
     </a>
 </div>
 
