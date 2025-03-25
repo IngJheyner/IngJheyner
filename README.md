@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/espana-va-marte-mision-exomars-esa-participacion-espanola-1450688'>España se va a Marte: la misión ExoMars de la ESA, con importante participación española, perforará el Planeta Rojo</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/espana-va-marte-mision-exomars-esa-participacion-espanola-1450688' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-va-marte-mision-exomars-esa-importante-participacion-espanola-perforara-planeta-rojo-4307398.jpg?tf=1200x' alt='España se va a Marte: la misión ExoMars de la ESA, con importante participación española, perforará el Planeta Rojo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dia-grande-tdt-espana-nuevo-canal-abierto-emisiones-uhd-1450635'>Día grande para la TDT en España: nuevo canal en abierto y emisiones en UHD</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/dia-grande-tdt-espana-nuevo-canal-abierto-emisiones-uhd-1450635' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dia-grande-tdt-espana-nuevo-canal-abierto-emisiones-uhd-4307432.jpg?tf=1200x' alt='Día grande para la TDT en España: nuevo canal en abierto y emisiones en UHD' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625'>El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/me-toca-cambiar-movil-amazon-ofertas-estos-son-5-valoro-comprar-1450207'>Me toca cambiar de móvil y Amazon está de ofertas: estos son los 5 que valoro comprar</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/me-toca-cambiar-movil-amazon-ofertas-estos-son-5-valoro-comprar-1450207' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4007270.jpg?tf=1200x' alt='Me toca cambiar de móvil y Amazon está de ofertas: estos son los 5 que valoro comprar' />
     </a>
 </div>
 
