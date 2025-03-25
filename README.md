@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/stella-li-vicepresidenta-byd-miedo-tesla-elon-musk-no-son-competencia-1450679'>Stella Li, vicepresidenta de BYD, sin miedo a Tesla de Elon Musk: "No son nuestra competencia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/stella-li-vicepresidenta-byd-miedo-tesla-elon-musk-no-son-competencia-1450679' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/byd-elon-musk-4307533.jpg?tf=1200x' alt='Stella Li, vicepresidenta de BYD, sin miedo a Tesla de Elon Musk: "No son nuestra competencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-lanza-primeras-gafas-realidad-mixta-mete-lleno-robotica-consumo-1450728'>Vivo lanza sus primeras gafas de realidad mixta y se mete de lleno en la robótica de consumo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/vivo-lanza-primeras-gafas-realidad-mixta-mete-lleno-robotica-consumo-1450728' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vivo-vision-gafas-realidad-mixta-4307571.jpg?tf=1200x' alt='Vivo lanza sus primeras gafas de realidad mixta y se mete de lleno en la robótica de consumo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/ia-cgi-todavia-sigo-shock-mitica-imagen-windows-10-real-1450700'>Ni IA ni CGI, todavía sigo en shock tras conocer que esta mítica imagen de Windows 10 es real</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ia-cgi-todavia-sigo-shock-mitica-imagen-windows-10-real-1450700' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gmunk-windows-10-4307552.jpg?tf=1200x' alt='Ni IA ni CGI, todavía sigo en shock tras conocer que esta mítica imagen de Windows 10 es real' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/alarmas-apple-watch-dejaran-ser-pesadilla-fin-empezaran-funcionar-bien-1450699'>Las alarmas en el Apple Watch dejarán de ser una pesadilla y por fin empezarán a funcionar bien</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/alarmas-apple-watch-dejaran-ser-pesadilla-fin-empezaran-funcionar-bien-1450699' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-watch-alarmas-4307554.jpg?tf=1200x' alt='Las alarmas en el Apple Watch dejarán de ser una pesadilla y por fin empezarán a funcionar bien' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/espacio/espana-va-marte-mision-exomars-esa-participacion-espanola-1450688'>España se va a Marte: la misión ExoMars de la ESA, con importante participación española, perforará el Planeta Rojo</a></h4>
     <a href='https://computerhoy.20minutos.es/espacio/espana-va-marte-mision-exomars-esa-participacion-espanola-1450688' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-va-marte-mision-exomars-esa-importante-participacion-espanola-perforara-planeta-rojo-4307398.jpg?tf=1200x' alt='España se va a Marte: la misión ExoMars de la ESA, con importante participación española, perforará el Planeta Rojo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/dia-grande-tdt-espana-nuevo-canal-abierto-emisiones-uhd-1450635'>Día grande para la TDT en España: nuevo canal en abierto y emisiones en UHD</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/dia-grande-tdt-espana-nuevo-canal-abierto-emisiones-uhd-1450635' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dia-grande-tdt-espana-nuevo-canal-abierto-emisiones-uhd-4307432.jpg?tf=1200x' alt='Día grande para la TDT en España: nuevo canal en abierto y emisiones en UHD' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/echo-alexa-barato-ahora-aun-precio-cae-menos-30-euros-1450210'>El Echo con Alexa más barato ahora lo es aún más: su precio cae a menos de 30 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/echo-alexa-barato-ahora-aun-precio-cae-menos-30-euros-1450210' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/echo-pop-4275604.jpg?tf=1200x' alt='El Echo con Alexa más barato ahora lo es aún más: su precio cae a menos de 30 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/cloudflare-planta-cara-javier-tebas-ultima-decision-no-frena-iptv-favorece-1450636'>Cloudflare planta cara a Javier Tebas: su última decisión no frena a las IPTV, las favorece</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/cloudflare-planta-cara-javier-tebas-ultima-decision-no-frena-iptv-favorece-1450636' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-planta-cara-javier-tebas-4307440.jpg?tf=1200x' alt='Cloudflare planta cara a Javier Tebas: su última decisión no frena a las IPTV, las favorece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625'>El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita' />
     </a>
 </div>
 
