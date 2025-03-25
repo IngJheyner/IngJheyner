@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-1450669'>Nuevos problemas para Elon Musk: Italia bloquea el despliegue de Starlink, España podría seguir sus pasos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-1450669' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-4307487.jpg?tf=1200x' alt='Nuevos problemas para Elon Musk: Italia bloquea el despliegue de Starlink, España podría seguir sus pasos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676'>Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/investigadores-ia-4307562.jpg?tf=1200x' alt='Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dan-poder-robot-dirigir-empresa-resultados-anticipan-futuro-frio-impersonal-trabajo-1450616'>Le dan poder a un robot para dirigir una empresa y sus resultados anticipan el futuro frío e impersonal del trabajo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dan-poder-robot-dirigir-empresa-resultados-anticipan-futuro-frio-impersonal-trabajo-1450616' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-4307435.jpg?tf=1200x' alt='Le dan poder a un robot para dirigir una empresa y sus resultados anticipan el futuro frío e impersonal del trabajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-1450714'>Canadá desprecia a Elon Musk y su supuesto poder: "Ni el señor Musk ni nadie que trabaje bajo su mando"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-1450714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-4307587.jpg?tf=1200x' alt='Canadá desprecia a Elon Musk y su supuesto poder: "Ni el señor Musk ni nadie que trabaje bajo su mando"' />
     </a>
 </div>
 
