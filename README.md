@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-1446815'>Netflix no ha inventado la ciencia ficción: 5 series míticas de los 80 que arrasarían hoy</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-1446815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-4301320.jpg?tf=1200x' alt='Netflix no ha inventado la ciencia ficción: 5 series míticas de los 80 que arrasarían hoy' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/trabajadores-despedidos-elon-musk-tienen-claro-nosotros-somos-solo-canario-mina-1450607'>Los trabajadores despedidos por Elon Musk lo tienen claro: “Nosotros somos solo el canario en la mina”</a></h4>
     <a href='https://computerhoy.20minutos.es/life/trabajadores-despedidos-elon-musk-tienen-claro-nosotros-somos-solo-canario-mina-1450607' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-mina-canario-4307567.jpg?tf=1200x' alt='Los trabajadores despedidos por Elon Musk lo tienen claro: “Nosotros somos solo el canario en la mina”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676'>Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/investigadores-ia-4307562.jpg?tf=1200x' alt='Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-alerta-ia-estamos-no-solo-producto-va-cambiar-mundo-1450724'>Sam Altman alerta sobre lo que nos espera con la IA: “Lo que estamos construyendo no es solo un producto, va a cambiar el mundo”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-alerta-ia-estamos-no-solo-producto-va-cambiar-mundo-1450724' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-ia-potente-4307589.jpg?tf=1200x' alt='Sam Altman alerta sobre lo que nos espera con la IA: “Lo que estamos construyendo no es solo un producto, va a cambiar el mundo”' />
     </a>
 </div>
 
