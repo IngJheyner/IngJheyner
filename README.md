@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-prime-video-pelicula-costo-dineral-termino-siendo-exito-pese-criticas-1450579'>El "Estado eléctrico" de Prime Video: la película que costó un dineral y terminó siendo un éxito, pese a las críticas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-prime-video-pelicula-costo-dineral-termino-siendo-exito-pese-criticas-1450579' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-electrico-prime-video-pelicula-costo-dineral-termino-siendo-exito-pese-criticas-4307357.jpg?tf=1200x' alt='El "Estado eléctrico" de Prime Video: la película que costó un dineral y terminó siendo un éxito, pese a las críticas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/quitale-candado-televisor-android-tv-box-permite-instalar-cualquier-aplicacion-verla-4k-1450687'>Quítale el candado a tu televisor: esta Android TV Box permite instalar cualquier aplicación y verla en 4K</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/quitale-candado-televisor-android-tv-box-permite-instalar-cualquier-aplicacion-verla-4k-1450687' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-tv-3731775.jpg?tf=1200x' alt='Quítale el candado a tu televisor: esta Android TV Box permite instalar cualquier aplicación y verla en 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-clasico-terror-tendra-secuela-16-anos-despues-puede-verse-disney-plus-1447228'>Fracasó en taquilla, pero este clásico del terror tendrá secuela 16 años después (y puede verse en Disney Plus+)</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-clasico-terror-tendra-secuela-16-anos-despues-puede-verse-disney-plus-1447228' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fracaso-taquilla-pero-clasico-terror-tendra-secuela-16-anos-despues-puede-verse-disney-plus-4301954.jpg?tf=1200x' alt='Fracasó en taquilla, pero este clásico del terror tendrá secuela 16 años después (y puede verse en Disney Plus+)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/kai-fu-lee-exdirector-google-avisa-sam-altman-mayor-pesadilla-probablemente-no-duerma-bien-1450786'>Kai-Fu Lee, exdirector de Google, avisa a Sam Altman: "Es su mayor pesadilla, probablemente no duerma bien"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/kai-fu-lee-exdirector-google-avisa-sam-altman-mayor-pesadilla-probablemente-no-duerma-bien-1450786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/kai-fu-lee-exdirector-google-avisa-sam-altman-mayor-pesadilla-probablemente-no-duerma-bien-4307703.jpg?tf=1200x' alt='Kai-Fu Lee, exdirector de Google, avisa a Sam Altman: "Es su mayor pesadilla, probablemente no duerma bien"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-1446815'>Netflix no ha inventado la ciencia ficción: 5 series míticas de los 80 que arrasarían hoy</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-1446815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-4301320.jpg?tf=1200x' alt='Netflix no ha inventado la ciencia ficción: 5 series míticas de los 80 que arrasarían hoy' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/trabajadores-despedidos-elon-musk-tienen-claro-nosotros-somos-solo-canario-mina-1450607'>Los trabajadores despedidos por Elon Musk lo tienen claro: “Nosotros somos solo el canario en la mina”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/trabajadores-despedidos-elon-musk-tienen-claro-nosotros-somos-solo-canario-mina-1450607' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-mina-canario-4307567.jpg?tf=1200x' alt='Los trabajadores despedidos por Elon Musk lo tienen claro: “Nosotros somos solo el canario en la mina”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/francia-sentencia-iptv-bloqueo-inmediato-multas-millonarias-nuevo-tipo-delito-1450739'>Francia sentencia a las IPTV: bloqueo inmediato, multas millonarias y un nuevo tipo de delito</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/francia-sentencia-iptv-bloqueo-inmediato-multas-millonarias-nuevo-tipo-delito-1450739' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/francia-sentencia-iptv-bloqueo-inmediato-multas-millonarias-nuevo-tipo-delito-4307660.jpg?tf=1200x' alt='Francia sentencia a las IPTV: bloqueo inmediato, multas millonarias y un nuevo tipo de delito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-1450669'>Nuevos problemas para Elon Musk: Italia bloquea el despliegue de Starlink, España podría seguir sus pasos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-1450669' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-4307487.jpg?tf=1200x' alt='Nuevos problemas para Elon Musk: Italia bloquea el despliegue de Starlink, España podría seguir sus pasos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676'>Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/investigadores-ia-4307562.jpg?tf=1200x' alt='Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"' />
     </a>
 </div>
 
