@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625'>El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/me-toca-cambiar-movil-amazon-ofertas-estos-son-5-valoro-comprar-1450207'>Me toca cambiar de móvil y Amazon está de ofertas: estos son los 5 que valoro comprar</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/me-toca-cambiar-movil-amazon-ofertas-estos-son-5-valoro-comprar-1450207' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/google-pixel-9-pro-xl-4007270.jpg?tf=1200x' alt='Me toca cambiar de móvil y Amazon está de ofertas: estos son los 5 que valoro comprar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/invierno-ia-verano-ia-significa-cambio-ti-como-usuario-1450620'>Del 'invierno de la IA' al 'verano de la IA': ¿qué significa esta cambio para ti como usuario?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/invierno-ia-verano-ia-significa-cambio-ti-como-usuario-1450620' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/invierno-verano-ia-4307422.jpg?tf=1200x' alt='Del 'invierno de la IA' al 'verano de la IA': ¿qué significa esta cambio para ti como usuario?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/10-ofertas-primavera-amazon-estan-precio-historico-semana-1450583'>10 ofertas de la Primavera de Amazon que están a precio histórico esta semana</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/10-ofertas-primavera-amazon-estan-precio-historico-semana-1450583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amazon-4307364.jpg?tf=1200x' alt='10 ofertas de la Primavera de Amazon que están a precio histórico esta semana' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/hoy-dia-quieres-fire-tv-stick-ahora-estan-rebajados-nunca-2025-1450577'>Hoy es el día: si quieres un Fire TV Stick, ahora están más rebajados que nunca en 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/hoy-dia-quieres-fire-tv-stick-ahora-estan-rebajados-nunca-2025-1450577' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Hoy es el día: si quieres un Fire TV Stick, ahora están más rebajados que nunca en 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-desesperado-activa-modo-centinela-tesla-prohibida-espana-1450585'>Elon Musk desesperado: activa la función antivándalos de los Tesla prohibida en España</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-desesperado-activa-modo-centinela-tesla-prohibida-espana-1450585' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-desesperado-activa-funcion-antivandalos-tesla-prohibida-espana-4307359.jpg?tf=1200x' alt='Elon Musk desesperado: activa la función antivándalos de los Tesla prohibida en España' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/garmin-no-falla-cita-amazon-rebajas-mejores-relojes-casi-300-euros-barato-1449938'>Garmin no falla a la cita con Amazon: en las rebajas está uno de sus mejores relojes casi 300 euros más barato</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/garmin-no-falla-cita-amazon-rebajas-mejores-relojes-casi-300-euros-barato-1449938' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/12/garmin-epix-2-pro-3249490.jpg?tf=1200x' alt='Garmin no falla a la cita con Amazon: en las rebajas está uno de sus mejores relojes casi 300 euros más barato' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/samsung-lanza-monitor-gaming-3d-no-requiere-gafas-1450369'>Samsung lanza un monitor gaming en 3D que no requiere gafas</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/samsung-lanza-monitor-gaming-3d-no-requiere-gafas-1450369' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-odyssey-3d-4307066.jpg?tf=1200x' alt='Samsung lanza un monitor gaming en 3D que no requiere gafas' />
     </a>
 </div>
 
