@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/cloudflare-planta-cara-javier-tebas-ultima-decision-no-frena-iptv-favorece-1450636'>Cloudflare planta cara a Javier Tebas: su última decisión no frena a las IPTV, las favorece</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/cloudflare-planta-cara-javier-tebas-ultima-decision-no-frena-iptv-favorece-1450636' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cloudflare-planta-cara-javier-tebas-4307440.jpg?tf=1200x' alt='Cloudflare planta cara a Javier Tebas: su última decisión no frena a las IPTV, las favorece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625'>El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/iphone-plegable-ambicioso-apple-camino-fecha-lanzamiento-tecnologia-hara-bateria-sea-casi-infinita-1450625' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/02/iphone-concepto-plegable-3271941.jpg?tf=1200x' alt='El iPhone plegable más ambicioso de Apple, en camino: fecha de lanzamiento y la tecnología que hará que su batería sea casi infinita' />
@@ -66,9 +74,9 @@
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/invierno-ia-verano-ia-significa-cambio-ti-como-usuario-1450620'>Del 'invierno de la IA' al 'verano de la IA': ¿qué significa esta cambio para ti como usuario?</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/invierno-ia-verano-ia-significa-cambio-ti-como-usuario-1450620'>Del 'invierno de la IA' al 'verano de la IA': ¿qué significa este cambio para ti como usuario?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/invierno-ia-verano-ia-significa-cambio-ti-como-usuario-1450620' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/invierno-verano-ia-4307422.jpg?tf=1200x' alt='Del 'invierno de la IA' al 'verano de la IA': ¿qué significa esta cambio para ti como usuario?' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/invierno-verano-ia-4307422.jpg?tf=1200x' alt='Del 'invierno de la IA' al 'verano de la IA': ¿qué significa este cambio para ti como usuario?' />
     </a>
 </div>
 
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/10-ofertas-primavera-amazon-estan-precio-historico-semana-1450583'>10 ofertas de la Primavera de Amazon que están a precio histórico esta semana</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/10-ofertas-primavera-amazon-estan-precio-historico-semana-1450583' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/amazon-4307364.jpg?tf=1200x' alt='10 ofertas de la Primavera de Amazon que están a precio histórico esta semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/hoy-dia-quieres-fire-tv-stick-ahora-estan-rebajados-nunca-2025-1450577'>Hoy es el día: si quieres un Fire TV Stick, ahora están más rebajados que nunca en 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/hoy-dia-quieres-fire-tv-stick-ahora-estan-rebajados-nunca-2025-1450577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/05/fire-tv-stick-3308867.jpg?tf=1200x' alt='Hoy es el día: si quieres un Fire TV Stick, ahora están más rebajados que nunca en 2025' />
     </a>
 </div>
 
