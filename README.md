@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/trabajadores-despedidos-elon-musk-tienen-claro-nosotros-somos-solo-canario-mina-1450607'>Los trabajadores despedidos por Elon Musk lo tienen claro: “Nosotros somos solo el canario en la mina”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/trabajadores-despedidos-elon-musk-tienen-claro-nosotros-somos-solo-canario-mina-1450607' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-mina-canario-4307567.jpg?tf=1200x' alt='Los trabajadores despedidos por Elon Musk lo tienen claro: “Nosotros somos solo el canario en la mina”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/francia-sentencia-iptv-bloqueo-inmediato-multas-millonarias-nuevo-tipo-delito-1450739'>Francia sentencia a las IPTV: bloqueo inmediato, multas millonarias y un nuevo tipo de delito</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/francia-sentencia-iptv-bloqueo-inmediato-multas-millonarias-nuevo-tipo-delito-1450739' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/francia-sentencia-iptv-bloqueo-inmediato-multas-millonarias-nuevo-tipo-delito-4307660.jpg?tf=1200x' alt='Francia sentencia a las IPTV: bloqueo inmediato, multas millonarias y un nuevo tipo de delito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-1450669'>Nuevos problemas para Elon Musk: Italia bloquea el despliegue de Starlink, España podría seguir sus pasos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-1450669' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nuevos-problemas-elon-musk-italia-bloquea-despliegue-starlink-espana-podria-seguir-pasos-4307487.jpg?tf=1200x' alt='Nuevos problemas para Elon Musk: Italia bloquea el despliegue de Starlink, España podría seguir sus pasos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-alerta-ia-estamos-no-solo-producto-va-cambiar-mundo-1450724'>Sam Altman alerta sobre lo que nos espera con la IA: “Lo que estamos construyendo no es solo un producto, va a cambiar el mundo”</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-alerta-ia-estamos-no-solo-producto-va-cambiar-mundo-1450724' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-ia-potente-4307589.jpg?tf=1200x' alt='Sam Altman alerta sobre lo que nos espera con la IA: “Lo que estamos construyendo no es solo un producto, va a cambiar el mundo”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-mes-disfrutarlo-1450702'>Movistar Plus+ se inventa un nuevo canal para todos sus clientes, aunque solo tendrás un mes para disfrutarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-mes-disfrutarlo-1450702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-3-dias-disfrutarlo-4307537.jpg?tf=1200x' alt='Movistar Plus+ se inventa un nuevo canal para todos sus clientes, aunque solo tendrás un mes para disfrutarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dan-poder-robot-dirigir-empresa-resultados-anticipan-futuro-frio-impersonal-trabajo-1450616'>Le dan poder a un robot para dirigir una empresa y sus resultados anticipan el futuro frío e impersonal del trabajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/dan-poder-robot-dirigir-empresa-resultados-anticipan-futuro-frio-impersonal-trabajo-1450616' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-4307435.jpg?tf=1200x' alt='Le dan poder a un robot para dirigir una empresa y sus resultados anticipan el futuro frío e impersonal del trabajo' />
     </a>
 </div>
 
