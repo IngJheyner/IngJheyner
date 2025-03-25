@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676'>Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-alertan-llegada-ia-general-podria-ser-callejon-salida-1450676' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/investigadores-ia-4307562.jpg?tf=1200x' alt='Investigadores alertan sobre la llegada de la IA general: "Podría ser un callejón sin salida"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-alerta-ia-estamos-no-solo-producto-va-cambiar-mundo-1450724'>Sam Altman alerta sobre lo que nos espera con la IA: “Lo que estamos construyendo no es solo un producto, va a cambiar el mundo”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-alerta-ia-estamos-no-solo-producto-va-cambiar-mundo-1450724' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-ia-potente-4307589.jpg?tf=1200x' alt='Sam Altman alerta sobre lo que nos espera con la IA: “Lo que estamos construyendo no es solo un producto, va a cambiar el mundo”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-mes-disfrutarlo-1450702'>Movistar Plus+ se inventa un nuevo canal para todos sus clientes, aunque solo tendrás un mes para disfrutarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-mes-disfrutarlo-1450702' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-3-dias-disfrutarlo-4307537.jpg?tf=1200x' alt='Movistar Plus+ se inventa un nuevo canal para todos sus clientes, aunque solo tendrás un mes para disfrutarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-1450714'>Canadá desprecia a Elon Musk y su supuesto poder: "Ni el señor Musk ni nadie que trabaje bajo su mando"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-1450714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-4307587.jpg?tf=1200x' alt='Canadá desprecia a Elon Musk y su supuesto poder: "Ni el señor Musk ni nadie que trabaje bajo su mando"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/ia-google-ya-tiene-ojos-gemini-ya-puede-ver-pantalla-pestanas-1450715'>La IA de Google ya tiene "ojos": Gemini ya puede ver tu pantalla y tus pestañas</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/ia-google-ya-tiene-ojos-gemini-ya-puede-ver-pantalla-pestanas-1450715' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-google-vision-ia-4307590.jpg?tf=1200x' alt='La IA de Google ya tiene "ojos": Gemini ya puede ver tu pantalla y tus pestañas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/stella-li-vicepresidenta-byd-miedo-tesla-elon-musk-no-son-competencia-1450679'>Stella Li, vicepresidenta de BYD, sin miedo a Tesla de Elon Musk: "No son nuestra competencia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/stella-li-vicepresidenta-byd-miedo-tesla-elon-musk-no-son-competencia-1450679' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/byd-elon-musk-4307533.jpg?tf=1200x' alt='Stella Li, vicepresidenta de BYD, sin miedo a Tesla de Elon Musk: "No son nuestra competencia"' />
     </a>
 </div>
 
