@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/cada-vez-programadores-rinden-ia-ya-no-tiene-sentido-escribir-linea-codigo-1450393'>Cada vez más programadores se rinden ante la IA: “Ya no tiene sentido escribir una línea de código”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/cada-vez-programadores-rinden-ia-ya-no-tiene-sentido-escribir-linea-codigo-1450393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cada-vez-programadores-rinden-ia-ya-no-tiene-sentido-escribir-linea-codigo-4307049.jpg?tf=1200x' alt='Cada vez más programadores se rinden ante la IA: “Ya no tiene sentido escribir una línea de código”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-demuestran-peligroso-efecto-rebote-uso-chatgpt-estudiar-1450450'>Expertos demuestran el peligroso "efecto rebote" del uso de ChatGPT para estudiar</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-demuestran-peligroso-efecto-rebote-uso-chatgpt-estudiar-1450450' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-demuestran-peligroso-efecto-rebote-uso-chatgpt-estudiar-4307125.jpg?tf=1200x' alt='Expertos demuestran el peligroso "efecto rebote" del uso de ChatGPT para estudiar' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/kindle-da-vuelco-precio-pero-temporal-puedes-conseguirlo-99-euros-1449933'>El Kindle da un vuelco a su precio, pero es temporal: puedes conseguirlo desde 99 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/kindle-da-vuelco-precio-pero-temporal-puedes-conseguirlo-99-euros-1449933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/09/nuevo-kindle-2022-2813875.jpg?tf=1200x' alt='El Kindle da un vuelco a su precio, pero es temporal: puedes conseguirlo desde 99 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/dispositivo-electronico-comun-esconde-casi-medio-gramo-oro-22-quilates-todos-tiramos-1450341'>Este dispositivo electrónico común esconde casi medio gramo de oro de 22 quilates y todos lo tiramos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/dispositivo-electronico-comun-esconde-casi-medio-gramo-oro-22-quilates-todos-tiramos-1450341' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oro-placa-base-4307046.jpg?tf=1200x' alt='Este dispositivo electrónico común esconde casi medio gramo de oro de 22 quilates y todos lo tiramos' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/reputado-biologo-tumba-teoria-panal-adultos-elon-musk-ocupa-ultimo-lugar-mi-lista-1450434'>Un reputado biólogo tumba la teoría del "pañal para adultos" de Elon Musk: "Ocupa el último lugar en mi lista"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/reputado-biologo-tumba-teoria-panal-adultos-elon-musk-ocupa-ultimo-lugar-mi-lista-1450434' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307115.jpg?tf=1200x' alt='Un reputado biólogo tumba la teoría del "pañal para adultos" de Elon Musk: "Ocupa el último lugar en mi lista"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/como-imprimir-lista-archivos-carpeta-disco-windows-1450575'>Cómo imprimir la lista de archivos de una carpeta o disco en Windows, sin instalar apps y con un par de clics</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/como-imprimir-lista-archivos-carpeta-disco-windows-1450575' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-imprimir-lista-archivos-carpeta-disco-windows-instalar-apps-par-clics-4307346.jpg?tf=1200x' alt='Cómo imprimir la lista de archivos de una carpeta o disco en Windows, sin instalar apps y con un par de clics' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-1450547'>Expertos en ciberseguridad advierten del peligro: "Si usas el Amazon Fire TV para ver IPTV mucho cuidado con esto"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-1450547' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-4307332.jpg?tf=1200x' alt='Expertos en ciberseguridad advierten del peligro: "Si usas el Amazon Fire TV para ver IPTV mucho cuidado con esto"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553'>Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/becas-mec-2025-ya-disponibles-requisitos-cuantia-donde-solicitarlas-4307292.jpg?tf=1200x' alt='Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas' />
     </a>
 </div>
 
