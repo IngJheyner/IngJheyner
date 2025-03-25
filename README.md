@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dispositivo-electronico-comun-esconde-casi-medio-gramo-oro-22-quilates-todos-tiramos-1450341'>Este dispositivo electrónico común esconde casi medio gramo de oro de 22 quilates y todos lo tiramos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dispositivo-electronico-comun-esconde-casi-medio-gramo-oro-22-quilates-todos-tiramos-1450341' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/oro-placa-base-4307046.jpg?tf=1200x' alt='Este dispositivo electrónico común esconde casi medio gramo de oro de 22 quilates y todos lo tiramos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/reputado-biologo-tumba-teoria-panal-adultos-elon-musk-ocupa-ultimo-lugar-mi-lista-1450434'>Un reputado biólogo tumba la teoría del "pañal para adultos" de Elon Musk: "Ocupa el último lugar en mi lista"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/reputado-biologo-tumba-teoria-panal-adultos-elon-musk-ocupa-ultimo-lugar-mi-lista-1450434' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307115.jpg?tf=1200x' alt='Un reputado biólogo tumba la teoría del "pañal para adultos" de Elon Musk: "Ocupa el último lugar en mi lista"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/como-imprimir-lista-archivos-carpeta-disco-windows-1450575'>Cómo imprimir la lista de archivos de una carpeta o disco en Windows, sin instalar apps y con un par de clics</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/como-imprimir-lista-archivos-carpeta-disco-windows-1450575' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-imprimir-lista-archivos-carpeta-disco-windows-instalar-apps-par-clics-4307346.jpg?tf=1200x' alt='Cómo imprimir la lista de archivos de una carpeta o disco en Windows, sin instalar apps y con un par de clics' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-1450547'>Expertos en ciberseguridad advierten del peligro: "Si usas el Amazon Fire TV para ver IPTV mucho cuidado con esto"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-1450547' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-ciberseguridad-advierten-peligro-usas-amazon-fire-tv-ver-iptv-mucho-cuidado-4307332.jpg?tf=1200x' alt='Expertos en ciberseguridad advierten del peligro: "Si usas el Amazon Fire TV para ver IPTV mucho cuidado con esto"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553'>Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/becas-mec-2025-requisitos-cuantia-donde-solicitarlas-1450553' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/becas-mec-2025-ya-disponibles-requisitos-cuantia-donde-solicitarlas-4307292.jpg?tf=1200x' alt='Becas MEC 2025 ya disponibles: requisitos, cuantía, y dónde solicitarlas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/cae-peligroso-estafador-engano-40-personas-espana-metodo-bizum-inverso-1450549'>Cae un peligroso estafador que engañó a más de 40 personas en España con el método del Bizum inverso</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/cae-peligroso-estafador-engano-40-personas-espana-metodo-bizum-inverso-1450549' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bizum-4307305.jpg?tf=1200x' alt='Cae un peligroso estafador que engañó a más de 40 personas en España con el método del Bizum inverso' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-1450517'>Giro de 180 grados en Linux, revolución en Ubuntu que dice adiós para siempre a GNU/Linux</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-1450517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-4307300.jpg?tf=1200x' alt='Giro de 180 grados en Linux, revolución en Ubuntu que dice adiós para siempre a GNU/Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-opinion-otra-vez-windows-11-podria-recuperar-atajos-populares-1450546'>Microsoft cambia de opinión otra vez: Windows 11 podría recuperar uno de sus atajos más populares</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-cambia-opinion-otra-vez-windows-11-podria-recuperar-atajos-populares-1450546' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/atajo-teclado-4307304.jpg?tf=1200x' alt='Microsoft cambia de opinión otra vez: Windows 11 podría recuperar uno de sus atajos más populares' />
     </a>
 </div>
 
