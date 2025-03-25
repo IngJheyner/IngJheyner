@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-mes-disfrutarlo-1450702'>Movistar Plus+ se inventa un nuevo canal para todos sus clientes, aunque solo tendrás un mes para disfrutarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-mes-disfrutarlo-1450702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-inventa-nuevo-canal-todos-clientes-aunque-solo-tendras-3-dias-disfrutarlo-4307537.jpg?tf=1200x' alt='Movistar Plus+ se inventa un nuevo canal para todos sus clientes, aunque solo tendrás un mes para disfrutarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/dan-poder-robot-dirigir-empresa-resultados-anticipan-futuro-frio-impersonal-trabajo-1450616'>Le dan poder a un robot para dirigir una empresa y sus resultados anticipan el futuro frío e impersonal del trabajo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/dan-poder-robot-dirigir-empresa-resultados-anticipan-futuro-frio-impersonal-trabajo-1450616' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-4307435.jpg?tf=1200x' alt='Le dan poder a un robot para dirigir una empresa y sus resultados anticipan el futuro frío e impersonal del trabajo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-1450714'>Canadá desprecia a Elon Musk y su supuesto poder: "Ni el señor Musk ni nadie que trabaje bajo su mando"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-1450714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-desprecia-elon-musk-supuesto-poder-ni-senor-musk-ni-nadie-trabaje-mando-4307587.jpg?tf=1200x' alt='Canadá desprecia a Elon Musk y su supuesto poder: "Ni el señor Musk ni nadie que trabaje bajo su mando"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/ia-google-ya-tiene-ojos-gemini-ya-puede-ver-pantalla-pestanas-1450715'>La IA de Google ya tiene "ojos": Gemini ya puede ver tu pantalla y tus pestañas</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/ia-google-ya-tiene-ojos-gemini-ya-puede-ver-pantalla-pestanas-1450715' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-google-vision-ia-4307590.jpg?tf=1200x' alt='La IA de Google ya tiene "ojos": Gemini ya puede ver tu pantalla y tus pestañas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/stella-li-vicepresidenta-byd-miedo-tesla-elon-musk-no-son-competencia-1450679'>Stella Li, vicepresidenta de BYD, sin miedo a Tesla de Elon Musk: "No son nuestra competencia"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/stella-li-vicepresidenta-byd-miedo-tesla-elon-musk-no-son-competencia-1450679' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/byd-elon-musk-4307533.jpg?tf=1200x' alt='Stella Li, vicepresidenta de BYD, sin miedo a Tesla de Elon Musk: "No son nuestra competencia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/vivo-lanza-primeras-gafas-realidad-mixta-mete-lleno-robotica-consumo-1450728'>Vivo lanza sus primeras gafas de realidad mixta y se mete de lleno en la robótica de consumo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/vivo-lanza-primeras-gafas-realidad-mixta-mete-lleno-robotica-consumo-1450728' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vivo-vision-gafas-realidad-mixta-4307571.jpg?tf=1200x' alt='Vivo lanza sus primeras gafas de realidad mixta y se mete de lleno en la robótica de consumo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ia-cgi-todavia-sigo-shock-mitica-imagen-windows-10-real-1450700'>Ni IA ni CGI, todavía sigo en shock tras conocer que esta mítica imagen de Windows 10 es real</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ia-cgi-todavia-sigo-shock-mitica-imagen-windows-10-real-1450700' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gmunk-windows-10-4307552.jpg?tf=1200x' alt='Ni IA ni CGI, todavía sigo en shock tras conocer que esta mítica imagen de Windows 10 es real' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/alarmas-apple-watch-dejaran-ser-pesadilla-fin-empezaran-funcionar-bien-1450699'>Las alarmas en el Apple Watch dejarán de ser una pesadilla y por fin empezarán a funcionar bien</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/alarmas-apple-watch-dejaran-ser-pesadilla-fin-empezaran-funcionar-bien-1450699' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apple-watch-alarmas-4307554.jpg?tf=1200x' alt='Las alarmas en el Apple Watch dejarán de ser una pesadilla y por fin empezarán a funcionar bien' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/espana-va-marte-mision-exomars-esa-participacion-espanola-1450688'>España se va a Marte: la misión ExoMars de la ESA, con importante participación española, perforará el Planeta Rojo</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/espana-va-marte-mision-exomars-esa-participacion-espanola-1450688' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-va-marte-mision-exomars-esa-importante-participacion-espanola-perforara-planeta-rojo-4307398.jpg?tf=1200x' alt='España se va a Marte: la misión ExoMars de la ESA, con importante participación española, perforará el Planeta Rojo' />
     </a>
 </div>
 
