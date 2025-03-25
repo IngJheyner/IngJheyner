@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-prime-video-pelicula-costo-dineral-termino-siendo-exito-pese-criticas-1450579'>El "Estado eléctrico" de Prime Video: la película que costó un dineral y terminó siendo un éxito, pese a las críticas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/estado-electrico-prime-video-pelicula-costo-dineral-termino-siendo-exito-pese-criticas-1450579' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estado-electrico-prime-video-pelicula-costo-dineral-termino-siendo-exito-pese-criticas-4307357.jpg?tf=1200x' alt='El "Estado eléctrico" de Prime Video: la película que costó un dineral y terminó siendo un éxito, pese a las críticas' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829'>Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hdr-10-netflix-4307742.jpg?tf=1200x' alt='Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/quitale-candado-televisor-android-tv-box-permite-instalar-cualquier-aplicacion-verla-4k-1450687'>Quítale el candado a tu televisor: esta Android TV Box permite instalar cualquier aplicación y verla en 4K</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/quitale-candado-televisor-android-tv-box-permite-instalar-cualquier-aplicacion-verla-4k-1450687' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/android-tv-3731775.jpg?tf=1200x' alt='Quítale el candado a tu televisor: esta Android TV Box permite instalar cualquier aplicación y verla en 4K' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-aclara-reglas-juego-estas-son-limitaciones-gpt-45-deep-research-1450827'>ChatGPT aclara las reglas del juego: estas son las limitaciones de GPT-4.5 y Deep Research</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-aclara-reglas-juego-estas-son-limitaciones-gpt-45-deep-research-1450827' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4307738.jpg?tf=1200x' alt='ChatGPT aclara las reglas del juego: estas son las limitaciones de GPT-4.5 y Deep Research' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-clasico-terror-tendra-secuela-16-anos-despues-puede-verse-disney-plus-1447228'>Fracasó en taquilla, pero este clásico del terror tendrá secuela 16 años después (y puede verse en Disney Plus+)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/fracaso-taquilla-pero-clasico-terror-tendra-secuela-16-anos-despues-puede-verse-disney-plus-1447228' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fracaso-taquilla-pero-clasico-terror-tendra-secuela-16-anos-despues-puede-verse-disney-plus-4301954.jpg?tf=1200x' alt='Fracasó en taquilla, pero este clásico del terror tendrá secuela 16 años después (y puede verse en Disney Plus+)' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-1447224'>Netflix tiene la serie de saltos en el tiempo basada en un anime con críticas casi perfectas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-1447224' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-4301951.jpg?tf=1200x' alt='Netflix tiene la serie de saltos en el tiempo basada en un anime con críticas casi perfectas' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/kai-fu-lee-exdirector-google-avisa-sam-altman-mayor-pesadilla-probablemente-no-duerma-bien-1450786'>Kai-Fu Lee, exdirector de Google, avisa a Sam Altman: "Es su mayor pesadilla, probablemente no duerma bien"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/kai-fu-lee-exdirector-google-avisa-sam-altman-mayor-pesadilla-probablemente-no-duerma-bien-1450786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/kai-fu-lee-exdirector-google-avisa-sam-altman-mayor-pesadilla-probablemente-no-duerma-bien-4307703.jpg?tf=1200x' alt='Kai-Fu Lee, exdirector de Google, avisa a Sam Altman: "Es su mayor pesadilla, probablemente no duerma bien"' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-140-ya-disponible-todos-control-clima-radio-fm-muchas-novedades-1450824'>Android Auto 14.0 ya disponible para todos: control del clima, radio FM y muchas novedades</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-140-ya-disponible-todos-control-clima-radio-fm-muchas-novedades-1450824' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-14-4307735.jpg?tf=1200x' alt='Android Auto 14.0 ya disponible para todos: control del clima, radio FM y muchas novedades' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-1446815'>Netflix no ha inventado la ciencia ficción: 5 series míticas de los 80 que arrasarían hoy</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-1446815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-no-ha-inventado-ciencia-ficcion-5-series-miticas-80-arrasarian-hoy-4301320.jpg?tf=1200x' alt='Netflix no ha inventado la ciencia ficción: 5 series míticas de los 80 que arrasarían hoy' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/disney-fin-anade-principales-peticiones-fans-compartes-perfil-gente-1450823'>Disney+ al fin añade una de las principales peticiones de los fans, si compartes perfil con más gente</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/disney-fin-anade-principales-peticiones-fans-compartes-perfil-gente-1450823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/disney-fin-anade-principales-peticiones-fans-compartes-cuenta-familia-4307720.jpg?tf=1200x' alt='Disney+ al fin añade una de las principales peticiones de los fans, si compartes perfil con más gente' />
     </a>
 </div>
 
