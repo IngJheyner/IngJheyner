@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-1450584'>Se adelantó a The Last of Us: la serie postapocalíptica de culto que puedes ver en Disney Plus+</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-1450584' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-4307366.jpg?tf=1200x' alt='Se adelantó a The Last of Us: la serie postapocalíptica de culto que puedes ver en Disney Plus+' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-airpods-tecnologia-transmite-audio-directamente-oidos-1451086'>Adiós a los AirPods, esta tecnología transmite audio directamente a tus oídos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-airpods-tecnologia-transmite-audio-directamente-oidos-1451086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-tecnologia-escuchar-musica-4308140.jpg?tf=1200x' alt='Adiós a los AirPods, esta tecnología transmite audio directamente a tus oídos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-satura-bandejas-correo-gobierno-ultima-estupidez-ni-caso-ignorarle-1450995'>Elon Musk satura las bandejas de correo del gobierno con su última estupidez: Ni caso, ignorarle</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-satura-bandejas-correo-gobierno-ultima-estupidez-ni-caso-ignorarle-1450995' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-correo-electronico-4307969.jpg?tf=1200x' alt='Elon Musk satura las bandejas de correo del gobierno con su última estupidez: Ni caso, ignorarle' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-1451078'>Estalla la bomba de las IPTV: la justicia da la razón a Javier Tebas y desestima las demandas de Cloudflare y RootedCON</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-1451078' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-4308132.jpg?tf=1200x' alt='Estalla la bomba de las IPTV: la justicia da la razón a Javier Tebas y desestima las demandas de Cloudflare y RootedCON' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-1450939'>Así será la nueva TDT en abierto: 4K como estándar, nuevo canal para todos y muchas dudas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-1450939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-4307881.jpg?tf=1200x' alt='Así será la nueva TDT en abierto: 4K como estándar, nuevo canal para todos y muchas dudas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-ha-desarrollado-bateria-definitiva-tecnologia-niquel-hidrogeno-30-anos-vida-util-1450994'>La NASA ha desarrollado la batería definitiva: tecnología de níquel-hidrógeno con 30 años de vida útil</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/nasa-ha-desarrollado-bateria-definitiva-tecnologia-niquel-hidrogeno-30-anos-vida-util-1450994' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-metal-hidrogeno-4307965.jpg?tf=1200x' alt='La NASA ha desarrollado la batería definitiva: tecnología de níquel-hidrógeno con 30 años de vida útil' />
     </a>
 </div>
 
