@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-giro-180-grados-openai-chatgpt-antes-llegada-ia-general-1450646'>Sam Altman da un giro de 180 grados a OpenAI y ChatGPT antes de la llegada de la IA general</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-giro-180-grados-openai-chatgpt-antes-llegada-ia-general-1450646' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4307478.jpg?tf=1200x' alt='Sam Altman da un giro de 180 grados a OpenAI y ChatGPT antes de la llegada de la IA general' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-mit-openai-descubren-nuevo-perfil-usuario-ia-lacayos-chatgpt-1450634'>Expertos del MIT y OpenAI descubren un nuevo perfil de usuario de la IA: los lacayos de ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-mit-openai-descubren-nuevo-perfil-usuario-ia-lacayos-chatgpt-1450634' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4307453.jpg?tf=1200x' alt='Expertos del MIT y OpenAI descubren un nuevo perfil de usuario de la IA: los lacayos de ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/descarga-gratis-codigo-fuente-alexnet-nacimiento-ia-moderna-1450843'>Ya puedes descargar gratis el mítico código fuente que dio lugar al nacimiento de la IA moderna</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/descarga-gratis-codigo-fuente-alexnet-nacimiento-ia-moderna-1450843' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-puedes-descargar-gratis-mitico-codigo-fuente-dio-lugar-nacimiento-ia-moderna-4307755.jpg?tf=1200x' alt='Ya puedes descargar gratis el mítico código fuente que dio lugar al nacimiento de la IA moderna' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829'>Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hdr-10-netflix-4307742.jpg?tf=1200x' alt='Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-aclara-reglas-juego-estas-son-limitaciones-gpt-45-deep-research-1450827'>ChatGPT aclara las reglas del juego: estas son las limitaciones de GPT-4.5 y Deep Research</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-aclara-reglas-juego-estas-son-limitaciones-gpt-45-deep-research-1450827' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-4307738.jpg?tf=1200x' alt='ChatGPT aclara las reglas del juego: estas son las limitaciones de GPT-4.5 y Deep Research' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-1447224'>Netflix tiene la serie de saltos en el tiempo basada en un anime con críticas casi perfectas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-1447224' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-4301951.jpg?tf=1200x' alt='Netflix tiene la serie de saltos en el tiempo basada en un anime con críticas casi perfectas' />
     </a>
 </div>
 
