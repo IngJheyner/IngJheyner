@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/multimillonario-mark-cuban-ia-adolescentes-negocio-6-cifras-1450854'>El multimillonario Mark Cuban lo tiene claro con la IA: "Si tuviera 16 años empezaría este negocio de 6 cifras y sin título universitario"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/multimillonario-mark-cuban-ia-adolescentes-negocio-6-cifras-1450854' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/multimillonario-mark-cuban-tiene-claro-ia-tuviera-16-anos-empezaria-negocio-6-cifras-titulo-universitario-4307778.jpg?tf=1200x' alt='El multimillonario Mark Cuban lo tiene claro con la IA: "Si tuviera 16 años empezaría este negocio de 6 cifras y sin título universitario"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/nunca-habia-probado-funda-magnetica-movil-pero-puedo-dar-tantos-usos-ya-imprescindible-1450409'>Nunca había probado una funda magnética para el móvil, pero le puedo dar tantos usos que ya es imprescindible</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/nunca-habia-probado-funda-magnetica-movil-pero-puedo-dar-tantos-usos-ya-imprescindible-1450409' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funda-magnetica-movil-4307181.jpg?tf=1200x' alt='Nunca había probado una funda magnética para el móvil, pero le puedo dar tantos usos que ya es imprescindible' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/verdad-necesitas-portatil-pro-trabajar-macbook-air-m4-me-ha-abierto-ojos-1450615'>¿De verdad necesitas un portátil 'Pro' para trabajar? El Macbook Air M4 me ha abierto los ojos</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/verdad-necesitas-portatil-pro-trabajar-macbook-air-m4-me-ha-abierto-ojos-1450615' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/macbook-air-m4-4307717.jpg?tf=1200x' alt='¿De verdad necesitas un portátil 'Pro' para trabajar? El Macbook Air M4 me ha abierto los ojos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tres-frases-efectivas-cortar-raiz-spam-telefonico-poner-riesgo-seguridad-1450694'>Las tres frases más efectivas para cortar de raíz el SPAM telefónico sin poner en riesgo tu seguridad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/tres-frases-efectivas-cortar-raiz-spam-telefonico-poner-riesgo-seguridad-1450694' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-spam-4307547.jpg?tf=1200x' alt='Las tres frases más efectivas para cortar de raíz el SPAM telefónico sin poner en riesgo tu seguridad' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/odias-trabajo-piensa-jefe-podria-ser-elon-musk-reciben-amenazas-muerte-diarias-1450657'>Si odias tu trabajo, piensa que tu jefe podría ser Elon Musk: "Reciben amenazas de muerte diarias"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/odias-trabajo-piensa-jefe-podria-ser-elon-musk-reciben-amenazas-muerte-diarias-1450657' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307510.jpg?tf=1200x' alt='Si odias tu trabajo, piensa que tu jefe podría ser Elon Musk: "Reciben amenazas de muerte diarias"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/estos-cascos-no-parecen-tienen-cada-vez-runners-usan-1450275'>Estos cascos no se parecen a los que tienen: cada vez más runners los usan</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/estos-cascos-no-parecen-tienen-cada-vez-runners-usan-1450275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/shokz-openrun-pro-4306855.jpg?tf=1200x' alt='Estos cascos no se parecen a los que tienen: cada vez más runners los usan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-giro-180-grados-openai-chatgpt-antes-llegada-ia-general-1450646'>Sam Altman da un giro de 180 grados a OpenAI y ChatGPT antes de la llegada de la IA general</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-giro-180-grados-openai-chatgpt-antes-llegada-ia-general-1450646' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4307478.jpg?tf=1200x' alt='Sam Altman da un giro de 180 grados a OpenAI y ChatGPT antes de la llegada de la IA general' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-mit-openai-descubren-nuevo-perfil-usuario-ia-lacayos-chatgpt-1450634'>Expertos del MIT y OpenAI descubren un nuevo perfil de usuario de la IA: los lacayos de ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-mit-openai-descubren-nuevo-perfil-usuario-ia-lacayos-chatgpt-1450634' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4307453.jpg?tf=1200x' alt='Expertos del MIT y OpenAI descubren un nuevo perfil de usuario de la IA: los lacayos de ChatGPT' />
     </a>
 </div>
 
