@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-crea-arma-submarina-definitiva-aseguran-podria-cambiar-orden-mundial-1450944'>China crea el arma submarina definitiva y aseguran que podría "cambiar el orden mundial"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/china-crea-arma-submarina-definitiva-aseguran-podria-cambiar-orden-mundial-1450944' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/submarino-china-4307959.jpg?tf=1200x' alt='China crea el arma submarina definitiva y aseguran que podría "cambiar el orden mundial"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-te-ensena-utilizar-ia-estos-nuevos-cursos-gratis-todos-niveles-1451011'>OpenAI te enseña a utilizar la IA con estos nuevos cursos gratis para todos los niveles</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/openai-te-ensena-utilizar-ia-estos-nuevos-cursos-gratis-todos-niveles-1451011' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-openai-cursos-inteligencia-artificial-4308070.jpg?tf=1200x' alt='OpenAI te enseña a utilizar la IA con estos nuevos cursos gratis para todos los niveles' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-seguir-utilizando-windows-10-sera-infierno-1450990'>Microsoft lo deja claro: seguir utilizando Windows 10 será un infierno a partir de ahora</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-seguir-utilizando-windows-10-sera-infierno-1450990' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problema-windows-10-4307976.jpg?tf=1200x' alt='Microsoft lo deja claro: seguir utilizando Windows 10 será un infierno a partir de ahora' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-estafa-nombre-seguridad-social-no-piques-1450941'>La Policía Nacional alerta de la estafa en nombre de la Seguridad Social: "No piques"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-estafa-nombre-seguridad-social-no-piques-1450941' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-alerta-estafa-nombre-seguridad-social-no-envies-datos-ni-respondas-4307879.jpg?tf=1200x' alt='La Policía Nacional alerta de la estafa en nombre de la Seguridad Social: "No piques"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-1450969'>Mazazo a las IPTV: cae el mayor imperio de piratería tras más de 10 años de investigaciones</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-1450969' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-4308004.jpg?tf=1200x' alt='Mazazo a las IPTV: cae el mayor imperio de piratería tras más de 10 años de investigaciones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/hogar/nuevos-purificadores-humidificadores-dyson-evitan-efectos-contaminacion-hidratan-piel-1451004'>Los nuevos purificadores y humidificadores Dyson evitan los efectos de la contaminación e hidratan la piel</a></h4>
-    <a href='https://computerhoy.20minutos.es/hogar/nuevos-purificadores-humidificadores-dyson-evitan-efectos-contaminacion-hidratan-piel-1451004' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dyson-purifier-cool-pc1-4307995.jpg?tf=1200x' alt='Los nuevos purificadores y humidificadores Dyson evitan los efectos de la contaminación e hidratan la piel' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-advierte-ultima-guerra-asegura-tener-clave-victoria-eeuu-1450919'>Elon Musk advierte sobre "la última guerra" y asegura tener la clave para la victoria de EEUU</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-advierte-ultima-guerra-asegura-tener-clave-victoria-eeuu-1450919' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307872.jpg?tf=1200x' alt='Elon Musk advierte sobre "la última guerra" y asegura tener la clave para la victoria de EEUU' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-avisa-nuevo-generador-imagenes-chatgpt-pueden-ofender-gente-1450930'>Sam Altman avisa sobre el nuevo generador de imágenes de ChatGPT: "Pueden ofender a la gente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-avisa-nuevo-generador-imagenes-chatgpt-pueden-ofender-gente-1450930' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4307880.jpg?tf=1200x' alt='Sam Altman avisa sobre el nuevo generador de imágenes de ChatGPT: "Pueden ofender a la gente"' />
     </a>
 </div>
 
