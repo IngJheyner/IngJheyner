@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-errores-garrafales-chatgpt-comete-siempre-openai-no-sabe-corregir-experto-ia-1450877'>Estos son los errores garrafales que ChatGPT comete siempre y que OpenAI no sabe corregir, según un experto en IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-errores-garrafales-chatgpt-comete-siempre-openai-no-sabe-corregir-experto-ia-1450877' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estos-son-errores-garrafales-chatgpt-comete-siempre-openai-no-sabe-corregir-experto-ia-4307835.jpg?tf=1200x' alt='Estos son los errores garrafales que ChatGPT comete siempre y que OpenAI no sabe corregir, según un experto en IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canon-da-todo-video-profesional-nuevas-powershot-v1-eos-r50-v-1450407'>Canon lo da todo al vídeo profesional con las nuevas PowerShot V1 y EOS R50 V</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/canon-da-todo-video-profesional-nuevas-powershot-v1-eos-r50-v-1450407' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canon-powershot-v1-4308011.jpg?tf=1200x' alt='Canon lo da todo al vídeo profesional con las nuevas PowerShot V1 y EOS R50 V' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xavier-niel-grandes-gurus-ia-advierte-europa-convertira-continente-abandonado-1451012'>Xavier Niel, uno de los grandes gurús de la IA, advierte a Europa: "Se convertirá en un continente abandonado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xavier-niel-grandes-gurus-ia-advierte-europa-convertira-continente-abandonado-1451012' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xavier-niel-grandes-gurus-ia-advierte-europa-convertira-continente-abandonado-4308101.jpg?tf=1200x' alt='Xavier Niel, uno de los grandes gurús de la IA, advierte a Europa: "Se convertirá en un continente abandonado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/no-encuentras-trabajo-culpable-puede-ser-microfono-ordenador-1450965'>¿No encuentras trabajo? El culpable puede ser el micrófono de tu ordenador</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/no-encuentras-trabajo-culpable-puede-ser-microfono-ordenador-1450965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-encuentras-trabajo-culpa-puede-ser-microfono-dicen-expertos-4307901.jpg?tf=1200x' alt='¿No encuentras trabajo? El culpable puede ser el micrófono de tu ordenador' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/china-crea-arma-submarina-definitiva-aseguran-podria-cambiar-orden-mundial-1450944'>China crea el arma submarina definitiva y aseguran que podría "cambiar el orden mundial"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/china-crea-arma-submarina-definitiva-aseguran-podria-cambiar-orden-mundial-1450944' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/submarino-china-4307959.jpg?tf=1200x' alt='China crea el arma submarina definitiva y aseguran que podría "cambiar el orden mundial"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/openai-te-ensena-utilizar-ia-estos-nuevos-cursos-gratis-todos-niveles-1451011'>OpenAI te enseña a utilizar la IA con estos nuevos cursos gratis para todos los niveles</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/openai-te-ensena-utilizar-ia-estos-nuevos-cursos-gratis-todos-niveles-1451011' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-openai-cursos-inteligencia-artificial-4308070.jpg?tf=1200x' alt='OpenAI te enseña a utilizar la IA con estos nuevos cursos gratis para todos los niveles' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-seguir-utilizando-windows-10-sera-infierno-1450990'>Microsoft lo deja claro: seguir utilizando Windows 10 será un infierno a partir de ahora</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-deja-claro-seguir-utilizando-windows-10-sera-infierno-1450990' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problema-windows-10-4307976.jpg?tf=1200x' alt='Microsoft lo deja claro: seguir utilizando Windows 10 será un infierno a partir de ahora' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-estafa-nombre-seguridad-social-no-piques-1450941'>La Policía Nacional alerta de la estafa en nombre de la Seguridad Social: "No piques"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-estafa-nombre-seguridad-social-no-piques-1450941' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-alerta-estafa-nombre-seguridad-social-no-envies-datos-ni-respondas-4307879.jpg?tf=1200x' alt='La Policía Nacional alerta de la estafa en nombre de la Seguridad Social: "No piques"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-1450969'>Mazazo a las IPTV: cae el mayor imperio de piratería tras más de 10 años de investigaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-1450969' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-4308004.jpg?tf=1200x' alt='Mazazo a las IPTV: cae el mayor imperio de piratería tras más de 10 años de investigaciones' />
     </a>
 </div>
 
