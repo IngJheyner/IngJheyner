@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/tres-frases-efectivas-cortar-raiz-spam-telefonico-poner-riesgo-seguridad-1450694'>Las tres frases más efectivas para cortar de raíz el SPAM telefónico sin poner en riesgo tu seguridad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/tres-frases-efectivas-cortar-raiz-spam-telefonico-poner-riesgo-seguridad-1450694' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/llamada-spam-4307547.jpg?tf=1200x' alt='Las tres frases más efectivas para cortar de raíz el SPAM telefónico sin poner en riesgo tu seguridad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/odias-trabajo-piensa-jefe-podria-ser-elon-musk-reciben-amenazas-muerte-diarias-1450657'>Si odias tu trabajo, piensa que tu jefe podría ser Elon Musk: "Reciben amenazas de muerte diarias"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/odias-trabajo-piensa-jefe-podria-ser-elon-musk-reciben-amenazas-muerte-diarias-1450657' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307510.jpg?tf=1200x' alt='Si odias tu trabajo, piensa que tu jefe podría ser Elon Musk: "Reciben amenazas de muerte diarias"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/estos-cascos-no-parecen-tienen-cada-vez-runners-usan-1450275'>Estos cascos no se parecen a los que tienen: cada vez más runners los usan</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/estos-cascos-no-parecen-tienen-cada-vez-runners-usan-1450275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/shokz-openrun-pro-4306855.jpg?tf=1200x' alt='Estos cascos no se parecen a los que tienen: cada vez más runners los usan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-giro-180-grados-openai-chatgpt-antes-llegada-ia-general-1450646'>Sam Altman da un giro de 180 grados a OpenAI y ChatGPT antes de la llegada de la IA general</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-da-giro-180-grados-openai-chatgpt-antes-llegada-ia-general-1450646' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4307478.jpg?tf=1200x' alt='Sam Altman da un giro de 180 grados a OpenAI y ChatGPT antes de la llegada de la IA general' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-mit-openai-descubren-nuevo-perfil-usuario-ia-lacayos-chatgpt-1450634'>Expertos del MIT y OpenAI descubren un nuevo perfil de usuario de la IA: los lacayos de ChatGPT</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-mit-openai-descubren-nuevo-perfil-usuario-ia-lacayos-chatgpt-1450634' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4307453.jpg?tf=1200x' alt='Expertos del MIT y OpenAI descubren un nuevo perfil de usuario de la IA: los lacayos de ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/descarga-gratis-codigo-fuente-alexnet-nacimiento-ia-moderna-1450843'>Ya puedes descargar gratis el mítico código fuente que dio lugar al nacimiento de la IA moderna</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/descarga-gratis-codigo-fuente-alexnet-nacimiento-ia-moderna-1450843' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-puedes-descargar-gratis-mitico-codigo-fuente-dio-lugar-nacimiento-ia-moderna-4307755.jpg?tf=1200x' alt='Ya puedes descargar gratis el mítico código fuente que dio lugar al nacimiento de la IA moderna' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-1450819'>Europa se prepara para recuperar las fronteras, aunque no como imaginas: llegan los muros de drones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-1450819' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-4307754.jpg?tf=1200x' alt='Europa se prepara para recuperar las fronteras, aunque no como imaginas: llegan los muros de drones' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829'>Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/netflix-ve-mejor-nunca-hdr10-llega-miles-horas-contenido-1450829' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hdr-10-netflix-4307742.jpg?tf=1200x' alt='Netflix se ve mejor que nunca: HDR10+ llega a miles de horas de contenido' />
     </a>
 </div>
 
