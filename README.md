@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-estafa-nombre-seguridad-social-no-piques-1450941'>La Policía Nacional alerta de la estafa en nombre de la Seguridad Social: "No piques"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/policia-nacional-alerta-estafa-nombre-seguridad-social-no-piques-1450941' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/policia-nacional-alerta-estafa-nombre-seguridad-social-no-envies-datos-ni-respondas-4307879.jpg?tf=1200x' alt='La Policía Nacional alerta de la estafa en nombre de la Seguridad Social: "No piques"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-1450969'>Mazazo a las IPTV: cae el mayor imperio de piratería tras más de 10 años de investigaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-1450969' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mazazo-iptv-cae-mayor-imperio-pirateria-10-anos-investigaciones-4308004.jpg?tf=1200x' alt='Mazazo a las IPTV: cae el mayor imperio de piratería tras más de 10 años de investigaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/nuevos-purificadores-humidificadores-dyson-evitan-efectos-contaminacion-hidratan-piel-1451004'>Los nuevos purificadores y humidificadores Dyson evitan los efectos de la contaminación e hidratan la piel</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/nuevos-purificadores-humidificadores-dyson-evitan-efectos-contaminacion-hidratan-piel-1451004' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/dyson-purifier-cool-pc1-4307995.jpg?tf=1200x' alt='Los nuevos purificadores y humidificadores Dyson evitan los efectos de la contaminación e hidratan la piel' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-advierte-ultima-guerra-asegura-tener-clave-victoria-eeuu-1450919'>Elon Musk advierte sobre "la última guerra" y asegura tener la clave para la victoria de EEUU</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-advierte-ultima-guerra-asegura-tener-clave-victoria-eeuu-1450919' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4307872.jpg?tf=1200x' alt='Elon Musk advierte sobre "la última guerra" y asegura tener la clave para la victoria de EEUU' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-avisa-nuevo-generador-imagenes-chatgpt-pueden-ofender-gente-1450930'>Sam Altman avisa sobre el nuevo generador de imágenes de ChatGPT: "Pueden ofender a la gente"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-avisa-nuevo-generador-imagenes-chatgpt-pueden-ofender-gente-1450930' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-4307880.jpg?tf=1200x' alt='Sam Altman avisa sobre el nuevo generador de imágenes de ChatGPT: "Pueden ofender a la gente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/circulo-azul-whatsapp-ia-meta-infecta-movil-no-podras-hacer-nada-evitarlo-1450985'>Círculo azul de WhatsApp: la IA de Meta "infecta" tu móvil y no podrás hacer nada para evitarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/circulo-azul-whatsapp-ia-meta-infecta-movil-no-podras-hacer-nada-evitarlo-1450985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/whatsapp-meta-ai-circulo-azul-4307957.jpg?tf=1200x' alt='Círculo azul de WhatsApp: la IA de Meta "infecta" tu móvil y no podrás hacer nada para evitarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/elon-musk-ataca-assassins-creed-shadows-sale-escaldado-juega-cuenta-1450968'>Elon Musk ataca a Assassin’s Creed Shadows y sale escaldado: “¿Eso es lo que te ha dicho el que juega con tu cuenta?”</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/elon-musk-ataca-assassins-creed-shadows-sale-escaldado-juega-cuenta-1450968' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/assassins-creed-shadows-criticado-elon-musk-4307892.jpg?tf=1200x' alt='Elon Musk ataca a Assassin’s Creed Shadows y sale escaldado: “¿Eso es lo que te ha dicho el que juega con tu cuenta?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anade-copilot-funcion-fin-compite-chatgpt-gemini-perplexity-1450982'>Microsoft añade a Copilot la función con la que al fin compite con ChatGPT, Gemini y Perplexity</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-anade-copilot-funcion-fin-compite-chatgpt-gemini-perplexity-1450982' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/agentes-autonomos-inteligencia-artificial-microsoft-copilot-4307931.jpg?tf=1200x' alt='Microsoft añade a Copilot la función con la que al fin compite con ChatGPT, Gemini y Perplexity' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/lg-gram-book-nuevo-portatil-ultraligero-llega-espana-799-euros-1450970'>LG Gram Book, nuevo portátil ultraligero que llega España desde 799 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/lg-gram-book-nuevo-portatil-ultraligero-llega-espana-799-euros-1450970' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lg-gram-book-4307911.jpg?tf=1200x' alt='LG Gram Book, nuevo portátil ultraligero que llega España desde 799 euros' />
     </a>
 </div>
 
