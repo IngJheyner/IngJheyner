@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/todos-tienen-gps-pero-ademas-tiene-ia-amazfit-hunde-precio-reloj-runners-inteligente-1450712'>Todos tienen GPS, pero este además tiene IA: Amazfit hunde el precio del reloj para runners más inteligente</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/todos-tienen-gps-pero-ademas-tiene-ia-amazfit-hunde-precio-reloj-runners-inteligente-1450712' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/amazfit-cheetah-pro-4276777.jpg?tf=1200x' alt='Todos tienen GPS, pero este además tiene IA: Amazfit hunde el precio del reloj para runners más inteligente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/linus-torvalds-olvido-lanzar-linux-614-durante-todo-dia-pura-incompetencia-1450677'>Linus Torvalds se olvidó de lanzar Linux 6.14 durante todo un día: “Es pura incompetencia”</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/linus-torvalds-olvido-lanzar-linux-614-durante-todo-dia-pura-incompetencia-1450677' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linus-torvalds-tuvo-problemas-version-614-linux-4307504.jpg?tf=1200x' alt='Linus Torvalds se olvidó de lanzar Linux 6.14 durante todo un día: “Es pura incompetencia”' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/tcl-presenta-nueva-gama-televisores-espana-2025-todos-detalles-modelos-1450892'>TCL presenta nueva gama de televisores en España para 2025: todos los detalles y modelos</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/tcl-presenta-nueva-gama-televisores-espana-2025-todos-detalles-modelos-1450892' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tcl-c7k-4307820.jpg?tf=1200x' alt='TCL presenta nueva gama de televisores en España para 2025: todos los detalles y modelos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-olvida-tesla-comienza-nuevo-proyecto-parece-sacado-anos-50-1450867'>Elon Musk se olvida de Tesla y comienza un nuevo proyecto: parece sacado de los años 50</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-olvida-tesla-comienza-nuevo-proyecto-parece-sacado-anos-50-1450867' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-olvida-tesla-comienza-nuevo-proyecto-parece-sacado-anos-50-4307799.jpg?tf=1200x' alt='Elon Musk se olvida de Tesla y comienza un nuevo proyecto: parece sacado de los años 50' />
     </a>
 </div>
 
