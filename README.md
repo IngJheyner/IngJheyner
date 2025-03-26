@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106'>Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-4308167.jpg?tf=1200x' alt='Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-consternados-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051'>Científicos consternados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/cientificos-consternados-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-consternados-derrota-frente-elon-musk-podria-hacer-dano-bien-4308160.jpg?tf=1200x' alt='Científicos consternados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-dos-nuevas-apps-windows-11-sirven-buscar-personas-archivos-funcionan-1451104'>Microsoft lanza dos nuevas apps para Windows 11: sirven para buscar personas y archivos y así funcionan</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-dos-nuevas-apps-windows-11-sirven-buscar-personas-archivos-funcionan-1451104' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apps-windows-11-4308166.jpg?tf=1200x' alt='Microsoft lanza dos nuevas apps para Windows 11: sirven para buscar personas y archivos y así funcionan' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/batacazo-ia-chatgpt-gemini-claude-no-pueden-test-humanos-superan-facilidad-1451100'>Batacazo de la IA: ChatGPT, Gemini y Claude no pueden con un test que los humanos superan con facilidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/batacazo-ia-chatgpt-gemini-claude-no-pueden-test-humanos-superan-facilidad-1451100' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4308161.jpg?tf=1200x' alt='Batacazo de la IA: ChatGPT, Gemini y Claude no pueden con un test que los humanos superan con facilidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-1450584'>Se adelantó a The Last of Us: la serie postapocalíptica de culto que puedes ver en Disney Plus+</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-1450584' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-4307366.jpg?tf=1200x' alt='Se adelantó a The Last of Us: la serie postapocalíptica de culto que puedes ver en Disney Plus+' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-airpods-tecnologia-transmite-audio-directamente-oidos-1451086'>Adiós a los AirPods, esta tecnología transmite audio directamente a tus oídos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-airpods-tecnologia-transmite-audio-directamente-oidos-1451086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nueva-tecnologia-escuchar-musica-4308140.jpg?tf=1200x' alt='Adiós a los AirPods, esta tecnología transmite audio directamente a tus oídos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-satura-bandejas-correo-gobierno-ultima-estupidez-ni-caso-ignorarle-1450995'>Elon Musk satura las bandejas de correo del gobierno con su última estupidez: Ni caso, ignorarle</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-satura-bandejas-correo-gobierno-ultima-estupidez-ni-caso-ignorarle-1450995' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-correo-electronico-4307969.jpg?tf=1200x' alt='Elon Musk satura las bandejas de correo del gobierno con su última estupidez: Ni caso, ignorarle' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cada-vez-expertos-coinciden-ia-burbuja-estallara-1450984'>Cada vez más expertos coinciden: "La IA es una burbuja, y estallará"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cada-vez-expertos-coinciden-ia-burbuja-estallara-1450984' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-burbuja-punto-estallar-dicen-expertos-4307929.jpg?tf=1200x' alt='Cada vez más expertos coinciden: "La IA es una burbuja, y estallará"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-1451078'>Estalla la bomba de las IPTV: la justicia da la razón a Javier Tebas y desestima las demandas de Cloudflare y RootedCON</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-1451078' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-4308132.jpg?tf=1200x' alt='Estalla la bomba de las IPTV: la justicia da la razón a Javier Tebas y desestima las demandas de Cloudflare y RootedCON' />
     </a>
 </div>
 
