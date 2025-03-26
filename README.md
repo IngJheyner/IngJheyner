@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-satura-bandejas-correo-gobierno-ultima-estupidez-ni-caso-ignorarle-1450995'>Elon Musk satura las bandejas de correo del gobierno con su última estupidez: Ni caso, ignorarle</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-satura-bandejas-correo-gobierno-ultima-estupidez-ni-caso-ignorarle-1450995' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-correo-electronico-4307969.jpg?tf=1200x' alt='Elon Musk satura las bandejas de correo del gobierno con su última estupidez: Ni caso, ignorarle' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cada-vez-expertos-coinciden-ia-burbuja-estallara-1450984'>Cada vez más expertos coinciden: "La IA es una burbuja, y estallará"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cada-vez-expertos-coinciden-ia-burbuja-estallara-1450984' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-burbuja-punto-estallar-dicen-expertos-4307929.jpg?tf=1200x' alt='Cada vez más expertos coinciden: "La IA es una burbuja, y estallará"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-1451078'>Estalla la bomba de las IPTV: la justicia da la razón a Javier Tebas y desestima las demandas de Cloudflare y RootedCON</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-1451078' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estalla-bomba-iptv-justicia-da-razon-javier-tebas-desestima-demandas-cloudflare-rootedcon-4308132.jpg?tf=1200x' alt='Estalla la bomba de las IPTV: la justicia da la razón a Javier Tebas y desestima las demandas de Cloudflare y RootedCON' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-1450939'>Así será la nueva TDT en abierto: 4K como estándar, nuevo canal para todos y muchas dudas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-1450939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-4307881.jpg?tf=1200x' alt='Así será la nueva TDT en abierto: 4K como estándar, nuevo canal para todos y muchas dudas' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/nasa-ha-desarrollado-bateria-definitiva-tecnologia-niquel-hidrogeno-30-anos-vida-util-1450994'>La NASA ha desarrollado la batería definitiva: tecnología de níquel-hidrógeno con 30 años de vida útil</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/nasa-ha-desarrollado-bateria-definitiva-tecnologia-niquel-hidrogeno-30-anos-vida-util-1450994' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-metal-hidrogeno-4307965.jpg?tf=1200x' alt='La NASA ha desarrollado la batería definitiva: tecnología de níquel-hidrógeno con 30 años de vida útil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-limpiador-registro-windows-1451039'>Después de 30 años, Microsoft lanza al fin un limpiador del registro de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-limpiador-registro-windows-1451039' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pc-manager-windows-11-4308069.jpg?tf=1200x' alt='Después de 30 años, Microsoft lanza al fin un limpiador del registro de Windows' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estos-son-errores-garrafales-chatgpt-comete-siempre-openai-no-sabe-corregir-experto-ia-1450877'>Estos son los errores garrafales que ChatGPT comete siempre y que OpenAI no sabe corregir, según un experto en IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/estos-son-errores-garrafales-chatgpt-comete-siempre-openai-no-sabe-corregir-experto-ia-1450877' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estos-son-errores-garrafales-chatgpt-comete-siempre-openai-no-sabe-corregir-experto-ia-4307835.jpg?tf=1200x' alt='Estos son los errores garrafales que ChatGPT comete siempre y que OpenAI no sabe corregir, según un experto en IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canon-da-todo-video-profesional-nuevas-powershot-v1-eos-r50-v-1450407'>Canon lo da todo al vídeo profesional con las nuevas PowerShot V1 y EOS R50 V</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/canon-da-todo-video-profesional-nuevas-powershot-v1-eos-r50-v-1450407' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canon-powershot-v1-4308011.jpg?tf=1200x' alt='Canon lo da todo al vídeo profesional con las nuevas PowerShot V1 y EOS R50 V' />
     </a>
 </div>
 
