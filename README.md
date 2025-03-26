@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/linus-torvalds-olvido-lanzar-linux-614-durante-todo-dia-pura-incompetencia-1450677'>Linus Torvalds se olvidó de lanzar Linux 6.14 durante todo un día: “Es pura incompetencia”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/linus-torvalds-olvido-lanzar-linux-614-durante-todo-dia-pura-incompetencia-1450677' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linus-torvalds-tuvo-problemas-version-614-linux-4307504.jpg?tf=1200x' alt='Linus Torvalds se olvidó de lanzar Linux 6.14 durante todo un día: “Es pura incompetencia”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/amazon-ha-rebajado-moviles-buscados-todas-versiones-pixel-9-hunden-precio-1450878'>Amazon ha rebajado uno de los móviles más buscados, y en todas sus versiones: los Pixel 9 hunden su precio</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/amazon-ha-rebajado-moviles-buscados-todas-versiones-pixel-9-hunden-precio-1450878' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-pixel-4307833.jpg?tf=1200x' alt='Amazon ha rebajado uno de los móviles más buscados, y en todas sus versiones: los Pixel 9 hunden su precio' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-olvida-tesla-comienza-nuevo-proyecto-parece-sacado-anos-50-1450867'>Elon Musk se olvida de Tesla y comienza un nuevo proyecto: parece sacado de los años 50</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-olvida-tesla-comienza-nuevo-proyecto-parece-sacado-anos-50-1450867' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-olvida-tesla-comienza-nuevo-proyecto-parece-sacado-anos-50-4307799.jpg?tf=1200x' alt='Elon Musk se olvida de Tesla y comienza un nuevo proyecto: parece sacado de los años 50' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/multimillonario-mark-cuban-ia-adolescentes-negocio-6-cifras-1450854'>El multimillonario Mark Cuban lo tiene claro con la IA: "Si tuviera 16 años empezaría este negocio de 6 cifras y sin título universitario"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/multimillonario-mark-cuban-ia-adolescentes-negocio-6-cifras-1450854' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/multimillonario-mark-cuban-tiene-claro-ia-tuviera-16-anos-empezaria-negocio-6-cifras-titulo-universitario-4307778.jpg?tf=1200x' alt='El multimillonario Mark Cuban lo tiene claro con la IA: "Si tuviera 16 años empezaría este negocio de 6 cifras y sin título universitario"' />
     </a>
 </div>
 
