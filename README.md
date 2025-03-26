@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/descarga-gratis-codigo-fuente-alexnet-nacimiento-ia-moderna-1450843'>Ya puedes descargar gratis el mítico código fuente que dio lugar al nacimiento de la IA moderna</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/descarga-gratis-codigo-fuente-alexnet-nacimiento-ia-moderna-1450843' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ya-puedes-descargar-gratis-mitico-codigo-fuente-dio-lugar-nacimiento-ia-moderna-4307755.jpg?tf=1200x' alt='Ya puedes descargar gratis el mítico código fuente que dio lugar al nacimiento de la IA moderna' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-1450819'>Europa se prepara para recuperar las fronteras, aunque no como imaginas: llegan los muros de drones</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-1450819' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/europa-prepara-recuperar-fronteras-aunque-no-como-imaginas-llegan-muros-drones-4307754.jpg?tf=1200x' alt='Europa se prepara para recuperar las fronteras, aunque no como imaginas: llegan los muros de drones' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-1447224'>Netflix tiene la serie de saltos en el tiempo basada en un anime con críticas casi perfectas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-1447224' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-tiene-serie-saltos-tiempo-basada-anime-criticas-casi-perfectas-4301951.jpg?tf=1200x' alt='Netflix tiene la serie de saltos en el tiempo basada en un anime con críticas casi perfectas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-140-ya-disponible-todos-control-clima-radio-fm-muchas-novedades-1450824'>Android Auto 14.0 ya disponible para todos: control del clima, radio FM y muchas novedades</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-140-ya-disponible-todos-control-clima-radio-fm-muchas-novedades-1450824' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-14-4307735.jpg?tf=1200x' alt='Android Auto 14.0 ya disponible para todos: control del clima, radio FM y muchas novedades' />
     </a>
 </div>
 
