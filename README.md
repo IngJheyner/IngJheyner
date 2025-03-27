@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372'>Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mapas-chatgpt-4308616.jpg?tf=1200x' alt='Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-1451136'>5 taquillazos que no sabías que eran remakes, y puedes ver en streaming</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-1451136' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-4308217.jpg?tf=1200x' alt='5 taquillazos que no sabías que eran remakes, y puedes ver en streaming' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/confirman-existencia-sistema-global-iptv-paginas-web-piratas-1451345'>Confirman la existencia de un sistema global contra las IPTV y las páginas web piratas</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/confirman-existencia-sistema-global-iptv-paginas-web-piratas-1451345' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/confirman-existencia-sistema-global-iptv-paginas-web-piratas-4308598.jpg?tf=1200x' alt='Confirman la existencia de un sistema global contra las IPTV y las páginas web piratas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevas-tarjetas-juego-virtuales-nintendo-vs-cartuchos-fisicos-1451366'>Que no te engañen: las nuevas tarjetas de juego virtuales de Nintendo no es lo mismo que los cartuchos físicos</a></h4>
+    <a href='https://computerhoy.20minutos.es/gaming/nuevas-tarjetas-juego-virtuales-nintendo-vs-cartuchos-fisicos-1451366' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-te-enganen-nuevas-tarjetas-juego-virtuales-nintendo-no-mismo-cartuchos-fisicos-4308584.jpg?tf=1200x' alt='Que no te engañen: las nuevas tarjetas de juego virtuales de Nintendo no es lo mismo que los cartuchos físicos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/redes/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-1451267'>Giro de 180 grados en DIGI: podría dejar de ser la opción más barata si no cumples un requisito</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-1451267' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-4308404.jpg?tf=1200x' alt='Giro de 180 grados en DIGI: podría dejar de ser la opción más barata si no cumples un requisito' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/experto-confirma-efectos-especiales-90-eran-mejores-ahora-jurassic-park-ejemplo-ello-1451130'>Un experto lo confirma: los efectos especiales de los 90 eran mejores que los de ahora, y Jurassic Park es un ejemplo de ello</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/experto-confirma-efectos-especiales-90-eran-mejores-ahora-jurassic-park-ejemplo-ello-1451130' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/jurassic-park-1993-4111588.jpg?tf=1200x' alt='Un experto lo confirma: los efectos especiales de los 90 eran mejores que los de ahora, y Jurassic Park es un ejemplo de ello' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-logran-generar-electricidad-aprovechando-rotacion-tierra-1451230'>Científicos logran generar electricidad aprovechando la rotación de la Tierra</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-logran-generar-electricidad-aprovechando-rotacion-tierra-1451230' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tierra-4308379.jpg?tf=1200x' alt='Científicos logran generar electricidad aprovechando la rotación de la Tierra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-confianza-elon-musk-acusado-colaboracion-cibercriminales-mala-gente-1451275'>El hacker de confianza de Elon Musk, acusado de colaboración con cibercriminales: "Esta es mala gente"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-confianza-elon-musk-acusado-colaboracion-cibercriminales-mala-gente-1451275' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-confianza-elon-musk-acusado-colaboracion-cibercriminales-mala-gente-4308568.jpg?tf=1200x' alt='El hacker de confianza de Elon Musk, acusado de colaboración con cibercriminales: "Esta es mala gente"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sridhar-vembu-avisa-programadores-sam-altman-da-razon-ia-acabara-90-codigo-1451264'>Sridhar Vembu avisa a los programadores y Sam Altman le da la razón: "La IA acabará con el 90% del código"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sridhar-vembu-avisa-programadores-sam-altman-da-razon-ia-acabara-90-codigo-1451264' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4308431.jpg?tf=1200x' alt='Sridhar Vembu avisa a los programadores y Sam Altman le da la razón: "La IA acabará con el 90% del código"' />
     </a>
 </div>
 
