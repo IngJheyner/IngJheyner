@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-tienen-mensaje-ti-ia-no-te-quitara-trabajo-sera-alguien-sepa-utilizarla-1450952'>Expertos en inteligencia artificial tienen un mensaje para ti: "La IA no te quitará el trabajo, será alguien que sepa utilizarla"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-tienen-mensaje-ti-ia-no-te-quitara-trabajo-sera-alguien-sepa-utilizarla-1450952' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4307924.jpg?tf=1200x' alt='Expertos en inteligencia artificial tienen un mensaje para ti: "La IA no te quitará el trabajo, será alguien que sepa utilizarla"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/director-incibe-alerta-peligro-deepseek-arma-destruccion-masiva-1450975'>El director del INCIBE alerta sobre el peligro de DeepSeek: "Es un arma de destrucción masiva"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/director-incibe-alerta-peligro-deepseek-arma-destruccion-masiva-1450975' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-4307950.jpg?tf=1200x' alt='El director del INCIBE alerta sobre el peligro de DeepSeek: "Es un arma de destrucción masiva"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/canon-liquida-stock-amazon-mejores-camaras-principiantes-240-euros-barata-1450748'>Canon liquida stock en Amazon de una de sus mejores cámaras para principiantes: es 240 euros más barata</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/canon-liquida-stock-amazon-mejores-camaras-principiantes-240-euros-barata-1450748' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/canon-eos-r10-2710487.jpg?tf=1200x' alt='Canon liquida stock en Amazon de una de sus mejores cámaras para principiantes: es 240 euros más barata' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-calculo-elon-musk-salvo-sam-altman-openai-no-tiene-ninguna-posibilidad-exito-1450936'>El error de cálculo de Elon Musk que salvó a Sam Altman y OpenAI: "No tiene ninguna posibilidad de éxito"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/error-calculo-elon-musk-salvo-sam-altman-openai-no-tiene-ninguna-posibilidad-exito-1450936' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/musk-altman-4307891.jpg?tf=1200x' alt='El error de cálculo de Elon Musk que salvó a Sam Altman y OpenAI: "No tiene ninguna posibilidad de éxito"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-gps-boeing-realiza-exito-primera-prueba-navegacion-cuantica-1451126'>Adiós GPS, Boeing realiza con éxito la primera prueba de navegación cuántica</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/adios-gps-boeing-realiza-exito-primera-prueba-navegacion-cuantica-1451126' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-gps-boeing-realiza-exito-primera-prueba-navegacion-cuantica-4308204.jpg?tf=1200x' alt='Adiós GPS, Boeing realiza con éxito la primera prueba de navegación cuántica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/intente-cambiar-busqueda-google-chatgpt-creo-todavia-demasiado-pronto-1449848'>Intenté cambiar la búsqueda de Google por ChatGPT y creo que todavía es demasiado pronto</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/intente-cambiar-busqueda-google-chatgpt-creo-todavia-demasiado-pronto-1449848' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-vs-google-4306169.jpg?tf=1200x' alt='Intenté cambiar la búsqueda de Google por ChatGPT y creo que todavía es demasiado pronto' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-1451121'>Tim Cook visita el epicentro de la IA en China y dona 4 millones de euros para formar a desarrolladores para iOS</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-1451121' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-4308170.jpg?tf=1200x' alt='Tim Cook visita el epicentro de la IA en China y dona 4 millones de euros para formar a desarrolladores para iOS' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106'>Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-4308167.jpg?tf=1200x' alt='Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo' />
     </a>
 </div>
 
