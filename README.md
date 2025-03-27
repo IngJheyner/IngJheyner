@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/799-solo-571-euros-garmin-fenix-pone-amazon-patas-arriba-promete-agotarse-1450947'>De 799 a solo 571 euros: este Garmin Fenix pone Amazon patas arriba y promete agotarse</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/799-solo-571-euros-garmin-fenix-pone-amazon-patas-arriba-promete-agotarse-1450947' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/garmin-fenix-4307887.jpg?tf=1200x' alt='De 799 a solo 571 euros: este Garmin Fenix pone Amazon patas arriba y promete agotarse' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/iphone-ahora-planifica-viajes-mejor-funciona-nueva-funcion-google-maps-1451376'>Tu iPhone ahora planifica viajes mejor que tú: así funciona la nueva función de Google Maps</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/iphone-ahora-planifica-viajes-mejor-funciona-nueva-funcion-google-maps-1451376' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-ia-4308624.jpg?tf=1200x' alt='Tu iPhone ahora planifica viajes mejor que tú: así funciona la nueva función de Google Maps' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-rtx-4090-pero-timo-desmontan-gpu-falsa-descubren-1451373'>Parece una RTX 4090, pero es un timo: desmontan una GPU falsa y esto es lo que descubren</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/parece-rtx-4090-pero-timo-desmontan-gpu-falsa-descubren-1451373' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rtx-4090-4308619.jpg?tf=1200x' alt='Parece una RTX 4090, pero es un timo: desmontan una GPU falsa y esto es lo que descubren' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372'>Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mapas-chatgpt-4308616.jpg?tf=1200x' alt='Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-1451136'>5 taquillazos que no sabías que eran remakes, y puedes ver en streaming</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-1451136' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-4308217.jpg?tf=1200x' alt='5 taquillazos que no sabías que eran remakes, y puedes ver en streaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/confirman-existencia-sistema-global-iptv-paginas-web-piratas-1451345'>Confirman la existencia de un sistema global contra las IPTV y las páginas web piratas</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/confirman-existencia-sistema-global-iptv-paginas-web-piratas-1451345' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/confirman-existencia-sistema-global-iptv-paginas-web-piratas-4308598.jpg?tf=1200x' alt='Confirman la existencia de un sistema global contra las IPTV y las páginas web piratas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/nuevas-tarjetas-juego-virtuales-nintendo-vs-cartuchos-fisicos-1451366'>Que no te engañen: las nuevas tarjetas de juego virtuales de Nintendo no es lo mismo que los cartuchos físicos</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/nuevas-tarjetas-juego-virtuales-nintendo-vs-cartuchos-fisicos-1451366' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-te-enganen-nuevas-tarjetas-juego-virtuales-nintendo-no-mismo-cartuchos-fisicos-4308584.jpg?tf=1200x' alt='Que no te engañen: las nuevas tarjetas de juego virtuales de Nintendo no es lo mismo que los cartuchos físicos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-1451267'>Giro de 180 grados en DIGI: podría dejar de ser la opción más barata si no cumples un requisito</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-1451267' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-4308404.jpg?tf=1200x' alt='Giro de 180 grados en DIGI: podría dejar de ser la opción más barata si no cumples un requisito' />
     </a>
 </div>
 
