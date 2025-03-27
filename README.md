@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-1451267'>Giro de 180 grados en DIGI: podría dejar de ser la opción más barata si no cumples un requisito</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-1451267' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-digi-podria-dejar-ser-opcion-barata-no-cumples-requisito-4308404.jpg?tf=1200x' alt='Giro de 180 grados en DIGI: podría dejar de ser la opción más barata si no cumples un requisito' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/experto-confirma-efectos-especiales-90-eran-mejores-ahora-jurassic-park-ejemplo-ello-1451130'>Un experto lo confirma: los efectos especiales de los 90 eran mejores que los de ahora, y Jurassic Park es un ejemplo de ello</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/experto-confirma-efectos-especiales-90-eran-mejores-ahora-jurassic-park-ejemplo-ello-1451130' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/jurassic-park-1993-4111588.jpg?tf=1200x' alt='Un experto lo confirma: los efectos especiales de los 90 eran mejores que los de ahora, y Jurassic Park es un ejemplo de ello' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-logran-generar-electricidad-aprovechando-rotacion-tierra-1451230'>Científicos logran generar electricidad aprovechando la rotación de la Tierra</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-logran-generar-electricidad-aprovechando-rotacion-tierra-1451230' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tierra-4308379.jpg?tf=1200x' alt='Científicos logran generar electricidad aprovechando la rotación de la Tierra' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/sridhar-vembu-avisa-programadores-sam-altman-da-razon-ia-acabara-90-codigo-1451264'>Sridhar Vembu avisa a los programadores y Sam Altman le da la razón: "La IA acabará con el 90% del código"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/sridhar-vembu-avisa-programadores-sam-altman-da-razon-ia-acabara-90-codigo-1451264' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4308431.jpg?tf=1200x' alt='Sridhar Vembu avisa a los programadores y Sam Altman le da la razón: "La IA acabará con el 90% del código"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-1451231'>España tiene un problema en caso de guerra: estos son los únicos búnkeres y esto cuesta hacer uno</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-1451231' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-4308356.jpg?tf=1200x' alt='España tiene un problema en caso de guerra: estos son los únicos búnkeres y esto cuesta hacer uno' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/afecta-nueva-ley-tdt-televisor-aunque-sea-smart-tv-puede-tengas-cambiarlo-actualizarlo-1451279'>Así afecta la nueva ley de la TDT a tu televisor: aunque sea Smart TV puede que tengas que cambiarlo o actualizarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/afecta-nueva-ley-tdt-televisor-aunque-sea-smart-tv-puede-tengas-cambiarlo-actualizarlo-1451279' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-4308437.jpg?tf=1200x' alt='Así afecta la nueva ley de la TDT a tu televisor: aunque sea Smart TV puede que tengas que cambiarlo o actualizarlo' />
     </a>
 </div>
 
