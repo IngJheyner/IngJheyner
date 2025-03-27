@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219'>Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-4308357.jpg?tf=1200x' alt='Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hayao-miyazaki-fundador-ghibli-horrorizado-ia-insulto-vida-misma-1451251'>Hayao Miyazaki, fundador de Ghibli, está horrorizado por la IA: "Un insulto a la vida misma"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hayao-miyazaki-fundador-ghibli-horrorizado-ia-insulto-vida-misma-1451251' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hayao-miyazaki-4308397.jpg?tf=1200x' alt='Hayao Miyazaki, fundador de Ghibli, está horrorizado por la IA: "Un insulto a la vida misma"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-1451287'>Los lectores Kindle reciben una actualización sorprendente: pasar la página sin tocar la pantalla </a></h4>
+    <a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-1451287' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-4308381.jpg?tf=1200x' alt='Los lectores Kindle reciben una actualización sorprendente: pasar la página sin tocar la pantalla ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-laboral-alerta-peligro-oculto-utilizar-chatgpt-trabajar-desastre-legal-reputacional-1451272'>Experto laboral alerta del peligro oculto de utilizar ChatGPT para trabajar: "Es un desastre legal y reputacional"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-laboral-alerta-peligro-oculto-utilizar-chatgpt-trabajar-desastre-legal-reputacional-1451272' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-inteligencia-artificial-trabajo-4308432.jpg?tf=1200x' alt='Experto laboral alerta del peligro oculto de utilizar ChatGPT para trabajar: "Es un desastre legal y reputacional"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-1451148'>Expertos alertan de la nueva estafa del kit de supervivencia, si te llega, la estafa está en marcha</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-1451148' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-4308269.jpg?tf=1200x' alt='Expertos alertan de la nueva estafa del kit de supervivencia, si te llega, la estafa está en marcha' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-25h2-realidad-temblar-susto-muerte-1451235'>Windows 11 25H2 ya es una realidad y puedes ponerte a temblar: ¿susto o muerte?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/windows-11-25h2-realidad-temblar-susto-muerte-1451235' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizar-windows-11-25h2-4308373.jpg?tf=1200x' alt='Windows 11 25H2 ya es una realidad y puedes ponerte a temblar: ¿susto o muerte?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-gracias-ia-10-anos-seres-humanos-no-seran-necesarios-mayoria-cosas-1451261'>La lista negra de Bill Gates: "Gracias a la IA en 10 años los seres humanos no serán necesarios para la mayoría de cosas"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-gracias-ia-10-anos-seres-humanos-no-seran-necesarios-mayoria-cosas-1451261' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-inteligencia-artificial-4308408.jpg?tf=1200x' alt='La lista negra de Bill Gates: "Gracias a la IA en 10 años los seres humanos no serán necesarios para la mayoría de cosas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-crear-imagen-parece-tonteria-pero-avance-gigante-ia-1451258'>ChatGPT ahora puede crear esta imagen: parece una tontería pero es un avance gigante para la IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-crear-imagen-parece-tonteria-pero-avance-gigante-ia-1451258' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copa-vino-chatgpt-4308386.jpg?tf=1200x' alt='ChatGPT ahora puede crear esta imagen: parece una tontería pero es un avance gigante para la IA' />
     </a>
 </div>
 
