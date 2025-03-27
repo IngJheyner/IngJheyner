@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-laboral-alerta-peligro-oculto-utilizar-chatgpt-trabajar-desastre-legal-reputacional-1451272'>Experto laboral alerta del peligro oculto de utilizar ChatGPT para trabajar: "Es un desastre legal y reputacional"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-laboral-alerta-peligro-oculto-utilizar-chatgpt-trabajar-desastre-legal-reputacional-1451272' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-inteligencia-artificial-trabajo-4308432.jpg?tf=1200x' alt='Experto laboral alerta del peligro oculto de utilizar ChatGPT para trabajar: "Es un desastre legal y reputacional"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-1451148'>Expertos alertan de la nueva estafa del kit de supervivencia, si te llega, la estafa está en marcha</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-1451148' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-4308269.jpg?tf=1200x' alt='Expertos alertan de la nueva estafa del kit de supervivencia, si te llega, la estafa está en marcha' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/windows-11-25h2-realidad-temblar-susto-muerte-1451235'>Windows 11 25H2 ya es una realidad y puedes ponerte a temblar: ¿susto o muerte?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/windows-11-25h2-realidad-temblar-susto-muerte-1451235' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizar-windows-11-25h2-4308373.jpg?tf=1200x' alt='Windows 11 25H2 ya es una realidad y puedes ponerte a temblar: ¿susto o muerte?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-gracias-ia-10-anos-seres-humanos-no-seran-necesarios-mayoria-cosas-1451261'>La lista negra de Bill Gates: "Gracias a la IA en 10 años los seres humanos no serán necesarios para la mayoría de cosas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/lista-negra-bill-gates-gracias-ia-10-anos-seres-humanos-no-seran-necesarios-mayoria-cosas-1451261' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-inteligencia-artificial-4308408.jpg?tf=1200x' alt='La lista negra de Bill Gates: "Gracias a la IA en 10 años los seres humanos no serán necesarios para la mayoría de cosas"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-crear-imagen-parece-tonteria-pero-avance-gigante-ia-1451258'>ChatGPT ahora puede crear esta imagen: parece una tontería pero es un avance gigante para la IA</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-crear-imagen-parece-tonteria-pero-avance-gigante-ia-1451258' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copa-vino-chatgpt-4308386.jpg?tf=1200x' alt='ChatGPT ahora puede crear esta imagen: parece una tontería pero es un avance gigante para la IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/iphone-sorprenden-rebajas-amazon-iphone-14-baja-ninguno-entra-top-ventas-1451135'>Los iPhone sorprenden en las rebajas de Amazon: el iPhone 14 baja más que ninguno y entra al top ventas</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/iphone-sorprenden-rebajas-amazon-iphone-14-baja-ninguno-entra-top-ventas-1451135' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Los iPhone sorprenden en las rebajas de Amazon: el iPhone 14 baja más que ninguno y entra al top ventas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/donald-trump-hace-oficial-elon-musk-ha-convertido-mejor-amigo-patriota-1451216'>Donald Trump lo hace oficial: Elon Musk se ha convertido en su mejor amigo: “Es un patriota”</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/donald-trump-hace-oficial-elon-musk-ha-convertido-mejor-amigo-patriota-1451216' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-hace-oficial-elon-musk-ha-convertido-mejor-amigo-patriota-4308328.jpg?tf=1200x' alt='Donald Trump lo hace oficial: Elon Musk se ha convertido en su mejor amigo: “Es un patriota”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-tdt-4k-1450939'>Así es la nueva TDT aprobada por el gobierno: 4K como estándar, nuevo canal y muchas dudas</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-tdt-4k-1450939' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-4307881.jpg?tf=1200x' alt='Así es la nueva TDT aprobada por el gobierno: 4K como estándar, nuevo canal y muchas dudas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-1451147'>Parece una estafa, pero no lo es: Sam Altman pagará hasta 100.000 dólares si logras hackear su IA</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-1451147' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-4308291.jpg?tf=1200x' alt='Parece una estafa, pero no lo es: Sam Altman pagará hasta 100.000 dólares si logras hackear su IA' />
     </a>
 </div>
 
