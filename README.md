@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388'>Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-windows-union-europea-presenta-eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-4308631.jpg?tf=1200x' alt='Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/799-solo-571-euros-garmin-fenix-pone-amazon-patas-arriba-promete-agotarse-1450947'>De 799 a solo 571 euros: este Garmin Fenix pone Amazon patas arriba y promete agotarse</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/799-solo-571-euros-garmin-fenix-pone-amazon-patas-arriba-promete-agotarse-1450947' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/garmin-fenix-4307887.jpg?tf=1200x' alt='De 799 a solo 571 euros: este Garmin Fenix pone Amazon patas arriba y promete agotarse' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372'>Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mapas-chatgpt-4308616.jpg?tf=1200x' alt='Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-1451136'>5 taquillazos que no sabías que eran remakes, y puedes ver en streaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-1451136' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/5-taquillazos-no-sabias-eran-remakes-puedes-ver-streaming-4308217.jpg?tf=1200x' alt='5 taquillazos que no sabías que eran remakes, y puedes ver en streaming' />
     </a>
 </div>
 
