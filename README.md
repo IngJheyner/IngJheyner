@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531'>POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/poco-lanza-f7-pro-ultra-4307280.jpg?tf=1200x' alt='POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-poco-f7-ultra-definitivamente-xiaomi-escondia-autentico-matagigantes-1449393'>He probado el POCO F7 Ultra y definitivamente Xiaomi escondía un auténtico matagigantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/he-probado-poco-f7-ultra-definitivamente-xiaomi-escondia-autentico-matagigantes-1449393' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/poco-f7-ultra-4307220.jpg?tf=1200x' alt='He probado el POCO F7 Ultra y definitivamente Xiaomi escondía un auténtico matagigantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/disco-duro-barato-nube-tiene-20tb-son-siempre-1451129'>Este disco duro es más barato que la nube: tiene 20TB y son tuyos para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/disco-duro-barato-nube-tiene-20tb-son-siempre-1451129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/seagate-20tb-4308211.jpg?tf=1200x' alt='Este disco duro es más barato que la nube: tiene 20TB y son tuyos para siempre' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-tienen-mensaje-ti-ia-no-te-quitara-trabajo-sera-alguien-sepa-utilizarla-1450952'>Expertos en inteligencia artificial tienen un mensaje para ti: "La IA no te quitará el trabajo, será alguien que sepa utilizarla"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-tienen-mensaje-ti-ia-no-te-quitara-trabajo-sera-alguien-sepa-utilizarla-1450952' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4307924.jpg?tf=1200x' alt='Expertos en inteligencia artificial tienen un mensaje para ti: "La IA no te quitará el trabajo, será alguien que sepa utilizarla"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/director-incibe-alerta-peligro-deepseek-arma-destruccion-masiva-1450975'>El director del INCIBE alerta sobre el peligro de DeepSeek: "Es un arma de destrucción masiva"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/director-incibe-alerta-peligro-deepseek-arma-destruccion-masiva-1450975' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/deepseek-4307950.jpg?tf=1200x' alt='El director del INCIBE alerta sobre el peligro de DeepSeek: "Es un arma de destrucción masiva"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/canon-liquida-stock-amazon-mejores-camaras-principiantes-240-euros-barata-1450748'>Canon liquida stock en Amazon de una de sus mejores cámaras para principiantes: es 240 euros más barata</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/canon-liquida-stock-amazon-mejores-camaras-principiantes-240-euros-barata-1450748' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/05/canon-eos-r10-2710487.jpg?tf=1200x' alt='Canon liquida stock en Amazon de una de sus mejores cámaras para principiantes: es 240 euros más barata' />
     </a>
 </div>
 
