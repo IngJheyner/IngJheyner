@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-tdt-4k-1450939'>Así es la nueva TDT aprobada por el gobierno: 4K como estándar, nuevo canal y muchas dudas</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-tdt-4k-1450939' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-4307881.jpg?tf=1200x' alt='Así es la nueva TDT aprobada por el gobierno: 4K como estándar, nuevo canal y muchas dudas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-1451147'>Parece una estafa, pero no lo es: Sam Altman pagará hasta 100.000 dólares si logras hackear su IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-1451147' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-4308291.jpg?tf=1200x' alt='Parece una estafa, pero no lo es: Sam Altman pagará hasta 100.000 dólares si logras hackear su IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531'>POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/poco-lanza-f7-pro-ultra-4307280.jpg?tf=1200x' alt='POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/disco-duro-barato-nube-tiene-20tb-son-siempre-1451129'>Este disco duro es más barato que la nube: tiene 20TB y son tuyos para siempre</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/disco-duro-barato-nube-tiene-20tb-son-siempre-1451129' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/seagate-20tb-4308211.jpg?tf=1200x' alt='Este disco duro es más barato que la nube: tiene 20TB y son tuyos para siempre' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/existe-distro-linux-identica-windows-caso-no-puedas-actualizar-1450757'>Existe una distro de Linux idéntica a Windows, en caso de que no puedas actualizar</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/existe-distro-linux-identica-windows-caso-no-puedas-actualizar-1450757' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linuxfx-windows-11-winux-11-linux-4307690.jpg?tf=1200x' alt='Existe una distro de Linux idéntica a Windows, en caso de que no puedas actualizar' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-tienen-mensaje-ti-ia-no-te-quitara-trabajo-sera-alguien-sepa-utilizarla-1450952'>Expertos en inteligencia artificial tienen un mensaje para ti: "La IA no te quitará el trabajo, será alguien que sepa utilizarla"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-inteligencia-artificial-tienen-mensaje-ti-ia-no-te-quitara-trabajo-sera-alguien-sepa-utilizarla-1450952' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4307924.jpg?tf=1200x' alt='Expertos en inteligencia artificial tienen un mensaje para ti: "La IA no te quitará el trabajo, será alguien que sepa utilizarla"' />
     </a>
 </div>
 
