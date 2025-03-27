@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-logran-generar-electricidad-aprovechando-rotacion-tierra-1451230'>Científicos logran generar electricidad aprovechando la rotación de la Tierra</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-logran-generar-electricidad-aprovechando-rotacion-tierra-1451230' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tierra-4308379.jpg?tf=1200x' alt='Científicos logran generar electricidad aprovechando la rotación de la Tierra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-confianza-elon-musk-acusado-colaboracion-cibercriminales-mala-gente-1451275'>El hacker de confianza de Elon Musk, acusado de colaboración con cibercriminales: "Esta es mala gente"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/hacker-confianza-elon-musk-acusado-colaboracion-cibercriminales-mala-gente-1451275' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-confianza-elon-musk-acusado-colaboracion-cibercriminales-mala-gente-4308568.jpg?tf=1200x' alt='El hacker de confianza de Elon Musk, acusado de colaboración con cibercriminales: "Esta es mala gente"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sridhar-vembu-avisa-programadores-sam-altman-da-razon-ia-acabara-90-codigo-1451264'>Sridhar Vembu avisa a los programadores y Sam Altman le da la razón: "La IA acabará con el 90% del código"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sridhar-vembu-avisa-programadores-sam-altman-da-razon-ia-acabara-90-codigo-1451264' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-4308431.jpg?tf=1200x' alt='Sridhar Vembu avisa a los programadores y Sam Altman le da la razón: "La IA acabará con el 90% del código"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-1451231'>España tiene un problema en caso de guerra: estos son los únicos búnkeres y esto cuesta hacer uno</a></h4>
     <a href='https://computerhoy.20minutos.es/life/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-1451231' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-4308356.jpg?tf=1200x' alt='España tiene un problema en caso de guerra: estos son los únicos búnkeres y esto cuesta hacer uno' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/afecta-nueva-ley-tdt-televisor-aunque-sea-smart-tv-puede-tengas-cambiarlo-actualizarlo-1451279'>Así afecta la nueva ley de la TDT a tu televisor: aunque sea Smart TV puede que tengas que cambiarlo o actualizarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/afecta-nueva-ley-tdt-televisor-aunque-sea-smart-tv-puede-tengas-cambiarlo-actualizarlo-1451279' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-4308437.jpg?tf=1200x' alt='Así afecta la nueva ley de la TDT a tu televisor: aunque sea Smart TV puede que tengas que cambiarlo o actualizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-1451244'>Movistar Plus+ sea actualiza para todos: no es un nuevo canal, pero a partir de ahora se verá mucho mejor</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-1451244' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-4308365.jpg?tf=1200x' alt='Movistar Plus+ sea actualiza para todos: no es un nuevo canal, pero a partir de ahora se verá mucho mejor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/meredith-whittaker-presidenta-signal-lanza-dura-advertencia-whatsapp-no-dejen-enganar-1451278'>Meredith Whittaker, presidenta de Signal, lanza una dura advertencia sobre WhatsApp: “No se dejen engañar”</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/meredith-whittaker-presidenta-signal-lanza-dura-advertencia-whatsapp-no-dejen-enganar-1451278' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/meredith-whittaker-habla-whatsapp-4308445.jpg?tf=1200x' alt='Meredith Whittaker, presidenta de Signal, lanza una dura advertencia sobre WhatsApp: “No se dejen engañar”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219'>Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-4308357.jpg?tf=1200x' alt='Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad' />
     </a>
 </div>
 
