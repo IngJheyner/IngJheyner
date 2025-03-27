@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/iphone-sorprenden-rebajas-amazon-iphone-14-baja-ninguno-entra-top-ventas-1451135'>Los iPhone sorprenden en las rebajas de Amazon: el iPhone 14 baja más que ninguno y entra al top ventas</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/iphone-sorprenden-rebajas-amazon-iphone-14-baja-ninguno-entra-top-ventas-1451135' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Los iPhone sorprenden en las rebajas de Amazon: el iPhone 14 baja más que ninguno y entra al top ventas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/donald-trump-hace-oficial-elon-musk-ha-convertido-mejor-amigo-patriota-1451216'>Donald Trump lo hace oficial: Elon Musk se ha convertido en su mejor amigo: “Es un patriota”</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/donald-trump-hace-oficial-elon-musk-ha-convertido-mejor-amigo-patriota-1451216' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/donald-trump-hace-oficial-elon-musk-ha-convertido-mejor-amigo-patriota-4308328.jpg?tf=1200x' alt='Donald Trump lo hace oficial: Elon Musk se ha convertido en su mejor amigo: “Es un patriota”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nueva-tdt-4k-1450939'>Así es la nueva TDT aprobada por el gobierno: 4K como estándar, nuevo canal y muchas dudas</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/nueva-tdt-4k-1450939' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sera-nueva-tdt-abierto-4k-como-estandar-nuevo-canal-todos-muchas-dudas-4307881.jpg?tf=1200x' alt='Así es la nueva TDT aprobada por el gobierno: 4K como estándar, nuevo canal y muchas dudas' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531'>POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/poco-lanza-f7-pro-ultra-4307280.jpg?tf=1200x' alt='POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/he-probado-poco-f7-ultra-definitivamente-xiaomi-escondia-autentico-matagigantes-1449393'>He probado el POCO F7 Ultra y definitivamente Xiaomi escondía un auténtico matagigantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/he-probado-poco-f7-ultra-definitivamente-xiaomi-escondia-autentico-matagigantes-1449393' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/poco-f7-ultra-4307220.jpg?tf=1200x' alt='He probado el POCO F7 Ultra y definitivamente Xiaomi escondía un auténtico matagigantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/disco-duro-barato-nube-tiene-20tb-son-siempre-1451129'>Este disco duro es más barato que la nube: tiene 20TB y son tuyos para siempre</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/disco-duro-barato-nube-tiene-20tb-son-siempre-1451129' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/seagate-20tb-4308211.jpg?tf=1200x' alt='Este disco duro es más barato que la nube: tiene 20TB y son tuyos para siempre' />
     </a>
 </div>
 
