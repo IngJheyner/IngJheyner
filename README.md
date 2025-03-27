@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-crear-imagen-parece-tonteria-pero-avance-gigante-ia-1451258'>ChatGPT ahora puede crear esta imagen: parece una tontería pero es un avance gigante para la IA</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-ahora-puede-crear-imagen-parece-tonteria-pero-avance-gigante-ia-1451258' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/copa-vino-chatgpt-4308386.jpg?tf=1200x' alt='ChatGPT ahora puede crear esta imagen: parece una tontería pero es un avance gigante para la IA' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/iphone-sorprenden-rebajas-amazon-iphone-14-baja-ninguno-entra-top-ventas-1451135'>Los iPhone sorprenden en las rebajas de Amazon: el iPhone 14 baja más que ninguno y entra al top ventas</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/iphone-sorprenden-rebajas-amazon-iphone-14-baja-ninguno-entra-top-ventas-1451135' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/06/iphone-14-3069706.jpg?tf=1200x' alt='Los iPhone sorprenden en las rebajas de Amazon: el iPhone 14 baja más que ninguno y entra al top ventas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-1451147'>Parece una estafa, pero no lo es: Sam Altman pagará hasta 100.000 dólares si logras hackear su IA</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-1451147' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/parece-estafa-pero-no-sam-altman-pagara-100000-dolares-logras-hackear-ia-4308291.jpg?tf=1200x' alt='Parece una estafa, pero no lo es: Sam Altman pagará hasta 100.000 dólares si logras hackear su IA' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531'>POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/poco-lanza-poco-f7-pro-poco-f7-ultra-trayendo-potencia-rendimiento-cada-vez-bolsillos-1450531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/poco-lanza-f7-pro-ultra-4307280.jpg?tf=1200x' alt='POCO lanza el POCO F7 Pro y POCO F7 Ultra, trayendo la potencia y rendimiento a cada vez más bolsillos' />
     </a>
 </div>
 
