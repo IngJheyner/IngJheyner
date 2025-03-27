@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-1451121'>Tim Cook visita el epicentro de la IA en China y dona 4 millones de euros para formar a desarrolladores para iOS</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-1451121' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-4308170.jpg?tf=1200x' alt='Tim Cook visita el epicentro de la IA en China y dona 4 millones de euros para formar a desarrolladores para iOS' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106'>Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-4308167.jpg?tf=1200x' alt='Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/batacazo-ia-chatgpt-gemini-claude-no-pueden-test-humanos-superan-facilidad-1451100'>Batacazo de la IA: ChatGPT, Gemini y Claude no pueden con un test que los humanos superan con facilidad</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/batacazo-ia-chatgpt-gemini-claude-no-pueden-test-humanos-superan-facilidad-1451100' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4308161.jpg?tf=1200x' alt='Batacazo de la IA: ChatGPT, Gemini y Claude no pueden con un test que los humanos superan con facilidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-1450584'>Se adelantó a The Last of Us: la serie postapocalíptica de culto que puedes ver en Disney Plus+</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-1450584' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adelanto-last-us-serie-postapocaliptica-culto-puedes-ver-disney-plus-4307366.jpg?tf=1200x' alt='Se adelantó a The Last of Us: la serie postapocalíptica de culto que puedes ver en Disney Plus+' />
     </a>
 </div>
 
