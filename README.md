@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/error-calculo-elon-musk-salvo-sam-altman-openai-no-tiene-ninguna-posibilidad-exito-1450936'>El error de cálculo de Elon Musk que salvó a Sam Altman y OpenAI: "No tiene ninguna posibilidad de éxito"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/error-calculo-elon-musk-salvo-sam-altman-openai-no-tiene-ninguna-posibilidad-exito-1450936' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/musk-altman-4307891.jpg?tf=1200x' alt='El error de cálculo de Elon Musk que salvó a Sam Altman y OpenAI: "No tiene ninguna posibilidad de éxito"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-gps-boeing-realiza-exito-primera-prueba-navegacion-cuantica-1451126'>Adiós GPS, Boeing realiza con éxito la primera prueba de navegación cuántica</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-gps-boeing-realiza-exito-primera-prueba-navegacion-cuantica-1451126' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-gps-boeing-realiza-exito-primera-prueba-navegacion-cuantica-4308204.jpg?tf=1200x' alt='Adiós GPS, Boeing realiza con éxito la primera prueba de navegación cuántica' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/intente-cambiar-busqueda-google-chatgpt-creo-todavia-demasiado-pronto-1449848'>Intenté cambiar la búsqueda de Google por ChatGPT y creo que todavía es demasiado pronto</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/intente-cambiar-busqueda-google-chatgpt-creo-todavia-demasiado-pronto-1449848' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-vs-google-4306169.jpg?tf=1200x' alt='Intenté cambiar la búsqueda de Google por ChatGPT y creo que todavía es demasiado pronto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-1451121'>Tim Cook visita el epicentro de la IA en China y dona 4 millones de euros para formar a desarrolladores para iOS</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-1451121' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tim-cook-visita-epicentro-ia-china-dona-4-millones-euros-formar-desarrolladores-ios-4308170.jpg?tf=1200x' alt='Tim Cook visita el epicentro de la IA en China y dona 4 millones de euros para formar a desarrolladores para iOS' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106'>Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chrome-no-instala-pc-no-eres-unico-error-como-solucionarlo-1451106' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chrome-4308167.jpg?tf=1200x' alt='Si Chrome no se instala en tu PC, no eres el único: este es el error y cómo solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/cientificos-consternados-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051'>Científicos consternados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/cientificos-consternados-derrota-frente-elon-musk-podria-hacer-dano-bien-1451051' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cientificos-consternados-derrota-frente-elon-musk-podria-hacer-dano-bien-4308160.jpg?tf=1200x' alt='Científicos consternados por su derrota frente a Elon Musk: "Podría hacer más daño que bien"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-dos-nuevas-apps-windows-11-sirven-buscar-personas-archivos-funcionan-1451104'>Microsoft lanza dos nuevas apps para Windows 11: sirven para buscar personas y archivos y así funcionan</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-lanza-dos-nuevas-apps-windows-11-sirven-buscar-personas-archivos-funcionan-1451104' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apps-windows-11-4308166.jpg?tf=1200x' alt='Microsoft lanza dos nuevas apps para Windows 11: sirven para buscar personas y archivos y así funcionan' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/batacazo-ia-chatgpt-gemini-claude-no-pueden-test-humanos-superan-facilidad-1451100'>Batacazo de la IA: ChatGPT, Gemini y Claude no pueden con un test que los humanos superan con facilidad</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/batacazo-ia-chatgpt-gemini-claude-no-pueden-test-humanos-superan-facilidad-1451100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4308161.jpg?tf=1200x' alt='Batacazo de la IA: ChatGPT, Gemini y Claude no pueden con un test que los humanos superan con facilidad' />
     </a>
 </div>
 
