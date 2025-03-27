@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-1451231'>España tiene un problema en caso de guerra: estos son los únicos búnkeres y esto cuesta hacer uno</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-1451231' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/espana-tiene-problema-caso-guerra-estos-son-unicos-bunkeres-cuesta-hacer-4308356.jpg?tf=1200x' alt='España tiene un problema en caso de guerra: estos son los únicos búnkeres y esto cuesta hacer uno' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/afecta-nueva-ley-tdt-televisor-aunque-sea-smart-tv-puede-tengas-cambiarlo-actualizarlo-1451279'>Así afecta la nueva ley de la TDT a tu televisor: aunque sea Smart TV puede que tengas que cambiarlo o actualizarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/afecta-nueva-ley-tdt-televisor-aunque-sea-smart-tv-puede-tengas-cambiarlo-actualizarlo-1451279' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-4308437.jpg?tf=1200x' alt='Así afecta la nueva ley de la TDT a tu televisor: aunque sea Smart TV puede que tengas que cambiarlo o actualizarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-1451244'>Movistar Plus+ sea actualiza para todos: no es un nuevo canal, pero a partir de ahora se verá mucho mejor</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-1451244' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-4308365.jpg?tf=1200x' alt='Movistar Plus+ sea actualiza para todos: no es un nuevo canal, pero a partir de ahora se verá mucho mejor' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219'>Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-4308357.jpg?tf=1200x' alt='Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hayao-miyazaki-fundador-ghibli-horrorizado-ia-insulto-vida-misma-1451251'>Hayao Miyazaki, fundador de Ghibli, está horrorizado por la IA: "Un insulto a la vida misma"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hayao-miyazaki-fundador-ghibli-horrorizado-ia-insulto-vida-misma-1451251' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hayao-miyazaki-4308397.jpg?tf=1200x' alt='Hayao Miyazaki, fundador de Ghibli, está horrorizado por la IA: "Un insulto a la vida misma"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-1451287'>Los lectores Kindle reciben una actualización sorprendente: pasar la página sin tocar la pantalla </a></h4>
-    <a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-1451287' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-4308381.jpg?tf=1200x' alt='Los lectores Kindle reciben una actualización sorprendente: pasar la página sin tocar la pantalla ' />
     </a>
 </div>
 
