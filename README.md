@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-1451244'>Movistar Plus+ sea actualiza para todos: no es un nuevo canal, pero a partir de ahora se verá mucho mejor</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-1451244' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/movistar-plus-sea-actualiza-todos-no-nuevo-canal-pero-partir-ahora-vera-mucho-mejor-4308365.jpg?tf=1200x' alt='Movistar Plus+ sea actualiza para todos: no es un nuevo canal, pero a partir de ahora se verá mucho mejor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/meredith-whittaker-presidenta-signal-lanza-dura-advertencia-whatsapp-no-dejen-enganar-1451278'>Meredith Whittaker, presidenta de Signal, lanza una dura advertencia sobre WhatsApp: “No se dejen engañar”</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/meredith-whittaker-presidenta-signal-lanza-dura-advertencia-whatsapp-no-dejen-enganar-1451278' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/meredith-whittaker-habla-whatsapp-4308445.jpg?tf=1200x' alt='Meredith Whittaker, presidenta de Signal, lanza una dura advertencia sobre WhatsApp: “No se dejen engañar”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219'>Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-1451219' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-chrome-ni-safari-estos-son-navegadores-seguros-experto-privacidad-4308357.jpg?tf=1200x' alt='Ni Chrome ni Safari, estos son los navegadores más seguros según un experto en privacidad' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-1451287'>Los lectores Kindle reciben una actualización sorprendente: pasar la página sin tocar la pantalla </a></h4>
     <a href='https://computerhoy.20minutos.es/amazon/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-1451287' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/lectores-kindle-reciben-actualizacion-sorprendente-pasar-pagina-tocar-pantalla-4308381.jpg?tf=1200x' alt='Los lectores Kindle reciben una actualización sorprendente: pasar la página sin tocar la pantalla ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-laboral-alerta-peligro-oculto-utilizar-chatgpt-trabajar-desastre-legal-reputacional-1451272'>Experto laboral alerta del peligro oculto de utilizar ChatGPT para trabajar: "Es un desastre legal y reputacional"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-laboral-alerta-peligro-oculto-utilizar-chatgpt-trabajar-desastre-legal-reputacional-1451272' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-inteligencia-artificial-trabajo-4308432.jpg?tf=1200x' alt='Experto laboral alerta del peligro oculto de utilizar ChatGPT para trabajar: "Es un desastre legal y reputacional"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-1451148'>Expertos alertan de la nueva estafa del kit de supervivencia, si te llega, la estafa está en marcha</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-1451148' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-alertan-nueva-estafa-kit-supervivencia-te-llega-estafa-marcha-4308269.jpg?tf=1200x' alt='Expertos alertan de la nueva estafa del kit de supervivencia, si te llega, la estafa está en marcha' />
     </a>
 </div>
 
