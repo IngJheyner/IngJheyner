@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/vuelve-futbol-vuelven-bloqueos-vpn-uso-ni-javier-tebas-ni-laliga-puedan-conmigo-1451174'>Vuelve el fútbol y vuelven los bloqueos: esta es la VPN que uso para que ni Javier Tebas ni LaLiga puedan conmigo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/vuelve-futbol-vuelven-bloqueos-vpn-uso-ni-javier-tebas-ni-laliga-puedan-conmigo-1451174' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vpn-4005438.jpg?tf=1200x' alt='Vuelve el fútbol y vuelven los bloqueos: esta es la VPN que uso para que ni Javier Tebas ni LaLiga puedan conmigo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-general-aun-lejos-ser-humano-cto-tcl-motivo-1448836'>"La IA general aún está lejos del ser humano", según el CTO de TCL, y este es el motivo </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-general-aun-lejos-ser-humano-cto-tcl-motivo-1448836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/daniel-sun-cto-tcl-4308382.jpg?tf=1200x' alt='"La IA general aún está lejos del ser humano", según el CTO de TCL, y este es el motivo ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-pareja-jeff-bezos-espacio-primera-mision-espacial-solo-mujeres-1451402'>La cantante Katy Perry y la pareja de Jeff Bezos se van al espacio en la primera misión solo con mujeres</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-pareja-jeff-bezos-espacio-primera-mision-espacial-solo-mujeres-1451402' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cantante-katy-perry-pareja-jeff-bezos-van-espacio-primera-mision-espacial-femenina-4308654.jpg?tf=1200x' alt='La cantante Katy Perry y la pareja de Jeff Bezos se van al espacio en la primera misión solo con mujeres' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-ha-superado-sombra-windows-nadie-ha-dado-cuenta-1451280'>Linux ha superado en la sombra a Windows y nadie se ha dado cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-ha-superado-sombra-windows-nadie-ha-dado-cuenta-1451280' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-sistema-operativo-windows-4308464.jpg?tf=1200x' alt='Linux ha superado en la sombra a Windows y nadie se ha dado cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-obsesionado-extrano-numero-usa-todo-incluso-despedir-gente-1451250'>Elon Musk está obsesionado con este extraño número: lo usa para todo, incluso para despedir a la gente</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-obsesionado-extrano-numero-usa-todo-incluso-despedir-gente-1451250' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-numero-favorito-4308430.jpg?tf=1200x' alt='Elon Musk está obsesionado con este extraño número: lo usa para todo, incluso para despedir a la gente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-sera-unico-trabajo-no-podra-sustituir-ia-aunque-suene-broma-1451223'>Bill Gates lo tiene claro: este será el único trabajo que no podrá sustituir la IA, aunque suene a broma</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-sera-unico-trabajo-no-podra-sustituir-ia-aunque-suene-broma-1451223' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-tiene-claro-sera-unico-trabajo-no-podra-sustituir-ia-aunque-suene-broma-4308350.jpg?tf=1200x' alt='Bill Gates lo tiene claro: este será el único trabajo que no podrá sustituir la IA, aunque suene a broma' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-advierte-peligro-ia-puede-manipular-personas-alcanzar-objetivos-1451154'>Yuval Noah Harari advierte sobre el peligro de la IA: "Puede manipular a las personas para alcanzar sus objetivos"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-advierte-peligro-ia-puede-manipular-personas-alcanzar-objetivos-1451154' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/yuval-noah-harari-4308348.jpg?tf=1200x' alt='Yuval Noah Harari advierte sobre el peligro de la IA: "Puede manipular a las personas para alcanzar sus objetivos"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-palabra-llamada-te-hace-vulnerable-estafas-ia-1451220'>Experta en ciberseguridad hace saltar las alarmas: "Esta palabra en una llamada te hace vulnerable a las estafas con IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-palabra-llamada-te-hace-vulnerable-estafas-ia-1451220' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laura-grandi-4308355.jpg?tf=1200x' alt='Experta en ciberseguridad hace saltar las alarmas: "Esta palabra en una llamada te hace vulnerable a las estafas con IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388'>Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-windows-union-europea-presenta-eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-4308631.jpg?tf=1200x' alt='Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
     </a>
 </div>
 
