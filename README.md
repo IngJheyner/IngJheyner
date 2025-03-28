@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-advierte-peligro-ia-puede-manipular-personas-alcanzar-objetivos-1451154'>Yuval Noah Harari advierte sobre el peligro de la IA: "Puede manipular a las personas para alcanzar sus objetivos"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-advierte-peligro-ia-puede-manipular-personas-alcanzar-objetivos-1451154' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/yuval-noah-harari-4308348.jpg?tf=1200x' alt='Yuval Noah Harari advierte sobre el peligro de la IA: "Puede manipular a las personas para alcanzar sus objetivos"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-palabra-llamada-te-hace-vulnerable-estafas-ia-1451220'>Experta en ciberseguridad hace saltar las alarmas: "Esta palabra en una llamada te hace vulnerable a las estafas con IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experta-ciberseguridad-hace-saltar-alarmas-palabra-llamada-te-hace-vulnerable-estafas-ia-1451220' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/laura-grandi-4308355.jpg?tf=1200x' alt='Experta en ciberseguridad hace saltar las alarmas: "Esta palabra en una llamada te hace vulnerable a las estafas con IA"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388'>Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-windows-union-europea-presenta-eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-4308631.jpg?tf=1200x' alt='Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/iphone-ahora-planifica-viajes-mejor-funciona-nueva-funcion-google-maps-1451376'>Tu iPhone ahora planifica viajes mejor que tú: así funciona la nueva función de Google Maps</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/iphone-ahora-planifica-viajes-mejor-funciona-nueva-funcion-google-maps-1451376' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-ia-4308624.jpg?tf=1200x' alt='Tu iPhone ahora planifica viajes mejor que tú: así funciona la nueva función de Google Maps' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/parece-rtx-4090-pero-timo-desmontan-gpu-falsa-descubren-1451373'>Parece una RTX 4090, pero es un timo: desmontan una GPU falsa y esto es lo que descubren</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/parece-rtx-4090-pero-timo-desmontan-gpu-falsa-descubren-1451373' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rtx-4090-4308619.jpg?tf=1200x' alt='Parece una RTX 4090, pero es un timo: desmontan una GPU falsa y esto es lo que descubren' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372'>Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/llega-nueva-funcion-mapas-chatgpt-pero-no-esperes-reemplace-google-maps-1451372' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mapas-chatgpt-4308616.jpg?tf=1200x' alt='Llega la nueva función de mapas a ChatGPT… pero no esperes que reemplace a Google Maps' />
     </a>
 </div>
 
