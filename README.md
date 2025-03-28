@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-obsesionado-extrano-numero-usa-todo-incluso-despedir-gente-1451250'>Elon Musk está obsesionado con este extraño número: lo usa para todo, incluso para despedir a la gente</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-obsesionado-extrano-numero-usa-todo-incluso-despedir-gente-1451250' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-numero-favorito-4308430.jpg?tf=1200x' alt='Elon Musk está obsesionado con este extraño número: lo usa para todo, incluso para despedir a la gente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-sera-unico-trabajo-no-podra-sustituir-ia-aunque-suene-broma-1451223'>Bill Gates lo tiene claro: este será el único trabajo que no podrá sustituir la IA, aunque suene a broma</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-tiene-claro-sera-unico-trabajo-no-podra-sustituir-ia-aunque-suene-broma-1451223' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-tiene-claro-sera-unico-trabajo-no-podra-sustituir-ia-aunque-suene-broma-4308350.jpg?tf=1200x' alt='Bill Gates lo tiene claro: este será el único trabajo que no podrá sustituir la IA, aunque suene a broma' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-advierte-peligro-ia-puede-manipular-personas-alcanzar-objetivos-1451154'>Yuval Noah Harari advierte sobre el peligro de la IA: "Puede manipular a las personas para alcanzar sus objetivos"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/yuval-noah-harari-advierte-peligro-ia-puede-manipular-personas-alcanzar-objetivos-1451154' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/yuval-noah-harari-4308348.jpg?tf=1200x' alt='Yuval Noah Harari advierte sobre el peligro de la IA: "Puede manipular a las personas para alcanzar sus objetivos"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388'>Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-union-europea-1451388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-windows-union-europea-presenta-eu-os-nuevo-sistema-operativo-basado-linux-sector-publico-4308631.jpg?tf=1200x' alt='Adiós a Windows en la Unión Europea: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/799-solo-571-euros-garmin-fenix-pone-amazon-patas-arriba-promete-agotarse-1450947'>De 799 a solo 571 euros: este Garmin Fenix pone Amazon patas arriba y promete agotarse</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/799-solo-571-euros-garmin-fenix-pone-amazon-patas-arriba-promete-agotarse-1450947' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/garmin-fenix-4307887.jpg?tf=1200x' alt='De 799 a solo 571 euros: este Garmin Fenix pone Amazon patas arriba y promete agotarse' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/iphone-ahora-planifica-viajes-mejor-funciona-nueva-funcion-google-maps-1451376'>Tu iPhone ahora planifica viajes mejor que tú: así funciona la nueva función de Google Maps</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/iphone-ahora-planifica-viajes-mejor-funciona-nueva-funcion-google-maps-1451376' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-maps-ia-4308624.jpg?tf=1200x' alt='Tu iPhone ahora planifica viajes mejor que tú: así funciona la nueva función de Google Maps' />
     </a>
 </div>
 
