@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/cuidado-te-roban-iphone-nunca-contestes-sms-te-enviaran-ladrones-1451492'>Cuidado si te roban el iPhone, nunca contestes a este SMS que te enviarán los ladrones</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/cuidado-te-roban-iphone-nunca-contestes-sms-te-enviaran-ladrones-1451492' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-te-roban-iphone-nunca-contestes-sms-te-enviaran-ladrones-4308832.jpg?tf=1200x' alt='Cuidado si te roban el iPhone, nunca contestes a este SMS que te enviarán los ladrones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-movistar-vodafone-ha-bajado-precio-tarifas-populares-todos-clientes-1451429'>Ni DIGI ni Movistar: Vodafone ha bajado el precio de una de sus tarifas más populares a todos sus clientes</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-movistar-vodafone-ha-bajado-precio-tarifas-populares-todos-clientes-1451429' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-digi-ni-movistar-vodafone-ha-bajado-precio-tarifas-populares-todos-clientes-4308778.jpg?tf=1200x' alt='Ni DIGI ni Movistar: Vodafone ha bajado el precio de una de sus tarifas más populares a todos sus clientes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-ya-permite-whatsapp-sea-app-defecto-llamadas-chat-1451519'>Tu iPhone ya permite que WhatsApp sea tu app por defecto para llamadas y chat</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/iphone-ya-permite-whatsapp-sea-app-defecto-llamadas-chat-1451519' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16-pro-whatsapp-4308888.jpg?tf=1200x' alt='Tu iPhone ya permite que WhatsApp sea tu app por defecto para llamadas y chat' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/bill-gates-admitio-cometieron-error-funciones-utilizadas-windows-1451508'>Bill Gates admitió que cometieron un error con una de las funciones más utilizadas de Windows</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/bill-gates-admitio-cometieron-error-funciones-utilizadas-windows-1451508' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-microsoft-windows-4308866.jpg?tf=1200x' alt='Bill Gates admitió que cometieron un error con una de las funciones más utilizadas de Windows' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-sam-altman-libertad-ia-problema-censura-no-sesgo-1451489'>Expertos advierten a Sam Altman sobre la "libertad" de la IA: el problema es la censura, no el sesgo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-sam-altman-libertad-ia-problema-censura-no-sesgo-1451489' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-chatgpt-libertad-4308855.jpg?tf=1200x' alt='Expertos advierten a Sam Altman sobre la "libertad" de la IA: el problema es la censura, no el sesgo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/olvida-airpods-auriculares-alexa-amazon-cuestan-mitad-tambien-tienen-cancelacion-1451286'>Olvida los AirPods: los auriculares con Alexa de Amazon cuestan la mitad y también tienen cancelación</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/olvida-airpods-auriculares-alexa-amazon-cuestan-mitad-tambien-tienen-cancelacion-1451286' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg?tf=1200x' alt='Olvida los AirPods: los auriculares con Alexa de Amazon cuestan la mitad y también tienen cancelación' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-imagenes-ghibli-chatgpt-no-generara-contenido-estilo-artista-vivo-1451451'>Adiós a las imágenes Ghibli de ChatGPT: no generará contenido con el estilo de un artista vivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/adios-imagenes-ghibli-chatgpt-no-generara-contenido-estilo-artista-vivo-1451451' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-imagenes-ghibli-chatgpt-no-generara-imagenes-estilo-artista-vivo-4308757.jpg?tf=1200x' alt='Adiós a las imágenes Ghibli de ChatGPT: no generará contenido con el estilo de un artista vivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432'>¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuanto-pesa-internet-cientificos-han-hecho-calculos-resultado-sorprendente-4308688.jpg?tf=1200x' alt='¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente' />
     </a>
 </div>
 
