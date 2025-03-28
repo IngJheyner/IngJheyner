@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321'>Google lanza una actualización crítica de seguridad para Chrome: debes esto antes de que sea tarde</a></h4>
+    <a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-afectado-malware-4308540.jpg?tf=1200x' alt='Google lanza una actualización crítica de seguridad para Chrome: debes esto antes de que sea tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/configuracion-windows-11-ofrece-ahora-nuevo-sistema-archivos-1451557'>Ya es historia: la configuración de Windows 11 ofrece ahora un nuevo sistema de archivos</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/configuracion-windows-11-ofrece-ahora-nuevo-sistema-archivos-1451557' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nfts-vez-refs-windows-11-4308939.jpg?tf=1200x' alt='Ya es historia: la configuración de Windows 11 ofrece ahora un nuevo sistema de archivos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-1451524'>Canadá se convierte en un gran quebradero de cabeza para Elon Musk: "No pagaremos hasta que estemos seguros"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-1451524' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-4308938.jpg?tf=1200x' alt='Canadá se convierte en un gran quebradero de cabeza para Elon Musk: "No pagaremos hasta que estemos seguros"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-cierra-siempre-canal-no-deportivo-exitoso-historia-1451525'>Movistar Plus+ cierra para siempre el canal no deportivo más exitoso de su historia</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-cierra-siempre-canal-no-deportivo-exitoso-historia-1451525' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/plataforma-ha-decidido-finalmente-parecia-cronica-muerte-anunciado-dar-finiquitadas-reposiciones-programas-miticos-4308874.jpg?tf=1200x' alt='Movistar Plus+ cierra para siempre el canal no deportivo más exitoso de su historia' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-1451505'>La estafa que preocupa a los expertos: cuidado si recibes esta oferta de empleo por WhatsApp</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-1451505' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-4308846.jpg?tf=1200x' alt='La estafa que preocupa a los expertos: cuidado si recibes esta oferta de empleo por WhatsApp' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-confirma-temores-todos-tendran-destino-parecido-no-habra-ningun-trabajo-salvo-ia-1451481'>Experto confirma los temores: "Todos tendrán un destino parecido, no habrá ningún trabajo a salvo de la IA"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-confirma-temores-todos-tendran-destino-parecido-no-habra-ningun-trabajo-salvo-ia-1451481' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-confirma-temores-no-habra-ningun-trabajo-salvo-ia-4308815.jpg?tf=1200x' alt='Experto confirma los temores: "Todos tendrán un destino parecido, no habrá ningún trabajo a salvo de la IA"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-problema-ser-multimillonario-todo-mundo-te-odia-todo-1451515'>Sam Altman tiene un problema, ser multimillonario: "Todo el mundo te odia por todo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-problema-ser-multimillonario-todo-mundo-te-odia-todo-1451515' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-tiene-problema-ser-multimillonario-todo-mundo-te-odia-todo-4308861.jpg?tf=1200x' alt='Sam Altman tiene un problema, ser multimillonario: "Todo el mundo te odia por todo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-cuerdas-quiere-rescatar-antes-era-idea-absurda-salvar-tesla-1451498'>Elon Musk contra las cuerdas quiere rescatar lo que antes era una “idea absurda” para salvar a Tesla</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/elon-musk-cuerdas-quiere-rescatar-antes-era-idea-absurda-salvar-tesla-1451498' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nueva-propuesta-tesla-4308867.jpg?tf=1200x' alt='Elon Musk contra las cuerdas quiere rescatar lo que antes era una “idea absurda” para salvar a Tesla' />
     </a>
 </div>
 
