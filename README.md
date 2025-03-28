@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alemania-llena-robots-humanoides-nueva-fuerza-laboral-no-pide-vacaciones-1451447'>Alemania se llena de robots humanoides: la nueva fuerza laboral que no pide vacaciones</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/alemania-llena-robots-humanoides-nueva-fuerza-laboral-no-pide-vacaciones-1451447' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apollo-robot-humanoide-4308764.jpg?tf=1200x' alt='Alemania se llena de robots humanoides: la nueva fuerza laboral que no pide vacaciones' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772'>Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-4304460.jpg?tf=1200x' alt='Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842'>Kevin Weil, creador de ChatGPT, confirma nuestros miedos: "Al ritmo que vamos, creo que será antes"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/kevin-weil-chatgpt-4308830.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma nuestros miedos: "Al ritmo que vamos, creo que será antes"' />
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-141-beta-ya-disponible-ya-permite-jugar-juegos-completos-android-pantalla-coche-1451613'>Android Auto 14.1 beta ya disponible: ya permite jugar juegos completos de Android en la pantalla del coche</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-141-beta-ya-disponible-ya-permite-jugar-juegos-completos-android-pantalla-coche-1451613' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-141-4309032.jpg?tf=1200x' alt='Android Auto 14.1 beta ya disponible: ya permite jugar juegos completos de Android en la pantalla del coche' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/nino-becerra-activa-alarmas-nueva-tecnologia-china-puede-ser-punto-aparte-coche-electrico-1451456'>Niño Becerra activa las alarmas por la nueva tecnología china: "Esto puede ser un punto y aparte para el coche eléctrico"</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/nino-becerra-activa-alarmas-nueva-tecnologia-china-puede-ser-punto-aparte-coche-electrico-1451456' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nino-becerra-4308793.jpg?tf=1200x' alt='Niño Becerra activa las alarmas por la nueva tecnología china: "Esto puede ser un punto y aparte para el coche eléctrico"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/yoshua-bengio-max-tegmark-peligro-ia-autonoma-1441066'>Dos de los mayores expertos de todo el mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/yoshua-bengio-max-tegmark-peligro-ia-autonoma-1441066' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-malvado-4308833.jpg?tf=1200x' alt='Dos de los mayores expertos de todo el mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-imagenes-estilo-ghibli-gratis-chatgpt-ni-pagar-nada-1451583'>Cómo crear imágenes estilo Ghibli gratis sin ChatGPT ni pagar nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-imagenes-estilo-ghibli-gratis-chatgpt-ni-pagar-nada-1451583' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ilustracion-ghibli-inteligencia-artificial-4308974.jpg?tf=1200x' alt='Cómo crear imágenes estilo Ghibli gratis sin ChatGPT ni pagar nada' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/semana-laboral-3-dias-bill-gates-elon-musk-dicen-ia-hara-posible-1451612'>¿Semana laboral de 3 días? Bill Gates y Elon Musk dicen que la IA lo hará posible</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/semana-laboral-3-dias-bill-gates-elon-musk-dicen-ia-hara-posible-1451612' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-4309031.jpg?tf=1200x' alt='¿Semana laboral de 3 días? Bill Gates y Elon Musk dicen que la IA lo hará posible' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-1451567'>Vuelven los bloqueos de LaLiga a las IPTV: estas serán las horas más complicadas del fin de semana</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-1451567' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-4309003.jpg?tf=1200x' alt='Vuelven los bloqueos de LaLiga a las IPTV: estas serán las horas más complicadas del fin de semana' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-inquietantes-pero-nadie-conoce-ahora-puedes-verla-prime-video-1451400'>Es una de las películas de terror más inquietantes, pero nadie la conoce: ahora puedes verla en Prime Video</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-inquietantes-pero-nadie-conoce-ahora-puedes-verla-prime-video-1451400' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peliculas-terror-inquietantes-pero-nadie-conoce-ahora-puedes-verle-prime-video-4308671.jpg?tf=1200x' alt='Es una de las películas de terror más inquietantes, pero nadie la conoce: ahora puedes verla en Prime Video' />
     </a>
 </div>
 
