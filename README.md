@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690'>Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-691-4306538.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/vuelve-futbol-vuelven-bloqueos-vpn-uso-ni-javier-tebas-ni-laliga-puedan-conmigo-1451174'>Vuelve el fútbol y vuelven los bloqueos: esta es la VPN que uso para que ni Javier Tebas ni LaLiga puedan conmigo</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/vuelve-futbol-vuelven-bloqueos-vpn-uso-ni-javier-tebas-ni-laliga-puedan-conmigo-1451174' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vpn-4005438.jpg?tf=1200x' alt='Vuelve el fútbol y vuelven los bloqueos: esta es la VPN que uso para que ni Javier Tebas ni LaLiga puedan conmigo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-ha-superado-sombra-windows-nadie-ha-dado-cuenta-1451280'>Linux ha superado en la sombra a Windows y nadie se ha dado cuenta</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linux-ha-superado-sombra-windows-nadie-ha-dado-cuenta-1451280' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-sistema-operativo-windows-4308464.jpg?tf=1200x' alt='Linux ha superado en la sombra a Windows y nadie se ha dado cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-obsesionado-extrano-numero-usa-todo-incluso-despedir-gente-1451250'>Elon Musk está obsesionado con este extraño número: lo usa para todo, incluso para despedir a la gente</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-obsesionado-extrano-numero-usa-todo-incluso-despedir-gente-1451250' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-numero-favorito-4308430.jpg?tf=1200x' alt='Elon Musk está obsesionado con este extraño número: lo usa para todo, incluso para despedir a la gente' />
     </a>
 </div>
 
