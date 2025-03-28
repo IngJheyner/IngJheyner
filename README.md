@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/cuidado-te-roban-iphone-nunca-contestes-sms-te-enviaran-ladrones-1451492'>Cuidado si te roban el iPhone, nunca contestes a este SMS que te enviarán los ladrones</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/cuidado-te-roban-iphone-nunca-contestes-sms-te-enviaran-ladrones-1451492' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuidado-te-roban-iphone-nunca-contestes-sms-te-enviaran-ladrones-4308832.jpg?tf=1200x' alt='Cuidado si te roban el iPhone, nunca contestes a este SMS que te enviarán los ladrones' />
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-cierra-siempre-canal-no-deportivo-exitoso-historia-1451525'>Movistar Plus+ cierra para siempre el canal no deportivo más exitoso de su historia</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-cierra-siempre-canal-no-deportivo-exitoso-historia-1451525' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/plataforma-ha-decidido-finalmente-parecia-cronica-muerte-anunciado-dar-finiquitadas-reposiciones-programas-miticos-4308874.jpg?tf=1200x' alt='Movistar Plus+ cierra para siempre el canal no deportivo más exitoso de su historia' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-movistar-vodafone-ha-bajado-precio-tarifas-populares-todos-clientes-1451429'>Ni DIGI ni Movistar: Vodafone ha bajado el precio de una de sus tarifas más populares a todos sus clientes</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/ni-digi-ni-movistar-vodafone-ha-bajado-precio-tarifas-populares-todos-clientes-1451429' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-digi-ni-movistar-vodafone-ha-bajado-precio-tarifas-populares-todos-clientes-4308778.jpg?tf=1200x' alt='Ni DIGI ni Movistar: Vodafone ha bajado el precio de una de sus tarifas más populares a todos sus clientes' />
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-1451505'>La estafa que preocupa a los expertos: cuidado si recibes esta oferta de empleo por WhatsApp</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-1451505' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-4308846.jpg?tf=1200x' alt='La estafa que preocupa a los expertos: cuidado si recibes esta oferta de empleo por WhatsApp' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/iphone-ya-permite-whatsapp-sea-app-defecto-llamadas-chat-1451519'>Tu iPhone ya permite que WhatsApp sea tu app por defecto para llamadas y chat</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/iphone-ya-permite-whatsapp-sea-app-defecto-llamadas-chat-1451519' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/iphone-16-pro-whatsapp-4308888.jpg?tf=1200x' alt='Tu iPhone ya permite que WhatsApp sea tu app por defecto para llamadas y chat' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-confirma-temores-todos-tendran-destino-parecido-no-habra-ningun-trabajo-salvo-ia-1451481'>Experto confirma los temores: "Todos tendrán un destino parecido, no habrá ningún trabajo a salvo de la IA"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-confirma-temores-todos-tendran-destino-parecido-no-habra-ningun-trabajo-salvo-ia-1451481' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-confirma-temores-no-habra-ningun-trabajo-salvo-ia-4308815.jpg?tf=1200x' alt='Experto confirma los temores: "Todos tendrán un destino parecido, no habrá ningún trabajo a salvo de la IA"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/bill-gates-admitio-cometieron-error-funciones-utilizadas-windows-1451508'>Bill Gates admitió que cometieron un error con una de las funciones más utilizadas de Windows</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/bill-gates-admitio-cometieron-error-funciones-utilizadas-windows-1451508' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-microsoft-windows-4308866.jpg?tf=1200x' alt='Bill Gates admitió que cometieron un error con una de las funciones más utilizadas de Windows' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-problema-ser-multimillonario-todo-mundo-te-odia-todo-1451515'>Sam Altman tiene un problema, ser multimillonario: "Todo el mundo te odia por todo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-tiene-problema-ser-multimillonario-todo-mundo-te-odia-todo-1451515' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-tiene-problema-ser-multimillonario-todo-mundo-te-odia-todo-4308861.jpg?tf=1200x' alt='Sam Altman tiene un problema, ser multimillonario: "Todo el mundo te odia por todo"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-sam-altman-libertad-ia-problema-censura-no-sesgo-1451489'>Expertos advierten a Sam Altman sobre la "libertad" de la IA: el problema es la censura, no el sesgo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-sam-altman-libertad-ia-problema-censura-no-sesgo-1451489' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-chatgpt-libertad-4308855.jpg?tf=1200x' alt='Expertos advierten a Sam Altman sobre la "libertad" de la IA: el problema es la censura, no el sesgo' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/elon-musk-cuerdas-quiere-rescatar-antes-era-idea-absurda-salvar-tesla-1451498'>Elon Musk contra las cuerdas quiere rescatar lo que antes era una “idea absurda” para salvar a Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/elon-musk-cuerdas-quiere-rescatar-antes-era-idea-absurda-salvar-tesla-1451498' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nueva-propuesta-tesla-4308867.jpg?tf=1200x' alt='Elon Musk contra las cuerdas quiere rescatar lo que antes era una “idea absurda” para salvar a Tesla' />
     </a>
 </div>
 
