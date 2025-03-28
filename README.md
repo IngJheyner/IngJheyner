@@ -50,9 +50,25 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321'>Google lanza una actualización crítica de seguridad para Chrome: debes esto antes de que sea tarde</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/life/joe-gebbia-cofundador-airbnb-mano-derecha-elon-musk-gobierno-similar-apple-store-1451497'>Joe Gebbia, cofundador de Airbnb y mano derecha de Elon Musk en el gobierno: "Similar a una Apple Store"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/joe-gebbia-cofundador-airbnb-mano-derecha-elon-musk-gobierno-similar-apple-store-1451497' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4308868.jpg?tf=1200x' alt='Joe Gebbia, cofundador de Airbnb y mano derecha de Elon Musk en el gobierno: "Similar a una Apple Store"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/multas-usuarios-particulares-750-euros-uso-iptv-pirata-1450086'>Así funcionan las nuevas multas a usuarios particulares de hasta 750 euros por utilizar una IPTV pirata </a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/multas-usuarios-particulares-750-euros-uso-iptv-pirata-1450086' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/multas-ver-futbol-iptv-4308812.jpg?tf=1200x' alt='Así funcionan las nuevas multas a usuarios particulares de hasta 750 euros por utilizar una IPTV pirata ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321'>Google lanza una actualización crítica de seguridad para Chrome: debes hacer esto antes de que sea tarde</a></h4>
     <a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-afectado-malware-4308540.jpg?tf=1200x' alt='Google lanza una actualización crítica de seguridad para Chrome: debes esto antes de que sea tarde' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-afectado-malware-4308540.jpg?tf=1200x' alt='Google lanza una actualización crítica de seguridad para Chrome: debes hacer esto antes de que sea tarde' />
     </a>
 </div>
 
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-1451524'>Canadá se convierte en un gran quebradero de cabeza para Elon Musk: "No pagaremos hasta que estemos seguros"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-1451524' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-4308938.jpg?tf=1200x' alt='Canadá se convierte en un gran quebradero de cabeza para Elon Musk: "No pagaremos hasta que estemos seguros"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-cierra-siempre-canal-no-deportivo-exitoso-historia-1451525'>Movistar Plus+ cierra para siempre el canal no deportivo más exitoso de su historia</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/movistar-plus-cierra-siempre-canal-no-deportivo-exitoso-historia-1451525' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/plataforma-ha-decidido-finalmente-parecia-cronica-muerte-anunciado-dar-finiquitadas-reposiciones-programas-miticos-4308874.jpg?tf=1200x' alt='Movistar Plus+ cierra para siempre el canal no deportivo más exitoso de su historia' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-1451505'>La estafa que preocupa a los expertos: cuidado si recibes esta oferta de empleo por WhatsApp</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-1451505' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-preocupa-expertos-cuidado-recibes-oferta-empleo-whatsapp-4308846.jpg?tf=1200x' alt='La estafa que preocupa a los expertos: cuidado si recibes esta oferta de empleo por WhatsApp' />
     </a>
 </div>
 
