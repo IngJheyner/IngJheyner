@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/joe-gebbia-cofundador-airbnb-mano-derecha-elon-musk-gobierno-similar-apple-store-1451497'>Joe Gebbia, cofundador de Airbnb y mano derecha de Elon Musk en el gobierno: "Similar a una Apple Store"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/joe-gebbia-cofundador-airbnb-mano-derecha-elon-musk-gobierno-similar-apple-store-1451497' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4308868.jpg?tf=1200x' alt='Joe Gebbia, cofundador de Airbnb y mano derecha de Elon Musk en el gobierno: "Similar a una Apple Store"' />
+    <h4><a href='https://computerhoy.20minutos.es/motor/nino-becerra-activa-alarmas-nueva-tecnologia-china-puede-ser-punto-aparte-coche-electrico-1451456'>Niño Becerra activa las alarmas por la nueva tecnología china: "Esto puede ser un punto y aparte para el coche eléctrico"</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/nino-becerra-activa-alarmas-nueva-tecnologia-china-puede-ser-punto-aparte-coche-electrico-1451456' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nino-becerra-4308793.jpg?tf=1200x' alt='Niño Becerra activa las alarmas por la nueva tecnología china: "Esto puede ser un punto y aparte para el coche eléctrico"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/multas-usuarios-particulares-750-euros-uso-iptv-pirata-1450086'>Así funcionan las nuevas multas a usuarios particulares de hasta 750 euros por utilizar una IPTV pirata </a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/multas-usuarios-particulares-750-euros-uso-iptv-pirata-1450086' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/multas-ver-futbol-iptv-4308812.jpg?tf=1200x' alt='Así funcionan las nuevas multas a usuarios particulares de hasta 750 euros por utilizar una IPTV pirata ' />
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-crear-imagenes-estilo-ghibli-gratis-chatgpt-ni-pagar-nada-1451583'>Cómo crear imágenes estilo Ghibli gratis sin ChatGPT ni pagar nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-crear-imagenes-estilo-ghibli-gratis-chatgpt-ni-pagar-nada-1451583' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ilustracion-ghibli-inteligencia-artificial-4308974.jpg?tf=1200x' alt='Cómo crear imágenes estilo Ghibli gratis sin ChatGPT ni pagar nada' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321'>Google lanza una actualización crítica de seguridad para Chrome: debes hacer esto antes de que sea tarde</a></h4>
-    <a href='https://computerhoy.20minutos.es/google/google-lanza-actualizacion-critica-seguridad-chrome-debes-antes-sea-tarde-1451321' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-afectado-malware-4308540.jpg?tf=1200x' alt='Google lanza una actualización crítica de seguridad para Chrome: debes hacer esto antes de que sea tarde' />
+    <h4><a href='https://computerhoy.20minutos.es/internet/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-1451567'>Vuelven los bloqueos de LaLiga a las IPTV: estas serán las horas más complicadas del fin de semana</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-1451567' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-4309003.jpg?tf=1200x' alt='Vuelven los bloqueos de LaLiga a las IPTV: estas serán las horas más complicadas del fin de semana' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/configuracion-windows-11-ofrece-ahora-nuevo-sistema-archivos-1451557'>Ya es historia: la configuración de Windows 11 ofrece ahora un nuevo sistema de archivos</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/configuracion-windows-11-ofrece-ahora-nuevo-sistema-archivos-1451557' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nfts-vez-refs-windows-11-4308939.jpg?tf=1200x' alt='Ya es historia: la configuración de Windows 11 ofrece ahora un nuevo sistema de archivos' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-mina-oro-hombre-fabrica-pegatinas-anti-musk-tesla-forrando-1451517'>Elon Musk es una mina de oro: el hombre que fabrica las pegatinas anti-Musk para los Tesla se está forrando</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-mina-oro-hombre-fabrica-pegatinas-anti-musk-tesla-forrando-1451517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4308905.jpg?tf=1200x' alt='Elon Musk es una mina de oro: el hombre que fabrica las pegatinas anti-Musk para los Tesla se está forrando' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-1451524'>Canadá se convierte en un gran quebradero de cabeza para Elon Musk: "No pagaremos hasta que estemos seguros"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-1451524' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/canada-convierte-gran-quebradero-cabeza-elon-musk-no-pagaremos-estemos-seguros-4308938.jpg?tf=1200x' alt='Canadá se convierte en un gran quebradero de cabeza para Elon Musk: "No pagaremos hasta que estemos seguros"' />
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/alexa-abre-puerta-di-adios-porterillo-clasico-pack-inteligente-amazon-1451421'>"Alexa, abre la puerta": di adiós al porterillo clásico con este pack inteligente de Amazon</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/alexa-abre-puerta-di-adios-porterillo-clasico-pack-inteligente-amazon-1451421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ring-intercom-4308708.jpg?tf=1200x' alt='"Alexa, abre la puerta": di adiós al porterillo clásico con este pack inteligente de Amazon' />
     </a>
 </div>
 
