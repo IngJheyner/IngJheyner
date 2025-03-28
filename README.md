@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/alemania-llena-robots-humanoides-nueva-fuerza-laboral-no-pide-vacaciones-1451447'>Alemania se llena de robots humanoides: la nueva fuerza laboral que no pide vacaciones</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/alemania-llena-robots-humanoides-nueva-fuerza-laboral-no-pide-vacaciones-1451447' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/apollo-robot-humanoide-4308764.jpg?tf=1200x' alt='Alemania se llena de robots humanoides: la nueva fuerza laboral que no pide vacaciones' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842'>Kevin Weil, creador de ChatGPT, confirma nuestros miedos: "Al ritmo que vamos, creo que será antes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/kevin-weil-openai-confirma-todos-temiamos-ritmo-vamos-creo-sera-antes-1448842' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/kevin-weil-chatgpt-4308830.jpg?tf=1200x' alt='Kevin Weil, creador de ChatGPT, confirma nuestros miedos: "Al ritmo que vamos, creo que será antes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/motor/nino-becerra-activa-alarmas-nueva-tecnologia-china-puede-ser-punto-aparte-coche-electrico-1451456'>Niño Becerra activa las alarmas por la nueva tecnología china: "Esto puede ser un punto y aparte para el coche eléctrico"</a></h4>
     <a href='https://computerhoy.20minutos.es/motor/nino-becerra-activa-alarmas-nueva-tecnologia-china-puede-ser-punto-aparte-coche-electrico-1451456' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nino-becerra-4308793.jpg?tf=1200x' alt='Niño Becerra activa las alarmas por la nueva tecnología china: "Esto puede ser un punto y aparte para el coche eléctrico"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-1451567'>Vuelven los bloqueos de LaLiga a las IPTV: estas serán las horas más complicadas del fin de semana</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-1451567' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelven-bloqueos-laliga-iptv-estas-seran-horas-complicadas-fin-semana-4309003.jpg?tf=1200x' alt='Vuelven los bloqueos de LaLiga a las IPTV: estas serán las horas más complicadas del fin de semana' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-mina-oro-hombre-fabrica-pegatinas-anti-musk-tesla-forrando-1451517'>Elon Musk es una mina de oro: el hombre que fabrica las pegatinas anti-Musk para los Tesla se está forrando</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-mina-oro-hombre-fabrica-pegatinas-anti-musk-tesla-forrando-1451517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4308905.jpg?tf=1200x' alt='Elon Musk es una mina de oro: el hombre que fabrica las pegatinas anti-Musk para los Tesla se está forrando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/alexa-abre-puerta-di-adios-porterillo-clasico-pack-inteligente-amazon-1451421'>"Alexa, abre la puerta": di adiós al porterillo clásico con este pack inteligente de Amazon</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/alexa-abre-puerta-di-adios-porterillo-clasico-pack-inteligente-amazon-1451421' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ring-intercom-4308708.jpg?tf=1200x' alt='"Alexa, abre la puerta": di adiós al porterillo clásico con este pack inteligente de Amazon' />
     </a>
 </div>
 
