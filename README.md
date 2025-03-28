@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/bill-gates-admitio-cometieron-error-funciones-utilizadas-windows-1451508'>Bill Gates admitió que cometieron un error con una de las funciones más utilizadas de Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/bill-gates-admitio-cometieron-error-funciones-utilizadas-windows-1451508' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-microsoft-windows-4308866.jpg?tf=1200x' alt='Bill Gates admitió que cometieron un error con una de las funciones más utilizadas de Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-sam-altman-libertad-ia-problema-censura-no-sesgo-1451489'>Expertos advierten a Sam Altman sobre la "libertad" de la IA: el problema es la censura, no el sesgo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-advierten-sam-altman-libertad-ia-problema-censura-no-sesgo-1451489' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-chatgpt-libertad-4308855.jpg?tf=1200x' alt='Expertos advierten a Sam Altman sobre la "libertad" de la IA: el problema es la censura, no el sesgo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/olvida-airpods-auriculares-alexa-amazon-cuestan-mitad-tambien-tienen-cancelacion-1451286'>Olvida los AirPods: los auriculares con Alexa de Amazon cuestan la mitad y también tienen cancelación</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/olvida-airpods-auriculares-alexa-amazon-cuestan-mitad-tambien-tienen-cancelacion-1451286' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg?tf=1200x' alt='Olvida los AirPods: los auriculares con Alexa de Amazon cuestan la mitad y también tienen cancelación' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432'>¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuanto-pesa-internet-cientificos-han-hecho-calculos-resultado-sorprendente-4308688.jpg?tf=1200x' alt='¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fenomeno-ghibli-chatgpt-convierte-problema-sam-altman-gpu-estan-derritiendo-1451423'>El fenómeno Ghibli de ChatGPT se convierte en un problema para Sam Altman: "Nuestras GPU se están derritiendo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/fenomeno-ghibli-chatgpt-convierte-problema-sam-altman-gpu-estan-derritiendo-1451423' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fenomeno-ghibli-chatgpt-convierte-problema-sam-altman-gpu-estan-derritiendo-4308705.jpg?tf=1200x' alt='El fenómeno Ghibli de ChatGPT se convierte en un problema para Sam Altman: "Nuestras GPU se están derritiendo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690'>Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-691-4306538.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital' />
     </a>
 </div>
 
