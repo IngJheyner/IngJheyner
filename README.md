@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432'>¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuanto-pesa-internet-cientificos-han-hecho-calculos-resultado-sorprendente-4308688.jpg?tf=1200x' alt='¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/fenomeno-ghibli-chatgpt-convierte-problema-sam-altman-gpu-estan-derritiendo-1451423'>El fenómeno Ghibli de ChatGPT se convierte en un problema para Sam Altman: "Nuestras GPU se están derritiendo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/fenomeno-ghibli-chatgpt-convierte-problema-sam-altman-gpu-estan-derritiendo-1451423' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fenomeno-ghibli-chatgpt-convierte-problema-sam-altman-gpu-estan-derritiendo-4308705.jpg?tf=1200x' alt='El fenómeno Ghibli de ChatGPT se convierte en un problema para Sam Altman: "Nuestras GPU se están derritiendo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690'>Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-691-4306538.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-general-aun-lejos-ser-humano-cto-tcl-motivo-1448836'>"La IA general aún está lejos del ser humano", según el CTO de TCL, y este es el motivo </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-general-aun-lejos-ser-humano-cto-tcl-motivo-1448836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/daniel-sun-cto-tcl-4308382.jpg?tf=1200x' alt='"La IA general aún está lejos del ser humano", según el CTO de TCL, y este es el motivo ' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-pareja-jeff-bezos-espacio-primera-mision-espacial-solo-mujeres-1451402'>La cantante Katy Perry y la pareja de Jeff Bezos se van al espacio en la primera misión solo con mujeres</a></h4>
-    <a href='https://computerhoy.20minutos.es/espacio/cantante-katy-perry-pareja-jeff-bezos-espacio-primera-mision-espacial-solo-mujeres-1451402' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cantante-katy-perry-pareja-jeff-bezos-van-espacio-primera-mision-espacial-femenina-4308654.jpg?tf=1200x' alt='La cantante Katy Perry y la pareja de Jeff Bezos se van al espacio en la primera misión solo con mujeres' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-ha-superado-sombra-windows-nadie-ha-dado-cuenta-1451280'>Linux ha superado en la sombra a Windows y nadie se ha dado cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-ha-superado-sombra-windows-nadie-ha-dado-cuenta-1451280' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-sistema-operativo-windows-4308464.jpg?tf=1200x' alt='Linux ha superado en la sombra a Windows y nadie se ha dado cuenta' />
     </a>
 </div>
 
