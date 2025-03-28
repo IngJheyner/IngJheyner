@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618'>Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-xp-4309038.jpg?tf=1200x' alt='Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772'>Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-4304460.jpg?tf=1200x' alt='Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/semana-laboral-3-dias-bill-gates-elon-musk-dicen-ia-hara-posible-1451612'>¿Semana laboral de 3 días? Bill Gates y Elon Musk dicen que la IA lo hará posible</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/semana-laboral-3-dias-bill-gates-elon-musk-dicen-ia-hara-posible-1451612' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-4309031.jpg?tf=1200x' alt='¿Semana laboral de 3 días? Bill Gates y Elon Musk dicen que la IA lo hará posible' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-inquietantes-pero-nadie-conoce-ahora-puedes-verla-prime-video-1451400'>Es una de las películas de terror más inquietantes, pero nadie la conoce: ahora puedes verla en Prime Video</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/peliculas-terror-inquietantes-pero-nadie-conoce-ahora-puedes-verla-prime-video-1451400' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/peliculas-terror-inquietantes-pero-nadie-conoce-ahora-puedes-verle-prime-video-4308671.jpg?tf=1200x' alt='Es una de las películas de terror más inquietantes, pero nadie la conoce: ahora puedes verla en Prime Video' />
     </a>
 </div>
 
