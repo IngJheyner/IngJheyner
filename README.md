@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-1451597'>Javier Tebas admite el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-1451597' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-4309055.jpg?tf=1200x' alt='Javier Tebas admite el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618'>Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-xp-4309038.jpg?tf=1200x' alt='Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/yoshua-bengio-max-tegmark-peligro-ia-autonoma-1441066'>Dos de los mayores expertos de todo el mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/yoshua-bengio-max-tegmark-peligro-ia-autonoma-1441066' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-malvado-4308833.jpg?tf=1200x' alt='Dos de los mayores expertos de todo el mundo en IA hacen saltar las alarmas: "Podríamos estar en problemas"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/semana-laboral-3-dias-bill-gates-elon-musk-dicen-ia-hara-posible-1451612'>¿Semana laboral de 3 días? Bill Gates y Elon Musk dicen que la IA lo hará posible</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/semana-laboral-3-dias-bill-gates-elon-musk-dicen-ia-hara-posible-1451612' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bill-gates-elon-musk-4309031.jpg?tf=1200x' alt='¿Semana laboral de 3 días? Bill Gates y Elon Musk dicen que la IA lo hará posible' />
     </a>
 </div>
 
