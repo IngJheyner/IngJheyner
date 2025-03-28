@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/olvida-airpods-auriculares-alexa-amazon-cuestan-mitad-tambien-tienen-cancelacion-1451286'>Olvida los AirPods: los auriculares con Alexa de Amazon cuestan la mitad y también tienen cancelación</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/olvida-airpods-auriculares-alexa-amazon-cuestan-mitad-tambien-tienen-cancelacion-1451286' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2022/04/amazon-echo-buds-2a-gen-2665799.jpg?tf=1200x' alt='Olvida los AirPods: los auriculares con Alexa de Amazon cuestan la mitad y también tienen cancelación' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/adios-imagenes-ghibli-chatgpt-no-generara-contenido-estilo-artista-vivo-1451451'>Adiós a las imágenes Ghibli de ChatGPT: no generará contenido con el estilo de un artista vivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/adios-imagenes-ghibli-chatgpt-no-generara-contenido-estilo-artista-vivo-1451451' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-imagenes-ghibli-chatgpt-no-generara-imagenes-estilo-artista-vivo-4308757.jpg?tf=1200x' alt='Adiós a las imágenes Ghibli de ChatGPT: no generará contenido con el estilo de un artista vivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432'>¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cuanto-pesa-internet-calculos-resultado-sorprendente-1451432' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cuanto-pesa-internet-cientificos-han-hecho-calculos-resultado-sorprendente-4308688.jpg?tf=1200x' alt='¿Cuánto pesa internet? Los científicos han hecho cálculos y el resultado es sorprendente' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690'>Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ya-venta-computer-hoy-numero-691-hora-te-tomes-serio-seguridad-digital-1449690' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/computer-hoy-691-4306538.jpg?tf=1200x' alt='Ya a la venta Computer Hoy número 691: es hora de que te tomes en serio tu seguridad digital' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/vuelve-futbol-vuelven-bloqueos-vpn-uso-ni-javier-tebas-ni-laliga-puedan-conmigo-1451174'>Vuelve el fútbol y vuelven los bloqueos: esta es la VPN que uso para que ni Javier Tebas ni LaLiga puedan conmigo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/vuelve-futbol-vuelven-bloqueos-vpn-uso-ni-javier-tebas-ni-laliga-puedan-conmigo-1451174' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/vpn-4005438.jpg?tf=1200x' alt='Vuelve el fútbol y vuelven los bloqueos: esta es la VPN que uso para que ni Javier Tebas ni LaLiga puedan conmigo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-general-aun-lejos-ser-humano-cto-tcl-motivo-1448836'>"La IA general aún está lejos del ser humano", según el CTO de TCL, y este es el motivo </a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-general-aun-lejos-ser-humano-cto-tcl-motivo-1448836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/daniel-sun-cto-tcl-4308382.jpg?tf=1200x' alt='"La IA general aún está lejos del ser humano", según el CTO de TCL, y este es el motivo ' />
     </a>
 </div>
 
