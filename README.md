@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-prueba-nueva-forma-recomendar-videos-funciona-1451732'>YouTube prueba una nueva forma de recomendar vídeos y así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/youtube-prueba-nueva-forma-recomendar-videos-funciona-1451732' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-4309182.jpg?tf=1200x' alt='YouTube prueba una nueva forma de recomendar vídeos y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731'>Adiós al asistente de Google en Waze para iPhone tras un año de problemas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4309181.jpg?tf=1200x' alt='Adiós al asistente de Google en Waze para iPhone tras un año de problemas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/adios-caos-futuras-funciones-windows-11-microsoft-crea-indispensable-herramienta-1451716'>Adiós al caos con las futuras funciones de Windows 11: Microsoft crea esta indispensable herramienta</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/adios-caos-futuras-funciones-windows-11-microsoft-crea-indispensable-herramienta-1451716' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4309161.jpg?tf=1200x' alt='Adiós al caos con las futuras funciones de Windows 11: Microsoft crea esta indispensable herramienta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637'>Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aplicar-cambio-horario-espana-4309059.jpg?tf=1200x' alt='Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025' />
     </a>
 </div>
 
