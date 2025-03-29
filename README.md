@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xai-compra-x-33000-millones-dolares-1451642'>Elon Musk anuncia que xAI ha comprado X por 33.000 millones de dólares</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/xai-compra-x-33000-millones-dolares-1451642' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-anuncia-xai-ha-comprado-x-33000-millones-dolares-4309065.jpg?tf=1200x' alt='Elon Musk anuncia que xAI ha comprado X por 33.000 millones de dólares' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-1451630'>Linux a punto de enfrentarse a uno de los cambios más importantes de su historia: ¿evolución o revolución?</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-1451630' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-4309063.jpg?tf=1200x' alt='Linux a punto de enfrentarse a uno de los cambios más importantes de su historia: ¿evolución o revolución?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618'>Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-xp-4309038.jpg?tf=1200x' alt='Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772'>Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-4304460.jpg?tf=1200x' alt='Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica' />
     </a>
 </div>
 
