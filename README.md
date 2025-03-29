@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718'>Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-meet-4309166.jpg?tf=1200x' alt='Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/moviles/ocurre-tienes-movil-apagado-durante-cambio-hora-marzo-2025-1451644'>¿Qué ocurre si tienes el móvil apagado durante el cambio de hora de marzo de 2025?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/ocurre-tienes-movil-apagado-durante-cambio-hora-marzo-2025-1451644' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/configuracion-reloj-movil-4309071.jpg?tf=1200x' alt='¿Qué ocurre si tienes el móvil apagado durante el cambio de hora de marzo de 2025?' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-podria-ocultar-teclas-gboard-parecerse-teclado-iphone-1451714'>Google podría ocultar teclas en Gboard para parecerse más al teclado del iPhone</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-podria-ocultar-teclas-gboard-parecerse-teclado-iphone-1451714' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gboard-4309158.jpg?tf=1200x' alt='Google podría ocultar teclas en Gboard para parecerse más al teclado del iPhone' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/xiaomi-tiene-rival-huawei-vende-pulsera-inteligente-muy-top-ademas-no-llega-50-euros-1451664'>Xiaomi tiene rival: Huawei vende una pulsera inteligente muy top que además no llega a 50 euros</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/xiaomi-tiene-rival-huawei-vende-pulsera-inteligente-muy-top-ademas-no-llega-50-euros-1451664' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-band-10-4309152.jpg?tf=1200x' alt='Xiaomi tiene rival: Huawei vende una pulsera inteligente muy top que además no llega a 50 euros' />
     </a>
 </div>
 
