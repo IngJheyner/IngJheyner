@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-muestra-como-activar-modo-paranoia-windows-volver-locos-hackers-1449574'>Experto en ciberseguridad, muestra cómo activar el “modo paranoia” de Windows para volver locos a los hackers</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-muestra-como-activar-modo-paranoia-windows-volver-locos-hackers-1449574' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modo-paranoia-windows-11-4305742.jpg?tf=1200x' alt='Experto en ciberseguridad, muestra cómo activar el “modo paranoia” de Windows para volver locos a los hackers' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/conexion-televisor-todo-mundo-ignora-pero-esconde-funcion-oculta-superutil-1449563'>La conexión del televisor que todo el mundo ignora, pero que esconde una función oculta superútil</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/conexion-televisor-todo-mundo-ignora-pero-esconde-funcion-oculta-superutil-1449563' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/conexion-televisor-todo-mundo-ignora-pero-esconde-funcion-oculta-superutil-4305728.jpg?tf=1200x' alt='La conexión del televisor que todo el mundo ignora, pero que esconde una función oculta superútil' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-ram-ni-ia-debes-buscar-movil-quieres-te-dure-muchos-anos-1446835'>Ni la RAM ni la IA, esto es lo que debes buscar en un móvil si quieres que te dure muchos años</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ni-ram-ni-ia-debes-buscar-movil-quieres-te-dure-muchos-anos-1446835' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/telefono-movil-piedra-filosofal-4307461.jpg?tf=1200x' alt='Ni la RAM ni la IA, esto es lo que debes buscar en un móvil si quieres que te dure muchos años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/apple-no-pone-nada-facil-pero-puedes-probar-mac-os-aunque-uses-sistema-operativo-diferente-como-windows-1410418'>Apple no lo pone nada fácil, pero así puedes probar mac OS aunque uses un sistema operativo diferente como Windows</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/apple-no-pone-nada-facil-pero-puedes-probar-mac-os-aunque-uses-sistema-operativo-diferente-como-windows-1410418' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/09/comandos-secretos-windows-viejo-portatil-vuelva-funcionar-como-fuera-nuevo-4203735.jpg?tf=1200x' alt='Apple no lo pone nada fácil, pero así puedes probar mac OS aunque uses un sistema operativo diferente como Windows' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-hacen-saltar-alarmas-cualquiera-tarjeta-credito-puede-convertir-dron-arma-guerra-1450572'>Expertos hacen saltar las alarmas: cualquiera con una tarjeta de crédito puede convertir un dron en un arma de guerra</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-hacen-saltar-alarmas-cualquiera-tarjeta-credito-puede-convertir-dron-arma-guerra-1450572' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-hacen-saltar-alarmas-cualquiera-tarjeta-credito-puede-convertir-dron-arma-guerra-4307345.jpg?tf=1200x' alt='Expertos hacen saltar las alarmas: cualquiera con una tarjeta de crédito puede convertir un dron en un arma de guerra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-1451639'>Este es mi truco para recuperar una sesión bloqueada de Windows sin reiniciar ni perder nada</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-1451639' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-4309070.jpg?tf=1200x' alt='Este es mi truco para recuperar una sesión bloqueada de Windows sin reiniciar ni perder nada' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/xai-compra-x-33000-millones-dolares-1451642'>Elon Musk anuncia que xAI ha comprado X por 33.000 millones de dólares</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/xai-compra-x-33000-millones-dolares-1451642' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-anuncia-xai-ha-comprado-x-33000-millones-dolares-4309065.jpg?tf=1200x' alt='Elon Musk anuncia que xAI ha comprado X por 33.000 millones de dólares' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-1451630'>Linux a punto de enfrentarse a uno de los cambios más importantes de su historia: ¿evolución o revolución?</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-1451630' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-4309063.jpg?tf=1200x' alt='Linux a punto de enfrentarse a uno de los cambios más importantes de su historia: ¿evolución o revolución?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/truco-viral-ver-youtube-sin-anuncios-gratis-1451633'>El truco viral para ver YouTube sin anuncios gratis, del que todo el mundo habla</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/truco-viral-ver-youtube-sin-anuncios-gratis-1451633' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/truco-viral-ver-youtube-anuncios-gratis-todo-mundo-habla-4309035.jpg?tf=1200x' alt='El truco viral para ver YouTube sin anuncios gratis, del que todo el mundo habla' />
     </a>
 </div>
 
