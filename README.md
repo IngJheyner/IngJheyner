@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731'>Adiós al asistente de Google en Waze para iPhone tras un año de problemas</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4309181.jpg?tf=1200x' alt='Adiós al asistente de Google en Waze para iPhone tras un año de problemas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718'>Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-meet-4309166.jpg?tf=1200x' alt='Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637'>Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aplicar-cambio-horario-espana-4309059.jpg?tf=1200x' alt='Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-podria-ocultar-teclas-gboard-parecerse-teclado-iphone-1451714'>Google podría ocultar teclas en Gboard para parecerse más al teclado del iPhone</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-podria-ocultar-teclas-gboard-parecerse-teclado-iphone-1451714' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gboard-4309158.jpg?tf=1200x' alt='Google podría ocultar teclas en Gboard para parecerse más al teclado del iPhone' />
     </a>
 </div>
 
