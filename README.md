@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-1451630'>Linux a punto de enfrentarse a uno de los cambios más importantes de su historia: ¿evolución o revolución?</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-1451630' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-punto-enfrentarse-cambios-importantes-historia-evolucion-revolucion-4309063.jpg?tf=1200x' alt='Linux a punto de enfrentarse a uno de los cambios más importantes de su historia: ¿evolución o revolución?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tv/truco-viral-ver-youtube-sin-anuncios-gratis-1451633'>El truco viral para ver YouTube sin anuncios gratis, del que todo el mundo habla</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/truco-viral-ver-youtube-sin-anuncios-gratis-1451633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/truco-viral-ver-youtube-anuncios-gratis-todo-mundo-habla-4309035.jpg?tf=1200x' alt='El truco viral para ver YouTube sin anuncios gratis, del que todo el mundo habla' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772'>Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-1448772' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/studio-ghibli-akira-estas-son-5-mejores-peliculas-animacion-japonesa-critica-4304460.jpg?tf=1200x' alt='Del Studio Ghibli a Akira: estas son las 5 mejores películas de animación japonesa según la crítica' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-141-beta-ya-disponible-ya-permite-jugar-juegos-completos-android-pantalla-coche-1451613'>Android Auto 14.1 beta ya disponible: ya permite jugar juegos completos de Android en la pantalla del coche</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-141-beta-ya-disponible-ya-permite-jugar-juegos-completos-android-pantalla-coche-1451613' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-141-4309032.jpg?tf=1200x' alt='Android Auto 14.1 beta ya disponible: ya permite jugar juegos completos de Android en la pantalla del coche' />
     </a>
 </div>
 
