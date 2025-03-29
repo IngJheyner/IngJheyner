@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/funciones-ocultas-mi-movil-android-ojala-hubiera-conocido-antes-he-estado-perdiendo-tiempo-1450573'>Funciones ocultas de mi móvil Android que ojalá hubiera conocido antes: "He estado perdiendo el tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/funciones-ocultas-mi-movil-android-ojala-hubiera-conocido-antes-he-estado-perdiendo-tiempo-1450573' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funciones-ocultas-mi-movil-android-ojala-hubiera-conocido-antes-he-estado-perdiendo-tiempo-4307351.jpg?tf=1200x' alt='Funciones ocultas de mi móvil Android que ojalá hubiera conocido antes: "He estado perdiendo el tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/carga-120w-potencia-casi-como-consola-pepino-realme-gama-alta-pero-viendo-precio-no-parece-1451653'>Carga a 120W y potencia casi como una consola: este pepino de realme es un gama alta, pero viendo el precio no lo parece</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/carga-120w-potencia-casi-como-consola-pepino-realme-gama-alta-pero-viendo-precio-no-parece-1451653' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-gt-7-pro-5g-4309082.jpg?tf=1200x' alt='Carga a 120W y potencia casi como una consola: este pepino de realme es un gama alta, pero viendo el precio no lo parece' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-genio-supertonto-1448869'>Medio mundo se ríe de Elon Musk: “¿Es posible que un genio también pueda ser supertonto?”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-genio-supertonto-1448869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-motosierra-4308880.jpg?tf=1200x' alt='Medio mundo se ríe de Elon Musk: “¿Es posible que un genio también pueda ser supertonto?”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-1451368'>Vuelve LaLiga, vuelven los bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-1451368' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-4308638.jpg?tf=1200x' alt='Vuelve LaLiga, vuelven los bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/modo-kamikaze-windows-como-funciona-ventajas-peligros-utilizarlo-1447048'>Modo kamikaze de Windows: qué es, cómo funciona, ventajas y peligros de utilizarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/modo-kamikaze-windows-como-funciona-ventajas-peligros-utilizarlo-1447048' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modo-kamikaze-windows-4301709.jpg?tf=1200x' alt='Modo kamikaze de Windows: qué es, cómo funciona, ventajas y peligros de utilizarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/energia/exposicion-universal-osaka-empleados-chalecos-paneles-solares-ventiladores-soportar-calor-1451649'>En la Exposición Universal de Osaka los empleados vestirán chalecos con paneles solares y ventiladores para soportar el calor</a></h4>
-    <a href='https://computerhoy.20minutos.es/energia/exposicion-universal-osaka-empleados-chalecos-paneles-solares-ventiladores-soportar-calor-1451649' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/exposicion-universal-osaka-vestiran-estos-chalecos-paneles-solares-recargan-wereables-4309080.jpg?tf=1200x' alt='En la Exposición Universal de Osaka los empleados vestirán chalecos con paneles solares y ventiladores para soportar el calor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-muestra-como-activar-modo-paranoia-windows-volver-locos-hackers-1449574'>Experto en ciberseguridad, muestra cómo activar el “modo paranoia” de Windows para volver locos a los hackers</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-muestra-como-activar-modo-paranoia-windows-volver-locos-hackers-1449574' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modo-paranoia-windows-11-4305742.jpg?tf=1200x' alt='Experto en ciberseguridad, muestra cómo activar el “modo paranoia” de Windows para volver locos a los hackers' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/conexion-televisor-todo-mundo-ignora-pero-esconde-funcion-oculta-superutil-1449563'>La conexión del televisor que todo el mundo ignora, pero que esconde una función oculta superútil</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/conexion-televisor-todo-mundo-ignora-pero-esconde-funcion-oculta-superutil-1449563' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/conexion-televisor-todo-mundo-ignora-pero-esconde-funcion-oculta-superutil-4305728.jpg?tf=1200x' alt='La conexión del televisor que todo el mundo ignora, pero que esconde una función oculta superútil' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ni-ram-ni-ia-debes-buscar-movil-quieres-te-dure-muchos-anos-1446835'>Ni la RAM ni la IA, esto es lo que debes buscar en un móvil si quieres que te dure muchos años</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ni-ram-ni-ia-debes-buscar-movil-quieres-te-dure-muchos-anos-1446835' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/telefono-movil-piedra-filosofal-4307461.jpg?tf=1200x' alt='Ni la RAM ni la IA, esto es lo que debes buscar en un móvil si quieres que te dure muchos años' />
     </a>
 </div>
 
