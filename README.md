@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/millones-usuarios-dejaran-windows-10-famosa-distro-linux-seguramente-esten-equivocando-1447480'>Millones de usuarios dejarán Windows 10 por esta famosa distro Linux, y seguramente se estén equivocando</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/millones-usuarios-dejaran-windows-10-famosa-distro-linux-seguramente-esten-equivocando-1447480' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/millones-usuarios-dejaran-windows-10-famosa-distro-linux-seguramente-esten-equivocando-4302379.jpg?tf=1200x' alt='Millones de usuarios dejarán Windows 10 por esta famosa distro Linux, y seguramente se estén equivocando' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/motor/accionista-tesla-confirma-sospechas-china-ha-jugado-elon-musk-ha-caido-trampa-1451543'>Accionista de Tesla confirma las sospechas: China se la ha jugado a Elon Musk, ha caído en la trampa</a></h4>
+    <a href='https://computerhoy.20minutos.es/motor/accionista-tesla-confirma-sospechas-china-ha-jugado-elon-musk-ha-caido-trampa-1451543' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4308921.jpg?tf=1200x' alt='Accionista de Tesla confirma las sospechas: China se la ha jugado a Elon Musk, ha caído en la trampa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/microsoft-alerta-chrome-cambia-navegador-antes-sea-tarde-1449141'>Microsoft envía una advertencia a los usuarios de Chrome: cambia de navegador antes de que sea tarde</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/microsoft-alerta-chrome-cambia-navegador-antes-sea-tarde-1449141' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-chrome-4308840.jpg?tf=1200x' alt='Microsoft envía una advertencia a los usuarios de Chrome: cambia de navegador antes de que sea tarde' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/ni-filmin-ni-flixole-plafto-nueva-plataforma-gratuita-peliculas-espanolas-streaming-1451668'>Ni Filmin ni FlixOlé: Plafto es la nueva plataforma gratuita de películas españolas en streaming, creada por el Ministerio de Cultura</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/ni-filmin-ni-flixole-plafto-nueva-plataforma-gratuita-peliculas-espanolas-streaming-1451668' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-movistar-ni-flixole-plafto-nueva-plataforma-gratuita-peliculas-espanolas-streaming-creada-ministerio-cultura-4309083.jpg?tf=1200x' alt='Ni Filmin ni FlixOlé: Plafto es la nueva plataforma gratuita de películas españolas en streaming, creada por el Ministerio de Cultura' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/funciones-ocultas-mi-movil-android-ojala-hubiera-conocido-antes-he-estado-perdiendo-tiempo-1450573'>Funciones ocultas de mi móvil Android que ojalá hubiera conocido antes: "He estado perdiendo el tiempo"</a></h4>
     <a href='https://computerhoy.20minutos.es/android/funciones-ocultas-mi-movil-android-ojala-hubiera-conocido-antes-he-estado-perdiendo-tiempo-1450573' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funciones-ocultas-mi-movil-android-ojala-hubiera-conocido-antes-he-estado-perdiendo-tiempo-4307351.jpg?tf=1200x' alt='Funciones ocultas de mi móvil Android que ojalá hubiera conocido antes: "He estado perdiendo el tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/carga-120w-potencia-casi-como-consola-pepino-realme-gama-alta-pero-viendo-precio-no-parece-1451653'>Carga a 120W y potencia casi como una consola: este pepino de realme es un gama alta, pero viendo el precio no lo parece</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/carga-120w-potencia-casi-como-consola-pepino-realme-gama-alta-pero-viendo-precio-no-parece-1451653' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/realme-gt-7-pro-5g-4309082.jpg?tf=1200x' alt='Carga a 120W y potencia casi como una consola: este pepino de realme es un gama alta, pero viendo el precio no lo parece' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-genio-supertonto-1448869'>Medio mundo se ríe de Elon Musk: “¿Es posible que un genio también pueda ser supertonto?”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-genio-supertonto-1448869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-motosierra-4308880.jpg?tf=1200x' alt='Medio mundo se ríe de Elon Musk: “¿Es posible que un genio también pueda ser supertonto?”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-1451368'>Vuelve LaLiga, vuelven los bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-1451368' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/vuelve-laliga-vuelven-bloqueos-iptv-puedes-comprobar-tiempo-real-te-estan-afectando-4308638.jpg?tf=1200x' alt='Vuelve LaLiga, vuelven los bloqueos a las IPTV: así puedes comprobar en tiempo real si te están afectando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/modo-kamikaze-windows-como-funciona-ventajas-peligros-utilizarlo-1447048'>Modo kamikaze de Windows: qué es, cómo funciona, ventajas y peligros de utilizarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/modo-kamikaze-windows-como-funciona-ventajas-peligros-utilizarlo-1447048' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modo-kamikaze-windows-4301709.jpg?tf=1200x' alt='Modo kamikaze de Windows: qué es, cómo funciona, ventajas y peligros de utilizarlo' />
     </a>
 </div>
 
