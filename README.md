@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-modo-pantalla-completa-funciona-1451736'>Android Auto se actualiza con modo de pantalla completa y así funciona</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-modo-pantalla-completa-funciona-1451736' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-juegos-4309186.jpg?tf=1200x' alt='Android Auto se actualiza con modo de pantalla completa y así funciona' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-cambia-diseno-android-facil-anadir-imagenes-cambiar-cuenta-1451733'>Google Fotos cambia su diseño en Android: más fácil añadir imágenes y cambiar de cuenta</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-fotos-cambia-diseno-android-facil-anadir-imagenes-cambiar-cuenta-1451733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-fotos-4309183.jpg?tf=1200x' alt='Google Fotos cambia su diseño en Android: más fácil añadir imágenes y cambiar de cuenta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/youtube-prueba-nueva-forma-recomendar-videos-funciona-1451732'>YouTube prueba una nueva forma de recomendar vídeos y así funciona</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/youtube-prueba-nueva-forma-recomendar-videos-funciona-1451732' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-4309182.jpg?tf=1200x' alt='YouTube prueba una nueva forma de recomendar vídeos y así funciona' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718'>Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-meet-4309166.jpg?tf=1200x' alt='Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/ocurre-tienes-movil-apagado-durante-cambio-hora-marzo-2025-1451644'>¿Qué ocurre si tienes el móvil apagado durante el cambio de hora de marzo de 2025?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/ocurre-tienes-movil-apagado-durante-cambio-hora-marzo-2025-1451644' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/configuracion-reloj-movil-4309071.jpg?tf=1200x' alt='¿Qué ocurre si tienes el móvil apagado durante el cambio de hora de marzo de 2025?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/adios-caos-futuras-funciones-windows-11-microsoft-crea-indispensable-herramienta-1451716'>Adiós al caos con las futuras funciones de Windows 11: Microsoft crea esta indispensable herramienta</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/adios-caos-futuras-funciones-windows-11-microsoft-crea-indispensable-herramienta-1451716' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4309161.jpg?tf=1200x' alt='Adiós al caos con las futuras funciones de Windows 11: Microsoft crea esta indispensable herramienta' />
     </a>
 </div>
 
