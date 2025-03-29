@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-1451639'>Este es mi truco para recuperar una sesión bloqueada de Windows sin reiniciar ni perder nada</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-1451639' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-4309070.jpg?tf=1200x' alt='Este es mi truco para recuperar una sesión bloqueada de Windows sin reiniciar ni perder nada' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/xai-compra-x-33000-millones-dolares-1451642'>Elon Musk anuncia que xAI ha comprado X por 33.000 millones de dólares</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/xai-compra-x-33000-millones-dolares-1451642' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-anuncia-xai-ha-comprado-x-33000-millones-dolares-4309065.jpg?tf=1200x' alt='Elon Musk anuncia que xAI ha comprado X por 33.000 millones de dólares' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-1451597'>Javier Tebas admite el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-1451597' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-4309055.jpg?tf=1200x' alt='Javier Tebas admite el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618'>Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/iconos-carpetas-windows-11-xp-son-casi-iguales-hay-motivo-detras-1451618' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-xp-4309038.jpg?tf=1200x' alt='Los iconos de carpetas en Windows 11 y XP son casi iguales, y hay un motivo detrás' />
     </a>
 </div>
 
