@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637'>Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aplicar-cambio-horario-espana-4309059.jpg?tf=1200x' alt='Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/google-podria-ocultar-teclas-gboard-parecerse-teclado-iphone-1451714'>Google podría ocultar teclas en Gboard para parecerse más al teclado del iPhone</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/google-podria-ocultar-teclas-gboard-parecerse-teclado-iphone-1451714' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gboard-4309158.jpg?tf=1200x' alt='Google podría ocultar teclas en Gboard para parecerse más al teclado del iPhone' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/xiaomi-tiene-rival-huawei-vende-pulsera-inteligente-muy-top-ademas-no-llega-50-euros-1451664'>Xiaomi tiene rival: Huawei vende una pulsera inteligente muy top que además no llega a 50 euros</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/xiaomi-tiene-rival-huawei-vende-pulsera-inteligente-muy-top-ademas-no-llega-50-euros-1451664' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-band-10-4309152.jpg?tf=1200x' alt='Xiaomi tiene rival: Huawei vende una pulsera inteligente muy top que además no llega a 50 euros' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-singularidad-humano-inteligencia-artificial-1399601'>Experto científico y futurista calcula que el ser humano logrará la singularidad en solo 21 años</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-singularidad-humano-inteligencia-artificial-1399601' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-mitad-persona-mitad-humano-4308887.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano logrará la singularidad en solo 21 años' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-espacio-google-drive-rapidamente-eliminar-archivos-importantes-1447762'>Cómo liberar espacio en Google Drive rápidamente sin eliminar archivos importantes</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-espacio-google-drive-rapidamente-eliminar-archivos-importantes-1447762' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-liberar-espacio-google-drive-rapidamente-eliminar-archivos-importantes-4302834.jpg?tf=1200x' alt='Cómo liberar espacio en Google Drive rápidamente sin eliminar archivos importantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/microsoft-no-quiere-te-instales-windows-11-internet-pero-aun-posible-truco-1451707'>Microsoft no quiere que te instales Windows 11 sin internet, pero aún es posible con este truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/microsoft-no-quiere-te-instales-windows-11-internet-pero-aun-posible-truco-1451707' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-instalacion-windows-11-4309147.jpg?tf=1200x' alt='Microsoft no quiere que te instales Windows 11 sin internet, pero aún es posible con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/adios-listas-iptv-futbol-directo-gratis-cuadernos-jupyter-1425548'>¿Adiós a las listas IPTV? Descubren un nuevo método para transmitir fútbol gratis</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/adios-listas-iptv-futbol-directo-gratis-cuadernos-jupyter-1425548' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ver-futbol-iptv-4308854.jpg?tf=1200x' alt='¿Adiós a las listas IPTV? Descubren un nuevo método para transmitir fútbol gratis' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuenta-atras-usuarios-fitbit-migra-google-dile-adios-datos-1451702'>Cuenta atrás para los usuarios de Fitbit: migra a Google o dile adiós a tus datos</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/cuenta-atras-usuarios-fitbit-migra-google-dile-adios-datos-1451702' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fitbit-4309140.jpg?tf=1200x' alt='Cuenta atrás para los usuarios de Fitbit: migra a Google o dile adiós a tus datos' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/cual-mejor-herramienta-personalizar-windows-explorerpatcher-windhawk-1446754'>Cuál es la mejor herramienta para personalizar Windows: ¿ExplorerPatcher o Windhawk?</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/cual-mejor-herramienta-personalizar-windows-explorerpatcher-windhawk-1446754' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/explorerpatcher-windhawk-4301271.jpg?tf=1200x' alt='Cuál es la mejor herramienta para personalizar Windows: ¿ExplorerPatcher o Windhawk?' />
     </a>
 </div>
 
