@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/cuenta-atras-usuarios-fitbit-migra-google-dile-adios-datos-1451702'>Cuenta atrás para los usuarios de Fitbit: migra a Google o dile adiós a tus datos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/cuenta-atras-usuarios-fitbit-migra-google-dile-adios-datos-1451702' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/fitbit-4309140.jpg?tf=1200x' alt='Cuenta atrás para los usuarios de Fitbit: migra a Google o dile adiós a tus datos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/cual-mejor-herramienta-personalizar-windows-explorerpatcher-windhawk-1446754'>Cuál es la mejor herramienta para personalizar Windows: ¿ExplorerPatcher o Windhawk?</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/cual-mejor-herramienta-personalizar-windows-explorerpatcher-windhawk-1446754' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/explorerpatcher-windhawk-4301271.jpg?tf=1200x' alt='Cuál es la mejor herramienta para personalizar Windows: ¿ExplorerPatcher o Windhawk?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795'>Canadá no teme a Elon Musk: contratos millonarios de Starlink a la basura y aranceles del 100% para los Tesla</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-aranceles-100-tesla-contratos-millonarios-starlink-basura-1446795' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/frontera-canada-llena-coches-tesla-4308852.jpg?tf=1200x' alt='Canadá no teme a Elon Musk: contratos millonarios de Starlink a la basura y aranceles del 100% para los Tesla' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/adios-google-como-poner-chatgpt-como-buscador-defecto-chrome-1447051'>Adiós Google, como poner ChatGPT como buscador por defecto en Chrome</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/adios-google-como-poner-chatgpt-como-buscador-defecto-chrome-1447051' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/adios-google-como-poner-chatgpt-como-buscador-defecto-chrome-4301716.jpg?tf=1200x' alt='Adiós Google, como poner ChatGPT como buscador por defecto en Chrome' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/pc-no-enciende-windows-11-estrena-herramienta-promete-revivirlo-solo-1451689'>¿Tu PC no enciende? Windows 11 estrena una herramienta que promete revivirlo solo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/pc-no-enciende-windows-11-estrena-herramienta-promete-revivirlo-solo-1451689' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/actualizacion-windows-4309112.jpg?tf=1200x' alt='¿Tu PC no enciende? Windows 11 estrena una herramienta que promete revivirlo solo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/toby-walsh-ia-openai-google-meta-robar-1446948'>Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen Google, OpenAI y Meta es robar”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/toby-walsh-ia-openai-google-meta-robar-1446948' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-ia-leyendo-4308843.jpg?tf=1200x' alt='Experto lleva 40 años investigando la IA y lo tiene muy claro: “Lo que hacen Google, OpenAI y Meta es robar”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/millones-usuarios-dejaran-windows-10-famosa-distro-linux-seguramente-esten-equivocando-1447480'>Millones de usuarios dejarán Windows 10 por esta famosa distro Linux, y seguramente se estén equivocando</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/millones-usuarios-dejaran-windows-10-famosa-distro-linux-seguramente-esten-equivocando-1447480' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/millones-usuarios-dejaran-windows-10-famosa-distro-linux-seguramente-esten-equivocando-4302379.jpg?tf=1200x' alt='Millones de usuarios dejarán Windows 10 por esta famosa distro Linux, y seguramente se estén equivocando' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/motor/accionista-tesla-confirma-sospechas-china-ha-jugado-elon-musk-ha-caido-trampa-1451543'>Accionista de Tesla confirma las sospechas: China se la ha jugado a Elon Musk, ha caído en la trampa</a></h4>
-    <a href='https://computerhoy.20minutos.es/motor/accionista-tesla-confirma-sospechas-china-ha-jugado-elon-musk-ha-caido-trampa-1451543' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-4308921.jpg?tf=1200x' alt='Accionista de Tesla confirma las sospechas: China se la ha jugado a Elon Musk, ha caído en la trampa' />
     </a>
 </div>
 
