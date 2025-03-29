@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-hacen-saltar-alarmas-cualquiera-tarjeta-credito-puede-convertir-dron-arma-guerra-1450572'>Expertos hacen saltar las alarmas: cualquiera con una tarjeta de crédito puede convertir un dron en un arma de guerra</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-hacen-saltar-alarmas-cualquiera-tarjeta-credito-puede-convertir-dron-arma-guerra-1450572' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-hacen-saltar-alarmas-cualquiera-tarjeta-credito-puede-convertir-dron-arma-guerra-4307345.jpg?tf=1200x' alt='Expertos hacen saltar las alarmas: cualquiera con una tarjeta de crédito puede convertir un dron en un arma de guerra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-1451639'>Este es mi truco para recuperar una sesión bloqueada de Windows sin reiniciar ni perder nada</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-1451639' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/mi-truco-recuperar-sesion-bloqueada-windows-reiniciar-ni-perder-nada-4309070.jpg?tf=1200x' alt='Este es mi truco para recuperar una sesión bloqueada de Windows sin reiniciar ni perder nada' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/truco-viral-ver-youtube-sin-anuncios-gratis-1451633'>El truco viral para ver YouTube sin anuncios gratis, del que todo el mundo habla</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/truco-viral-ver-youtube-sin-anuncios-gratis-1451633' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/truco-viral-ver-youtube-anuncios-gratis-todo-mundo-habla-4309035.jpg?tf=1200x' alt='El truco viral para ver YouTube sin anuncios gratis, del que todo el mundo habla' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-1451597'>Javier Tebas admite el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-1451597' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-admite-punto-debil-bloqueos-iptv-laliga-sistema-no-detecta-4309055.jpg?tf=1200x' alt='Javier Tebas admite el punto débil de los bloqueos a las IPTV de LaLiga: "Nuestro sistema no lo detecta"' />
     </a>
 </div>
 
