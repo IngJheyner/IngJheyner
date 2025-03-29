@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/ocurre-tienes-movil-apagado-durante-cambio-hora-marzo-2025-1451644'>¿Qué ocurre si tienes el móvil apagado durante el cambio de hora de marzo de 2025?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/ocurre-tienes-movil-apagado-durante-cambio-hora-marzo-2025-1451644' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/configuracion-reloj-movil-4309071.jpg?tf=1200x' alt='¿Qué ocurre si tienes el móvil apagado durante el cambio de hora de marzo de 2025?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/adios-caos-futuras-funciones-windows-11-microsoft-crea-indispensable-herramienta-1451716'>Adiós al caos con las futuras funciones de Windows 11: Microsoft crea esta indispensable herramienta</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/adios-caos-futuras-funciones-windows-11-microsoft-crea-indispensable-herramienta-1451716' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-11-4309161.jpg?tf=1200x' alt='Adiós al caos con las futuras funciones de Windows 11: Microsoft crea esta indispensable herramienta' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637'>Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/como-asegurarte-movil-hara-correctamente-cambio-hora-marzo-2025-1451637' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aplicar-cambio-horario-espana-4309059.jpg?tf=1200x' alt='Cómo asegurarte de que tu móvil hará correctamente el cambio de hora de marzo de 2025' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/xiaomi-tiene-rival-huawei-vende-pulsera-inteligente-muy-top-ademas-no-llega-50-euros-1451664'>Xiaomi tiene rival: Huawei vende una pulsera inteligente muy top que además no llega a 50 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/xiaomi-tiene-rival-huawei-vende-pulsera-inteligente-muy-top-ademas-no-llega-50-euros-1451664' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/huawei-band-10-4309152.jpg?tf=1200x' alt='Xiaomi tiene rival: Huawei vende una pulsera inteligente muy top que además no llega a 50 euros' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-singularidad-humano-inteligencia-artificial-1399601'>Experto científico y futurista calcula que el ser humano logrará la singularidad en solo 21 años</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ray-kurzweil-cientifico-fecha-singularidad-humano-inteligencia-artificial-1399601' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-mitad-persona-mitad-humano-4308887.jpg?tf=1200x' alt='Experto científico y futurista calcula que el ser humano logrará la singularidad en solo 21 años' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-espacio-google-drive-rapidamente-eliminar-archivos-importantes-1447762'>Cómo liberar espacio en Google Drive rápidamente sin eliminar archivos importantes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/como-liberar-espacio-google-drive-rapidamente-eliminar-archivos-importantes-1447762' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/como-liberar-espacio-google-drive-rapidamente-eliminar-archivos-importantes-4302834.jpg?tf=1200x' alt='Cómo liberar espacio en Google Drive rápidamente sin eliminar archivos importantes' />
     </a>
 </div>
 
