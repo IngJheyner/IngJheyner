@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-1450110'>Le preguntamos a la IA su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, ya será demasiado tarde"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-1450110' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-4306680.jpg?tf=1200x' alt='Le preguntamos a la IA su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, ya será demasiado tarde"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-modo-pantalla-completa-funciona-1451736'>Android Auto se actualiza con modo de pantalla completa y así funciona</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-modo-pantalla-completa-funciona-1451736' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-juegos-4309186.jpg?tf=1200x' alt='Android Auto se actualiza con modo de pantalla completa y así funciona' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731'>Adiós al asistente de Google en Waze para iPhone tras un año de problemas</a></h4>
     <a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4309181.jpg?tf=1200x' alt='Adiós al asistente de Google en Waze para iPhone tras un año de problemas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718'>Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-meet-actualiza-ia-te-ayudara-lucir-mejor-videollamadas-1451718' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-meet-4309166.jpg?tf=1200x' alt='Google Meet se actualiza con IA: así te ayudará a lucir mejor en las videollamadas' />
     </a>
 </div>
 
