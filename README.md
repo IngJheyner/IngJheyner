@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-1449839'>Experto en ciberseguridad alerta sobre las estafas con las capturas de pantalla: "Es peligrosamente fácil"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-1449839' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-4306187.jpg?tf=1200x' alt='Experto en ciberseguridad alerta sobre las estafas con las capturas de pantalla: "Es peligrosamente fácil"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/nvidia-lanza-producto-stock-asequible-desayuno-1451745'>Nvidia lanza un producto en stock, asequible, y a su precio de venta, pero no es lo que esperas</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/nvidia-lanza-producto-stock-asequible-desayuno-1451745' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nvidia-lanza-producto-stock-asequible-precio-venta-pero-no-esperas-4309210.jpg?tf=1200x' alt='Nvidia lanza un producto en stock, asequible, y a su precio de venta, pero no es lo que esperas' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-1448041'>Ni móviles ni relojes, para Bill Gates este es el dispositivo con IA que cambiará nuestras vidas: "Todos tendremos uno"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-1448041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-4303250.jpg?tf=1200x' alt='Ni móviles ni relojes, para Bill Gates este es el dispositivo con IA que cambiará nuestras vidas: "Todos tendremos uno"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/moviles/sistema-optico-modular-promete-cambiar-fotografia-movil-1447733'>¿Qué es un sistema óptico modular y por qué promete cambiar la fotografía móvil?</a></h4>
     <a href='https://computerhoy.20minutos.es/moviles/sistema-optico-modular-promete-cambiar-fotografia-movil-1447733' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sistema-optico-modular-xiaomi-mwc-2025-4308367.jpg?tf=1200x' alt='¿Qué es un sistema óptico modular y por qué promete cambiar la fotografía móvil?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-watch-s4-reloj-premium-he-probado-hace-mucho-tiempo-no-tan-caro-1451535'>El Xiaomi Watch S4 es el reloj más premium que he probado desde hace mucho tiempo, y no es tan caro</a></h4>
-    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-watch-s4-reloj-premium-he-probado-hace-mucho-tiempo-no-tan-caro-1451535' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-watch-s4-4308930.jpg?tf=1200x' alt='El Xiaomi Watch S4 es el reloj más premium que he probado desde hace mucho tiempo, y no es tan caro' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-1450110'>Le preguntamos a la IA su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, ya será demasiado tarde"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-1450110' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-4306680.jpg?tf=1200x' alt='Le preguntamos a la IA su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, ya será demasiado tarde"' />
     </a>
 </div>
 
