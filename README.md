@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808'>Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "ha hecho cosas significantes"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nombra-tres-personas-inteligentes-ha-conocido-dos-ellas-son-archienemigos-4309351.jpg?tf=1200x' alt='Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "ha hecho cosas significantes"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-australianos-italianos-recrear-rostro-santa-teresa-jesus-1451806'>Expertos australianos e italianos recrear el rostro de Santa Teresa de Jesús, tras abrir el sepulcro para escanear sus restos</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/expertos-australianos-italianos-recrear-rostro-santa-teresa-jesus-1451806' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-australianos-italianos-recrear-rostro-santa-teresa-jesus-abrir-sepulcro-escanearlo-4309349.jpg?tf=1200x' alt='Expertos australianos e italianos recrear el rostro de Santa Teresa de Jesús, tras abrir el sepulcro para escanear sus restos' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-amenaza-rae-denunciarla-compartes-ip-pirateria-1451799'>Javier Tebas se viene arriba y amenaza a la RAE con denunciarla: "Compartes tu IP con la piratería"</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/javier-tebas-amenaza-rae-denunciarla-compartes-ip-pirateria-1451799' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-viene-arriba-amenaza-rae-denunciarla-compartes-ip-pirateria-4309270.jpg?tf=1200x' alt='Javier Tebas se viene arriba y amenaza a la RAE con denunciarla: "Compartes tu IP con la piratería"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786'>Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pantalla-negra-error-windows-11-4309256.jpg?tf=1200x' alt='Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra' />
     </a>
 </div>
 
