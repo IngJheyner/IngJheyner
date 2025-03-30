@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-amenaza-rae-denunciarla-compartes-ip-pirateria-1451799'>Javier Tebas se viene arriba y amenaza a la RAE con denunciarla: "Compartes tu IP con la piratería"</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-amenaza-rae-denunciarla-compartes-ip-pirateria-1451799' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-viene-arriba-amenaza-rae-denunciarla-compartes-ip-pirateria-4309270.jpg?tf=1200x' alt='Javier Tebas se viene arriba y amenaza a la RAE con denunciarla: "Compartes tu IP con la piratería"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786'>Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pantalla-negra-error-windows-11-4309256.jpg?tf=1200x' alt='Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/modo-antirrobo-android-pocos-conocen-convierte-movil-pisapapeles-valor-1449823'>El modo antirrobo de Android que pocos conocen que convierte tu móvil en un pisapapeles sin valor</a></h4>
     <a href='https://computerhoy.20minutos.es/android/modo-antirrobo-android-pocos-conocen-convierte-movil-pisapapeles-valor-1449823' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modo-antirrobo-android-pocos-conocen-convierte-movil-pisapapeles-valor-4306156.jpg?tf=1200x' alt='El modo antirrobo de Android que pocos conocen que convierte tu móvil en un pisapapeles sin valor' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-revolucion-canonical-ubuntu-dice-adios-siempre-gnu-linux-1450517'>Bombazo y revolución en Linux: Ubuntu que dice adiós para siempre a GNU/Linux</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/linux-revolucion-canonical-ubuntu-dice-adios-siempre-gnu-linux-1450517' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-4307300.jpg?tf=1200x' alt='Bombazo y revolución en Linux: Ubuntu que dice adiós para siempre a GNU/Linux' />
     </a>
 </div>
 
