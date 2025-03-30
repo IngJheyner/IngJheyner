@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-aspiradora-pantalla-te-avisa-mensajes-llamadas-entrantes-1451803'>Samsung lanza una aspiradora con pantalla que te avisa de los mensajes y las llamadas entrantes</a></h4>
+    <a href='https://computerhoy.20minutos.es/hogar/samsung-aspiradora-pantalla-te-avisa-mensajes-llamadas-entrantes-1451803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-lanza-aspirador-pantalla-te-avisa-mensajes-llamadas-entrantes-4309318.jpg?tf=1200x' alt='Samsung lanza una aspiradora con pantalla que te avisa de los mensajes y las llamadas entrantes' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/linux-retro-consola-portatil-bolsillo-precio-increiblemente-1451749'>Linux y retro: esta consola portátil cabe en el bolsillo y su precio es increíblemente bajo</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/linux-retro-consola-portatil-bolsillo-precio-increiblemente-1451749' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/anbernic-rg35xx-h-4309221.jpg?tf=1200x' alt='Linux y retro: esta consola portátil cabe en el bolsillo y su precio es increíblemente bajo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-tesla-fuera-1450035'>Canadá acorrala a Elon Musk: cualquier cosa con el nombre de Tesla, fuera</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-tesla-fuera-1450035' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-canada-4308878.jpg?tf=1200x' alt='Canadá acorrala a Elon Musk: cualquier cosa con el nombre de Tesla, fuera' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-sorprende-gemini-25-pro-ya-gratis-todos-puedes-activarlo-1451778'>Google sorprende con un Gemini 2.5 Pro ya gratis para todos: así puedes activarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/google-sorprende-gemini-25-pro-ya-gratis-todos-puedes-activarlo-1451778' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-25-pro-4309247.jpg?tf=1200x' alt='Google sorprende con un Gemini 2.5 Pro ya gratis para todos: así puedes activarlo' />
     </a>
 </div>
 
