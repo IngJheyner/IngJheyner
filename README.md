@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-1448041'>Ni móviles ni relojes, para Bill Gates este es el dispositivo con IA que cambiará nuestras vidas: "Todos tendremos uno"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-1448041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-4303250.jpg?tf=1200x' alt='Ni móviles ni relojes, para Bill Gates este es el dispositivo con IA que cambiará nuestras vidas: "Todos tendremos uno"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejos-hacker-evitar-te-vacien-cuentas-bancarias-hay-hackeos-todo-tiempo-1449693'>Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/consejos-hacker-evitar-te-vacien-cuentas-bancarias-hay-hackeos-todo-tiempo-1449693' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/consejos-hacker-evitar-vacien-cuentas-bancarias-hay-hackeos-todo-tiempo-4305968.jpg?tf=1200x' alt='Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/moviles/sistema-optico-modular-promete-cambiar-fotografia-movil-1447733'>¿Qué es un sistema óptico modular y por qué promete cambiar la fotografía móvil?</a></h4>
+    <a href='https://computerhoy.20minutos.es/moviles/sistema-optico-modular-promete-cambiar-fotografia-movil-1447733' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sistema-optico-modular-xiaomi-mwc-2025-4308367.jpg?tf=1200x' alt='¿Qué es un sistema óptico modular y por qué promete cambiar la fotografía móvil?' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/analisis/xiaomi-watch-s4-reloj-premium-he-probado-hace-mucho-tiempo-no-tan-caro-1451535'>El Xiaomi Watch S4 es el reloj más premium que he probado desde hace mucho tiempo, y no es tan caro</a></h4>
+    <a href='https://computerhoy.20minutos.es/analisis/xiaomi-watch-s4-reloj-premium-he-probado-hace-mucho-tiempo-no-tan-caro-1451535' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/xiaomi-watch-s4-4308930.jpg?tf=1200x' alt='El Xiaomi Watch S4 es el reloj más premium que he probado desde hace mucho tiempo, y no es tan caro' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-1450110'>Le preguntamos a la IA su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, ya será demasiado tarde"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-1450110' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/preguntamos-ia-plan-esclavizar-ser-humano-respuesta-aterradora-cuando-den-cuenta-ya-sera-demasiado-tarde-4306680.jpg?tf=1200x' alt='Le preguntamos a la IA su plan para esclavizar al ser humano y la respuesta es aterradora: "Cuando se den cuenta, ya será demasiado tarde"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-modo-pantalla-completa-funciona-1451736'>Android Auto se actualiza con modo de pantalla completa y así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/android-auto-actualiza-modo-pantalla-completa-funciona-1451736' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/android-auto-juegos-4309186.jpg?tf=1200x' alt='Android Auto se actualiza con modo de pantalla completa y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/google-fotos-cambia-diseno-android-facil-anadir-imagenes-cambiar-cuenta-1451733'>Google Fotos cambia su diseño en Android: más fácil añadir imágenes y cambiar de cuenta</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/google-fotos-cambia-diseno-android-facil-anadir-imagenes-cambiar-cuenta-1451733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-fotos-4309183.jpg?tf=1200x' alt='Google Fotos cambia su diseño en Android: más fácil añadir imágenes y cambiar de cuenta' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-prueba-nueva-forma-recomendar-videos-funciona-1451732'>YouTube prueba una nueva forma de recomendar vídeos y así funciona</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-prueba-nueva-forma-recomendar-videos-funciona-1451732' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-4309182.jpg?tf=1200x' alt='YouTube prueba una nueva forma de recomendar vídeos y así funciona' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731'>Adiós al asistente de Google en Waze para iPhone tras un año de problemas</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/adios-asistente-google-waze-iphone-ano-problemas-1451731' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/waze-4309181.jpg?tf=1200x' alt='Adiós al asistente de Google en Waze para iPhone tras un año de problemas' />
     </a>
 </div>
 
