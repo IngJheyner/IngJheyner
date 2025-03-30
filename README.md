@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/ni-palo-sistemas-operativos-debes-evitar-tienes-abandonar-windows-10-1447477'>Ni con un palo: sistemas operativos que debes evitar si tienes que abandonar Windows 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/ni-palo-sistemas-operativos-debes-evitar-tienes-abandonar-windows-10-1447477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-palo-sistemas-operativos-debes-evitar-tienes-abandonar-windows-10-4302375.jpg?tf=1200x' alt='Ni con un palo: sistemas operativos que debes evitar si tienes que abandonar Windows 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-aviso-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784'>Aviso importante del FBI para los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-aviso-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/navegadores-web-fbi-4308859.jpg?tf=1200x' alt='Aviso importante del FBI para los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-infalible-predicciones-tecnologicas-nunca-cumplieron-1447421'>Bill Gates no es infalible: sus predicciones tecnológicas que nunca se cumplieron </a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-infalible-predicciones-tecnologicas-nunca-cumplieron-1447421' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/predicciones-tecnologias-bill-gates-4302341.jpg?tf=1200x' alt='Bill Gates no es infalible: sus predicciones tecnológicas que nunca se cumplieron ' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-aprender-programar-1445288'>Bjarne Stroustrup, creador de C++, aconseja a los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-aprender-programar-1445288' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-4298523.jpg?tf=1200x' alt='Bjarne Stroustrup, creador de C++, aconseja a los futuros programadores: "No puedes aprender a programar por internet"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-1449839'>Experto en ciberseguridad alerta sobre las estafas con las capturas de pantalla: "Es peligrosamente fácil"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-1449839' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-4306187.jpg?tf=1200x' alt='Experto en ciberseguridad alerta sobre las estafas con las capturas de pantalla: "Es peligrosamente fácil"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/nvidia-lanza-producto-stock-asequible-desayuno-1451745'>Nvidia lanza un producto en stock, asequible, y a su precio de venta, pero no es lo que esperas</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/nvidia-lanza-producto-stock-asequible-desayuno-1451745' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nvidia-lanza-producto-stock-asequible-precio-venta-pero-no-esperas-4309210.jpg?tf=1200x' alt='Nvidia lanza un producto en stock, asequible, y a su precio de venta, pero no es lo que esperas' />
     </a>
 </div>
 
