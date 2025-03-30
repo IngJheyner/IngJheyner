@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/expertos-australianos-italianos-recrear-rostro-santa-teresa-jesus-1451806'>Expertos australianos e italianos recrear el rostro de Santa Teresa de Jesús, tras abrir el sepulcro para escanear sus restos</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/expertos-australianos-italianos-recrear-rostro-santa-teresa-jesus-1451806' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/expertos-australianos-italianos-recrear-rostro-santa-teresa-jesus-abrir-sepulcro-escanearlo-4309349.jpg?tf=1200x' alt='Expertos australianos e italianos recrear el rostro de Santa Teresa de Jesús, tras abrir el sepulcro para escanear sus restos' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-aspiradora-pantalla-te-avisa-mensajes-llamadas-entrantes-1451803'>Samsung lanza una aspiradora con pantalla que te avisa de los mensajes y las llamadas entrantes</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/samsung-aspiradora-pantalla-te-avisa-mensajes-llamadas-entrantes-1451803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-lanza-aspirador-pantalla-te-avisa-mensajes-llamadas-entrantes-4309318.jpg?tf=1200x' alt='Samsung lanza una aspiradora con pantalla que te avisa de los mensajes y las llamadas entrantes' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786'>Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pantalla-negra-error-windows-11-4309256.jpg?tf=1200x' alt='Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-tesla-fuera-1450035'>Canadá acorrala a Elon Musk: cualquier cosa con el nombre de Tesla, fuera</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-tesla-fuera-1450035' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-canada-4308878.jpg?tf=1200x' alt='Canadá acorrala a Elon Musk: cualquier cosa con el nombre de Tesla, fuera' />
     </a>
 </div>
 
