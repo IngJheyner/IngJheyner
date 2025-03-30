@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-infalible-predicciones-tecnologicas-nunca-cumplieron-1447421'>Bill Gates no es infalible: sus predicciones tecnológicas que nunca se cumplieron </a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bill-gates-no-infalible-predicciones-tecnologicas-nunca-cumplieron-1447421' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/predicciones-tecnologias-bill-gates-4302341.jpg?tf=1200x' alt='Bill Gates no es infalible: sus predicciones tecnológicas que nunca se cumplieron ' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/promesa-deepseek-hace-realidad-pc-permite-instalar-ejecutar-ia-propia-casa-1451729'>La promesa de DeepSeek se hace realidad con este PC: permite instalar y ejecutar la IA en tu propia casa</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/promesa-deepseek-hace-realidad-pc-permite-instalar-ejecutar-ia-propia-casa-1451729' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/npc-ultra-4306829.jpg?tf=1200x' alt='La promesa de DeepSeek se hace realidad con este PC: permite instalar y ejecutar la IA en tu propia casa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-aprender-programar-1445288'>Bjarne Stroustrup, creador de C++, aconseja a los futuros programadores: "No puedes aprender a programar por internet"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/bjarne-stroustrup-aprender-programar-1445288' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/creador-c-tiene-mensaje-futuros-programadores-no-puedes-aprender-programar-internet-4298523.jpg?tf=1200x' alt='Bjarne Stroustrup, creador de C++, aconseja a los futuros programadores: "No puedes aprender a programar por internet"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-1449839'>Experto en ciberseguridad alerta sobre las estafas con las capturas de pantalla: "Es peligrosamente fácil"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-1449839' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-ciberseguridad-alerta-estafas-capturas-pantalla-peligrosamente-facil-4306187.jpg?tf=1200x' alt='Experto en ciberseguridad alerta sobre las estafas con las capturas de pantalla: "Es peligrosamente fácil"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/nvidia-lanza-producto-stock-asequible-desayuno-1451745'>Nvidia lanza un producto en stock, asequible, y a su precio de venta, pero no es lo que esperas</a></h4>
     <a href='https://computerhoy.20minutos.es/life/nvidia-lanza-producto-stock-asequible-desayuno-1451745' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nvidia-lanza-producto-stock-asequible-precio-venta-pero-no-esperas-4309210.jpg?tf=1200x' alt='Nvidia lanza un producto en stock, asequible, y a su precio de venta, pero no es lo que esperas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-1448041'>Ni móviles ni relojes, para Bill Gates este es el dispositivo con IA que cambiará nuestras vidas: "Todos tendremos uno"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-1448041' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-moviles-ni-relojes-bill-gates-dispositivo-ia-cambiara-vidas-todos-tendremos-4303250.jpg?tf=1200x' alt='Ni móviles ni relojes, para Bill Gates este es el dispositivo con IA que cambiará nuestras vidas: "Todos tendremos uno"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/consejos-hacker-evitar-te-vacien-cuentas-bancarias-hay-hackeos-todo-tiempo-1449693'>Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/consejos-hacker-evitar-te-vacien-cuentas-bancarias-hay-hackeos-todo-tiempo-1449693' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/consejos-hacker-evitar-vacien-cuentas-bancarias-hay-hackeos-todo-tiempo-4305968.jpg?tf=1200x' alt='Consejos de un hacker para evitar que te vacíen tus cuentas bancarias: "Hay hackeos todo el tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/moviles/sistema-optico-modular-promete-cambiar-fotografia-movil-1447733'>¿Qué es un sistema óptico modular y por qué promete cambiar la fotografía móvil?</a></h4>
-    <a href='https://computerhoy.20minutos.es/moviles/sistema-optico-modular-promete-cambiar-fotografia-movil-1447733' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sistema-optico-modular-xiaomi-mwc-2025-4308367.jpg?tf=1200x' alt='¿Qué es un sistema óptico modular y por qué promete cambiar la fotografía móvil?' />
     </a>
 </div>
 
