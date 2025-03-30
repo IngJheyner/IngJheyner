@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-sorprende-gemini-25-pro-ya-gratis-todos-puedes-activarlo-1451778'>Google sorprende con un Gemini 2.5 Pro ya gratis para todos: así puedes activarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/google-sorprende-gemini-25-pro-ya-gratis-todos-puedes-activarlo-1451778' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-25-pro-4309247.jpg?tf=1200x' alt='Google sorprende con un Gemini 2.5 Pro ya gratis para todos: así puedes activarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/modo-antirrobo-android-pocos-conocen-convierte-movil-pisapapeles-valor-1449823'>El modo antirrobo de Android que pocos conocen que convierte tu móvil en un pisapapeles sin valor</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/modo-antirrobo-android-pocos-conocen-convierte-movil-pisapapeles-valor-1449823' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/modo-antirrobo-android-pocos-conocen-convierte-movil-pisapapeles-valor-4306156.jpg?tf=1200x' alt='El modo antirrobo de Android que pocos conocen que convierte tu móvil en un pisapapeles sin valor' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-revolucion-canonical-ubuntu-dice-adios-siempre-gnu-linux-1450517'>Bombazo y revolución en Linux: Ubuntu que dice adiós para siempre a GNU/Linux</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/linux-revolucion-canonical-ubuntu-dice-adios-siempre-gnu-linux-1450517' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-4307300.jpg?tf=1200x' alt='Bombazo y revolución en Linux: Ubuntu que dice adiós para siempre a GNU/Linux' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-medidas-seguridad-google-play-insignias-apps-mayor-lucha-fraude-financiero-1451775'>Nuevas medidas de seguridad en Google Play: insignias para más apps y mayor lucha contra el fraude financiero</a></h4>
+    <a href='https://computerhoy.20minutos.es/apps/nuevas-medidas-seguridad-google-play-insignias-apps-mayor-lucha-fraude-financiero-1451775' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-4309245.jpg?tf=1200x' alt='Nuevas medidas de seguridad en Google Play: insignias para más apps y mayor lucha contra el fraude financiero' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tutoriales/metodo-frenar-actualizaciones-automaticas-windows-11-10-1446803'>Este es el método definitivo para frenar las actualizaciones automáticas en Windows 11 y 10</a></h4>
     <a href='https://computerhoy.20minutos.es/tutoriales/metodo-frenar-actualizaciones-automaticas-windows-11-10-1446803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/revisando-windows-11-4289938.jpg?tf=1200x' alt='Este es el método definitivo para frenar las actualizaciones automáticas en Windows 11 y 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-openai-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477'>Sam Altman acaba con las esperanzas de los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/sam-altman-openai-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-programadores-4308869.jpg?tf=1200x' alt='Sam Altman acaba con las esperanzas de los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-redisena-interfaz-copilot-ahora-parece-chatgpt-1451773'>Microsoft rediseña la interfaz de Copilot: ahora se parece más a ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-redisena-interfaz-copilot-ahora-parece-chatgpt-1451773' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rediseno-copilot-4309244.jpg?tf=1200x' alt='Microsoft rediseña la interfaz de Copilot: ahora se parece más a ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/gaming/senales-memoria-ram-podria-estar-ralentizado-rendimiento-pc-gaming-1447101'>Señales de que la memoria RAM podría estar ralentizado el rendimiento de tu PC Gaming</a></h4>
-    <a href='https://computerhoy.20minutos.es/gaming/senales-memoria-ram-podria-estar-ralentizado-rendimiento-pc-gaming-1447101' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-rendimiento-ram-pc-4301783.jpg?tf=1200x' alt='Señales de que la memoria RAM podría estar ralentizado el rendimiento de tu PC Gaming' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685'>Experto en IA afirma que Elon Musk y Sam Altman están equivocados: "Puede perder el control y ser una amenaza"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-inteligencia-artificial-4308864.jpg?tf=1200x' alt='Experto en IA afirma que Elon Musk y Sam Altman están equivocados: "Puede perder el control y ser una amenaza"' />
     </a>
 </div>
 
