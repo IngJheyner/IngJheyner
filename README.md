@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786'>Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/olvidate-temida-pantalla-azul-muerte-windows-11-microsoft-quiere-sea-negra-1451786' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pantalla-negra-error-windows-11-4309256.jpg?tf=1200x' alt='Olvídate de la temida pantalla azul de la muerte en Windows 11: Microsoft quiere que sea negra' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-tesla-fuera-1450035'>Canadá acorrala a Elon Musk: cualquier cosa con el nombre de Tesla, fuera</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/canada-contra-elon-musk-tesla-fuera-1450035' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-canada-4308878.jpg?tf=1200x' alt='Canadá acorrala a Elon Musk: cualquier cosa con el nombre de Tesla, fuera' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/google-sorprende-gemini-25-pro-ya-gratis-todos-puedes-activarlo-1451778'>Google sorprende con un Gemini 2.5 Pro ya gratis para todos: así puedes activarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/google-sorprende-gemini-25-pro-ya-gratis-todos-puedes-activarlo-1451778' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/gemini-25-pro-4309247.jpg?tf=1200x' alt='Google sorprende con un Gemini 2.5 Pro ya gratis para todos: así puedes activarlo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/linux-revolucion-canonical-ubuntu-dice-adios-siempre-gnu-linux-1450517'>Bombazo y revolución en Linux: Ubuntu que dice adiós para siempre a GNU/Linux</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/linux-revolucion-canonical-ubuntu-dice-adios-siempre-gnu-linux-1450517' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/giro-180-grados-linux-revolucion-ubuntu-dice-adios-siempre-gnu-linux-4307300.jpg?tf=1200x' alt='Bombazo y revolución en Linux: Ubuntu que dice adiós para siempre a GNU/Linux' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/nuevas-medidas-seguridad-google-play-insignias-apps-mayor-lucha-fraude-financiero-1451775'>Nuevas medidas de seguridad en Google Play: insignias para más apps y mayor lucha contra el fraude financiero</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/nuevas-medidas-seguridad-google-play-insignias-apps-mayor-lucha-fraude-financiero-1451775' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/google-play-4309245.jpg?tf=1200x' alt='Nuevas medidas de seguridad en Google Play: insignias para más apps y mayor lucha contra el fraude financiero' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/metodo-frenar-actualizaciones-automaticas-windows-11-10-1446803'>Este es el método definitivo para frenar las actualizaciones automáticas en Windows 11 y 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/metodo-frenar-actualizaciones-automaticas-windows-11-10-1446803' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/revisando-windows-11-4289938.jpg?tf=1200x' alt='Este es el método definitivo para frenar las actualizaciones automáticas en Windows 11 y 10' />
     </a>
 </div>
 
