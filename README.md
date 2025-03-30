@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/metodo-frenar-actualizaciones-automaticas-windows-11-10-1446803'>Este es el método definitivo para frenar las actualizaciones automáticas en Windows 11 y 10</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/metodo-frenar-actualizaciones-automaticas-windows-11-10-1446803' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/revisando-windows-11-4289938.jpg?tf=1200x' alt='Este es el método definitivo para frenar las actualizaciones automáticas en Windows 11 y 10' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/life/sam-altman-openai-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477'>Sam Altman acaba con las esperanzas de los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/sam-altman-openai-programadores-python-c-javascript-solo-necesitamos-poco-tiempo-1450477' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-programadores-4308869.jpg?tf=1200x' alt='Sam Altman acaba con las esperanzas de los programadores de Python, C o JavaScript: "Solo necesitamos un poco más de tiempo"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/microsoft-redisena-interfaz-copilot-ahora-parece-chatgpt-1451773'>Microsoft rediseña la interfaz de Copilot: ahora se parece más a ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/microsoft-redisena-interfaz-copilot-ahora-parece-chatgpt-1451773' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/rediseno-copilot-4309244.jpg?tf=1200x' alt='Microsoft rediseña la interfaz de Copilot: ahora se parece más a ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/gaming/senales-memoria-ram-podria-estar-ralentizado-rendimiento-pc-gaming-1447101'>Señales de que la memoria RAM podría estar ralentizado el rendimiento de tu PC Gaming</a></h4>
     <a href='https://computerhoy.20minutos.es/gaming/senales-memoria-ram-podria-estar-ralentizado-rendimiento-pc-gaming-1447101' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/problemas-rendimiento-ram-pc-4301783.jpg?tf=1200x' alt='Señales de que la memoria RAM podría estar ralentizado el rendimiento de tu PC Gaming' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685'>Experto en IA afirma que Elon Musk y Sam Altman están equivocados: "Puede perder el control y ser una amenaza"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chris-sestito-inteligencia-artificial-sam-altman-elon-musk-amenaza-1446685' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/robot-inteligencia-artificial-4308864.jpg?tf=1200x' alt='Experto en IA afirma que Elon Musk y Sam Altman están equivocados: "Puede perder el control y ser una amenaza"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/youtube-prueba-notificaciones-inteligentes-canales-suscritos-vas-agradecer-1451768'>YouTube prueba notificaciones inteligentes para tus canales suscritos y lo vas a agradecer</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/youtube-prueba-notificaciones-inteligentes-canales-suscritos-vas-agradecer-1451768' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/youtube-notificaciones-4309238.jpg?tf=1200x' alt='YouTube prueba notificaciones inteligentes para tus canales suscritos y lo vas a agradecer' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/ni-palo-sistemas-operativos-debes-evitar-tienes-abandonar-windows-10-1447477'>Ni con un palo: sistemas operativos que debes evitar si tienes que abandonar Windows 10</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/ni-palo-sistemas-operativos-debes-evitar-tienes-abandonar-windows-10-1447477' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ni-palo-sistemas-operativos-debes-evitar-tienes-abandonar-windows-10-4302375.jpg?tf=1200x' alt='Ni con un palo: sistemas operativos que debes evitar si tienes que abandonar Windows 10' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-aviso-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784'>Aviso importante del FBI para los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciberseguridad/fbi-aviso-usuarios-chrome-safari-edge-jamas-utilices-estas-paginas-web-1449784' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/navegadores-web-fbi-4308859.jpg?tf=1200x' alt='Aviso importante del FBI para los usuarios de Chrome, Safari o Edge: jamás utilices estas páginas web' />
     </a>
 </div>
 
