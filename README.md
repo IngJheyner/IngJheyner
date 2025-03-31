@@ -50,9 +50,9 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808'>Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "ha hecho cosas significantes"</a></h4>
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808'>Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "Ha hecho cosas significantes"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nombra-tres-personas-inteligentes-ha-conocido-dos-ellas-son-archienemigos-4309351.jpg?tf=1200x' alt='Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "ha hecho cosas significantes"' />
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nombra-tres-personas-inteligentes-ha-conocido-dos-ellas-son-archienemigos-4309351.jpg?tf=1200x' alt='Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "Ha hecho cosas significantes"' />
     </a>
 </div>
 
