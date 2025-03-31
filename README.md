@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/internet/netflix-llega-tarifas-o2-cambia-todo-1452049'>Netflix llega a las tarifas de O2, y lo cambia todo</a></h4>
+    <a href='https://computerhoy.20minutos.es/internet/netflix-llega-tarifas-o2-cambia-todo-1452049' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-llega-tarifas-o2-cambia-todo-4309707.jpg?tf=1200x' alt='Netflix llega a las tarifas de O2, y lo cambia todo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/descubren-biblioteca-secreta-sombra-entrenar-inteligencia-artificial-1452045'>Descubren una biblioteca secreta en la sombra para entrenar a la inteligencia artificial</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/descubren-biblioteca-secreta-sombra-entrenar-inteligencia-artificial-1452045' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4309717.jpg?tf=1200x' alt='Descubren una biblioteca secreta en la sombra para entrenar a la inteligencia artificial' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/windows/alerta-calendario-windows-10-deja-funcionar-correctamente-puedes-solucionarlo-1452038'>¡Alerta! El calendario de Windows 10 deja de funcionar correctamente y así puedes solucionarlo</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/alerta-calendario-windows-10-deja-funcionar-correctamente-puedes-solucionarlo-1452038' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reloj-windows-4309708.jpg?tf=1200x' alt='¡Alerta! El calendario de Windows 10 deja de funcionar correctamente y así puedes solucionarlo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-1451818'>Nadie lo esperaba, pero arrasa en Prime Video la película que trae de vuelta a una de las estrellas olvidadas de los 90</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-1451818' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-4309366.jpg?tf=1200x' alt='Nadie lo esperaba, pero arrasa en Prime Video la película que trae de vuelta a una de las estrellas olvidadas de los 90' />
     </a>
 </div>
 
