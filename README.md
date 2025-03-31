@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/problema-hackers-eludir-seguridad-windows-defender-1451965'>Tenemos un problema: hackers consigue eludir la seguridad de Windows Defender</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/problema-hackers-eludir-seguridad-windows-defender-1451965' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-entra-windows-defender-4309548.jpg?tf=1200x' alt='Tenemos un problema: hackers consigue eludir la seguridad de Windows Defender' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reconoce-haberse-confundido-hablar-ia-no-cuestion-supervivencia-1451840'>Sam Altman reconoce haberse confundido al hablar de la IA: "No es una cuestión de supervivencia"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reconoce-haberse-confundido-hablar-ia-no-cuestion-supervivencia-1451840' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-reconoce-haberse-confundido-hablar-ia-no-cuestion-supervivencia-4309388.jpg?tf=1200x' alt='Sam Altman reconoce haberse confundido al hablar de la IA: "No es una cuestión de supervivencia"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-solo-imagenes-estilo-estudio-ghibli-tambien-puedes-crear-videos-gratis-truco-1451908'>ChatGPT: no solo imágenes estilo Estudio Ghibli, también puedes crear vídeos gratis con este truco</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-solo-imagenes-estilo-estudio-ghibli-tambien-puedes-crear-videos-gratis-truco-1451908' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/video-chatgpt-4309497.jpg?tf=1200x' alt='ChatGPT: no solo imágenes estilo Estudio Ghibli, también puedes crear vídeos gratis con este truco' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-reparte-cheques-gigantes-1-millon-dolares-asegura-podria-afectar-todo-destino-humanidad-1451897'>Elon Musk reparte cheques gigantes de 1 millón de dólares y asegura que "podría afectar a todo el destino de la humanidad"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-reparte-cheques-gigantes-1-millon-dolares-asegura-podria-afectar-todo-destino-humanidad-1451897' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-entrega-cheque-millon-dolares-4309480.jpg?tf=1200x' alt='Elon Musk reparte cheques gigantes de 1 millón de dólares y asegura que "podría afectar a todo el destino de la humanidad"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jon-hernandez-experto-ia-puede-traer-gran-progreso-humanidad-pero-tambien-posible-aniquilacion-1451887'>Jon Hernández, experto en IA: "Puede traer un gran progreso para la humanidad, pero también su posible aniquilación"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/jon-hernandez-experto-ia-puede-traer-gran-progreso-humanidad-pero-tambien-posible-aniquilacion-1451887' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-ia-4309469.jpg?tf=1200x' alt='Jon Hernández, experto en IA: "Puede traer un gran progreso para la humanidad, pero también su posible aniquilación"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/coca-cola-revoluciona-japon-primera-maquina-expendedora-usa-cartuchos-hidrogeno-no-necesita-enchufes-1451857'>Coca-Cola revoluciona Japón con la primera máquina expendedora que usa cartuchos de hidrógeno y no necesita enchufes</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/coca-cola-revoluciona-japon-primera-maquina-expendedora-usa-cartuchos-hidrogeno-no-necesita-enchufes-1451857' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coca-cola-4309432.jpg?tf=1200x' alt='Coca-Cola revoluciona Japón con la primera máquina expendedora que usa cartuchos de hidrógeno y no necesita enchufes' />
     </a>
 </div>
 
