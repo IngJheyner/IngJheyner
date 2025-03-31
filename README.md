@@ -50,6 +50,30 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021'>Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tv-stick-4309674.jpg?tf=1200x' alt='Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/windows/alerta-calendario-windows-10-deja-funcionar-correctamente-puedes-solucionarlo-1452038'>¡Alerta! El calendario de Windows 10 deja de funcionar correctamente y así puedes solucionarlo</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/alerta-calendario-windows-10-deja-funcionar-correctamente-puedes-solucionarlo-1452038' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reloj-windows-4309708.jpg?tf=1200x' alt='¡Alerta! El calendario de Windows 10 deja de funcionar correctamente y así puedes solucionarlo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-1451818'>Nadie lo esperaba, pero arrasa en Prime Video la película que trae de vuelta a una de las estrellas olvidadas de los 90</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-1451818' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-4309366.jpg?tf=1200x' alt='Nadie lo esperaba, pero arrasa en Prime Video la película que trae de vuelta a una de las estrellas olvidadas de los 90' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-1451985'>Aseguran que Elon Musk ha robado el nombre Grok: "¿Te ha comprado Elon? ¡Felicidades!"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-1451985' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-4309683.jpg?tf=1200x' alt='Aseguran que Elon Musk ha robado el nombre Grok: "¿Te ha comprado Elon? ¡Felicidades!"' />
@@ -61,30 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815'>Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-4309363.jpg?tf=1200x' alt='Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-meta-ia-circulo-azul-whatsapp-prefiriendo-chatgpt-1451987'>He probado a fondo Meta IA, el círculo azul de WhatsApp, y sigo prefiriendo ChatGPT</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-meta-ia-circulo-azul-whatsapp-prefiriendo-chatgpt-1451987' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metaai-whatsapp-4309624.jpg?tf=1200x' alt='He probado a fondo Meta IA, el círculo azul de WhatsApp, y sigo prefiriendo ChatGPT' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-1451904'>La IA de Anthropic ha aprendido cosas inesperadas, el CEO ha asegurado que por fin entienden el motivo</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-1451904' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-4309475.jpg?tf=1200x' alt='La IA de Anthropic ha aprendido cosas inesperadas, el CEO ha asegurado que por fin entienden el motivo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915'>Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-4309500.jpg?tf=1200x' alt='Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli' />
     </a>
 </div>
 
