@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-ia-alertan-inminente-peligro-estamos-camino-equivocado-1451889'>Investigadores de la IA alertan de un inminente peligro: "Estamos en el camino equivocado"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-ia-alertan-inminente-peligro-estamos-camino-equivocado-1451889' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-poblacion-3705392.jpg?tf=1200x' alt='Investigadores de la IA alertan de un inminente peligro: "Estamos en el camino equivocado"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-solo-imagenes-estilo-estudio-ghibli-tambien-puedes-crear-videos-gratis-truco-1451908'>ChatGPT: no solo imágenes estilo Estudio Ghibli, también puedes crear vídeos gratis con este truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-solo-imagenes-estilo-estudio-ghibli-tambien-puedes-crear-videos-gratis-truco-1451908' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/video-chatgpt-4309497.jpg?tf=1200x' alt='ChatGPT: no solo imágenes estilo Estudio Ghibli, también puedes crear vídeos gratis con este truco' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-sony-estas-gafas-vr-son-potentes-puedes-usar-pc-1451905'>Ni Meta ni Sony: estas gafas VR son las más potentes que puedes usar sin PC</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-sony-estas-gafas-vr-son-potentes-puedes-usar-pc-1451905' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pico-4-ultra-4301612.jpg?tf=1200x' alt='Ni Meta ni Sony: estas gafas VR son las más potentes que puedes usar sin PC' />
+    <h4><a href='https://computerhoy.20minutos.es/windows/ya-tenemos-nuevo-truco-omitir-crear-cuenta-microsoft-instalar-windows-11-1451935'>Ya tenemos nuevo truco para omitir crear una cuenta de Microsoft para instalar Windows 11</a></h4>
+    <a href='https://computerhoy.20minutos.es/windows/ya-tenemos-nuevo-truco-omitir-crear-cuenta-microsoft-instalar-windows-11-1451935' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-iniciar-sesion-windows-11-4309510.jpg?tf=1200x' alt='Ya tenemos nuevo truco para omitir crear una cuenta de Microsoft para instalar Windows 11' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/destapa-verdad-despido-sam-altman-openai-tienes-tomartelo-serio-1451888'>Se destapa la verdad sobre el despido de Sam Altman de OpenAI: "Tienes que tomártelo más en serio"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/destapa-verdad-despido-sam-altman-openai-tienes-tomartelo-serio-1451888' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despido-sam-altman-openai-4309433.jpg?tf=1200x' alt='Se destapa la verdad sobre el despido de Sam Altman de OpenAI: "Tienes que tomártelo más en serio"' />
+    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-reparte-cheques-gigantes-1-millon-dolares-asegura-podria-afectar-todo-destino-humanidad-1451897'>Elon Musk reparte cheques gigantes de 1 millón de dólares y asegura que "podría afectar a todo el destino de la humanidad"</a></h4>
+    <a href='https://computerhoy.20minutos.es/life/elon-musk-reparte-cheques-gigantes-1-millon-dolares-asegura-podria-afectar-todo-destino-humanidad-1451897' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-entrega-cheque-millon-dolares-4309480.jpg?tf=1200x' alt='Elon Musk reparte cheques gigantes de 1 millón de dólares y asegura que "podría afectar a todo el destino de la humanidad"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-serio-problema-ia-parece-no-sabe-solucionarlo-algo-podrido-cupertino-1451899'>Apple tiene un serio problema con la IA, y parece que no sabe solucionarlo: "Algo está podrido en Cupertino"</a></h4>
-    <a href='https://computerhoy.20minutos.es/apple/apple-tiene-serio-problema-ia-parece-no-sabe-solucionarlo-algo-podrido-cupertino-1451899' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple tiene un serio problema con la IA, y parece que no sabe solucionarlo: "Algo está podrido en Cupertino"' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/jon-hernandez-experto-ia-puede-traer-gran-progreso-humanidad-pero-tambien-posible-aniquilacion-1451887'>Jon Hernández, experto en IA: "Puede traer un gran progreso para la humanidad, pero también su posible aniquilación"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/jon-hernandez-experto-ia-puede-traer-gran-progreso-humanidad-pero-tambien-posible-aniquilacion-1451887' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-ia-4309469.jpg?tf=1200x' alt='Jon Hernández, experto en IA: "Puede traer un gran progreso para la humanidad, pero también su posible aniquilación"' />
     </a>
 </div>
 
 
 <div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tv/nuevos-cambios-tdt-ya-emite-primer-canal-autonomico-4k-1451864'>Nuevos cambios en la TDT: ya emite el primer canal autonómico en 4K</a></h4>
-    <a href='https://computerhoy.20minutos.es/tv/nuevos-cambios-tdt-ya-emite-primer-canal-autonomico-4k-1451864' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-4k-4309466.jpg?tf=1200x' alt='Nuevos cambios en la TDT: ya emite el primer canal autonómico en 4K' />
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/coca-cola-revoluciona-japon-primera-maquina-expendedora-usa-cartuchos-hidrogeno-no-necesita-enchufes-1451857'>Coca-Cola revoluciona Japón con la primera máquina expendedora que usa cartuchos de hidrógeno y no necesita enchufes</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/coca-cola-revoluciona-japon-primera-maquina-expendedora-usa-cartuchos-hidrogeno-no-necesita-enchufes-1451857' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/coca-cola-4309432.jpg?tf=1200x' alt='Coca-Cola revoluciona Japón con la primera máquina expendedora que usa cartuchos de hidrógeno y no necesita enchufes' />
     </a>
 </div>
 
