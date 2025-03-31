@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-serio-problema-ia-parece-no-sabe-solucionarlo-algo-podrido-cupertino-1451899'>Apple tiene un serio problema con la IA, y parece que no sabe solucionarlo: "Algo está podrido en Cupertino"</a></h4>
+    <a href='https://computerhoy.20minutos.es/apple/apple-tiene-serio-problema-ia-parece-no-sabe-solucionarlo-algo-podrido-cupertino-1451899' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple tiene un serio problema con la IA, y parece que no sabe solucionarlo: "Algo está podrido en Cupertino"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tv/nuevos-cambios-tdt-ya-emite-primer-canal-autonomico-4k-1451864'>Nuevos cambios en la TDT: ya emite el primer canal autonómico en 4K</a></h4>
+    <a href='https://computerhoy.20minutos.es/tv/nuevos-cambios-tdt-ya-emite-primer-canal-autonomico-4k-1451864' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-4k-4309466.jpg?tf=1200x' alt='Nuevos cambios en la TDT: ya emite el primer canal autonómico en 4K' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851'>La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hija-elon-musk-4309424.jpg?tf=1200x' alt='La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850'>¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-alienigena-4309407.jpg?tf=1200x' alt='¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ceo-tesla-advierte-ia-no-podemos-crear-algo-no-podamos-apagar-1451836'>Elon Musk, CEO de Tesla, advierte sobre la IA: "No podemos crear algo que no podamos apagar"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ceo-tesla-advierte-ia-no-podemos-crear-algo-no-podamos-apagar-1451836' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quien-lidera-departamento-eficiencia-gubernamental-doge-4295298.jpg?tf=1200x' alt='Elon Musk, CEO de Tesla, advierte sobre la IA: "No podemos crear algo que no podamos apagar"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610'>Cómo saber si una app de la Play Store de Google es fiable y no contiene malware</a></h4>
-    <a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Cómo saber si una app de la Play Store de Google es fiable y no contiene malware' />
     </a>
 </div>
 
