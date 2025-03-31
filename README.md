@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/union-europea-vpn-suponen-desafio-aplicar-ley-1452057'>La Unión Europea va a por las VPN: "Suponen un desafío para aplicar la ley"</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/union-europea-vpn-suponen-desafio-aplicar-ley-1452057' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-va-vpn-suponen-desafio-aplicar-ley-4309735.jpg?tf=1200x' alt='La Unión Europea va a por las VPN: "Suponen un desafío para aplicar la ley"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/internet/netflix-llega-tarifas-o2-cambia-todo-1452049'>Netflix llega a las tarifas de O2, y lo cambia todo</a></h4>
     <a href='https://computerhoy.20minutos.es/internet/netflix-llega-tarifas-o2-cambia-todo-1452049' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/netflix-llega-tarifas-o2-cambia-todo-4309707.jpg?tf=1200x' alt='Netflix llega a las tarifas de O2, y lo cambia todo' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021'>Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tv-stick-4309674.jpg?tf=1200x' alt='Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/alerta-calendario-windows-10-deja-funcionar-correctamente-puedes-solucionarlo-1452038'>¡Alerta! El calendario de Windows 10 deja de funcionar correctamente y así puedes solucionarlo</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/alerta-calendario-windows-10-deja-funcionar-correctamente-puedes-solucionarlo-1452038' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/reloj-windows-4309708.jpg?tf=1200x' alt='¡Alerta! El calendario de Windows 10 deja de funcionar correctamente y así puedes solucionarlo' />
     </a>
 </div>
 
