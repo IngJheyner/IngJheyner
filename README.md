@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851'>La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hija-elon-musk-4309424.jpg?tf=1200x' alt='La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-sos-desesperado-usuarios-chatgpt-podrian-tranquilizarse-necesitan-dormir-1451853'>Sam Altman lanza un SOS desesperado a los usuarios de ChatGPT: "Podrían tranquilizarse, necesitan dormir"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-sos-desesperado-usuarios-chatgpt-podrian-tranquilizarse-necesitan-dormir-1451853' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-lanza-sos-desesperado-usuarios-chatgpt-podrian-tranquilizarse-necesitan-dormir-4309411.jpg?tf=1200x' alt='Sam Altman lanza un SOS desesperado a los usuarios de ChatGPT: "Podrían tranquilizarse, necesitan dormir"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850'>¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-alienigena-4309407.jpg?tf=1200x' alt='¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610'>Cómo saber si una app de la Play Store de Google es fiable y no contiene malware</a></h4>
     <a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Cómo saber si una app de la Play Store de Google es fiable y no contiene malware' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/orange-pi-perfecta-experimentar-linux-precio-realmente-ridiculo-1451807'>Orange Pi es perfecta para experimentar con Linux, y su precio es realmente ridículo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/orange-pi-perfecta-experimentar-linux-precio-realmente-ridiculo-1451807' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='Orange Pi es perfecta para experimentar con Linux, y su precio es realmente ridículo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exjefa-ia-google-gente-realmente-inspira-ia-lenguaje-1448837'>La exjefa de IA de Google: "Lo que a la gente realmente le inspira de la IA es el lenguaje"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/exjefa-ia-google-gente-realmente-inspira-ia-lenguaje-1448837' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cassie-kozyrkov-4309177.jpg?tf=1200x' alt='La exjefa de IA de Google: "Lo que a la gente realmente le inspira de la IA es el lenguaje"' />
     </a>
 </div>
 
