@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850'>¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-alienigena-4309407.jpg?tf=1200x' alt='¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ceo-tesla-advierte-ia-no-podemos-crear-algo-no-podamos-apagar-1451836'>Elon Musk, CEO de Tesla, advierte sobre la IA: "No podemos crear algo que no podamos apagar"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ceo-tesla-advierte-ia-no-podemos-crear-algo-no-podamos-apagar-1451836' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quien-lidera-departamento-eficiencia-gubernamental-doge-4295298.jpg?tf=1200x' alt='Elon Musk, CEO de Tesla, advierte sobre la IA: "No podemos crear algo que no podamos apagar"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/exjefa-ia-google-gente-realmente-inspira-ia-lenguaje-1448837'>La exjefa de IA de Google: "Lo que a la gente realmente le inspira de la IA es el lenguaje"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/exjefa-ia-google-gente-realmente-inspira-ia-lenguaje-1448837' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cassie-kozyrkov-4309177.jpg?tf=1200x' alt='La exjefa de IA de Google: "Lo que a la gente realmente le inspira de la IA es el lenguaje"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/redes/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-1451816'>Este hilo viral sobre la carretera que sube hasta el cielo intenta descubrir dónde está el truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/redes/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-1451816' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-4309361.jpg?tf=1200x' alt='Este hilo viral sobre la carretera que sube hasta el cielo intenta descubrir dónde está el truco' />
     </a>
 </div>
 
