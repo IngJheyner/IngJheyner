@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/investigadores-ia-alertan-inminente-peligro-estamos-camino-equivocado-1451889'>Investigadores de la IA alertan de un inminente peligro: "Estamos en el camino equivocado"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/investigadores-ia-alertan-inminente-peligro-estamos-camino-equivocado-1451889' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/inteligencia-artificial-poblacion-3705392.jpg?tf=1200x' alt='Investigadores de la IA alertan de un inminente peligro: "Estamos en el camino equivocado"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-sony-estas-gafas-vr-son-potentes-puedes-usar-pc-1451905'>Ni Meta ni Sony: estas gafas VR son las más potentes que puedes usar sin PC</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-sony-estas-gafas-vr-son-potentes-puedes-usar-pc-1451905' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pico-4-ultra-4301612.jpg?tf=1200x' alt='Ni Meta ni Sony: estas gafas VR son las más potentes que puedes usar sin PC' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tv/nuevos-cambios-tdt-ya-emite-primer-canal-autonomico-4k-1451864'>Nuevos cambios en la TDT: ya emite el primer canal autonómico en 4K</a></h4>
     <a href='https://computerhoy.20minutos.es/tv/nuevos-cambios-tdt-ya-emite-primer-canal-autonomico-4k-1451864' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tdt-4k-4309466.jpg?tf=1200x' alt='Nuevos cambios en la TDT: ya emite el primer canal autonómico en 4K' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851'>La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hija-elon-musk-4309424.jpg?tf=1200x' alt='La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"' />
     </a>
 </div>
 
