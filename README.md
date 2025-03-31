@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tutoriales/elementos-seguridad-todo-windows-deberia-tener-no-usas-estas-gritando-hackea-mi-sistema-1449577'>Elementos de seguridad que todo Windows debería tener: si no los usas estás gritando “hackea mi sistema”</a></h4>
+    <a href='https://computerhoy.20minutos.es/tutoriales/elementos-seguridad-todo-windows-deberia-tener-no-usas-estas-gritando-hackea-mi-sistema-1449577' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metodos-seguridad-windows-11-4305746.jpg?tf=1200x' alt='Elementos de seguridad que todo Windows debería tener: si no los usas estás gritando “hackea mi sistema”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/windows-10-muere-he-cambiado-chromeos-alternativa-gratis-google-merece-mucho-pena-1449449'>Windows 10 se muere: he cambiado a ChromeOS, la alternativa gratis de Google, y merece mucho la pena</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/windows-10-muere-he-cambiado-chromeos-alternativa-gratis-google-merece-mucho-pena-1449449' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-muere-he-cambiado-chromeos-alternativa-gratis-google-merece-mucho-pena-4305722.jpg?tf=1200x' alt='Windows 10 se muere: he cambiado a ChromeOS, la alternativa gratis de Google, y merece mucho la pena' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808'>Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "Ha hecho cosas significantes"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/elon-musk-nombra-tres-personas-inteligentes-archienemigo-jeff-bezos-1451808' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-nombra-tres-personas-inteligentes-ha-conocido-dos-ellas-son-archienemigos-4309351.jpg?tf=1200x' alt='Elon Musk nombra a las tres personas más inteligentes, y una de ellas es un archienemigo: "Ha hecho cosas significantes"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/hogar/samsung-aspiradora-pantalla-te-avisa-mensajes-llamadas-entrantes-1451803'>Samsung lanza una aspiradora con pantalla que te avisa de los mensajes y las llamadas entrantes</a></h4>
     <a href='https://computerhoy.20minutos.es/hogar/samsung-aspiradora-pantalla-te-avisa-mensajes-llamadas-entrantes-1451803' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/samsung-lanza-aspirador-pantalla-te-avisa-mensajes-llamadas-entrantes-4309318.jpg?tf=1200x' alt='Samsung lanza una aspiradora con pantalla que te avisa de los mensajes y las llamadas entrantes' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/linux-retro-consola-portatil-bolsillo-precio-increiblemente-1451749'>Linux y retro: esta consola portátil cabe en el bolsillo y su precio es increíblemente bajo</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/linux-retro-consola-portatil-bolsillo-precio-increiblemente-1451749' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/anbernic-rg35xx-h-4309221.jpg?tf=1200x' alt='Linux y retro: esta consola portátil cabe en el bolsillo y su precio es increíblemente bajo' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/internet/javier-tebas-amenaza-rae-denunciarla-compartes-ip-pirateria-1451799'>Javier Tebas se viene arriba y amenaza a la RAE con denunciarla: "Compartes tu IP con la piratería"</a></h4>
-    <a href='https://computerhoy.20minutos.es/internet/javier-tebas-amenaza-rae-denunciarla-compartes-ip-pirateria-1451799' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/javier-tebas-viene-arriba-amenaza-rae-denunciarla-compartes-ip-pirateria-4309270.jpg?tf=1200x' alt='Javier Tebas se viene arriba y amenaza a la RAE con denunciarla: "Compartes tu IP con la piratería"' />
     </a>
 </div>
 
