@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-sony-estas-gafas-vr-son-potentes-puedes-usar-pc-1451905'>Ni Meta ni Sony: estas gafas VR son las más potentes que puedes usar sin PC</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/ni-meta-ni-sony-estas-gafas-vr-son-potentes-puedes-usar-pc-1451905' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/pico-4-ultra-4301612.jpg?tf=1200x' alt='Ni Meta ni Sony: estas gafas VR son las más potentes que puedes usar sin PC' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/destapa-verdad-despido-sam-altman-openai-tienes-tomartelo-serio-1451888'>Se destapa la verdad sobre el despido de Sam Altman de OpenAI: "Tienes que tomártelo más en serio"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/destapa-verdad-despido-sam-altman-openai-tienes-tomartelo-serio-1451888' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/despido-sam-altman-openai-4309433.jpg?tf=1200x' alt='Se destapa la verdad sobre el despido de Sam Altman de OpenAI: "Tienes que tomártelo más en serio"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/apple/apple-tiene-serio-problema-ia-parece-no-sabe-solucionarlo-algo-podrido-cupertino-1451899'>Apple tiene un serio problema con la IA, y parece que no sabe solucionarlo: "Algo está podrido en Cupertino"</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/apple-tiene-serio-problema-ia-parece-no-sabe-solucionarlo-algo-podrido-cupertino-1451899' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/07/apple-intelligence-siri-3656462.jpg?tf=1200x' alt='Apple tiene un serio problema con la IA, y parece que no sabe solucionarlo: "Algo está podrido en Cupertino"' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851'>La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/hija-elon-musk-carga-imperio-magnate-tesla-no-compania-coches-estafa-piramidal-1451851' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hija-elon-musk-4309424.jpg?tf=1200x' alt='La hija de Elon Musk carga contra el imperio del magnate: "Tesla no es una compañía de coches, es una estafa piramidal"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-sos-desesperado-usuarios-chatgpt-podrian-tranquilizarse-necesitan-dormir-1451853'>Sam Altman lanza un SOS desesperado a los usuarios de ChatGPT: "Podrían tranquilizarse, necesitan dormir"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-lanza-sos-desesperado-usuarios-chatgpt-podrian-tranquilizarse-necesitan-dormir-1451853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-lanza-sos-desesperado-usuarios-chatgpt-podrian-tranquilizarse-necesitan-dormir-4309411.jpg?tf=1200x' alt='Sam Altman lanza un SOS desesperado a los usuarios de ChatGPT: "Podrían tranquilizarse, necesitan dormir"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850'>¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/podria-ia-alien-manipularte-notes-curiosa-advertencia-fisico-harvard-1451850' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-alienigena-4309407.jpg?tf=1200x' alt='¿Podría una 'IA alien' manipularte sin que lo notes? La curiosa advertencia de este físico de Harvard' />
     </a>
 </div>
 
