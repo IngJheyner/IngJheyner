@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-1451985'>Aseguran que Elon Musk ha robado el nombre Grok: "¿Te ha comprado Elon? ¡Felicidades!"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-1451985' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-4309683.jpg?tf=1200x' alt='Aseguran que Elon Musk ha robado el nombre Grok: "¿Te ha comprado Elon? ¡Felicidades!"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815'>Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-4309363.jpg?tf=1200x' alt='Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915'>Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-4309500.jpg?tf=1200x' alt='Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-1451933'>Experto consigue hacer funcionar la IA en Windows 98: "Podríamos llevar 30 años hablando con los ordenadores"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-1451933' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-4309609.jpg?tf=1200x' alt='Experto consigue hacer funcionar la IA en Windows 98: "Podríamos llevar 30 años hablando con los ordenadores"' />
     </a>
 </div>
 
