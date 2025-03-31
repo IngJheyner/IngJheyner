@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ceo-tesla-advierte-ia-no-podemos-crear-algo-no-podamos-apagar-1451836'>Elon Musk, CEO de Tesla, advierte sobre la IA: "No podemos crear algo que no podamos apagar"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/elon-musk-ceo-tesla-advierte-ia-no-podemos-crear-algo-no-podamos-apagar-1451836' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/02/elon-musk-quien-lidera-departamento-eficiencia-gubernamental-doge-4295298.jpg?tf=1200x' alt='Elon Musk, CEO de Tesla, advierte sobre la IA: "No podemos crear algo que no podamos apagar"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610'>Cómo saber si una app de la Play Store de Google es fiable y no contiene malware</a></h4>
     <a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Cómo saber si una app de la Play Store de Google es fiable y no contiene malware' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/redes/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-1451816'>Este hilo viral sobre la carretera que sube hasta el cielo intenta descubrir dónde está el truco</a></h4>
     <a href='https://computerhoy.20minutos.es/redes/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-1451816' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-4309361.jpg?tf=1200x' alt='Este hilo viral sobre la carretera que sube hasta el cielo intenta descubrir dónde está el truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-todavia-sigue-asombrandome-cosas-como-estas-1448050'>Utilizo ChatGPT desde el primer día, y todavía sigue asombrándome con cosas como estas</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-todavia-sigue-asombrandome-cosas-como-estas-1448050' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funciones-utiles-chatgpt-4303254.jpg?tf=1200x' alt='Utilizo ChatGPT desde el primer día, y todavía sigue asombrándome con cosas como estas' />
     </a>
 </div>
 
