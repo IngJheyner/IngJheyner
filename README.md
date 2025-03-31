@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815'>Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)</a></h4>
+    <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-4309363.jpg?tf=1200x' alt='Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/he-probado-meta-ia-circulo-azul-whatsapp-prefiriendo-chatgpt-1451987'>He probado a fondo Meta IA, el círculo azul de WhatsApp, y sigo prefiriendo ChatGPT</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/he-probado-meta-ia-circulo-azul-whatsapp-prefiriendo-chatgpt-1451987' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metaai-whatsapp-4309624.jpg?tf=1200x' alt='He probado a fondo Meta IA, el círculo azul de WhatsApp, y sigo prefiriendo ChatGPT' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-1451904'>La IA de Anthropic ha aprendido cosas inesperadas, el CEO ha asegurado que por fin entienden el motivo</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-1451904' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-4309475.jpg?tf=1200x' alt='La IA de Anthropic ha aprendido cosas inesperadas, el CEO ha asegurado que por fin entienden el motivo' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-1451933'>Experto consigue hacer funcionar la IA en Windows 98: "Podríamos llevar 30 años hablando con los ordenadores"</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-1451933' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-4309609.jpg?tf=1200x' alt='Experto consigue hacer funcionar la IA en Windows 98: "Podríamos llevar 30 años hablando con los ordenadores"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/linus-torvalds-enfurecido-uso-codigo-linux-asquerosa-porqueria-tiene-morir-1451926'>Linus Torvalds enfurecido con el uso de este código de Linux: “La asquerosa porquería, esto tiene que *morir*”</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/linus-torvalds-enfurecido-uso-codigo-linux-asquerosa-porqueria-tiene-morir-1451926' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-torvalds-molesto-linux-4309494.jpg?tf=1200x' alt='Linus Torvalds enfurecido con el uso de este código de Linux: “La asquerosa porquería, esto tiene que *morir*”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-bateria-no-necesita-cargarse-sueno-movil-infinito-cada-vez-cerca-1451869'>Científicos crean una batería que no necesita cargarse: el sueño del móvil infinito cada vez más cerca</a></h4>
-    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-bateria-no-necesita-cargarse-sueno-movil-infinito-cada-vez-cerca-1451869' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-betavolcaica-4309456.jpg?tf=1200x' alt='Científicos crean una batería que no necesita cargarse: el sueño del móvil infinito cada vez más cerca' />
     </a>
 </div>
 
