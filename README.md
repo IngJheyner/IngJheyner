@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915'>Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-4309500.jpg?tf=1200x' alt='Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-1451933'>Experto consigue hacer funcionar la IA en Windows 98: "Podríamos llevar 30 años hablando con los ordenadores"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-1451933' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experto-consigue-hacer-funcionar-ia-windows-98-podriamos-llevar-30-anos-hablando-ordenadores-4309609.jpg?tf=1200x' alt='Experto consigue hacer funcionar la IA en Windows 98: "Podríamos llevar 30 años hablando con los ordenadores"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/pc/linus-torvalds-enfurecido-uso-codigo-linux-asquerosa-porqueria-tiene-morir-1451926'>Linus Torvalds enfurecido con el uso de este código de Linux: “La asquerosa porquería, esto tiene que *morir*”</a></h4>
+    <a href='https://computerhoy.20minutos.es/pc/linus-torvalds-enfurecido-uso-codigo-linux-asquerosa-porqueria-tiene-morir-1451926' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/linux-torvalds-molesto-linux-4309494.jpg?tf=1200x' alt='Linus Torvalds enfurecido con el uso de este código de Linux: “La asquerosa porquería, esto tiene que *morir*”' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-bateria-no-necesita-cargarse-sueno-movil-infinito-cada-vez-cerca-1451869'>Científicos crean una batería que no necesita cargarse: el sueño del móvil infinito cada vez más cerca</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-bateria-no-necesita-cargarse-sueno-movil-infinito-cada-vez-cerca-1451869' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-betavolcaica-4309456.jpg?tf=1200x' alt='Científicos crean una batería que no necesita cargarse: el sueño del móvil infinito cada vez más cerca' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/windows/problema-hackers-eludir-seguridad-windows-defender-1451965'>Tenemos un problema: hackers consigue eludir la seguridad de Windows Defender</a></h4>
     <a href='https://computerhoy.20minutos.es/windows/problema-hackers-eludir-seguridad-windows-defender-1451965' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-entra-windows-defender-4309548.jpg?tf=1200x' alt='Tenemos un problema: hackers consigue eludir la seguridad de Windows Defender' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reconoce-haberse-confundido-hablar-ia-no-cuestion-supervivencia-1451840'>Sam Altman reconoce haberse confundido al hablar de la IA: "No es una cuestión de supervivencia"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/sam-altman-reconoce-haberse-confundido-hablar-ia-no-cuestion-supervivencia-1451840' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/sam-altman-reconoce-haberse-confundido-hablar-ia-no-cuestion-supervivencia-4309388.jpg?tf=1200x' alt='Sam Altman reconoce haberse confundido al hablar de la IA: "No es una cuestión de supervivencia"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-solo-imagenes-estilo-estudio-ghibli-tambien-puedes-crear-videos-gratis-truco-1451908'>ChatGPT: no solo imágenes estilo Estudio Ghibli, también puedes crear vídeos gratis con este truco</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-solo-imagenes-estilo-estudio-ghibli-tambien-puedes-crear-videos-gratis-truco-1451908' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/video-chatgpt-4309497.jpg?tf=1200x' alt='ChatGPT: no solo imágenes estilo Estudio Ghibli, también puedes crear vídeos gratis con este truco' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/ya-tenemos-nuevo-truco-omitir-crear-cuenta-microsoft-instalar-windows-11-1451935'>Ya tenemos nuevo truco para omitir crear una cuenta de Microsoft para instalar Windows 11</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/ya-tenemos-nuevo-truco-omitir-crear-cuenta-microsoft-instalar-windows-11-1451935' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/no-iniciar-sesion-windows-11-4309510.jpg?tf=1200x' alt='Ya tenemos nuevo truco para omitir crear una cuenta de Microsoft para instalar Windows 11' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/life/elon-musk-reparte-cheques-gigantes-1-millon-dolares-asegura-podria-afectar-todo-destino-humanidad-1451897'>Elon Musk reparte cheques gigantes de 1 millón de dólares y asegura que "podría afectar a todo el destino de la humanidad"</a></h4>
-    <a href='https://computerhoy.20minutos.es/life/elon-musk-reparte-cheques-gigantes-1-millon-dolares-asegura-podria-afectar-todo-destino-humanidad-1451897' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/elon-musk-entrega-cheque-millon-dolares-4309480.jpg?tf=1200x' alt='Elon Musk reparte cheques gigantes de 1 millón de dólares y asegura que "podría afectar a todo el destino de la humanidad"' />
     </a>
 </div>
 
