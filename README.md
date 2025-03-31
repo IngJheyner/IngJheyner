@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-1451904'>La IA de Anthropic ha aprendido cosas inesperadas, el CEO ha asegurado que por fin entienden el motivo</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-1451904' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/ia-anthropic-ha-aprendido-cosas-inesperadas-ceo-ha-asegurado-fin-entienden-motivo-4309475.jpg?tf=1200x' alt='La IA de Anthropic ha aprendido cosas inesperadas, el CEO ha asegurado que por fin entienden el motivo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915'>Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-1451915' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/errores-debes-evitar-chatgpt-conseguir-mejores-imagenes-estilo-estudio-ghibli-4309500.jpg?tf=1200x' alt='Errores que debes evitar en ChatGPT para conseguir las mejores imágenes estilo Estudio Ghibli' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-bateria-no-necesita-cargarse-sueno-movil-infinito-cada-vez-cerca-1451869'>Científicos crean una batería que no necesita cargarse: el sueño del móvil infinito cada vez más cerca</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/cientificos-crean-bateria-no-necesita-cargarse-sueno-movil-infinito-cada-vez-cerca-1451869' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/bateria-betavolcaica-4309456.jpg?tf=1200x' alt='Científicos crean una batería que no necesita cargarse: el sueño del móvil infinito cada vez más cerca' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/windows/problema-hackers-eludir-seguridad-windows-defender-1451965'>Tenemos un problema: hackers consigue eludir la seguridad de Windows Defender</a></h4>
-    <a href='https://computerhoy.20minutos.es/windows/problema-hackers-eludir-seguridad-windows-defender-1451965' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hacker-entra-windows-defender-4309548.jpg?tf=1200x' alt='Tenemos un problema: hackers consigue eludir la seguridad de Windows Defender' />
     </a>
 </div>
 
