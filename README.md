@@ -50,41 +50,41 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610'>Cómo saber si una app de la Play Store de Google es fiable y no contiene malware</a></h4>
+    <a href='https://computerhoy.20minutos.es/android/como-saber-app-play-store-google-fiable-no-contiene-malware-1416610' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/11/google-play-store-apps-malware-movil-4257808.jpg?tf=1200x' alt='Cómo saber si una app de la Play Store de Google es fiable y no contiene malware' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/recomendados/orange-pi-perfecta-experimentar-linux-precio-realmente-ridiculo-1451807'>Orange Pi es perfecta para experimentar con Linux, y su precio es realmente ridículo</a></h4>
+    <a href='https://computerhoy.20minutos.es/recomendados/orange-pi-perfecta-experimentar-linux-precio-realmente-ridiculo-1451807' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/orange-pi-3b-3291623.jpg?tf=1200x' alt='Orange Pi es perfecta para experimentar con Linux, y su precio es realmente ridículo' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/exjefa-ia-google-gente-realmente-inspira-ia-lenguaje-1448837'>La exjefa de IA de Google: "Lo que a la gente realmente le inspira de la IA es el lenguaje"</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/exjefa-ia-google-gente-realmente-inspira-ia-lenguaje-1448837' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/cassie-kozyrkov-4309177.jpg?tf=1200x' alt='La exjefa de IA de Google: "Lo que a la gente realmente le inspira de la IA es el lenguaje"' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/redes/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-1451816'>Este hilo viral sobre la carretera que sube hasta el cielo intenta descubrir dónde está el truco</a></h4>
+    <a href='https://computerhoy.20minutos.es/redes/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-1451816' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/hilo-viral-carretera-sube-cielo-intenta-descubrir-donde-truco-4309361.jpg?tf=1200x' alt='Este hilo viral sobre la carretera que sube hasta el cielo intenta descubrir dónde está el truco' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-todavia-sigue-asombrandome-cosas-como-estas-1448050'>Utilizo ChatGPT desde el primer día, y todavía sigue asombrándome con cosas como estas</a></h4>
     <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-todavia-sigue-asombrandome-cosas-como-estas-1448050' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/funciones-utiles-chatgpt-4303254.jpg?tf=1200x' alt='Utilizo ChatGPT desde el primer día, y todavía sigue asombrándome con cosas como estas' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/experta-whatsapp-desvela-truco-oculto-hacer-capturas-pantalla-200-no-conoces-1449853'>Experta en WhatsApp desvela el truco oculto para hacer capturas de pantalla: "Al 200% que no lo conoces"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/experta-whatsapp-desvela-truco-oculto-hacer-capturas-pantalla-200-no-conoces-1449853' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/experta-whatsapp-desvela-truco-oculto-hacer-capturas-pantalla-200-no-conoces-4306190.jpg?tf=1200x' alt='Experta en WhatsApp desvela el truco oculto para hacer capturas de pantalla: "Al 200% que no lo conoces"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-convence-profesores-sencillo-motivo-no-capaz-sentir-1451531'>ChatGPT no convence a los profesores por un sencillo motivo: “No es capaz de sentir”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/chatgpt-no-convence-profesores-sencillo-motivo-no-capaz-sentir-1451531' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/chatgpt-no-convence-profesores-sencillo-motivo-no-capaz-sentir-4308893.jpg?tf=1200x' alt='ChatGPT no convence a los profesores por un sencillo motivo: “No es capaz de sentir”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tutoriales/elementos-seguridad-todo-windows-deberia-tener-no-usas-estas-gritando-hackea-mi-sistema-1449577'>Elementos de seguridad que todo Windows debería tener: si no los usas estás gritando “hackea mi sistema”</a></h4>
-    <a href='https://computerhoy.20minutos.es/tutoriales/elementos-seguridad-todo-windows-deberia-tener-no-usas-estas-gritando-hackea-mi-sistema-1449577' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/metodos-seguridad-windows-11-4305746.jpg?tf=1200x' alt='Elementos de seguridad que todo Windows debería tener: si no los usas estás gritando “hackea mi sistema”' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/pc/windows-10-muere-he-cambiado-chromeos-alternativa-gratis-google-merece-mucho-pena-1449449'>Windows 10 se muere: he cambiado a ChromeOS, la alternativa gratis de Google, y merece mucho la pena</a></h4>
-    <a href='https://computerhoy.20minutos.es/pc/windows-10-muere-he-cambiado-chromeos-alternativa-gratis-google-merece-mucho-pena-1449449' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/windows-10-muere-he-cambiado-chromeos-alternativa-gratis-google-merece-mucho-pena-4305722.jpg?tf=1200x' alt='Windows 10 se muere: he cambiado a ChromeOS, la alternativa gratis de Google, y merece mucho la pena' />
     </a>
 </div>
 
