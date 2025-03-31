@@ -50,6 +50,22 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/descubren-biblioteca-secreta-sombra-entrenar-inteligencia-artificial-1452045'>Descubren una biblioteca secreta en la sombra para entrenar a la inteligencia artificial</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/descubren-biblioteca-secreta-sombra-entrenar-inteligencia-artificial-1452045' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/inteligencia-artificial-4309717.jpg?tf=1200x' alt='Descubren una biblioteca secreta en la sombra para entrenar a la inteligencia artificial' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciencia/ciencia-confirma-viajes-tiempo-son-posibles-ya-hemos-hecho-1452041'>La ciencia confirma que los viajes en el tiempo son posibles y que ya los hemos hecho</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciencia/ciencia-confirma-viajes-tiempo-son-posibles-ya-hemos-hecho-1452041' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/viajar-tiempo-4309710.jpg?tf=1200x' alt='La ciencia confirma que los viajes en el tiempo son posibles y que ya los hemos hecho' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021'>Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tv-stick-4309674.jpg?tf=1200x' alt='Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress' />
@@ -69,22 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/entretenimiento/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-1451818'>Nadie lo esperaba, pero arrasa en Prime Video la película que trae de vuelta a una de las estrellas olvidadas de los 90</a></h4>
     <a href='https://computerhoy.20minutos.es/entretenimiento/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-1451818' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/nadie-esperaba-pero-arrasa-prime-video-pelicula-trae-vuelta-estrellas-olvidadas-90-4309366.jpg?tf=1200x' alt='Nadie lo esperaba, pero arrasa en Prime Video la película que trae de vuelta a una de las estrellas olvidadas de los 90' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-1451985'>Aseguran que Elon Musk ha robado el nombre Grok: "¿Te ha comprado Elon? ¡Felicidades!"</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-1451985' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/aseguran-elon-musk-ha-robado-nombre-grok-te-ha-comprado-elon-felicidades-4309683.jpg?tf=1200x' alt='Aseguran que Elon Musk ha robado el nombre Grok: "¿Te ha comprado Elon? ¡Felicidades!"' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815'>Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)</a></h4>
-    <a href='https://computerhoy.20minutos.es/entretenimiento/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-1451815' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/acaba-llegar-prime-video-mejores-thrillers-80-casi-nadie-conoce-4309363.jpg?tf=1200x' alt='Acaba de llegar a Prime Video: así es una de los mejores thrillers de los 80 (y que casi nadie conoce)' />
     </a>
 </div>
 
