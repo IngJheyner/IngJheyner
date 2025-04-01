@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-llamadas-prefijo-44-vuelve-espana-peligrosa-estafa-1452119'>¿Recibes llamadas con el prefijo +44? Vuelve a España esta peligrosa estafa</a></h4>
+    <a href='https://computerhoy.20minutos.es/ciberseguridad/recibes-llamadas-prefijo-44-vuelve-espana-peligrosa-estafa-1452119' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estafa-trabajo-sonado-4301036.jpg?tf=1200x' alt='¿Recibes llamadas con el prefijo +44? Vuelve a España esta peligrosa estafa' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069'>El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"</a></h4>
     <a href='https://computerhoy.20minutos.es/life/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-1452069' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/cocreador-adolescencia-netflix-acusa-elon-musk-desinformacion-absurda-4309759.jpg?tf=1200x' alt='El cocreador de Adolescencia de Netflix acusa a Elon Musk de desinformación "absurda"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-union-europea-1451388'>Adiós a Windows en Europa: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público</a></h4>
     <a href='https://computerhoy.20minutos.es/pc/eu-os-sistema-operativo-linux-union-europea-1451388' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/eu-os-linux-4309805.jpg?tf=1200x' alt='Adiós a Windows en Europa: se presenta EU OS, el nuevo sistema operativo basado en Linux para el sector público' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/tecnologia/amigos-adiccion-ia-puede-curar-soledad-pero-vas-pagar-unas-consecuencias-muy-caras-1452100'>¿Amigos o adicción? La IA puede curar tu soledad, pero vas a pagar unas consecuencias muy caras</a></h4>
-    <a href='https://computerhoy.20minutos.es/tecnologia/amigos-adiccion-ia-puede-curar-soledad-pero-vas-pagar-unas-consecuencias-muy-caras-1452100' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/12/antiguo-ceo-google-inteligencia-artificial-puede-ser-peligro-adolescentes-enamoren-ella-provocar-obsesion-soledad-4268776.jpg?tf=1200x' alt='¿Amigos o adicción? La IA puede curar tu soledad, pero vas a pagar unas consecuencias muy caras' />
     </a>
 </div>
 
