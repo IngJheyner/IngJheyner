@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/espacio/mision-fram2-millonario-criptomonedas-contrata-spacex-viaje-espacial-1452347'>De polo a polo: un millonario de las criptomonedas contrata a SpaceX para un viaje espacial nunca visto</a></h4>
+    <a href='https://computerhoy.20minutos.es/espacio/mision-fram2-millonario-criptomonedas-contrata-spacex-viaje-espacial-1452347' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/polo-polo-millonario-criptomonedas-contrata-spacex-viaje-espacial-nunca-visto-4310157.jpg?tf=1200x' alt='De polo a polo: un millonario de las criptomonedas contrata a SpaceX para un viaje espacial nunca visto' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/recomendados/locura-precio-samsung-smartwatch-galaxy-watch7-menos-200-euros-1452294'>Locura de precio de Samsung: su smartwatch Galaxy Watch7 por menos de 200 euros</a></h4>
     <a href='https://computerhoy.20minutos.es/recomendados/locura-precio-samsung-smartwatch-galaxy-watch7-menos-200-euros-1452294' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/08/samsung-galaxy-watch-7-3883621.jpg?tf=1200x' alt='Locura de precio de Samsung: su smartwatch Galaxy Watch7 por menos de 200 euros' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/apple/filtrada-lista-iphone-seran-compatibles-ios-19-lista-1452318'>Filtrada la lista de los iPhone que serán compatibles con iOS 19: ¿el tuyo está en la lista?</a></h4>
     <a href='https://computerhoy.20minutos.es/apple/filtrada-lista-iphone-seran-compatibles-ios-19-lista-1452318' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/ios-19-4310148.jpg?tf=1200x' alt='Filtrada la lista de los iPhone que serán compatibles con iOS 19: ¿el tuyo está en la lista?' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/apps/bombazo-bizum-rompe-todas-limitaciones-pagos-internacionales-1452311'>Bombazo en Bizum, rompe todas las limitaciones con la funcionalidad más esperada</a></h4>
-    <a href='https://computerhoy.20minutos.es/apps/bombazo-bizum-rompe-todas-limitaciones-pagos-internacionales-1452311' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/bombazo-bizum-rompe-todas-limitaciones-funcionalidad-esperada-4310123.jpg?tf=1200x' alt='Bombazo en Bizum, rompe todas las limitaciones con la funcionalidad más esperada' />
     </a>
 </div>
 
