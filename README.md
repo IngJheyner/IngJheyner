@@ -50,6 +50,14 @@
 <div id="noticie-technology">
   
 <div id="noticie-technology__items">
+    <h4><a href='https://computerhoy.20minutos.es/tecnologia/estudiante-resuelve-enigma-hace-40-anos-podria-hacer-internet-sea-mucho-rapido-1451845'>Un estudiante resuelve un enigma de hace 40 años que podría hacer que internet sea mucho más rápido</a></h4>
+    <a href='https://computerhoy.20minutos.es/tecnologia/estudiante-resuelve-enigma-hace-40-anos-podria-hacer-internet-sea-mucho-rapido-1451845' target='_blank'>
+        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/estudiante-4309413.jpg?tf=1200x' alt='Un estudiante resuelve un enigma de hace 40 años que podría hacer que internet sea mucho más rápido' />
+    </a>
+</div>
+
+
+<div id="noticie-technology__items">
     <h4><a href='https://computerhoy.20minutos.es/ciberseguridad/union-europea-vpn-suponen-desafio-aplicar-ley-1452057'>La Unión Europea va a por las VPN: "Suponen un desafío para aplicar la ley"</a></h4>
     <a href='https://computerhoy.20minutos.es/ciberseguridad/union-europea-vpn-suponen-desafio-aplicar-ley-1452057' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/04/union-europea-va-vpn-suponen-desafio-aplicar-ley-4309735.jpg?tf=1200x' alt='La Unión Europea va a por las VPN: "Suponen un desafío para aplicar la ley"' />
@@ -77,14 +85,6 @@
     <h4><a href='https://computerhoy.20minutos.es/ciencia/ciencia-confirma-viajes-tiempo-son-posibles-ya-hemos-hecho-1452041'>La ciencia confirma que los viajes en el tiempo son posibles y que ya los hemos hecho</a></h4>
     <a href='https://computerhoy.20minutos.es/ciencia/ciencia-confirma-viajes-tiempo-son-posibles-ya-hemos-hecho-1452041' target='_blank'>
         <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/viajar-tiempo-4309710.jpg?tf=1200x' alt='La ciencia confirma que los viajes en el tiempo son posibles y que ya los hemos hecho' />
-    </a>
-</div>
-
-
-<div id="noticie-technology__items">
-    <h4><a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021'>Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress</a></h4>
-    <a href='https://computerhoy.20minutos.es/recomendados/barato-firestick-android-4k-alternativa-china-arrasa-aliexpress-1452021' target='_blank'>
-        <img width='30%' src='https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2025/03/tv-stick-4309674.jpg?tf=1200x' alt='Más barato que el Firestick y con Android 4K: esta alternativa china arrasa en AliExpress' />
     </a>
 </div>
 
